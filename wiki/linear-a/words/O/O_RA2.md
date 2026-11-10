@@ -59,6 +59,6 @@ di Mino; DULAT; Lane; Pagan 1998
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT6a\|HT6a]] | Haghia Triada | Tablet | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/HT/HT/HT6a\|HT6a]] | Haghia Triada | Tablet | incomplete; form not in transliteration |
 
 <!-- END kaphtor:record -->

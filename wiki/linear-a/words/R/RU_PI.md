@@ -41,7 +41,7 @@ updated: 2026-11-04T13:20:00Z
 
 ### Note
 
-PE 2 .2 RU-PI, then a damaged mark and ⅓, before SA-\*305-MI 1⅛. rōpiʾ 'healer', the active participle of √r-p-ʾ (semitic_roots K0355), U for ō as in \*47-KU-NA sōkina, the final ʾ unwritten. A-RI-PA ʾaripāʾ, of the same root, stands on the tablet. Weak point: the damaged mark after PI may be a lost sign. One attestation. See A-RI-PA and A-RE-PI-RE-NA.
+PE 2 .2 RU-PI, then a damaged mark and ⅓, before SA-\*305-MI 1⅛. rōpiʾ 'healer', the active participle of √r-p-ʾ (semitic_roots K0355), U for ō as in \*47-KU-NA sōkuna, the final ʾ unwritten. A-RI-PA ʾaripāʾ, of the same root, stands on the tablet. Weak point: the damaged mark after PI may be a lost sign. One attestation. See A-RI-PA and A-RE-PI-RE-NA.
 
 ### Cognates
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/s/4254_to_be_stubborn_rebellious_1_to_be_unreliable_fal
 title: "*srr: 'to be stubborn, rebellious' 1, 'to be unreliable, false' 2"
-desc: "Proto-Semitic *srr, 'to be stubborn, rebellious' 1, 'to be unreliable, false' 2: reflexes in 3 language(s)."
+desc: "Proto-Semitic *srr, 'to be stubborn, rebellious' 1, 'to be unreliable, false' 2: reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "4254"
@@ -30,6 +30,7 @@ updated: 2026-11-04T02:29:02Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | סרר 1 (HALOT 770); סָרָה 1, 2 (HALOT 769) | HALOT 770; HALOT 769 | gloss withheld |
+| Ugaritic | /sarru/ 2 (UVST 158) | UVST 158 | gloss withheld |
 | Akkadian | sarāru 2 (CAD S 174); sartu 2 (CAD S 186) | CAD S 174; CAD S 186 | gloss withheld |
 | Eblaitic | /sarrār/ 1: names za-la-li, za-la-rúm (Sanmartín GlOS 2, 207) | Sanmartín GlOS 2, 207 | gloss withheld |
 

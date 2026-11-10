@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/w/4372_to_oppress_cheat_1_to_be_weak_2
 title: "*wny: 'to oppress, cheat' 1, 'to be weak' 2"
-desc: "Proto-Semitic *wny, 'to oppress, cheat' 1, 'to be weak' 2: reflexes in 4 language(s)."
+desc: "Proto-Semitic *wny, 'to oppress, cheat' 1, 'to be weak' 2: reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "4372"
@@ -33,6 +33,9 @@ updated: 2026-11-04T14:00:32Z
 | Judaic Aramaic | ynh af. 1 (HALOT 416) | HALOT 416 | gloss withheld |
 | Arabic | wanā 2 (HALOT 416) | HALOT 416 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic wny 2 (Al-Jallad–Jaworska 140) | Al-Jallad–Jaworska 140 | gloss withheld |
+| Ugaritic | yny N (DULAT 957) | DULAT 957 | gloss withheld |
+| Akkadian | wanāʔum 1 (CAD U/W 402 apud DULAT 957) | CAD U/W 402; DULAT 957 | gloss withheld |
+| Aramaic | Old Aramaic yny haf. 1 (DNWSI 461 apud DULAT 957) | DNWSI 461; DULAT 957 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

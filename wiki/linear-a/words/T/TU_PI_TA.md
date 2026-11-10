@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-POR Zf 2 (Poros Herakleiou): a single word stamped on a bronze object, an authority token or judicial seal. ṯāpiṭu 'judge': Ug. ṯpṭ, Yamm's epithet ṯpṭ nhr 'Judge River'; Heb. šōpēṭ 'judge' (√š-p-ṭ, ṯ &gt; š); Arb. ṣabiṭ. TU writes ṯ in the T-series, as KA-TA-RE writes it with TA (di Mino, Ya Diktu 16–17 n. 27); TA writes ṭ. One attestation.
+POR Zf 2 (Poros Herakleiou): a single word stamped on a bronze object, an authority token or judicial seal. ṯāpiṭu 'judge': Ug. ṯpṭ, Yamm's epithet ṯpṭ nhr 'Judge River'; Heb. šōpēṭ 'judge' (√š-p-ṭ, ṯ &gt; š); Arb. ṣabiṭ. TU writes ṯ in the T-series (di Mino, Ya Diktu 16–17 n. 27); TA writes ṭ. One attestation.
 
 ### Cognates
 

@@ -31,7 +31,7 @@ updated: 2026-11-04T14:00:32Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | kull 1; ʔiklīl- 3 (BK 2 919); kll II, V 3 (HALOT 480) | BK 2 919; HALOT 480 | gloss withheld |
-| Akkadian | kalû 1; kullatu, OA kulu 1 (HALOT 474); kullulu 3 (HALOT 480); kilīlu 3 (CAD K 358) | HALOT 474; HALOT 480; CAD K 358 | gloss withheld |
+| Akkadian | kalû 1; kullatu, OA kulu 1 (HALOT 474); kullulu 3 (HALOT 480); kilīlu 3 (CAD K 358); šuklulu 2 (CAD Š/3 221) | HALOT 474; HALOT 480; CAD K 358; CAD Š/3 221 | gloss withheld |
 | Geez | kʷǝllu 1; kallala 3 (HALOT 480) | HALOT 480 | gloss withheld |
 | Epigraphic South Arabian | Sab kll 1 (SD 77; Biella 247; Sabaweb lemma 1223); kl 1 (SD 77; Hadramitic, Minaic, Qatabanic, Sabaic; Sabaweb lemma 1223) | SD 77; Biella 247; Sabaweb lemma 1223 | gloss withheld |
 | Ugaritic | kl 1 (DULAT 432); kll 1 (CUC; DULAT 435) | DULAT 432; CUC; DULAT 435 | gloss withheld |

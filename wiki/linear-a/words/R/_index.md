@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/R
 desc: "Words whose first sign begins with R."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-09T22:54:30Z
+updated: 2026-11-10T17:23:44Z
 ---
 
 # wiki/linear-a/words/R
@@ -115,7 +115,7 @@ updated: 2026-11-09T22:54:30Z
 
 [[wiki/linear-a/words/R/RU_NA|RU_NA]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/R/RU_NI|RU_NI]]: Unread (unread): no role; 1 occurrence(s).
+[[wiki/linear-a/words/R/RU_NI|RU_NI]]: Runni: personal name, 'Jubilation'; rival 'the crier', Dīnāyu's trade. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/R/RU_PI|RU_PI]]: rōpiʾ: healer (active participle of √r-p-ʾ), a counted entry. Lexicon, SPECULATIVE (tier 1).
 

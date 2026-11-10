@@ -58,7 +58,13 @@ di Mino; Gelb 1980; Ilin-Tomich 2025
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT6a\|HT6a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT6a\|HT6a]] | Haghia Triada | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT6a\|HT6a]] | Pitaya | personal name, 24 | SPECULATIVE |
 
 ## Onomasticon
 

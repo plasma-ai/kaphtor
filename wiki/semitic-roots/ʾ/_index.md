@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ʾ
 desc: "Semitic roots whose first radical is ʾ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-11-05T23:44:29Z
+updated: 2026-11-10T05:11:30Z
 ---
 
 # wiki/semitic-roots/ʾ
@@ -77,7 +77,7 @@ updated: 2026-11-05T23:44:29Z
 
 [[wiki/semitic-roots/ʾ/1354_leather_sack|1354_leather_sack]]: Proto-Semitic *ʾil-, 'leather sack': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/ʾ/1355_tremble|1355_tremble]]: Proto-Semitic *ʾ/ḫVrVr-, 'tremble': reflexes in 1 language(s).
+[[wiki/semitic-roots/ʾ/1355_tremble|1355_tremble]]: Proto-Semitic *ʾ/ḫVrVr-, 'tremble': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ʾ/1356_tie_a_knot|1356_tie_a_knot]]: Proto-Semitic *ʾVrib-, 'tie (a knot)': reflexes in 1 language(s).
 
@@ -503,6 +503,8 @@ updated: 2026-11-05T23:44:29Z
 
 [[wiki/semitic-roots/ʾ/451_approach|451_approach]]: Proto-Semitic *ʾVlVm-, 'approach': reflexes in 1 language(s).
 
+[[wiki/semitic-roots/ʾ/4718_lion_1_man_warrior_2|4718_lion_1_man_warrior_2]]: Proto-Semitic *ʔasad-, 'lion' 1, 'man, warrior' 2: reflexes in 3 language(s).
+
 [[wiki/semitic-roots/ʾ/477_go_pass|477_go_pass]]: Proto-Semitic *(ʾV)zVl-, 'go, pass': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/ʾ/491_a_big_stone_indicating_a_road_in_the_desert_1_ro|491_a_big_stone_indicating_a_road_in_the_desert_1_ro]]: Proto-Semitic *ʾurim- (<*ʾury-am-?), 'a big stone indicating a road in the desert' 1, 'road' 2: reflexes in 5 language(s).
@@ -511,7 +513,7 @@ updated: 2026-11-05T23:44:29Z
 
 [[wiki/semitic-roots/ʾ/5_man|5_man]]: Proto-Semitic *ʾiš-, 'man': reflexes in 8 language(s).
 
-[[wiki/semitic-roots/ʾ/639_feel_know_1_be_considerate_show_compassion_2|639_feel_know_1_be_considerate_show_compassion_2]]: Proto-Semitic *ʾVḥi/uš-, 'feel, know' 1, 'be considerate, show compassion' 2: reflexes in 5 language(s).
+[[wiki/semitic-roots/ʾ/639_feel_know_1_be_considerate_show_compassion_2|639_feel_know_1_be_considerate_show_compassion_2]]: Proto-Semitic *ʾVḥi/uš-, 'feel, know' 1, 'be considerate, show compassion' 2: reflexes in 6 language(s).
 
 [[wiki/semitic-roots/ʾ/645_fortified_palace|645_fortified_palace]]: Proto-Semitic *ʾaram-, 'fortified palace': reflexes in 1 language(s).
 
@@ -605,7 +607,7 @@ updated: 2026-11-05T23:44:29Z
 
 [[wiki/semitic-roots/ʾ/K0620_shut|K0620_shut]]: Proto-Semitic *ʾVṭVm-, 'shut': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/ʾ/K0621_go_follow_the_track_trace_place_1_happiness_2|K0621_go_follow_the_track_trace_place_1_happiness_2]]: Proto-Semitic *ʾVṯVr-, 'go, follow the track; trace, place' 1, 'happiness' 2: reflexes in 15 language(s).
+[[wiki/semitic-roots/ʾ/K0621_go_follow_the_track_trace_place_1_happiness_2_wh|K0621_go_follow_the_track_trace_place_1_happiness_2_wh]]: Proto-Semitic *ʾVṯVr-, 'go, follow the track; trace, place' 1, 'happiness' 2, 'who, which' (relative particle) 3: reflexes in 16 language(s).
 
 [[wiki/semitic-roots/ʾ/S104_accusative_object_particle|S104_accusative_object_particle]]: Proto-Semitic *ʾyt, 'accusative/object particle': reflexes in 12 language(s).
 

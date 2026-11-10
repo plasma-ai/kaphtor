@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/298_vessel_1_measure_2_to_hold_contain_3
 title: "*kalVy- ~ *kayl-: 'vessel' 1, 'measure' 2, 'to hold, contain' 3"
-desc: "Proto-Semitic *kalVy- ~ *kayl-, 'vessel' 1, 'measure' 2, 'to hold, contain' 3: reflexes in 8 language(s)."
+desc: "Proto-Semitic *kalVy- ~ *kayl-, 'vessel' 1, 'measure' 2, 'to hold, contain' 3: reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "298"
@@ -38,6 +38,7 @@ updated: 2026-11-04T14:00:32Z
 | Ugaritic | klt 2 (DULAT 436) | DULAT 436 | gloss withheld |
 | Punic | Neo-Punic tklt 3 (Krahmalkov 491) | Krahmalkov 491 | gloss withheld |
 | Akkadian | kullu 3 (CAD K 508) | CAD K 508 | gloss withheld |
+| Emar | ta-kil /takīl(u)/ C 3 (Pentiuc 2001, 177) | Pentiuc 2001 177 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

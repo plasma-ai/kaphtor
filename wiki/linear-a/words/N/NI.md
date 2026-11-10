@@ -60,7 +60,7 @@ di Mino; Neumann 1957, 157–58; Montecchi 2024, 178; Salgarella et al. 2025, 38
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT30\|HT30]] | Haghia Triada | Tablet | none |
-| [[wiki/linear-a/inscriptions/HT/HT/HT6a\|HT6a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT6a\|HT6a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT27a\|HT27a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT28a\|HT28a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT28b\|HT28b]] | Haghia Triada | Tablet | complete |
@@ -131,6 +131,8 @@ di Mino; Neumann 1957, 157–58; Montecchi 2024, 178; Salgarella et al. 2025, 38
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/CR/CRZg/CRZg3\|CRZg3]] | \*nikuleon | figs (?) | CONFIRMED |
+| [[wiki/linear-a/inscriptions/HT/HT/HT6a\|HT6a]] |  | figs, 15 | CONFIRMED |
+| [[wiki/linear-a/inscriptions/HT/HT/HT6a\|HT6a]] |  | figs, 15½ | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT12\|HT12]] | \*nikuleon | figs | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT18\|HT18]] | \*nikuleon | figs | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT27a\|HT27a]] |  | figs | CONFIRMED |

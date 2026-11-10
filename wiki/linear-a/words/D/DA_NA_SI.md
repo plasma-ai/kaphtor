@@ -34,7 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Ḏā-Naśiʾ |
 | Meaning | He of Naśiʾ (personal name heading HT 126a) |
 | Root | ḏ + n-ś-ʾ |
-| Proto-Semitic | \*nśʾ- (#S38) |
+| Proto-Semitic | \*ḏī- (#K0877) + \*nśʾ- (#S38) |
 | Language layer | Semitic |
 | Tags | compound, hapax, personal_name |
 | Semantic field | personal_name |

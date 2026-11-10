@@ -47,6 +47,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_DU_KU_MI_NA\|A-DU-KU-MI-NA]] | ʾAddu-kummina | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_KU_MI_NA\|A-KU-MI-NA]] | ha-kummina | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_MI_DA_U\|A-MI-DA-U]] | ʿAmmī-dāʿ(u) | CANDIDATE |
+| [[wiki/linear-a/words/A/A_MI_JA_RU\|A-MI-JA-RU]] | ʿAmmī-yarūm | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_MI_TA\|A-MI-TA]] | ʾamita | PROBABLE |
 | [[wiki/linear-a/words/A/A_RE_TU_MI\|A-RE-TU-MI]] | ʾarṣ̂-ummī | CANDIDATE |
 | [[wiki/linear-a/words/D/DA_DU_MI_NE\|DA-DU-MI-NE]] | dādu-Mīnō | SPECULATIVE |

@@ -60,6 +60,12 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT6b\|HT6b]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT6b\|HT6b]] | Haghia Triada | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT6b\|HT6b]] | marīrēy | myrrh, 3 | CANDIDATE |
 
 <!-- END kaphtor:record -->

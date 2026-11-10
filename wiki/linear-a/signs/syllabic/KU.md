@@ -54,7 +54,7 @@ No CH ancestor—Linear A innovation, possibly from MM flying bird motif (Ferrar
 
 | Word | Reading | Confidence |
 |---|---|---|
-| [[wiki/linear-a/words/star/star47_KU_NA\|\*47-KU-NA]] | sōkina | SPECULATIVE |
+| [[wiki/linear-a/words/star/star47_KU_NA\|\*47-KU-NA]] | sōkuna | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_DU_KU_MI_NA\|A-DU-KU-MI-NA]] | ʾAddu-kummina | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_JA_KU\|A-JA-KU]] | ʾAyaku | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_KU_JU_PA\|A-KU-JU-PA]] | ʾakulpa | SPECULATIVE |

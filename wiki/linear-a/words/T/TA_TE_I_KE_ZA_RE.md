@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-KN Zf 31, a silver pin from a Mavro Spelio tomb, end of the second row: TI-DI-TE-QA-TI · TA-SA-ZA · TA-TE-I-KẸ-ZA-RE, KE dotted in GORILA IV 154–155, undotted in Younger. TA-TE ṯāt 'which', the feminine relative, ṯ in the T-series as in KA-TA-RE; Ug. d, dt (DULAT 252). I-KE-ZA-RE ʾikezzer 'one curls', present of kezēru 'to curl the hair' (CAD K 316), the verb of EA 14 ii 56, silver spatulas 'with which one curls hair' (i-ke-ez-zi-ru). The root is Akkadian only. I- is the Akkadian-type 3cs prefix, or 1cs ʾi- 'I curl'. ZA has a where Akkadian has i. One attestation. See TI-DI-TE-QA-TI, A-DA-RA and ZA-TI.
+KN Zf 31, a silver pin from a Mavro Spelio tomb, end of the second row: TI-DI-TE-QA-TI · TA-SA-ZA · TA-TE-I-KẸ-ZA-RE, KE dotted in GORILA IV 154–155, undotted in Younger. TA-TE ṯāt 'which', the feminine relative, ṯ in the T-series; Ug. d, dt (DULAT 252). I-KE-ZA-RE ʾikezzer 'one curls', present of kezēru 'to curl the hair' (CAD K 316), the verb of EA 14 ii 56, silver spatulas 'with which one curls hair' (i-ke-ez-zi-ru). The root is Akkadian only. I- is the Akkadian-type 3cs prefix, or 1cs ʾi- 'I curl'. ZA has a where Akkadian has i. One attestation. See TI-DI-TE-QA-TI, A-DA-RA and ZA-TI.
 
 ### Cognates
 

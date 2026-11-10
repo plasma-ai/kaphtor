@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/1566_be_red
 title: "*ḥVmVr-: 'be red'"
-desc: "Proto-Semitic *ḥVmVr-, 'be red': reflexes in 7 language(s)."
+desc: "Proto-Semitic *ḥVmVr-, 'be red': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1566"
@@ -37,6 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Amharic | hamär |  | gloss withheld |
 | Tigrinya | ḥamär |  | gloss withheld |
 | Epigraphic South Arabian | ḥmr-t (?) (LGz. 234) | LGz. 234 | gloss withheld |
+| Ugaritic | ḥmr, of a plant (DULAT 359) | DULAT 359 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/star/star306_TU_JA
 title: "*306-TU-JA"
-desc: "ʿAttuya: personal name, hypocoristic of *306-TU in -ya. Lexicon, SPECULATIVE (tier 1)."
+desc: "ʿAttuya: personal name, ʿAttu with -ya (Hebrew ʿĂtāyāh). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "*306-TU-JA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʿAttuya |
-| Meaning | personal name, hypocoristic of \*306-TU in -ya |
+| Meaning | personal name, ʿAttu with -ya (Hebrew ʿĂtāyāh) |
 | Root | ʿ-t-w |
 | Proto-Semitic | \*ʕtw (#4412) |
 | Language layer | Semitic |
@@ -41,17 +41,21 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 115b \*306-TU-JA 1, whole and undotted, between KU-RU-MA · I ½ and A-Ị-\[··\] 1̣, on a palimpsest (GORILA I 191); \*306+MI stands on the same face. \*306-TU (HT 9a, 9b, 119, 122a) with hypocoristic -ya, cf. Heb. ʿAttay (1 Chr 2:35); the -ya of Amorite ʿAMM-IJA (Gelb 1980, no. 735), as \*306+MI ʿAmmī on the same face. Weak point: -ya is also Hurrian and Akkadian. Rival: a Hurrian name in -ya. One attestation.
+HT 115b \*306-TU-JA 1, whole and undotted, between KU-RU-MA · I ½ and A-Ị-\[··\] 1̣, on a palimpsest (GORILA I 191); \*306+MI stands on the same face. ʿAttuya: \*306-TU ʿAttu (HT 9a, 9b, 119, 122a) with -ya, as Hebrew ʿĂtāyāh beside its short form ʿAttay, and as Amorite ʿAmmīya beside ʿAmmī, the \*306+MI of this face. One attestation. See \*306-TU.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Hebrew | ʿAttay (עַתַּי) (1 Chr 2:35) |
+| Hebrew | ʿĂtāyāh (עֲתָיָה) (Neh 11:4), short form ʿAttay (עַתַּי) (1 Chr 2:35) (HALOT 903); ʿÛtay (עוּתַי) (1 Chr 9:4; Ezra 8:14) (BDB 738–39) |
+| Palmyrene | f. ʿty, Greek Αθθαια (HALOT 903) |
+| Safaitic | ʿty PN, 8 bearers (Harding 1971, 406) |
+| Phoenician-Punic | ʿTʾ (Benz 1972, 388) |
+| Amorite | ʿAMM-IJA, AM-MI-IA, the hypocoristic -iya (Gelb 1980, no. 735) |
 
 ### Source
 
-di Mino
+di Mino; HALOT; BDB; Harding 1971; Benz 1972; Gelb 1980
 
 ## Attestations
 
@@ -79,7 +83,7 @@ di Mino
 
 ### Note
 
-Heb. ʿAttay (1 Chr 2:35); \*306 = ʿa a working value.
+Heb. ʿĂtāyāh (Neh 11:4) beside its short form ʿAttay (1 Chr 2:35); \*306 = ʿa a working value.
 
 ### Co-occurring lexicon words
 

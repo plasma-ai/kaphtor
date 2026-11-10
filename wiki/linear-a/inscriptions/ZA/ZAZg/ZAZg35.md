@@ -9,7 +9,7 @@ site: "Zakros"
 support: "Label"
 period: "LMIA"
 translation: "none"
-words: ["SE-WA-AU-DE"]
+words: ["A-MI-JA-RU", "SE-WA-AU-DE"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -49,6 +49,6 @@ Unicode (Linear A block):
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/S/SE_WA_AU_DE|SE-WA-AU-DE]].
+[[wiki/linear-a/words/A/A_MI_JA_RU|A-MI-JA-RU]], [[wiki/linear-a/words/S/SE_WA_AU_DE|SE-WA-AU-DE]].
 
 <!-- END kaphtor:record -->

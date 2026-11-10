@@ -34,7 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Widd-tiyāmu |
 | Meaning | Beloved of the Deep (title or name) |
 | Root | w-d-d + t-h-m |
-| Proto-Semitic | \*tihām- (#2765) |
+| Proto-Semitic | \*wad- (#993) + \*tihām- (#2765) |
 | Language layer | Semitic |
 | Tags | compound, hapax, personal_name, title |
 | Semantic field | personal_name |

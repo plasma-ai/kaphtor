@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/p
 desc: "Semitic roots whose first radical is p."
 created: 2026-10-22T17:38:31Z
-updated: 2026-11-05T22:08:06Z
+updated: 2026-11-10T05:25:35Z
 ---
 
 # wiki/semitic-roots/p
@@ -223,7 +223,7 @@ updated: 2026-11-05T22:08:06Z
 
 [[wiki/semitic-roots/p/261_onager_wild_ass|261_onager_wild_ass]]: Proto-Semitic *par(a)ʾ-, 'onager, wild ass': reflexes in 8 language(s).
 
-[[wiki/semitic-roots/p/2625_escape_save|2625_escape_save]]: Proto-Semitic *plṭ, 'escape, save': reflexes in 9 language(s).
+[[wiki/semitic-roots/p/2625_escape_save|2625_escape_save]]: Proto-Semitic *plṭ, 'escape, save': reflexes in 10 language(s).
 
 [[wiki/semitic-roots/p/262_horse|262_horse]]: Proto-Semitic *paraš- {} *paras-, 'horse': reflexes in 16 language(s).
 
@@ -411,6 +411,10 @@ updated: 2026-11-05T22:08:06Z
 
 [[wiki/semitic-roots/p/4681_to_pay|4681_to_pay]]: Proto-Semitic *prʕ, 'to pay': reflexes in 2 language(s).
 
+[[wiki/semitic-roots/p/4703_to_shake_stagger|4703_to_shake_stagger]]: Proto-Semitic *pwq ~ *pqq, 'to shake, stagger': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/p/4704_to_assess_judge_1_to_intercede_pray_2|4704_to_assess_judge_1_to_intercede_pray_2]]: Proto-Semitic *pll, 'to assess, judge' 1, 'to intercede, pray' 2: reflexes in 3 language(s).
+
 [[wiki/semitic-roots/p/474_desert|474_desert]]: Proto-Semitic *payp-, 'desert': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/p/500_turn_oneself_go_towards_in_the_direction_of_turn|500_turn_oneself_go_towards_in_the_direction_of_turn]]: Proto-Semitic *pVnVw/y-, 'turn oneself, go towards, in the direction of; turn smo., send, drive, let go': reflexes in 19 language(s).
@@ -483,7 +487,7 @@ updated: 2026-11-05T22:08:06Z
 
 [[wiki/semitic-roots/p/K0246_redeem|K0246_redeem]]: Proto-Semitic *pVdVy-, 'redeem': reflexes in 19 language(s).
 
-[[wiki/semitic-roots/p/K0247_unripe|K0247_unripe]]: Proto-Semitic *pVgVg-, 'unripe': reflexes in 6 language(s).
+[[wiki/semitic-roots/p/K0247_unripe|K0247_unripe]]: Proto-Semitic *pVgVg-, 'unripe': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/p/K0248_spindle_to_process_textiles|K0248_spindle_to_process_textiles]]: Proto-Semitic *pelek-, 'spindle; to process textiles': reflexes in 7 language(s).
 
@@ -505,7 +509,7 @@ updated: 2026-11-05T22:08:06Z
 
 [[wiki/semitic-roots/p/K0274_crush|K0274_crush]]: Proto-Semitic *pVʾVš-, 'crush': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/p/K0281_fear|K0281_fear]]: Proto-Semitic *paḥad-, 'fear': reflexes in 3 language(s).
+[[wiki/semitic-roots/p/K0281_fear|K0281_fear]]: Proto-Semitic *paḥad-, 'fear': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/p/K0284_ensnare|K0284_ensnare]]: Proto-Semitic *paḥaḥ-, 'ensnare': reflexes in 2 language(s).
 

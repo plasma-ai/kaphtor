@@ -49,6 +49,7 @@ Dual-function sign: syllabogram /qe/ (AB78) + metrological logogram QÊ when sta
 | [[wiki/linear-a/words/D/DA_QE_RA\|DA-QE-RA]] | ḏā-Qīra | CANDIDATE |
 | [[wiki/linear-a/words/G/GRA_plus_QE\|GRA+QE]] | qemāḥu | CANDIDATE |
 | [[wiki/linear-a/words/J/JU_plus_star317_plus_QE\|JU+\*317+QE]] |  | CONFIRMED |
+| [[wiki/linear-a/words/K/KA_PA_QE\|KA-PA-QE]] | kapar qē(pu) | SPECULATIVE |
 | [[wiki/linear-a/words/O/OLE_plus_QE_plus_DI\|OLE+QE+DI]] |  | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_NU_QE\|PA-NU-QE]] | Panūq | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_TA_QE\|PA-TA-QE]] | pitqē | CANDIDATE |

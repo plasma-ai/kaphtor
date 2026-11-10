@@ -61,12 +61,13 @@ di Mino; Uchitel 2003; HALOT; Fischer 2002; Huehnergard 2012; Gelb 1980; CAD D; 
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT120\|HT120]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT57a\|HT57a]] | Haghia Triada | Tablet | none |
-| [[wiki/linear-a/inscriptions/HT/HT/HT6a\|HT6a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT6a\|HT6a]] | Haghia Triada | Tablet | incomplete |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT6a\|HT6a]] | ḏā-Qīra | the (district) of Qīr, the walled town; heading of the second section | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT120\|HT120]] | diḳaru | bowl or vessel; perhaps a vessel-account heading | CANDIDATE |
 
 ## Onomasticon

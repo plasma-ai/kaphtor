@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A
 desc: "Words whose first sign begins with A."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-09T22:54:29Z
+updated: 2026-11-10T13:40:38Z
 ---
 
 # wiki/linear-a/words/A
@@ -95,7 +95,7 @@ updated: 2026-11-09T22:54:29Z
 
 [[wiki/linear-a/words/A/A_MI_DA_U|A_MI_DA_U]]: ʿAmmī-dāʿ(u): My kinsman knows (sentence name). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/A/A_MI_JA_RU|A_MI_JA_RU]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/A/A_MI_JA_RU|A_MI_JA_RU]]: ʿAmmī-yarūm: personal name, 'My kinsman is exalted'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/A/A_MI_TA|A_MI_TA]]: ʾamita: handmaid (of the goddess). Lexicon, PROBABLE (tier 3).
 

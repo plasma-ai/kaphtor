@@ -8,17 +8,17 @@
   },
   "stats": {
     "corpus_words": 729,
-    "read": 544,
-    "unread_listed": 365,
+    "read": 553,
+    "unread_listed": 356,
     "by_status": {
-      "edge_overlap": 19,
-      "unread": 138,
-      "role_only": 208
+      "edge_overlap": 18,
+      "unread": 136,
+      "role_only": 202
     },
-    "hapax": 351,
+    "hapax": 342,
     "repeated": 14,
     "cross_site": 4,
-    "surface_damaged": 262,
+    "surface_damaged": 258,
     "excluded_tokens": {
       "single-sign": 1416,
       "numeral/punct": 1553,
@@ -317,27 +317,6 @@
       ],
       "cross_site": false,
       "note": "KH 5 .3 WI-NA-DU · *301̣-NA ·, *301 dotted on the copie normalisée, the apparatus finding L48b a less satisfactory reading of the sign (GORILA III 25). Younger marks *301 doubtful and sets *301-NA in the logogram column (Younger, Linear A Texts). Sole attestation. Not readable."
-    },
-    {
-      "word": "*306-KI-TA₂",
-      "signs": 3,
-      "status": "role_only",
-      "role": "personal_name",
-      "translation_label": "roster entry (unread)",
-      "frequency": 1,
-      "attestations": [
-        "HT122b"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "surface_damage": {
-        "HT122b": [
-          "interior"
-        ]
-      },
-      "note": "HT122b .2 *306-KI-TA₂ 7, all three signs whole and undotted at the head of the line, a trace after the numeral. .1 breaks off after VIR+[. GORILA's tabular copy sets ] before the word (GORILA I 209), but the drawing and the photograph show the left edge whole beside *306, and a crack crosses the line at KI (GORILA I 208). Sole attestation. No reading."
     },
     {
       "word": "*306-QE-DU",
@@ -929,26 +908,6 @@
       "note": "PH(?)31b .5 ]A-MI-DA-O *21M 1[, broken before A and after the numeral (GORILA I 319). Not readable."
     },
     {
-      "word": "A-MI-JA-RU",
-      "signs": 4,
-      "status": "role_only",
-      "role": "personal_name",
-      "frequency": 1,
-      "attestations": [
-        "ZAZg35"
-      ],
-      "sites": [
-        "Zakros"
-      ],
-      "cross_site": false,
-      "surface_damage": {
-        "ZAZg35": [
-          "start"
-        ]
-      },
-      "note": "ZA Zg 35, a bone label: ]A-MI-JA-RU · SE-WA-AU-DE, broken before the first sign, which is A in the facsimile (Younger ]ME). Sole attestation. Not readable."
-    },
-    {
       "word": "A-NA",
       "signs": 2,
       "status": "role_only",
@@ -1406,41 +1365,6 @@
         ]
       },
       "note": "ZA 26a .1 SI-TE · DI-DI-[, the second DI without its upper horizontal stroke, the word running on into the break (GORILA III 203). The word may continue as DI-DI-KO-RA-ME-TA₂ (ZA 11a), DI-DI-KA-SE (ZA Zb 3) or DI-DI-ZA-KE (HT 1). Sole attestation. Not readable."
-    },
-    {
-      "word": "DI-DI-ZA-KE",
-      "signs": 4,
-      "status": "role_only",
-      "role": "personal_name",
-      "frequency": 1,
-      "attestations": [
-        "HT1"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "note": "HT 1 .2–3 DỊ-DI-ZA-KE 52, the first DI dotted, its stem in a worn patch on the facsimile, DI-DI at the end of .2 after ZU-SU 70 and ZA-KE on .3 (GORILA I 3, facsimile I 2). Sole attestation. Not readable."
-    },
-    {
-      "word": "DI-JA-I",
-      "signs": 3,
-      "status": "role_only",
-      "role": "personal_name",
-      "frequency": 1,
-      "attestations": [
-        "HT29"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "surface_damage": {
-        "HT29": [
-          "start"
-        ]
-      },
-      "note": "HT29 .3 DI-JA-I 2, all three signs whole and undotted at the head of the line, the whole of .1–6 written over an erasure, JA perhaps over a further one. .2 breaks off after PA-JA-RE 1̣[, and GORILA's tabular copy sets ] before the word (GORILA I 55). Sole attestation. No reading."
     },
     {
       "word": "DI-KA-KI",
@@ -2301,24 +2225,6 @@
         ]
       },
       "note": "KN 22a .2 ]KẠ-JE-[, broken on both sides, KA dotted, the word running into the break after JE. The note allows a further dotted sign after JE (GORILA I 261). Sole attestation. Not readable."
-    },    {
-      "word": "KA-PA-QE",
-      "signs": 3,
-      "status": "edge_overlap",
-      "role": "personal_name",
-      "edge_overlap": {
-        "lexicon_word": "KA-PA",
-        "tier": "CANDIDATE"
-      },
-      "frequency": 1,
-      "attestations": [
-        "HT6a"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "note": "HT6a .4–.5 KA-PA-QE 5 ¾, KA at the end of .4 after O-RA₂-DI-NE 2, PA-QE at the head of .5, all three signs whole and undotted (GORILA I 13). The tablet opens .1 KA-PA ·, a repetition that does not establish QE as a suffix or identify the entry. Sole attestation. No reading."
     },
     {
       "word": "KA-QA",
@@ -3039,21 +2945,6 @@
       "note": "KN Zb 20 ]NA-A-PA₃, broken before NA with a dotted trace at the break (GORILA IV 77). Sole attestation. Not readable."
     },
     {
-      "word": "NA-TI",
-      "signs": 2,
-      "status": "role_only",
-      "role": "personal_name",
-      "frequency": 1,
-      "attestations": [
-        "HT97a"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "note": "HT97a .4 NA-TI 4, both signs whole and undotted, between DI 4 and MA-DI 5̣ in the KA-RU personnel list (GORILA I 159). Sole attestation. No reading."
-    },
-    {
       "word": "NE-KI",
       "signs": 2,
       "status": "role_only",
@@ -3282,21 +3173,6 @@
       ],
       "cross_site": false,
       "note": "ZA 5a .2–3 O-TA-NI-ZA-SẸ 6, SE dotted on both copies, after KI-NI-MA 7 (GORILA III 153). Younger marks SE as doubtful (Younger, Linear A Texts). Sole attestation. Not readable."
-    },
-    {
-      "word": "O-TE-JA",
-      "signs": 3,
-      "status": "role_only",
-      "role": "personal_name",
-      "frequency": 1,
-      "attestations": [
-        "PK1"
-      ],
-      "sites": [
-        "Palaikastro"
-      ],
-      "cross_site": false,
-      "note": "PK 1 .5 O-TẸ-JẠ 1, TE and JA dotted on both copies, alone between rulings (GORILA I 281). Younger marks both as doubtful (Younger, Linear A Texts). Sole attestation. Not readable."
     },
     {
       "word": "O-TI-[?]",
@@ -4141,25 +4017,6 @@
       "note": "KN 2 .1 ]RU-NA 2, broken before RU (GORILA I 259). Sole attestation. Not readable."
     },
     {
-      "word": "RU-NI",
-      "signs": 2,
-      "status": "unread",
-      "frequency": 1,
-      "attestations": [
-        "HT25a"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "surface_damage": {
-        "HT25a": [
-          "start"
-        ]
-      },
-      "note": "HT25a .2 RU-NI 1, both signs whole and undotted at the head of the line. .1 breaks off after DỊ-NẠ-Ụ[, and GORILA's tabular copy sets ] before the word (GORILA I 45). The copie normalisée starts .2 at the preserved left edge, and DI-NA-U recurs whole with 1 at .2–3, so RU-NI is an entry of its own, one of nine one-man entries. Sole attestation. No reading."
-    },
-    {
       "word": "SA-*323-MI",
       "signs": 3,
       "status": "role_only",
@@ -4962,20 +4819,6 @@
         ]
       },
       "note": "HT112a .2 TU-PA-[, the word running into a break after PA (GORILA I 183). TU-PA is the start of a longer word. Not readable."
-    },
-    {
-      "word": "TU-RU-NU-SE-ME",
-      "signs": 5,
-      "status": "unread",
-      "frequency": 1,
-      "attestations": [
-        "HT128a"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "note": "HT128a .1–2 TỤ-RU-NU-SE-ME GRA+[·] 10, TU underdotted in both copies (GORILA I 221). Entry after *326 · PA-RA ·, before WA-TU-MẠ-RE GRA+KU 12. Not readable."
     },
     {
       "word": "TU-SE-SU-KI",
@@ -6809,7 +6652,7 @@
           "end"
         ]
       },
-      "note": "HT 42+59, on the HT 59 piece: A622 (OLE+MI), then SU-DU with no divider between them (GORILA I 80). It is unclear whether the word ends at DU or ran on to the next line, lost with the rest of the tablet. Sole attestation. No reading."
+      "note": "GORILA I 80–81 reads HT 42+59 .5 ] OLE+MI 2̣ SU-DU[ on the HT 59 piece: the 2 dotted, no divider, DU's top in the damage, nothing visible after it, and the line end bracketed as broken, as after OLE+KI (.6) and OLE+U (.7). If the word ends at DU, sūdu 'council' (Heb. sôd, Ug. sd, Sab. ms³wd), or the name Sūdu (Heb. Sôdî, Ug. sdy). Sole attestation. Not readable."
     },
     {
       "word": "]-RE-TU",

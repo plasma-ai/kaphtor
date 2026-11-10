@@ -60,7 +60,13 @@ di Mino; Dautais & Gabolde 2025, 14–15; Gelb 1980
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT6b\|HT6b]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT6b\|HT6b]] | Haghia Triada | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT6b\|HT6b]] | Dūdāma | personal name, 'Beloved', 66 | CANDIDATE |
 
 ## Onomasticon
 

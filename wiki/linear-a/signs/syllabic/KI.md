@@ -53,6 +53,7 @@ No CH ancestor—Linear A innovation (Ferrara et al. 2022).
 
 | Word | Reading | Confidence |
 |---|---|---|
+| [[wiki/linear-a/words/star/star306_KI_TA2\|\*306-KI-TA₂]] | ʿAkkīta | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_DA_KI_SI_KA\|A-DA-KI-SI-KA]] | Ḫadki-šiqā | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_DI_KI_TE_TE\|A-DI-KI-TE-TE]] | ʾa-Diqqitīt | PROBABLE |
 | [[wiki/linear-a/words/A/A_KI_PI_E_TE\|A-KI-PI-E-TE]] | Akipe-te | SPECULATIVE |

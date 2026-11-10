@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/D
 desc: "Words whose first sign begins with D."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-08T03:41:00Z
+updated: 2026-11-10T05:06:50Z
 ---
 
 # wiki/linear-a/words/D
@@ -105,9 +105,9 @@ updated: 2026-11-08T03:41:00Z
 
 [[wiki/linear-a/words/D/DI_DI_KO_RA_ME_TA2|DI_DI_KO_RA_ME_TA2]]: Djed-ka-Re meti: personal name, 'The ka of Re endures, the reliable one' (Egyptian). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/D/DI_DI_ZA_KE|DI_DI_ZA_KE]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/D/DI_DI_ZA_KE|DI_DI_ZA_KE]]: Dīdī-zakī: personal name, 'My beloved is pure'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/D/DI_JA_I|DI_JA_I]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/D/DI_JA_I|DI_JA_I]]: Diʾyay: personal name, 'Kite', a bird name with hypocoristic -ay. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/D/DI_KA_KI|DI_KA_KI]]: Unread (role only): personal name; 1 occurrence(s).
 

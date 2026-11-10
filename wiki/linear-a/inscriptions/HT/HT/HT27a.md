@@ -84,7 +84,7 @@ Unicode (Linear A block):
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/T/TI_NI_TA\|TI-NI-TA]] | Tinitu | Tinit (goddess), heading | CONFIRMED | CONFIRMED (lexicon) |
+| [[wiki/linear-a/words/T/TI_NI_TA\|TI-NI-TA]] | Tinit | Tinit (goddess), heading | CONFIRMED | CONFIRMED (lexicon) |
 | \*307 | dubur | sanctuary | CONFIRMED |  |
 | VIR+\[?\] |  | men | PROBABLE |  |
 | \*86 |  | counted class after VIR, as HT94a |  |  |

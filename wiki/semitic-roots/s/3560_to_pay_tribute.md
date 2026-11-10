@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/s/3560_to_pay_tribute
 title: "*slʾ: 'to pay; tribute'"
-desc: "Proto-Semitic *slʾ, 'to pay; tribute': reflexes in 2 language(s)."
+desc: "Proto-Semitic *slʾ, 'to pay; tribute': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3560"
@@ -31,6 +31,7 @@ updated: 2026-10-26T14:26:59Z
 |---|---|---|---|
 | Arabic | salaʾa 'he paid him (a hundred dirhems) in ready money' (Lane 1398) | Lane 1398 |  |
 | Epigraphic South Arabian | Sab s3lʾ; s3lʾ (Biella 505); s3lʾ (SD 138) | Biella 505; SD 138 | gloss withheld |
+| Hebrew | סלה pu. (Job 28:16, 19; HALOT 756) | HALOT 756 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

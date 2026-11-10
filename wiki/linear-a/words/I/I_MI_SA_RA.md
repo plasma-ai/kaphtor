@@ -82,6 +82,6 @@ di Mino; DULAT; HALOT; CAD M/2; Huffmon 1965; Gelb 1980; Ventris and Chadwick 19
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull, [[wiki/linear-a/words/R/RE|RE]] le-, [[wiki/linear-a/words/T/TI_NI_TA|TI-NI-TA]] Tinitu.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull, [[wiki/linear-a/words/R/RE|RE]] le-, [[wiki/linear-a/words/T/TI_NI_TA|TI-NI-TA]] Tinit.
 
 <!-- END kaphtor:record -->

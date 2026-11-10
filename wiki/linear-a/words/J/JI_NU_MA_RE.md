@@ -34,7 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | yinumare |
 | Meaning | wine-lords, wine-stewards (personnel category) |
 | Root | y-y-n + m-r |
-| Proto-Semitic | \*wayn- (#K0457) |
+| Proto-Semitic | \*wayn- (#K0457) + \*marʾ- (#53) |
 | Language layer | Semitic |
 | Tags | beverage, compound, noun, occupation, personnel |
 | Semantic field | personnel |

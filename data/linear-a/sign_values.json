@@ -72,7 +72,7 @@
       "phonemic": [
         {
           "entry": "*306=ʿA",
-          "evidence": "ʿ leads by one word (7/7 against 6/7 for p, r, l, n, m, w); the anchor *306-QE-DU (KH21) is read *306 · 100[ in GORILA"
+          "evidence": "ʿ leads by one word (7/7 against 6/7 for p, r, l, n, m, w); the anchor *306-QE-DU (KH21) is read *306 · 100[ in GORILA. The alternation with A (*306-TI-KA-A-RE, HT4, beside A-TI-KA-A, ZAWc2) makes *306 a laryngeal with a, which removes p, r, l, n, m and w; it rests on one long pair"
         },
         {
           "entry": "*21F=HA",
@@ -2390,7 +2390,8 @@
         "*306-TI-KA-A-RE = ʿatīq+are \"the ancient/noble\" (√ʿ-t-q)—unique to ʿayin",
         "*306+MI = ʿAmmī \"my kinsman\", a personal name (√ʿ-m-m), unique to ʿayin",
         "*306-TA-JE = ʿaṭāye \"gift, offering\" (√ʿ-ṭ-w), a votive label (ARKHZc8); *306-TU = ʿAttu, a personal name (HT9a, HT9b, HT119, HT122a)",
-        "Co-occurrence: *306 and SI share 7 tablets but never same word—different phonemes"
+        "Co-occurrence: *306 and SI share 7 tablets but never same word—different phonemes",
+        "Alternation with A: *306-TI-KA-A-RE (HT4) and A-TI-KA-A (ZAWc2) share TI-KA-A after the first sign, and every other sign put in *306's place gives only two-sign coincidences; *306+MI beside A-MI (KH102, PH14b) agrees, weakly. A writes a laryngeal with a (ʾa, ha, ḥa), so *306 is a laryngeal with a: p, r, l, n, m and w each have their own a-sign, and ʿ is the laryngeal the grid lacks"
       ],
       "note": "Voiced pharyngeal fricative. Fills the highest-priority gap in the phonemic inventory (ayin). 23 occurrences across Haghia Triada, Khania, Arkhanes, Fourni. 8 standalone occurrences at Khania suggest acrophonic/abbreviatory administrative use.",
       "linear_b": null,
@@ -2611,9 +2612,9 @@
       ],
       "neutralization_class": null,
       "confirmed_by": [
-        "*47-KU-NA (ZA15a, heading of a wine issue) = sōkina 'prefect': Canaanite su₂-ki-na, glossed in EA 362 (ORACC aemw/amarna P270873); Ug. śkn 'prefect, governor; administrator' (DULAT 746); sākinu (CAD S 76); Heb. sōkēn (HALOT 755)"
+        "*47-KU-NA (ZA15a, heading of a wine issue) = sōkuna 'prefect, steward': Canaanite su₂-ki-na, glossed in EA 362 (ORACC aemw/amarna P270873); Phoenician Sakun, Σαγχουνιάθων, Bodsychun (Krahmalkov 2000, 343, 99); Ug. śkn 'prefect, governor; administrator' (DULAT 746); sākinu (CAD S 76); Heb. sōkēn (HALOT 755)"
       ],
-      "note": "SPECULATIVE. Ten tokens; two stand alone on MA 1 (a, b) without a numeral. *47-KU-NA, heading the ZA 15a wine issue, is sōkina 'prefect', with the vowels of the Canaanite gloss su₂-ki-na (EA 362) and the ō of the Canaanite shift. Linear A writes no other so; *324 claims it only at SPECULATIVE 0.30. *47-NU-RA-JA (HT 115a) is a person, Šū-nūraya 'He is light': so writes šū, as Ebla su-nu-ri₂ šū-nūrī (Pagan 1998, row 4282), with a vowel mismatch only. mo, from the AB15 gap, reads *47-KU-NA as mōgun- 'regalement'; do reads it as Dagan. so also reads PA₃-SI-*47 (MIL Zb 1) ba-si-so, basīsa 'meal worked with oil' (Lane 201). Linear B keeps *47 apart from *15 mo. HT 127a *304+PA-DA-*47-KU is unsegmented. Co-occurrence with MA, MI, ME and MU excludes those four values only.",
+      "note": "SPECULATIVE. Ten tokens; two stand alone on MA 1 (a, b) without a numeral. *47-KU-NA, heading the ZA 15a wine issue, is sōkuna 'prefect, steward': the ā of sākinu on its way to ō, a vowel between the two, as the Canaanite gloss su₂-ki-na (EA 362), and the -kun of Phoenician Sakun (Krahmalkov 2000, 343). Linear A writes no other so; *324 claims it only at SPECULATIVE 0.30. *47-NU-RA-JA (HT 115a) is a person, Šū-nūraya 'He is light': so writes šū, as Ebla su-nu-ri₂ šū-nūrī (Pagan 1998, row 4282), with a vowel mismatch only. mo, from the AB15 gap, reads *47-KU-NA as mōgun- 'regalement'; do reads it as Dagan. so also reads PA₃-SI-*47 (MIL Zb 1) ba-si-so, basīsa 'meal worked with oil' (Lane 201). Linear B keeps *47 apart from *15 mo. HT 127a *304+PA-DA-*47-KU is unsegmented. Co-occurrence with MA, MI, ME and MU excludes those four values only.",
       "linear_b": {
         "sign_number": "B 47",
         "value": null,

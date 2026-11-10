@@ -34,7 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾa-repiʾ-rennā |
 | Meaning | Healer of Jubilation (Eshmun epithet) |
 | Root | r-p-ʾ + r-n-n |
-| Proto-Semitic | \*rVpVʾ- (#K0355) |
+| Proto-Semitic | \*rVpVʾ- (#K0355) + \*rVnVn- (#K0351) |
 | Language layer | Semitic |
 | Tags | compound, epithet, hapax, ritual |
 | Semantic field | ritual |

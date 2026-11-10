@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/q
 desc: "Semitic roots whose first radical is q."
 created: 2026-10-22T17:38:31Z
-updated: 2026-11-07T20:00:58Z
+updated: 2026-11-10T04:32:36Z
 ---
 
 # wiki/semitic-roots/q
@@ -384,6 +384,8 @@ updated: 2026-11-07T20:00:58Z
 [[wiki/semitic-roots/q/468_send|468_send]]: Proto-Semitic *ḳiraʾ-, 'send': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/q/469_carry|469_carry]]: Proto-Semitic *ḳll-, 'carry': reflexes in 1 language(s).
+
+[[wiki/semitic-roots/q/4713_noise_rumbling|4713_noise_rumbling]]: Proto-Semitic *qrqr, 'noise, rumbling': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/q/50_tribe|50_tribe]]: Proto-Semitic *ḳull-, 'tribe': reflexes in 1 language(s).
 

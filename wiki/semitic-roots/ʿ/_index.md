@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ʿ
 desc: "Semitic roots whose first radical is ʿ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-11-07T20:00:58Z
+updated: 2026-11-10T05:11:30Z
 ---
 
 # wiki/semitic-roots/ʿ
@@ -53,7 +53,7 @@ updated: 2026-11-07T20:00:58Z
 
 [[wiki/semitic-roots/ʿ/1537_crane|1537_crane]]: Proto-Semitic *ʕagūr-, 'crane': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/ʿ/1538_height_elevation_the_above_1_upper_part_2_be_hig|1538_height_elevation_the_above_1_upper_part_2_be_hig]]: Proto-Semitic *ʕall- ~ *ʕVlʕVl- ~ *laʕl-, 'height, elevation, the above' 1, 'upper part' 2, 'be high, elevated' 3, 'raise, elevate' 4: reflexes in 16 language(s).
+[[wiki/semitic-roots/ʿ/1538_height_elevation_the_above_1_upper_part_2_be_hig|1538_height_elevation_the_above_1_upper_part_2_be_hig]]: Proto-Semitic *ʕall- ~ *ʕVlʕVl- ~ *laʕl-, 'height, elevation, the above' 1, 'upper part' 2, 'be high, elevated' 3, 'raise, elevate' 4: reflexes in 17 language(s).
 
 [[wiki/semitic-roots/ʿ/1539_drink_for_the_second_time|1539_drink_for_the_second_time]]: Proto-Semitic *ʕVlVl-, 'drink for the second time': reflexes in 1 language(s).
 
@@ -253,7 +253,7 @@ updated: 2026-11-07T20:00:58Z
 
 [[wiki/semitic-roots/ʿ/3252_juniper_1_tamarisk_2|3252_juniper_1_tamarisk_2]]: Proto-Semitic *ʕarʕar-, 'juniper' 1, 'tamarisk' 2: reflexes in 6 language(s).
 
-[[wiki/semitic-roots/ʿ/3321_to_cleave_slit_cut|3321_to_cleave_slit_cut]]: Proto-Semitic *ʕḳḳ, 'to cleave, slit, cut': reflexes in 2 language(s).
+[[wiki/semitic-roots/ʿ/3321_to_cleave_slit_cut|3321_to_cleave_slit_cut]]: Proto-Semitic *ʕḳḳ, 'to cleave, slit, cut': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/ʿ/3340_flint|3340_flint]]: Proto-Semitic *ʕibal, 'flint': reflexes in 4 language(s).
 
@@ -481,7 +481,7 @@ updated: 2026-11-07T20:00:58Z
 
 [[wiki/semitic-roots/ʿ/977_dig|977_dig]]: Proto-Semitic *ʕVziḳ-, 'dig': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/ʿ/986_be_just|986_be_just]]: Proto-Semitic *ʕVdil-, 'be just': reflexes in 3 language(s).
+[[wiki/semitic-roots/ʿ/986_be_just_1_to_turn_aside_deviate_2|986_be_just_1_to_turn_aside_deviate_2]]: Proto-Semitic *ʕVdil-, 'be just' 1, 'to turn aside, deviate' 2: reflexes in 4 language(s).
 
 [[wiki/semitic-roots/ʿ/996_turn_upside_down_1_hobble_2|996_turn_upside_down_1_hobble_2]]: Proto-Semitic *ʕVkiš-, 'turn upside down' 1, 'hobble' 2: reflexes in 2 language(s).
 

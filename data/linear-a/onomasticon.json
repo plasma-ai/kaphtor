@@ -24,26 +24,26 @@
     "auto"
   ],
   "stats": {
-    "total": 375,
+    "total": 380,
     "by_type": {
       "gentilic": 11,
-      "personal_name": 251,
-      "theonym": 30,
-      "title": 51,
-      "toponym": 28,
+      "personal_name": 254,
+      "theonym": 29,
+      "title": 52,
+      "toponym": 30,
       "toponym_gentilic": 4
     },
     "by_affiliation": {
       "aegean": 7,
       "anatolian": 2,
       "egyptian": 13,
-      "hurrian": 36,
+      "hurrian": 37,
       "indo_european": 1,
-      "semitic": 298,
+      "semitic": 306,
       "sumerian": 1,
       "unknown": {
-        "total": 17,
-        "intact": 15,
+        "total": 13,
+        "intact": 11,
         "fragmentary": 0,
         "edge_damaged": 2,
         "no_witness": 0,
@@ -52,19 +52,19 @@
     },
     "by_family": {
       "Egyptian": 13,
-      "Hurro-Urartian": 36,
+      "Hurro-Urartian": 37,
       "Indo-European": 2,
-      "Semitic": 299,
+      "Semitic": 307,
       "Sumerian": 1,
-      "unassigned": 24
+      "unassigned": 20
     },
     "by_provenance": {
       "auto": 0,
-      "manual": 375
+      "manual": 380
     },
-    "manual_count": 375,
+    "manual_count": 380,
     "auto_count": 0,
-    "total_entries": 375
+    "total_entries": 380
   },
   "entries": [
     {
@@ -3272,14 +3272,14 @@
       "normalized": "306kita2",
       "type": "personal_name",
       "type_confidence": "SPECULATIVE",
-      "affiliation": "unknown",
-      "language_family": null,
+      "affiliation": "semitic",
+      "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
-      "affiliation_evidence": "none",
+      "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
-      "lexicon_ref": null,
-      "reading": null,
-      "meaning": null,
+      "lexicon_ref": "*306-KI-TA₂",
+      "reading": "ʿAkkīta",
+      "meaning": "personal name, 'the Akkoite (woman)', feminine gentilic of Akko",
       "frequency": 1,
       "attestations": [
         "HT122b"
@@ -3319,24 +3319,8 @@
       ],
       "provenance": "manual",
       "bucket": "onomastic",
-      "weak_cognates": [
-        {
-          "root": "*ḳut-",
-          "language": "Proto-Semitic",
-          "distance": 0.0
-        },
-        {
-          "root": "*ḳit-",
-          "language": "Proto-Semitic",
-          "distance": 0.0
-        },
-        {
-          "root": "*kad-",
-          "language": "Proto-Semitic",
-          "distance": 0.1
-        }
-      ],
-      "note": "HT 122b .2 *306-KI-TA₂ 7, at the head of the line, the left edge whole beside *306 (GORILA I 208–209). No reading."
+      "weak_cognates": [],
+      "note": "HT 122b .2 *306-KI-TA₂ 7, at the head of the line, the left edge whole beside *306, the first entry under JE-DI 'the Idaean' (GORILA I 208–209). ʿAkkīta, the feminine gentilic of Akko: Ugaritic ʿky, town and personal name (DULAT 150–151); Phoenician-Punic ʿKY 'Akkoite', 'gentilic as a name' (Benz 1972, 378). See the lexicon entry."
     },
     {
       "token": "*306-TU-JA",
@@ -3350,7 +3334,7 @@
       "contact_ref": null,
       "lexicon_ref": "*306-TU-JA",
       "reading": "ʿAttuya",
-      "meaning": "personal name, hypocoristic of *306-TU in -ya",
+      "meaning": "personal name, ʿAttu with -ya (Hebrew ʿĂtāyāh)",
       "frequency": 1,
       "attestations": [
         "HT115b"
@@ -3395,7 +3379,7 @@
           "distance": 1.0
         }
       ],
-      "note": "Heb. ʿAttay (1 Chr 2:35); *306 = ʿa a working value."
+      "note": "Heb. ʿĂtāyāh (Neh 11:4) beside its short form ʿAttay (1 Chr 2:35); *306 = ʿa a working value."
     },
     {
       "token": "*318-*306",
@@ -3603,8 +3587,8 @@
       "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
       "lexicon_ref": "*47-KU-NA",
-      "reading": "sōkina",
-      "meaning": "prefect, administrator (heading of a wine issue); rivals mōgun- 'regalement, gift', Dagan",
+      "reading": "sōkuna",
+      "meaning": "prefect, steward (heading of a wine issue)",
       "frequency": 1,
       "attestations": [
         "ZA15a"
@@ -3642,7 +3626,7 @@
           "distance": 0.2
         }
       ],
-      "note": "ZA 15a: heads a wine issue. sōkina 'prefect' with *47 = so, as the Canaanite gloss su₂-ki-na (EA 362). Rivals: mōgun- 'regalement' (mo), Dagan (do)."
+      "note": "ZA 15a: heads a wine issue. sōkuna 'prefect, steward' with *47 = so, as the Canaanite gloss su₂-ki-na (EA 362) and Phoenician Sakun, the god (KAI 58; Krahmalkov 2000, 343)."
     },
     {
       "token": "*47-NU-RA-JA",
@@ -6205,6 +6189,42 @@
       "note": "Egyptian ḏd-kꜣ⸗s 'her ka endures', the type of ꜥꜣ-kꜣ⸗s (Ranke I, 58.14). Rival: DI-DI + KA-SE kissē 'throne' (cf. PI-TA-KA-SE). See the lexicon entry."
     },
     {
+      "token": "DI-DI-ZA-KE",
+      "normalized": "didizake",
+      "type": "personal_name",
+      "type_confidence": "SPECULATIVE",
+      "affiliation": "semitic",
+      "language_family": "Semitic",
+      "affiliation_confidence": "SPECULATIVE",
+      "affiliation_evidence": "lexicon_reading",
+      "contact_ref": null,
+      "lexicon_ref": "DI-DI-ZA-KE",
+      "reading": "Dīdī-zakī",
+      "meaning": "personal name, 'My beloved is pure'",
+      "frequency": 1,
+      "attestations": [
+        "HT1"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "genre_supports": {
+        "Tablet": 1
+      },
+      "position_summary": {
+        "follows": {
+          "numeral": 1
+        },
+        "heads_document": 0
+      },
+      "co_occurring_known": [],
+      "provenance": "manual",
+      "bucket": "onomastic",
+      "weak_cognates": [],
+      "note": "HT 1 .2–3 DI-DI-ZA-KE 52, the first DI dotted, between ZU-SU 70 and KU-PA₃-NU 109 (GORILA I 3). Dīdī-zakī 'My beloved is pure': zak- 'pure' (Huffmon 1965, 186), as Amorite ʿAmmī-zakkum (Gelb 1980, no. 755). See the lexicon entry."
+    },
+    {
       "token": "DI-DI-KO-RA-ME-TA₂",
       "normalized": "didikorameta2",
       "type": "personal_name",
@@ -6250,14 +6270,14 @@
       "normalized": "dijai",
       "type": "personal_name",
       "type_confidence": "SPECULATIVE",
-      "affiliation": "unknown",
-      "language_family": null,
+      "affiliation": "semitic",
+      "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
-      "affiliation_evidence": "none",
+      "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
-      "lexicon_ref": null,
-      "reading": null,
-      "meaning": null,
+      "lexicon_ref": "DI-JA-I",
+      "reading": "Diʾyay",
+      "meaning": "personal name, 'Kite', a bird name with hypocoristic -ay",
       "frequency": 1,
       "attestations": [
         "HT29"
@@ -6291,24 +6311,8 @@
       ],
       "provenance": "manual",
       "bucket": "onomastic",
-      "weak_cognates": [
-        {
-          "root": "*day-",
-          "language": "Proto-Semitic",
-          "distance": 0.0
-        },
-        {
-          "root": "*dawḥ-",
-          "language": "Proto-Semitic",
-          "distance": 0.35
-        },
-        {
-          "root": "*dad-",
-          "language": "Proto-Semitic",
-          "distance": 1.0
-        }
-      ],
-      "note": "HT 29 .3 DI-JA-I 2, at the head of the line, on a tablet written over an erasure (GORILA I 55). No reading."
+      "weak_cognates": [],
+      "note": "HT 29 .3 DI-JA-I 2, at the head of the line, on a tablet written over an erasure (GORILA I 55). Diʾyay 'Kite': Ugaritic dỉy, a raptor (DULAT 257), Hebrew dāʾâ and dayyâ (HALOT 207, 220), the Safaitic names dʾy and dʾyt (Harding 1971, 233; Dirbas 2017, 260). See the lexicon entry."
     },
     {
       "token": "DI-NA-RO",
@@ -7290,7 +7294,7 @@
       "co_occurring_known": [
         {
           "word": "TI-NI-TA",
-          "reading": "Tinitu",
+          "reading": "Tinit",
           "meaning": "Tinit (goddess, = Phoenician Tanit)",
           "category": "divine_name"
         },
@@ -8535,16 +8539,16 @@
     {
       "token": "KA-PA-QE",
       "normalized": "kapaqe",
-      "type": "personal_name",
+      "type": "title",
       "type_confidence": "SPECULATIVE",
-      "affiliation": "unknown",
-      "language_family": null,
+      "affiliation": "semitic",
+      "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
-      "affiliation_evidence": "none",
+      "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
-      "lexicon_ref": null,
-      "reading": null,
-      "meaning": null,
+      "lexicon_ref": "KA-PA-QE",
+      "reading": "kapar qē(pu)",
+      "meaning": "the village's commissioner, a recipient of figs; rival 'the village: measures (qê)'",
       "frequency": 1,
       "attestations": [
         "HT6a"
@@ -8573,7 +8577,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "HT 6a .4–5 KA-PA-QE 5 ¾, after O-RA₂-DI-NE 2, on a tablet that opens with KA-PA (GORILA I 13). No reading."
+      "note": "HT 6a .4–5 KA-PA-QE 5¾, whole (GORILA I 13), the last fig entry under KA-PA. KA-PA 'village' with QE for QE-PU qēpu 'commissioner' (CAD Q 264). See the lexicon entry."
     },
     {
       "token": "KA-QA",
@@ -8777,7 +8781,7 @@
     {
       "token": "KA-TA-RE",
       "normalized": "katare",
-      "type": "theonym",
+      "type": "toponym",
       "type_confidence": "SPECULATIVE",
       "affiliation": "semitic",
       "language_family": "Semitic",
@@ -8785,8 +8789,8 @@
       "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
       "lexicon_ref": "KA-TA-RE",
-      "reading": "kaṯare",
-      "meaning": "Kothar (divine craftsman god)",
+      "reading": "Katare",
+      "meaning": "Katara, a town of western Crete (place name; Linear B ka-ta-ra)",
       "frequency": 1,
       "attestations": [
         "KH41"
@@ -8808,7 +8812,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": ""
+      "note": "KH 41, from Khania. Linear B ka-ta-ra-i heads KN Co 906 as ku-do-ni-ja heads Co 904. See the lexicon entry."
     },
     {
       "token": "KA-TI",
@@ -10041,16 +10045,16 @@
     {
       "token": "NA-TI",
       "normalized": "nati",
-      "type": "personal_name",
+      "type": "toponym",
       "type_confidence": "SPECULATIVE",
-      "affiliation": "unknown",
-      "language_family": null,
+      "affiliation": "semitic",
+      "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
-      "affiliation_evidence": "none",
+      "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
-      "lexicon_ref": null,
-      "reading": null,
-      "meaning": null,
+      "lexicon_ref": "NA-TI",
+      "reading": "naṭʿ",
+      "meaning": "the Plantation (place name), 4 men in the HT 97a roster beside PA-I-TO",
       "frequency": 1,
       "attestations": [
         "HT97a"
@@ -10107,7 +10111,7 @@
           "distance": 0.1
         }
       ],
-      "note": "HT 97a .4 NA-TI 4, in the KA-RU personnel list between DI 4 and MA-DI 5 (GORILA I 159). No reading."
+      "note": "HT 97a .4 NA-TI 4, whole, between DI 4 and MA-DI 5 (GORILA I 159), among men counted by place. naṭʿ 'plantation': Hebrew neṭaʿ, and the town Nəṭāʿîm (1 Chr 4:23; HALOT 694). See the lexicon entry."
     },
     {
       "token": "NA-TU-*301-NE",
@@ -10239,6 +10243,42 @@
       "bucket": "onomastic",
       "weak_cognates": [],
       "note": ""
+    },
+    {
+      "token": "O-TE-JA",
+      "normalized": "oteja",
+      "type": "personal_name",
+      "type_confidence": "SPECULATIVE",
+      "affiliation": "hurrian",
+      "language_family": "Hurro-Urartian",
+      "affiliation_confidence": "SPECULATIVE",
+      "affiliation_evidence": "lexicon_reading",
+      "contact_ref": null,
+      "lexicon_ref": "O-TE-JA",
+      "reading": "Ḫuteya",
+      "meaning": "personal name, Hurrian Ḫutiya",
+      "frequency": 1,
+      "attestations": [
+        "PK1"
+      ],
+      "sites": [
+        "Palaikastro"
+      ],
+      "cross_site": false,
+      "genre_supports": {
+        "Tablet": 1
+      },
+      "position_summary": {
+        "follows": {
+          "newline": 1
+        },
+        "heads_document": 0
+      },
+      "co_occurring_known": [],
+      "provenance": "manual",
+      "bucket": "onomastic",
+      "weak_cognates": [],
+      "note": "PK 1 .5 O-TE-JA 1, alone between rulings, TE and JA dotted (GORILA I 281). Ḫuteya, the Hurrian name Ḫutiya (Talon 1997, 128; Kryszat 2008, 176), at Ugarit Ḫutiyana (Kinlaw 1967, 60). See the lexicon entry."
     },
     {
       "token": "O-RA₂-DI-NE",
@@ -13521,7 +13561,7 @@
       "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
       "lexicon_ref": "TI-NI-TA",
-      "reading": "Tinitu",
+      "reading": "Tinit",
       "meaning": "Tinit (goddess, = Phoenician Tanit)",
       "frequency": 1,
       "attestations": [
@@ -13543,7 +13583,7 @@
       "co_occurring_known": [
         {
           "word": "TI-NI-TA",
-          "reading": "Tinitu",
+          "reading": "Tinit",
           "meaning": "Tinit (goddess, = Phoenician Tanit)",
           "category": "divine_name"
         },
@@ -15612,6 +15652,42 @@
       "note": "KO Za 1, invoked in formula position two, before DU-*314-RE · I-DA-A. √t-r-s 'to shield' (Ar. turs; Lane 302)."
     },
     {
+      "token": "TU-RU-NU-SE-ME",
+      "normalized": "turunuseme",
+      "type": "personal_name",
+      "type_confidence": "SPECULATIVE",
+      "affiliation": "semitic",
+      "language_family": "Semitic",
+      "affiliation_confidence": "SPECULATIVE",
+      "affiliation_evidence": "lexicon_reading",
+      "contact_ref": null,
+      "lexicon_ref": "TU-RU-NU-SE-ME",
+      "reading": "Ṯ̣ūr-nušme",
+      "meaning": "personal name, 'Rock of the people'",
+      "frequency": 1,
+      "attestations": [
+        "HT128a"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "genre_supports": {
+        "Tablet": 1
+      },
+      "position_summary": {
+        "follows": {
+          "newline": 1
+        },
+        "heads_document": 0
+      },
+      "co_occurring_known": [],
+      "provenance": "manual",
+      "bucket": "onomastic",
+      "weak_cognates": [],
+      "note": "HT 128a .1–2 TU-RU-NU-SE-ME GRA 10, TU dotted, a grain recipient (GORILA I 221). Ṯ̣ūr nušme 'Rock of the people': ṯ̣ūr 'rock' (HALOT 1016–1017) with Ugaritic nšm 'people, men' (DULAT 640), as Amorite Ṣūra-ʿammu (Buck 2018, 350). See the lexicon entry."
+    },
+    {
       "token": "MI-TU",
       "normalized": "mitu",
       "type": "personal_name",
@@ -16571,6 +16647,40 @@
       "bucket": "onomastic",
       "weak_cognates": [],
       "note": "KH 14 .1 ]RA · A-MA-JA · CYP 6[, whole between dividers (GORILA III 45). A-MA ʿamma 'kinsman' + -ya: the Ugaritic name ʿmy ʿAmmaya (KTU 4.16:4), syllabic am-ma-ya (DULAT 164). Rival: ʾAmaya 'maidservant'."
+    },
+    {
+      "token": "A-MI-JA-RU",
+      "normalized": "amijaru",
+      "type": "personal_name",
+      "type_confidence": "SPECULATIVE",
+      "affiliation": "semitic",
+      "language_family": "Semitic",
+      "affiliation_confidence": "SPECULATIVE",
+      "affiliation_evidence": "lexicon_reading",
+      "contact_ref": null,
+      "lexicon_ref": "A-MI-JA-RU",
+      "reading": "ʿAmmī-yarūm",
+      "meaning": "personal name, 'My kinsman is exalted'",
+      "frequency": 1,
+      "attestations": [
+        "ZAZg35"
+      ],
+      "sites": [
+        "Zakros"
+      ],
+      "cross_site": false,
+      "genre_supports": {
+        "Label": 1
+      },
+      "position_summary": {
+        "follows": {},
+        "heads_document": 1
+      },
+      "co_occurring_known": [],
+      "provenance": "manual",
+      "bucket": "onomastic",
+      "weak_cognates": [],
+      "note": "ZA Zg 35, a bone label: ]A-MI-JA-RU · SE-WA-AU-DE, broken before A (Younger, Linear A Texts). ʿAmmī-yarūm 'My kinsman is exalted', as Amorite Yarīm-ʿAmmu and ʿAmmu-rāma (Gelb 1980, nos. 3436, 2154). See the lexicon entry."
     },
     {
       "token": "DA-I-PI-TA",
@@ -18418,6 +18528,42 @@
       "bucket": "onomastic",
       "weak_cognates": [],
       "note": "KA-PA and DA-QE-RA head the two sections of HT 6a; DA-QE-RA heads HT 120, grain to DA-ME, KI-RE-TA-NA and PA-I-TO, and HT 57a. ḏā 'the one of' + Qīr, a town name, Moabite qr 'city', Hebrew Qîr Môʾāb (HALOT 1099–1100). Rival: diqāru 'bowl' (CAD D 157). See the lexicon entry."
+    },
+    {
+      "token": "RU-NI",
+      "normalized": "runi",
+      "type": "personal_name",
+      "type_confidence": "SPECULATIVE",
+      "affiliation": "semitic",
+      "language_family": "Semitic",
+      "affiliation_confidence": "SPECULATIVE",
+      "affiliation_evidence": "lexicon_reading",
+      "contact_ref": null,
+      "lexicon_ref": "RU-NI",
+      "reading": "Runni",
+      "meaning": "personal name, 'Jubilation'; rival 'the crier', Dīnāyu's trade",
+      "frequency": 1,
+      "attestations": [
+        "HT25a"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "genre_supports": {
+        "Tablet": 1
+      },
+      "position_summary": {
+        "follows": {
+          "numeral": 0
+        },
+        "heads_document": 0
+      },
+      "co_occurring_known": [],
+      "provenance": "manual",
+      "bucket": "onomastic",
+      "weak_cognates": [],
+      "note": "HT 25a .2 RU-NI 1, heading the line (GORILA I 45). Runni 'jubilation', √r-n-n: Ugaritic rny PN (DULAT 731), Hebrew Rinnāh (1 Chr 4:20; HALOT 1247). Rival: 'the crier', Dīnāyu's trade. See the lexicon entry."
     }
   ]
 }

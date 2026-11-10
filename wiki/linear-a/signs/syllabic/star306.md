@@ -23,7 +23,7 @@ updated: 2026-10-24T16:17:50Z
 
 **Status: proposed.** A proposed value.
 
-Evidence: ʿ leads by one word (7/7 against 6/7 for p, r, l, n, m, w); the anchor \*306-QE-DU (KH21) is read \*306 · 100\[ in GORILA
+Evidence: ʿ leads by one word (7/7 against 6/7 for p, r, l, n, m, w); the anchor \*306-QE-DU (KH21) is read \*306 · 100\[ in GORILA. The alternation with A (\*306-TI-KA-A-RE, HT4, beside A-TI-KA-A, ZAWc2) makes \*306 a laryngeal with a, which removes p, r, l, n, m and w; it rests on one long pair
 
 ## Phonetic value
 
@@ -40,6 +40,7 @@ Evidence: ʿ leads by one word (7/7 against 6/7 for p, r, l, n, m, w); the ancho
 - \*306+MI = ʿAmmī "my kinsman", a personal name (√ʿ-m-m), unique to ʿayin
 - \*306-TA-JE = ʿaṭāye "gift, offering" (√ʿ-ṭ-w), a votive label (ARKHZc8); \*306-TU = ʿAttu, a personal name (HT9a, HT9b, HT119, HT122a)
 - Co-occurrence: \*306 and SI share 7 tablets but never same word—different phonemes
+- Alternation with A: \*306-TI-KA-A-RE (HT4) and A-TI-KA-A (ZAWc2) share TI-KA-A after the first sign, and every other sign put in \*306's place gives only two-sign coincidences; \*306+MI beside A-MI (KH102, PH14b) agrees, weakly. A writes a laryngeal with a (ʾa, ha, ḥa), so \*306 is a laryngeal with a: p, r, l, n, m and w each have their own a-sign, and ʿ is the laryngeal the grid lacks
 
 ### Note
 
@@ -50,6 +51,7 @@ Voiced pharyngeal fricative. Fills the highest-priority gap in the phonemic inve
 | Word | Reading | Confidence |
 |---|---|---|
 | [[wiki/linear-a/words/star/star306_plus_MI\|\*306+MI]] | ʿAmmī | SPECULATIVE |
+| [[wiki/linear-a/words/star/star306_KI_TA2\|\*306-KI-TA₂]] | ʿAkkīta | SPECULATIVE |
 | [[wiki/linear-a/words/star/star306_TA_JE\|\*306-TA-JE]] | ʿaṭāye | CANDIDATE |
 | [[wiki/linear-a/words/star/star306_TI_KA_A_RE\|\*306-TI-KA-A-RE]] | ʿatīq+are | CANDIDATE |
 | [[wiki/linear-a/words/star/star306_TU\|\*306-TU]] | ʿAttu | CANDIDATE |

@@ -70,7 +70,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/J/JA_RE_MI\|JA-RE-MI]] | Yarīm | SPECULATIVE |
 | [[wiki/linear-a/words/J/JI_NU_MA_RE\|JI-NU-MA-RE]] | yinumare | CANDIDATE |
 | [[wiki/linear-a/words/K/KA_RE_RO\|KA-RE-RO]] | Kariru | SPECULATIVE |
-| [[wiki/linear-a/words/K/KA_TA_RE\|KA-TA-RE]] | kaṯare | SPECULATIVE |
+| [[wiki/linear-a/words/K/KA_TA_RE\|KA-TA-RE]] | Katare | SPECULATIVE |
 | [[wiki/linear-a/words/K/KI_star310_RE\|KI-\*310-RE]] | kinnār | PROBABLE |
 | [[wiki/linear-a/words/K/KI_RE_TA_NA\|KI-RE-TA-NA]] | Kretan | CONFIRMED |
 | [[wiki/linear-a/words/K/KI_RE_TA2\|KI-RE-TA₂]] | Kirēta / Kret | PROBABLE |

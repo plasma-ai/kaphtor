@@ -72,7 +72,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/I/I_ZU_RI_NI_TA\|I-ZU-RI-NI-TA]] | ʾi-ṯawrīnīta | CANDIDATE |
 | [[wiki/linear-a/words/J/JA_TA_I_star301_U_JA\|JA-TA-I-\*301-U-JA]] | yatainawuya | CANDIDATE |
 | [[wiki/linear-a/words/J/JE_TA_NA\|JE-TA-NA]] | Yatana | PROBABLE |
-| [[wiki/linear-a/words/K/KA_TA_RE\|KA-TA-RE]] | kaṯare | SPECULATIVE |
+| [[wiki/linear-a/words/K/KA_TA_RE\|KA-TA-RE]] | Katare | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_U_DE_TA\|KA-U-DE-TA]] | Kaw-tatta | SPECULATIVE |
 | [[wiki/linear-a/words/K/KI_DA_TA\|KI-DA-TA]] | Kidata | SPECULATIVE |
 | [[wiki/linear-a/words/K/KI_RE_TA_NA\|KI-RE-TA-NA]] | Kretan | CONFIRMED |
@@ -121,7 +121,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/T/TA_TI\|TA-TI]] | Tati | CANDIDATE |
 | [[wiki/linear-a/words/T/TA2_TA_RE\|TA₂-TA-RE]] | Tatare | CANDIDATE |
 | [[wiki/linear-a/words/T/TI_DA_TA\|TI-DA-TA]] | ṯidṯīta | CANDIDATE |
-| [[wiki/linear-a/words/T/TI_NI_TA\|TI-NI-TA]] | Tinitu | CONFIRMED |
+| [[wiki/linear-a/words/T/TI_NI_TA\|TI-NI-TA]] | Tinit | CONFIRMED |
 | [[wiki/linear-a/words/T/TI_NI_TA_star307\|TI-NI-TA \*307]] | Tinit Dubur | PROBABLE |
 | [[wiki/linear-a/words/T/TU_PI_TA\|TU-PI-TA]] | ṯāpiṭu | CANDIDATE |
 | [[wiki/linear-a/words/U/U_TA_I_SE\|U-TA-I-SE]] | ʿUtay-se | SPECULATIVE |

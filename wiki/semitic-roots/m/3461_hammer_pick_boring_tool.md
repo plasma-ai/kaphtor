@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/3461_hammer_pick_boring_tool
 title: "*mnḳb: 'hammer, pick, boring tool'"
-desc: "Proto-Semitic *mnḳb, 'hammer, pick, boring tool': reflexes in 5 language(s)."
+desc: "Proto-Semitic *mnḳb, 'hammer, pick, boring tool': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3461"
@@ -33,6 +33,7 @@ updated: 2026-10-25T05:11:48Z
 | Eblaitic | ma-ga-bu₁₆ /maḳḳabu/ (VE 763 apud SEDonline 1839) | VE 763; SEDonline 1839 | gloss withheld |
 | Ugaritic | mqb, var. mqp (DULAT 559); /maqqabu/, pl. /maqqabūma/ (UVST 153–154) | DULAT 559; UVST 153–154 | gloss withheld |
 | Hebrew | maḳḳäbät (HALOT 625 apud SEDonline 1839) | HALOT 625; SEDonline 1839 | gloss withheld |
+| Emar | na-qa-bu /naqqabu/ (Pentiuc 2001, 131–132) | Pentiuc 2001 131–132 | gloss withheld |
 | Arabic | minqab- (Lane 2835 apud SEDonline 1839) | Lane 2835; SEDonline 1839 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -8,7 +8,7 @@ created: 2026-10-22T18:14:10Z
 updated: 2026-10-22T18:14:10Z
 ---
 
-`semitic_roots.json` holds `schema_version` (2), `description` and `roots`: 5,157 records with 26,295 reflexes.
+`semitic_roots.json` holds `schema_version` (2), `description` and `roots`: 5,187 records with 26,408 reflexes.
 Most reconstructions and meanings come from the Semitic Etymological Dictionary; `sed` cites the SEDonline entry
 (2,624 records) or the printed volume, SED I or SED II (23 records). The SA series are Epigraphic South Arabian headwords (Beeston 1982; Biella 1982), not comparative
 reconstructions.

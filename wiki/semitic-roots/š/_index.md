@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/š
 desc: "Semitic roots whose first radical is š."
 created: 2026-10-22T17:38:31Z
-updated: 2026-11-07T22:57:34Z
+updated: 2026-11-10T05:11:30Z
 ---
 
 # wiki/semitic-roots/š
@@ -249,7 +249,7 @@ updated: 2026-11-07T22:57:34Z
 
 [[wiki/semitic-roots/š/3281_to_wander_stray|3281_to_wander_stray]]: Proto-Semitic *šgy, 'to wander, stray': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/š/3282_his_him_pronominal_suffix_3_masc_sg|3282_his_him_pronominal_suffix_3_masc_sg]]: Proto-Semitic *-šū̆, 'his; him (pronominal suffix, 3 masc. sg.)': reflexes in 8 language(s).
+[[wiki/semitic-roots/š/3282_his_him_pronominal_suffix_3_masc_sg|3282_his_him_pronominal_suffix_3_masc_sg]]: Proto-Semitic *-šū̆, 'his; him (pronominal suffix, 3 masc. sg.)': reflexes in 9 language(s).
 
 [[wiki/semitic-roots/š/3283_her_pronominal_suffix_3_fem_sg|3283_her_pronominal_suffix_3_fem_sg]]: Proto-Semitic *-šā̆, 'her (pronominal suffix, 3 fem. sg.)': reflexes in 7 language(s).
 
@@ -408,6 +408,10 @@ updated: 2026-11-07T22:57:34Z
 [[wiki/semitic-roots/š/4640_adorn_decorate_embellish|4640_adorn_decorate_embellish]]: Proto-Semitic *šrg, 'adorn, decorate, embellish': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/š/4656_dance_play_take_delight|4656_dance_play_take_delight]]: Proto-Semitic *šʕšʕ, 'dance, play, take delight': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/š/4710_to_sink|4710_to_sink]]: Proto-Semitic *šqʕ, 'to sink': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/š/4711_dregs_lees|4711_dregs_lees]]: Proto-Semitic *šamr-, 'dregs, lees': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/š/471_make_large_steps|471_make_large_steps]]: Proto-Semitic *šVṭVw-, 'make large steps': reflexes in 1 language(s).
 

@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/k
 desc: "Semitic roots whose first radical is k."
 created: 2026-10-22T17:38:31Z
-updated: 2026-11-09T16:48:41Z
+updated: 2026-11-10T05:11:30Z
 ---
 
 # wiki/semitic-roots/k
@@ -243,7 +243,7 @@ updated: 2026-11-09T16:48:41Z
 
 [[wiki/semitic-roots/k/297_vessel_for_beer_1_bowl_2|297_vessel_for_beer_1_bowl_2]]: Proto-Semitic *kaʾs-, 'vessel for beer' 1, 'bowl' 2: reflexes in 9 language(s).
 
-[[wiki/semitic-roots/k/298_vessel_1_measure_2_to_hold_contain_3|298_vessel_1_measure_2_to_hold_contain_3]]: Proto-Semitic *kalVy- ~ *kayl-, 'vessel' 1, 'measure' 2, 'to hold, contain' 3: reflexes in 8 language(s).
+[[wiki/semitic-roots/k/298_vessel_1_measure_2_to_hold_contain_3|298_vessel_1_measure_2_to_hold_contain_3]]: Proto-Semitic *kalVy- ~ *kayl-, 'vessel' 1, 'measure' 2, 'to hold, contain' 3: reflexes in 9 language(s).
 
 [[wiki/semitic-roots/k/2993_kor_large_dry_measure|2993_kor_large_dry_measure]]: Proto-Semitic *kurr-, 'kor (large dry measure)': reflexes in 6 language(s).
 
@@ -444,6 +444,8 @@ updated: 2026-11-09T16:48:41Z
 [[wiki/semitic-roots/k/4592_to_steer_a_ship_handle_a_boat|4592_to_steer_a_ship_handle_a_boat]]: Proto-Semitic *kwr, 'to steer a ship, handle a boat': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/k/4687_young_lion|4687_young_lion]]: Proto-Semitic *kapīr-, 'young lion': reflexes in 1 language(s).
+
+[[wiki/semitic-roots/k/4699_hunger|4699_hunger]]: Proto-Semitic *kpn, 'hunger': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/k/47_daughter_in_law_1_bride_2_sister_in_law_3_wife_s|47_daughter_in_law_1_bride_2_sister_in_law_3_wife_s]]: Proto-Semitic *kall-, 'daughter-in-law' 1, 'bride' 2, 'sister-in-law' 3, 'wife's sister' 4: reflexes in 13 language(s).
 

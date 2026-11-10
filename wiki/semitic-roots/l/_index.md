@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/l
 desc: "Semitic roots whose first radical is l."
 created: 2026-10-22T17:38:31Z
-updated: 2026-11-05T23:44:29Z
+updated: 2026-11-10T04:32:36Z
 ---
 
 # wiki/semitic-roots/l
@@ -206,6 +206,8 @@ updated: 2026-11-05T23:44:29Z
 [[wiki/semitic-roots/l/4595_cling_stick_together|4595_cling_stick_together]]: Proto-Semitic *lḥḳ, 'cling, stick together': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/l/4683_not_negator|4683_not_negator]]: Proto-Semitic *lm, 'not' (negator): reflexes in 1 language(s).
+
+[[wiki/semitic-roots/l/4700_to_revile_curse|4700_to_revile_curse]]: Proto-Semitic *lḥw/y, 'to revile, curse': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/l/553_strike|553_strike]]: Proto-Semitic *lVbaḫ-, 'strike': reflexes in 1 language(s).
 

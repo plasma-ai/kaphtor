@@ -57,7 +57,13 @@ Ilin-Tomich 2025 (PNM v6), s.v. rdj⸗s; Hoch 1994, 427; Harding 1971, 275; di M
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT6b\|HT6b]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT6b\|HT6b]] | Haghia Triada | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT6b\|HT6b]] | Ratis | Egyptian personal name rdj⸗s, 1; rival Safaitic RDS | SPECULATIVE |
 
 ## Onomasticon
 

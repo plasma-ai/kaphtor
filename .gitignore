@@ -30,3 +30,15 @@ data/ane/evidence-bank/
 
 # Private method-review notes, kept local.
 notes/mavridaki-2025-comparison.md
+
+# Melitz (the Minoan word expected for a meaning) with its rule table, morphology sidecar, tests and usage note:
+# in development, kept local for now.
+data/linear-a/lexicon_morph.*
+data/linear-a/melitz_sample.json
+data/linear-a/minoan_rules.*
+docs/melitz-usage.md
+tests/linear_a/test_melitz*.py
+tools/core/melitz*.py
+tools/linear_a/melitz.py
+tools/linear_a/build_lexicon_morph.py
+tools/linear_a/validation/check_lexicon_morph.py

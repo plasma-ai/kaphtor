@@ -34,7 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Ḏā-šiṭṭa |
 | Meaning | those of Acacia (gentilic, a roster unit); rival the unglossed Dasiṭa |
 | Root | ḏ + š-n-ṭ |
-| Proto-Semitic | \*šint- (#3629) |
+| Proto-Semitic | \*ḏī- (#K0877) + \*šint- (#3629) |
 | Language layer | Semitic |
 | Tags | compound, gentilic, personnel |
 | Semantic field | personnel |

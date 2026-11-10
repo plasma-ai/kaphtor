@@ -66,6 +66,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/M/MA_KI_DE_TE\|MA-KI-DE-TE]] | Majdat | SPECULATIVE |
 | [[wiki/linear-a/words/M/MA_TI_ZA_I_TE\|MA-TI-ZA-I-TE]] | Matiʿ-zayti | SPECULATIVE |
 | [[wiki/linear-a/words/M/MI_NU_TE\|MI-NU-TE]] | minūt | PROBABLE |
+| [[wiki/linear-a/words/O/O_TE_JA\|O-TE-JA]] | Ḫuteya | SPECULATIVE |
 | [[wiki/linear-a/words/P/PI_star34_TE\|PI-\*34-TE]] | piqitti | SPECULATIVE |
 | [[wiki/linear-a/words/P/PI_MI_NA_TE\|PI-MI-NA-TE]] | bi-mināti | SPECULATIVE |
 | [[wiki/linear-a/words/P/PI_TE_RI\|PI-TE-RI]] | piṭrī | CANDIDATE |

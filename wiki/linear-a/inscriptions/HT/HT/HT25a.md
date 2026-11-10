@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "incomplete"
-words: ["A-RI-NI-TA", "DI-NA-U", "DU-RU-WI", "I-KI-RA", "PA", "TU-QE-NU", "U-RE-WI", "ZU-JU-PU₂"]
+words: ["A-RI-NI-TA", "DI-NA-U", "DU-RU-WI", "I-KI-RA", "PA", "RU-NI", "TU-QE-NU", "U-RE-WI", "ZU-JU-PU₂"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -74,12 +74,12 @@ Unicode (Linear A block):
 
 **SPECULATIVE**, incomplete (status: incomplete).
 
-> \[…\] 1; Dīnāyu; RU-NI 1; ʾŪr-lēwī 1; Dīnāyu 1; She-of-the-Lion 1; Tuqnu the flautist 1; the Levite, the farmer 1; PA 1.
+> \[…\] 1; Dīnāyu; Runni 1; ʾŪr-lēwī 1; Dīnāyu 1; She-of-the-Lion 1; Tuqnu the flautist 1; the Levite, the farmer 1; PA 1.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | [[wiki/linear-a/words/D/DI_NA_U\|DI-NA-U]] | Dīnāyu | personal name, hypocoristic of a √d-y-n name ('Judge') | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/R/RU_NI\|RU-NI]] |  | personal name (unread), 1 |  | unread |
+| [[wiki/linear-a/words/R/RU_NI\|RU-NI]] | Runni | personal name, 'Jubilation', 1; rival 'the crier', Dīnāyu's trade | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/U/U_RE_WI\|U-RE-WI]] | ʾūr-lēwī | personal name, 'light of the Levite', 1 | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/D/DI_NA_U\|DI-NA-U]] | Dīnāyu | personal name, 1 | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/A/A_RI_NI_TA\|A-RI-NI-TA]] | ʾarīnīt | She-of-the-Lion (priestess or cult title), 1 | CANDIDATE | CANDIDATE (lexicon) |
@@ -99,7 +99,7 @@ Broken above; DI-NA-U stands twice (GORILA I 45).
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/A/A_RI_NI_TA|A-RI-NI-TA]], [[wiki/linear-a/words/D/DI_NA_U|DI-NA-U]], [[wiki/linear-a/words/D/DU_RU_WI|DU-RU-WI]], [[wiki/linear-a/words/I/I_KI_RA|I-KI-RA]], [[wiki/linear-a/words/P/PA|PA]], [[wiki/linear-a/words/T/TU_QE_NU|TU-QE-NU]], [[wiki/linear-a/words/U/U_RE_WI|U-RE-WI]], [[wiki/linear-a/words/Z/ZU_JU_PU2|ZU-JU-PU₂]].
+[[wiki/linear-a/words/A/A_RI_NI_TA|A-RI-NI-TA]], [[wiki/linear-a/words/D/DI_NA_U|DI-NA-U]], [[wiki/linear-a/words/D/DU_RU_WI|DU-RU-WI]], [[wiki/linear-a/words/I/I_KI_RA|I-KI-RA]], [[wiki/linear-a/words/P/PA|PA]], [[wiki/linear-a/words/R/RU_NI|RU-NI]], [[wiki/linear-a/words/T/TU_QE_NU|TU-QE-NU]], [[wiki/linear-a/words/U/U_RE_WI|U-RE-WI]], [[wiki/linear-a/words/Z/ZU_JU_PU2|ZU-JU-PU₂]].
 
 ## Corpus note
 

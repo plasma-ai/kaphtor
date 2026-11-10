@@ -59,7 +59,7 @@ di Mino; Montecchi 2010; HALOT; DULAT
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT6a\|HT6a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT6a\|HT6a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT9a\|HT9a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT13\|HT13]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT14\|HT14]] | Haghia Triada | Tablet | complete |
@@ -119,6 +119,7 @@ di Mino; Montecchi 2010; HALOT; DULAT
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/AN/ANZb/ANZb1\|ANZb1]] | terûmā | contribution, sacred offering (logographic TE &lt; √r-w-m) |  |
+| [[wiki/linear-a/inscriptions/HT/HT/HT6a\|HT6a]] | terûmā | contribution, offering | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT9a\|HT9a]] | terûmā | contribution (abbreviation) | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT13\|HT13]] | terûmā | contribution (transaction sign) | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT14\|HT14]] | terûmā | contribution (transaction or category marker) | CANDIDATE |

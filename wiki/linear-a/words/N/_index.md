@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/N
 desc: "Words whose first sign begins with N."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-07T03:55:55Z
+updated: 2026-11-10T17:23:44Z
 ---
 
 # wiki/linear-a/words/N
@@ -19,7 +19,7 @@ updated: 2026-11-07T03:55:55Z
 
 [[wiki/linear-a/words/N/NA_SI|NA_SI]]: nasīʾ: chief, prince (nasīʾ), broken before NA. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/N/NA_TI|NA_TI]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/N/NA_TI|NA_TI]]: naṭʿ: the Plantation (place name), 4 men in the HT 97a roster beside PA-I-TO. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/N/NA_TU_star301_NE|NA_TU_star301_NE]]: natūnān: the dedicated one (qatūl passive participle of √n-t-n + -ān); rival nātānān 'the giver'. Lexicon, PROBABLE (tier 3).
 

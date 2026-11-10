@@ -42,7 +42,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Word | Reading | Confidence |
 |---|---|---|
-| [[wiki/linear-a/words/star/star47_KU_NA\|\*47-KU-NA]] | sōkina | SPECULATIVE |
+| [[wiki/linear-a/words/star/star47_KU_NA\|\*47-KU-NA]] | sōkuna | SPECULATIVE |
 | [[wiki/linear-a/words/star/star305_WA_NA\|\*305-WA-NA]] | Dawana | SPECULATIVE |
 | [[wiki/linear-a/words/star/star333_DI_NA_SU_KA\|\*333-DI-NA-SU-KA]] | bīdi Našūka | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_DU_KU_MI_NA\|A-DU-KU-MI-NA]] | ʾAddu-kummina | SPECULATIVE |
@@ -91,6 +91,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/N/NA_DA_RE\|NA-DA-RE]] | Nadr | PROBABLE |
 | [[wiki/linear-a/words/N/NA_MA\|NA-MA]] | Naʿma | SPECULATIVE |
 | [[wiki/linear-a/words/N/NA_SI\|NA-SI]] | nasīʾ | SPECULATIVE |
+| [[wiki/linear-a/words/N/NA_TI\|NA-TI]] | naṭʿ | SPECULATIVE |
 | [[wiki/linear-a/words/N/NA_TU_star301_NE\|NA-TU-\*301-NE]] | natūnān | PROBABLE |
 | [[wiki/linear-a/words/O/O_KA_MI_ZA_SI_I_NA\|O-KA-MI-ZA-SI-I-NA]] | Ukammis-Sîn | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_NA_TU\|PA-NA-TU]] | banātu / panātu / (Ku)bānatu | CANDIDATE |

@@ -65,6 +65,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/J/JA_PA_RA_JA_SE\|JA-PA-RA-JA-SE]] | yapʾara yāṣē | CANDIDATE |
 | [[wiki/linear-a/words/K/KA_KU_PA\|KA-KU-PA]] | kawkab | CANDIDATE |
 | [[wiki/linear-a/words/K/KA_PA\|KA-PA]] | kapa(r) | CANDIDATE |
+| [[wiki/linear-a/words/K/KA_PA_QE\|KA-PA-QE]] | kapar qē(pu) | SPECULATIVE |
 | [[wiki/linear-a/words/K/KU_PA\|KU-PA]] | quppa | CANDIDATE |
 | [[wiki/linear-a/words/K/KU_PA_JA\|KU-PA-JA]] | Kubbaya | SPECULATIVE |
 | [[wiki/linear-a/words/K/KU_PA_RI\|KU-PA-RI]] | kuparī | SPECULATIVE |

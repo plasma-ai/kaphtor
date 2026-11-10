@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "complete"
-words: ["A-DU", "A-DU *307+*307", "DA-RE", "DA-RI-DA", "DA-SI-*118", "KU-ZU-NI", "PA₃-NI", "TE-KE", "U-*325-ZA"]
+words: ["A-DU", "A-DU *307+*307", "DA-RE", "DA-RI-DA", "DA-SI-*118", "KU-RO", "KU-ZU-NI", "PA₃-NI", "TE-KE", "U-*325-ZA"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -94,7 +94,7 @@ GORILA
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/A/A_DU|A-DU]], [[wiki/linear-a/words/A/A_DU_star307_plus_star307|A-DU \*307+\*307]], [[wiki/linear-a/words/D/DA_RE|DA-RE]], [[wiki/linear-a/words/D/DA_RI_DA|DA-RI-DA]], [[wiki/linear-a/words/D/DA_SI_star118|DA-SI-\*118]], [[wiki/linear-a/words/K/KU_ZU_NI|KU-ZU-NI]], [[wiki/linear-a/words/P/PA3_NI|PA₃-NI]], [[wiki/linear-a/words/T/TE_KE|TE-KE]], [[wiki/linear-a/words/U/U_star325_ZA|U-\*325-ZA]].
+[[wiki/linear-a/words/A/A_DU|A-DU]], [[wiki/linear-a/words/A/A_DU_star307_plus_star307|A-DU \*307+\*307]], [[wiki/linear-a/words/D/DA_RE|DA-RE]], [[wiki/linear-a/words/D/DA_RI_DA|DA-RI-DA]], [[wiki/linear-a/words/D/DA_SI_star118|DA-SI-\*118]], [[wiki/linear-a/words/K/KU_RO|KU-RO]], [[wiki/linear-a/words/K/KU_ZU_NI|KU-ZU-NI]], [[wiki/linear-a/words/P/PA3_NI|PA₃-NI]], [[wiki/linear-a/words/T/TE_KE|TE-KE]], [[wiki/linear-a/words/U/U_star325_ZA|U-\*325-ZA]].
 
 ## Corpus note
 

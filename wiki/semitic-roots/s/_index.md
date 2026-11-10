@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/s
 desc: "Semitic roots whose first radical is s."
 created: 2026-10-22T17:38:31Z
-updated: 2026-11-09T14:20:03Z
+updated: 2026-11-10T05:25:35Z
 ---
 
 # wiki/semitic-roots/s
@@ -105,7 +105,7 @@ updated: 2026-11-09T14:20:03Z
 
 [[wiki/semitic-roots/s/2809_hide|2809_hide]]: Proto-Semitic *sVtVr-, 'hide': reflexes in 18 language(s).
 
-[[wiki/semitic-roots/s/2827_carry|2827_carry]]: Proto-Semitic *sVbVl-, 'carry': reflexes in 8 language(s).
+[[wiki/semitic-roots/s/2827_carry|2827_carry]]: Proto-Semitic *sVbVl-, 'carry': reflexes in 9 language(s).
 
 [[wiki/semitic-roots/s/2828_bend|2828_bend]]: Proto-Semitic *sVgVp-, 'bend': reflexes in 2 language(s).
 
@@ -149,7 +149,7 @@ updated: 2026-11-09T14:20:03Z
 
 [[wiki/semitic-roots/s/3559_confidential_talk_council|3559_confidential_talk_council]]: Proto-Semitic *swd, 'confidential talk; council': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/s/3560_to_pay_tribute|3560_to_pay_tribute]]: Proto-Semitic *slʾ, 'to pay; tribute': reflexes in 2 language(s).
+[[wiki/semitic-roots/s/3560_to_pay_tribute|3560_to_pay_tribute]]: Proto-Semitic *slʾ, 'to pay; tribute': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/s/358_sealed_registered_possession_property_1_to_regis|358_sealed_registered_possession_property_1_to_regis]]: Proto-Semitic *sigill-, '(sealed) registered possession, property' 1, 'to register' 2: reflexes in 9 language(s).
 
@@ -203,7 +203,7 @@ updated: 2026-11-09T14:20:03Z
 
 [[wiki/semitic-roots/s/4253_axle|4253_axle]]: Proto-Semitic *sarn-, 'axle': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/s/4254_to_be_stubborn_rebellious_1_to_be_unreliable_fal|4254_to_be_stubborn_rebellious_1_to_be_unreliable_fal]]: Proto-Semitic *srr, 'to be stubborn, rebellious' 1, 'to be unreliable, false' 2: reflexes in 3 language(s).
+[[wiki/semitic-roots/s/4254_to_be_stubborn_rebellious_1_to_be_unreliable_fal|4254_to_be_stubborn_rebellious_1_to_be_unreliable_fal]]: Proto-Semitic *srr, 'to be stubborn, rebellious' 1, 'to be unreliable, false' 2: reflexes in 4 language(s).
 
 [[wiki/semitic-roots/s/4255_to_stone_to_clear_of_stones|4255_to_stone_to_clear_of_stones]]: Proto-Semitic *sql, 'to stone; to clear of stones': reflexes in 2 language(s).
 
@@ -229,7 +229,7 @@ updated: 2026-11-09T14:20:03Z
 
 [[wiki/semitic-roots/s/762_sesame|762_sesame]]: Proto-Semitic *sim-sim-, 'sesame': reflexes in 5 language(s).
 
-[[wiki/semitic-roots/s/833_drink_1_be_satisfied_with_drinking_2_buy_wine_in|833_drink_1_be_satisfied_with_drinking_2_buy_wine_in]]: Proto-Semitic *sVbVʾ-/*sVʾab-, 'drink' 1, 'be satisfied with drinking' 2, 'buy wine in order to drink it' 3: reflexes in 5 language(s).
+[[wiki/semitic-roots/s/833_drink_1_be_satisfied_with_drinking_2_buy_wine_in|833_drink_1_be_satisfied_with_drinking_2_buy_wine_in]]: Proto-Semitic *sVbVʾ-/*sVʾab-, 'drink' 1, 'be satisfied with drinking' 2, 'buy wine in order to drink it' 3: reflexes in 6 language(s).
 
 [[wiki/semitic-roots/s/887_to_be_equal_to_be_worth_cost_1_to_set_in_order_p|887_to_be_equal_to_be_worth_cost_1_to_set_in_order_p]]: Proto-Semitic *siway-, 'to be equal; to be worth, cost' 1, 'to set in order, place' 2: reflexes in 6 language(s).
 

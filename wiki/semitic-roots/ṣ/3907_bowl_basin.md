@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṣ/3907_bowl_basin
 title: "*ṣwʕ: 'bowl, basin'"
-desc: "Proto-Semitic *ṣwʕ, 'bowl, basin': reflexes in 6 language(s)."
+desc: "Proto-Semitic *ṣwʕ, 'bowl, basin': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3907"
@@ -30,6 +30,7 @@ updated: 2026-11-03T03:29:48Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Ugaritic | ṣʿ /ṣāʿu/, pl. /ṣāʿātu/ (UVST 170) | UVST 170 | gloss withheld |
+| Emar | ṣa-tû /ṣâʿtu/ (Pentiuc 2001, 162) | Pentiuc 2001 162 | gloss withheld |
 | Geez | ṣəwwāʕ (LGz. 566) | LGz. 566 | gloss withheld |
 | Syrian Aramaic | ṣāʕā (LGz. 566) | LGz. 566 | gloss withheld |
 | Tigrinya | ṣəwaʕ (LGz. 566) | LGz. 566 | gloss withheld |

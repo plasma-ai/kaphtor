@@ -34,7 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | rāʿû diqqi |
 | Meaning | herdsman of the small cattle (title, over a flock of 60); rival a personal name |
 | Root | r-ʿ-y + d-q-q |
-| Proto-Semitic | \*rVʕVy-, \*rāʕ- (#454) |
+| Proto-Semitic | \*rVʕVy-, \*rāʕ- (#454) + \*diḳ(ḳ)- (#1654) |
 | Language layer | Semitic |
 | Tags | compound, hapax, livestock, noun, occupation |
 | Semantic field | personnel |

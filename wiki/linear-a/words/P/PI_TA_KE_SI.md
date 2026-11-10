@@ -34,7 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Bīt-kissi |
 | Meaning | (Man) of the throne-house, crown dependant (title); rival Hurrian PN Pidi-kešḫi |
 | Root | b-y-t + k-s-ʾ |
-| Proto-Semitic | \*bayt- (#652) |
+| Proto-Semitic | \*bayt- (#652) + \*kVsVʾ- (#K0105) |
 | Language layer | Semitic |
 | Tags | compound, hapax, noun, title |
 | Semantic field | personnel |

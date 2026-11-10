@@ -71,6 +71,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_MA_JA\|A-MA-JA]] | ʿAmmaya | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_MA_WA_SI\|A-MA-WA-SI]] | ʿAmma-wāṣiʾ | CANDIDATE |
 | [[wiki/linear-a/words/A/A_MI_DA_U\|A-MI-DA-U]] | ʿAmmī-dāʿ(u) | CANDIDATE |
+| [[wiki/linear-a/words/A/A_MI_JA_RU\|A-MI-JA-RU]] | ʿAmmī-yarūm | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_MI_TA\|A-MI-TA]] | ʾamita | PROBABLE |
 | [[wiki/linear-a/words/A/A_NA_NE\|A-NA-NE]] | ḥanān | CANDIDATE |
 | [[wiki/linear-a/words/A/A_NA_NU\|A-NA-NU]] | Ḥanānu | SPECULATIVE |

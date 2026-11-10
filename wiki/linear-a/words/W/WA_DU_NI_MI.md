@@ -26,13 +26,14 @@ updated: 2026-11-04T01:52:28Z
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT6b\|HT6b]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT6b\|HT6b]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT85b\|HT85b]] | Haghia Triada | Tablet | complete |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT6b\|HT6b]] | wa-ʾadunīm | and (to) the lord(s), 3 and a fraction | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT85b\|HT85b]] |  | administrative roster label (unread) | SPECULATIVE |
 
 ## Onomasticon

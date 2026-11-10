@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/T
 desc: "Words whose first sign begins with T."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-09T22:09:55Z
+updated: 2026-11-10T17:45:20Z
 ---
 
 # wiki/linear-a/words/T
@@ -117,7 +117,7 @@ updated: 2026-11-09T22:09:55Z
 
 [[wiki/linear-a/words/T/TI_NA|TI_NA]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/T/TI_NI_TA|TI_NI_TA]]: Tinitu: Tinit (goddess, = Phoenician Tanit). Lexicon, CONFIRMED (tier 4).
+[[wiki/linear-a/words/T/TI_NI_TA|TI_NI_TA]]: Tinit: Tinit (goddess, = Phoenician Tanit). Lexicon, CONFIRMED (tier 4).
 
 [[wiki/linear-a/words/T/TI_NI_TA_star307|TI_NI_TA_star307]]: Tinit Dubur: Tinit of the Sanctuary (Goddess + Sanctuary pattern). Lexicon, PROBABLE (tier 3).
 
@@ -163,7 +163,7 @@ updated: 2026-11-09T22:09:55Z
 
 [[wiki/linear-a/words/T/TU_QE_NU|TU_QE_NU]]: Tuqnu: personal name: tuqnu 'good order, safety'; the flute-player of ZU-JU-PU₂. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/T/TU_RU_NU_SE_ME|TU_RU_NU_SE_ME]]: Unread (unread): no role; 1 occurrence(s).
+[[wiki/linear-a/words/T/TU_RU_NU_SE_ME|TU_RU_NU_SE_ME]]: Ṯ̣ūr-nušme: personal name, 'Rock of the people'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/T/TU_RU_SA|TU_RU_SA]]: Tursa: Shield, Protector (invoked in formula position two); the name Tursha. Lexicon, SPECULATIVE (tier 1).
 

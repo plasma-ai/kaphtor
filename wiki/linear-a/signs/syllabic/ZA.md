@@ -53,6 +53,7 @@ updated: 2026-10-24T16:17:50Z
 |---|---|---|
 | [[wiki/linear-a/words/A/A_star325_ZA\|A-\*325-ZA]] | ʾabūs(a) | CANDIDATE |
 | [[wiki/linear-a/words/A/A_DU_ZA\|A-DU-ZA]] | ʾAddu-ʿazz | SPECULATIVE |
+| [[wiki/linear-a/words/D/DI_DI_ZA_KE\|DI-DI-ZA-KE]] | Dīdī-zakī | SPECULATIVE |
 | [[wiki/linear-a/words/D/DU_RE_ZA_SE\|DU-RE-ZA-SE]] | turēṯa-se | CANDIDATE |
 | [[wiki/linear-a/words/M/MA_TI_ZA_I_TE\|MA-TI-ZA-I-TE]] | Matiʿ-zayti | SPECULATIVE |
 | [[wiki/linear-a/words/M/MA_ZA\|MA-ZA]] | mazza | SPECULATIVE |

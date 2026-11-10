@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/Q
 desc: "Words whose first sign begins with Q, and words that open with an illegible sign."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-03T12:43:04Z
+updated: 2026-11-10T17:23:44Z
 ---
 
 # wiki/linear-a/words/Q
@@ -53,7 +53,7 @@ updated: 2026-11-03T12:43:04Z
 
 [[wiki/linear-a/words/Q/QA_star310_I|QA_star310_I]]: qaynī: smith or cultic administrator; occupational title. Lexicon, PROBABLE (tier 3).
 
-[[wiki/linear-a/words/Q/QE|QE]]: qê: measure unit (dry/liquid capacity ≈ 1.2 liters)—metrological logographic abbreviation. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/Q/QE|QE]]: qê: measure unit (dry/liquid capacity ≈ 1.2 liters)—metrological logographic abbreviation; after a holder, qē(pu) 'commissioner' (see KA-PA-QE). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/Q/QE_DE_MI_NU|QE_DE_MI_NU]]: Qēdmīnu: personal name, 'Easterner, Ancient one'. Lexicon, SPECULATIVE (tier 1).
 

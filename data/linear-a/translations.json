@@ -1755,9 +1755,9 @@
         },
         {
           "linear_a": "DI-DI-ZA-KE",
-          "reading": null,
-          "gloss": "personal or institutional name. Not readable.",
-          "confidence": null
+          "reading": "Dīdī-zakī",
+          "gloss": "personal name, 'My beloved is pure'",
+          "confidence": "SPECULATIVE"
         },
         {
           "linear_a": "KU-PA₃-NU",
@@ -1772,7 +1772,7 @@
           "confidence": "CANDIDATE"
         }
       ],
-      "translation": "Parched grain(?). Outstanding: 197. Zuzu(?) 70; DI-DI-ZA-KE 52; Kubānu 109; Aranare 105.",
+      "translation": "Parched grain(?). Outstanding: 197. Zuzu(?) 70; Dīdī-zakī 52; Kubānu 109; Aranare 105.",
       "confidence": "CANDIDATE",
       "notes": "Substantially intact LM IB administrative roster; no commodity logogram is present. KI-RO 197 is not a total: the four following quantities sum to 336. QE-RA₂-U /qelwu/ 'parched grain' heads the list, as it closes the HT95a/b grain set. ZU-SU compares with the Late Bronze Age Ugaritic personal name {m}zu-zu (RSO 7, 3, lower edge 3; ORACC P347841), though SU/ZU remains unexplained. DI-DI-ZA-KE has no secure external analysis. KU-PA₃-NU is Kubānu 'devotee of Kubaba', masculine of KU-PA₃-NA-TU Kubānatu (di Mino, Ya Diktu); the rival compares Ugaritic syllabic {m}gu-pa-na (RS 11.839 r.8; ORACC P503288), alphabetic Gupan, and Linear B ku-pa-nu-we-to. A-RA-NA-RE is the Hurrian name Ugaritic ålnr, which DULAT sets beside Linear B a-ra-na-ro (DULAT 57; KN As 1516.11); Gordon's Egyptian 'Great-is-the-name-of-Re' is the rival.",
       "source": {
@@ -10972,7 +10972,7 @@
       "words": [
         {
           "linear_a": "TI-NI-TA",
-          "reading": "Tinitu",
+          "reading": "Tinit",
           "gloss": "Tinit (goddess), heading",
           "confidence": "CONFIRMED",
           "note": "Heads the roster before *307, the frame of A-DU (HT85a), A-SA-RA₂ (HT89) and KA-RU (HT97a). Tinit after Gordon 1966, §129."
@@ -14649,8 +14649,9 @@
         },
         {
           "linear_a": "*306-KI-TA₂",
-          "reading": null,
-          "meaning": "roster entry (unread)"
+          "reading": "ʿAkkīta",
+          "meaning": "personal name, 'the Akkoite (woman)', feminine gentilic of Akko",
+          "confidence": "SPECULATIVE"
         },
         {
           "linear_a": "A-RA-JU-U-DE-ZA",
@@ -14688,7 +14689,7 @@
           "confidence": "PROBABLE"
         }
       ],
-      "translation": "The Idaean (JE-DI)—*346—men: *306-KI-TA₂ 7; Ḥudaṯu of ʾArāyu 2; Qaqqaru 2; DI 2; estate 2 […]. Total 65. Grand total 97.",
+      "translation": "The Idaean (JE-DI)—*346—men: ʿAkkīta 7; Ḥudaṯu of ʾArāyu 2; Qaqqaru 2; DI 2; estate 2 […]. Total 65. Grand total 97.",
       "confidence": "CANDIDATE",
       "status": "incomplete",
       "notes": "Visible entries sum to 15 against KU-RO 65, so entries totaling 50 are lost. Across both faces, PO-TO-KU-RO 97 = KU-RO(a) 31 + KU-DA 1 + KU-RO(b) 65, verified exactly.",
@@ -15610,10 +15611,10 @@
         },
         {
           "linear_a": "RU-NI",
-          "reading": null,
-          "gloss": "personal name (unread), 1",
-          "confidence": null,
-          "note": "Sole attestation. No reading."
+          "reading": "Runni",
+          "gloss": "personal name, 'Jubilation', 1; rival 'the crier', Dīnāyu's trade",
+          "confidence": "SPECULATIVE",
+          "note": "Ugaritic rny PN (DULAT 731), Hebrew Rinnāh (1 Chr 4:20)."
         },
         {
           "linear_a": "U-RE-WI",
@@ -15665,7 +15666,7 @@
           "note": "Closes a roster of people. No reading."
         }
       ],
-      "translation": "[…] 1; Dīnāyu; RU-NI 1; ʾŪr-lēwī 1; Dīnāyu 1; She-of-the-Lion 1; Tuqnu the flautist 1; the Levite, the farmer 1; PA 1.",
+      "translation": "[…] 1; Dīnāyu; Runni 1; ʾŪr-lēwī 1; Dīnāyu 1; She-of-the-Lion 1; Tuqnu the flautist 1; the Levite, the farmer 1; PA 1.",
       "confidence": "SPECULATIVE",
       "status": "incomplete",
       "notes": "Broken above; DI-NA-U stands twice (GORILA I 45).",
@@ -16383,10 +16384,9 @@
         },
         {
           "linear_a": "O-TE-JA",
-          "reading": null,
-          "gloss": "personal name (unread), 1",
-          "confidence": null,
-          "note": "Not readable."
+          "reading": "Ḫuteya",
+          "gloss": "personal name, Hurrian Ḫutiya, 1",
+          "confidence": "SPECULATIVE"
         },
         {
           "linear_a": "RA-NA-TU-SU",
@@ -16431,7 +16431,7 @@
           "note": "Stands in a name slot, closing the list. Rival: Egyptian mkj·t."
         }
       ],
-      "translation": "SI-[·]-NE-TI 1; KA-QA 2 — ʾAddu-ʿazz 1; Tatare 1 — Tati-te 1; Ukammis-Sîn 1 — O-TE-JA 1 — Rannatušu 1; NI-MI 1 — TU-SU 1; Matiʿ-zayti 1 — MA-TE-TI 1; Makīt 1.",
+      "translation": "SI-[·]-NE-TI 1; KA-QA 2 — ʾAddu-ʿazz 1; Tatare 1 — Tati-te 1; Ukammis-Sîn 1 — Ḫuteya 1 — Rannatušu 1; NI-MI 1 — TU-SU 1; Matiʿ-zayti 1 — MA-TE-TI 1; Makīt 1.",
       "confidence": "SPECULATIVE",
       "status": "incomplete",
       "notes": "A list of names between rulings, each with 1, KA-QA with 2 (GORILA I 281).",
@@ -16609,6 +16609,149 @@
           "WI-RA-RE-MI-TE"
         ]
       }
+    },
+    "HT6a": {
+      "site": "Haghia Triada",
+      "support": "Tablet",
+      "words": [
+        {
+          "linear_a": "KA-PA",
+          "reading": "kapa(r)",
+          "gloss": "village, settlement; heading of the first section",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "DA-TA-RA",
+          "reading": "Daṯar",
+          "gloss": "personal name, 'Old'; rival 'He of the gate'",
+          "confidence": "SPECULATIVE"
+        },
+        {
+          "linear_a": "TE",
+          "reading": "terûmā",
+          "gloss": "contribution, offering",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "NI",
+          "reading": null,
+          "gloss": "figs, 15",
+          "confidence": "CONFIRMED"
+        },
+        {
+          "linear_a": "PI-TA-JA",
+          "reading": "Pitaya",
+          "gloss": "personal name, 24",
+          "confidence": "SPECULATIVE"
+        },
+        {
+          "linear_a": "JA+RU",
+          "reading": null,
+          "gloss": "ligature with ⅓",
+          "confidence": "SPECULATIVE",
+          "note": "No reading."
+        },
+        {
+          "linear_a": "MA-*321",
+          "reading": "maṯu",
+          "gloss": "infants or young dependents, 10",
+          "confidence": "SPECULATIVE",
+          "note": "See MA-ZU."
+        },
+        {
+          "linear_a": "O-RA₂-DI-NE",
+          "reading": "ʾŌl-dīn",
+          "gloss": "personal name, 'the Foremost is judge', 2",
+          "confidence": "SPECULATIVE"
+        },
+        {
+          "linear_a": "KA-PA-QE",
+          "reading": "kapar qē(pu)",
+          "gloss": "the village's commissioner, 5¾; rival 'the village: measures (qê)'",
+          "confidence": "SPECULATIVE"
+        },
+        {
+          "linear_a": "DA-QE-RA",
+          "reading": "ḏā-Qīra",
+          "gloss": "the (district) of Qīr, the walled town; heading of the second section",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "QE-PI-TA",
+          "reading": "qepīta",
+          "gloss": "box, chest, basket (container or unit), 22¾",
+          "confidence": "SPECULATIVE"
+        },
+        {
+          "linear_a": "NI",
+          "reading": null,
+          "gloss": "figs, 15½",
+          "confidence": "CONFIRMED"
+        }
+      ],
+      "translation": "The village: Daṯar, offering, figs 15; Pitaya 24; JA+RU ⅓; the infants 10; ʾŌl-dīn 2; the village's commissioner 5¾. The town: baskets 22¾; figs 15½.",
+      "confidence": "SPECULATIVE",
+      "status": "incomplete",
+      "notes": "A fig account in two sections, the village (KA-PA) and the town (DA-QE-RA) (GORILA I 13). KA-PA-QE runs over the line break, KA ending .4 and PA-QE heading .5.",
+      "source": {
+        "di Mino": [
+          "KA-PA-QE"
+        ]
+      }
+    },
+    "HT6b": {
+      "site": "Haghia Triada",
+      "support": "Tablet",
+      "words": [
+        {
+          "linear_a": "WA-DU-NI-MI",
+          "reading": "wa-ʾadunīm",
+          "gloss": "and (to) the lord(s), 3 and a fraction",
+          "confidence": "CANDIDATE",
+          "note": "See DU-NI-MI."
+        },
+        {
+          "linear_a": "RA-TI-SE",
+          "reading": "Ratis",
+          "gloss": "Egyptian personal name rdj⸗s, 1; rival Safaitic RDS",
+          "confidence": "SPECULATIVE"
+        },
+        {
+          "linear_a": "MA-RI-RE-I",
+          "reading": "marīrēy",
+          "gloss": "myrrh, 3",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "DU-DA-MA",
+          "reading": "Dūdāma",
+          "gloss": "personal name, 'Beloved', 66",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "DA-KI",
+          "reading": null,
+          "gloss": null,
+          "confidence": "SPECULATIVE",
+          "note": "Both signs dotted. Not readable."
+        },
+        {
+          "linear_a": "SA-MA",
+          "reading": "samm-",
+          "gloss": "herb, aromatic plant, 35; rival a place name",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "PA₃-NI-NA",
+          "reading": "banīna",
+          "gloss": "our builder, 17½",
+          "confidence": "PROBABLE"
+        }
+      ],
+      "translation": "And to the lords 3 and a fraction; Ratis 1; myrrh 3; Dūdāma 66; DA-KI 3¼; herbs 35; our builder 17½.",
+      "confidence": "SPECULATIVE",
+      "status": "incomplete",
+      "notes": "Lines .1–6 are written over an erasure (GORILA I 13). The face carries no commodity logogram."
     }
   }
 }

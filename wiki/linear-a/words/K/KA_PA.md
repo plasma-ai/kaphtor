@@ -60,7 +60,7 @@ di Mino; GlOS 1; Montecchi 2010
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT6a\|HT6a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT6a\|HT6a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT8b\|HT8b]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT94a\|HT94a]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT102\|HT102]] | Haghia Triada | Tablet | complete |
@@ -71,6 +71,7 @@ di Mino; GlOS 1; Montecchi 2010
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT6a\|HT6a]] | kapa(r) | village, settlement; heading of the first section | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT8b\|HT8b]] | kapa(r) | village, settlement | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT102\|HT102]] | kapa(r) | village (account heading) | CANDIDATE |
 

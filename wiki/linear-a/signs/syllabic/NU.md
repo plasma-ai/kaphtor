@@ -68,6 +68,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/T/TI_NU_JA\|TI-NU-JA]] | Ṯinuya | SPECULATIVE |
 | [[wiki/linear-a/words/T/TU_NU\|TU-NU]] | Tunu | SPECULATIVE |
 | [[wiki/linear-a/words/T/TU_QE_NU\|TU-QE-NU]] | Tuqnu | CANDIDATE |
+| [[wiki/linear-a/words/T/TU_RU_NU_SE_ME\|TU-RU-NU-SE-ME]] | Ṯ̣ūr-nušme | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_NU_star21F\|U-NU-\*21F]] | Unuḫu | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_TI_NU\|U-TI-NU]] | -u-tī-n(u) | CANDIDATE |
 

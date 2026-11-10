@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/1538_height_elevation_the_above_1_upper_part_2_be_hig
 title: "*ʕall- ~ *ʕVlʕVl- ~ *laʕl-: 'height, elevation, the above' 1, 'upper part' 2, 'be high, elevated' 3, 'raise, elevate' 4"
-desc: "Proto-Semitic *ʕall- ~ *ʕVlʕVl- ~ *laʕl-, 'height, elevation, the above' 1, 'upper part' 2, 'be high, elevated' 3, 'raise, elevate' 4: reflexes in 16 language(s)."
+desc: "Proto-Semitic *ʕall- ~ *ʕVlʕVl- ~ *laʕl-, 'height, elevation, the above' 1, 'upper part' 2, 'be high, elevated' 3, 'raise, elevate' 4: reflexes in 17 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1538"
@@ -46,6 +46,7 @@ updated: 2026-10-22T17:38:31Z
 | Soqotri | ḷe- 1 (LS 227; CSOL I 598; CSOL II 522–523 apud SEDonline 1462) | LS 227; SEDonline 1462 | gloss withheld |
 | Harsusi | l-/le-/el- 1 (HL 82 apud SEDonline 1347) | HL 82; SEDonline 1347 | gloss withheld |
 | Aramaic | ʕl (DNWSI 842) | DNWSI 842 | gloss withheld |
+| Ugaritic | ʕl adv. 1 (DULAT 153) | DULAT 153 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

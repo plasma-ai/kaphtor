@@ -84,6 +84,7 @@ No CH ancestor—Linear A innovation, possibly from MM seal whirl motif (Ferrara
 | [[wiki/linear-a/words/K/KA_NI_JA_MI\|KA-NI-JA-MI]] | qāniy-yammi | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_NU_TI\|KA-NU-TI]] | Ganuti | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_PA\|KA-PA]] | kapa(r) | CANDIDATE |
+| [[wiki/linear-a/words/K/KA_PA_QE\|KA-PA-QE]] | kapar qē(pu) | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_PO_RU\|KA-PO-RU]] | kapōru | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_RE_RO\|KA-RE-RO]] | Kariru | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_RI_star310_I\|KA-RI-\*310-I]] | Qarīnī | SPECULATIVE |
@@ -91,7 +92,7 @@ No CH ancestor—Linear A innovation, possibly from MM seal whirl motif (Ferrara
 | [[wiki/linear-a/words/K/KA_RO_PA3\|KA-RO-PA₃]] | karbu | PROBABLE |
 | [[wiki/linear-a/words/K/KA_RU\|KA-RU]] | karru | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_SA_RU\|KA-SA-RU]] | Qaṣṣāru | CANDIDATE |
-| [[wiki/linear-a/words/K/KA_TA_RE\|KA-TA-RE]] | kaṯare | SPECULATIVE |
+| [[wiki/linear-a/words/K/KA_TA_RE\|KA-TA-RE]] | Katare | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_TI\|KA-TI]] | Qāti | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_U_DE_TA\|KA-U-DE-TA]] | Kaw-tatta | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_U_ZU_NI\|KA-U-ZU-NI]] | Kawṯuni | SPECULATIVE |

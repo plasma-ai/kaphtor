@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ḥayy- 'alive, living' (BK 1, 523) | BK 1, 523 |  |
-| Ugaritic | /ḥ-w/y-y/ (DULAT 374) | DULAT 374 | gloss withheld |
+| Ugaritic | /ḥ-w/y-y/ (DULAT 374); /ḥiyyūma/ (UVST 124) | DULAT 374; UVST 124 | gloss withheld |
 | Phoenician | ḥwy (B 308); ḥwy (Krahmalkov 178); ḥym (T 103) | B 308; Krahmalkov 178; T 103 | gloss withheld |
 | Hebrew | ḥay (HALOT 308) | HALOT 308 | gloss withheld |
 | Aramaic | ḥyyʾ (OLA80 §9.5); ḤYY (Aramaic Root Atlas; DNWSI 354) | OLA80 §9.5; Aramaic Root Atlas; DNWSI 354; Anderson–Moser 2024 root ḥwy | gloss withheld |
@@ -48,7 +48,7 @@ updated: 2026-10-22T17:38:31Z
 | Amharic | həywät, həyaw (LGz. 252) | LGz. 252 |  |
 | Gurage | xəywät (LGz. 252) | LGz. 252 |  |
 | Judaic Aramaic | ḥayyin (T 102) | T 102 |  |
-| Canaanite | EA ḫaya (T 102) | T 102 | gloss withheld |
+| Canaanite | EA ḫaya (T 102); EA ú-WA-i-mi, a West Semitic loanword (CAD U/W 360) | T 102; CAD U/W 360 | gloss withheld |
 | Eblaitic | ʔà-u₉ /ḥayyu(m)/ DN (= ᵈEN.KI, Akk. Ea), from ḥ-y-y/w (VE 803; Krebernik 1983, 31); a-ʔà-a /ḥ-w-y, ḥ-y-y/; ʔà-u₉ /ḥay(ya)/ (Sanmartín GlOS 1, 260–261) | VE 803; Krebernik 1983, 31; Sanmartín GlOS 1, 260–261 | gloss withheld |
 | Jibbali | ḥē (Kogan 2015, ch. 2 §4.2 no. 26) | Kogan 2015 ch. 2 §4.2 no. 26 | gloss withheld |
 | Biblical Aramaic | ḥay (HALOT 308); \*ḥay, pl. ḥayyīn (HALOT 307); ḥyy (HALOT 309) | HALOT 308; HALOT 307; HALOT 309 | gloss withheld |

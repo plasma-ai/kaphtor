@@ -58,7 +58,7 @@ di Mino
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT102\|HT102]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT6a\|HT6a]] | Haghia Triada | Tablet | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/HT/HT/HT6a\|HT6a]] | Haghia Triada | Tablet | incomplete; form not in transliteration |
 
 ## In translations
 

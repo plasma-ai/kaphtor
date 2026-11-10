@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ġ
 desc: "Semitic roots whose first radical is ġ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-11-05T23:44:29Z
+updated: 2026-11-10T04:32:36Z
 ---
 
 # wiki/semitic-roots/ġ
@@ -190,6 +190,8 @@ updated: 2026-11-05T23:44:29Z
 [[wiki/semitic-roots/ġ/4491_envy|4491_envy]]: Proto-Semitic *ɣbṭ, 'envy': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ġ/4511_become_moldy_be_in_a_corrupt_state|4511_become_moldy_be_in_a_corrupt_state]]: Proto-Semitic *ɣml, 'become moldy, be in a corrupt state': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/ġ/4702_to_shut_the_eyes_a_door|4702_to_shut_the_eyes_a_door]]: Proto-Semitic *ɣṣ̂w, 'to shut (the eyes, a door)': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/ġ/778_dust|778_dust]]: Proto-Semitic *ɣabar-, 'dust': reflexes in 2 language(s).
 

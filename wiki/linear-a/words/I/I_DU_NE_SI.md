@@ -34,7 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Yidu-naḥši |
 | Meaning | Strength is alive, the arm thrives (personal name); rival Yidu-nešše, Hurrian 'prosperity' |
 | Root | y-d + n-ḥ-š |
-| Proto-Semitic | \*yad- ~ \*ʾid- (#2046) |
+| Proto-Semitic | \*yad- ~ \*ʾid- (#2046) + \*nḥš (#4690) |
 | Language layer | Semitic |
 | Tags | compound, hapax, personal_name |
 | Semantic field | personal_name |

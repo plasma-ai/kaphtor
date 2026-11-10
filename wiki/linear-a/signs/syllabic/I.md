@@ -47,6 +47,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_TA_I_star301_WA_JA\|A-TA-I-\*301-WA-JA]] | ʾatainawaya | CONFIRMED |
 | [[wiki/linear-a/words/D/DA_I\|DA-I]] | dayu | CANDIDATE |
 | [[wiki/linear-a/words/D/DA_I_PI_TA\|DA-I-PI-TA]] | Ṭayyibat | SPECULATIVE |
+| [[wiki/linear-a/words/D/DI_JA_I\|DI-JA-I]] | Diʾyay | SPECULATIVE |
 | [[wiki/linear-a/words/D/DU_MA_I_NA\|DU-MA-I-NA]] | ḏū-maʿīna | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_DA\|I-DA]] | ʾIda | PROBABLE |
 | [[wiki/linear-a/words/I/I_DA_A\|I-DA-A]] | ʾIda | PROBABLE |

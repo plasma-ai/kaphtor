@@ -31,7 +31,7 @@ updated: 2026-11-04T02:29:02Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | qʕr a,1 1 (Lane 2547) | Lane 2547 |  |
-| Hebrew | קְעָרָה 2 (HALOT 1116–1117) | HALOT 1116–1117 | gloss withheld |
+| Hebrew | קְעָרָה 2 (HALOT 1116–1117); שְׁקַעֲרוּרֹת 1 (HALOT 1645) | HALOT 1116–1117; HALOT 1645 | gloss withheld |
 | Syrian Aramaic | məqaʿʿar 1 (HALOT 1116); quʿʿārā 2 (HALOT 1116–1117) | HALOT 1116; HALOT 1116–1117 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

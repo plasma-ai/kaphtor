@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 9a and 9b, the wine roster: QE-PU 2 on both faces, one of two entries unchanged (with DI-NA-U 4) while the total falls from 31¾ to 24 (GORILA I 19). QE writes q and the Assyrian ē, PU the -pu. An Akkadian title, qīpu (qēpu) 'official' (CAD Q 264), in a recipient slot beside the names Padī and Dīnāyu. Rival: the name Qīpu.
+HT 9a and 9b, the wine roster: QE-PU 2 on both faces, one of two entries unchanged (with DI-NA-U 4) while the total falls from 31¾ to 24 (GORILA I 19). QE writes q and the Assyrian ē, PU the -pu. An Akkadian title, qīpu (qēpu) 'official' (CAD Q 264), in a recipient slot beside the names Padī and Dīnāyu. Rival: the name Qīpu. Abbreviated QE after a holder: see KA-PA-QE.
 
 ### Cognates
 

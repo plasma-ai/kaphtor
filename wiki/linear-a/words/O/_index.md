@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/O
 desc: "Words whose first sign begins with O."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-04T01:52:28Z
+updated: 2026-11-10T05:06:50Z
 ---
 
 # wiki/linear-a/words/O
@@ -47,7 +47,7 @@ updated: 2026-11-04T01:52:28Z
 
 [[wiki/linear-a/words/O/O_TA_NI_ZA_SE|O_TA_NI_ZA_SE]]: Unread (role only): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/O/O_TE_JA|O_TE_JA]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/O/O_TE_JA|O_TE_JA]]: Ḫuteya: personal name, Hurrian Ḫutiya. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/O/O_TI_q_broken_end|O_TI_q_broken_end]]: Unread (role only): personal name; 1 occurrence(s).
 

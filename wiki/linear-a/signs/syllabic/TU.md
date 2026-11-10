@@ -85,6 +85,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/T/TU_PA_DI_DA\|TU-PA-DI-DA]] | ṭūb-dida | SPECULATIVE |
 | [[wiki/linear-a/words/T/TU_PI_TA\|TU-PI-TA]] | ṯāpiṭu | CANDIDATE |
 | [[wiki/linear-a/words/T/TU_QE_NU\|TU-QE-NU]] | Tuqnu | CANDIDATE |
+| [[wiki/linear-a/words/T/TU_RU_NU_SE_ME\|TU-RU-NU-SE-ME]] | Ṯ̣ūr-nušme | SPECULATIVE |
 | [[wiki/linear-a/words/T/TU_RU_SA\|TU-RU-SA]] | Tursa | SPECULATIVE |
 | [[wiki/linear-a/words/T/TU_SU_PU2\|TU-SU-PU₂]] | Tešub | CANDIDATE |
 

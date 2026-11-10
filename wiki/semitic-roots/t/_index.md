@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/t
 desc: "Semitic roots whose first radical is t."
 created: 2026-10-22T17:38:31Z
-updated: 2026-11-05T23:44:29Z
+updated: 2026-11-10T04:32:36Z
 ---
 
 # wiki/semitic-roots/t
@@ -154,6 +154,8 @@ updated: 2026-11-05T23:44:29Z
 [[wiki/semitic-roots/t/4445_mark_sign|4445_mark_sign]]: Proto-Semitic *taw-, 'mark, sign': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/t/4489_wart|4489_wart]]: Proto-Semitic *tll, 'wart': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/t/4712_cypress|4712_cypress]]: Proto-Semitic *tiʔaššur-, 'cypress': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/t/530_press_1_cut_destroy_2|530_press_1_cut_destroy_2]]: Proto-Semitic *tuk-, 'press' 1, 'cut, destroy' 2: reflexes in 6 language(s).
 

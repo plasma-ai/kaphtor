@@ -37,6 +37,6 @@ updated: 2026-11-04T01:52:28Z
 
 Status **unread** (nothing known).
 
-HT 42+59, on the HT 59 piece: A622 (OLE+MI), then SU-DU with no divider between them (GORILA I 80). It is unclear whether the word ends at DU or ran on to the next line, lost with the rest of the tablet. Sole attestation. No reading.
+GORILA I 80–81 reads HT 42+59 .5 \] OLE+MI 2̣ SU-DU\[ on the HT 59 piece: the 2 dotted, no divider, DU's top in the damage, nothing visible after it, and the line end bracketed as broken, as after OLE+KI (.6) and OLE+U (.7). If the word ends at DU, sūdu 'council' (Heb. sôd, Ug. sd, Sab. ms³wd), or the name Sūdu (Heb. Sôdî, Ug. sdy). Sole attestation. Not readable.
 
 <!-- END kaphtor:record -->

@@ -18,7 +18,7 @@ updated: 2026-10-22T18:14:10Z
 
 [[data/semitic-roots/semitic_roots|semitic_roots]]: Proto-Semitic roots with their reflexes across the Semitic languages, each reflex cited to its source.
 
-[[data/semitic-roots/semitic_roots.json|semitic_roots.json]]: 5,157 Proto-Semitic roots with their cited reflexes (SED, HALOT, DULAT, CAD, Lane, Klein, Ricks 1982, Rubin 2018, Al-Jallad 2026, Tāj and others); datasheet `semitic_roots.md`; CC BY 4.0.
+[[data/semitic-roots/semitic_roots.json|semitic_roots.json]]: 5,187 Proto-Semitic roots with their cited reflexes (SED, HALOT, DULAT, CAD, Lane, Klein, Ricks 1982, Rubin 2018, Al-Jallad 2026, Tāj and others); datasheet `semitic_roots.md`; CC BY 4.0.
 
 ***
 

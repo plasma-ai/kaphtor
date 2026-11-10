@@ -34,7 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾŌl-dīn |
 | Meaning | personal name, 'the Foremost is judge' (Ugaritic PN ảwldn); rival ʾIl-dīn 'El is judge' |
 | Root | ʾ-w-l + d-y-n |
-| Proto-Semitic | \*dyn- (#S36) |
+| Proto-Semitic | \*ʾawl- (#3783) + \*dyn- (#S36) |
 | Language layer | Semitic |
 | Tags | compound, hapax, personal_name |
 | Semantic field | personal_name |
@@ -59,7 +59,13 @@ di Mino; DULAT; Lane; GlOS 1
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT6a\|HT6a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT6a\|HT6a]] | Haghia Triada | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT6a\|HT6a]] | ʾŌl-dīn | personal name, 'the Foremost is judge', 2 | SPECULATIVE |
 
 ## Onomasticon
 

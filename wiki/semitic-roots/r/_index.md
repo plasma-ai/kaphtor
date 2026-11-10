@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/r
 desc: "Semitic roots whose first radical is r."
 created: 2026-10-22T17:38:31Z
-updated: 2026-11-06T03:06:37Z
+updated: 2026-11-10T05:25:35Z
 ---
 
 # wiki/semitic-roots/r
@@ -113,7 +113,7 @@ updated: 2026-11-06T03:06:37Z
 
 [[wiki/semitic-roots/r/2807_to_pave_to_lay_stones_firmly_build|2807_to_pave_to_lay_stones_firmly_build]]: Proto-Semitic *rVṣVp-, 'to pave; to lay stones firmly, build': reflexes in 6 language(s).
 
-[[wiki/semitic-roots/r/2822_run|2822_run]]: Proto-Semitic *rVhVṭ-, 'run': reflexes in 4 language(s).
+[[wiki/semitic-roots/r/2822_run_1_trough_channel_2|2822_run_1_trough_channel_2]]: Proto-Semitic *rVhVṭ-, 'run' 1, 'trough, channel' 2: reflexes in 6 language(s).
 
 [[wiki/semitic-roots/r/2823_trade|2823_trade]]: Proto-Semitic *rVkVl-, 'trade': reflexes in 5 language(s).
 
@@ -294,6 +294,14 @@ updated: 2026-11-06T03:06:37Z
 [[wiki/semitic-roots/r/4633_be_wet_moistened_dip_in_water|4633_be_wet_moistened_dip_in_water]]: Proto-Semitic *rms, 'be wet, moistened; dip in water': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/r/4636_clear_the_throat_and_spit_saliva|4636_clear_the_throat_and_spit_saliva]]: Proto-Semitic *rVṣ̂Vb-, 'clear the throat and spit; saliva': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/r/4707_clod_of_earth|4707_clod_of_earth]]: Proto-Semitic *rigb-, 'clod of earth': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/r/4708_to_grumble_slander|4708_to_grumble_slander]]: Proto-Semitic *rgn, 'to grumble, slander': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/r/4709_to_take_out_bread_from_the_oven_honey_from_the_h|4709_to_take_out_bread_from_the_oven_honey_from_the_h]]: Proto-Semitic *rdy, 'to take out (bread from the oven, honey from the hive)': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/r/4715_a_light_garment|4715_a_light_garment]]: Proto-Semitic *rayṭ-, 'a light garment': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/r/483_run_for_help_1_run_2|483_run_for_help_1_run_2]]: Proto-Semitic *rVwVṯ̣-, 'run for help' 1, 'run' 2: reflexes in 15 language(s).
 

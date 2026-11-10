@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K
 desc: "Words whose first sign begins with K."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-08T16:32:12Z
+updated: 2026-11-10T17:23:44Z
 ---
 
 # wiki/linear-a/words/K
@@ -49,7 +49,7 @@ updated: 2026-11-08T16:32:12Z
 
 [[wiki/linear-a/words/K/KA_PA|KA_PA]]: kapa(r): village, settlement (kapar); rival an institution. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/K/KA_PA_QE|KA_PA_QE]]: Unread (edge overlap): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/K/KA_PA_QE|KA_PA_QE]]: kapar qē(pu): the village's commissioner, a recipient of figs; rival 'the village: measures (qê)'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/K/KA_PO_RU|KA_PO_RU]]: kapōru: bowl; rival kubburu 'extra share'. Lexicon, SPECULATIVE (tier 1).
 
@@ -75,7 +75,7 @@ updated: 2026-11-08T16:32:12Z
 
 [[wiki/linear-a/words/K/KA_SI_A_TE|KA_SI_A_TE]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/K/KA_TA_RE|KA_TA_RE]]: kaṯare: Kothar (divine craftsman god). Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/K/KA_TA_RE|KA_TA_RE]]: Katare: Katara, a town of western Crete (place name; Linear B ka-ta-ra). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/K/KA_TI|KA_TI]]: Qāti: personal name Qāti 'Hand'; rivals Gattī 'the man of the press, the Gittite', Qəhātî 'Kohathite', Kittî 'Kittian'. Lexicon, SPECULATIVE (tier 1).
 

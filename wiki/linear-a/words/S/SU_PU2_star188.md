@@ -34,7 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | suppu buṭni |
 | Meaning | bowl of terebinth (pistachio) nuts (commodity measured in bowl-units) |
 | Root | s-p-p + b-ṭ-n |
-| Proto-Semitic | \*sapp- (#311) |
+| Proto-Semitic | \*sapp- (#311) + \*buṭm(-at)- (#3201) |
 | Language layer | Semitic |
 | Tags | commodity, compound, foodstuff, hapax, logogram, vessel |
 | Semantic field | commodity |

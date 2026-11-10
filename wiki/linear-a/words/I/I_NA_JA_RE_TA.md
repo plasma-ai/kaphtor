@@ -34,7 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | hinna yarēʾat-\[…\] |
 | Meaning | behold, she who reveres… (broken) |
 | Root | h-n-n + y-r-ʾ |
-| Proto-Semitic | \*yarVʾ- (#S17) |
+| Proto-Semitic | \*hn (#3482) + \*yarVʾ- (#S17) |
 | Language layer | Semitic |
 | Tags | compound, fragmentary, hapax, libation_formula, noun, ritual |
 | Semantic field | ritual |

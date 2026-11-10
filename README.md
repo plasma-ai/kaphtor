@@ -6,9 +6,9 @@
 <p align="center">
   <a href="wiki/linear-a/inscriptions/_index.md"><img alt="corpus: 1,719 records" src="https://img.shields.io/badge/corpus-1,719%20records-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
   <a href="wiki/linear-a/inscriptions/_index.md"><img alt="translations: 451" src="https://img.shields.io/badge/translations-451-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
-  <a href="wiki/linear-a/words/_index.md"><img alt="lexicon: 659 entries" src="https://img.shields.io/badge/lexicon-659%20entries-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
-  <a href="wiki/linear-a/words/_index.md"><img alt="names: 375" src="https://img.shields.io/badge/names-375-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
-  <a href="wiki/semitic-roots/_index.md"><img alt="Semitic roots: 5,157" src="https://img.shields.io/badge/Semitic%20roots-5,157-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <a href="wiki/linear-a/words/_index.md"><img alt="lexicon: 668 entries" src="https://img.shields.io/badge/lexicon-668%20entries-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <a href="wiki/linear-a/words/_index.md"><img alt="names: 380" src="https://img.shields.io/badge/names-380-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <a href="wiki/semitic-roots/_index.md"><img alt="Semitic roots: 5,187" src="https://img.shields.io/badge/Semitic%20roots-5,187-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
   <a href="wiki/linear-a/signs/_index.md"><img alt="sign values: 37" src="https://img.shields.io/badge/sign%20values-37-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
   <br>
   <a href="https://github.com/plasma-ai/kaphtor/actions/workflows/gate.yml"><img alt="gate" src="https://github.com/plasma-ai/kaphtor/actions/workflows/gate.yml/badge.svg"></a>
@@ -25,6 +25,11 @@ corpora of the ancient Near East.
 
 Browse an inscription, trace a proposed reading to its evidence, or run the comparative tools on your own questions.
 The datasets and tools work independently of the proposed decipherment.
+
+**Explore it live at [linear-a.ai](https://linear-a.ai/):** the Linear A Lexicon, an interactive dictionary of Minoan
+built from this repository, where every word, name and Semitic root opens with its cognates, citations, and commentary.
+Design by [Maxim Kuznetsov](https://github.com/mkuznetsov_plasma) and
+[Vittorio Retrivi](https://github.com/vretrivi_plasma).
 
 The case for the readings is set out in [Opening Linear A](https://plasma.ai/research/linear-a) and in
 [*Ya Diktu*](https://www.minoanmystery.org/linear-a/ya-diktu-grammar-tom-di-mino.pdf), the grammar of the peak

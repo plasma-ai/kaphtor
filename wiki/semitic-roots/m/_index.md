@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/m
 desc: "Semitic roots whose first radical is m."
 created: 2026-10-22T17:38:31Z
-updated: 2026-11-07T20:00:58Z
+updated: 2026-11-10T05:11:30Z
 ---
 
 # wiki/semitic-roots/m
@@ -223,7 +223,7 @@ updated: 2026-11-07T20:00:58Z
 
 [[wiki/semitic-roots/m/3460_perhaps_lit_what_do_I_know_q|3460_perhaps_lit_what_do_I_know_q]]: Proto-Semitic *mīna ʾīdaʕ, 'perhaps (lit. what do I know?)': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/m/3461_hammer_pick_boring_tool|3461_hammer_pick_boring_tool]]: Proto-Semitic *mnḳb, 'hammer, pick, boring tool': reflexes in 5 language(s).
+[[wiki/semitic-roots/m/3461_hammer_pick_boring_tool|3461_hammer_pick_boring_tool]]: Proto-Semitic *mnḳb, 'hammer, pick, boring tool': reflexes in 6 language(s).
 
 [[wiki/semitic-roots/m/3462_justice_rectitude|3462_justice_rectitude]]: Proto-Semitic *mayšar-, 'justice, rectitude': reflexes in 6 language(s).
 
@@ -372,6 +372,8 @@ updated: 2026-11-07T20:00:58Z
 [[wiki/semitic-roots/m/4605_spread_out_disperse|4605_spread_out_disperse]]: Proto-Semitic *mṣr, 'spread out, disperse': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/m/4606_melt_flow_of_a_liquid|4606_melt_flow_of_a_liquid]]: Proto-Semitic *myʕ, 'melt, flow (of a liquid)': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/m/4716_to_give_present|4716_to_give_present]]: Proto-Semitic *mgn, 'to give, present': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/m/480_go_away_1_pass_by_pass_over_2_speck_3|480_go_away_1_pass_by_pass_over_2_speck_3]]: Proto-Semitic *mur-, 'go away' 1, 'pass by, pass over' 2, 'speck' 3: reflexes in 7 language(s).
 

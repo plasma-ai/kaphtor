@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ṭ
 desc: "Semitic roots whose first radical is ṭ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-11-06T03:06:37Z
+updated: 2026-11-10T03:44:59Z
 ---
 
 # wiki/semitic-roots/ṭ
@@ -146,6 +146,8 @@ updated: 2026-11-06T03:06:37Z
 [[wiki/semitic-roots/ṭ/4664_to_roar_groan|4664_to_roar_groan]]: Proto-Semitic *ṭḥr, 'to roar, groan': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/ṭ/4665_cotton|4665_cotton]]: Proto-Semitic *ṭūṭ-, 'cotton': reflexes in 7 language(s).
+
+[[wiki/semitic-roots/ṭ/4691_to_dip_immerse|4691_to_dip_immerse]]: Proto-Semitic *ṭbl, 'to dip, immerse': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/ṭ/490_fly_1_jump_up_2|490_fly_1_jump_up_2]]: Proto-Semitic *ṭVwVŝ-, 'fly' 1, 'jump up' 2: reflexes in 3 language(s).
 

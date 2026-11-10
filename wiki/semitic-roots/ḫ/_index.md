@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ḫ
 desc: "Semitic roots whose first radical is ḫ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-11-05T22:08:06Z
+updated: 2026-11-10T03:48:00Z
 ---
 
 # wiki/semitic-roots/ḫ
@@ -336,6 +336,10 @@ updated: 2026-11-05T22:08:06Z
 [[wiki/semitic-roots/ḫ/4586_be_short_shorten|4586_be_short_shorten]]: Proto-Semitic *ḫVṣar-, 'be short, shorten': reflexes in 8 language(s).
 
 [[wiki/semitic-roots/ḫ/459_go_out_drive_out|459_go_out_drive_out]]: Proto-Semitic *ḫVrug-, 'go out, drive out': reflexes in 6 language(s).
+
+[[wiki/semitic-roots/ḫ/4693_to_crush_smite|4693_to_crush_smite]]: Proto-Semitic *ḫtʔ, 'to crush, smite': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ḫ/4695_to_sink_down_wilt_1_to_be_broken_2|4695_to_sink_down_wilt_1_to_be_broken_2]]: Proto-Semitic *ḫsp, 'to sink down, wilt' 1, 'to be broken' 2: reflexes in 3 language(s).
 
 [[wiki/semitic-roots/ḫ/475_cross|475_cross]]: Proto-Semitic *ḫVŝu/ip-, 'cross': reflexes in 1 language(s).
 

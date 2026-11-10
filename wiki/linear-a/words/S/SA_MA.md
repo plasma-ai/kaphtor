@@ -60,13 +60,14 @@ di Mino
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT10a\|HT10a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT52a\|HT52a]] | Haghia Triada | Tablet | none |
-| [[wiki/linear-a/inscriptions/HT/HT/HT6b\|HT6b]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT6b\|HT6b]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA10b\|ZA10b]] | Zakros | Tablet | incomplete |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT6b\|HT6b]] | samm- | herb, aromatic plant, 35; rival a place name | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT10a\|HT10a]] | samm- | herbs, aromatic plants, 4 | CANDIDATE |
 
 <!-- END kaphtor:record -->

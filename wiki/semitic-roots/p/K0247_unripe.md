@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/K0247_unripe
 title: "*pVgVg-: 'unripe'"
-desc: "Proto-Semitic *pVgVg-, 'unripe': reflexes in 6 language(s)."
+desc: "Proto-Semitic *pVgVg-, 'unripe': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0247"
@@ -35,6 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | paggᵉtā (HALOT 909) | HALOT 909 |  |
 | Syrian Aramaic | paggā (HALOT 909; Payne Smith 433) | HALOT 909; Payne Smith 433 |  |
 | Arabic | fijj (HALOT 909) | HALOT 909 |  |
+| Hebrew | פַּג, pl. פַּגֶּיהָ of the fig tree (HALOT 909) | HALOT 909 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

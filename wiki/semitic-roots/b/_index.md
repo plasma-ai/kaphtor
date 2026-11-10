@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/b
 desc: "Semitic roots whose first radical is b."
 created: 2026-10-22T17:38:31Z
-updated: 2026-11-06T03:06:34Z
+updated: 2026-11-10T03:48:00Z
 ---
 
 # wiki/semitic-roots/b
@@ -45,7 +45,7 @@ updated: 2026-11-06T03:06:34Z
 
 [[wiki/semitic-roots/b/133_shame_1_be_ashamed_2|133_shame_1_be_ashamed_2]]: Proto-Semitic *bu(h)ṯ- 1, *b(h)ṯ 2, 'shame' 1, 'be ashamed' 2: reflexes in 8 language(s).
 
-[[wiki/semitic-roots/b/134_have_little_milk|134_have_little_milk]]: Proto-Semitic *bkʾ-, 'have little milk': reflexes in 1 language(s).
+[[wiki/semitic-roots/b/134_have_little_milk_1_a_shrub_with_milky_sap_2|134_have_little_milk_1_a_shrub_with_milky_sap_2]]: Proto-Semitic *bkʾ-, 'have little milk' 1, 'a shrub with milky sap' 2: reflexes in 2 language(s).
 
 [[wiki/semitic-roots/b/135_kind_of_skin_disease_1_shine_2|135_kind_of_skin_disease_1_shine_2]]: Proto-Semitic *bahaḳ-, '(kind of) skin disease' 1, 'shine' 2: reflexes in 10 language(s).
 

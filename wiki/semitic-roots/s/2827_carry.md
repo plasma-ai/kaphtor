@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/s/2827_carry
 title: "*sVbVl-: 'carry'"
-desc: "Proto-Semitic *sVbVl-, 'carry': reflexes in 8 language(s)."
+desc: "Proto-Semitic *sVbVl-, 'carry': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2827"
@@ -37,6 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Amorite | zbl: zābilum, fem. zābilatum, zabūlum, ziblum (Gelb AS 21, 35) | Gelb AS 21 35 | gloss withheld |
 | Biblical Aramaic | sbl po. pt. pass. (HALOT BArm. s.v. סבל) | HALOT BArm. s.v. סבל | gloss withheld |
 | Aramaic | sbl (DNWSI 775) | DNWSI 775 | gloss withheld |
+| Ugaritic | zbl (DULAT 982) | DULAT 982 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

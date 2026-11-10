@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/d
 desc: "Semitic roots whose first radical is d."
 created: 2026-10-22T17:38:31Z
-updated: 2026-11-06T03:06:37Z
+updated: 2026-11-10T04:32:36Z
 ---
 
 # wiki/semitic-roots/d
@@ -275,7 +275,7 @@ updated: 2026-11-06T03:06:37Z
 
 [[wiki/semitic-roots/d/4122_to_hurry_nimble_step|4122_to_hurry_nimble_step]]: Proto-Semitic *drq, 'to hurry; nimble step': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/d/4159_to_be_sleepless_restless|4159_to_be_sleepless_restless]]: Proto-Semitic *dlp, 'to be sleepless, restless': reflexes in 3 language(s).
+[[wiki/semitic-roots/d/4159_to_be_sleepless_restless|4159_to_be_sleepless_restless]]: Proto-Semitic *dlp, 'to be sleepless, restless': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/d/4163_wax_remains_of_the_honeycomb|4163_wax_remains_of_the_honeycomb]]: Proto-Semitic *dVnag-, 'wax; remains of the honeycomb': reflexes in 2 language(s).
 
@@ -287,7 +287,7 @@ updated: 2026-11-06T03:06:37Z
 
 [[wiki/semitic-roots/d/4180_to_be_still_silent_1_to_be_stupefied_2|4180_to_be_still_silent_1_to_be_stupefied_2]]: Proto-Semitic *dmm, 'to be still, silent' 1, 'to be stupefied' 2: reflexes in 8 language(s).
 
-[[wiki/semitic-roots/d/4182_to_pile_up_gather_1_to_hatch_2|4182_to_pile_up_gather_1_to_hatch_2]]: Proto-Semitic *dgr, 'to pile up, gather' 1, 'to hatch' 2: reflexes in 5 language(s).
+[[wiki/semitic-roots/d/4182_to_pile_up_gather_1_to_hatch_2|4182_to_pile_up_gather_1_to_hatch_2]]: Proto-Semitic *dgr, 'to pile up, gather' 1, 'to hatch' 2: reflexes in 6 language(s).
 
 [[wiki/semitic-roots/d/4183_to_leap_jump|4183_to_leap_jump]]: Proto-Semitic *dlg, 'to leap, jump': reflexes in 2 language(s).
 

@@ -34,7 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Tīmar-luwwīt |
 | Meaning | Timar the Levite (f.), priestess (woman's name and title); rival Tamar + WI-TE |
 | Root | t-m-r + l-w-y |
-| Proto-Semitic | \*tam(V)r- (#737) |
+| Proto-Semitic | \*tam(V)r- (#737) + \*lVwVy- (#398) |
 | Language layer | Semitic |
 | Tags | compound, gentilic, hapax, personal_name, ritual, title |
 | Semantic field | personal_name |

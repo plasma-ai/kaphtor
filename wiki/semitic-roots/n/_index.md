@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/n
 desc: "Semitic roots whose first radical is n."
 created: 2026-10-22T17:38:31Z
-updated: 2026-11-05T23:44:29Z
+updated: 2026-11-10T04:32:36Z
 ---
 
 # wiki/semitic-roots/n
@@ -333,7 +333,7 @@ updated: 2026-11-05T23:44:29Z
 
 [[wiki/semitic-roots/n/3927_to_grow_increase|3927_to_grow_increase]]: Proto-Semitic *nmw, 'to grow, increase': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/n/3928_to_put_off_postpone|3928_to_put_off_postpone]]: Proto-Semitic *nšʾ, 'to put off, postpone': reflexes in 1 language(s).
+[[wiki/semitic-roots/n/3928_to_put_off_postpone_1_to_lend_loan_2|3928_to_put_off_postpone_1_to_lend_loan_2]]: Proto-Semitic *nšʾ, 'to put off, postpone' 1, 'to lend; loan' 2: reflexes in 3 language(s).
 
 [[wiki/semitic-roots/n/3977_to_endure_to_be_patient_1_to_flow_be_poured_out|3977_to_endure_to_be_patient_1_to_flow_be_poured_out]]: Proto-Semitic *ngr, 'to endure; to be patient' 1, 'to flow, be poured out' 2: reflexes in 3 language(s).
 
@@ -434,6 +434,14 @@ updated: 2026-11-05T23:44:29Z
 [[wiki/semitic-roots/n/4613_be_tarnished_disgrace|4613_be_tarnished_disgrace]]: Proto-Semitic *nwr, 'be tarnished, disgrace': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/n/462_go_fast_1_run_away_2_move_away_3_drive_away_4|462_go_fast_1_run_away_2_move_away_3_drive_away_4]]: Proto-Semitic *nid-, 'go fast' 1, 'run (away)' 2, 'move away' 3, 'drive away' 4: reflexes in 15 language(s).
+
+[[wiki/semitic-roots/n/4690_to_live_be_alive_recover|4690_to_live_be_alive_recover]]: Proto-Semitic *nḥš, 'to live, be alive, recover': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/n/4701_impurity_filth|4701_impurity_filth]]: Proto-Semitic *ndd, 'impurity, filth': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/n/4705_to_burn_kindle|4705_to_burn_kindle]]: Proto-Semitic *nŝq, 'to burn, kindle': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/n/4706_prince_chief|4706_prince_chief]]: Proto-Semitic *nasīk-, 'prince, chief': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/n/498_fall|498_fall]]: Proto-Semitic *nVpVl-, 'fall': reflexes in 11 language(s).
 

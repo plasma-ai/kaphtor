@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ṣ
 desc: "Semitic roots whose first radical is ṣ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-11-06T03:06:37Z
+updated: 2026-11-10T05:25:35Z
 ---
 
 # wiki/semitic-roots/ṣ
@@ -175,7 +175,7 @@ updated: 2026-11-06T03:06:37Z
 
 [[wiki/semitic-roots/ṣ/3900_kind_of_insect|3900_kind_of_insect]]: Proto-Semitic *ṣVlVm- {} *c̣VlVm-, 'kind of insect': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/ṣ/3907_bowl_basin|3907_bowl_basin]]: Proto-Semitic *ṣwʕ, 'bowl, basin': reflexes in 6 language(s).
+[[wiki/semitic-roots/ṣ/3907_bowl_basin|3907_bowl_basin]]: Proto-Semitic *ṣwʕ, 'bowl, basin': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/ṣ/3939_to_pay_down_money|3939_to_pay_down_money]]: Proto-Semitic *ṣbb, 'to pay down (money)': reflexes in 1 language(s).
 
@@ -242,6 +242,10 @@ updated: 2026-11-06T03:06:37Z
 [[wiki/semitic-roots/ṣ/4659_to_pour_out_drain|4659_to_pour_out_drain]]: Proto-Semitic *ṣwb, 'to pour out, drain': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ṣ/4660_to_speak_inform|4660_to_speak_inform]]: Proto-Semitic *ṣwy, 'to speak, inform': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ṣ/4717_veil|4717_veil]]: Proto-Semitic *ṣamm-at-, 'veil': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ṣ/4719_to_spread_the_wings|4719_to_spread_the_wings]]: Proto-Semitic *ṣpp, 'to spread the wings': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ṣ/496_throw|496_throw]]: Proto-Semitic *ṣVraʕ-, 'throw': reflexes in 3 language(s).
 

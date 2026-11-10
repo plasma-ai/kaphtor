@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/g
 desc: "Semitic roots whose first radical is g."
 created: 2026-10-22T17:38:31Z
-updated: 2026-11-06T03:06:37Z
+updated: 2026-11-10T03:48:00Z
 ---
 
 # wiki/semitic-roots/g
@@ -471,6 +471,10 @@ updated: 2026-11-06T03:06:37Z
 
 [[wiki/semitic-roots/g/467_run_flow_1_pass_2|467_run_flow_1_pass_2]]: Proto-Semitic *gVrVy-, 'run, flow' 1, 'pass' 2: reflexes in 5 language(s).
 
+[[wiki/semitic-roots/g/4696_a_cereal_barley|4696_a_cereal_barley]]: Proto-Semitic *gulb-, 'a cereal, barley': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/g/4697_coriander|4697_coriander]]: Proto-Semitic *gadd-, 'coriander': reflexes in 4 language(s).
+
 [[wiki/semitic-roots/g/501_sun|501_sun]]: Proto-Semitic (?) *gawn- ~ *gVnVʾ-, 'sun': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/g/561_cut_pierce|561_cut_pierce]]: Proto-Semitic *gVwVb-, 'cut, pierce': reflexes in 1 language(s).
@@ -509,7 +513,7 @@ updated: 2026-11-06T03:06:37Z
 
 [[wiki/semitic-roots/g/886_become_rich|886_become_rich]]: Proto-Semitic *gVdVn-, 'become rich': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/g/909_be_unjust_1_be_audacious_2|909_be_unjust_1_be_audacious_2]]: Proto-Semitic *gVwVr-, 'be unjust' 1, 'be audacious' 2: reflexes in 2 language(s).
+[[wiki/semitic-roots/g/909_be_unjust_1_be_audacious_2|909_be_unjust_1_be_audacious_2]]: Proto-Semitic *gVwVr-, 'be unjust' 1, 'be audacious' 2: reflexes in 3 language(s).
 
 [[wiki/semitic-roots/g/922_be_rotten_stink|922_be_rotten_stink]]: Proto-Semitic *gVway-, 'be rotten, stink': reflexes in 1 language(s).
 

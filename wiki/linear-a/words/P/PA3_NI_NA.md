@@ -59,13 +59,14 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT6b\|HT6b]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT6b\|HT6b]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT93a\|HT93a]] | Haghia Triada | Tablet | incomplete |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT6b\|HT6b]] | banīna | our builder, 17½ | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT93a\|HT93a]] | banīna | our builder | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT93a\|HT93a]] | banīna | our builder | PROBABLE |
 

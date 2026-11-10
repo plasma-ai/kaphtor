@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ṯ
 desc: "Semitic roots whose first radical is ṯ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-11-05T23:44:29Z
+updated: 2026-11-10T04:32:36Z
 ---
 
 # wiki/semitic-roots/ṯ
@@ -112,6 +112,8 @@ updated: 2026-11-05T23:44:29Z
 [[wiki/semitic-roots/ṯ/4421_young_woman_girl|4421_young_woman_girl]]: Proto-Semitic *ṯdr, 'young woman, girl': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ṯ/4638_ignite_set_on_fire_burn|4638_ignite_set_on_fire_burn]]: Proto-Semitic *ṯḳb, 'ignite, set on fire, burn': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ṯ/4714_neighbour|4714_neighbour]]: Proto-Semitic *ṯVh-, 'neighbour': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ṯ/484_march_proudly|484_march_proudly]]: Proto-Semitic *ṯVnVy-, 'march proudly': reflexes in 1 language(s).
 

@@ -33,7 +33,7 @@ updated: 2026-10-31T13:28:57Z
 | Ugaritic | -k, 2 masc. and fem. sg., with nouns, verbs and prepositions: ydʕtk bt (KTU 1.18 I 16; DULAT 414) | KTU 1.18 I 16; DULAT 414 | gloss withheld |
 | Geez | -ka, possessive, subject and object suffix 2 masc. sg.; -ki, 2 fem. sg. (LGz. 271) | LGz. 271 | gloss withheld |
 | Eblaitic | =ka, =k: -ga, -(V)g (Sanmartín GlOS 1, 292); =ki: -ki, -gi (Sanmartín GlOS 1, 292); =kum: -kum (Sanmartín GlOS 1, 292) | Sanmartín GlOS 1, 292 | gloss withheld |
-| Amorite | =ka: names la-ka-zu-bu-um, pu-ka-ᵈda-gan, i-la-la-ka, ya-ab-ni-ik-DINGIR (Sanmartín GlOS 1, 292) | Sanmartín GlOS 1, 292 | gloss withheld |
+| Amorite | =ka: names la-ka-zu-bu-um, pu-ka-ᵈda-gan, i-la-la-ka, ya-ab-ni-ik-DINGIR (Sanmartín GlOS 1, 292); -k (fem.): Ni-iq-mu-uk (Huffmon APNM 218) | Sanmartín GlOS 1, 292; Huffmon APNM 218 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic k; k (Al-Jallad–Jaworska 89) | Al-Jallad–Jaworska 89 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

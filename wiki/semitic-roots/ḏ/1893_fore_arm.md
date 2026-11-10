@@ -47,7 +47,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | dǝrāʕā 'arm, shoulder, elbow/forearm' \[Brock 168\] | Brock 168 |  |
 | Aramaic | OFF drʕ \[HJ 342\] | HJ 342 |  |
 | Tigrinya | mäzraʕt \[LGz 379\]. | LGz 379 |  |
-| Akkadian | durāʾu (NA) (HALOT 280) | HALOT 280 |  |
+| Akkadian | durāʾu (NA) (HALOT 280); iziru (NA, one attestation) (CAD I/J 319) | HALOT 280; CAD I/J 319 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

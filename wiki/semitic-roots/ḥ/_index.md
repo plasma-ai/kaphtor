@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ḥ
 desc: "Semitic roots whose first radical is ḥ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-11-06T03:06:37Z
+updated: 2026-11-10T03:48:00Z
 ---
 
 # wiki/semitic-roots/ḥ
@@ -65,7 +65,7 @@ updated: 2026-11-06T03:06:37Z
 
 [[wiki/semitic-roots/ḥ/1565_be_sour_sorrel|1565_be_sour_sorrel]]: Proto-Semitic *ḥVmaṣ̂-, 'be sour; sorrel': reflexes in 12 language(s).
 
-[[wiki/semitic-roots/ḥ/1566_be_red|1566_be_red]]: Proto-Semitic *ḥVmVr-, 'be red': reflexes in 7 language(s).
+[[wiki/semitic-roots/ḥ/1566_be_red|1566_be_red]]: Proto-Semitic *ḥVmVr-, 'be red': reflexes in 8 language(s).
 
 [[wiki/semitic-roots/ḥ/1567_pay|1567_pay]]: Proto-Semitic *ḥVṭVr-, 'pay': reflexes in 1 language(s).
 
@@ -424,6 +424,10 @@ updated: 2026-11-06T03:06:37Z
 [[wiki/semitic-roots/ḥ/463_skip_along|463_skip_along]]: Proto-Semitic *ḥVgi/ul-, 'skip along': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/ḥ/4680_to_rent_rent|4680_to_rent_rent]]: Proto-Semitic *ḥkr, 'to rent; rent': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ḥ/4692_to_be_dark_black_1_to_hide_oneself_2|4692_to_be_dark_black_1_to_hide_oneself_2]]: Proto-Semitic *ḥkl ~ *ḥlk, 'to be dark, black' 1, 'to hide oneself' 2: reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ḥ/4694_to_roast_singe|4694_to_roast_singe]]: Proto-Semitic *ḥrk, 'to roast, singe': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/ḥ/493_jump_on_horse_back|493_jump_on_horse_back]]: Proto-Semitic *ḥVwVl-, 'jump (on horse-back)': reflexes in 1 language(s).
 

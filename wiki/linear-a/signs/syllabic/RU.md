@@ -44,6 +44,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/star/star305_RU\|\*305-RU]] | ḏarʿ(u) | SPECULATIVE |
 | [[wiki/linear-a/words/star/star401_plus_RU\|\*401+RU]] |  | CANDIDATE |
 | [[wiki/linear-a/words/A/A_KA_RU\|A-KA-RU]] | Agaru | PROBABLE |
+| [[wiki/linear-a/words/A/A_MI_JA_RU\|A-MI-JA-RU]] | ʿAmmī-yarūm | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RU\|A-RU]] | Ḫaru | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RU_DA_RA\|A-RU-DA-RA]] | Arum-adal | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RU_RA\|A-RU-RA]] | ʾArura | SPECULATIVE |
@@ -77,6 +78,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/R/RU_KA\|RU-KA]] | ruqāq | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_MA\|RU-MA]] | Rūma | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_MA_TA\|RU-MA-TA]] | rūmatā | CANDIDATE |
+| [[wiki/linear-a/words/R/RU_NI\|RU-NI]] | Runni | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_PI\|RU-PI]] | rōpiʾ | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_SA\|RU-SA]] | Rusa | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_ZU_NA\|RU-ZU-NA]] | rāzin(a) | SPECULATIVE |
@@ -84,6 +86,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/S/SI_RU\|SI-RU]] | ṣillu | CANDIDATE |
 | [[wiki/linear-a/words/S/SI_RU_TE\|SI-RU-TE]] | šīrūt | PROBABLE |
 | [[wiki/linear-a/words/T/TI_MA_RU_WI_TE\|TI-MA-RU-WI-TE]] | Tīmar-luwwīt | SPECULATIVE |
+| [[wiki/linear-a/words/T/TU_RU_NU_SE_ME\|TU-RU-NU-SE-ME]] | Ṯ̣ūr-nušme | SPECULATIVE |
 | [[wiki/linear-a/words/T/TU_RU_SA\|TU-RU-SA]] | Tursa | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_NA_RU_KA_NA_SI\|U-NA-RU-KA-NA-SI]] | wannā lū kanāsī | CANDIDATE |
 | [[wiki/linear-a/words/U/U_NA_RU_KA_NA_TI\|U-NA-RU-KA-NA-TI]] | wannā lū kanasti / winnā lū kanasti | CANDIDATE |

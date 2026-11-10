@@ -34,7 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Ḏā-naquddi |
 | Meaning | He of the speckled (flock) (personal name); rival 'He of the head shepherd' |
 | Root | ḏ + n-q-d |
-| Proto-Semitic | \*naḳid-, \*naḳad- (#2577) |
+| Proto-Semitic | \*ḏī- (#K0877) + \*naḳid-, \*naḳad- (#2577) |
 | Language layer | Semitic |
 | Tags | compound, hapax, personal_name |
 | Semantic field | personal_name |

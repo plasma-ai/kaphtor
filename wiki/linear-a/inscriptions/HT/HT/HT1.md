@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "complete"
-words: ["A-RA-NA-RE", "KI-RO", "KU-PA₃-NU", "QE-RA₂-U", "ZU-SU"]
+words: ["A-RA-NA-RE", "DI-DI-ZA-KE", "KI-RO", "KU-PA₃-NU", "QE-RA₂-U", "ZU-SU"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -62,14 +62,14 @@ Unicode (Linear A block):
 
 **CANDIDATE**, complete.
 
-> Parched grain(?). Outstanding: 197. Zuzu(?) 70; DI-DI-ZA-KE 52; Kubānu 109; Aranare 105.
+> Parched grain(?). Outstanding: 197. Zuzu(?) 70; Dīdī-zakī 52; Kubānu 109; Aranare 105.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | [[wiki/linear-a/words/Q/QE_RA2_U\|QE-RA₂-U]] | qelwu | parched (roasted) grain | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/K/KI_RO\|KI-RO]] | kilʾu | owed / outstanding balance (deficit) | CONFIRMED | CONFIRMED (lexicon) |
 | [[wiki/linear-a/words/Z/ZU_SU\|ZU-SU]] | Zuzu | personal name; compare Ugaritic {m}zu-zu; rival an institutional name | SPECULATIVE | SPECULATIVE (lexicon) |
-| [[wiki/linear-a/words/D/DI_DI_ZA_KE\|DI-DI-ZA-KE]] |  | personal or institutional name. Not readable. |  | unread |
+| [[wiki/linear-a/words/D/DI_DI_ZA_KE\|DI-DI-ZA-KE]] | Dīdī-zakī | personal name, 'My beloved is pure' | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/K/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | devotee of Kubaba (personal name or title); rival Gupana | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/A/A_RA_NA_RE\|A-RA-NA-RE]] | Aranare | personal name; Ugaritic ålnr (Hurrian), Linear B a-ra-na-ro | CANDIDATE | CANDIDATE (lexicon) |
 
@@ -84,7 +84,7 @@ Substantially intact LM IB administrative roster; no commodity logogram is prese
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/A/A_RA_NA_RE|A-RA-NA-RE]], [[wiki/linear-a/words/K/KI_RO|KI-RO]], [[wiki/linear-a/words/K/KU_PA3_NU|KU-PA₃-NU]], [[wiki/linear-a/words/Q/QE_RA2_U|QE-RA₂-U]], [[wiki/linear-a/words/Z/ZU_SU|ZU-SU]].
+[[wiki/linear-a/words/A/A_RA_NA_RE|A-RA-NA-RE]], [[wiki/linear-a/words/D/DI_DI_ZA_KE|DI-DI-ZA-KE]], [[wiki/linear-a/words/K/KI_RO|KI-RO]], [[wiki/linear-a/words/K/KU_PA3_NU|KU-PA₃-NU]], [[wiki/linear-a/words/Q/QE_RA2_U|QE-RA₂-U]], [[wiki/linear-a/words/Z/ZU_SU|ZU-SU]].
 
 ## Corpus note
 

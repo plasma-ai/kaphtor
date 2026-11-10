@@ -34,7 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Ummī-naśiʾ |
 | Meaning | My mother is chief/exalted (sentence name) |
 | Root | ʾ-m-m + n-ś-ʾ |
-| Proto-Semitic | \*ʾu/imm- (#1839) |
+| Proto-Semitic | \*ʾu/imm- (#1839) + \*nśʾ- (#S38) |
 | Language layer | Semitic |
 | Tags | compound, personal_name |
 | Semantic field | personal_name |

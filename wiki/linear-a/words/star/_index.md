@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/star
 desc: "Words that open with a sign known by its number, such as *306."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-08T01:07:39Z
+updated: 2026-11-10T15:48:36Z
 ---
 
 # wiki/linear-a/words/star
@@ -63,7 +63,7 @@ updated: 2026-11-08T01:07:39Z
 
 [[wiki/linear-a/words/star/star305_WA_NA|star305_WA_NA]]: Dawana: Dawana (personal name). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/star/star306_KI_TA2|star306_KI_TA2]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/star/star306_KI_TA2|star306_KI_TA2]]: ʿAkkīta: personal name, 'the Akkoite (woman)', feminine gentilic of Akko. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/star/star306_QE_DU|star306_QE_DU]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -73,7 +73,7 @@ updated: 2026-11-08T01:07:39Z
 
 [[wiki/linear-a/words/star/star306_TU|star306_TU]]: ʿAttu: personal name (cf. Hebrew ʿAttay). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/star/star306_TU_JA|star306_TU_JA]]: ʿAttuya: personal name, hypocoristic of *306-TU in -ya. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/star/star306_TU_JA|star306_TU_JA]]: ʿAttuya: personal name, ʿAttu with -ya (Hebrew ʿĂtāyāh). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/star/star306_plus_MI|star306_plus_MI]]: ʿAmmī: personal name: 'my kinsman / my (paternal) uncle'. Lexicon, SPECULATIVE (tier 1).
 
@@ -145,7 +145,7 @@ updated: 2026-11-08T01:07:39Z
 
 [[wiki/linear-a/words/star/star412|star412]]: ʾigān: large open bowl or basin for liquids; wine bowl. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/star/star47_KU_NA|star47_KU_NA]]: sōkina: prefect, administrator (heading of a wine issue); rivals mōgun- 'regalement, gift', Dagan. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/star/star47_KU_NA|star47_KU_NA]]: sōkuna: prefect, steward (heading of a wine issue). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/star/star47_NU_RA_JA|star47_NU_RA_JA]]: Šū-nūraya: personal name, 'He is light'; rival mənōrāya 'lampstand (man)'. Lexicon, SPECULATIVE (tier 1).
 

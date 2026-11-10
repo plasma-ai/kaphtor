@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/w
 desc: "Semitic roots whose first radical is w."
 created: 2026-10-22T17:38:31Z
-updated: 2026-11-07T20:00:58Z
+updated: 2026-11-10T04:32:36Z
 ---
 
 # wiki/semitic-roots/w
@@ -211,7 +211,7 @@ updated: 2026-11-07T20:00:58Z
 
 [[wiki/semitic-roots/w/4356_wart|4356_wart]]: Proto-Semitic *w/ybl, 'wart': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/w/4372_to_oppress_cheat_1_to_be_weak_2|4372_to_oppress_cheat_1_to_be_weak_2]]: Proto-Semitic *wny, 'to oppress, cheat' 1, 'to be weak' 2: reflexes in 4 language(s).
+[[wiki/semitic-roots/w/4372_to_oppress_cheat_1_to_be_weak_2|4372_to_oppress_cheat_1_to_be_weak_2]]: Proto-Semitic *wny, 'to oppress, cheat' 1, 'to be weak' 2: reflexes in 7 language(s).
 
 [[wiki/semitic-roots/w/4400_to_come_as_an_envoy_envoy|4400_to_come_as_an_envoy_envoy]]: Proto-Semitic *wpd, 'to come as an envoy; envoy': reflexes in 2 language(s).
 
@@ -240,6 +240,8 @@ updated: 2026-11-07T20:00:58Z
 [[wiki/semitic-roots/w/4670_to_shout_clamor|4670_to_shout_clamor]]: Proto-Semitic *waʕwaʕ-, 'to shout, clamor': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/w/4688_to_quiver_be_apprehensive|4688_to_quiver_be_apprehensive]]: Proto-Semitic *wrʕ, 'to quiver, be apprehensive': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/w/4698_to_shimmer|4698_to_shimmer]]: Proto-Semitic *wmṣ̂, 'to shimmer': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/w/486_enter|486_enter]]: Proto-Semitic *w/yVlVg-, 'enter': reflexes in 1 language(s).
 

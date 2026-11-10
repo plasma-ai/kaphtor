@@ -34,7 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | wannā |
 | Meaning | and behold (contracted conjunction + h-n presentative) |
 | Root | w + h-n |
-| Proto-Semitic | \*hn (#3482) |
+| Proto-Semitic | \*wV-- (#K0425) + \*hn (#3482) |
 | Language layer | Semitic |
 | Tags | compound, libation_formula, particle, ritual |
 | Semantic field | particle |

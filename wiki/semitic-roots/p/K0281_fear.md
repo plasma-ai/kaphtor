@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/K0281_fear
 title: "*paḥad-: 'fear'"
-desc: "Proto-Semitic *paḥad-, 'fear': reflexes in 3 language(s)."
+desc: "Proto-Semitic *paḥad-, 'fear': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0281"
@@ -31,6 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Aramaic | PḤD (Qumran 190 apud CAL) | CAL; Anderson–Moser 2024 root pḥd | gloss withheld |
 | Hebrew | paḥad 'fear' (BDB 808) | BDB 808; Anderson–Moser 2024 root pḥd |  |
+| Ugaritic | lip-ḫu-dú-ma, in an Akkadian precative (UVST 166) | UVST 166 | gloss withheld |
 | Amorite | paḫāttu (ARM 5, 68: 18) (Streck 2000, 109; Streck 2011, 367) | Streck 2000 109; Streck 2011, 367 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

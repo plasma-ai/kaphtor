@@ -54,5 +54,6 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/M/ME_ZA\|ME-ZA]] | massu | CANDIDATE |
 | [[wiki/linear-a/words/S/SA_SA_ME\|SA-SA-ME]] | šašamā | CANDIDATE |
 | [[wiki/linear-a/words/T/TU_ME_I\|TU-ME-I]] | tummī | CANDIDATE |
+| [[wiki/linear-a/words/T/TU_RU_NU_SE_ME\|TU-RU-NU-SE-ME]] | Ṯ̣ūr-nušme | SPECULATIVE |
 
 <!-- END kaphtor:record -->

@@ -60,6 +60,9 @@ Andreadaki-Vlazaki, Maria, and Erik Hallager. 2018. "Some unpublished Linear A d
 **Antalík 1998**
 Antalík, Dalibor. 1998. "Starokenaanský panteon podle dokumentů z Ebly." *Religio* 6: 29–48.
 
+**Arie 2017**
+Arie, Eran. 2017. "The Earliest Known 'Sign of Tanit' Revealed in 11th Century BCE Building at Megiddo." *Tel Aviv* 44/1: 61–71. https://doi.org/10.1080/03344355.2017.1280968.
+
 **Astour 1965**
 Astour, Michael C. 1965. *Hellenosemitica: An Ethnic and Cultural Study in West Semitic Impact on Mycenaean Greece*. Brill.
 
@@ -171,6 +174,9 @@ Davis, Brent. 2013. "Syntax in Linear A: The Word-Order of the ‘Libation Formu
 
 **Davis 2026**
 Davis, Brent. 2026. "Recent Linguistics-Based Advances in the Study of Linear A." In E. Salgarella & V. Petrakis (eds.), The Wor(l)ds of Linear A, AURA Supplement 15, pp. 43–60.
+
+**Davis 2026b**
+Davis, Brent. 2026. *The Undeciphered Aegean Scripts: Linguistic Investigations into the Languages They Encode*. Cambridge University Press.
 
 **de Boer 2014**
 de Boer, Rients. 2014. *Amorites in the Early Old Babylonian Period*. Leiden University.
@@ -301,6 +307,9 @@ Golinets, Viktor. 2025. "The Significance of the Newly Found Amorite–Akkadian 
 
 **Gordon 1934**
 Gordon, Cyrus H. 1934. "The Pronoun in the Nuzi Tablets." *The American Journal of Semitic Languages and Literatures* 51/1: 1–21. https://doi.org/10.1086/370440.
+
+**Gordon 1965**
+Gordon, Cyrus H. 1965. *The Common Background of Greek and Hebrew Civilizations*. The Norton Library. W. W. Norton & Company, New York.
 
 **Gordon 1966** (also Gordon 1966a)
 Gordon, Cyrus H. 1966. *Evidence for the Minoan Language*. Ventnor Publishers.
@@ -563,6 +572,9 @@ Mourad, Anna-Latifa. 2014. *Rise of the Hyksos: Egypt and the Levant from the Mi
 **Muhly and Olivier 2008**
 Muhly, Polymnia, and Jean-Pierre Olivier. 2008. "Linear A Inscriptions from the Syme Sanctuary, Crete." *Archaiologike Ephemeris* 147: 197–223.
 
+**Muñoz Sogas 2022**
+Muñoz Sogas, Judith. 2022. *Thirsty Seafarers at Temple B of Kommos: Commercial districts and the role of Crete in Phoenician trading networks in the Aegean*. Archaeopress Archaeology. Oxford: Archaeopress.
+
 **Naʾaman 1997**
 Naʾaman, N. 1997. "The Network of Canaanite Late Bronze Kingdoms and the City of Ashdod." *Ugarit-Forschungen* 29: 599–626.
 
@@ -738,6 +750,9 @@ Schrader, Elizabeth, and Joan E. Taylor. 2021. "The Meaning of 'Magdalene': A Re
 
 **Schrijver 2014**
 Schrijver, Peter. 2014. "Fractions and food rations in Linear A." *Kadmos* 53 (1–2): 1–44. https://doi.org/10.1515/kadmos-2014-0001.
+
+**Shaw 1989**
+Shaw, Joseph W. 1989. "Phoenicians in Southern Crete." *American Journal of Archaeology* 93/2: 165–183. https://doi.org/10.2307/505085.
 
 **Sima 2000**
 Sima, Alexander. 2000. *Tiere, Pflanzen, Steine und Metalle in den altsüdarabischen Inschriften: Eine lexikalische und realienkundliche Untersuchung*. Veröffentlichungen der Orientalischen Kommission der Akademie der Wissenschaften und der Literatur Mainz 46. Wiesbaden: Harrassowitz.

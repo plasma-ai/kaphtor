@@ -46,11 +46,13 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_JA\|A-JA]] | ḥayyā | CANDIDATE |
 | [[wiki/linear-a/words/A/A_JA_KU\|A-JA-KU]] | ʾAyaku | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_MA_JA\|A-MA-JA]] | ʿAmmaya | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_MI_JA_RU\|A-MI-JA-RU]] | ʿAmmī-yarūm | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | ʾarān Ṣidna bikē bayta rēšī tarīmu ʾAyaku | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_SE_JA\|A-SE-JA]] | Āsīya | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_SI_JA_KA\|A-SI-JA-KA]] | šawīqu | CANDIDATE |
 | [[wiki/linear-a/words/A/A_SU_JA\|A-SU-JA]] | Azzuya | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_TA_I_star301_WA_JA\|A-TA-I-\*301-WA-JA]] | ʾatainawaya | CONFIRMED |
+| [[wiki/linear-a/words/D/DI_JA_I\|DI-JA-I]] | Diʾyay | SPECULATIVE |
 | [[wiki/linear-a/words/D/DI_PA_JA\|DI-PA-JA]] | dipaya | CANDIDATE |
 | [[wiki/linear-a/words/D/DU_JA\|DU-JA]] | Tuya | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_JA\|I-JA]] | ʾiya | CANDIDATE |
@@ -101,6 +103,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/K/KU_PA3_RI_JA\|KU-PA₃-RI-JA]] | Kubariya | SPECULATIVE |
 | [[wiki/linear-a/words/M/MI_plus_JA_plus_RU\|MI+JA+RU]] | murru | CANDIDATE |
 | [[wiki/linear-a/words/M/MI_JA\|MI-JA]] | mayya | CANDIDATE |
+| [[wiki/linear-a/words/O/O_TE_JA\|O-TE-JA]] | Ḫuteya | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_JA\|PA-JA]] | Pay | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_JA_RE\|PA-JA-RE]] | Payare | PROBABLE |
 | [[wiki/linear-a/words/P/PA_JA_TA\|PA-JA-TA]] | bayta | SPECULATIVE |

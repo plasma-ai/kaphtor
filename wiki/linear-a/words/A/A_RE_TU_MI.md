@@ -34,7 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾarṣ̂-ummī |
 | Meaning | Earth is my mother (NWS theophoric compound PN; pre-Greek Artemis) |
 | Root | ʾ-r-ṣ̂ + ʾ-m-m |
-| Proto-Semitic | \*ʾar(V)ṣ̂- (#768) |
+| Proto-Semitic | \*ʾar(V)ṣ̂- (#768) + \*ʾu/imm- (#1839) |
 | Language layer | Semitic |
 | Tags | compound, fragmentary, hapax, personal_name |
 | Semantic field | personal_name |

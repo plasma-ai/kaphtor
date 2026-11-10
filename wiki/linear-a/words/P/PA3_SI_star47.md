@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-MIL Zb 1, a clay vessel from Miletos, the Minoan settlement on the Anatolian coast, the only word. ba-si-so, with PA₃ ba, SI si and \*47 so, as in \*47-KU-NA sōkina 'prefect': basīsa, the vessel's contents, Arabic basīsa 'sawīq \[meal of parched barley or wheat\], and flour, &c., mixed with clarified butter, or with olive-oil' (Lane 201). Weak points: the root is Arabic only, and -so writes the final a. MIL Zb 1 has no GORILA or SigLA record. One attestation.
+MIL Zb 1, a clay vessel from Miletos, the Minoan settlement on the Anatolian coast, the only word. ba-si-so, with PA₃ ba, SI si and \*47 so, as in \*47-KU-NA sōkuna 'prefect': basīsa, the vessel's contents, Arabic basīsa 'sawīq \[meal of parched barley or wheat\], and flour, &c., mixed with clarified butter, or with olive-oil' (Lane 201). Weak points: the root is Arabic only, and -so writes the final a. MIL Zb 1 has no GORILA or SigLA record. One attestation.
 
 ### Cognates
 

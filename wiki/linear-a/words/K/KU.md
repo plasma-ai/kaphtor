@@ -41,19 +41,19 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 127b: KU-RO \*307 156, KU 72, VIR+\*313c 24, KI+MU 15, \*301 11 and the erased KI+MU 14, KU-RO 292 (GORILA I 219): KU is one section of the total. On HT 131a KU 353 is the largest number, a subtotal; on HT 45b KU ¼ stands three times. KU alone marks 151 HT nodules (HT Wa 1471–1622), the second commonest after \*301, and stands on tablets at five sites. HT 42+59 has KU-\[ \]OLE\[, a broken longer word. kull 'all, section', beside KU-RO kull-rōʿu 'grand total': Ug. kl /kullu/ 'each, every, all, entire' and kll /kalīlu/ 'entirety, everything' (Huehnergard 2012, 37), BH kōl, kālīl.
+HT 127b: KU-RO \*307 156, KU 72, VIR+\*313c 24, KI+MU 15, \*301 11 and the erased KI+MU 14, KU-RO 292 (GORILA I 219): KU is one section of the total. On HT 131a KU 353 is the largest number, a subtotal; on HT 45b KU ¼ stands three times. KU alone marks 151 HT nodules (HT Wa 1471–1622), the second commonest after \*301, and stands on tablets at five sites. HT 42+59 has KU-\[ \]OLE\[, a broken longer word. kull 'all, section', the short form of KU-RO kull 'total': Ug. kl /kullu/ 'each, every, all, entire' and kll /kalīlu/ 'entirety, everything' (Huehnergard 2012, 37), BH kōl, kālīl. See KU-RO, KU-RA.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Akkadian | kalu/kallu 'all, totality, everything' |
-| Hebrew | kōl (כֹּל) 'all, every, totality' |
-| Ugaritic | kl 'all, every (KTU passim)' |
+| Akkadian | kalu (kulu) 'whole, entirety, all'; Old Assyrian nominative kulu (CAD K 87) |
+| Hebrew | kōl (כֹּל) 'the whole, all, every' (HALOT 474–475) |
+| Ugaritic | kl 'totality (of)' (DULAT 432–433), vocalized /kull-/ (Tropper 2000, 244) |
 
 ### Source
 
-di Mino; GORILA I; Huehnergard 2012
+di Mino; GORILA I; Huehnergard 2012; HALOT; DULAT; CAD K
 
 ## Attestations
 

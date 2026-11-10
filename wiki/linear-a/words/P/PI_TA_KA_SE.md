@@ -34,7 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Bīt-kissē |
 | Meaning | House of the Throne, the crown estate (institution heading); rival the Hurrian name of PI-TA-KE-SI |
 | Root | b-y-t + k-s-ʾ |
-| Proto-Semitic | \*bayt- (#652) |
+| Proto-Semitic | \*bayt- (#652) + \*kVsVʾ- (#K0105) |
 | Language layer | Semitic |
 | Tags | administrative, compound, hapax, noun |
 | Semantic field | administrative |

@@ -1,15 +1,15 @@
 ---
-name: wiki/semitic-roots/ʾ/K0621_go_follow_the_track_trace_place_1_happiness_2
-title: "*ʾVṯVr-: 'go, follow the track; trace, place' 1, 'happiness' 2"
-desc: "Proto-Semitic *ʾVṯVr-, 'go, follow the track; trace, place' 1, 'happiness' 2: reflexes in 15 language(s)."
+name: wiki/semitic-roots/ʾ/K0621_go_follow_the_track_trace_place_1_happiness_2_wh
+title: "*ʾVṯVr-: 'go, follow the track; trace, place' 1, 'happiness' 2, 'who, which' (relative particle) 3"
+desc: "Proto-Semitic *ʾVṯVr-, 'go, follow the track; trace, place' 1, 'happiness' 2, 'who, which' (relative particle) 3: reflexes in 16 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0621"
-created: 2026-11-03T03:29:48Z
-updated: 2026-11-03T03:29:48Z
+created: 2026-11-10T05:11:30Z
+updated: 2026-11-10T05:11:30Z
 ---
 
-# *ʾVṯVr-: 'go, follow the track; trace, place' 1, 'happiness' 2
+# *ʾVṯVr-: 'go, follow the track; trace, place' 1, 'happiness' 2, 'who, which' (relative particle) 3
 
 [[wiki/semitic-roots/ʾ/_index|..]]
 
@@ -22,14 +22,15 @@ updated: 2026-11-03T03:29:48Z
 | Field | Value |
 |---|---|
 | Reconstruction | \*ʾVṯVr- |
-| Meaning | 'go, follow the track; trace, place' 1, 'happiness' 2 |
+| Meaning | 'go, follow the track; trace, place' 1, 'happiness' 2, 'who, which' (relative particle) 3 |
 | Basis | project |
 
 ## Reflexes
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | ʾašar (HALOT 97); ʾōšer 2 (HALOT 99) | HALOT 97; HALOT 99 | gloss withheld |
+| Hebrew | ʾašar (HALOT 97); ʾōšer 2 (HALOT 99); אֲשֶׁר 3 (HALOT 98) | HALOT 97; HALOT 99; HALOT 98 | gloss withheld |
+| Emar | a-šar /ʾašar/ 3 (Pentiuc 2001, 28–29) | Pentiuc 2001 28–29 | gloss withheld |
 | Akkadian | ašāru, ašru (HALOT 97) | HALOT 97 | gloss withheld |
 | Arabic | ʾaṯar, ʾiṯr (HALOT 97) | HALOT 97 | gloss withheld |
 | Tigre | ʾasra (HALOT 97) | HALOT 97 | gloss withheld |
