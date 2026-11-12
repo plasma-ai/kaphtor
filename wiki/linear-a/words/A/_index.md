@@ -2,12 +2,16 @@
 name: wiki/linear-a/words/A
 desc: "Words whose first sign begins with A."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-10T13:40:38Z
+updated: 2026-11-12T01:31:30Z
 ---
 
 # wiki/linear-a/words/A
 
 [[wiki/linear-a/words/_index|..]]
+
+[[wiki/linear-a/words/A/A|A]]: Unread sign (syllabogram, unread); 18 occurrence(s).
+
+[[wiki/linear-a/words/A/AU|AU]]: Unread sign (syllabogram, value on file); 2 occurrence(s).
 
 [[wiki/linear-a/words/A/AU_RE_TE|AU_RE_TE]]: ʾawrēt: luminous one (feminine). Lexicon, PROBABLE (tier 3).
 
@@ -32,6 +36,8 @@ updated: 2026-11-10T13:40:38Z
 [[wiki/linear-a/words/A/A_DI_NE|A_DI_NE]]: Unread (role only): personal name; 1 occurrence(s).
 
 [[wiki/linear-a/words/A/A_DU|A_DU]]: ʾAddu / adû: Addu/Haddu (heading); rival adû 'work stint'. Lexicon, CANDIDATE (tier 2).
+
+[[wiki/linear-a/words/A/A_DU_KO_MI_broken_end|A_DU_KO_MI_broken_end]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/A/A_DU_KU_MI_NA|A_DU_KU_MI_NA]]: ʾAddu-kummina: the one of Addu's cella (cult title as a roster name). Lexicon, SPECULATIVE (tier 1).
 
@@ -107,6 +113,8 @@ updated: 2026-11-10T13:40:38Z
 
 [[wiki/linear-a/words/A/A_NA_NU_SI_JA_SE|A_NA_NU_SI_JA_SE]]: Ḥanānu: gracious (personal name), in the vessel-label form -SI-JA-SE. Onomasticon personal name; lexicon entry A-NA-NU.
 
+[[wiki/linear-a/words/A/A_NE_broken_end|A_NE_broken_end]]: Unread (unread): no role; 1 occurrence(s).
+
 [[wiki/linear-a/words/A/A_NU|A_NU]]: Unread (role only): personal name; 1 occurrence(s).
 
 [[wiki/linear-a/words/A/A_PA3_DI|A_PA3_DI]]: ʿAbdī: personal name, ʿAbdī 'my servant'; rival the head of an ʿAbdi-DN name. Lexicon, CANDIDATE (tier 2).
@@ -117,7 +125,7 @@ updated: 2026-11-10T13:40:38Z
 
 [[wiki/linear-a/words/A/A_PA_KI|A_PA_KI]]: ʾabkī: I weep (G prefix form, 1cs); rival ʾabakki (G present). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/A/A_PA_RA_NE|A_PA_RA_NE]]: ʿabrāne: the crosser, the one from beyond (√ʿ-b-r, the ʿApiru word); rival 'creator' (√b-r-ʾ). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/A/A_PA_RA_NE|A_PA_RA_NE]]: ʿAbrān: personal name, 'the crosser, the one from beyond' (√ʿ-b-r), Alalakh Ap-ra-an. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/A/A_PA_broken_both|A_PA_broken_both]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -125,7 +133,7 @@ updated: 2026-11-10T13:40:38Z
 
 [[wiki/linear-a/words/A/A_PI|A_PI]]: ʾāpi: offering pit (for the dead). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/A/A_PU2_NA_DU|A_PU2_NA_DU]]: Unread (role only): no role; 1 occurrence(s).
+[[wiki/linear-a/words/A/A_PU2_NA_DU|A_PU2_NA_DU]]: Unread (role only): personal name; 1 occurrence(s).
 
 [[wiki/linear-a/words/A/A_RA_JU|A_RA_JU]]: ʾArāyu: a town of the kingdom of Ugarit, on the Ugarit–Alalakh border (toponym); rival Aralu. Lexicon, SPECULATIVE (tier 1).
 
@@ -248,6 +256,10 @@ updated: 2026-11-10T13:40:38Z
 [[wiki/linear-a/words/A/A_ZU_RA|A_ZU_RA]]: ʾAṯirat: Athirat (divine name: the Goddess). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/A/A_etc_NE_broken_start|A_etc_NE_broken_start]]: Unread (unread): no role; 1 occurrence(s).
+
+[[wiki/linear-a/words/A/A_q_JU|A_q_JU]]: Unread (unread): no role; 1 occurrence(s).
+
+[[wiki/linear-a/words/A/A_q_q_q_JA|A_q_q_q_JA]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/A/A_star123_TE|A_star123_TE]]: Unread (unread): no role; 1 occurrence(s).
 

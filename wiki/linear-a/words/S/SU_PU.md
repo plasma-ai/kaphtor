@@ -45,7 +45,7 @@ HT 31, the vessel tablet, writes the word into a vessel sign: \*415-VS-SU-PU 10,
 
 suppu 'bowl, basin', a culture word from Ebla to Hatti. Ebla zu-bù /supp/ (GlOS 2, 203) and Hittite zuppa- 'a silver vessel' (DULAT 753) keep the u that SU-PU writes, while Hebrew sap (HALOT 762), Ugaritic sp (DULAT 753), Mari sà-ap-pu (GlOS 2, 203) and Akkadian šappu (CAD Š/1 479) have a. Ugarit counts its bowls by the piece, as HT 31 does: arbʿ spm 'four bowls' (KTU 2.87:6). Akkadian šappu is set on a stand and used for libations (CAD Š/1 479), as \*415 stands on its foot.
 
-Gordon read su-pu with Hebrew sap, Ugaritic sp and Akkadian šappu (EML §115). Ventris and Chadwick 1956, 323 found in HT 31's vessel names that "the difference of language is obvious"; Stieglitz 1971, 110 and Woudhuizen 2016, 223 keep the Semitic vessel name, and HALOT 762, DULAT 753 and GlOS 2, 203 enter Minoan su-pu in the set. One attestation. See SU-PU₂-\*188.
+Gordon read su-pu with Hebrew sap, Ugaritic sp and Akkadian šappu (EML §115). Ventris and Chadwick 1956, 323 found in HT 31's vessel names that "the difference of language is obvious"; Stieglitz 1971, 110 and Woudhuizen 2016, 223 keep the Semitic vessel name, and HALOT 762, DULAT 753 and GlOS 2, 203 enter Minoan su-pu in the set. Duhoux finds it plausible that su-pu and Greek σιπύη 'bin' are both of Semitic origin, and credits the comparison to Gordon 1957, 125 (Duhoux 2002, 56–57). One attestation. See SU-PU₂-\*188.
 
 ### Cognates
 
@@ -60,7 +60,7 @@ Gordon read su-pu with Hebrew sap, Ugaritic sp and Akkadian šappu (EML §115). 
 
 ### Source
 
-Gordon 1966 §115; Ventris and Chadwick 1956; Stieglitz 1971; Woudhuizen 2016; HALOT; DULAT; GlOS 2; CAD S; CAD Š/1; DNWSI
+Gordon 1966 §115; Ventris and Chadwick 1956; Stieglitz 1971; Duhoux 2002; Woudhuizen 2016; HALOT; DULAT; GlOS 2; CAD S; CAD Š/1; DNWSI
 
 ### Review
 

@@ -60,6 +60,12 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/PH/PHWc/PHWc38\|PHWc38]] | Phaistos | Roundel | none |
+| [[wiki/linear-a/inscriptions/PH/PHWc/PHWc38\|PHWc38]] | Phaistos | Roundel | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/PH/PHWc/PHWc38\|PHWc38]] | ḥatam(a) | seal, signet | CANDIDATE |
 
 <!-- END kaphtor:record -->

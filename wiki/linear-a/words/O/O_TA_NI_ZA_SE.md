@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/O/O_TA_NI_ZA_SE
 title: "O-TA-NI-ZA-SE"
-desc: "Unread (role only): no role; 1 occurrence(s)."
+desc: "Unread (role only): personal or place name; 1 occurrence(s)."
 tags: ["linear-a", "word", "unread"]
 kind: "word"
 form: "O-TA-NI-ZA-SE"
@@ -35,7 +35,7 @@ updated: 2026-10-24T16:17:50Z
 
 ## Unread
 
-Status **role only** (classed by role only (onomasticon type or translation label), no reading).
+Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal or place name.
 
 ZA 5a .2–3 O-TA-NI-ZA-SẸ 6, SE dotted on both copies, after KI-NI-MA 7 (GORILA III 153). Younger marks SE as doubtful (Younger, Linear A Texts). Sole attestation. Not readable.
 

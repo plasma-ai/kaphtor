@@ -2,12 +2,14 @@
 name: wiki/linear-a/words/D
 desc: "Words whose first sign begins with D."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-10T05:06:50Z
+updated: 2026-11-12T19:49:26Z
 ---
 
 # wiki/linear-a/words/D
 
 [[wiki/linear-a/words/_index|..]]
+
+[[wiki/linear-a/words/D/DA|DA]]: Unread sign (syllabogram, unread); 8 occurrence(s).
 
 [[wiki/linear-a/words/D/DA_DU_MA_TA|DA_DU_MA_TA]]: dadmatu: settlement(s), district (heading of a grain list); rival 'beloved land'. Lexicon, CANDIDATE (tier 2).
 
@@ -15,13 +17,15 @@ updated: 2026-11-10T05:06:50Z
 
 [[wiki/linear-a/words/D/DA_DU_star301|DA_DU_star301]]: dādu-nā-…: 'our beloved …', the opening of a longer word. Lexicon, SPECULATIVE (tier 1).
 
+[[wiki/linear-a/words/D/DA_DU_star301_q_q_broken_end|DA_DU_star301_q_q_broken_end]]: Unread (unread): no role; 1 occurrence(s).
+
 [[wiki/linear-a/words/D/DA_I|DA_I]]: dayu: good, sufficient—commodity quality designation on oil/fat allocation tablets. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/D/DA_I_PI_TA|DA_I_PI_TA]]: Ṭayyibat: Good (f.) (personal name). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/D/DA_JU_TE|DA_JU_TE]]: dalut: door, doorway. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/D/DA_KA|DA_KA]]: dagu: fish. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/D/DA_KA|DA_KA]]: dāgā: fish (collective, as a foodstuff). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/D/DA_KI|DA_KI]]: Unread (role only): recipient or allocation heading; 1 occurrence(s).
 
@@ -81,11 +85,19 @@ updated: 2026-11-10T05:06:50Z
 
 [[wiki/linear-a/words/D/DA_WA_q_DU_WA_TO|DA_WA_q_DU_WA_TO]]: Unread (unread): no role; 1 occurrence(s).
 
+[[wiki/linear-a/words/D/DA_plus_RE_plus_SE|DA_plus_RE_plus_SE]]: Unread sign (ligature, component read); 1 occurrence(s).
+
+[[wiki/linear-a/words/D/DA_plus_RO|DA_plus_RO]]: Unread sign (ligature, component read); 2 occurrence(s).
+
+[[wiki/linear-a/words/D/DA_plus_star301|DA_plus_star301]]: Unread sign (ligature, component read); 1 occurrence(s).
+
 [[wiki/linear-a/words/D/DA_star118|DA_star118]]: Unread (role only): personal name; 1 occurrence(s).
 
 [[wiki/linear-a/words/D/DE_DI|DE_DI]]: Dedī: personal name, 'my beloved'; rival the Hurrian name dḏy. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/D/DE_JU_KU|DE_JU_KU]]: Dalqu: personal name, 'burning, kindled'. Lexicon, SPECULATIVE (tier 1).
+
+[[wiki/linear-a/words/D/DE_KI_TI_broken_both|DE_KI_TI_broken_both]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/D/DE_MI|DE_MI]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -137,13 +149,17 @@ updated: 2026-11-10T05:06:50Z
 
 [[wiki/linear-a/words/D/DI_SI|DI_SI]]: Unread (role only): personal name; 1 occurrence(s).
 
+[[wiki/linear-a/words/D/DI_plus_QE|DI_plus_QE]]: Unread sign (ligature, component read); 1 occurrence(s).
+
 [[wiki/linear-a/words/D/DI_star306|DI_star306]]: Diʿa: Diʿa 'Knowledge' (personal name). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/D/DU|DU]]: du: that, of (relative pronoun). Lexicon, CONFIRMED (tier 4).
 
+[[wiki/linear-a/words/D/DU_AROM_A|DU_AROM_A]]: Unread sign (compound, component read); 1 occurrence(s).
+
 [[wiki/linear-a/words/D/DU_DA_MA|DU_DA_MA]]: Dūdāma: Beloved (personal name, √d-w-d + -ma); rival the Aegean name of the Keftiu board and Linear B di-du-me. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/D/DU_JA|DU_JA]]: Tuya: Tuya (personal name, hypocoristic in -ya); rival Ḏū-Yā 'He of Yah'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/D/DU_JA|DU_JA]]: Ḏū-Ya: personal name, 'He of Ya'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/D/DU_JU|DU_JU]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -178,6 +194,8 @@ updated: 2026-11-10T05:06:50Z
 [[wiki/linear-a/words/D/DU_RU_WI|DU_RU_WI]]: ḏu-luwwī: the Levite (ethnonymic designation). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/D/DU_SU_NI|DU_SU_NI]]: Dišon: personal name, 'antelope'. Lexicon, SPECULATIVE (tier 1).
+
+[[wiki/linear-a/words/D/DU_TI_q_broken_end|DU_TI_q_broken_end]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/D/DU_ZU_WA|DU_ZU_WA]]: ḏū-ṯuwāʕ: He of the Lord (personal name; ḏū 'he of' + ṯuwāʕ 'lord'); rival 'the noble one'. Lexicon, SPECULATIVE (tier 1).
 

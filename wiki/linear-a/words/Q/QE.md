@@ -58,12 +58,13 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3014\|HTWc3014]] | Haghia Triada | Roundel | none |
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3014\|HTWc3014]] | Haghia Triada | Roundel | complete |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT27a\|HT27a]] |  | entry, 21 |  |
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3014\|HTWc3014]] | qê | measure unit (dry/liquid capacity ≈ 1.2 liters)—metrological logographic abbreviation | SPECULATIVE |
 
 <!-- END kaphtor:record -->

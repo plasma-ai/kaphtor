@@ -85,6 +85,6 @@ Ugaritic lrmn 'pomegranate' (DULAT 499); Middle Assyrian lurimā'u, lu-ri-ma-e (
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: KI, [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KI|KI]], [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull.
 
 <!-- END kaphtor:record -->

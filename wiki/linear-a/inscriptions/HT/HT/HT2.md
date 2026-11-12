@@ -68,8 +68,8 @@ Unicode (Linear A block):
 |---|---|---|---|---|
 | [[wiki/linear-a/words/A/A_KA_RU\|A-KA-RU]] | Agaru | field or estate heading; possibly the deified Ugaritic 'Field' | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/O/OLE_plus_U\|OLE+U]] | \[ideogram\] | olive oil subtype U |  | CANDIDATE (lexicon) |
-| OLE+A | \[ideogram\] | olive oil subtype A |  |  |
-| OLE+E | \[ideogram\] | olive oil subtype E |  |  |
+| [[wiki/linear-a/words/O/OLE_plus_A\|OLE+A]] | \[ideogram\] | olive oil subtype A |  |  |
+| [[wiki/linear-a/words/O/OLE_plus_E\|OLE+E]] | \[ideogram\] | olive oil subtype E |  |  |
 | [[wiki/linear-a/words/K/KI_RE_TA_NA\|KI-RE-TA-NA]] | Kretan | Cretan (gentilic: 'of Crete') | CONFIRMED | CONFIRMED (lexicon) |
 
 ### Notes

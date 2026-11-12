@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-KA-PA and DA-QE-RA head the two sections of HT 6a; DA-QE-RA heads HT 120, grain to DA-ME, KI-RE-TA-NA and PA-I-TO, against HT 102 under KA-PA (Uchitel 2003, 82). ḏā 'the one of' (cf. DA-NA-SI) + qīr 'walled town', Moabite qr 'city' (HALOT 1099); towns beside villages, Heb. ʿārîm // kᵊpārîm (1 Chr 27:25). Qīr is a town name, as Heb. Qîr Môʾāb, Qîr-Ḥereś (HALOT 1100); a town name is diptotic, genitive -a (Fischer 2002, §§152–153; Ug. ʾugarita, Huehnergard 2012, 40), as Amorite ḏū before a name: ZU-I-LA, ZU-ᵈIŠ-ḪA-RA (Gelb 1980, nos. 6596, 6598). Rivals: diqāru 'bowl' (CAD D 157), Ug. dqr 'pot' (DULAT 276). See KA-PA.
+KA-PA and DA-QE-RA head the two sections of HT 6a; DA-QE-RA heads HT 120, grain to DA-ME, KI-RE-TA-NA and PA-I-TO, against HT 102 under KA-PA (Uchitel 2003, 82). DA-QE-RA, with KI-RE-TA-NA and KI-RE-TA₂, goes with olive oil, and Uchitel places it in the dry Kamilari valley (Uchitel 2016a, 25). ḏā 'the one of' (cf. DA-NA-SI) + qīr 'walled town', Moabite qr 'city' (HALOT 1099); towns beside villages, Heb. ʿārîm // kᵊpārîm (1 Chr 27:25). Qīr is a town name, as Heb. Qîr Môʾāb, Qîr-Ḥereś (HALOT 1100); a town name is diptotic, genitive -a (Fischer 2002, §§152–153; Ug. ʾugarita, Huehnergard 2012, 40), as Amorite ḏū before a name: ZU-I-LA, ZU-ᵈIŠ-ḪA-RA (Gelb 1980, nos. 6596, 6598). Rivals: diqāru 'bowl' (CAD D 157), Ug. dqr 'pot' (DULAT 276); Luwian taskwira/i- 'earth' (Uchitel 2016a, 25). See KA-PA.
 
 ### Cognates
 
@@ -53,7 +53,7 @@ KA-PA and DA-QE-RA head the two sections of HT 6a; DA-QE-RA heads HT 120, grain 
 
 ### Source
 
-di Mino; Uchitel 2003; HALOT; Fischer 2002; Huehnergard 2012; Gelb 1980; CAD D; DULAT
+di Mino; Uchitel 2003; Uchitel 2016a; HALOT; Fischer 2002; Huehnergard 2012; Gelb 1980; CAD D; DULAT
 
 ## Attestations
 
@@ -61,7 +61,7 @@ di Mino; Uchitel 2003; HALOT; Fischer 2002; Huehnergard 2012; Gelb 1980; CAD D; 
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT120\|HT120]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT57a\|HT57a]] | Haghia Triada | Tablet | none |
-| [[wiki/linear-a/inscriptions/HT/HT/HT6a\|HT6a]] | Haghia Triada | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/HT/HT/HT6a\|HT6a]] | Haghia Triada | Tablet | complete |
 
 ## In translations
 

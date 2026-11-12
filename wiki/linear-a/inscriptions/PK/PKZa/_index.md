@@ -2,7 +2,7 @@
 name: wiki/linear-a/inscriptions/PK/PKZa
 desc: "Inscriptions from Palaikastro, series PKZa."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-04T13:20:00Z
+updated: 2026-11-12T00:26:03Z
 ---
 
 # wiki/linear-a/inscriptions/PK/PKZa
@@ -17,7 +17,7 @@ updated: 2026-11-04T13:20:00Z
 
 [[wiki/linear-a/inscriptions/PK/PKZa/PKZa14|PKZa14]]: Stone vessel, Palaikastro. Translation: incomplete.
 
-[[wiki/linear-a/inscriptions/PK/PKZa/PKZa15|PKZa15]]: Stone vessel, Palaikastro. Translation: incomplete (PROBABLE).
+[[wiki/linear-a/inscriptions/PK/PKZa/PKZa15|PKZa15]]: Stone vessel, Palaikastro. Translation: complete (PROBABLE).
 
 [[wiki/linear-a/inscriptions/PK/PKZa/PKZa16|PKZa16]]: Stone vessel, Palaikastro. Translation: none.
 

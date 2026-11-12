@@ -37,6 +37,6 @@ updated: 2026-10-24T16:17:50Z
 
 Status **unread** (nothing known).
 
-HT 11b .1 RU-RA₂ after \]DE-NU, heading the KA list; the top of the first sign is damaged, RU or SA (SA-RA₂, Younger). Not readable.
+HT 11b .1 RU-RA₂ after \]DE-NU, heading the KA list; GORILA reads RU and calls SA-RA₂ practically impossible (I 23); Younger (Linear A Texts) and Uchitel (2016b, 16) read SA-RA₂. No reading.
 
 <!-- END kaphtor:record -->

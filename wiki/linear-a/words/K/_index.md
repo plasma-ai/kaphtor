@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K
 desc: "Words whose first sign begins with K."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-10T17:23:44Z
+updated: 2026-11-12T00:26:03Z
 ---
 
 # wiki/linear-a/words/K
@@ -47,9 +47,9 @@ updated: 2026-11-10T17:23:44Z
 
 [[wiki/linear-a/words/K/KA_NU_TI|KA_NU_TI]]: Ganuti: place name, 25 men in the HT 97a roster beside PA-I-TO. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/K/KA_PA|KA_PA]]: kapa(r): village, settlement (kapar); rival an institution. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/K/KA_PA|KA_PA]]: kapa(r): village, settlement (kapar); on HT 140 a vessel (kappar). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/K/KA_PA_QE|KA_PA_QE]]: kapar qē(pu): the village's commissioner, a recipient of figs; rival 'the village: measures (qê)'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/K/KA_PA_QE|KA_PA_QE]]: kapar qē(pu): the village's commissioner, a recipient of figs; rival kappar qê 'vessels by the qê-measure'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/K/KA_PO_RU|KA_PO_RU]]: kapōru: bowl; rival kubburu 'extra share'. Lexicon, SPECULATIVE (tier 1).
 
@@ -87,11 +87,15 @@ updated: 2026-11-10T17:23:44Z
 
 [[wiki/linear-a/words/K/KA_star314_SI|KA_star314_SI]]: Kaḥas: personal name; Egyptian kꜣḥs, a name under Senusret III; rival kabsi 'young ram'. Lexicon, SPECULATIVE (tier 1).
 
+[[wiki/linear-a/words/K/KE|KE]]: Unread sign (syllabogram, unread); 1 occurrence(s).
+
 [[wiki/linear-a/words/K/KE_JU_MI_broken_both|KE_JU_MI_broken_both]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/K/KE_KI_RU|KE_KI_RU]]: Kikkaru: personal name, 'Disk, Round loaf'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/K/KE_SI_TE|KE_SI_TE]]: Unread (role only): personal name; 1 occurrence(s).
+
+[[wiki/linear-a/words/K/KI|KI]]: Unread sign (syllabogram, value on file); 16 occurrence(s).
 
 [[wiki/linear-a/words/K/KI_DA|KI_DA]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -175,6 +179,8 @@ updated: 2026-11-10T17:23:44Z
 
 [[wiki/linear-a/words/K/KU_MI_NA|KU_MI_NA]]: kumina: cumin (Cuminum cyminum). Lexicon, PROBABLE (tier 3).
 
+[[wiki/linear-a/words/K/KU_MI_NA_QE_broken_both|KU_MI_NA_QE_broken_both]]: Unread (unread): no role; 1 occurrence(s).
+
 [[wiki/linear-a/words/K/KU_NI_SU|KU_NI_SU]]: kunīšu: emmer (Akkadian loan). Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/K/KU_NI_TE|KU_NI_TE]]: kuhnēt: priestess (fem. singular). Lexicon, SPECULATIVE (tier 1).
@@ -192,6 +198,8 @@ updated: 2026-11-10T17:23:44Z
 [[wiki/linear-a/words/K/KU_PA3_PA3|KU_PA3_PA3]]: Kubaba: Kubaba, Sumerian Kug-Baba 'Pure is Baba' (divine or personal name). Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/K/KU_PA3_RI_JA|KU_PA3_RI_JA]]: Kubariya: Kubariya, a town of Ugarit, (wool) of Kubariya: a section heading; rival Gubliya 'the Byblian'. Lexicon, SPECULATIVE (tier 1).
+
+[[wiki/linear-a/words/K/KU_PA3_etc_broken_end|KU_PA3_etc_broken_end]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/K/KU_PA_JA|KU_PA_JA]]: Kubbaya: personal name, hypocoristic of Kubaba in -aya, cf. Amorite Kubbiya. Lexicon, SPECULATIVE (tier 1).
 

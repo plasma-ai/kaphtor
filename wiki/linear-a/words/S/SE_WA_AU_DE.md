@@ -57,6 +57,12 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/ZA/ZAZg/ZAZg35\|ZAZg35]] | Zakros | Label | none |
+| [[wiki/linear-a/inscriptions/ZA/ZAZg/ZAZg35\|ZAZg35]] | Zakros | Label | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/ZA/ZAZg/ZAZg35\|ZAZg35]] | šawaʿ-dē | who cries out, the one who implores (relative clause: √š-w-ʿ + determinative-relative dē) | SPECULATIVE |
 
 <!-- END kaphtor:record -->

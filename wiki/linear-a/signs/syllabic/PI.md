@@ -64,7 +64,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/P/PI_MI_NA_TE\|PI-MI-NA-TE]] | bi-mināti | SPECULATIVE |
 | [[wiki/linear-a/words/P/PI_RU_E_JU\|PI-RU-E-JU]] | Pirʾu-ʾēlu | SPECULATIVE |
 | [[wiki/linear-a/words/P/PI_SA\|PI-SA]] | Pīsa | SPECULATIVE |
-| [[wiki/linear-a/words/P/PI_TA_JA\|PI-TA-JA]] | Pitaya | SPECULATIVE |
+| [[wiki/linear-a/words/P/PI_TA_JA\|PI-TA-JA]] | Bittaya | SPECULATIVE |
 | [[wiki/linear-a/words/P/PI_TA_KA_SE\|PI-TA-KA-SE]] | Bīt-kissē | SPECULATIVE |
 | [[wiki/linear-a/words/P/PI_TA_KE_SI\|PI-TA-KE-SI]] | Bīt-kissi | SPECULATIVE |
 | [[wiki/linear-a/words/P/PI_TA_RA\|PI-TA-RA]] | bidāla | SPECULATIVE |
@@ -72,6 +72,6 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/Q/QE_PI_TA\|QE-PI-TA]] | qepīta | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_PI\|RU-PI]] | rōpiʾ | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_PI_KI\|SI-PI-KI]] | šipkī | CANDIDATE |
-| [[wiki/linear-a/words/T/TU_PI_TA\|TU-PI-TA]] | ṯāpiṭu | CANDIDATE |
+| [[wiki/linear-a/words/T/TU_PI_TA\|TU-PI-TA]] | ṯūpiṭa | CANDIDATE |
 
 <!-- END kaphtor:record -->

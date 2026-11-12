@@ -30,7 +30,8 @@ updated: 2026-10-24T16:17:50Z
 | Findspot | Casa del Lebete |
 | Support | Tablet |
 | Period | LMIB |
-| Scribe | HT Scribe 6 |
+| Scribe | [[wiki/linear-a/by_scribe\|HT Scribe 6]] |
+| Scribe in GORILA V | 6 HT |
 | Edition | GORILA I, 212–213 1 |
 | Series | HT |
 | Images |  |
@@ -78,7 +79,7 @@ Unicode (Linear A block):
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | [[wiki/linear-a/words/star/star188_star308\|\*188-\*308]] | buṭnu šamni | Pistacia/terebinth oil or related processed product(?) | CANDIDATE | CANDIDATE (lexicon) |
-| \*312 |  | unidentified logogram, 1¾ |  |  |
+| [[wiki/linear-a/words/star/star312\|\*312]] |  | unidentified logogram, 1¾ |  |  |
 | [[wiki/linear-a/words/T/TI_DA_TA\|TI-DA-TA]] | ṯidṯīta | sixth, the sixth section | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/P/PI_SA\|PI-SA]] | Pīsa | recipient name | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/star/star188\|\*188]] | buṭnu | Pistacia/terebinth product(?) | PROBABLE | PROBABLE (lexicon) |

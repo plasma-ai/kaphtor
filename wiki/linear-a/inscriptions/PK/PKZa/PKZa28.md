@@ -56,7 +56,7 @@ Unicode (Linear A block):
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | PU₂-RE |  | broken word, \]-PU₂-RE-\[ |  |  |
-| \*418+L2 | — | vessel ideogram + 1/20 fraction | CONFIRMED |  |
+| [[wiki/linear-a/words/star/star418_plus_L2\|\*418+L2]] | — | vessel ideogram + 1/20 fraction | CONFIRMED |  |
 
 ### Notes
 

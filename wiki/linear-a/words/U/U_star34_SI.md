@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 140 opens both oil sections with U-\*34-SI, each followed by a name (\*86-SI-NI, \*86-SI-\*118-KA) and OLE amounts, the second broken after SI (GORILA I 237); HT 15 opens the grain account with it (684, 570, KI-RO 400). Never a recipient. u-qīš 'and the gift', \*34 = qi: u- 'and' with qīš, Akk. qīšu 'given as a present' (CAD Q 280), Amorite qīšum 'given, gift' (Gelb 1980, 29), from √q-y-š 'give as a gift' (#3843), Akk. qāšu 'make a donation, dedicate' (CAD Q 156). Rivals: uqīš 'he bestowed', D preterite, written ū-qa-īš (CAD Q 156, mng. 3); a name, as U-MI-NA-SI in the same header slot (HT 117a, HT 28b). Weak point: \*34 = qi is a proposed value.
+HT 140 opens both oil sections with U-\*34-SI, each followed by an unread group (\*86-SI-NI, \*86-SI-\*118-KA) and OLE amounts, the second broken after SI (GORILA I 237); HT 15 opens the grain account with it (684, 570, KI-RO 400). Never a recipient. u-qīš 'and the gift', \*34 = qi: u- 'and' with qīš, Akk. qīšu 'given as a present' (CAD Q 280), Amorite qīšum 'given, gift' (Gelb 1980, 29), from √q-y-š 'give as a gift' (#3843), Akk. qāšu 'make a donation, dedicate' (CAD Q 156). Rivals: uqīš 'he bestowed', D preterite, written ū-qa-īš (CAD Q 156, mng. 3); a name, as U-MI-NA-SI in the same header slot (HT 117a, HT 28b). Weak point: \*34 = qi is a proposed value.
 
 ### Cognates
 
@@ -58,7 +58,14 @@ di Mino; CAD Q; Gelb 1980
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT140\|HT140]] | Haghia Triada | Tablet | none |
-| [[wiki/linear-a/inscriptions/HT/HT/HT15\|HT15]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT140\|HT140]] | Haghia Triada | Tablet | complete |
+| [[wiki/linear-a/inscriptions/HT/HT/HT15\|HT15]] | Haghia Triada | Tablet | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT15\|HT15]] | u-qīš | and the gift (heading) | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT140\|HT140]] | u-qīš | and the gift (heading of each half) | SPECULATIVE |
 
 <!-- END kaphtor:record -->

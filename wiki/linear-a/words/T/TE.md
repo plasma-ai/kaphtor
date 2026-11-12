@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-TE stands with VIN in the heading of every HT wine tablet and with the large barley entries of HT 40, 52 and 133 (Montecchi 2010, 17, 19). It marks commodity-number entries on 54 documents, and 25 HT nodules carry it alone (HT Wa 1122–1146). terûmā 'contribution, offering' (HALOT 1788), Ug. trmt 'offering', trmt lbš w ktn 'an offering: a garment and a tunic' (KTU 1.43:3; DULAT 866); TE abbreviates it, and VIN+TE is a wine-offering. Weak point: KU stands beside the full KU-RO kull, where no TE-RU-MA stands beside TE. See RU-MA.
+TE stands with VIN in the heading of every HT wine tablet and with the large barley entries of HT 40, 52 and 133 (Montecchi 2010, 17, 19). It marks commodity-number entries on 54 documents, and 25 HT nodules carry it alone (HT Wa 1122–1146). On the tablets that list several commodities, a section carries either TE or the heading SA-RA₂, never both, and there olives are booked under TE, never under SA-RA₂ (Schoep 2002, 165). The two mark different transactions: TE a contribution paid in, SA-RA₂ goods for the queen's establishment. terûmā 'contribution, offering' (HALOT 1788), Ug. trmt 'offering', trmt lbš w ktn 'an offering: a garment and a tunic' (KTU 1.43:3; DULAT 866); TE abbreviates it, and VIN+TE is a wine-offering. Weak point: KU stands beside the full KU-RO kull, where no TE-RU-MA stands beside TE. See RU-MA.
 
 ### Cognates
 
@@ -53,15 +53,15 @@ TE stands with VIN in the heading of every HT wine tablet and with the large bar
 
 ### Source
 
-di Mino; Montecchi 2010; HALOT; DULAT
+di Mino; Montecchi 2010; Schoep 2002; HALOT; DULAT
 
 ## Attestations
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT6a\|HT6a]] | Haghia Triada | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/HT/HT/HT6a\|HT6a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT9a\|HT9a]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT13\|HT13]] | Haghia Triada | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/HT/HT/HT13\|HT13]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT14\|HT14]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT17\|HT17]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT19\|HT19]] | Haghia Triada | Tablet | complete |

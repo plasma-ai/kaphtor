@@ -18,6 +18,7 @@ records under other editions, GORILA records without a label, unresolved and mer
 | --- | --- |
 | `name`, `names` | the record id, and every id the record is known by |
 | `site`, `findspot`, `support`, `scribe` | where the object was found, what it is, and the scribe where one is assigned |
+| `scribe_doubt`, `scribe_part`, `scribe_also`, `scribe_gorila` | the scribe's label is one of [scribes.json](scribes.json): `true` where the edition prints the attribution with a question mark; where two scribes wrote the record, the part the first wrote and the others as `[{"scribe", "part"}]`; on Haghia Triada tablets, the cell GORILA V prints, whose numbering differs ([scribes.md](scribes.md)) |
 | `context`, `period`, `date` | the archaeological date (`LMIB`, `MM III–LM I`); the pages print `context` as the period |
 | `gorila_volume`, `source_provenance` | the GORILA volume, and the edition the record comes from (`GORILA`, `RILA-S1`, `SigLA`…) |
 | `rila_s1`, `rila`, `rila_note` | the record's status in RILA-S1 and readings checked against it |

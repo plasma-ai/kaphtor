@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/A/A_PA_RA_NE
 title: "A-PA-RA-NE"
-desc: "ʿabrāne: the crosser, the one from beyond (√ʿ-b-r, the ʿApiru word); rival 'creator' (√b-r-ʾ). Lexicon, CANDIDATE (tier 2)."
+desc: "ʿAbrān: personal name, 'the crosser, the one from beyond' (√ʿ-b-r), Alalakh Ap-ra-an. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "personal_name"]
 kind: "word"
 form: "A-PA-RA-NE"
@@ -9,7 +9,7 @@ datasets: ["lexicon", "onomasticon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.5
-reading: "ʿabrāne"
+reading: "ʿAbrān"
 attestations: ["HT96a", "HT96b"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,8 +31,8 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | ʿabrāne |
-| Meaning | the crosser, the one from beyond (√ʿ-b-r, the ʿApiru word); rival 'creator' (√b-r-ʾ) |
+| Reading | ʿAbrān |
+| Meaning | personal name, 'the crosser, the one from beyond' (√ʿ-b-r), Alalakh Ap-ra-an |
 | Root | ʿ-b-r |
 | Proto-Semitic | \*ʕVbur- ~ \*ʕa/ibr- (#1543) |
 | Language layer | Semitic |
@@ -41,19 +41,26 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 96a and b (Scribe 8, Casa Room 7, LM IB). HT 96b heads a major allocation: QA-\*118-RA-RE qaṭara 'incense', \*516 SIPRU, GRA 40¾, OLE+U 4, NI 2. The short form PA-RA-NE stands on HT 115a and b, by the same scribe. ʿabrāne, √ʿ-b-r with agentive -āne, 'the crosser, the one from beyond', as ʿibrī 'Hebrew', PA writing b. Amorite Ḥa-pí-ra-an, of the element ḤPR ḥapir-, \*ʿapir-, the ʿApiru/Ḥabiru word (Huffmon 1965, 36, 202), matches A-PA-RA-NE with initial A for ʿa and -ān, cuneiform ḫ writing ʿ; so ḪABIR-AN (Gelb 1980, no. 1997). AP-RA-AN (Gelb 1980, no. 863) is a separate name, ʾApran, since cuneiform AP- writes ʾ and ʿ alike. Borger derives ʿapīru from ʿ-p-r 'dust' (apud Huffmon 1965, 202); PA writes p and b alike. Rival: √b-r-ʾ with -āne, 'creator', the aleph unwritten.
+HT 96a and b (Scribe 8, Casa Room 7, LM IB). HT 96b heads a major allocation: QA-\*118-RA-RE qaṭara 'incense', \*516 SIPRU, GRA 40¾, OLE+U 4, NI 2. The short form PA-RA-NE stands on HT 115a and b, by the same scribe.
+
+ʿAbrān, ʿabr- of √ʿ-b-r 'cross' with -ān, 'the crosser, the one from beyond', as ʿibrî 'Hebrew'. A writes ʿa, PA writes b, its vowel dead before r, and final NE writes n, as in KA-DU-MA-NE Qadmān. Ap-ra-an, in the census list AT 130:2 of Alalakh IV, the fifteenth century (Wiseman 1953, 128), matches it sign for sign: the sign AP writes ab and ap alike, and cuneiform leaves the ʿayin unwritten. Ap-ra stands beside it in the same archive (AT 17:2), the name with and without -ān, the hypocoristic suffix of Amorite masculine names (Huffmon 1965, 135–137). Gelb files the name as ʾAPR-AN (1980, no. 863).
+
+Amorite Ḫa-pí-ra-an (ARM IX 7:4), of ḪPR ḫapir-, \*ʿapir-, the ʿApiru word (Huffmon 1965, 36, 202), is the qatil form (144), with i between p and r, which Linear A would write A-PI-RA-NE; so ḪA-BI-RA-AN ḪABIR-AN (Gelb 1980, no. 1997). ʿApiru has p, Ug. ʿprm, and its tie to √ʿ-b-r is uncertain (HALOT 782–783; DULAT 171).
+
+Rival: ʿAprān 'fawn', Heb. ʿEprôn, ʿēper 'young deer' with -ōn from -ān (HALOT 862–863), PA writing p. Ug. ảbrn (KTU 4.617 I 21; DULAT 13) gives ʾAbrān.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Hebrew | ʿābar (עָבַר) 'to cross over' → ʿibrī (עִבְרִי) 'Hebrew'; bārāʾ (בָּרָא) 'he created' (Gen 1:1) |
-| Akkadian | ebēru 'to cross over' |
-| Ugaritic | ʿbr 'to pass, cross'; brʾ 'to create' |
+| Amorite | Ap-ra-an, Alalakh IV, AT 130:2 (Wiseman 1953, 128; ʾAPR-AN, Gelb 1980, no. 863); Ḫa-pí-ra-an, ARM IX 7:4, ḪPR ḫapir-, \*ʿapir- (Huffmon 1965, 36, 202); ḪA-BI-RA-AN ḪABIR-AN (Gelb 1980, no. 1997) |
+| Hebrew | ʿābar (עָבַר) 'to cross over' (HALOT 778) → ʿibrî (עִבְרִי) 'Hebrew' (HALOT 782); ʿEprôn (עֶפְרוֹן), ʿēper with -ōn (HALOT 863) |
+| Ugaritic | /ʕ-b-r/ 'to pass, go through' (DULAT 141); ʿbr (II) PN (DULAT 142); ảbrn PN (KTU 4.617 I 21; DULAT 13) |
+| Akkadian | ebēru A 'to cross (water)' (CAD E 10) |
 
 ### Source
 
-di Mino
+di Mino; Wiseman 1953; Gelb 1980; Huffmon 1965
 
 ## Attestations
 
@@ -66,8 +73,8 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT96a\|HT96a]] | ʿabrāne | heading name, also on HT96b; 'the crosser' (√ʿ-b-r) or 'creator' (√b-r-ʾ); Amorite comparison Ḥa-pí-ra-an, \*ʿapir-\* (Huffmon, APNM p. 36) | CANDIDATE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT96b\|HT96b]] | ʿabrāne | heading name, also on HT96a; Amorite comparison Ḥa-pí-ra-an, \*ʿapir-\* (Huffmon, APNM p. 36) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT96a\|HT96a]] | ʿAbrān | heading name, also on HT96b; 'the crosser' (√ʿ-b-r); Alalakh Ap-ra-an (Wiseman 1953, 128), Amorite Ḫa-pí-ra-an, \*ʿapir- (Huffmon 1965, 36) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT96b\|HT96b]] | ʿAbrān | heading name, also on HT96a; Alalakh Ap-ra-an (Wiseman 1953, 128), Amorite Ḫa-pí-ra-an, \*ʿapir- (Huffmon 1965, 36) | CANDIDATE |
 
 ## Onomasticon
 

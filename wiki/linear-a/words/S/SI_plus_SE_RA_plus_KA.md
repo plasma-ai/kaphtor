@@ -57,6 +57,12 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1021\|HTWa1021]] | Haghia Triada | Nodule | none |
+| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1021\|HTWa1021]] | Haghia Triada | Nodule | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1021\|HTWa1021]] | šeraka | levy, gift—fiscal category on a commodity nodule | SPECULATIVE |
 
 <!-- END kaphtor:record -->

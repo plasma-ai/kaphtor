@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/inscriptions/KY/KYZa/KYZa2
 title: "KYZa2"
-desc: "Stone vessel, Kythera. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "stone-vessel"]
+desc: "Stone vessel, Kythera. Translation: complete (SPECULATIVE)."
+tags: ["linear-a", "inscription", "translation-complete", "stone-vessel"]
 kind: "inscription"
 id: "KYZa2"
 site: "Kythera"
 support: "Stone vessel"
 period: ""
-translation: "none"
+translation: "complete"
 words: ["DA-MA-TE"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -46,6 +46,21 @@ Unicode (Linear A block):
 ```text
 𐘀𐙁𐘃
 ```
+
+## Translation
+
+**SPECULATIVE**, complete.
+
+> The Tower.
+
+| Word | Reading | Gloss | Confidence | Lexicon |
+|---|---|---|---|---|
+| [[wiki/linear-a/words/D/DA_MA_TE\|DA-MA-TE]] | damat | the Tower | SPECULATIVE | SPECULATIVE (lexicon) |
+
+### Source
+
+- di Mino: DA-MA-TE
+- GORILA: KYZa2
 
 ## Lexicon words citing this document
 

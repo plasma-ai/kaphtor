@@ -2,12 +2,14 @@
 name: wiki/linear-a/words/Z
 desc: "Words whose first sign begins with Z."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-04T21:34:23Z
+updated: 2026-11-12T00:26:03Z
 ---
 
 # wiki/linear-a/words/Z
 
 [[wiki/linear-a/words/_index|..]]
+
+[[wiki/linear-a/words/Z/ZA|ZA]]: Unread sign (syllabogram, unread); 2 occurrence(s).
 
 [[wiki/linear-a/words/Z/ZA_SI_ZU|ZA_SI_ZU]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -16,6 +18,8 @@ updated: 2026-11-04T21:34:23Z
 [[wiki/linear-a/words/Z/ZA_star321|ZA_star321]]: Unread (role only): personal name; 1 occurrence(s).
 
 [[wiki/linear-a/words/Z/ZE|ZE]]: zēru: seed-grain (agricultural category marker for planting stock allocations). Lexicon, CANDIDATE (tier 2).
+
+[[wiki/linear-a/words/Z/ZO|ZO]]: Unread sign (syllabogram, unread); 2 occurrence(s).
 
 [[wiki/linear-a/words/Z/ZU|ZU]]: ṯūm: garlic (logographic abbreviation). Lexicon, CANDIDATE (tier 2).
 

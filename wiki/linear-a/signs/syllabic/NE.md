@@ -44,7 +44,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/star/star21F_TU_NE\|\*21F-TU-NE]] | hatune | CANDIDATE |
 | [[wiki/linear-a/words/A/A_KO_A_NE\|A-KO-A-NE]] | ha-kōhan | CANDIDATE |
 | [[wiki/linear-a/words/A/A_NA_NE\|A-NA-NE]] | ḥanān | CANDIDATE |
-| [[wiki/linear-a/words/A/A_PA_RA_NE\|A-PA-RA-NE]] | ʿabrāne | CANDIDATE |
+| [[wiki/linear-a/words/A/A_PA_RA_NE\|A-PA-RA-NE]] | ʿAbrān | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RE_NE\|A-RE-NE]] | ʾarān | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | ʾarān Ṣidna bikē bayta rēšī tarīmu ʾAyaku | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_SA_MU_NE\|A-SA-MU-NE]] | ʾAšmūn | PROBABLE |
@@ -62,7 +62,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/N/NA_TU_star301_NE\|NA-TU-\*301-NE]] | natūnān | PROBABLE |
 | [[wiki/linear-a/words/O/O_RA2_DI_NE\|O-RA₂-DI-NE]] | ʾŌl-dīn | SPECULATIVE |
 | [[wiki/linear-a/words/O/OLE_plus_NE\|OLE+NE]] | neseku | CANDIDATE |
-| [[wiki/linear-a/words/P/PA_RA_NE\|PA-RA-NE]] | barāne | CANDIDATE |
+| [[wiki/linear-a/words/P/PA_RA_NE\|PA-RA-NE]] | Barān | CANDIDATE |
 | [[wiki/linear-a/words/P/PA_TA_NE\|PA-TA-NE]] | Patne | CANDIDATE |
 | [[wiki/linear-a/words/Q/QA_NE\|QA-NE]] | qanē | CANDIDATE |
 | [[wiki/linear-a/words/Q/QE_TU_NE\|QE-TU-NE]] | qaṭunē | SPECULATIVE |

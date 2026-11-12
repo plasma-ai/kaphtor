@@ -57,6 +57,12 @@ di Mino; Lane
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/MIL/MILZb/MILZb1\|MILZb1]] | Miletos | Clay vessel | none |
+| [[wiki/linear-a/inscriptions/MIL/MILZb/MILZb1\|MILZb1]] | Miletos | Clay vessel | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/MIL/MILZb/MILZb1\|MILZb1]] | basīsa | meal worked with oil or clarified butter (commodity) | CANDIDATE |
 
 <!-- END kaphtor:record -->

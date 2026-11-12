@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "none"
-words: ["*188", "*308", "*406VAS+KE", "KA-U-ZU-NI", "KI+MU"]
+words: ["*188", "*308", "*406VAS+KE", "KA-U-ZU-NI", "KI+MU", "VIR+[?]"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -30,7 +30,8 @@ updated: 2026-10-24T16:17:50Z
 | Findspot | Villa Magazine |
 | Support | Tablet |
 | Period | LMIB |
-| Scribe | HT Scribe 3 |
+| Scribe | [[wiki/linear-a/by_scribe\|HT Scribe 3]] |
+| Scribe in GORILA V | 3 HT |
 | Edition | GORILA 1 |
 | Series | HT |
 | SigLA | [HT 26b](https://sigla.phis.me/document/HT%2026b/) |
@@ -62,6 +63,6 @@ Unicode (Linear A block):
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/star/star188|\*188]], [[wiki/linear-a/words/star/star308|\*308]], [[wiki/linear-a/words/star/star406VAS_plus_KE|\*406VAS+KE]], [[wiki/linear-a/words/K/KA_U_ZU_NI|KA-U-ZU-NI]], [[wiki/linear-a/words/K/KI_plus_MU|KI+MU]].
+[[wiki/linear-a/words/star/star188|\*188]], [[wiki/linear-a/words/star/star308|\*308]], [[wiki/linear-a/words/star/star406VAS_plus_KE|\*406VAS+KE]], [[wiki/linear-a/words/K/KA_U_ZU_NI|KA-U-ZU-NI]], [[wiki/linear-a/words/K/KI_plus_MU|KI+MU]], [[wiki/linear-a/words/V/VIR_plus_q_broken_end|VIR+&#91;?&#93;]].
 
 <!-- END kaphtor:record -->

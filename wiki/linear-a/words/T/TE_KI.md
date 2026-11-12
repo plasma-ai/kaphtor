@@ -39,7 +39,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 13 .3–4 TE-KI 27½, after TE-TU 56 and before KU-ZU-NI 18, under KA-U-DE-TA VIN · TE · (GORILA I 27). HT 122a .3 TE-KI 2, before QA-\*310-I 3 (GORILA I 207). HT 85a writes TE-KE 3 in the same set of units (DA-SI-\*118, KU-ZU-NI), counted under VIR. Hurrian tagi 'beautiful' (Laroche 1980, 249) as a bare-stem name, as Amarna ¹ta-gi (Hess 1993, no. 164); the Ras Shamra form te-gi-še has e in the first syllable, as TE-KI does. Rival: PS \*diḳ(ḳ)- 'small' (Ug. dḳ, DULAT 275). Two attestations.
+HT 13 .3–4 TE-KI 27½, after TE-TU 56 and before KU-ZU-NI 18, under KA-U-DE-TA VIN · TE · (GORILA I 27). HT 122a .3 TE-KI 2, before QA-\*310-I 3 (GORILA I 207). HT 85a writes TE-KE 3 in the same set of units (DA-SI-\*118, KU-ZU-NI), counted under VIR. Hurrian tagi 'beautiful' (Laroche 1980, 249) as a bare-stem name, as Amarna ¹ta-gi (Hess 1993, no. 164); the Ras Shamra form te-gi-še has e in the first syllable, as TE-KI does. Rivals: PS \*diḳ(ḳ)- 'small' (Ug. dḳ, DULAT 275); Tegea in Crete (Stephanus of Byzantium, s.v. Τεγέα), which Peruzzi places near Kydonia (1957, 37–38). Two attestations.
 
 ### Cognates
 
@@ -50,13 +50,13 @@ HT 13 .3–4 TE-KI 27½, after TE-TU 56 and before KU-ZU-NI 18, under KA-U-DE-TA
 
 ### Source
 
-di Mino; Laroche 1980; Monti 2017; Hess 1993
+di Mino; Laroche 1980; Monti 2017; Hess 1993; Peruzzi 1957
 
 ## Attestations
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT13\|HT13]] | Haghia Triada | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/HT/HT/HT13\|HT13]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT122a\|HT122a]] | Haghia Triada | Tablet | complete |
 
 ## In translations

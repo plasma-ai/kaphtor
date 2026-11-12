@@ -25,7 +25,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/IO/IOZa/IOZa11\|IOZa11]] | Iouktas | Stone vessel | incomplete; form not in transliteration |
+| [[wiki/linear-a/inscriptions/IO/IOZa/IOZa11\|IOZa11]] | Iouktas | Stone vessel | incomplete |
 
 ## In translations
 

@@ -62,6 +62,6 @@ di Mino; GlOS 2; CAD K; DULAT; Buck 2018; Kinlaw 1967; Brown 1995
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT110a\|HT110a]] | Haghia Triada | Tablet | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/HT/HT/HT110a\|HT110a]] | Haghia Triada | Tablet | incomplete; form not in transliteration |
 
 <!-- END kaphtor:record -->

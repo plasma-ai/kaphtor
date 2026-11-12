@@ -9,7 +9,7 @@ site: "Zakros"
 support: "Tablet"
 period: ""
 translation: "incomplete"
-words: ["SI-TE"]
+words: ["*21F", "SI-TE"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -65,7 +65,7 @@ Unicode (Linear A block):
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | [[wiki/linear-a/words/S/SI_TE\|SI-TE]] | Ṣīt | the East, eastern Crete (place name) |  | CANDIDATE (lexicon) |
-| \*21F | OVISf | ewes |  |  |
+| [[wiki/linear-a/words/star/star21F\|\*21F]] | OVISf | ewes |  | PROBABLE (lexicon) |
 
 ### Notes
 
@@ -77,6 +77,6 @@ di Mino
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/S/SI_TE|SI-TE]].
+[[wiki/linear-a/words/star/star21F|\*21F]], [[wiki/linear-a/words/S/SI_TE|SI-TE]].
 
 <!-- END kaphtor:record -->

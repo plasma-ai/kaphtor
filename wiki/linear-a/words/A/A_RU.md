@@ -84,6 +84,6 @@ di Mino; Pagan 1998; NPN
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: KI, [[wiki/linear-a/words/K/KU_PA3_NU|KU-PA₃-NU]] Kubānu, [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KI|KI]], [[wiki/linear-a/words/K/KU_PA3_NU|KU-PA₃-NU]] Kubānu, [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull.
 
 <!-- END kaphtor:record -->

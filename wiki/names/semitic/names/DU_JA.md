@@ -1,0 +1,78 @@
+---
+name: wiki/names/semitic/names/DU_JA
+title: "DU-JA"
+desc: "Ḏū-Ya: personal name, 'He of Ya'. Semitic, SPECULATIVE."
+tags: ["names", "personal-name", "semitic"]
+kind: "name"
+form: "DU-JA"
+reading: "Ḏū-Ya"
+attestations: ["HT7a"]
+created: 2026-11-12T19:49:27Z
+updated: 2026-11-12T19:49:27Z
+---
+
+# DU-JA
+
+[[wiki/names/semitic/names/_index|..]]
+
+***
+
+<!-- BEGIN kaphtor:record -->
+
+**Ḏū-Ya** · personal name, 'He of Ya'
+
+| Field | Value |
+|---|---|
+| Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
+| Reading | Ḏū-Ya |
+| Meaning | personal name, 'He of Ya' |
+| Language layer | [[wiki/names/semitic/_index\|Semitic]] |
+| Root | [[wiki/names/semitic/roots/dh\|ḏ]] + [[wiki/names/semitic/roots/y-h-w\|y-h-w]] |
+| Reading's standing | SPECULATIVE |
+| Standing as a personal name | SPECULATIVE |
+| Standing of the layer | SPECULATIVE (lexicon_reading) |
+| Source | di Mino; Buck 2018; ORACC; Kinlaw 1967; DULAT; NPN; Hess 1993 |
+
+## Note
+
+HT 7a lists men under QE-TI 'in the charge of': I-RU-JA 3, DU-JA 4, TA-NA-TI 1, DA-RE 1 and TE-TU 1 (GORILA I 15). DU-JA is whole and undotted, and it follows I-RU-JA ʾIlūya 'My god', where -ja is the suffix 'my'.
+
+Ḏū-Ya is 'He of Ya', ḏū 'he of' before the divine name. DU writes ḏū in DU-ZU-WA 'He of the Lord' and DU-NE-MI 'He of Grace', and JA is the Yāh of JA-\*21F (HT 28b) and of PI-TA-JA Bittaya 'daughter of Ya' (HT 6a).
+
+West Semitic names set ḏū before other gods, cuneiform zu writing ḏū: zu-ᵈiš-ḫa-ra, Ḏū-ʾIšḫara, at Tuttul (Buck 2018, 352), and ᵐzu-aš-tar-ti, Zu-Aštarti, on a tablet from Ugarit (RSO 7, 35; ORACC P347873). Ugarit also has the short name Zuya, ᵐzu-ú-ia₈ (RS 15.126:4; Kinlaw 1967, 137), which DULAT sets beside alphabetic ṣwy, its etymology uncertain (DULAT 782).
+
+Rival: Tuya, the Nuzi name Tu-ú-ia (NPN 156), borne at Amarna too, ¹tu-u-ia (EA 162:69; Hess 1993, 159), with DU for tu against the T-series. Weak point: JA can be the hypocoristic ending, which leaves Ḏūya 'He of (a god)'. One witness. See JA-HA and PI-TA-JA.
+
+## As a name
+
+A man in the HT 7a list, DU-JA 4. Ḏū-Ya 'He of Ya', ḏū before a divine name as Tuttul's Ḏū-ʾIšḫara (Buck 2018, 352) and Ugarit's Zu-Aštarti (ORACC P347873). Rival: Tuya, the Nuzi name Tu-ú-ia (NPN 156).
+
+## Cognates
+
+| Language | Comparison |
+|---|---|
+| Amorite | zu-ᵈiš-ḫa-ra, Ḏū-ʾIšḫara 'He of Išḫara', at Tuttul (Buck 2018, 352) |
+| Ugaritic | ᵐzu-aš-tar-ti, Zu-Aštarti (RSO 7, 35; ORACC P347873); ᵐzu-ú-ia₈, Zuya (RS 15.126:4; Kinlaw 1967, 137) |
+| Nuzi | TUIA, Tu-ú-ia, var. Tu-ú?-ia (NPN 156); -tuja 'H. Perhaps a formative in Akituja' (NPN 268) |
+| Amarna | ¹tu-u-ia, Tuya (EA 162:69; Hess 1993, 159) |
+| Hittite | Tuya, f. (KBo 28.50 1; Hittite Personal Names 0.1) |
+
+## Attestations
+
+| Field | Value |
+|---|---|
+| Occurrences | 1 in 1 document |
+| Documents | HT7a |
+| Sites | Haghia Triada |
+| Supports | Tablet 1 |
+| Stands after | a numeral 1× |
+
+## Company
+
+Read words on the same documents.
+
+| Word | Reading | Meaning |
+|---|---|---|
+| DA-RE | dār | estate, household (a unit receiving men and grain); rival 'kin group, clan' |
+
+<!-- END kaphtor:record -->

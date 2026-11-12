@@ -58,6 +58,12 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/THE/THEZb/THEZb7\|THEZb7]] | Thera | Clay vessel | none |
+| [[wiki/linear-a/inscriptions/THE/THEZb/THEZb7\|THEZb7]] | Thera | Clay vessel | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/THE/THEZb/THEZb7\|THEZb7]] | ʾaye | island | CANDIDATE |
 
 <!-- END kaphtor:record -->

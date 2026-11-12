@@ -211,10 +211,14 @@ class Model:
     sign_status: dict = field(default_factory=dict)
     attested_in: dict = field(default_factory=dict)       # corpus key -> lexicon forms citing it
     in_translations: dict = field(default_factory=dict)   # form -> [(translation id, normalized item)]
+    unread_signs: dict = field(default_factory=dict)      # sign -> unread_signs.json entry, when the file is there
+    unread_sign_statuses: dict = field(default_factory=dict)
+    scribes: dict = field(default_factory=dict)           # label -> scribes.json entry, when the file is there
 
     def forms(self) -> list[str]:
-        """Every form with a word page: lexicon, onomasticon and unread words together."""
-        return sorted(set(self.lexicon) | set(self.onomasticon) | set(self.unread), key=natural)
+        """Every form with a word page: lexicon, onomasticon, unread words and unread signs together."""
+        return sorted(set(self.lexicon) | set(self.onomasticon) | set(self.unread) | set(self.unread_signs),
+                      key=natural)
 
 
 def load(folder: Path) -> Model:
@@ -244,4 +248,10 @@ def load(folder: Path) -> Model:
         for item in model.translations[doc]["words"]:
             in_translations[item["form"]].append((doc, item))
     model.in_translations = dict(in_translations)
+    if (folder / "unread_signs.json").exists():
+        signs = _read(folder, "unread_signs.json")
+        model.unread_signs = {s["sign"]: s for s in signs["entries"]}
+        model.unread_sign_statuses = signs.get("statuses", {})
+    if (folder / "scribes.json").exists():
+        model.scribes = _read(folder, "scribes.json")["scribes"]
     return model

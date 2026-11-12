@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-On the HT Wc 3014 roundel, KU-MI-NA (side a) and QE (side b, the standalone qab-measure √q-b-b before the CAP caprid logogram) are separate entries. A Wanderwort: Sumerian U.GAMUN, Akk. kamūnu, Ug. kmn, Linear B ku-mi-no, Greek κύμινον; KU-MI-NA has the skeleton of ku-mi-no, a Semitic loan in Linear B. HT 54a.2 reads \]KU-MI-NA-QE\[, broken at both ends (GORILA I 105). A-KU-MI-NA and A-DU-KU-MI-NA on ZA 10a are roster titles on the homograph kummi 'cella' + -ān, as SI-DU-QI-KU-MI.
+On the HT Wc 3014 roundel, KU-MI-NA (side a) and QE (side b, the standalone qab-measure √q-b-b before the CAP caprid logogram) are separate entries. A Wanderwort: Sumerian U.GAMUN, Akk. kamūnu, Ug. kmn, Linear B ku-mi-no, Greek κύμινον; KU-MI-NA has the skeleton of ku-mi-no, a Semitic loan in Linear B; Peruzzi already set the roundel's ku-mi-na before Mycenaean ku-mi-no (Peruzzi 1958, 13). HT 54a.2 reads \]KU-MI-NA-QE\[, broken at both ends (GORILA I 105). A-KU-MI-NA and A-DU-KU-MI-NA on ZA 10a are roster titles on the homograph kummi 'cella' + -ān, as SI-DU-QI-KU-MI.
 
 ### Cognates
 
@@ -57,13 +57,19 @@ On the HT Wc 3014 roundel, KU-MI-NA (side a) and QE (side b, the standalone qab-
 
 ### Source
 
-di Mino
+di Mino; Peruzzi 1958
 
 ## Attestations
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT54a\|HT54a]] | Haghia Triada | Tablet | none; form not in transliteration |
-| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3014\|HTWc3014]] | Haghia Triada | Roundel | none |
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3014\|HTWc3014]] | Haghia Triada | Roundel | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3014\|HTWc3014]] | kumina | cumin (Cuminum cyminum) | PROBABLE |
 
 <!-- END kaphtor:record -->

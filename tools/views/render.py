@@ -6,6 +6,7 @@ goes in code blocks.
 """
 from __future__ import annotations
 
+from ..core import scribes
 from .markdown import escape as esc
 from .markdown import link, page, paragraphs, table
 from .model import (
@@ -38,6 +39,9 @@ OWNED_KEYS = frozenset({
 })
 
 
+BY_SCRIBE = "wiki/linear-a/by_scribe"
+
+
 def _page(path: str, fields: dict, body: list[str]) -> tuple[str, str]:
     parent = path.rsplit("/", 1)[0]
     return path, page(fields, fields["title"], [link(parent + "/_index", "..")], ["", *body])
@@ -48,8 +52,10 @@ def _words(text: str) -> str:
 
 
 def has_page(model: Model, form: str) -> bool:
-    """Whether a form has a word page: an entry in the lexicon, the onomasticon or the unread words."""
-    return form in model.lexicon or form in model.onomasticon or form in model.unread
+    """Whether a form has a word page: an entry in the lexicon, the onomasticon, the unread words or the unread
+    signs."""
+    return (form in model.lexicon or form in model.onomasticon or form in model.unread
+            or form in model.unread_signs)
 
 
 def translation_label(model: Model, key: str) -> str:
@@ -104,13 +110,18 @@ def _review(e: dict) -> list[str]:
 
 def word_page(model: Model, form: str) -> tuple[str, str]:
     e, o, u = model.lexicon.get(form), model.onomasticon.get(form), model.unread.get(form)
-    datasets = [name for name, rec in (("lexicon", e), ("onomasticon", o), ("unread_words", u)) if rec]
+    s = model.unread_signs.get(form)
+    datasets = [name for name, rec in (("lexicon", e), ("onomasticon", o), ("unread_words", u),
+                                       ("unread_signs", s)) if rec]
     if e:
         desc = ((f"{e['reading']}: " if e.get("reading") else "") + f"{e.get('meaning') or 'no meaning recorded'}. "
                 f"Lexicon, {e['confidence']} (tier {e['tier']}).")
     elif u:
         desc = (f"Unread ({_words(u['status'])}): {_words(u.get('role') or 'no role')}; "
                 f"{u.get('frequency', 0)} occurrence(s).")
+    elif o is None:
+        desc = (f"Unread sign ({_words(s['kind'])}, {_words(s['status'])}); "
+                f"{s.get('frequency', 0)} occurrence(s).")
     elif o.get("reading"):
         ref = o.get("lexicon_ref")
         desc = (f"{o['reading']}: {o.get('meaning') or _words(o.get('type') or 'name')}. "
@@ -118,10 +129,10 @@ def word_page(model: Model, form: str) -> tuple[str, str]:
                 + (f"; lexicon entry {ref}." if ref and ref != form else "."))
     else:
         desc = f"Onomasticon {_words(o.get('type') or 'entry')}, no reading."
-    attestations = list(dict.fromkeys(a for rec in (e, o, u) if rec for a in rec.get("attestations") or []))
+    attestations = list(dict.fromkeys(a for rec in (e, o, u, s) if rec for a in rec.get("attestations") or []))
     fields = {"title": form, "desc": desc,
               "tags": ["linear-a", "word"] + ([f"tier-{e['tier']}", *(e.get("tags") or ["untagged"])] if e else [])
-              + (["unread"] if u else []),
+              + (["unread"] if u or s else []),
               "kind": "word", "form": form, "datasets": datasets}
     if e:
         fields |= {"tier": e["tier"], "confidence": e["confidence"], "confidence_score": e.get("confidence_score"),
@@ -224,10 +235,36 @@ def word_page(model: Model, form: str) -> tuple[str, str]:
                  + (f"; role {esc(_words(u['role']))}" if u.get("role") else "") + ".", ""]
         if u.get("note"):
             body += [paragraphs(u["note"]), ""]
+
+    if s:
+        meaning = model.unread_sign_statuses.get(s["status"], "")
+        body += ["## Unread sign", "",
+                 f"A {esc(_words(s['kind']))}. Status **{_words(s['status'])}**" + (f" ({esc(meaning)})" if meaning else "")
+                 + ".", ""]
+        if s.get("read_components"):
+            body += ["The lexicon reads " + ", ".join(
+                link(word_path(c), esc(c)) if has_page(model, c) else esc(c) for c in s["read_components"]) + ".", ""]
+        if s.get("on_file"):
+            body += table(["On file in", "Record", "Value", "Standing"], [
+                [esc(v.get("file") or ""), esc(v.get("record") or ""), esc(v.get("value") or ""),
+                 esc(v.get("standing") or "")] for v in s["on_file"]]) + [""]
+        if s.get("note"):
+            body += [paragraphs(s["note"]), ""]
     return _page(word_path(form), fields, body)
 
 
 # ---------------------------------------------------------------- inscriptions
+
+def _scribe_cell(model: Model, rec: dict) -> str:
+    """Each scribe of the record with a question mark where the edition doubts it and the part where two share it;
+    the label links the by-scribe ledger when the registry is in the data folder."""
+    cells = []
+    for label in scribes.labels(rec):
+        part = scribes.scribe_part(rec, label)
+        cells.append((link(BY_SCRIBE, esc(label)) if label in model.scribes else esc(label))
+                     + (" (?)" if scribes.doubtful(rec, label) else "") + (f" ({esc(part)})" if part else ""))
+    return "; ".join(cells)
+
 
 def doc_keys(model: Model) -> list[str]:
     """Every inscription page: the corpus records, and translations with no corpus record."""
@@ -251,8 +288,10 @@ def doc_page(model: Model, key: str) -> tuple[str, str]:
     if rec:
         edition = (rec.get("source_provenance") or "") + (f" {rec['gorila_volume']}" if rec.get("gorila_volume") else "")
         rows = [["Site", esc(site)], ["Findspot", esc(rec.get("findspot") or "")], ["Support", esc(support)],
-                ["Period", esc(period)], ["Scribe", esc(rec.get("scribe") or "")], ["Edition", esc(edition)],
+                ["Period", esc(period)], ["Scribe", _scribe_cell(model, rec)], ["Edition", esc(edition)],
                 ["Series", esc(series(key)[1])]]
+        if rec.get("scribe_gorila"):
+            rows.insert(5, ["Scribe in GORILA V", esc(rec["scribe_gorila"])])
         sigla = rec.get("sigla")
         if isinstance(sigla, dict) and sigla.get("id"):
             rows.append(["SigLA", f"[{esc(sigla['id'])}]({sigla['url']})" if sigla.get("url") else esc(sigla["id"])])

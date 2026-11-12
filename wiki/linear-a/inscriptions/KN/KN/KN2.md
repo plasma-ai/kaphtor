@@ -9,7 +9,7 @@ site: "Knossos"
 support: "Tablet"
 period: ""
 translation: "none"
-words: []
+words: ["*118"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -53,5 +53,9 @@ Unicode (Linear A block):
 𐛁𐄋𐝫
 𐝫
 ```
+
+## Lexicon words citing this document
+
+[[wiki/linear-a/words/star/star118|\*118]].
 
 <!-- END kaphtor:record -->

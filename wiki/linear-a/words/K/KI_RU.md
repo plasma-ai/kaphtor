@@ -58,6 +58,12 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/MI/MIZb/MIZb1\|MIZb1]] | Milos | Clay vessel | none |
+| [[wiki/linear-a/inscriptions/MI/MIZb/MIZb1\|MIZb1]] | Milos | Clay vessel | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/MI/MIZb/MIZb1\|MIZb1]] | kirru | large vessel (vessel label) | SPECULATIVE |
 
 <!-- END kaphtor:record -->

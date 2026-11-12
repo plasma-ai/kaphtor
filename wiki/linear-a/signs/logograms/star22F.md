@@ -30,4 +30,10 @@ updated: 2026-10-24T16:17:50Z
 | Gloss | she-goat |
 | Commodity | CAPf |
 
+## Lexicon words written with this sign
+
+| Word | Reading | Confidence |
+|---|---|---|
+| [[wiki/linear-a/words/star/star22F\|\*22F]] | (logogram) | PROBABLE |
+
 <!-- END kaphtor:record -->

@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 Transliteration, line by line:
 
 1. NA-\[?\]-DA-DA \[?\]-\[?\]-\[?\]
-2. U-TI-NU 𐄁 I-NA-I-DA
+2. \]-U-TI-NU 𐄁 I-NA-I-DA-\[
 
 Unicode (Linear A block):
 

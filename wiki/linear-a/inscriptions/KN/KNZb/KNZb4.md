@@ -56,7 +56,7 @@ Unicode (Linear A block):
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| JU | l(u) | to/for (dedicatory preposition) or asseverative lū | CANDIDATE |  |
+| [[wiki/linear-a/words/J/JU\|JU]] | l(u) | to/for (dedicatory preposition) or asseverative lū | CANDIDATE |  |
 | [[wiki/linear-a/words/J/JA_SI\|JA-SI]] | yašīʿ | Salvation (√y-š-ʿ) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/S/SI\|SI]] | šay | tribute (abbreviation) | PROBABLE | PROBABLE (lexicon) |
 

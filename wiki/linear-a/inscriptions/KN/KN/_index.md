@@ -2,14 +2,14 @@
 name: wiki/linear-a/inscriptions/KN/KN
 desc: "Inscriptions from Knossos, series KN."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-26T15:31:50Z
+updated: 2026-11-13T13:31:15Z
 ---
 
 # wiki/linear-a/inscriptions/KN/KN
 
 [[wiki/linear-a/inscriptions/KN/_index|..]]
 
-[[wiki/linear-a/inscriptions/KN/KN/KN1a|KN1a]]: Tablet, Knossos. Translation: none.
+[[wiki/linear-a/inscriptions/KN/KN/KN1a|KN1a]]: Tablet, Knossos. Translation: complete (SPECULATIVE).
 
 [[wiki/linear-a/inscriptions/KN/KN/KN1b|KN1b]]: Tablet, Knossos. Translation: complete (CANDIDATE).
 

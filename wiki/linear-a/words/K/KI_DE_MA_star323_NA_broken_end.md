@@ -31,6 +31,6 @@ updated: 2026-10-24T16:17:50Z
 
 Status **unread** (nothing known).
 
-HT 31 .4–5 KI-DE-MA-\*323-NA\[ \]vest., before \*402-VS 400: the word runs into vestiges at the start of .5 (GORILA I 59). Gordon read ki-de-ma-pi-na, taking \*323 as PI. Not readable.
+HT 31 .4–5 KI-DE-MA-\*323-NA\[ \]vest.: the word breaks after NA, and the vestiges at the start of .5 are what is left of its number, the lower left unit of an earlier group of 6, with two erased units after them (GORILA I 59); Raison and Pope read 4 or 5. \*402-VS 400 is the next entry. Duhoux counts it a vessel name written without its sign, as SA-JA-MA (2002, 37, 42). Gordon read ki-de-ma-pi-na, taking \*323 as PI, a masculine plural describing pots (EML §154), then ki-de-ma-wi-na 'gold', Hebrew ketem, a plural adjective paired with sa-ya-ma-n\[a\] 'silver' (Gordon 1975, n. 13; 1969, apud Duhoux 2002, 58). DE writes d where ketem has t, SA-JA-MA has no NA after it, and the word carries its own number. Not readable.
 
 <!-- END kaphtor:record -->

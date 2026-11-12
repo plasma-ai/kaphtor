@@ -56,6 +56,12 @@ di Mino
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/KH/KH/KH9\|KH9]] | Khania | Tablet | none |
-| [[wiki/linear-a/inscriptions/PYR/PYRWc/PYRWc4\|PYRWc4]] | Pyrgos | Roundel | none |
+| [[wiki/linear-a/inscriptions/PYR/PYRWc/PYRWc4\|PYRWc4]] | Pyrgos | Roundel | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/PYR/PYRWc/PYRWc4\|PYRWc4]] | ʾiššê | fire offering(s) | SPECULATIVE |
 
 <!-- END kaphtor:record -->

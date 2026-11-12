@@ -3,7 +3,7 @@ name: wiki
 title: Wiki
 desc: The record, generated from the data: Linear A, the Semitic roots, the Pre-Greek lexicon and the Aegean scripts.
 created: 2026-10-22T18:14:10Z
-updated: 2026-11-06T23:18:29Z
+updated: 2026-11-11T23:40:48Z
 ---
 
 # Wiki
@@ -13,6 +13,8 @@ updated: 2026-11-06T23:18:29Z
 [[wiki/aegean/_index|aegean/]]: The Eteocretan inscriptions.
 
 [[wiki/linear-a/_index|linear-a/]]: Inscriptions, words and signs, with the generated ledgers.
+
+[[wiki/names/_index|names/]]: The names of the Linear A tablets (people, places, gods, titles, peoples), filed by language layer, with the roots beneath them.
 
 [[wiki/pre-greek/_index|pre-greek/]]: Greek words classed as Pre-Greek or as early Semitic loans: one generated page per word, filed by initial, with the feature and Semitic comparison ledgers.
 

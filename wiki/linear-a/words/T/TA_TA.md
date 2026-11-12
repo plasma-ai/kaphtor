@@ -82,6 +82,6 @@ Tatta: Hurrian ᶠTatta, tatt=a, a woman at Mari (Monti 2017, 302), heading the 
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: KI.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KI|KI]].
 
 <!-- END kaphtor:record -->

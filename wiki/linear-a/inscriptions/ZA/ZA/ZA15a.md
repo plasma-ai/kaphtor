@@ -30,7 +30,7 @@ updated: 2026-10-24T16:17:50Z
 | Findspot |  |
 | Support | Tablet |
 | Period |  |
-| Scribe | ZA Scribe 5 |
+| Scribe | [[wiki/linear-a/by_scribe\|ZA Scribe 5]] |
 | Edition | GORILA 3 |
 | Series | ZA |
 | SigLA | [ZA 15a](https://sigla.phis.me/document/ZA%2015a/) |

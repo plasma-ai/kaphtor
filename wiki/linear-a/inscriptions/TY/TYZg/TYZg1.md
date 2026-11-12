@@ -1,12 +1,12 @@
 ---
 name: wiki/linear-a/inscriptions/TY/TYZg/TYZg1
 title: "TYZg1"
-desc: "Stone object, Tylissos, LMI. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "stone-object"]
+desc: "Terracotta statuette (HM 6585), Tylissos, LMI. Translation: none."
+tags: ["linear-a", "inscription", "translation-none", "terracotta-statuette-(hm-6585)"]
 kind: "inscription"
 id: "TYZg1"
 site: "Tylissos"
-support: "Stone object"
+support: "Terracotta statuette (HM 6585)"
 period: "LMI"
 translation: "none"
 words: []
@@ -27,8 +27,8 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Site | Tylissos |
-| Findspot |  |
-| Support | Stone object |
+| Findspot | House C (west building) |
+| Support | Terracotta statuette (HM 6585) |
 | Period | LMI |
 | Scribe |  |
 | Edition | GORILA 4 |

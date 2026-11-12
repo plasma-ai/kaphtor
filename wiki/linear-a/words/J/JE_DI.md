@@ -62,7 +62,7 @@ di Mino; Gelb 1980; HALOT
 | [[wiki/linear-a/inscriptions/HT/HT/HT8a\|HT8a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT36\|HT36]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT122b\|HT122b]] | Haghia Triada | Tablet | incomplete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT140\|HT140]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT140\|HT140]] | Haghia Triada | Tablet | complete |
 
 ## In translations
 
@@ -71,6 +71,7 @@ di Mino; Gelb 1980; HALOT
 | [[wiki/linear-a/inscriptions/HT/HT/HT8a\|HT8a]] | yedī | the Idaean (gentilic, transaction header); rival yēdīʿ 'He knows' (personal name) | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT36\|HT36]] | yedī | the Idaean (gentilic, heading); rival yēdīʿ 'He knows' (personal name) | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT122b\|HT122b]] | yedī | the Idaean (gentilic of Mount Ida; heading) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT140\|HT140]] | yedī | the Idaean (gentilic, transaction header); rival yēdīʿ 'He knows' (personal name) | CANDIDATE |
 
 ## Onomasticon
 

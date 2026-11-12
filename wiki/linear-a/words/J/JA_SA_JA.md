@@ -58,7 +58,13 @@ di Mino; Gelb 1980; GlOS 2; Younger, Linear A Texts
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/KN/KNZg/KNZg55\|KNZg55]] | Knossos | Stone object | none |
+| [[wiki/linear-a/inscriptions/KN/KNZg/KNZg55\|KNZg55]] | Knossos | Stone object | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/KN/KNZg/KNZg55\|KNZg55]] | Yašʿaya | personal name '(DN) has helped', hypocoristic | SPECULATIVE |
 
 ## Onomasticon
 

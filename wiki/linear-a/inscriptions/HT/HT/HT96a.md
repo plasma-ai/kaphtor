@@ -30,7 +30,8 @@ updated: 2026-10-24T16:17:50Z
 | Findspot | Casa Room 7 |
 | Support | Tablet |
 | Period | LMIB |
-| Scribe | HT Scribe 8 |
+| Scribe | [[wiki/linear-a/by_scribe\|HT Scribe 8]] |
+| Scribe in GORILA V | 12 HT |
 | Edition | GORILA 1 |
 | Series | HT |
 | SigLA | [HT 96a](https://sigla.phis.me/document/HT%2096a/) |
@@ -72,17 +73,17 @@ Unicode (Linear A block):
 
 **no confidence given**, incomplete (status: incomplete).
 
-> Disbursed (I-TI-TI-KU-NI) · ʿAbrāne · A-\*123-TE: Śīmat grain 5; Rusa 4; \*323-\*317 1; the agents 1; \*323-\*344 1. — \]KU-MA-RO: TE, figs 20; \[…\] figs 2.
+> Disbursed (I-TI-TI-KU-NI) · ʿAbrān · A-\*123-TE: Śīmat grain 5; Rusa 4; \*323-\*317 1; the agents 1; \*323-\*344 1. — \]KU-MA-RO: TE, figs 20; \[…\] figs 2.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | [[wiki/linear-a/words/I/I_TI_TI_KU_NI\|I-TI-TI-KU-NI]] | (y)ittatkūni | disbursed; rival a heading name | SPECULATIVE | SPECULATIVE (lexicon) |
-| [[wiki/linear-a/words/A/A_PA_RA_NE\|A-PA-RA-NE]] | ʿabrāne | heading name, also on HT96b; 'the crosser' (√ʿ-b-r) or 'creator' (√b-r-ʾ); Amorite comparison Ḥa-pí-ra-an, \*ʿapir-\* (Huffmon, APNM p. 36) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/A/A_PA_RA_NE\|A-PA-RA-NE]] | ʿAbrān | heading name, also on HT96b; 'the crosser' (√ʿ-b-r); Alalakh Ap-ra-an (Wiseman 1953, 128), Amorite Ḫa-pí-ra-an, \*ʿapir- (Huffmon 1965, 36) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/A/A_star123_TE\|A-\*123-TE]] |  | heading word, in the slot of QA-\*118-RA-RE on HT96b |  | unread |
 | [[wiki/linear-a/words/S/SI_MI_TA\|SI-MI-TA]] | Śīmat | recipient of grain 5; personal name (f.), on √ś-y-m 'to place, fix' (Amorite ŚIJM-AT-UM, Gelb no. 5893); rival Šimʿat | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/G/GRA\|GRA]] | grain | grain (logogram) | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/R/RU_SA\|RU-SA]] | Rusa | recipient; personal name | SPECULATIVE | SPECULATIVE (lexicon) |
-| \*323-\*317 |  | transaction sign + logogram |  |  |
+| [[wiki/linear-a/words/star/star323_star317\|\*323-\*317]] |  | transaction sign + logogram |  | unread |
 | [[wiki/linear-a/words/P/PI_TA_RA\|PI-TA-RA]] | bidāla | trade agents, a personnel group drawing grain; rivals bitāri 'portions', a recipient's name | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/star/star323_star344\|\*323-\*344]] |  | transaction sign + logogram |  | unread |
 | [[wiki/linear-a/words/K/KU_MA_RO_broken_start\|&#93;-KU-MA-RO]] |  | broken before KU |  | unread |

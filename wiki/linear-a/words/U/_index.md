@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/U
 desc: "Words whose first sign begins with U."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-04T21:34:23Z
+updated: 2026-11-12T01:31:30Z
 ---
 
 # wiki/linear-a/words/U
@@ -47,7 +47,7 @@ updated: 2026-11-04T21:34:23Z
 
 [[wiki/linear-a/words/U/U_SU|U_SU]]: ʾUšu: man of Ušu (mainland Tyre)—origin-labeled worker. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/U/U_TA2|U_TA2]]: Uta: Uta, personal name heading the fig (NI) entry on HT 103; rival the town Uda. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/U/U_TA2|U_TA2]]: ʿŪta: personal name, 'Help', heading the fig (NI) entry on HT 103. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/U/U_TA_I_SE|U_TA_I_SE]]: ʿUtay-se: personal name: ʿUtay with the -SE suffix, a recipient of cyperus; rival a Cretan name of another language (LB u-ta-jo). Lexicon, SPECULATIVE (tier 1).
 

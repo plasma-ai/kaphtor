@@ -30,7 +30,8 @@ updated: 2026-10-24T16:17:50Z
 | Findspot | Villa Magazine |
 | Support | Tablet |
 | Period | LMIB |
-| Scribe | HT Scribe 2 |
+| Scribe | [[wiki/linear-a/by_scribe\|HT Scribe 2]] |
+| Scribe in GORILA V | 2 HT |
 | Edition | GORILA 1 |
 | Series | HT |
 | SigLA | [HT 8b](https://sigla.phis.me/document/HT%208b/) |
@@ -68,7 +69,7 @@ Unicode (Linear A block):
 
 **no confidence given**, complete.
 
-> Bowl of terebinth (pistachio) nuts: 1. \[divider\] 5. Terebinth: 2. Qaynī (smith or administrator): 1⅜. Village: ½. Payare: 1⅛. \[\*86\]-terebinth: ½. \[½\].
+> Bowl of terebinth (pistachio) nuts: 1. \[divider\] 5. Terebinth: 2. Qaynī (smith or administrator): 1⅜. Village: ½. Payare: 1⅛. Terebinth by ship: ½. \[½\].
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -77,13 +78,13 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/Q/QA_star310_I\|QA-\*310-I]] | qaynī | smith or administrator (occupational title) | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/K/KA_PA\|KA-PA]] | kapa(r) | village, settlement | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/P/PA_JA_RE\|PA-JA-RE]] | Payare | He (of) Re: Egyptian personal name Pꜣ-Rꜥ (PNM v6) | PROBABLE | PROBABLE (lexicon) |
-| \*86+'\*188' | na-BUṬNU | terebinth compound (product subtype or modifier) | SPECULATIVE |  |
+| \*86+'\*188' | buṭnu | terebinth product, a consignment by ship | SPECULATIVE |  |
 
 ### Notes
 
 Context: Terebinth product accounting—commodity ledger with fractional quantities (⅜, ⅛, ½), tracking resin/mastic distributions to named recipients
 
-Verso of HT8a. The recto records olive oil (OLE+KI) distributions; the verso records terebinth (\*188) product distributions. QA-\*310-I appears on both sides—the same recipient drawing from two commodity registers. Fractional quantities (⅜, ⅛, ½) suggest measurement of liquid or semi-liquid products (resin, oil). The phonetic complement PA₃-\*188 confirms the /b/-onset reading of \*188 as BUṬNU, paralleling the DUBUR pattern (\*307-PU₂-RE). Five of six substantive words are in the lexicon (83%).
+Verso of HT8a. The recto records olive oil (OLE+KI) distributions; the verso records terebinth (\*188) product distributions. QA-\*310-I appears on both sides—the same recipient drawing from two commodity registers. Fractional quantities (⅜, ⅛, ½) suggest measurement of liquid or semi-liquid products (resin, oil). PA₃-\*188 gives the b of buṭnu if PA₃ is a phonetic complement, as \*307 writes DU in \*307-PU₂-RE; Schrijver takes it for a transaction sign, as on HT 34 (Schrijver 2014, 7). \*86+\*188 is terebinth sent by ship, \*86 being Uchitel's ship sign (2016b, 9). Five of six substantive words are in the lexicon (83%).
 
 ### Source
 

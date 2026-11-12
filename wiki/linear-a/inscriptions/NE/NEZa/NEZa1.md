@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/inscriptions/NE/NEZa/NEZa1
 title: "NEZa1"
-desc: "Stone vessel, Nerokurou. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "stone-vessel"]
+desc: "Stone vessel, Nerokurou. Translation: complete (PROBABLE)."
+tags: ["linear-a", "inscription", "translation-complete", "stone-vessel"]
 kind: "inscription"
 id: "NEZa1"
 site: "Nerokurou"
 support: "Stone vessel"
 period: ""
-translation: "none"
+translation: "complete"
 words: ["I-DA"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -46,6 +46,21 @@ Unicode (Linear A block):
 ```text
 𐝫𐘚𐘀𐝫
 ```
+
+## Translation
+
+**PROBABLE**, complete.
+
+> Ida.
+
+| Word | Reading | Gloss | Confidence | Lexicon |
+|---|---|---|---|---|
+| [[wiki/linear-a/words/I/I_DA\|I-DA]] | ʾIda | Ida, 'the Hand' (sacred mountain—toponym/theonym) | PROBABLE | PROBABLE (lexicon) |
+
+### Source
+
+- di Mino: I-DA
+- GORILA: NEZa1
 
 ## Lexicon words citing this document
 

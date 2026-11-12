@@ -40,12 +40,16 @@ updated: 2026-10-24T16:17:50Z
 
 Transliteration, line by line:
 
-1. HIDE+\[?\]-\*328 𐝫𐝃𐝃
+1. \]HIDE+\[?\]-\*328\[ 𐝫𐝃𐝃
 
 Unicode (Linear A block):
 
 ```text
 𐝫𐙒𐙴𐝫𐝃𐝃
 ```
+
+## Corpus note
+
+GORILA I 303: broken before HIDE+\[?\] and after \*328; the drawing dots the left edge and stipples the surface to the right.
 
 <!-- END kaphtor:record -->

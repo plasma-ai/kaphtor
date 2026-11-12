@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "incomplete"
-words: ["A-SE", "DA-RI-DA", "DE-JU-KU", "DI-RI-NA", "GRA+PA", "KA", "KI-DI-NI", "PA₃-NI-NA", "QA-QA-RU", "SA-RA₂"]
+words: ["A-SE", "DA-RI-DA", "DE-JU-KU", "DI-RI-NA", "GRA+PA", "KA", "KI-DI-NI", "PA₃-NI-NA", "QA-QA-RU", "SA-RA₂", "VIR+[?]"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -30,7 +30,8 @@ updated: 2026-10-24T16:17:50Z
 | Findspot | Casa Room 7 |
 | Support | Tablet |
 | Period | LMIB |
-| Scribe | HT Scribe 5 |
+| Scribe | [[wiki/linear-a/by_scribe\|HT Scribe 5]] |
+| Scribe in GORILA V | 5 HT |
 | Edition | GORILA 1 |
 | Series | HT |
 | SigLA | [HT 93a](https://sigla.phis.me/document/HT%2093a/) |
@@ -86,19 +87,19 @@ Unicode (Linear A block):
 |---|---|---|---|---|
 | [[wiki/linear-a/words/P/PA3_NI_NA\|PA₃-NI-NA]] | banīna | our builder | PROBABLE | PROBABLE (lexicon) |
 | GRA PA₃ |  | grain, then PA₃ (unread) |  |  |
-| RE+SE |  | ligature (unread) |  |  |
+| [[wiki/linear-a/words/R/RE_plus_SE\|RE+SE]] |  | ligature (unread) |  |  |
 | [[wiki/linear-a/words/D/DI_RI_NA\|DI-RI-NA]] | dīr-īna | households/granaries (SPECULATIVE); rivals the Amorite place name Dīr, a personal name |  | SPECULATIVE (lexicon) |
-| DA+RE+SE |  | ligature (unread) |  |  |
+| [[wiki/linear-a/words/D/DA_plus_RE_plus_SE\|DA+RE+SE]] |  | ligature (unread) |  |  |
 | [[wiki/linear-a/words/K/KI_DI_NI\|KI-DI-NI]] | Kidinni | personal name, 'protection' (Akk. kidinnu) | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/A/A_SE\|A-SE]] | ʾāsē | physician (recipient) | CANDIDATE | CANDIDATE (lexicon) |
-| I |  | sign before GRA+PA (unread) |  |  |
+| [[wiki/linear-a/words/I/I\|I]] |  | sign before GRA+PA (unread) |  |  |
 | [[wiki/linear-a/words/G/GRA_plus_PA\|GRA+PA]] |  | grain composite (unread) |  | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/S/SA_RA2\|SA-RA₂]] | šarra | queen/princess or royal establishment | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/Q/QA_QA_RU\|QA-QA-RU]] | Qaqqaru | personal name, 'Ground'; recipient of I GRA+PA | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/D/DE_JU_KU\|DE-JU-KU]] | Dalqu | personal name, 'burning, kindled' | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/O/O_TI_q_broken_end\|O-TI-&#91;?&#93;]] |  | unread |  | unread |
 | [[wiki/linear-a/words/D/DA_RI_DA\|DA-RI-DA]] | Dardaʿ | personal name | SPECULATIVE | SPECULATIVE (lexicon) |
-| \*406-VS |  | vessel sign |  |  |
+| [[wiki/linear-a/words/star/star406_VS\|\*406-VS]] |  | vessel sign |  |  |
 | [[wiki/linear-a/words/P/PA3_NI_NA\|PA₃-NI-NA]] | banīna | our builder | PROBABLE | PROBABLE (lexicon) |
 | \]PA-SE-JA |  | unread |  |  |
 | \]KA |  | unread |  |  |
@@ -113,7 +114,7 @@ GORILA
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/A/A_SE|A-SE]], [[wiki/linear-a/words/D/DA_RI_DA|DA-RI-DA]], [[wiki/linear-a/words/D/DE_JU_KU|DE-JU-KU]], [[wiki/linear-a/words/D/DI_RI_NA|DI-RI-NA]], [[wiki/linear-a/words/G/GRA_plus_PA|GRA+PA]], [[wiki/linear-a/words/K/KA|KA]], [[wiki/linear-a/words/K/KI_DI_NI|KI-DI-NI]], [[wiki/linear-a/words/P/PA3_NI_NA|PA₃-NI-NA]], [[wiki/linear-a/words/Q/QA_QA_RU|QA-QA-RU]], [[wiki/linear-a/words/S/SA_RA2|SA-RA₂]].
+[[wiki/linear-a/words/A/A_SE|A-SE]], [[wiki/linear-a/words/D/DA_RI_DA|DA-RI-DA]], [[wiki/linear-a/words/D/DE_JU_KU|DE-JU-KU]], [[wiki/linear-a/words/D/DI_RI_NA|DI-RI-NA]], [[wiki/linear-a/words/G/GRA_plus_PA|GRA+PA]], [[wiki/linear-a/words/K/KA|KA]], [[wiki/linear-a/words/K/KI_DI_NI|KI-DI-NI]], [[wiki/linear-a/words/P/PA3_NI_NA|PA₃-NI-NA]], [[wiki/linear-a/words/Q/QA_QA_RU|QA-QA-RU]], [[wiki/linear-a/words/S/SA_RA2|SA-RA₂]], [[wiki/linear-a/words/V/VIR_plus_q_broken_end|VIR+&#91;?&#93;]].
 
 ## Corpus note
 

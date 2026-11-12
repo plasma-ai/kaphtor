@@ -59,7 +59,13 @@ di Mino; Gelb 1980; de Boer 2014; Lane
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/SY/SYZa/SYZa6\|SYZa6]] | Syme | Stone vessel | none |
+| [[wiki/linear-a/inscriptions/SY/SYZa/SYZa6\|SYZa6]] | Syme | Stone vessel | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/SY/SYZa/SYZa6\|SYZa6]] | Dašurat | Dašurat 'Old (f.)' (woman's name) | SPECULATIVE |
 
 ## Onomasticon
 

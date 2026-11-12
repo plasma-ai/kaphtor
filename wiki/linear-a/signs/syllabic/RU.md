@@ -53,7 +53,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/D/DA_RU_NE_TE\|DA-RU-NE-TE]] | Dāru-ʿAnēt | SPECULATIVE |
 | [[wiki/linear-a/words/D/DI_DE_RU\|DI-DE-RU]] | ʾaddīru | PROBABLE |
 | [[wiki/linear-a/words/D/DU_RU_WI\|DU-RU-WI]] | ḏu-luwwī | CANDIDATE |
-| [[wiki/linear-a/words/I/I_RU_JA\|I-RU-JA]] | Iruja | SPECULATIVE |
+| [[wiki/linear-a/words/I/I_RU_JA\|I-RU-JA]] | ʾIlūya | SPECULATIVE |
 | [[wiki/linear-a/words/J/JA_RU_MA_NE\|JA-RU-MA-NE]] | Yarīmān | CANDIDATE |
 | [[wiki/linear-a/words/K/KA_PO_RU\|KA-PO-RU]] | kapōru | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_RU\|KA-RU]] | karru | SPECULATIVE |

@@ -61,6 +61,12 @@ di Mino; Younger, Linear A Texts; HALOT
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/PK/PKZb/PKZb21\|PKZb21]] | Palaikastro | Clay vessel | none |
+| [[wiki/linear-a/inscriptions/PK/PKZb/PKZb21\|PKZb21]] | Palaikastro | Clay vessel | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/PK/PKZb/PKZb21\|PKZb21]] | kitānit | linen robe, linen cloth | CANDIDATE |
 
 <!-- END kaphtor:record -->

@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/inscriptions/KN/KNWc/KNWc30
 title: "KNWc30"
-desc: "Roundel, Knossos, MMIIIB. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "roundel"]
+desc: "Roundel, Knossos, MMIIIB. Translation: complete (SPECULATIVE)."
+tags: ["linear-a", "inscription", "translation-complete", "roundel"]
 kind: "inscription"
 id: "KNWc30"
 site: "Knossos"
 support: "Roundel"
 period: "MMIIIB"
-translation: "none"
+translation: "complete"
 words: ["JA-RA"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -47,6 +47,21 @@ Unicode (Linear A block):
 ```text
 𐝫𐘱𐘴
 ```
+
+## Translation
+
+**SPECULATIVE**, complete.
+
+> Yaraḫ.
+
+| Word | Reading | Gloss | Confidence | Lexicon |
+|---|---|---|---|---|
+| [[wiki/linear-a/words/J/JA_RA\|JA-RA]] | Yaraḫ | Moon (personal name, after the moon god) | SPECULATIVE | SPECULATIVE (lexicon) |
+
+### Source
+
+- di Mino: JA-RA
+- GORILA: KNWc30
 
 ## Lexicon words citing this document
 

@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/inscriptions/HT/HT/HT123_plus_124a
 title: "HT123+124a"
-desc: "Tablet, Haghia Triada, LMIB. Translation: incomplete (CANDIDATE)."
-tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
+desc: "Tablet, Haghia Triada, LMIB. Translation: complete (CANDIDATE)."
+tags: ["linear-a", "inscription", "translation-complete", "tablet"]
 kind: "inscription"
 id: "HT123+124a"
 site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
-translation: "incomplete"
+translation: "complete"
 words: ["*308", "DA-TU", "KI-RO", "KI-TA-I", "KU-RO", "OLIV", "PU-VIN", "SA-RU"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -30,7 +30,8 @@ updated: 2026-10-24T16:17:50Z
 | Findspot | Casa del Lebete |
 | Support | Tablet |
 | Period | LMIB |
-| Scribe | HT Scribe 6 |
+| Scribe | [[wiki/linear-a/by_scribe\|HT Scribe 6]] |
+| Scribe in GORILA V | 6 HT |
 | Edition | GORILA 1 |
 | Series | HT |
 | Images | © École Française d'Athènes |
@@ -79,9 +80,9 @@ Unicode (Linear A block):
 
 ## Translation
 
-**CANDIDATE**, incomplete (status: incomplete).
+**CANDIDATE**, complete.
 
-> Press-estate(?)—olives 31; pressed oil 8¼; owed 1 + X (X perhaps ¹⁄₁₂). The vat—olives 31½; pressed oil 8¾; owed X. Šarru (king/prince)—olives 16; pressed oil 4 + A (A701; damaged); owed ¾. She of (…)—olives 15; pressed oil 4¼; owed ¾. Total olives: 93½. Total pressed oil: 25 + H (A706; value disputed). Owed: 6.
+> The press-estate(?): olives 31, pressed oil 8¼, owed 1 X. The vat: olives 31½, pressed oil 8¾, owed X. The king: olives 16, pressed oil 4 A, owed ¾. Ḏātu: olives 15, pressed oil 4¼, owed ¾. Total olives 93½; pressed oil, total 25 H. Owed 6.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -96,7 +97,7 @@ Unicode (Linear A block):
 
 ### Notes
 
-GORILA I, 210–211: olive and oil account on two joining fragments, written over a palimpsest. The clean transcription omits erased signs within the first two KI-RO forms. The olive total is exact: 31 + 31½ + 16 + 15 = 93½. Three securely evaluable \*308/OLIV pairs yield approximately 26.6–28.3%; the third \*308 fraction is damaged. The final equation relates the disputed A701 (A) and A706 (H) signs but does not establish either value. KI-RO 6 is an outstanding amount, not a KU-RO total.
+GORILA I, 210–211: olive and oil account on two joining fragments, written over a palimpsest. The clean transcription omits erased signs within the first two KI-RO forms. The olive total is exact: 31 + 31½ + 16 + 15 = 93½. Three securely evaluable \*308/OLIV pairs yield approximately 26.6–28.3%; the third \*308 fraction is damaged. With KI-RO added to the olives the ratio is close to 4 to 1 in each line, 99½ to 25 at the total; Uchitel has it always 4 to 1 (2016b, 14). X, A and H are the fraction signs A711, A701 and A706. The oil entries sum to 25¼ + A against 25 H, so H = A + ¼; neither value is fixed. The four KI-RO amounts, 2½ + 2X, are not what KI-RO 6 sums. KI-RO 6 is an outstanding amount, not a KU-RO total.
 
 ### Source
 
@@ -119,6 +120,6 @@ GORILA I, 210–211: olive and oil account on two joining fragments, written ove
 
 ## Corpus note
 
-GORILA I, 210–211. Two joining fragments, written over a palimpsest. The central damage affects the third \*308 fraction. The clean transcription omits erased signs inside the first two KI-RO forms. GORILA and the SigLA sign sequence read DA-KI, not DA-TU. A711 (.3/X), A701 (A), and A706 (H) retain their sign labels where their numerical values are uncertain or disputed.
+GORILA I, 210–211. Two joining fragments, written over a palimpsest. The central damage affects the third \*308 fraction. The clean transcription omits erased signs inside the first two KI-RO forms. GORILA draws DA-TU on .6: the second sign is a triangle on a foot with a central upright, unlike the box of KI on .1, .2, .4, .5, .7 and .9 (GORILA I 210–211). SigLA labels it KI. A711 (.3/X), A701 (A), and A706 (H) retain their sign labels where their numerical values are uncertain or disputed.
 
 <!-- END kaphtor:record -->

@@ -30,7 +30,8 @@ updated: 2026-10-24T16:17:50Z
 | Findspot | Casa Room 7 |
 | Support | Tablet |
 | Period | LMIB |
-| Scribe | HT Scribe 9 |
+| Scribe | [[wiki/linear-a/by_scribe\|HT Scribe 9]] |
+| Scribe in GORILA V | 9 HT |
 | Edition | GORILA 1 |
 | Series | HT |
 | SigLA | [HT 94b](https://sigla.phis.me/document/HT%2094b/) |
@@ -87,7 +88,7 @@ Unicode (Linear A block):
 | 1 | 1 | 1 | CONFIRMED |  |
 | [[wiki/linear-a/words/K/KU_RO\|KU-RO]] | kull | total | CONFIRMED | CONFIRMED (lexicon) |
 | 5 | 5 | 5 | CONFIRMED |  |
-| \*86 | NA | section heading (standalone use) | SPECULATIVE |  |
+| [[wiki/linear-a/words/star/star86\|\*86]] | NA | section heading (standalone use) | SPECULATIVE |  |
 | [[wiki/linear-a/words/R/RA_q_DE_ME_TE\|RA-&#91;?&#93;-DE-ME-TE]] | unread | \[recipient, unread: a sign lost, DE dotted\] | SPECULATIVE | unread |
 | 1 | 1 | 1 | CONFIRMED |  |
 | [[wiki/linear-a/words/star/star21F_TU_q_broken_end\|\*21F-TU-&#91;?&#93;]] | unread | \[recipient, unread: a sign lost after TU\] | SPECULATIVE | unread |

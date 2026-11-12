@@ -40,7 +40,7 @@ class TestMap:
 
     def test_the_document_type_table_is_the_one_ruled(self):
         ritual = ["Stone vessel", "Stone-vessel fragment", "Stone object", "Metal object", "ivory object",
-                  "Bronze bowl", "Silver pin", "Triton", "Stone ladle (HM 1545)",
+                  "Bronze bowl", "Silver pin", "Triton", "Stone ladle (HM 1545)", "Terracotta statuette (HM 6585)",
                   "Fragment of a locally made limestone bowl or krater", "Serpentine cylindrical jar; HM 2479 + HM 2480",
                   "Square red-orange serpentine libation table (HM 5317)", "Square serpentine libation-table fragment",
                   "Stone libation table fragment", "Fragmentary circular serpentine libation table"]

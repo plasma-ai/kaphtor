@@ -34,29 +34,29 @@
       "toponym_gentilic": 4
     },
     "by_affiliation": {
-      "aegean": 7,
+      "aegean": 6,
       "anatolian": 2,
       "egyptian": 13,
-      "hurrian": 37,
+      "hurrian": 35,
       "indo_european": 1,
-      "semitic": 306,
+      "semitic": 309,
       "sumerian": 1,
       "unknown": {
         "total": 13,
-        "intact": 11,
+        "intact": 13,
         "fragmentary": 0,
-        "edge_damaged": 2,
+        "edge_damaged": 0,
         "no_witness": 0,
         "note": "intact: at least one undamaged corpus witness; fragmentary: every witness has lost signs ([, ], [?]); edge_damaged: every sign read, but every witness sits against damaged surface (𐝫), nearly always at the word's edge, so the word may be incomplete; no_witness: no corpus group in the listed documents matches the token"
       }
     },
     "by_family": {
       "Egyptian": 13,
-      "Hurro-Urartian": 37,
+      "Hurro-Urartian": 35,
       "Indo-European": 2,
-      "Semitic": 307,
+      "Semitic": 310,
       "Sumerian": 1,
-      "unassigned": 20
+      "unassigned": 19
     },
     "by_provenance": {
       "auto": 0,
@@ -1784,8 +1784,8 @@
       "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
       "lexicon_ref": "A-PA-RA-NE",
-      "reading": "ʿabrāne",
-      "meaning": "the crosser, the one from beyond (√ʿ-b-r, the ʿApiru word); rival 'creator' (√b-r-ʾ)",
+      "reading": "ʿAbrān",
+      "meaning": "personal name, 'the crosser, the one from beyond' (√ʿ-b-r), Alalakh Ap-ra-an",
       "frequency": 2,
       "attestations": [
         "HT96a",
@@ -2518,8 +2518,8 @@
       "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
       "lexicon_ref": "PA-RA-NE",
-      "reading": "barāne",
-      "meaning": "short form of A-PA-RA-NE, 'the crosser'; rival 'creator'",
+      "reading": "Barān",
+      "meaning": "personal name, the short form of A-PA-RA-NE",
       "frequency": 2,
       "attestations": [
         "HT115a",
@@ -3484,7 +3484,7 @@
       "contact_ref": null,
       "lexicon_ref": "*333-SA-MU",
       "reading": "biśāmu",
-      "meaning": "Balsam, perfume—aromatic personal name (cf. Basemath) on a metal ornament",
+      "meaning": "Balsam, perfume—aromatic personal name (cf. Basemath) on a lead weight",
       "frequency": 1,
       "attestations": [
         "MOZf1"
@@ -5536,7 +5536,7 @@
           "distance": 0.0
         }
       ],
-      "note": "Base DA-KU-SE-NE occurs twice on HT103; the extended form occurs on HT104. The comparisons with Boğazköy Tagu(b)-šini and Ugaritic Taki-šenni support the name analysis, but neither the exact vocalization nor the function of TI is settled. The pair favors suffixation; GORILA I 171 allows TI to be an ideogram or classifier, and Finkelberg 2002/03, 96–97 proposes a dative/recipient function."
+      "note": "Base DA-KU-SE-NE occurs twice on HT103; the extended form occurs on HT104. The comparisons with Boğazköy Tagu(b)-šini and Ugaritic Taki-šenni support the name analysis, but neither the exact vocalization nor the function of TI is settled. The pair favors suffixation; GORILA I 171 allows TI to be an ideogram or classifier."
     },
     {
       "token": "DA-MI-NU",
@@ -6448,14 +6448,14 @@
       "normalized": "duja",
       "type": "personal_name",
       "type_confidence": "SPECULATIVE",
-      "affiliation": "hurrian",
-      "language_family": "Hurro-Urartian",
+      "affiliation": "semitic",
+      "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
       "lexicon_ref": "DU-JA",
-      "reading": "Tuya",
-      "meaning": "Tuya (personal name, hypocoristic in -ya); rival Ḏū-Yā 'He of Yah'",
+      "reading": "Ḏū-Ya",
+      "meaning": "personal name, 'He of Ya'",
       "frequency": 1,
       "attestations": [
         "HT7a"
@@ -6484,7 +6484,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "Tuya, the Nuzi name Tu-ú-ia (NPN 156), its element -tuja Hurrian (NPN 268); after the Hurrian I-RU-JA on HT 7a. Rival: Ḏū-Yā 'He of Yah'."
+      "note": "A man in the HT 7a list, DU-JA 4. Ḏū-Ya 'He of Ya', ḏū before a divine name as Tuttul's Ḏū-ʾIšḫara (Buck 2018, 352) and Ugarit's Zu-Aštarti (ORACC P347873). Rival: Tuya, the Nuzi name Tu-ú-ia (NPN 156)."
     },
     {
       "token": "DU-ME-DI",
@@ -7380,14 +7380,14 @@
       "normalized": "iruja",
       "type": "personal_name",
       "type_confidence": "SPECULATIVE",
-      "affiliation": "hurrian",
-      "language_family": "Hurro-Urartian",
+      "affiliation": "semitic",
+      "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
       "lexicon_ref": "I-RU-JA",
-      "reading": "Iruja",
-      "meaning": "Iruja (personal name; Hurrian hypocoristic of Irup-tešup)",
+      "reading": "ʾIlūya",
+      "meaning": "personal name, 'My god'; rival Hurrian Iruja",
       "frequency": 1,
       "attestations": [
         "HT7a"
@@ -7432,7 +7432,7 @@
           "distance": 0.1
         }
       ],
-      "note": "Nuzi Iruja, I-ru-ia, the hypocoristic of Irup-tešup (Gelb, Purves, and MacRae 1943, s.v. IRUJA; 220); one witness, a three-sign match."
+      "note": "ʾIlūya 'My god': Mari i-lu-ia (Buck 2018, 338) and Ugarit i-lu-ya (DULAT 66), RU writing lu. Rival: Nuzi Iruja, I-ru-ia, the hypocoristic of Irup-tešup (Gelb, Purves, and MacRae 1943, s.v. IRUJA; 220). One witness."
     },
     {
       "token": "JA-*345",
@@ -10334,8 +10334,8 @@
       "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
       "lexicon_ref": "O-SU-QA-RE",
-      "reading": "ʾō Sukar",
-      "meaning": "O Sokar (Egyptian Skr), the deity addressed; rivals Ušḫara the Snake, ʾAšqur",
+      "reading": "ʾō Sōkar",
+      "meaning": "O Sokar (Egyptian Skr 𓊃𓎡𓂋𓅆)",
       "frequency": 1,
       "attestations": [
         "TLZa1"
@@ -10382,7 +10382,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "ʾō Sukar, 'O Sokar', in the deity slot of the Troullos formula (di Mino, Ya Diktu). Rival: Ušḫara, Ugaritic úšḫr ḫlmẓ 'Ušḫara the Snake' (DULAT 113). See the lexicon entry."
+      "note": "ʾō Sōkar, 'O Sokar', in the deity slot of the Troullos formula (di Mino, Ya Diktu). See the lexicon entry."
     },
     {
       "token": "PA-*342-I",
@@ -10863,8 +10863,8 @@
       "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
       "lexicon_ref": "PI-TA-JA",
-      "reading": "Pitaya",
-      "meaning": "personal name, hypocoristic in -ya",
+      "reading": "Bittaya",
+      "meaning": "personal name, 'daughter of Ya'",
       "frequency": 1,
       "attestations": [
         "HT6a"
@@ -10893,7 +10893,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "A recipient in the HT 6a fig list, PI-TA-JA 24. Pitaya, a hypocoristic in -ya on √p-t-ḥ 'open', as Amorite PATIḤ-UM. Rival: the Egyptian personal name ptjj."
+      "note": "A recipient in the HT 6a fig list, PI-TA-JA 24. Bitta-Ya 'daughter of Ya', as Alalakh Bittamalki and Ugarit Bitta-rapʾi, and Hebrew Bityāh, Bittĕ-Yâ (Steiner 1998, 396). Rivals: Pitaya, a hypocoristic in -ya on √p-t-ḥ 'open', as Amorite PATIḤ-UM; the Egyptian personal name ptjj."
     },
     {
       "token": "PI-TA-KA-SE",
@@ -13907,7 +13907,7 @@
       "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
       "lexicon_ref": "TU-PI-TA",
-      "reading": "ṯāpiṭu",
+      "reading": "ṯūpiṭa",
       "meaning": "judge (title)",
       "frequency": 1,
       "attestations": [
@@ -17579,8 +17579,8 @@
       "co_occurring_known": [
         {
           "word": "PA-RA-NE",
-          "reading": "barāne",
-          "meaning": "short form of A-PA-RA-NE, 'the crosser'; rival 'creator'",
+          "reading": "Barān",
+          "meaning": "personal name, the short form of A-PA-RA-NE",
           "category": "personal_name"
         }
       ],
@@ -18335,14 +18335,14 @@
       "normalized": "uta2",
       "type": "personal_name",
       "type_confidence": "CANDIDATE",
-      "affiliation": "aegean",
-      "language_family": null,
+      "affiliation": "semitic",
+      "language_family": "Semitic",
       "affiliation_confidence": "CANDIDATE",
       "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
       "lexicon_ref": "U-TA₂",
-      "reading": "Uta",
-      "meaning": "Uta, personal name heading the fig (NI) entry on HT 103; rival the town Uda",
+      "reading": "ʿŪta",
+      "meaning": "personal name, 'Help', heading the fig (NI) entry on HT 103",
       "frequency": 1,
       "attestations": [
         "HT103"
@@ -18381,7 +18381,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "HT 103. See the lexicon entry. One witness."
+      "note": "HT 103, heading the fig entry. Heb. ʿÛtay, a short name of the root ʿwt to help (HALOT 804). One witness."
     },
     {
       "token": "PI-TA-RA",

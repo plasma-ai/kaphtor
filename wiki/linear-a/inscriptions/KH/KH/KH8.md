@@ -9,7 +9,7 @@ site: "Khania"
 support: "Tablet"
 period: "LMIB"
 translation: "none"
-words: ["*304", "CYP", "NI", "RE"]
+words: ["*304", "CYP", "NI", "RE", "VIR+[?]"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -30,7 +30,7 @@ updated: 2026-10-24T16:17:50Z
 | Findspot |  |
 | Support | Tablet |
 | Period | LMIB |
-| Scribe | KH Scribe 1 |
+| Scribe | [[wiki/linear-a/by_scribe\|KH Scribe 1]] |
 | Edition | GORILA 3 |
 | Series | KH |
 | SigLA | [KH 8](https://sigla.phis.me/document/KH%208/) |
@@ -72,7 +72,7 @@ Unicode (Linear A block):
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/star/star304|\*304]], [[wiki/linear-a/words/C/CYP|CYP]], [[wiki/linear-a/words/N/NI|NI]], [[wiki/linear-a/words/R/RE|RE]].
+[[wiki/linear-a/words/star/star304|\*304]], [[wiki/linear-a/words/C/CYP|CYP]], [[wiki/linear-a/words/N/NI|NI]], [[wiki/linear-a/words/R/RE|RE]], [[wiki/linear-a/words/V/VIR_plus_q_broken_end|VIR+&#91;?&#93;]].
 
 ## Edition differences
 

@@ -60,6 +60,12 @@ di Mino; GlOS 1; Pagan 1998
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/KY/KYZa/KYZa2\|KYZa2]] | Kythera | Stone vessel | none |
+| [[wiki/linear-a/inscriptions/KY/KYZa/KYZa2\|KYZa2]] | Kythera | Stone vessel | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/KY/KYZa/KYZa2\|KYZa2]] | damat | the Tower | SPECULATIVE |
 
 <!-- END kaphtor:record -->

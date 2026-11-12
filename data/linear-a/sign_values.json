@@ -126,11 +126,11 @@
         },
         {
           "entry": "*188=BUṬNU",
-          "evidence": "the commodity class holds (26 of 32); the one onset witness, PA₃-*188 (HT8b), is prefixed"
+          "evidence": "the commodity class holds (26 of 32); the onset witness, PA₃-*188 (HT8b), is prefixed and may be a transaction sign; *188-DU writes the dental on four documents (HT123+124b, HTWa1021, HTWc3020, PSIZa1)"
         },
         {
           "entry": "*307=DUBUR",
-          "evidence": "*307-PU₂-RE (PKZa8) ~ DU-PU₂-RE (PKZa15) supports a DU- onset, not the sense 'sanctuary'"
+          "evidence": "*307-PU₂-RE (PKZa8) ~ DU-PU₂-RE (PKZa15): the sign writes the DU of dubur 'sanctuary' (Heb. dəbîr, HALOT 208); the sense rests on the word, the tent-like sign and the personnel it heads (HT27a, VIR+*307)"
         },
         {
           "entry": "*516=SIPRU",
@@ -2424,7 +2424,7 @@
       "reading": "BA",
       "ipa": "ba",
       "confidence": 0.9,
-      "notes": "Voiced bilabial stop. Fills the P/B voicing gap in the standard grid. PA covers /pa/, PA₃ covers /ba/. Overrides Gordon's 1966 identification of PA₃ as allograph of PA.",
+      "notes": "Voiced bilabial stop. Fills the P/B voicing gap in the standard grid. PA covers /pa/, PA₃ covers /ba/. Overrides Gordon's 1966 identification of PA₃ as allograph of PA. Melena gives Linear B *56 the value /ba/ (1987, apud Duhoux 2002, 46 n. 26). Rival: ko₂, from Theban *56-ru-we beside ko-ru-we (Lejeune and Godart 1995, apud Uchitel 2016a, 21).",
       "confirmed_by": [
         "A-PA₃ = ʾab √ʾ-b 'father' (PH28a)",
         "A-PA₃-DI = ʿabadī √ʿ-b-d 'my servant' (PKZb?)",
@@ -2958,6 +2958,19 @@
       "syllabogram_candidate": false,
       "syllabogram_exclusion_note": "AB22 (CAP) was listed among 6 'unresolved standard syllabograms' but functions purely as a commodity logogram in Linear A. 14× standalone *22F, 5× standalone CAP, 3× standalone *22M, with only 1 embedded occurrence (ZU-*22F-DI on HT101 — possible acrophonic rebus /ʿe/). Linear B also uses AB22 as an ideogram (CAPf/CAPm), not a syllabogram. Formally excluded from unresolved syllabogram count."
     },
+    "*21F": {
+      "commodity": "OVISf",
+      "gloss": "ewe",
+      "standalone_count": "multiple",
+      "embedded_count": 0,
+      "note": "Female sheep logogram, the pair of *21M: standing alone before a numeral. Inside a word the sign of this number is the syllabogram ḤA, recorded under signs.",
+      "sites": [
+        "Haghia Triada",
+        "Phaistos",
+        "Zakros"
+      ],
+      "sign_number": "*21F"
+    },
     "*21M": {
       "commodity": "OVISm",
       "gloss": "ram",
@@ -3012,7 +3025,8 @@
       "standalone_count": "multiple",
       "embedded_count": 0,
       "sites": [
-        "Haghia Triada"
+        "Khania",
+        "Knossos"
       ],
       "sign_number": "*131C"
     },
@@ -3108,7 +3122,7 @@
       "confidence": 0.72,
       "tier": 3,
       "status": "PROBABLE",
-      "note": "High frequency (29×). Compound forms: SU-PU₂-*188 (jar of terebinth), PA₃-*188 (phonetic complement), *188-*308 (terebinth oil).",
+      "note": "High frequency (29×). Compound forms: SU-PU₂-*188 (bowl of terebinth), PA₃-*188 (prefixed, PA₃ a phonetic complement or a transaction sign) and *188-DU (phonetic complement), *188-*308 (terebinth oil), *86+*188 (a consignment by ship).",
       "sign_number": "*188"
     },
     "*308": {

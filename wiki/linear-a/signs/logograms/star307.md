@@ -23,7 +23,7 @@ updated: 2026-10-24T16:17:50Z
 
 **Status: proposed.** A proposed value.
 
-Evidence: \*307-PU₂-RE (PKZa8) ~ DU-PU₂-RE (PKZa15) supports a DU- onset, not the sense 'sanctuary'
+Evidence: \*307-PU₂-RE (PKZa8) ~ DU-PU₂-RE (PKZa15): the sign writes the DU of dubur 'sanctuary' (Heb. dəbîr, HALOT 208); the sense rests on the word, the tent-like sign and the personnel it heads (HT27a, VIR+\*307)
 
 ## Logogram
 
@@ -42,6 +42,7 @@ Value from a spelling variant: JA-DI-KI-TE-TE-\*307-PU₂-RE (PK Za 8) and JA-DI
 
 | Word | Reading | Confidence |
 |---|---|---|
+| [[wiki/linear-a/words/star/star307\|\*307]] | dubur | PROBABLE |
 | [[wiki/linear-a/words/A/A_DU_star307_plus_star307\|A-DU \*307+\*307]] | Addu dubur-dubur | PROBABLE |
 | [[wiki/linear-a/words/O/OLE_star307\|OLE-\*307]] | OLE-dubur | PROBABLE |
 | [[wiki/linear-a/words/T/TI_NI_TA_star307\|TI-NI-TA \*307]] | Tinit Dubur | PROBABLE |

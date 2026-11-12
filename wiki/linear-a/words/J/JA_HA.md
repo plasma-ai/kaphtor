@@ -8,7 +8,7 @@ form: "JA-HA"
 datasets: ["lexicon"]
 tier: 1
 confidence: "SPECULATIVE"
-confidence_score: 0.35
+confidence_score: 0.4
 reading: "Yāh(a)"
 attestations: ["HT28a", "HT28b"]
 created: 2026-10-24T16:17:50Z
@@ -27,7 +27,7 @@ updated: 2026-10-24T16:17:50Z
 
 ## Lexicon
 
-**SPECULATIVE**, tier 1 of 4, score 0.35
+**SPECULATIVE**, tier 1 of 4, score 0.40
 
 | Field | Value |
 |---|---|
@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Written JA-\*21F, with \*21F = HA (h, ḫ). HT 28b: the recipient of VIN 6, between PU-RA₂ (Baal, NI 6) and WI-DI-NA (OLE+DI 3, VIN 3¼), as in the Ugaritic offering lists (KTU 1.39, 1.41). HT 28a: heads its own commodity list after A-SI-JA-KA. Yāh, the short form of the divine name (HALOT 393). Rivals: the Egyptian moon god Iah, jꜥḥ (Ilin-Tomich 2025); the Amorite verbal names Yahwiy-ʾIl, Yahwiy-Haddu (Gelb 1980, nos. 2871, 3593). DULAT 980 keeps Ugaritic yw apart from Hebrew yh. Weak point: Hebrew yh is first attested in the Iron Age, on jar handles from Jericho and Samaria and the Lachish altar (HALOT 393). Two attestations.
+Written JA-\*21F, with \*21F = HA (h, ḫ). HT 28b: the recipient of VIN 6, between PU-RA₂ (Baal, NI 6) and WI-DI-NA (OLE+DI 3, VIN 3¼), as in the Ugaritic offering lists (KTU 1.39, 1.41). HT 28a: heads its own commodity list after A-SI-JA-KA. Yāh, the short form of the divine name (HALOT 393), the element a woman's name carries in PI-TA-JA Bittaya 'daughter of Ya' (HT 6a) and a man's in DU-JA Ḏū-Ya 'He of Ya' (HT 7a). Rivals: the Egyptian moon god Iah, jꜥḥ (Ilin-Tomich 2025); the Amorite verbal names Yahwiy-ʾIl, Yahwiy-Haddu (Gelb 1980, nos. 2871, 3593). DULAT 980 keeps Ugaritic yw apart from Hebrew yh. Weak point: Hebrew yh is first attested in the Iron Age, on jar handles from Jericho and Samaria and the Lachish altar (HALOT 393). Two attestations. See PI-TA-JA and DU-JA.
 
 ### Cognates
 

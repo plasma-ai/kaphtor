@@ -59,6 +59,12 @@ di Mino; Huehnergard 2019; CAD E; George and Krebernik 2022; Gelb 1980
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3024\|HTWc3024]] | Haghia Triada | Roundel | none |
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3024\|HTWc3024]] | Haghia Triada | Roundel | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3024\|HTWc3024]] | ʾarṣ̂atum | earth (feminine noun with mimation—cf. Akk. erṣetum) | CANDIDATE |
 
 <!-- END kaphtor:record -->

@@ -16,7 +16,7 @@ it looked for and exits 2. Outputs, caches and saved runs go to `--out` or the u
 | `eteocretan_lookup.py` | The Eteocretan inscriptions and words, with the forged Psychro stone kept apart, and the Linear A lexicon entries that share a word's root | `eteocretan_inscriptions.json`, `eteocretan_word_analysis.json`, `lexicon.json` |
 | `inscription_dating_lookup.py` | Inscription dates: by period, certainty, status or basis, or the inscriptions that write a given form | `inscription_dating_metadata.json` (not shipped yet), `corpus.json` |
 | `linear_b_query.py` | The LiBER Linear B corpus: documents, ideograms, tokens, domains | `LINEAR_B_CORPUS_DIR`, else `linear_b_corpus/` (not shipped) |
-| `lq.py` | DuckDB SQL over the data: raw queries, and `word`, `root`, `inscription`, `site`, `xref`, `field`, `tier`, `stats`, `audit`, `unread`. A view whose file is not in the checkout is left out, and a query that uses it names the file. Needs the `sql` extra | `lexicon.json`, `onomasticon.json`, `corpus.json`, `translations.json`, `unread_words.json`, `sign_values.json`, `semitic_roots.json`, `data/contact/` |
+| `lq.py` | DuckDB SQL over the data: raw queries, and `word`, `root`, `inscription`, `site`, `xref`, `field`, `tier`, `stats`, `audit`, `unread`, and `scribe` (the scribes with their record counts, or one scribe's records and the words they share). A view whose file is not in the checkout is left out, and a query that uses it names the file. Needs the `sql` extra | `lexicon.json`, `onomasticon.json`, `corpus.json`, `translations.json`, `unread_words.json`, `sign_values.json`, `semitic_roots.json`, `data/contact/` |
 | `onomasticon_lookup.py` | The corpus onomasticon: one token, or entries by affiliation, type or provenance, and its counts | `onomasticon.json` |
 | `phaistos_disc_lookup.py` | The Phaistos Disc: signs, groups, sides, patterns, positions, neighbours | `phaistos_disc.json`, `phaistos_disc_sign_map.json` (not shipped yet) |
 | `semitic_roots_lookup.py` | Whether a root is already in `semitic_roots.json`, or one close to it: give a root or headword (`ʔ-s-d`, `'*ʔasad-'`, `knš`) and get the records whose keys match it exactly, share its consonant classes (ś/š/s, ḳ/k/g, ḥ/ḫ/ʿ), or are one consonant off, each ranked by a distance over the actual radicals; `--meaning lion` adds the records whose meaning has the word (`--glosses`: the reflexes' glosses too), `--json` for the full rows. Build the index first (`build_root_index.py --allow-missing`) | the root index |
@@ -60,7 +60,8 @@ install a run; the file it replaces is backed up first). By default outputs go t
 `d7_structural_controls.py` and `d7_s3_linear_a.py` (D7's controls and its S3 on Linear A; each writes `--out`),
 `paradigm_b.py` (verifies the frozen paradigm B test against its hashes and reproduces its numbers),
 `protocol_c.py` (verifies Protocol C's C0 and C1 record against its hashes and reruns its C1 checks), and
-`check_unread_words.py`, which reports drift between `unread_words.json` and the corpus and writes nothing.
+`check_unread_words.py`, which reports drift between `unread_words.json` and the corpus and writes nothing, and
+`check_scribes.py`, which checks the corpus scribe fields against `scribes.json` and writes nothing.
 `--save` runs go through `tools/core/run_saver.py`, so `ventris_runs.py` lists them.
 
 `review/` holds the human-review pages, built from a JSON spec into the user cache (`CACHE/review/`):

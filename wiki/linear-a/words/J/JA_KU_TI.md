@@ -57,7 +57,13 @@ di Mino; Gelb 1980
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/KN/KN/KN1a\|KN1a]] | Knossos | Tablet | none |
+| [[wiki/linear-a/inscriptions/KN/KN/KN1a\|KN1a]] | Knossos | Tablet | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/KN/KN/KN1a\|KN1a]] | Yaqūti | personal name, Amorite type: base JA-KU with -TI | SPECULATIVE |
 
 ## Onomasticon
 

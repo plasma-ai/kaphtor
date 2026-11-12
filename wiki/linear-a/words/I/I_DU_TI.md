@@ -41,17 +41,18 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 104 .2–3 I-DU-TI 20 ½, I at the end of .2, DU-TI at the head of .3, all three signs whole and undotted, the ½ dotted (GORILA I 171). Eblaite names built on yidu 'strength', as yidu-na 'our strength' (Pagan 1998, Ebla personal names, row 2466); TI is unexplained. Rivals: I-DU followed by TI as an ideogram, which GORILA's note allows; Ida, written I-DA-A on KO Za 1. One document. See I-DU-NE-SI and JA-DI.
+HT 104 .2–3 I-DU-TI 20 ½, I at the end of .2, DU-TI at the head of .3, all three signs whole and undotted, the ½ dotted (GORILA I 171). Eblaite names built on yidu 'strength', as yidu-na 'our strength' (Pagan 1998, Ebla personal names, row 2466); TI is the ending of all three names under TA-PA. Ebla also has i-du as a name by itself (ARET 15 8, 31 and 34; EbDA), and Ugarit Yadu-Baʿal and Yaduwa (Kinlaw 1967, 128). One document. See I-DU-NE-SI and JA-DI.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Eblaite | i-du-na yidu-na 'our strength' and other yidu names, i-du i₃-la yidu-ʾila 'strength is god' (Pagan 1998, rows 2460–2470) |
+| Eblaite | i-du-na yidu-na 'our strength' and other yidu names, i-du i₃-la yidu-ʾila 'strength is god' (Pagan 1998, rows 2460–2470); i-du as a name by itself (ARET 15 8, 31 and 34; EbDA) |
+| Ugaritic | Yadu-Baʿal, Yaduwa (Kinlaw 1967, 128) |
 
 ### Source
 
-di Mino
+di Mino; Pagan 1998; EbDA; Kinlaw 1967
 
 ## Attestations
 

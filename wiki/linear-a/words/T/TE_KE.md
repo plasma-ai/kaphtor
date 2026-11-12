@@ -39,7 +39,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 85a .5 TE-KE 3, whole and undotted, sixth of seven entries under A-DU · \*307+\*307 · VIR+\[?\] ·, after KU-ZU-NI 5 (GORILA I 131). HT 13 lists DA-SI-\*118, KU-ZU-NI and TE-KI in the same order; TE-KE is TE-KI with the e/i alternation. See TE-KI.
+HT 85a .5 TE-KE 3, whole and undotted, sixth of seven entries under A-DU · \*307+\*307 · VIR+\[?\] ·, after KU-ZU-NI 5 (GORILA I 131). HT 13 lists the same three in reverse order, TE-KI, KU-ZU-NI, DA-SI-\*118 (Peruzzi 1957, 38); TE-KE is TE-KI with the e/i alternation. See TE-KI.
 
 ### Cognates
 
@@ -50,7 +50,7 @@ HT 85a .5 TE-KE 3, whole and undotted, sixth of seven entries under A-DU · \*30
 
 ### Source
 
-di Mino; Laroche 1980
+di Mino; Laroche 1980; Peruzzi 1957
 
 ## Attestations
 

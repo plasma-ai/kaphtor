@@ -41,7 +41,11 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-PK Za 11, A-DI-KI-TE-TE-\[DU-PU₂\]-RE: the Palaikastro form of JA-DI-KI-TU (Diktu, Dikte), whose cognates it shares. TE-TE is the feminine nisbe -īt, ʾa-Diqqitīt 'the Diktaean', E for i: JA-DI-KI-TU ~ JA-DI-KI-TE-TE as \*312-TA ~ \*312-TE-TE (Davis 2026, 45), the base T kept as in SU-KI-RI-TE-I-JA beside SU-KI-RI-TA; Heb. ʾašdôdît, yĕhûdît (Neh 13:24); LB di-ka-ta-jo Diktaios (KN Fp 1). Every TE-TE form is one sign group with dubur (PK Za 8, PK Za 11, PK Za 15), Diqqitīt dubur 'the Diktaean of the sanctuary'. PK Za 12 a: A-DI-KI-TẸ-\[TE\], TE damaged, no divider, the surface after it lost (GORILA IV 36–38). Rival: Davis parses A- as a prepositional prefix, 'to, for the Diktaian' (Davis 2026, in Salgarella and Petrakis eds., The Wor(l)ds of Linear A, 43–60). Weak point: E writes i twice, and no held Semitic form of the name carries the nisbe.
+PK Za 11, A-DI-KI-TE-TE-\[DU-PU₂\]-RE: the Palaikastro form of JA-DI-KI-TU (Diktu, Dikte), whose cognates it shares. TE-TE is the feminine nisbe -īt, ʾa-Diqqitīt 'the Diktaean', E for i: JA-DI-KI-TU ~ JA-DI-KI-TE-TE as \*312-TA ~ \*312-TE-TE (Davis 2026, 45), the base T kept as in SU-KI-RI-TE-I-JA beside SU-KI-RI-TA; Heb. ʾašdôdît, yĕhûdît (Neh 13:24); LB di-ka-ta-jo Diktaios (KN Fp 1).
+
+Every TE-TE form is one sign group with dubur (PK Za 8, PK Za 11, PK Za 15), Diqqitīt dubur 'the Diktaean of the sanctuary'. PK Za 12 a: A-DI-KI-TẸ-\[TE\], TE damaged, no divider, the surface after it lost (GORILA IV 36–38).
+
+The word stands only at Palaikastro, in classical times the chief seat of Zeus Diktaios, and Pugliese Carratelli saw in it a divine name or epithet formed on Dikte (Pugliese Carratelli 1957, 170). Rival: Davis parses A- as a prepositional prefix, 'to, for the Diktaian' (Davis 2026, in Salgarella and Petrakis eds., The Wor(l)ds of Linear A, 43–60). Weak point: E writes i twice, and no held Semitic form of the name carries the nisbe.
 
 ### Cognates
 
@@ -52,7 +56,7 @@ PK Za 11, A-DI-KI-TE-TE-\[DU-PU₂\]-RE: the Palaikastro form of JA-DI-KI-TU (Di
 
 ### Source
 
-di Mino
+di Mino; Davis 2026; Pugliese Carratelli 1957; GORILA IV
 
 ## Attestations
 

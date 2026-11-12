@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-\*49 (AB049), PALM/TREE by its pictorial form, four tokens at three sites: TO-\*49-RE (PE 2), DA-U-\*49 (HT 120), U-\*49 whole (ZA 10b) and \]U-\*49 after a left break (HT 126a). tamir, PS \*tamr- 'date palm': Heb. tāmār (HALOT 1756), with Ug. syllabic \[ta\]-ma-ru (HALOT 1756), Arb. tamr 'dates, the fruit of the palm-tree' (Lane 317). TO-\*49-RE gives t-m-r with \*49 in its proposed value mi, and DA-U-\*49 reads Dawmi. Weak point: \*49 = mi is a proposed value; Linear B writes \*49 beside ordinary MI in tu-\*49-mi. See TO-MI-RE.
+\*49 (AB049), PALM/TREE by its pictorial form, four tokens at three sites: TO-\*49-RE (PE 2), DA-U-\*49 (HT 120), U-\*49 whole (ZA 10b, HT 126a). tamir, PS \*tamr- 'date palm': Heb. tāmār (HALOT 1756), with Ug. syllabic \[ta\]-ma-ru (HALOT 1756), Arb. tamr 'dates, the fruit of the palm-tree' (Lane 317). TO-\*49-RE gives t-m-r with \*49 in its proposed value mi, and DA-U-\*49 reads Dawmi. Weak point: \*49 = mi is a proposed value; Linear B writes \*49 beside ordinary MI in tu-\*49-mi. See TO-MI-RE.
 
 ### Cognates
 

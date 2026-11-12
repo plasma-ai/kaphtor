@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 97a .4 MA-DI 5 in the KA-RU list of men by place, after PA-I-TO 6 and NA-TI 4 (GORILA I 159); HT 118 MA-DI 15 at the head of the pig list; HT 85b MA-DI 1 in the KI-KI-RA-JA roster, after WA-DU-NI-MI 1; HT 3 MA-DI 2, HT 69 MA-DI 4, PH(?) 31a MA-DI \*21M 1. Maʾdi, √m-ʾ-d 'to be plentiful', the Amorite name MAʾD-IJA, MA-DI-IA (Gelb 1980, no. 4453). Linear B has ma-di (KN As 603.2, Db 1168) beside the derived ma-di-qo, \]ma-di-jo\[ (KH Z 3) and ma-di-je (TH Av 101, Fq 214, 254, 258, 263). Rival: the Hurrian personal name Madi 'wisdom', at Hattusa, Alalakh and Emar (de Martino 2011, 68).
+HT 97a .4 MA-DI 5 in the KA-RU list of men by place, after PA-I-TO 6 and NA-TI 4 (GORILA I 159); HT 118 MA-DI 15 at the head of the pig list; HT 85b MA-DI 1 in the KI-KI-RA-JA roster, after WA-DU-NI-MI 1; HT 3 MA-DI 2, HT 69 MA-DI 4, PH(?) 31a MA-DI \*21M 1. Maʾdi, √m-ʾ-d 'to be plentiful', the Amorite name MAʾD-IJA, MA-DI-IA (Gelb 1980, no. 4453). Linear B has ma-di (KN As 603.2, Db 1168) beside the derived ma-di-qo, \]ma-di-jo\[ (KH Z 3) and ma-di-je (TH Av 101, Fq 214, 254, 258, 263). Rival: the Hurrian personal name Madi 'wisdom', at Hattusa, Alalakh and Emar (de Martino 2011, 68). Peruzzi takes the four subjects of HT 118 for persons, QA-QA-RU being a man's name at Knossos (1958, 10).
 
 ### Cognates
 
@@ -53,7 +53,7 @@ HT 97a .4 MA-DI 5 in the KA-RU list of men by place, after PA-I-TO 6 and NA-TI 4
 
 ### Source
 
-di Mino; Gelb 1980; de Martino 2011
+di Mino; Gelb 1980; de Martino 2011; Peruzzi 1958
 
 ## Attestations
 
@@ -63,7 +63,7 @@ di Mino; Gelb 1980; de Martino 2011
 | [[wiki/linear-a/inscriptions/HT/HT/HT3\|HT3]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT69\|HT69]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT85b\|HT85b]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT97a\|HT97a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT97a\|HT97a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/PH/PH/PH_q_31a\|PH(?)31a]] | Phaistos | Tablet | none |
 
 ## In translations
@@ -72,6 +72,7 @@ di Mino; Gelb 1980; de Martino 2011
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT3\|HT3]] | Maʾdi | place name, 2 | SPECULATIVE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT85b\|HT85b]] | Maʾdi | place name: the man of Maʾdi, 1 | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT97a\|HT97a]] | Maʾdi | place name, 5; rival the Hurrian personal name Madi | SPECULATIVE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT118\|HT118]] | Maʾdi | place name, 15; rival the Hurrian personal name Madi | SPECULATIVE |
 
 ## Onomasticon

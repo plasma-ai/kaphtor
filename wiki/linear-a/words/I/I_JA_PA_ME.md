@@ -85,6 +85,6 @@ Reading from the lexicon (di Mino). Tell Rimah ia-ba-mi-ša 'her brother-in-law'
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: KI.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KI|KI]].
 
 <!-- END kaphtor:record -->

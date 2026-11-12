@@ -26,7 +26,13 @@ updated: 2026-10-24T16:17:50Z
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/PA/PA/PA1\|PA1]] | Papourou | Tablet | none |
+| [[wiki/linear-a/inscriptions/PA/PA/PA1\|PA1]] | Papourou | Tablet | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/PA/PA/PA1\|PA1]] | ʾakulpa | axes, weighed by the talent (A-KU-JU-PA + \*118) | SPECULATIVE |
 
 ## Onomasticon
 

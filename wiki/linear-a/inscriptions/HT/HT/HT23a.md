@@ -31,6 +31,7 @@ updated: 2026-10-24T16:17:50Z
 | Support | Tablet |
 | Period | LMIB |
 | Scribe |  |
+| Scribe in GORILA V | 9 HT (?) |
 | Edition | GORILA 1 |
 | Series | HT |
 | SigLA | [HT 23a](https://sigla.phis.me/document/HT%2023a/) |
@@ -90,12 +91,12 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/O/OLE_plus_RI\|OLE+RI]] | riqqu | aromatic oil | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/M/MI_plus_JA_plus_RU\|MI+JA+RU]] | murru | myrrh | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/V/VIN\|VIN]] | wayn | wine | PROBABLE | PROBABLE (lexicon) |
-| QA2+\[?\]+PU | (ligature) | \[QA₂-commodity, grade PU\] (\*510) | SPECULATIVE |  |
-| QA2+\[?\]+RE | (ligature) | \[QA₂-commodity, grade RE\] (\*508) | SPECULATIVE |  |
+| [[wiki/linear-a/words/Q/QA2_plus_q_plus_PU\|QA2+&#91;?&#93;+PU]] | (ligature) | \[QA₂-commodity, grade PU\] (\*510) | SPECULATIVE |  |
+| [[wiki/linear-a/words/Q/QA2_plus_q_plus_RE\|QA2+&#91;?&#93;+RE]] | (ligature) | \[QA₂-commodity, grade RE\] (\*508) | SPECULATIVE |  |
 | [[wiki/linear-a/words/E/E\|E]] |  | commodity, unread | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/star/star21F_RI_TU_QA\|\*21F-RI-TU-QA]] | ha-ritūqa | the tied, sealed packet | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/S/SA_SA_ME\|SA-SA-ME]] | šašamā | sesame | CANDIDATE | CANDIDATE (lexicon) |
-| SI+ME | (ligature) | \[SI+ME commodity\] | SPECULATIVE |  |
+| [[wiki/linear-a/words/S/SI_plus_ME\|SI+ME]] | (ligature) | \[SI+ME commodity\] | SPECULATIVE |  |
 | [[wiki/linear-a/words/K/KO_RU\|KO-RU]] | kōr | kor (dry measure) | SPECULATIVE | SPECULATIVE (lexicon) |
 
 ### Notes

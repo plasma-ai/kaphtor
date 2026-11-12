@@ -60,7 +60,7 @@ di Mino; DULAT; Pagan 1998; Kinlaw 1967; Gelb 1980
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HTZd/HTZd155\|HTZd155]] | Haghia Triada | Graffito | incomplete; form not in transliteration |
+| [[wiki/linear-a/inscriptions/HT/HTZd/HTZd155\|HTZd155]] | Haghia Triada | Graffito | complete; form not in transliteration |
 
 ## Onomasticon
 

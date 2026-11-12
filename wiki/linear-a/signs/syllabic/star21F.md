@@ -47,10 +47,15 @@ Evidence: As a class (h ḥ ḫ), 7/11 word types, and no rival class above 8/11
 
 An optional H-sign covering h, ḥ and ḫ, as cuneiform's Ḫ-series writes West Semitic ḥ and ḫ alike. H is ordinarily unwritten, as in Linear B, where a₂ (ha) is optional: pa-we-a 88 times, pa-we-a₂ 9. The syllabic use did not pass into Linear B, which kept \*21 as qi and the sheep ideograms. Standing alone with a numeral, \*21F is the logogram OVISf (ewe): HT 132, ZA 9, ZA 26a. No word is yet attested both with and without \*21F.
 
+## Also in logograms
+
+[[wiki/linear-a/signs/logograms/star21F|\*21F]] has a logograms record.
+
 ## Lexicon words written with this sign
 
 | Word | Reading | Confidence |
 |---|---|---|
+| [[wiki/linear-a/words/star/star21F\|\*21F]] | (logogram) | PROBABLE |
 | [[wiki/linear-a/words/star/star21F_star118\|\*21F-\*118]] | ḥiṭṭa | CANDIDATE |
 | [[wiki/linear-a/words/star/star21F_RI_TU_QA\|\*21F-RI-TU-QA]] | ha-ritūqa | SPECULATIVE |
 | [[wiki/linear-a/words/star/star21F_TU_NE\|\*21F-TU-NE]] | hatune | CANDIDATE |

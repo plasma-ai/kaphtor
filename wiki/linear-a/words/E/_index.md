@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/E
 desc: "Words whose first sign begins with E, and words that open with an illegible sign."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-03T03:29:48Z
+updated: 2026-11-12T00:26:03Z
 ---
 
 # wiki/linear-a/words/E
@@ -22,6 +22,8 @@ updated: 2026-11-03T03:29:48Z
 [[wiki/linear-a/words/E/E_TA2_QE|E_TA2_QE]]: Unread (role only): personal name; 1 occurrence(s).
 
 [[wiki/linear-a/words/E/E_TO_RI|E_TO_RI]]: Unread (unread): no role; 1 occurrence(s).
+
+[[wiki/linear-a/words/E/E_plus_KA|E_plus_KA]]: Unread sign (ligature, component read); 2 occurrence(s).
 
 [[wiki/linear-a/words/E/E_star301|E_star301]]: Unread (role only): personal name; 1 occurrence(s).
 

@@ -30,7 +30,7 @@ updated: 2026-10-24T16:17:50Z
 | Findspot |  |
 | Support | Metal object |
 | Period |  |
-| Scribe | AR Scribe 2 |
+| Scribe | [[wiki/linear-a/by_scribe\|AR Scribe 2]] |
 | Edition | GORILA 4 |
 | Series | ARZf |
 | Images | © École Française d'Athènes |
@@ -59,7 +59,7 @@ Unicode (Linear A block):
 
 ### Notes
 
-One-word metal votive from the Arkhalokhori sacred cave.
+One-word metal votive from the Arkhalokhori sacred cave: the silver double axe (HM 626, Younger 2023; inv. 625 in Pugliese Carratelli 1957, 163), its text identical with the gold axe's, AR Zf 1 (Pugliese Carratelli 1957, 163 n. 2). The first sign is I or NO (Pugliese Carratelli 1957, 171 n. 3).
 
 ### Source
 

@@ -69,7 +69,7 @@ di Mino; Lane; Payne Smith
 | [[wiki/linear-a/inscriptions/HT/HT/HT100\|HT100]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT101\|HT101]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT125a\|HT125a]] | Haghia Triada | Tablet | incomplete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT140\|HT140]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT140\|HT140]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/TY/TY/TY3a\|TY3a]] | Tylissos | Tablet | none |
 
 ## In translations
@@ -82,5 +82,6 @@ di Mino; Lane; Payne Smith
 | [[wiki/linear-a/inscriptions/HT/HT/HT91\|HT91]] | ʿuṣār | pressed oil (ʿuṣār) |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT96b\|HT96b]] | olive oil (U-type) | olive oil variant | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT100\|HT100]] | \[ideogram\] | olive oil subtype U |  |
+| [[wiki/linear-a/inscriptions/HT/HT/HT140\|HT140]] | ʿuṣār | pressed oil: 3, 1, 2, 6½ | CANDIDATE |
 
 <!-- END kaphtor:record -->

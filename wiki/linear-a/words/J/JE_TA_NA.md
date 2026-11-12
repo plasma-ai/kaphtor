@@ -59,7 +59,13 @@ di Mino; cf. Gordon 1966
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1020\|HTWa1020]] | Haghia Triada | Nodule | none |
+| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1020\|HTWa1020]] | Haghia Triada | Nodule | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1020\|HTWa1020]] | Yatana | he gave (personal name) | PROBABLE |
 
 ## Onomasticon
 

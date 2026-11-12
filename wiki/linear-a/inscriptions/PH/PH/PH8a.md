@@ -9,7 +9,7 @@ site: "Phaistos"
 support: "Tablet"
 period: ""
 translation: "none"
-words: ["*304"]
+words: ["*304", "VIR+[?]"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -68,6 +68,6 @@ Unicode (Linear A block):
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/star/star304|\*304]].
+[[wiki/linear-a/words/star/star304|\*304]], [[wiki/linear-a/words/V/VIR_plus_q_broken_end|VIR+&#91;?&#93;]].
 
 <!-- END kaphtor:record -->

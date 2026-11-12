@@ -2,7 +2,7 @@
 name: wiki/linear-a/inscriptions/SY/SYZa
 desc: "Inscriptions from Syme, series SYZa."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-24T16:17:50Z
+updated: 2026-11-13T13:31:15Z
 ---
 
 # wiki/linear-a/inscriptions/SY/SYZa
@@ -13,7 +13,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/inscriptions/SY/SYZa/SYZa10|SYZa10]]: Stone vessel, Syme, LMIA. Translation: none.
 
-[[wiki/linear-a/inscriptions/SY/SYZa/SYZa11|SYZa11]]: Stone vessel, Syme, LMIA. Translation: none.
+[[wiki/linear-a/inscriptions/SY/SYZa/SYZa11|SYZa11]]: Stone vessel, Syme, LMIA. Translation: complete (SPECULATIVE).
 
 [[wiki/linear-a/inscriptions/SY/SYZa/SYZa12|SYZa12]]: Stone vessel, Syme, LMIA. Translation: none.
 
@@ -25,7 +25,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/inscriptions/SY/SYZa/SYZa5|SYZa5]]: Stone vessel, Syme. Translation: none.
 
-[[wiki/linear-a/inscriptions/SY/SYZa/SYZa6|SYZa6]]: Stone vessel, Syme, MMIIIA. Translation: none.
+[[wiki/linear-a/inscriptions/SY/SYZa/SYZa6|SYZa6]]: Stone vessel, Syme, MMIIIA. Translation: complete (SPECULATIVE).
 
 [[wiki/linear-a/inscriptions/SY/SYZa/SYZa8|SYZa8]]: Stone vessel, Syme, LMIA. Translation: complete (CANDIDATE).
 

@@ -38,7 +38,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-A logogram in standalone counted entries, a syllabogram inside sign groups. HT 89 counts \*305 23 in the headcount 23+22+24+13+5, KU-RO 87, and on HT 100 \*305 5 is a subcategory of the personnel total KU-RO 97 (Uchitel 2003, 85). Uchitel takes it for an age group (Uchitel 2006, 75), Montecchi for a group of persons, never counted in fractions (Montecchi 2008, 315). Ten documents. See KA-\*305.
+A logogram in standalone counted entries, a syllabogram inside sign groups. HT 89 counts \*305 23 in the headcount 23+22+24+13+5, KU-RO 87, and on HT 100 \*305 5 is a subcategory of the personnel total KU-RO 97 (Uchitel 2003, 85). Uchitel takes it for an age group (Uchitel 2006, 75) and the sign for a double bow; on HT 45 it follows the table sign \*318, which with \*306 on HT 94a he takes for women cooks (Uchitel 2016b, 10). Montecchi takes \*305 for a group of persons, never counted in fractions (Montecchi 2008, 315). Ten documents. See KA-\*305.
 
 ### Cognates
 
@@ -51,7 +51,7 @@ A logogram in standalone counted entries, a syllabogram inside sign groups. HT 8
 
 ### Source
 
-Uchitel 2003; Uchitel 2006; Montecchi 2008
+Uchitel 2003; Uchitel 2006; Uchitel 2016b; Montecchi 2008
 
 ## Attestations
 

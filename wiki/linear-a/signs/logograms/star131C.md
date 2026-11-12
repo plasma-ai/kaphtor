@@ -30,4 +30,10 @@ updated: 2026-10-24T16:17:50Z
 | Gloss | vinegar |
 | Commodity | ACETUM |
 
+## Lexicon words written with this sign
+
+| Word | Reading | Confidence |
+|---|---|---|
+| [[wiki/linear-a/words/star/star131C\|\*131C]] | (logogram) | CANDIDATE |
+
 <!-- END kaphtor:record -->

@@ -30,7 +30,7 @@ updated: 2026-10-24T16:17:50Z
 | Findspot |  |
 | Support | Tablet |
 | Period |  |
-| Scribe | KH Scribe 2 |
+| Scribe | [[wiki/linear-a/by_scribe\|KH Scribe 2]] |
 | Edition | GORILA 3 |
 | Series | KH |
 | SigLA | [KH 7a](https://sigla.phis.me/document/KH%207a/) |
@@ -76,25 +76,25 @@ Unicode (Linear A block):
 
 **SPECULATIVE**, incomplete (status: incomplete).
 
-> \[…\]NE-\[·\]-KI: \*334 4; cyperus 1\[…\]; \[…\]I: cyperus-fat 1⁄16. Men: \*313b-men 10; cyperus ½. The brother-in-law of Tatta: Kattike, \*313b-men 4; cyperus ⅓. Provisions: KU-\[·\]-KO-E, \*313b-men \[…\]18; cyperus 1 \[…\]
+> \[…\]NE-\[·\]-KI: \*334 4; cyperus 1\[…\]; \[…\]I: cyperus 1⁄16. Men: \*313b-men 10; cyperus ½. The brother-in-law of Tatta: Kattike, \*313b-men 4; cyperus ⅓. Provisions: KU-\[·\]-KO-E, \*313b-men \[…\]18; cyperus 1 \[…\]
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | [[wiki/linear-a/words/N/NE_q_KI_broken_start\|&#93;-NE-&#91;?&#93;-KI]] |  | broken word |  | unread |
-| \*334 |  | logogram, 4 |  |  |
+| [[wiki/linear-a/words/star/star334\|\*334]] |  | logogram, 4 |  |  |
 | CYP+D |  | cyperus, with the fraction sign D, 1\[ | PROBABLE |  |
-| CYP+E | kupru-ḥemʾat | cyperus-fat, 1⁄16 | CANDIDATE |  |
+| CYP+E |  | cyperus, with the fraction sign E, 1⁄16 | PROBABLE |  |
 | [[wiki/linear-a/words/E/E_NA_SI\|E-NA-SI]] | ʾenāš | men, people (section heading); rival copper | CANDIDATE | CANDIDATE (lexicon) |
-| VIR+\*313b |  | men of the \*313b class, 10 | CONFIRMED |  |
+| [[wiki/linear-a/words/V/VIR_plus_star313b\|VIR+\*313b]] |  | men of the \*313b class, 10 | CONFIRMED |  |
 | CYP+D |  | cyperus, with the fraction sign D, ½ | PROBABLE |  |
 | [[wiki/linear-a/words/I/I_JA_PA_ME\|I-JA-PA-ME]] | yabame | brother-in-law (of Tatta) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/T/TA_TA\|TA-TA]] | Tatta | Hurrian personal name; rival the Anatolian name Tata | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/Q/QA_TI_KI\|QA-TI-KI]] | Kattike | Hurrian personal name, on kad- 'to say'; rival katki 'utterance' | SPECULATIVE | SPECULATIVE (lexicon) |
-| VIR+\*313b |  | men of the \*313b class, 4 | CONFIRMED |  |
+| [[wiki/linear-a/words/V/VIR_plus_star313b\|VIR+\*313b]] |  | men of the \*313b class, 4 | CONFIRMED |  |
 | CYP+D |  | cyperus, with the fraction sign D, ⅓ | PROBABLE |  |
 | [[wiki/linear-a/words/S/SE_star305\|SE-\*305]] | ṣēdā | provisions (section heading) | SPECULATIVE | SPECULATIVE (lexicon) |
 | KU-\[?\]-KO-E |  | broken word |  |  |
-| VIR+\*313b |  | men of the \*313b class, \[ \]18 | CONFIRMED |  |
+| [[wiki/linear-a/words/V/VIR_plus_star313b\|VIR+\*313b]] |  | men of the \*313b class, \[ \]18 | CONFIRMED |  |
 | CYP+D |  | cyperus, with the fraction sign D, 1 | PROBABLE |  |
 
 ### Notes

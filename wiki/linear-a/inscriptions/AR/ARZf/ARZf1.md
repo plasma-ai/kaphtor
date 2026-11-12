@@ -30,7 +30,7 @@ updated: 2026-10-24T16:17:50Z
 | Findspot |  |
 | Support | Metal object |
 | Period |  |
-| Scribe | AR Scribe 1 |
+| Scribe | [[wiki/linear-a/by_scribe\|AR Scribe 1]] |
 | Edition | GORILA 4 |
 | Series | ARZf |
 | Images | © École Française d'Athènes |
@@ -59,7 +59,7 @@ Unicode (Linear A block):
 
 ### Notes
 
-One-word metal votive from the Arkhalokhori sacred cave.
+One-word metal votive from the Arkhalokhori sacred cave: the gold double axe (Boston, MFA 58.1009; Younger 2023), taken from the cave and on the Paris market by 1957, its text identical with the silver axe's (Pugliese Carratelli 1957, 163 n. 2).
 
 ### Source
 

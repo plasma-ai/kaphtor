@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-GRA with PA, the initial of parīsu, at four sites, often over large dry measures: Akkadian parīsu B '(a measure of capacity) one-half of a gur' (CAD P 186), Ugaritic prś/prs, a dry measure of half a gur (DULAT 671–672), and Biblical Aramaic pĕrēs 'half-portion' (Dan 5:28); Ebla writes it ba-rí-zu, Mari and Alalakh VII pa-ri-si (GlOS 2, 135). HT 102 has PA₃-NI GRA+PA 33 and, after a lacuna, \]VIR GRA+PA 33, broken before VIR (GORILA I 169). HT 120 keeps GRA+PA apart from GRA+K+L and GRA+B. Fourteen documents.
+GRA with PA, the initial of parīsu, at four sites, often over large dry measures: Akkadian parīsu B '(a measure of capacity) one-half of a gur' (CAD P 186), Ugaritic prś/prs, a dry measure of half a gur (DULAT 671–672), and Biblical Aramaic pĕrēs 'half-portion' (Dan 5:28); Ebla writes it ba-rí-zu, Mari and Alalakh VII pa-ri-si (GlOS 2, 135). HT 102 has PA₃-NI GRA+PA 33 and, after a lacuna, \]VIR GRA+PA 33, broken before VIR (GORILA I 169). HT 120 keeps GRA+PA apart from GRA+K+L and GRA+B. The numbers count the plain grain unit: HT 102 adds its two GRA+PA 33 to GRA 976 in KU-RO 1060 (Kamm 1963, 143), and PE 1 gives 72 men GRA+PA 36, a half to each man, and 50 men 26½. PA marks grain issued by the parīsu, the man's ration; the same root gives prs 'portion, payment, salary' in Phoenician, Hebrew and Aramaic (DNWSI 940). Fourteen documents.
 
 ### Cognates
 
@@ -53,7 +53,7 @@ GRA with PA, the initial of parīsu, at four sites, often over large dry measure
 
 ### Source
 
-di Mino; GlOS 2
+di Mino; GlOS 2; Kamm 1963; DNWSI
 
 ## Attestations
 

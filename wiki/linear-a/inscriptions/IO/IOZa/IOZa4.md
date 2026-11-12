@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/inscriptions/IO/IOZa/IOZa4
 title: "IOZa4"
-desc: "Stone-vessel fragment, Iouktas. Translation: complete (SPECULATIVE)."
-tags: ["linear-a", "inscription", "translation-complete", "stone-vessel-fragment"]
+desc: "Stone-vessel fragment, Iouktas. Translation: incomplete (SPECULATIVE)."
+tags: ["linear-a", "inscription", "translation-incomplete", "stone-vessel-fragment"]
 kind: "inscription"
 id: "IOZa4"
 site: "Iouktas"
 support: "Stone-vessel fragment"
 period: ""
-translation: "complete"
+translation: "incomplete"
 words: []
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -39,7 +39,7 @@ updated: 2026-10-24T16:17:50Z
 
 Transliteration, line by line:
 
-1. \*301-WA
+1. \]\*301-WA\[
 
 Unicode (Linear A block):
 
@@ -49,17 +49,17 @@ Unicode (Linear A block):
 
 ## Translation
 
-**SPECULATIVE**, complete (status: fragmentary).
+**SPECULATIVE**, incomplete (status: incomplete).
 
-> \[Possible fragment of the prayer's opening verb.\]
+> \]\*301-WA\[ (not readable)
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| \*301-WA | na-wa | fragmentary n-w sequence; possible root material of the formula verb | SPECULATIVE |  |
+| [[wiki/linear-a/words/star/star301_WA_broken_both\|&#93;\*301-WA&#91;]] |  | broken group. Not readable. |  | unread |
 
 ### Notes
 
-The diplomatic reading is \]\*301-WA\[: both edges are broken, and no divider establishes a complete word. With \*301 = NA, \]NA-WA\[ is compatible with the medial root sequence of A-TA-I-\*301-WA-JA, so IO Za 4 may preserve a fragment of the prayer.
+The diplomatic reading is \]\*301-WA\[: both edges are broken, and no divider establishes a complete word.
 
 ### Source
 

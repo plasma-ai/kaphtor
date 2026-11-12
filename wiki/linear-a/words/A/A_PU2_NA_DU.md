@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/A/A_PU2_NA_DU
 title: "A-PU₂-NA-DU"
-desc: "Unread (role only): no role; 1 occurrence(s)."
+desc: "Unread (role only): personal name; 1 occurrence(s)."
 tags: ["linear-a", "word", "unread"]
 kind: "word"
 form: "A-PU₂-NA-DU"
@@ -35,7 +35,7 @@ updated: 2026-10-24T16:17:50Z
 
 ## Unread
 
-Status **role only** (classed by role only (onomasticon type or translation label), no reading).
+Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
 
 HT 14 .3 A-PỤ₂-NA-DU GRA 47, PU₂ dotted in the copie normalisée, at the head of the second set of entries (GRA, OLE+MI, OLE+DI, \*304, OLIV) (GORILA I 29). The copie tabulaire prints PU₂ without the dot. Sole attestation. Not readable.
 

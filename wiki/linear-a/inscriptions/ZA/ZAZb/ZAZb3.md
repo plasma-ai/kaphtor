@@ -72,7 +72,7 @@ Unicode (Linear A block):
 
 Context: LMIB dedicatory inscription on a clay pithos. Contains libation formula in Zakros dialect (-DE-KA variant) + Egyptian theophoric personal name + libation verb.
 
-Dedicatory inscription: commodity (VIN 32) + dedicant (Egyptian PN) + deity (Eshmun) + title (ʾāsē 'physician') + Zakros libation formula √ʿ-n-w + Eshmun epithet (compound √r-p-ʾ + √r-n-n) + closing TI-TI-KU 'may it be poured' (√n-t-k). The -DE-KA libation variant is unique to Zakros, establishing a 5th dialectal form. A-RE-PI-RE-NA is a compound divine epithet rather than a hapax PN, given its thematic convergence with Eshmun and the rpʾ/rnn liturgical dyad (Psalm 30:3-6).
+Dedicatory inscription: commodity (VIN 32) + dedicant (Egyptian PN) + deity (Eshmun) + title (ʾāsē 'physician') + Zakros libation formula √ʿ-n-w + Eshmun epithet (compound √r-p-ʾ + √r-n-n) + closing TI-TI-KU 'may it be poured' (√n-t-k). The -DE-KA libation variant is unique to Zakros, establishing a 5th dialectal form. A-RE-PI-RE-NA is a compound divine epithet rather than a hapax PN, given its thematic convergence with Eshmun and the rpʾ/rnn liturgical dyad (Psalm 30:3-6). The 32 units, some 921.6 litres, would fill six pithoi of this size, the number found in magazine Θ; for Schoep and Driessen the text refers to more than this jar's contents, perhaps to an occasion over the batch of pithoi (2003, 79).
 
 ### Source
 

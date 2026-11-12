@@ -27,7 +27,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Site | Thera |
-| Findspot |  |
+| Findspot | Akrotiri, room Δ18 (Tzachili 2003, 16; Younger 2023) |
 | Support | Tablet |
 | Period |  |
 | Scribe |  |

@@ -49,6 +49,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/K/KO_MU\|KO-MU]] | kummu | SPECULATIVE |
 | [[wiki/linear-a/words/K/KU_RA_MU\|KU-RA-MU]] | Kurmu | CANDIDATE |
 | [[wiki/linear-a/words/M/MU_RU\|MU-RU]] | mūru | CANDIDATE |
+| [[wiki/linear-a/words/S/SA_plus_MU_plus_KU\|SA+MU+KU]] | ṣammūqu | CANDIDATE |
 | [[wiki/linear-a/words/T/TA_NU_MU_TI\|TA-NU-MU-TI]] | ta-nʿum-u-tī | CANDIDATE |
 | [[wiki/linear-a/words/T/TE_RI_MU\|TE-RI-MU]] | tarīmu | SPECULATIVE |
 | [[wiki/linear-a/words/W/WI_TE_JA_MU\|WI-TE-JA-MU]] | Widd-tiyāmu | SPECULATIVE |

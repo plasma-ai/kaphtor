@@ -61,6 +61,12 @@ di Mino; GORILA IV; HALOT; CAD Q; DULAT
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/MA/MAZe/MAZe11\|MAZe11]] | Malia | Architecture | none |
+| [[wiki/linear-a/inscriptions/MA/MAZe/MAZe11\|MAZe11]] | Malia | Architecture | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/MA/MAZe/MAZe11\|MAZe11]] | qešet | bow, incised on the Malia palace wall | SPECULATIVE |
 
 <!-- END kaphtor:record -->

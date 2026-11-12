@@ -30,7 +30,7 @@ updated: 2026-10-24T16:17:50Z
 | Findspot | Portico 11 and Room 13 |
 | Support | Tablet |
 | Period | LMIB |
-| Scribe | HT Scribe 21 |
+| Scribe | [[wiki/linear-a/by_scribe\|HT Scribe 21]] |
 | Edition | GORILA 1 |
 | Series | HT |
 | SigLA | [HT 1](https://sigla.phis.me/document/HT%201/) |

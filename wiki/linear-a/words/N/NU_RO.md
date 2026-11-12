@@ -61,8 +61,15 @@ di Mino; GlOS 2
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/IN/INZb/INZb1\|INZb1]] | Inatos | Clay vessel | none |
-| [[wiki/linear-a/inscriptions/KAM/KAMZb/KAMZb1\|KAMZb1]] | Kamilari | Clay vessel | none |
+| [[wiki/linear-a/inscriptions/IN/INZb/INZb1\|INZb1]] | Inatos | Clay vessel | complete |
+| [[wiki/linear-a/inscriptions/KAM/KAMZb/KAMZb1\|KAMZb1]] | Kamilari | Clay vessel | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/IN/INZb/INZb1\|INZb1]] | nūr- | light, fire (divine epithet or votive label on clay vessels) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/KAM/KAMZb/KAMZb1\|KAMZb1]] | nūr- | light, fire (divine epithet or votive label on clay vessels) | CANDIDATE |
 
 ## Onomasticon
 

@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/inscriptions/HT/HT/HT6a
 title: "HT6a"
-desc: "Tablet, Haghia Triada, LMIB. Translation: incomplete (SPECULATIVE)."
-tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
+desc: "Tablet, Haghia Triada, LMIB. Translation: complete (SPECULATIVE)."
+tags: ["linear-a", "inscription", "translation-complete", "tablet"]
 kind: "inscription"
 id: "HT6a"
 site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
-translation: "incomplete"
+translation: "complete"
 words: ["DA-QE-RA", "DA-TA-RA", "DI-NE", "KA-PA", "KA-PA-QE", "MA-ZU", "NI", "O-RA₂", "O-RA₂-DI-NE", "PI-TA-JA", "QE-PI-TA", "TE"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -30,7 +30,8 @@ updated: 2026-10-24T16:17:50Z
 | Findspot | Villa Magazine |
 | Support | Tablet |
 | Period | LMIB |
-| Scribe |  |
+| Scribe | [[wiki/linear-a/by_scribe\|HT Scribe 17]] |
+| Scribe in GORILA V | 17 HT (a, b.1-3) ; 18 HT (b. 4-6) |
 | Edition | GORILA 1 |
 | Series | HT |
 | SigLA | [HT 6a](https://sigla.phis.me/document/HT%206a/) |
@@ -68,9 +69,9 @@ Unicode (Linear A block):
 
 ## Translation
 
-**SPECULATIVE**, incomplete (status: incomplete).
+**SPECULATIVE**, complete.
 
-> The village: Daṯar, offering, figs 15; Pitaya 24; JA+RU ⅓; the infants 10; ʾŌl-dīn 2; the village's commissioner 5¾. The town: baskets 22¾; figs 15½.
+> The village: Daṯar, offering, figs 15; Bittaya 24; JA+RU ⅓; the infants 10; ʾŌl-dīn 2; the village's commissioner 5¾. The town: baskets 22¾; figs 15½.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -78,11 +79,11 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/D/DA_TA_RA\|DA-TA-RA]] | Daṯar | personal name, 'Old'; rival 'He of the gate' | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/T/TE\|TE]] | terûmā | contribution, offering | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/N/NI\|NI]] |  | figs, 15 | CONFIRMED | CONFIRMED (lexicon) |
-| [[wiki/linear-a/words/P/PI_TA_JA\|PI-TA-JA]] | Pitaya | personal name, 24 | SPECULATIVE | SPECULATIVE (lexicon) |
-| JA+RU |  | ligature with ⅓ | SPECULATIVE |  |
+| [[wiki/linear-a/words/P/PI_TA_JA\|PI-TA-JA]] | Bittaya | personal name, 'daughter of Ya', 24 | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/J/JA_plus_RU\|JA+RU]] |  | ligature with ⅓ | SPECULATIVE |  |
 | [[wiki/linear-a/words/M/MA_star321\|MA-\*321]] | maṯu | infants or young dependents, 10 | SPECULATIVE |  |
 | [[wiki/linear-a/words/O/O_RA2_DI_NE\|O-RA₂-DI-NE]] | ʾŌl-dīn | personal name, 'the Foremost is judge', 2 | SPECULATIVE | SPECULATIVE (lexicon) |
-| [[wiki/linear-a/words/K/KA_PA_QE\|KA-PA-QE]] | kapar qē(pu) | the village's commissioner, 5¾; rival 'the village: measures (qê)' | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/K/KA_PA_QE\|KA-PA-QE]] | kapar qē(pu) | the village's commissioner, 5¾; rival kappar qê 'vessels by the qê-measure' | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/D/DA_QE_RA\|DA-QE-RA]] | ḏā-Qīra | the (district) of Qīr, the walled town; heading of the second section | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/Q/QE_PI_TA\|QE-PI-TA]] | qepīta | box, chest, basket (container or unit), 22¾ | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/N/NI\|NI]] |  | figs, 15½ | CONFIRMED | CONFIRMED (lexicon) |

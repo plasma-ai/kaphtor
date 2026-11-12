@@ -9,7 +9,7 @@ site: "Petras"
 support: "Tablet"
 period: ""
 translation: "incomplete"
-words: ["A-SE-SI-NA", "GRA+PA", "KU-PA-RI", "U-KA-RE"]
+words: ["A-SE-SI-NA", "GRA+PA", "KU-PA-RI", "U-KA-RE", "VIR+[?]"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -67,10 +67,10 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/U/U_KA_RE\|U-KA-RE]] | ʾugār | the field of (heading); rivals ʾikkār 'ploughman', the personal name Ugār | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/A/A_SE_SI_NA\|A-SE-SI-NA]] | ḥašīšin | of hay, of dry grass: ʾugār ḥašīšin 'the hay meadow' (heading, the field's name) | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/K/KU_PA_RI\|KU-PA-RI]] | kuparī | the villages, a group of men drawing grain; rival kaparrī 'junior shepherds' | SPECULATIVE | SPECULATIVE (lexicon) |
-| VIR+\[?\] |  | men; the second element of the ligature is unread, 5̣0\[ (53 restored) |  |  |
+| [[wiki/linear-a/words/V/VIR_plus_q_broken_end\|VIR+&#91;?&#93;]] |  | men; the second element of the ligature is unread, 5̣0\[ (53 restored) |  | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/G/GRA_plus_PA\|GRA+PA]] | \[ideogram\] | grain, parīsu measure, 26½ |  | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/E/E_KA\|E-KA]] |  | a second group of men, broken after KA. Not readable. |  | unread |
-| VIR+\[?\] |  | men; the second element of the ligature is unread, 72 |  |  |
+| [[wiki/linear-a/words/V/VIR_plus_q_broken_end\|VIR+&#91;?&#93;]] |  | men; the second element of the ligature is unread, 72 |  | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/G/GRA_plus_PA\|GRA+PA]] | \[ideogram\] | grain, parīsu measure, 36 |  | CANDIDATE (lexicon) |
 
 ### Notes
@@ -83,7 +83,7 @@ Grain rations at ½ unit a head: 26½ is half of 53, restored from the broken 5�
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/A/A_SE_SI_NA|A-SE-SI-NA]], [[wiki/linear-a/words/G/GRA_plus_PA|GRA+PA]], [[wiki/linear-a/words/K/KU_PA_RI|KU-PA-RI]], [[wiki/linear-a/words/U/U_KA_RE|U-KA-RE]].
+[[wiki/linear-a/words/A/A_SE_SI_NA|A-SE-SI-NA]], [[wiki/linear-a/words/G/GRA_plus_PA|GRA+PA]], [[wiki/linear-a/words/K/KU_PA_RI|KU-PA-RI]], [[wiki/linear-a/words/U/U_KA_RE|U-KA-RE]], [[wiki/linear-a/words/V/VIR_plus_q_broken_end|VIR+&#91;?&#93;]].
 
 ## Edition differences
 

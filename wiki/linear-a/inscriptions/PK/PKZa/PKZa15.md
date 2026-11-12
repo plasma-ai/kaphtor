@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/inscriptions/PK/PKZa/PKZa15
 title: "PKZa15"
-desc: "Stone vessel, Palaikastro. Translation: incomplete (PROBABLE)."
-tags: ["linear-a", "inscription", "translation-incomplete", "stone-vessel"]
+desc: "Stone vessel, Palaikastro. Translation: complete (PROBABLE)."
+tags: ["linear-a", "inscription", "translation-complete", "stone-vessel"]
 kind: "inscription"
 id: "PKZa15"
 site: "Palaikastro"
 support: "Stone vessel"
 period: ""
-translation: "incomplete"
+translation: "complete"
 words: ["DU-PU₂-RE"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -49,7 +49,7 @@ Unicode (Linear A block):
 
 ## Translation
 
-**PROBABLE**, incomplete (status: incomplete).
+**PROBABLE**, complete.
 
 > \[…\] · O Diktaean of the Sanctuary \[…\]
 

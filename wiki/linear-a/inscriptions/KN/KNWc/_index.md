@@ -2,7 +2,7 @@
 name: wiki/linear-a/inscriptions/KN/KNWc
 desc: "Inscriptions from Knossos, series KNWc."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-01T14:37:39Z
+updated: 2026-11-13T13:31:15Z
 ---
 
 # wiki/linear-a/inscriptions/KN/KNWc
@@ -17,7 +17,7 @@ updated: 2026-11-01T14:37:39Z
 
 [[wiki/linear-a/inscriptions/KN/KNWc/KNWc3|KNWc3]]: Roundel, Knossos, MMIIIB. Translation: none.
 
-[[wiki/linear-a/inscriptions/KN/KNWc/KNWc30|KNWc30]]: Roundel, Knossos, MMIIIB. Translation: none.
+[[wiki/linear-a/inscriptions/KN/KNWc/KNWc30|KNWc30]]: Roundel, Knossos, MMIIIB. Translation: complete (SPECULATIVE).
 
 [[wiki/linear-a/inscriptions/KN/KNWc/KNWc42|KNWc42]]: Roundel, Knossos. Translation: none.
 

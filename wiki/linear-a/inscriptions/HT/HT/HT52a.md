@@ -30,7 +30,7 @@ updated: 2026-10-24T16:17:50Z
 | Findspot | Villa Magazine |
 | Support | Tablet |
 | Period | LMIB |
-| Scribe | HT Scribe 23 |
+| Scribe | [[wiki/linear-a/by_scribe\|HT Scribe 23]] |
 | Edition | GORILA 1 |
 | Series | HT |
 | SigLA | [HT 52a](https://sigla.phis.me/document/HT%2052a/) |

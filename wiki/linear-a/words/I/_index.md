@@ -2,12 +2,14 @@
 name: wiki/linear-a/words/I
 desc: "Words whose first sign begins with I."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-08T23:28:23Z
+updated: 2026-11-12T22:33:33Z
 ---
 
 # wiki/linear-a/words/I
 
 [[wiki/linear-a/words/_index|..]]
+
+[[wiki/linear-a/words/I/I|I]]: Unread sign (syllabogram, unread); 34 occurrence(s).
 
 [[wiki/linear-a/words/I/I_DA|I_DA]]: ʾIda: Ida, 'the Hand' (sacred mountain—toponym/theonym). Lexicon, PROBABLE (tier 3).
 
@@ -85,7 +87,7 @@ updated: 2026-11-08T23:28:23Z
 
 [[wiki/linear-a/words/I/I_RA2|I_RA2]]: ʾilā(t): goddess; rival ʾila 'god'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/I/I_RU_JA|I_RU_JA]]: Iruja: Iruja (personal name; Hurrian hypocoristic of Irup-tešup). Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/I/I_RU_JA|I_RU_JA]]: ʾIlūya: personal name, 'My god'; rival Hurrian Iruja. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/I/I_SA_RI|I_SA_RI]]: ʾišarī: uprightness, righteousness (genitive after the b= proclitic). Lexicon, CANDIDATE (tier 2).
 
@@ -104,6 +106,8 @@ updated: 2026-11-08T23:28:23Z
 [[wiki/linear-a/words/I/I_TI_TI_KU_NI|I_TI_TI_KU_NI]]: (y)ittatkūni: which have been poured out—disbursed (derived-stem header); rival a heading name. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/I/I_ZU_RI_NI_TA|I_ZU_RI_NI_TA]]: ʾi-ṯawrīnīta: She-of-the-Bull (feminine personal/divine name). Lexicon, CANDIDATE (tier 2).
+
+[[wiki/linear-a/words/I/I_plus_star301|I_plus_star301]]: Unread sign (ligature, component read); 2 occurrence(s).
 
 [[wiki/linear-a/words/I/I_q_WA_JA|I_q_WA_JA]]: Unread (role only): personal name; 1 occurrence(s).
 

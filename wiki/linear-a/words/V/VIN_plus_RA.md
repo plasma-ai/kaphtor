@@ -61,7 +61,7 @@ di Mino
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/CR/CRZg/CRZg3\|CRZg3]] | Crete (?) | Amygdaloid stone seal | complete |
 | [[wiki/linear-a/inscriptions/KE/KEZb/KEZb5\|KEZb5]] | Kea | Clay vessel | none |
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA15b\|ZA15b]] | Zakros | Tablet | none |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA15b\|ZA15b]] | Zakros | Tablet | complete |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA6b\|ZA6b]] | Zakros | Tablet | none |
 
 ## In translations
@@ -69,5 +69,6 @@ di Mino
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/CR/CRZg/CRZg3\|CRZg3]] | — | RA-qualified wine; exact variety unknown | CANDIDATE |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA15b\|ZA15b]] | raqḥ | spiced wine (Hebrew yayin hāreqaḥ) | CANDIDATE |
 
 <!-- END kaphtor:record -->

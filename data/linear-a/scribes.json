@@ -1,0 +1,861 @@
+{
+  "schema_version": "1.0",
+  "description": "One entry per scribe label of corpus.json's `scribe` field and of `scribe_also`, which names a second scribe on the same record. A scribe's records are the corpus records that carry the label in either field; none are listed here. Hand-edited.",
+  "compiled_by": "di Mino",
+  "scribes": {
+    "AR Scribe 1": {
+      "site": "Arkhalkhori",
+      "class": "Zf",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 83",
+      "note": ""
+    },
+    "AR Scribe 2": {
+      "site": "Arkhalkhori",
+      "class": "Zf",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 83",
+      "note": ""
+    },
+    "ARKH Scribe 1": {
+      "site": "Arkhanes",
+      "class": "tablet",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 83",
+      "note": ""
+    },
+    "HT Scribe 1": {
+      "site": "Haghia Triada",
+      "class": "tablet",
+      "numbering": "Militello 1989",
+      "source": "Younger 2023, Haghia Triada: 'Scribal attribution: Godart, GORILA V 83-113, revised by Militello 1989'",
+      "gorila_v": [
+        "1 HT",
+        "1 HT (?)"
+      ],
+      "note": ""
+    },
+    "HT Scribe 2": {
+      "site": "Haghia Triada",
+      "class": "tablet",
+      "numbering": "Militello 1989",
+      "source": "Younger 2023, Haghia Triada: 'Scribal attribution: Godart, GORILA V 83-113, revised by Militello 1989'",
+      "gorila_v": [
+        "2 HT"
+      ],
+      "note": ""
+    },
+    "HT Scribe 3": {
+      "site": "Haghia Triada",
+      "class": "tablet",
+      "numbering": "Militello 1989",
+      "source": "Younger 2023, Haghia Triada: 'Scribal attribution: Godart, GORILA V 83-113, revised by Militello 1989'",
+      "gorila_v": [
+        "3 HT"
+      ],
+      "note": ""
+    },
+    "HT Scribe 4": {
+      "site": "Haghia Triada",
+      "class": "tablet",
+      "numbering": "Militello 1989",
+      "source": "Younger 2023, Haghia Triada: 'Scribal attribution: Godart, GORILA V 83-113, revised by Militello 1989'",
+      "gorila_v": [
+        "4 HT"
+      ],
+      "note": ""
+    },
+    "HT Scribe 5": {
+      "site": "Haghia Triada",
+      "class": "tablet",
+      "numbering": "Militello 1989",
+      "source": "Younger 2023, Haghia Triada: 'Scribal attribution: Godart, GORILA V 83-113, revised by Militello 1989'",
+      "gorila_v": [
+        "2 HT",
+        "5 HT",
+        "5 HT (?)"
+      ],
+      "note": ""
+    },
+    "HT Scribe 6": {
+      "site": "Haghia Triada",
+      "class": "tablet",
+      "numbering": "Militello 1989",
+      "source": "Younger 2023, Haghia Triada: 'Scribal attribution: Godart, GORILA V 83-113, revised by Militello 1989'",
+      "gorila_v": [
+        "6 HT"
+      ],
+      "note": ""
+    },
+    "HT Scribe 7": {
+      "site": "Haghia Triada",
+      "class": "tablet",
+      "numbering": "Militello 1989",
+      "source": "Younger 2023, Haghia Triada: 'Scribal attribution: Godart, GORILA V 83-113, revised by Militello 1989'",
+      "gorila_v": [
+        "7 HT"
+      ],
+      "note": ""
+    },
+    "HT Scribe 8": {
+      "site": "Haghia Triada",
+      "class": "tablet",
+      "numbering": "Militello 1989",
+      "source": "Younger 2023, Haghia Triada: 'Scribal attribution: Godart, GORILA V 83-113, revised by Militello 1989'",
+      "gorila_v": [
+        "8 HT",
+        "12 HT"
+      ],
+      "note": ""
+    },
+    "HT Scribe 9": {
+      "site": "Haghia Triada",
+      "class": "tablet",
+      "numbering": "Militello 1989",
+      "source": "Younger 2023, Haghia Triada: 'Scribal attribution: Godart, GORILA V 83-113, revised by Militello 1989'",
+      "gorila_v": [
+        "9 HT"
+      ],
+      "note": ""
+    },
+    "HT Scribe 10": {
+      "site": "Haghia Triada",
+      "class": "tablet",
+      "numbering": "Militello 1989",
+      "source": "Younger 2023, Haghia Triada: 'Scribal attribution: Godart, GORILA V 83-113, revised by Militello 1989'",
+      "gorila_v": [
+        "10 HT"
+      ],
+      "note": ""
+    },
+    "HT Scribe 11": {
+      "site": "Haghia Triada",
+      "class": "tablet",
+      "numbering": "Militello 1989",
+      "source": "Younger 2023, Haghia Triada: 'Scribal attribution: Godart, GORILA V 83-113, revised by Militello 1989'",
+      "gorila_v": [
+        "11 HT"
+      ],
+      "note": ""
+    },
+    "HT Scribe 12": {
+      "site": "Haghia Triada",
+      "class": "tablet",
+      "numbering": "Militello 1989",
+      "source": "Younger 2023, Haghia Triada: 'Scribal attribution: Godart, GORILA V 83-113, revised by Militello 1989'",
+      "gorila_v": [
+        "13 HT"
+      ],
+      "note": ""
+    },
+    "HT Scribe 13": {
+      "site": "Haghia Triada",
+      "class": "tablet",
+      "numbering": "Militello 1989",
+      "source": "Younger 2023, Haghia Triada: 'Scribal attribution: Godart, GORILA V 83-113, revised by Militello 1989'",
+      "gorila_v": [
+        "14 HT"
+      ],
+      "note": ""
+    },
+    "HT Scribe 14": {
+      "site": "Haghia Triada",
+      "class": "tablet",
+      "numbering": "Militello 1989",
+      "source": "Younger 2023, Haghia Triada: 'Scribal attribution: Godart, GORILA V 83-113, revised by Militello 1989'",
+      "gorila_v": [
+        "15 HT"
+      ],
+      "note": ""
+    },
+    "HT Scribe 15": {
+      "site": "Haghia Triada",
+      "class": "tablet",
+      "numbering": "Militello 1989",
+      "source": "Younger 2023, Haghia Triada: 'Scribal attribution: Godart, GORILA V 83-113, revised by Militello 1989'",
+      "gorila_v": [
+        "16 HT"
+      ],
+      "note": ""
+    },
+    "HT Scribe 17": {
+      "site": "Haghia Triada",
+      "class": "tablet",
+      "numbering": "Militello 1989",
+      "source": "Younger 2023, Haghia Triada: 'Scribal attribution: Godart, GORILA V 83-113, revised by Militello 1989'",
+      "gorila_v": [
+        "17 HT (a, b.1-3) ; 18 HT (b. 4-6)"
+      ],
+      "note": "HT 6 only: side a and lines 1–3 of side b. Younger 2023: 'HT Scribes 17 (for HT 6a, b.1-3) & 18 (for HT 6b.4-6)'; GORILA V prints the same division (p. 83)."
+    },
+    "HT Scribe 18": {
+      "site": "Haghia Triada",
+      "class": "tablet",
+      "numbering": "Militello 1989",
+      "source": "Younger 2023, Haghia Triada: 'Scribal attribution: Godart, GORILA V 83-113, revised by Militello 1989'",
+      "gorila_v": [
+        "17 HT (a, b.1-3) ; 18 HT (b. 4-6)"
+      ],
+      "note": "Wrote lines 4–6 of HT 6b after scribe 17 (the record's `scribe_also`)."
+    },
+    "HT Scribe 19": {
+      "site": "Haghia Triada",
+      "class": "tablet",
+      "numbering": "Militello 1989",
+      "source": "Younger 2023, Haghia Triada: 'Scribal attribution: Godart, GORILA V 83-113, revised by Militello 1989'",
+      "gorila_v": [],
+      "note": ""
+    },
+    "HT Scribe 20": {
+      "site": "Haghia Triada",
+      "class": "tablet",
+      "numbering": "Militello 1989",
+      "source": "Younger 2023, Haghia Triada: 'Scribal attribution: Godart, GORILA V 83-113, revised by Militello 1989'",
+      "gorila_v": [
+        "9 HT"
+      ],
+      "note": ""
+    },
+    "HT Scribe 21": {
+      "site": "Haghia Triada",
+      "class": "tablet",
+      "numbering": "Militello 1989",
+      "source": "Younger 2023, Haghia Triada: 'Scribal attribution: Godart, GORILA V 83-113, revised by Militello 1989'",
+      "gorila_v": [],
+      "note": ""
+    },
+    "HT Scribe 22": {
+      "site": "Haghia Triada",
+      "class": "tablet",
+      "numbering": "Militello 1989",
+      "source": "Younger 2023, Haghia Triada: 'Scribal attribution: Godart, GORILA V 83-113, revised by Militello 1989'",
+      "gorila_v": [],
+      "note": ""
+    },
+    "HT Scribe 23": {
+      "site": "Haghia Triada",
+      "class": "tablet",
+      "numbering": "Militello 1989",
+      "source": "Younger 2023, Haghia Triada: 'Scribal attribution: Godart, GORILA V 83-113, revised by Militello 1989'",
+      "gorila_v": [],
+      "note": ""
+    },
+    "HT Scribe 24": {
+      "site": "Haghia Triada",
+      "class": "tablet",
+      "numbering": "Militello 1989",
+      "source": "Younger 2023, Haghia Triada: 'Scribal attribution: Godart, GORILA V 83-113, revised by Militello 1989'",
+      "gorila_v": [],
+      "note": ""
+    },
+    "HT Wa Scribe 50": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 87",
+      "note": ""
+    },
+    "HT Wa Scribe 51": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 87",
+      "note": ""
+    },
+    "HT Wa Scribe 52": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 87",
+      "note": ""
+    },
+    "HT Wa Scribe 53": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 87",
+      "note": ""
+    },
+    "HT Wa Scribe 54": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 87",
+      "note": ""
+    },
+    "HT Wa Scribe 55": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 89",
+      "note": ""
+    },
+    "HT Wa Scribe 56": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 89",
+      "note": ""
+    },
+    "HT Wa Scribe 57": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 89",
+      "note": ""
+    },
+    "HT Wa Scribe 58": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 89",
+      "note": ""
+    },
+    "HT Wa Scribe 59": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, pp. 89–90",
+      "note": ""
+    },
+    "HT Wa Scribe 60": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 90",
+      "note": ""
+    },
+    "HT Wa Scribe 61": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 90",
+      "note": ""
+    },
+    "HT Wa Scribe 62": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 90",
+      "note": ""
+    },
+    "HT Wa Scribe 63": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 90",
+      "note": ""
+    },
+    "HT Wa Scribe 64": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 90",
+      "note": ""
+    },
+    "HT Wa Scribe 65": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 90",
+      "note": ""
+    },
+    "HT Wa Scribe 66": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 90",
+      "note": ""
+    },
+    "HT Wa Scribe 67": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 90",
+      "note": ""
+    },
+    "HT Wa Scribe 68": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, pp. 90–91",
+      "note": ""
+    },
+    "HT Wa Scribe 69": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, pp. 91–92",
+      "note": ""
+    },
+    "HT Wa Scribe 70": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 92",
+      "note": ""
+    },
+    "HT Wa Scribe 71": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 92",
+      "note": ""
+    },
+    "HT Wa Scribe 72": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 92",
+      "note": ""
+    },
+    "HT Wa Scribe 73": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 92",
+      "note": ""
+    },
+    "HT Wa Scribe 74": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, pp. 91–92",
+      "note": ""
+    },
+    "HT Wa Scribe 75": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 92",
+      "note": ""
+    },
+    "HT Wa Scribe 76": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 92",
+      "note": ""
+    },
+    "HT Wa Scribe 77": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 93",
+      "note": "Not checked against p. 93 of GORILA V; the attribution stands as Younger 2023 gives it."
+    },
+    "HT Wa Scribe 78": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 92",
+      "note": ""
+    },
+    "HT Wa Scribe 79": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 92",
+      "note": ""
+    },
+    "HT Wa Scribe 80": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, pp. 92–93",
+      "note": "HT Wa 1296 is on p. 93 of GORILA V, not checked; that attribution stands as Younger 2023 gives it."
+    },
+    "HT Wa Scribe 81": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, pp. 92–93",
+      "note": "HT Wa 1297 is on p. 93 of GORILA V, not checked; that attribution stands as Younger 2023 gives it."
+    },
+    "HT Wa Scribe 82": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 93",
+      "note": "Not checked against p. 93 of GORILA V; the attribution stands as Younger 2023 gives it."
+    },
+    "HT Wa Scribe 83": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 93",
+      "note": "Not checked against p. 93 of GORILA V; the attribution stands as Younger 2023 gives it."
+    },
+    "HT Wa Scribe 84": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, pp. 95–99",
+      "note": ""
+    },
+    "HT Wa Scribe 85": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, pp. 96–97",
+      "note": ""
+    },
+    "HT Wa Scribe 86": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, pp. 97–98",
+      "note": ""
+    },
+    "HT Wa Scribe 87": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 97",
+      "note": ""
+    },
+    "HT Wa Scribe 88": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 97",
+      "note": ""
+    },
+    "HT Wa Scribe 89": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, pp. 97–99",
+      "note": ""
+    },
+    "HT Wa Scribe 90": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 98",
+      "note": ""
+    },
+    "HT Wa Scribe 91": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 98",
+      "note": ""
+    },
+    "HT Wa Scribe 92": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 98",
+      "note": ""
+    },
+    "HT Wa Scribe 93": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 98",
+      "note": ""
+    },
+    "HT Wa Scribe 94": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 98",
+      "note": ""
+    },
+    "HT Wa Scribe 95": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 99",
+      "note": ""
+    },
+    "HT Wa Scribe 96": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 99",
+      "note": ""
+    },
+    "HT Wa Scribe 97": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, pp. 99–103",
+      "note": ""
+    },
+    "HT Wa Scribe 98": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 101",
+      "note": ""
+    },
+    "HT Wa Scribe 99": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, pp. 100–103",
+      "note": ""
+    },
+    "HT Wa Scribe 100": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, pp. 99–103",
+      "note": ""
+    },
+    "HT Wa Scribe 101": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, pp. 99–102",
+      "note": ""
+    },
+    "HT Wa Scribe 102": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 101",
+      "note": ""
+    },
+    "HT Wa Scribe 103": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 101",
+      "note": ""
+    },
+    "HT Wa Scribe 104": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, pp. 101–103",
+      "note": ""
+    },
+    "HT Wa Scribe 105": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, pp. 101–102",
+      "note": ""
+    },
+    "HT Wa Scribe 106": {
+      "site": "Haghia Triada",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, pp. 102–103",
+      "note": ""
+    },
+    "HT Wc Scribe 107": {
+      "site": "Haghia Triada",
+      "class": "Wc",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, pp. 103–104",
+      "note": ""
+    },
+    "HT Wc Scribe 108": {
+      "site": "Haghia Triada",
+      "class": "Wc",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 104",
+      "note": ""
+    },
+    "HT Wc Scribe 109": {
+      "site": "Haghia Triada",
+      "class": "Wc",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 104",
+      "note": ""
+    },
+    "HT Wc Scribe 110": {
+      "site": "Haghia Triada",
+      "class": "Wc",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 104",
+      "note": ""
+    },
+    "HT Wc Scribe 111": {
+      "site": "Haghia Triada",
+      "class": "Wc",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 104",
+      "note": ""
+    },
+    "HT Zd Scribe 112": {
+      "site": "Haghia Triada",
+      "class": "Zd",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 87",
+      "note": ""
+    },
+    "KH Scribe 1": {
+      "site": "Khania",
+      "class": "tablet",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, pp. 104–106",
+      "note": ""
+    },
+    "KH Scribe 2": {
+      "site": "Khania",
+      "class": "tablet",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, pp. 105–106",
+      "note": ""
+    },
+    "KH Scribe 3": {
+      "site": "Khania",
+      "class": "tablet",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 105",
+      "note": ""
+    },
+    "KH Scribe 4": {
+      "site": "Khania",
+      "class": "tablet",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, pp. 105–106",
+      "note": ""
+    },
+    "KH Scribe 5": {
+      "site": "Khania",
+      "class": "tablet",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 105",
+      "note": ""
+    },
+    "KH Scribe 6": {
+      "site": "Khania",
+      "class": "tablet",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 106",
+      "note": ""
+    },
+    "KH Wa Scribe 50": {
+      "site": "Khania",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 106",
+      "note": ""
+    },
+    "KH Wa Scribe 51": {
+      "site": "Khania",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 106",
+      "note": ""
+    },
+    "KH Wa Scribe 52": {
+      "site": "Khania",
+      "class": "Wa",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, pp. 106–107",
+      "note": ""
+    },
+    "KH Wc Scribe 53": {
+      "site": "Khania",
+      "class": "Wc",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 107",
+      "note": ""
+    },
+    "KH Wc Scribe 54": {
+      "site": "Khania",
+      "class": "Wc",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 107",
+      "note": ""
+    },
+    "KH Wc Scribe 55": {
+      "site": "Khania",
+      "class": "Wc",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 107",
+      "note": ""
+    },
+    "KH Wc Scribe 56": {
+      "site": "Khania",
+      "class": "Wc",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 108",
+      "note": ""
+    },
+    "KH Wc Scribe 57": {
+      "site": "Khania",
+      "class": "Wc",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 108",
+      "note": ""
+    },
+    "KH Wc Scribe 58": {
+      "site": "Khania",
+      "class": "Wc",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 108",
+      "note": ""
+    },
+    "KH Wc Scribe 59": {
+      "site": "Khania",
+      "class": "Wc",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 107",
+      "note": ""
+    },
+    "KH Wc Scribe 60": {
+      "site": "Khania",
+      "class": "Wc",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, pp. 107–108",
+      "note": ""
+    },
+    "PS Scribe 1": {
+      "site": "Psykhro",
+      "class": "Za",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 112",
+      "note": "PS Za 2, fragment a (Louvre I.P.S. 352). Younger 2023: 'PS Scribe 1 (line 1) & Scribe 2 (line 2)'."
+    },
+    "PS Scribe 2": {
+      "site": "Psykhro",
+      "class": "Za",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 112",
+      "note": "PS Za 2, fragments b and c (AM 1923.661, AM AE 1), the record's `scribe_also`. Younger 2023: 'PS Scribe 1 (line 1) & Scribe 2 (line 2)'."
+    },
+    "ZA Scribe 1": {
+      "site": "Zakros",
+      "class": "tablet",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, pp. 112–113",
+      "note": ""
+    },
+    "ZA Scribe 2": {
+      "site": "Zakros",
+      "class": "tablet",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 113",
+      "note": ""
+    },
+    "ZA Scribe 3": {
+      "site": "Zakros",
+      "class": "tablet",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 113",
+      "note": ""
+    },
+    "ZA Scribe 4": {
+      "site": "Zakros",
+      "class": "tablet",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 113",
+      "note": ""
+    },
+    "ZA Scribe 5": {
+      "site": "Zakros",
+      "class": "tablet",
+      "numbering": "GORILA V",
+      "source": "GORILA V, Concordance générale, p. 113",
+      "note": ""
+    }
+  }
+}

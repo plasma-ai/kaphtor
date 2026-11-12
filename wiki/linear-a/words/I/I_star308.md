@@ -31,6 +31,6 @@ updated: 2026-10-24T16:17:50Z
 
 Status **unread** (nothing known).
 
-HT26b .4 Ị \*3̣0̣8̣ 2̣, I and \*308 both dotted and the numeral dotted, at the head of the last preserved line above inf. mut. GORILA's tabular copy sets I in the ideogram column and \*308 in a column of its own (GORILA I 47). Sole attestation. Not readable.
+HT26b .4 Ị \*3̣0̣8̣ 2̣, I and \*308 both dotted and the numeral dotted, at the head of the last preserved line above inf. mut. GORILA's tabular copy sets I in the ideogram column and \*308 in a column of its own (GORILA I 47). Uchitel reads I-KA, the word of HT 91 and HT 102 (2016b, 16 n. 15; 2016a, 21, 24 n. 17). Sole attestation. Not readable.
 
 <!-- END kaphtor:record -->

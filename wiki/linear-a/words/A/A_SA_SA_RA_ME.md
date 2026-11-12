@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-IO Zb 10, PR Za 1 and PK Za 11: the Iouktas, Prassa and Palaikastro spelling of JA-SA-SA-RA-ME, with ʾA- for JA- (ya-), whose reading and cognates it shares. On PR Za 1 RA is drawn reversed, the A802 form, normalized RA (GORILA IV 48); PK Za 11 writes · A, then SA-SA-RA-ME · on the next line, with no divider between. Ebla writes the same base with a- for ya-: the names a-sa-ar, a-sa-ra /yaSar/, beside Amorite ia-sa-rum and a-ša-ru-um (GlOS 2, 377). The JA-/A- alternation runs through the formula verb too (A-TA-I-\*301-WA-JA, JA-TA-I-\*301-U-JA): a person marker or article variant on one root.
+IO Zb 10, PR Za 1 and PK Za 11: the Iouktas, Prassa and Palaikastro spelling of JA-SA-SA-RA-ME, with ʾA- for JA- (ya-), whose reading and cognates it shares. On PR Za 1 RA is drawn reversed, the A802 form, normalized RA (GORILA IV 48); PK Za 11 writes · A, then SA-SA-RA-ME · on the next line, with no divider between. Ebla writes the same base with a- for ya-: the names a-sa-ar, a-sa-ra /yaSar/, beside Amorite ia-sa-rum and a-ša-ru-um (GlOS 2, 377). The JA-/A- alternation runs through the formula verb too (A-TA-I-\*301-WA-JA, JA-TA-I-\*301-U-JA): a person marker or article variant on one root. Rival: sandhi (Pugliese Carratelli 1957, 169), against which JA- and A- both follow -E (PK Za 8, PK Za 11) and both follow -JA (IO Za 2, PK Za 12).
 
 ### Cognates
 
@@ -54,7 +54,7 @@ IO Zb 10, PR Za 1 and PK Za 11: the Iouktas, Prassa and Palaikastro spelling of 
 
 ### Source
 
-Gordon 1966; di Mino
+Gordon 1966; di Mino; Pugliese Carratelli 1957
 
 ### Review
 

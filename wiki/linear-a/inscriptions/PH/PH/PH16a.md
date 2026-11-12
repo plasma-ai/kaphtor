@@ -42,7 +42,7 @@ Transliteration, line by line:
 
 1. TI-NA
 2. —
-3. \*358-NI
+3. \]\*358-NI\[
 
 Unicode (Linear A block):
 

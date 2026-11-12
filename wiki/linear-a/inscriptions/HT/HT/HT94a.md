@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "none"
-words: ["CYP", "KA-PA", "KU-RO", "NI", "SA-RA₂", "VIR+*313"]
+words: ["CYP", "KA-PA", "KU-RO", "NI", "SA-RA₂", "VIR+*313", "VIR+[?]"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -30,7 +30,8 @@ updated: 2026-10-24T16:17:50Z
 | Findspot | Casa Room 7 |
 | Support | Tablet |
 | Period | LMIB |
-| Scribe | HT Scribe 9 |
+| Scribe | [[wiki/linear-a/by_scribe\|HT Scribe 9]] |
+| Scribe in GORILA V | 9 HT |
 | Edition | GORILA 1 |
 | Series | HT |
 | SigLA | [HT 94a](https://sigla.phis.me/document/HT%2094a/) |
@@ -76,6 +77,6 @@ Unicode (Linear A block):
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/C/CYP|CYP]], [[wiki/linear-a/words/K/KA_PA|KA-PA]], [[wiki/linear-a/words/K/KU_RO|KU-RO]], [[wiki/linear-a/words/N/NI|NI]], [[wiki/linear-a/words/S/SA_RA2|SA-RA₂]], [[wiki/linear-a/words/V/VIR_plus_star313|VIR+\*313]].
+[[wiki/linear-a/words/C/CYP|CYP]], [[wiki/linear-a/words/K/KA_PA|KA-PA]], [[wiki/linear-a/words/K/KU_RO|KU-RO]], [[wiki/linear-a/words/N/NI|NI]], [[wiki/linear-a/words/S/SA_RA2|SA-RA₂]], [[wiki/linear-a/words/V/VIR_plus_star313|VIR+\*313]], [[wiki/linear-a/words/V/VIR_plus_q_broken_end|VIR+&#91;?&#93;]].
 
 <!-- END kaphtor:record -->

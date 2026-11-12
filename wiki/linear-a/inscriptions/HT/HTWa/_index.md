@@ -2,22 +2,22 @@
 name: wiki/linear-a/inscriptions/HT/HTWa
 desc: "Inscriptions from Haghia Triada, series HTWa."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-24T16:17:50Z
+updated: 2026-11-13T13:31:15Z
 ---
 
 # wiki/linear-a/inscriptions/HT/HTWa
 
 [[wiki/linear-a/inscriptions/HT/_index|..]]
 
-[[wiki/linear-a/inscriptions/HT/HTWa/HTWa1001|HTWa1001]]: Nodule, Haghia Triada, LMIB. Translation: none.
+[[wiki/linear-a/inscriptions/HT/HTWa/HTWa1001|HTWa1001]]: Nodule, Haghia Triada, LMIB. Translation: complete (CANDIDATE).
 
-[[wiki/linear-a/inscriptions/HT/HTWa/HTWa1002|HTWa1002]]: Nodule, Haghia Triada, LMIB. Translation: none.
+[[wiki/linear-a/inscriptions/HT/HTWa/HTWa1002|HTWa1002]]: Nodule, Haghia Triada, LMIB. Translation: complete (CANDIDATE).
 
-[[wiki/linear-a/inscriptions/HT/HTWa/HTWa1003|HTWa1003]]: Nodule, Haghia Triada, LMIB. Translation: none.
+[[wiki/linear-a/inscriptions/HT/HTWa/HTWa1003|HTWa1003]]: Nodule, Haghia Triada, LMIB. Translation: complete (CANDIDATE).
 
-[[wiki/linear-a/inscriptions/HT/HTWa/HTWa1004|HTWa1004]]: Nodule, Haghia Triada, LMIB. Translation: none.
+[[wiki/linear-a/inscriptions/HT/HTWa/HTWa1004|HTWa1004]]: Nodule, Haghia Triada, LMIB. Translation: complete (CANDIDATE).
 
-[[wiki/linear-a/inscriptions/HT/HTWa/HTWa1005|HTWa1005]]: Nodule, Haghia Triada, LMIB. Translation: none.
+[[wiki/linear-a/inscriptions/HT/HTWa/HTWa1005|HTWa1005]]: Nodule, Haghia Triada, LMIB. Translation: complete (CANDIDATE).
 
 [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1006|HTWa1006]]: Nodule, Haghia Triada, LMIB. Translation: complete (SPECULATIVE).
 
@@ -35,21 +35,21 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1013|HTWa1013]]: Nodule, Haghia Triada, LMIB. Translation: complete (SPECULATIVE).
 
-[[wiki/linear-a/inscriptions/HT/HTWa/HTWa1014|HTWa1014]]: Nodule, Haghia Triada, LMIB. Translation: none.
+[[wiki/linear-a/inscriptions/HT/HTWa/HTWa1014|HTWa1014]]: Nodule, Haghia Triada, LMIB. Translation: complete (CANDIDATE).
 
-[[wiki/linear-a/inscriptions/HT/HTWa/HTWa1015|HTWa1015]]: Nodule, Haghia Triada, LMIB. Translation: none.
+[[wiki/linear-a/inscriptions/HT/HTWa/HTWa1015|HTWa1015]]: Nodule, Haghia Triada, LMIB. Translation: complete (CANDIDATE).
 
-[[wiki/linear-a/inscriptions/HT/HTWa/HTWa1016|HTWa1016]]: Nodule, Haghia Triada, LMIB. Translation: none.
+[[wiki/linear-a/inscriptions/HT/HTWa/HTWa1016|HTWa1016]]: Nodule, Haghia Triada, LMIB. Translation: complete (CANDIDATE).
 
-[[wiki/linear-a/inscriptions/HT/HTWa/HTWa1017|HTWa1017]]: Nodule, Haghia Triada, LMIB. Translation: none.
+[[wiki/linear-a/inscriptions/HT/HTWa/HTWa1017|HTWa1017]]: Nodule, Haghia Triada, LMIB. Translation: complete (CANDIDATE).
 
-[[wiki/linear-a/inscriptions/HT/HTWa/HTWa1018|HTWa1018]]: Nodule, Haghia Triada, LMIB. Translation: none.
+[[wiki/linear-a/inscriptions/HT/HTWa/HTWa1018|HTWa1018]]: Nodule, Haghia Triada, LMIB. Translation: complete (CANDIDATE).
 
 [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1019|HTWa1019]]: Nodule, Haghia Triada, LMIB. Translation: complete (CANDIDATE).
 
-[[wiki/linear-a/inscriptions/HT/HTWa/HTWa1020|HTWa1020]]: Nodule, Haghia Triada, LMIB. Translation: none.
+[[wiki/linear-a/inscriptions/HT/HTWa/HTWa1020|HTWa1020]]: Nodule, Haghia Triada, LMIB. Translation: complete (CANDIDATE).
 
-[[wiki/linear-a/inscriptions/HT/HTWa/HTWa1021|HTWa1021]]: Nodule, Haghia Triada, LMIB. Translation: none.
+[[wiki/linear-a/inscriptions/HT/HTWa/HTWa1021|HTWa1021]]: Nodule, Haghia Triada, LMIB. Translation: complete (SPECULATIVE).
 
 [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1021bis|HTWa1021bis]]: Nodule, Haghia Triada, LMIB. Translation: none.
 
@@ -65,7 +65,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1027|HTWa1027]]: Nodule, Haghia Triada, LMIB. Translation: none.
 
-[[wiki/linear-a/inscriptions/HT/HTWa/HTWa1028|HTWa1028]]: Nodule, Haghia Triada, LMIB. Translation: none.
+[[wiki/linear-a/inscriptions/HT/HTWa/HTWa1028|HTWa1028]]: Nodule, Haghia Triada, LMIB. Translation: complete (CANDIDATE).
 
 [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1029|HTWa1029]]: Nodule, Haghia Triada, LMIB. Translation: none.
 

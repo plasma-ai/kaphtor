@@ -31,4 +31,10 @@ updated: 2026-10-24T16:17:50Z
 | Commodity | CAPm |
 | Semitic term | \*tayš- (PS), Hebrew tayiš, Arabic tays |
 
+## Lexicon words written with this sign
+
+| Word | Reading | Confidence |
+|---|---|---|
+| [[wiki/linear-a/words/star/star22M\|\*22M]] | (logogram) | CANDIDATE |
+
 <!-- END kaphtor:record -->

@@ -10,7 +10,7 @@ tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.3
 reading: "ʾummi"
-attestations: ["ZA10b"]
+attestations: ["ZA10b", "HT126a"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -60,6 +60,7 @@ di Mino
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA10b\|ZA10b]] | Zakros | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/HT/HT/HT126a\|HT126a]] | Haghia Triada | Tablet | complete |
 
 ## In translations
 

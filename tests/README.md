@@ -4,10 +4,10 @@ The test suite: unit, data and maintainer tiers.
 
 - [ane/](ane/README.md): offline tests for the `tools/ane/` query clients, the data paths and the name layers (9 files, 238 tests)
 - [linear_a/](linear_a/README.md): tests for the `tools/core/` library, the Shoresh engine and commands, and the corpus
-  analyses (42 files, 1,280 tests, 628 of them on the shipped data)
+  analyses (43 files, 1,299 tests, 628 of them on the shipped data)
 - [pre_greek/](pre_greek/README.md): tests of the Pre-Greek lexicon in `data/pre-greek/` (1 file, 33 tests, 10 of them
   on the shipped data)
-- [views/](views/README.md): tests for the record wiki's builder in `tools/views/` (4 files, 136 tests, 6 of them on
+- [views/](views/README.md): tests for the record wiki's builder in `tools/views/` (6 files, 165 tests, 9 of them on
   the live Linear A data, 1 on the shipped Pre-Greek lexicon and 1 that runs plasma-wiki's `wiki`)
 - [fixtures/](fixtures/README.md): the Shoresh gold set and its baseline, byte for byte as deposited
 
@@ -24,7 +24,7 @@ The test suite: unit, data and maintainer tiers.
   hyphen (`Pre--Greek`) reads as one (2 tests)
 
 All of them run with `uv sync --all-groups`, then `PYTHONDONTWRITEBYTECODE=1 uv run --no-sync python -m pytest`; the 8
-live tests run on the shipped Linear A files (the 6 view tests read all seven `model.load` reads), and the `wiki` test
+live tests run on the shipped Linear A files (the 6 view tests read all eight `model.load` reads), and the `wiki` test
 skips without the `wiki` command.
 
 [`conftest.py`](conftest.py) fails the run if any entry under `data/` is added, changed or removed during it, a

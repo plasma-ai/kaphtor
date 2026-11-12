@@ -63,7 +63,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/D/DA_I\|DA-I]] | dayu | CANDIDATE |
 | [[wiki/linear-a/words/D/DA_I_PI_TA\|DA-I-PI-TA]] | Ṭayyibat | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_JU_TE\|DA-JU-TE]] | dalut | CANDIDATE |
-| [[wiki/linear-a/words/D/DA_KA\|DA-KA]] | dagu | CANDIDATE |
+| [[wiki/linear-a/words/D/DA_KA\|DA-KA]] | dāgā | CANDIDATE |
 | [[wiki/linear-a/words/D/DA_KI_TI\|DA-KI-TI]] | daqqati | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_KU_NA\|DA-KU-NA]] | Daguna | PROBABLE |
 | [[wiki/linear-a/words/D/DA_KU_SE_NE\|DA-KU-SE-NE]] | Takušenni | PROBABLE |

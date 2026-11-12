@@ -34,7 +34,9 @@ updated: 2026-10-24T16:17:50Z
 ## Text
 
 ```text
-No full source-backed transcription extracted. Later articles (1976, Kritzas 2005) debate genuineness.
+ΕΠΙΘΙ (or ΕΠΙ ΘΙ) | ΖΗΘΑΝΘΗ | ΕΝΕΤΗ ΠΑΡΣΙΦΑΙ
+then three Linear A signs: AB 28, a sign read ne or zo, AB 37 (i-ne-ti, Davis 1967; *i-zo-si or *si-zo-i, Duhoux 1982, 110)
+Text as printed by Finkelberg 2002, 95–96, before Kritzas 2005 showed the stone a forgery.
 ```
 
 Gordon's transliteration:
@@ -66,5 +68,6 @@ EPIΘI Z HΘANΘH ... with old-syllabary i-pi-ti repetition
 - Gordon 1966 §§45-49, §124
 - Kritzas 2005 (genuineness dispute)
 - 1976 Psychro article (unresolved)
+- Finkelberg 2002 pp. 95–96 (transcription)
 
 <!-- END kaphtor:record -->

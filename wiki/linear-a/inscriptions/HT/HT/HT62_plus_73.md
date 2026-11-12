@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "none"
-words: ["KA-KU", "TE"]
+words: ["KA-KU", "TE", "VIR+[?]"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -30,7 +30,7 @@ updated: 2026-10-24T16:17:50Z
 | Findspot | Villa Magazine |
 | Support | Tablet |
 | Period | LMIB |
-| Scribe |  |
+| Scribe | [[wiki/linear-a/by_scribe\|HT Scribe 23]] |
 | Edition | unattributed |
 | Series | HT |
 | SigLA | [HT 62+73](https://sigla.phis.me/document/HT%2062%2B73/) |
@@ -72,7 +72,7 @@ Unicode (Linear A block):
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/K/KA_KU|KA-KU]], [[wiki/linear-a/words/T/TE|TE]].
+[[wiki/linear-a/words/K/KA_KU|KA-KU]], [[wiki/linear-a/words/T/TE|TE]], [[wiki/linear-a/words/V/VIR_plus_q_broken_end|VIR+&#91;?&#93;]].
 
 ## Corpus note
 

@@ -60,7 +60,7 @@ di Mino; DULAT
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT7a\|HT7a]] | Haghia Triada | Tablet | incomplete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT13\|HT13]] | Haghia Triada | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/HT/HT/HT13\|HT13]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT85b\|HT85b]] | Haghia Triada | Tablet | complete; restored |
 
 ## In translations

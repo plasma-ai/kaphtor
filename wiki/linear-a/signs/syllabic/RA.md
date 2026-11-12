@@ -53,7 +53,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/star/star301_U_RA\|\*301-U-RA]] | naura | CANDIDATE |
 | [[wiki/linear-a/words/star/star324_DI_RA\|\*324-DI-RA]] | ṯadira | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_DA_RA\|A-DA-RA]] | ʾadra | SPECULATIVE |
-| [[wiki/linear-a/words/A/A_PA_RA_NE\|A-PA-RA-NE]] | ʿabrāne | CANDIDATE |
+| [[wiki/linear-a/words/A/A_PA_RA_NE\|A-PA-RA-NE]] | ʿAbrān | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RA_JU\|A-RA-JU]] | ʾArāyu | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RA_NA_RE\|A-RA-NA-RE]] | Aranare | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RA_TU\|A-RA-TU]] | ʾarṣ̂atu | CANDIDATE |
@@ -87,7 +87,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/M/MI_DA_RU_RA\|MI-DA-RU-RA]] | midrara | CANDIDATE |
 | [[wiki/linear-a/words/M/MI_RU_TA_RA_RE\|MI-RU-TA-RA-RE]] | Mīru-darār | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_RA\|PA-RA]] | parr(u) | SPECULATIVE |
-| [[wiki/linear-a/words/P/PA_RA_NE\|PA-RA-NE]] | barāne | CANDIDATE |
+| [[wiki/linear-a/words/P/PA_RA_NE\|PA-RA-NE]] | Barān | CANDIDATE |
 | [[wiki/linear-a/words/P/PA3_KA_RA_TI\|PA₃-KA-RA-TI]] | baqarāti | CANDIDATE |
 | [[wiki/linear-a/words/P/PI_TA_RA\|PI-TA-RA]] | bidāla | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_star118_RA_RE\|QA-\*118-RA-RE]] | qaṭara(re) | PROBABLE |

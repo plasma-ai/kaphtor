@@ -68,7 +68,7 @@ di Mino; HALOT; Schoep 2002
 | [[wiki/linear-a/inscriptions/HT/HT/HT116a\|HT116a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT116b\|HT116b]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT125b\|HT125b]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT127a\|HT127a]] | Haghia Triada | Tablet | complete; form not in transliteration |
+| [[wiki/linear-a/inscriptions/HT/HT/HT127a\|HT127a]] | Haghia Triada | Tablet | incomplete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HT/HT129\|HT129]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT131a\|HT131a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT18\|HT18]] | Haghia Triada | Tablet | complete |
@@ -76,11 +76,11 @@ di Mino; HALOT; Schoep 2002
 | [[wiki/linear-a/inscriptions/HT/HT/HT28a\|HT28a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT33\|HT33]] | Haghia Triada | Tablet | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HT/HT41a\|HT41a]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1020\|HTWa1020]] | Haghia Triada | Nodule | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1020\|HTWa1020]] | Haghia Triada | Nodule | complete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1021bis\|HTWa1021bis]] | Haghia Triada | Nodule | none; form not in transliteration |
-| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3016\|HTWc3016]] | Haghia Triada | Roundel | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3016\|HTWc3016]] | Haghia Triada | Roundel | complete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3017\|HTWc3017]] | Haghia Triada | Roundel | complete; form not in transliteration |
-| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3020\|HTWc3020]] | Haghia Triada | Roundel | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3020\|HTWc3020]] | Haghia Triada | Roundel | complete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/KH/KH/KH7b\|KH7b]] | Khania | Tablet | incomplete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/KH/KH/KH8\|KH8]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH9\|KH9]] | Khania | Tablet | none; form not in transliteration |

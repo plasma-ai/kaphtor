@@ -9,7 +9,7 @@ site: "Knossos"
 support: "Inked inscription"
 period: ""
 translation: "incomplete"
-words: ["A-DI", "DA-KI-TI", "PA-KU / PU-KO", "QI-TI-RI"]
+words: ["A-DI", "DA-KI-TI", "PA-KU", "QI-TI-RI"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -68,7 +68,7 @@ Unicode (Linear A block):
 
 ### Notes
 
-Ink-written clay cup (HM 2630), pair of KN Zc 7, from an upper MM III floor above the Basement of the Monolithic Pillars, Knossos, the crypt of a sanctuary (Evans, PoM I 587–588, 613–616). Three circular registers read as a spiral from the bottom. Register .1 QI-TI-RI heads the text, register .2 gives the incense as ground fine (A-DI DA-KI-TI, Hebrew qəṭōret … daqqâ, Lev 16:12) and the flask (PA-KU). NI-JA-NU is unread. Register .3, one group with a sign lost, is unread. Word division follows Evans (PoM I 615 n. 1), who reports dividing marks before A, DA and NI; GORILA IV 121 prints only the last. Younger reads A-DI-DA-KI-TI-PA-KU as a muddled A-DI-KI-TE.
+Ink-written clay cup (HM 2630), pair of KN Zc 7, from an upper MM III floor above the Basement of the Monolithic Pillars, Knossos, the crypt of a sanctuary (Evans, PoM I 587–588, 613–616). Three circular registers read as a spiral from the bottom. Register .1 QI-TI-RI heads the text, register .2 gives the incense as ground fine (A-DI DA-KI-TI, Hebrew qəṭōret … daqqâ, Lev 16:12) and the flask (PA-KU). NI-JA-NU is unread. Register .3, one group with a sign lost, is unread. Word division follows Evans (PoM I 615 n. 1), who reports dividing marks before A, DA and NI; GORILA IV 121 prints only the last. Younger reads A-DI-DA-KI-TI-PA-KU as a muddled A-DI-KI-TE. Marinatos set the two cups beside the inverted bowls of Nippur, inked with Aramaic incantations against evil spirits (Marinatos 1951, 41); Franceschetti adds the spiral script those bowls share and the Keftiu spells of the London Medical Papyrus (Franceschetti 1990, 40–41).
 
 ### Source
 
@@ -77,7 +77,7 @@ Ink-written clay cup (HM 2630), pair of KN Zc 7, from an upper MM III floor abov
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/A/A_DI|A-DI]], [[wiki/linear-a/words/D/DA_KI_TI|DA-KI-TI]], [[wiki/linear-a/words/P/PA_KU_PU_KO|PA-KU / PU-KO]], [[wiki/linear-a/words/Q/QI_TI_RI|QI-TI-RI]].
+[[wiki/linear-a/words/A/A_DI|A-DI]], [[wiki/linear-a/words/D/DA_KI_TI|DA-KI-TI]], [[wiki/linear-a/words/P/PA_KU|PA-KU]], [[wiki/linear-a/words/Q/QI_TI_RI|QI-TI-RI]].
 
 ## Edition differences
 

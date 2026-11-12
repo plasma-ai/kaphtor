@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/inscriptions/PH/PHWa/PHWa32
 title: "PHWa32"
-desc: "Nodule, Phaistos, MMIII. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "nodule"]
+desc: "Nodule, Phaistos, MMIII. Translation: complete (CANDIDATE)."
+tags: ["linear-a", "inscription", "translation-complete", "nodule"]
 kind: "inscription"
 id: "PHWa32"
 site: "Phaistos"
 support: "Nodule"
 period: "MMIII"
-translation: "none"
+translation: "complete"
 words: ["SU-KI-RI-TA"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -47,6 +47,21 @@ Unicode (Linear A block):
 ```text
 𐘲𐘸𐘭𐘳
 ```
+
+## Translation
+
+**CANDIDATE**, complete.
+
+> Sukrita.
+
+| Word | Reading | Gloss | Confidence | Lexicon |
+|---|---|---|---|---|
+| [[wiki/linear-a/words/S/SU_KI_RI_TA\|SU-KI-RI-TA]] | Sukrita | Sukrita (place name) | CANDIDATE | CANDIDATE (lexicon) |
+
+### Source
+
+- di Mino: SU-KI-RI-TA
+- GORILA: PHWa32
 
 ## Lexicon words citing this document
 

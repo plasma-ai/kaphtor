@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/inscriptions/MA/MAZe/MAZe11
 title: "MAZe11"
-desc: "Architecture, Malia. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "architecture"]
+desc: "Architecture, Malia. Translation: complete (SPECULATIVE)."
+tags: ["linear-a", "inscription", "translation-complete", "architecture"]
 kind: "inscription"
 id: "MAZe11"
 site: "Malia"
 support: "Architecture"
 period: ""
-translation: "none"
+translation: "complete"
 words: ["QE-SI-TE"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -46,6 +46,21 @@ Unicode (Linear A block):
 ```text
 𐘿𐘤𐘃
 ```
+
+## Translation
+
+**SPECULATIVE**, complete.
+
+> Bow.
+
+| Word | Reading | Gloss | Confidence | Lexicon |
+|---|---|---|---|---|
+| [[wiki/linear-a/words/Q/QE_SI_TE\|QE-SI-TE]] | qešet | bow, incised on the Malia palace wall | SPECULATIVE | SPECULATIVE (lexicon) |
+
+### Source
+
+- di Mino: QE-SI-TE
+- GORILA: MAZe11
 
 ## Lexicon words citing this document
 

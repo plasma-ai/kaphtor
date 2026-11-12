@@ -57,7 +57,7 @@ di Mino; Gordon 1966a; Ilin-Tomich 2025; DMic II; Davis 2026; Hess 1993
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT8b\|HT8b]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT29\|HT29]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT29\|HT29]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT88\|HT88]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA10b\|ZA10b]] | Zakros | Tablet | incomplete |
 
@@ -66,6 +66,7 @@ di Mino; Gordon 1966a; Ilin-Tomich 2025; DMic II; Davis 2026; Hess 1993
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT8b\|HT8b]] | Payare | He (of) Re: Egyptian personal name Pꜣ-Rꜥ (PNM v6) | PROBABLE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT29\|HT29]] | Payare | Egyptian personal name Pꜣ-Rꜥ, 1\[ | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT88\|HT88]] | Payare | He (of) Re: Egyptian personal name Pꜣ-Rꜥ (PNM v6); compare Linear B pa-ja-ro | PROBABLE |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA10b\|ZA10b]] | Payare | He (of) Re: Egyptian personal name Pꜣ-Rꜥ (PNM v6) | PROBABLE |
 

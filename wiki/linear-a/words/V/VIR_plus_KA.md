@@ -60,7 +60,7 @@ di Mino; CAD K
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT28a\|HT28a]] | Haghia Triada | Tablet | complete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HT/HT88\|HT88]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT97a\|HT97a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT97a\|HT97a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT100\|HT100]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2029\|KHWc2029]] | Khania | Roundel | complete |
 | [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2030\|KHWc2030]] | Khania | Roundel | complete |
@@ -73,6 +73,7 @@ di Mino; CAD K
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT88\|HT88]] | VIR+KA | men (VIR+KA) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT97a\|HT97a]] | VIR+KA | kāribū, intercessory priests, 82 | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT100\|HT100]] | \[ideogram\] | personnel category KA (male workers) |  |
 | [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2029\|KHWc2029]] | (logogram) | temple/sanctuary personnel class | CANDIDATE |
 | [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2030\|KHWc2030]] | (logogram) | temple/sanctuary personnel class | CANDIDATE |

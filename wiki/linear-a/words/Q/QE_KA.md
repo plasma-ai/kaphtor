@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/Q/QE_KA
 title: "QE-KA"
-desc: "Unread (role only): administrative roster label; 2 occurrence(s)."
+desc: "Unread (role only): personal name; 2 occurrence(s)."
 tags: ["linear-a", "word", "unread"]
 kind: "word"
 form: "QE-KA"
@@ -56,7 +56,7 @@ Readings from the lexicon as it stands: [[wiki/linear-a/words/Q/QA_star310_I|QA-
 
 ## Unread
 
-Status **role only** (classed by role only (onomasticon type or translation label), no reading); role administrative roster label.
+Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
 
 HT 85b .2 QE-KA 1, whole, among the one-man entries under KI-KI-RA-JA, after KI-RE-TA₂ 1 (GORILA I 133). HT 111a .2 \]QE-KA 8, broken before, followed on the line by QA-SA-\[ (QA-RE-\[ equally possible), with \]QA-QA-RU 8 and DI 14\[ on .3 (GORILA I 181). Both lists hold DI. No reading.
 

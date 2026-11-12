@@ -56,7 +56,13 @@ di Mino; EbDA; Younger
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT97a\|HT97a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT97a\|HT97a]] | Haghia Triada | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT97a\|HT97a]] | Ganuti | place name, 25 | SPECULATIVE |
 
 ## Onomasticon
 

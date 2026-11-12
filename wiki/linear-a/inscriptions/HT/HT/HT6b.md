@@ -30,7 +30,8 @@ updated: 2026-10-24T16:17:50Z
 | Findspot | Villa Magazine |
 | Support | Tablet |
 | Period | LMIB |
-| Scribe |  |
+| Scribe | [[wiki/linear-a/by_scribe\|HT Scribe 17]] (lines 1–3); [[wiki/linear-a/by_scribe\|HT Scribe 18]] (lines 4–6) |
+| Scribe in GORILA V | 17 HT (a, b.1-3) ; 18 HT (b. 4-6) |
 | Edition | GORILA 1 |
 | Series | HT |
 | SigLA | [HT 6b](https://sigla.phis.me/document/HT%206b/) |

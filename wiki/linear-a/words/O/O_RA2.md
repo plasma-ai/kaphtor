@@ -41,7 +41,7 @@ updated: 2026-10-28T13:27:44Z
 
 ### Note
 
-Attested only within O-RA₂-DI-NE ʾŌl-dīn (HT 6a .4). ʾōl &lt; \*ʾawl, O writing ʾō &lt; \*ʾaw as in O-SU-QA-RE ʾō Sukar, RA₂ its primary value la. Dietrich and Loretz read ảwl in 1.12 II 56 as an address, 'oh Erster!' (DULAT 128). Rival: ʾil 'god', as in ỉldn (DULAT 52), O for ʾi. One witness.
+Attested only within O-RA₂-DI-NE ʾŌl-dīn (HT 6a .4). ʾōl &lt; \*ʾawl, O writing ʾō &lt; \*ʾaw as in O-SU-QA-RE ʾō Sōkar, RA₂ its primary value la. Dietrich and Loretz read ảwl in 1.12 II 56 as an address, 'oh Erster!' (DULAT 128). Rival: ʾil 'god', as in ỉldn (DULAT 52), O for ʾi. One witness.
 
 ### Cognates
 
@@ -59,6 +59,6 @@ di Mino; DULAT; Lane; Pagan 1998
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT6a\|HT6a]] | Haghia Triada | Tablet | incomplete; form not in transliteration |
+| [[wiki/linear-a/inscriptions/HT/HT/HT6a\|HT6a]] | Haghia Triada | Tablet | complete; form not in transliteration |
 
 <!-- END kaphtor:record -->

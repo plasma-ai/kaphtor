@@ -30,7 +30,8 @@ updated: 2026-10-24T16:17:50Z
 | Findspot | Casa Room 7 |
 | Support | Tablet |
 | Period | LMIB |
-| Scribe | HT Scribe 2 |
+| Scribe | [[wiki/linear-a/by_scribe\|HT Scribe 2]] |
+| Scribe in GORILA V | 2 HT |
 | Edition | GORILA 1 |
 | Series | HT |
 | SigLA | [HT 99b](https://sigla.phis.me/document/HT%2099b/) |

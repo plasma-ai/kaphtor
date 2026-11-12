@@ -8,7 +8,7 @@ form: "PA-TA-NE"
 datasets: ["lexicon", "onomasticon"]
 tier: 2
 confidence: "CANDIDATE"
-confidence_score: 0.4
+confidence_score: 0.5
 reading: "Patne"
 attestations: ["HT122a", "HT94b", "HTWa1019"]
 created: 2026-10-24T16:17:50Z
@@ -27,7 +27,7 @@ updated: 2026-10-24T16:17:50Z
 
 ## Lexicon
 
-**CANDIDATE**, tier 2 of 4, score 0.40
+**CANDIDATE**, tier 2 of 4, score 0.50
 
 | Field | Value |
 |---|---|
@@ -41,7 +41,13 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 94b (KI-RO · TU-MA 1, PA-TA-NE 1, DE-DI 1 …), HT 122a (PA-TA-NE 1 after KU-PA₃-NU 1, in a roster with JA-MI-DA-RE) and the nodule HT Wa 1019 (PA at the edge). On HT 122a SigLA labels the second sign ri, and its own tracing, GORILA's facsimile and the photo show TA. \*patn- 'viper' as a name: Heb. peten (HALOT 990), Ug. bṯn, Akk. bašmu. Rivals: Ptah with ḥ unwritten and -ānu, 'devotee of Ptah', and √p-t-ḥ 'open' with -ānu. Three attestations.
+HT 94b lists five people under KI-RO 'owed', each with 1: TU-MA, PA-TA-NE, DE-DI, KE-KI-RU and SA-RU, KU-RO 5. HT 122a writes PA-TA-NE 1 after KU-PA₃-NU 1 in a roster of men, and the tablet's two faces total PO-TO-KU-RO 97. The nodule HT Wa 1019 bears PA-TA-NE on face α, PA at the edge, and SI-TU on face γ. Both tablets count PA-TA-NE as one person, and both are by HT Scribe 9, so the two lists probably name the same man. On HT 122a SigLA labels the second sign ri, and its own tracing, GORILA's facsimile and the photo show TA.
+
+Patne 'Viper' matches Aramaic ptn and Hebrew peten 'horned viper' (HALOT 990), which SED II No. 63 sets beside Proto-Semitic \*baṯan- 'snake' as likely related forms with p for b. SED reconstructs \*baṯan- from Eblaite ba-ša-nu-um, Ugaritic bṯn and Arabic baṯan, and Akkadian bašmu (CAD B 141) has m for n. PA also writes ba, and the T-series writes ṯ: TI in TI-DA-TA ṯidṯīta 'sixth', TU in TU-PI-TA ṯūpiṭa 'judge' (di Mino, Ya Diktu 16–17 n. 27) and TA in TA-RA ṯa(ġ)ra 'gatekeepers', so the spelling fits \*baṯan- as well. ZU and \*324 write ṯ too.
+
+The snake names its bearers across the Semitic world: Ugaritic speaks of bn bṯn, 'the offspring of the snake' (KTU 1.100:74; DULAT 250), Hebrew calls men Naḥšôn, 'little snake' (Num 1:7; HALOT 691), Nāḥāš (HALOT 691) and Śārāp (1 Chr 4:22; HALOT 1361), and at Carthage a Punic man bears the name ṢPʿ (CIS I 788.3; Benz 1972, 178), which Harris sets beside Hebrew ṣepaʿ 'viper' (Benz 1972, 400; Minunno 2022, 154 n. 193). In Greek myth Kychreus of Salamis was surnamed Ophis, 'Serpent', and Echion, 'Viper.' The Tyrian Kadmos ultimately turned into a snake, having slain one in his youth (Harrison 1912, 287, 429, 434).
+
+Rival: Ptah with ḥ unwritten and -ānu, 'devotee of Ptah'. Three attestations.
 
 ### Cognates
 
@@ -50,12 +56,13 @@ HT 94b (KI-RO · TU-MA 1, PA-TA-NE 1, DE-DI 1 …), HT 122a (PA-TA-NE 1 after KU
 | Hebrew | peten (פֶּתֶן) 'horned viper' |
 | Syriac | patnā 'viper, asp' |
 | Ugaritic | bṯn 'serpent' (KTU 1.5 I 1–2) |
+| Arabic | baṯan 'snake, serpent' (SED II No. 63) |
 | Aramaic | ptn 'snake', source of Heb. peten (Rendsburg 2026, 207–208) |
 | Greek | Πύθων 'Python', from a Semitic form akin to Heb.-Aram. ptn (Rendsburg 2026, 208) |
 
 ### Source
 
-di Mino; Rendsburg 2026; HALOT
+di Mino; Rendsburg 2026; HALOT; SED II; CAD B; DULAT; Benz 1972; Minunno 2022; Harrison 1912
 
 ## Attestations
 

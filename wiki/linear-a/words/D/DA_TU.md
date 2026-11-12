@@ -59,7 +59,7 @@ di Mino; DULAT; Lane; Sabaweb; CAD D
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT123_plus_124a\|HT123+124a]] | Haghia Triada | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/HT/HT/HT123_plus_124a\|HT123+124a]] | Haghia Triada | Tablet | complete |
 
 ## In translations
 

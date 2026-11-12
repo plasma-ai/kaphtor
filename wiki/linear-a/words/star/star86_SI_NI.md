@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/star/star86_SI_NI
 title: "*86-SI-NI"
-desc: "Unread (role only): personal name; 1 occurrence(s)."
+desc: "Unread (unread): no role; 1 occurrence(s)."
 tags: ["linear-a", "word", "unread"]
 kind: "word"
 form: "*86-SI-NI"
@@ -25,12 +25,12 @@ updated: 2026-10-24T16:17:50Z
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT140\|HT140]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT140\|HT140]] | Haghia Triada | Tablet | complete |
 
 ## Unread
 
-Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
+Status **unread** (nothing known).
 
-HT 140 .1 \*86-SỊ-NI · 1̣\[ \], SI dotted, the numeral dotted and broken after it, after U-\*34-SI : (GORILA I 237). The apparatus allows NI to be the logogram. Sole attestation. Not readable.
+HT 140 .1 \*86-SỊ-NI · 1̣\[ \], SI dotted, the numeral dotted and broken after it, after U-\*34-SI : (GORILA I 237). The apparatus allows NI to be the logogram, and Uchitel divides \*86 SI, the ship sign and SI, from NI 'figs' 1\[ (2016b, 12–13). Sole attestation. Not readable.
 
 <!-- END kaphtor:record -->

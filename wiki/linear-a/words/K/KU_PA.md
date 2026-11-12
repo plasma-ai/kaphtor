@@ -10,7 +10,7 @@ tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.5
 reading: "quppa"
-attestations: ["HT110a", "KH29", "ZA11a", "ZA11b"]
+attestations: ["HT110a", "KH29", "ZA11a", "ZA11b", "HTWa1020"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -62,9 +62,17 @@ di Mino; CAD Q
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT110a\|HT110a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT110a\|HT110a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/KH/KH/KH29\|KH29]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA11a\|ZA11a]] | Zakros | Tablet | none |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA11b\|ZA11b]] | Zakros | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1020\|HTWa1020]] | Haghia Triada | Nodule | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT110a\|HT110a]] | quppa | box, basket (standardized container for measured commodity allocations) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1020\|HTWa1020]] | quppa | box, basket (standardized container for measured commodity allocations) | CANDIDATE |
 
 <!-- END kaphtor:record -->

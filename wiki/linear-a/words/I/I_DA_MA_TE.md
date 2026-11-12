@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-AR Zf 1 and AR Zf 2, separate one-word inscriptions on votive double axes from Arkhalkhori, AR Zf 2 broken after TE (I-DA-MA-TE\[). I-DA-MA-TE alternates with DA-MA-TE on KY Za 2, prothetic I- before the same base, Ug. dmt 'tower' (DULAT 272), as Heb. ʾezrōaʿ (Jer 32:21, Job 31:22) beside zərōaʿ 'arm' and BArm. ʾedrāʿ beside dərāʿ (HALOT 28), Ug. udmʿt beside dmʿt 'tears' (Tropper 2000, §33.423a), and Ebla iš-ba-um /ʾiṣbaʿum/ 'finger' (Lipiński 1997, §27.17). A sacred title: Ug. dmt stands in 'the tower of the mother of(?) the god\[s(?)' (KTU 2.31:46). Cf. Magdalene, read as the epithet 'the Tower' since Jerome, Ep. 127 (turritae) (Taylor 2014; Schrader and Taylor 2021). Rival: a personal name, as for DA-MA-TE. Weak point: single words, with no sentence around them. Two attestations. See DA-MA-TE.
+AR Zf 1 and AR Zf 2, separate one-word inscriptions on votive double axes from Arkhalkhori, AR Zf 2 broken after TE (I-DA-MA-TE\[). I-DA-MA-TE alternates with DA-MA-TE on KY Za 2, prothetic I- before the same base, Ug. dmt 'tower' (DULAT 272), as Heb. ʾezrōaʿ (Jer 32:21, Job 31:22) beside zərōaʿ 'arm' and BArm. ʾedrāʿ beside dərāʿ (HALOT 28), Ug. udmʿt beside dmʿt 'tears' (Tropper 2000, §33.423a), and Ebla iš-ba-um /ʾiṣbaʿum/ 'finger' (Lipiński 1997, §27.17). A sacred title: Ug. dmt stands in 'the tower of the mother of(?) the god\[s(?)' (KTU 2.31:46). Cf. Magdalene, read as the epithet 'the Tower' since Jerome, Ep. 127 (turritae) (Taylor 2014; Schrader and Taylor 2021). Rivals: a personal name, as for DA-MA-TE; 'Mother Ida' (Buphidis) or Demeter (Georgiev), both apud Pugliese Carratelli 1957, 171. Weak point: single words, with no sentence around them. Two attestations. See DA-MA-TE.
 
 ### Cognates
 
@@ -55,7 +55,7 @@ AR Zf 1 and AR Zf 2, separate one-word inscriptions on votive double axes from A
 
 ### Source
 
-di Mino; DULAT; HALOT; Tropper 2000; Lipiński 1997
+di Mino; DULAT; HALOT; Tropper 2000; Lipiński 1997; Pugliese Carratelli 1957
 
 ## Attestations
 

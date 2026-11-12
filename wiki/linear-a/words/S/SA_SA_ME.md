@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 23a, a ledger of cyperus, oils and wine: SA-SA-ME ¹⁄₁₆, after \*21F-RI-TU-QA ¹⁄₁₆. The second SA is dotted, and GORILA I 41 records SA \[units\] ME as a less satisfactory reading. šašam- 'sesame', the reduplicated š-š-m: Akk. šamaššammū (CAD Š/1 301), Ug. ššmn 'sesame' with the afformative -n (DULAT 834), Linear B sa-sa-ma σάσαμα on the Mycenae Ge tablets of aromatic plants, beside ku-mi-no 'cumin' (DMic II 284), as KU-MI-NA stands in Linear A. Rival: flax and its seed, CAD's sense of šamaššammū, 'the principal oleiferous plant, probably flax' (CAD Š/1 301). One attestation.
+HT 23a, a ledger of cyperus, oils and wine: SA-SA-ME ¹⁄₁₆, after \*21F-RI-TU-QA ¹⁄₁₆. The second SA is dotted, and GORILA I 41 records SA \[units\] ME as a less satisfactory reading. šašam- 'sesame', the reduplicated š-š-m: Akk. šamaššammū (CAD Š/1 301), Ug. ššmn 'sesame' with the afformative -n (DULAT 834), Linear B sa-sa-ma σάσαμα on the Mycenae Ge tablets of aromatic plants, beside ku-mi-no 'cumin' (DMic II 284), as KU-MI-NA stands in Linear A. SA-SA-ME stands two centuries before the Mycenaean form, and Peruzzi concludes that Mycenaean spice names came from the Semitic world through Minoan (Peruzzi 1958, 12). Rival: flax and its seed, CAD's sense of šamaššammū, 'the principal oleiferous plant, probably flax' (CAD Š/1 301). One attestation.
 
 ### Cognates
 
@@ -54,7 +54,7 @@ HT 23a, a ledger of cyperus, oils and wine: SA-SA-ME ¹⁄₁₆, after \*21F-RI
 
 ### Source
 
-di Mino; GORILA I; CAD Š/1; DULAT; DMic II
+di Mino; GORILA I; Peruzzi 1958; CAD Š/1; DULAT; DMic II
 
 ## Attestations
 

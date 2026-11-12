@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 8b, Villa Magazine: PA₃-\*188 2, PA₃ ba as a phonetic complement giving the b of buṭnu 'terebinth' (see \*188). Rival: HT 8b .3 5 · PA₃ · \*188 2, PA₃ a transaction sign opening the second section and \*188 the item, as su-pu₂ \*188 1 on b.1 (Schrijver 2014, 7). See \*188 and PA₃-KA-RA-TI.
+HT 8b, Villa Magazine: PA₃-\*188 2, PA₃ ba as a phonetic complement giving the b of buṭnu 'terebinth' (see \*188). Rival: HT 8b .3 5 · PA₃ · \*188 2, PA₃ a transaction sign opening the second section and \*188 the item, as su-pu₂ \*188 1 on b.1 (Schrijver 2014, 7); PA₃ 70 stands alone opposite KI-RO 30 on HT 34. The dental of the word is written apart, in \*188-DU. See \*188 and PA₃-KA-RA-TI.
 
 ### Cognates
 

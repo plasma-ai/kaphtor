@@ -55,7 +55,13 @@ di Mino; Gelb, Purves, and MacRae 1943
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT29\|HT29]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT29\|HT29]] | Haghia Triada | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT29\|HT29]] | Ar-tae | Hurrian personal name, 2 | SPECULATIVE |
 
 ## Onomasticon
 

@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 91 opens with I-KA over grain and small rations of oil, olives, figs and wine; HT 102 I-KA 5 (KA dotted) in a grain ledger, KU-RO 1060 after SA-RA₂ GRA 976. ʾikkār 'farmer': Akk. ikkaru 'plowman, farmer' (CAD I/J 49), Heb. ʾikkār, a loan from it (HALOT 47), Syr. ʾakkārā; the geminate and final r unwritten. Rival: the personal name Ikkaru (ORACC QPN). Two attestations. See I-KI-RA and A-KI-RO.
+HT 91 opens with I-KA over grain and small rations of oil, olives, figs and wine; HT 102 I-KA 5 (KA dotted) in a grain ledger, KU-RO 1060 after SA-RA₂ GRA 976. ʾikkār 'farmer': Akk. ikkaru 'plowman, farmer' (CAD I/J 49), Heb. ʾikkār, a loan from it (HALOT 47), Syr. ʾakkārā; the geminate and final r unwritten. Uchitel reads I-KA on HT 26b .4 too, before \*188-\*86 7, where GORILA has I-\*308 (2016b, 16 n. 15). Rival: the personal name Ikkaru (ORACC QPN). Two attestations. See I-KI-RA and A-KI-RO.
 
 ### Cognates
 
@@ -53,7 +53,7 @@ HT 91 opens with I-KA over grain and small rations of oil, olives, figs and wine
 
 ### Source
 
-di Mino; CAD I/J; HALOT
+di Mino; CAD I/J; HALOT; Uchitel 2016b
 
 ## Attestations
 

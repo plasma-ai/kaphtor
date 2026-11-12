@@ -73,9 +73,9 @@ di Mino; CAD K; HALOT
 | [[wiki/linear-a/inscriptions/HT/HT/HT116a\|HT116a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT125a\|HT125a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT129\|HT129]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT140\|HT140]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT140\|HT140]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/TY/TY/TY3a\|TY3a]] | Tylissos | Tablet | none |
-| [[wiki/linear-a/inscriptions/TY/TY/TY3b\|TY3b]] | Tylissos | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/TY/TY/TY3b\|TY3b]] | Tylissos | Tablet | complete |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA18a\|ZA18a]] | Zakros | Tablet | none |
 
 ## In translations
@@ -87,5 +87,6 @@ di Mino; CAD K; HALOT
 | [[wiki/linear-a/inscriptions/HT/HT/HT44a\|HT44a]] | \[ideogram\] | olive oil subtype KI |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT91\|HT91]] | kīnu | oil subtype; perhaps standard or genuine-grade oil |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT129\|HT129]] | — | standard oil (compound logogram) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT140\|HT140]] | kīnu | standard-grade oil: 1½ | CANDIDATE |
 
 <!-- END kaphtor:record -->

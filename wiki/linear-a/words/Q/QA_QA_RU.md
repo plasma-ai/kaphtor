@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-A recipient or listed person at all three intact witnesses: HT 93a QA-QA-RU · I GRA+PA 5; HT 118, 6 pigs with KI 4; HT 122b, 2 in a personnel list totalled KU-RO 65. HT 111a \]QA-QA-RU 8 is broken before, so the word there can be longer; it stays out of the count. Akk. qaqqaru 'ground': Ebla has the noun as a personal name, ga-ga-lum = qaqqarum 'ground' (ARET 8 539 v. 9, 13′; Pagan 1998, row 1936), and gar₃-ga-ri₂ = qarqari (Pagan 1998, row 1988), both on the base qarqar-.
+A recipient or listed person at all three intact witnesses: HT 93a QA-QA-RU · I GRA+PA 5; HT 118, 6 pigs with KI 4; HT 122b, 2 in a personnel list totalled KU-RO 65. HT 111a \]QA-QA-RU 8 is broken before, so the word there can be longer; it stays out of the count. Akk. qaqqaru 'ground': Ebla has the noun as a personal name, ga-ga-lum = qaqqarum 'ground' (ARET 8 539 v. 9, 13′; Pagan 1998, row 1936), and gar₃-ga-ri₂ = qarqari (Pagan 1998, row 1988), both on the base qarqar-. Knossos keeps the name in Linear B, qa-qa-ro (KN As 604.3), and Peruzzi takes the four parties of HT 118 for persons on its account (Peruzzi 1958, 10).
 
 ### Cognates
 
@@ -53,7 +53,7 @@ A recipient or listed person at all three intact witnesses: HT 93a QA-QA-RU · I
 
 ### Source
 
-di Mino
+di Mino; Pagan 1998; Peruzzi 1958
 
 ## Attestations
 

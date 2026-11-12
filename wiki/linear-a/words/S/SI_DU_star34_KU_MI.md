@@ -26,7 +26,13 @@ updated: 2026-10-24T16:17:50Z
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT110a\|HT110a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT110a\|HT110a]] | Haghia Triada | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT110a\|HT110a]] | Ṣiduqi-kummi | the cella of Ṣiduq, the Just One (SI-DU-\*34 + KU-MI) | SPECULATIVE |
 
 ## Onomasticon
 

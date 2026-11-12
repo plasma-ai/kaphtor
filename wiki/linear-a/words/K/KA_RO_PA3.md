@@ -41,7 +41,11 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 31: after the vessel ideogram \*416-VS (quantity 10), one of Gordon's HT 31 vessel quartet (Gordon 1966, §115). Gordon read ka-ro-pa as karpu, Akk. karpatu 'earthen container, pot' (CAD K 219), one of the commonest vessel words in cuneiform. PA₃ = ba writes k-r-b, but the root is √k-r-p: a single p is voiced between vowels, here between o and a. Stieglitz took up the identification with the Akkadian and Ugaritic cognates (Stieglitz 1971, 110). Rendsburg cites 'Min. ka-ro-pà (HT 31.3) (Gordon, EML, 26, 30, 39; Stieglitz 1971)' as cognate with Ugaritic krpn 'carafe, goblet, flagon' (Ugaritic Dictionary, forthcoming). Its six Ugaritic passages (El blessing Kirta, ʿAnat drinking wine, Baʿal's feast) make it a drinking vessel. Ugaritic krpn 'cup, goblet' (DULAT 452) carries the afformative -n (Dahood 1965, 161, apud Stieglitz 1971, 110 n. 2) that Minoan karp- lacks. Weak point: PA₃ = ba is a proposed value; Gordon's p (PA₃ as PA) gives √k-r-p without the voicing. One attestation.
+HT 31: after the vessel ideogram \*416-VS (quantity 10), one of Gordon's HT 31 vessel quartet (Gordon 1966, §115). Gordon read ka-ro-pa as karpu, Akk. karpatu 'earthen container, pot' (CAD K 219), one of the commonest vessel words in cuneiform. PA₃ = ba writes k-r-b, but the root is √k-r-p: a single p is voiced between vowels, here between o and a.
+
+Stieglitz took up the identification with the Akkadian and Ugaritic cognates (Stieglitz 1971, 110). Rendsburg cites 'Min. ka-ro-pà (HT 31.3) (Gordon, EML, 26, 30, 39; Stieglitz 1971)' as cognate with Ugaritic krpn 'carafe, goblet, flagon' (Ugaritic Dictionary, forthcoming). Its six Ugaritic passages (El blessing Kirta, ʿAnat drinking wine, Baʿal's feast) make it a drinking vessel. Ugaritic krpn 'cup, goblet' (DULAT 452) carries the afformative -n (Dahood 1965, 161, apud Stieglitz 1971, 110 n. 2) that Minoan karp- lacks.
+
+Weak point: PA₃ = ba is a proposed value; Gordon's p (PA₃ as PA) gives √k-r-p without the voicing. The sign is a pear-shaped vase on a stemmed foot, with a wide neck and a horizontal handle, which Vandenabeele compares with pithoid amphorae (Vandenabeele 1974, apud Duhoux 2002, 39). One attestation.
 
 ### Cognates
 
@@ -52,7 +56,7 @@ HT 31: after the vessel ideogram \*416-VS (quantity 10), one of Gordon's HT 31 v
 
 ### Source
 
-Gordon 1966; Stieglitz 1971; Rendsburg, Ugaritic Dictionary; DULAT; CAD K; di Mino
+Gordon 1966; Stieglitz 1971; Rendsburg, Ugaritic Dictionary; Duhoux 2002; DULAT; CAD K; di Mino
 
 ## Attestations
 

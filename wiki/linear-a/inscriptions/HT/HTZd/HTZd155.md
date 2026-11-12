@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/inscriptions/HT/HTZd/HTZd155
 title: "HTZd155"
-desc: "Graffito, Haghia Triada, LMIB. Translation: incomplete (CANDIDATE)."
-tags: ["linear-a", "inscription", "translation-incomplete", "graffito"]
+desc: "Graffito, Haghia Triada, LMIB. Translation: complete (CANDIDATE)."
+tags: ["linear-a", "inscription", "translation-complete", "graffito"]
 kind: "inscription"
 id: "HTZd155"
 site: "Haghia Triada"
 support: "Graffito"
 period: "LMIB"
-translation: "incomplete"
+translation: "complete"
 words: ["A-JU", "MA-TI-TI", "NA-MA"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -30,7 +30,7 @@ updated: 2026-10-24T16:17:50Z
 | Findspot |  |
 | Support | Graffito |
 | Period | LMIB |
-| Scribe |  |
+| Scribe | [[wiki/linear-a/by_scribe\|HT Zd Scribe 112]] |
 | Edition | GORILA 4 |
 | Series | HTZd |
 | SigLA | [HT Zd 155](https://sigla.phis.me/document/HT%20Zd%20155/) |
@@ -50,7 +50,7 @@ Unicode (Linear A block):
 
 ## Translation
 
-**CANDIDATE**, incomplete (status: incomplete).
+**CANDIDATE**, complete.
 
 > Ḥayyu · Naʿma: gift · A319 \[unidentified commodity\]
 
@@ -62,6 +62,10 @@ Unicode (Linear A block):
 ### Notes
 
 HT Zd 155 and 157 both end in MA-TI-TI-A319, which fixes the cut although no divider is written. The second MA is worn (GORILA IV 131). A319 takes numerals on HT 132 and HT Zd 156 and follows MA-TI-TI here and on HT Zd 157.
+
+### Source
+
+GORILA
 
 ## Lexicon words citing this document
 

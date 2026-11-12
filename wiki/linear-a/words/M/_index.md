@@ -2,12 +2,14 @@
 name: wiki/linear-a/words/M
 desc: "Words whose first sign begins with M."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-03T03:29:48Z
+updated: 2026-11-12T00:26:03Z
 ---
 
 # wiki/linear-a/words/M
 
 [[wiki/linear-a/words/_index|..]]
+
+[[wiki/linear-a/words/M/MA|MA]]: Unread sign (syllabogram, unread); 8 occurrence(s).
 
 [[wiki/linear-a/words/M/MA_DI|MA_DI]]: Maʾdi: place name: a unit of men and livestock in the HT rosters; rival the Hurrian personal name Madi 'wisdom'. Lexicon, SPECULATIVE (tier 1).
 
@@ -61,9 +63,15 @@ updated: 2026-11-03T03:29:48Z
 
 [[wiki/linear-a/words/M/MA_ZU|MA_ZU]]: maṯu: infants or young dependents (personnel category). Lexicon, SPECULATIVE (tier 1).
 
+[[wiki/linear-a/words/M/MA_plus_RU|MA_plus_RU]]: Unread sign (ligature, value on file); 1 occurrence(s).
+
+[[wiki/linear-a/words/M/MA_plus_RU_ME|MA_plus_RU_ME]]: Unread sign (compound, value on file); 2 occurrence(s).
+
 [[wiki/linear-a/words/M/MA_plus_RU_RE_broken_start|MA_plus_RU_RE_broken_start]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/M/MA_star321|MA_star321]]: maṯu: infants or young dependents (personnel category). Onomasticon personal name; lexicon entry MA-ZU.
+
+[[wiki/linear-a/words/M/ME|ME]]: Unread sign (syllabogram, unread); 3 occurrence(s).
 
 [[wiki/linear-a/words/M/ME_KI_DI|ME_KI_DI]]: Majd: personal name, 'glory' (masculine). Lexicon, SPECULATIVE (tier 1).
 
@@ -71,9 +79,11 @@ updated: 2026-11-03T03:29:48Z
 
 [[wiki/linear-a/words/M/ME_ZA|ME_ZA]]: massu: corvée gang, labour gang (personnel term); the word of MA-ZA. Lexicon, CANDIDATE (tier 2).
 
+[[wiki/linear-a/words/M/MI|MI]]: Unread sign (syllabogram, unread); 4 occurrence(s).
+
 [[wiki/linear-a/words/M/MI_DA_NI|MI_DA_NI]]: mitāni: loins, hip meat—choice cut on sacrificial fat allocation tablet. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/M/MI_DA_RA|MI_DA_RA]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/M/MI_DA_RA|MI_DA_RA]]: Unread (role only): personal or place name; 1 occurrence(s).
 
 [[wiki/linear-a/words/M/MI_DA_RU_RA|MI_DA_RU_RA]]: midrara: dust, ashes, dry earth (second accusative after √k-s-y 'cover'). Lexicon, CANDIDATE (tier 2).
 
@@ -107,9 +117,15 @@ updated: 2026-11-03T03:29:48Z
 
 [[wiki/linear-a/words/M/MI_ZA_SE|MI_ZA_SE]]: mizza-se: for the corvée gang (terminative -SE); the corvée word of MA-ZA / ME-ZA. Lexicon, SPECULATIVE (tier 1).
 
+[[wiki/linear-a/words/M/MI_plus_JA_plus_I|MI_plus_JA_plus_I]]: Unread sign (ligature, unread); 3 occurrence(s).
+
+[[wiki/linear-a/words/M/MI_plus_JA_plus_KA|MI_plus_JA_plus_KA]]: Unread sign (ligature, component read); 2 occurrence(s).
+
 [[wiki/linear-a/words/M/MI_plus_JA_plus_RU|MI_plus_JA_plus_RU]]: murru: myrrh (murru), compound logogram. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/M/MI_plus_star301|MI_plus_star301]]: minā: mina, portion (weight/measure unit). Lexicon, PROBABLE (tier 3).
+
+[[wiki/linear-a/words/M/MU|MU]]: Unread sign (syllabogram, value on file); 3 occurrence(s).
 
 [[wiki/linear-a/words/M/MU_RU|MU_RU]]: mūru: young bull, young animal. Lexicon, CANDIDATE (tier 2).
 

@@ -7,30 +7,29 @@
     "edge_overlap": "a lexicon word sits at one edge; often a chance 2-sign overlap"
   },
   "stats": {
-    "corpus_words": 729,
-    "read": 553,
-    "unread_listed": 356,
+    "corpus_words": 724,
+    "read": 547,
+    "unread_listed": 373,
     "by_status": {
       "edge_overlap": 18,
-      "unread": 136,
-      "role_only": 202
+      "unread": 155,
+      "role_only": 200
     },
-    "hapax": 342,
+    "hapax": 359,
     "repeated": 14,
     "cross_site": 4,
-    "surface_damaged": 258,
+    "surface_damaged": 273,
     "excluded_tokens": {
       "single-sign": 1416,
-      "numeral/punct": 1553,
-      "logogram": 342,
-      "damaged": 1166,
-      "ligature/logogram": 357
+      "numeral/punct": 1554,
+      "logogram": 343,
+      "damaged": 1106,
+      "ligature/logogram": 420
     }
   },
   "excluded": {
     "NU-MA-RE": "corpus splits *28B-NU-MA-RE (ZA4a, ZA5b, ZA15a); the word is lexicon JI-NU-MA-RE",
     "JA-SA-SA-RA-MA": "corpus breaks the line after MA on KNZa10; the word is lexicon JA-SA-SA-RA-MA-NA",
-    "TE-TA-NA-MA-JE": "corpus runs TE-TA-NA-MA-JE as one word on PE6; translations read TE + TA-NA-MA-JE",
     "WA-DI-NI": "corpus runs WA-DI-NI as one word on HTWc3007, HTWc3008; GORILA prints WA · DI-NI on 3008a; the word is lexicon DI-NI",
     "A-NA-TI-*301-WA-JA": "broken at both ends on IOZa8; translations read ]A-NA-TI-*301-WA-JA[ as ʿAnatī nawaya",
     "SA-SA-RA-ME": "corpus splits · A, then SA-SA-RA-ME on the next line, on PKZa11; the word is lexicon A-SA-SA-RA-ME",
@@ -139,7 +138,7 @@
       "word": "QE-KA",
       "signs": 2,
       "status": "role_only",
-      "role": "administrative roster label",
+      "role": "personal_name",
       "translation_label": "roster label (unread)",
       "frequency": 2,
       "attestations": [
@@ -642,8 +641,7 @@
     {
       "word": "*86-SI-*118-KA",
       "signs": 4,
-      "status": "role_only",
-      "role": "personal_name",
+      "status": "unread",
       "frequency": 1,
       "attestations": [
         "HT140"
@@ -652,13 +650,12 @@
         "Haghia Triada"
       ],
       "cross_site": false,
-      "note": "HT 140 .2 *86̣-SỊ-*118-KA 3, *86 and SI dotted, after U-*34-SI (GORILA I 237). Sole attestation. Not readable."
+      "note": "HT 140 .2 *86̣-SỊ-*118-KA 3, *86 and SI dotted, after U-*34-SI (GORILA I 237). Uchitel divides *86 SI *118, the ship sign with its phonetic and pictorial complements, from KA 3, KA standing against an oil amount in each line below (2016b, 12–13); GORILA allows the KA of .4 to be a logogram. Sole attestation. Not readable."
     },
     {
       "word": "*86-SI-NI",
       "signs": 3,
-      "status": "role_only",
-      "role": "personal_name",
+      "status": "unread",
       "frequency": 1,
       "attestations": [
         "HT140"
@@ -667,7 +664,7 @@
         "Haghia Triada"
       ],
       "cross_site": false,
-      "note": "HT 140 .1 *86-SỊ-NI · 1̣[ ], SI dotted, the numeral dotted and broken after it, after U-*34-SI : (GORILA I 237). The apparatus allows NI to be the logogram. Sole attestation. Not readable."
+      "note": "HT 140 .1 *86-SỊ-NI · 1̣[ ], SI dotted, the numeral dotted and broken after it, after U-*34-SI : (GORILA I 237). The apparatus allows NI to be the logogram, and Uchitel divides *86 SI, the ship sign and SI, from NI 'figs' 1[ (2016b, 12–13). Sole attestation. Not readable."
     },
     {
       "word": "*903-I-DU-WI",
@@ -953,6 +950,7 @@
       "word": "A-PU₂-NA-DU",
       "signs": 4,
       "status": "role_only",
+      "role": "personal_name",
       "translation_label": "recipient heading (personal name)",
       "frequency": 1,
       "attestations": [
@@ -1215,7 +1213,8 @@
       ],
       "cross_site": false,
       "note": "SE Zf 1, a bronze double axe from Selakanos near Kato Symi (Ashmolean AE 85). Younger prints DA-KU with both signs marked doubtful (Younger, Linear A Texts). The piece, published by Raison and Pope (1994), lies outside both GORILA and RILA-S1. Not readable."
-    },    {
+    },
+    {
       "word": "DA-RA",
       "signs": 2,
       "status": "role_only",
@@ -1271,8 +1270,9 @@
         "Haghia Triada"
       ],
       "cross_site": false,
-      "note": "HT 38 .2 *403VAS with DA-RO-PA ligatured above it, 1, below the vestigia of .1 (GORILA I 73). The third sign has an oblique stroke, and the apparatus reads PA only if the stroke is accidental, and then dotted (DA-RO-PẠ). Sole attestation. Not readable."
-    },    {
+      "note": "HT 38 .2 *403VAS with DA-RO-PA ligatured above it, 1, below the vestigia of .1 (GORILA I 73). The third sign has an oblique stroke, and the apparatus reads PA only if the stroke is accidental, and then dotted (DA-RO-PẠ). Duhoux sets it with the HT 31 vessel names in -a, its function unknown (2002, 49). Sole attestation. Not readable."
+    },
+    {
       "word": "RA-[?]-DE-ME-TE",
       "signs": 5,
       "status": "unread",
@@ -1703,7 +1703,7 @@
         "Haghia Triada"
       ],
       "cross_site": false,
-      "note": "HT26b .4 Ị *3̣0̣8̣ 2̣, I and *308 both dotted and the numeral dotted, at the head of the last preserved line above inf. mut. GORILA's tabular copy sets I in the ideogram column and *308 in a column of its own (GORILA I 47). Sole attestation. Not readable."
+      "note": "HT26b .4 Ị *3̣0̣8̣ 2̣, I and *308 both dotted and the numeral dotted, at the head of the last preserved line above inf. mut. GORILA's tabular copy sets I in the ideogram column and *308 in a column of its own (GORILA I 47). Uchitel reads I-KA, the word of HT 91 and HT 102 (2016b, 16 n. 15; 2016a, 21, 24 n. 17). Sole attestation. Not readable."
     },
     {
       "word": "I-*331",
@@ -2423,7 +2423,7 @@
           "end"
         ]
       },
-      "note": "HT 31 .4–5 KI-DE-MA-*323-NA[ ]vest., before *402-VS 400: the word runs into vestiges at the start of .5 (GORILA I 59). Gordon read ki-de-ma-pi-na, taking *323 as PI. Not readable."
+      "note": "HT 31 .4–5 KI-DE-MA-*323-NA[ ]vest.: the word breaks after NA, and the vestiges at the start of .5 are what is left of its number, the lower left unit of an earlier group of 6, with two erased units after them (GORILA I 59); Raison and Pope read 4 or 5. *402-VS 400 is the next entry. Duhoux counts it a vessel name written without its sign, as SA-JA-MA (2002, 37, 42). Gordon read ki-de-ma-pi-na, taking *323 as PI, a masculine plural describing pots (EML §154), then ki-de-ma-wi-na 'gold', Hebrew ketem, a plural adjective paired with sa-ya-ma-n[a] 'silver' (Gordon 1975, n. 13; 1969, apud Duhoux 2002, 58). DE writes d where ketem has t, SA-JA-MA has no NA after it, and the word carries its own number. Not readable."
     },
     {
       "word": "KI-MI-RA₂",
@@ -2709,7 +2709,7 @@
           "start"
         ]
       },
-      "note": "TY Zg 1 ]MẠ-RỤ-A, broken before MA, MA and RU dotted (GORILA IV 170). Sole attestation. Not readable."
+      "note": "TY Zg 1 ]MẠ-RỤ-A, broken before MA, MA and RU dotted (GORILA IV 170): a terracotta statuette (HM 6585), three signs down its back, MA beside flaked surface and the restored leg. Olivier dots MA alone, very lightly, and does not think a flake was lost; nothing fixes the direction, and A-RU-MA is as conceivable (1981, 625–626). Sole attestation. Not readable."
     },
     {
       "word": "MA-SI",
@@ -2811,7 +2811,7 @@
       "word": "MI-DA-RA",
       "signs": 3,
       "status": "role_only",
-      "role": "personal_name",
+      "role": "personal or place name",
       "frequency": 1,
       "attestations": [
         "PKZb25"
@@ -2820,7 +2820,7 @@
         "Palaikastro"
       ],
       "cross_site": false,
-      "note": "PK Zb 25 MI-DA-RA, the only word on a jar handle, RA marked doubtful (Younger, Linear A Texts). Sole attestation. Not readable."
+      "note": "PK Zb 25 MI-DA-RA, the only word on a coarse red handle, probably of an amphora (l. 8.5 cm), a chance find of 2000 at the gate to the Roussolakkos excavations: the first Linear A inscription on a vessel handle. MI and DA are clear; the third sign is tentatively RA, lacking its lower bar and curved right side. The editors leave open whether it names a person or a place (Schoep and Driessen 2003, 77–80). Sole attestation. Not readable."
     },
     {
       "word": "MI-NA",
@@ -3003,6 +3003,7 @@
       "word": "NI-JA-NU",
       "signs": 3,
       "status": "role_only",
+      "role": "personal_name",
       "translation_label": "hapax — possibly a personal name; investigated as nūn 'fish' (√n-w-n) but phonetics NI-JA-NU do not map cleanly to /nūn/",
       "frequency": 1,
       "attestations": [
@@ -3163,6 +3164,7 @@
       "word": "O-TA-NI-ZA-SE",
       "signs": 5,
       "status": "role_only",
+      "role": "personal or place name",
       "translation_label": "recipient or toponym (opaque)",
       "frequency": 1,
       "attestations": [
@@ -3276,7 +3278,7 @@
         "Haghia Triada"
       ],
       "cross_site": false,
-      "note": "HT104 .3–.4 PẠ-DẠ-SỤ-TỊ 29, PA and DA dotted at the end of .3, SU and TI dotted at the head of .4. GORILA's note does not exclude PA-RO for PA-DA (GORILA I 171); Schoep reads PA-RO-SU-TI (Schoep 2002, 47). Sole attestation. Not readable."
+      "note": "HT104 .3–.4 PẠ-DẠ-SỤ-TỊ 29, PA and DA dotted at the end of .3, SU and TI dotted at the head of .4. GORILA's note does not exclude PA-RO for PA-DA (GORILA I 171); Schoep reads PA-RO-SU-TI (Schoep 2002, 47). With PA-RO it is the PA-RO-SU of HT 20 .1 with the -TI of DA-KU-SE-NE-TI and I-DU-TI. Sole attestation. Not readable."
     },
     {
       "word": "PA-I-KI[",
@@ -3954,7 +3956,7 @@
           "start"
         ]
       },
-      "note": "HT26b .2 ]-RO-NI 3, broken before (GORILA I 47). GORILA's note allows ]TE- or ]PA-RO-NI; the facsimile draws the two-bar PA, and SigLA reads PA-RO-NI. RO-NI is the end of a longer word. Not readable."
+      "note": "HT26b .2 ]-RO-NI 3, broken before (GORILA I 47). GORILA's note allows ]TE- or ]PA-RO-NI; the facsimile draws the two-bar PA, and SigLA reads PA-RO-NI. Peruzzi asks whether to read ]pa-ro NI 3, NI the fig sign (1957, 35). RO-NI is the end of a longer word. Not readable."
     },
     {
       "word": "RO-SI-RA",
@@ -4030,7 +4032,8 @@
       ],
       "cross_site": false,
       "note": "HT29 .4 SA-*323-MI 1, on a tablet written over an erasure (GORILA I 55). The copie normalisée prints the middle sign whole, the copie tabulaire underdots it and draws it differently. Entry between ]DI-JA-I 2 and [·]-KI-TA 2. *323 has no value. No reading."
-    },    {
+    },
+    {
       "word": "SA-NE",
       "signs": 2,
       "status": "role_only",
@@ -4208,7 +4211,8 @@
         ]
       },
       "note": "KH74 .2 ]SỊ-*805-MI, broken before SI, SI dotted, below ]-SỊ · JA-DA-SU (GORILA III 93). Sole attestation. Not readable."
-    },    {
+    },
+    {
       "word": "SI-DU",
       "signs": 2,
       "status": "role_only",
@@ -4741,7 +4745,7 @@
           "start"
         ]
       },
-      "note": "HT 31 .1 [·]-TI-SA · PU-KO · *410-VS[, a sign lost before TI (GORILA I 59). Not readable."
+      "note": "HT 31 .1 [·]-TI-SA · PU-KO · *410-VS[, a sign lost before TI (GORILA I 59); Raison and Pope read I-TI-SA. Duhoux takes it for the heading of the tablet, alone or with PU-KO: no place name, the store being in the Villa, perhaps the official who made the inventory, as Linear B o-wi-de a-ko-so-ta (2002, 34–35, 52). Gordon restored m]i-ti-sa and, after Richard, read mi-ti-sa pu-ko 'Go out from the depot!' (1976, 29–30, apud Duhoux 2002, 58 n. 49); PU-KO stands before the vessel sign *410-VS. Not readable."
     },
     {
       "word": "TO-ME",
@@ -5846,7 +5850,7 @@
           "start"
         ]
       },
-      "note": "HT 11b .1 RU-RA₂ after ]DE-NU, heading the KA list; the top of the first sign is damaged, RU or SA (SA-RA₂, Younger). Not readable."
+      "note": "HT 11b .1 RU-RA₂ after ]DE-NU, heading the KA list; GORILA reads RU and calls SA-RA₂ practically impossible (I 23); Younger (Linear A Texts) and Uchitel (2016b, 16) read SA-RA₂. No reading."
     },
     {
       "word": "JA-TO-JA",
@@ -6712,6 +6716,324 @@
         ]
       },
       "note": "PK Za 20, a stone vessel fragment: U-NA-KA-[, KA at the broken right edge with damaged surface beyond. The word ran on, perhaps to U-NA-KA-NA-SI, as on PK Za 8 and PK Za 27. Sole attestation. Not readable."
+    },
+    {
+      "word": "A-[?]-JU",
+      "signs": 3,
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "ARKH4a"
+      ],
+      "sites": [
+        "Arkhanes"
+      ],
+      "cross_site": false,
+      "surface_damage": {
+        "ARKH4a": [
+          "interior"
+        ]
+      },
+      "note": "ARKH 4a .2–3 A-[ ]-JU 4 (GORILA III 12–13). A ends line 2 at the broken right edge and JU opens line 3 at the join of the two fragments, with a short stroke between them. The gap runs over the line break, so more than one sign may be lost. Not readable."
+    },
+    {
+      "word": "PA-[?]-A",
+      "signs": 3,
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "HT45b"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "surface_damage": {
+        "HT45b": [
+          "interior"
+        ]
+      },
+      "note": "HT 45b .3–4 PA-[·]-A 20 and a fraction, written over an erasure (GORILA I 87). The middle sign keeps strokes in a damaged patch; the edition allows SI. Not readable."
+    },
+    {
+      "word": "]-KU-MI-NA-QE-[",
+      "signs": 4,
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "HT54a"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "surface_damage": {
+        "HT54a": [
+          "start",
+          "end"
+        ]
+      },
+      "note": "HT 54a .1 ]KU-MI-NA-QE[, on a fragment broken on every side, the surface lost before KU and after QE. KU-MI-NA stands whole on HT Wc 3014, with QE beside it; see the lexicon entry. Not readable."
+    },
+    {
+      "word": "A-[?]-[?]-[?]-JA",
+      "signs": 5,
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "MA4b"
+      ],
+      "sites": [
+        "Malia"
+      ],
+      "cross_site": false,
+      "surface_damage": {
+        "MA4b": [
+          "interior"
+        ]
+      },
+      "note": "MA 4b ⟦A-[· · ·]-JA *180 137⟧, the entry in erasure brackets (GORILA I 273). Between A and JA stand faint strokes of about three signs, none legible; the facsimile has a divider after JA. Not readable."
+    },
+    {
+      "word": "DU-TI-[?]",
+      "signs": 3,
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "PH54"
+      ],
+      "sites": [
+        "Phaistos"
+      ],
+      "cross_site": false,
+      "surface_damage": {
+        "PH54": [
+          "end"
+        ]
+      },
+      "note": "PH 54 .2 DU-TI-[·], broken at both ends, the signs cut by the lower break. A short upright after TI is a numeral or a damaged sign. Not readable."
+    },
+    {
+      "word": "A-NE[",
+      "signs": 2,
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "THEZb3"
+      ],
+      "sites": [
+        "Thera"
+      ],
+      "cross_site": false,
+      "surface_damage": {
+        "THEZb3": [
+          "end"
+        ]
+      },
+      "note": "THE Zb 3 A-NE[ on a jug, NE partly effaced, a lacuna of unknown length after it (GORILA IV 103). Not readable."
+    },
+    {
+      "word": "A-DU-KO-[MI]",
+      "signs": 3,
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "ZAWc2"
+      ],
+      "sites": [
+        "Zakros"
+      ],
+      "cross_site": false,
+      "surface_damage": {
+        "ZAWc2": [
+          "end"
+        ]
+      },
+      "note": "ZA Wc 2 line 1 A-TI-KA-A, line 2 DU-KO-⟦MI⟧ (GORILA II 98). A ends line 1 and DU-KO opens line 2; the division after KA is editorial. DU is dotted and MI stands in erasure brackets. Not readable."
+    },
+    {
+      "word": "KU-PA₃-[…]",
+      "signs": 2,
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "HT101"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "surface_damage": {
+        "HT101": [
+          "end"
+        ]
+      },
+      "note": "HT 101 .4 KU-PA₃-[ before OLE+U 2, heading the third section (GORILA I 166–167). PA₃ is partly lost and the surface after it is destroyed, so the word may have run on. Not readable."
+    },
+    {
+      "word": "]RA-ME[",
+      "signs": 2,
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "PKZa12"
+      ],
+      "sites": [
+        "Palaikastro"
+      ],
+      "cross_site": false,
+      "surface_damage": {
+        "PKZa12": [
+          "start",
+          "end"
+        ]
+      },
+      "note": "PK Za 12 b ]RA-ME[, a fragment apart from ]SI[ (GORILA IV 35–38). The surface is lost before RA and abraded after ME. Not readable."
+    },
+    {
+      "word": "]*358-NI[",
+      "signs": 2,
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "PH16a"
+      ],
+      "sites": [
+        "Phaistos"
+      ],
+      "cross_site": false,
+      "surface_damage": {
+        "PH16a": [
+          "start",
+          "end"
+        ]
+      },
+      "note": "PH 16a .2 ]*358-NI[, below a ruled line, damaged surface on both sides (GORILA I 307). *358 has no value. Not readable."
+    },
+    {
+      "word": "*323-*317",
+      "signs": 2,
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "HT96a"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": "HT 96a .3 *323 *317 1, after RU-SA 4 (GORILA I 157). The drawing sets a dot between the two signs, and the copie tabulaire sets them in the two logogram columns, as it sets *323 and *344 on .4. Two logograms, not a sign group. Not a word."
+    },
+    {
+      "word": "]*301-WA[",
+      "signs": 2,
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "IOZa4"
+      ],
+      "sites": [
+        "Iouktas"
+      ],
+      "cross_site": false,
+      "surface_damage": {
+        "IOZa4": [
+          "start",
+          "end"
+        ]
+      },
+      "note": "IO Za 4 ]*301-WA[, a fragment of a libation table broken at both ends, WA dotted, a further stroke in the damaged surface to the right (GORILA V 22–23). *301-WA stands elsewhere only inside A-TA-I-*301-WA-JA and A-NA-TI-*301-WA-JA; see the lexicon entries. Not readable."
+    },
+    {
+      "word": "QA-KI[",
+      "signs": 2,
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "KNWb33"
+      ],
+      "sites": [
+        "Knossos"
+      ],
+      "cross_site": false,
+      "surface_damage": {
+        "KNWb33": [
+          "end"
+        ]
+      },
+      "note": "KN Wb 33 a QA-KI[, on a sealing broken at the right (GORILA II 82). KI is dotted in the transcription and its right half meets the break. Not readable."
+    },
+    {
+      "word": "NU-SE-[",
+      "signs": 2,
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "KNWb33"
+      ],
+      "sites": [
+        "Knossos"
+      ],
+      "cross_site": false,
+      "surface_damage": {
+        "KNWb33": [
+          "end"
+        ]
+      },
+      "note": "KN Wb 33 b NU-SE-[, the other face of the sealing (GORILA II 82). An upright stroke of a third sign stands after SE at the broken right edge. Not readable."
+    },
+    {
+      "word": "]DE-KI-TI[",
+      "signs": 3,
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "SKOZc2"
+      ],
+      "sites": [
+        "Skoteino Cave"
+      ],
+      "cross_site": false,
+      "surface_damage": {
+        "SKOZc2": [
+          "start",
+          "end"
+        ]
+      },
+      "note": "SKO Zc 2 ]DE-KI-TI[, painted below the rim of a chalice fragment (Scot. 188), broken at the left, at the right and below the signs (Perna, Kanta and Tyree 2005, 330 fig. 10, published there with Scot. 187 as SKO Zc 1). Not readable."
+    },
+    {
+      "word": "DA-DU-*301̣-[?]-[?]",
+      "signs": 3,
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "DRAZg1"
+      ],
+      "sites": [
+        "Drama-Kajrjaka, Bulgaria"
+      ],
+      "cross_site": false,
+      "surface_damage": {
+        "DRAZg1": [
+          "end"
+        ]
+      },
+      "note": "DRA Zg 1, a retrograde graffito of five signs on a clay reel from Drama-Kajrjaka, Bulgaria. The drawing has three clear signs, compared with DA, DU and *301, then crossed strokes over a hatched patch that give no sign. Doubtful Linear A. Not readable."
+    },
+    {
+      "word": "VIR+[?]-*352-JA",
+      "signs": 3,
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "KHWc2100"
+      ],
+      "sites": [
+        "Khania"
+      ],
+      "cross_site": false,
+      "note": "KH Wc 2100 (GORILA III), a roundel whole on every side: three signs in a row with no numeral, the person sign with an element the transcription does not name, *352 and JA. *352 has no value. No reading."
     }
   ]
 }

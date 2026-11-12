@@ -30,7 +30,7 @@ updated: 2026-10-24T16:17:50Z
 | Findspot |  |
 | Support | Tablet |
 | Period | LMI |
-| Scribe | ARKH Scribe 1 |
+| Scribe | [[wiki/linear-a/by_scribe\|ARKH Scribe 1]] |
 | Edition | GORILA 3 |
 | Series | ARKH |
 | SigLA | [ARKH 1a](https://sigla.phis.me/document/ARKH%201a/) |

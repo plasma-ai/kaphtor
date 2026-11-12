@@ -60,7 +60,7 @@ di Mino; GlOS 1; Rendsburg 2026
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA15b\|ZA15b]] | Zakros | Tablet | none |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA15b\|ZA15b]] | Zakros | Tablet | complete |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA4a\|ZA4a]] | Zakros | Tablet | incomplete |
 
 ## In translations
@@ -68,5 +68,6 @@ di Mino; GlOS 1; Rendsburg 2026
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA4a\|ZA4a]] | kaddū | jars, 3 units—closes the list | PROBABLE |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA15b\|ZA15b]] | kadd | jar, jug (liquid container) | PROBABLE |
 
 <!-- END kaphtor:record -->

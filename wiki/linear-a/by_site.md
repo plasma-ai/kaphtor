@@ -20,32 +20,32 @@ Every number on this page is computed from the data files.
 
 | Site | Records | Documents | Translated (complete) | Lexicon words attested |
 |---|---|---|---|---|
-| Haghia Triada | 1,111 | 1,053 | 333 | 368 |
-| Khania | 226 | 223 | 36 | 69 |
-| Phaistos | 66 | 48 | 9 | 40 |
-| Knossos | 57 | 51 | 14 | 52 |
-| Zakros | 53 | 40 | 5 | 95 |
-| Palaikastro | 25 | 25 | 8 | 37 |
-| Malia | 22 | 11 | 0 | 9 |
-| Thera | 19 | 18 | 2 | 3 |
-| Iouktas | 16 | 16 | 12 | 17 |
-| Arkhanes | 12 | 9 | 2 | 24 |
-| Syme | 12 | 12 | 6 | 16 |
-| Petras | 11 | 11 | 3 | 18 |
+| Haghia Triada | 1,111 | 1,053 | 362 | 378 |
+| Khania | 226 | 223 | 36 | 73 |
+| Phaistos | 66 | 48 | 11 | 45 |
+| Knossos | 57 | 51 | 19 | 56 |
+| Zakros | 53 | 40 | 7 | 97 |
+| Palaikastro | 25 | 25 | 10 | 37 |
+| Malia | 22 | 11 | 2 | 9 |
+| Thera | 19 | 18 | 3 | 3 |
+| Iouktas | 16 | 16 | 11 | 17 |
+| Arkhanes | 12 | 9 | 3 | 24 |
+| Syme | 12 | 12 | 8 | 16 |
+| Petras | 11 | 11 | 3 | 19 |
 | Kea | 8 | 8 | 1 | 2 |
-| Tylissos | 6 | 5 | 0 | 11 |
+| Tylissos | 6 | 5 | 1 | 12 |
 | Gournia | 5 | 3 | 0 | 5 |
-| Miletos | 4 | 4 | 0 | 2 |
-| Pyrgos | 4 | 4 | 0 | 4 |
+| Miletos | 4 | 4 | 2 | 2 |
+| Pyrgos | 4 | 4 | 1 | 4 |
 | Apodoulou | 3 | 3 | 1 | 6 |
 | Crete | 3 | 3 | 2 | 7 |
-| Milos | 3 | 3 | 0 | 3 |
-| Mokhlos | 3 | 3 | 0 | 1 |
+| Milos | 3 | 3 | 1 | 3 |
+| Mokhlos | 3 | 3 | 1 | 1 |
 | Vrysinas | 3 | 3 | 1 | 2 |
 | Arkhalkhori | 2 | 2 | 2 | 1 |
-| Kythera | 2 | 2 | 0 | 1 |
+| Kythera | 2 | 2 | 1 | 1 |
 | Mycenae | 2 | 2 | 0 | 0 |
-| Poros Herakleiou | 2 | 2 | 1 | 2 |
+| Poros Herakleiou | 2 | 2 | 2 | 2 |
 | Pseira | 2 | 2 | 0 | 1 |
 | Samothrace | 2 | 2 | 1 | 2 |
 | Skoteino Cave | 2 | 2 | 0 | 1 |
@@ -56,10 +56,10 @@ Every number on this page is computed from the data files.
 | Armenoi | 1 | 1 | 0 | 0 |
 | Crete (?) | 1 | 1 | 1 | 2 |
 | Drama-Kajrjaka, Bulgaria | 1 | 1 | 1 | 1 |
-| Haghios Stephanos | 1 | 1 | 0 | 1 |
-| Inatos | 1 | 1 | 0 | 1 |
+| Haghios Stephanos | 1 | 1 | 1 | 1 |
+| Inatos | 1 | 1 | 1 | 1 |
 | Kalo Chorafi | 1 | 1 | 0 | 0 |
-| Kamilari | 1 | 1 | 0 | 1 |
+| Kamilari | 1 | 1 | 1 | 1 |
 | Kannia | 1 | 1 | 0 | 0 |
 | Kardamoutsa | 1 | 1 | 1 | 1 |
 | Kophinas | 1 | 1 | 1 | 8 |
@@ -67,8 +67,8 @@ Every number on this page is computed from the data files.
 | Lachish | 1 | 1 | 1 | 1 |
 | Larani | 1 | 1 | 0 | 0 |
 | Margiana | 1 | 1 | 0 | 0 |
-| Nerokurou | 1 | 1 | 0 | 1 |
-| Papourou | 1 | 1 | 0 | 1 |
+| Nerokurou | 1 | 1 | 1 | 1 |
+| Papourou | 1 | 1 | 1 | 1 |
 | Platanos | 1 | 1 | 1 | 4 |
 | Prassa | 1 | 1 | 1 | 3 |
 | Psykhro | 1 | 1 | 1 | 2 |

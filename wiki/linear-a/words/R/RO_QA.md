@@ -60,6 +60,12 @@ di Mino; GlOS 2
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/SY/SYZa/SYZa11\|SYZa11]] | Syme | Stone vessel | none |
+| [[wiki/linear-a/inscriptions/SY/SYZa/SYZa11\|SYZa11]] | Syme | Stone vessel | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/SY/SYZa/SYZa11\|SYZa11]] | rōqaḥ | compounded perfume, ointment (vessel label) | SPECULATIVE |
 
 <!-- END kaphtor:record -->

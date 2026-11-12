@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/star/star333_SA_MU
 title: "*333-SA-MU"
-desc: "biśāmu: Balsam, perfume—aromatic personal name (cf. Basemath) on a metal ornament. Lexicon, SPECULATIVE (tier 1)."
+desc: "biśāmu: Balsam, perfume—aromatic personal name (cf. Basemath) on a lead weight. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "*333-SA-MU"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | biśāmu |
-| Meaning | Balsam, perfume—aromatic personal name (cf. Basemath) on a metal ornament |
+| Meaning | Balsam, perfume—aromatic personal name (cf. Basemath) on a lead weight |
 | Root | b-ś-m |
 | Proto-Semitic | \*bśm (#S84) |
 | Language layer | Semitic |
@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-MO Zf 1, a metal ornament from Mokhlos, the word alone. With \*333 = bi, \*333-SA-MU writes biśāmu 'balsam', before the Canaanite shift of ā (Heb. bōśem 'balsam tree; perfume', HALOT 163); a name of the aromatic class, cf. Basemath (Gen 26:34). Weak point: \*333 = bi rests on its three words. Rival: a label for the object, or a non-Semitic name. One attestation.
+MO Zf 1, a lead weight from Mokhlos (HM 83; Olivier 1989, 137–139), the word alone. With \*333 = bi, \*333-SA-MU writes biśāmu 'balsam', before the Canaanite shift of ā (Heb. bōśem 'balsam tree; perfume', HALOT 163); a name of the aromatic class, cf. Basemath (Gen 26:34). The first sign has the build of \*333 on the two Haghia Triada roundels, the only other attestations; Olivier sets it beside Linear B \*18, in its simplest form (1989, 143–145). Weak point: \*333 = bi rests on its three words. Rival: a label for the object, or a non-Semitic name. One attestation.
 
 ### Cognates
 
@@ -52,13 +52,19 @@ MO Zf 1, a metal ornament from Mokhlos, the word alone. With \*333 = bi, \*333-S
 
 ### Source
 
-di Mino; HALOT; Lane
+di Mino; Olivier 1989; HALOT; Lane
 
 ## Attestations
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/MO/MOZf/MOZf1\|MOZf1]] | Mokhlos | Metal object | none |
+| [[wiki/linear-a/inscriptions/MO/MOZf/MOZf1\|MOZf1]] | Mokhlos | Metal object | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/MO/MOZf/MOZf1\|MOZf1]] | biśāmu | Balsam, perfume—aromatic personal name (cf. Basemath) on a lead weight | SPECULATIVE |
 
 ## Onomasticon
 

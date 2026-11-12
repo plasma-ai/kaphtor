@@ -55,8 +55,8 @@ Unicode (Linear A block):
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| MU | mūru | bovine (commodity ideogram) | CONFIRMED |  |
-| TELA+TE |  | cloth logogram, TE ligatured | CANDIDATE |  |
+| [[wiki/linear-a/words/M/MU\|MU]] | mūru | bovine (commodity ideogram) | CONFIRMED |  |
+| [[wiki/linear-a/words/T/TELA_plus_TE\|TELA+TE]] |  | cloth logogram, TE ligatured | CANDIDATE |  |
 | [[wiki/linear-a/words/N/NI\|NI]] | \*nikuleon | figs | CONFIRMED | CONFIRMED (lexicon) |
 
 ### Notes

@@ -60,7 +60,13 @@ di Mino; HALOT; DULAT; Krahmalkov 2000; Gelb 1980
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT97a\|HT97a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT97a\|HT97a]] | Haghia Triada | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT97a\|HT97a]] | naṭʿ | the Plantation (place name), 4 | SPECULATIVE |
 
 ## Onomasticon
 
@@ -80,6 +86,6 @@ HT 97a .4 NA-TI 4, whole, between DI 4 and MA-DI 5 (GORILA I 159), among men cou
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KA_NU_TI|KA-NU-TI]] Ganuti, KI, [[wiki/linear-a/words/P/PA_I_TO|PA-I-TO]] Paito.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KA_NU_TI|KA-NU-TI]] Ganuti, [[wiki/linear-a/words/K/KI|KI]], [[wiki/linear-a/words/P/PA_I_TO|PA-I-TO]] Paito.
 
 <!-- END kaphtor:record -->

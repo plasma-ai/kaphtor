@@ -37,6 +37,6 @@ updated: 2026-10-24T16:17:50Z
 
 Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
 
-HT104 .3–.4 PẠ-DẠ-SỤ-TỊ 29, PA and DA dotted at the end of .3, SU and TI dotted at the head of .4. GORILA's note does not exclude PA-RO for PA-DA (GORILA I 171); Schoep reads PA-RO-SU-TI (Schoep 2002, 47). Sole attestation. Not readable.
+HT104 .3–.4 PẠ-DẠ-SỤ-TỊ 29, PA and DA dotted at the end of .3, SU and TI dotted at the head of .4. GORILA's note does not exclude PA-RO for PA-DA (GORILA I 171); Schoep reads PA-RO-SU-TI (Schoep 2002, 47). With PA-RO it is the PA-RO-SU of HT 20 .1 with the -TI of DA-KU-SE-NE-TI and I-DU-TI. Sole attestation. Not readable.
 
 <!-- END kaphtor:record -->

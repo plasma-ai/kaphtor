@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Five documents at Haghia Triada and Knossos: a personnel list (HT 25a, twice, among names with quantity 1) and commodity allocations (HT 9a under VIN, DI-NA-U 4; HT 9b under AROM, DI-NA-U 4; KN Zb 27, VIN 17), a common NWS name at both sites. A √d-y-n 'judge' name, with -U after NA writing the hypocoristic -āyu/-āʾu (Amorite -ay-um: ʾAhlul-ay-um, Gelb 1980, no. 690; cf. Diyn-i-Baddu, no. 1512). Huffmon's glossary gives dyn 'judge', Common Semitic, as a Mari name element: the G imperfect Ya-di-nim (yaqtil class), the precative La-di-nam, I-di-AN (Huffmon 1965, 182; Noth IPN 187–188). Rival: √ʾ-d-n 'lord' with the laryngeal lost, ʾadōnū 'our lord', on the same d-n skeleton at the cost of one more assumption. See DI-NE.
+Five documents at Haghia Triada and Knossos: a personnel list (HT 25a, twice, among names with quantity 1) and commodity allocations (HT 9a under VIN, DI-NA-U 4; HT 9b under AROM, DI-NA-U 4; KN Zb 27, VIN 17), a common NWS name at both sites. A √d-y-n 'judge' name, with -U after NA writing the hypocoristic -āyu/-āʾu (Amorite -ay-um: ʾAhlul-ay-um, Gelb 1980, no. 690; cf. Diyn-i-Baddu, no. 1512). Huffmon's glossary gives dyn 'judge', Common Semitic, as a Mari name element: the G imperfect Ya-di-nim (yaqtil class), the precative La-di-nam, I-di-AN (Huffmon 1965, 182; Noth IPN 187–188). Rival: √ʾ-d-n 'lord' with the laryngeal lost, ʾadōnū 'our lord', on the same d-n skeleton at the cost of one more assumption. A second rival: a class of women textile workers in the loom texts, abbreviated DI (HT 16; Uchitel 2016b, 11). See DI-NE.
 
 ### Cognates
 
@@ -54,7 +54,7 @@ Five documents at Haghia Triada and Knossos: a personnel list (HT 25a, twice, am
 
 ### Source
 
-di Mino
+di Mino; Uchitel 2016b
 
 ## Attestations
 

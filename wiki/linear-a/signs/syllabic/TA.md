@@ -87,7 +87,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/P/PA_TA_DA\|PA-TA-DA]] | Patada | CANDIDATE |
 | [[wiki/linear-a/words/P/PA_TA_NE\|PA-TA-NE]] | Patne | CANDIDATE |
 | [[wiki/linear-a/words/P/PA_TA_QE\|PA-TA-QE]] | pitqē | CANDIDATE |
-| [[wiki/linear-a/words/P/PI_TA_JA\|PI-TA-JA]] | Pitaya | SPECULATIVE |
+| [[wiki/linear-a/words/P/PI_TA_JA\|PI-TA-JA]] | Bittaya | SPECULATIVE |
 | [[wiki/linear-a/words/P/PI_TA_KA_SE\|PI-TA-KA-SE]] | Bīt-kissē | SPECULATIVE |
 | [[wiki/linear-a/words/P/PI_TA_KE_SI\|PI-TA-KE-SI]] | Bīt-kissi | SPECULATIVE |
 | [[wiki/linear-a/words/P/PI_TA_RA\|PI-TA-RA]] | bidāla | SPECULATIVE |
@@ -123,7 +123,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/T/TI_DA_TA\|TI-DA-TA]] | ṯidṯīta | CANDIDATE |
 | [[wiki/linear-a/words/T/TI_NI_TA\|TI-NI-TA]] | Tinit | CONFIRMED |
 | [[wiki/linear-a/words/T/TI_NI_TA_star307\|TI-NI-TA \*307]] | Tinit Dubur | PROBABLE |
-| [[wiki/linear-a/words/T/TU_PI_TA\|TU-PI-TA]] | ṯāpiṭu | CANDIDATE |
+| [[wiki/linear-a/words/T/TU_PI_TA\|TU-PI-TA]] | ṯūpiṭa | CANDIDATE |
 | [[wiki/linear-a/words/U/U_TA_I_SE\|U-TA-I-SE]] | ʿUtay-se | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_TA_RO\|U-TA-RO]] | watru | CANDIDATE |
 

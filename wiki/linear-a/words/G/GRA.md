@@ -75,6 +75,7 @@ di Mino
 | [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH3b\|ARKH3b]] | \[ideogram\] | grain |  |
 | [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH5\|ARKH5]] | \[ideogram\] | grain |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT14\|HT14]] | \[ideogram\] | grain |  |
+| [[wiki/linear-a/inscriptions/HT/HT/HT15\|HT15]] | grain | grain (logogram) | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT18\|HT18]] | — | grain (logogram) | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT27b\|HT27b]] |  | grain | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT28b\|HT28b]] | dagān | grain, cereal |  |

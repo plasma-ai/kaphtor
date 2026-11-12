@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 31, the vessel tablet, written with the \*402-VS vessel sign among QA-PA₃, SU-PU and KA-RO-PA₃; Ventris and Chadwick also take it for a vessel. Gordon read su-pa-ra as Heb. sēpel (ספל) 'bowl' (Gordon 1966 §115), with PA for p and RA for l. PA₃ writes ba, so the spelling is s-b-r: √s-p-l with p voiced to b between u and a, and RA for l. In Gordon's HT 31 set, four of the five vessel names are Semitic (§115). Weak point: PA₃ = ba is a proposed value; Gordon's p gives √s-p-l directly. One attestation.
+HT 31, the vessel tablet, written with the \*402-VS vessel sign among QA-PA₃, SU-PU and KA-RO-PA₃; Ventris and Chadwick also take it for a vessel. Gordon read su-pa-ra as Heb. sēpel (ספל) 'bowl' (Gordon 1966 §115), with PA for p and RA for l. PA₃ writes ba, so the spelling is s-b-r: √s-p-l with p voiced to b between u and a, and RA for l. In Gordon's HT 31 set, four of the five vessel names are Semitic (§115). Its sign is a small handleless cup, nearly conical, 300 of them beside the 10 SU-PU, and Duhoux supposes the two names akin (Duhoux 2002, 40, 45–46). Linear B has a vessel name in -su-\*56, ku-ru-su-\*56 before \*207 (KN K 740), which Melena takes for a Minoan loan (Duhoux 2002, 48). Weak point: PA₃ = ba is a proposed value, the /ba/ Melena gives Linear B \*56 (Melena 1987, apud Duhoux 2002, 46 n. 26); Gordon's p gives √s-p-l directly. One attestation.
 
 ### Cognates
 
@@ -53,7 +53,7 @@ HT 31, the vessel tablet, written with the \*402-VS vessel sign among QA-PA₃, 
 
 ### Source
 
-Gordon 1966 §115; di Mino; DULAT; GlOS 2
+Gordon 1966 §115; di Mino; Duhoux 2002; DULAT; GlOS 2
 
 ## Attestations
 

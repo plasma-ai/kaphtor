@@ -30,7 +30,7 @@ updated: 2026-10-24T16:17:50Z
 | Findspot | Villa Magazine |
 | Support | Tablet |
 | Period | LMIB |
-| Scribe | HT Scribe 24 |
+| Scribe | [[wiki/linear-a/by_scribe\|HT Scribe 24]] |
 | Edition | GORILA 1 |
 | Series | HT |
 | SigLA | [HT 11a](https://sigla.phis.me/document/HT%2011a/) |
@@ -73,8 +73,8 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/star/star322_RI\|\*322-RI]] |  | logogram \*322 with RI. No reading. |  | unread |
 | [[wiki/linear-a/words/K/KU_RO\|KU-RO]] |  | total | CONFIRMED | CONFIRMED (lexicon) |
 | [[wiki/linear-a/words/A/A_SU_JA\|A-SU-JA]] |  | Azzuya (woman's name, Hurrian) | SPECULATIVE | SPECULATIVE (lexicon) |
-| VIR+\[?\]-I |  | personnel (logogram) | PROBABLE |  |
-| TA₂ |  | unresolved | SPECULATIVE |  |
+| [[wiki/linear-a/words/V/VIR_plus_q_I\|VIR+&#91;?&#93;-I]] |  | personnel (logogram) | PROBABLE |  |
+| [[wiki/linear-a/words/T/TA2\|TA₂]] |  | unresolved | SPECULATIVE |  |
 
 ### Notes
 

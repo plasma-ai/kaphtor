@@ -62,7 +62,7 @@ di Mino; GlOS 2; Rabin 1963
 | [[wiki/linear-a/inscriptions/HT/HT/HT27b\|HT27b]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT14\|HT14]] | Haghia Triada | Tablet | complete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HT/HT99a\|HT99a]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA15b\|ZA15b]] | Zakros | Tablet | none |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA15b\|ZA15b]] | Zakros | Tablet | complete |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA6b\|ZA6b]] | Zakros | Tablet | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/KH/KH/KH11\|KH11]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/PH/PH/PH9b\|PH9b]] | Phaistos | Tablet | none; form not in transliteration |
@@ -98,6 +98,7 @@ di Mino; GlOS 2; Rabin 1963
 | [[wiki/linear-a/inscriptions/PH/PHWc/PHWc43\|PHWc43]] | wayn | wine |  |
 | [[wiki/linear-a/inscriptions/PH/PHWy/PHWy42\|PHWy42]] | wayn | wine |  |
 | [[wiki/linear-a/inscriptions/PK/PKZb/PKZb24\|PKZb24]] | wayn | wine |  |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA15b\|ZA15b]] |  | wayn 'wine' | PROBABLE |
 | [[wiki/linear-a/inscriptions/ZA/ZAZb/ZAZb3\|ZAZb3]] | wine | wine | PROBABLE |
 
 <!-- END kaphtor:record -->

@@ -27,11 +27,11 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Site | Palaikastro |
-| Findspot |  |
+| Findspot | Roussolakkos, at the gate to the excavations; chance find, 2000 (Schoep and Driessen 2003, 77) |
 | Support | Clay vessel |
 | Period |  |
 | Scribe |  |
-| Edition | unattributed |
+| Edition | post_gorila_publication |
 | Series | PKZb |
 | Images |  |
 
@@ -46,5 +46,9 @@ Unicode (Linear A block):
 ```text
 𐘻𐘀𐘴
 ```
+
+## Corpus note
+
+Handle of coarse red clay with schist and quartz, probably of an amphora, l. 8.5 cm; no. 00/4831/17.
 
 <!-- END kaphtor:record -->

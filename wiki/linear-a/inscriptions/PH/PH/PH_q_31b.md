@@ -9,7 +9,7 @@ site: "Phaistos"
 support: "Tablet"
 period: ""
 translation: "none"
-words: ["TE-RI"]
+words: ["*21F", "*21M", "*22F", "*22M", "TE-RI"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -44,7 +44,7 @@ Transliteration, line by line:
 3. \*21F 1
 4. \]-DU-RI \*22M 1
 5. TU-\[
-6. \]NE-\*22M 1
+6. \]NE \*22M 1
 7. \*22F 5
 8. TE-RI \*21M\[
 9. 1
@@ -71,7 +71,7 @@ Unicode (Linear A block):
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/T/TE_RI|TE-RI]].
+[[wiki/linear-a/words/star/star21F|\*21F]], [[wiki/linear-a/words/star/star21M|\*21M]], [[wiki/linear-a/words/star/star22F|\*22F]], [[wiki/linear-a/words/star/star22M|\*22M]], [[wiki/linear-a/words/T/TE_RI|TE-RI]].
 
 ## Edition differences
 
@@ -81,6 +81,6 @@ Unicode (Linear A block):
 
 ## Corpus note
 
-GORILA I 319: TU-\[, broken after. GORILA I 319: .5 \]A-MI-DA-O AB21M 1\[, a ram, as SigLA; the start is broken. .4 SUS+SI\[, broken after; no RE survives (SigLA A1001 SUS+SI). .4 \[·\] 1̣ \[·\]-RU-MA-TI \*21M (note: perhaps OVISm 1̣ before it), the first sign of the word lost in the transcription, normalized column and note, the facsimile (I 318) blank there; SigLA reads a worn vertical with a curled foot as ri (AB53), giving RI-RU-MA-TI.
+GORILA I 319: TU-\[, broken after. GORILA I 319: .5 \]A-MI-DA-O AB21M 1\[, a ram, as SigLA; the start is broken. .4 SUS+SI\[, broken after; no RE survives (SigLA A1001 SUS+SI). .4 \[·\] 1̣ \[·\]-RU-MA-TI \*21M (note: perhaps OVISm 1̣ before it), the first sign of the word lost in the transcription, normalized column and note, the facsimile (I 318) blank there; SigLA reads a worn vertical with a curled foot as ri (AB53), giving RI-RU-MA-TI. .3 \]NE \*22M 1: the copie tabulaire sets NE in the word column and the he-goat in the logogram column, as it sets \]-DU-RI and \*22M 1 on .2; NE ends a word lost at the left.
 
 <!-- END kaphtor:record -->

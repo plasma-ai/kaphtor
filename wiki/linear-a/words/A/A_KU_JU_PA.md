@@ -61,6 +61,6 @@ di Mino; CAD K; HALOT; CAL; TLHdig; Rabin 1963
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/PA/PA/PA1\|PA1]] | Papourou | Tablet | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/PA/PA/PA1\|PA1]] | Papourou | Tablet | complete; form not in transliteration |
 
 <!-- END kaphtor:record -->

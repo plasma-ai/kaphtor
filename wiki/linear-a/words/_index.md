@@ -3,7 +3,7 @@ name: wiki/linear-a/words
 title: Words
 desc: One generated page per form, joining the lexicon, the onomasticon and the unread words, filed by first sign.
 created: 2026-10-22T18:14:10Z
-updated: 2026-10-24T16:17:50Z
+updated: 2026-11-12T00:26:03Z
 ---
 
 # Words
@@ -27,6 +27,8 @@ updated: 2026-10-24T16:17:50Z
 [[wiki/linear-a/words/J/_index|J/]]: Words whose first sign begins with J.
 
 [[wiki/linear-a/words/K/_index|K/]]: Words whose first sign begins with K.
+
+[[wiki/linear-a/words/L/_index|L/]]: Words whose first sign begins with L.
 
 [[wiki/linear-a/words/M/_index|M/]]: Words whose first sign begins with M.
 

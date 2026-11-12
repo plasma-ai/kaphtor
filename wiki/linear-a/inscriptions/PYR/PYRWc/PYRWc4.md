@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/inscriptions/PYR/PYRWc/PYRWc4
 title: "PYRWc4"
-desc: "Roundel, Pyrgos. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "roundel"]
+desc: "Roundel, Pyrgos. Translation: complete (SPECULATIVE)."
+tags: ["linear-a", "inscription", "translation-complete", "roundel"]
 kind: "inscription"
 id: "PYRWc4"
 site: "Pyrgos"
 support: "Roundel"
 period: ""
-translation: "none"
+translation: "complete"
 words: ["I-SI", "TI"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -46,6 +46,26 @@ Unicode (Linear A block):
 ```text
 𐘠𐝫𐄁𐝫𐘚𐘤𐝯
 ```
+
+## Translation
+
+**SPECULATIVE**, complete.
+
+> Figs: fire offerings.
+
+| Word | Reading | Gloss | Confidence | Lexicon |
+|---|---|---|---|---|
+| [[wiki/linear-a/words/T/TI\|TI]] | tiʾin | figs (logographic abbreviation of TI-NI) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/I/I_SI\|I-SI]] | ʾiššê | fire offering(s) | SPECULATIVE | SPECULATIVE (lexicon) |
+
+### Notes
+
+One face. The layout does not settle whether TI or I-SI comes first. Photograph and drawing checked.
+
+### Source
+
+- di Mino: TI, I-SI
+- GORILA: PYRWc4
 
 ## Lexicon words citing this document
 

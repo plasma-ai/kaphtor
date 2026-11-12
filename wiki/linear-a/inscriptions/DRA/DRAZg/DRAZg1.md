@@ -55,7 +55,7 @@ Unicode (Linear A block):
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| DA-DU-\*301̣-\[?\]-\[?\] | dādu-nā-… | \[our beloved …?\] | SPECULATIVE |  |
+| [[wiki/linear-a/words/D/DA_DU_star301_q_q_broken_end\|DA-DU-\*301̣-&#91;?&#93;-&#91;?&#93;]] | dādu-nā-… | \[our beloved …?\] | SPECULATIVE | unread |
 
 ### Notes
 

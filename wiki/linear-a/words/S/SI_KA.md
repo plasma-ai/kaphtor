@@ -60,17 +60,23 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1014\|HTWa1014]] | Haghia Triada | Nodule | none |
-| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1015\|HTWa1015]] | Haghia Triada | Nodule | none |
-| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1016\|HTWa1016]] | Haghia Triada | Nodule | none |
-| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1017\|HTWa1017]] | Haghia Triada | Nodule | none |
-| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1018\|HTWa1018]] | Haghia Triada | Nodule | none |
-| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1028\|HTWa1028]] | Haghia Triada | Nodule | none |
+| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1014\|HTWa1014]] | Haghia Triada | Nodule | complete |
+| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1015\|HTWa1015]] | Haghia Triada | Nodule | complete |
+| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1016\|HTWa1016]] | Haghia Triada | Nodule | complete |
+| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1017\|HTWa1017]] | Haghia Triada | Nodule | complete |
+| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1018\|HTWa1018]] | Haghia Triada | Nodule | complete |
+| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1028\|HTWa1028]] | Haghia Triada | Nodule | complete |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1014\|HTWa1014]] | šikā | office of the steward or prefect (√s-k-n) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1015\|HTWa1015]] | šikā | office of the steward or prefect (√s-k-n) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1016\|HTWa1016]] | šikā | office of the steward or prefect (√s-k-n) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1017\|HTWa1017]] | šikā | office of the steward or prefect (√s-k-n) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1018\|HTWa1018]] | šikā | office of the steward or prefect (√s-k-n) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1028\|HTWa1028]] | šikā | office of the steward or prefect (√s-k-n) | CANDIDATE |
 | [[wiki/linear-a/inscriptions/IO/IOZa/IOZa6\|IOZa6]] | šiqā | Who Gives Drink (second member of a divine epithet) | CANDIDATE |
 
 <!-- END kaphtor:record -->

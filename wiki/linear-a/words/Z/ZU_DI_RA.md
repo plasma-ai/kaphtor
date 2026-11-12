@@ -58,13 +58,14 @@ di Mino; DULAT; Laroche 1980; CAD Š/2; Monti 2017
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3011\|HTWc3011]] | Haghia Triada | Roundel | none |
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3011\|HTWc3011]] | Haghia Triada | Roundel | complete |
 | [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3012\|HTWc3012]] | Haghia Triada | Roundel | complete |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3011\|HTWc3011]] | ṯudira | waitress, girl (Ug. ṯdr, a Hurro-Hittite loan from šiduri) | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3012\|HTWc3012]] | ṯudira | waitress, girl, the receiver | CANDIDATE |
 
 ## Onomasticon

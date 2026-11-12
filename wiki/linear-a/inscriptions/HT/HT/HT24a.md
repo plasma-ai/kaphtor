@@ -70,7 +70,7 @@ Unicode (Linear A block):
 |---|---|---|---|---|
 | [[wiki/linear-a/words/K/KU_PA3_RI_JA\|KU-PA₃-RI-JA]] | Kubariya | section heading—(wool) of Kubariya, a town of Ugarit; rival Gubliya 'the Byblian' | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/K/KI_MA_plus_RU_broken_end\|KI-MA+RU-&#91;]] |  | unread |  | unread |
-| MA+RU-ME | marūm | the wool (quantities 10 and 6; a third entry on .4 breaks after ME) | CANDIDATE |  |
+| [[wiki/linear-a/words/M/MA_plus_RU_ME\|MA+RU-ME]] | marūm | the wool (quantities 10 and 6; a third entry on .4 breaks after ME) | CANDIDATE |  |
 | [[wiki/linear-a/words/P/PA_SA_RI_JA\|PA-SA-RI-JA]] | Baṣariya | the Baṣirean, gentilic of Baṣīru, a town of Ugarit: second section heading | SPECULATIVE | SPECULATIVE (lexicon) |
 | RU-I-KO |  | proposed luʾīku 'sent, dispatched' (unconfirmed) |  |  |
 | MA+RU-\[ |  | unread |  |  |

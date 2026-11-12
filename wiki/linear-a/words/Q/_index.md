@@ -2,16 +2,26 @@
 name: wiki/linear-a/words/Q
 desc: "Words whose first sign begins with Q, and words that open with an illegible sign."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-10T17:23:44Z
+updated: 2026-11-12T00:26:03Z
 ---
 
 # wiki/linear-a/words/Q
 
 [[wiki/linear-a/words/_index|..]]
 
+[[wiki/linear-a/words/Q/QA2_plus_q_plus_PU|QA2_plus_q_plus_PU]]: Unread sign (ligature, unread); 9 occurrence(s).
+
+[[wiki/linear-a/words/Q/QA2_plus_q_plus_PU_plus_RE|QA2_plus_q_plus_PU_plus_RE]]: Unread sign (ligature, component read); 1 occurrence(s).
+
+[[wiki/linear-a/words/Q/QA2_plus_q_plus_RE|QA2_plus_q_plus_RE]]: Unread sign (ligature, component read); 6 occurrence(s).
+
+[[wiki/linear-a/words/Q/QA2_plus_q_plus_RE_plus_PU|QA2_plus_q_plus_RE_plus_PU]]: Unread sign (ligature, component read); 3 occurrence(s).
+
 [[wiki/linear-a/words/Q/QA_KI_SE_NU_TI|QA_KI_SE_NU_TI]]: Kaki-šenni-ti: personal name, Hurrian type in -šenni 'brother'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/Q/QA_KI_TI_broken_both|QA_KI_TI_broken_both]]: Unread (unread): no role; 1 occurrence(s).
+
+[[wiki/linear-a/words/Q/QA_KI_broken_end|QA_KI_broken_end]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/Q/QA_KU_RE|QA_KU_RE]]: kakkarē: rounds of (a commodity); talent. Lexicon, SPECULATIVE (tier 1).
 
@@ -57,7 +67,7 @@ updated: 2026-11-10T17:23:44Z
 
 [[wiki/linear-a/words/Q/QE_DE_MI_NU|QE_DE_MI_NU]]: Qēdmīnu: personal name, 'Easterner, Ancient one'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/Q/QE_KA|QE_KA]]: Unread (role only): administrative roster label; 2 occurrence(s).
+[[wiki/linear-a/words/Q/QE_KA|QE_KA]]: Unread (role only): personal name; 2 occurrence(s).
 
 [[wiki/linear-a/words/Q/QE_KU_RE|QE_KU_RE]]: kikkᵊrē: rounds, round cakes of (a commodity); talent; rival the personal name Qaqqaru. Lexicon, SPECULATIVE (tier 1).
 
@@ -83,7 +93,13 @@ updated: 2026-11-10T17:23:44Z
 
 [[wiki/linear-a/words/Q/QE_TU_NE|QE_TU_NE]]: qaṭunē: small, fine (amounts)—quality term over the QA₂-ligature entry. Lexicon, SPECULATIVE (tier 1).
 
+[[wiki/linear-a/words/Q/QE_plus_GRA_plus_PA|QE_plus_GRA_plus_PA]]: Unread sign (ligature, component read); 1 occurrence(s).
+
+[[wiki/linear-a/words/Q/QI|QI]]: Unread sign (syllabogram, unread); 3 occurrence(s).
+
 [[wiki/linear-a/words/Q/QI_TI_RI|QI_TI_RI]]: qiṭrī: my incense (ritual term). Lexicon, PROBABLE (tier 3).
+
+[[wiki/linear-a/words/Q/QI_plus_SI|QI_plus_SI]]: Unread sign (ligature, component read); 3 occurrence(s).
 
 [[wiki/linear-a/words/Q/q_KI_TA_broken_start|q_KI_TA_broken_start]]: Unread (role only): personal name; 1 occurrence(s).
 

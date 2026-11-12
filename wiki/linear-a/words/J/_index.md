@@ -2,12 +2,14 @@
 name: wiki/linear-a/words/J
 desc: "Words whose first sign begins with J."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-09T22:54:29Z
+updated: 2026-11-12T00:26:03Z
 ---
 
 # wiki/linear-a/words/J
 
 [[wiki/linear-a/words/_index|..]]
+
+[[wiki/linear-a/words/J/JA|JA]]: Unread sign (syllabogram, unread); 7 occurrence(s).
 
 [[wiki/linear-a/words/J/JA_DA_SU|JA_DA_SU]]: Yadaʿ-Šum: personal name, 'Šum knew'. Lexicon, SPECULATIVE (tier 1).
 
@@ -103,11 +105,15 @@ updated: 2026-11-09T22:54:29Z
 
 [[wiki/linear-a/words/J/JA_WI|JA_WI]]: Yawī: personal name, '(he) lives', the bare form of the Amorite Yawi-DN names. Lexicon, CANDIDATE (tier 2).
 
+[[wiki/linear-a/words/J/JA_plus_RU|JA_plus_RU]]: Unread sign (ligature, unread); 1 occurrence(s).
+
 [[wiki/linear-a/words/J/JA_star21F|JA_star21F]]: Yāh(a): Yāh, divine name; deity receiving offerings alongside Baal on HT28b. Onomasticon theonym; lexicon entry JA-HA.
 
 [[wiki/linear-a/words/J/JA_star304|JA_star304]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/J/JA_star345|JA_star345]]: Unread (role only): personal name; 1 occurrence(s).
+
+[[wiki/linear-a/words/J/JE|JE]]: Unread sign (syllabogram, unread); 2 occurrence(s).
 
 [[wiki/linear-a/words/J/JE_DI|JE_DI]]: yedī: gentilic 'the Idaean' (of Mount Ida); rivals the personal name 'He knows' and the gentilic 'Judean'. Lexicon, CANDIDATE (tier 2).
 
@@ -115,10 +121,16 @@ updated: 2026-11-09T22:54:29Z
 
 [[wiki/linear-a/words/J/JI_NU_MA_RE|JI_NU_MA_RE]]: yinumare: wine-lords, wine-stewards (personnel category). Lexicon, CANDIDATE (tier 2).
 
+[[wiki/linear-a/words/J/JU|JU]]: Unread sign (syllabogram, value on file); 2 occurrence(s).
+
 [[wiki/linear-a/words/J/JU_KU_NA_PA_KU_NU_U_q_I_ZU|JU_KU_NA_PA_KU_NU_U_q_I_ZU]]: Unread (role only): personal name; 1 occurrence(s).
 
 [[wiki/linear-a/words/J/JU_RA|JU_RA]]: Unread (role only): personal name; 1 occurrence(s).
 
 [[wiki/linear-a/words/J/JU_plus_star317_plus_QE|JU_plus_star317_plus_QE]]: a counted class of men, the composite A542. Lexicon, CONFIRMED (tier 4).
+
+[[wiki/linear-a/words/J/J_plus_L2|J_plus_L2]]: Unread sign (ligature, unread); 1 occurrence(s).
+
+[[wiki/linear-a/words/J/J_star301|J_star301]]: Unread sign (compound, component read); 1 occurrence(s).
 
 ***

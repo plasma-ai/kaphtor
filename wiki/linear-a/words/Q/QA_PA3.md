@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 31: written on the \*402-VS vessel logogram, quantity 10, one of Gordon's four vessel words on the tablet (Gordon 1966 §115). PA₃ writes ba: Heb. qubaʿat (קֻבַּעַת) 'goblet, cup' (Isa 51:17, 22), a vessel term with an original b, the ʿayin unwritten. Rival: Gordon's qa-pa kappu (√k-p-p 'palm, vessel'; §115), whose geminate pp resists the voicing PA₃ would need. One attestation.
+HT 31: written on the \*402-VS vessel logogram, quantity 10, one of Gordon's four vessel words on the tablet (Gordon 1966 §115). PA₃ writes ba: Heb. qubaʿat (קֻבַּעַת) 'goblet, cup' (Isa 51:17, 22), a vessel term with an original b, the ʿayin unwritten. Rival: Gordon's qa-pa kappu (√k-p-p 'palm, vessel'; §115), whose geminate pp resists the voicing PA₃ would need. The sign is a handleless conical vase with a curved upper wall, taller than the cups of SU-PA₃-RA and PA-TA-QE and twice as wide at the base (Duhoux 2002, 39–40). One attestation.
 
 ### Cognates
 
@@ -52,7 +52,7 @@ HT 31: written on the \*402-VS vessel logogram, quantity 10, one of Gordon's fou
 
 ### Source
 
-Gordon 1966 §115; di Mino; GlOS 1; DULAT; cf. Stieglitz (Kadmos 10, 1971, 111) who proposed Akkadian qapūtu / Hebrew qūpāh as alternative
+Gordon 1966 §115; di Mino; Duhoux 2002; GlOS 1; DULAT; cf. Stieglitz (Kadmos 10, 1971, 111) who proposed Akkadian qapūtu / Hebrew qūpāh as alternative
 
 ## Attestations
 

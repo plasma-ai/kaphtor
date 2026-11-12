@@ -1,5 +1,7 @@
 """The record wiki's ledger pages: `counts` (the headline counts), `standing` (every reading by tier, with its
-score), and the `by_site`, `by_root` and `by_sign` indexes.
+score), the `by_site`, `by_root` and `by_sign` indexes, and `unread_signs` (the single and combined signs with no
+lexicon entry, by the untranslated records each one alone leaves unread) when the data folder holds that file.
+`by_scribe` lists every scribe with the records, when the data folder holds `scribes.json`.
 
 Every number is computed here from the data, through `counts`; no stored `stats` block is printed. `by_root` groups
 entries by a lossy consonantal browse key, which is a lead for review and never identity, so it links no root page.
@@ -8,12 +10,25 @@ from __future__ import annotations
 
 from collections import Counter, defaultdict
 
+from ..core import scribes
 from ..core.semitic_root_schema import normalize_root_browse_key
+from ..linear_a.validation import check_unread_signs as sign_check
+from ..linear_a.validation import check_unread_words as word_check
 from . import counts
 from .markdown import escape as esc
 from .markdown import link, table
-from .model import SUBSCRIPTS, Model, attestation_base, natural, sign_parts, sign_path, sign_records, word_path
-from .render import _page, _words
+from .model import (
+    SUBSCRIPTS,
+    Model,
+    attestation_base,
+    doc_path,
+    natural,
+    sign_parts,
+    sign_path,
+    sign_records,
+    word_path,
+)
+from .render import BY_SCRIBE, _page, _words
 
 TIERS = ("CONFIRMED", "PROBABLE", "CANDIDATE", "SPECULATIVE")
 SIGN_STATUSES = ("resolved", "proposed", "speculative", "conventional")
@@ -50,11 +65,26 @@ def _site_row(row: tuple[str, int, int, int, int]) -> list[str]:
     return [esc(site), *(f"{n:,}" for n in numbers)]
 
 
+SEALINGS = ("Nodule", "Roundel", "Sealing")
+
+
+def sealing_labels(model: Model) -> int:
+    """Complete translations of a nodule, roundel or sealing whose whole text is one sign: numerals and separators
+    aside, a single token that is no word of two or more signs (a vessel sign's `-VS` is part of the sign)."""
+    def one_sign(key: str) -> bool:
+        record = model.corpus.get(key) or {}
+        tokens = [t.strip() for t in record.get("transliteratedWords") or [] if not sign_check.is_counted(t)]
+        return (record.get("support") in SEALINGS and len(tokens) == 1
+                and "-" not in tokens[0].removesuffix("-VS"))
+    return sum(1 for key, t in model.translations.items() if counts.is_complete(t["raw"]) and one_sign(key))
+
+
 def counts_page(model: Model) -> tuple[str, str]:
     complete, incomplete = counts.translation_counts({k: t["raw"] for k, t in model.translations.items()})
     summary = model.sign_values["resolution_summary"]
     body = ["## Headline", ""] + table(["Measure", "Count"], [
         ["Translated inscriptions (complete)", f"{complete:,}"],
+        ["of which one-sign sealing labels", f"{sealing_labels(model):,}"],
         ["Translations incomplete", f"{incomplete:,}"],
         ["Corpus records", f"{len(model.corpus):,}"],
         ["Documents", f"{len(counts.documents(model.corpus)):,}"],
@@ -149,5 +179,72 @@ def by_sign(model: Model) -> tuple[str, str]:
     return _ledger("by_sign", "By sign", "Every syllabic and logographic sign with the lexicon words that use it.", body)
 
 
+def unread_signs(model: Model) -> tuple[str, str]:
+    signs = model.unread_signs
+    live = word_check.live_lexicon({"entries": list(model.lexicon.values())})
+    lex_hit = word_check.make_lex_hit(live, {k for k in model.sign_values["signs"] if k.startswith("*")})
+    named = {token for token, o in model.onomasticon.items() if o.get("reading")}
+    blocked = sign_check.sole_blockers(model.corpus, model.translations, signs, lex_hit, named)
+    statuses = Counter(s["status"] for s in signs.values())
+    body = [(f"{len(signs):,} single and combined signs stand as entries in the corpus without a lexicon entry. "
+             f"{sum(len(r) for r in blocked.values()):,} records with no translation wait on one of them alone: every "
+             "other token there is a numeral, a lexicon entry or a name with a reading."), ""]
+    body += ["## By status", ""] + table(["Status", "Signs", "Meaning"], [
+        [esc(_words(s)), str(statuses[s]), esc(model.unread_sign_statuses.get(s, ""))] for s in sorted(statuses)]) + [""]
+
+    def on_file(entry: dict) -> str:
+        values = list(dict.fromkeys(o["value"] for o in entry.get("on_file") or []))
+        if values:
+            return esc("; ".join(values))
+        read = entry.get("read_components") or []
+        return esc("reads " + ", ".join(read)) if read else ""
+
+    def records(sign: str) -> str:
+        keys = blocked.get(sign, [])
+        shown = ", ".join(link(doc_path(k), esc(k)) for k in keys[:8])
+        return shown + (f" and {len(keys) - 8} more" if len(keys) > 8 else "")
+
+    order = sorted(signs, key=lambda s: (-len(blocked.get(s, [])), -signs[s].get("frequency", 0), natural(s)))
+    body += ["## The signs", "",
+             "Ordered by the records each one alone leaves unread, then by occurrences.", ""]
+    body += table(["Sign", "Kind", "Status", "Occurrences", "Records waiting on it alone", "Those records", "On file"], [
+        [link(word_path(s), esc(s)), esc(_words(signs[s]["kind"])), esc(_words(signs[s]["status"])), str(signs[s].get("frequency", 0)),
+         str(len(blocked.get(s, []))), records(s), on_file(signs[s])] for s in order]) + [""]
+    return _ledger("unread_signs", "Unread signs",
+                   "The single and combined signs with no lexicon entry, by the untranslated records each one alone "
+                   "leaves unread.", body)
+
+
+def by_scribe(model: Model) -> tuple[str, str]:
+    index = scribes.scribe_index(model.corpus)
+    assigned = {key for keys in index.values() for key in keys}
+    doubted = sum(1 for key in assigned if model.corpus[key].get("scribe_doubt"))
+    body = [(f"{len(index):,} scribes are assigned {len(assigned):,} records, {doubted:,} of them with a question "
+             "mark in the edition. A scribe is numbered within one site and one class of document. A record that two "
+             "scribes wrote stands under each, with the part each wrote."), "",
+            ("The numbers are GORILA V's, except on the Haghia Triada tablets, which follow Militello 1989's "
+             "numbering; for those the column GORILA V gives the cells GORILA V prints for the same tablets."), ""]
+
+    def record(key: str, label: str) -> str:
+        rec, part = model.corpus[key], scribes.scribe_part(model.corpus[key], label)
+        return link(doc_path(key), esc(key)) + (" (?)" if scribes.doubtful(rec, label) else "") \
+            + (f" ({esc(part)})" if part else "")
+
+    def source(entry: dict) -> str:
+        return esc(". ".join(x.rstrip(".") for x in (entry.get("source") or "", entry.get("note") or "") if x)
+                   + ("." if entry.get("note") else ""))
+
+    rows = []
+    for label, keys in index.items():
+        entry = model.scribes.get(label, {})
+        rows.append([esc(label), esc(entry.get("site") or ""), esc(entry.get("class") or ""),
+                     esc(entry.get("numbering") or ""), esc("; ".join(entry.get("gorila_v") or [])), str(len(keys)),
+                     ", ".join(record(key, label) for key in keys), source(entry)])
+    body += table(["Scribe", "Site", "Class", "Numbering", "GORILA V", "Records", "The records", "Source"], rows) + [""]
+    return _ledger(BY_SCRIBE.rsplit("/", 1)[1], "By scribe",
+                   "Every scribe to whom an edition assigns documents, with the records and the source.", body)
+
+
 def pages(model: Model) -> list[tuple[str, str]]:
-    return [counts_page(model), standing(model), by_site(model), by_root(model), by_sign(model)]
+    ledgers = [counts_page(model), standing(model), by_site(model), by_root(model), by_sign(model)]
+    return ledgers + ([unread_signs(model)] if model.unread_signs else []) + ([by_scribe(model)] if model.scribes else [])

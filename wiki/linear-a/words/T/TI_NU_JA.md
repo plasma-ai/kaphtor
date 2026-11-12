@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 115b .2 TI-NU-JA · NU-WI · GRA ½, the frame of side a's \*47-NU-RA-JA · I · GRA+BOSm / NU-WI, so a person (GORILA I 191). ṯinu-ya, Ugaritic ṯn 'two, twofold' (DULAT 905) + hypocoristic -ya as in \*306-TU-JA on the same tablet; Ugarit has the personal name ṯny (DULAT 911). TI writes ṯ, as in TI-DA-TA ṯādīta 'sixth' and TU-PI-TA ṯāpiṭu. Rival: Dīnuya, √d-y-n 'judge', which needs TI = d, while the judge words here are written DI (DI-NA). One witness.
+HT 115b .2 TI-NU-JA · NU-WI · GRA ½, the frame of side a's \*47-NU-RA-JA · I · GRA+BOSm / NU-WI, so a person (GORILA I 191). ṯinu-ya, Ugaritic ṯn 'two, twofold' (DULAT 905) + hypocoristic -ya as in \*306-TU-JA on the same tablet; Ugarit has the personal name ṯny (DULAT 911). TI writes ṯ, as in TI-DA-TA ṯādīta 'sixth' and TU-PI-TA ṯūpiṭa. Rival: Dīnuya, √d-y-n 'judge', which needs TI = d, while the judge words here are written DI (DI-NA). One witness.
 
 ### Cognates
 

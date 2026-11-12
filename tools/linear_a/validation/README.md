@@ -19,3 +19,5 @@ through `tools/core/run_saver.py`, so `ventris_runs.py` lists them.
 | `db_composition_audit.py` | The make-up of the comparison databases |
 | `guttural_audit.py`, `guttural_compression_analysis.py` | Whether guttural matches inflate the scores |
 | `check_unread_words.py` | Drift between `unread_words.json` and the corpus; writes nothing |
+| `check_scribes.py` | The corpus scribe fields (`scribe`, `scribe_doubt`, `scribe_part`, `scribe_also`, `scribe_gorila`) against `scribes.json`: a label without an entry, an entry no record carries, doubt written into a label, a second scribe that is malformed or repeats the first; writes nothing |
+| `check_unread_signs.py` | Drift between `unread_signs.json` and the corpus; `--rank` lists the signs by the untranslated records each one alone leaves unread; writes nothing |

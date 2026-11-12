@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/inscriptions/PH/PHWc/PHWc38
 title: "PHWc38"
-desc: "Roundel, Phaistos, MMII. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "roundel"]
+desc: "Roundel, Phaistos, MMII. Translation: complete (CANDIDATE)."
+tags: ["linear-a", "inscription", "translation-complete", "roundel"]
 kind: "inscription"
 id: "PHWc38"
 site: "Phaistos"
 support: "Roundel"
 period: "MMII"
-translation: "none"
+translation: "complete"
 words: ["*314-TA-MA"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -47,6 +47,21 @@ Unicode (Linear A block):
 ```text
 𐙦𐘳𐙁
 ```
+
+## Translation
+
+**CANDIDATE**, complete.
+
+> Seal.
+
+| Word | Reading | Gloss | Confidence | Lexicon |
+|---|---|---|---|---|
+| [[wiki/linear-a/words/star/star314_TA_MA\|\*314-TA-MA]] | ḥatam(a) | seal, signet | CANDIDATE | CANDIDATE (lexicon) |
+
+### Source
+
+- di Mino: \*314-TA-MA
+- GORILA: PHWc38
 
 ## Lexicon words citing this document
 

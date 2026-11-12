@@ -58,7 +58,7 @@ di Mino; DULAT; CAD K
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/TY/TY/TY3b\|TY3b]] | Tylissos | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/TY/TY/TY3b\|TY3b]] | Tylissos | Tablet | complete |
 
 ## In translations
 

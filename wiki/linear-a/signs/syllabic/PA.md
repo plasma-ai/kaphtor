@@ -51,7 +51,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/star/star304_plus_PA\|\*304+PA]] | pidru + PA | CANDIDATE |
 | [[wiki/linear-a/words/A/A_KU_JU_PA\|A-KU-JU-PA]] | ʾakulpa | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_PA_KI\|A-PA-KI]] | ʾabkī | SPECULATIVE |
-| [[wiki/linear-a/words/A/A_PA_RA_NE\|A-PA-RA-NE]] | ʿabrāne | CANDIDATE |
+| [[wiki/linear-a/words/A/A_PA_RA_NE\|A-PA-RA-NE]] | ʿAbrān | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | ʾarān Ṣidna bikē bayta rēšī tarīmu ʾAyaku | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RI_PA\|A-RI-PA]] | ʾaripāʾ | CANDIDATE |
 | [[wiki/linear-a/words/D/DI_PA_JA\|DI-PA-JA]] | dipaya | CANDIDATE |
@@ -76,11 +76,11 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/P/PA_JA\|PA-JA]] | Pay | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_JA_RE\|PA-JA-RE]] | Payare | PROBABLE |
 | [[wiki/linear-a/words/P/PA_JA_TA\|PA-JA-TA]] | bayta | SPECULATIVE |
-| [[wiki/linear-a/words/P/PA_KU_PU_KO\|PA-KU / PU-KO]] | pak / pukku | CANDIDATE |
+| [[wiki/linear-a/words/P/PA_KU\|PA-KU]] | pak | CANDIDATE |
 | [[wiki/linear-a/words/P/PA_NA_TU\|PA-NA-TU]] | banātu / panātu / (Ku)bānatu | CANDIDATE |
 | [[wiki/linear-a/words/P/PA_NU_QE\|PA-NU-QE]] | Panūq | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_RA\|PA-RA]] | parr(u) | SPECULATIVE |
-| [[wiki/linear-a/words/P/PA_RA_NE\|PA-RA-NE]] | barāne | CANDIDATE |
+| [[wiki/linear-a/words/P/PA_RA_NE\|PA-RA-NE]] | Barān | CANDIDATE |
 | [[wiki/linear-a/words/P/PA_RO_SU\|PA-RO-SU]] | Parʿōš | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_SA_RI_JA\|PA-SA-RI-JA]] | Baṣariya | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_SE\|PA-SE]] | Pašše | SPECULATIVE |

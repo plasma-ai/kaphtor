@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "incomplete"
-words: ["CYP", "I-MI-SA-RA", "KU-RO", "NI", "SA-RA-DI", "TI-NI-TA", "TI-NI-TA *307"]
+words: ["CYP", "I-MI-SA-RA", "KU-RO", "NI", "SA-RA-DI", "TI-NI-TA", "TI-NI-TA *307", "VIR+[?]"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -30,7 +30,7 @@ updated: 2026-10-24T16:17:50Z
 | Findspot | Villa Magazine |
 | Support | Tablet |
 | Period | LMIB |
-| Scribe | HT Scribe 11 |
+| Scribe | [[wiki/linear-a/by_scribe\|HT Scribe 11]] |
 | Edition | GORILA 1 |
 | Series | HT |
 | SigLA | [HT 27a](https://sigla.phis.me/document/HT%2027a/) |
@@ -85,9 +85,9 @@ Unicode (Linear A block):
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | [[wiki/linear-a/words/T/TI_NI_TA\|TI-NI-TA]] | Tinit | Tinit (goddess), heading | CONFIRMED | CONFIRMED (lexicon) |
-| \*307 | dubur | sanctuary | CONFIRMED |  |
-| VIR+\[?\] |  | men | PROBABLE |  |
-| \*86 |  | counted class after VIR, as HT94a |  |  |
+| [[wiki/linear-a/words/star/star307\|\*307]] | dubur | sanctuary | CONFIRMED | PROBABLE (lexicon) |
+| [[wiki/linear-a/words/V/VIR_plus_q_broken_end\|VIR+&#91;?&#93;]] |  | men | PROBABLE | PROBABLE (lexicon) |
+| [[wiki/linear-a/words/star/star86\|\*86]] |  | counted class after VIR, as HT94a |  |  |
 | [[wiki/linear-a/words/R/RE\|RE]] |  | counted entry |  | CONFIRMED (lexicon) |
 | [[wiki/linear-a/words/I/I_MI_SA_RA\|I-MI-SA-RA]] | Il-Mīšar | Il-Mīšar, god of justice, heads 43\[ | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/Q/QE\|QE]] |  | entry, 21 |  | SPECULATIVE (lexicon) |
@@ -113,7 +113,7 @@ Personnel account with a ration triad after the total, the format of HT89; Monte
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/C/CYP|CYP]], [[wiki/linear-a/words/I/I_MI_SA_RA|I-MI-SA-RA]], [[wiki/linear-a/words/K/KU_RO|KU-RO]], [[wiki/linear-a/words/N/NI|NI]], [[wiki/linear-a/words/S/SA_RA_DI|SA-RA-DI]], [[wiki/linear-a/words/T/TI_NI_TA|TI-NI-TA]], [[wiki/linear-a/words/T/TI_NI_TA_star307|TI-NI-TA \*307]].
+[[wiki/linear-a/words/C/CYP|CYP]], [[wiki/linear-a/words/I/I_MI_SA_RA|I-MI-SA-RA]], [[wiki/linear-a/words/K/KU_RO|KU-RO]], [[wiki/linear-a/words/N/NI|NI]], [[wiki/linear-a/words/S/SA_RA_DI|SA-RA-DI]], [[wiki/linear-a/words/T/TI_NI_TA|TI-NI-TA]], [[wiki/linear-a/words/T/TI_NI_TA_star307|TI-NI-TA \*307]], [[wiki/linear-a/words/V/VIR_plus_q_broken_end|VIR+&#91;?&#93;]].
 
 ## Corpus note
 

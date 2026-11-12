@@ -37,7 +37,7 @@ if __package__ in (None, ""):
     __package__ = "tools.views"
 
 from ..paths import BACKUPS, NotInCheckout
-from . import aegean, indexes, markdown, model, pregreek, render, roots, summaries
+from . import aegean, indexes, markdown, model, names, pregreek, render, roots, summaries
 
 INDEX = "_index.md"
 SHOWN = 10
@@ -84,12 +84,21 @@ def plan(data: Path, out: Path) -> dict:
     # the repository's layout: data/linear-a, data/semitic-roots, data/pre-greek
     roots_data, pregreek_data = Path(data).parent / "semitic-roots", Path(data).parent / "pre-greek"
     pages = render.collect([*render.pages(loaded).items(), *aegean.pages(data).items(),
+                            *names.pages(loaded).items(),
                             *roots.pages(roots_data, pregreek.by_root(pregreek_data)).items(),
                             *pregreek.pages(pregreek_data, roots_data).items()])
     fresh = {file_for(out, path): text for path, text in sorted(pages.items())}
     result = {"fresh": fresh, "missing": [], "stale": [], "current": [], "orphaned": [], "unmarked": [],
-              "outside": [], "texts": {}, "indexes": {}, "summaries": {}}
-    for folder, desc in {**indexes.descs(loaded), **roots.descs(roots_data), **pregreek.descs(pregreek_data)}.items():
+              "outside": [], "texts": {}, "indexes": {}, "summaries": {}, "assets": {}}
+    # a file a section ships beside its pages (the names section's map), rewritten whole when it differs
+    for path, text in names.assets(loaded).items():
+        target = out / path.removeprefix("wiki/")
+        if not target.resolve().is_relative_to(out.resolve()):
+            raise ValueError(f"asset path {path!r} leaves the wiki folder")
+        if not target.exists() or target.read_text(encoding="utf-8") != text:
+            result["assets"][target] = text
+    for folder, desc in {**indexes.descs(loaded), **roots.descs(roots_data), **pregreek.descs(pregreek_data),
+                         **names.descs(loaded)}.items():
         target = file_for(out, folder + "/" + INDEX.removesuffix(".md"))
         if not target.exists():
             result["indexes"][target] = markdown.frontmatter({"desc": desc}) + "\n"
@@ -98,9 +107,19 @@ def plan(data: Path, out: Path) -> dict:
         if markdown.parse_frontmatter(existing).get("desc") in (None, "", indexes.PLACEHOLDER):
             result["texts"][target] = existing
             result["indexes"][target] = markdown.set_frontmatter(existing, {"desc": desc})
+    # the names folders carry a title, which an index would otherwise take from its path; the descs above cover the
+    # same folders, so an index not yet on disk is already among the pending ones
+    for folder, title in names.titles(loaded).items():
+        target = file_for(out, folder + "/" + INDEX.removesuffix(".md"))
+        base = result["indexes"].get(target) or (target.read_text(encoding="utf-8") if target.exists() else None)
+        if base is None or markdown.parse_frontmatter(base).get("title") == title:
+            continue
+        if target not in result["indexes"]:
+            result["texts"][target] = base
+        result["indexes"][target] = markdown.set_frontmatter(base, {"title": title})
     # each section's summary, its numbers from the data, in the block under its index's `***`; an index not yet made
     # starts as the rule and the summary, and `wiki update` writes its rows above them
-    for folder, body in summaries.bodies(loaded, roots_data).items():
+    for folder, body in {**summaries.bodies(loaded, roots_data), **names.summaries(loaded)}.items():
         target = file_for(out, folder + "/" + INDEX.removesuffix(".md"))
         base = result["indexes"].get(target) or (target.read_text(encoding="utf-8") if target.exists() else None)
         text = markdown.set_summary(base or markdown.frontmatter({"desc": indexes.PLACEHOLDER}) + "\n", body)
@@ -136,12 +155,13 @@ def plan(data: Path, out: Path) -> dict:
 
 
 def report(result: dict, out: Path) -> None:
-    for name in ("missing", "stale", "orphaned", "unmarked", "outside", "indexes", "summaries"):
+    for name in ("missing", "stale", "orphaned", "unmarked", "outside", "indexes", "summaries", "assets"):
         paths = list(result[name])
         if paths:
             label = {"unmarked": "without the builder's block", "outside": "with text outside the block",
                      "indexes": "folder indexes without a desc",
-                     "summaries": "folder indexes whose summary is out of date"}.get(name, name)
+                     "summaries": "folder indexes whose summary is out of date",
+                     "assets": "files beside the pages that are missing or out of date"}.get(name, name)
             print(f"{len(paths)} {label}:")
             for p in paths[:SHOWN]:
                 print(f"  {p.relative_to(out)}")
@@ -217,7 +237,7 @@ def _run(argv: list[str] | None) -> int:
         report(result, out)
         if (snapshot(out), snapshot(args.data)) != before:
             raise RuntimeError("the check changed files on disk")
-        problems = ("missing", "stale", "orphaned", "unmarked", "outside", "indexes", "summaries")
+        problems = ("missing", "stale", "orphaned", "unmarked", "outside", "indexes", "summaries", "assets")
         return 1 if any(result[name] for name in problems) else 0
 
     dirty = git_dirty(out)
@@ -246,7 +266,7 @@ def _run(argv: list[str] | None) -> int:
         write(target, result["fresh"][target])
     for target in result["stale"]:
         write(target, markdown.splice(result["texts"][target], result["fresh"][target], render.OWNED_KEYS))
-    for target, text in {**result["indexes"], **result["summaries"]}.items():
+    for target, text in {**result["indexes"], **result["summaries"], **result["assets"]}.items():
         write(target, text)
     for target in result["orphaned"] if args.prune else []:
         target.unlink()
@@ -254,6 +274,7 @@ def _run(argv: list[str] | None) -> int:
           + (f", and {len(result['indexes'])} folder desc(s)" if result["indexes"] else "")
           + (f", and {len(result['summaries'])} summar{'y' if len(result['summaries']) == 1 else 'ies'}"
              if result["summaries"] else "")
+          + (f", and {len(result['assets'])} file(s) beside the pages" if result["assets"] else "")
           + (f"; deleted {len(result['orphaned'])}" if args.prune and result["orphaned"] else ""))
     return 0
 

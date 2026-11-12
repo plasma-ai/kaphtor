@@ -1,0 +1,3953 @@
+{
+  "schema_version": "1.0",
+  "description": "Every corpus token that is one sign or a combination of signs (a ligature, a vessel sign, a logogram, or a logogram joined to a sign) and has no entry in the lexicon, with its attestations and what is on file for it. The sister of unread_words.json, which holds words of two or more signs. Hand-edited.",
+  "statuses": {
+    "unread": "nothing on file",
+    "component_read": "a combined sign with a component the lexicon reads",
+    "value_on_file": "sign_values.json or a translation gives it a value; it has no lexicon entry"
+  },
+  "kinds": {
+    "syllabogram": "a syllabic sign standing alone",
+    "sign": "a starred sign standing alone",
+    "ligature": "signs joined by +",
+    "vessel": "a vessel sign (-VS)",
+    "logogram": "a logogram named by its Latin code",
+    "compound": "a logogram or sign joined to others by a hyphen"
+  },
+  "stats": {
+    "listed": 197,
+    "by_status": {
+      "unread": 112,
+      "value_on_file": 11,
+      "component_read": 74
+    },
+    "by_kind": {
+      "syllabogram": 33,
+      "sign": 49,
+      "ligature": 76,
+      "vessel": 7,
+      "logogram": 5,
+      "compound": 27
+    },
+    "occurrences": 501,
+    "hapax": 113,
+    "cross_site": 44
+  },
+  "excluded": {
+    "None": "a placeholder in the corpus record, not a sign",
+    "double mina": "a metrological notation, spelled out in the corpus",
+    "|||||||||||||": "tally strokes",
+    "𐁁": "a Linear B glyph in the corpus record",
+    "SI+SE-NI": "listed in unread_words.json (HT 99b)"
+  },
+  "entries": [
+    {
+      "sign": "I",
+      "kind": "syllabogram",
+      "status": "unread",
+      "frequency": 34,
+      "attestations": [
+        "HT115a",
+        "HT115b",
+        "HT43",
+        "HT93a",
+        "HTWa1150",
+        "HTWa1151",
+        "HTWa1152",
+        "HTWa1153",
+        "HTWa1154",
+        "HTWa1155",
+        "HTWa1156",
+        "HTWa1157",
+        "HTWa1158",
+        "HTWa1159",
+        "HTWa1160",
+        "HTWa1161",
+        "HTWa1162",
+        "HTWa1163",
+        "HTWa1164",
+        "HTWa1165",
+        "HTWa1166",
+        "HTWa1167",
+        "HTWa1168",
+        "HTWa1169",
+        "HTWa1170",
+        "HTWa1171",
+        "HTWa1172",
+        "HTWa1173",
+        "HTWa1174",
+        "HTZf165",
+        "KANZa1",
+        "KNZg57b",
+        "ZA11b"
+      ],
+      "sites": [
+        "Haghia Triada",
+        "Kannia",
+        "Knossos",
+        "Zakros"
+      ],
+      "cross_site": true,
+      "note": "Alone on 25 Haghia Triada nodules (HT Wa 1150–1174) and on the metal object HT Zf 165. On tablets it stands as an entry between dividers before a grain logogram: HT 115a *47-NU-RA-JA · I · GRA+BOSm, HT 43 MA-SI-DU · PA-*342-I · I · GRA+PA 5; before OLIV 1 on ZA 11b. No reading."
+    },
+    {
+      "sign": "TA",
+      "kind": "syllabogram",
+      "status": "unread",
+      "frequency": 21,
+      "attestations": [
+        "HT109",
+        "HT154a",
+        "HT94a",
+        "HTWa1267",
+        "HTWa1268",
+        "HTWa1269",
+        "HTWa1270",
+        "HTWa1271",
+        "HTWa1272",
+        "HTWa1273",
+        "HTWa1274",
+        "HTWa1275",
+        "HTWa1276",
+        "HTWa1277",
+        "HTWa1278",
+        "KH16",
+        "KH64",
+        "KH8",
+        "THEZg5",
+        "ZA10b",
+        "ZA24b"
+      ],
+      "sites": [
+        "Haghia Triada",
+        "Khania",
+        "Thera",
+        "Zakros"
+      ],
+      "cross_site": true,
+      "note": "Alone on 12 Haghia Triada nodules (HT Wa 1267–1278). On tablets an entry with a quantity: TA 4 before the total on HT 94a and HT 109, TA 6 on HT 154a, TA 2 on KH 8; TA 4 on the Thera stone object THE Zg 5. No reading."
+    },
+    {
+      "sign": "A",
+      "kind": "syllabogram",
+      "status": "unread",
+      "frequency": 18,
+      "attestations": [
+        "ARKH1b",
+        "ARKH5",
+        "HT37",
+        "HT57a",
+        "HTWa1147",
+        "HTWa1148",
+        "HTWa1149",
+        "KANZa1",
+        "KH17",
+        "KH33",
+        "KH45",
+        "KH73",
+        "PEZb8",
+        "PH27",
+        "PKZa11",
+        "SYZa12",
+        "ZA21a"
+      ],
+      "sites": [
+        "Arkhanes",
+        "Haghia Triada",
+        "Kannia",
+        "Khania",
+        "Palaikastro",
+        "Petras",
+        "Phaistos",
+        "Syme",
+        "Zakros"
+      ],
+      "cross_site": true,
+      "note": "Alone on 3 Haghia Triada nodules (HT Wa 1147–1149) and the Petras vessel PE Zb 8. On tablets at Khania, Haghia Triada, Arkhanes, Phaistos and Zakros it stands as an entry, with a quantity on HT 57a (A ⅛). No reading."
+    },
+    {
+      "sign": "O",
+      "kind": "syllabogram",
+      "status": "unread",
+      "frequency": 17,
+      "attestations": [
+        "HT113",
+        "HT144",
+        "HTWa1279",
+        "HTWa1280",
+        "HTWa1281",
+        "KHWc2001",
+        "KHWc2002",
+        "KHWc2033",
+        "KHWc2034",
+        "KHWc2035",
+        "KHWc2101",
+        "KHWc2104",
+        "KHWc2105",
+        "KHWc2110",
+        "KHWc2115",
+        "KHWc2118",
+        "KNWc42"
+      ],
+      "sites": [
+        "Haghia Triada",
+        "Khania",
+        "Knossos"
+      ],
+      "cross_site": true,
+      "note": "Alone on 11 Khania roundels and 3 Haghia Triada nodules (HT Wa 1279–1281); NA O on the roundel KN Wc 42. With a quantity on HT 113: O 2½. No reading."
+    },
+    {
+      "sign": "KI",
+      "kind": "syllabogram",
+      "status": "value_on_file",
+      "on_file": [
+        {
+          "file": "translations.json",
+          "record": "HT118",
+          "value": "owed(?), abbreviation of KI-RO"
+        }
+      ],
+      "frequency": 16,
+      "attestations": [
+        "HT100",
+        "HT118",
+        "HT154.",
+        "HT49a",
+        "HT54b",
+        "HT81",
+        "HT97a",
+        "KEZb3",
+        "KKHZb1",
+        "THE10",
+        "TY3a",
+        "ZA21b"
+      ],
+      "sites": [
+        "Haghia Triada",
+        "Kalo Chorafi",
+        "Kea",
+        "Thera",
+        "Tylissos",
+        "Zakros"
+      ],
+      "cross_site": true,
+      "note": "An entry with a quantity on Haghia Triada tablets: KI 2 on HT 100, and KI 10, KI 4 and KI 1 after names on HT 118, where the translation takes it as short for KI-RO. Alone on the vessels KE Zb 3 and KKH Zb 1 and the Thera tablet THE 10. No lexicon entry."
+    },
+    {
+      "sign": "*164",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 12,
+      "attestations": [
+        "KHWc2036",
+        "KHWc2037",
+        "KHWc2038",
+        "KHWc2039",
+        "KHWc2040",
+        "KHWc2041",
+        "KHWc2042",
+        "KHWc2043",
+        "KHWc2044",
+        "KHWc2045",
+        "KHWc2095",
+        "KHWc2111"
+      ],
+      "sites": [
+        "Khania"
+      ],
+      "cross_site": false,
+      "note": "Alone on 12 Khania roundels in the corpus (KH Wc 2036–2045, 2095, 2111). Inside a word at Haghia Triada: RA-*164-TI (HT 17, HT 19). Nosch and Weilhartner take it as a syllabogram at Haghia Triada and a logogram at Khania, possibly for textiles, because a similar sign is a textile logogram in Linear B, *164, known only at Knossos (2026). No reading."
+    },
+    {
+      "sign": "*86+*188",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "*86",
+        "*188"
+      ],
+      "read_components": [
+        "*188"
+      ],
+      "frequency": 11,
+      "attestations": [
+        "HT8b",
+        "KHWc2058",
+        "KHWc2059",
+        "KHWc2060",
+        "KHWc2061",
+        "KHWc2062",
+        "KHWc2091",
+        "KHWc2092",
+        "KHWc2097",
+        "KHWc2109",
+        "KHWc2117"
+      ],
+      "sites": [
+        "Haghia Triada",
+        "Khania"
+      ],
+      "cross_site": true,
+      "note": "Alone on 9 Khania roundels and after VIR+[?] on a tenth; an entry on HT 8b. *188 with *86 attached; the lexicon reads *188, and HT 8b is translated after Uchitel's ship sign (2016b, 9). No reading."
+    },
+    {
+      "sign": "*301+*311",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "*301",
+        "*311"
+      ],
+      "read_components": [
+        "*301"
+      ],
+      "frequency": 10,
+      "attestations": [
+        "ARMZg1",
+        "KHWc2046",
+        "KHWc2047",
+        "KHWc2048",
+        "KHWc2049",
+        "KHWc2050",
+        "KHWc2051",
+        "KHWc2052",
+        "KHWc2053",
+        "KHWc2113"
+      ],
+      "sites": [
+        "Armenoi",
+        "Khania"
+      ],
+      "cross_site": true,
+      "note": "Alone on 9 Khania roundels (KH Wc 2046–2053, 2113) and the Armenoi stone object ARM Zg 1. *301 with *311 attached; the lexicon reads *301. No reading."
+    },
+    {
+      "sign": "QA2+[?]+PU",
+      "kind": "ligature",
+      "status": "unread",
+      "components": [
+        "QA2",
+        "[?]",
+        "PU"
+      ],
+      "frequency": 9,
+      "attestations": [
+        "HT12",
+        "HT23a",
+        "HT23b",
+        "HT30",
+        "HT32",
+        "HT34",
+        "HT35",
+        "HT60",
+        "KH8"
+      ],
+      "sites": [
+        "Haghia Triada",
+        "Khania"
+      ],
+      "cross_site": true,
+      "note": ""
+    },
+    {
+      "sign": "HIDE+[?]",
+      "kind": "ligature",
+      "status": "unread",
+      "components": [
+        "HIDE",
+        "[?]"
+      ],
+      "frequency": 9,
+      "attestations": [
+        "MA4b",
+        "MA6a",
+        "MA6b",
+        "MA6c",
+        "MA6d",
+        "MAWc7",
+        "PH10",
+        "PH15b"
+      ],
+      "sites": [
+        "Malia",
+        "Phaistos"
+      ],
+      "cross_site": true,
+      "note": "The [?] is an element joined to the hide sign that the transcription does not name; no sign is lost."
+    },
+    {
+      "sign": "DA",
+      "kind": "syllabogram",
+      "status": "unread",
+      "frequency": 8,
+      "attestations": [
+        "GO2r",
+        "GO2v",
+        "HT3",
+        "HTWa1031",
+        "HTZb162bis",
+        "HTZf163",
+        "HTZf164",
+        "HTZf168"
+      ],
+      "sites": [
+        "Gournia",
+        "Haghia Triada"
+      ],
+      "cross_site": true,
+      "note": "Alone on the nodule HT Wa 1031, the vessel HT Zb 162bis and the metal objects HT Zf 163 and 164; NE DA on HT Zf 168. An entry on GO 2 and HT 3. No reading."
+    },
+    {
+      "sign": "MA",
+      "kind": "syllabogram",
+      "status": "unread",
+      "frequency": 8,
+      "attestations": [
+        "HT110b",
+        "HT146",
+        "HT3",
+        "KH61",
+        "KH62",
+        "THEZg5",
+        "ZA29"
+      ],
+      "sites": [
+        "Haghia Triada",
+        "Khania",
+        "Thera",
+        "Zakros"
+      ],
+      "cross_site": true,
+      "note": ""
+    },
+    {
+      "sign": "*306",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 7,
+      "attestations": [
+        "KH11",
+        "KH4",
+        "KH47",
+        "KH6",
+        "KH84",
+        "KH87"
+      ],
+      "sites": [
+        "Khania"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "JA",
+      "kind": "syllabogram",
+      "status": "unread",
+      "frequency": 7,
+      "attestations": [
+        "APZa<3>",
+        "CRZf5",
+        "HT44b",
+        "PH1a",
+        "PK3",
+        "SYZa1",
+        "ZA32"
+      ],
+      "sites": [
+        "Apodoulou",
+        "Crete",
+        "Haghia Triada",
+        "Palaikastro",
+        "Phaistos",
+        "Syme",
+        "Zakros"
+      ],
+      "cross_site": true,
+      "note": ""
+    },
+    {
+      "sign": "NA",
+      "kind": "syllabogram",
+      "status": "unread",
+      "frequency": 7,
+      "attestations": [
+        "ARKH1b",
+        "HT154c",
+        "HT64",
+        "KH36",
+        "KNWc42",
+        "KNZa10",
+        "PHWc40"
+      ],
+      "sites": [
+        "Arkhanes",
+        "Haghia Triada",
+        "Khania",
+        "Knossos",
+        "Phaistos"
+      ],
+      "cross_site": true,
+      "note": ""
+    },
+    {
+      "sign": "RA",
+      "kind": "syllabogram",
+      "status": "unread",
+      "frequency": 7,
+      "attestations": [
+        "HT147",
+        "HT53a",
+        "KH14",
+        "KH29",
+        "KH47",
+        "KNZg57b",
+        "ZA11b"
+      ],
+      "sites": [
+        "Haghia Triada",
+        "Khania",
+        "Knossos",
+        "Zakros"
+      ],
+      "cross_site": true,
+      "note": ""
+    },
+    {
+      "sign": "SE",
+      "kind": "syllabogram",
+      "status": "unread",
+      "frequency": 7,
+      "attestations": [
+        "GO2r",
+        "HTWc3004",
+        "HTWc3005",
+        "KH104",
+        "KH28",
+        "KH95",
+        "LACHZa1"
+      ],
+      "sites": [
+        "Gournia",
+        "Haghia Triada",
+        "Khania",
+        "Lachish"
+      ],
+      "cross_site": true,
+      "note": ""
+    },
+    {
+      "sign": "WA",
+      "kind": "syllabogram",
+      "status": "value_on_file",
+      "on_file": [
+        {
+          "file": "translations.json",
+          "record": "HTWc3007",
+          "value": "cloth (logogram), as alone on HT Wc 3019 (WA ¼)"
+        },
+        {
+          "file": "translations.json",
+          "record": "HTWc3008",
+          "value": "cloth (logogram)"
+        }
+      ],
+      "frequency": 6,
+      "attestations": [
+        "ARGZg1",
+        "HT16",
+        "HT20",
+        "HTWc3019",
+        "KHWc2124",
+        "ZAZg34"
+      ],
+      "sites": [
+        "Argos",
+        "Haghia Triada",
+        "Khania",
+        "Zakros"
+      ],
+      "cross_site": true,
+      "note": "With a quantity on HT 16 (⅓), HT 20, the roundel HT Wc 3019 (¼) and the Zakros stone vessel ZA Zg 34 (60); alone on the roundel KH Wc 2124. The translations of HT Wc 3007, HT Wc 3008 and HT 20 take it as the cloth logogram, as Nosch and Weilhartner do for AB 54 on HT Wc 3019, HT 16 and HT 20 (2026). No lexicon entry."
+    },
+    {
+      "sign": "QA2+[?]+RE",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "QA2",
+        "[?]",
+        "RE"
+      ],
+      "read_components": [
+        "RE"
+      ],
+      "frequency": 6,
+      "attestations": [
+        "HT23a",
+        "HT23b",
+        "HT32",
+        "HT33",
+        "HT34",
+        "HT60"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*409-VS",
+      "kind": "vessel",
+      "status": "unread",
+      "frequency": 5,
+      "attestations": [
+        "KHWc2010",
+        "KHWc2020",
+        "KHWc2021",
+        "KHWc2025",
+        "ZO1"
+      ],
+      "sites": [
+        "Khania",
+        "Zominthos"
+      ],
+      "cross_site": true,
+      "note": "A vessel sign. Alone on 4 Khania roundels (KH Wc 2010, 2020, 2021, 2025); *409-VS 217 on ZO 1. No reading."
+    },
+    {
+      "sign": "*86",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 5,
+      "attestations": [
+        "HT11b",
+        "HT27a",
+        "HT45a",
+        "HT94a",
+        "HT94b"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": "HT 11b *86 · KA 40 opens a list counted in KA. Uchitel takes the sign for a schematic ship, heading shipments (2016b, 9); the syllabic value proposed is na. No lexicon entry."
+    },
+    {
+      "sign": "*312",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 4,
+      "attestations": [
+        "ARKH3a",
+        "HT123+124b",
+        "HT49a",
+        "KH8"
+      ],
+      "sites": [
+        "Arkhanes",
+        "Haghia Triada",
+        "Khania"
+      ],
+      "cross_site": true,
+      "note": ""
+    },
+    {
+      "sign": "*408-VS",
+      "kind": "vessel",
+      "status": "unread",
+      "frequency": 4,
+      "attestations": [
+        "KHWc2084",
+        "KHWc2103",
+        "KHWc2114",
+        "KHWc2122"
+      ],
+      "sites": [
+        "Khania"
+      ],
+      "cross_site": false,
+      "note": "A vessel sign. Alone on 4 Khania roundels (KH Wc 2084, 2103, 2114, 2122). No reading."
+    },
+    {
+      "sign": "MI",
+      "kind": "syllabogram",
+      "status": "unread",
+      "frequency": 4,
+      "attestations": [
+        "HT113ter",
+        "KH9",
+        "KNWa51",
+        "ZA20"
+      ],
+      "sites": [
+        "Haghia Triada",
+        "Khania",
+        "Knossos",
+        "Zakros"
+      ],
+      "cross_site": true,
+      "note": ""
+    },
+    {
+      "sign": "OLE+E",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "OLE",
+        "E"
+      ],
+      "read_components": [
+        "OLE",
+        "E"
+      ],
+      "frequency": 4,
+      "attestations": [
+        "HT2",
+        "HT21",
+        "HT50a",
+        "HT58"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "RU",
+      "kind": "syllabogram",
+      "status": "unread",
+      "frequency": 4,
+      "attestations": [
+        "KH49",
+        "MA10a",
+        "ZA12a",
+        "ZA12b"
+      ],
+      "sites": [
+        "Khania",
+        "Malia",
+        "Zakros"
+      ],
+      "cross_site": true,
+      "note": ""
+    },
+    {
+      "sign": "VIR+*313b",
+      "kind": "ligature",
+      "status": "unread",
+      "components": [
+        "VIR",
+        "*313b"
+      ],
+      "frequency": 4,
+      "attestations": [
+        "HT94a",
+        "KH7a"
+      ],
+      "sites": [
+        "Haghia Triada",
+        "Khania"
+      ],
+      "cross_site": true,
+      "note": ""
+    },
+    {
+      "sign": "*318",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 3,
+      "attestations": [
+        "HT126a",
+        "HT45a",
+        "HT45b"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*319",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 3,
+      "attestations": [
+        "HT132",
+        "HTZd157+156"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*401+*304",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "*401",
+        "*304"
+      ],
+      "read_components": [
+        "*401",
+        "*304"
+      ],
+      "frequency": 3,
+      "attestations": [
+        "HT33",
+        "KH12",
+        "KNZg57a"
+      ],
+      "sites": [
+        "Haghia Triada",
+        "Khania",
+        "Knossos"
+      ],
+      "cross_site": true,
+      "note": ""
+    },
+    {
+      "sign": "*401+RO",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "*401",
+        "RO"
+      ],
+      "read_components": [
+        "*401",
+        "RO"
+      ],
+      "frequency": 3,
+      "attestations": [
+        "KH31",
+        "KNZg57a"
+      ],
+      "sites": [
+        "Khania",
+        "Knossos"
+      ],
+      "cross_site": true,
+      "note": ""
+    },
+    {
+      "sign": "*412+E",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "*412",
+        "E"
+      ],
+      "read_components": [
+        "*412",
+        "E"
+      ],
+      "frequency": 3,
+      "attestations": [
+        "MA10a",
+        "MA10b",
+        "MA10c"
+      ],
+      "sites": [
+        "Malia"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*418+L2",
+      "kind": "ligature",
+      "status": "unread",
+      "components": [
+        "*418",
+        "L2"
+      ],
+      "frequency": 3,
+      "attestations": [
+        "KNZg57a",
+        "PH8a",
+        "PKZa28"
+      ],
+      "sites": [
+        "Knossos",
+        "Palaikastro",
+        "Phaistos"
+      ],
+      "cross_site": true,
+      "note": ""
+    },
+    {
+      "sign": "GRA+F",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "GRA",
+        "F"
+      ],
+      "read_components": [
+        "GRA"
+      ],
+      "frequency": 3,
+      "attestations": [
+        "HT125b",
+        "KH1",
+        "KH28"
+      ],
+      "sites": [
+        "Haghia Triada",
+        "Khania"
+      ],
+      "cross_site": true,
+      "note": ""
+    },
+    {
+      "sign": "GRA+K+L",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "GRA",
+        "K",
+        "L"
+      ],
+      "read_components": [
+        "GRA"
+      ],
+      "frequency": 3,
+      "attestations": [
+        "HT120",
+        "HT86a",
+        "HT86b"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "L",
+      "kind": "logogram",
+      "status": "unread",
+      "frequency": 3,
+      "attestations": [
+        "KN49",
+        "PH7b"
+      ],
+      "sites": [
+        "Knossos",
+        "Phaistos"
+      ],
+      "cross_site": true,
+      "note": ""
+    },
+    {
+      "sign": "ME",
+      "kind": "syllabogram",
+      "status": "unread",
+      "frequency": 3,
+      "attestations": [
+        "IOZa16",
+        "ZA21a",
+        "ZA21b"
+      ],
+      "sites": [
+        "Iouktas",
+        "Zakros"
+      ],
+      "cross_site": true,
+      "note": ""
+    },
+    {
+      "sign": "MI+JA+I",
+      "kind": "ligature",
+      "status": "unread",
+      "components": [
+        "MI",
+        "JA",
+        "I"
+      ],
+      "frequency": 3,
+      "attestations": [
+        "HT34",
+        "HT37",
+        "KH81"
+      ],
+      "sites": [
+        "Haghia Triada",
+        "Khania"
+      ],
+      "cross_site": true,
+      "note": ""
+    },
+    {
+      "sign": "MU",
+      "kind": "syllabogram",
+      "status": "value_on_file",
+      "on_file": [
+        {
+          "file": "translations.json",
+          "record": "TELZb1",
+          "value": "bovine (commodity ideogram)"
+        }
+      ],
+      "frequency": 3,
+      "attestations": [
+        "HT23b",
+        "KH6",
+        "TELZb1"
+      ],
+      "sites": [
+        "Haghia Triada",
+        "Khania",
+        "Tel Haror"
+      ],
+      "cross_site": true,
+      "note": ""
+    },
+    {
+      "sign": "NE",
+      "kind": "syllabogram",
+      "status": "unread",
+      "frequency": 3,
+      "attestations": [
+        "HTZd157+156",
+        "HTZf168"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "PU",
+      "kind": "syllabogram",
+      "status": "unread",
+      "frequency": 3,
+      "attestations": [
+        "HT34",
+        "KNZd46",
+        "THEZg5"
+      ],
+      "sites": [
+        "Haghia Triada",
+        "Knossos",
+        "Thera"
+      ],
+      "cross_site": true,
+      "note": ""
+    },
+    {
+      "sign": "QI",
+      "kind": "syllabogram",
+      "status": "unread",
+      "frequency": 3,
+      "attestations": [
+        "KHWc2102",
+        "PHWc44",
+        "THEZb13"
+      ],
+      "sites": [
+        "Khania",
+        "Phaistos",
+        "Thera"
+      ],
+      "cross_site": true,
+      "note": ""
+    },
+    {
+      "sign": "QI+SI",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "QI",
+        "SI"
+      ],
+      "read_components": [
+        "SI"
+      ],
+      "frequency": 3,
+      "attestations": [
+        "ZA9"
+      ],
+      "sites": [
+        "Zakros"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "RA₂",
+      "kind": "syllabogram",
+      "status": "unread",
+      "frequency": 3,
+      "attestations": [
+        "HT125a",
+        "HT130",
+        "KNWc23"
+      ],
+      "sites": [
+        "Haghia Triada",
+        "Knossos"
+      ],
+      "cross_site": true,
+      "note": ""
+    },
+    {
+      "sign": "TA₂",
+      "kind": "syllabogram",
+      "status": "unread",
+      "frequency": 3,
+      "attestations": [
+        "HT11a",
+        "HT137",
+        "KH29"
+      ],
+      "sites": [
+        "Haghia Triada",
+        "Khania"
+      ],
+      "cross_site": true,
+      "note": ""
+    },
+    {
+      "sign": "WI",
+      "kind": "syllabogram",
+      "status": "value_on_file",
+      "on_file": [
+        {
+          "file": "translations.json",
+          "record": "HT102",
+          "value": "excluded or absent amount: 10"
+        }
+      ],
+      "frequency": 3,
+      "attestations": [
+        "HT102",
+        "KH37",
+        "KNZg57b"
+      ],
+      "sites": [
+        "Haghia Triada",
+        "Khania",
+        "Knossos"
+      ],
+      "cross_site": true,
+      "note": ""
+    },
+    {
+      "sign": "QA2+[?]+RE+PU",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "QA2",
+        "[?]",
+        "RE",
+        "PU"
+      ],
+      "read_components": [
+        "RE"
+      ],
+      "frequency": 3,
+      "attestations": [
+        "HT33",
+        "HT45b"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*171",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 2,
+      "attestations": [
+        "THEZg5",
+        "ZA6a"
+      ],
+      "sites": [
+        "Thera",
+        "Zakros"
+      ],
+      "cross_site": true,
+      "note": ""
+    },
+    {
+      "sign": "*188+KU",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "*188",
+        "KU"
+      ],
+      "read_components": [
+        "*188",
+        "KU"
+      ],
+      "frequency": 2,
+      "attestations": [
+        "HT16",
+        "HT20"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*316+KI",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "*316",
+        "KI"
+      ],
+      "read_components": [
+        "*316"
+      ],
+      "frequency": 2,
+      "attestations": [
+        "KHWa1001",
+        "KHWa1002"
+      ],
+      "sites": [
+        "Khania"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*328",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 2,
+      "attestations": [
+        "PHWc46",
+        "PHZb<47>"
+      ],
+      "sites": [
+        "Phaistos"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*334",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 2,
+      "attestations": [
+        "KH6",
+        "KH7a"
+      ],
+      "sites": [
+        "Khania"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*335",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 2,
+      "attestations": [
+        "KH12",
+        "KH44"
+      ],
+      "sites": [
+        "Khania"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*336",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 2,
+      "attestations": [
+        "KH14",
+        "KH82"
+      ],
+      "sites": [
+        "Khania"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*337+*188",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "*337",
+        "*188"
+      ],
+      "read_components": [
+        "*188"
+      ],
+      "frequency": 2,
+      "attestations": [
+        "KHWc2056",
+        "KHWc2057"
+      ],
+      "sites": [
+        "Khania"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*338",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 2,
+      "attestations": [
+        "KHWc2067",
+        "KHWc2068"
+      ],
+      "sites": [
+        "Khania"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*370",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 2,
+      "attestations": [
+        "HT49a",
+        "HTWa1854"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*417-VS",
+      "kind": "vessel",
+      "status": "unread",
+      "frequency": 2,
+      "attestations": [
+        "KHWc2006",
+        "KHWc2007"
+      ],
+      "sites": [
+        "Khania"
+      ],
+      "cross_site": false,
+      "note": "A vessel sign. Alone on 2 Khania roundels (KH Wc 2006, 2007). No reading."
+    },
+    {
+      "sign": "*47",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 2,
+      "attestations": [
+        "MA1a",
+        "MA1b"
+      ],
+      "sites": [
+        "Malia"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*659",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 2,
+      "attestations": [
+        "MA10a",
+        "MA10c"
+      ],
+      "sites": [
+        "Malia"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*82",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 2,
+      "attestations": [
+        "KHWa1003",
+        "KHWa1004"
+      ],
+      "sites": [
+        "Khania"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "AU",
+      "kind": "syllabogram",
+      "status": "value_on_file",
+      "on_file": [
+        {
+          "file": "translations.json",
+          "record": "HT38",
+          "value": "pig (logogram): 1"
+        }
+      ],
+      "frequency": 2,
+      "attestations": [
+        "HT38",
+        "IOZa3"
+      ],
+      "sites": [
+        "Haghia Triada",
+        "Iouktas"
+      ],
+      "cross_site": true,
+      "note": ""
+    },
+    {
+      "sign": "CAPm+KU",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "CAPm",
+        "KU"
+      ],
+      "read_components": [
+        "KU"
+      ],
+      "frequency": 2,
+      "attestations": [
+        "PH(?)31a"
+      ],
+      "sites": [
+        "Phaistos"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "DA+RO",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "DA",
+        "RO"
+      ],
+      "read_components": [
+        "RO"
+      ],
+      "frequency": 2,
+      "attestations": [
+        "KHWa1001",
+        "KHWa1002"
+      ],
+      "sites": [
+        "Khania"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "E+KA",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "E",
+        "KA"
+      ],
+      "read_components": [
+        "E",
+        "KA"
+      ],
+      "frequency": 2,
+      "attestations": [
+        "HT33",
+        "HT34"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "GRA+B",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "GRA",
+        "B"
+      ],
+      "read_components": [
+        "GRA"
+      ],
+      "frequency": 2,
+      "attestations": [
+        "HT120",
+        "HT86a"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "GRA+E",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "GRA",
+        "E"
+      ],
+      "read_components": [
+        "GRA",
+        "E"
+      ],
+      "frequency": 2,
+      "attestations": [
+        "KYZg1",
+        "MAWc<5>"
+      ],
+      "sites": [
+        "Kythera",
+        "Malia"
+      ],
+      "cross_site": true,
+      "note": ""
+    },
+    {
+      "sign": "HIDE+B",
+      "kind": "ligature",
+      "status": "unread",
+      "components": [
+        "HIDE",
+        "B"
+      ],
+      "frequency": 2,
+      "attestations": [
+        "MA6a",
+        "MA6c"
+      ],
+      "sites": [
+        "Malia"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "I+*301",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "I",
+        "*301"
+      ],
+      "read_components": [
+        "*301"
+      ],
+      "frequency": 2,
+      "attestations": [
+        "HTWa1022",
+        "KN2"
+      ],
+      "sites": [
+        "Haghia Triada",
+        "Knossos"
+      ],
+      "cross_site": true,
+      "note": ""
+    },
+    {
+      "sign": "JE",
+      "kind": "syllabogram",
+      "status": "unread",
+      "frequency": 2,
+      "attestations": [
+        "KH1",
+        "THEZb5"
+      ],
+      "sites": [
+        "Khania",
+        "Thera"
+      ],
+      "cross_site": true,
+      "note": ""
+    },
+    {
+      "sign": "JU",
+      "kind": "syllabogram",
+      "status": "value_on_file",
+      "on_file": [
+        {
+          "file": "translations.json",
+          "record": "KNZb4",
+          "value": "to/for (dedicatory preposition) or asseverative lū"
+        }
+      ],
+      "frequency": 2,
+      "attestations": [
+        "HT97a",
+        "ZA11a"
+      ],
+      "sites": [
+        "Haghia Triada",
+        "Zakros"
+      ],
+      "cross_site": true,
+      "note": ""
+    },
+    {
+      "sign": "MA+RU-ME",
+      "kind": "compound",
+      "status": "value_on_file",
+      "components": [
+        "MA",
+        "RU",
+        "ME"
+      ],
+      "on_file": [
+        {
+          "file": "translations.json",
+          "record": "HT24a",
+          "value": "the wool (quantities 10 and 6; a third entry on .4 breaks after ME)"
+        }
+      ],
+      "frequency": 2,
+      "attestations": [
+        "HT24a"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "MI+JA+KA",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "MI",
+        "JA",
+        "KA"
+      ],
+      "read_components": [
+        "KA"
+      ],
+      "frequency": 2,
+      "attestations": [
+        "HT33",
+        "HT34"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "OLE+A",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "OLE",
+        "A"
+      ],
+      "read_components": [
+        "OLE"
+      ],
+      "frequency": 2,
+      "attestations": [
+        "HT2"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "OLE+QIf",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "OLE",
+        "QIf"
+      ],
+      "read_components": [
+        "OLE"
+      ],
+      "frequency": 2,
+      "attestations": [
+        "TY3a"
+      ],
+      "sites": [
+        "Tylissos"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "SA-VIN",
+      "kind": "compound",
+      "status": "component_read",
+      "components": [
+        "SA",
+        "VIN"
+      ],
+      "read_components": [
+        "SA",
+        "VIN"
+      ],
+      "frequency": 2,
+      "attestations": [
+        "HT114b",
+        "ZA15a"
+      ],
+      "sites": [
+        "Haghia Triada",
+        "Zakros"
+      ],
+      "cross_site": true,
+      "note": ""
+    },
+    {
+      "sign": "TI+A",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "TI",
+        "A"
+      ],
+      "read_components": [
+        "TI"
+      ],
+      "frequency": 2,
+      "attestations": [
+        "HT100",
+        "HT94a"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "TWE",
+      "kind": "syllabogram",
+      "status": "unread",
+      "frequency": 2,
+      "attestations": [
+        "HT126b"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "VIN+TE",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "VIN",
+        "TE"
+      ],
+      "read_components": [
+        "VIN",
+        "TE"
+      ],
+      "frequency": 2,
+      "attestations": [
+        "KNZb34",
+        "THEZb13"
+      ],
+      "sites": [
+        "Knossos",
+        "Thera"
+      ],
+      "cross_site": true,
+      "note": ""
+    },
+    {
+      "sign": "VIN+WA",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "VIN",
+        "WA"
+      ],
+      "read_components": [
+        "VIN"
+      ],
+      "frequency": 2,
+      "attestations": [
+        "HT27b"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "VIR+*313a",
+      "kind": "ligature",
+      "status": "unread",
+      "components": [
+        "VIR",
+        "*313a"
+      ],
+      "frequency": 2,
+      "attestations": [
+        "HT100",
+        "HT89"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "ZA",
+      "kind": "syllabogram",
+      "status": "unread",
+      "frequency": 2,
+      "attestations": [
+        "KH22",
+        "ZA1a"
+      ],
+      "sites": [
+        "Khania",
+        "Zakros"
+      ],
+      "cross_site": true,
+      "note": ""
+    },
+    {
+      "sign": "ZO",
+      "kind": "syllabogram",
+      "status": "unread",
+      "frequency": 2,
+      "attestations": [
+        "KH57",
+        "THEZg5"
+      ],
+      "sites": [
+        "Khania",
+        "Thera"
+      ],
+      "cross_site": true,
+      "note": ""
+    },
+    {
+      "sign": "VIR+[?]-I",
+      "kind": "compound",
+      "status": "unread",
+      "components": [
+        "VIR",
+        "[?]",
+        "I"
+      ],
+      "frequency": 2,
+      "attestations": [
+        "HT11a",
+        "HT93a"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": "HT 11a .4 and HT 93a .5–6, each before a numeral."
+    },
+    {
+      "sign": "*21",
+      "kind": "sign",
+      "status": "value_on_file",
+      "on_file": [
+        {
+          "file": "translations.json",
+          "record": "HT38",
+          "value": "sheep (logogram): 3"
+        }
+      ],
+      "frequency": 1,
+      "attestations": [
+        "HT38"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*304-CYP",
+      "kind": "compound",
+      "status": "component_read",
+      "components": [
+        "*304",
+        "CYP"
+      ],
+      "read_components": [
+        "*304",
+        "CYP"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "KH13"
+      ],
+      "sites": [
+        "Khania"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*306-CYP+E",
+      "kind": "compound",
+      "status": "component_read",
+      "components": [
+        "*306",
+        "CYP",
+        "E"
+      ],
+      "read_components": [
+        "CYP",
+        "E"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "KH2"
+      ],
+      "sites": [
+        "Khania"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*306-VIR+*307",
+      "kind": "compound",
+      "status": "component_read",
+      "components": [
+        "*306",
+        "VIR",
+        "*307"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "KH19"
+      ],
+      "sites": [
+        "Khania"
+      ],
+      "cross_site": false,
+      "note": "",
+      "read_components": [
+        "*307"
+      ]
+    },
+    {
+      "sign": "*307+*307-GRA+QE",
+      "kind": "compound",
+      "status": "component_read",
+      "components": [
+        "*307",
+        "*307",
+        "GRA",
+        "QE"
+      ],
+      "read_components": [
+        "*307",
+        "GRA",
+        "QE"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "HT36"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*309B",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "TY2"
+      ],
+      "sites": [
+        "Tylissos"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*310",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "KN28a"
+      ],
+      "sites": [
+        "Knossos"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*314",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "PH26"
+      ],
+      "sites": [
+        "Phaistos"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*315",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "KH82"
+      ],
+      "sites": [
+        "Khania"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*320",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "PHWc37"
+      ],
+      "sites": [
+        "Phaistos"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*323",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "HTZf166"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*330+DA",
+      "kind": "ligature",
+      "status": "unread",
+      "components": [
+        "*330",
+        "DA"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "HT22"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*330+SA",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "*330",
+        "SA"
+      ],
+      "read_components": [
+        "SA"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "HT65"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*332",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "HT107"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*339",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "PH15a"
+      ],
+      "sites": [
+        "Phaistos"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*341+PI",
+      "kind": "ligature",
+      "status": "unread",
+      "components": [
+        "*341",
+        "PI"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "HT33"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*343",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "HT93a"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*346",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "HT122b"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*347",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "KH6"
+      ],
+      "sites": [
+        "Khania"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*348",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "KH11"
+      ],
+      "sites": [
+        "Khania"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*352",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "KH100"
+      ],
+      "sites": [
+        "Khania"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*356",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "PH13b"
+      ],
+      "sites": [
+        "Phaistos"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*357",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "PH15b"
+      ],
+      "sites": [
+        "Phaistos"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*359",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "PH17a"
+      ],
+      "sites": [
+        "Phaistos"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*360",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "PH17b"
+      ],
+      "sites": [
+        "Phaistos"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*365",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "HTWa1849"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*366",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "HTWa1850"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*367",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "HTWa1851"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*368",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "HTWa1852"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*369",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "HTWa1853"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*371",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "KHWa1018"
+      ],
+      "sites": [
+        "Khania"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*402+A",
+      "kind": "ligature",
+      "status": "unread",
+      "components": [
+        "*402",
+        "A"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "MA10b"
+      ],
+      "sites": [
+        "Malia"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*402-VS",
+      "kind": "vessel",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "HT31"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*404-VS",
+      "kind": "vessel",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "MA10c"
+      ],
+      "sites": [
+        "Malia"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*405+Ω",
+      "kind": "ligature",
+      "status": "unread",
+      "components": [
+        "*405",
+        "Ω"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "MA10b"
+      ],
+      "sites": [
+        "Malia"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*405-VS-*906",
+      "kind": "compound",
+      "status": "unread",
+      "components": [
+        "*405",
+        "*906"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "MAZb15"
+      ],
+      "sites": [
+        "Malia"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*406-VS",
+      "kind": "vessel",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "HT93a"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*410-VS",
+      "kind": "vessel",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "HT31"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*412-VS-VIN",
+      "kind": "compound",
+      "status": "component_read",
+      "components": [
+        "*412",
+        "VIN"
+      ],
+      "read_components": [
+        "*412",
+        "VIN"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "PH9b"
+      ],
+      "sites": [
+        "Phaistos"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*413+SU",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "*413",
+        "SU"
+      ],
+      "read_components": [
+        "SU"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "MA10a"
+      ],
+      "sites": [
+        "Malia"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*414+A",
+      "kind": "ligature",
+      "status": "unread",
+      "components": [
+        "*414",
+        "A"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "HT39"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*414+F",
+      "kind": "ligature",
+      "status": "unread",
+      "components": [
+        "*414",
+        "F"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "MA10d"
+      ],
+      "sites": [
+        "Malia"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*416+L2",
+      "kind": "ligature",
+      "status": "unread",
+      "components": [
+        "*416",
+        "L2"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "PH8a"
+      ],
+      "sites": [
+        "Phaistos"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*505",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "HT104"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*517",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "HT120"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*528",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "KNZg<21>"
+      ],
+      "sites": [
+        "Knossos"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*563",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "PH3a"
+      ],
+      "sites": [
+        "Phaistos"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*614",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "THE11"
+      ],
+      "sites": [
+        "Thera"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*648",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "HT110b"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*800",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "SAMWe4"
+      ],
+      "sites": [
+        "Samothrace"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*806-VIN",
+      "kind": "compound",
+      "status": "component_read",
+      "components": [
+        "*806",
+        "VIN"
+      ],
+      "read_components": [
+        "VIN"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "PYR1"
+      ],
+      "sites": [
+        "Pyrgos"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*809",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "GOWc3"
+      ],
+      "sites": [
+        "Gournia"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "*811",
+      "kind": "sign",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "PH28b"
+      ],
+      "sites": [
+        "Phaistos"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "CAPf",
+      "kind": "logogram",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "THE12"
+      ],
+      "sites": [
+        "Thera"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "CYP+K",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "CYP",
+        "K"
+      ],
+      "read_components": [
+        "CYP"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "KH7b"
+      ],
+      "sites": [
+        "Khania"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "DA+*301",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "DA",
+        "*301"
+      ],
+      "read_components": [
+        "*301"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "KH18"
+      ],
+      "sites": [
+        "Khania"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "DA+RE+SE",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "DA",
+        "RE",
+        "SE"
+      ],
+      "read_components": [
+        "RE"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "HT93a"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "DI+QE",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "DI",
+        "QE"
+      ],
+      "read_components": [
+        "DI",
+        "QE"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "HT101"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "DU-AROM-A",
+      "kind": "compound",
+      "status": "component_read",
+      "components": [
+        "DU",
+        "AROM",
+        "A"
+      ],
+      "read_components": [
+        "DU"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "HT15"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "GAL",
+      "kind": "logogram",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "KHWc2028"
+      ],
+      "sites": [
+        "Khania"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "GRA+BOSm",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "GRA",
+        "BOSm"
+      ],
+      "read_components": [
+        "GRA"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "HT115a"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "GRA+DA",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "GRA",
+        "DA"
+      ],
+      "read_components": [
+        "GRA"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "HT133"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "GRA+H",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "GRA",
+        "H"
+      ],
+      "read_components": [
+        "GRA"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "HT108"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "GRA+L2",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "GRA",
+        "L2"
+      ],
+      "read_components": [
+        "GRA"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "HT22"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "GRA+L4+L4",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "GRA",
+        "L4",
+        "L4"
+      ],
+      "read_components": [
+        "GRA"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "HT15"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "GRA+QIf",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "GRA",
+        "QIf"
+      ],
+      "read_components": [
+        "GRA"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "HT82"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "HIDE+L",
+      "kind": "ligature",
+      "status": "unread",
+      "components": [
+        "HIDE",
+        "L"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "MA4a"
+      ],
+      "sites": [
+        "Malia"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "HIDE+SA+B",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "HIDE",
+        "SA",
+        "B"
+      ],
+      "read_components": [
+        "SA"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "MA4a"
+      ],
+      "sites": [
+        "Malia"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "HIDE+SA+L",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "HIDE",
+        "SA",
+        "L"
+      ],
+      "read_components": [
+        "SA"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "MA4a"
+      ],
+      "sites": [
+        "Malia"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "J+L2",
+      "kind": "ligature",
+      "status": "unread",
+      "components": [
+        "J",
+        "L2"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "HT123+124b"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "J-*301",
+      "kind": "compound",
+      "status": "component_read",
+      "components": [
+        "J",
+        "*301"
+      ],
+      "read_components": [
+        "*301"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "HTWa1025"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "JA+RU",
+      "kind": "ligature",
+      "status": "unread",
+      "components": [
+        "JA",
+        "RU"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "HT6a"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "KE",
+      "kind": "syllabogram",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "KH100"
+      ],
+      "sites": [
+        "Khania"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "L2-*306-J-BOSm",
+      "kind": "compound",
+      "status": "unread",
+      "components": [
+        "L2",
+        "*306",
+        "J",
+        "BOSm"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "KH97"
+      ],
+      "sites": [
+        "Khania"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "MA+RU",
+      "kind": "ligature",
+      "status": "value_on_file",
+      "components": [
+        "MA",
+        "RU"
+      ],
+      "on_file": [
+        {
+          "file": "translations.json",
+          "record": "HT12",
+          "value": "wool (logogram)"
+        }
+      ],
+      "frequency": 1,
+      "attestations": [
+        "HT12"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "NU",
+      "kind": "syllabogram",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "KH3"
+      ],
+      "sites": [
+        "Khania"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "OLE+KI+ME",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "OLE",
+        "KI",
+        "ME"
+      ],
+      "read_components": [
+        "OLE"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "TY3a"
+      ],
+      "sites": [
+        "Tylissos"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "OLE+KI+U",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "OLE",
+        "KI",
+        "U"
+      ],
+      "read_components": [
+        "OLE",
+        "U"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "TY3a"
+      ],
+      "sites": [
+        "Tylissos"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "OLE+RA",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "OLE",
+        "RA"
+      ],
+      "read_components": [
+        "OLE"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "HT44a"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "OVISf",
+      "kind": "logogram",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "THE7a"
+      ],
+      "sites": [
+        "Thera"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "PA-OLE+MI",
+      "kind": "compound",
+      "status": "component_read",
+      "components": [
+        "PA",
+        "OLE",
+        "MI"
+      ],
+      "read_components": [
+        "PA",
+        "OLE"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "TY3b"
+      ],
+      "sites": [
+        "Tylissos"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "PA3+QE",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "PA3",
+        "QE"
+      ],
+      "read_components": [
+        "QE"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "HT33"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "PI",
+      "kind": "syllabogram",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "KEZb7"
+      ],
+      "sites": [
+        "Kea"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "PU₂",
+      "kind": "syllabogram",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "KEZb6"
+      ],
+      "sites": [
+        "Kea"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "QE+GRA+PA",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "QE",
+        "GRA",
+        "PA"
+      ],
+      "read_components": [
+        "QE",
+        "GRA",
+        "PA"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "ZA11a"
+      ],
+      "sites": [
+        "Zakros"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "RE+SE",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "RE",
+        "SE"
+      ],
+      "read_components": [
+        "RE"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "HT93a"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "RI",
+      "kind": "syllabogram",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "HT49a"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "RO-VIR+KA",
+      "kind": "compound",
+      "status": "component_read",
+      "components": [
+        "RO",
+        "VIR",
+        "KA"
+      ],
+      "read_components": [
+        "RO",
+        "KA"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "KNZb56"
+      ],
+      "sites": [
+        "Knossos"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "SI+ME",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "SI",
+        "ME"
+      ],
+      "read_components": [
+        "SI"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "HT23a"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "SI+TA2-*304",
+      "kind": "compound",
+      "status": "component_read",
+      "components": [
+        "SI",
+        "TA2",
+        "*304"
+      ],
+      "read_components": [
+        "SI",
+        "*304"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "KH9"
+      ],
+      "sites": [
+        "Khania"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "SI-CYP",
+      "kind": "compound",
+      "status": "component_read",
+      "components": [
+        "SI",
+        "CYP"
+      ],
+      "read_components": [
+        "SI",
+        "CYP"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "HT130"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "SU+MI",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "SU",
+        "MI"
+      ],
+      "read_components": [
+        "SU"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "KN28b"
+      ],
+      "sites": [
+        "Knossos"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "SUS+SI+RE",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "SUS",
+        "SI",
+        "RE"
+      ],
+      "read_components": [
+        "SUS",
+        "SI",
+        "RE"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "PH(?)31a"
+      ],
+      "sites": [
+        "Phaistos"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "TA-HIDE+B",
+      "kind": "compound",
+      "status": "unread",
+      "components": [
+        "TA",
+        "HIDE",
+        "B"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "MA4a"
+      ],
+      "sites": [
+        "Malia"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "TA₂-CYP",
+      "kind": "compound",
+      "status": "component_read",
+      "components": [
+        "TA₂",
+        "CYP"
+      ],
+      "read_components": [
+        "CYP"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "KH60"
+      ],
+      "sites": [
+        "Khania"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "TE-AROM",
+      "kind": "compound",
+      "status": "component_read",
+      "components": [
+        "TE",
+        "AROM"
+      ],
+      "read_components": [
+        "TE"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "ZA20"
+      ],
+      "sites": [
+        "Zakros"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "TE-GRA+F",
+      "kind": "compound",
+      "status": "component_read",
+      "components": [
+        "TE",
+        "GRA",
+        "F"
+      ],
+      "read_components": [
+        "TE",
+        "GRA"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "HT44b"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "TELA+*312",
+      "kind": "ligature",
+      "status": "value_on_file",
+      "components": [
+        "TELA",
+        "*312"
+      ],
+      "on_file": [
+        {
+          "file": "translations.json",
+          "record": "HT38",
+          "value": "cloth with *312 (logogram): 1"
+        }
+      ],
+      "frequency": 1,
+      "attestations": [
+        "HT38"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "TELA+KU",
+      "kind": "ligature",
+      "status": "value_on_file",
+      "components": [
+        "TELA",
+        "KU"
+      ],
+      "on_file": [
+        {
+          "file": "translations.json",
+          "record": "HT38",
+          "value": "cloth with KU (logogram): 2"
+        }
+      ],
+      "frequency": 1,
+      "attestations": [
+        "HT38"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "TELA+TE",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "TELA",
+        "TE"
+      ],
+      "read_components": [
+        "TE"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "TELZb1"
+      ],
+      "sites": [
+        "Tel Haror"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "TI+*412VAS",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "TI",
+        "*412VAS"
+      ],
+      "read_components": [
+        "TI"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "MA10b"
+      ],
+      "sites": [
+        "Malia"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "VAS",
+      "kind": "logogram",
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "KNZg57a"
+      ],
+      "sites": [
+        "Knossos"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "VIN+KA",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "VIN",
+        "KA"
+      ],
+      "read_components": [
+        "VIN",
+        "KA"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "ZA6b"
+      ],
+      "sites": [
+        "Zakros"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "VIN+SA",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "VIN",
+        "SA"
+      ],
+      "read_components": [
+        "VIN",
+        "SA"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "HT131b"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "VIN-MI",
+      "kind": "compound",
+      "status": "component_read",
+      "components": [
+        "VIN",
+        "MI"
+      ],
+      "read_components": [
+        "VIN"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "ARGZg1"
+      ],
+      "sites": [
+        "Argos"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "VIN-SU",
+      "kind": "compound",
+      "status": "component_read",
+      "components": [
+        "VIN",
+        "SU"
+      ],
+      "read_components": [
+        "VIN",
+        "SU"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "ZA5a"
+      ],
+      "sites": [
+        "Zakros"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "VINb+WI",
+      "kind": "ligature",
+      "status": "unread",
+      "components": [
+        "VINb",
+        "WI"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "KH5"
+      ],
+      "sites": [
+        "Khania"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "VIR+*313c",
+      "kind": "ligature",
+      "status": "unread",
+      "components": [
+        "VIR",
+        "*313c"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "HT127b"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "VIR+KA-VIN",
+      "kind": "compound",
+      "status": "component_read",
+      "components": [
+        "VIR",
+        "KA",
+        "VIN"
+      ],
+      "read_components": [
+        "KA",
+        "VIN"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "HT28a"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "ZU-*22F-DI",
+      "kind": "compound",
+      "status": "component_read",
+      "components": [
+        "ZU",
+        "*22F",
+        "DI"
+      ],
+      "read_components": [
+        "ZU",
+        "*22F",
+        "DI"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "HT101"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": "Heads HT 101, before GRA+QE 40 and three oil entries; SA-RA₂ heads the next section. The goat sign *22F stands between ZU and DI, so no run of two syllabic signs is left. It stands among the names as a personal name of unknown affiliation, and HT 101 is translated with it as an opaque heading. No reading."
+    },
+    {
+      "sign": "QA2+[?]+PU+RE",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "QA2",
+        "[?]",
+        "PU",
+        "RE"
+      ],
+      "read_components": [
+        "RE"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "HT12"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": ""
+    },
+    {
+      "sign": "VIR+[?]-*329",
+      "kind": "compound",
+      "status": "unread",
+      "components": [
+        "VIR",
+        "[?]",
+        "*329"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "HT128b"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "note": "HT 128b .2, before GRA+KU 1; a fracture crosses the first sign (GORILA I 221)."
+    },
+    {
+      "sign": "VIR+[?]-*339-HIDE+[?]",
+      "kind": "compound",
+      "status": "unread",
+      "components": [
+        "VIR",
+        "[?]",
+        "*339",
+        "HIDE",
+        "[?]"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "PH12a"
+      ],
+      "sites": [
+        "Phaistos"
+      ],
+      "cross_site": false,
+      "note": "PH 12a, before 10 and fractions; a fracture crosses the last sign."
+    }
+  ]
+}

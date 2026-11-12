@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Four Haghia Triada lists: HT 7a TA-NA-TI 1, among the men under QE-TI · VIR+\[?\]; HT 10b TA-NA-TI 9¼, the last entry; HT 49a \]TA-NA-TI 1, in a list with KU-PA₃-NU and TU-SU-PU₂; HT 98a TA-NA-TI ¾, among fractional issues with RO-KE and KA-RI-\*310-I. Tanāti, the goddess TNT with the a-vowels against Punic Tinnit: the feminine of √t-n-n, Heb. tannîn, Tannin 'sea-monster, sea-dragon', Ug. tnn (HALOT 1764). Rival: ʿAnat with the feminine prefix t-, \*t(a)-ʿanât &gt; \*teʿnât &gt; \*tennât (Hvidberg-Hansen 1979, 140, who takes the prefix as Libyco-Berber). TA-NA-TE is the Zakros form. See TA-NA-TE.
+Four Haghia Triada lists: HT 7a TA-NA-TI 1, among the men under QE-TI · VIR+\[?\]; HT 10b TA-NA-TI 9¼, the last entry; HT 49a TA-NA-TI 1, in a list with KU-PA₃-NU and TU-SU-PU₂; HT 98a TA-NA-TI ¾, among fractional issues with RO-KE and KA-RI-\*310-I. Tanāti, the goddess TNT with the a-vowels against Punic Tinnit: the feminine of √t-n-n, Heb. tannîn, Tannin 'sea-monster, sea-dragon', Ug. tnn (HALOT 1764). Rival: ʿAnat with the feminine prefix t-, \*t(a)-ʿanât &gt; \*teʿnât &gt; \*tennât (Hvidberg-Hansen 1979, 140, who takes the prefix as Libyco-Berber). TA-NA-TE is the Zakros form. See TA-NA-TE.
 
 ### Cognates
 
@@ -60,7 +60,7 @@ di Mino; HALOT; Hvidberg-Hansen 1979
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT10b\|HT10b]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT49a\|HT49a]] | Haghia Triada | Tablet | incomplete; form not in transliteration |
+| [[wiki/linear-a/inscriptions/HT/HT/HT49a\|HT49a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT7a\|HT7a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT98a\|HT98a]] | Haghia Triada | Tablet | incomplete |
 
@@ -70,6 +70,7 @@ di Mino; HALOT; Hvidberg-Hansen 1979
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT7a\|HT7a]] | Tanāti | Tanit variant (theonym or personal name), 1 | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT10b\|HT10b]] | Tanāti | Tanit variant (theonym or personal name), 9¼ | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT49a\|HT49a]] | Tanāti | Tanit variant (theonym or personal name), 1 | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT98a\|HT98a]] | Tanāti | recipient of ¾; Tanit variant (theonym or personal name) | CANDIDATE |
 
 ## Onomasticon
@@ -90,6 +91,6 @@ Reading from the lexicon (di Mino).
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/D/DA_RE|DA-RE]] dār, KI, [[wiki/linear-a/words/K/KU_PA3_NU|KU-PA₃-NU]] Kubānu, [[wiki/linear-a/words/T/TE_star301|TE-\*301]] Tēnā.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/D/DA_RE|DA-RE]] dār, [[wiki/linear-a/words/K/KI|KI]], [[wiki/linear-a/words/K/KU_PA3_NU|KU-PA₃-NU]] Kubānu, [[wiki/linear-a/words/T/TE_star301|TE-\*301]] Tēnā.
 
 <!-- END kaphtor:record -->

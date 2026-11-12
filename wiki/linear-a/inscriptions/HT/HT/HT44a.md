@@ -74,7 +74,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/G/GRA\|GRA]] | \[ideogram\] | grain |  | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/O/OLE_plus_KI\|OLE+KI]] | \[ideogram\] | olive oil subtype KI |  | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/O/OLE_plus_U\|OLE+U]] | \[ideogram\] | olive oil subtype U |  | CANDIDATE (lexicon) |
-| OLE+RA | \[ideogram\] | olive oil subtype RA |  |  |
+| [[wiki/linear-a/words/O/OLE_plus_RA\|OLE+RA]] | \[ideogram\] | olive oil subtype RA |  |  |
 | [[wiki/linear-a/words/O/OLIV\|OLIV]] | \[ideogram\] | olives |  | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/N/NI\|NI]] | \[ideogram\] | figs |  | CONFIRMED (lexicon) |
 | [[wiki/linear-a/words/V/VIN\|VIN]] | \[ideogram\] | wine |  | PROBABLE (lexicon) |

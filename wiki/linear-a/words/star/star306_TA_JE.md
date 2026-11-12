@@ -57,6 +57,12 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/ARKH/ARKHZc/ARKHZc8\|ARKHZc8]] | Arkhanes | Inked inscription | none |
+| [[wiki/linear-a/inscriptions/ARKH/ARKHZc/ARKHZc8\|ARKHZc8]] | Arkhanes | Inked inscription | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/ARKH/ARKHZc/ARKHZc8\|ARKHZc8]] | ʿaṭāye | gift, offering (votive label) | CANDIDATE |
 
 <!-- END kaphtor:record -->

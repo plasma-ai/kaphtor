@@ -58,7 +58,7 @@ di Mino; Gelb 1980; Buck 2018; Monti 2017; Gelb 1944
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/TY/TY/TY3b\|TY3b]] | Tylissos | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/TY/TY/TY3b\|TY3b]] | Tylissos | Tablet | complete |
 
 ## In translations
 

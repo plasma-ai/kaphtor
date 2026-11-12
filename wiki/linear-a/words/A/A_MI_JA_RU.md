@@ -59,7 +59,13 @@ di Mino; Gelb 1980; Kinlaw 1967; Benz 1972
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/ZA/ZAZg/ZAZg35\|ZAZg35]] | Zakros | Label | none |
+| [[wiki/linear-a/inscriptions/ZA/ZAZg/ZAZg35\|ZAZg35]] | Zakros | Label | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/ZA/ZAZg/ZAZg35\|ZAZg35]] | ʿAmmī-yarūm | personal name, 'My kinsman is exalted' | SPECULATIVE |
 
 ## Onomasticon
 

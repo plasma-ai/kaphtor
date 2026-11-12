@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-ZA 10a .4–5 DA-I-PI-TA 1, in a name list after A-DU-KU-MI-NA 1 (GORILA III 169); ZA 8 DA-I-PI-TA 2½, before KA-I-RO 4, by another scribe (GORILA III 165). ṭayyibat- 'good (f.)', fem. of qattil ṭayyib-: DA writes ṭ as in Amorite DA-BA-TUM Ṭaybatum (Gelb no. 1409) and Ebla da-bù 'good' (GlOS 2, 311); I writes yyi, the gemination unmarked. LB da-i-pi-ta heads a catalogue of men at Knossos (KN Bk 799), a man's name (DMic I 149): the name carried into Mycenaean Crete. Rivals: DA-I + PI-TA, DA-I dayyu 'enough' (HT 12) with PI-TA otherwise only inside PI-TA-JA; DA + I-PI-TA, I-PI-TA unattested. See OLE+TA.
+ZA 10a .4–5 DA-I-PI-TA 1, in a name list after A-DU-KU-MI-NA 1 (GORILA III 169); ZA 8 DA-I-PI-TA 2½, before KA-I-RO 4, by another scribe (GORILA III 165). ṭayyibat- 'good (f.)', fem. of qattil ṭayyib-: DA writes ṭ as in Amorite DA-BA-TUM Ṭaybatum (Gelb no. 1409) and Ebla da-bù 'good' (GlOS 2, 311); I writes yyi, the gemination unmarked. LB da-i-pi-ta heads a catalogue of men at Knossos (KN Bk 799), a man's name (DMic I 149), which Uchitel counts among the place names (2016a, 18): the name carried into Mycenaean Crete. Rivals: DA-I + PI-TA, DA-I dayyu 'enough' (HT 12) with PI-TA otherwise only inside PI-TA-JA; DA + I-PI-TA, I-PI-TA unattested. See OLE+TA.
 
 ### Cognates
 
@@ -53,7 +53,7 @@ ZA 10a .4–5 DA-I-PI-TA 1, in a name list after A-DU-KU-MI-NA 1 (GORILA III 169
 
 ### Source
 
-di Mino; Gelb 1980; GlOS 2; DMic I
+di Mino; Gelb 1980; GlOS 2; DMic I; Uchitel 2016a
 
 ## Attestations
 

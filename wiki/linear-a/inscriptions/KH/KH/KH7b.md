@@ -30,7 +30,7 @@ updated: 2026-10-24T16:17:50Z
 | Findspot |  |
 | Support | Tablet |
 | Period |  |
-| Scribe | KH Scribe 2 |
+| Scribe | [[wiki/linear-a/by_scribe\|KH Scribe 2]] |
 | Edition | GORILA 3 |
 | Series | KH |
 | SigLA | [KH 7b](https://sigla.phis.me/document/KH%207b/) |
@@ -74,7 +74,7 @@ Unicode (Linear A block):
 | CYP+D |  | cyperus, with the fraction sign D, ½ | PROBABLE |  |
 | [[wiki/linear-a/words/star/star304_plus_PA\|\*304+PA]] |  | logogram, 1 |  | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/S/SI\|SI]] |  | logogram SI, 14 |  | PROBABLE (lexicon) |
-| CYP+K |  | cyperus with K, 2 |  |  |
+| [[wiki/linear-a/words/C/CYP_plus_K\|CYP+K]] |  | cyperus with K, 2 |  |  |
 
 ### Notes
 

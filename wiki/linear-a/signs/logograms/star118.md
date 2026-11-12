@@ -43,6 +43,7 @@ Standalone arm only: after a commodity sign and before a numeral (HT12 wool, HT2
 | Word | Reading | Confidence |
 |---|---|---|
 | [[wiki/linear-a/words/star/star21F_star118\|\*21F-\*118]] | ḥiṭṭa | CANDIDATE |
+| [[wiki/linear-a/words/star/star118\|\*118]] | (logogram) | PROBABLE |
 | [[wiki/linear-a/words/star/star118_MI\|\*118-MI]] | ṭammi | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_SI_star118\|DA-SI-\*118]] | Ḏā-šiṭṭa | CANDIDATE |
 | [[wiki/linear-a/words/I/I_QA_star118\|I-QA-\*118]] | iqṭaʿ | SPECULATIVE |

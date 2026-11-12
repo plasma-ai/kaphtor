@@ -5,8 +5,8 @@
 
 <p align="center">
   <a href="wiki/linear-a/inscriptions/_index.md"><img alt="corpus: 1,719 records" src="https://img.shields.io/badge/corpus-1,719%20records-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
-  <a href="wiki/linear-a/inscriptions/_index.md"><img alt="translations: 451" src="https://img.shields.io/badge/translations-451-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
-  <a href="wiki/linear-a/words/_index.md"><img alt="lexicon: 668 entries" src="https://img.shields.io/badge/lexicon-668%20entries-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <a href="wiki/linear-a/inscriptions/_index.md"><img alt="translations: 509" src="https://img.shields.io/badge/translations-509-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <a href="wiki/linear-a/words/_index.md"><img alt="lexicon: 680 entries" src="https://img.shields.io/badge/lexicon-680%20entries-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
   <a href="wiki/linear-a/words/_index.md"><img alt="names: 380" src="https://img.shields.io/badge/names-380-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
   <a href="wiki/semitic-roots/_index.md"><img alt="Semitic roots: 5,187" src="https://img.shields.io/badge/Semitic%20roots-5,187-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
   <a href="wiki/linear-a/signs/_index.md"><img alt="sign values: 37" src="https://img.shields.io/badge/sign%20values-37-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
@@ -71,9 +71,12 @@ every inscription where it recurs.
 | Part | What it holds | Browse |
 |---|---|---|
 | Inscriptions | One page per corpus record, with its transliteration, its Unicode text, its translation and a table linking each word | [inscriptions](wiki/linear-a/inscriptions/_index.md) |
-| Words | One page per form, joining the lexicon, the onomasticon and the unread words, with every inscription where the form appears | [words](wiki/linear-a/words/_index.md) |
+| Words | One page per form, joining the lexicon, the onomasticon, the unread words and the unread signs, with every inscription where the form appears | [words](wiki/linear-a/words/_index.md) |
 | Signs | The syllabic signs, logograms and fractions, each with its value and the evidence for it | [signs](wiki/linear-a/signs/_index.md) |
 | Reading status | Every reading with its tier and score | `wiki/linear-a/standing.md` |
+| Signs left to read | The single and combined signs with no lexicon entry, by the untranslated inscriptions each one alone leaves unread | `wiki/linear-a/unread_signs.md` |
+| Scribes | Every scribe to whom an edition assigns documents, with the records each wrote and the source of the attribution | `wiki/linear-a/by_scribe.md` |
+| Names | Every name on the tablets (people, places, gods, titles, peoples), filed by the language it is read through, with the roots the names are built from and a guide across the layers | [names](wiki/names/_index.md) |
 | Semitic roots | One page per root, with its reconstruction and its reflexes across the Semitic languages, each with its sources | [roots](wiki/semitic-roots/_index.md) |
 | Pre-Greek words | One page per Greek word classed as Pre-Greek or as an early Semitic loan, with the works that treat it, its Pre-Greek features and the Semitic comparisons proposed for it | [Pre-Greek](wiki/pre-greek/_index.md) |
 | Eteocretan | The Eteocretan inscriptions and the analysis of their words | [Eteocretan](wiki/aegean/_index.md) |
@@ -201,7 +204,10 @@ the data from another folder.
 
 - `wiki/`: the record, generated from the data. Nothing in it is written by hand.
   - `linear-a/`: `inscriptions/<site>/<series>/`, `words/<initial>/` and `signs/{syllabic,logograms,fractions}/`,
-    with the generated ledgers (`standing.md`, `counts.md`, `by_site.md`, `by_root.md`, `by_sign.md`)
+    with the generated ledgers (`standing.md`, `counts.md`, `by_site.md`, `by_root.md`, `by_sign.md`,
+    `unread_signs.md`, `by_scribe.md`)
+  - `names/`: one page per name, `<layer>/names/<name>.md`, and per root, `<layer>/roots/<root>.md`, with the
+    guide (`guide/ledger.md`, `guide/kinds/`, `guide/how_to.md`, `guide/map.md` with its map of Crete, `guide/crete.svg`)
   - `semitic-roots/`: one page per root, `<radical>/<id>_<slug>.md`
   - `pre-greek/`: one page per word, `<initial>/<key>.md`, with the ledgers `by_feature.md` and `semitic.md`
   - `aegean/`: `eteocretan/`

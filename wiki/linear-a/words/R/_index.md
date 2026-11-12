@@ -2,18 +2,24 @@
 name: wiki/linear-a/words/R
 desc: "Words whose first sign begins with R."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-10T17:23:44Z
+updated: 2026-11-12T00:26:03Z
 ---
 
 # wiki/linear-a/words/R
 
 [[wiki/linear-a/words/_index|..]]
 
+[[wiki/linear-a/words/R/RA|RA]]: Unread sign (syllabogram, unread); 7 occurrence(s).
+
+[[wiki/linear-a/words/R/RA2|RA2]]: Unread sign (syllabogram, unread); 3 occurrence(s).
+
 [[wiki/linear-a/words/R/RA2_RO_RE|RA2_RO_RE]]: Lallor: personal name, 'Mourner' (Akk. lallaru); rival Amorite Li-lu-ri. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/R/RA_KI_TA_NA_SI|RA_KI_TA_NA_SI]]: Unread (edge overlap): toponym; 1 occurrence(s).
 
 [[wiki/linear-a/words/R/RA_MA_SI|RA_MA_SI]]: Unread (unread): no role; 1 occurrence(s).
+
+[[wiki/linear-a/words/R/RA_ME_broken_both|RA_ME_broken_both]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/R/RA_NA_RE|RA_NA_RE]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -57,7 +63,11 @@ updated: 2026-11-10T17:23:44Z
 
 [[wiki/linear-a/words/R/RE_ZA|RE_ZA]]: (ʾa)raz: cedar (wood, resin or oil; commodity); rival Luwian aruza, a measure. Lexicon, SPECULATIVE (tier 1).
 
+[[wiki/linear-a/words/R/RE_plus_SE|RE_plus_SE]]: Unread sign (ligature, component read); 1 occurrence(s).
+
 [[wiki/linear-a/words/R/RE_star86|RE_star86]]: Unread (role only): personal name; 1 occurrence(s).
+
+[[wiki/linear-a/words/R/RI|RI]]: Unread sign (syllabogram, unread); 1 occurrence(s).
 
 [[wiki/linear-a/words/R/RI_DA_U|RI_DA_U]]: Ridāyu: Ridāyu 'Helper, Escort' (personal name, hypocoristic). Lexicon, SPECULATIVE (tier 1).
 
@@ -93,9 +103,13 @@ updated: 2026-11-10T17:23:44Z
 
 [[wiki/linear-a/words/R/RO_SI_RA|RO_SI_RA]]: Unread (unread): no role; 1 occurrence(s).
 
+[[wiki/linear-a/words/R/RO_VIR_plus_KA|RO_VIR_plus_KA]]: Unread sign (compound, component read); 1 occurrence(s).
+
 [[wiki/linear-a/words/R/RO_star559|RO_star559]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/R/RP_33_Y|RP_33_Y]]: my Healer (deity invocation—divine title of Rapʾu). Lexicon, CONFIRMED (tier 4).
+
+[[wiki/linear-a/words/R/RU|RU]]: Unread sign (syllabogram, unread); 4 occurrence(s).
 
 [[wiki/linear-a/words/R/RU_DI|RU_DI]]: rūdī: Roam! (f. imperative). Lexicon, SPECULATIVE (tier 1).
 

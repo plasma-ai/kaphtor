@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/inscriptions/LACH/LACHZa/LACHZa1
 title: "LACHZa1"
-desc: "Fragment of a locally made limestone bowl or krater, Lachish. Translation: complete."
+desc: "Fragment of a locally made limestone bowl or krater, Lachish. Translation: complete (SPECULATIVE)."
 tags: ["linear-a", "inscription", "translation-complete", "fragment-of-a-locally-made-limestone-bowl-or-krater"]
 kind: "inscription"
 id: "LACHZa1"
@@ -49,14 +49,14 @@ Unicode (Linear A block):
 
 ## Translation
 
-**no confidence given**, complete (status: fragmentary).
+**SPECULATIVE**, complete (status: fragmentary).
 
 > \[…\]-MI(?) · Ridāyu · SE ¾ \[…\]
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | [[wiki/linear-a/words/R/RI_DA_U\|RI-DA-U]] | Ridāyu | personal name, 'Helper' (hypocoristic, as DI-NA-U Dīnāyu); rival a vessel or contents name | SPECULATIVE | SPECULATIVE (lexicon) |
-| SE |  | commodity ideogram or capacity measure | UNREAD |  |
+| [[wiki/linear-a/words/S/SE\|SE]] |  | commodity ideogram or capacity measure | UNREAD |  |
 
 ### Notes
 

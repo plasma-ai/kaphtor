@@ -59,7 +59,7 @@ di Mino; Facchetti 1999; Thomas 2020; GlOS 1; HALOT
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/PK/PKZa/PKZa11\|PKZa11]] | Palaikastro | Stone vessel | complete; restored |
-| [[wiki/linear-a/inscriptions/PK/PKZa/PKZa15\|PKZa15]] | Palaikastro | Stone vessel | incomplete; form not in transliteration |
+| [[wiki/linear-a/inscriptions/PK/PKZa/PKZa15\|PKZa15]] | Palaikastro | Stone vessel | complete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HTZb/HTZb160\|HTZb160]] | Haghia Triada | Clay vessel | complete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/PK/PKZa/PKZa8\|PKZa8]] | Palaikastro | Stone vessel | incomplete; form not in transliteration |
 

@@ -9,7 +9,7 @@ site: "Zakros"
 support: "Tablet"
 period: ""
 translation: "none"
-words: []
+words: ["*22F"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -49,6 +49,10 @@ Unicode (Linear A block):
 𐝫𐘓𐄍
 𐝫
 ```
+
+## Lexicon words citing this document
+
+[[wiki/linear-a/words/star/star22F|\*22F]].
 
 ## Edition differences
 

@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 6b and HT 93a: a personnel designation. √b-n-y 'build', the participle bāniyu with the 1pl possessive -na: banīna 'our builder'. See PA₃-NI. HT 93a writes it twice, heading the tablet on .1 and again on .8 before \]PA-SE-JA 20 and VIR+\[?\] 10. On .8, NA is damaged and GORILA I 147 prints a break after it, but SigLA's PA begins 0.4 sign widths after NA, so no sign is lost: the word is whole and legible in context.
+HT 6b and HT 93a: a personnel designation. √b-n-y 'build', the participle bāniyu with the 1pl possessive -na: banīna 'our builder'. See PA₃-NI. HT 93a writes it twice, heading the tablet on .1 and again on .8 before \]PA-SE-JA 20 and VIR+\[?\] 10. On .8, NA is damaged and GORILA I 147 prints a break after it, but SigLA's PA begins 0.4 sign widths after NA, so no sign is lost: the word is whole and legible in context. Rival: -NA the ending of KI-RE-TA-NA beside KI-RE-TA₂, PA₃-NI standing under KA-PA (HT 102) and PA₃-NI-NA under DA-QE-RA (HT 6); Linear B has \*56-ni-sa-ta (KN As 607; Uchitel 2016a, 20 n. 9).
 
 ### Cognates
 
@@ -53,7 +53,7 @@ HT 6b and HT 93a: a personnel designation. √b-n-y 'build', the participle bān
 
 ### Source
 
-di Mino
+di Mino; Uchitel 2016a
 
 ## Attestations
 

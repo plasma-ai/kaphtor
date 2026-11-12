@@ -41,7 +41,9 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-A commodity logogram: 236 standalone occurrences on 236 documents, 87% of its 272 uses, concentrated at Haghia Triada on nodules and tablets, 225 of them on HT nodules. It takes the commodity-label slot of GRA (dagān), OLE (šamnu), VIN (wayn) and CYP (cyperus) and names the pastoral class: nawum, with mimation (Mari na-wu-um, GlOS 2, 116), the land-use term for uncultivated pastureland and its goods, livestock, wool and dairy, against cultivated cereals (GRA) and orchard products (OLE, OLIV, VIN). In ritual use the same root gives nawā 'dwelling, abode', compared with Greek ναός 'temple'. The syllabic value na is acrophonic, the first syllable of nawā(n), as cuneiform É bītu 'house' gives bi; the formula verb A-TA-I-\*301-WA-JA, from the same √n-w-y, writes \*301 where NA would serve. See NU-WI.
+A commodity logogram: 236 standalone occurrences on 236 documents, 87% of its 272 uses, concentrated at Haghia Triada on nodules and tablets, 225 of them on HT nodules. It takes the commodity-label slot of GRA (dagān), OLE (šamnu), VIN (wayn) and CYP (cyperus) and names the pastoral class: nawum, with mimation (Mari na-wu-um, GlOS 2, 116), the land-use term for uncultivated pastureland and its goods, livestock, wool and dairy, against cultivated cereals (GRA) and orchard products (OLE, OLIV, VIN). In ritual use the same root gives nawā 'dwelling, abode', compared with Greek ναός 'temple'. The syllabic value na is acrophonic, the first syllable of nawā(n), as cuneiform É bītu 'house' gives bi; the formula verb A-TA-I-\*301-WA-JA, from the same √n-w-y, writes \*301 where NA would serve.
+
+The sign stands at the head of the prayer: A-TA-I-\*301-WA-JA is its first word, 'toujours en début d'inscription, et seulement là' (Karetsou, Godart and Olivier 1985, 128), cut on vessels left at the peak sanctuaries. Head, peak and beginning are one Semitic word: Hebrew rōš 'head; height, peak; beginning; leader' (HALOT 1164), Ugaritic rỉš 'head; top' (DULAT 713–714). YHWH comes down on the rōš of the mountain (Exod 19:20), and nāweh is his holy abode, nəwēh qodšekā (Exod 15:13; HALOT 678). In shape, a stem with a curve at its upper left, \*301 resembles Phoenician resh, the letter named 'head'; what the sign itself depicts is unknown. See NU-WI.
 
 ### Cognates
 
@@ -54,7 +56,7 @@ A commodity logogram: 236 standalone occurrences on 236 documents, 87% of its 27
 
 ### Source
 
-di Mino
+di Mino; Karetsou, Godart and Olivier 1985; HALOT; DULAT; GlOS 2
 
 ## Attestations
 

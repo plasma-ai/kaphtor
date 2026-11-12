@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/N/NI_JA_NU
 title: "NI-JA-NU"
-desc: "Unread (role only): no role; 1 occurrence(s)."
+desc: "Unread (role only): personal name; 1 occurrence(s)."
 tags: ["linear-a", "word", "unread"]
 kind: "word"
 form: "NI-JA-NU"
@@ -35,7 +35,7 @@ updated: 2026-10-24T16:17:50Z
 
 ## Unread
 
-Status **role only** (classed by role only (onomasticon type or translation label), no reading).
+Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
 
 NI dotted in one of GORILA's two transcriptions (IV 121). Not readable.
 

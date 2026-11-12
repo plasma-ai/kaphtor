@@ -60,7 +60,7 @@ di Mino; Neumann 1957, 157–58; Montecchi 2024, 178; Salgarella et al. 2025, 38
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT30\|HT30]] | Haghia Triada | Tablet | none |
-| [[wiki/linear-a/inscriptions/HT/HT/HT6a\|HT6a]] | Haghia Triada | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/HT/HT/HT6a\|HT6a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT27a\|HT27a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT28a\|HT28a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT28b\|HT28b]] | Haghia Triada | Tablet | complete |
@@ -78,7 +78,7 @@ di Mino; Neumann 1957, 157–58; Montecchi 2024, 178; Salgarella et al. 2025, 38
 | [[wiki/linear-a/inscriptions/HT/HT/HT99a\|HT99a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT100\|HT100]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT103\|HT103]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT110a\|HT110a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT110a\|HT110a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT110b\|HT110b]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT111a\|HT111a]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT111b\|HT111b]] | Haghia Triada | Tablet | none; form not in transliteration |
@@ -148,6 +148,7 @@ di Mino; Neumann 1957, 157–58; Montecchi 2024, 178; Salgarella et al. 2025, 38
 | [[wiki/linear-a/inscriptions/HT/HT/HT99a\|HT99a]] | \[ideogram\] | figs |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT100\|HT100]] | \[ideogram\] | figs |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT103\|HT103]] |  | figs (AB 30, FIC) | CONFIRMED |
+| [[wiki/linear-a/inscriptions/HT/HT/HT110a\|HT110a]] |  | figs—commodity ideogram (FIC) | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT114a\|HT114a]] | \*nikuleon | figs | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT121\|HT121]] | \*nikuleon | figs | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT129\|HT129]] | \*nikuleon | figs | CONFIRMED |

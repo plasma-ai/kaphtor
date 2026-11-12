@@ -23,7 +23,7 @@ updated: 2026-10-24T16:17:50Z
 
 **Status: proposed.** A proposed value.
 
-Evidence: the commodity class holds (26 of 32); the one onset witness, PA₃-\*188 (HT8b), is prefixed
+Evidence: the commodity class holds (26 of 32); the onset witness, PA₃-\*188 (HT8b), is prefixed and may be a transaction sign; \*188-DU writes the dental on four documents (HT123+124b, HTWa1021, HTWc3020, PSIZa1)
 
 ## Logogram
 
@@ -36,7 +36,7 @@ Evidence: the commodity class holds (26 of 32); the one onset witness, PA₃-\*1
 
 ### Note
 
-High frequency (29×). Compound forms: SU-PU₂-\*188 (jar of terebinth), PA₃-\*188 (phonetic complement), \*188-\*308 (terebinth oil).
+High frequency (29×). Compound forms: SU-PU₂-\*188 (bowl of terebinth), PA₃-\*188 (prefixed, PA₃ a phonetic complement or a transaction sign) and \*188-DU (phonetic complement), \*188-\*308 (terebinth oil), \*86+\*188 (a consignment by ship).
 
 ## Lexicon words written with this sign
 

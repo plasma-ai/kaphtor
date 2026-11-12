@@ -754,6 +754,26 @@ def test_counts_come_from_the_data_and_not_stored_stats(data):
     assert not any("987654" in text for text in pages.values())
 
 
+def test_the_counts_page_gives_the_one_sign_sealing_labels_among_the_complete(data):
+    model, ledgers = views("model"), views("ledgers")
+    corpus = json.loads((data / "corpus.json").read_text(encoding="utf-8"))
+    translations = json.loads((data / "translations.json").read_text(encoding="utf-8"))
+    def sealing(words, support="Nodule"):
+        return record("Zakros", words=words) | {"support": support}
+    corpus |= {"ZZ1": sealing(["*301"]), "ZZ2": sealing(["*411-VS", "2"], "Roundel"), "ZZ3": sealing(["I-RA₂"]),
+               "ZZ4": sealing(["TE", "KU"]), "ZZ5": sealing(["TE"]), "ZZ6": record("Zakros", words=["TE"])}
+    for key in ("ZZ1", "ZZ2", "ZZ3", "ZZ4", "ZZ6"):
+        translations["translations"][key] = {"translation": "a label", "words": []}
+    translations["translations"]["ZZ5"] = {"translation": "a label", "status": "incomplete", "words": []}
+    (data / "corpus.json").write_text(json.dumps(corpus, ensure_ascii=False), encoding="utf-8")
+    (data / "translations.json").write_text(json.dumps(translations, ensure_ascii=False), encoding="utf-8")
+    m = model.load(data)
+    # ZZ1 and ZZ2 count: one sign on a sealing, the numeral aside. Not a word (ZZ3), two signs (ZZ4), an
+    # incomplete record (ZZ5) or a tablet (ZZ6).
+    assert ledgers.sealing_labels(m) == 2
+    assert "| of which one-sign sealing labels | 2 |" in dict(ledgers.pages(m))["wiki/linear-a/counts"]
+
+
 def test_the_standing_table_lists_every_entry_once_by_tier(data):
     model, ledgers = views("model"), views("ledgers")
     text = dict(ledgers.pages(model.load(data)))["wiki/linear-a/standing"]
@@ -779,6 +799,106 @@ def test_by_sign_counts_the_forms_written_with_a_subscript(data):
     text = dict(ledgers.pages(m))["wiki/linear-a/by_sign"]
     assert (f"| [[{model.sign_path('syllabic', 'PA3')}\\|PA3]] | syllabic | speculative | 1 | "
             f"[[{model.word_path('KU-PA₃-NU')}\\|KU-PA₃-NU]] |") in text
+
+
+UNREAD_SIGNS = {"statuses": {"unread": "nothing on file", "component_read": "a component is read"}, "entries": [
+    {"sign": "I", "kind": "syllabogram", "status": "unread", "frequency": 2, "attestations": ["ZZ1", "ZZ2"]},
+    {"sign": "OLE+QE", "kind": "ligature", "status": "component_read", "read_components": ["OLE"], "frequency": 1,
+     "attestations": ["ZZ3"]},
+    {"sign": "*164", "kind": "sign", "status": "unread", "frequency": 5, "attestations": [],
+     "on_file": [{"file": "sign_values.json", "value": "cloth"}]}]}
+
+
+def test_the_unread_signs_ledger_is_written_only_with_its_file_and_ranks_by_records_waiting(data):
+    model, ledgers = views("model"), views("ledgers")
+    assert "wiki/linear-a/unread_signs" not in dict(ledgers.pages(model.load(data)))
+    corpus = json.loads((data / "corpus.json").read_text(encoding="utf-8"))
+    corpus["ZZ1"] = record("Zakros", words=["I"])                       # waits on I alone
+    corpus["ZZ2"] = record("Zakros", words=["I", "5", "KU-PA₃-NU"])     # a lexicon word beside it: still I alone
+    corpus["ZZ3"] = record("Zakros", words=["OLE+QE", "ZA-ZA-ZA"])      # an unread word beside it: not counted
+    (data / "corpus.json").write_text(json.dumps(corpus, ensure_ascii=False), encoding="utf-8")
+    (data / "unread_signs.json").write_text(json.dumps(UNREAD_SIGNS, ensure_ascii=False), encoding="utf-8")
+    text = dict(ledgers.pages(model.load(data)))["wiki/linear-a/unread_signs"]
+    assert "3 single and combined signs" in text and "2 records with no translation wait" in text
+    rows = [line for line in text.splitlines() if line.startswith("| ") and "| syllabogram |" in line
+            or "| ligature |" in line or "| sign |" in line]
+    assert [row.split(" | ")[1] for row in rows] == ["syllabogram", "sign", "ligature"]
+    assert rows[0].startswith(f"| [[{model.word_path('I')}\\|I]] | syllabogram | unread | 2 | 2 | ")
+    assert model.doc_path("ZZ1") in rows[0]
+    assert rows[1].endswith("| 5 | 0 |  | cloth |") and rows[2].endswith("| 1 | 0 |  | reads OLE |")
+    assert "| component read | 1 | a component is read |" in text
+
+
+def test_an_unread_sign_has_a_word_page_and_the_ledger_links_it(data):
+    model, render, ledgers = views("model"), views("render"), views("ledgers")
+    (data / "unread_signs.json").write_text(json.dumps(UNREAD_SIGNS, ensure_ascii=False), encoding="utf-8")
+    m = model.load(data)
+    assert {"I", "OLE+QE", "*164"} <= set(m.forms()) and render.has_page(m, "OLE+QE")
+    path, text = render.word_page(m, "OLE+QE")
+    assert path == model.word_path("OLE+QE")
+    assert 'datasets: ["unread_signs"]' in text and '"unread"' in text
+    assert "Unread sign (ligature, component read); 1 occurrence(s)." in text
+    assert "## Unread sign" in text and "Status **component read** (a component is read)." in text
+    assert "The lexicon reads OLE." in text
+    _, cloth = render.word_page(m, "*164")
+    assert "| sign_values.json |  | cloth |  |" in cloth
+    ledger = dict(ledgers.pages(m))["wiki/linear-a/unread_signs"]
+    assert f"[[{model.word_path('OLE+QE')}\\|OLE+QE]]" in ledger
+
+
+SCRIBES = {"scribes": {
+    "HT Scribe 9": {"site": "Haghia Triada", "class": "tablet", "numbering": "Militello 1989", "source": "Younger 2023",
+                    "gorila_v": ["9 HT"], "note": ""},
+    "HT Scribe 18": {"site": "Haghia Triada", "class": "tablet", "numbering": "Militello 1989", "source": "Younger 2023",
+                     "note": "Wrote the last lines."},
+    "ZA Scribe 1": {"site": "Zakros", "class": "tablet", "numbering": "GORILA V", "source": "GORILA V, p. 113", "note": ""}}}
+
+
+def with_scribes(data):
+    corpus = json.loads((data / "corpus.json").read_text(encoding="utf-8"))
+    corpus["HT9a"].update(scribe="HT Scribe 9", scribe_gorila="9 HT")
+    corpus["HT9b"].update(scribe="HT Scribe 9", scribe_part="lines 1–3", scribe_gorila="9 HT",
+                          scribe_also=[{"scribe": "HT Scribe 18", "part": "lines 4–6"}])
+    corpus["ZA1"].update(scribe="ZA Scribe 1", scribe_doubt=True)
+    (data / "corpus.json").write_text(json.dumps(corpus, ensure_ascii=False), encoding="utf-8")
+    (data / "scribes.json").write_text(json.dumps(SCRIBES, ensure_ascii=False), encoding="utf-8")
+    return views("model").load(data)
+
+
+def test_the_by_scribe_ledger_is_written_only_with_its_file_and_lists_a_shared_record_under_both(data):
+    model, ledgers = views("model"), views("ledgers")
+    assert "wiki/linear-a/by_scribe" not in dict(ledgers.pages(model.load(data)))
+    text = dict(ledgers.pages(with_scribes(data)))["wiki/linear-a/by_scribe"]
+    assert "3 scribes are assigned 3 records" in text
+    rows = {line.split(" | ")[0][2:]: line for line in text.splitlines() if line.startswith(("| HT ", "| ZA "))}
+    assert list(rows) == ["HT Scribe 9", "HT Scribe 18", "ZA Scribe 1"]
+    assert "| Haghia Triada | tablet | Militello 1989 | 9 HT | 2 |" in rows["HT Scribe 9"]
+    assert f"[[{model.doc_path('HT9b')}\\|HT9b]] (lines 1–3)" in rows["HT Scribe 9"]
+    assert f"| 1 | [[{model.doc_path('HT9b')}\\|HT9b]] (lines 4–6) |" in rows["HT Scribe 18"]
+    assert f"[[{model.doc_path('ZA1')}\\|ZA1]] (?)" in rows["ZA Scribe 1"]
+    assert rows["HT Scribe 18"].endswith("| Younger 2023. Wrote the last lines. |")
+
+
+def test_an_inscription_page_gives_the_doubt_the_parts_and_the_gorila_cell(data):
+    render = views("render")
+    m = with_scribes(data)
+    ledger = "wiki/linear-a/by_scribe"
+    _, shared = render.doc_page(m, "HT9b")
+    assert (f"| Scribe | [[{ledger}\\|HT Scribe 9]] (lines 1–3); [[{ledger}\\|HT Scribe 18]] (lines 4–6) |") in shared
+    assert "| Scribe in GORILA V | 9 HT |" in shared
+    _, doubted = render.doc_page(m, "ZA1")
+    assert f"| Scribe | [[{ledger}\\|ZA Scribe 1]] (?) |" in doubted and "Scribe in GORILA V" not in doubted
+    _, none = render.doc_page(m, "HT154a")
+    assert "| Scribe |  |" in none
+
+
+def test_a_scribe_is_plain_text_where_the_registry_is_not_in_the_folder(data):
+    model, render = views("model"), views("render")
+    corpus = json.loads((data / "corpus.json").read_text(encoding="utf-8"))
+    corpus["ZA1"]["scribe"] = "ZA Scribe 1"
+    (data / "corpus.json").write_text(json.dumps(corpus, ensure_ascii=False), encoding="utf-8")
+    _, text = render.doc_page(model.load(data), "ZA1")
+    assert "| Scribe | ZA Scribe 1 |" in text
 
 
 def test_the_build_writes_the_ledgers(data, tmp_path):
@@ -1001,7 +1121,7 @@ def test_check_fails_on_stale_and_orphaned_pages(data, tmp_path):
     with tarfile.open(backup) as tar:
         # only the pages that changed: the word's own, and the standing table, which shows its meaning
         assert sorted(Path(n).name for n in tar.getnames()) == ["KU_PA3_NU.md", "standing.md"]
-    orphan = next(out.rglob("KU_PA3_NU.md")).with_name("NO_SUCH_FORM.md")
+    orphan = (out / "linear-a" / "words" / "K" / "KU_PA3_NU.md").with_name("NO_SUCH_FORM.md")
     orphan.write_text("orphan\n", encoding="utf-8")
     assert build.main(["--data", str(data), "--out", str(out)]) == 1
     assert build.main(["--data", str(data), "--out", str(out), "--write"]) == 1  # no --prune: refused, kept
@@ -1025,8 +1145,8 @@ def test_prune_backs_up_and_deletes_an_orphan(data, tmp_path):
     build = views("build")
     out = tmp_path / "out"
     assert build.main(["--data", str(data), "--out", str(out), "--write"]) == 0
-    orphan = next(out.rglob("KU_PA3_NU.md")).with_name("GONE.md")
-    orphan.write_text(next(out.rglob("KU_PA3_NU.md")).read_text(encoding="utf-8"), encoding="utf-8")
+    orphan = (out / "linear-a" / "words" / "K" / "KU_PA3_NU.md").with_name("GONE.md")
+    orphan.write_text((out / "linear-a" / "words" / "K" / "KU_PA3_NU.md").read_text(encoding="utf-8"), encoding="utf-8")
     assert build.main(["--data", str(data), "--out", str(out), "--write", "--prune"]) == 0
     assert not orphan.exists()
     [backup] = (tmp_path / "backups").glob("*.tar")
@@ -1042,7 +1162,7 @@ def test_the_build_sees_its_pages_inside_a_dot_folder(data, tmp_path):
     (out / ".obsidian").mkdir()
     (out / ".obsidian" / "settings.md").write_text("an editor's file\n", encoding="utf-8")
     assert build.main(["--data", str(data), "--out", str(out)]) == 0  # a dot folder inside the wiki is skipped
-    page = next(out.rglob("KU_PA3_NU.md"))
+    page = (out / "linear-a" / "words" / "K" / "KU_PA3_NU.md")
     page.with_name("NO_SUCH_FORM.md").write_text(page.read_text(encoding="utf-8"), encoding="utf-8")
     assert build.main(["--data", str(data), "--out", str(out)]) == 1
 
@@ -1089,7 +1209,8 @@ def test_the_builder_and_wiki_update_settle_on_one_tree(data, tmp_path):
         assert build.main(args) == 0, change
         assert wiki("update", "--check") == 0, change
         assert wiki("lint") == 0, change
-    page = next((root / "wiki").rglob("KU_PA3_NU.md")).read_text(encoding="utf-8")
+    # the word's own page: the names section has a page of the same file name for the name
+    page = (root / "wiki" / "linear-a" / "words" / "K" / "KU_PA3_NU.md").read_text(encoding="utf-8")
     assert "name: wiki/linear-a/words/K/KU_PA3_NU" in page and "a changed meaning" in page
 
 

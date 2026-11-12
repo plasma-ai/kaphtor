@@ -30,7 +30,8 @@ updated: 2026-10-24T16:17:50Z
 | Findspot | Casa Room 7 |
 | Support | Tablet |
 | Period | LMIB |
-| Scribe | HT Scribe 8 |
+| Scribe | [[wiki/linear-a/by_scribe\|HT Scribe 8]] |
+| Scribe in GORILA V | 12 HT |
 | Edition | GORILA 1 |
 | Series | HT |
 | SigLA | [HT 96b](https://sigla.phis.me/document/HT%2096b/) |
@@ -60,11 +61,11 @@ Unicode (Linear A block):
 
 **no confidence given**, complete.
 
-> ʿAbrāne · qaṭara(?) · \*516: grain 40¾; U-oil 4; figs 2 1/10.
+> ʿAbrān · qaṭara(?) · \*516: grain 40¾; U-oil 4; figs 2 1/10.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/A/A_PA_RA_NE\|A-PA-RA-NE]] | ʿabrāne | heading name, also on HT96a; Amorite comparison Ḥa-pí-ra-an, \*ʿapir-\* (Huffmon, APNM p. 36) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/A/A_PA_RA_NE\|A-PA-RA-NE]] | ʿAbrān | heading name, also on HT96a; Alalakh Ap-ra-an (Wiseman 1953, 128), Amorite Ḫa-pí-ra-an, \*ʿapir- (Huffmon 1965, 36) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/Q/QA_star118_RA_RE\|QA-\*118-RA-RE]] | qaṭara(re) | incense, incense-offering (√q-ṭ-r) | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/star/star516\|\*516]] | šipru | transaction or account sign; written over an erasure (GORILA I 157) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/G/GRA\|GRA]] | grain | grain/cereal (commodity ideogram) | PROBABLE | PROBABLE (lexicon) |

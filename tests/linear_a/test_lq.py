@@ -30,6 +30,11 @@ ONOMASTICON = {"entries": [
 ]}
 CORPUS = {"HT13": {"name": "HT13", "site": "Haghia Triada", "support": "Tablet", "context": "LMIB",
                    "transliteratedWords": ["KA-U-DE-TA", "KU-RO"]}}
+CORPUS["HT6b"] = {"name": "HT6b", "site": "Haghia Triada", "support": "Tablet", "context": "LMIB",
+                  "scribe": "HT Scribe 17", "scribe_part": "lines 1–3", "scribe_gorila": "17 HT (a, b.1-3) ; 18 HT (b. 4-6)",
+                  "scribe_also": [{"scribe": "HT Scribe 18", "part": "lines 4–6"}], "transliteratedWords": ["KU-RO"]}
+CORPUS["HT17"] = {"name": "HT17", "site": "Haghia Triada", "support": "Tablet", "context": "LMIB",
+                  "scribe": "HT Scribe 18", "scribe_doubt": True, "transliteratedWords": ["RA-TI-SE", "KU-RO"]}
 TRANSLATIONS = {"translations": {"HT13": {
     "translation": "Wine from Kaudeta; total 130.", "confidence": "PROBABLE",
     "words": [{"linear_a": "KA-U-DE-TA", "meaning": "a place name"}, {"linear_a": "KU-RO", "gloss": "total"}],
@@ -93,6 +98,27 @@ def test_unread_counts_each_verdict(data):
     done = run("unread", "--verdict", "all", data=data)
     assert done.returncode == 0, done.stderr
     assert done.stdout.splitlines()[0].startswith("no_reading 1 | not_readable 1 | not_a_word 0")
+
+
+def test_scribe_lists_each_scribe_with_its_records(data):
+    done = run("scribe", "--json", data=data)
+    assert done.returncode == 0, done.stderr
+    assert json.loads(done.stdout) == [
+        {"scribe": "HT Scribe 17", "documents": 1, "doubtful": 0, "site": "Haghia Triada"},
+        {"scribe": "HT Scribe 18", "documents": 2, "doubtful": 1, "site": "Haghia Triada"}]
+
+
+def test_scribe_with_a_label_shows_the_records_their_parts_and_shared_words(data):
+    done = run("scribe", "ht 18", data=data)
+    assert done.returncode == 0, done.stderr
+    assert "HT Scribe 18: 2 records" in done.stdout
+    assert "[lines 4–6; also HT Scribe 17]" in done.stdout and "[GORILA V: 17 HT (a, b.1-3) ; 18 HT (b. 4-6)]" in done.stdout
+    assert "KU-RO" in done.stdout.split("Words on two or more of these records:")[1]
+
+
+def test_scribe_with_no_match_says_so(data):
+    done = run("scribe", "KH 54", data=data)
+    assert done.returncode == 1 and "No scribe matching 'KH 54'" in done.stderr
 
 
 def test_a_view_whose_file_is_not_in_the_checkout_is_named(data):

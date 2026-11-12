@@ -25,12 +25,12 @@ updated: 2026-10-24T16:17:50Z
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/TY/TYZg/TYZg1\|TYZg1]] | Tylissos | Stone object | none |
+| [[wiki/linear-a/inscriptions/TY/TYZg/TYZg1\|TYZg1]] | Tylissos | Terracotta statuette (HM 6585) | none |
 
 ## Unread
 
 Status **edge overlap** (a lexicon word sits at one edge; often a chance 2-sign overlap); role personal name.
 
-TY Zg 1 \]MẠ-RỤ-A, broken before MA, MA and RU dotted (GORILA IV 170). Sole attestation. Not readable.
+TY Zg 1 \]MẠ-RỤ-A, broken before MA, MA and RU dotted (GORILA IV 170): a terracotta statuette (HM 6585), three signs down its back, MA beside flaked surface and the restored leg. Olivier dots MA alone, very lightly, and does not think a flake was lost; nothing fixes the direction, and A-RU-MA is as conceivable (1981, 625–626). Sole attestation. Not readable.
 
 <!-- END kaphtor:record -->

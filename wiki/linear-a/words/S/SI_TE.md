@@ -59,12 +59,13 @@ di Mino; DULAT
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA26a\|ZA26a]] | Zakros | Tablet | incomplete |
-| [[wiki/linear-a/inscriptions/MIL/MILZb/MILZb3\|MILZb3]] | Miletos | Clay vessel | none |
+| [[wiki/linear-a/inscriptions/MIL/MILZb/MILZb3\|MILZb3]] | Miletos | Clay vessel | complete |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
+| [[wiki/linear-a/inscriptions/MIL/MILZb/MILZb3\|MILZb3]] | Ṣīt | the East, lit. 'the going-out (of the sun)', a name for eastern Crete | CANDIDATE |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA26a\|ZA26a]] | Ṣīt | the East, eastern Crete (place name) |  |
 
 ## Onomasticon
@@ -85,6 +86,6 @@ ZA 26a .1 SI-TE · DI-DI-\[, the first group of the tablet, intact and undotted 
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: KI.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KI|KI]].
 
 <!-- END kaphtor:record -->

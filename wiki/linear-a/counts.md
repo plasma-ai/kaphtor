@@ -22,15 +22,16 @@ Every number on this page is computed from the data files.
 
 | Measure | Count |
 |---|---|
-| Translated inscriptions (complete) | 451 |
-| Translations incomplete | 83 |
+| Translated inscriptions (complete) | 509 |
+| of which one-sign sealing labels | 286 |
+| Translations incomplete | 82 |
 | Corpus records | 1,719 |
 | Documents | 1,603 |
-| Lexicon entries | 668 |
+| Lexicon entries | 680 |
 | Resolved signs (syllabic + logogram) | 5 (2 + 3) |
 | Fraction values resolved | 3 |
 | Onomasticon entries | 380 |
-| Unread words listed | 356 |
+| Unread words listed | 373 |
 
 ## Documents against the published census
 
@@ -53,8 +54,8 @@ GORILA 1,427 and RILA-S1 107 documents are published to the end of 2023 (1,534 i
 | Confidence | Tier | Entries |
 |---|---|---|
 | CONFIRMED | 4 | 19 |
-| PROBABLE | 3 | 69 |
-| CANDIDATE | 2 | 246 |
+| PROBABLE | 3 | 75 |
+| CANDIDATE | 2 | 252 |
 | SPECULATIVE | 1 | 334 |
 
 ## Signs by status
@@ -62,7 +63,7 @@ GORILA 1,427 and RILA-S1 107 documents are published to the end of 2023 (1,534 i
 | Kind | Resolved | Proposed | Speculative | Conventional |
 |---|---|---|---|---|
 | syllabic | 2 | 12 | 8 | 55 |
-| logograms | 3 | 20 | 14 | 0 |
+| logograms | 3 | 20 | 15 | 0 |
 | fractions | 3 | 11 | 3 | 0 |
 
 ## Onomasticon by type
@@ -81,8 +82,8 @@ GORILA 1,427 and RILA-S1 107 documents are published to the end of 2023 (1,534 i
 | Status | Words | Meaning |
 |---|---|---|
 | edge overlap | 18 | a lexicon word sits at one edge; often a chance 2-sign overlap |
-| role only | 202 | classed by role only (onomasticon type or translation label), no reading |
-| unread | 136 | nothing known |
+| role only | 200 | classed by role only (onomasticon type or translation label), no reading |
+| unread | 155 | nothing known |
 
 ## By site
 
@@ -90,17 +91,17 @@ Sites with ten or more records; every site is in [[wiki/linear-a/by_site|by site
 
 | Site | Records | Documents | Translated (complete) | Lexicon words attested |
 |---|---|---|---|---|
-| Haghia Triada | 1,111 | 1,053 | 333 | 368 |
-| Khania | 226 | 223 | 36 | 69 |
-| Phaistos | 66 | 48 | 9 | 40 |
-| Knossos | 57 | 51 | 14 | 52 |
-| Zakros | 53 | 40 | 5 | 95 |
-| Palaikastro | 25 | 25 | 8 | 37 |
-| Malia | 22 | 11 | 0 | 9 |
-| Thera | 19 | 18 | 2 | 3 |
-| Iouktas | 16 | 16 | 12 | 17 |
-| Arkhanes | 12 | 9 | 2 | 24 |
-| Syme | 12 | 12 | 6 | 16 |
-| Petras | 11 | 11 | 3 | 18 |
+| Haghia Triada | 1,111 | 1,053 | 362 | 378 |
+| Khania | 226 | 223 | 36 | 73 |
+| Phaistos | 66 | 48 | 11 | 45 |
+| Knossos | 57 | 51 | 19 | 56 |
+| Zakros | 53 | 40 | 7 | 97 |
+| Palaikastro | 25 | 25 | 10 | 37 |
+| Malia | 22 | 11 | 2 | 9 |
+| Thera | 19 | 18 | 3 | 3 |
+| Iouktas | 16 | 16 | 11 | 17 |
+| Arkhanes | 12 | 9 | 3 | 24 |
+| Syme | 12 | 12 | 8 | 16 |
+| Petras | 11 | 11 | 3 | 19 |
 
 <!-- END kaphtor:record -->

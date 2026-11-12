@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT Wc 3009, a roundel: \*333-DI-SU-KA \*188. With \*333 = bi, bīdi 'in the charge of' (Ug. bd, DULAT 211) + Sūka, a name without a secure etymology. Pair of HT Wc 3010 \*333-DI-NA-SU-KA. Weak point: \*333 = bi rests on its three words. Rivals: the whole group a personal name; \*333 as ZU (AB 79) after Facchetti, ZU-DI-SU-KA beside ZU-DI-SI-KA of IO Za 6 (Schoep 2002, 50), where the HT Wc 3009 sign has the form of \*333 on HT Wc 3010. One attestation. See PA₃.
+HT Wc 3009, a roundel: \*333-DI-SU-KA \*188. With \*333 = bi, bīdi 'in the charge of' (Ug. bd, DULAT 211) + Sūka, a name without a secure etymology. Pair of HT Wc 3010 \*333-DI-NA-SU-KA. Weak point: \*333 = bi rests on its three words. Rivals: the whole group a personal name; \*333 as ZU (AB 79) after Facchetti, ZU-DI-SU-KA beside ZU-DI-SI-KA of IO Za 6 (Schoep 2002, 50), where the HT Wc 3009 sign has the form of \*333 on HT Wc 3010; Olivier holds that \*333 cannot be a variant of AB 79 (1989, 145 n. 32). One attestation. See PA₃.
 
 ### Cognates
 
@@ -52,13 +52,19 @@ HT Wc 3009, a roundel: \*333-DI-SU-KA \*188. With \*333 = bi, bīdi 'in the char
 
 ### Source
 
-di Mino; DULAT; Schoep 2002
+di Mino; DULAT; Schoep 2002; Olivier 1989
 
 ## Attestations
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3009\|HTWc3009]] | Haghia Triada | Roundel | none |
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3009\|HTWc3009]] | Haghia Triada | Roundel | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3009\|HTWc3009]] | bīdi Sūka | In the charge of Sūka—custody formula + personal name on a sealed receipt | SPECULATIVE |
 
 ## Onomasticon
 

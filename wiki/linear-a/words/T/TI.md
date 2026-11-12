@@ -68,7 +68,7 @@ di Mino
 | [[wiki/linear-a/inscriptions/PH/PH/PH16b\|PH16b]] | Phaistos | Lames (short thin tablet) | none |
 | [[wiki/linear-a/inscriptions/PH/PH/PH30\|PH30]] | Phaistos | Tablet | none |
 | [[wiki/linear-a/inscriptions/PK/PK/PK3\|PK3]] | Palaikastro | 4-sided bar | none |
-| [[wiki/linear-a/inscriptions/PYR/PYRWc/PYRWc4\|PYRWc4]] | Pyrgos | Roundel | none |
+| [[wiki/linear-a/inscriptions/PYR/PYRWc/PYRWc4\|PYRWc4]] | Pyrgos | Roundel | complete |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA12a\|ZA12a]] | Zakros | Tablet | none |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA12b\|ZA12b]] | Zakros | Tablet | none |
 
@@ -77,5 +77,6 @@ di Mino
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT119\|HT119]] |  | personnel-category logogram; not figs here |  |
+| [[wiki/linear-a/inscriptions/PYR/PYRWc/PYRWc4\|PYRWc4]] | tiʾin | figs (logographic abbreviation of TI-NI) | CANDIDATE |
 
 <!-- END kaphtor:record -->

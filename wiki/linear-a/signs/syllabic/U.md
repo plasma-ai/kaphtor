@@ -77,7 +77,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/U/U_SU\|U-SU]] | ʾUšu | CANDIDATE |
 | [[wiki/linear-a/words/U/U_TA_I_SE\|U-TA-I-SE]] | ʿUtay-se | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_TA_RO\|U-TA-RO]] | watru | CANDIDATE |
-| [[wiki/linear-a/words/U/U_TA2\|U-TA₂]] | Uta | CANDIDATE |
+| [[wiki/linear-a/words/U/U_TA2\|U-TA₂]] | ʿŪta | CANDIDATE |
 | [[wiki/linear-a/words/U/U_TI\|U-TI]] | Utti | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_TI_NU\|U-TI-NU]] | -u-tī-n(u) | CANDIDATE |
 

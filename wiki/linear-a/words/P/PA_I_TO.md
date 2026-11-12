@@ -62,13 +62,14 @@ di Mino; Gordon 1966; DMic II; Cline and Stannish 2011; Beekes 2014
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT97a\|HT97a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT97a\|HT97a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT120\|HT120]] | Haghia Triada | Tablet | complete |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT97a\|HT97a]] | Paito | Phaistos, 6 | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT120\|HT120]] | Paito | Phaistos (place name) | CONFIRMED |
 
 ## Onomasticon
@@ -89,6 +90,6 @@ Reading from the lexicon (Gordon 1966; Linear B pa-i-to).
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KA_NU_TI|KA-NU-TI]] Ganuti, KI, [[wiki/linear-a/words/K/KI_RE_TA_NA|KI-RE-TA-NA]] Kretan.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KA_NU_TI|KA-NU-TI]] Ganuti, [[wiki/linear-a/words/K/KI|KI]], [[wiki/linear-a/words/K/KI_RE_TA_NA|KI-RE-TA-NA]] Kretan.
 
 <!-- END kaphtor:record -->

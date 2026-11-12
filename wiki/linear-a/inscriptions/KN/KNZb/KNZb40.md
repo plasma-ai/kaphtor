@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/inscriptions/KN/KNZb/KNZb40
 title: "KNZb40"
-desc: "Pithoid jar, Knossos. Translation: complete."
+desc: "Pithoid jar, Knossos. Translation: complete (SPECULATIVE)."
 tags: ["linear-a", "inscription", "translation-complete", "pithoid-jar"]
 kind: "inscription"
 id: "KNZb40"
@@ -52,7 +52,7 @@ Unicode (Linear A block):
 
 ## Translation
 
-**no confidence given**, complete (status: speculative).
+**SPECULATIVE**, complete (status: speculative).
 
 > I weep—and here.
 

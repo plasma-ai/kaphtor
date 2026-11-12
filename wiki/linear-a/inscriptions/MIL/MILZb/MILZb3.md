@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/inscriptions/MIL/MILZb/MILZb3
 title: "MILZb3"
-desc: "Clay vessel, Miletos. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "clay-vessel"]
+desc: "Clay vessel, Miletos. Translation: complete (CANDIDATE)."
+tags: ["linear-a", "inscription", "translation-complete", "clay-vessel"]
 kind: "inscription"
 id: "MILZb3"
 site: "Miletos"
 support: "Clay vessel"
 period: ""
-translation: "none"
+translation: "complete"
 words: ["SI-TE"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -46,6 +46,21 @@ Unicode (Linear A block):
 ```text
 𐝫𐘤𐘃𐝫
 ```
+
+## Translation
+
+**CANDIDATE**, complete.
+
+> The East.
+
+| Word | Reading | Gloss | Confidence | Lexicon |
+|---|---|---|---|---|
+| [[wiki/linear-a/words/S/SI_TE\|SI-TE]] | Ṣīt | the East, lit. 'the going-out (of the sun)', a name for eastern Crete | CANDIDATE | CANDIDATE (lexicon) |
+
+### Source
+
+- di Mino: SI-TE
+- GORILA: MILZb3
 
 ## Lexicon words citing this document
 

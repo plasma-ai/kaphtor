@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 8a .1–2 JE-DI · OLE+KI 10 PA₃ \| KA-RA-TI 1½: PA₃ is the last sign of line 1, KA-RA-TI the first of line 2, in a list sharing out 10 units of oil. Hebrew bāqār, fem.pl. -āti. Rival: PA₃ a transaction sign closing line 1 and KA-RA-TI a recipient (GORILA V apud Schrijver 2014, 7 n. 6). HT 8b opens its second section the same way, 5 · PA₃ · \*188 2, and PA₃ stands alone on HT 34.6 (PA₃ 70, KI-RO 30 = SA+MU+KU 100), HT 9b, 93a and 132. One attestation.
+HT 8a .1–2 JE-DI · OLE+KI 10 PA₃ \| KA-RA-TI 1½: PA₃ is the last sign of line 1, KA-RA-TI the first of line 2, in a list sharing out 10 units of oil. Hebrew bāqār, fem.pl. -āti. Rival: PA₃ a transaction sign closing line 1 and KA-RA-TI a recipient (GORILA V apud Schrijver 2014, 7 n. 6). HT 8b opens its second section the same way, 5 · PA₃ · \*188 2, and PA₃ stands alone on HT 34.6 (PA₃ 70, KI-RO 30 = SA+MU+KU 100), HT 9b, 93a and 132. Uchitel takes PA₃ as the heading of the second list on each face of HT 8 (2016b, 12). One attestation.
 
 ### Cognates
 
@@ -52,7 +52,7 @@ HT 8a .1–2 JE-DI · OLE+KI 10 PA₃ \| KA-RA-TI 1½: PA₃ is the last sign of
 
 ### Source
 
-di Mino; GlOS 1; Schrijver 2014
+di Mino; GlOS 1; Schrijver 2014; Uchitel 2016b
 
 ## Attestations
 

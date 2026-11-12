@@ -21,6 +21,7 @@ if __package__ in (None, ""):
     sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
     __package__ = "tools.linear_a"
 
+from ..core import scribes
 from ..paths import CONTACT_DATA, LINEAR_A_DATA, SEMITIC_ROOTS_DATA, NotInCheckout, require
 
 _corpus_cache: dict | None = None
@@ -444,6 +445,56 @@ def cmd_xref(args: argparse.Namespace) -> None:
             print(f"  {name:12s} {site}")
 
 
+def cmd_scribe(args: argparse.Namespace) -> None:
+    corpus = _load_corpus()
+    index = scribes.scribe_index(corpus)
+    site = (getattr(args, "site", None) or "").upper()
+    if site:
+        index = {lab: [n for n in names if site in n.upper() or site in (corpus[n].get("site") or "").upper()]
+                 for lab, names in index.items()}
+        index = {lab: names for lab, names in index.items() if names}
+    as_json = getattr(args, "json", False)
+    labels = scribes.resolve_scribe(args.label, list(index)) if args.label else list(index)
+    if args.label and not labels:
+        print(f"No scribe matching '{args.label}'", file=sys.stderr)
+        sys.exit(1)
+    if not args.label or len(labels) > 1:
+        rows = [{"scribe": lab, "documents": len(index[lab]),
+                 "doubtful": sum(1 for n in index[lab] if scribes.doubtful(corpus[n], lab)),
+                 "site": corpus[index[lab][0]].get("site", "")} for lab in labels]
+        if as_json:
+            print(json.dumps(rows, indent=2, ensure_ascii=False))
+        else:
+            print(f"{'scribe':22s} | {'docs':4s} | {'?':2s} | site")
+            print("-" * 22 + "-+-" + "-" * 4 + "-+-" + "-" * 2 + "-+-" + "-" * 16)
+            for r in rows:
+                print(f"{r['scribe']:22s} | {r['documents']:4d} | {r['doubtful'] or '':2} | {r['site']}")
+            print(f"\n{len(rows)} scribes, {len({n for lab in labels for n in index[lab]})} records")
+        return
+    label, names = labels[0], index[labels[0]]
+    docs = [{"record": n, "doubt": scribes.doubtful(corpus[n], label), "site": corpus[n].get("site", ""),
+             "findspot": corpus[n].get("findspot", ""), "support": corpus[n].get("support", ""),
+             "period": corpus[n].get("context", ""), "gorila_v": corpus[n].get("scribe_gorila", ""),
+             "part": scribes.scribe_part(corpus[n], label),
+             "other_scribes": [x for x in scribes.labels(corpus[n]) if x != label]} for n in names]
+    shared = scribes.scribe_shared_words(corpus, names)
+    if as_json:
+        print(json.dumps({"scribe": label, "documents": docs,
+                          "shared_words": [{"word": w, "records": d} for w, d in shared]}, indent=2, ensure_ascii=False))
+        return
+    print(f"{label}: {len(names)} records\n")
+    print(f"{'record':16s} | {'?':1s} | {'support':14s} | {'period':10s} | findspot")
+    print("-" * 16 + "-+-" + "-" + "-+-" + "-" * 14 + "-+-" + "-" * 10 + "-+-" + "-" * 24)
+    for d in docs:
+        print(f"{d['record']:16s} | {'?' if d['doubt'] else ' '} | {d['support'][:14]:14s} | {d['period'][:10]:10s} | {d['findspot']}"
+              + (f"  [{d['part'] or 'part'}; also {', '.join(d['other_scribes'])}]" if d["other_scribes"] else "")
+              + (f"  [GORILA V: {d['gorila_v']}]" if d["gorila_v"] else ""))
+    if shared:
+        print("\nWords on two or more of these records:")
+        for w, where in shared[:40]:
+            print(f"  {w:28s} {len(where):3d}  {', '.join(where[:6])}{'...' if len(where) > 6 else ''}")
+
+
 def cmd_unread(args: argparse.Namespace) -> None:
     con = _get_connection()
     clauses, params = [], []
@@ -521,7 +572,12 @@ def main():
     p_unread.add_argument("--role", help="Role (e.g., personal_name, toponym)")
     p_unread.add_argument("--json", action="store_true", default=argparse.SUPPRESS, help="JSON output")
 
-    known_cmds = {"sql", "word", "root", "inscription", "site", "xref", "field", "tier", "stats", "audit", "unread", "-h", "--help", "--json"}
+    p_scribe = sub.add_parser("scribe", help="Scribes with their record counts, or one scribe's records and shared words")
+    p_scribe.add_argument("label", nargs="?", help="Scribe label, any case, 'Scribe' optional (e.g., 'HT Scribe 9', 'kh wc 54', HT)")
+    p_scribe.add_argument("--site", help="Site name or inscription substring (e.g., Khania, HTWa)")
+    p_scribe.add_argument("--json", action="store_true", default=argparse.SUPPRESS, help="JSON output")
+
+    known_cmds = {"sql", "word", "root", "inscription", "site", "scribe", "xref", "field", "tier", "stats", "audit", "unread", "-h", "--help", "--json"}
     if len(sys.argv) > 1 and sys.argv[1] not in known_cmds:
         query_parts = [a for a in sys.argv[1:] if a != "--json"]
         args = argparse.Namespace(command="sql", query=" ".join(query_parts), json="--json" in sys.argv)
@@ -543,6 +599,7 @@ def main():
         "stats": cmd_stats,
         "audit": cmd_audit,
         "unread": cmd_unread,
+        "scribe": cmd_scribe,
     }
     try:
         dispatch[args.command](args)

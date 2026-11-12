@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/KN/KNZc/KNZc7
 title: "KNZc7"
-desc: "Inked inscription, Knossos, Ink-written inscription in two lines inside a clay cup (HM 2629, GORILA IV 122), pair of KN Zc 6.. Translation: complete (CANDIDATE)."
+desc: "Inked inscription, Knossos. Translation: complete (CANDIDATE)."
 tags: ["linear-a", "inscription", "translation-complete", "inked-inscription"]
 kind: "inscription"
 id: "KNZc7"
 site: "Knossos"
 support: "Inked inscription"
-period: "Ink-written inscription in two lines inside a clay cup (HM 2629, GORILA IV 122), pair of KN Zc 6."
+period: ""
 translation: "complete"
 words: ["A-KA-NU", "A-NA-NE", "A-ZU-RA", "DU-RA-RE", "JA-SA-RA", "ZA-TI"]
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Knossos |
 | Findspot | Knossos, upper MM III floor above the Basement of the Monolithic Pillars, with KN Zc 6 (Evans, PoM I 587–588, 616) |
 | Support | Inked inscription |
-| Period | Ink-written inscription in two lines inside a clay cup (HM 2629, GORILA IV 122), pair of KN Zc 6. |
+| Period |  |
 | Scribe |  |
 | Edition | GORILA 4 |
 | Series | KNZc |
@@ -70,14 +70,14 @@ Unicode (Linear A block):
 
 Context: ritual text painted inside a mended short conical cup; no numerals.
 
-GORILA IV, 125 begins directly with complete A-KA-NU-ZA-TI and marks no opening lacuna, so there is no positive evidence for a lost word before A-KA-NU. Gordon segments that continuous group as A-KA-NU \| ZA-TI. ZA-TI may be /zāt/ 'this' (historically perhaps /zāʾt/), with TI spelling final /t/ and a nonphonemic support vowel. Hebrew zō(ʾ)t supplies the lexical parallel. Phoenician ʾGN is feminine, and FK D 35 hʾgn hz 'this bowl' supplies the closest structural parallel (Krahmalkov 2000, 31). Its postposed Semitic order is rendered naturally in English as 'this bowl.' The rival /ḏāti/ 'of' fits less well: its final /i/ is a live genitive ending, and the agreement frame it needs is absent. The segmentation remains CANDIDATE: ZA-TI is a hapax, SigLA reads ZE rather than ZA, and final TI = /t/ is not independently established. DU-RA-RE is durār 'dove', Hebrew dərôr, a bird (HALOT, 230), the offering a votary holds out beside the Knossian Dove Goddess (Evans, PoM II 337, 339); the cups lay above the crypt of the dove vase (PoM I 587). A Nabataean inscription from Petra begins \[d\]nh ʾgnʾ dy qrb, 'This is the basin which ... offered,' and proceeds to the deity and bšlm šlm, 'in peace, peace' (CIS II 423b; Milik 1972, 109; Alpass 2013, 102 no. 16); it supports the vessel–deity–blessing frame but contains an explicit dedication verb. JA-SA-RA \| A-NA-NE puts the predicate first, as kî-yāšār dəbar-YHWH 'for righteous is the word of YHWH' (Ps 33:4) and kî-yāšār YHWH (Ps 92:16). The final group is WI-PI-\[·\] (GORILA IV, 125), one sign lost after PI. Not readable.
+GORILA IV, 125 begins directly with complete A-KA-NU-ZA-TI and marks no opening lacuna, so there is no positive evidence for a lost word before A-KA-NU. Gordon segments that continuous group as A-KA-NU \| ZA-TI. ZA-TI may be /zāt/ 'this' (historically perhaps /zāʾt/), with TI spelling final /t/ and a nonphonemic support vowel. Hebrew zō(ʾ)t supplies the lexical parallel. Phoenician ʾGN is feminine, and FK D 35 hʾgn hz 'this bowl' supplies the closest structural parallel (Krahmalkov 2000, 31). Its postposed Semitic order is rendered naturally in English as 'this bowl.' The rival /ḏāti/ 'of' fits less well: its final /i/ is a live genitive ending, and the agreement frame it needs is absent. The segmentation remains CANDIDATE: ZA-TI is a hapax, SigLA reads ZE rather than ZA, and final TI = /t/ is not independently established. DU-RA-RE is durār 'dove', Hebrew dərôr, a bird (HALOT, 230), the offering a votary holds out beside the Knossian Dove Goddess (Evans, PoM II 337, 339); the cups lay above the crypt of the dove vase (PoM I 587). The dove is the Goddess's bird: on the Knossian shrine columns doves are "the outward and visible sign of the divine presence" (Evans, PoM I 222); in Syria the dove is her symbol and her messenger, and the dove goddess appears in Crete, Cyprus and Mycenae from the mid-second millennium (Winter in Keel 1977, 52, 74, 76); doves attend Tanit (Dever 2005, 232). The dərôr is also a bird of purification: the leper is cleansed with two clean birds, one slaughtered into an earthenware vessel over living water (Lev 14:4–7), which the Mishnah names ṣippŏrîm dərôr (m. Negaʿim 14:1); doves are the purification offering after childbirth (Lev 12:6–8), as Ugaritic ynt and tr are offered (Milgrom 1991, 758). A Nabataean inscription from Petra begins \[d\]nh ʾgnʾ dy qrb, 'This is the basin which ... offered,' and proceeds to the deity and bšlm šlm, 'in peace, peace' (CIS II 423b; Milik 1972, 109; Alpass 2013, 102 no. 16); it supports the vessel–deity–blessing frame but contains an explicit dedication verb. JA-SA-RA \| A-NA-NE puts the predicate first, as kî-yāšār dəbar-YHWH 'for righteous is the word of YHWH' (Ps 33:4) and kî-yāšār YHWH (Ps 92:16). The final group is WI-PI-\[·\] (GORILA IV, 125), one sign lost after PI. Not readable. For the incantation-bowl parallel (Marinatos 1951, 41; Franceschetti 1990, 40–41), see KN Zc 6.
 
 ### Source
 
 - Gordon 1966: A-KA-NU
 - di Mino: ZA-TI, DU-RA-RE, A-ZU-RA
 - Krahmalkov 2000: A-KA-NU, ZA-TI
-- HALOT, 230; DNWSI, 262; Evans, PoM I 587, II 337–339; Dever 2005, 232: DU-RA-RE
+- HALOT, 230; DNWSI, 262; Evans, PoM I 222, 587, II 337–339; Dever 2005, 232; Winter in Keel 1977, 52, 74, 76; Milgrom 1991, 758: DU-RA-RE
 - Alpass 2013, 102 no. 16: A-KA-NU, ZA-TI
 - OCIANA AAEK 123 (ASFF 246): A-ZU-RA, JA-SA-RA, A-NA-NE
 - Huehnergard 2023, 46: ZA-TI
@@ -96,6 +96,6 @@ GORILA IV, 125 begins directly with complete A-KA-NU-ZA-TI and marks no opening 
 
 ## Corpus note
 
-GORILA IV, 122–125 begins the diplomatic transcription with complete A-KA-NU-ZA-TI and marks no opening lacuna; there is no positive evidence for a lost word before A-KA-NU. Gordon segments A-KA-NU \| ZA-TI, provisionally /ʾagānu zāt/, 'this bowl.' The closest inscriptional vessel formula is Nabataean \[d\]nh ʾgnʾ dy qrb, 'This is the basin which ... offered,' followed by a deity and bšlm šlm, 'in peace, peace' (CIS II 423b; Milik 1972, 109; Alpass 2013, 102 no. 16). Safaitic f h lt s¹lm w h bʿls¹mn rwḥ, 'O Allāt \[grant\] security and O Baalshamin \[grant\] relief,' supplies a structural parallel for an omitted petition verb after the divine invocation (OCIANA AAEK 123 = ASFF 246). DU-RA-RE is durār 'dove', Hebrew I דְּרוֹר, a bird (HALOT, 230), the offering of the Knossian Dove Goddess's votary (Evans, PoM II 337, 339). The mended cup is damaged at the end of the final group: WI and PI are readable, followed by an unidentifiable terminal trace or lost continuation. Record the group as WI-PI-\[…\]; whether the missing element was another sign or a divider cannot be determined.
+Ink-written inscription in two lines inside a clay cup (HM 2629, GORILA IV 122), pair of KN Zc 6. GORILA IV, 122–125 begins the diplomatic transcription with complete A-KA-NU-ZA-TI and marks no opening lacuna; there is no positive evidence for a lost word before A-KA-NU. Gordon segments A-KA-NU \| ZA-TI, provisionally /ʾagānu zāt/, 'this bowl.' The closest inscriptional vessel formula is Nabataean \[d\]nh ʾgnʾ dy qrb, 'This is the basin which ... offered,' followed by a deity and bšlm šlm, 'in peace, peace' (CIS II 423b; Milik 1972, 109; Alpass 2013, 102 no. 16). Safaitic f h lt s¹lm w h bʿls¹mn rwḥ, 'O Allāt \[grant\] security and O Baalshamin \[grant\] relief,' supplies a structural parallel for an omitted petition verb after the divine invocation (OCIANA AAEK 123 = ASFF 246). DU-RA-RE is durār 'dove', Hebrew I דְּרוֹר, a bird (HALOT, 230), the offering of the Knossian Dove Goddess's votary (Evans, PoM II 337, 339). The mended cup is damaged at the end of the final group: WI and PI are readable, followed by an unidentifiable terminal trace or lost continuation. Record the group as WI-PI-\[…\]; whether the missing element was another sign or a divider cannot be determined.
 
 <!-- END kaphtor:record -->

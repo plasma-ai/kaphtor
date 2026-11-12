@@ -73,7 +73,7 @@ Hebrew Bible, Exod 25:6; 29:7; 30:25, 31; 31:11; DULAT 582; GlOS 2; corpus distr
 | [[wiki/linear-a/inscriptions/HT/HT/HT125a\|HT125a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT137\|HT137]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/TY/TY/TY3a\|TY3a]] | Tylissos | Tablet | none |
-| [[wiki/linear-a/inscriptions/TY/TY/TY3b\|TY3b]] | Tylissos | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/TY/TY/TY3b\|TY3b]] | Tylissos | Tablet | complete |
 
 ## In translations
 

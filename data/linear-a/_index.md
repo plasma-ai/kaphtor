@@ -60,6 +60,10 @@ updated: 2026-11-04T02:00:10Z
 
 [[data/linear-a/rival-roots|rival-roots]]: The Egyptian, Luwian, Hurrian and Hattic root keys the competitor null rescores every Semitic match against, each with its form and its citations or source labels.
 
+[[data/linear-a/scribes|scribes]]: One entry per scribe to whom an edition assigns Linear A documents, with the site, the class of document, whose numbering the label follows and its source.
+
+[[data/linear-a/scribes.json|scribes.json]]: The scribes; datasheet `scribes.md`; CC BY 4.0.
+
 [[data/linear-a/sigla-sign-map.json|sigla-sign-map.json]]: The SigLA sign list with Unicode fields; datasheet `sign-maps.md`; CC BY-NC-SA 4.0 (SigLA's dataset).
 
 [[data/linear-a/sigla/_index|sigla/]]: SigLA's own database file, unchanged, and the hand-set corpus.json keys the SigLA database build reads beside it.
@@ -85,6 +89,10 @@ updated: 2026-11-04T02:00:10Z
 [[data/linear-a/translations|translations]]: Translations of Linear A inscriptions, keyed by inscription id, each with a word-by-word analysis.
 
 [[data/linear-a/translations.json|translations.json]]: Inscription translations with word-by-word analyses; datasheet `translations.md`; CC BY 4.0.
+
+[[data/linear-a/unread_signs|unread_signs]]: Every single sign or combination of signs that stands as an entry in the Linear A corpus and has no entry in the lexicon, each with its attestations and what is on file for it.
+
+[[data/linear-a/unread_signs.json|unread_signs.json]]: The unread signs; datasheet `unread_signs.md`; CC BY 4.0.
 
 [[data/linear-a/unread_words|unread_words]]: Every Linear A word of two or more signs with no reading in the lexicon, translations or onomasticon, each with its attestations and a note on the edition's text.
 

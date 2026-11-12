@@ -76,7 +76,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_NA_NE\|A-NA-NE]] | ḥanān | CANDIDATE |
 | [[wiki/linear-a/words/A/A_NA_NU\|A-NA-NU]] | Ḥanānu | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_PA_KI\|A-PA-KI]] | ʾabkī | SPECULATIVE |
-| [[wiki/linear-a/words/A/A_PA_RA_NE\|A-PA-RA-NE]] | ʿabrāne | CANDIDATE |
+| [[wiki/linear-a/words/A/A_PA_RA_NE\|A-PA-RA-NE]] | ʿAbrān | CANDIDATE |
 | [[wiki/linear-a/words/A/A_PA3_DI\|A-PA₃-DI]] | ʿAbdī | CANDIDATE |
 | [[wiki/linear-a/words/A/A_PI\|A-PI]] | ʾāpi | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RA_JU\|A-RA-JU]] | ʾArāyu | SPECULATIVE |

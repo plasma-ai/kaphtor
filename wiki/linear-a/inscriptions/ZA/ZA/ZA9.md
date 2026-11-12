@@ -9,7 +9,7 @@ site: "Zakros"
 support: "Tablet"
 period: "LMIB"
 translation: "incomplete"
-words: ["WI-RA-RE-MI-TE"]
+words: ["*21F", "WI-RA-RE-MI-TE"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -71,8 +71,8 @@ Unicode (Linear A block):
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | NU-TI |  | broken word, \]-NU-TI ·, heading |  |  |
-| ZA |  | broken word, ZA-\[ |  |  |
-| RA |  | broken word, \]-RA; QI+SI 5 |  |  |
+| [[wiki/linear-a/words/Z/ZA\|ZA]] |  | broken word, ZA-\[ |  |  |
+| [[wiki/linear-a/words/R/RA\|RA]] |  | broken word, \]-RA; QI+SI 5 |  |  |
 | [[wiki/linear-a/words/R/RO_SI_RA\|RO-SI-RA]] |  | broken word, \]RỌ-SI-RA; QI+SI 4̣ |  | unread |
 | A-TA-NA |  | broken word, A-TA-NA-\[·\]; QI+SI 2̣ |  |  |
 | [[wiki/linear-a/words/M/MA_JU\|MA-JU]] |  | broken word, \[·\]-MA-JU; ewes 2 |  | unread |
@@ -88,7 +88,7 @@ GORILA III 166–167: allocations under the \]-NU-TI heading, the ligature QI+SI
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/W/WI_RA_RE_MI_TE|WI-RA-RE-MI-TE]].
+[[wiki/linear-a/words/star/star21F|\*21F]], [[wiki/linear-a/words/W/WI_RA_RE_MI_TE|WI-RA-RE-MI-TE]].
 
 ## Corpus note
 

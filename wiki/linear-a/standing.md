@@ -46,14 +46,19 @@ Every number on this page is computed from the data files.
 
 ## PROBABLE
 
-69 entries.
+75 entries.
 
 | Word | Reading | Meaning | Score |
 |---|---|---|---|
+| [[wiki/linear-a/words/star/star21F\|\*21F]] | (logogram) | ewe (livestock logogram, standing alone before a numeral) | 0.65 |
+| [[wiki/linear-a/words/star/star21M\|\*21M]] | (logogram) | ram (livestock logogram) | 0.65 |
+| [[wiki/linear-a/words/star/star22F\|\*22F]] | (logogram) | she-goat (livestock logogram) | 0.60 |
 | [[wiki/linear-a/words/star/star23M\|\*23M]] | mūru | young bull, head of cattle (live livestock logogram; MU-onset abbreviation of \*mūru) | 0.70 |
+| [[wiki/linear-a/words/star/star118\|\*118]] | (logogram) | talent, the largest weight unit (standing alone before a numeral) | 0.75 |
 | [[wiki/linear-a/words/star/star188\|\*188]] | buṭnu | commodity ideogram, a Pistacia/terebinth product (resin, mastic or nuts) | 0.70 |
 | [[wiki/linear-a/words/star/star301\|\*301]] | nawā | pastureland, pastoral product (commodity logogram: nawum in administrative register, nawā in ritual/general) | 0.70 |
 | [[wiki/linear-a/words/star/star305\|\*305]] |  | personnel-category logogram, a counted class of persons | 0.75 |
+| [[wiki/linear-a/words/star/star307\|\*307]] | dubur | sanctuary (logogram), standing by itself | 0.75 |
 | [[wiki/linear-a/words/star/star308\|\*308]] | šamnu | pressed oil, oil derivative—commodity modifier indicating oil extraction from base commodity | 0.70 |
 | [[wiki/linear-a/words/star/star401\|\*401]] | ruqqû | aromatic preparation, compounded ointment—commodity ideogram for perfumed/refined oil products | 0.70 |
 | [[wiki/linear-a/words/A/A_DI_KI_TE_TE\|A-DI-KI-TE-TE]] | ʾa-Diqqitīt | O Diktaean (f.), the feminine nisbe of Dikte | 0.65 |
@@ -117,17 +122,20 @@ Every number on this page is computed from the data files.
 | [[wiki/linear-a/words/U/U_NA\|U-NA]] | wannā | and behold (contracted conjunction + h-n presentative) | 0.68 |
 | [[wiki/linear-a/words/V/VIN\|VIN]] |  | wayn 'wine' | 0.70 |
 | [[wiki/linear-a/words/V/VIR_plus_star307\|VIR+\*307]] | VIR-dubur | sanctuary personnel | 0.75 |
+| [[wiki/linear-a/words/V/VIR_plus_q_broken_end\|VIR+&#91;?&#93;]] | (logogram) | men, a counted personnel class (the person sign with an unnamed element) | 0.70 |
 | [[wiki/linear-a/words/Y/Y3_Y_D33\|Y3-Y-D33]] | yaṣʾa | go out! (3ms volitive yaqtula—disease expulsion command) | 0.65 |
 | [[wiki/linear-a/words/Z/ZU_DI\|ZU-DI]] | ṯudī | breast (√ṯ-d-y, PS \*ṯad-); at IOZa6 first member of ZU-DI SI-KA (ṯudī-šiqā) | 0.70 |
 
 ## CANDIDATE
 
-246 entries.
+252 entries.
 
 | Word | Reading | Meaning | Score |
 |---|---|---|---|
 | [[wiki/linear-a/words/star/star21F_star118\|\*21F-\*118]] | ḥiṭṭa | wheat; rivals ḫaṭṭu 'sceptre', ḥaṯ 'unleavened bread' | 0.45 |
 | [[wiki/linear-a/words/star/star21F_TU_NE\|\*21F-TU-NE]] | hatune | bridegroom, son-in-law | 0.50 |
+| [[wiki/linear-a/words/star/star22M\|\*22M]] | (logogram) | he-goat (livestock logogram) | 0.45 |
+| [[wiki/linear-a/words/star/star131C\|\*131C]] | (logogram) | vinegar (commodity logogram) | 0.45 |
 | [[wiki/linear-a/words/star/star188_star308\|\*188-\*308]] | buṭnu šamni | terebinth oil, the Pistacia product \*188 with \*308 'pressed oil' | 0.50 |
 | [[wiki/linear-a/words/star/star301_U_RA\|\*301-U-RA]] | naura | light, radiance (personal name or epithet) | 0.45 |
 | [[wiki/linear-a/words/star/star304\|\*304]] | pidru | fat, tallow (an oil/fat-register commodity) | 0.50 |
@@ -157,7 +165,7 @@ Every number on this page is computed from the data files.
 | [[wiki/linear-a/words/A/A_MA_WA_SI\|A-MA-WA-SI]] | ʿAmma-wāṣiʾ | the Kinsman who comes forth (El epithet); rival 'Strong One' | 0.40 |
 | [[wiki/linear-a/words/A/A_MI_DA_U\|A-MI-DA-U]] | ʿAmmī-dāʿ(u) | My kinsman knows (sentence name) | 0.50 |
 | [[wiki/linear-a/words/A/A_NA_NE\|A-NA-NE]] | ḥanān | grace, favor | 0.45 |
-| [[wiki/linear-a/words/A/A_PA_RA_NE\|A-PA-RA-NE]] | ʿabrāne | the crosser, the one from beyond (√ʿ-b-r, the ʿApiru word); rival 'creator' (√b-r-ʾ) | 0.50 |
+| [[wiki/linear-a/words/A/A_PA_RA_NE\|A-PA-RA-NE]] | ʿAbrān | personal name, 'the crosser, the one from beyond' (√ʿ-b-r), Alalakh Ap-ra-an | 0.50 |
 | [[wiki/linear-a/words/A/A_PA3_DI\|A-PA₃-DI]] | ʿAbdī | personal name, ʿAbdī 'my servant'; rival the head of an ʿAbdi-DN name | 0.50 |
 | [[wiki/linear-a/words/A/A_RA_NA_RE\|A-RA-NA-RE]] | Aranare | personal name; Ugaritic ålnr (Hurrian), Linear B a-ra-na-ro | 0.50 |
 | [[wiki/linear-a/words/A/A_RA_TU\|A-RA-TU]] | ʾarṣ̂atu | earth (feminine noun—PS \*ʾar(V)ṣ̂- "earth") | 0.50 |
@@ -176,10 +184,11 @@ Every number on this page is computed from the data files.
 | [[wiki/linear-a/words/A/A_TA_NA_JE\|A-TA-NA-JE]] | ʾatanāya | My Giver / My Athena—1cs possessive on divine epithet (√y-t-n 'to give' + -ya 'my') | 0.55 |
 | [[wiki/linear-a/words/A/A_TU_RI_SI_TI\|A-TU-RI-SI-TI]] | ha-Turisīt | the Tylissian (f.): provenance label on a jar | 0.50 |
 | [[wiki/linear-a/words/A/A_ZU_RA\|A-ZU-RA]] | ʾAṯirat | Athirat (divine name: the Goddess) | 0.60 |
+| [[wiki/linear-a/words/C/CAP\|CAP]] | (logogram) | goat (livestock logogram) | 0.40 |
 | [[wiki/linear-a/words/D/DA_DU_MA_TA\|DA-DU-MA-TA]] | dadmatu | settlement(s), district (heading of a grain list); rival 'beloved land' | 0.50 |
 | [[wiki/linear-a/words/D/DA_I\|DA-I]] | dayu | good, sufficient—commodity quality designation on oil/fat allocation tablets | 0.35 |
 | [[wiki/linear-a/words/D/DA_JU_TE\|DA-JU-TE]] | dalut | door, doorway | 0.50 |
-| [[wiki/linear-a/words/D/DA_KA\|DA-KA]] | dagu | fish | 0.50 |
+| [[wiki/linear-a/words/D/DA_KA\|DA-KA]] | dāgā | fish (collective, as a foodstuff) | 0.50 |
 | [[wiki/linear-a/words/D/DA_QE_RA\|DA-QE-RA]] | ḏā-Qīra | the (district) of Qīr, the walled town; heading opposite KA-PA 'village'; rival diḳaru 'pot' | 0.50 |
 | [[wiki/linear-a/words/D/DA_RE\|DA-RE]] | dār | estate, household (a unit receiving men and grain); rival 'kin group, clan' | 0.50 |
 | [[wiki/linear-a/words/D/DA_SI_star118\|DA-SI-\*118]] | Ḏā-šiṭṭa | those of Acacia (gentilic, a roster unit); rival the unglossed Dasiṭa | 0.40 |
@@ -239,7 +248,7 @@ Every number on this page is computed from the data files.
 | [[wiki/linear-a/words/K/KA_KU_PA\|KA-KU-PA]] | kawkab | Star (place name, as Mari Kabkab) | 0.40 |
 | [[wiki/linear-a/words/K/KA_NA\|KA-NA]] | qana / qanû | aromatic reed, sweet cane (commodity; spelling variant of QA-NE) | 0.60 |
 | [[wiki/linear-a/words/K/KA_NA_NI_TI\|KA-NA-NI-TI]] | kanaʿanītī | the Canaanite (ethnonymic designation) | 0.50 |
-| [[wiki/linear-a/words/K/KA_PA\|KA-PA]] | kapa(r) | village, settlement (kapar); rival an institution | 0.50 |
+| [[wiki/linear-a/words/K/KA_PA\|KA-PA]] | kapa(r) | village, settlement (kapar); on HT 140 a vessel (kappar) | 0.50 |
 | [[wiki/linear-a/words/K/KA_SA_RU\|KA-SA-RU]] | Qaṣṣāru | Qaṣṣāru 'Fuller' (personal name); compare Linear B ka-sa-ro; rival Kaṣṣāru 'donkey driver' | 0.45 |
 | [[wiki/linear-a/words/K/KI_plus_MU\|KI+MU]] | kumru | priest(s) (personnel category, ligatured onset abbreviation) | 0.55 |
 | [[wiki/linear-a/words/K/KI_KI_NA\|KI-KI-NA]] | Kikkina | Kikkina, recipient or named administrative entity | 0.55 |
@@ -268,7 +277,7 @@ Every number on this page is computed from the data files.
 | [[wiki/linear-a/words/M/MI_TA\|MI-TA]] | mitta | personal name (Mitanni Indo-Aryan type) | 0.50 |
 | [[wiki/linear-a/words/M/MU_RU\|MU-RU]] | mūru | young bull, young animal | 0.40 |
 | [[wiki/linear-a/words/N/NU_RO\|NU-RO]] | nūr- | light, fire (divine epithet or votive label on clay vessels) | 0.40 |
-| [[wiki/linear-a/words/O/O_SU_QA_RE\|O-SU-QA-RE]] | ʾō Sukar | O Sokar (Egyptian Skr), the deity addressed; rivals Ušḫara the Snake, ʾAšqur | 0.50 |
+| [[wiki/linear-a/words/O/O_SU_QA_RE\|O-SU-QA-RE]] | ʾō Sōkar | O Sokar (Egyptian Skr 𓊃𓎡𓂋𓅆) | 0.50 |
 | [[wiki/linear-a/words/O/OLE_plus_DI\|OLE+DI]] | dišpu | honeyed oil (DI for dišpu 'honey') | 0.35 |
 | [[wiki/linear-a/words/O/OLE_plus_KI\|OLE+KI]] | kīnu | genuine, standard-grade oil (kīnu) | 0.45 |
 | [[wiki/linear-a/words/O/OLE_plus_MI\|OLE+MI]] | mišḥā | anointing oil (mišḥā) | 0.50 |
@@ -278,11 +287,11 @@ Every number on this page is computed from the data files.
 | [[wiki/linear-a/words/O/OLE_plus_U\|OLE+U]] | ʿuṣār | pressed oil (ʿuṣār) | 0.35 |
 | [[wiki/linear-a/words/P/P33_W_RY\|P33-W-RY]] |  | I cry out! / my invocation (ritual speech act) | 0.40 |
 | [[wiki/linear-a/words/P/PA\|PA]] | barr | barr- 'wheat, threshed grain' | 0.40 |
-| [[wiki/linear-a/words/P/PA_KU_PU_KO\|PA-KU / PU-KO]] | pak / pukku | flask, vial (small libation/oil vessel) | 0.50 |
+| [[wiki/linear-a/words/P/PA_KU\|PA-KU]] | pak | flask, vial (small libation/oil vessel) | 0.50 |
 | [[wiki/linear-a/words/P/PA_NA_TU\|PA-NA-TU]] | banātu / panātu / (Ku)bānatu | daughters (fem. pl.) / portions / Kubaba devotees (cf. KU-PA-NA-TU) | 0.55 |
-| [[wiki/linear-a/words/P/PA_RA_NE\|PA-RA-NE]] | barāne | short form of A-PA-RA-NE, 'the crosser'; rival 'creator' | 0.45 |
+| [[wiki/linear-a/words/P/PA_RA_NE\|PA-RA-NE]] | Barān | personal name, the short form of A-PA-RA-NE | 0.45 |
 | [[wiki/linear-a/words/P/PA_TA_DA\|PA-TA-DA]] | Patada | personal name; Egyptian Ptḥ-dj(⸗f) 'Ptah gives'; rival Hurrian pṭḏ (Ugarit) | 0.50 |
-| [[wiki/linear-a/words/P/PA_TA_NE\|PA-TA-NE]] | Patne | personal name, 'Viper' | 0.40 |
+| [[wiki/linear-a/words/P/PA_TA_NE\|PA-TA-NE]] | Patne | personal name, 'Viper' | 0.50 |
 | [[wiki/linear-a/words/P/PA_TA_QE\|PA-TA-QE]] | pitqē | a kind of \*402 cup | 0.45 |
 | [[wiki/linear-a/words/P/PA3\|PA₃]] | bi= | in, with, by (proclitic b-); rival on HT 103 bād(i) 'in the charge of' | 0.50 |
 | [[wiki/linear-a/words/P/PA3_star188\|PA₃-\*188]] | bu-buṭnu | terebinth (PA₃ a phonetic complement for the b-onset) | 0.50 |
@@ -294,6 +303,7 @@ Every number on this page is computed from the data files.
 | [[wiki/linear-a/words/P/PI_star310_A\|PI-\*310-A]] | pīnā | face, front | 0.50 |
 | [[wiki/linear-a/words/P/PI_TE_RI\|PI-TE-RI]] | piṭrī | Piṭrī, personal name, 'my release' | 0.45 |
 | [[wiki/linear-a/words/P/PU_DE\|PU-DE]] | buddē | share(s), portion | 0.50 |
+| [[wiki/linear-a/words/P/PU_KO\|PU-KO]] | pūqū | acquired, supplied (transaction term in the heading of the HT 31 vessel inventory) | 0.45 |
 | [[wiki/linear-a/words/P/PU_RA2\|PU-RA₂]] | Bōl | Baal, 'Lord' (allocation heading) | 0.55 |
 | [[wiki/linear-a/words/Q/QA_star118\|QA-\*118]] | qaṭṭ(u) | flax, linseed—field-crop commodity | 0.45 |
 | [[wiki/linear-a/words/Q/QA_NE\|QA-NE]] | qanē | reed, cane; rival lapis lazuli | 0.60 |
@@ -307,6 +317,7 @@ Every number on this page is computed from the data files.
 | [[wiki/linear-a/words/R/RU_MA_TA\|RU-MA-TA]] | rūmatā | the Height (toponym of the Ramah/Ramoth type) | 0.55 |
 | [[wiki/linear-a/words/S/S3_BW\|S3-BW]] |  | turn away! (2mp imperative—disease expulsion command) | 0.40 |
 | [[wiki/linear-a/words/S/SA\|SA]] | śakaru | beer, strong drink—logographic abbreviation of \*śakaru/\*šikaru; commodity logogram, compounded with VIN | 0.55 |
+| [[wiki/linear-a/words/S/SA_plus_MU_plus_KU\|SA+MU+KU]] | ṣammūqu | raisins (a commodity ligature spelling the word) | 0.50 |
 | [[wiki/linear-a/words/S/SA_MA\|SA-MA]] | samm- | herb, aromatic plant (commodity term in allocation lists) | 0.40 |
 | [[wiki/linear-a/words/S/SA_MI_DA_E\|SA-MI-DA-E]] | samidē | groats, semolina, processed grain | 0.50 |
 | [[wiki/linear-a/words/S/SA_QE_RI\|SA-QE-RI]] | Šaqeli | personal name, from √š-q-l 'to weigh' | 0.40 |
@@ -329,6 +340,7 @@ Every number on this page is computed from the data files.
 | [[wiki/linear-a/words/S/SU_JU_TA\|SU-JU-TA]] | sulta | fine flour, semolina | 0.45 |
 | [[wiki/linear-a/words/S/SU_KI_RI_TA\|SU-KI-RI-TA]] | Sukrita | Sukrita (place name; Linear B su-ki-ri-ta) | 0.55 |
 | [[wiki/linear-a/words/S/SU_PU2_star188\|SU-PU₂-\*188]] | suppu buṭni | bowl of terebinth (pistachio) nuts (commodity measured in bowl-units) | 0.50 |
+| [[wiki/linear-a/words/S/SUS\|SUS]] | (logogram) | pig (livestock logogram) | 0.40 |
 | [[wiki/linear-a/words/T/TA_NA_SU_TE_KE\|TA-NA-SU-TE-KE]] | tanašutē-kī | may \[it\] be drunk for you (f.)—N-stem 3fs imperfective of √š-t-y 'to drink' + 2fs pronominal suffix -kī | 0.35 |
 | [[wiki/linear-a/words/T/TA_NA_TE\|TA-NA-TE]] | Tanāt | Tanāt, a variant of Tinit, the goddess TNT, feminine of √t-n-n 'sea-dragon'; rival a form of A-TA-NA-TE ʾAtanat | 0.45 |
 | [[wiki/linear-a/words/T/TA_NA_TI\|TA-NA-TI]] | Tanāti | the goddess TNT (Tinnit), feminine of √t-n-n 'sea-dragon' | 0.40 |
@@ -349,7 +361,7 @@ Every number on this page is computed from the data files.
 | [[wiki/linear-a/words/T/TU\|TU]] | ṯawr | bull, cattle (logographic abbreviation of ṯawr; administrative commodity category for bovine livestock/products) | 0.35 |
 | [[wiki/linear-a/words/T/TU_MA\|TU-MA]] | tūma | twin—birth-circumstance personal name from √t-ʾ-m | 0.40 |
 | [[wiki/linear-a/words/T/TU_ME_I\|TU-ME-I]] | tummī | my wholeness, my completeness (noun \*tumm- + 1cs -ī) | 0.50 |
-| [[wiki/linear-a/words/T/TU_PI_TA\|TU-PI-TA]] | ṯāpiṭu | judge (title) | 0.50 |
+| [[wiki/linear-a/words/T/TU_PI_TA\|TU-PI-TA]] | ṯūpiṭa | judge (title) | 0.50 |
 | [[wiki/linear-a/words/T/TU_QE_NU\|TU-QE-NU]] | Tuqnu | personal name: tuqnu 'good order, safety'; the flute-player of ZU-JU-PU₂ | 0.45 |
 | [[wiki/linear-a/words/T/TU_SU_PU2\|TU-SU-PU₂]] | Tešub | Teshub (Hurrian storm god theophoric PN) | 0.45 |
 | [[wiki/linear-a/words/U/U\|U]] | u | and (conjunction) | 0.50 |
@@ -362,7 +374,7 @@ Every number on this page is computed from the data files.
 | [[wiki/linear-a/words/U/U_RE_WI\|U-RE-WI]] | ʾūr-lēwī | light of the Levite (compound PN) | 0.50 |
 | [[wiki/linear-a/words/U/U_SU\|U-SU]] | ʾUšu | man of Ušu (mainland Tyre)—origin-labeled worker | 0.50 |
 | [[wiki/linear-a/words/U/U_TA_RO\|U-TA-RO]] | watru | additional, surplus, or excess (administrative heading) | 0.50 |
-| [[wiki/linear-a/words/U/U_TA2\|U-TA₂]] | Uta | Uta, personal name heading the fig (NI) entry on HT 103; rival the town Uda | 0.35 |
+| [[wiki/linear-a/words/U/U_TA2\|U-TA₂]] | ʿŪta | personal name, 'Help', heading the fig (NI) entry on HT 103 | 0.35 |
 | [[wiki/linear-a/words/U/U_TI_NU\|U-TI-NU]] | -u-tī-n(u) | verbal ending: indicative -u + 2fs -tī + -n(u) 'us' | 0.40 |
 | [[wiki/linear-a/words/V/VIN_plus_RA\|VIN+RA]] | raqḥ | spiced wine (Hebrew yayin hāreqaḥ); rival raḥṣu 'washed wine' | 0.35 |
 | [[wiki/linear-a/words/V/VIR_plus_KA\|VIR+KA]] | VIR+KA | kāribū, intercessory priests (VIR with the KA complement) | 0.35 |
@@ -392,7 +404,7 @@ Every number on this page is computed from the data files.
 | [[wiki/linear-a/words/star/star324_DI_RA\|\*324-DI-RA]] | ṯadira | waitress, serving-girl (title) | 0.30 |
 | [[wiki/linear-a/words/star/star333_DI_NA_SU_KA\|\*333-DI-NA-SU-KA]] | bīdi Našūka | In the charge of Našūka ('the Bitten one')—custody formula + personal name on a sealed receipt | 0.20 |
 | [[wiki/linear-a/words/star/star333_DI_SU_KA\|\*333-DI-SU-KA]] | bīdi Sūka | In the charge of Sūka—custody formula + personal name on a sealed receipt | 0.20 |
-| [[wiki/linear-a/words/star/star333_SA_MU\|\*333-SA-MU]] | biśāmu | Balsam, perfume—aromatic personal name (cf. Basemath) on a metal ornament | 0.25 |
+| [[wiki/linear-a/words/star/star333_SA_MU\|\*333-SA-MU]] | biśāmu | Balsam, perfume—aromatic personal name (cf. Basemath) on a lead weight | 0.25 |
 | [[wiki/linear-a/words/star/star364_KE_MA_SE\|\*364-KE-MA-SE]] | Šakma-se | the one of Šakmu (Shechem) (gentilic in -SE on the toponym) | 0.30 |
 | [[wiki/linear-a/words/A/A_DA_KI_SI_KA\|A-DA-KI-SI-KA]] | Ḫadki-šiqā | Ḫadki gives drink (personal name; Ḫadki, a Mari-area name of Adad, + šiqā 'who gives drink'); rival 'Ḫadki is (my) dwelling' | 0.30 |
 | [[wiki/linear-a/words/A/A_DA_RA\|A-DA-RA]] | ʾadra | the fibula, the pin; rivals ʾAdara 'the Strong One' (epithet), ʾaddart- 'mantle' | 0.30 |
@@ -462,7 +474,7 @@ Every number on this page is computed from the data files.
 | [[wiki/linear-a/words/D/DI_NI\|DI-NI]] | Dīnī | personal name, 'My judgment' (short form of a √d-y-n name); rival the whole group WA-DI-NI, Ugaritic PN wḏny | 0.30 |
 | [[wiki/linear-a/words/D/DI_RE_DI_NA\|DI-RE-DI-NA]] | ʾaddīr-dīnā | mighty is the verdict (compound sentence name); rival a simplex recipient name | 0.30 |
 | [[wiki/linear-a/words/D/DI_RI_NA\|DI-RI-NA]] | dīr-īna | households, granaries (grain recipient); rivals the Amorite place name Dīr, a personal name | 0.30 |
-| [[wiki/linear-a/words/D/DU_JA\|DU-JA]] | Tuya | Tuya (personal name, hypocoristic in -ya); rival Ḏū-Yā 'He of Yah' | 0.30 |
+| [[wiki/linear-a/words/D/DU_JA\|DU-JA]] | Ḏū-Ya | personal name, 'He of Ya' | 0.30 |
 | [[wiki/linear-a/words/D/DU_MA_I_NA\|DU-MA-I-NA]] | ḏū-maʿīna | He of the Spring (personal name; ḏū 'he of' + maʿīn 'spring, flowing water'); rival a product, '(the drink) of the spring' | 0.30 |
 | [[wiki/linear-a/words/D/DU_NE_MI\|DU-NE-MI]] | ḏū-naʿmi | He of Grace (personal name; ḏū 'he of' + naʿm 'grace, pleasantness') | 0.30 |
 | [[wiki/linear-a/words/D/DU_PA3_NA\|DU-PA₃-NA]] | Dubbān | personal name, 'bear' with -ān | 0.30 |
@@ -480,14 +492,14 @@ Every number on this page is computed from the data files.
 | [[wiki/linear-a/words/I/I_PA_SA_JA\|I-PA-SA-JA]] | Ipšaja | Ipšaja (personal name; Hurrian hypocoristic) | 0.25 |
 | [[wiki/linear-a/words/I/I_QA_star118\|I-QA-\*118]] | iqṭaʿ | divide! (imperative of √q-ṭ-ʿ), heading over mixed commodities | 0.30 |
 | [[wiki/linear-a/words/I/I_RA2\|I-RA₂]] | ʾilā(t) | goddess; rival ʾila 'god' | 0.30 |
-| [[wiki/linear-a/words/I/I_RU_JA\|I-RU-JA]] | Iruja | Iruja (personal name; Hurrian hypocoristic of Irup-tešup) | 0.30 |
+| [[wiki/linear-a/words/I/I_RU_JA\|I-RU-JA]] | ʾIlūya | personal name, 'My god'; rival Hurrian Iruja | 0.30 |
 | [[wiki/linear-a/words/I/I_SI\|I-SI]] | ʾiššê | fire offering(s) | 0.30 |
 | [[wiki/linear-a/words/I/I_TA_JA\|I-TA-JA]] | ʾIttaya | personal name, 'with me (is God)', hypocoristic in -aya (cf. Hebrew ʾIttay) | 0.20 |
 | [[wiki/linear-a/words/I/I_TI_NI_SA\|I-TI-NI-SA]] | ʾItniša | ʾItniša (personal name), the Mari name IT-NU-ŠA; rival ʾitnī-ša 'her gift (portion)' | 0.30 |
 | [[wiki/linear-a/words/I/I_TI_TI_KU_NI\|I-TI-TI-KU-NI]] | (y)ittatkūni | which have been poured out—disbursed (derived-stem header); rival a heading name | 0.30 |
 | [[wiki/linear-a/words/J/JA_DA_SU\|JA-DA-SU]] | Yadaʿ-Šum | personal name, 'Šum knew' | 0.25 |
 | [[wiki/linear-a/words/J/JA_DI\|JA-DI]] | Yadi | Hand (personal name); rivals Yadīn 'he judges', Yadiʿ 'he knows' | 0.30 |
-| [[wiki/linear-a/words/J/JA_HA\|JA-HA]] | Yāh(a) | Yāh, divine name; deity receiving offerings alongside Baal on HT28b | 0.35 |
+| [[wiki/linear-a/words/J/JA_HA\|JA-HA]] | Yāh(a) | Yāh, divine name; deity receiving offerings alongside Baal on HT28b | 0.40 |
 | [[wiki/linear-a/words/J/JA_I_NWA_RO\|JA-I-NWA-RO]] | yā ʾanwaru | O Radiant One (vocative + elative of √n-w-r 'light'), divine epithet | 0.30 |
 | [[wiki/linear-a/words/J/JA_KU\|JA-KU]] | Yaqū | personal name, Amorite type (yaqtul of QWJ) | 0.30 |
 | [[wiki/linear-a/words/J/JA_KU_TI\|JA-KU-TI]] | Yaqūti | personal name, Amorite type: base JA-KU with -TI | 0.30 |
@@ -507,7 +519,7 @@ Every number on this page is computed from the data files.
 | [[wiki/linear-a/words/K/KA_NA_TI\|KA-NA-TI]] | kanasti | you (f.) gathered (2fs suffix form; after lū 'may you gather'); rival K-N-S-T feminine collective 'assembly' | 0.30 |
 | [[wiki/linear-a/words/K/KA_NI_JA_MI\|KA-NI-JA-MI]] | qāniy-yammi | Creator of the Sea (El epithet) | 0.30 |
 | [[wiki/linear-a/words/K/KA_NU_TI\|KA-NU-TI]] | Ganuti | place name, 25 men in the HT 97a roster beside PA-I-TO | 0.30 |
-| [[wiki/linear-a/words/K/KA_PA_QE\|KA-PA-QE]] | kapar qē(pu) | the village's commissioner, a recipient of figs; rival 'the village: measures (qê)' | 0.25 |
+| [[wiki/linear-a/words/K/KA_PA_QE\|KA-PA-QE]] | kapar qē(pu) | the village's commissioner, a recipient of figs; rival kappar qê 'vessels by the qê-measure' | 0.25 |
 | [[wiki/linear-a/words/K/KA_PO_RU\|KA-PO-RU]] | kapōru | bowl; rival kubburu 'extra share' | 0.30 |
 | [[wiki/linear-a/words/K/KA_RE_RO\|KA-RE-RO]] | Kariru | Kariru (personal name, Nuzi Qa-ri-ru, Ka-ri-ru); rival karr- 'ram' | 0.25 |
 | [[wiki/linear-a/words/K/KA_RI_star310_I\|KA-RI-\*310-I]] | Qarīnī | 'Companion' (personal name) | 0.30 |
@@ -585,7 +597,7 @@ Every number on this page is computed from the data files.
 | [[wiki/linear-a/words/P/PI_MI_NA_TE\|PI-MI-NA-TE]] | bi-mināti | by the portions (broken before PI); rivals 'by the recitation', minḥâ 'offering' | 0.25 |
 | [[wiki/linear-a/words/P/PI_RU_E_JU\|PI-RU-E-JU]] | Pirʾu-ʾēlu | personal name, 'Offspring of El'; rival 'Fruit of El' | 0.30 |
 | [[wiki/linear-a/words/P/PI_SA\|PI-SA]] | Pīsa | personal name, '(a bird)', Akk. būṣu; rival an institution; a recipient | 0.30 |
-| [[wiki/linear-a/words/P/PI_TA_JA\|PI-TA-JA]] | Pitaya | personal name, hypocoristic in -ya | 0.30 |
+| [[wiki/linear-a/words/P/PI_TA_JA\|PI-TA-JA]] | Bittaya | personal name, 'daughter of Ya' | 0.30 |
 | [[wiki/linear-a/words/P/PI_TA_KA_SE\|PI-TA-KA-SE]] | Bīt-kissē | House of the Throne, the crown estate (institution heading); rival the Hurrian name of PI-TA-KE-SI | 0.30 |
 | [[wiki/linear-a/words/P/PI_TA_KE_SI\|PI-TA-KE-SI]] | Bīt-kissi | (Man) of the throne-house, crown dependant (title); rival Hurrian PN Pidi-kešḫi | 0.30 |
 | [[wiki/linear-a/words/P/PI_TA_RA\|PI-TA-RA]] | bidāla | trade agents, deputies, a personnel group drawing grain; rivals bitāri 'portions' and the names Paṭir, Batūl | 0.30 |

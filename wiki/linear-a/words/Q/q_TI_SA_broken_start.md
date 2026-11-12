@@ -31,6 +31,6 @@ updated: 2026-10-24T16:17:50Z
 
 Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
 
-HT 31 .1 \[·\]-TI-SA · PU-KO · \*410-VS\[, a sign lost before TI (GORILA I 59). Not readable.
+HT 31 .1 \[·\]-TI-SA · PU-KO · \*410-VS\[, a sign lost before TI (GORILA I 59); Raison and Pope read I-TI-SA. Duhoux takes it for the heading of the tablet, alone or with PU-KO: no place name, the store being in the Villa, perhaps the official who made the inventory, as Linear B o-wi-de a-ko-so-ta (2002, 34–35, 52). Gordon restored m\]i-ti-sa and, after Richard, read mi-ti-sa pu-ko 'Go out from the depot!' (1976, 29–30, apud Duhoux 2002, 58 n. 49); PU-KO stands before the vessel sign \*410-VS. Not readable.
 
 <!-- END kaphtor:record -->

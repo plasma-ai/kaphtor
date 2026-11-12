@@ -9,7 +9,7 @@ site: "Knossos"
 support: "Roundel"
 period: "MMIIIB"
 translation: "none"
-words: []
+words: ["*21M"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -47,6 +47,10 @@ Unicode (Linear A block):
 ```text
 𐘑
 ```
+
+## Lexicon words citing this document
+
+[[wiki/linear-a/words/star/star21M|\*21M]].
 
 ## Edition differences
 

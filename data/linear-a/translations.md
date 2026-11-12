@@ -38,5 +38,15 @@ Each item in `words`:
 | `confidence`, `confidence_score` | the word's tier |
 | `note`, `notes` | evidence; a legible word with no reading ends "No reading." |
 
-A translation counts as complete when `translation` is non-empty and `status` is not "incomplete". The lexicon is
+A translation counts as complete when `translation` is non-empty and `status` is not "incomplete". The tier plays no
+part in that test: a record read at SPECULATIVE alone counts, and its record-level `confidence` says so.
+
+A new record is entered as incomplete only when at least one intact word of two or more signs is read and the read
+words are at least half of the legible ones. Legible means intact: a group whose unread note ends "Not readable." or
+"Not a word." counts on neither side. A broken form of a word read elsewhere and a commodity logogram with its number
+do not count toward that threshold; a record that meets it glosses them. Records older than this rule may fall below
+it.
+
+Among the complete records, a one-sign sealing label is a nodule, roundel or sealing whose whole text is one sign,
+translated by that sign's lexicon entry. The counts page gives their number beside the headline. The lexicon is
 `lexicon.json`; the texts themselves are in the corpus.

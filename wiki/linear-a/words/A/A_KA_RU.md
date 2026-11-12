@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Linear A writes A-KA-RU, hence Agaru; Ugaritic supplies Ugaru (ugr II), 'Field,' paired with Gapnu ('Vine') as one of Baal's two messenger-deities (DULAT 27; KTU 1.3; 1.5). A-KA-RU heads accounts at HT 2 and HT 86a/b as a field or estate heading. Rival: a divine or cult-institutional sense, since on HT 86a its section stands beside one headed A-DU (Addu). Initial a/u: the Aegean field word is a-initial, Myc. a-ko-ro, Grk. ἀγρός, which Rendsburg sets beside Ug. ugr and Akk. ugāru as one IE–Semitic lexeme (2026, 205). Rival with initial a: ʾ-g-r 'hire', Ebla a-gàr-du, Ugarit a-ga-ru-ta 'hire contract' (GlOS 1, 12–13). Akk. ugāru is a Sumerian loan, attested at Ras Shamra and Emar (CAD U/W 27); in Old Babylonian it names an administrative unit of fields with its own overseer, UGULA A.GÀR (CAD U/W 29). See U-KA-RE.
+Linear A writes A-KA-RU, hence Agaru; Ugaritic supplies Ugaru (ugr II), 'Field,' paired with Gapnu ('Vine') as one of Baal's two messenger-deities (DULAT 27; KTU 1.3; 1.5). A-KA-RU heads accounts at HT 2 and HT 86a/b as a field or estate heading. Rival: a divine or cult-institutional sense, since on HT 86a its section stands beside one headed A-DU (Addu). Initial a/u: the Aegean field word is a-initial, Myc. a-ko-ro, Grk. ἀγρός, which Rendsburg sets beside Ug. ugr and Akk. ugāru as one IE–Semitic lexeme (2026, 205). Rival with initial a: ʾ-g-r 'hire', Ebla a-gàr-du, Ugarit a-ga-ru-ta 'hire contract' (GlOS 1, 12–13). Akk. ugāru is a Sumerian loan, attested at Ras Shamra and Emar (CAD U/W 27); in Old Babylonian it names an administrative unit of fields with its own overseer, UGULA A.GÀR (CAD U/W 29). See U-KA-RE and KA-RU.
 
 ### Cognates
 

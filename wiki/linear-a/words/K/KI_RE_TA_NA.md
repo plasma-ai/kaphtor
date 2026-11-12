@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 2, HT 8a, HT 108 and HT 120, all at Haghia Triada: Kretan 'Cretan', the gentilic -ān on the name written KI-RE-TA₂ and KI-RI-TA₂, twice each; cf. Heb. kərētī 'Kerethite' (כְּרֵתִי). Ug. krt is /kirta/, the protagonist Kirta, and lkrt /li-kirta/ 'belonging to the story of Kirta'; Huehnergard rejects the vocalization 'keret' as non-Ugaritic, and BH kərētī differs in its vowels (Huehnergard 2012, 60, 68).
+HT 2, HT 8a, HT 108 and HT 120, all at Haghia Triada: Kretan 'Cretan', the gentilic -ān on the name written KI-RE-TA₂ and KI-RI-TA₂, twice each; cf. Heb. kərētī 'Kerethite' (כְּרֵתִי). Ug. krt is /kirta/, the protagonist Kirta, and lkrt /li-kirta/ 'belonging to the story of Kirta'; Huehnergard rejects the vocalization 'keret' as non-Ugaritic, and BH kərētī differs in its vowels (Huehnergard 2012, 60, 68). Pugliese Carratelli asked whether it is an ethnic or place name in -na on KI-RE-TA₂, its base that of Κρήτη, and sought it in the district of Phaistos or Gortyn (1957, 171 n. 1); on HT 120 it stands with PA-I-TO.
 
 ### Cognates
 
@@ -54,7 +54,7 @@ HT 2, HT 8a, HT 108 and HT 120, all at Haghia Triada: Kretan 'Cretan', the genti
 
 ### Source
 
-Gordon 1966; Ventris and Chadwick 1956
+Gordon 1966; Ventris and Chadwick 1956; Pugliese Carratelli 1957
 
 ### Review
 

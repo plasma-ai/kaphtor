@@ -34,4 +34,10 @@ updated: 2026-10-24T16:17:50Z
 
 Male sheep logogram. Part of gendered livestock pair (\*21F=ewe/OVISf, \*21M=ram/OVISm). WARNING: \*21F in the 'signs' section is the /ha/ syllabogram—different physical sign, AB number collision.
 
+## Lexicon words written with this sign
+
+| Word | Reading | Confidence |
+|---|---|---|
+| [[wiki/linear-a/words/star/star21M\|\*21M]] | (logogram) | PROBABLE |
+
 <!-- END kaphtor:record -->

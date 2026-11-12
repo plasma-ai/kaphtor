@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/O/O_SU_QA_RE
 title: "O-SU-QA-RE"
-desc: "ʾō Sukar: O Sokar (Egyptian Skr), the deity addressed; rivals Ušḫara the Snake, ʾAšqur. Lexicon, CANDIDATE (tier 2)."
+desc: "ʾō Sōkar: O Sokar (Egyptian Skr 𓊃𓎡𓂋𓅆). Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "hapax", "libation_formula", "ritual", "theonym"]
 kind: "word"
 form: "O-SU-QA-RE"
@@ -9,7 +9,7 @@ datasets: ["lexicon", "onomasticon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.5
-reading: "ʾō Sukar"
+reading: "ʾō Sōkar"
 attestations: ["TLZa1"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,8 +31,8 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | ʾō Sukar |
-| Meaning | O Sokar (Egyptian Skr), the deity addressed; rivals Ušḫara the Snake, ʾAšqur |
+| Reading | ʾō Sōkar |
+| Meaning | O Sokar (Egyptian Skr 𓊃𓎡𓂋𓅆) |
 | Root | s-k-r |
 | Language layer | Middle Egyptian |
 | Tags | hapax, libation_formula, ritual, theonym |
@@ -40,18 +40,17 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-TL Za 1 A-TA-I-\*301-WA-JA · O-SU-QA-RE ·, the deity slot of the libation formula. ʾō Sukar: vocative ʾō (Geʿez ʾo-, Leslau 1987, 1) + Egyptian Skr 'Sokar', final E dead after r (di Mino, Ya Diktu). Rival: Ušḫara, Ugaritic úšḫr, only as úšḫr ḫlmẓ 'Ušḫara the Snake' (KTU 1.115:2, 12; DULAT 113), from Akk. Išḫara, with QA where KA writes ḫ. Rival: ʾAšqur, an Amorite DN in names at Mari and Alalakh (aš-kur-ᵈIM), with O for ʾa; Sanmartín derives it from \|S-ḳ-r\| 'the very high one' (GlOS 2, 195; cf. Akk. zaqāru), Gelb from ŚKR 'to remember' (AS 21, nos. 949–950). One witness.
+TL Za 1 A-TA-I-\*301-WA-JA · O-SU-QA-RE ·, the deity slot of the libation formula. ʾō Sōkar: vocative ʾō (Geʿez ʾo-, Leslau 1987, 1) + Egyptian Zkr, later Skr (di Mino, Ya Diktu): s from the Middle Kingdom (Peust 1999, 126), the stressed vowel ā until about 1200 BCE (Kilani 2019, 11), so Sākar in the ladle's time; Manetho's Σεσωχρις keeps the later ō and the r (Gauthier 1907, 27). SU writes sō, the ā &gt; ō of the borrowing language, no SO being attested in Linear A; final E dead after r. Weak points: Egypt still said ā, and QA stands where Egyptian k calls for KA (Hoch 1994, 428). Rival: ʾAšqur, an Amorite DN in names at Mari and Alalakh (aš-kur-ᵈIM), with O for ʾa; Sanmartín derives it from \|S-ḳ-r\| 'the very high one' (GlOS 2, 195; cf. Akk. zaqāru), Gelb from ŚKR 'to remember' (AS 21, nos. 949–950). One witness.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Egyptian | Zkr 'Sokar' (AED lemma 146890; Wb 3, 487.13) |
-| Ugaritic | ủšḫr DN, from Akkadian Išḫara (DULAT 113), the rival |
 
 ### Source
 
-di Mino, Ya Diktu; DULAT 113; GlOS 2, 195; Gelb, AS 21
+di Mino, Ya Diktu; Peust 1999; Kilani 2019; Gauthier 1907; Hoch 1994; GlOS 2, 195; Gelb, AS 21
 
 ## Attestations
 
@@ -63,7 +62,7 @@ di Mino, Ya Diktu; DULAT 113; GlOS 2, 195; Gelb, AS 21
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/TL/TLZa/TLZa1\|TLZa1]] | ʾō Sukar | O Sukar! | CANDIDATE |
+| [[wiki/linear-a/inscriptions/TL/TLZa/TLZa1\|TLZa1]] | ʾō Sōkar | O Sokar! | CANDIDATE |
 
 ## Onomasticon
 
@@ -79,7 +78,7 @@ di Mino, Ya Diktu; DULAT 113; GlOS 2, 195; Gelb, AS 21
 
 ### Note
 
-ʾō Sukar, 'O Sokar', in the deity slot of the Troullos formula (di Mino, Ya Diktu). Rival: Ušḫara, Ugaritic úšḫr ḫlmẓ 'Ušḫara the Snake' (DULAT 113). See the lexicon entry.
+ʾō Sōkar, 'O Sokar', in the deity slot of the Troullos formula (di Mino, Ya Diktu). See the lexicon entry.
 
 ### Co-occurring lexicon words
 

@@ -9,7 +9,7 @@ site: "Tylissos"
 support: "Tablet"
 period: ""
 translation: "none"
-words: ["RU-KA"]
+words: ["RU-KA", "VIR+[?]"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -76,7 +76,7 @@ Unicode (Linear A block):
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/R/RU_KA|RU-KA]].
+[[wiki/linear-a/words/R/RU_KA|RU-KA]], [[wiki/linear-a/words/V/VIR_plus_q_broken_end|VIR+&#91;?&#93;]].
 
 ## Edition differences
 

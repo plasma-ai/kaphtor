@@ -2,7 +2,7 @@
 name: wiki/linear-a/inscriptions/THE/THEZb
 desc: "Inscriptions from Thera, series THEZb."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-24T16:17:50Z
+updated: 2026-11-13T13:31:15Z
 ---
 
 # wiki/linear-a/inscriptions/THE/THEZb
@@ -25,6 +25,6 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/inscriptions/THE/THEZb/THEZb6|THEZb6]]: Clay vessel, Thera. Translation: complete (CANDIDATE).
 
-[[wiki/linear-a/inscriptions/THE/THEZb/THEZb7|THEZb7]]: Clay vessel, Thera. Translation: none.
+[[wiki/linear-a/inscriptions/THE/THEZb/THEZb7|THEZb7]]: Clay vessel, Thera. Translation: complete (CANDIDATE).
 
 ***

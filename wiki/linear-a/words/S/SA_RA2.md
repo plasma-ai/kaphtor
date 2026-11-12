@@ -41,7 +41,11 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Twenty Haghia Triada accounting tablets; on HT 125a \]SA-RA₂ stands at a broken edge. HT 105 sets KA-PA and SA-RA₂ in parallel before VIR 234 and 235; HT 100 and HT 94a put SA-RA₂ after a closed KU-RO and before a new commodity; HT 97b has SA-RA₂ alone, a docket or recipient label. Montecchi takes it as a sender, recipient or name and excludes a transactional sense (Montecchi 2008, 321). šarra 'queen, princess', the queen's establishment as recipient: Akk. šarratu 'queen' (CAD Š/2 72), Heb. śārâ 'woman of rank, princess' (HALOT 1354), Amorite šarra without -t, as the Mari name Nanni-šarra beside Nanni-šarrat (Ziegler 1999, 278; see SA-RA). RA₂ writes the geminate, as Linear B ra₂ writes rra, lla beside plain ra (Judson 2020, 74). Rivals: Šar-ra, a man's name at Alalakh (Niedorf 2008, 490); šeʾārā 'remainder' (√š-ʾ-r), where HT 30 and HT 34 write the deficit KI-RO; 'personnel', the 100 of HT 94a (Schrijver 2014, 26–29); 'rations' (Pope 1958, 16), against HT 105 SA-RA₂ VIR 235.
+Twenty Haghia Triada accounting tablets; on HT 125a \]SA-RA₂ stands at a broken edge. HT 105 sets KA-PA and SA-RA₂ in parallel before VIR 234 and 235; HT 100 and HT 94a put SA-RA₂ after a closed KU-RO and before a new commodity; HT 97b has SA-RA₂ alone, a docket or recipient label.
+
+šarra 'queen, princess', the queen's establishment as recipient: Akk. šarratu 'queen' (CAD Š/2 72), Heb. śārâ 'woman of rank, princess' (HALOT 1354), Amorite šarra without -t, as the Mari name Nanni-šarra beside Nanni-šarrat (Ziegler 1999, 278; see SA-RA). RA₂ writes the geminate, as Linear B ra₂ writes rra, lla beside plain ra (Judson 2020, 74).
+
+Montecchi takes it as a sender, recipient or name and excludes a transactional sense (Montecchi 2008, 321). Schoep takes it for a transactional term: it never opens a tablet, never heads olives, and excludes TE on the mixed-commodity tablets, where its sections hold whole numbers and TE's fractions; on other tablets it takes fractions too (Schoep 2002, 164–65). On HT 34 it heads SA+MU+KU 100, of which KI-RO books 30 as owed: SA-RA₂ is the account due. Rivals: Šar-ra, a man's name at Alalakh (Niedorf 2008, 490); šeʾārā 'remainder' (√š-ʾ-r), where HT 30 and HT 34 write the deficit KI-RO; 'personnel', the 100 of HT 94a (Schrijver 2014, 26–29); 'rations' (Pope 1958, 16), against HT 105 SA-RA₂ VIR 235. HT 11b .1 RU-RA₂ heads KA 40, 30, 50, 30, 30 in SA-RA₂'s slot, and Younger (Linear A Texts) and Uchitel (2016b, 16) read SA-RA₂ there, a reading GORILA calls practically impossible (I 23).
 
 ### Cognates
 
@@ -54,7 +58,7 @@ Twenty Haghia Triada accounting tablets; on HT 125a \]SA-RA₂ stands at a broke
 
 ### Source
 
-di Mino; Montecchi 2008; CAD Š/2; HALOT; Gelb 1980; Ziegler 1999; Judson 2020; Niedorf 2008; Schrijver 2014; Pope 1958
+di Mino; Montecchi 2008; Schoep 2002; CAD Š/2; HALOT; Gelb 1980; Ziegler 1999; Judson 2020; Niedorf 2008; Schrijver 2014; Pope 1958; Uchitel 2016b
 
 ## Attestations
 

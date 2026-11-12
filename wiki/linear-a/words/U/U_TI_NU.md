@@ -61,6 +61,6 @@ di Mino; Monti 2022; Kogan and Krebernik 2021; Thomas 2020
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/IO/IOZa/IOZa2\|IOZa2]] | Iouktas | Stone vessel | complete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/IO/IOZa/IOZa6\|IOZa6]] | Iouktas | Stone vessel | complete; form not in transliteration |
-| [[wiki/linear-a/inscriptions/IO/IOZa/IOZa11\|IOZa11]] | Iouktas | Stone vessel | incomplete |
+| [[wiki/linear-a/inscriptions/IO/IOZa/IOZa11\|IOZa11]] | Iouktas | Stone vessel | incomplete; form not in transliteration |
 
 <!-- END kaphtor:record -->

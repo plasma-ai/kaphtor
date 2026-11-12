@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/P
 desc: "Words whose first sign begins with P."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-08T17:23:00Z
+updated: 2026-11-12T19:04:33Z
 ---
 
 # wiki/linear-a/words/P
@@ -29,6 +29,8 @@ updated: 2026-11-08T17:23:00Z
 
 [[wiki/linear-a/words/P/PA3_SI_star47|PA3_SI_star47]]: basīsa: meal worked with oil or clarified butter (commodity). Lexicon, CANDIDATE (tier 2).
 
+[[wiki/linear-a/words/P/PA3_plus_QE|PA3_plus_QE]]: Unread sign (ligature, component read); 1 occurrence(s).
+
 [[wiki/linear-a/words/P/PA3_star188|PA3_star188]]: bu-buṭnu: terebinth (PA₃ a phonetic complement for the b-onset). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/P/PA_DA|PA_DA]]: Unread (role only): personal name; 1 occurrence(s).
@@ -49,15 +51,17 @@ updated: 2026-11-08T17:23:00Z
 
 [[wiki/linear-a/words/P/PA_JA_TA|PA_JA_TA]]: bayta: house; 'in the house' (accusative of place). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/P/PA_KU_PU_KO|PA_KU_PU_KO]]: pak / pukku: flask, vial (small libation/oil vessel). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/P/PA_KU|PA_KU]]: pak: flask, vial (small libation/oil vessel). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/P/PA_NA_TU|PA_NA_TU]]: banātu / panātu / (Ku)bānatu: daughters (fem. pl.) / portions / Kubaba devotees (cf. KU-PA-NA-TU). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/P/PA_NU_QE|PA_NU_QE]]: Panūq: personal name, 'Pampered'; rival Amorite Banuq. Lexicon, SPECULATIVE (tier 1).
 
+[[wiki/linear-a/words/P/PA_OLE_plus_MI|PA_OLE_plus_MI]]: Unread sign (compound, component read); 1 occurrence(s).
+
 [[wiki/linear-a/words/P/PA_RA|PA_RA]]: parr(u): skin, fleece (a hide with its wool). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/P/PA_RA_NE|PA_RA_NE]]: barāne: short form of A-PA-RA-NE, 'the crosser'; rival 'creator'. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/P/PA_RA_NE|PA_RA_NE]]: Barān: personal name, the short form of A-PA-RA-NE. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/P/PA_RE|PA_RE]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -81,9 +85,13 @@ updated: 2026-11-08T17:23:00Z
 
 [[wiki/linear-a/words/P/PA_ZA|PA_ZA]]: Unread (role only): personal name; 1 occurrence(s).
 
+[[wiki/linear-a/words/P/PA_q_A|PA_q_A]]: Unread (unread): no role; 1 occurrence(s).
+
 [[wiki/linear-a/words/P/PA_star342_I|PA_star342_I]]: Unread (role only): personal name; 1 occurrence(s).
 
 [[wiki/linear-a/words/P/PA_star47_broken_end|PA_star47_broken_end]]: Unread (unread): no role; 1 occurrence(s).
+
+[[wiki/linear-a/words/P/PI|PI]]: Unread sign (syllabogram, unread); 1 occurrence(s).
 
 [[wiki/linear-a/words/P/PIRRI|PIRRI]]: fruit. Lexicon, SPECULATIVE (tier 1).
 
@@ -105,7 +113,7 @@ updated: 2026-11-08T17:23:00Z
 
 [[wiki/linear-a/words/P/PI_SA|PI_SA]]: Pīsa: personal name, '(a bird)', Akk. būṣu; rival an institution; a recipient. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/P/PI_TA_JA|PI_TA_JA]]: Pitaya: personal name, hypocoristic in -ya. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/P/PI_TA_JA|PI_TA_JA]]: Bittaya: personal name, 'daughter of Ya'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/P/PI_TA_KA_SE|PI_TA_KA_SE]]: Bīt-kissē: House of the Throne, the crown estate (institution heading); rival the Hurrian name of PI-TA-KE-SI. Lexicon, SPECULATIVE (tier 1).
 
@@ -131,6 +139,10 @@ updated: 2026-11-08T17:23:00Z
 
 [[wiki/linear-a/words/P/PO_TO_KU_RO|PO_TO_KU_RO]]: batkull: grandtotal (lit. 'daughter of all'). Lexicon, PROBABLE (tier 3).
 
+[[wiki/linear-a/words/P/PU|PU]]: Unread sign (syllabogram, unread); 3 occurrence(s).
+
+[[wiki/linear-a/words/P/PU2|PU2]]: Unread sign (syllabogram, unread); 1 occurrence(s).
+
 [[wiki/linear-a/words/P/PU2_RA2|PU2_RA2]]: Unread (role only): personal name; 1 occurrence(s).
 
 [[wiki/linear-a/words/P/PU2_RE_JA|PU2_RE_JA]]: burē(t)yā: my Creatress (divine epithet). Lexicon, SPECULATIVE (tier 1).
@@ -138,6 +150,8 @@ updated: 2026-11-08T17:23:00Z
 [[wiki/linear-a/words/P/PU2_RE_broken_both|PU2_RE_broken_both]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/P/PU_DE|PU_DE]]: buddē: share(s), portion. Lexicon, CANDIDATE (tier 2).
+
+[[wiki/linear-a/words/P/PU_KO|PU_KO]]: pūqū: acquired, supplied (transaction term in the heading of the HT 31 vessel inventory). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/P/PU_MA_KU|PU_MA_KU]]: Unread (role only): personal name; 1 occurrence(s).
 

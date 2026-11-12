@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Oil-derivative modifier, on the tablets of HT, KH and ARKH always among oil and liquid commodities (OLE+X, CYP, VIN); on the metal object HT Zf 167 it stands alone. HT 123+124a sets it after OLIV four times: 8¼ of 31, 8¾ of 31½ and 4¼ of 15 give 26.6–28.3%, and the fraction after OLIV 16, 4 \[…\], is damaged. šamnu 'oil', Akk. šamnu 'oil, fat, cream' (CAD Š/1 321), Heb. šemen (HALOT 1567). Weak point: the commodity function is firmer than the word, and OLE also carries šamnu.
+Oil-derivative modifier, on the tablets of HT, KH and ARKH always among oil and liquid commodities (OLE+X, CYP, VIN); on the metal object HT Zf 167 it stands alone. HT 123+124a sets it after OLIV four times: 8¼ of 31, 8¾ of 31½ and 4¼ of 15 give 26.6–28.3%, and the fraction after OLIV 16, 4 \[…\], is damaged. With KI-RO added to the olives the ratio is close to 4 to 1 in each line, 99½ to 25 at the total; Uchitel has it always 4 to 1 (2016b, 14). šamnu 'oil', Akk. šamnu 'oil, fat, cream' (CAD Š/1 321), Heb. šemen (HALOT 1567). Weak point: the commodity function is firmer than the word, and OLE also carries šamnu. Rival: salt (Uchitel 2016b, 15).
 
 ### Cognates
 
@@ -54,13 +54,13 @@ Oil-derivative modifier, on the tablets of HT, KH and ARKH always among oil and 
 
 ### Source
 
-di Mino; CAD Š/1; HALOT
+di Mino; Uchitel 2016b; CAD Š/1; HALOT
 
 ## Attestations
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT123_plus_124a\|HT123+124a]] | Haghia Triada | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/HT/HT/HT123_plus_124a\|HT123+124a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT123_plus_124b\|HT123+124b]] | Haghia Triada | Tablet | incomplete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HT/HT23a\|HT23a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT32\|HT32]] | Haghia Triada | Tablet | none |

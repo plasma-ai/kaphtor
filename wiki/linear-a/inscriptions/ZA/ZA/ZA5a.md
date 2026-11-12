@@ -30,7 +30,7 @@ updated: 2026-10-24T16:17:50Z
 | Findspot |  |
 | Support | Tablet |
 | Period |  |
-| Scribe | ZA Scribe 1 |
+| Scribe | [[wiki/linear-a/by_scribe\|ZA Scribe 1]] |
 | Edition | GORILA 3 |
 | Series | ZA |
 | SigLA | [ZA 5a](https://sigla.phis.me/document/ZA%205a/) |
@@ -71,7 +71,7 @@ Unicode (Linear A block):
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | [[wiki/linear-a/words/star/star21F_star118\|\*21F-\*118]] | ḥiṭṭa | wheat; rivals ḫaṭṭu 'sceptre', ḥaṯ 'unleavened bread' | CANDIDATE | CANDIDATE (lexicon) |
-| VIN-SU |  | wine (logogram) + SU |  |  |
+| [[wiki/linear-a/words/V/VIN_SU\|VIN-SU]] |  | wine (logogram) + SU |  |  |
 | [[wiki/linear-a/words/K/KI_NI_MA\|KI-NI-MA]] | kihinīma | priests (plural + mimation) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/O/O_TA_NI_ZA_SE\|O-TA-NI-ZA-SE]] |  | recipient or toponym (opaque) |  | unread |
 | [[wiki/linear-a/words/S/SA_MI_DA_E\|SA-MI-DA-E]] | samidē | semolina / groats | CANDIDATE | CANDIDATE (lexicon) |

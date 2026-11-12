@@ -2,14 +2,14 @@
 name: wiki/linear-a/inscriptions/KN/KNZg
 desc: "Inscriptions from Knossos, series KNZg."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-24T16:17:50Z
+updated: 2026-11-13T13:31:15Z
 ---
 
 # wiki/linear-a/inscriptions/KN/KNZg
 
 [[wiki/linear-a/inscriptions/KN/_index|..]]
 
-[[wiki/linear-a/inscriptions/KN/KNZg/KNZg55|KNZg55]]: Stone object, Knossos, LMI. Translation: none.
+[[wiki/linear-a/inscriptions/KN/KNZg/KNZg55|KNZg55]]: Stone object, Knossos, LMI. Translation: complete (SPECULATIVE).
 
 [[wiki/linear-a/inscriptions/KN/KNZg/KNZg57a|KNZg57a]]: ivory object, Knossos. Translation: incomplete (CANDIDATE).
 

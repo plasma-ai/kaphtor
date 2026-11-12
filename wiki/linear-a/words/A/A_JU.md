@@ -58,7 +58,7 @@ di Mino; DULAT; Gelb 1980
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HTZd/HTZd155\|HTZd155]] | Haghia Triada | Graffito | incomplete |
+| [[wiki/linear-a/inscriptions/HT/HTZd/HTZd155\|HTZd155]] | Haghia Triada | Graffito | complete |
 
 ## In translations
 

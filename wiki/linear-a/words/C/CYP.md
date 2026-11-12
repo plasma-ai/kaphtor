@@ -39,7 +39,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Cyperus commodity logogram, its principal distribution at Khania: 35 plain and 28 in the fraction ligatures CYP+D and CYP+E. The sign continues as the Linear B CYPERUS ideogram, associated with ku-pa-ro. On HT 89 it opens the commodity section after the total, at 2 + A732. At Khania it keeps company with aromatics: myrrh (MI+JA+RU), \*401+RU and fine oil (OLE+TA).
+Cyperus commodity logogram, its principal distribution at Khania: 35 plain and 28 in the fraction ligatures CYP+D and CYP+E. The sign continues as the Linear B CYPERUS ideogram, associated with ku-pa-ro. On HT 89 it opens the commodity section after the total, at 2 + A732. At Khania it keeps company with aromatics: myrrh (MI+JA+RU), \*401+RU and fine oil (OLE+TA). Rival: barley. Kamm takes the sign for barley: it and the wheat sign head the same list in turn, before figs and wine, and stand in one rubric only once (Kamm 1963, 139–140, 145). His wheat example is HT 89, where GORILA has this sign, as on HT 27 and HT 130. Uchitel calls it the ideogram for barley (2016b, 11).
 
 ### Cognates
 
@@ -50,7 +50,7 @@ Cyperus commodity logogram, its principal distribution at Khania: 35 plain and 2
 
 ### Source
 
-di Mino
+di Mino; Kamm 1963; Uchitel 2016b
 
 ## Attestations
 
@@ -58,7 +58,7 @@ di Mino
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT100\|HT100]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT106\|HT106]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT110a\|HT110a]] | Haghia Triada | Tablet | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/HT/HT/HT110a\|HT110a]] | Haghia Triada | Tablet | incomplete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HT/HT112b\|HT112b]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT12\|HT12]] | Haghia Triada | Tablet | incomplete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HT/HT130\|HT130]] | Haghia Triada | Tablet | none |
@@ -72,11 +72,11 @@ di Mino
 | [[wiki/linear-a/inscriptions/HT/HT/HT99a\|HT99a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1021bis\|HTWa1021bis]] | Haghia Triada | Nodule | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HTWb/HTWb229\|HTWb229]] | Haghia Triada | Sealing | none; form not in transliteration |
-| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3015\|HTWc3015]] | Haghia Triada | Roundel | none |
-| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3016\|HTWc3016]] | Haghia Triada | Roundel | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3015\|HTWc3015]] | Haghia Triada | Roundel | complete |
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3016\|HTWc3016]] | Haghia Triada | Roundel | complete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3017\|HTWc3017]] | Haghia Triada | Roundel | complete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HTWc/HTWc_3018\|HTWc&lt;3018&gt;]] | Haghia Triada | Roundel | none; form not in transliteration |
-| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3020\|HTWc3020]] | Haghia Triada | Roundel | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3020\|HTWc3020]] | Haghia Triada | Roundel | complete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/KH/KH/KH103\|KH103]] | Khania | Tablet | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/KH/KH/KH11\|KH11]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH12\|KH12]] | Khania | Tablet | none |
@@ -124,6 +124,7 @@ di Mino
 | [[wiki/linear-a/inscriptions/HT/HT/HT99a\|HT99a]] | \[ideogram\] | cyperus, aromatic sedge |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT100\|HT100]] | \[ideogram\] | cyperus, aromatic sedge |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT106\|HT106]] | CYP | cyperus (commodity logogram) |  |
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3015\|HTWc3015]] | (logogram) | cyperus, aromatic sedge (commodity logogram) | PROBABLE |
 | [[wiki/linear-a/inscriptions/KH/KH/KH6\|KH6]] |  | cyperus, 2 with a fraction | PROBABLE |
 | [[wiki/linear-a/inscriptions/KH/KH/KH15\|KH15]] | (logogram) | cyperus, aromatic sedge | PROBABLE |
 

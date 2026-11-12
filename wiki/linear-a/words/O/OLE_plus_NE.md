@@ -61,7 +61,7 @@ di Mino
 | [[wiki/linear-a/inscriptions/HT/HT/HT23a\|HT23a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT32\|HT32]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT100\|HT100]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/TY/TY/TY3b\|TY3b]] | Tylissos | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/TY/TY/TY3b\|TY3b]] | Tylissos | Tablet | complete |
 
 ## In translations
 

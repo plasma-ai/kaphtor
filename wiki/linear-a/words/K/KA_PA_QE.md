@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/K/KA_PA_QE
 title: "KA-PA-QE"
-desc: "kapar qē(pu): the village's commissioner, a recipient of figs; rival 'the village: measures (qê)'. Lexicon, SPECULATIVE (tier 1)."
+desc: "kapar qē(pu): the village's commissioner, a recipient of figs; rival kappar qê 'vessels by the qê-measure'. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "compound", "hapax", "title"]
 kind: "word"
 form: "KA-PA-QE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | kapar qē(pu) |
-| Meaning | the village's commissioner, a recipient of figs; rival 'the village: measures (qê)' |
+| Meaning | the village's commissioner, a recipient of figs; rival kappar qê 'vessels by the qê-measure' |
 | Root | k-p-r + q-y-p |
 | Proto-Semitic | \*kapār- (#K0100) + \*ḳīp- (#3850) |
 | Language layer | Semitic |
@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 6a .4–5 KA-PA-QE 5¾, KA ending .4 and PA-QE heading .5, all three signs whole and undotted (GORILA I 13), the last fig entry under KA-PA 'the village', after PI-TA-JA 24 and O-RA₂-DI-NE 2. kapar qē(pu), KA-PA with QE abbreviating QE-PU qēpu 'commissioner': Akk. qīpu ša šarri 'the king's official' (KAJ 113:25) and the qēpu of a named town (CAD Q 264–266). QE follows two more holders, SA-RO-QE\[ (HT 62+73), the king's, and \]KU-MI-NA-QE\[ (HT 54a), both broken after QE, and QE 21 stands among the counted men of HT 27a. Rival: KA-PA · QE 'the village: measures', the entry counted in quarters as QE-PI-TA 22¾ below it. One witness. See QE, QE-PU and KA-PA.
+HT 6a .4–5 KA-PA-QE 5¾, KA ending .4 and PA-QE heading .5, all three signs whole and undotted (GORILA I 13), the last fig entry under KA-PA 'the village', after PI-TA-JA 24 and O-RA₂-DI-NE 2. kapar qē(pu), KA-PA with QE abbreviating QE-PU qēpu 'commissioner': Akk. qīpu ša šarri 'the king's official' (KAJ 113:25) and the qēpu of a named town (CAD Q 264–266). QE follows two more holders, SA-RO-QE\[ (HT 62+73), the king's, and \]KU-MI-NA-QE\[ (HT 54a), both broken after QE, and QE 21 stands among the counted men of HT 27a. Rival: kappar qê, vessels by the qê-measure, a container counted in quarters as QE-PI-TA 22¾ opens the facing section; KA-PA is a vessel on HT 140 (GlOS 1, 315). One witness. See QE, QE-PU and KA-PA.
 
 ### Cognates
 
@@ -51,19 +51,19 @@ HT 6a .4–5 KA-PA-QE 5¾, KA ending .4 and PA-QE heading .5, all three signs wh
 
 ### Source
 
-di Mino; CAD Q
+di Mino; CAD Q; GlOS 1
 
 ## Attestations
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT6a\|HT6a]] | Haghia Triada | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/HT/HT/HT6a\|HT6a]] | Haghia Triada | Tablet | complete |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT6a\|HT6a]] | kapar qē(pu) | the village's commissioner, 5¾; rival 'the village: measures (qê)' | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT6a\|HT6a]] | kapar qē(pu) | the village's commissioner, 5¾; rival kappar qê 'vessels by the qê-measure' | SPECULATIVE |
 
 ## Onomasticon
 

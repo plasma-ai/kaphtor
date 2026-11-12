@@ -59,7 +59,7 @@ Unicode (Linear A block):
 |---|---|---|---|---|
 | \]\*123 | unknown | final preserved sign of a lost word; not a standalone AROM logogram in this context | FRAGMENTARY |  |
 | [[wiki/linear-a/words/J/JA_SA_SA_RA\|JA-SA-SA-RA]] | yaššar- | first portion of yaššaram 'in righteousness' | CANDIDATE | CANDIDATE (lexicon) |
-| ME | -am | completion of yaššaram across a word-internal line break | CONFIRMED |  |
+| [[wiki/linear-a/words/M/ME\|ME]] | -am | completion of yaššaram across a word-internal line break | CONFIRMED |  |
 | U-NA-RU-KA\[ | wannā lū ka\[...\] | and behold, may \[...\]; comparison with related formulae permits, but does not restore, a gathering clause | FRAGMENTARY |  |
 
 ### Notes

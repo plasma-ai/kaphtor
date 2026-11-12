@@ -59,6 +59,12 @@ di Mino; Rabin 1963
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/KN/KNZe/KNZe16\|KNZe16]] | Knossos | Architecture | none |
+| [[wiki/linear-a/inscriptions/KN/KNZe/KNZe16\|KNZe16]] | Knossos | Architecture | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/KN/KNZe/KNZe16\|KNZe16]] | ʾāpi | offering pit (for the dead) | SPECULATIVE |
 
 <!-- END kaphtor:record -->

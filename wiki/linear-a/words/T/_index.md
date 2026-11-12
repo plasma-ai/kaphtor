@@ -2,12 +2,18 @@
 name: wiki/linear-a/words/T
 desc: "Words whose first sign begins with T."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-10T17:45:20Z
+updated: 2026-11-12T16:06:30Z
 ---
 
 # wiki/linear-a/words/T
 
 [[wiki/linear-a/words/_index|..]]
+
+[[wiki/linear-a/words/T/TA|TA]]: Unread sign (syllabogram, unread); 21 occurrence(s).
+
+[[wiki/linear-a/words/T/TA2|TA2]]: Unread sign (syllabogram, unread); 3 occurrence(s).
+
+[[wiki/linear-a/words/T/TA2_CYP|TA2_CYP]]: Unread sign (compound, component read); 1 occurrence(s).
 
 [[wiki/linear-a/words/T/TA2_TA_RE|TA2_TA_RE]]: Tatare: personal name (Hurrian); cf. Linear B ta-ta-ro, Mari ᶠTatara. Lexicon, CANDIDATE (tier 2).
 
@@ -16,6 +22,8 @@ updated: 2026-11-10T17:45:20Z
 [[wiki/linear-a/words/T/TAMIR|TAMIR]]: tamir: proposed Semitic lexical name of the PALM/TREE sign. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/T/TA_DI|TA_DI]]: dādī: my beloved, a name and name element. Lexicon, SPECULATIVE (tier 1).
+
+[[wiki/linear-a/words/T/TA_HIDE_plus_B|TA_HIDE_plus_B]]: Unread sign (compound, unread); 1 occurrence(s).
 
 [[wiki/linear-a/words/T/TA_I|TA_I]]: Unread (unread): no role; 3 occurrence(s).
 
@@ -73,6 +81,16 @@ updated: 2026-11-10T17:45:20Z
 
 [[wiki/linear-a/words/T/TE|TE]]: terûmā: contribution, offering (terûmā), a transaction marker. Lexicon, CANDIDATE (tier 2).
 
+[[wiki/linear-a/words/T/TELA_plus_KU|TELA_plus_KU]]: Unread sign (ligature, value on file); 1 occurrence(s).
+
+[[wiki/linear-a/words/T/TELA_plus_TE|TELA_plus_TE]]: Unread sign (ligature, component read); 1 occurrence(s).
+
+[[wiki/linear-a/words/T/TELA_plus_star312|TELA_plus_star312]]: Unread sign (ligature, value on file); 1 occurrence(s).
+
+[[wiki/linear-a/words/T/TE_AROM|TE_AROM]]: Unread sign (compound, component read); 1 occurrence(s).
+
+[[wiki/linear-a/words/T/TE_GRA_plus_F|TE_GRA_plus_F]]: Unread sign (compound, component read); 1 occurrence(s).
+
 [[wiki/linear-a/words/T/TE_JA|TE_JA]]: Unread (role only): personal name; 1 occurrence(s).
 
 [[wiki/linear-a/words/T/TE_JA_RE|TE_JA_RE]]: Teyar: personal name, 'Merciful (god)'; rival tayyār 'trader'. Lexicon, CANDIDATE (tier 2).
@@ -129,6 +147,10 @@ updated: 2026-11-10T17:45:20Z
 
 [[wiki/linear-a/words/T/TI_TI_MA|TI_TI_MA]]: ṯiṯṯīma: sixty (numeral). Lexicon, CANDIDATE (tier 2).
 
+[[wiki/linear-a/words/T/TI_plus_A|TI_plus_A]]: Unread sign (ligature, component read); 2 occurrence(s).
+
+[[wiki/linear-a/words/T/TI_plus_star412VAS|TI_plus_star412VAS]]: Unread sign (ligature, component read); 1 occurrence(s).
+
 [[wiki/linear-a/words/T/TO_MA_RO|TO_MA_RO]]: Tōmar: personal name, 'palm'. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/T/TO_ME|TO_ME]]: Unread (role only): personal name; 1 occurrence(s).
@@ -159,7 +181,7 @@ updated: 2026-11-10T17:45:20Z
 
 [[wiki/linear-a/words/T/TU_PA_RI_broken_start|TU_PA_RI_broken_start]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/T/TU_PI_TA|TU_PI_TA]]: ṯāpiṭu: judge (title). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/T/TU_PI_TA|TU_PI_TA]]: ṯūpiṭa: judge (title). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/T/TU_QE_NU|TU_QE_NU]]: Tuqnu: personal name: tuqnu 'good order, safety'; the flute-player of ZU-JU-PU₂. Lexicon, CANDIDATE (tier 2).
 
@@ -176,5 +198,7 @@ updated: 2026-11-10T17:45:20Z
 [[wiki/linear-a/words/T/TU_q_broken_both|TU_q_broken_both]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/T/TU_star21F_RI_NA|TU_star21F_RI_NA]]: ṭuhārīna: the pure ones (adjective, masculine plural -īna), a grain and oil recipient. Lexicon, PROBABLE (tier 3).
+
+[[wiki/linear-a/words/T/TWE|TWE]]: Unread sign (syllabogram, unread); 2 occurrence(s).
 
 ***

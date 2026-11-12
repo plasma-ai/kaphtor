@@ -82,7 +82,7 @@ from it, language by language: 26,408 forms in 43 languages, led by Arabic (3,37
 Akkadian (1,723), Syriac (1,589), Geʿez (1,340) and Ugaritic (1,285), every form cited to the page that
 prints it, 33,565 citations to 258 works. 2,647 rest on Militarev and Kogan's Semitic Etymological Dictionary
 and its online continuation, and the other 2,540 were built for kaphtor from the dictionaries the Kaphtor
-Dictionary Distillation records. They are the comparanda of the Linear A readings: 568 words of the lexicon
+Dictionary Distillation records. They are the comparanda of the Linear A readings: 572 words of the lexicon
 name their root here.
 <!-- END kaphtor:summary -->
 

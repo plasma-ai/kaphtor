@@ -82,17 +82,17 @@ Unicode (Linear A block):
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| MA |  | unread |  |  |
+| [[wiki/linear-a/words/M/MA\|MA]] |  | unread |  |  |
 | [[wiki/linear-a/words/D/DI_NA_broken_both\|&#93;-DI-NA-&#91;]] |  | unread |  | unread |
 | QE-RA₂-JA |  | unread |  |  |
 | [[wiki/linear-a/words/D/DI\|DI]] |  |  |  | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/M/MU_RU\|MU-RU]] | mūru | young bull | CANDIDATE | CANDIDATE (lexicon) |
-| RU |  | unread |  |  |
+| [[wiki/linear-a/words/R/RU\|RU]] |  | unread |  |  |
 | SI-TU-RA₂-RE | šitla le- | shoots, for 5 | SPECULATIVE |  |
 | DI-\[ |  | unread |  |  |
 | [[wiki/linear-a/words/K/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | devotee of Kubaba (personal name or title); rival Gupana | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/M/MA_DI\|MA-DI]] | Maʾdi | place name, 2 | SPECULATIVE | SPECULATIVE (lexicon) |
-| DA |  | unread |  |  |
+| [[wiki/linear-a/words/D/DA\|DA]] |  | unread |  |  |
 
 ### Notes
 

@@ -84,6 +84,6 @@ HT 115a .4 A-SE-JA with four fraction signs, between PA-RA-NE and KA-PO-RU in a 
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/P/PA_RA_NE|PA-RA-NE]] barāne.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/P/PA_RA_NE|PA-RA-NE]] Barān.
 
 <!-- END kaphtor:record -->

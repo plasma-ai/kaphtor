@@ -30,7 +30,7 @@ updated: 2026-10-24T16:17:50Z
 | Findspot | Psykhro Cave |
 | Support | Stone vessel |
 | Period | MM III–LM I |
-| Scribe | PS Scribe 1 |
+| Scribe | [[wiki/linear-a/by_scribe\|PS Scribe 1]] (fragment a); [[wiki/linear-a/by_scribe\|PS Scribe 2]] (fragments b, c) |
 | Edition | GORILA 4 |
 | Series | PSZa |
 | SigLA | [PS Za 2](https://sigla.phis.me/document/PS%20Za%202/) |

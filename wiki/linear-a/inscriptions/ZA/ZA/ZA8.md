@@ -30,7 +30,7 @@ updated: 2026-10-24T16:17:50Z
 | Findspot |  |
 | Support | Tablet |
 | Period | LMIB |
-| Scribe | ZA Scribe 2 |
+| Scribe | [[wiki/linear-a/by_scribe\|ZA Scribe 2]] |
 | Edition | GORILA 3 |
 | Series | ZA |
 | SigLA | [ZA 8](https://sigla.phis.me/document/ZA%208/) |

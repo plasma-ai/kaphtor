@@ -77,7 +77,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/I/I_PI_NA_MI_NA\|I-PI-NA-MI-NA]] | ʾippina=mi=na | CANDIDATE |
 | [[wiki/linear-a/words/I/I_QA_star118\|I-QA-\*118]] | iqṭaʿ | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_RA2\|I-RA₂]] | ʾilā(t) | SPECULATIVE |
-| [[wiki/linear-a/words/I/I_RU_JA\|I-RU-JA]] | Iruja | SPECULATIVE |
+| [[wiki/linear-a/words/I/I_RU_JA\|I-RU-JA]] | ʾIlūya | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_SA_RI\|I-SA-RI]] | ʾišarī | CANDIDATE |
 | [[wiki/linear-a/words/I/I_SI\|I-SI]] | ʾiššê | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_TA_JA\|I-TA-JA]] | ʾIttaya | SPECULATIVE |

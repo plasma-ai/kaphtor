@@ -42,7 +42,7 @@ Transliteration, line by line:
 
 1. 𐝫
 2. \]\[?\]-RA₂-DU\[
-3. \]TA-NA-TI 1
+3. TA-NA-TI 1
 4. 𐝫
 5. RI 1
 6. SU-KI
@@ -67,7 +67,7 @@ Unicode (Linear A block):
 ```text
 𐝫
 𐝫𐘽𐘬𐝫
-𐝫𐘳𐘅𐘠𐄇𐝫
+𐘳𐘅𐘠𐄇𐝫
 𐝫
 𐝫𐘭𐄇
 𐘲𐘸𐝫
@@ -97,19 +97,19 @@ Unicode (Linear A block):
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | [[wiki/linear-a/words/Q/q_RA2_DU_broken_both\|&#93;&#91;?&#93;-RA₂-DU&#91;]] |  | broken word |  | unread |
-| \]TA-NA-TI | Tanāti | Tanit variant (theonym or personal name), 1 | CANDIDATE |  |
-| RI |  | end of a broken word, 1 |  |  |
+| [[wiki/linear-a/words/T/TA_NA_TI\|TA-NA-TI]] | Tanāti | Tanit variant (theonym or personal name), 1 | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/R/RI\|RI]] |  | end of a broken word, 1 |  |  |
 | [[wiki/linear-a/words/S/SU_KI\|SU-KI]] |  | word (unread), 1 |  | unread |
 | [[wiki/linear-a/words/T/TI_DU_NI\|TI-DU-NI]] |  | word (unread), 1\[ |  | unread |
 | [[wiki/linear-a/words/S/SI_RA\|SI-RA]] |  | broken word, 1 |  | unread |
 | [[wiki/linear-a/words/A/A_RU\|A-RU]] | Ḫaru | Hurrian personal name, 1; rival Semitic Ḫayru 'Excellent' | SPECULATIVE | SPECULATIVE (lexicon) |
-| \*370 |  | sign with 1 |  |  |
-| \*312 |  | unidentified logogram, 1 |  |  |
+| [[wiki/linear-a/words/star/star370\|\*370]] |  | sign with 1 |  |  |
+| [[wiki/linear-a/words/star/star312\|\*312]] |  | unidentified logogram, 1 |  |  |
 | [[wiki/linear-a/words/K/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | devotee of Kubaba, personal name or title, 1; rival Ugaritic Gupana | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/T/TU_SU_PU2\|TU-SU-PU₂]] | Tešub | Teshub (Hurrian theophoric personal name), 1 | CANDIDATE | CANDIDATE (lexicon) |
-| KI |  | single sign with 1 |  |  |
+| [[wiki/linear-a/words/K/KI\|KI]] |  | single sign with 1 |  |  |
 | [[wiki/linear-a/words/T/TU\|TU]] | ṯawr | cattle (logographic abbreviation), 4 | CANDIDATE | CANDIDATE (lexicon) |
-| KI |  | single sign with 1 |  |  |
+| [[wiki/linear-a/words/K/KI\|KI]] |  | single sign with 1 |  |  |
 
 ### Notes
 
@@ -125,6 +125,6 @@ Several entries broken at the line ends (GORILA I 93).
 
 ## Corpus note
 
-GORILA I 93: .1 \]\[·\]-RA₂-DỤ\[, a lost first sign, not a divider; .2 \]TẠ-NA-TI 1\[, no divider before the numeral.
+GORILA I 93: .1 \]\[·\]-RA₂-DỤ\[, a lost first sign, not a divider; .2 \]TẠ-NA-TI 1\[, no divider before the numeral. The \] before TA-NA-TI stands in the copie tabulaire alone, where it marks the broken end of the line above; the normalized copy has none, and the drawing sets TA at the original left edge.
 
 <!-- END kaphtor:record -->

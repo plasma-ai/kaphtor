@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "complete"
-words: ["A-DU", "A-DU *307+*307", "DA-RE", "DA-RI-DA", "DA-SI-*118", "KU-RO", "KU-ZU-NI", "PA₃-NI", "TE-KE", "U-*325-ZA"]
+words: ["*307", "A-DU", "A-DU *307+*307", "DA-RE", "DA-RI-DA", "DA-SI-*118", "KU-RO", "KU-ZU-NI", "PA₃-NI", "TE-KE", "U-*325-ZA", "VIR+[?]"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -30,7 +30,8 @@ updated: 2026-10-24T16:17:50Z
 | Findspot | Casa Room 7 |
 | Support | Tablet |
 | Period | LMIB |
-| Scribe | HT Scribe 9 |
+| Scribe | [[wiki/linear-a/by_scribe\|HT Scribe 9]] |
+| Scribe in GORILA V | 9 HT |
 | Edition | GORILA 1 |
 | Series | HT |
 | SigLA | [HT 85a](https://sigla.phis.me/document/HT%2085a/) |
@@ -74,7 +75,7 @@ Unicode (Linear A block):
 |---|---|---|---|---|
 | [[wiki/linear-a/words/A/A_DU\|A-DU]] | ʾAddu | Storm god; rival adû 'work assignment' | CANDIDATE | CANDIDATE (lexicon) |
 | \*307+\*307 |  | sanctuary (doubled \*307, A 638) | PROBABLE |  |
-| VIR+\[?\] |  | men (personnel logogram) |  |  |
+| [[wiki/linear-a/words/V/VIR_plus_q_broken_end\|VIR+&#91;?&#93;]] |  | men (personnel logogram) |  | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/D/DA_RI_DA\|DA-RI-DA]] | Dardaʿ | personal name | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/P/PA3_NI\|PA₃-NI]] | bānī | builder(s) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/U/U_star325_ZA\|U-\*325-ZA]] | ʾubūs | stall or storehouse (PS \*ʾabūs-), a standing unit like DA-RE | CANDIDATE | CANDIDATE (lexicon) |
@@ -94,7 +95,7 @@ GORILA
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/A/A_DU|A-DU]], [[wiki/linear-a/words/A/A_DU_star307_plus_star307|A-DU \*307+\*307]], [[wiki/linear-a/words/D/DA_RE|DA-RE]], [[wiki/linear-a/words/D/DA_RI_DA|DA-RI-DA]], [[wiki/linear-a/words/D/DA_SI_star118|DA-SI-\*118]], [[wiki/linear-a/words/K/KU_RO|KU-RO]], [[wiki/linear-a/words/K/KU_ZU_NI|KU-ZU-NI]], [[wiki/linear-a/words/P/PA3_NI|PA₃-NI]], [[wiki/linear-a/words/T/TE_KE|TE-KE]], [[wiki/linear-a/words/U/U_star325_ZA|U-\*325-ZA]].
+[[wiki/linear-a/words/star/star307|\*307]], [[wiki/linear-a/words/A/A_DU|A-DU]], [[wiki/linear-a/words/A/A_DU_star307_plus_star307|A-DU \*307+\*307]], [[wiki/linear-a/words/D/DA_RE|DA-RE]], [[wiki/linear-a/words/D/DA_RI_DA|DA-RI-DA]], [[wiki/linear-a/words/D/DA_SI_star118|DA-SI-\*118]], [[wiki/linear-a/words/K/KU_RO|KU-RO]], [[wiki/linear-a/words/K/KU_ZU_NI|KU-ZU-NI]], [[wiki/linear-a/words/P/PA3_NI|PA₃-NI]], [[wiki/linear-a/words/T/TE_KE|TE-KE]], [[wiki/linear-a/words/U/U_star325_ZA|U-\*325-ZA]], [[wiki/linear-a/words/V/VIR_plus_q_broken_end|VIR+&#91;?&#93;]].
 
 ## Corpus note
 

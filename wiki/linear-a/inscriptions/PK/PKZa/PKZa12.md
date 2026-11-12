@@ -64,7 +64,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/A/A_TA_I_star301_WA_JA\|A-TA-I-\*301-WA-JA]] | ʾata-inawaya | I make myself a dwelling | CONFIRMED | CONFIRMED (lexicon) |
 | [[wiki/linear-a/words/A/A_DI_KI_TE_broken_end\|A-DI-KI-TE-&#91;]] | ʾa-Diqqitīt… | \[the Diktaean …\] | CANDIDATE | unread |
 | \]SI-\[ | \[šīrūte\] | \[sacred song?\] | SPECULATIVE |  |
-| \]RA-ME\[ | \[yaššara\]me | \[in righteousness?\] | SPECULATIVE |  |
+| [[wiki/linear-a/words/R/RA_ME_broken_both\|&#93;RA-ME&#91;]] | \[yaššara\]me | \[in righteousness?\] | SPECULATIVE | unread |
 | [[wiki/linear-a/words/A/A_etc_NE_broken_start\|&#93;A-&#91;…&#93;-NE]] |  | \[untranslated fragment\] | SPECULATIVE | unread |
 | U-NA-RU-KA-\[?\]-JA-SI | wannā lū kanāsī | And behold, may \[there be\] my gathering! | CANDIDATE |  |
 | A-PA-DU-PA-\[…\] | ʿabdu… | \[damaged sequence, possibly beginning ‘servant’\] | SPECULATIVE |  |

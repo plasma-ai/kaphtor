@@ -97,7 +97,7 @@
         "GORILA I 171 allows final TI to be an ideogram or classifier"
       ],
       "strips_to": false,
-      "note": "The base/extended DA-KU-SE-NE pair supports added morphology, but HT104 alone does not determine gender or case. Finkelberg 2002/03, 96–97 proposes dative/recipient ‘for/to’; an ablative ‘from’ is not established. It is not stripped: HT104 does not yet separate a suffix from a classifier."
+      "note": "The base/extended DA-KU-SE-NE pair supports added morphology, but HT104 alone does not determine gender or case. It is not stripped: HT104 does not yet separate a suffix from a classifier."
     },
     {
       "form": "-TU",

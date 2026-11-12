@@ -90,6 +90,6 @@ Qualifier after a personal name: HT115a RI-TA-MA / NU-WI 2; HT115b TI-NU-JA · N
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/G/GRA|GRA]], GRA+BOSm, [[wiki/linear-a/words/R/RI_TA_MA|RI-TA-MA]] Ritmā, [[wiki/linear-a/words/T/TI_NU_JA|TI-NU-JA]] Ṯinuya.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/G/GRA|GRA]], [[wiki/linear-a/words/G/GRA_plus_BOSm|GRA+BOSm]], [[wiki/linear-a/words/R/RI_TA_MA|RI-TA-MA]] Ritmā, [[wiki/linear-a/words/T/TI_NU_JA|TI-NU-JA]] Ṯinuya.
 
 <!-- END kaphtor:record -->

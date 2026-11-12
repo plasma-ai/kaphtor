@@ -30,7 +30,7 @@ updated: 2026-10-24T16:17:50Z
 | Findspot |  |
 | Support | Tablet |
 | Period |  |
-| Scribe | ARKH Scribe 1 |
+| Scribe | [[wiki/linear-a/by_scribe\|ARKH Scribe 1]] (?) |
 | Edition | GORILA 3 |
 | Series | ARKH |
 | SigLA | [ARKH 3a](https://sigla.phis.me/document/ARKH%203a/) |
@@ -85,7 +85,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/star/star317\|\*317]] |  | unresolved commodity logogram |  | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/K/KI_NU\|KI-NU]] | Kīnu | personal name ('the Just/True One') | CANDIDATE | CANDIDATE (lexicon) |
 | \]TE |  | broken before TE. Not readable. |  |  |
-| \*312 |  | unidentified logogram, 2 |  |  |
+| [[wiki/linear-a/words/star/star312\|\*312]] |  | unidentified logogram, 2 |  |  |
 | \]KU |  | broken before KU. Not readable. |  |  |
 
 ### Notes

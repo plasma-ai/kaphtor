@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "none"
-words: ["I-TI", "KU-RO"]
+words: ["I-TI", "KU-RO", "VIR+[?]"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -60,6 +60,6 @@ Unicode (Linear A block):
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/I/I_TI|I-TI]], [[wiki/linear-a/words/K/KU_RO|KU-RO]].
+[[wiki/linear-a/words/I/I_TI|I-TI]], [[wiki/linear-a/words/K/KU_RO|KU-RO]], [[wiki/linear-a/words/V/VIR_plus_q_broken_end|VIR+&#91;?&#93;]].
 
 <!-- END kaphtor:record -->

@@ -53,7 +53,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/J/JA_DA_SU\|JA-DA-SU]] | Yadaʿ-Šum | SPECULATIVE |
 | [[wiki/linear-a/words/J/JA_SU_MA_TU\|JA-SU-MA-TU]] | yā Šumāt | CANDIDATE |
 | [[wiki/linear-a/words/K/KU_NI_SU\|KU-NI-SU]] | kunīšu | PROBABLE |
-| [[wiki/linear-a/words/O/O_SU_QA_RE\|O-SU-QA-RE]] | ʾō Sukar | CANDIDATE |
+| [[wiki/linear-a/words/O/O_SU_QA_RE\|O-SU-QA-RE]] | ʾō Sōkar | CANDIDATE |
 | [[wiki/linear-a/words/P/PA_RO_SU\|PA-RO-SU]] | Parʿōš | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QE_SU_PU\|QE-SU-PU]] | qaššāpu | CANDIDATE |
 | [[wiki/linear-a/words/R/RA_NA_TU_SU\|RA-NA-TU-SU]] | Rannatušu | SPECULATIVE |

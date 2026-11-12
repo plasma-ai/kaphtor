@@ -57,7 +57,7 @@ di Mino; Gelb 1980
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT127a\|HT127a]] | Haghia Triada | Tablet | complete |
+| [[wiki/linear-a/inscriptions/HT/HT/HT127a\|HT127a]] | Haghia Triada | Tablet | incomplete |
 
 ## Onomasticon
 

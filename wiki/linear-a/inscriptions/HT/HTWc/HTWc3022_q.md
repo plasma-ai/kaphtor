@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Roundel"
 period: "LMIB"
 translation: "none"
-words: []
+words: ["VIR+[?]"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -46,5 +46,9 @@ Unicode (Linear A block):
 ```text
 𐙇
 ```
+
+## Lexicon words citing this document
+
+[[wiki/linear-a/words/V/VIR_plus_q_broken_end|VIR+&#91;?&#93;]].
 
 <!-- END kaphtor:record -->

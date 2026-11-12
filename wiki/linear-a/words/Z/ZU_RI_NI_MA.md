@@ -59,7 +59,13 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/KN/KNZb/KNZb52\|KNZb52]] | Knossos | Clay vessel | none |
+| [[wiki/linear-a/inscriptions/KN/KNZb/KNZb52\|KNZb52]] | Knossos | Clay vessel | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/KN/KNZb/KNZb52\|KNZb52]] | Ṯūrinima | Bull- (personal name) | SPECULATIVE |
 
 ## Onomasticon
 

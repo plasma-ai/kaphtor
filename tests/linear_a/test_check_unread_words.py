@@ -89,6 +89,16 @@ def test_a_speculative_syllabogram_stays_in_its_word(tmp_path, monkeypatch):
     assert b.make_lex_hit({"TU": {"word": "TU"}})("*306-TU") is None  # *306 is no logogram prefix
 
 
+def test_a_prefix_is_stripped_only_from_a_word_of_two_signs():
+    live = {"DU": {"word": "DU"}, "*317": {"word": "*317"}, "QA-PA₃": {"word": "QA-PA₃"}}
+    hit = b.make_lex_hit(live, phon_star=set())
+    assert hit("*815-QA-PA₃") == {"word": "QA-PA₃"}
+    assert hit("*411-VS-QA-PA₃") == {"word": "QA-PA₃"}
+    assert hit("*188-DU") is None  # one sign left: the lexicon's DU does not read the pair
+    assert hit("*323-*317") is None
+    assert hit("DU") == {"word": "DU"}
+
+
 def _occ(*tokens):
     idx, raw_idx = {}, {}
     for doc, site, tok in tokens:
@@ -158,3 +168,11 @@ def test_intact_tokens_skip_bracketed_and_surface_damaged_tokens(tmp_path):
               "X2": {"transliteratedWords": ["O-DA["]}}
     (tmp_path / "corpus.json").write_text(json.dumps(corpus, ensure_ascii=False), encoding="utf-8")
     assert b.intact_tokens(tmp_path) == {"X1": {"KU-RO", "TA-NA-RA-TE-U-TI-NU"}}
+
+
+@pytest.mark.parametrize("token, broken", [
+    ("VIR+[?]", False), ("HIDE+[?]-*328", False), ("KU-RO", False),
+    ("VIR+[?][", True), ("VIR+[?]-[?]", True), ("]HIDE+[?]", True), ("PA-[?]", True), ("A-RA[", True),
+])
+def test_an_unnamed_ligature_component_is_not_damage(token, broken):
+    assert b.damaged(token) is broken

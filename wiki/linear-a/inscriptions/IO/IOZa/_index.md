@@ -2,7 +2,7 @@
 name: wiki/linear-a/inscriptions/IO/IOZa
 desc: "Inscriptions from Iouktas, series IOZa."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-24T16:17:50Z
+updated: 2026-11-12T00:26:03Z
 ---
 
 # wiki/linear-a/inscriptions/IO/IOZa
@@ -25,7 +25,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/inscriptions/IO/IOZa/IOZa3|IOZa3]]: Stone vessel, Iouktas. Translation: complete (CANDIDATE).
 
-[[wiki/linear-a/inscriptions/IO/IOZa/IOZa4|IOZa4]]: Stone-vessel fragment, Iouktas. Translation: complete (SPECULATIVE).
+[[wiki/linear-a/inscriptions/IO/IOZa/IOZa4|IOZa4]]: Stone-vessel fragment, Iouktas. Translation: incomplete (SPECULATIVE).
 
 [[wiki/linear-a/inscriptions/IO/IOZa/IOZa5|IOZa5]]: Stone vessel, Iouktas. Translation: none.
 

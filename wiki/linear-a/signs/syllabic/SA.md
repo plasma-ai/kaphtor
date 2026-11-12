@@ -74,6 +74,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/Q/QA_star118_SA\|QA-\*118-SA]] | qaṭʿ-ša | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_SA\|RU-SA]] | Rusa | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA\|SA]] | śakaru | CANDIDATE |
+| [[wiki/linear-a/words/S/SA_plus_MU_plus_KU\|SA+MU+KU]] | ṣammūqu | CANDIDATE |
 | [[wiki/linear-a/words/S/SA_star301_RI\|SA-\*301-RI]] | šannāri | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_star305_MI\|SA-\*305-MI]] | šadmi | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_DI\|SA-DI]] | šadī | SPECULATIVE |

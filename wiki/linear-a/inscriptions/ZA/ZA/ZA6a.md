@@ -30,7 +30,7 @@ updated: 2026-10-24T16:17:50Z
 | Findspot |  |
 | Support | Tablet |
 | Period |  |
-| Scribe | ZA Scribe 1 |
+| Scribe | [[wiki/linear-a/by_scribe\|ZA Scribe 1]] |
 | Edition | GORILA 3 |
 | Series | ZA |
 | SigLA | [ZA 6a](https://sigla.phis.me/document/ZA%206a/) |
@@ -81,7 +81,7 @@ Unicode (Linear A block):
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | [[wiki/linear-a/words/star/star305_WA_NA\|\*305-WA-NA]] | Dawana | personal name, 19 of \*171; Linear B da-wa-no | SPECULATIVE | SPECULATIVE (lexicon) |
-| \*171 |  | unread logogram, 19 |  |  |
+| [[wiki/linear-a/words/star/star171\|\*171]] |  | unread logogram, 19 |  |  |
 | \*34-JU-TE-MI\[ |  | unread |  |  |
 | [[wiki/linear-a/words/I/I_SE\|I-SE]] |  | unread |  | unread |
 | [[wiki/linear-a/words/O/OLIV\|OLIV]] | zayt | olives | PROBABLE | PROBABLE (lexicon) |

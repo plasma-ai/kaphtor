@@ -59,7 +59,13 @@ di Mino; GlOS 2
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/PH/PHWa/PHWa32\|PHWa32]] | Phaistos | Nodule | none |
+| [[wiki/linear-a/inscriptions/PH/PHWa/PHWa32\|PHWa32]] | Phaistos | Nodule | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/PH/PHWa/PHWa32\|PHWa32]] | Sukrita | Sukrita (place name) | CANDIDATE |
 
 ## Onomasticon
 

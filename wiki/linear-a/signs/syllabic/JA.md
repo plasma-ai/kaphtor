@@ -54,14 +54,14 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_TA_I_star301_WA_JA\|A-TA-I-\*301-WA-JA]] | ʾatainawaya | CONFIRMED |
 | [[wiki/linear-a/words/D/DI_JA_I\|DI-JA-I]] | Diʾyay | SPECULATIVE |
 | [[wiki/linear-a/words/D/DI_PA_JA\|DI-PA-JA]] | dipaya | CANDIDATE |
-| [[wiki/linear-a/words/D/DU_JA\|DU-JA]] | Tuya | SPECULATIVE |
+| [[wiki/linear-a/words/D/DU_JA\|DU-JA]] | Ḏū-Ya | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_JA\|I-JA]] | ʾiya | CANDIDATE |
 | [[wiki/linear-a/words/I/I_JA_PA_ME\|I-JA-PA-ME]] | yabame | CANDIDATE |
 | [[wiki/linear-a/words/I/I_JA_TE\|I-JA-TE]] | ʾiyyate | CANDIDATE |
 | [[wiki/linear-a/words/I/I_NA_JA_PA_QA\|I-NA-JA-PA-QA]] | hinna yapqaḥ | CANDIDATE |
 | [[wiki/linear-a/words/I/I_NA_JA_RE_TA\|I-NA-JA-RE-TA]] | hinna yarēʾat-\[…\] | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_PA_SA_JA\|I-PA-SA-JA]] | Ipšaja | SPECULATIVE |
-| [[wiki/linear-a/words/I/I_RU_JA\|I-RU-JA]] | Iruja | SPECULATIVE |
+| [[wiki/linear-a/words/I/I_RU_JA\|I-RU-JA]] | ʾIlūya | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_TA_JA\|I-TA-JA]] | ʾIttaya | SPECULATIVE |
 | [[wiki/linear-a/words/J/JA_DA_SU\|JA-DA-SU]] | Yadaʿ-Šum | SPECULATIVE |
 | [[wiki/linear-a/words/J/JA_DI\|JA-DI]] | Yadi | SPECULATIVE |
@@ -109,7 +109,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/P/PA_JA_TA\|PA-JA-TA]] | bayta | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_SA_RI_JA\|PA-SA-RI-JA]] | Baṣariya | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_SE_JA\|PA-SE-JA]] | Paššiya | SPECULATIVE |
-| [[wiki/linear-a/words/P/PI_TA_JA\|PI-TA-JA]] | Pitaya | SPECULATIVE |
+| [[wiki/linear-a/words/P/PI_TA_JA\|PI-TA-JA]] | Bittaya | SPECULATIVE |
 | [[wiki/linear-a/words/P/PU2_RE_JA\|PU₂-RE-JA]] | burē(t)yā | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_JA\|RU-JA]] | Ruya | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_JA_TA_DI\|RU-JA-TA-DI]] | Ruya-dādī | SPECULATIVE |

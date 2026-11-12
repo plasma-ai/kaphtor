@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/inscriptions/MI/MIZb/MIZb1
 title: "MIZb1"
-desc: "Clay vessel, Milos. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "clay-vessel"]
+desc: "Clay vessel, Milos. Translation: complete (SPECULATIVE)."
+tags: ["linear-a", "inscription", "translation-complete", "clay-vessel"]
 kind: "inscription"
 id: "MIZb1"
 site: "Milos"
 support: "Clay vessel"
 period: ""
-translation: "none"
+translation: "complete"
 words: ["KI-RU"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -46,6 +46,21 @@ Unicode (Linear A block):
 ```text
 𐘸𐘘
 ```
+
+## Translation
+
+**SPECULATIVE**, complete.
+
+> Large vessel.
+
+| Word | Reading | Gloss | Confidence | Lexicon |
+|---|---|---|---|---|
+| [[wiki/linear-a/words/K/KI_RU\|KI-RU]] | kirru | large vessel (vessel label) | SPECULATIVE | SPECULATIVE (lexicon) |
+
+### Source
+
+- di Mino: KI-RU
+- GORILA: MIZb1
 
 ## Lexicon words citing this document
 

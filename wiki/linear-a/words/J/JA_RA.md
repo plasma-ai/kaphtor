@@ -59,7 +59,13 @@ di Mino; Gelb 1980; Huehnergard 2012
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/KN/KNWc/KNWc30\|KNWc30]] | Knossos | Roundel | none |
+| [[wiki/linear-a/inscriptions/KN/KNWc/KNWc30\|KNWc30]] | Knossos | Roundel | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/KN/KNWc/KNWc30\|KNWc30]] | Yaraḫ | Moon (personal name, after the moon god) | SPECULATIVE |
 
 ## Onomasticon
 

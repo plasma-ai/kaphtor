@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-KH 41 (Khania, LM IB): .1 \]3, .2 \]KA-TA-RE\[, KA dotted at the broken left edge (GORILA III 67–68). Katara, the town the Knossos flock tablets list with Kydonia: ka-ta-ra-i heads KN Co 906 as ku-do-ni-ja heads Co 904, and KH 41 is from Khania, Kydonia itself. -RE for Linear B -ra, as DI-KI-TE for di-ka-ta. The name is 'the Enclosures', √k-t-r 'to enclose, fence in'. One attestation.
+KH 41 (Khania, LM IB): .1 \]3, .2 \]KA-TA-RE\[, KA dotted at the broken left edge (GORILA III 67–68). Katara, the town the Knossos flock tablets list with Kydonia: ka-ta-ra-i heads KN Co 906 as ku-do-ni-ja heads Co 904, and KH 41 is from Khania, Kydonia itself; Uchitel makes the same identification on KN Co 906 (Uchitel 2016a, 18 n. 4). -RE for Linear B -ra, as DI-KI-TE for di-ka-ta. The name is 'the Enclosures', √k-t-r 'to enclose, fence in'. One attestation.
 
 ### Cognates
 
@@ -54,7 +54,7 @@ KH 41 (Khania, LM IB): .1 \]3, .2 \]KA-TA-RE\[, KA dotted at the broken left edg
 
 ### Source
 
-di Mino
+di Mino; Uchitel 2016a
 
 ## Attestations
 

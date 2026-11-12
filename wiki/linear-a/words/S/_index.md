@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/S
 desc: "Words whose first sign begins with S."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-09T14:56:34Z
+updated: 2026-11-12T00:26:03Z
 ---
 
 # wiki/linear-a/words/S
@@ -59,11 +59,17 @@ updated: 2026-11-09T14:56:34Z
 
 [[wiki/linear-a/words/S/SA_TA|SA_TA]]: Šata: Šata (personal name, heading the second section); rival śadā '(those of) the field'. Lexicon, SPECULATIVE (tier 1).
 
+[[wiki/linear-a/words/S/SA_VIN|SA_VIN]]: Unread sign (compound, component read); 2 occurrence(s).
+
+[[wiki/linear-a/words/S/SA_plus_MU_plus_KU|SA_plus_MU_plus_KU]]: ṣammūqu: raisins (a commodity ligature spelling the word). Lexicon, CANDIDATE (tier 2).
+
 [[wiki/linear-a/words/S/SA_star301_RI|SA_star301_RI]]: šannāri: Cat (personal name). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/S/SA_star305_MI|SA_star305_MI]]: šadmi: terrace, terraced field (a counted entry); rival the place Šdmy. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/S/SA_star323_MI|SA_star323_MI]]: Unread (role only): personal name; 1 occurrence(s).
+
+[[wiki/linear-a/words/S/SE|SE]]: Unread sign (syllabogram, unread); 7 occurrence(s).
 
 [[wiki/linear-a/words/S/SE_DE|SE_DE]]: ṣēd: provision of (construct), before *21F-*118 ḥiṭṭa 'wheat'. Lexicon, SPECULATIVE (tier 1).
 
@@ -84,6 +90,8 @@ updated: 2026-11-09T14:56:34Z
 [[wiki/linear-a/words/S/SE_star305|SE_star305]]: ṣēdā: provisions (section heading); same word as SI-DA-TE ṣēdat. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/S/SI|SI]]: šay: tribute, gift—logographic abbreviation of šay(u); administrative category marker for goods designated as tribute/gift offerings. Lexicon, PROBABLE (tier 3).
+
+[[wiki/linear-a/words/S/SI_CYP|SI_CYP]]: Unread sign (compound, component read); 1 occurrence(s).
 
 [[wiki/linear-a/words/S/SI_DA_RE|SI_DA_RE]]: Siddāri: personal name, 'Arranger'. Lexicon, SPECULATIVE (tier 1).
 
@@ -143,17 +151,25 @@ updated: 2026-11-09T14:56:34Z
 
 [[wiki/linear-a/words/S/SI_ZA_NE_star310_broken_start|SI_ZA_NE_star310_broken_start]]: Unread (unread): no role; 1 occurrence(s).
 
+[[wiki/linear-a/words/S/SI_plus_ME|SI_plus_ME]]: Unread sign (ligature, component read); 1 occurrence(s).
+
 [[wiki/linear-a/words/S/SI_plus_SE|SI_plus_SE]]: ṣiṣe: the salt-works (Ug. ṣṣ, WSem. ṣēṣūma 'salt marsh'), an establishment drawing grain, oil and figs; rival Šipšu, the Sun-deity. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/S/SI_plus_SE_NI|SI_plus_SE_NI]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/S/SI_plus_SE_RA_plus_KA|SI_plus_SE_RA_plus_KA]]: šeraka: levy, gift—fiscal category on a commodity nodule. Lexicon, SPECULATIVE (tier 1).
 
+[[wiki/linear-a/words/S/SI_plus_TA2_star304|SI_plus_TA2_star304]]: Unread sign (compound, component read); 1 occurrence(s).
+
 [[wiki/linear-a/words/S/SI_star516|SI_star516]]: si-SIPRU: the account/record (phonetic complement + logogram). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/S/SI_star805_MI|SI_star805_MI]]: Unread (role only): personal name; 1 occurrence(s).
 
 [[wiki/linear-a/words/S/SU|SU]]: šaḫū: pig (livestock commodity). Lexicon, PROBABLE (tier 3).
+
+[[wiki/linear-a/words/S/SUS|SUS]]: (logogram): pig (livestock logogram). Lexicon, CANDIDATE (tier 2).
+
+[[wiki/linear-a/words/S/SUS_plus_SI_plus_RE|SUS_plus_SI_plus_RE]]: Unread sign (ligature, component read); 1 occurrence(s).
 
 [[wiki/linear-a/words/S/SU_DU|SU_DU]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -176,5 +192,7 @@ updated: 2026-11-09T14:56:34Z
 [[wiki/linear-a/words/S/SU_PU2_star188|SU_PU2_star188]]: suppu buṭni: bowl of terebinth (pistachio) nuts (commodity measured in bowl-units). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/S/SU_RE|SU_RE]]: Unread (role only): personal name; 1 occurrence(s).
+
+[[wiki/linear-a/words/S/SU_plus_MI|SU_plus_MI]]: Unread sign (ligature, component read); 1 occurrence(s).
 
 ***

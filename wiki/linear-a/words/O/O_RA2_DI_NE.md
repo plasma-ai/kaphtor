@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 6a .4 O-RA₂-DI-NE 2, all four signs whole and undotted, in a list of NI after MA-\*321 10 and before KA-PA-QE 5¾ (GORILA I 13). Two elements: O-RA₂ ʾŌl 'the Foremost' &lt; \*ʾawl 'priority, supremacy', O writing ʾō &lt; \*ʾaw as in O-SU-QA-RE ʾō Sukar and RA₂ its primary value la; DI-NE dīn 'judgment' (semitic_roots S36). DULAT sets ảwl beside the name ('Cf. ảwldn', DULAT 128), and bʿldn shares its last element (DULAT 207): ʾŌl stands where ʾIl and Baʿl stand in ỉldn and bʿldn. Ebla glosses GABA.GÁL with a-wa-lum, ʔawal 'priority, supremacy', and Arabic has ʔawwal 'first' (GlOS 1, 53). Rivals: ỉldn ʾIl-dīn 'El is judge' (DULAT 52), O for ʾi; ảrdn, syll. a-ra-ad-ni (DULAT 96), RA₂ for ra. One witness.
+HT 6a .4 O-RA₂-DI-NE 2, all four signs whole and undotted, in a list of NI after MA-\*321 10 and before KA-PA-QE 5¾ (GORILA I 13). Two elements: O-RA₂ ʾŌl 'the Foremost' &lt; \*ʾawl 'priority, supremacy', O writing ʾō &lt; \*ʾaw as in O-SU-QA-RE ʾō Sōkar and RA₂ its primary value la; DI-NE dīn 'judgment' (semitic_roots S36). DULAT sets ảwl beside the name ('Cf. ảwldn', DULAT 128), and bʿldn shares its last element (DULAT 207): ʾŌl stands where ʾIl and Baʿl stand in ỉldn and bʿldn. Ebla glosses GABA.GÁL with a-wa-lum, ʔawal 'priority, supremacy', and Arabic has ʔawwal 'first' (GlOS 1, 53). Rivals: ỉldn ʾIl-dīn 'El is judge' (DULAT 52), O for ʾi; ảrdn, syll. a-ra-ad-ni (DULAT 96), RA₂ for ra. One witness.
 
 ### Cognates
 
@@ -59,7 +59,7 @@ di Mino; DULAT; Lane; GlOS 1
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT6a\|HT6a]] | Haghia Triada | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/HT/HT/HT6a\|HT6a]] | Haghia Triada | Tablet | complete |
 
 ## In translations
 

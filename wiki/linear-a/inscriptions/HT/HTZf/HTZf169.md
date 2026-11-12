@@ -27,7 +27,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Site | Haghia Triada |
-| Findspot |  |
+| Findspot | Villa, Room 7 |
 | Support | Metal object |
 | Period | LMIB |
 | Scribe |  |
@@ -46,5 +46,9 @@ Unicode (Linear A block):
 ```text
 𐝫
 ```
+
+## Corpus note
+
+Copper oxhide ingot, HM 725, 33.5 × 36 cm, 27.6 kg (Pugliese Carratelli 1945, col. 591, no. 169). One of nineteen stacked on the floor of Room 7 (Halbherr, Stefani and Banti 1977, 123). The sign is incised on the ingot.
 
 <!-- END kaphtor:record -->

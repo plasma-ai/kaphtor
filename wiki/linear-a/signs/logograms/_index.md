@@ -3,7 +3,7 @@ name: wiki/linear-a/signs/logograms
 title: Logograms
 desc: Each logogram with its gloss or commodity, its Semitic term where one is proposed, and the words written with it.
 created: 2026-10-22T18:14:10Z
-updated: 2026-11-03T03:29:48Z
+updated: 2026-11-12T00:26:03Z
 ---
 
 # Logograms
@@ -45,6 +45,8 @@ updated: 2026-11-03T03:29:48Z
 [[wiki/linear-a/signs/logograms/star131C|star131C]]: Linear A logogram *131C, speculative: vinegar.
 
 [[wiki/linear-a/signs/logograms/star188|star188]]: Linear A logogram *188, proposed: terebinth/pistachio products (resin, mastic, nuts).
+
+[[wiki/linear-a/signs/logograms/star21F|star21F]]: Linear A logogram *21F, speculative: ewe.
 
 [[wiki/linear-a/signs/logograms/star21M|star21M]]: Linear A logogram *21M, speculative: ram.
 

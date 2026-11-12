@@ -30,6 +30,7 @@ for byte at a pinned hash (see its README).
 | `semantic_gate.py` | Shoresh semantic gate: a word's context domains against a root's senses |
 | `semitic_morphology.py` | Conservative fuzzy Semitic skeleton matching via affix stripping |
 | `semitic_notation.py` | Per-source transliteration normalisers for Semitic root comparison |
+| `scribes.py` | The records under each scribe label of the corpus `scribe` and `scribe_also` fields, the part each scribe wrote, label lookup and the words a scribe's records share |
 | `semitic_root_schema.py` | Schema rules for `semitic_roots.json` |
 | `shoresh_nulls.py` | Shoresh's pre-registered nulls, copied unchanged from the validation scripts: the root key and name test, the gold guard's spelling, decoy family B and the null A consonant permutation |
 | `sign_crosswalk.py` | Resolves a sign label from any of the project's vocabularies (corpus, SigLA, SigLA crops, lineara sign boxes) to `sign-registry.json` codes, glyph first, reporting every label/glyph disagreement and never guessing |

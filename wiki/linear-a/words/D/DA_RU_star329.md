@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 7b .2 DA-RU-\*329 2, after \*21F-TU-NE 1, both over an erasure (GORILA I 15); face a lists Iruja, Tuya and Tetu. \*329 read mo: Montecchi queries A 329 = Linear B \*15 mo (Montecchi 2024, 173). DA-RU- recurs in DA-RU-NE-TE (HT 98b). Rival Arabic Dārim, Safaitic drm (Harding 1971, 239). One attestation.
+HT 7b .2 DA-RU-\*329 2, after \*21F-TU-NE 1, both over an erasure (GORILA I 15); face a lists ʾIlūya, Ḏū-Ya and Tetu. \*329 read mo: Montecchi queries A 329 = Linear B \*15 mo (Montecchi 2024, 173). DA-RU- recurs in DA-RU-NE-TE (HT 98b). Rival Arabic Dārim, Safaitic drm (Harding 1971, 239). One attestation.
 
 ### Cognates
 

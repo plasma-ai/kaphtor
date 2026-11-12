@@ -64,7 +64,7 @@ di Mino
 | [[wiki/linear-a/inscriptions/HT/HT/HT86b\|HT86b]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT95a\|HT95a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT95b\|HT95b]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT123_plus_124a\|HT123+124a]] | Haghia Triada | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/HT/HT/HT123_plus_124a\|HT123+124a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT94b\|HT94b]] | Haghia Triada | Tablet | complete |
 
 ## In translations

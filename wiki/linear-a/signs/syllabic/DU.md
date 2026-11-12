@@ -53,7 +53,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/D/DU\|DU]] | du | CONFIRMED |
 | [[wiki/linear-a/words/D/DU_star314_RE\|DU-\*314-RE]] | dubur | CANDIDATE |
 | [[wiki/linear-a/words/D/DU_DA_MA\|DU-DA-MA]] | Dūdāma | CANDIDATE |
-| [[wiki/linear-a/words/D/DU_JA\|DU-JA]] | Tuya | SPECULATIVE |
+| [[wiki/linear-a/words/D/DU_JA\|DU-JA]] | Ḏū-Ya | SPECULATIVE |
 | [[wiki/linear-a/words/D/DU_MA_I_NA\|DU-MA-I-NA]] | ḏū-maʿīna | SPECULATIVE |
 | [[wiki/linear-a/words/D/DU_ME_DI\|DU-ME-DI]] | Dūmatī | CANDIDATE |
 | [[wiki/linear-a/words/D/DU_NE_MI\|DU-NE-MI]] | ḏū-naʿmi | SPECULATIVE |

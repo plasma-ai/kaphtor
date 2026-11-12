@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/inscriptions/HS/HSZg/HSZg1
 title: "HSZg1"
-desc: "Stone object, Haghios Stephanos. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "stone-object"]
+desc: "Stone object, Haghios Stephanos. Translation: complete (CANDIDATE)."
+tags: ["linear-a", "inscription", "translation-complete", "stone-object"]
 kind: "inscription"
 id: "HSZg1"
 site: "Haghios Stephanos"
 support: "Stone object"
 period: ""
-translation: "none"
+translation: "complete"
 words: ["A-MA"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -47,6 +47,21 @@ Unicode (Linear A block):
 ```text
 𐘇𐙁
 ```
+
+## Translation
+
+**CANDIDATE**, complete.
+
+> The people.
+
+| Word | Reading | Gloss | Confidence | Lexicon |
+|---|---|---|---|---|
+| [[wiki/linear-a/words/A/A_MA\|A-MA]] | ʿamma | people, kinfolk—social/kinship term | CANDIDATE | CANDIDATE (lexicon) |
+
+### Source
+
+- di Mino: A-MA
+- GORILA: HSZg1
 
 ## Lexicon words citing this document
 

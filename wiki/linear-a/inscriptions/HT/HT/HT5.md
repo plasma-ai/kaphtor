@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "none"
-words: []
+words: ["*307"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -30,7 +30,8 @@ updated: 2026-10-24T16:17:50Z
 | Findspot | Portico 11 and Room 13 |
 | Support | Tablet |
 | Period | LMIB |
-| Scribe | HT Scribe 1 |
+| Scribe | [[wiki/linear-a/by_scribe\|HT Scribe 1]] (?) |
+| Scribe in GORILA V | 1 HT (?) |
 | Edition | GORILA 1 |
 | Series | HT |
 | SigLA | [HT 5](https://sigla.phis.me/document/HT%205/) |
@@ -57,5 +58,9 @@ Unicode (Linear A block):
 𐝫
 𐝫
 ```
+
+## Lexicon words citing this document
+
+[[wiki/linear-a/words/star/star307|\*307]].
 
 <!-- END kaphtor:record -->

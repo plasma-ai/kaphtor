@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-JA SU-MA-TU: JA is the vocative yā, as JA-DI-KI-TU /yā Diktu/ in the same formula position. Huffmon lists Amorite sumat- as an unexplained name element and reports Birot's proposal that it is a plural of sum- ‘name (&gt; posterity)’: \*šum- with \*-āt gives Šumāt. SU-MA-TU writes /šu-mā-t/, TU carrying a dead vowel after final /t/ and the long vowel unmarked. Amorite has the element in Šumat-Yaraḥ, Šumat-ʾIlī, Šumatān and Šumatānum (Gelb 1980, nos. 5581–5582, 5588–5589; Huffmon 1965, 57, 247–249, 252). GORILA V 64–65 and Davis read the next sign as OLIV, giving yā Šumāt \| OLIV 1; Metaxa-Muhly 1984 and Finkelberg 1990 read syllabic RE, which would lengthen the name. The slot names the deity addressed, and Phoenician makes 'Name' divine in Astarte-Šembaal, Ug. ʿṯtrt šm bʿl (Krahmalkov 2000, 392), and Šem-ʾIl 'Il is the Name' (468). Weak point: no held form names a deity Šumāt; the element stands only in Amorite personal names. See SI-MA.
+JA SU-MA-TU: JA is the vocative yā, as JA-DI-KI-TU /yā Diktu/ in the same formula position. Huffmon lists Amorite sumat- as an unexplained name element and reports Birot's proposal that it is a plural of sum- ‘name (&gt; posterity)’: \*šum- with \*-āt gives Šumāt. SU-MA-TU writes /šu-mā-t/, TU carrying a dead vowel after final /t/ and the long vowel unmarked. Amorite has the element in Šumat-Yaraḥ, Šumat-ʾIlī, Šumatān and Šumatānum (Gelb 1980, nos. 5581–5582, 5588–5589; Huffmon 1965, 57, 247–249, 252). GORILA V 64–65 and Davis read the next sign as OLIV, giving yā Šumāt \| OLIV 1; Metaxa-Muhly 1984 and Finkelberg 1990 read syllabic RE, which would lengthen the name; Facchetti keeps the logogram, the oil sign standing on the next line (2003, 92). The slot names the deity addressed, and Phoenician makes 'Name' divine in Astarte-Šembaal, Ug. ʿṯtrt šm bʿl (Krahmalkov 2000, 392), and Šem-ʾIl 'Il is the Name' (468). Weak point: no held form names a deity Šumāt; the element stands only in Amorite personal names. See SI-MA.
 
 ### Cognates
 
@@ -49,7 +49,7 @@ Amorite Šumat-Yaraḥ, Šumat-ʾIlī, Šumatān, and Šumatānum (Gelb 1980, AS
 
 ### Source
 
-di Mino; Birot, TEM III, p. 29, apud Huffmon 1965, p. 252; Gelb 1980
+di Mino; Birot, TEM III, p. 29, apud Huffmon 1965, p. 252; Gelb 1980; Facchetti 2003
 
 ## Attestations
 

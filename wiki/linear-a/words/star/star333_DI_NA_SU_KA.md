@@ -59,7 +59,13 @@ di Mino; DULAT; HALOT; Huehnergard 2012
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3010\|HTWc3010]] | Haghia Triada | Roundel | none |
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3010\|HTWc3010]] | Haghia Triada | Roundel | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3010\|HTWc3010]] | bīdi Našūka | In the charge of Našūka ('the Bitten one')—custody formula + personal name on a sealed receipt | SPECULATIVE |
 
 ## Onomasticon
 

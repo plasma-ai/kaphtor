@@ -60,7 +60,7 @@ di Mino; GlOS 2
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/NE/NEZa/NEZa1\|NEZa1]] | Nerokurou | Stone vessel | none |
+| [[wiki/linear-a/inscriptions/NE/NEZa/NEZa1\|NEZa1]] | Nerokurou | Stone vessel | complete |
 | [[wiki/linear-a/inscriptions/PK/PKZa/PKZa17\|PKZa17]] | Palaikastro | Stone vessel | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/PK/PKZa/PKZa18\|PKZa18]] | Palaikastro | Stone vessel | complete |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA21b\|ZA21b]] | Zakros | Tablet | none |
@@ -71,6 +71,7 @@ di Mino; GlOS 2
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
+| [[wiki/linear-a/inscriptions/NE/NEZa/NEZa1\|NEZa1]] | ʾIda | Ida, 'the Hand' (sacred mountain—toponym/theonym) | PROBABLE |
 | [[wiki/linear-a/inscriptions/PK/PKZa/PKZa18\|PKZa18]] | ʾIda | Ida, 'the Hand' (sacred mountain—toponym/theonym) | PROBABLE |
 
 ## Onomasticon
@@ -87,6 +88,6 @@ di Mino; GlOS 2
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: KI.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KI|KI]].
 
 <!-- END kaphtor:record -->

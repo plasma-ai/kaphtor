@@ -31,6 +31,7 @@ updated: 2026-10-24T16:17:50Z
 | Support | Tablet |
 | Period | LMIB |
 | Scribe |  |
+| Scribe in GORILA V | 9 HT (?) |
 | Edition | GORILA 1 |
 | Series | HT |
 | SigLA | [HT 23b](https://sigla.phis.me/document/HT%2023b/) |
@@ -76,9 +77,9 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/C/CYP\|CYP]] |  | cyperus | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/O/OLE\|OLE]] |  | oil | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/M/MI_plus_JA_plus_RU\|MI+JA+RU]] |  | composite, as HT23a | CANDIDATE | CANDIDATE (lexicon) |
-| MU |  | unread |  |  |
-| QA2+\[?\]+PU |  | composite (\*510?) |  |  |
-| QA2+\[?\]+RE |  | composite (\*508) |  |  |
+| [[wiki/linear-a/words/M/MU\|MU]] |  | unread |  |  |
+| [[wiki/linear-a/words/Q/QA2_plus_q_plus_PU\|QA2+&#91;?&#93;+PU]] |  | composite (\*510?) |  |  |
+| [[wiki/linear-a/words/Q/QA2_plus_q_plus_RE\|QA2+&#91;?&#93;+RE]] |  | composite (\*508) |  |  |
 | [[wiki/linear-a/words/E/E\|E]] |  | commodity |  | CANDIDATE (lexicon) |
 
 ### Notes

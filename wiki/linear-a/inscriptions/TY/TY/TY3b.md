@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/inscriptions/TY/TY/TY3b
 title: "TY3b"
-desc: "Tablet, Tylissos. Translation: incomplete (SPECULATIVE)."
-tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
+desc: "Tablet, Tylissos. Translation: complete (SPECULATIVE)."
+tags: ["linear-a", "inscription", "translation-complete", "tablet"]
 kind: "inscription"
 id: "TY3b"
 site: "Tylissos"
 support: "Tablet"
 period: ""
-translation: "incomplete"
+translation: "complete"
 words: ["KI-RI-SI", "OLE+KI", "OLE+MI", "OLE+NE", "PI-KU-ZU"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -64,7 +64,7 @@ Unicode (Linear A block):
 
 ## Translation
 
-**SPECULATIVE**, incomplete (status: incomplete).
+**SPECULATIVE**, complete.
 
 > Kiriš: oil-MI 6. — In flasks: oil-KI 4, oil-MI 11, oil-NE 2. — PA, oil-MI: 220 \[…\]
 
@@ -72,7 +72,7 @@ Unicode (Linear A block):
 |---|---|---|---|---|
 | [[wiki/linear-a/words/K/KI_RI_SI\|KI-RI-SI]] | Kiriš | Kiriš (divine name or theophoric short name), an oil recipient; oil-MI 6 | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/P/PI_KU_ZU\|PI-KU-ZU]] | bi-kuṯ | in flasks (heading of an oil section); oil-KI 4, oil-MI 11, oil-NE 2 | SPECULATIVE | SPECULATIVE (lexicon) |
-| PA-OLE+MI |  | PA with the oil ligature OLE+MI; 220 |  |  |
+| [[wiki/linear-a/words/P/PA_OLE_plus_MI\|PA-OLE+MI]] |  | PA with the oil ligature OLE+MI; 220 |  |  |
 
 ### Notes
 

@@ -63,7 +63,7 @@ di Mino
 | [[wiki/linear-a/inscriptions/HT/HT/HT91\|HT91]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT101\|HT101]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT116a\|HT116a]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT123_plus_124a\|HT123+124a]] | Haghia Triada | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/HT/HT/HT123_plus_124a\|HT123+124a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HTW/HTW231a\|HTW231a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA6a\|ZA6a]] | Zakros | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH3a\|ARKH3a]] | Arkhanes | Tablet | complete |

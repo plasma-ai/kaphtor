@@ -9,7 +9,7 @@ site: "Khania"
 support: "Tablet"
 period: "LMIB"
 translation: "incomplete"
-words: ["AU-RE-TE", "CYP", "PI-SA", "RE", "RI-TA-JE"]
+words: ["*21M", "AU-RE-TE", "CYP", "PI-SA", "RE", "RI-TA-JE"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -30,7 +30,7 @@ updated: 2026-10-24T16:17:50Z
 | Findspot |  |
 | Support | Tablet |
 | Period | LMIB |
-| Scribe | KH Scribe 2 |
+| Scribe | [[wiki/linear-a/by_scribe\|KH Scribe 2]] |
 | Edition | GORILA 3 |
 | Series | KH |
 | SigLA | [KH 6](https://sigla.phis.me/document/KH%206/) |
@@ -109,6 +109,6 @@ GORILA III 26–27 (KH Scribe 2): cyperus allotments of ½ (CYP+D J) to recipien
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/A/AU_RE_TE|AU-RE-TE]], [[wiki/linear-a/words/C/CYP|CYP]], [[wiki/linear-a/words/P/PI_SA|PI-SA]], [[wiki/linear-a/words/R/RE|RE]], [[wiki/linear-a/words/R/RI_TA_JE|RI-TA-JE]].
+[[wiki/linear-a/words/star/star21M|\*21M]], [[wiki/linear-a/words/A/AU_RE_TE|AU-RE-TE]], [[wiki/linear-a/words/C/CYP|CYP]], [[wiki/linear-a/words/P/PI_SA|PI-SA]], [[wiki/linear-a/words/R/RE|RE]], [[wiki/linear-a/words/R/RI_TA_JE|RI-TA-JE]].
 
 <!-- END kaphtor:record -->

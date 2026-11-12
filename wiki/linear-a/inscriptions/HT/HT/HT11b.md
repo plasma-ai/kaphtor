@@ -30,7 +30,7 @@ updated: 2026-10-24T16:17:50Z
 | Findspot | Villa Magazine |
 | Support | Tablet |
 | Period | LMIB |
-| Scribe | HT Scribe 24 |
+| Scribe | [[wiki/linear-a/by_scribe\|HT Scribe 24]] |
 | Edition | GORILA 1 |
 | Series | HT |
 | SigLA | [HT 11b](https://sigla.phis.me/document/HT%2011b/) |
@@ -40,8 +40,8 @@ updated: 2026-10-24T16:17:50Z
 
 Transliteration, line by line:
 
-1. \]DE-NU
-2. RU-RA₂
+1. \]DE-NU 𐄁
+2. RU-RA₂ 𐄁
 3. \*86 KA 40
 4. KA 30
 5. KA 50
@@ -52,8 +52,8 @@ Transliteration, line by line:
 Unicode (Linear A block):
 
 ```text
-𐝫𐘦𐘯
-𐘘𐘽
+𐝫𐘦𐘯𐄁
+𐘘𐘽𐄁
 𐙅𐘾𐄓
 𐘾𐄒
 𐘾𐄔
@@ -72,7 +72,7 @@ Unicode (Linear A block):
 |---|---|---|---|---|
 | [[wiki/linear-a/words/D/DE_NU\|DE-NU]] |  | heading (unread) |  | unread |
 | [[wiki/linear-a/words/R/RU_RA2\|RU-RA₂]] |  | sub-heading (unread) |  | unread |
-| \*86 |  | entry head before KA 40 |  |  |
+| [[wiki/linear-a/words/star/star86\|\*86]] |  | entry head before KA 40 |  |  |
 | [[wiki/linear-a/words/K/KA\|KA]] | kapp | palm-measure, bowl (unit) | CANDIDATE | CANDIDATE (lexicon) |
 | 40 | 40 | 40 | CONFIRMED |  |
 | [[wiki/linear-a/words/K/KA\|KA]] | kapp | palm-measure, bowl (unit) | CANDIDATE | CANDIDATE (lexicon) |
@@ -90,7 +90,7 @@ Unicode (Linear A block):
 
 ### Notes
 
-Five entries of KA, the first under \*86 and two with no name, summing exactly to KU-RO 180 (40+30+50+30+30). Villa Magazine, Scribe 24; companion to HT11a. DE-NU (or DE-PA₃) and RU-RA₂ head the face.
+Five entries of KA, the first under \*86 and two with no name, summing exactly to KU-RO 180 (40+30+50+30+30). Villa Magazine, Scribe 24; companion to HT11a. DE-NU (or DE-PA₃) and RU-RA₂ head the face, each followed by a divider (GORILA I 23).
 
 ## Lexicon words citing this document
 
@@ -98,6 +98,6 @@ Five entries of KA, the first under \*86 and two with no name, summing exactly t
 
 ## Corpus note
 
-Top-left corner broken before DE. The second sign of .1 is ladder-like, favouring \]DE-PA₃ (Younger) over \]DE-NU; the top of the first sign of RU-RA₂ is damaged (RU, or SA per Younger). \*86 and the logogram KA are separate signs; KA 40, 30, 50, 30, 30 = KU-RO 180 (photograph and facsimile).
+Top-left corner broken before DE. The second sign of .1 is ladder-like, favouring \]DE-PA₃ (Younger) over \]DE-NU; the top of the first sign of RU-RA₂ is damaged (RU, or SA per Younger). A divider follows each word of .1, both dotted (GORILA I 23). \*86 and the logogram KA are separate signs; KA 40, 30, 50, 30, 30 = KU-RO 180 (photograph and facsimile).
 
 <!-- END kaphtor:record -->

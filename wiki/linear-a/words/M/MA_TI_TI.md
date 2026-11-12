@@ -62,7 +62,7 @@ di Mino; Pagan 1998; Gelb 1980; Buck 2018; GlOS 2
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HTZd/HTZd155\|HTZd155]] | Haghia Triada | Graffito | incomplete; form not in transliteration |
+| [[wiki/linear-a/inscriptions/HT/HTZd/HTZd155\|HTZd155]] | Haghia Triada | Graffito | complete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HTZd/HTZd157_plus_156\|HTZd157+156]] | Haghia Triada | Graffito | incomplete; form not in transliteration |
 
 <!-- END kaphtor:record -->

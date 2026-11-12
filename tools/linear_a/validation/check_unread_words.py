@@ -85,6 +85,7 @@ def load_sign_classes(data_dir=None):
 PREFIX = re.compile(r'^\*\d+(-VS)?-')  # logogram or vessel-sign prefix
 MARK = '\U0001076B'
 DAMAGE = re.compile(r'[\[\]\?\U0001076B\U000FD1EB]')
+UNNAMED = '+[?]'  # a ligature component the transcription does not name: no damage
 NUMERIC = re.compile(r'[\d\s¹²³⁴⁵⁶⁷⁸⁹⁰⁄₀₁₂₃₄₅₆₇₈₉≈.,/]+')
 UNGLOSSED = re.compile(r'^\s*(\?+|unknown|unclear|untranslated|uncertain|—|-|n/?a)?\s*$', re.IGNORECASE)
 LABEL_ONLY = re.compile(r'unread|opaque|unresolved|^unknown|^roster entry|^recipient|^heading|^PN \(|'
@@ -111,6 +112,11 @@ def proposes(reading, word):
 
 def load(name, data_dir=None):
     return json.loads(require((data_dir or DATA) / name, name).read_text(encoding='utf-8'))
+
+
+def damaged(tok) -> bool:
+    """A bracket, a lost sign or a damage mark in the token; `+[?]`, an unnamed ligature component, is none."""
+    return bool(DAMAGE.search(tok.replace(UNNAMED, '+')))
 
 
 def syllabic_runs(tok):
@@ -144,9 +150,11 @@ def surface_damage(uni):
 
 
 def strict_lookup(entries, w):
-    """Exact, then with a logogram prefix stripped, then J/Y swapped. Subscripts are kept:
+    """Exact, then with a logogram prefix stripped, then J/Y swapped. The prefix comes off only when
+    a word of 2+ signs is left: the lexicon's DU does not read *188-DU. Subscripts are kept:
     PA₃ (AB56) is not PA (AB03), so PU₂-RA₂ never finds PU-RA₂."""
-    for q in dict.fromkeys([w, PREFIX.sub('', w)]):
+    bare = PREFIX.sub('', w)
+    for q in dict.fromkeys([w, bare if '-' in bare else w]):
         if q in entries:
             return entries[q]
         for v in _jy_variants(q):
@@ -155,16 +163,17 @@ def strict_lookup(entries, w):
     return None
 
 
-def make_lex_hit(live):
+def make_lex_hit(live, phon_star=None):
     """Lexicon lookup for a corpus word: exact / logogram prefix stripped / J-Y swap.
 
     A bare word never matches a star-prefixed entry (MI-NA is not *118-MI-NA). A query loses a
     leading *NNN- only when that sign is not a syllabogram: *815-QA-PA₃ finds QA-PA₃,
-    but *306-TU (ʿA-TU) never finds TU.
+    but *306-TU (ʿA-TU) never finds TU. `phon_star` names the starred syllabograms; without it the set
+    load_sign_classes() filled is used.
     """
     def lex_hit(w):
         m = re.match(r'(\*\d+[A-Z]?)-', w)
-        if m and m.group(1) in PHON_STAR:
+        if m and m.group(1) in (PHON_STAR if phon_star is None else phon_star):
             return live.get(w)
         return strict_lookup(live, w)
     return lex_hit
@@ -218,7 +227,7 @@ def census(data_dir=None):
             tok = raw.strip()
             if not tok or tok == 'None' or is_numeral(tok) or NUMERIC.fullmatch(tok):
                 other['numeral/punct'] += 1
-            elif DAMAGE.search(tok):
+            elif damaged(tok):
                 other['damaged'] += 1
             elif '+' in tok:
                 other['ligature/logogram'] += 1
@@ -368,7 +377,7 @@ def intact_tokens(data_dir=None):
         tw = d.get('transliteratedWords') or []
         uw = d.get('words') if len(d.get('words') or []) == len(tw) else [None] * len(tw)
         for raw, uni in zip(tw, uw):
-            if isinstance(raw, str) and not is_separator(raw) and not DAMAGE.search(raw) and not surface_damage(uni):
+            if isinstance(raw, str) and not is_separator(raw) and not damaged(raw) and not surface_damage(uni):
                 out[did].add('-'.join(parts_of(raw.strip())))
     return dict(out)
 

@@ -66,7 +66,7 @@ di Mino; HALOT; DULAT; CAD Ḫ
 | [[wiki/linear-a/inscriptions/HT/HT/HT34\|HT34]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT35\|HT35]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT91\|HT91]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/KN/KN/KN1a\|KN1a]] | Knossos | Tablet | none |
+| [[wiki/linear-a/inscriptions/KN/KN/KN1a\|KN1a]] | Knossos | Tablet | complete |
 | [[wiki/linear-a/inscriptions/KN/KN/KN1b\|KN1b]] | Knossos | Tablet | complete |
 
 ## In translations
@@ -77,6 +77,7 @@ di Mino; HALOT; DULAT; CAD Ḫ
 | [[wiki/linear-a/inscriptions/HT/HT/HT23a\|HT23a]] |  | commodity, unread | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT23b\|HT23b]] |  | commodity |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT91\|HT91]] | ḥemʾat | unidentified quantified commodity; perhaps dairy fat |  |
+| [[wiki/linear-a/inscriptions/KN/KN/KN1a\|KN1a]] | ḥemʾat | butter, ghee (ḥemʾat), a quantified commodity | CANDIDATE |
 | [[wiki/linear-a/inscriptions/KN/KN/KN1b\|KN1b]] | ḥemʾat | butter, ghee, clarified dairy fat |  |
 
 <!-- END kaphtor:record -->

@@ -48,13 +48,14 @@ HT97a; HT119; GORILA I 159, 203; Montecchi 2008, 317–18; Montecchi 2024, 172
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT97a\|HT97a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT97a\|HT97a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT119\|HT119]] | Haghia Triada | Tablet | complete |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT97a\|HT97a]] |  | personnel-class logogram, 33 | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT119\|HT119]] |  | personnel-category logogram, counted in the total |  |
 
 <!-- END kaphtor:record -->

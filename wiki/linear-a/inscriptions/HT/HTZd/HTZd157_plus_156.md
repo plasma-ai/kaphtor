@@ -30,7 +30,7 @@ updated: 2026-10-24T16:17:50Z
 | Findspot |  |
 | Support | Graffito |
 | Period | LMIB |
-| Scribe |  |
+| Scribe | [[wiki/linear-a/by_scribe\|HT Zd Scribe 112]] |
 | Edition | unattributed |
 | Series | HTZd |
 | Images |  |

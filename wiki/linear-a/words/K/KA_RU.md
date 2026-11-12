@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 97a opens KA-RU · \*307+\*307 · VIR+KA 82, then \*327 33, KA-NU-TI 25, PA-I-TO 6: the heading slot of HT 85a A-DU · \*307+\*307 · VIR+\[?\], 'pasture-sanctuary: men'. HT 75 KA-RU\[, broken after RU (GORILA I 125). karru 'pasture', Heb. kar 'pasture' (Isa 30:23; HALOT 496), the geminate written single. Rivals: Akkadian kāru 'quay, harbour, trading station' (CAD K 231), an East Semitic word, for the harbour at Kommos; and a divine name, as A-DU heads HT 85a.
+HT 97a opens KA-RU · \*307+\*307 · VIR+KA 82, then \*327 33, KA-NU-TI 25, PA-I-TO 6: the heading slot of HT 85a A-DU · \*307+\*307 · VIR+\[?\], 'pasture-sanctuary: men'. HT 75 KA-RU\[, broken after RU (GORILA I 125). karru 'pasture', Heb. kar 'pasture' (Isa 30:23; HALOT 496), the geminate written single. Rivals: Akkadian kāru 'quay, harbour, trading station' (CAD K 231), an East Semitic word, for the harbour at Kommos; and a divine name, as A-DU heads HT 85a. Pugliese Carratelli sets KA-RU beside A-KA-RU, each heading documents, as a base beside its form with prothetic a- (1957, 170 n. 1). See A-KA-RU.
 
 ### Cognates
 
@@ -51,13 +51,19 @@ HT 97a opens KA-RU · \*307+\*307 · VIR+KA 82, then \*327 33, KA-NU-TI 25, PA-I
 
 ### Source
 
-di Mino; HALOT; CAD K
+di Mino; HALOT; CAD K; Pugliese Carratelli 1957
 
 ## Attestations
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT97a\|HT97a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT97a\|HT97a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT75\|HT75]] | Haghia Triada | Tablet | none; form not in transliteration |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT97a\|HT97a]] | karru | pasture, meadow (estate heading) | SPECULATIVE |
 
 <!-- END kaphtor:record -->

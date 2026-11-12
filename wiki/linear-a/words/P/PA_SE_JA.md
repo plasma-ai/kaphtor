@@ -56,9 +56,16 @@ di Mino; Gelb, Purves, and MacRae 1943; Laroche 1980; Monti 2017
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3001\|HTWc3001]] | Haghia Triada | Roundel | none |
-| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3002\|HTWc3002]] | Haghia Triada | Roundel | none |
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3001\|HTWc3001]] | Haghia Triada | Roundel | complete |
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3002\|HTWc3002]] | Haghia Triada | Roundel | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT93a\|HT93a]] | Haghia Triada | Tablet | incomplete; form not in transliteration |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3001\|HTWc3001]] | Paššiya | Paššiya (personal name) | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3002\|HTWc3002]] | Paššiya | Paššiya (personal name) | SPECULATIVE |
 
 ## Onomasticon
 

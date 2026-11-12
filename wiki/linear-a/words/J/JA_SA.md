@@ -61,7 +61,13 @@ di Mino; Beekes 2014; Astour 1965; Gordon 1966
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/MA/MAZb/MAZb8\|MAZb8]] | Malia | Clay vessel | none |
+| [[wiki/linear-a/inscriptions/MA/MAZb/MAZb8\|MAZb8]] | Malia | Clay vessel | complete |
 | [[wiki/linear-a/inscriptions/PH/PH/PH16b\|PH16b]] | Phaistos | Lames (short thin tablet) | none |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/MA/MAZb/MAZb8\|MAZb8]] | yašar | righteous, upright (clipped form of yasaramu) | CANDIDATE |
 
 <!-- END kaphtor:record -->

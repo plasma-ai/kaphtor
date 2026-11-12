@@ -60,8 +60,15 @@ di Mino; HALOT; MTT I/1; GlOS 1; FM II
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT16\|HT16]] | Haghia Triada | Tablet | none |
-| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3015\|HTWc3015]] | Haghia Triada | Roundel | none |
-| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3016\|HTWc3016]] | Haghia Triada | Roundel | none |
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3015\|HTWc3015]] | Haghia Triada | Roundel | complete |
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3016\|HTWc3016]] | Haghia Triada | Roundel | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3015\|HTWc3015]] | kawkab | Star (place name, as Mari Kabkab) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3016\|HTWc3016]] | kawkab | Star (place name, as Mari Kabkab) | CANDIDATE |
 
 ## Onomasticon
 
