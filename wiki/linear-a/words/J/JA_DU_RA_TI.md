@@ -47,11 +47,12 @@ KN 1b JA-DU-RA-TI E 105, laid out as the recto's JA-KU-TI E 240, so both are nam
 
 | Language | Comparison |
 |---|---|
-| Amorite | JA-DWIR-AT-UM Yadwiratum (Gelb 1980, no. 3209); JA-DWIR-UM, JA-DWIR-I, JA-DWIR-AN (nos. 3210–3214); Ya-du-ra-an, Ya-du-ri-im (Huffmon 1965, 38); element jadūr, B stem of DWR 'to turn around, to dwell' (Gelb glossary) |
+| Amorite | JA-DWIR-AT-UM Yadwiratum (Gelb 1980, no. 3209); JA-DWIR-UM, JA-DWIR-I, JA-DWIR-AN (nos. 3210–3214); Ya-du-ra-an, Ya-du-ri-im (Huffmon 1965, 38); ia-du-rum Yadurum, Sippar (CT 6 43:27–28; de Boer 2014, 287); element jadūr, B stem of DWR 'to turn around, to dwell' (Gelb glossary) |
+| Eblaite | da-wa-lum, du-lum /d-w-r/ 'to turn (constantly / habitually) around, to dwell, endure' (GlOS 1, 153) |
 
 ### Source
 
-di Mino; Fischer 2002; Gelb 1980; Huffmon 1965
+di Mino; Fischer 2002; Gelb 1980; Huffmon 1965; de Boer 2014
 
 ## Attestations
 

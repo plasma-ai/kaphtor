@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/š
 desc: "Semitic roots whose first radical is š."
 created: 2026-10-22T17:38:31Z
-updated: 2026-11-10T05:11:30Z
+updated: 2026-11-16T17:25:52Z
 ---
 
 # wiki/semitic-roots/š
@@ -19,7 +19,7 @@ updated: 2026-11-10T05:11:30Z
 
 [[wiki/semitic-roots/š/1136_climb|1136_climb]]: Proto-Semitic *šVʾVw-, 'climb': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/š/1140_be_high_rise|1140_be_high_rise]]: Proto-Semitic *šVmVw-, 'be high, rise': reflexes in 1 language(s).
+[[wiki/semitic-roots/š/1140_be_high_rise|1140_be_high_rise]]: Proto-Semitic *šVmVw-, 'be high, rise': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/š/1160_market|1160_market]]: Proto-Semitic *šūḳ-, 'market': reflexes in 7 language(s).
 
@@ -495,7 +495,7 @@ updated: 2026-11-10T05:11:30Z
 
 [[wiki/semitic-roots/š/K0521_cut|K0521_cut]]: Proto-Semitic *šVlVt-, 'cut': reflexes in 6 language(s).
 
-[[wiki/semitic-roots/š/K0524_guard|K0524_guard]]: Proto-Semitic *šVmVr-, 'guard': reflexes in 7 language(s).
+[[wiki/semitic-roots/š/K0524_guard|K0524_guard]]: Proto-Semitic *šVmVr-, 'guard': reflexes in 8 language(s).
 
 [[wiki/semitic-roots/š/K0525_serve|K0525_serve]]: Proto-Semitic *šVmVš-, 'serve': reflexes in 4 language(s).
 

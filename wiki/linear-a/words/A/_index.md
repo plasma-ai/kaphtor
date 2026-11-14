@@ -2,18 +2,18 @@
 name: wiki/linear-a/words/A
 desc: "Words whose first sign begins with A."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-12T01:31:30Z
+updated: 2026-11-17T16:49:30Z
 ---
 
 # wiki/linear-a/words/A
 
 [[wiki/linear-a/words/_index|..]]
 
-[[wiki/linear-a/words/A/A|A]]: Unread sign (syllabogram, unread); 18 occurrence(s).
+[[wiki/linear-a/words/A/A|A]]: Unread sign (syllabogram, unread); 17 occurrence(s).
 
 [[wiki/linear-a/words/A/AU|AU]]: Unread sign (syllabogram, value on file); 2 occurrence(s).
 
-[[wiki/linear-a/words/A/AU_RE_TE|AU_RE_TE]]: ʾawrēt: luminous one (feminine). Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/A/AU_RE_TE|AU_RE_TE]]: ʾawrēt: luminous one (feminine). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/A/A_DA|A_DA]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -27,7 +27,7 @@ updated: 2026-11-12T01:31:30Z
 
 [[wiki/linear-a/words/A/A_DE|A_DE]]: ʾAddē: Father (hypocoristic personal name, ʾAdday); rival the kin title ʾad 'father'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/A/A_DI|A_DI]]: ʿadi: until, as far as (preposition). Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/A/A_DI|A_DI]]: ʿadi: unto, as far as (preposition); rival 'until'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/A/A_DI_KI_TE_TE|A_DI_KI_TE_TE]]: ʾa-Diqqitīt: O Diktaean (f.), the feminine nisbe of Dikte. Lexicon, PROBABLE (tier 3).
 
@@ -35,7 +35,9 @@ updated: 2026-11-12T01:31:30Z
 
 [[wiki/linear-a/words/A/A_DI_NE|A_DI_NE]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/A/A_DU|A_DU]]: ʾAddu / adû: Addu/Haddu (heading); rival adû 'work stint'. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/A/A_DU|A_DU]]: adû: work assignment; the ration allotted to it (heading of personnel and ration lists). Lexicon, CANDIDATE (tier 2).
+
+[[wiki/linear-a/words/A/A_DU_HT92_HT133|A_DU_HT92_HT133]]: ʾAddu: Addu (Haddu), the storm god, as recipient of a contribution. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/A/A_DU_KO_MI_broken_end|A_DU_KO_MI_broken_end]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -47,9 +49,11 @@ updated: 2026-11-12T01:31:30Z
 
 [[wiki/linear-a/words/A/A_DU_ZA|A_DU_ZA]]: ʾAddu-ʿazz: ʾAddu-ʿazz (personal name), 'Addu is strong'; rival Hadas 'Myrtle'. Lexicon, SPECULATIVE (tier 1).
 
+[[wiki/linear-a/words/A/A_DU_broken_end|A_DU_broken_end]]: Unread (unread): no role; 1 occurrence(s).
+
 [[wiki/linear-a/words/A/A_DU_q_ZA|A_DU_q_ZA]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/A/A_DU_star307_plus_star307|A_DU_star307_plus_star307]]: Addu dubur-dubur: Addu's sanctuary (Storm God + doubled sanctuary sign). Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/A/A_DU_star307_plus_star307|A_DU_star307_plus_star307]]: adû dubur-dubur: work assignment of the sanctuaries (the sanctuary sign doubled as a plural), heading a personnel register. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/A/A_I|A_I]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -87,7 +91,7 @@ updated: 2026-11-12T01:31:30Z
 
 [[wiki/linear-a/words/A/A_MA|A_MA]]: ʿamma: people, kinfolk—social/kinship term. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/A/A_MA_JA|A_MA_JA]]: ʿAmmaya: (Little) kinsman (personal name, hypocoristic); rival ʾAmaya 'maidservant'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/A/A_MA_JA|A_MA_JA]]: ʿAmmaya: (Little) kinsman (personal name, hypocoristic); rival ʾAmaya 'maidservant'. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/A/A_MA_RA_NE_broken_end|A_MA_RA_NE_broken_end]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -145,7 +149,7 @@ updated: 2026-11-12T01:31:30Z
 
 [[wiki/linear-a/words/A/A_RA_TU_ME|A_RA_TU_ME]]: ʾarṣ̂atum: earth (feminine noun with mimation—cf. Akk. erṣetum). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/A/A_RA_U_DA|A_RA_U_DA]]: ʾArwada: Arwad (island city of the Phoenician coast), an entity in a transfer. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/A/A_RA_U_DA|A_RA_U_DA]]: ʾArwada: Arwad (island city of the Phoenician coast), the home of the man named before it; rival a personal name, Ugaritic ảrwd(n). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/A/A_RA_broken_end|A_RA_broken_end]]: Unread (role only): personal name; 2 occurrence(s).
 
@@ -161,7 +165,7 @@ updated: 2026-11-12T01:31:30Z
 
 [[wiki/linear-a/words/A/A_RE_PI_RE_NA|A_RE_PI_RE_NA]]: ʾa-repiʾ-rennā: Healer of Jubilation (Eshmun epithet). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/A/A_RE_SA_NA|A_RE_SA_NA]]: ʾAriš-ān: 'The Requested One'—votive birth-name from √ʾ-r-š "to request, desire" + hypocoristic -ān; the child asked of the goddess, the name a receipt. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/A/A_RE_SA_NA|A_RE_SA_NA]]: ʾAriš-ān: 'The Requested One', personal name from √ʾ-r-š 'to request, desire' with -ān; rival Ḥarišān 'craftsman'. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/A/A_RE_TU_MI|A_RE_TU_MI]]: ʾarṣ̂-ummī: Earth is my mother (NWS theophoric compound PN; pre-Greek Artemis). Lexicon, CANDIDATE (tier 2).
 
@@ -229,6 +233,8 @@ updated: 2026-11-12T01:31:30Z
 
 [[wiki/linear-a/words/A/A_TA_DE|A_TA_DE]]: ʾaʿtid(u): I make ready (1cs prefix form). Lexicon, SPECULATIVE (tier 1).
 
+[[wiki/linear-a/words/A/A_TA_I_star301_DE_KA|A_TA_I_star301_DE_KA]]: ʾataʿinā dēka: I humble myself for you (1cs t-stem of √ʿ-n-w, with dē + 2ms -ka). Lexicon, CANDIDATE (tier 2).
+
 [[wiki/linear-a/words/A/A_TA_I_star301_WA_E|A_TA_I_star301_WA_E]]: ʾatainawē: I make myself a dwelling (1cs tG-stem middle-reflexive denominative of √NWY, Palaikastro spelling). Lexicon, CONFIRMED (tier 4).
 
 [[wiki/linear-a/words/A/A_TA_I_star301_WA_JA|A_TA_I_star301_WA_JA]]: ʾatainawaya: I make myself a dwelling (1cs tG-stem middle-reflexive denominative of √NWY). Lexicon, CONFIRMED (tier 4).
@@ -239,7 +245,7 @@ updated: 2026-11-12T01:31:30Z
 
 [[wiki/linear-a/words/A/A_TA_NA_q_broken_end|A_TA_NA_q_broken_end]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/A/A_TA_RE|A_TA_RE]]: Hathar: Hathor (Egyptian goddess). Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/A/A_TA_RE|A_TA_RE]]: ʿAṯtar: ʿAṯtar (the god), receiving figs; rival Hathor. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/A/A_TA_star350|A_TA_star350]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -267,6 +273,6 @@ updated: 2026-11-12T01:31:30Z
 
 [[wiki/linear-a/words/A/A_star301_KI_TA_A|A_star301_KI_TA_A]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/A/A_star325_ZA|A_star325_ZA]]: ʾabūs(a): the stall, storehouse. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/A/A_star325_ZA|A_star325_ZA]]: ʾabūs(a): the stall, storehouse; rival the same word as a place name. Lexicon, CANDIDATE (tier 2).
 
 ***

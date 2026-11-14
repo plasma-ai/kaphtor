@@ -3,14 +3,12 @@ name: wiki/names/egyptian/names
 title: "Egyptian names"
 desc: "The Egyptian names, one page each."
 created: 2026-11-11T23:39:03Z
-updated: 2026-11-11T23:49:15Z
+updated: 2026-11-16T19:24:13Z
 ---
 
 # Egyptian names
 
 [[wiki/names/egyptian/_index|..]]
-
-[[wiki/names/egyptian/names/A_TA_RE|A_TA_RE]]: Hathar: Hathor (Egyptian goddess). Egyptian, SPECULATIVE.
 
 [[wiki/names/egyptian/names/DI_DI_KA_SE|DI_DI_KA_SE]]: Djed-ka(.s): personal name, 'Her Ka endures' (Egyptian). Egyptian, SPECULATIVE.
 
@@ -19,8 +17,6 @@ updated: 2026-11-11T23:49:15Z
 [[wiki/names/egyptian/names/I_KU_TA|I_KU_TA]]: Ḥikuptaḥ: place name: Memphis, the seat of Kothar (Ug. Ḥkpt), a recipient of cyperus; rival 'the Memphite'. Egyptian, SPECULATIVE.
 
 [[wiki/names/egyptian/names/JA_MI_DA_RE|JA_MI_DA_RE]]: Yamidare: He-from-the-hand-of-Re (Egyptian theophoric). Egyptian, SPECULATIVE.
-
-[[wiki/names/egyptian/names/KA_star314_SI|KA_star314_SI]]: Kaḥas: personal name; Egyptian kꜣḥs, a name under Senusret III; rival kabsi 'young ram'. Egyptian, SPECULATIVE.
 
 [[wiki/names/egyptian/names/O_SU_QA_RE|O_SU_QA_RE]]: ʾō Sōkar: O Sokar (Egyptian Skr 𓊃𓎡𓂋𓅆). Egyptian, CANDIDATE.
 

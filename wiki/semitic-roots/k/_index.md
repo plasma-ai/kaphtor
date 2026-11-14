@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/k
 desc: "Semitic roots whose first radical is k."
 created: 2026-10-22T17:38:31Z
-updated: 2026-11-10T05:11:30Z
+updated: 2026-11-16T17:25:52Z
 ---
 
 # wiki/semitic-roots/k
@@ -115,7 +115,7 @@ updated: 2026-11-10T05:11:30Z
 
 [[wiki/semitic-roots/k/1950_knee_with_a_shin_leg_elbow|1950_knee_with_a_shin_leg_elbow]]: Proto-Semitic *kʷir(n)āʕ-, 'knee with a shin; leg; elbow': reflexes in 18 language(s).
 
-[[wiki/semitic-roots/k/2076_to_suffer_pain|2076_to_suffer_pain]]: Proto-Semitic *kʾb, 'to suffer pain': reflexes in 7 language(s).
+[[wiki/semitic-roots/k/2076_to_suffer_pain|2076_to_suffer_pain]]: Proto-Semitic *kʾb, 'to suffer pain': reflexes in 8 language(s).
 
 [[wiki/semitic-roots/k/215_blind|215_blind]]: Proto-Semitic *kVpp-, 'blind': reflexes in 1 language(s).
 
@@ -175,7 +175,7 @@ updated: 2026-11-10T05:11:30Z
 
 [[wiki/semitic-roots/k/2515_vine|2515_vine]]: Proto-Semitic *karan-, 'vine': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/k/2548_star|2548_star]]: Proto-Semitic *kabkab-, 'star': reflexes in 24 language(s).
+[[wiki/semitic-roots/k/2548_star|2548_star]]: Proto-Semitic *kabkab-, 'star': reflexes in 25 language(s).
 
 [[wiki/semitic-roots/k/2552_tooth_thorn|2552_tooth_thorn]]: Proto-Semitic *kVkk-, 'tooth, thorn': reflexes in 3 language(s).
 
@@ -183,7 +183,7 @@ updated: 2026-11-10T05:11:30Z
 
 [[wiki/semitic-roots/k/2579_antimony|2579_antimony]]: Proto-Semitic *kʷaḥl-, 'antimony': reflexes in 11 language(s).
 
-[[wiki/semitic-roots/k/2626_be_able|2626_be_able]]: Proto-Semitic *khl, 'be able': reflexes in 15 language(s).
+[[wiki/semitic-roots/k/2626_be_able|2626_be_able]]: Proto-Semitic *khl, 'be able': reflexes in 16 language(s).
 
 [[wiki/semitic-roots/k/2644_to_be_round|2644_to_be_round]]: Proto-Semitic *kVbb-, kbkb, '(to be) round': reflexes in 8 language(s).
 
@@ -211,7 +211,7 @@ updated: 2026-11-10T05:11:30Z
 
 [[wiki/semitic-roots/k/2787_belly_stomach_uterus|2787_belly_stomach_uterus]]: Proto-Semitic *kar(i)ś-, 'belly, stomach, uterus': reflexes in 21 language(s).
 
-[[wiki/semitic-roots/k/2813_subdue|2813_subdue]]: Proto-Semitic *kVnVʿ-, 'subdue': reflexes in 3 language(s).
+[[wiki/semitic-roots/k/2813_subdue|2813_subdue]]: Proto-Semitic *kVnVʿ-, 'subdue': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/k/2814_wall|2814_wall]]: Proto-Semitic *kVtVl-, 'wall': reflexes in 4 language(s).
 

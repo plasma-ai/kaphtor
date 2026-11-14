@@ -32,11 +32,11 @@ updated: 2026-11-11T23:39:03Z
 | Reading's standing | SPECULATIVE |
 | Standing as a personal name | SPECULATIVE |
 | Standing of the layer | SPECULATIVE (lexicon_reading) |
-| Source | di Mino |
+| Source | di Mino; Gelb 1980; DULAT; Kinlaw 1967; Huehnergard 2012 |
 
 ## Note
 
-HT 87: JA-RE-MI 1 in a roster of men under \*21F-TU-NE · MA-KA-RI-TE. Yarīm, the yaqtul of √r-w-m, a hypocoristic of the Amorite Yarim-DN names (Gelb 1980, nos. 3432–3442: Yarim-Lim, Yarim-Addu); Ugarit has the bare name, yrm, ia-ri-mi (DULAT 965); cf. Heb. Yirmᵉyāhû. RE writes ri, as KI-RE-TA₂ beside KI-RI-TA₂. Rival: √y-r-ḫ 'moon', the god Yariḫ (Huehnergard 2012, 42, 87). One attestation. See RU-MA-TA.
+HT 87: JA-RE-MI 1 in a roster of men under \*21F-TU-NE · MA-KA-RI-TE. Yarīm, the yaqtul of √r-w-m, a hypocoristic of the Amorite Yarim-DN names (Gelb 1980, nos. 3432–3442: Yarim-Lim, Yarim-Addu); Ugarit has the bare name, yrm, ia-ri-mi (DULAT 965), Kinlaw's Yarimmu, eight bearers, a charioteer of Ari among them (Kinlaw 1967, 132); cf. Heb. Yirmᵉyāhû. RE writes ri, as KI-RE-TA₂ beside KI-RI-TA₂. Rival: √y-r-ḫ 'moon', the god Yariḫ (Huehnergard 2012, 42, 87). One attestation. See RU-MA-TA.
 
 ## As a name
 
@@ -48,7 +48,7 @@ Reading from the lexicon (di Mino). Amorite Yarim-DN names (Gelb AS 21 nos. 3432
 |---|---|
 | Amorite | JA-RWIM names, IA-RI-IM-LI-IM Yarim-Lim, IA-RI-IM-D-IM (Gelb 1980, nos. 3432–3442) |
 | Hebrew | Yirmᵉyāhû (HALOT 440); rwm 'to be high' (HALOT 1202) |
-| Ugaritic | yrm PN, syll. ia-ri-mu/mi, gen. ia-ri-mi (PRU 3 66 \[RS 16.252\]:12; DULAT 965) |
+| Ugaritic | yrm PN, Sem. etymology uncertain, syll. ia-ri-mu/mi, gen. ia-ri-mi (PRU 3 66 \[RS 16.252\]:12; DULAT 965); Yarimmu, ya-ri-mi, eight bearers (Kinlaw 1967, 132) |
 
 ## Attestations
 

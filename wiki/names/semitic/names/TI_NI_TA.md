@@ -27,7 +27,7 @@ updated: 2026-11-11T23:39:03Z
 | Reading | Tinit |
 | Meaning | Tinit (goddess, = Phoenician Tanit) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
-| Root | [[wiki/names/semitic/roots/t-n-t\|t-n-t]] |
+| Root | [[wiki/names/semitic/roots/t-n-n\|t-n-n]] |
 | Proto-Semitic | \*tinnīt- (#2967) |
 | Reading's standing | CONFIRMED |
 | Standing as a divine name | CONFIRMED |

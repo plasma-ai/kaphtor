@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ʿ
 desc: "Semitic roots whose first radical is ʿ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-11-10T05:11:30Z
+updated: 2026-11-16T17:25:52Z
 ---
 
 # wiki/semitic-roots/ʿ
@@ -75,7 +75,7 @@ updated: 2026-11-10T05:11:30Z
 
 [[wiki/semitic-roots/ʿ/1823_goat|1823_goat]]: Proto-Semitic *ʕVnz- {} *ʕVnʒ-, 'goat': reflexes in 21 language(s).
 
-[[wiki/semitic-roots/ʿ/1824_calf|1824_calf]]: Proto-Semitic *ʕigl-, 'calf': reflexes in 15 language(s).
+[[wiki/semitic-roots/ʿ/1824_calf|1824_calf]]: Proto-Semitic *ʕigl-, 'calf': reflexes in 16 language(s).
 
 [[wiki/semitic-roots/ʿ/1825_kid|1825_kid]]: Proto-Semitic *ʕayp-, *pa(y)ʕ-, 'kid': reflexes in 3 language(s).
 
@@ -291,7 +291,7 @@ updated: 2026-11-10T05:11:30Z
 
 [[wiki/semitic-roots/ʿ/3523_dwelling_lair|3523_dwelling_lair]]: Proto-Semitic *ʕwn, 'dwelling, lair': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/ʿ/3536_to_be_thick_1_harm_evil_2|3536_to_be_thick_1_harm_evil_2]]: Proto-Semitic *ʕgr, 'to be thick' 1, 'harm, evil' 2: reflexes in 3 language(s).
+[[wiki/semitic-roots/ʿ/3536_to_be_thick_1_harm_evil_2|3536_to_be_thick_1_harm_evil_2]]: Proto-Semitic *ʕgr, 'to be thick' 1, 'harm, evil' 2: reflexes in 4 language(s).
 
 [[wiki/semitic-roots/ʿ/3537_battle_line_battle|3537_battle_line_battle]]: Proto-Semitic *ʕrk, 'battle line, battle': reflexes in 3 language(s).
 
@@ -493,7 +493,7 @@ updated: 2026-11-10T05:11:30Z
 
 [[wiki/semitic-roots/ʿ/K0630_still_q|K0630_still_q]]: Proto-Semitic *ʿVgVn-, 'still?': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/ʿ/K0634_swell_rejoice_exult|K0634_swell_rejoice_exult]]: Proto-Semitic *ʿVlVṣ-, 'swell; rejoice, exult': reflexes in 5 language(s).
+[[wiki/semitic-roots/ʿ/K0634_swell_rejoice_exult|K0634_swell_rejoice_exult]]: Proto-Semitic *ʿVlVṣ-, 'swell; rejoice, exult': reflexes in 6 language(s).
 
 [[wiki/semitic-roots/ʿ/K0637_work_labour_earn|K0637_work_labour_earn]]: Proto-Semitic *ʿVmVl-, 'work, labour; earn': reflexes in 8 language(s).
 

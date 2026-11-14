@@ -59,7 +59,13 @@ di Mino; CAD K
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT21\|HT21]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT21\|HT21]] | Haghia Triada | Tablet | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT21\|HT21]] | Bīt-kissē | House of the Throne, the crown estate (institution heading) | SPECULATIVE |
 
 ## Onomasticon
 

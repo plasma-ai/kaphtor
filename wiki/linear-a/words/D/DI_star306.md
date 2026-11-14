@@ -48,10 +48,12 @@ HT Wc 3017, a roundel, face a QA-KU-RE · DI-\*306 ·, face b CYP+D · \*304+PA,
 | Language | Comparison |
 |---|---|
 | Amorite | daʿum, diʿ(atān)um, fem. daʿatum, diʿatum 'knowledge' (Gelb 1980, 17); DAʿ-UM, DA-UM (no. 1491); DIʿ-ATAN-UM, DI-ḪA-TA-NU-U\[M\] (no. 1507) |
+| Eblaite | da-hu daʿu 'knowledge', a personal name (Pagan 1998, row 1430) |
+| Phoenician | ydʿ 'know, understand' (Krahmalkov 206) |
 
 ### Source
 
-di Mino; Gelb 1980
+di Mino; Gelb 1980; Pagan 1998
 
 ## Attestations
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/T/TI
 title: "TI"
-desc: "tiʾin: figs (logographic abbreviation of TI-NI). Lexicon, CANDIDATE (tier 2)."
+desc: "tiʾin: figs (logographic abbreviation of tiʾin). Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "abbreviation", "commodity", "foodstuff", "logogram"]
 kind: "word"
 form: "TI"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | tiʾin |
-| Meaning | figs (logographic abbreviation of TI-NI) |
+| Meaning | figs (logographic abbreviation of tiʾin) |
 | Root | t-ʔ-n |
 | Proto-Semitic | \*tiʾin- (#2324) |
 | Language layer | Semitic |
@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-A sign of two functions: the syllabogram ti (AB 04), and, standalone with quantities, the fig logogram, the abbreviation of TI-NI. Eleven standalone occurrences at six sites, most followed by numerals, with quantities from ¼ to 100. Pan-Semitic \*tiʔin- 'fig', one of the seven species of Deut 8:8. Weak points: NI is the confirmed fig logogram, and TI never shares a tablet with it: TI stands alone at Malia, Palaikastro and Pyrgos, NI alone at Khania and Knossos; on HT 119, TI 7 stands among names inside a personnel total (KU-RO 160 with VIR 68). See TE-\*301.
+A sign of two functions: the syllabogram ti (AB 37), and, standalone with quantities, the fig logogram, the onset of tiʾin. Eleven standalone occurrences at six sites, most followed by numerals, with quantities from ¼ to 100. Pan-Semitic \*tiʔin- 'fig', one of the seven species of Deut 8:8. Weak points: NI is the confirmed fig logogram, and TI never shares a tablet with it: TI stands alone at Malia, Palaikastro and Pyrgos, NI alone at Khania and Knossos; no spelled-out TI-NI survives (HT 51a .2 TI-NI\[ is broken after NI); on HT 119, TI 7 stands among names inside a personnel total (KU-RO 160 with VIR 68). See TE-\*301.
 
 ### Cognates
 
@@ -77,6 +77,6 @@ di Mino
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT119\|HT119]] |  | personnel-category logogram; not figs here |  |
-| [[wiki/linear-a/inscriptions/PYR/PYRWc/PYRWc4\|PYRWc4]] | tiʾin | figs (logographic abbreviation of TI-NI) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/PYR/PYRWc/PYRWc4\|PYRWc4]] | tiʾin | figs (logographic abbreviation of tiʾin) | CANDIDATE |
 
 <!-- END kaphtor:record -->

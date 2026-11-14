@@ -25,7 +25,7 @@ updated: 2026-11-12T00:26:03Z
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/GO/GO/GO2r\|GO2r]] | Gournia | Tablet | none |
+| [[wiki/linear-a/inscriptions/GO/GO/GO2r\|GO2r]] | Gournia | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/GO/GO/GO2v\|GO2v]] | Gournia | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT3\|HT3]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1031\|HTWa1031]] | Haghia Triada | Nodule | none |

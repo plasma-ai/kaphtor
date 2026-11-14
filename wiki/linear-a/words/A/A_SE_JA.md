@@ -47,8 +47,9 @@ HT 115a .4 A-SE-JA with four fraction signs, whole and undotted, among the names
 
 | Language | Comparison |
 |---|---|
-| Akkadian | asû 'physician'; ì-lí-a-si-ia 'my god is my physician' (GlOS 1, 47) |
+| Akkadian | asû 'physician' (CAD A/2 344) |
 | Aramaic | ʾsy 'physician' (DNWSI 88) |
+| Amorite | ʔāSiy 'physician': the name ì-lí-a-si-ia 'my god is my physician' (GlOS 1, 47) |
 
 ### Source
 

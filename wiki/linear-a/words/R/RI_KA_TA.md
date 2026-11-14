@@ -39,7 +39,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 146 .4 RI-KA-TA 30, the last of four entries of 30 (\]QE\[ 30, RI-\*305 30, MA 30); RI word-initial, TA dotted (GORILA I 241). The Kom el-Hetan list of Amenhotep III (statue base C, no. 9) writes Ri-ka-ta beside the names read as Amnisos and Knossos; Astour takes it as 'most probably identical with the Cretan Lyktos' and explains Likata as a status absolutus beside LB ru-ki-to (Astour 1966, AJA 70, 317). r/l merger; the three vowels match the Egyptian form, not LB ru-ki-to. Lyktos lies far from Haghia Triada. Rests on the dotted TA. One attestation.
+HT 146 .4 RI-KA-TA 30, the last of four entries of 30 (\]QE\[ 30, RI-\*305 30, MA 30); RI word-initial, TA dotted (GORILA I 241). The Kom el-Hetan list of Amenhotep III (statue base C, no. 9, as Astour numbers it; Base EN, no. 12, in Davis 2026b, 81) writes Ri-ka-ta beside the names read as Amnisos and Knossos; Astour takes it as 'most probably identical with the Cretan Lyktos' and explains Likata as a status absolutus beside LB ru-ki-to (Astour 1966, AJA 70, 317). r/l merger; the three vowels match the Egyptian form, not LB ru-ki-to. Lyktos lies far from Haghia Triada. Rests on the dotted TA. One attestation.
 
 ### Cognates
 

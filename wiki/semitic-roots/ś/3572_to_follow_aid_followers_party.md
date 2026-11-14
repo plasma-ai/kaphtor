@@ -31,7 +31,7 @@ updated: 2026-10-26T14:26:59Z
 |---|---|---|---|
 | Arabic | mušāyaʿat 'the following another, conforming with him'; šīʿat 'a separate, distinct party, sect'; šāʿat 'a wife' (Lane 1632) | Lane 1632 |  |
 | Epigraphic South Arabian | Sab s2wʿ; s2wʿ; s2ʿt (Biella 513); s2wʿ (SD 135–136); s2ʿt; s2ʿt (SD 136); s2ʿy (Biella 521) | Biella 513; SD 135–136; SD 136; Biella 521 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic śʿ; śʿt; śʿ; śyʿ (D); Dadanitic śʿt; Dhofari śʿ (Al-Jallad 2026, 144) | Al-Jallad 2026 144 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic śʿ; śʿt; śʿ; śyʿ (D); Dadanitic śʿt; Dhofari śʿ (Al-Jallad 2026, 144); Safaitic śʿhqm, śʿʾqm, śʿqm, śʿy, śʿhqwm, śhqm, the god Shayʿ-Haqqawm (Al-Jallad 2026, 187); śʿnʿr (a deity) (Al-Jallad 2026, 187); Taymanitic śyʿ (Al-Jallad 2026b, 58) | Al-Jallad 2026 144; Al-Jallad 2026 187; Al-Jallad 2026b 58 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

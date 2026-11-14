@@ -48,6 +48,8 @@ HT 127a .2 DU-NE-MI 1̣\[, all three signs whole and undotted at the head of the
 | Language | Comparison |
 |---|---|
 | Amorite | NAʿM-I, NA-AḪ-MI, genitive, Mari (Gelb no. 4893); NA-AḪ-ME-ᵈDA-GAN (no. 4892); NA-MI-ᵈDA-GAN, Alalakh (no. 4999) (Gelb AS 21, 627–628) |
+| Taymanitic | nʿm, a personal name, 'Pleasant, delightful; favor' (Al-Jallad 2026b, 49) |
+| Phoenician | NʿMʾL Neʿem-ʾil 'God is good' (Krahmalkov 2000, 331), one of the NʿM names (Benz 1972, 362) |
 
 ### Source
 

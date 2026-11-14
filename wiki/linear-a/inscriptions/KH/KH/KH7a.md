@@ -85,16 +85,16 @@ Unicode (Linear A block):
 | CYP+D |  | cyperus, with the fraction sign D, 1\[ | PROBABLE |  |
 | CYP+E |  | cyperus, with the fraction sign E, 1⁄16 | PROBABLE |  |
 | [[wiki/linear-a/words/E/E_NA_SI\|E-NA-SI]] | ʾenāš | men, people (section heading); rival copper | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/V/VIR_plus_star313b\|VIR+\*313b]] |  | men of the \*313b class, 10 | CONFIRMED |  |
+| VIR+\*313b |  | men of the \*313b class, 10 | CONFIRMED |  |
 | CYP+D |  | cyperus, with the fraction sign D, ½ | PROBABLE |  |
 | [[wiki/linear-a/words/I/I_JA_PA_ME\|I-JA-PA-ME]] | yabame | brother-in-law (of Tatta) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/T/TA_TA\|TA-TA]] | Tatta | Hurrian personal name; rival the Anatolian name Tata | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/Q/QA_TI_KI\|QA-TI-KI]] | Kattike | Hurrian personal name, on kad- 'to say'; rival katki 'utterance' | SPECULATIVE | SPECULATIVE (lexicon) |
-| [[wiki/linear-a/words/V/VIR_plus_star313b\|VIR+\*313b]] |  | men of the \*313b class, 4 | CONFIRMED |  |
+| VIR+\*313b |  | men of the \*313b class, 4 | CONFIRMED |  |
 | CYP+D |  | cyperus, with the fraction sign D, ⅓ | PROBABLE |  |
 | [[wiki/linear-a/words/S/SE_star305\|SE-\*305]] | ṣēdā | provisions (section heading) | SPECULATIVE | SPECULATIVE (lexicon) |
 | KU-\[?\]-KO-E |  | broken word |  |  |
-| [[wiki/linear-a/words/V/VIR_plus_star313b\|VIR+\*313b]] |  | men of the \*313b class, \[ \]18 | CONFIRMED |  |
+| VIR+\*313b |  | men of the \*313b class, \[ \]18 | CONFIRMED |  |
 | CYP+D |  | cyperus, with the fraction sign D, 1 | PROBABLE |  |
 
 ### Notes

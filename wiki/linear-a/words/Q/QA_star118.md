@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/words/Q/QA_star118
 title: "QA-*118"
-desc: "qaṭṭ(u): flax, linseed—field-crop commodity. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "agriculture", "commodity", "hapax", "noun", "textile"]
+desc: "qaṭṭ(u): flax, linseed—field-crop commodity; rival the place Qṭ. Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "agriculture", "commodity", "hapax", "noun", "textile"]
 kind: "word"
 form: "QA-*118"
 datasets: ["lexicon"]
-tier: 2
-confidence: "CANDIDATE"
-confidence_score: 0.45
+tier: 1
+confidence: "SPECULATIVE"
+confidence_score: 0.3
 reading: "qaṭṭ(u)"
 attestations: ["KH10"]
 created: 2026-10-24T16:17:50Z
@@ -27,12 +27,12 @@ updated: 2026-10-24T16:17:50Z
 
 ## Lexicon
 
-**CANDIDATE**, tier 2 of 4, score 0.45
+**SPECULATIVE**, tier 1 of 4, score 0.30
 
 | Field | Value |
 |---|---|
 | Reading | qaṭṭ(u) |
-| Meaning | flax, linseed—field-crop commodity |
+| Meaning | flax, linseed—field-crop commodity; rival the place Qṭ |
 | Root | q-ṭ |
 | Proto-Semitic | \*ḳVṭ(Vw)- (#3781) |
 | Language layer | Semitic |
@@ -41,21 +41,19 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-KH 10, a Khania grain ledger (GRA 10 … A-KI-PI-E-TE GRA 90): flax beside grain, as in Ugaritic field-crop records. Ug. qṭ (I) 'flax', n. m. (DULAT 708), four times in KTU: the hippiatric prescriptions 1.71, 1.72 and 1.85 (št bln qṭ, linseed ground with mixed fodder) and 4.166:4, ḫmš mỉṣpt qṭ 'five m. of flax' in an administrative list; ḥwt qṭ (2.36:17) is a place name, qṭ (II). The Wanderwort \*kito- 'flax, linen': Akk. kitû, Aram. kittānā, Sum. gada, Gk. χιτών, the Ugaritic branch with q for k. \*118 at ṭa gives the emphatic the root requires. Rival: Aram. qaṭṭ- 'cucumber' (semitic_roots K0325: Syr. qaṭṭūṯā, Akk. qiššû), with ṭ for \*118. Weak points: ṭa for \*118 is a proposed value whose corpus test fails; QA-\*118 has no number of its own, after I-PA-SA-JA ·, and the GRA 90 below belongs to A-KI-PI-E-TE.
+KH 10, a Khania grain ledger (GRA 10 … A-KI-PI-E-TE GRA 90): flax beside grain, as in Ugaritic field-crop records. Ug. qṭ (I) 'flax, flaxseed (?)', n. m. (DULAT 708), four times in KTU: the hippiatric prescriptions 1.71, 1.72 and 1.85 (št bln qṭ, linseed ground with mixed fodder) and 4.166:4, ḫmš mỉspt qṭ 'five m. of flax' in an administrative list. Its kin are Syr. qeṭaw 'flax' and Akk. kitû (Watson 2018b, 367), whose seed, zēr kitî, is ground in medical recipes (CAD K 473). \*118 at ṭa gives the emphatic the root requires. Rival: the place Qṭ, ḥ\[wt\] qṭ (KTU 2.36:17), and its gentilic qṭy 'man of Qṭ' (DULAT 708, 710): Ipšaya of Qaṭ. Weak points: ṭa for \*118 is a proposed value that no spelling variant checks; no number follows QA-\*118, after I-PA-SA-JA ·, and the GRA 90 below belongs to A-KI-PI-E-TE.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Ugaritic | qṭ (I) 'flax, linseed' |
-| Akkadian | kitû 'flax, linen' |
-| Aramaic | kittānā 'linen, flax' |
-| Sumerian | gada 'flax' |
-| Greek | χιτών 'tunic' (loan from the same family) |
+| Ugaritic | qṭ (I) 'flax, flaxseed (?)' (DULAT 708; Watson 2018b, 367) |
+| Syriac | qeṭaw 'flax' (Watson 2018b, 367) |
+| Akkadian | kitû 'flax, linen' (CAD K 473) |
 
 ### Source
 
-di Mino
+di Mino; DULAT; Watson 2018b; CAD K
 
 ## Attestations
 
@@ -67,6 +65,6 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/KH/KH/KH10\|KH10]] | qaṭṭ(u) | flax, linseed | CANDIDATE |
+| [[wiki/linear-a/inscriptions/KH/KH/KH10\|KH10]] | qaṭṭ(u) | flax, linseed | SPECULATIVE |
 
 <!-- END kaphtor:record -->

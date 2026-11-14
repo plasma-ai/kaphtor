@@ -28,7 +28,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Value | /ku/ |
-| Alternates | /gu/, /qu/ |
+| Alternates | /qu/ |
 | Linear B | B 81, value ku |
 | Linear B Unicode | U+10013 LINEAR B SYLLABLE B081 KU |
 | Neutralization class | K |
@@ -37,7 +37,6 @@ updated: 2026-10-24T16:17:50Z
 
 | Value | Confidence | Evidence |
 |---|---|---|
-| /gu/ | 0.50 | KU-PA₃-NU = Gupanu (Gordon: g-p-n 'vine') |
 | /qu/ | 0.30 | K-class neutralization |
 
 ### Forms cited for the value
@@ -73,7 +72,7 @@ No CH ancestor—Linear A innovation, possibly from MM flying bird motif (Ferrar
 | [[wiki/linear-a/words/J/JA_KU_TI\|JA-KU-TI]] | Yaqūti | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_KU\|KA-KU]] | Kakku | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_KU_NE_TE\|KA-KU-NE-TE]] | Kakku-ʿAnēt | SPECULATIVE |
-| [[wiki/linear-a/words/K/KA_KU_PA\|KA-KU-PA]] | kawkab | CANDIDATE |
+| [[wiki/linear-a/words/K/KA_KU_PA\|KA-KU-PA]] | kakkub | CANDIDATE |
 | [[wiki/linear-a/words/K/KU\|KU]] | kull | CANDIDATE |
 | [[wiki/linear-a/words/K/KU_DA\|KU-DA]] | Gūda | SPECULATIVE |
 | [[wiki/linear-a/words/K/KU_KU_DA_RA\|KU-KU-DA-RA]] | Kukkadal | SPECULATIVE |
@@ -105,6 +104,7 @@ No CH ancestor—Linear A innovation, possibly from MM flying bird motif (Ferrar
 | [[wiki/linear-a/words/S/SA_plus_MU_plus_KU\|SA+MU+KU]] | ṣammūqu | CANDIDATE |
 | [[wiki/linear-a/words/S/SE_KU_TU\|SE-KU-TU]] | Šakūtu | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_DU_QI_KU_MI\|SI-DU-QI-KU-MI]] | Ṣiduqi-kummi | SPECULATIVE |
+| [[wiki/linear-a/words/T/TELA_plus_KU\|TELA+KU]] | (logogram) | CANDIDATE |
 | [[wiki/linear-a/words/T/TI_TI_KU\|TI-TI-KU]] | tittuk(u) / tittōk | CANDIDATE |
 
 <!-- END kaphtor:record -->

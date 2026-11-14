@@ -34,7 +34,7 @@ updated: 2026-11-11T23:39:03Z
 
 ## Note
 
-HT 41a .4 MI-DA-NI · PA-JA 2 and two fraction signs, both signs whole and undotted, the last line of the face (GORILA I 79). Egyptian Pꜣjj is a common name, borne under Thutmose III and Amenhotep II among others (PNM v6, s.v. pꜣjj); PA-JA-RE (HT 8b, 29, 88, ZA 10b) reads Pꜣjj-Rꜥ with the same JA. Egyptian two-consonant names are many, so the match rests on the identity with PA-JA-RE. Rival: a Semitic hypocoristic. Two signs; one attestation.
+HT 41a .4 MI-DA-NI · PA-JA 2 and two fraction signs, both signs whole and undotted, the last line of the face (GORILA I 79). Egyptian Pꜣjj is a common name, borne under Thutmose III and Amenhotep II among others (PNM v6, s.v. pꜣjj); PA-JA-RE (HT 8b, 29, 88, ZA 10b) reads Pꜣjj-Rꜥ with the same JA. Egyptian two-consonant names are many, so the match rests on the identity with PA-JA-RE. Rivals: Hurrian Paya, pa-a-ya at Alalaḫ VII (Monti 2017, 481); a Semitic hypocoristic. Two signs; one attestation.
 
 ## As a name
 
@@ -45,6 +45,7 @@ Egyptian Pꜣjj, the first element of PA-JA-RE, a common name under Thutmose III
 | Language | Comparison |
 |---|---|
 | Egyptian | pꜣ.jj, a name borne by men and women, late 12th–18th Dynasty before Amenhotep IV (PNM v6, personal_names_id 142610149; Ranke I, 129.4) |
+| Hurrian (rival) | Paya, pa-a-ya, Alalaḫ VII (Draffkorn 1959, 46, apud Monti 2017, 481, marked ?) |
 
 ## Attestations
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/S/S3_BW
 title: "S3-BW"
-desc: "turn away! (2mp imperative—disease expulsion command). Lexicon, CANDIDATE (tier 2)."
+desc: "ṯūb-: turn back! (imperative, command to the disease). Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "hapax", "ritual", "verb"]
 kind: "word"
 form: "S3-BW"
@@ -9,7 +9,7 @@ datasets: ["lexicon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.4
-reading: null
+reading: "ṯūb-"
 attestations: ["LMP-Spell33"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,27 +31,28 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Meaning | turn away! (2mp imperative—disease expulsion command) |
-| Root | √s-b-b |
-| Proto-Semitic | \*sabab- (#K0389) |
+| Reading | ṯūb- |
+| Meaning | turn back! (imperative, command to the disease) |
+| Root | √ṯ-w-b |
+| Proto-Semitic | \*ṯVwVb- (#K0865) |
 | Language layer | Semitic |
 | Tags | hapax, ritual, verb |
 | Semantic field | ritual |
 
 ### Note
 
-London Medical Papyrus BM 10059, Keftiu Spell #33 against the samānu disease: Egyptian group-writing s3bw. √s-b-b 'to turn, go around': Heb. sābab (HALOT 738), 2mp imperative sōbbū, סֹבּוּ צִיּוֹן sōbbū Ṣiyyôn 'go around Zion' (Ps 48:13). Group-writing s3 is plain /s/: the same scribe renders Semitic ṣ as Egyptian ḏ in the next word, yaṣʾā (y3yd33), and the geminate -bb- goes unwritten. The pair sabbū yaṣʾā 'Turn away! Go out!' is an expulsion command, as Udug-hul utukku lemnu ṣi ana nisâti 'evil spirit, go far away!' (CT 16 29:92f.; CAD N/2 184). The D54 determinative sits in the phonogram ḏi of word 2 (Kyriakidis 2002, n. 16). One attestation. See Y3-Y-D33.
+London Medical Papyrus (BM 10059), Spell 33: s-bu-ʾa, the third group of the spell. Egyptian s writes Semitic ṯ (Hoch 1994, 410 n. 44), and š in these spells (Steiner 1992, at n. 67): ṯūb- 'turn back!', √ṯ-w-b, Ug. /ṯ-b/ 'to return, turn round, go back' (DULAT 882–83), Heb. šûb, the bu group writing its u. With S3T it gives two commands before y-ḏ 'let her go out'. Weak point: the final ʾa; TLA ends the word on the reed-leaf, which gives the feminine ṯūbī. Rival: √s-b-b 'turn' (DULAT 740), whose samekh Egyptian writes with ṯ (Hoch 1994, 408). Steiner leaves it unread (Steiner 1992, 198). See S3T and Y3-Y-D33.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Hebrew | sōbbû 'turn!', 2mp imperative, Saul's command to the runners, 1 Sam 22:17; sbb 'go around' (HALOT 738) |
-| Ugaritic | /s-b-b/ 'to turn round; to turn towards' (DULAT 740) |
+| Ugaritic | /ṯ-b/ 'to return, turn round, go back' (DULAT 882–83) |
+| Arabic | ṯāba 'returned' (Lane 361) |
 
 ### Source
 
-di Mino; HALOT; Kyriakidis 2002; CAD N/2
+di Mino; Hoch 1994; Steiner 1992; DULAT
 
 ## Attestations
 
@@ -63,6 +64,6 @@ di Mino; HALOT; Kyriakidis 2002; CAD N/2
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/LMP/LMP_Spell33\|LMP-Spell33]] | sabbū | turn away! (2mp imperative) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/LMP/LMP_Spell33\|LMP-Spell33]] | ṯūb- | turn back! | CANDIDATE |
 
 <!-- END kaphtor:record -->

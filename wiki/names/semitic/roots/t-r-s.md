@@ -27,6 +27,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/TU_RU_SA\|TU-RU-SA]] | Tursa | Shield, Protector (invoked in formula position two); the name Tursha | 1 |
+| [[wiki/names/semitic/names/TU_RU_SA\|TU-RU-SA]] | Tursa | Shield, a god invoked as 'the One of Mount Ida'; the name Tursha | 1 |
 
 <!-- END kaphtor:record -->

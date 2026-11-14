@@ -29,7 +29,7 @@ updated: 2026-10-27T20:24:57Z
 |---|---|
 | Value | /mo/ |
 | Alternates | none |
-| Linear B | B 15, value None |
+| Linear B | B 15 |
 | Linear B Unicode | U+10017 |
 | Linear B note | Homomorph queried, not established: Linear B \*15 is mo (Montecchi 2024, 173). |
 | Neutralization class | none |

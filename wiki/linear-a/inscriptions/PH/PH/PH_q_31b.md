@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/inscriptions/PH/PH/PH_q_31b
 title: "PH(?)31b"
-desc: "Tablet, Phaistos. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "tablet"]
+desc: "Tablet, Phaistos. Translation: incomplete (CANDIDATE)."
+tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
 kind: "inscription"
 id: "PH(?)31b"
 site: "Phaistos"
 support: "Tablet"
 period: ""
-translation: "none"
+translation: "incomplete"
 words: ["*21F", "*21M", "*22F", "*22M", "TE-RI"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -68,6 +68,30 @@ Unicode (Linear A block):
 𐙄𐘤𐘙
 𐝫𐘇𐘻𐘀𐘵𐘑𐄇𐝫
 ```
+
+## Translation
+
+**CANDIDATE**, incomplete (status: incomplete).
+
+> \[…\] \]she-goats 2; ewe 1; \]-DU-RI: he-goat 1; TU-\[…\] \]NE: he-goat 1; she-goats 5; the attendant: ram\[…\] 1; \[?\]-RU-MA-TI: ram; pig (SUS+SI)\[…\] \]-A-MI-DA-O: ram 1.
+
+| Word | Reading | Gloss | Confidence | Lexicon |
+|---|---|---|---|---|
+| [[wiki/linear-a/words/star/star22F\|\*22F]] |  | she-goat (livestock logogram) | PROBABLE | PROBABLE (lexicon) |
+| [[wiki/linear-a/words/star/star21F\|\*21F]] |  | ewe (livestock logogram, standing alone before a numeral) | PROBABLE | PROBABLE (lexicon) |
+| [[wiki/linear-a/words/star/star22M\|\*22M]] |  | he-goat (livestock logogram) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/T/TE_RI\|TE-RI]] | tēri | attendant, courtier (recipient) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/star/star21M\|\*21M]] |  | ram (livestock logogram) | PROBABLE | PROBABLE (lexicon) |
+| [[wiki/linear-a/words/S/SUS\|SUS]] |  | pig (livestock logogram) | CANDIDATE | CANDIDATE (lexicon) |
+
+### Notes
+
+The top and both sides are broken. Strokes of an unidentified sign stand before RU-MA-TI and after TU.
+
+### Source
+
+- di Mino: \*22F, \*21F, \*22M, TE-RI, \*21M, SUS
+- GORILA: PH(?)31b
 
 ## Lexicon words citing this document
 

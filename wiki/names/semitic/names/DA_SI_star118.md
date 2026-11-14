@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/DA_SI_star118
 title: "DA-SI-*118"
-desc: "Ḏā-šiṭṭa: those of Acacia (gentilic, a roster unit); rival the unglossed Dasiṭa. Semitic, CANDIDATE."
+desc: "Ḏā-šiṭṭa: those of Acacia (gentilic, a roster unit). Semitic, CANDIDATE."
 tags: ["names", "gentilic", "semitic"]
 kind: "name"
 form: "DA-SI-*118"
@@ -19,24 +19,24 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Ḏā-šiṭṭa** · those of Acacia (gentilic, a roster unit); rival the unglossed Dasiṭa
+**Ḏā-šiṭṭa** · those of Acacia (gentilic, a roster unit)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/peoples\|Gentilic]] |
 | Reading | Ḏā-šiṭṭa |
-| Meaning | those of Acacia (gentilic, a roster unit); rival the unglossed Dasiṭa |
+| Meaning | those of Acacia (gentilic, a roster unit) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/dh\|ḏ]] + [[wiki/names/semitic/roots/sh-n-tt\|š-n-ṭ]] |
 | Proto-Semitic | \*ḏī- (#K0877), \*šint- (#3629) |
 | Reading's standing | CANDIDATE |
 | Standing as a gentilic | CANDIDATE |
 | Standing of the layer | CANDIDATE (lexicon_reading) |
-| Source | di Mino; HALOT |
+| Source | di Mino; HALOT; Montecchi 2010 |
 
 ## Note
 
-HT 13 DA-SI-\*118 19 (wine list, beside KU-ZU-NI 18); HT 85a 24 (men, under A-DU · \*307+\*307, beside KU-ZU-NI 5); HT 122a 2 (men); HT 99b 2. Three scribes count it as a unit. ḏā 'those of', as in DA-NA-SI Ḏā-Naśiʾ, + ši-ṭa, Heb. šiṭṭâ 'acacia' (HALOT 1473), from \*šint-, the n unwritten or assimilated. \*118 = ṭa: s-t and s-d give no acacia. Weak point: \*118 = ṭa is a proposed value. Four attestations.
+HT 13 DA-SI-\*118 19 (wine list, beside KU-ZU-NI 18); HT 85a 24 (men, under A-DU · \*307+\*307, beside KU-ZU-NI 5); HT 122a 2 (men); HT 99b 2. Three scribes count it as a unit. HT 85a and HT 122 are one hand's pair from one room, listing the same units (Montecchi 2010, 22). ḏā 'those of', as in DA-NA-SI Ḏā-Naśiʾ, + ši-ṭa, Heb. šiṭṭâ 'acacia' (HALOT 1473), from \*šint-, the n unwritten or assimilated. \*118 = ṭa: s-t and s-d give no acacia. Weak point: \*118 = ṭa is a proposed value. Four attestations.
 
 ## As a name
 
@@ -68,7 +68,7 @@ Read words on the same documents.
 | Word | Reading | Meaning |
 |---|---|---|
 | KU-RO | kull | total, sum (accounting term) |
-| [[wiki/names/semitic/names/A_DU\|A-DU]] | ʾAddu / adû | Addu/Haddu (heading); rival adû 'work stint' |
+| [[wiki/names/semitic/names/A_DU\|A-DU]] | adû | work assignment; the ration allotted to it (heading of personnel and ration lists) |
 | [[wiki/names/semitic/names/PA3_NI\|PA₃-NI]] | bānī | builder (a personnel class) |
 | DA-RE | dār | estate, household (a unit receiving men and grain); rival 'kin group, clan' |
 | [[wiki/names/semitic/names/QA_star310_I\|QA-\*310-I]] | qaynī | smith or cultic administrator; occupational title |

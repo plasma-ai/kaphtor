@@ -47,7 +47,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | mäläḵä (LGz. 343) | LGz. 343 | gloss withheld |
 | Punic | mlk (Krahmalkov 285); mmlkt, mmlkʾt (T 184); Neo-Punic mlkt (Krahmalkov 290) | Krahmalkov 285; T 184; Krahmalkov 290 | gloss withheld |
 | Epigraphic South Arabian | Sab mlk (Kogan 2015, ch. 2 §4.2 no. 38; Sabaweb lemma 1371); Qat. mlk (Ricks 1982 s.v. mlk) | Kogan 2015 ch. 2 §4.2 no. 38; Sabaweb lemma 1371; Ricks 1982 s.v. mlk | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic mlk (Al-Jallad–Jaworska 97); ʾmlk; Dadanitic mlk; Taymanitic mlk; Dumaitic mlk; Thamudic B mlk; Hasaitic mlk (Al-Jallad 2026, 91); Safaitic mlkt; ʾmlk; mlk (Al-Jallad 2026, 92) | Al-Jallad–Jaworska 97; Al-Jallad 2026 91; Al-Jallad 2026 92 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic mlk (Al-Jallad–Jaworska 97); ʾmlk; Dadanitic mlk; Dumaitic mlk; Thamudic B mlk; Hasaitic mlk (Al-Jallad 2026, 91); Safaitic mlkt; ʾmlk; mlk (Al-Jallad 2026, 92); Taymanitic mlk (Al-Jallad 2026b, 15); ṣmmlk (Al-Jallad 2026b, 77) | Al-Jallad–Jaworska 97; Al-Jallad 2026 91; Al-Jallad 2026 92; Al-Jallad 2026b 15; Al-Jallad 2026b 77 | gloss withheld |
 | Eblaitic | ma-li-gú-um /malikum/ (VE 1088; Krebernik 1983, 38); =ma-lik in names, passim /malk/; ma-li-gú-um /mal(i)k/ (Sanmartín GlOS 2, 39, 41); Bonechi 2008, 15 reads ma-li-gú-um /malīkum/ (= Sum. nam-en, VE 1088), beside du-da-li-gú-um /tumtallikum/ (= Sum. nam-nam-en, VE 1089) | VE 1088; Krebernik 1983, 38; Sanmartín GlOS 2, 39, 41; Bonechi 2008; VE 1089 | gloss withheld |
 | Emar | ma-al-lu-ki, ma-al-lu-ku /malluku/ (Pentiuc 2001, 115) | Pentiuc 2001 115 | gloss withheld |
 | Canaanite | mulk: mu-ul-ka (EA 333:20) (Sanmartín GlOS 2, 41) | Sanmartín GlOS 2, 41 | gloss withheld |

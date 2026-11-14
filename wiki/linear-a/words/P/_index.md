@@ -2,14 +2,14 @@
 name: wiki/linear-a/words/P
 desc: "Words whose first sign begins with P."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-12T19:04:33Z
+updated: 2026-11-17T13:48:22Z
 ---
 
 # wiki/linear-a/words/P
 
 [[wiki/linear-a/words/_index|..]]
 
-[[wiki/linear-a/words/P/P33_W_RY|P33_W_RY]]: I cry out! / my invocation (ritual speech act). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/P/P3_WR|P3_WR]]: pꜣ wr: the Great One (Egyptian pꜣ wr, epithet of the god r-p-y). Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/P/PA|PA]]: barr: barr- 'wheat, threshed grain'. Lexicon, CANDIDATE (tier 2).
 
@@ -69,7 +69,7 @@ updated: 2026-11-12T19:04:33Z
 
 [[wiki/linear-a/words/P/PA_RO_SU|PA_RO_SU]]: Parʿōš: personal or clan name, 'Flea'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/P/PA_SA_RI_JA|PA_SA_RI_JA]]: Baṣariya: the Baṣirean, gentilic of Baṣīru, a town of Ugarit (Ug. bṣry): a wool section heading. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/P/PA_SA_RI_JA|PA_SA_RI_JA]]: Baṣriya: the Baṣirean, gentilic of Baṣīru, a town of Ugarit (Ug. bṣry): a wool section heading. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/P/PA_SE|PA_SE]]: Pašše: Pašše (personal name; Hurrian pašš- 'send'). Lexicon, SPECULATIVE (tier 1).
 
@@ -119,7 +119,7 @@ updated: 2026-11-12T19:04:33Z
 
 [[wiki/linear-a/words/P/PI_TA_KE_SI|PI_TA_KE_SI]]: Bīt-kissi: (Man) of the throne-house, crown dependant (title); rival Hurrian PN Pidi-kešḫi. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/P/PI_TA_RA|PI_TA_RA]]: bidāla: trade agents, deputies, a personnel group drawing grain; rivals bitāri 'portions' and the names Paṭir, Batūl. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/P/PI_TA_RA|PI_TA_RA]]: bitra: a portion, share (accounting term); rivals bidāla 'trade agents' and the names Paṭir, Batūl. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/P/PI_TE_RI|PI_TE_RI]]: piṭrī: Piṭrī, personal name, 'my release'. Lexicon, CANDIDATE (tier 2).
 
@@ -159,7 +159,7 @@ updated: 2026-11-12T19:04:33Z
 
 [[wiki/linear-a/words/P/PU_RA|PU_RA]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/P/PU_RA2|PU_RA2]]: Bōl: Baal, 'Lord' (allocation heading). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/P/PU_RA2|PU_RA2]]: Bōl: Baʿal, 'Lord' (recipient in allocation lists). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/P/PU_VIN|PU_VIN]]: pūra: the (wine-)vat, a pressing unit (allocation heading); rival 'madder'. Lexicon, SPECULATIVE (tier 1).
 

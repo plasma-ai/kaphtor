@@ -59,7 +59,13 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/KH/KH/KH92\|KH92]] | Khania | Tablet | none |
+| [[wiki/linear-a/inscriptions/KH/KH/KH92\|KH92]] | Khania | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/KH/KH/KH92\|KH92]] | ha-dāhari | the Charioteer (PN, √d-h-r 'dash, gallop'; \*21F = ha) | CANDIDATE |
 
 ## Onomasticon
 

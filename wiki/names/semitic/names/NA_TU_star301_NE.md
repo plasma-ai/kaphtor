@@ -32,22 +32,22 @@ updated: 2026-11-11T23:39:03Z
 | Reading's standing | PROBABLE |
 | Standing as a title | PROBABLE |
 | Standing of the layer | PROBABLE (lexicon_reading) |
-| Source | di Mino; Gelb 1980 |
+| Source | di Mino; Gelb 1980; Huehnergard 2012 |
 
 ## Note
 
-SKO Zc 1, an inked inscription from the Skoteino cave, broken on both sides: NA-TU-\*301-NE, with \*301 = na (288 occurrences at 16 sites), so na-tū-nā-n(e), the final E dead. natūnān 'the dedicated one', the qatūl passive participle of √n-t-n 'to give' with -ān, TU for the ū. Compare Heb. nĕtūnīm 'given ones', the Levites given to sanctuary service (Num 3:9), and the post-exilic Nĕtīnīm, temple servants (Ezra 2:43; 8:20; 1 Chr 9:2), an institution traced to the Gibeonites (Josh 9:27). Ug. ntn, ttn /tatinū/ 'to give', BH nātan (Huehnergard 2012, 52; App. C, 6–7). Rival: nātānān 'the giver', the qātāl active participle with -ān, a title of the Goddess at a cave sanctuary, beside A-TA-NA-TE ʾAtanat 'She-who-gives' (√y-t-n). One attestation. See MA-TI-TI.
+SKO Zc 1, an inked inscription from the Skoteino cave, broken on both sides: NA-TU-\*301-NE, with \*301 = na (288 occurrences at 16 sites), so na-tū-nā-n(e), the final E dead. natūnān 'the dedicated one', the qatūl passive participle of √n-t-n 'to give' with -ān, TU for the ū. Compare Heb. nĕtūnīm 'given ones', the Levites given to sanctuary service (Num 3:9), and the post-exilic Nĕtīnīm, temple servants (Ezra 2:43; 8:20; 1 Chr 9:2), an institution traced to the Gibeonites (Josh 9:27). Ugarit has the class: spr ytnm 'register of the ytnm' (KTU 4.93:1; DULAT 977). Ug. ntn, ttn /tatinū/ 'to give', BH nātan (Huehnergard 2012, 52; App. C, 6–7). Rival: nātānān 'the giver', the qātāl active participle with -ān, a title of the Goddess at a cave sanctuary, beside A-TA-NA-TE ʾAtanat 'She-who-gives' (√y-t-n). One attestation. See MA-TI-TI.
 
 ## Cognates
 
 | Language | Comparison |
 |---|---|
 | Hebrew | nātīn (נָתִין) "temple servant, dedicated one"—singular of Nĕtīnīm (נְתִינִים), Ezra 2:43, 8:20; 1 Chr 9:2. Passive participle of √n-t-n. The Levites themselves called nĕtūnīm nĕtūnīm "given, utterly given" (Num 3:9) |
-| Ugaritic | ytn / ntn "to give"—one of the most common Ugaritic roots |
+| Ugaritic | /y-t-n/ 'to give', N-stem ntn 'delivered' (KTU 4.219:1; DULAT 974–977); ytn (I), pl. ytnm, a class, 'donated ones' or 'contributors, sellers' (KTU 4.93:1; DULAT 977) |
 | Amorite | the passive natūn 'given' in names: NATUN-UM Natūnum, ʾIL-I+NATUN Ilī-natūn (Gelb 1980, nos. 5014, 2756) |
 | Akkadian | nadānu "to give"; nādinu "giver" (active participle) |
 | Phoenician | Mattan (מתן) "gift"—common PN element (Mattan-Baal); institutional parallels in Phoenician temple servant classes |
-| Athena | A-TA-NA = ʾatanā 'She-who-gives' (lexicon PROBABLE)—NWS feminine of √y-t-n (&gt; ʾ- via I-y weakening). NA-TU-NA-NE with initial n- preserves √n-t-n; the coexistence of both allomorphs points to a pre-split isogloss stage |
+| Linear A | A-TA-NA-TE ʾAtanat 'She-who-gives' (PROBABLE), A-TA-NA-JE ʾatanāya (CANDIDATE): √y-t-n; NA-TU-\*301-NE keeps n- |
 
 ## Attestations
 

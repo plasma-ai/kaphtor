@@ -30,11 +30,11 @@ updated: 2026-11-11T23:39:03Z
 | Reading's standing | SPECULATIVE |
 | Standing as a personal name | SPECULATIVE |
 | Standing of the layer | SPECULATIVE (lexicon_reading) |
-| Source | di Mino; Monti 2017 |
+| Source | di Mino; Monti 2017; NPN |
 
 ## Note
 
-HT 28a .5 A-RU-DA-RA GRA 5 \*304 2, whole and undotted, at the head of the line, then OLE+DI 3: a recipient in the A-SI-JA-KA list with JA-\*21F, SA-RA₂ and I-TA-JA (GORILA I 53). Hurrian Arum-atal, ar=o=m-adal 'The strong gave him', attested whole: a-rum-a-tal at Mari (VHN 73, apud Monti 2017, 228), a-rum-a-dal at Ašnakkum (Talon 1997, 123, apud Monti 2017, 363), a-ru-um-ma-tal on the Ḫabiru Prism (Monti 2017, 425). Cuneiform a-rum-a- closes arum with its m, which Linear A leaves unwritten as a coda; DA-RA -adal with its a absorbed and RA for the final l, as in KU-KU-DA-RA. Weak point: the m stands before a vowel in speech, and the Ḫabiru Prism writes it. One witness. Cf. A-RU.
+HT 28a .5 A-RU-DA-RA GRA 5 \*304 2, whole and undotted, at the head of the line, then OLE+DI 3: a recipient in the A-SI-JA-KA list with JA-\*21F, SA-RA₂ and I-TA-JA (GORILA I 53). Hurrian Arum-atal, ar=o=m-adal 'The strong gave him', attested whole: a-rum-a-tal at Mari (VHN 73, apud Monti 2017, 228), a-rum-a-dal at Ašnakkum (Talon 1997, 123, apud Monti 2017, 363), a-ru-um-ma-tal on the Ḫabiru Prism (Monti 2017, 425). Cuneiform a-rum-a- closes arum with its m, which Linear A leaves unwritten as a coda; DA-RA -adal with its a absorbed and RA for the final l, as in KU-KU-DA-RA. Weak point: the m stands before a vowel in speech, and the Ḫabiru Prism and Nuzi A-ru-ma-tal (NPN 36) write it. One witness. Cf. A-RU.
 
 ## As a name
 
@@ -44,7 +44,7 @@ Arum-adal: Hurrian Arum-atal, ar=o=m-adal 'The strong gave him', a-rum-a-tal at 
 
 | Language | Comparison |
 |---|---|
-| Hurrian | Arum-atal, ar=o=m-adal 'The strong gave him': a-rum-a-tal, Mari (VHN 73); a-rum-a-dal, Ašnakkum (Talon 1997:123); a-ru-um-ma-tal, Ḫabiru Prism III 24 (Monti 2017, 228, 363, 425) |
+| Hurrian | Arum-atal, ar=o=m-adal 'The strong gave him': a-rum-a-tal, Mari (VHN 73); a-rum-a-dal, Ašnakkum (Talon 1997:123); a-ru-um-a-dal, Karana (Sasson 1979:5); a-ru-um-ma-tal, Ḫabiru Prism III 24 (Monti 2017, 228, 363, 385, 425); Nuzi Arum-atal, A-ru-ma-tal, var. A-ru-ma-a-tal (NPN 36) |
 
 ## Attestations
 

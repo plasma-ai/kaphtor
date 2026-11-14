@@ -31,4 +31,6 @@ updated: 2026-11-12T00:26:03Z
 
 A logogram. Status **unread** (nothing on file).
 
+Alone on the roundel KH Wc 2028: a pointed form over a hanging loop.
+
 <!-- END kaphtor:record -->

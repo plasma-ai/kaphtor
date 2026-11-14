@@ -45,7 +45,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/star/star306_TU_JA\|\*306-TU-JA]] | ʿAttuya | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_JA\|A-JA]] | ḥayyā | CANDIDATE |
 | [[wiki/linear-a/words/A/A_JA_KU\|A-JA-KU]] | ʾAyaku | SPECULATIVE |
-| [[wiki/linear-a/words/A/A_MA_JA\|A-MA-JA]] | ʿAmmaya | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_MA_JA\|A-MA-JA]] | ʿAmmaya | CANDIDATE |
 | [[wiki/linear-a/words/A/A_MI_JA_RU\|A-MI-JA-RU]] | ʿAmmī-yarūm | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | ʾarān Ṣidna bikē bayta rēšī tarīmu ʾAyaku | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_SE_JA\|A-SE-JA]] | Āsīya | SPECULATIVE |
@@ -103,11 +103,12 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/K/KU_PA3_RI_JA\|KU-PA₃-RI-JA]] | Kubariya | SPECULATIVE |
 | [[wiki/linear-a/words/M/MI_plus_JA_plus_RU\|MI+JA+RU]] | murru | CANDIDATE |
 | [[wiki/linear-a/words/M/MI_JA\|MI-JA]] | mayya | CANDIDATE |
+| [[wiki/linear-a/words/N/NI_JA_NU\|NI-JA-NU]] | niyāḥ-nu | SPECULATIVE |
 | [[wiki/linear-a/words/O/O_TE_JA\|O-TE-JA]] | Ḫuteya | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_JA\|PA-JA]] | Pay | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_JA_RE\|PA-JA-RE]] | Payare | PROBABLE |
 | [[wiki/linear-a/words/P/PA_JA_TA\|PA-JA-TA]] | bayta | SPECULATIVE |
-| [[wiki/linear-a/words/P/PA_SA_RI_JA\|PA-SA-RI-JA]] | Baṣariya | SPECULATIVE |
+| [[wiki/linear-a/words/P/PA_SA_RI_JA\|PA-SA-RI-JA]] | Baṣriya | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_SE_JA\|PA-SE-JA]] | Paššiya | SPECULATIVE |
 | [[wiki/linear-a/words/P/PI_TA_JA\|PI-TA-JA]] | Bittaya | SPECULATIVE |
 | [[wiki/linear-a/words/P/PU2_RE_JA\|PU₂-RE-JA]] | burē(t)yā | SPECULATIVE |
@@ -115,7 +116,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/R/RU_JA_TA_DI\|RU-JA-TA-DI]] | Ruya-dādī | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_JA_MA\|SA-JA-MA]] | śaymā | SPECULATIVE |
 | [[wiki/linear-a/words/S/SE_TO_I_JA\|SE-TO-I-JA]] | Ṣētiya | PROBABLE |
-| [[wiki/linear-a/words/S/SI_DI_JA\|SI-DI-JA]] | Šadiya | PROBABLE |
+| [[wiki/linear-a/words/S/SI_DI_JA\|SI-DI-JA]] | Šidiya | PROBABLE |
 | [[wiki/linear-a/words/S/SI_JA_SE\|SI-JA-SE]] | šī-yāṣē | CANDIDATE |
 | [[wiki/linear-a/words/S/SU_KI_RI_TE_I_JA\|SU-KI-RI-TE-I-JA]] | Sukritēya | SPECULATIVE |
 | [[wiki/linear-a/words/T/TE_JA_RE\|TE-JA-RE]] | Teyar | CANDIDATE |

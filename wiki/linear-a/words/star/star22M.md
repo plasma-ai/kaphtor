@@ -55,6 +55,12 @@ di Mino; HALOT
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/PH/PH/PH_q_31b\|PH(?)31b]] | Phaistos | Tablet | none |
+| [[wiki/linear-a/inscriptions/PH/PH/PH_q_31b\|PH(?)31b]] | Phaistos | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/PH/PH/PH_q_31b\|PH(?)31b]] |  | he-goat (livestock logogram) | CANDIDATE |
 
 <!-- END kaphtor:record -->

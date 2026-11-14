@@ -47,10 +47,12 @@ HT 23a: five entries at the same fraction under KA-NA (\*308, OLE+NE, OLE+TU, OL
 | Language | Comparison |
 |---|---|
 | Ugaritic | ṭhr 'pure'; syll. ṭu-ú-ru = Akk. ellu 'pure', h unwritten (GlOS 2, 307) |
+| Punic | ṭr, ṭʾr 'pure', blb ṭr 'with a pure heart', h unwritten (Punica ix 9; DNWSI 420) |
+| Sabaic | ṭhr 'in a state of ritual purity' (Beeston 1982, 153; Biella 1982, 216) |
 
 ### Source
 
-di Mino; Huehnergard 2012; GlOS 2
+di Mino; Huehnergard 2012; GlOS 2; DNWSI; Beeston 1982; Biella 1982
 
 ## Attestations
 

@@ -48,7 +48,7 @@ KN Zf 31, a silver pin, first line, between DA-DU-MI-NE and A-WA-PI; whole and u
 | Language | Comparison |
 |---|---|
 | Amorite | QWM 'to stand'; GA-MI-DINGIR Qawmī-ʾIl (Gelb 1980, no. 1743) |
-| Eblaitic | šū-X 'he is X': šū-ʾabu 'he is father', šū-nūrī 'he is my light' (Pagan 1998, rows 4265–4285) |
+| Eblaite | šū-X 'he is X': šū-ʾabu 'he is father', šū-nūrī 'he is my light' (Pagan 1998, rows 4265–4285) |
 | Arabic | nār- 'fire' beside nūr- 'light' (Kogan 2011, 195) |
 
 ### Source

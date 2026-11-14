@@ -42,6 +42,13 @@ A recipient at two sites: HT 123+124b .2 PI-SA 4 in a terebinth list, clean on a
 
 Recipient or institution: HT123+124b PI-SA 4; KH6 .6 PI-SA\[ at a line end, broken after (GORILA III 27), where SigLA reads CYP+D ½ next. Amorite Bu-ṣí, with PI for b and SA for ṣ. Rival: an institution receiving allocations.
 
+## Cognates
+
+| Language | Comparison |
+|---|---|
+| Amorite | Bu-ṣí (F), set with Bu-ṣi-ya under Akk. buṣ- (Huffmon 1965, 151 n. 37) |
+| Akkadian | būṣu C '(a bird)'; Old Babylonian names Bu-ṣu-um, Bu-ṣa-a, Bu-ṣi-ia (CAD B 349) |
+
 ## Attestations
 
 | Field | Value |

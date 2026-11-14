@@ -2,7 +2,7 @@
 name: wiki/linear-a/inscriptions/MA/MA
 desc: "Inscriptions from Malia, series MA."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-24T16:17:50Z
+updated: 2026-11-14T19:56:36Z
 ---
 
 # wiki/linear-a/inscriptions/MA/MA
@@ -19,7 +19,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/inscriptions/MA/MA/MA1a|MA1a]]: 3-sided bar, Malia. Translation: none.
 
-[[wiki/linear-a/inscriptions/MA/MA/MA1b|MA1b]]: 3-sided bar, Malia. Translation: none.
+[[wiki/linear-a/inscriptions/MA/MA/MA1b|MA1b]]: 3-sided bar, Malia. Translation: complete (SPECULATIVE).
 
 [[wiki/linear-a/inscriptions/MA/MA/MA1c|MA1c]]: Tablet, Malia. Translation: none.
 

@@ -25,7 +25,7 @@ updated: 2026-11-12T00:26:03Z
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/KH/KH/KH13\|KH13]] | Khania | Tablet | none |
+| [[wiki/linear-a/inscriptions/KH/KH/KH13\|KH13]] | Khania | Tablet | incomplete |
 
 ## Unread sign
 

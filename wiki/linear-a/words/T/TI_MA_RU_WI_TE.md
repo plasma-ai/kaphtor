@@ -59,7 +59,13 @@ di Mino; GORILA I; HALOT; DASI; Gelb 1980
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/PYR/PYR/PYR1\|PYR1]] | Pyrgos | Tablet | none |
+| [[wiki/linear-a/inscriptions/PYR/PYR/PYR1\|PYR1]] | Pyrgos | Tablet | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/PYR/PYR/PYR1\|PYR1]] | Tīmar-luwwīt | Timar the Levite (f.), priestess (woman's name and title) | SPECULATIVE |
 
 ## Onomasticon
 

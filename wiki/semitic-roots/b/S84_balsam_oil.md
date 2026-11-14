@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/S84_balsam_oil
 title: "*bśm: 'balsam-oil'"
-desc: "Proto-Semitic *bśm, 'balsam-oil': reflexes in 6 language(s)."
+desc: "Proto-Semitic *bśm, 'balsam-oil': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "S84"
@@ -35,6 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | besmā (LGz. 110) (Payne Smith 49) | LGz. 110; Payne Smith 49 | gloss withheld |
 | Phoenician | bšm (LGz. 110) | LGz. 110 |  |
 | Punic | bšm (DNWSI 203–204) | DNWSI 203–204 | gloss withheld |
+| Pre-Islamic North Arabian | Taymanitic bśm; bśmt (Al-Jallad 2026b, 35) | Al-Jallad 2026b 35 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

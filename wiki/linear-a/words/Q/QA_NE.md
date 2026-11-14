@@ -60,6 +60,12 @@ di Mino; GlOS 1
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/KH/KH/KH47\|KH47]] | Khania | Tablet | none |
+| [[wiki/linear-a/inscriptions/KH/KH/KH47\|KH47]] | Khania | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/KH/KH/KH47\|KH47]] | qanē | reed, cane | CANDIDATE |
 
 <!-- END kaphtor:record -->

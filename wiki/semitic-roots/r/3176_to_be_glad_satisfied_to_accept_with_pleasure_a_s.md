@@ -41,7 +41,7 @@ updated: 2026-10-24T15:25:56Z
 | Jibbali | ɛrẓ̂ẹ́ (JL 220 apud SEDonline 1308) | JL 220; SEDonline 1308 | gloss withheld |
 | Soqotri | réẓ̂i, ríẓ̂i (LS 404; SLOnline 7606) | LS 404; SLOnline 7606 | gloss withheld |
 | Eblaitic | /r-ṣ́-y/: names al₆-za-li-im, ìr-za-il (cf. ìr-zaₓ(LAK 384)-ì), tal-za-gú-bí (cf. tal!(rí)-zi, tarₓ(BAN)-zi-na-u₉); raṣ́iy: name lá-zi (Pagan ARES 3 163, 286, 339, 345, 369 apud Sanmartín GlOS 2, 174); Pagan reads /yarḍā/, /yirḍā/, /tarḍā/, /tarḍē/, /raḍī/ (Pagan 1998) | Pagan ARES 3 163, 286, 339, 345, 369; Sanmartín GlOS 2, 174; Pagan 1998 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic rḍy; ʾrḍy; Dadanitic rḍy (Al-Jallad 2026, 121) | Al-Jallad 2026 121 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic rḍy; ʾrḍy; Dadanitic rḍy (Al-Jallad 2026, 121); Safaitic rḍw, rḍy, rḍʾ (a deity) (Al-Jallad 2026, 187); Taymanitic rḍw (Al-Jallad 2026b, 19); rḍtl (Al-Jallad 2026b, 72) | Al-Jallad 2026 121; Al-Jallad 2026 187; Al-Jallad 2026b 19; Al-Jallad 2026b 72 | gloss withheld |
 | Biblical Aramaic | \*rəʕū (HALOT 1265) | HALOT 1265 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

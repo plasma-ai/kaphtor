@@ -59,8 +59,15 @@ Moran 1992, EA 248:14; di Mino; HALOT
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3004\|HTWc3004]] | Haghia Triada | Roundel | none |
-| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3005\|HTWc3005]] | Haghia Triada | Roundel | none |
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3004\|HTWc3004]] | Haghia Triada | Roundel | complete |
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3005\|HTWc3005]] | Haghia Triada | Roundel | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3004\|HTWc3004]] | Taʿnaku | Taanach (place name) | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3005\|HTWc3005]] | Taʿnaku | Taanach (place name) | SPECULATIVE |
 
 ## Onomasticon
 

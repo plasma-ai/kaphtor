@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Commodity logogram: \*412+E three times on MA 10, TI+\*412VAS once (MA 10b), \*412-VS-VIN once (PH 9b); VIN on PH 9b marks a wine vessel. Akk. agannu 'basin', Heb. ʔaggān (Exod 24:6, Song 7:3, Isa 22:24), Arb. ʔiggānat-, syllabic a-ga-nu at Qatna and Amarna (GlOS 1, 12): a larger basin than \*406VAS kās 'cup'. The complement E writes /ʔē-/: Arabic keeps the i-class vowel, Northwest Semitic lowers it to ē, ʔēgān, and the aleph is unwritten. TI+\*412VAS is a subtype, TI for ṭīn- 'clay bowl'. See A-KA-NU.
+Commodity logogram: \*412+E three times on MA 10, TI+\*412VAS once (MA 10b), \*412-VS-VIN once (PH 9b); VIN on PH 9b marks a wine vessel. Akk. agannu 'basin', Heb. ʔaggān (Exod 24:6, Song 7:3, Isa 22:24), Arb. ʔiggānat-, syllabic a-ga-nu at Qatna and Amarna (GlOS 1, 12): a larger basin than \*406VAS kās 'cup'. The complement E writes /ʔē-/: Arabic keeps the i-class vowel, Northwest Semitic lowers it to ē, ʔēgān, and the aleph is unwritten. TI+\*412VAS is a subtype, TI for ṭīn- 'clay bowl'. At Malia the sign is an upright, necked jar with the complement written inside it; on PH 9b the sign before VIN is an animal's head in profile. See A-KA-NU.
 
 ### Cognates
 

@@ -66,12 +66,12 @@ Unicode (Linear A block):
 
 **SPECULATIVE**, incomplete (status: incomplete).
 
-> Garden: for Hathor, figs ½; Kutukkore, a fraction; She-of-the-Lion 1\[…\]; She-of-Memphis ½; Makī 2 + fractions; Ṭayyibat 2½; the measurer 4 + fractions.
+> Garden: for ʿAṯtar, figs ½; Kutukkore, a fraction; She-of-the-Lion 1\[…\]; She-of-Memphis ½; Makī 2 + fractions; Ṭayyibat 2½; the measurer 4 + fractions.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | [[wiki/linear-a/words/K/KI_RA\|KI-RA]] | kirû | garden, orchard (heading); alternatively liquid bitumen | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/A/A_TA_RE\|A-TA-RE]] | Hathar | Hathor (Egyptian goddess), for | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/A/A_TA_RE\|A-TA-RE]] | ʿAṯtar | ʿAṯtar (the god), for; rival Hathor | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/N/NI\|NI]] |  | figs (logogram), ½ | CONFIRMED | CONFIRMED (lexicon) |
 | [[wiki/linear-a/words/K/KU_TU_KO_RE\|KU-TU-KO-RE]] | Kutukkore | Hurrian personal name, with a fraction | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/A/A_RI_NI_TA\|A-RI-NI-TA]] | ʾarīnīt | She-of-the-Lion (priestess or cult title), 1\[ | CANDIDATE | CANDIDATE (lexicon) |

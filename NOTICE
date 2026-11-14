@@ -43,7 +43,8 @@ hattic_roots.json)
 Contact lexica (data/contact/)
   Hebrew: TBESH, STEPBible Data, Tyndale House, Cambridge, CC BY 4.0, with Brown, Driver and Briggs (1906), public
   domain. Aramaic: the Aramaic Root Atlas, Apache-2.0. Akkadian: ORACC CAMS/GKAB, CC0 1.0. Amarna Canaanite: the
-  aemw/amarna Project, ORACC, CC0 1.0, with our changes under CC BY 4.0. Syriac: English Wiktionary's Classical
+  aemw/amarna Project (edition by Jacob Lauinger and Tyler Yoder), ORACC, CC0 1.0 as its open-data download states,
+  with our changes under CC BY 4.0. Syriac: English Wiktionary's Classical
   Syriac entries, CC BY-SA 4.0; anything derived from that file carries the same terms.
 
 Akkadian literary glossary (data/ane/akkadian_literary.jsonl)
@@ -63,12 +64,50 @@ Kassite name concordances (data/ane/kassite-concordances/)
   The name indexes of Clay (YOS 1, 1912; BE A 14 and 15, 1906; PBS 2/2, 1912), Hinke (BE D 4, 1907), Radau
   (BE A 17/1, 1908) and King (Babylonian Boundary-Stones, 1912), public domain.
 
+Ugarit Texts Database (data/ane/ugarit-texts-database/)
+  František Válek, Ugarit Texts Database, Zenodo, doi:10.5281/zenodo.12820382, CC BY 4.0. Catalogue metadata only.
+
+ELiSiR Eblaite lexicon (data/ane/elisir-eblaite/)
+  Erica Scarpa, ELISIR, Zenodo, doi:10.5281/zenodo.17051643, CC BY 4.0.
+
+IG XV 1, Cypriot syllabic inscriptions (data/ane/ig-xv-1-cypriot/)
+  Inscriptiones Graecae XV 1, digital edition, Berlin-Brandenburgische Akademie der Wissenschaften
+  (https://telota.bbaw.de/ig/), CC BY 4.0. Text records only.
+
+I.Sicily, Semitic inscriptions (data/ane/isicily-semitic/)
+  I.Sicily (https://github.com/ISicily/ISicily), doi:10.5281/zenodo.4384232, CC BY 4.0.
+
+Public Inscriptions from Palmyra (data/ane/palmyra-public-inscriptions/)
+  Rubina Raja, Julia Steding, Jean-Baptiste Yon and Iza Romanowska, Public Inscriptions from Palmyra, Zenodo,
+  doi:10.5281/zenodo.18934260, CC BY 4.0. Catalogue data and names; no inscription text.
+
+Hatra personal names (data/ane/hatra-marcato/)
+  Enrico Marcato, Personal Names in the Aramaic Inscriptions of Hatra (Antichistica 17; Venezia: Edizioni Ca'
+  Foscari 2018), doi:10.30687/978-88-6969-231-4, CC BY 4.0. The analysis and other-readings fields are Marcato's
+  text.
+
+DIANA I, Safaitic (data/ane/diana-safaitic/)
+  Ahmad Al-Jallad, Dictionary of the Inscriptions of Ancient North Arabia, Volume I: Safaitic, version 2026.1
+  (Columbus, Ohio: OCIANA 2026), doi:10.5281/zenodo.23847496, © 2026 Ahmad Al-Jallad, CC BY-NC-ND 4.0. The
+  entries as printed, with their pages, unchanged and in another format; for non-commercial use.
+
+DIANA II, Taymanitic (data/ane/diana2-taymanitic/)
+  Ahmad Al-Jallad, Dictionary of the Inscriptions of Ancient North Arabia, Volume II: Taymanitic, version 2026.1
+  (Columbus: OCIANA 2026), doi:10.5281/zenodo.24223110, © 2026 Ahmad Al-Jallad, CC BY-NC 4.0. The entries as
+  printed, with their pages; for non-commercial use.
+
 Pleiades places (data/ane/place-authorities/pleiades_places.jsonl)
   Pleiades (https://pleiades.stoa.org), CC BY 3.0.
 
 ORAEC/TLA Egyptian documents (data/share-alike/egyptian/)
   ORAEC republication of Thesaurus Linguae Aegyptiae records, CC BY-SA 4.0. Anything derived from these files
   carries the same terms.
+
+ORACC editions of the Late Bronze Age Levant (data/share-alike/oracc-levant/)
+  The AEMW Ugarit Corpus (The AEMW Project); The Amarna Letters, edition by Jacob Lauinger and Tyler Yoder, on
+  electronic transliterations by Shlomo Izre'el; the aemw/myamarna Project; the Statue of Idrimi, Jacob Lauinger.
+  All from ORACC (https://oracc.museum.upenn.edu/aemw/), CC BY-SA 3.0 as the projects' pages state; their JSON
+  archives say CC0. Anything derived from these files carries the same terms.
 
 TLA v18 names (data/share-alike/tla-v18-names/)
   Thesaurus Linguae Aegyptiae, Original Earlier Egyptian sentences, corpus v18, premium, v1.1, 2024-02-16, ed. T. S.

@@ -48,6 +48,7 @@ HT Zd 155 A-JU · NA-MA-MA-TI-TI-A319, before the divider, where HT Zd 157 has a
 |---|---|
 | Ugaritic | ḥy (III) PN, syll. fḫé-ia-PI, bn ḥy (KTU 4.366:4); ḥy (I) 'alive' (DULAT 376) |
 | Amorite | ḤAJJ-UM, ḪA-IU-UM (Gelb 1980, no. 2044) |
+| Eblaite | ʔà-u₉ /ḥayyu(m)/, the god's name (= ᵈEN.KI, Akk. Ea), from ḥ-y-y/w 'to live' (VE 803; Krebernik 1983, 31) |
 
 ## Attestations
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/d/2152_bird_of_prey
 title: "*daʾy(-at)-: 'bird of prey'"
-desc: "Proto-Semitic *daʾy(-at)-, 'bird of prey': reflexes in 7 language(s)."
+desc: "Proto-Semitic *daʾy(-at)-, 'bird of prey': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2152"
@@ -37,6 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | dayyǝtā, dayyūtā \[Ja. 299\], \[Levy WTM I 393\]; dyyh, det. dyyth \[DJPA 145b apud CAL\]; daytā \[Sok. B 330\], dyw \[Sok. B 328\]. | Ja. 299; Levy WTM I 393; DJPA 145b; CAL; Sok. B 330; Sok. B 328 | gloss withheld |
 | Syrian Aramaic | daytā 'kite' \[Brock. 150\], \[PS 892\]; also dayway id. \[ibid.\]. | Brock. 150; PS 892 |  |
 | Modern Aramaic | NSyr. détâ (SED II 92) | SED II 92 | gloss withheld |
+| Pre-Islamic North Arabian | Taymanitic dyh (Al-Jallad 2026b, 36) | Al-Jallad 2026b 36 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

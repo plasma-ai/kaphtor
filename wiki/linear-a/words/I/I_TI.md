@@ -41,20 +41,20 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 25b WI-TE-RO 𐄁 I-TI VIR 28 / VIR 24 / KU-RO 52: I-TI stands before the first of two personnel entries, 28 and 24 making the 52, as Akkadian ledgers write itti 'with, including' before an included subgroup. IO Za 12 \]𐄁 \]𐄁 JA-SA-SA-RA-ME 𐄁 I-TI\[, set off from the formula word by a divider and broken after: bare ʾitt- 'with', its complement lost, or ʾittī 'with me' (Heb. ʾittī), a predication of the ʿimmānû-ʾēl type. PS \*ʾin-t- 'with, at, via', the extended form of \*ʾin (Huehnergard 2019, §3.6): \*ʾinti &gt; ʾitti, the assimilated n and the geminate unwritten, the glottal onset on the bare vowel sign. Ugaritic prefers ʿm 'with'; ʾitt- stands with Akkadian and Canaanite, a Proto-Semitic retention. Rival on HT 25b: a personal name, in the name–VIR–number layout of the rosters.
+HT 25b WI-TE-RO 𐄁 I-TI VIR 28 / VIR 24 / KU-RO 52: I-TI stands before the first of two personnel entries, 28 and 24 making the 52, as Akkadian itti 'with', written i-ti in Old Babylonian, and Neo-Babylonian ittī 'in addition' (CAD I/J 302–303). IO Za 12 \]𐄁 \]𐄁 JA-SA-SA-RA-ME 𐄁 I-TI\[, set off from the formula word by a divider and broken after: bare ʾitt- 'with', its complement lost, or ʾittī 'with me' (Heb. ʾittī), a predication of the ʿimmānû-ʾēl type. PS \*ʾin-t- 'with, at, via', the extended form of \*ʾin (Huehnergard 2019, §3.6): \*ʾinti &gt; ʾitti, the assimilated n and the geminate unwritten, the glottal onset on the bare vowel sign. Ugaritic prefers ʿm 'with'; ʾitt- stands with Akkadian and Canaanite, a Proto-Semitic retention. Rival on HT 25b: a personal name, in the name–VIR–number layout of the rosters.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Akkadian | itti 'with' (&lt; \*ʔin-t- + n-assimilation) |
-| Hebrew | ʔēt/ʔitt- (אֵת/אִתּ־) 'with'; suffixed ʔittī (אִתִּי) 'with me' |
-| Phoenician | ʔt 'with' |
-| Geez | ʔǝntä 'through, by way of' (unassimilated \*ʔin-t-) |
+| Akkadian | itti 'with' (&lt; \*ʔin-t- + n-assimilation), written i-ti in Old Babylonian (CAD I/J 302–303) |
+| Hebrew | ʔēt/ʔitt- (אֵת/אִתּ־) 'with'; suffixed ʔittī (אִתִּי) 'with me' (HALOT 101) |
+| Phoenician | ʔt 'with, near, beside' (KAI 13:8; DNWSI 131) |
+| Geʿez | ʔǝntä 'through, by way of' (unassimilated \*ʔin-t-; Leslau 1987, 32–33) |
 
 ### Source
 
-di Mino
+di Mino; Huehnergard 2019; CAD I/J; HALOT; DNWSI; Leslau 1987
 
 ## Attestations
 

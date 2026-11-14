@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/inscriptions/PH/PH/PH3a
 title: "PH3a"
-desc: "Tablet, Phaistos, MMIIIB. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "tablet"]
+desc: "Tablet, Phaistos, MMIIIB. Translation: incomplete (SPECULATIVE)."
+tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
 kind: "inscription"
 id: "PH3a"
 site: "Phaistos"
 support: "Tablet"
 period: "MMIIIB"
-translation: "none"
+translation: "incomplete"
 words: ["PA-RA"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -61,6 +61,25 @@ Unicode (Linear A block):
 𐝫𐘂𐝫
 𐝫𐄇
 ```
+
+## Translation
+
+**SPECULATIVE**, incomplete (status: incomplete).
+
+> \]\*556 1; TA\[…\] \]\*557 1; \*563, a fraction; \]wool (MA+RU), a fraction; fleece, a fraction; \]PA\[…\] \]1.
+
+| Word | Reading | Gloss | Confidence | Lexicon |
+|---|---|---|---|---|
+| [[wiki/linear-a/words/P/PA_RA\|PA-RA]] | parr(u) | skin, fleece (a hide with its wool) | SPECULATIVE | SPECULATIVE (lexicon) |
+
+### Notes
+
+The left side and the bottom are broken. GORILA dots the first and the last unit (I 291); the three fractions are whole.
+
+### Source
+
+- di Mino: PA-RA
+- GORILA: PH3a
 
 ## Lexicon words citing this document
 

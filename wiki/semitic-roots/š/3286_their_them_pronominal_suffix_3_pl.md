@@ -36,7 +36,7 @@ updated: 2026-10-25T05:11:48Z
 | Tigre | -om/-hom (Bulakh–Kogan 2013b:101, WTS 6 apud SEDonline 1570); -an/-han (Bulakh–Kogan 2013b:101, WTS 17 apud SEDonline 1570) | SEDonline 1570 | gloss withheld |
 | Tigrinya | -om (Bulakh–Kogan 2013b:101 apud SEDonline 1570); -än (Bulakh–Kogan 2013b:101 apud SEDonline 1570) | SEDonline 1570 | gloss withheld |
 | Jibbali | -hum (Johnstone 1975:118 apud SEDonline 1570) | Johnstone 1975:118; SEDonline 1570 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic hm (Al-Jallad–Jaworska 77) | Al-Jallad–Jaworska 77 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic hm (Al-Jallad–Jaworska 77); Taymanitic -hm; Dadanitic -hm; Hismaic -hm (Al-Jallad 2026b, 10) | Al-Jallad–Jaworska 77; Al-Jallad 2026b 10 | gloss withheld |
 | Epigraphic South Arabian | Sab -hmw, -hm (suffix, 3 m. pl.; -hm rare) (Biella 111–112); Sab -hn (Biella 114) | Biella 111–112; Biella 114 | gloss withheld |
 | Ugaritic | -hm (DULAT 334); -hn (DULAT 337) | DULAT 334; DULAT 337 | gloss withheld |
 

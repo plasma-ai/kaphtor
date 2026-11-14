@@ -28,16 +28,10 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Value | /qa/ |
-| Alternates | /za/ |
+| Alternates | none |
 | Linear B | B 16, value qa |
 | Linear B Unicode | U+10023 LINEAR B SYLLABLE B016 QA |
 | Neutralization class | K |
-
-### Alternate values
-
-| Value | Confidence | Evidence |
-|---|---|---|
-| /za/ | 0.30 | shared with ZA in some analyses |
 
 ### Forms cited for the value
 
@@ -51,8 +45,9 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/I/I_NA_JA_PA_QA\|I-NA-JA-PA-QA]] | hinna yapqaḥ | CANDIDATE |
 | [[wiki/linear-a/words/I/I_QA_star118\|I-QA-\*118]] | iqṭaʿ | SPECULATIVE |
 | [[wiki/linear-a/words/J/JA_PA_QA\|JA-PA-QA]] | yapqaḥ | CANDIDATE |
+| [[wiki/linear-a/words/K/KA_QA\|KA-QA]] | Kakka | SPECULATIVE |
 | [[wiki/linear-a/words/O/O_SU_QA_RE\|O-SU-QA-RE]] | ʾō Sōkar | CANDIDATE |
-| [[wiki/linear-a/words/Q/QA_star118\|QA-\*118]] | qaṭṭ(u) | CANDIDATE |
+| [[wiki/linear-a/words/Q/QA_star118\|QA-\*118]] | qaṭṭ(u) | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_star118_RA_RE\|QA-\*118-RA-RE]] | qaṭara(re) | PROBABLE |
 | [[wiki/linear-a/words/Q/QA_star118_SA\|QA-\*118-SA]] | qaṭʿ-ša | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_star310_I\|QA-\*310-I]] | qaynī | PROBABLE |
@@ -64,8 +59,8 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/Q/QA_PA3\|QA-PA₃]] | qubaʿ | PROBABLE |
 | [[wiki/linear-a/words/Q/QA_QA_DA\|QA-QA-DA]] | qaqqadu | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_QA_RU\|QA-QA-RU]] | Qaqqaru | CANDIDATE |
-| [[wiki/linear-a/words/Q/QA_RA2_WA\|QA-RA₂-WA]] | qalwa | SPECULATIVE |
-| [[wiki/linear-a/words/Q/QA_RE_TO\|QA-RE-TO]] | qart- | CANDIDATE |
+| [[wiki/linear-a/words/Q/QA_RA2_WA\|QA-RA₂-WA]] | qalwa | CANDIDATE |
+| [[wiki/linear-a/words/Q/QA_RE_TO\|QA-RE-TO]] | qarēt- | CANDIDATE |
 | [[wiki/linear-a/words/Q/QA_TI_DA_TE\|QA-TI-DA-TE]] | Kati-tati | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_TI_JU\|QA-TI-JU]] | Qātilu | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_TI_KI\|QA-TI-KI]] | Kattike | SPECULATIVE |

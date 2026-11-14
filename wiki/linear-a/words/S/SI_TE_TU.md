@@ -41,18 +41,19 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-ZA 20 .2 SI-TE-TU 1, after DU-RE-ZA-SE MI · 4 and before SI-TU 6, in a list ending KU-RA 130 (GORILA III 193). šetātu, the feminine of Ugaritic štt 'spun, woven', written TÚG še-ta-ti at Ras Shamra (DULAT 839), beside SI-TU sūt 'garment' on the next line. Rival: šittātu 'remainder' (CAD Š/3 136). One witness.
+ZA 20 .2 SI-TE-TU 1, after DU-RE-ZA-SE MI · 4 and before SI-TU 6, in a list ending KU-RA 130 (GORILA III 193). šetātu, Ugaritic štt adj. f. 'spun, woven', written TÚG še-ta-ti at Ras Shamra (DULAT 839), beside SI-TU sūt 'garment' on the next line; Watson sets Akk. šuttūtu 'woven stuff, textile' beside štt (Watson 2018b, 368). Rival: šittātu 'remainder' (CAD Š/3 136). One witness.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Ugaritic | štt adj. f. 'spun, woven'; RS Akk. TÚG še-ta-ti (DULAT 839) |
-| Akkadian | šatû adj. 'woven (cloth)' (CAD Š/2 207); šittātu 'remainder', pl. of šittu A (CAD Š/3 136), rival |
+| Ugaritic | štt adj. f. 'spun, woven'; šʿrt štt 'spun wool' (KTU 4.337:9); RS Akk. TÚG še-ta-ti (DULAT 839; Watson 2018b, 368) |
+| Akkadian | šatû adj. 'woven (cloth)' (CAD Š/2 207), šatû B 'to weave, to spin' (CAD Š/2 217); šittātu 'remainder', pl. of šittu A (CAD Š/3 136), rival |
+| Hebrew | šətî (שְׁתִי) 'warp of woven cloth' (Lev 13:48; HALOT 1669) |
 
 ### Source
 
-di Mino; DULAT; CAD Š
+di Mino; DULAT; CAD Š; Watson 2018b; HALOT
 
 ## Attestations
 

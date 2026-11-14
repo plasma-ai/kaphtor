@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Amorite | nṣb: naṣab(ān)um, naṣbum, niṣbum, jānṣib (Gelb AS 21, 27) | Gelb AS 21 27 | gloss withheld |
 | Epigraphic South Arabian | Sab nṣb (Kogan 2015, ch. 3 §5.3 no. 26; Sabaweb lemma 4684) | Kogan 2015 ch. 3 §5.3 no. 26; Sabaweb lemma 4684 | gloss withheld |
 | Syrian Aramaic | nṣab (Kogan 2015, ch. 3 §5.3 no. 26) | Kogan 2015 ch. 3 §5.3 no. 26 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic nṣb (Al-Jallad–Jaworska 107); Dadanitic nṣb; Taymanitic nṣb (Al-Jallad 2026, 105) | Al-Jallad–Jaworska 107; Al-Jallad 2026 105 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic nṣb (Al-Jallad–Jaworska 107); Dadanitic nṣb (Al-Jallad 2026, 105); Taymanitic nṣb (Al-Jallad 2026b, 17) | Al-Jallad–Jaworska 107; Al-Jallad 2026 105; Al-Jallad 2026b 17 | gloss withheld |
 | Eblaitic | na-zi-bù /nāṣibu(m)/ (VE 722, Kogan–Krebernik 2021b: 688 apud SEDonline 1197) | VE 722, Kogan–Krebernik 2021b: 688; SEDonline 1197 | gloss withheld |
 | Biblical Aramaic | \*niṣbā (HALOT BArm. s.v. נִצְבָּה); yṣb pa. (HALOT BArm. s.v. יצב) | HALOT BArm. s.v. נִצְבָּה; HALOT BArm. s.v. יצב | gloss withheld |
 

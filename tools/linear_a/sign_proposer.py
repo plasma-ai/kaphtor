@@ -10,6 +10,7 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import sqlite3
 import sys
 from collections import Counter
 from itertools import pairwise
@@ -585,6 +586,7 @@ def propose_sign_value(target: str, options: dict) -> dict:
         "min_coverage": float(options.get("min_coverage", 0.0)),
         "candidates": options.get("candidates"),
         "include_rejected": bool(options.get("include_rejected", False)),
+        "reflexes": bool(options.get("reflexes", False)),
     }
 
     result = {
@@ -610,6 +612,7 @@ def propose_sign_value(target: str, options: dict) -> dict:
         return result
 
     candidate_values = generate_candidate_values(sign_values, origin, options.get("candidates"))
+    raw_roots = data_cache.semitic_roots()
     total_generated = len(candidate_values)
     rejected = load_rejected_values()
     candidate_values, excluded = apply_rejected_values(
@@ -622,9 +625,17 @@ def propose_sign_value(target: str, options: dict) -> dict:
     ranking_options = {
         **result_options,
         "target_corpus_sign": normalized["corpus_form"],
-        "roots": _prepare_root_entries(data_cache.semitic_roots()),
+        "roots": _prepare_root_entries(raw_roots),
         "known_pair_inventory": known_pair_inventory(corpus, sign_values),
     }
+    if result_options["reflexes"]:
+        try:
+            extra = reflex_root_entries(raw_roots, ranking_options["roots"])
+        except (OSError, RuntimeError, sqlite3.Error) as exc:
+            result["reflex_note"] = f"reflexes not read: {exc}"
+        else:
+            ranking_options["roots"] = ranking_options["roots"] + extra
+            result["reflex_note"] = f"{len(extra)} header alternates and language-cell forms added to the roots"
     ranked = rank_candidates(candidate_values, annotated_contexts, origin, ranking_options)
     top_n = int(options.get("top", 10))
     result["candidate_generation"].update({
@@ -657,6 +668,34 @@ def propose_sign_value(target: str, options: dict) -> dict:
     return result
 
 
+def reflex_root_entries(raw_roots: list, base: list[dict]) -> list[dict]:
+    """Root records that _prepare_root_entries leaves out: a header's other alternates (it keeps the first) and
+    the forms in every Semitic language cell (it reads Ugaritic and Phoenician), through the root index. A
+    skeleton already in `base` is not repeated; among cells the order is cognate_search's REFLEX_LANGUAGE_ORDER.
+    Raises when the index is missing or stale."""
+    from . import cognate_search as cs
+
+    seen = {normalize_phonemes(entry["root"]) for entry in base}
+    extra: list[dict] = []
+
+    def add(root: str, meaning: str, ps: str, source: str, form: str = "") -> None:
+        key = normalize_phonemes(root)
+        if len(root) < 2 or key in seen:
+            return
+        seen.add(key)
+        extra.append({"root": root, "meaning": meaning, "proto_semitic": ps, "source": source, "form": form})
+
+    for raw in raw_roots:
+        ps = raw.get("Proto-Semitic") or ""
+        for skel in cs._extract_root_consonant_variants(ps):
+            add(skel, (raw.get("Meaning") or "").strip("'\""), ps, "Proto-Semitic")
+    order = {language: rank for rank, language in enumerate(cs.REFLEX_LANGUAGE_ORDER)}
+    keys = sorted(cs._reflex_keys(), key=lambda k: order.get(k[1], len(order)))
+    for _number, language, radicals, form, ps, meaning in keys:
+        add(radicals, meaning.strip("'\""), ps, language, form)
+    return extra
+
+
 def format_report(result: dict) -> str:
     """Format a human-readable proposal report."""
     target = result["target"]
@@ -667,6 +706,7 @@ def format_report(result: dict) -> str:
         "Linear A Sign Value Proposal",
         "=" * 60,
         DISCLAIMER,
+        *([result["reflex_note"]] if result.get("reflex_note") else []),
         "",
         f"Target: {target['input']} -> corpus {target['corpus_form']}, registry {target['registry_form']}",
         f"Registry: {'found' if registry.get('found') else 'not found'}, readings={registry.get('readings_count', 0)}",
@@ -1086,6 +1126,9 @@ def _run() -> None:
     parser.add_argument("--min-coverage", type=float, default=0.0, help="Minimum average analysis coverage")
     parser.add_argument("--polyvalent", action="store_true",
                         help="Also generate polyvalent consonant candidates from unresolved phonemic gaps")
+    parser.add_argument("--reflexes", action="store_true",
+                        help="Also score against a root header's other alternates and the forms in every Semitic "
+                             "language cell (root index); each match names its language")
     parser.add_argument("--include-rejected", action="store_true",
                         help="Score values listed in data/rejected_sign_values.json, tagged REJECTED")
     args = parser.parse_args()
@@ -1104,6 +1147,7 @@ def _run() -> None:
         "min_coverage": args.min_coverage,
         "polyvalent": args.polyvalent,
         "include_rejected": args.include_rejected,
+        "reflexes": args.reflexes,
     }
 
     try:
@@ -1372,7 +1416,8 @@ def root_matches_for_skeleton(skeleton: str, options: dict) -> list[dict]:
     max_distance = float(options.get("max_distance", 1.5))
     matches = []
     for match in score_against_roots(skeleton, 1.0, options.get("roots", []), max_distance=max_distance):
-        matches.append({**match, "language": "Proto-Semitic"})
+        language = match.get("source_lang") if options.get("reflexes") else None
+        matches.append({**match, "language": language or "Proto-Semitic"})
     if options.get("include_luwian"):
         matches.extend(score_against_luwian_roots(skeleton, 1.0, max_distance=max_distance))
     if options.get("include_egyptian"):

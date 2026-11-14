@@ -68,7 +68,7 @@ Read words on the same documents.
 | KI-RO | kilʾu | owed, outstanding balance (deficit)—transaction term heading deficit sections |
 | [[wiki/names/hurrian/names/A_RA_NA_RE\|A-RA-NA-RE]] | Aranare | personal name; Ugaritic ålnr (Hurrian), Linear B a-ra-na-ro |
 | KI | ki | so that, because |
-| [[wiki/names/semitic/names/A_DU\|A-DU]] | ʾAddu / adû | Addu/Haddu (heading); rival adû 'work stint' |
+| [[wiki/names/semitic/names/A_DU\|A-DU]] | adû | work assignment; the ration allotted to it (heading of personnel and ration lists) |
 | [[wiki/names/sumerian/names/KU_PA3_PA3\|KU-PA₃-PA₃]] | Kubaba | Kubaba, Sumerian Kug-Baba 'Pure is Baba' (divine or personal name) |
 | [[wiki/names/egyptian/names/PA_JA_RE\|PA-JA-RE]] | Payare | He (of) Re: Egyptian personal name Pꜣ-Rꜥ (Gordon's Pꜣy-Rꜥ); Linear B pa-ja-ro |
 | KU-RO | kull | total, sum (accounting term) |

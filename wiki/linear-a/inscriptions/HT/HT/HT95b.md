@@ -66,13 +66,13 @@ Unicode (Linear A block):
 
 **no confidence given**, complete.
 
-> For Addu: king/royal establishment 10, \[break\], blood (ritual category) 10, count/reckoning 10, emmer 10, nobles/council 10, parched grain 10.
+> Rations: king/royal establishment 10, \[break\], blood (ritual category) 10, count/reckoning 10, emmer 10, nobles/council 10, parched grain 10.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/A/A_DU\|A-DU]] | ʾAddu | Storm God (= Hadad/Baal)—heading/recipient; rival adû 'work assignment' | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/A/A_DU\|A-DU]] | adû | work assignment, ration (heading) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/S/SA_RU\|SA-RU]] | šarru | king, prince; rival 'barley' | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/D/DA_ME\|DA-ME]] | damu | blood (ritual allocation category) | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/D/DA_ME\|DA-ME]] | damʿu | the sanctuary's share of the produce | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/M/MI_NU_TE\|MI-NU-TE]] | minūt | amount, number; counting or reckoning | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/K/KU_NI_SU\|KU-NI-SU]] | kunīšu | emmer | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/D/DI_DE_RU\|DI-DE-RU]] | ʾaddīru | nobles, council of elders | PROBABLE | PROBABLE (lexicon) |
@@ -80,14 +80,13 @@ Unicode (Linear A block):
 
 ### Notes
 
-Context: Allocation ledger for the Storm God Addu—same six category words as recto (HT95a) with adjusted quantities, all standardized to 10 units except possible lost entry at break
+Context: Ration ledger headed A-DU adû 'work assignment, ration'—same six category words as recto (HT95a) with adjusted quantities, all standardized to 10 units except possible lost entry at break
 
-Verso of HT95a. Same six allocation categories as recto but with different quantities—recto has SA-RU 20 and QE-RA₂-U 7; verso standardizes all to 10. The recto header DA-DU-MA-TA · GRA names the institution and commodity (grain); the verso header A-DU names the divine recipient (Storm God). Together the two sides likely represent two related distributions: one institutional (recto), one cultic (verso). The fragment markers between SA-RU and DA-ME indicate at least one lost entry. All six categories match exactly between recto and verso—the same allocation vocabulary in a different fiscal context.
+Verso of HT95a. Same six allocation categories as recto but with different quantities—recto has SA-RU 20 and QE-RA₂-U 7; verso standardizes all to 10. The recto header DA-DU-MA-TA · GRA names the institution and commodity (grain); the verso header A-DU adû names the rations account (CAD A/1 135; Draffkorn 1959, 152–54). Together the two sides set one list under two headings, a district (recto) and the rations (verso). The fragment markers between SA-RU and DA-ME indicate at least one lost entry. All six categories match exactly between recto and verso—the same allocation vocabulary in a different fiscal context.
 
 ### Source
 
-- Gordon 1966: A-DU
-- di Mino: SA-RU, DA-ME, MI-NU-TE, KU-NI-SU, DI-DE-RU
+- di Mino: A-DU, SA-RU, DA-ME, MI-NU-TE, KU-NI-SU, DI-DE-RU
 
 ## Lexicon words citing this document
 

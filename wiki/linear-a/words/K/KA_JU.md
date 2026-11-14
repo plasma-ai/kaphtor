@@ -84,6 +84,6 @@ HT 88 .4 KA-JU 1, in the one-unit roster after KI-RO (GORILA I 139). Ugarit issu
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/A/A_DU|A-DU]] ʾAddu / adû, [[wiki/linear-a/words/K/KI_RO|KI-RO]] kilʾu, [[wiki/linear-a/words/K/KU_PA3_NU|KU-PA₃-NU]] Kubānu, [[wiki/linear-a/words/K/KU_PA3_PA3|KU-PA₃-PA₃]] Kubaba, [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull, [[wiki/linear-a/words/P/PA_JA_RE|PA-JA-RE]] Payare.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/A/A_DU|A-DU]] adû, [[wiki/linear-a/words/K/KI_RO|KI-RO]] kilʾu, [[wiki/linear-a/words/K/KU_PA3_NU|KU-PA₃-NU]] Kubānu, [[wiki/linear-a/words/K/KU_PA3_PA3|KU-PA₃-PA₃]] Kubaba, [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull, [[wiki/linear-a/words/P/PA_JA_RE|PA-JA-RE]] Payare.
 
 <!-- END kaphtor:record -->

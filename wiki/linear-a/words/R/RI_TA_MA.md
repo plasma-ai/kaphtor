@@ -49,6 +49,7 @@ HT 115a .1–2 RỊ-TẠ-MẠ, all three signs underdotted in both copies, then 
 |---|---|
 | Hebrew | rōtem 'broom' (1 Kgs 19:4); Ritmâ, a wilderness encampment (Num 33:18) |
 | Arabian | PN rtm, 'ratam, broom (plant)' (Harding 1971, 269) |
+| Arabic | ratam 'in the present day the shrub broom' (Lane 1029) |
 
 ### Source
 

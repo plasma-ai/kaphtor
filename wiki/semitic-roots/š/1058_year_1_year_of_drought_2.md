@@ -44,7 +44,7 @@ updated: 2026-11-02T13:43:34Z
 | Judaic Aramaic | šattā, šənā (HALOT 1600) | HALOT 1600 | gloss withheld |
 | Biblical Aramaic | \*šənā (HALOT 1600) | HALOT 1600 | gloss withheld |
 | Epigraphic South Arabian | s₁nyn (Kogan 2011, 197) | Kogan 2011 197 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic snt (Al-Jallad–Jaworska 122); Dadanitic snt; Taymanitic snt; Hismaic snt; Hasaitic snt; Safaitic snt 2 (Al-Jallad 2026, 134) | Al-Jallad–Jaworska 122; Al-Jallad 2026 134 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic snt (Al-Jallad–Jaworska 122); Dadanitic snt; Hismaic snt; Hasaitic snt; Safaitic snt 2 (Al-Jallad 2026, 134); Taymanitic snt (Al-Jallad 2026b, 20) | Al-Jallad–Jaworska 122; Al-Jallad 2026 134; Al-Jallad 2026b 20 | gloss withheld |
 | Canaanite | ša-ni-ta /šan(a)t/ 1 (gloss to MU, EA 362:66) (Sanmartín GlOS 2, 256) | Sanmartín GlOS 2, 256 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

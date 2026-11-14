@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/star
 desc: "Words that open with a sign known by its number, such as *306."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-13T13:31:15Z
+updated: 2026-11-16T03:58:42Z
 ---
 
 # wiki/linear-a/words/star
@@ -35,7 +35,7 @@ updated: 2026-11-13T13:31:15Z
 
 [[wiki/linear-a/words/star/star188_star86|star188_star86]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/star/star21|star21]]: Unread sign (sign, value on file); 1 occurrence(s).
+[[wiki/linear-a/words/star/star21|star21]]: (logogram): sheep (livestock logogram, sex unmarked). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/star/star21F|star21F]]: (logogram): ewe (livestock logogram, standing alone before a numeral). Lexicon, PROBABLE (tier 3).
 
@@ -111,6 +111,8 @@ updated: 2026-11-13T13:31:15Z
 
 [[wiki/linear-a/words/star/star307|star307]]: dubur: sanctuary (logogram), standing by itself. Lexicon, PROBABLE (tier 3).
 
+[[wiki/linear-a/words/star/star307_plus_star307|star307_plus_star307]]: the sanctuaries, the temple establishment as a whole: *307 dubur 'sanctuary' written twice as a plural. Lexicon, CANDIDATE (tier 2).
+
 [[wiki/linear-a/words/star/star307_plus_star307_GRA_plus_QE|star307_plus_star307_GRA_plus_QE]]: Unread sign (compound, component read); 1 occurrence(s).
 
 [[wiki/linear-a/words/star/star308|star308]]: šamnu: pressed oil, oil derivative—commodity modifier indicating oil extraction from base commodity. Lexicon, PROBABLE (tier 3).
@@ -145,7 +147,7 @@ updated: 2026-11-13T13:31:15Z
 
 [[wiki/linear-a/words/star/star314|star314]]: Unread sign (sign, unread); 1 occurrence(s).
 
-[[wiki/linear-a/words/star/star314_TA_MA|star314_TA_MA]]: ḥatam(a): seal, signet; rivals 'he sealed' (3ms perfective), buṭma 'pistachio'. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/star/star314_TA_MA|star314_TA_MA]]: ḥatam(a): seal, signet. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/star/star315|star315]]: Unread sign (sign, unread); 1 occurrence(s).
 
@@ -273,7 +275,7 @@ updated: 2026-11-13T13:31:15Z
 
 [[wiki/linear-a/words/star/star408_VS|star408_VS]]: Unread sign (vessel, unread); 4 occurrence(s).
 
-[[wiki/linear-a/words/star/star409_VS|star409_VS]]: Unread sign (vessel, unread); 5 occurrence(s).
+[[wiki/linear-a/words/star/star409_VS|star409_VS]]: (logogram): tripod vessel without handles (vessel logogram). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/star/star410_VS|star410_VS]]: Unread sign (vessel, unread); 1 occurrence(s).
 

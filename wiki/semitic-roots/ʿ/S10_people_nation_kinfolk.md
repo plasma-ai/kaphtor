@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ʿam (HALOT 837); ʿāmît (HALOT 845). ʿammī | HALOT 837; HALOT 845 | gloss withheld |
 | Syrian Aramaic | ʕam 'people, nation; Gentiles; crowd' (Payne Smith 416) | Payne Smith 416 |  |
 | Punic | ʿm; ʿm mḥnt (Krahmalkov 378); ʿmt; Neo-Punic ʿm šrt (Krahmalkov 380) | Krahmalkov 378; Krahmalkov 380; Anderson–Moser 2024 root ʿm | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ʿm (Al-Jallad–Jaworska 53) | Al-Jallad–Jaworska 53 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʿm (Al-Jallad–Jaworska 53); Taymanitic ʿm (Al-Jallad 2026b, 5) | Al-Jallad–Jaworska 53; Al-Jallad 2026b 5 | gloss withheld |
 | Epigraphic South Arabian | Sab ʿmm (Biella 372; Sabaweb lemma 3737) | Biella 372; Sabaweb lemma 3737 | gloss withheld |
 | Aramaic | ʿm (T 249) | T 249 |  |
 | Judaic Aramaic | ʿamaʾ (T 249) | T 249 |  |

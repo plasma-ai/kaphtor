@@ -31,11 +31,11 @@ updated: 2026-11-11T23:39:03Z
 | Reading's standing | SPECULATIVE |
 | Standing as a place name or gentilic | SPECULATIVE |
 | Standing of the layer | SPECULATIVE (lexicon_reading) |
-| Source | di Mino; Kilani 2020; GlOS 1; AED |
+| Source | di Mino; Kilani 2020; GlOS 1; AED; Watson 2018b; Vycichl 1983 |
 
 ## Note
 
-HT 117a .7–8 KO-SA-I-TI 1, complete, I dotted, the second of five under SA-TA Šata, between KU-KU-DA-RA and DA-MI-NU (GORILA I 197). KO writes the ō of Coptic ⲉϭⲱϣ 'Nubian', feminine ⲉϭⲟⲟϣⲉ (Vycichl 1983, 50, apud Kilani 2020), SA-I the gentilic glide of Amarna LÚ.MEŠ ka-ši-yi (EA 287:33), I-TI the feminine nisbe -īt: Kōšayīt 'the Kushite woman', an origin label as U-SU ʾUšu and U-DI-MI ʾUdmī on the same tablet. Rival: kusītu 'robe' (Ebla gu-zi-tum, Amarna ku-zi-ti, Ug. kst; GlOS 1, 325), a garment in a roster of persons, where KU-SI-TI is the expected spelling. One witness.
+HT 117a .7–8 KO-SA-I-TI 1, complete, I dotted, the second of five under SA-TA Šata, between KU-KU-DA-RA and DA-MI-NU (GORILA I 197). KO writes the ō of Coptic ⲉϭⲱϣ 'Nubian', feminine ⲉϭⲟⲟϣⲉ (Vycichl 1983, 50, apud Kilani 2020), SA-I the gentilic glide of Amarna LÚ.MEŠ ka-ši-yi (EA 287:33), I-TI the feminine nisbe -īt: Kōšayīt 'the Kushite woman', an origin label as U-SU ʾUšu and U-DI-MI ʾUdmī on the same tablet. Rival: kusītu 'robe' (Ebla gu-zi-tum, Amarna ku-zi-ti, Ug. kst; GlOS 1, 325), a garment in a roster of persons, where KU-SI-TI is the expected spelling, though Ugaritic has the variant kśt and Boğazköy kušītu (Watson 2018b, 363). One witness.
 
 ## As a name
 

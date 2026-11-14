@@ -23,7 +23,7 @@ updated: 2026-10-24T16:17:50Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Signs.** \*333 · [[wiki/linear-a/signs/syllabic/DI|DI]] · [[wiki/linear-a/signs/syllabic/NA|NA]] · [[wiki/linear-a/signs/syllabic/SU|SU]] · [[wiki/linear-a/signs/syllabic/KA|KA]]
+**Signs.** [[wiki/linear-a/signs/syllabic/star333|\*333]] · [[wiki/linear-a/signs/syllabic/DI|DI]] · [[wiki/linear-a/signs/syllabic/NA|NA]] · [[wiki/linear-a/signs/syllabic/SU|SU]] · [[wiki/linear-a/signs/syllabic/KA|KA]]
 
 ## Lexicon
 

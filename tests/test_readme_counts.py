@@ -28,7 +28,6 @@ def computed() -> dict[str, int]:
 
     m = model.load(LINEAR_A_DATA)
     complete, _ = counts.translation_counts({k: t["raw"] for k, t in m.translations.items()})
-    summary = m.sign_values["resolution_summary"]
     roots = json.loads((SEMITIC_ROOTS_DATA / "semitic_roots.json").read_text(encoding="utf-8"))["roots"]
     return {
         "corpus": len(m.corpus),
@@ -36,8 +35,7 @@ def computed() -> dict[str, int]:
         "lexicon": len(m.lexicon),
         "names": len(m.onomasticon),
         "Semitic roots": len(roots),
-        "sign values": (summary["total"] + summary["proposed"]["phonemic_count"]
-                        + summary["proposed"]["logogram_count"]),
+        "sign values": counts.sign_value_counts(m.sign_values["resolution_summary"])["total"],
     }
 
 

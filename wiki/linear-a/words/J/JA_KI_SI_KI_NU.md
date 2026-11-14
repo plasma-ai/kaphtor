@@ -41,22 +41,21 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-ARKH Zf 9, a bronze votive object from Arkhanes: JA-KI-SI-KI-NU · MI-DA-RU-RA ·, the first of two words. yaksīkin 'May he cover you (women)!': ya-, the 3ms prefix, the G-stem imperfect \*yaksī of √k-s-y 'to cover', a III-weak root, and -kin, the 2fp object suffix, NU writing the final nasal. 'Cover' takes a second object, the covering, MI-DA-RU-RA. Jonah 3:6 וַיְכַ֣ס שַׂ֔ק וַיֵּ֖שֶׁב עַל־הָאֵֽפֶר 'he covered himself with sackcloth and sat in the ashes' joins √k-s-y and ashes in penitence before God, and Jonah 3:8 וְיִתְכַּסּ֣וּ שַׂקִּ֗ים 'let them cover themselves with sackcloth' has the Hithpael (tD) of the same root. One attestation. See MI-DA-RU-RA and MI-KI-SE-NA.
+ARKH Zf 9, a bronze votive object from Arkhanes: JA-KI-SI-KI-NU · MI-DA-RU-RA ·, the first of two words. yaksīkin 'May he cover you (women)!': ya-, the 3ms prefix, the G-stem imperfect \*yaksī of √k-s-y 'to cover', a III-weak root, and -kin, the 2fp object suffix, NU writing the final nasal. -kin is the Proto-Semitic 2fp suffix, genitive and accusative alike (Huehnergard 2019, 54), and Ugaritic -kn is vocalised -kin(ā) (Huehnergard 2012, 33; /-kun(n)ā/ in Tropper 2000, 225). 'Cover' takes a second object, the covering, MI-DA-RU-RA. Jonah 3:6 וַיְכַ֣ס שַׂ֔ק וַיֵּ֖שֶׁב עַל־הָאֵֽפֶר 'he covered himself with sackcloth and sat in the ashes' joins √k-s-y and ashes in penitence before God, and Jonah 3:8 וְיִתְכַּסּ֣וּ שַׂקִּ֗ים 'let them cover themselves with sackcloth' has the Hithpael (tD) of the same root. Rival: a name ending in KI-NU Kīnu (ARKH 3a), as Amorite Yaksiy-ʾIl. One attestation. See MI-DA-RU-RA and MI-KI-SE-NA.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Hebrew | kāsā (כָּסָה) 'to cover' (Jonah 3:6 wayekas śaq—same root with ashes in penitential context) |
-| Ugaritic | yks, tks, G prefix 'cover' (GlOS 1, 325) |
+| Hebrew | kāsā (כָּסָה) 'to cover' (Jonah 3:6 wayekas śaq—same root with ashes in penitential context); 2fp suffix -ḵen, on nouns (GKC §58 n. 1) |
+| Ugaritic | yks, tks, G prefix 'cover' (GlOS 1, 325); 2fp suffix -kn, -kin(ā) (Huehnergard 2012, 33) or /-kun(n)ā/, on nouns only in KTU 1.40 (Tropper 2000, 225) |
 | Amorite | Yaksiy-ʾIl, with the prefix form yaksiy (Gelb 1980, nos. 22, 2918); Mari ia-ak-sí-ia (GlOS 1, 325) |
-| Arabic | kasā (كسا) 'to clothe, cover' |
-| Akkadian | kasû 'to bind, cover' |
-| 2fp object suffix | Ugaritic -kn; Hebrew -ḵen; Akkadian -kina; Arabic -kunna (Fischer 2002, §268) |
+| Arabic | kasā (كسا) 'to clothe, cover'; 2fp suffix -kunna (Fischer 2002, §268) |
+| Akkadian | kasû 'to bind, cover'; 2fp suffix -kina, object -kināti (Huehnergard 1997, 169) |
 
 ### Source
 
-di Mino; Gelb 1980; GlOS 1
+di Mino; Gelb 1980; GlOS 1; Huehnergard 2019; Huehnergard 2012; Tropper 2000; Huehnergard 1997; GKC; Fischer 2002
 
 ## Attestations
 

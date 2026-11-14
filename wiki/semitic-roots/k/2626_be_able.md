@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/2626_be_able
 title: "*khl: 'be able'"
-desc: "Proto-Semitic *khl, 'be able': reflexes in 15 language(s)."
+desc: "Proto-Semitic *khl, 'be able': reflexes in 16 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2626"
@@ -45,6 +45,7 @@ updated: 2026-10-22T17:38:31Z
 | Mehri | kəhēl (Kogan 2015, ch. 2 §4.2 no. 29) | Kogan 2015 ch. 2 §4.2 no. 29 | gloss withheld |
 | Amorite | khl: kahalum, kihilum (Gelb AS 21, 23); kahlu: abū kahli, a-bu ka-a-li (M.11858) (Streck 2000, 101; Streck 2011, 366); kihlu, kahalu (Buck 2019, 328) | Gelb AS 21 23; Streck 2000 101; Streck 2011, 366; Buck 2019, 328 | gloss withheld |
 | Biblical Aramaic | khl (HALOT BArm. s.v. כהל) | HALOT BArm. s.v. כהל | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic khl, a god of the Thamudic B inscriptions (Al-Jallad 2026, 186); Taymanitic khl (Al-Jallad 2026b, 44) | Al-Jallad 2026 186; Al-Jallad 2026b 44 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

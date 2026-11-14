@@ -2,20 +2,20 @@
 name: wiki/linear-a/inscriptions/PH/PHWc
 desc: "Inscriptions from Phaistos, series PHWc."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-13T13:31:15Z
+updated: 2026-11-14T19:56:36Z
 ---
 
 # wiki/linear-a/inscriptions/PH/PHWc
 
 [[wiki/linear-a/inscriptions/PH/_index|..]]
 
-[[wiki/linear-a/inscriptions/PH/PHWc/PHWc37|PHWc37]]: Roundel, Phaistos, MMII. Translation: none.
+[[wiki/linear-a/inscriptions/PH/PHWc/PHWc37|PHWc37]]: Roundel, Phaistos, MMII. Translation: complete (CANDIDATE).
 
 [[wiki/linear-a/inscriptions/PH/PHWc/PHWc38|PHWc38]]: Roundel, Phaistos, MMII. Translation: complete (CANDIDATE).
 
 [[wiki/linear-a/inscriptions/PH/PHWc/PHWc39|PHWc39]]: Roundel, Phaistos, MMII. Translation: complete (SPECULATIVE).
 
-[[wiki/linear-a/inscriptions/PH/PHWc/PHWc40|PHWc40]]: Roundel, Phaistos, MMII. Translation: none.
+[[wiki/linear-a/inscriptions/PH/PHWc/PHWc40|PHWc40]]: Roundel, Phaistos, MMII. Translation: complete (CANDIDATE).
 
 [[wiki/linear-a/inscriptions/PH/PHWc/PHWc41|PHWc41]]: Roundel, Phaistos, MMII. Translation: none.
 

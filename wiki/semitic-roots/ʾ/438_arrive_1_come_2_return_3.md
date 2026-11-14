@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | ʔty 2 (DNWSI 133) | DNWSI 133 |  |
 | Amorite | ʾtj?: ʾatā (Gelb AS 21, 14); ʾ-t-w, ʾ-t-y 1, 2: ì-lí-a-ta-a-ia, =i-te-e, ià-a-ti-um (mar-tu) (Ur III) (Sanmartín GlOS 1, 49) | Gelb AS 21 14; Sanmartín GlOS 1, 49 | gloss withheld |
 | Punic | ʾtʾ (T 39) | T 39 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ʾtw (Al-Jallad–Jaworska 49) | Al-Jallad–Jaworska 49 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʾtw (Al-Jallad–Jaworska 49); Taymanitic ʾtw (Al-Jallad 2026b, 4); ʾtw (Al-Jallad 2026b, 30) | Al-Jallad–Jaworska 49; Al-Jallad 2026b 4; Al-Jallad 2026b 30 | gloss withheld |
 | Argobba | ˀatt (Wetter 2010:77 apud SEDonline 326) | Wetter 2010:77; SEDonline 326 | gloss withheld |
 | Tigre | ˀatā (WTS 370 apud SEDonline 326) | WTS 370; SEDonline 326 | gloss withheld |
 | Tigrinya | ˀatäwä (TED 1469 apud SEDonline 326) | TED 1469; SEDonline 326 | gloss withheld |

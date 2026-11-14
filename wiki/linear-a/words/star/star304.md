@@ -48,6 +48,7 @@ Commodity ideogram on 38 tablets, regularly among GRA, OLE, OLIV and related com
 | Language | Comparison |
 |---|---|
 | Hebrew | peder 'kidney fat, suet', burnt on the altar with the head, wəʾet-happāder, Lev 1:8 (HALOT 914) |
+| Judaic Aramaic | pidrā 'fat' (Jastrow 1137) |
 
 ### Source
 
@@ -72,9 +73,9 @@ di Mino; HALOT; Schoep 2002
 | [[wiki/linear-a/inscriptions/HT/HT/HT129\|HT129]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT131a\|HT131a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT18\|HT18]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT21\|HT21]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT21\|HT21]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT28a\|HT28a]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT33\|HT33]] | Haghia Triada | Tablet | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/HT/HT/HT33\|HT33]] | Haghia Triada | Tablet | incomplete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HT/HT41a\|HT41a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1020\|HTWa1020]] | Haghia Triada | Nodule | complete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1021bis\|HTWa1021bis]] | Haghia Triada | Nodule | none; form not in transliteration |
@@ -83,9 +84,9 @@ di Mino; HALOT; Schoep 2002
 | [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3020\|HTWc3020]] | Haghia Triada | Roundel | complete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/KH/KH/KH7b\|KH7b]] | Khania | Tablet | incomplete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/KH/KH/KH8\|KH8]] | Khania | Tablet | none |
-| [[wiki/linear-a/inscriptions/KH/KH/KH9\|KH9]] | Khania | Tablet | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/KH/KH/KH9\|KH9]] | Khania | Tablet | incomplete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/KH/KH/KH12\|KH12]] | Khania | Tablet | none; form not in transliteration |
-| [[wiki/linear-a/inscriptions/KH/KH/KH13\|KH13]] | Khania | Tablet | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/KH/KH/KH13\|KH13]] | Khania | Tablet | incomplete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/KH/KH/KH37\|KH37]] | Khania | Tablet | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/KH/KH/KH73\|KH73]] | Khania | Tablet | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/KH/KH/KH85\|KH85]] | Khania | Tablet | none |
@@ -103,6 +104,7 @@ di Mino; HALOT; Schoep 2002
 | [[wiki/linear-a/inscriptions/HT/HT/HT12\|HT12]] | pidru | oil/fat-register commodity; perhaps fat or tallow | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT14\|HT14]] | pidru | oil/fat-register commodity; perhaps fat or tallow | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT18\|HT18]] | pidru | oil/fat-register commodity; perhaps fat or tallow | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT21\|HT21]] | pidru | fat, tallow (an oil/fat-register commodity) | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT90\|HT90]] | pidru | oil/fat-register commodity; perhaps fat or tallow | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT91\|HT91]] | pidru | oil/fat-register commodity; perhaps fat or tallow | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT101\|HT101]] | pidru | oil/fat-register commodity: 3 | CANDIDATE |

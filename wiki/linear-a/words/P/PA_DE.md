@@ -49,6 +49,7 @@ HT 9a SA-RO · TE · VIN · PA-DE · 5¾, the first entry of the wine roster; HT
 |---|---|
 | Eblaite | ba-ti pādī 'ransomer', ba-ti-a (Pagan 1998, rows 1132–1133) |
 | Ugaritic | pdy (II), a name, syll. pa-di/dì-ya, etym. unc. (DULAT 653); pādiy 'redeemer, ransomer' (GlOS 2, 123) |
+| Amorite | japdī 'redeem' (Gelb AS 21, 28) |
 
 ### Source
 

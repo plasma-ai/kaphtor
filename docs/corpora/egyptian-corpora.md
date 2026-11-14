@@ -4,7 +4,7 @@ title: Egyptian Text Corpora
 desc: Acquisition routes, file formats and gaps for the Egyptian texts layer, built on the open ORAEC/TLA corpus, with the texts that name Keftiu or the Levant.
 tags: [corpora, docs]
 created: 2026-10-22T18:14:10Z
-updated: 2026-10-27T17:22:41Z
+updated: 2026-11-16T19:36:33Z
 ---
 
 # Egyptian Text Corpora
@@ -24,7 +24,7 @@ This repository ships only the sets under `data/`; each folder's index lists the
 | `data/ane/pnm-v6/` | 60,488 name attestations plus linked people, spellings, titles, dossiers, inscriptions, and sources | PNM v6, Zenodo DOI 10.5281/zenodo.15806808 |
 | `data/ane/prosopographia-memphitica/` | 2,409 New Kingdom Memphite persons, 1,574 name rows | ProM, release 2024-11-15, Zenodo DOI 10.5281/zenodo.3856410 |
 | `data/share-alike/tla-v18-names/` | 9,186 proper-name tokens, 1,644 lemmas | TLA Original Earlier Egyptian sentences, corpus v18 |
-| `data/ane/gauthier-dng/` | 7,497 entries of Gauthier's *Dictionnaire des noms géographiques* t. 1–6, a page finder | archive.org scans, OCR text layer |
+| `data/ane/gauthier-dng/` | 7,443 entries of Gauthier's *Dictionnaire des noms géographiques* t. 1–6, a page finder | archive.org scans, OCR text layer |
 
 The name layers are described in `proper-name-and-place-authorities.md`.
 

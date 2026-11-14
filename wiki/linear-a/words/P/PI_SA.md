@@ -43,6 +43,13 @@ updated: 2026-10-24T16:17:50Z
 
 A recipient at two sites: HT 123+124b .2 PI-SA 4 in a terebinth list, clean on a palimpsest face (GORILA I 213), and KH 6 .6 PI-SA\[ at a line end, broken after, before CYP+D ½ (GORILA III 27). Bu-ṣí (F), with PI for b and SA for ṣ, which Huffmon sets with Bu-ṣi-ya under Akk. buṣ- (Huffmon 1965, 151 n. 37): būṣu C '(a bird)', with the Old Babylonian names Bu-ṣu-um, Bu-ṣa-a, Bu-ṣi-ia (CAD B 349). Rival: an institution receiving allocations.
 
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Amorite | Bu-ṣí (F), set with Bu-ṣi-ya under Akk. buṣ- (Huffmon 1965, 151 n. 37) |
+| Akkadian | būṣu C '(a bird)'; Old Babylonian names Bu-ṣu-um, Bu-ṣa-a, Bu-ṣi-ia (CAD B 349) |
+
 ### Source
 
 di Mino; Huffmon 1965; CAD

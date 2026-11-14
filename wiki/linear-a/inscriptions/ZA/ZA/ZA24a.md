@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/inscriptions/ZA/ZA/ZA24a
 title: "ZA24a"
-desc: "Tablet, Zakros. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "tablet"]
+desc: "Tablet, Zakros. Translation: incomplete (PROBABLE)."
+tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
 kind: "inscription"
 id: "ZA24a"
 site: "Zakros"
 support: "Tablet"
 period: ""
-translation: "none"
+translation: "incomplete"
 words: ["I-DA"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -51,6 +51,26 @@ Unicode (Linear A block):
 𐝫
 𐝫
 ```
+
+## Translation
+
+**PROBABLE**, incomplete (status: incomplete).
+
+> Ida: grain \[…\]
+
+| Word | Reading | Gloss | Confidence | Lexicon |
+|---|---|---|---|---|
+| [[wiki/linear-a/words/I/I_DA\|I-DA]] | ʾIda | Ida, 'the Hand' (sacred mountain—toponym/theonym) | PROBABLE | PROBABLE (lexicon) |
+| [[wiki/linear-a/words/G/GRA\|GRA]] |  | dagān 'grain, cereal' | PROBABLE | PROBABLE (lexicon) |
+
+### Notes
+
+GRA is cut at the broken right edge, and the bottom is lost.
+
+### Source
+
+- di Mino: I-DA, GRA
+- GORILA: ZA24a
 
 ## Lexicon words citing this document
 

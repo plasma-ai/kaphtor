@@ -27,6 +27,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/U_DI_MI\|U-DI-MI]] | ʾUdmī | the Udumite—man of Udum (Kirta's city), 'red (land)' | 1 |
+| [[wiki/names/semitic/names/U_DI_MI\|U-DI-MI]] | ʾUdmī | the Udumite—man of Udum (King Pabil's city in the Kirta epic), 'red (land)' | 1 |
 
 <!-- END kaphtor:record -->

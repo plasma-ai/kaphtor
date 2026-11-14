@@ -2,8 +2,8 @@
 
 Tests for the record wiki's builder in `tools/views/`. Most run on a fixture written to a temporary folder. The
 nine live tests read the eight files `model.load` reads from `data/linear-a/`, one data test reads the shipped
-Pre-Greek lexicon and the root database, and one runs plasma-wiki's `wiki` command and is skipped when it is not
-installed.
+Pre-Greek lexicon and the root database, one the Linear A data and the root database (`test_stats.py`), and one runs
+plasma-wiki's `wiki` command and is skipped when it is not installed.
 
 | Test | Covers |
 |---|---|
@@ -13,5 +13,6 @@ installed.
 | `test_names.py` | `names`: one page per name under its layer; a root's remarks and affixes left out of its label; a compound name under each root, and roots kept inside their layer; ASCII root names kept apart; no comparison on an unread name; a name page's links to its kind, layer, root and company; no link out of the section and none dead (fixture and shipped record); a page for every shipped name, the same bytes twice; descs without counts and summaries counted from the data; a title for every folder; no names, no pages; `names_map`: a dot for each name at each of its sites, labels for the larger sites only, a site with no place refused, the shipped map the one file the builder writes beside the pages |
 | `test_summaries.py` | `markdown.set_summary`: the summary block under an index's `***` with every other line kept, a new summary replacing the old and a rewrite changing nothing, an index without the rule given one, a block with no end refused; `summaries`: a slot no field fills refused; live (data), every slot of both templates filled from the data, and the unread words counted intact those no witness shows damaged |
 | `test_census_doc.py` | `census_doc`: `--check` writes nothing, `--write` fills only the blocks after a copy, the class table and its total, the GORILA V check summing to its total, the copy going to the backups folder by default, refusal of a missing or unknown block; live, the doc is current and its data counts sit only in blocks; no model name or private path in the doc |
+| `test_stats.py` | `counts`: the lexicon's tiers by label, and the sign values resolved and proposed with the fractions apart; `stats`: every key of schema 1 from a fixture whose counts differ within each block, so a swapped count fails; refusal of a confidence outside the four tiers, of a resolved total that is not its phonemic values and logograms, and of a sign counter that is not the length of its list, naming its block (resolved or proposed); exit 2 naming the file or the cause for a data file missing or not JSON, a key missing or a refused invariant; `--data .` from inside the data folder; `--check` by default and writing nothing, naming each stale count, "formatting only" or the whole file (missing, not JSON) and the command that rewrites it; `--write` after a copy to the backups folder, two writes in one second keeping both copies; `--print` touching no file; live (data), the counts the README badges show, computed alike |
 
 Run with `PYTHONDONTWRITEBYTECODE=1 uv run --with pytest python -m pytest tests/views`.

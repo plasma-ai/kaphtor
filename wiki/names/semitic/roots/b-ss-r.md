@@ -27,6 +27,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/PA_SA_RI_JA\|PA-SA-RI-JA]] | Baṣariya | the Baṣirean, gentilic of Baṣīru, a town of Ugarit (Ug. bṣry): a wool section heading | 1 |
+| [[wiki/names/semitic/names/PA_SA_RI_JA\|PA-SA-RI-JA]] | Baṣriya | the Baṣirean, gentilic of Baṣīru, a town of Ugarit (Ug. bṣry): a wool section heading | 1 |
 
 <!-- END kaphtor:record -->

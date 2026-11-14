@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/signs/logograms/TI
 title: "TI"
-desc: "Linear A logogram TI, proposed: figs (abbreviation of TI-NI)."
+desc: "Linear A logogram TI, proposed: figs (abbreviation of tiʔin)."
 tags: ["linear-a", "sign", "logograms", "proposed"]
 kind: "sign"
 sign_kind: "logograms"
 sign: "TI"
-sign_number: "AB04"
+sign_number: "AB37"
 status: "proposed"
-value: "figs (abbreviation of TI-NI)"
+value: "figs (abbreviation of tiʔin)"
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -29,14 +29,14 @@ Evidence: TI 7 is summed with persons in the KU-RO of HT119; TI-NI is rejected
 
 | Field | Value |
 |---|---|
-| Gloss | figs (abbreviation of TI-NI) |
+| Gloss | figs (abbreviation of tiʔin) |
 | Commodity | TIʔIN |
 | Semitic term | \*tiʔin- (PS SED I #260), Akkadian tittu/tiʔittu/tīnātu, Ugaritic tʔn, Hebrew tǝʔēnā, Arabic tīn-, Phoenician (unvocalized) |
 | Root | t-ʔ-n |
 
 ### Note
 
-Dual-function sign: syllabogram /ti/ (AB04) + logogram TIʔIN when standalone with quantities. Abbreviation of TI-NI = tiʔin 'figs' (CANDIDATE, lexicon). 12 standalone across 11 tablets, 6 sites. 58% followed by numerals. Quantities: ¼, 1, 2, 7, 13, 13, 100. Key evidence: ZA12a/b commodity cluster (TI 13 on both faces alongside PA and RU); PH30 fractional quantity (TI ¼); HT154 bulk quantity (\*516 TI 100). Pan-Semitic \*tiʔin- attestation (Akk, Ug, Heb, Ar, Phoen) confirms figs as inherited core vocabulary. Appears in Deut 8:8 Seven Species. Pictographic evidence absent (AB04 is not botanical), but the TI-NI compound provides the semantic anchor.
+Dual-function sign: syllabogram /ti/ (AB37) + logogram TIʔIN when standalone with quantities, the onset of tiʔin 'figs'. 11 standalone on 10 documents, 6 sites. 7 of the 11 are followed by numerals: ¼, 1, 2, 7, 13, 13, 100. Key evidence: ZA12a/b commodity cluster (TI 13 on both faces alongside PA and RU); PH30 fractional quantity (TI ¼); HT154 bulk quantity (\*516 TI 100). Pan-Semitic \*tiʔin- attestation (Akk, Ug, Heb, Ar, Phoen) confirms figs as inherited core vocabulary. Appears in Deut 8:8 Seven Species. Pictographic evidence absent (AB37 is not botanical); no spelled-out TI-NI survives (HT51a TI-NI\[ is broken after NI).
 
 ## Also in syllabic
 
@@ -50,7 +50,7 @@ Dual-function sign: syllabogram /ti/ (AB04) + logogram TIʔIN when standalone wi
 | [[wiki/linear-a/words/A/A_TI_KA\|A-TI-KA]] | ʿAtīqa | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_TI_RU\|A-TI-RU]] | ʿAttiru | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_TU_RI_SI_TI\|A-TU-RI-SI-TI]] | ha-Turisīt | CANDIDATE |
-| [[wiki/linear-a/words/D/DA_KI_TI\|DA-KI-TI]] | daqqati | SPECULATIVE |
+| [[wiki/linear-a/words/D/DA_KI_TI\|DA-KI-TI]] | Daqqiti | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_NE_KU_TI\|DA-NE-KU-TI]] | Ḏā-naquddi | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_DU_TI\|I-DU-TI]] | Yidu-ti | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_KU_JU_TI\|I-KU-JU-TI]] | ʾukulti | SPECULATIVE |

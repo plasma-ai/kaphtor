@@ -35,7 +35,7 @@ updated: 2026-11-03T03:29:48Z
 | Hebrew | ḥdd (hof.); \*ḥad (HALOT 291) | HALOT 291 | gloss withheld |
 | Akkadian | edēdu; eddu (HALOT 291) | HALOT 291 | gloss withheld |
 | Amorite | ḥiddu, ḥadīdu (Buck 2019, 327) | Buck 2019, 327 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ḥdd 2 (Al-Jallad 2026, 72); ḥdd (D) 2 (Al-Jallad 2026, 73) | Al-Jallad 2026 72; Al-Jallad 2026 73 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ḥdd 2 (Al-Jallad 2026, 72); ḥdd (D) 2 (Al-Jallad 2026, 73); Taymanitic ḥd 1 (Al-Jallad 2026b, 41) | Al-Jallad 2026 72; Al-Jallad 2026 73; Al-Jallad 2026b 41 | gloss withheld |
 | Eblaitic | ħadid 1: name ʔà-ti-du (Sanmartín GlOS 1, 231) | Sanmartín GlOS 1, 231 | gloss withheld |
 | Emar | ħadid 1: name ḫa-di-du (Sanmartín GlOS 1, 231) | Sanmartín GlOS 1, 231 | gloss withheld |
 

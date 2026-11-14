@@ -25,7 +25,7 @@ updated: 2026-11-12T00:26:03Z
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/PH/PHWc/PHWc37\|PHWc37]] | Phaistos | Roundel | none |
+| [[wiki/linear-a/inscriptions/PH/PHWc/PHWc37\|PHWc37]] | Phaistos | Roundel | complete |
 
 ## Unread sign
 

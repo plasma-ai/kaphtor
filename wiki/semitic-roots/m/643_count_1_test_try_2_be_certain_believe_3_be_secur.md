@@ -53,7 +53,7 @@ updated: 2026-11-04T22:32:52Z
 | East Ethiopic | Sel. Wol. amänä 3 (EDG 49 apud SEDonline 187) | EDG 49; SEDonline 187 | gloss withheld |
 | Judaic Aramaic | menaʾ 1 (T 186) | T 186 |  |
 | Mandaic Aramaic | mnʾ 1 (T 186) | T 186 |  |
-| Pre-Islamic North Arabian | Safaitic ʾmn 4 (Al-Jallad 2026, 6); Safaitic mny 5 (Al-Jallad 2026, 93) | Al-Jallad 2026 6; Al-Jallad 2026 93 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʾmn 4 (Al-Jallad 2026, 6); Safaitic mny 5 (Al-Jallad 2026, 93); Taymanitic ʾmnt 3 (Al-Jallad 2026b, 29) | Al-Jallad 2026 6; Al-Jallad 2026 93; Al-Jallad 2026b 29 | gloss withheld |
 | Biblical Aramaic | mnh 1 (HALOT 599); \*minyān 1 (HALOT BArm. s.v. מִנְיָן) | HALOT 599; HALOT BArm. s.v. מִנְיָן | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -49,6 +49,7 @@ PR Za 1, formula slot 2, the site-specific slot (cf. TU-RU-SA at Kophinas, O-SU-
 |---|---|
 | Akkadian | ṣītum / ṣīt šamšim 'sunrise, east' (Huehnergard 1997, glossary); ṣītān 'at sunrise' (ORACC CAMS/GKAB); Ebla balri ṣīt šamši 'on the east bank' (EDA I, P0477) |
 | Hebrew | ṣēʾt (צֵאת) 'going out', kə-ṣēʾt ha-šemeš (Judg 5:31); gentilic of 'east': haq-Qadmōnî (Gen 15:19), hay-yām haq-qadmônî 'the eastern sea' (Ezek 47:18) |
+| Ugaritic | yṣʾ 'go out, appear' (DULAT 969) |
 
 ### Source
 

@@ -52,12 +52,12 @@ Unicode (Linear A block):
 
 **SPECULATIVE**, complete.
 
-> Of ʿAnānu (vessel label; alt.: ʿAnānu—which goes out)
+> Of Ḥanānu (vessel label; alt.: Ḥanānu—which goes out)
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/A/A_NA_NU\|A-NA-NU]] | ʿanānu | personal name ʿAnānu (√ʿ-n-n) | SPECULATIVE | SPECULATIVE (lexicon) |
-| [[wiki/linear-a/words/S/SI_JA_SE\|SI-JA-SE]] | šī-yāṣē | adjectival formation (vessel label): 'of ʿAnānu, ʿAnānu's-ware'; alt. šī-yāṣē 'which goes out' | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/A/A_NA_NU\|A-NA-NU]] | Ḥanānu | personal name Ḥanānu 'gracious' (√ḥ-n-n); rival ʿAnānu 'cloud' | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/S/SI_JA_SE\|SI-JA-SE]] | šī-yāṣē | adjectival formation (vessel label): 'of Ḥanānu, Ḥanānu's-ware'; alt. šī-yāṣē 'which goes out' | CANDIDATE | CANDIDATE (lexicon) |
 
 ### Notes
 

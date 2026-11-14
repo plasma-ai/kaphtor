@@ -58,7 +58,13 @@ di Mino; Gelb 1980; DULAT
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA15a\|ZA15a]] | Zakros | Tablet | none |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA15a\|ZA15a]] | Zakros | Tablet | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA15a\|ZA15a]] | ʾItniša | ʾItniša (personal name), the Mari name IT-NU-ŠA | SPECULATIVE |
 
 ## Onomasticon
 

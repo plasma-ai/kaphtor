@@ -25,12 +25,12 @@ updated: 2026-10-24T16:17:50Z
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT62_plus_73\|HT62+73]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT62_plus_73\|HT62+73]] | Haghia Triada | Tablet | incomplete |
 
 ## Unread
 
 Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
 
-HT 73 .2 \]1 PA-I-KI\[, broken after (GORILA I 117). Not readable.
+HT 73 .2 \]· PA-I-KI\[, a divider before it, broken after (GORILA I 117). Not readable.
 
 <!-- END kaphtor:record -->

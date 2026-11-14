@@ -48,6 +48,7 @@ HT 31 .6, a vessel inventory: PA-TA-QE written over the \*402-VS cup logogram, 3
 | Language | Comparison |
 |---|---|
 | Akkadian | patāqu B 'to drink', pa-ta-qu (Malku VIII 8), liptiqu (En. el. III 9) (CAD P 275) |
+| Judaic Aramaic | pitqā, a large goblet 'which was named Pithka', Targ. II Esth. 1:8 (Jastrow 1173) |
 
 ### Source
 

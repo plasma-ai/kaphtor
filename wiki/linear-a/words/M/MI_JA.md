@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-SY Za 5, a stone libation vessel from the Syme peak sanctuary: \]MI-JA · JA-WA-PA₃\[ (Muhly and Olivier 2008, 209). mayya 'water', the word on a vessel for pouring: Ug. mh/y 'water' (DULAT 529), Heb. mayim (HALOT 576), Akk. mû. Weak point: the rim breaks before MI, and traces of two or three signs stand ca 10 cm to the left (Muhly and Olivier 2008, 209). One attestation. See M'-Y3 and MA-I-MI.
+SY Za 5, a stone libation vessel from the Syme peak sanctuary: \]MI-JA · JA-WA-PA₃\[ (Muhly and Olivier 2008, 209). mayya 'water', the word on a vessel for pouring: Ug. mh/y 'water' (DULAT 529), Heb. mayim (HALOT 576), Akk. mû. Weak point: the rim breaks before MI, and traces of two or three signs stand ca 10 cm to the left (Muhly and Olivier 2008, 209). One attestation. See MA-I-MI.
 
 ### Cognates
 

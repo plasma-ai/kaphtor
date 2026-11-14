@@ -23,16 +23,24 @@ updated: 2026-10-24T16:17:50Z
 
 **Status: proposed.** A proposed value.
 
-Evidence: b 14/20, p 12/20, and p yields a root for every cited word; a labial, voicing unproven
+Evidence: b 17/19, p 13/19, m and n 16/19, counting the forms in each root's language cells (headers alone: b 13, p 11); b gains KU-PA₃-NA-TU, PA₃-NI-WI, SE-SA-PA₃ and JA-WA-PA₃\[; a labial, b ahead of p by four words
 
 ## Phonetic value
 
 | Field | Value |
 |---|---|
 | Value |  |
-| Alternates | none |
-| Linear B | no Linear B counterpart recorded |
+| Alternates | /pa/ |
+| Linear B | B 56 |
+| Linear B Unicode | U+10056 LINEAR B SYMBOL B056 |
+| Linear B note | Unicode gives no value |
 | Neutralization class | none |
+
+### Alternate values
+
+| Value | Confidence | Evidence |
+|---|---|---|
+| /pa/ |  | SE-SA-PA₃ Zizapa (PH 2), a Hurrian personal name: the sign is a labial, its voicing unproven |
 
 ### Forms cited for the value
 
@@ -63,6 +71,6 @@ Evidence: b 14/20, p 12/20, and p yields a root for every cited word; a labial, 
 | [[wiki/linear-a/words/P/PA3_SI_star47\|PA₃-SI-\*47]] | basīsa | CANDIDATE |
 | [[wiki/linear-a/words/Q/QA_PA3\|QA-PA₃]] | qubaʿ | PROBABLE |
 | [[wiki/linear-a/words/S/SE_SA_PA3\|SE-SA-PA₃]] | Zizapa | SPECULATIVE |
-| [[wiki/linear-a/words/S/SU_PA3_RA\|SU-PA₃-RA]] | subāra | PROBABLE |
+| [[wiki/linear-a/words/S/SU_PA3_RA\|SU-PA₃-RA]] | zubāra | PROBABLE |
 
 <!-- END kaphtor:record -->

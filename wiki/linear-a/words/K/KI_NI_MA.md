@@ -48,10 +48,12 @@ ZA 5a, under the heading \*21F-\*118 · VIN-SU: KI-NI-MA 7, then O-TA-NI-ZA-SE 6
 | Language | Comparison |
 |---|---|
 | Ugaritic | khn 'priest', pl. khnm (GlOS 1, 302) |
+| Hebrew | kōhēn 'priest', pl. kōhănîm (HALOT 461) |
+| Phoenician | khn 'priest', khnt 'priestess': khn bʿlt (KAI 11), khnt ʿštrt (KAI 14:15; DNWSI 490) |
 
 ### Source
 
-di Mino; GlOS 1; HALOT; Huehnergard 2012; DULAT; Lane; Tomback 1978
+di Mino; GlOS 1; HALOT; Huehnergard 2012; DULAT; Lane; Tomback 1978; DNWSI
 
 ## Attestations
 

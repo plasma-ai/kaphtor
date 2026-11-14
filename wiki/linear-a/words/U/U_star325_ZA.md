@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 10a U-\*325-ZA 4 and U-\*325-ZA 14, two issues; HT 85a U-\*325-ZA 6 among the men under A-DU, beside DA-RI-DA and DA-RE, the pattern of a standing unit. With \*325 read bu, and PS \*s = \[ts\] taking the Z-series, ʾubūs(a) 'the stall, storehouse': Akk. abūsu 'storehouse', plural abūsātu and ubsātu (CAD A/1 92); the U-/A- onset against A-\*325-ZA (PE 2) matches ubsātu beside abūsātu. At Ras Shamra a bēl abūsi 'overseer of the storehouse' receives goods (RS 17.382+:45; CAD A/1 93). Rival: \*325 = /ḫu/, ʾuḫuzza(t) 'holding' (Heb. ʾăḥuzzâ, HALOT 32), with ZA for PS \*ḏ. Two attestations. See A-\*325-ZA.
+HT 10a U-\*325-ZA 4 and U-\*325-ZA 14, two issues; HT 85a U-\*325-ZA 6 among the men under A-DU, beside DA-RI-DA and DA-RE, the pattern of a standing unit. With \*325 read bu, and PS \*s = \[ts\] taking the Z-series, ʾubūs(a) 'the stall, storehouse': Akk. abūsu 'storehouse', plural abūsātu and ubsātu (CAD A/1 92); the U-/A- onset against A-\*325-ZA (PE 2) matches ubsātu beside abūsātu. At Ras Shamra a bēl abūsi 'overseer of the storehouse' receives goods (RS 17.382+:45; CAD A/1 93). Ugarit has the u-form as a town, ủbs and ủbś, URU u-bu-sú/sí (DULAT 14), 'manger, feeding-trough' (Sivan apud Watson 2001, 112); with \*325 = bu its first two signs are U-BU, and ZA stands for sú by the Z-series. Rivals: the same word as a place name, the origin of the unit on HT 85a; \*325 = /ḫu/, ʾuḫuzza(t) 'holding' (Heb. ʾăḥuzzâ, HALOT 32), with ZA for PS \*ḏ. Two attestations. See A-\*325-ZA.
 
 ### Cognates
 
@@ -49,11 +49,11 @@ HT 10a U-\*325-ZA 4 and U-\*325-ZA 14, two issues; HT 85a U-\*325-ZA 6 among the
 |---|---|
 | Akkadian | abūsu 'storehouse', pl. abūsātu, ubsātu (CAD A/1 92); bēl abūsi 'overseer of the storehouse', Ras Shamra (CAD A/1 93) |
 | Hebrew | ʾēbûs (אֵבוּס) 'crib, manger, stall' (HALOT 4; Isa 1:3, Prov 14:4) |
-| Ugaritic | ỉbsn 'warehouse' (GlOS 1, 6) |
+| Ugaritic | ỉbsn 'warehouse' (GlOS 1, 6); ủbs/ś, a town of Ugarit, URU u-bu-sú/sí (DULAT 14), 'manger, feeding-trough' (Sivan apud Watson 2001, 112) |
 
 ### Source
 
-di Mino; CAD A/1; HALOT; GlOS 1
+di Mino; CAD A/1; HALOT; GlOS 1; DULAT; Watson 2001
 
 ## Attestations
 
@@ -68,6 +68,6 @@ di Mino; CAD A/1; HALOT; GlOS 1
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT10a\|HT10a]] | ʾubūs(a) | the stall, storehouse, 4 | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT10a\|HT10a]] | ʾubūs(a) | the stall, storehouse, 14 | CANDIDATE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT85a\|HT85a]] | ʾubūs | stall or storehouse (PS \*ʾabūs-), a standing unit like DA-RE | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT85a\|HT85a]] | ʾubūs | the storehouse (PS \*ʾabūs-), a standing unit like DA-RE | CANDIDATE |
 
 <!-- END kaphtor:record -->

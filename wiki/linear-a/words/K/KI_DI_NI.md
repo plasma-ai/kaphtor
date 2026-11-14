@@ -48,6 +48,7 @@ HT93a .3 KI-DI-NI 5 J H, in a grain list of recipients with DI-RI-NA, A-SE, SA-R
 | Language | Comparison |
 |---|---|
 | Akkadian | kidinnu "divine protection"; OB personal names Ki-din-Amurrum, Ki-di-nu-um (CAD K 342–343) |
+| Geʿez | kadāni 'protector' (LGz. 275) |
 
 ### Source
 

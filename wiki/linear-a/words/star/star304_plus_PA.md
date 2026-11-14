@@ -48,6 +48,7 @@ The \*304 commodity logogram with a PA adjunct, in eight administrative attestat
 | Language | Comparison |
 |---|---|
 | Hebrew | peder 'kidney fat, suet', Lev 1:8 (HALOT 914) |
+| Judaic Aramaic | pidrā 'fat' (Jastrow 1137) |
 
 ### Source
 

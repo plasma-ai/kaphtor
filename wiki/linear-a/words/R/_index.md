@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/R
 desc: "Words whose first sign begins with R."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-12T00:26:03Z
+updated: 2026-11-17T14:06:48Z
 ---
 
 # wiki/linear-a/words/R
@@ -39,7 +39,7 @@ updated: 2026-11-12T00:26:03Z
 
 [[wiki/linear-a/words/R/RA_star164_TI|RA_star164_TI]]: Unread (role only): personal name; 2 occurrence(s).
 
-[[wiki/linear-a/words/R/RA_star314_RA|RA_star314_RA]]: Raḥil: personal name, 'Ewe' (√r-ḥ-l), as Hebrew Rāḥēl; rival Egyptian Ḥr-Rꜥ 'Horus-Ra'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/R/RA_star314_RA|RA_star314_RA]]: Raḥal: personal name, 'Ewe' (√r-ḥ-l), as Hebrew Rāḥēl. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/R/RE|RE]]: le-: to, for, as (preposition). Lexicon, CONFIRMED (tier 4).
 
@@ -50,8 +50,6 @@ updated: 2026-11-12T00:26:03Z
 [[wiki/linear-a/words/R/RE_JA|RE_JA]]: Unread (role only): personal name; 1 occurrence(s).
 
 [[wiki/linear-a/words/R/RE_RO|RE_RO]]: lalʾu: suckling (lamb or kid). Lexicon, SPECULATIVE (tier 1).
-
-[[wiki/linear-a/words/R/RE_SA|RE_SA]]: Unread (role only): personal name; 1 occurrence(s).
 
 [[wiki/linear-a/words/R/RE_SU|RE_SU]]: Unread (role only): personal name; 1 occurrence(s).
 

@@ -49,6 +49,7 @@ KN Zf 13, the last four signs of an undivided 19-sign spiral, ending at the cent
 |---|---|
 | Amorite | ʾAjak-u, written A-JA-KU (Gelb 1980, no. 320); ʾAjak-um, A-IA-KU-UM (no. 300); the ʾAja- 'where?' names, nos. 285–319 |
 | Hebrew | ʾayyekkâ (אַיֶּכָּה) 'where are you?' (Gen 3:9; HALOT 38, s.v. ʾê) |
+| Ugaritic | iy, ay 'where?' (HALOT 37) |
 
 ### Source
 

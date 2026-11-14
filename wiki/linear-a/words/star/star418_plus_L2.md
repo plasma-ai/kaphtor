@@ -40,4 +40,6 @@ updated: 2026-11-12T00:26:03Z
 
 A ligature. Status **unread** (nothing on file).
 
+An animal's head in profile, two projections on top and a muzzle to the right, with L2 beneath: PH 8a, counted 1. PK Za 28 has it after \]-PU₂-RE-\[ on a stone vessel, where the drawing shows more than the photograph; KN Zg 57a lists it among vessel signs.
+
 <!-- END kaphtor:record -->

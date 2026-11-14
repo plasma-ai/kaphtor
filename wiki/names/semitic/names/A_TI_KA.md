@@ -47,6 +47,8 @@ First word on the roundel, before A-DU-KO 2, the numeral read by Perna and Anast
 | Language | Comparison |
 |---|---|
 | Eblaite | a-ti-gu ʿatīq 'old', AL₆.GÍD = a-ti-gu-um (GlOS 1, 93); a-ti-ga, a name (EbDA, ARET 20 0014) |
+| Ugaritic | ʿtq 'durable', syllabic at-qá (DULAT 189) |
+| Safaitic | ʿtq, a personal name (Harding 1971, 405) |
 
 ## Attestations
 

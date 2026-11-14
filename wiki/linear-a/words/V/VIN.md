@@ -83,12 +83,17 @@ di Mino; GlOS 2; Rabin 1963
 | [[wiki/linear-a/inscriptions/HT/HT/HT27a\|HT27a]] |  | wine | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT27b\|HT27b]] |  | wine | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT28b\|HT28b]] | wayn | wine |  |
+| [[wiki/linear-a/inscriptions/HT/HT/HT30\|HT30]] |  | wayn 'wine' | PROBABLE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT35\|HT35]] |  | wayn 'wine' | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT44a\|HT44a]] | \[ideogram\] | wine |  |
+| [[wiki/linear-a/inscriptions/HT/HT/HT62_plus_73\|HT62+73]] |  | wayn 'wine' | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT91\|HT91]] | wayn | wine |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT99a\|HT99a]] | \[ideogram\] | wine; 1 + A706 (conventionally ≈⅙?) |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT100\|HT100]] | \[ideogram\] | wine |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT114a\|HT114a]] | wayn | wine | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT121\|HT121]] | wayn | wine | PROBABLE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT130\|HT130]] |  | wayn 'wine' | PROBABLE |
+| [[wiki/linear-a/inscriptions/KH/KH/KH9\|KH9]] |  | wayn 'wine' | PROBABLE |
 | [[wiki/linear-a/inscriptions/KH/KH/KH91\|KH91]] | wayn | wine (logogram) | PROBABLE |
 | [[wiki/linear-a/inscriptions/KN/KNZb/KNZb27\|KNZb27]] | wayn | wine |  |
 | [[wiki/linear-a/inscriptions/KN/KNZb/KNZb36\|KNZb36]] | wayn | wine |  |
@@ -98,6 +103,9 @@ di Mino; GlOS 2; Rabin 1963
 | [[wiki/linear-a/inscriptions/PH/PHWc/PHWc43\|PHWc43]] | wayn | wine |  |
 | [[wiki/linear-a/inscriptions/PH/PHWy/PHWy42\|PHWy42]] | wayn | wine |  |
 | [[wiki/linear-a/inscriptions/PK/PKZb/PKZb24\|PKZb24]] | wayn | wine |  |
+| [[wiki/linear-a/inscriptions/PYR/PYR/PYR1\|PYR1]] |  | wayn 'wine' | PROBABLE |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA11a\|ZA11a]] |  | wayn 'wine' | PROBABLE |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA15a\|ZA15a]] |  | wayn 'wine' | PROBABLE |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA15b\|ZA15b]] |  | wayn 'wine' | PROBABLE |
 | [[wiki/linear-a/inscriptions/ZA/ZAZb/ZAZb3\|ZAZb3]] | wine | wine | PROBABLE |
 

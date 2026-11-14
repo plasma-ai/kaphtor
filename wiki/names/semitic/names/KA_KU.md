@@ -47,6 +47,7 @@ Amorite KAKK-U ka-ak-ku (Gelb AS 21 no. 3913).
 | Language | Comparison |
 |---|---|
 | Amorite | KAKK-U, written ka-ak-ku, a woman's name (Gelb 1980, no. 3913); KAKK-A+ compounds (nos. 3905–3912); kakkum, fem. kakka 'weapon', and the god Kakka (Gelb 1980, glossary) |
+| Akkadian | kakku 'weapon (a specific, individually used weapon)' (CAD K 50) |
 
 ## Attestations
 

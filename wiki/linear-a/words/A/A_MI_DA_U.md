@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-ZA 10a: among personal names, quantity 1. A sentence name, ʿammī 'my kinsman', a divine epithet, with dāʿ (√y-d-ʿ 'know'): ʿAmmī-dāʿ 'My kinsman knows'. ʿammī- opens ʿAmmîšaddāy (Num 1:12) and ʿAmmînādāb (Exod 6:23); -dāʿ closes ʾĂbîdāʿ and ʾEldāʿā (Gen 25:4) and ʾElyādāʿ (2 Sam 5:16). The abī-/aḫī-/ʿammī- rotation on one base (Abinadab, Ahinadab 1 Kgs 4:14, Amminadab) sets ʿAmmī-dāʿ beside the attested ʾĂbîdāʿ. Initial ʿa- is written A. Howard tabulates the ʿAmmī + verb sentence name (ʿAmmi-yepuʿ, kings of Talhayum, at Mari, Terqa and Šeḥna), with ʾIli-yepaʿ at Alalah rotating the first element (Howard 2023, appendix). A-MI-DA-O (PH(?) 31b.5) is broken at the start, \]A-MI-DA-O (GORILA I 319). Rival: a Hurrian name (cf. MI-TA). Cf. JA-DA-SU (Yadaʿ-Šum), from the same verb. One attestation. See \*306+MI.
+ZA 10a: among personal names, quantity 1. A sentence name, ʿammī 'my kinsman', a divine epithet, with dāʿ (√y-d-ʿ 'know'): ʿAmmī-dāʿ 'My kinsman knows'. ʿammī- opens ʿAmmîšaddāy (Num 1:12) and ʿAmmînādāb (Exod 6:23); -dāʿ closes ʾĂbîdāʿ and ʾEldāʿā (Gen 25:4) and ʾElyādāʿ (2 Sam 5:16). The abī-/aḫī-/ʿammī- rotation on one base (Abinadab, Ahinadab 1 Kgs 4:14, Amminadab) sets ʿAmmī-dāʿ beside the attested ʾĂbîdāʿ. Initial ʿa- is written A. Howard tabulates the ʿAmmī + verb sentence name (ʿAmmi-yepuʿ, kings of Talhayum, at Mari, Terqa and Šeḥna), with ʾIli-yepaʿ at Alalah rotating the first element (Howard 2023, appendix). A-MI-DA-O (PH(?) 31b.5) is broken at the start, \]A-MI-DA-O (GORILA I 319). Rivals: ʿamīdu 'Supported', one word on ʿ-m-d, the Ugarit name ʿmyd, i-mi-da-nu (Watson 2016, 338); a Hurrian name (cf. MI-TA). Cf. JA-DA-SU (Yadaʿ-Šum), from the same verb. One attestation. See \*306+MI.
 
 ### Cognates
 
@@ -49,10 +49,11 @@ ZA 10a: among personal names, quantity 1. A sentence name, ʿammī 'my kinsman',
 |---|---|
 | Eblaite | ʿamm-ī-ʾIl 'ʾIl is my uncle'; yādaʿ-ʾabu 'father knows' (Pagan 1998, rows 718, 538) |
 | Amorite | noun-ī + dāʿ: Śamī-dāʿum, Śamšī-dāʿī; Yadaʿ-ʿammu (Gelb 1980, nos. 5450, 6272, 3172) |
+| Ugaritic | rival ʿmyd, i-mi-da-nu, 'Supported' (Watson 2016, 338) |
 
 ### Source
 
-di Mino; Pagan 1998; Gelb 1980; Howard 2023
+di Mino; Pagan 1998; Gelb 1980; Howard 2023; Watson 2016
 
 ## Attestations
 

@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Amorite | ʾilum, ʾillum, ʾelum, ʾiltum, ʾilī (Gelb AS 21, 14); ʾalla, ʾila, ʾilānu (Buck 2019, 323); ʾil: i-la-el/DINGIR, el=, e-lV=; e-lV= (Ur III) (Sanmartín GlOS 1, 19) | Gelb AS 21 14; Buck 2019, 323; Sanmartín GlOS 1, 19 | gloss withheld |
 | Punic | ʾl, ʿl (T 16) | T 16 | gloss withheld |
 | Syrian Aramaic | ʔīl 'God' (Payne Smith 13); ʔalāh 'God; a false god' (Payne Smith 17) | Payne Smith 13; Payne Smith 17 |  |
-| Pre-Islamic North Arabian | Safaitic ʾlh (Al-Jallad–Jaworska 43); Dadanitic ʾlh; Hismaic ʾlh; Thamudic B ʾlh (Al-Jallad 2026, 5) | Al-Jallad–Jaworska 43; Al-Jallad 2026 5 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʾlh (Al-Jallad–Jaworska 43); Dadanitic ʾlh; Hismaic ʾlh; Thamudic B ʾlh (Al-Jallad 2026, 5); Safaitic ʾlh, lh (a deity) (Al-Jallad 2026, 186); ʾʾlht (Al-Jallad 2026, 186); Taymanitic ʾlht (Al-Jallad 2026b, 2) | Al-Jallad–Jaworska 43; Al-Jallad 2026 5; Al-Jallad 2026 186; Al-Jallad 2026b 2 | gloss withheld |
 | Mehri | ʔāl (Lonnet 2005:206 apud SEDonline 1116) | SEDonline 1116 | gloss withheld |
 | Aramaic | OAram. ʾlh (Kogan 2015, ch. 3 §5.2 no. 2, fn. 503) | Kogan 2015 ch. 3 §5.2 no. 2, fn. 503 | gloss withheld |
 | Modern Aramaic | Tur. aloho (RW 32 apud SEDonline 1115) | RW 32; SEDonline 1115 | gloss withheld |

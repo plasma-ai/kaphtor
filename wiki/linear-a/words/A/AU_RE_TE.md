@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/words/A/AU_RE_TE
 title: "AU-RE-TE"
-desc: "ʾawrēt: luminous one (feminine). Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "hapax", "personal_name"]
+desc: "ʾawrēt: luminous one (feminine). Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "hapax", "personal_name"]
 kind: "word"
 form: "AU-RE-TE"
 datasets: ["lexicon", "onomasticon"]
-tier: 3
-confidence: "PROBABLE"
-confidence_score: 0.65
+tier: 2
+confidence: "CANDIDATE"
+confidence_score: 0.5
 reading: "ʾawrēt"
 attestations: ["KH6"]
 created: 2026-10-24T16:17:50Z
@@ -27,7 +27,7 @@ updated: 2026-10-24T16:17:50Z
 
 ## Lexicon
 
-**PROBABLE**, tier 3 of 4, score 0.65
+**CANDIDATE**, tier 2 of 4, score 0.50
 
 | Field | Value |
 |---|---|
@@ -41,20 +41,21 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-KH 6, a Khania cyperus distribution tablet: a personal name or epithet. √ʾ-w-r 'to shine, be light', Heb. ʾōr &lt; \*ʾawr 'light', with feminine -ēt. Rival: -t also forms abstracts and unit nouns (Fischer 2002, §64), so ʾawrēt is 'light' itself, and the feminine rests on the name slot alone. See U-RE-WI.
+KH 6, a Khania cyperus distribution tablet: a personal name or epithet. √ʾ-w-r 'to shine, be light', Heb. ʾōr &lt; \*ʾawr 'light', with feminine -ēt. Rival: -t also forms abstracts and unit nouns (Fischer 2002, §64), so ʾawrēt is 'light' itself, and the feminine rests on the name slot alone. Second rival: the Ugarit name ủrt, ú-ri-te, classed Hurrian (DULAT 107) or set beside Akk. uritannu, a textile term (Watson 1996b, 97), with u- where the sign is AU. See U-RE-WI.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Hebrew | ʾôrâ 'light, brightness', feminine, Esth 8:16 (HALOT 25) |
-| Ugaritic | ár 'light' (DULAT 91) |
+| Ugaritic | ár 'light' (DULAT 91); rival the name ủrt(n), ú-ri-te (DULAT 107; Watson 1996b, 97) |
 | Phoenician | ʾr 'light' (Krahmalkov 70) |
-| Amorite | ʾWR 'shine': ʾūrum 'light', jāʾwir (Gelb AS 21, 14) |
+| Amorite | ʾWR 'shine': ʾūrum 'light', jāʾwir (Gelb AS 21, 14); the names ia-wi-ru-um, mi-i-rum (GlOS 1, 54) |
+| Eblaite | ʔūr 'light' in names: ù-rí, ù-rí-a, ù-ra-an, ù-rí-lum (GlOS 1, 54) |
 
 ### Source
 
-di Mino
+di Mino; HALOT; DULAT; Watson 1996b; GlOS 1; Fischer 2002
 
 ## Attestations
 
@@ -66,14 +67,14 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/KH/KH/KH6\|KH6]] | ʾawrēt | luminous one (f.); \*306 1 | PROBABLE |
+| [[wiki/linear-a/inscriptions/KH/KH/KH6\|KH6]] | ʾawrēt | luminous one (f.); \*306 1 | CANDIDATE |
 
 ## Onomasticon
 
 | Field | Value |
 |---|---|
-| Type | personal name (PROBABLE) |
-| Affiliation | semitic (PROBABLE) |
+| Type | personal name (CANDIDATE) |
+| Affiliation | semitic (CANDIDATE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |

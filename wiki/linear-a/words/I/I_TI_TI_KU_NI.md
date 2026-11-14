@@ -49,6 +49,7 @@ HT 96a: I-TI-TI-KU-NI · A-PA-RA-NE · A-\*123-TE ·, the heading of a grain lis
 |---|---|
 | Ugaritic | ntk to pour out, forth (base form TI-TI-KU) |
 | Hebrew | hittiku they disbursed (2 Kgs 22:9, n-t-k Hiphil 3cp); paragogic nun: Job 19:2 (energic -nn- + 1cs -i) |
+| Syriac | ntak 'pour out; hurt' (Payne Smith 354) |
 
 ### Source
 

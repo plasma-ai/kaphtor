@@ -65,13 +65,13 @@ di Mino; Montecchi 2010; Schoep 2002; HALOT; DULAT
 | [[wiki/linear-a/inscriptions/HT/HT/HT14\|HT14]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT17\|HT17]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT19\|HT19]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT21\|HT21]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT21\|HT21]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT40\|HT40]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT42_plus_59\|HT42+59]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT51a\|HT51a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT52a\|HT52a]] | Haghia Triada | Tablet | none |
-| [[wiki/linear-a/inscriptions/HT/HT/HT62_plus_73\|HT62+73]] | Haghia Triada | Tablet | none |
-| [[wiki/linear-a/inscriptions/HT/HT/HT63\|HT63]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT62_plus_73\|HT62+73]] | Haghia Triada | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/HT/HT/HT63\|HT63]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT67\|HT67]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT70\|HT70]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT92\|HT92]] | Haghia Triada | Tablet | complete |
@@ -125,8 +125,11 @@ di Mino; Montecchi 2010; Schoep 2002; HALOT; DULAT
 | [[wiki/linear-a/inscriptions/HT/HT/HT14\|HT14]] | terûmā | contribution (transaction or category marker) | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT17\|HT17]] | terûmā | offering, contribution | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT19\|HT19]] | terûmā | offering, contribution | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT21\|HT21]] | terûmā | contribution, offering (terûmā), a transaction marker | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT42_plus_59\|HT42+59]] | terûmā | offering, contribution | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT51a\|HT51a]] |  | transaction sign | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT62_plus_73\|HT62+73]] | terûmā | contribution, offering (terûmā), a transaction marker | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT63\|HT63]] | terûmā | contribution, offering (terûmā), a transaction marker | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT67\|HT67]] | terûmā | sacred contribution, heave-offering | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT70\|HT70]] | terûmā | transaction or category sign; perhaps contribution | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT92\|HT92]] | terûmā | contribution / transaction marker | CANDIDATE |

@@ -60,7 +60,13 @@ di Mino; Uchitel 2016a
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/KH/KH/KH41\|KH41]] | Khania | Tablet | none |
+| [[wiki/linear-a/inscriptions/KH/KH/KH41\|KH41]] | Khania | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/KH/KH/KH41\|KH41]] | Katare | Katara, a town of western Crete (place name; Linear B ka-ta-ra) | SPECULATIVE |
 
 ## Onomasticon
 

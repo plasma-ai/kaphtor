@@ -31,7 +31,7 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/semitic/names/I_DA_A\|I-DA-A]] | ʾIda | of Ida (diptotic genitive after DU-\*314-RE); rival 'toward Ida' | 1 |
 | [[wiki/names/semitic/names/I_DA_MI\|I-DA-MI]] | ʾIda=mi | Ida, 'the Hand', the sacred mountain, with emphatic enclitic -mi | 1 |
 | [[wiki/names/semitic/names/I_DU_NE_SI\|I-DU-NE-SI]] | Yidu-naḥši | Strength is alive, the arm thrives (personal name); rival Yidu-nešše, Hurrian 'prosperity' | 1 |
-| [[wiki/names/semitic/names/JA_DI\|JA-DI]] | Yadi | Hand (personal name); rivals Yadīn 'he judges', Yadiʿ 'he knows' | 1 |
+| [[wiki/names/semitic/names/JA_DI\|JA-DI]] | Yadi | Hand (personal name); rivals Yadīn 'he judges', Yadiʿ 'he knows', Ugarit ydy 'may (the god) establish' | 1 |
 | [[wiki/names/semitic/names/JE_DI\|JE-DI]] | yedī | gentilic 'the Idaean' (of Mount Ida); rivals the personal name 'He knows' and the gentilic 'Judean' | 4 |
 
 <!-- END kaphtor:record -->

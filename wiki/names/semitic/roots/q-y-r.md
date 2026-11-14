@@ -26,6 +26,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/DA_QE_RA\|DA-QE-RA]] | ḏā-Qīra | the (district) of Qīr, the walled town; heading opposite KA-PA 'village'; rival diḳaru 'pot' | 3 |
+| [[wiki/names/semitic/names/DA_QE_RA\|DA-QE-RA]] | ḏā-Qīra | the (district) of Qīr, the walled town; heading opposite KA-PA 'village'; rival diqāru 'bowl' | 3 |
 
 <!-- END kaphtor:record -->

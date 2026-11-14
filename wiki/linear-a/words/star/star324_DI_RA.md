@@ -49,6 +49,7 @@ A recipient in the HT 9a/9b wine lists under SA-RO · TE · VIN (2½, 2) and on 
 |---|---|
 | Ugaritic | ṯdr n.f. 'waitress, girl' (DULAT 886–887; KTU 1.42:30, 4.275:2) |
 | Hurrian | Hurro-Hittite šiduri 'girl'; Akk. šiduri 'young woman', the source of Ug. ṯdr (Watson 2018, 336) |
+| Akkadian | šiduri 'young woman' (CAD Š/2 408) |
 
 ### Source
 

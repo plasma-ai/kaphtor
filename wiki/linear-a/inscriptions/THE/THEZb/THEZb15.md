@@ -39,12 +39,12 @@ updated: 2026-10-24T16:17:50Z
 
 Transliteration, line by line:
 
-1. RE-SA 2
+1. SE-\*332 2
 
 Unicode (Linear A block):
 
 ```text
-𐘙𐘞𐄈
+𐘈𐙸𐄈
 ```
 
 <!-- END kaphtor:record -->

@@ -34,7 +34,7 @@ updated: 2026-10-24T15:25:56Z
 | Punic | šrt: pt. mšrt, inf. lšrt (T 332) | T 332 | gloss withheld |
 | Hebrew | šārēt, šrt (pi) (HALOT 1661, 1662) | HALOT 1661, 1662 | gloss withheld |
 | Judaic Aramaic | šērūtā (HALOT 1661) | HALOT 1661 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic srt (Al-Jallad 2026, 135) | Al-Jallad 2026 135 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic srt (Al-Jallad 2026, 135); Taymanitic srtn (Al-Jallad 2026b, 56) | Al-Jallad 2026 135; Al-Jallad 2026b 56 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

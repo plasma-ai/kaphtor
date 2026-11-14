@@ -41,18 +41,19 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-A wine-class logogram of the AB131 family, beside VIN 'wine' (wayn) and \*131C 'vinegar': ARKH 2 KU-RA \*131B 5 under the heading SI-DA-TE, ARKH 3a \*131B 2 after OLIV 3⅕, ARKH 5 \*131B 6 after A-DA-RO GRA 40, ZA 10b DU-RE-ZA-SE \*131B 5. tirōšu 'must, new wine', Heb. tîrôš (HALOT 1727). The triad dāgān-tîrôš-yiṣhār (Deut 7:13) matches ARKH 3a's GRA, OLIV and \*131B. On ZA 10b DU-RE-ZA-SE turēṯa-se 'for the must' stands before its own logogram. Rival: SigLA codes the ARKH 3a, ARKH 5 and ZA 10b tokens VINb, a variant of VIN, and reads ARKH 2 KU-RA-\*131B as one word. Four attestations, at Arkhanes and Zakros.
+A wine-class logogram of the AB131 family, beside VIN 'wine' (wayn) and \*131C 'vinegar': ARKH 2 KU-RA \*131B 5 under the heading SI-DA-TE, ARKH 3a \*131B 2 after OLIV 3⅕, ARKH 5 \*131B 6 after A-DA-RO GRA 40, ZA 10b DU-RE-ZA-SE \*131B 5. tirōšu 'must, new wine', Heb. tîrôš (HALOT 1727), Ug. trṯ, the wine and a god who receives offerings (KTU 1.39:11, 16; DULAT 867; Pardee 2000, 992). The triad dāgān-tîrôš-yiṣhār (Deut 7:13) matches ARKH 3a's GRA, OLIV and \*131B. On ZA 10b DU-RE-ZA-SE turēṯa-se 'for the must' stands before its own logogram. Rival: SigLA codes the ARKH 3a, ARKH 5 and ZA 10b tokens VINb, a variant of VIN, and reads ARKH 2 KU-RA-\*131B as one word. Four attestations, at Arkhanes and Zakros.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Hebrew | tīrōš (תִּירוֹשׁ) 'must, new wine' (HALOT 1727; Deut 7:13, 11:14, 12:17; Hos 2:10; Joel 2:19) |
-| Ugaritic | trṯ 'new wine', also a DN (DULAT 867) |
+| Ugaritic | trṯ 'new wine', also a DN (DULAT 867), receiving offerings in KTU 1.39:11, 16 (Pardee 2000, 992) |
+| Phoenician | trš 'wine' (Krahmalkov 499; Tomback 1978, 345) |
 
 ### Source
 
-di Mino
+di Mino; HALOT; DULAT; Pardee 2000
 
 ## Attestations
 

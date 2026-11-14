@@ -70,7 +70,7 @@ Unicode (Linear A block):
 |---|---|---|---|---|
 | [[wiki/linear-a/words/D/DA_DU_MA_TA\|DA-DU-MA-TA]] | dadmatu | settlement(s), district (heading); rival 'beloved land' | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/G/GRA\|GRA]] | GRA | grain (ideogram) | PROBABLE | PROBABLE (lexicon) |
-| [[wiki/linear-a/words/D/DA_ME\|DA-ME]] | damu | blood (ritual allocation category) | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/D/DA_ME\|DA-ME]] | damʿu | the sanctuary's share of the produce | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/M/MI_NU_TE\|MI-NU-TE]] | minūt | amount, number; counting or reckoning | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/S/SA_RU\|SA-RU]] | šarru | king, prince; rival 'barley' | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/K/KU_NI_SU\|KU-NI-SU]] | kunīšu | emmer | PROBABLE | PROBABLE (lexicon) |
@@ -79,7 +79,7 @@ Unicode (Linear A block):
 
 ### Notes
 
-Context: Grain allocation—administrative tablet with GRA ideogram and commodity distributions. DA-ME is read damu 'blood', a recurring quantified ritual category; rivals dimtu 'district', Aramaic dmy 'value'. KU-NI-SU is kunīšu 'emmer', an Akkadian loan (Nuzi ku-ni-šu, CAD K 537). With QE-RA₂-U /qelwu/ 'parched grain' it is one of two grain products in the set.
+Context: Grain allocation—administrative tablet with GRA ideogram and commodity distributions. DA-ME is read damʿu, the sanctuary's share of the produce (Hebrew demaʿ, Exod 22:28), a recurring quantified due; rivals damu 'blood', dimtu 'district', Aramaic dmy 'value'. KU-NI-SU is kunīšu 'emmer', an Akkadian loan (Nuzi ku-ni-šu, CAD K 537). With QE-RA₂-U /qelwu/ 'parched grain' it is one of two grain products in the set.
 
 ### Source
 

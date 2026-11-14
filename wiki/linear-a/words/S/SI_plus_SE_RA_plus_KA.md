@@ -48,10 +48,12 @@ HT Wa 1021, a nodule: \*188-DU · ¾ · SI+SE-RA+KA, a commodity, a fraction and
 | Language | Comparison |
 |---|---|
 | Akkadian | širku B 'gift; (a tax)', at Ugarit with the tithe and toll of a town (RS 16.276:10; CAD Š/3 111); širiktu, also šeriktu, 'grant, gift' (CAD Š/3 103); šarāku A 'to dedicate, to give' (CAD Š/2 40) |
+| Ugaritic | ṯrk, syll. ši-ri-ki, a personal name, 'Gift (of Baal)' (KTU 4.98:21; RS 20.236:18; Watson 2016, 348) |
+| Amorite | ŠRK, B jašruk 'to give ex-voto'; šarikum (Gelb AS 21, 33) |
 
 ### Source
 
-di Mino
+di Mino; CAD Š; Watson 2016
 
 ## Attestations
 

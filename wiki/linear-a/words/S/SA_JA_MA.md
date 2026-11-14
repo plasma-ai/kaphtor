@@ -49,6 +49,7 @@ HT 31 .3, after \*416-VS-KA-RO-PA₃ 10: SA-JA-MA 30\[, two tens visible and the
 |---|---|
 | Hebrew | śīm/śām (שִׂים/שָׂם) 'to set, place' |
 | Amarna | sīm 'placing', under West Semitic influence (Moran, EA 155 n. 1); sīm lēb (EA 139 n. 8) |
+| Akkadian | šiāmu 'fix' (AHw 1225) |
 
 ### Source
 

@@ -19,7 +19,7 @@ from tools.ane import aneq
 from tools.paths import REPO
 
 # Views whose files ship under data/; the others read corpora built locally (data/ingest/) or not yet shipped.
-SHIPPED = {"egytext", "pnm", "tla"}
+SHIPPED = {"egytext", "pnm", "tla", "diana", "diana2"}
 
 
 def nfd(s):

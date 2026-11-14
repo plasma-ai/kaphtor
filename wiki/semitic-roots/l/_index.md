@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/l
 desc: "Semitic roots whose first radical is l."
 created: 2026-10-22T17:38:31Z
-updated: 2026-11-10T04:32:36Z
+updated: 2026-11-16T17:25:52Z
 ---
 
 # wiki/semitic-roots/l
@@ -57,7 +57,7 @@ updated: 2026-11-10T04:32:36Z
 
 [[wiki/semitic-roots/l/1840_to_get_together_unite_by_common_consent_peace_tr|1840_to_get_together_unite_by_common_consent_peace_tr]]: Proto-Semitic *lʾm, *lmm, 'to get together, unite by common consent, peace treaty', *liʔa/ām- 'union, fraternity, people': reflexes in 11 language(s).
 
-[[wiki/semitic-roots/l/1963_heart|1963_heart]]: Proto-Semitic *libb-, 'heart': reflexes in 27 language(s).
+[[wiki/semitic-roots/l/1963_heart|1963_heart]]: Proto-Semitic *libb-, 'heart': reflexes in 28 language(s).
 
 [[wiki/semitic-roots/l/1964_bladder_in_animals|1964_bladder_in_animals]]: Proto-Semitic *li/abbuḫ- ~ *labīḫ-at-, 'bladder (in animals)': reflexes in 2 language(s).
 

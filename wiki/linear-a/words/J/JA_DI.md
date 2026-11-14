@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/J/JA_DI
 title: "JA-DI"
-desc: "Yadi: Hand (personal name); rivals Yadīn 'he judges', Yadiʿ 'he knows'. Lexicon, SPECULATIVE (tier 1)."
+desc: "Yadi: Hand (personal name); rivals Yadīn 'he judges', Yadiʿ 'he knows', Ugarit ydy 'may (the god) establish'. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "JA-DI"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Yadi |
-| Meaning | Hand (personal name); rivals Yadīn 'he judges', Yadiʿ 'he knows' |
+| Meaning | Hand (personal name); rivals Yadīn 'he judges', Yadiʿ 'he knows', Ugarit ydy 'may (the god) establish' |
 | Root | y-d |
 | Proto-Semitic | \*yad- ~ \*ʾid- (#2046) |
 | Language layer | Semitic |
@@ -41,17 +41,18 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-PH Wc 39, an MM II roundel from Vano LI, JA-DI on face a, RO rōš on face b, whole and undotted (GORILA II 94). ya-di sign for sign as the Amorite name IA-DI-IM (Gelb 1980, no. 3205), mimation unwritten, \*yad- 'hand'. Rivals: Yadīn 'he judges' (Gelb no. 3206 IA-DI-IN-), Yadiʿ 'he knows', each with a final consonant unwritten. One witness. See I-DA, JE-DI and I-DU-NE-SI.
+PH Wc 39, an MM II roundel from Vano LI, JA-DI on face a, RO rōš on face b, whole and undotted (GORILA II 94). ya-di sign for sign as the Amorite name IA-DI-IM (Gelb 1980, no. 3205), mimation unwritten, \*yad- 'hand'. Rivals: Yadīn 'he judges' (Gelb no. 3206 IA-DI-IN-), Yadiʿ 'he knows', each with a final consonant unwritten; the Ugarit name ydy, ia-du-ia, 'May (the god) establish, plant' (Watson 1996b, 99; Kinlaw 1967, 128), the second vowel differing. One witness. See I-DA, JE-DI and I-DU-NE-SI.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Amorite | JAD-IM, IA-DI-IM (Gelb 1980, no. 3205); JA-DJIN+HADD-U, IA-DI-IN-D-IM (no. 3206), the Yadīn rival |
+| Ugaritic | rival ydy, ia-du-ia, 'May (DN) establish, plant' (Watson 1996b, 99; Kinlaw 1967, 128) |
 
 ### Source
 
-di Mino; Gelb 1980
+di Mino; Gelb 1980; Watson 1996b; Kinlaw 1967
 
 ## Attestations
 

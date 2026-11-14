@@ -58,6 +58,12 @@ di Mino; HALOT; CAD
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/KH/KH/KH9\|KH9]] | Khania | Tablet | none |
+| [[wiki/linear-a/inscriptions/KH/KH/KH9\|KH9]] | Khania | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/KH/KH/KH9\|KH9]] | ʾassuppōa | the storehouse (heading of issues), the word of A-SU-PU-WA | SPECULATIVE |
 
 <!-- END kaphtor:record -->

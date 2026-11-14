@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/inscriptions/PH/PHWc/PHWc40
 title: "PHWc40"
-desc: "Roundel, Phaistos, MMII. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "roundel"]
+desc: "Roundel, Phaistos, MMII. Translation: complete (CANDIDATE)."
+tags: ["linear-a", "inscription", "translation-complete", "roundel"]
 kind: "inscription"
 id: "PHWc40"
 site: "Phaistos"
 support: "Roundel"
 period: "MMII"
-translation: "none"
+translation: "complete"
 words: ["TI-TI-MA"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -46,6 +46,25 @@ Unicode (Linear A block):
 ```text
 𐘠𐘠𐙁𐘅
 ```
+
+## Translation
+
+**CANDIDATE**, complete.
+
+> Sixty: NA.
+
+| Word | Reading | Gloss | Confidence | Lexicon |
+|---|---|---|---|---|
+| [[wiki/linear-a/words/T/TI_TI_MA\|TI-TI-MA]] | ṯiṯṯīma | sixty (numeral) | CANDIDATE | CANDIDATE (lexicon) |
+
+### Notes
+
+The roundel is whole.
+
+### Source
+
+- di Mino: TI-TI-MA
+- GORILA: PHWc40
 
 ## Lexicon words citing this document
 

@@ -32,11 +32,11 @@ updated: 2026-11-11T23:39:03Z
 | Reading's standing | SPECULATIVE |
 | Standing as a personal name | SPECULATIVE |
 | Standing of the layer | SPECULATIVE (lexicon_reading) |
-| Source | di Mino; DULAT; Huffmon 1965; GlOS 2 |
+| Source | di Mino; DULAT; Huffmon 1965; GlOS 2; Watson 1990; Gordon 1966 |
 
 ## Note
 
-KN Zf 31 · A-WA-PI ·, undotted, between dividers (GORILA IV 155), among the man's names. Causative with ʾa-, final ʿ unwritten. The w is the root's: Huffmon separates \*wpʿ 'be brilliant' from \*ypʿ 'raise up' (1965, 212), and Heb. hôpîaʿ, the theophany verb (Deut 33:2; Ps 50:2; 80:2), keeps it in ô &lt; aw. The bare verb as a name, as Ug. ypʿ, syllabic ia-pa-ú (DULAT 958), and Amorite Ya-a-pa-aḫ. Cf. JA-WA-\[?\] on PE Zb 7, its third sign unread, for the prefix form. Rival: ʿawp 'bird' (Heb. ʿôp), which would need \*306 for ʿa. See JA-PA.
+KN Zf 31 · A-WA-PI ·, undotted, between dividers (GORILA IV 155), among the man's names. The causative prefix form of w-p-ʿ with ʾa- for ya-, as ʾatan- beside yatan- (Gordon 1966, §148), final ʿ unwritten: the name of JA-WA-PI Yawpiʿ on PE Zb 7 (RILA-S1 112). The w is the root's: Huffmon separates \*wpʿ 'be brilliant' from \*ypʿ 'raise up' (1965, 212), and Heb. hôpîaʿ, the theophany verb (Deut 33:2; Ps 50:2; 80:2), keeps it in ô &lt; aw. The bare verb as a name, as Ug. ypʿ, syllabic ia-pa-ú (DULAT 958), beside ypʿmlk 'May Malku/the king shine' (Watson 1990, 120), filed under /y-p-ʿ/ 'to go up, rise' (DULAT 959), and Amorite Ya-a-pa-aḫ. Rival: ʿawp 'bird' (Heb. ʿôp), which would need \*306 for ʿa. See JA-PA and JA-WA-PI.
 
 ## As a name
 

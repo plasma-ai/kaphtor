@@ -49,6 +49,7 @@ ARKH 2 .3–4 ZU-\*301-SE-DE-\*21F-\*118 6, ṯannān ṣēd ḥiṭṭa 'the ch
 |---|---|
 | Hebrew | ṣayid (II) 'food, provisions for a journey' (HALOT 1020–1021) |
 | Ugaritic | ṣd (I) 'hunt, game' (DULAT 767) |
+| Akkadian | ṣidītu 'viaticum, travel provisions, provisions' (CAD Ṣ 172) |
 
 ### Source
 

@@ -4,7 +4,7 @@ title: "Query notation: what each view stores, and how a query reaches it"
 desc: How a typed root or form is read and spelled in each view's own transliteration, and how a matched row reports the basis of its match.
 tags: [corpora, docs]
 created: 2026-10-22T18:14:10Z
-updated: 2026-11-03T00:00:00Z
+updated: 2026-11-16T19:36:33Z
 ---
 
 # Query notation: what each view stores, and how a query reaches it
@@ -36,6 +36,7 @@ way you would write it — `ʾ-m-r`, `ʔmr`, `√ʾmr`, `'MR`, `s¹`, `s1`, `š`
 | term | ʔ / ʕ | hyphenated | the pointed Hebrew term also matched unpointed |
 | pnm (names) | ꜣ / ꜥ | as typed | Manuel de Codage read; = is ⸗; ProM's Unicode names are spelled as PNM's |
 | tla (names) | ꜣ ʾ / ꜥ | as typed | Manuel de Codage read; yod stored ꞽ (a typed j or ỉ means ꞽ); ⸗ is = |
+| gauthier (names) | — | as the OCR prints it | Gauthier's French transcription (kh, ch, ou, â); the OCR's marks and digits for ḥ (`l;l`, `J:i`, `1).`, `4at`), m (`111`) and i (`nofr1t`) are read as those letters, matching in notation |
 
 ## How a row matched: `match_basis`
 
@@ -50,6 +51,8 @@ Every `--json` row names its basis, and rows sort by it:
 | 5 gloss | the query as a whole word of a gloss (an English plural allowed; German glosses by word start) |
 
 Bases 3 and 6 belong to views that are not in this repository; the numbers are kept so the others keep their meaning.
+In `query_proper_names.py`, basis 5 is a Gauthier entry found only in its own OCR line, where no parsed field holds the
+query: the row's `matched_in` names `raw_text`, it is a lead to the page, and `--exact` leaves it out.
 A root query (hyphen, √, dotted letters) never matches a gloss.
 
 ## The folded tier and `--loose`

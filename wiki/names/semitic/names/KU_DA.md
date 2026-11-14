@@ -32,11 +32,11 @@ updated: 2026-11-11T23:39:03Z
 | Reading's standing | SPECULATIVE |
 | Standing as a personal name | SPECULATIVE |
 | Standing of the layer | SPECULATIVE (lexicon_reading) |
-| Source | di Mino; Gelb 1980; NPN; GlOS 1 |
+| Source | di Mino; Gelb 1980; NPN; GlOS 1; Marcato 2018 |
 
 ## Note
 
-HT 122a, after KU-RO 31: KU-DA 1, the one man that brings the two faces to PO-TO-KU-RO 97 (HT 122b; 31 + 65 + 1), a name added below the total. Amorite GUʾUD-A, written GU-U₂-DA (Gelb 1980, no. 1791), sign for sign with the glottal stop unwritten; KU writes gu. Sanmartín files gu-ú-da under gudd, gūd 'luck; DN' (GlOS 1, 175). Rivals: Kutta, Ku-ut-ta, a name NPN marks H.? (NPN 231); qāʾid 'chief' (#51; Sabaic qwd, Beeston 1982, 110). One witness.
+HT 122a, after KU-RO 31: KU-DA 1, the one man that brings the two faces to PO-TO-KU-RO 97 (HT 122b; 31 + 65 + 1), a name added below the total. Amorite GUʾUD-A, written GU-U₂-DA (Gelb 1980, no. 1791), sign for sign with the glottal stop unwritten; KU writes gu. Sanmartín files gu-ú-da under gudd, gūd 'luck; DN' (GlOS 1, 175). 'Luck' is a man's name at Hatra, gdʾ, gdy and gdw, short forms of a Gad name, and in Neo-Assyrian Gaddâ, ᵐga-da-a (Marcato 2018, 46). Rivals: Kutta, Ku-ut-ta, a name NPN marks H.? (NPN 231); qāʾid 'chief' (#51; Sabaic qwd, Beeston 1982, 110). One witness.
 
 ## As a name
 
@@ -47,6 +47,8 @@ HT 122a: KU-DA 1 among men, the one unit that brings the two faces to PO-TO-KU-R
 | Language | Comparison |
 |---|---|
 | Amorite | GUʾUD-A, GU-U₂-DA, an Ur III name (Gelb 1980, no. 1791) |
+| Aramaic | Hatra gdʾ, gdy, gdw 'Gad / Fortune', men's names (Marcato 2018, 46) |
+| Punic | gd 'good luck, fortune' (Krahmalkov 136) |
 
 ## Attestations
 

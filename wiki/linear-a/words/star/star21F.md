@@ -10,7 +10,7 @@ tier: 3
 confidence: "PROBABLE"
 confidence_score: 0.65
 reading: "(logogram)"
-attestations: ["HT132", "PH(?)31a", "PH(?)31b", "ZA22", "ZA26a", "ZA9"]
+attestations: ["HT132", "PH(?)31a", "PH(?)31b", "ZA22", "ZA26a", "ZA9", "HT136a", "ZA26b"]
 created: 2026-11-12T00:26:03Z
 updated: 2026-11-12T00:26:03Z
 ---
@@ -39,7 +39,7 @@ updated: 2026-11-12T00:26:03Z
 
 ### Note
 
-The ewe, counted beside the ram: PH(?) 31a \*21M 5, \*21F 3 after KU-RO, and PH(?) 31b \*21F 1. HT 132 QA-RE-TO · \*21F 27; ZA 9 sets it after names (\[?\]-MA-JU \*21F 2, WI-RA-RE-MI-TE \*21F 1); ZA 26a \*21F 13; ZA 22 \*21F 1\[. The logogram stands alone before a numeral; inside a word the sign of this number is HA. Linear B OVISᶠ. Cf. Heb. rāḥēl 'ewe' (HALOT 1216). Weak point: no witness spells the word.
+The ewe, counted beside the ram: PH(?) 31a \*21M 5, \*21F 3 after KU-RO, and PH(?) 31b \*21F 1. HT 132 QA-RE-TO · \*21F 27; ZA 9 sets it after names (\[?\]-MA-JU \*21F 2, WI-RA-RE-MI-TE \*21F 1); HT 136a \*21F 30; ZA 26a \*21F 13 and ZA 26b \*21F 7; ZA 22 \*21F 1\[. The logogram stands alone before a numeral; inside a word the sign of this number is HA. Linear B OVISᶠ. Cf. Heb. rāḥēl 'ewe' (HALOT 1216). Weak point: no witness spells the word.
 
 ### Cognates
 
@@ -55,17 +55,22 @@ di Mino; HALOT
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT132\|HT132]] | Haghia Triada | Tablet | none |
-| [[wiki/linear-a/inscriptions/PH/PH/PH_q_31a\|PH(?)31a]] | Phaistos | Tablet | none |
-| [[wiki/linear-a/inscriptions/PH/PH/PH_q_31b\|PH(?)31b]] | Phaistos | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT132\|HT132]] | Haghia Triada | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/PH/PH/PH_q_31a\|PH(?)31a]] | Phaistos | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/PH/PH/PH_q_31b\|PH(?)31b]] | Phaistos | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA22\|ZA22]] | Zakros | Tablet | none |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA26a\|ZA26a]] | Zakros | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA9\|ZA9]] | Zakros | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/HT/HT/HT136a\|HT136a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA26b\|ZA26b]] | Zakros | Tablet | none |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT132\|HT132]] |  | ewe (livestock logogram, standing alone before a numeral) | PROBABLE |
+| [[wiki/linear-a/inscriptions/PH/PH/PH_q_31a\|PH(?)31a]] |  | ewe (livestock logogram, standing alone before a numeral) | PROBABLE |
+| [[wiki/linear-a/inscriptions/PH/PH/PH_q_31b\|PH(?)31b]] |  | ewe (livestock logogram, standing alone before a numeral) | PROBABLE |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA26a\|ZA26a]] | OVISf | ewes |  |
 
 <!-- END kaphtor:record -->

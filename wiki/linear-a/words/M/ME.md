@@ -1,12 +1,12 @@
 ---
 name: wiki/linear-a/words/M/ME
 title: "ME"
-desc: "Unread sign (syllabogram, unread); 3 occurrence(s)."
+desc: "Unread sign (syllabogram, unread); 2 occurrence(s)."
 tags: ["linear-a", "word", "unread"]
 kind: "word"
 form: "ME"
 datasets: ["unread_signs"]
-attestations: ["IOZa16", "ZA21a", "ZA21b"]
+attestations: ["ZA21a", "ZA21b"]
 created: 2026-11-12T00:26:03Z
 updated: 2026-11-12T00:26:03Z
 ---
@@ -25,9 +25,8 @@ updated: 2026-11-12T00:26:03Z
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/IO/IOZa/IOZa16\|IOZa16]] | Iouktas | Square red-orange serpentine libation table (HM 5317) | complete |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA21a\|ZA21a]] | Zakros | Tablet | none |
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA21b\|ZA21b]] | Zakros | Tablet | none |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA21b\|ZA21b]] | Zakros | Tablet | incomplete |
 
 ## In translations
 
@@ -38,5 +37,7 @@ updated: 2026-11-12T00:26:03Z
 ## Unread sign
 
 A syllabogram. Status **unread** (nothing on file).
+
+The ME after JA-SA-SA-RA on IO Za 16 continues that word across the line break (JA-SA-SA-RA-ME) and is counted with it.
 
 <!-- END kaphtor:record -->

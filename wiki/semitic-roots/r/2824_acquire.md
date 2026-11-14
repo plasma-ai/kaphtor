@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/2824_acquire
 title: "*rVkVš-: 'acquire'"
-desc: "Proto-Semitic *rVkVš-, 'acquire': reflexes in 5 language(s)."
+desc: "Proto-Semitic *rVkVš-, 'acquire': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2824"
@@ -34,6 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | rəkaš (HALOT 1238) | HALOT 1238 |  |
 | Mandaic Aramaic | RKŠ (HALOT 1238) | HALOT 1238 |  |
 | Canaanite | EG SYLL r=k=su₂ /\*rakūšu/ (Hoch 210–211) | Hoch 210–211 | gloss withheld |
+| Pre-Islamic North Arabian | Taymanitic rks (Al-Jallad 2026b, 54) | Al-Jallad 2026b 54 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

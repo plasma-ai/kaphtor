@@ -39,7 +39,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 49a, a personnel register: TU-SU-PU₂ 1, beside KU-PA₃-NU, TA-NA-TI and eight other names. Hurrian Tešub, the storm god, as a theophoric name: TU-SU-PU₂ writes t-s-b, with PU₂ for b. Faience and cylinder seals show Hurrian contact. Weak point: one attestation.
+HT 49a, a personnel register: TU-SU-PU₂ 1, beside KU-PA₃-NU, TA-NA-TI and eight other names. Hurrian Tešub, the storm god, as a theophoric name: TU-SU-PU₂ writes t-s-b, with PU₂ for b. At Ugarit tṯb is the storm god of the Hurrian rituals (KTU 1.148:17; Pardee 2000, 992) and an element of compound names, ảrtṯb, kltṯb, ṯrtṯb (DULAT 870–871); the bare name is not attested. Faience and cylinder seals show Hurrian contact. Weak points: TU for te; one attestation. Rival: tōṯabu 'resident, sojourner', Heb. tôšāb, Egyptian Aramaic twtb (HALOT 1712), sign for sign.
 
 ### Cognates
 
@@ -47,12 +47,11 @@ HT 49a, a personnel register: TU-SU-PU₂ 1, beside KU-PA₃-NU, TA-NA-TI and ei
 |---|---|
 | Hurrian | Teššub/Tešub 'storm god'—supreme deity of Hurrian pantheon (Laroche 1980, 263; Hittite Tarhunt) |
 | Hittite | Tarhunna (functional equivalent) |
-| Ugaritic | tṯb, the Hurrian storm god in Ugaritic texts (DULAT 870) |
-| Linear A | TE-SU predicted form |
+| Ugaritic | tṯb, the Hurrian storm god in Ugaritic texts (DULAT 870), in the ritual KTU 1.148:17 (Pardee 2000, 992) |
 
 ### Source
 
-di Mino
+di Mino; DULAT; Pardee 2000; HALOT; Laroche 1980
 
 ## Attestations
 
@@ -64,7 +63,7 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT49a\|HT49a]] | Tešub | Teshub (Hurrian theophoric personal name), 1 | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT49a\|HT49a]] | Tešub | Teshub (Hurrian theophoric personal name), 1; rival tōṯabu 'resident, sojourner' | CANDIDATE |
 
 ## Onomasticon
 
@@ -80,6 +79,6 @@ di Mino
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KI|KI]], [[wiki/linear-a/words/K/KU_PA3_NU|KU-PA₃-NU]] Kubānu.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KI|KI]] kilʾu, [[wiki/linear-a/words/K/KU_PA3_NU|KU-PA₃-NU]] Kubānu.
 
 <!-- END kaphtor:record -->

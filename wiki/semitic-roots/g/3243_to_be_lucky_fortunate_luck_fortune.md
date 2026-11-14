@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/3243_to_be_lucky_fortunate_luck_fortune
 title: "*gd: 'to be lucky, fortunate; luck, fortune'"
-desc: "Proto-Semitic *gd, 'to be lucky, fortunate; luck, fortune': reflexes in 13 language(s)."
+desc: "Proto-Semitic *gd, 'to be lucky, fortunate; luck, fortune': reflexes in 14 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3243"
@@ -42,6 +42,7 @@ updated: 2026-10-25T05:11:48Z
 | Amorite | g-d-d, g-y-d: ia-gi-id-li-im; gadd, gayd, gād: ga-da-nim; gidd, giyd, gīd: gi-da-an; gudd, guwd, gūd: gu-ú-da (Sanmartín GlOS 1, 175) | Sanmartín GlOS 1, 175 | gloss withheld |
 | Eblaitic | /g-d-d, g-y-d/: name i-gi-da-ga-mu; /gadd, gayd, gād/: names ga-da(-), ga-du-um, ga-ti; /gidd, giyd, gīd/: names gi-dum, gi-da-na-im, ki-da-NI; /gudd, guwd, gūd/: names gú-du, gú-da, gu₄-du-nu; /gadduwat, gayduwat, gāduwat/: names ga-du-wa-ad, ga-du-wa-du (Sanmartín GlOS 1, 175) | Sanmartín GlOS 1, 175 | gloss withheld |
 | Punic | gd, in gdnʿm, gdʿštrt, mlqrtgd (Krahmalkov 136) | Krahmalkov 136 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic gd (a deity), Tyche (Al-Jallad 2026, 186); Taymanitic gdn (Al-Jallad 2026b, 38) | Al-Jallad 2026 186; Al-Jallad 2026b 38 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

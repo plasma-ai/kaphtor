@@ -32,11 +32,11 @@ updated: 2026-11-11T23:39:03Z
 | Reading's standing | SPECULATIVE |
 | Standing as a personal name | SPECULATIVE |
 | Standing of the layer | SPECULATIVE (lexicon_reading) |
-| Source | di Mino; HALOT |
+| Source | di Mino; HALOT; Montecchi 2010; Kogan 2011 |
 
 ## Note
 
-An entry with a numeral on four Haghia Triada tablets: HT 10a DA-RI-DA 8 before ME-ZA 3, in the KU-NI-SU list (GORILA I 21); HT 85a DA-RI-DA 12, first under A-DU · \*307+\*307 · VIR+\[·\] (GORILA I 131); HT 122a DA-RI-DA 1, last before KU-RO 31 (GORILA I 207); HT 93a DA-RI-DA \*406VS 2 (GORILA I 147). Hebrew Dardaʿ (1 Kgs 5:11), with ʿ unwritten, from dardar 'thistle' by dissimilation (HALOT 230). Rival: a place or work unit, since 12 on HT 85a stands against 1 on HT 122a.
+An entry with a numeral on four Haghia Triada tablets: HT 10a DA-RI-DA 8 before ME-ZA 3, in the KU-NI-SU list (GORILA I 21); HT 85a DA-RI-DA 12, first under A-DU · \*307+\*307 · VIR+\[·\] (GORILA I 131); HT 122a DA-RI-DA 1, last before KU-RO 31 (GORILA I 207); HT 93a DA-RI-DA \*406VS 2 (GORILA I 147). Hebrew Dardaʿ (1 Kgs 5:11), with ʿ unwritten, from dardar 'thistle' by dissimilation (HALOT 230). Rival: a place or work unit, since 12 on HT 85a stands against 1 on HT 122a. HT 85a and HT 122 are one hand's pair from one room, listing the same units (Montecchi 2010, 22).
 
 ## As a name
 
@@ -47,6 +47,7 @@ An entry with a numeral on HT 10a, 85a, 93a and 122a. Dardaʿ, as Hebrew Dardaʿ
 | Language | Comparison |
 |---|---|
 | Hebrew | Dardaʿ, a wise man, wəkalkōl wədardaʿ bənê māḥôl 'and Calcol and Darda, sons of Mahol' (1 Kgs 5:11; HALOT 230) |
+| Akkadian | daddaru 'thistle' (Kogan 2011, 201) |
 
 ## Attestations
 
@@ -67,7 +68,7 @@ Read words on the same documents.
 | KU-NI-SU | kunīšu | emmer (Akkadian loan) |
 | DA-RE | dār | estate, household (a unit receiving men and grain); rival 'kin group, clan' |
 | \*301 | nawā | pastureland, pastoral product (commodity logogram: nawum in administrative register, nawā in ritual/general) |
-| [[wiki/names/semitic/names/A_DU\|A-DU]] | ʾAddu / adû | Addu/Haddu (heading); rival adû 'work stint' |
+| [[wiki/names/semitic/names/A_DU\|A-DU]] | adû | work assignment; the ration allotted to it (heading of personnel and ration lists) |
 | [[wiki/names/semitic/names/PA3_NI\|PA₃-NI]] | bānī | builder (a personnel class) |
 | KU-RO | kull | total, sum (accounting term) |
 | [[wiki/names/semitic/names/PA3_NI_NA\|PA₃-NI-NA]] | banīna | our builder |

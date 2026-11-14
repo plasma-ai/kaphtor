@@ -364,8 +364,8 @@ def sign_page(model: Model, kind: str, key: str) -> tuple[str, str]:
         lb, alternates = record.get("linear_b") or {}, record.get("alternates") or []
         rows = [["Value", f"/{esc(value)}/" if value else ""],
                 ["Alternates", esc(", ".join(_alternate(a) for a in alternates) or "none")],
-                ["Linear B", esc(f"{lb.get('sign_number')}, value {lb.get('value')}") if lb
-                 else "no Linear B counterpart recorded"]]
+                ["Linear B", esc(f"{lb.get('sign_number')}" + (f", value {lb['value']}" if lb.get("value") else ""))
+                 if lb else "no Linear B counterpart recorded"]]
         if lb.get("unicode"):
             rows.append(["Linear B Unicode", esc(f"{lb['unicode']} {lb.get('unicode_name') or ''}".strip())])
         if lb.get("note"):

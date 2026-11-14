@@ -49,6 +49,7 @@ KN Zf 31, a silver pin from a Mavro Spelio tomb, end of the second row: TI-DI-TE
 |---|---|
 | Akkadian | kezēru 'to curl the hair', i-ke-ez-zi-ru in EA 14 ii 56, silver spatulas 'with which one curls hair' among gifts from Egypt (CAD K 316); kezertu 'woman with curled hair' (CAD K 314) |
 | Ugaritic | d, f. and pl. dt 'which, who', the relative (DULAT 252) |
+| Amorite | šāt (ša-at) 'she of' (Gelb AS 21, 18) |
 
 ### Source
 

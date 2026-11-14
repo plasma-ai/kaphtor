@@ -1,11 +1,11 @@
 ---
 name: data/ane/gauthier-dng
 title: Gauthier, Dictionnaire des noms géographiques
-desc: 7,497 entries, cross-references and addenda of Gauthier's Dictionnaire des noms géographiques, t. 1–6 (1925–1929), read from the scans' OCR text layer as a page finder, public domain.
+desc: 7,443 entries, cross-references and addenda of Gauthier's Dictionnaire des noms géographiques, t. 1–6 (1925–1929), read from the scans' OCR text layer as a page finder, public domain.
 tags: [data, egyptian, toponyms]
 license: Public domain
 created: 2026-10-27T17:22:41Z
-updated: 2026-10-27T17:22:41Z
+updated: 2026-11-16T19:36:33Z
 ---
 
 # Gauthier, Dictionnaire des noms géographiques
@@ -14,7 +14,7 @@ updated: 2026-10-27T17:22:41Z
 
 [[data/ane/gauthier-dng/MANIFEST.json|MANIFEST.json]]: The work, rights, scans, the page, split and field rules, the page check of every half page, counts and checksums.
 
-[[data/ane/gauthier-dng/entries.jsonl|entries.jsonl]]: 7,497 rows, 6,416 entries, 207 cross-references and 874 addenda, each under the volume and printed page it opens on.
+[[data/ane/gauthier-dng/entries.jsonl|entries.jsonl]]: 7,443 rows, 6,362 entries, 207 cross-references and 874 addenda, each under the volume and printed page it opens on.
 
 ***
 
@@ -25,9 +25,10 @@ the term is the author's life plus 70 years.
 
 The file is a page finder, not a source of forms. The hieroglyphs are not in the text layer, so `hieroglyphs` is null
 throughout. The transcription is Gauthier's French-style one (kh, ch, ou, â) as the OCR gives it: ḥ comes out as `l;l`,
-`l)`, `J:i` or `Q`, and letters drop. Read the printed page before quoting a form, gloss or citation. 2,625 rows
-carry `flags`: a head not found or irregular, no source citation, a margin row run on, an entry start near the indent,
-a short entry. The MANIFEST counts each flag.
+`l)`, `J:i`, `Q` or a digit (`1).at`, `4at`), and letters drop; a search for a typed ḥ finds these. Read the printed
+page before quoting a form, gloss or citation. 2,802 rows carry `flags`: a head not found, irregular or rejoined to its
+entry, no source citation, a margin row run on, an entry start near the indent, a short entry. The MANIFEST counts each
+flag. `variants` holds spellings only; 35 entries have no transcription, and a search reaches them through `raw_text`.
 
 Ids are `gauthier:t<volume>:p<printed page>:<n>`, where n is the entry's place among those opening on that page. An
 entry that runs on keeps its first page, and `page_end` gives its last. Each pdf page is a two-page spread: the printed

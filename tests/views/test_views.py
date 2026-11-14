@@ -369,6 +369,30 @@ def test_sign_keys_read_subscripts_as_digits_and_refuse_a_clash():
         model.sign_keys({"PA₃": {}, "PA3": {}})
 
 
+@pytest.mark.parametrize("name, key", [("lexicon.json", "word"), ("onomasticon.json", "token"),
+                                       ("unread_words.json", "word"), ("unread_signs.json", "sign")])
+def test_load_refuses_two_entries_with_one_key(data, name, key):
+    """A dict keyed by the entry's form would keep the second entry and drop the first without a word."""
+    if name == "unread_signs.json":
+        (data / name).write_text(json.dumps(UNREAD_SIGNS, ensure_ascii=False), encoding="utf-8")
+    doc = json.loads((data / name).read_text(encoding="utf-8"))
+    doc["entries"].append(dict(doc["entries"][0]))
+    (data / name).write_text(json.dumps(doc, ensure_ascii=False), encoding="utf-8")
+    form = doc["entries"][0][key]
+    with pytest.raises(ValueError, match=re.escape(f"{name}: two entries have the {key} {form!r}")):
+        views("model").load(data)
+
+
+def test_load_refuses_a_key_repeated_within_one_object(data):
+    """json.loads keeps the last of two equal keys; a translation written twice must not shadow the first."""
+    doc, entry = next(iter(TRANSLATIONS["translations"].items()))
+    body = json.dumps(entry, ensure_ascii=False)
+    (data / "translations.json").write_text(f'{{"translations": {{"{doc}": {body}, "{doc}": {body}}}}}',
+                                            encoding="utf-8")
+    with pytest.raises(ValueError, match=re.escape(f"translations.json: the key {doc!r} appears twice in one object")):
+        views("model").load(data)
+
+
 def test_a_sign_key_meets_its_forms_whichever_way_the_subscript_is_written(data):
     model, render = views("model"), views("render")
     m = model.load(data)
@@ -395,6 +419,15 @@ def test_a_sign_page_writes_alternates_and_linear_b_as_text(data):
         body = text.split(markdown.BEGIN, 1)[1]
         assert not re.search(r"[{\[]['\"]", body), body
         assert "Unicode names list" not in body
+
+
+def test_a_linear_b_counterpart_without_a_value_gives_its_number_alone(data):
+    model, render = views("model"), views("render")
+    m = model.load(data)
+    m.sign_values["signs"]["E"]["linear_b"] = {"sign_number": "B 56", "value": None, "note": "Unicode gives no value"}
+    _, e = render.sign_page(m, "syllabic", "E")
+    assert "| Linear B | B 56 |" in e and "| Linear B note | Unicode gives no value |" in e
+    assert "value None" not in e
 
 
 def test_an_alternate_s_value_is_written_over_its_key(data):

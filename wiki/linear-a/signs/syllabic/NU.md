@@ -53,6 +53,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/K/KI_NU\|KI-NU]] | Kīnu | CANDIDATE |
 | [[wiki/linear-a/words/K/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | PROBABLE |
 | [[wiki/linear-a/words/M/MI_NU_TE\|MI-NU-TE]] | minūt | PROBABLE |
+| [[wiki/linear-a/words/N/NI_JA_NU\|NI-JA-NU]] | niyāḥ-nu | SPECULATIVE |
 | [[wiki/linear-a/words/N/NI_NU_NI\|NI-NU-NI]] | nīnūn | SPECULATIVE |
 | [[wiki/linear-a/words/N/NU_RO\|NU-RO]] | nūr- | CANDIDATE |
 | [[wiki/linear-a/words/N/NU_WI\|NU-WI]] | nōwē | SPECULATIVE |
@@ -64,7 +65,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/T/TA_NA_I_star301_U_TI_NU\|TA-NA-I-\*301-U-TI-NU]] | tan-ʿinā-u-tī-n(u) | PROBABLE |
 | [[wiki/linear-a/words/T/TA_NA_RA_TE_U_TI_NU\|TA-NA-RA-TE-U-TI-NU]] | tan-raṣē-u-tī-n(u) | PROBABLE |
 | [[wiki/linear-a/words/T/TA_NU_MU_TI\|TA-NU-MU-TI]] | ta-nʿum-u-tī | CANDIDATE |
-| [[wiki/linear-a/words/T/TA_NU_NI_KI_NA\|TA-NU-NI-KI-NA]] | tannî qînâ | SPECULATIVE |
+| [[wiki/linear-a/words/T/TA_NU_NI_KI_NA\|TA-NU-NI-KI-NA]] | tanūḥūn qīna | CANDIDATE |
 | [[wiki/linear-a/words/T/TI_NU_JA\|TI-NU-JA]] | Ṯinuya | SPECULATIVE |
 | [[wiki/linear-a/words/T/TU_NU\|TU-NU]] | Tunu | SPECULATIVE |
 | [[wiki/linear-a/words/T/TU_QE_NU\|TU-QE-NU]] | Tuqnu | CANDIDATE |

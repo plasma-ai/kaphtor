@@ -48,6 +48,7 @@ HT 117a, counted once in a roster of people. √ḳ-d-r 'be dark'; cf. Hebrew Q�
 |---|---|
 | Hebrew | Qēdār (קֵדָר) 'Kedar', son of Ishmael, an Arabian people; qādar (קָדַר) 'be dark, mourn' (HALOT 1072) |
 | Ugaritic | qdr 'darkening' (DULAT) |
+| Judaic Aramaic | qdr 'to become dark' (HALOT 1072) |
 
 ## Attestations
 

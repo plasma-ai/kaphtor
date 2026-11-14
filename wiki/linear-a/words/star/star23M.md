@@ -33,7 +33,7 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | mūru |
 | Meaning | young bull, head of cattle (live livestock logogram; MU-onset abbreviation of \*mūru) |
-| Root | m-r-ʾ |
+| Root | m-h-r |
 | Proto-Semitic | \*muhr- (#2243) |
 | Language layer | Semitic |
 | Tags | abbreviation, commodity, livestock, logogram |
@@ -48,6 +48,7 @@ HT 30, HT 114a and HT 121 set it after VIN in whole numbers (1, 3, 3); KH 87 \*2
 | Language | Comparison |
 |---|---|
 | Akkadian | mūru 'foal; calf' (CAD M/2 229); mīru A 'young bull' (CAD M/2 109) |
+| Arabic | muhr- 'foal; in general, young (of any animal)' (BK 2, 1161) |
 
 ### Source
 
@@ -59,7 +60,7 @@ di Mino
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT114a\|HT114a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT121\|HT121]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT30\|HT30]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT30\|HT30]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/GO/GOWc/GOWc1b\|GOWc1b]] | Gournia | Roundel | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH87\|KH87]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2069\|KHWc2069]] | Khania | Roundel | complete |
@@ -68,6 +69,7 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT30\|HT30]] | mūru | young bull, head of cattle (live livestock logogram; MU-onset abbreviation of \*mūru) | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT114a\|HT114a]] | mūru | young bull, head of cattle | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT121\|HT121]] | mūru | young bull, head of cattle (live livestock) | PROBABLE |
 | [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2069\|KHWc2069]] | (logogram) | young bull, head of cattle (live livestock logogram) | PROBABLE |

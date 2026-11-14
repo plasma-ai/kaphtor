@@ -31,4 +31,6 @@ updated: 2026-11-12T00:26:03Z
 
 A vessel. Status **unread** (nothing on file).
 
+HT 31: a plain tapering vessel on a short foot.
+
 <!-- END kaphtor:record -->

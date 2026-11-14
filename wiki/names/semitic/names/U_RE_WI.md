@@ -44,6 +44,7 @@ HT 25a, a personnel roster: U-RE-WI 1, on the same roster as DU-RU-WI. ʾūr-lē
 |---|---|
 | Eblaite | ʾūr- 'light' in names: ù-rí-lum, ù-rí-ḫa-mu (GlOS 1, 54) |
 | Alalakh | ú-re-el-mu, ú-ri-ya (GlOS 1, 54) |
+| Hebrew | ʔōr 'brightness, daylight; light' (HALOT 24–25); lwh I qal 'to accompany', nif. 'to join oneself to' (HALOT 522) |
 
 ## Attestations
 

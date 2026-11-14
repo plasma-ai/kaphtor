@@ -59,7 +59,7 @@ Unicode (Linear A block):
 
 ### Notes
 
-Single-word owner/dedicant inscription on clay vessel from Akrotiri. The pan-Semitic votive naming motif—a child asked of the deity (Akkadian Erišti-Aya, Hebrew Šāʾûl, Hannah's Samuel etymology 1 Sam 1:20)—in the ʾrš lexeme; Amorite ARIŠ-AN (Gelb no. 2190) and Safaitic ʾršn carry the identical formation. Companion to THEZb6 ʾatanāya: both Thera vessels carry devotional single words.
+Single-word owner/dedicant inscription on clay vessel from Akrotiri. The pan-Semitic votive naming motif—a child asked of the deity (Akkadian Erišti-Aya, Hebrew Šāʾûl, Hannah's Samuel etymology 1 Sam 1:20)—in the ʾrš lexeme; Punic ʾRŠ, \*ʾariš (Benz 1972, 276), Ugarit ỉršn (KTU 4.77:17) and Arabian ʾršn carry the same root; rival Ḥarišān 'craftsman' (Huffmon 1965, 205). Companion to THEZb6 ʾatanāya: both Thera vessels carry devotional single words.
 
 ### Source
 

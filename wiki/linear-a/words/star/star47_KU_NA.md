@@ -47,12 +47,12 @@ ZA 15a .1 \*47-KU-NA SA-VIN, all four signs whole and undotted (GORILA III 183),
 
 | Language | Comparison |
 |---|---|
-| Canaanite | su₂-ki-na 'prefect', gloss in EA 362 (ORACC aemw/amarna P270873) |
+| Amarna | su₂-ki-na 'prefect', Canaanite gloss in EA 362 (ORACC aemw/amarna P270873) |
 | Phoenician | skn 'governor'; SKN, ʾSKN Sakun, the god (lʾskn ʾdr, KAI 58); Σαγχουνιάθων; Neo-Punic Bodsychun (Krahmalkov 2000, 342–343, 99; Benz 1972, 365) |
 | Amorite | SA-KU-NU-NU-UM (Gelb 1980, no. 5405) |
 | Ugaritic | śkn 'prefect, governor; manager, administrator' (DULAT 746) |
 | Akkadian | sākinu 'a high official', Alalakh, Boğazköy, Ras Shamra (CAD S 76) |
-| Hebrew | sōkēn 'steward' (HALOT 755) |
+| Hebrew | sōkēn 'administrator' (HALOT 755) |
 
 ### Source
 
@@ -62,7 +62,13 @@ di Mino; Krahmalkov 2000; Benz 1972; Gelb 1980
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA15a\|ZA15a]] | Zakros | Tablet | none |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA15a\|ZA15a]] | Zakros | Tablet | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA15a\|ZA15a]] | sōkuna | prefect, steward (heading of a wine issue) | SPECULATIVE |
 
 ## Onomasticon
 

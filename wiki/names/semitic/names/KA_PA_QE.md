@@ -47,6 +47,8 @@ HT 6a .4–5 KA-PA-QE 5¾, whole (GORILA I 13), the last fig entry under KA-PA. 
 | Language | Comparison |
 |---|---|
 | Akkadian | qīpu (qēpu) 'official; administrator of a region, a city, a temple'; LÚ qīpu ša šarri (KAJ 113:25; CAD Q 264) |
+| Ugaritic | kpr 'village', the KA-PA element (GlOS 1, 315) |
+| Phoenician | kpr 'town, village' (Krahmalkov 240) |
 
 ## Attestations
 

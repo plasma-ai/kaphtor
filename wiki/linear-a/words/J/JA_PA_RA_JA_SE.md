@@ -53,6 +53,7 @@ Weak points: sign 3 RA, with DA allowed (SY Za 9\*); sign 5 SE only by the form 
 |---|---|
 | Hebrew | פָּאַר (pāʾar) "glorify, beautify" (Isa 60:7, 13; hitpaʿel Isa 60:21, 61:3), פְּאֵר (pəʾēr) "diadem, headdress", תִּפְאֶרֶת (tipʾart) "beauty, splendor"; יָצָא/יֹצֵא (yāṣāʾ/yōṣē) "go out" |
 | Akkadian | (w)aṣû "go out", ṣītu "outflow, disbursement" |
+| Ugaritic | yṣʾ 'go out, appear' (DULAT 969) |
 
 ### Source
 

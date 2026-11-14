@@ -45,7 +45,7 @@ CR(?) Zf 1, a gold pin: A-MA-WA-SI · KA-NI-JA-MI · I-JA · QA-KI-SE-NU-TI · A
 
 | Language | Comparison |
 |---|---|
-| Hurrian | šēna 'brother' with the individualizing -ni, šen=ni, onomastic -šenni (Giorgieri 2000, 202; Wilhelm, Hurrian, 103; Laroche 1980, 225–26): Adal-šenni (RS 11.0839, a-dal-ŠEŠ) and Tulbi-šenni (RS 19.0063+, tul₂-bi-ŠEŠ) at Ugarit; Aku-šenni at Nuzi (NPN, s.v.) |
+| Hurrian | šēna 'brother' with the individualizing -ni, šen=ni, onomastic -šenni (Giorgieri 2000, 202; Wilhelm, Hurrian, 103; Laroche 1980, 225–26): Adal-šenni (RS 11.0839, a-dal-ŠEŠ) and Tulbi-šenni (RS 19.0063+, tul₂-bi-ŠEŠ) at Ugarit; Aku-šenni at Nuzi (NPN, s.v.); Kakki-še, kakk=i-še(na), at Karana (Monti 2017, 388); Atal-šenni at Mari, a-dal-še-en-ni, var. a-dal-še-nu (Monti 2017, 230) |
 
 ### Source
 

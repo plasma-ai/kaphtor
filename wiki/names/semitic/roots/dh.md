@@ -30,8 +30,8 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/semitic/names/DA_MI_NU\|DA-MI-NU]] | Ḏā-Mīnu | personal name, 'He of the Portion' (ḏā + √m-n-y); rival √m-n-n 'He of the Favor' | 1 |
 | [[wiki/names/semitic/names/DA_NA_SI\|DA-NA-SI]] | Ḏā-Naśiʾ | He of Naśiʾ (personal name heading HT 126a) | 1 |
 | [[wiki/names/semitic/names/DA_NE_KU_TI\|DA-NE-KU-TI]] | Ḏā-naquddi | He of the speckled (flock) (personal name); rival 'He of the head shepherd' | 1 |
-| [[wiki/names/semitic/names/DA_QE_RA\|DA-QE-RA]] | ḏā-Qīra | the (district) of Qīr, the walled town; heading opposite KA-PA 'village'; rival diḳaru 'pot' | 3 |
-| [[wiki/names/semitic/names/DA_SI_star118\|DA-SI-\*118]] | Ḏā-šiṭṭa | those of Acacia (gentilic, a roster unit); rival the unglossed Dasiṭa | 4 |
+| [[wiki/names/semitic/names/DA_QE_RA\|DA-QE-RA]] | ḏā-Qīra | the (district) of Qīr, the walled town; heading opposite KA-PA 'village'; rival diqāru 'bowl' | 3 |
+| [[wiki/names/semitic/names/DA_SI_star118\|DA-SI-\*118]] | Ḏā-šiṭṭa | those of Acacia (gentilic, a roster unit) | 4 |
 | [[wiki/names/semitic/names/DA_TU\|DA-TU]] | ḏātu | She of (…), a woman named by her house (personal name; feminine of ḏū 'he of'); rival daṯʾu 'spring pasture' | 1 |
 | [[wiki/names/semitic/names/DU_JA\|DU-JA]] | Ḏū-Ya | personal name, 'He of Ya' | 1 |
 | [[wiki/names/semitic/names/DU_MA_I_NA\|DU-MA-I-NA]] | ḏū-maʿīna | He of the Spring (personal name; ḏū 'he of' + maʿīn 'spring, flowing water'); rival a product, '(the drink) of the spring' | 1 |

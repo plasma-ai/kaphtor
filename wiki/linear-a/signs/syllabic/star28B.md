@@ -31,7 +31,7 @@ Evidence: one word, \*28B-NU-MA-RE, on three Zakros lists
 |---|---|
 | Value | /yi/ |
 | Alternates | /we/, /ʾu/, /ē/, /no/ |
-| Linear B | None, value None |
+| Linear B | None |
 | Linear B note | No direct Linear B equivalent identified. Linear B does not distinguish JI from I in most contexts. Salgarella 2020 (294–295, 337) proposes A 28b as the graphic source of Linear B \*52 no; Soldani 2013 (125, 162) links it to \*43 a₃ (aj) instead. |
 | Neutralization class | none |
 

@@ -28,7 +28,7 @@ updated: 2026-10-24T16:17:50Z
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA4a\|ZA4a]] | Zakros | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA5b\|ZA5b]] | Zakros | Tablet | complete |
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA15a\|ZA15a]] | Zakros | Tablet | none |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA15a\|ZA15a]] | Zakros | Tablet | complete |
 
 ## In translations
 
@@ -36,6 +36,7 @@ updated: 2026-10-24T16:17:50Z
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA4a\|ZA4a]] | yīnu-mārē | wine-stewards (personnel category), 13 units | CANDIDATE |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA5b\|ZA5b]] | yīnu-mārē | wine-stewards (compound: wine + lords) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA15a\|ZA15a]] | yinumare | wine-lords, wine-stewards (personnel category) | CANDIDATE |
 
 ## Onomasticon
 

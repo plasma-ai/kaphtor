@@ -59,7 +59,13 @@ di Mino; DULAT; Pagan 1998
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT63\|HT63]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT63\|HT63]] | Haghia Triada | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT63\|HT63]] | Qāti | personal name Qāti 'Hand' | SPECULATIVE |
 
 ## Onomasticon
 

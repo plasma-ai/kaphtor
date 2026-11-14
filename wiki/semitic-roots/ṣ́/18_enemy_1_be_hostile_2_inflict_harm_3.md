@@ -50,7 +50,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | ṣär 1 (KT 2561); täṣarärä (KT 2564) | KT 2561; KT 2564 | gloss withheld |
 | Syrian Aramaic | ʿarrətā (HALOT 1054) | HALOT 1054 | gloss withheld |
 | Mandaic Aramaic | ṣara (LGz. 152; MD 388) | LGz. 152; MD 388 |  |
-| Pre-Islamic North Arabian | Safaitic ḍr (Al-Jallad–Jaworska 68); ḍr; Taymanitic ḍr (Al-Jallad 2026, 43) | Al-Jallad–Jaworska 68; Al-Jallad 2026 43 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ḍr (Al-Jallad–Jaworska 68); ḍr (Al-Jallad 2026, 43); Taymanitic ḍr (Al-Jallad 2026b, 7) | Al-Jallad–Jaworska 68; Al-Jallad 2026 43; Al-Jallad 2026b 7 | gloss withheld |
 | Emar | ṣa-ra-ri, \[ṣa\]-ar-ra-ri /ṣarrā̆ru/ (Pentiuc 2001, 161–162) | Pentiuc 2001 161–162 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

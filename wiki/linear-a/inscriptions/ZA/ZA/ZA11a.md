@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/inscriptions/ZA/ZA/ZA11a
 title: "ZA11a"
-desc: "Tablet, Zakros. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "tablet"]
+desc: "Tablet, Zakros. Translation: incomplete (SPECULATIVE)."
+tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
 kind: "inscription"
 id: "ZA11a"
 site: "Zakros"
 support: "Tablet"
 period: ""
-translation: "none"
+translation: "incomplete"
 words: ["*516", "DI-DI-KO-RA-ME-TA₂", "GRA+PA", "KU-PA", "OLIV", "PI-*310-A"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -67,6 +67,31 @@ Unicode (Linear A block):
 𐝫𐙋𐄈
 𐝫
 ```
+
+## Translation
+
+**SPECULATIVE**, incomplete (status: incomplete).
+
+> Djed-ka-Re the reliable, account: parīsu-measure; \]-RA-MA-SI: wine ½\[…\] \]E-KU-RU 2¼; JU, a fraction; wine ½; QE+GRA+PA 4; box: parīsu-measure 1; in front: olives 2 \[…\]
+
+| Word | Reading | Gloss | Confidence | Lexicon |
+|---|---|---|---|---|
+| [[wiki/linear-a/words/D/DI_DI_KO_RA_ME_TA2\|DI-DI-KO-RA-ME-TA₂]] | Djed-ka-Re meti | personal name, 'The ka of Re endures, the reliable one' (Egyptian) | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/star/star516\|\*516]] | šipru | account, register (šipru), a transaction logogram | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/G/GRA_plus_PA\|GRA+PA]] | parīsu | parīsu, the half-gur grain measure (CAD P 186; DULAT 671–672 prś) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/V/VIN\|VIN]] |  | wayn 'wine' | PROBABLE | PROBABLE (lexicon) |
+| [[wiki/linear-a/words/K/KU_PA\|KU-PA]] | quppa | box, basket (standardized container for measured commodity allocations) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/P/PI_star310_A\|PI-\*310-A]] | pīnā | face, front | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/O/OLIV\|OLIV]] |  | zayt 'olive (fruit)' | PROBABLE | PROBABLE (lexicon) |
+
+### Notes
+
+The left margin is original at the first line. The middle lines are broken at the left, with traces before RA-MA-SI, and the first ½ is itself cut. The bottom is lost.
+
+### Source
+
+- di Mino: DI-DI-KO-RA-ME-TA₂, \*516, GRA+PA, VIN, KU-PA, PI-\*310-A, OLIV
+- GORILA: ZA11a
 
 ## Lexicon words citing this document
 

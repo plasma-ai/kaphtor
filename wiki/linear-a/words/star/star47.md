@@ -26,7 +26,7 @@ updated: 2026-11-12T00:26:03Z
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/MA/MA/MA1a\|MA1a]] | Malia | 3-sided bar | none |
-| [[wiki/linear-a/inscriptions/MA/MA/MA1b\|MA1b]] | Malia | 3-sided bar | none |
+| [[wiki/linear-a/inscriptions/MA/MA/MA1b\|MA1b]] | Malia | 3-sided bar | complete |
 
 ## Unread sign
 

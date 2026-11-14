@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-KN Zc 6, an ink-inscribed clay cup from a sanctuary deposit above the Basement of the Monolithic Pillars, Knossos: .1 \*34-TI-RI, .2 A-DI DA-KI-TI 'until fine' (Lev 16:12 qəṭōret … daqqâ). qiṭrī 'my incense', \*34 read QI, TI for ṭi, with the 1cs possessive suffix -ī: Heb. qiṭṭēr 'to burn incense' (HALOT 1094), qəṭōret 'incense' (HALOT 1095). Rival: ʿiṭrī 'my scent', \*34 for ʿi: Heb. ʿătar 'smell (of incense)' (Ezek 8:11), Arb. ʿiṭr 'scent' (HALOT 906). Weak point: \*34 = qi is a proposed value. One attestation. See QA-\*118-RA-RE.
+KN Zc 6, an ink-inscribed clay cup from a sanctuary deposit above the Basement of the Monolithic Pillars, Knossos: .1 \*34-TI-RI, .2 A-DI DA-KI-TI 'unto Daqqitu'; rival 'until fine' (Lev 16:12 qəṭōret … daqqâ). qiṭrī 'my incense', \*34 read QI, TI for ṭi, with the 1cs possessive suffix -ī: Heb. qiṭṭēr 'to burn incense' (HALOT 1094), qəṭōret 'incense' (HALOT 1095). Rival: ʿiṭrī 'my scent', \*34 for ʿi: Heb. ʿătar 'smell (of incense)' (Ezek 8:11), Arb. ʿiṭr 'scent' (HALOT 906). Weak point: \*34 = qi is a proposed value. One attestation. See QA-\*118-RA-RE.
 
 ### Cognates
 
@@ -49,6 +49,7 @@ KN Zc 6, an ink-inscribed clay cup from a sanctuary deposit above the Basement o
 |---|---|
 | Hebrew | qiṭṭēr 'to burn incense', qəṭōret 'incense' |
 | Egyptian | group writing qu₄-da-ru₂-ta 'incense' (GlOS 1, 359, after Hoch, SWET 305, no. 440) |
+| Punic | qṭrt 'incense' (Krahmalkov 426) |
 
 ### Source
 

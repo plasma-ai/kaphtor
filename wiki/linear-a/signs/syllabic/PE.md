@@ -28,19 +28,13 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Value | /pe/ |
-| Alternates | /be/ |
+| Alternates | none |
 | Linear B | B 72, value pe |
 | Linear B Unicode | U+1001F LINEAR B SYLLABLE B072 PE |
-| Neutralization class | P |
+| Neutralization class | none |
 
-### Alternate values
+### Note
 
-| Value | Confidence | Evidence |
-|---|---|---|
-| /be/ | 0.30 | P-class neutralization |
-
-### Forms cited for the value
-
-- Linear B projection
+NOT A LINEAR A SIGN. AB72 PE does not occur in the Linear A corpus, and Unicode's Linear A block has no AB072; the value pe is Linear B's, and it was the only support. SigLA codes one sign AB72, with no value, on HT 28a: the second sign of the word GORILA and the corpus read SA-RA₂. Do not propose PE in Linear A spellings.
 
 <!-- END kaphtor:record -->

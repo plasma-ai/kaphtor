@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/K0211_pluck
 title: "*nVtVp-: 'pluck'"
-desc: "Proto-Semitic *nVtVp-, 'pluck': reflexes in 7 language(s)."
+desc: "Proto-Semitic *nVtVp-, 'pluck': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0211"
@@ -36,6 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | nätfa (LGz. 407) | LGz. 407 | gloss withheld |
 | Amharic | nättäfä (LGz. 407) | LGz. 407 | gloss withheld |
 | Akkadian | naṭāpu (natāpu); IV (CAD N/2 128) | CAD N/2 128 | gloss withheld |
+| Pre-Islamic North Arabian | Taymanitic ʾntf (Al-Jallad 2026b, 50) | Al-Jallad 2026b 50 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

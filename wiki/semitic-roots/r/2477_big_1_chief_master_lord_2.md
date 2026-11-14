@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/2477_big_1_chief_master_lord_2
 title: "*rabb-: 'big' 1, 'chief, master, lord' 2"
-desc: "Proto-Semitic *rabb-, 'big' 1, 'chief, master, lord' 2: reflexes in 16 language(s)."
+desc: "Proto-Semitic *rabb-, 'big' 1, 'chief, master, lord' 2: reflexes in 17 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2477"
@@ -46,6 +46,7 @@ updated: 2026-10-26T14:26:59Z
 | Emar | ra-ab-ba /rabba/ (Pentiuc 2001, 151–152); ra-ba-tu₄ /rabbatu/ (Pentiuc 2001, 152) | Pentiuc 2001 151–152; Pentiuc 2001 152 | gloss withheld |
 | Amorite | r-b-b/y 1: ia-ar-bi-DINGIR, ia-ar-bu-DINGIR; ra-ba-il (Ur III); rabay: cf. la-aḫ-ra-bu (Sanmartín GlOS 2, 152) | Sanmartín GlOS 2, 152 | gloss withheld |
 | Eblaitic | /rabbut/ 1: name ra-bù-du (Sanmartín GlOS 2, 153) | Sanmartín GlOS 2, 153 | gloss withheld |
+| Pre-Islamic North Arabian | Taymanitic rb (Al-Jallad 2026b, 53); rbʾl 1 (Al-Jallad 2026b, 72) | Al-Jallad 2026b 53; Al-Jallad 2026b 72 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

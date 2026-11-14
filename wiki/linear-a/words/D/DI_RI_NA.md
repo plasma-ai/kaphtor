@@ -48,6 +48,7 @@ A grain recipient in two Scribe 5 lists: HT 93a DI-RI-NA · DA+RE+SE 43½; HT 10
 | Language | Comparison |
 |---|---|
 | Amorite | dīrum (noun), Dīr, Dīrum (GN), Dīrītum (DN), under DWR 'to turn around' (Gelb 1980, AS 21, pp. 17–18) |
+| Minaic | dr 'house, residence; inhabited place' (LM 27 apud SEDonline 2023) |
 
 ### Source
 

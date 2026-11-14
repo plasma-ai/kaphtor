@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/3067_bark_of_a_dog
 title: "*nbḥ: 'bark (of a dog)'"
-desc: "Proto-Semitic *nbḥ, 'bark (of a dog)': reflexes in 5 language(s)."
+desc: "Proto-Semitic *nbḥ, 'bark (of a dog)': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3067"
@@ -34,6 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | nabāḫu (HALOT 660) | HALOT 660 |  |
 | Geez | nabḥa (LGz. 383) | LGz. 383 | gloss withheld |
 | Syrian Aramaic | nbaḥ 'bark; metaph. speak roughly' (Payne Smith 326) | Payne Smith 326 |  |
+| Pre-Islamic North Arabian | Taymanitic nbḥ (Al-Jallad 2026b, 49) | Al-Jallad 2026b 49 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -1,0 +1,24 @@
+{
+  "generated_at": "2026-10-11T03:43:21+00:00",
+  "source_directory": "inscriptions",
+  "source_git_commit": "572d7f5ee1cbb62087bfed3c46ffc7cab6cb386c",
+  "source_xml_files": 5136,
+  "indexed_semitic_records": 73,
+  "records_with_plain_text": 19,
+  "parse_failures": 0,
+  "main_language_counts": {
+    "grc": 3,
+    "he": 2,
+    "la": 1,
+    "xpu": 67
+  },
+  "selection_rule": "mainLang or otherLangs contains xpu, phn, he, or heb",
+  "license": "CC BY 4.0",
+  "source_url": "https://github.com/ISicily/ISicily",
+  "outputs": {
+    "records.jsonl": {
+      "rows": 73,
+      "sha256": "970c3e96b5b49d4cafbe9442addc502d0b927ce1ccd6273fb5cd80258ff41eb3"
+    }
+  }
+}

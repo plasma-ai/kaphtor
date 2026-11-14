@@ -48,6 +48,7 @@ HT104 row entity, I-DU-TI 20½. Yidu-ti, on the Eblaite name element yidu 'stren
 |---|---|
 | Eblaite | i-du-na yidu-na 'our strength' and other yidu names, i-du i₃-la yidu-ʾila 'strength is god' (Pagan 1998, rows 2460–2470); i-du as a name by itself (ARET 15 8, 31 and 34; EbDA) |
 | Ugaritic | Yadu-Baʿal, Yaduwa (Kinlaw 1967, 128) |
+| Amorite | yid, yidat 'hand, arm, power; rental' (GlOS 2, 371) |
 
 ## Attestations
 

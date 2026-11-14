@@ -29,7 +29,7 @@ updated: 2026-11-03T03:29:48Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Pre-Islamic North Arabian | Safaitic ʾl; Dadanitic ʾl; Hismaic ʾl; Taymanitic ʾl; Hasaitic ʾl (Al-Jallad 2026, 10) | Al-Jallad 2026 10 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʾl; Dadanitic ʾl; Hismaic ʾl; Hasaitic ʾl (Al-Jallad 2026, 10); Taymanitic ʾl (Al-Jallad 2026b, 4) | Al-Jallad 2026 10; Al-Jallad 2026b 4 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

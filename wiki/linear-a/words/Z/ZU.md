@@ -66,6 +66,7 @@ di Mino; HALOT; CAD Š/3; Lane
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT63\|HT63]] | ṯūm | garlic (logographic abbreviation) | CANDIDATE |
 | [[wiki/linear-a/inscriptions/KH/KH/KH91\|KH91]] | ṯūm | garlic (logographic abbreviation) | CANDIDATE |
 
 <!-- END kaphtor:record -->

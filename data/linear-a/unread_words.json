@@ -8,22 +8,22 @@
   },
   "stats": {
     "corpus_words": 724,
-    "read": 547,
-    "unread_listed": 373,
+    "read": 551,
+    "unread_listed": 370,
     "by_status": {
       "edge_overlap": 18,
       "unread": 155,
-      "role_only": 200
+      "role_only": 197
     },
-    "hapax": 359,
-    "repeated": 14,
+    "hapax": 358,
+    "repeated": 12,
     "cross_site": 4,
-    "surface_damaged": 273,
+    "surface_damaged": 274,
     "excluded_tokens": {
       "single-sign": 1416,
       "numeral/punct": 1554,
       "logogram": 343,
-      "damaged": 1106,
+      "damaged": 1107,
       "ligature/logogram": 420
     }
   },
@@ -36,22 +36,6 @@
     "NA-MA-MA-TI-TI-*319": "corpus runs NA-MA-MA-TI-TI-*319 as one word on HTZd155; translations read NA-MA + MA-TI-TI + A319, the words lexicon NA-MA and MA-TI-TI"
   },
   "entries": [
-    {
-      "word": "TA-I",
-      "signs": 2,
-      "status": "unread",
-      "frequency": 3,
-      "attestations": [
-        "HT39",
-        "HT9a",
-        "HT9b"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "note": "Always TA-I-*123 (LB AROM) and always a recipient: HT9a (between *324-DI-RA and A-RU), HT9b (between QE-PU and DI-NA-U, I dotted, GORILA I 19) and the head of HT39 with KU-RE-JU and SA-MA-TI. The HT9b entry sits inside the wine total (3+3+8+2+2+2+4 = KU-RO 24), so *123 tags the recipient, not the commodity, cf. LB PN + a-re-pa-zo-o 'unguent-boiler' + AROM (PY Un 249.2). No reading."
-    },
     {
       "word": "*301-*301",
       "signs": 2,
@@ -197,21 +181,6 @@
         ]
       },
       "note": "ZA 6a .3 I-SẸ[, SE dotted, broken after, OLIV after the break (GORILA III 157). ZA 6a .9 ]20 I-SE at the end of the line, before .10 [·][, which the tabular copy joins to it as I-SE-[ (GORILA III 157). Not readable."
-    },
-    {
-      "word": "KA-KI",
-      "signs": 2,
-      "status": "role_only",
-      "role": "personal_name",
-      "frequency": 2,
-      "attestations": [
-        "HT37"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "note": "HT 37 .1 KA-KỊ · SU[, KI dotted, after MI+JA+I · (GORILA I 71). HT 37 .5 KA-KI 11, KA dotted in the copie tabulaire and drawn damaged in the copie normalisée (GORILA I 71). A sign is dotted or damaged on each witness. Not readable."
     },
     {
       "word": "*164-RI-DA",
@@ -2227,21 +2196,6 @@
       "note": "KN 22a .2 ]KẠ-JE-[, broken on both sides, KA dotted, the word running into the break after JE. The note allows a further dotted sign after JE (GORILA I 261). Sole attestation. Not readable."
     },
     {
-      "word": "KA-QA",
-      "signs": 2,
-      "status": "role_only",
-      "role": "personal_name",
-      "frequency": 1,
-      "attestations": [
-        "PK1"
-      ],
-      "sites": [
-        "Palaikastro"
-      ],
-      "cross_site": false,
-      "note": "PK 1 .1 KA-QA 2, after SI-[·]-NE-TI 1, the only entry on the tablet with 2 (GORILA I 281). GORILA prints QA undotted, Younger underlines it as doubtful (Younger, Linear A Texts). The copie tabulaire draws the second sign as a wide oval with knobs at both ends on a stem, unlike the QA of the copie normalisée. No reading."
-    },
-    {
       "word": "KA-RA₂",
       "signs": 2,
       "status": "role_only",
@@ -3000,22 +2954,6 @@
       "note": "PK 1 .1 SI-[·]-NE-TI 1, one group with a sign lost between SI and NE (GORILA I 281). NE-TI is the end of that group. Not a word."
     },
     {
-      "word": "NI-JA-NU",
-      "signs": 3,
-      "status": "role_only",
-      "role": "personal_name",
-      "translation_label": "hapax — possibly a personal name; investigated as nūn 'fish' (√n-w-n) but phonetics NI-JA-NU do not map cleanly to /nūn/",
-      "frequency": 1,
-      "attestations": [
-        "KNZc6"
-      ],
-      "sites": [
-        "Knossos"
-      ],
-      "cross_site": false,
-      "note": "NI dotted in one of GORILA's two transcriptions (IV 121). Not readable."
-    },
-    {
       "word": "NI-MI",
       "signs": 2,
       "status": "unread",
@@ -3298,7 +3236,7 @@
           "end"
         ]
       },
-      "note": "HT 73 .2 ]1 PA-I-KI[, broken after (GORILA I 117). Not readable."
+      "note": "HT 73 .2 ]· PA-I-KI[, a divider before it, broken after (GORILA I 117). Not readable."
     },
     {
       "word": "PA-RE",
@@ -3837,7 +3775,7 @@
       "note": "KH 97a: the editors print .1 ]RE · A-JA[ and .2 ]NẠ[, the end of one group, a divider, a group broken at the right, and one dotted sign on the next line (Andreadaki-Vlasaki & Hallager 2007, 8–9, Fig. 2). A-JA[ may begin a longer word; A-JA stands whole on PE Zc 4 and SY Za 2. Not readable."
     },
     {
-      "word": "RE-SA",
+      "word": "SE-*332",
       "signs": 2,
       "status": "role_only",
       "role": "personal_name",
@@ -3849,7 +3787,7 @@
         "Thera"
       ],
       "cross_site": false,
-      "note": "THE Zb 14 (formerly THE Zb 15), a graffito on a lamp base from Akrotiri, published by Tzachili and Karnava (Minos 39, 2016). The report gives the reading AB 09-A 332 2, that is SE-*332 2, and states that doubts still weigh on it (Del Freo, Rapport 2016–2021, 105–106). RILA-S1 lists it among its doubtful inscriptions (D 15). Not readable."
+      "note": "THE Zb 14 (formerly THE Zb 15), a graffito incised on the lowest ring of a clay high-footed lamp base from Akrotiri (ÉfA V 15), published by Tzachili and Karnava (Minos 39, 2016, 33–34): AB 09-A 332 2, that is SE-*332 2. Only the first sign is readily recognisable, and A 332 is a doubtful identification; doubts still weigh on the reading (Del Freo, Rapport 2016–2021, 105–106). RILA-S1 lists it among its doubtful inscriptions (D 15). Not readable."
     },
     {
       "word": "RE-SU",
@@ -7034,6 +6972,25 @@
       ],
       "cross_site": false,
       "note": "KH Wc 2100 (GORILA III), a roundel whole on every side: three signs in a row with no numeral, the person sign with an element the transcription does not name, *352 and JA. *352 has no value. No reading."
+    },
+    {
+      "word": "A-DU[",
+      "signs": 2,
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "KH23"
+      ],
+      "sites": [
+        "Khania"
+      ],
+      "cross_site": false,
+      "surface_damage": {
+        "KH23": [
+          "end"
+        ]
+      },
+      "note": "KH 23 .1 A-DU[ and .2 CYP[ ] [, the lower part lost: the editors set [ after DU, at the right-hand fracture, and note traces after CYP (GORILA III 56–57). A-DU[ may begin a longer word, as A-DU-RE[ (KH 4) and A-DU-[?]-ZA (KH 11) at the same site; A-DU stands whole on seven Haghia Triada tablets. Not readable."
     }
   ]
 }

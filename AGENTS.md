@@ -15,6 +15,8 @@ Run from the repository root.
 - Check the generated pages: `uv run --no-sync python -m tools.views.build --data data/linear-a --out wiki`
   (`--write` writes them, after a backup)
 - Check the census blocks: `uv run --no-sync python -m tools.views.census_doc --data data/linear-a`
+- Check the headline counts file: `uv run --no-sync python -m tools.views.stats --data data/linear-a` (`--write`
+  rewrites `data/linear-a/stats.json` after any change to the counts)
 - Lint the wiki: `uv run --no-sync wiki lint`
 - Query an ANE corpus: `python3 tools/ane/<client>.py --help` (the clients are listed in `tools/ane/README.md`)
 

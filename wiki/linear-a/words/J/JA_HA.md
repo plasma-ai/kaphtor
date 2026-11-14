@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/J/JA_HA
 title: "JA-HA"
-desc: "Yāh(a): Yāh, divine name; deity receiving offerings alongside Baal on HT28b. Lexicon, SPECULATIVE (tier 1)."
+desc: "Yāh(a): Yāh, divine name; deity receiving offerings alongside Baʿal on HT28b. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "ritual", "theonym"]
 kind: "word"
 form: "JA-HA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Yāh(a) |
-| Meaning | Yāh, divine name; deity receiving offerings alongside Baal on HT28b |
+| Meaning | Yāh, divine name; deity receiving offerings alongside Baʿal on HT28b |
 | Root | y-h-w |
 | Proto-Semitic | \*yah- (#3790) |
 | Language layer | Semitic |
@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Written JA-\*21F, with \*21F = HA (h, ḫ). HT 28b: the recipient of VIN 6, between PU-RA₂ (Baal, NI 6) and WI-DI-NA (OLE+DI 3, VIN 3¼), as in the Ugaritic offering lists (KTU 1.39, 1.41). HT 28a: heads its own commodity list after A-SI-JA-KA. Yāh, the short form of the divine name (HALOT 393), the element a woman's name carries in PI-TA-JA Bittaya 'daughter of Ya' (HT 6a) and a man's in DU-JA Ḏū-Ya 'He of Ya' (HT 7a). Rivals: the Egyptian moon god Iah, jꜥḥ (Ilin-Tomich 2025); the Amorite verbal names Yahwiy-ʾIl, Yahwiy-Haddu (Gelb 1980, nos. 2871, 3593). DULAT 980 keeps Ugaritic yw apart from Hebrew yh. Weak point: Hebrew yh is first attested in the Iron Age, on jar handles from Jericho and Samaria and the Lachish altar (HALOT 393). Two attestations. See PI-TA-JA and DU-JA.
+Written JA-\*21F, with \*21F = HA (h, ḫ). HT 28b: the recipient of VIN 6, between PU-RA₂ (Baʿal, NI 6) and WI-DI-NA (OLE+DI 3, VIN 3¼), as in the Ugaritic offering lists (KTU 1.39, 1.41). HT 28a: heads its own commodity list after A-SI-JA-KA. Yāh, the short form of the divine name (HALOT 393), the element a woman's name carries in PI-TA-JA Bittaya 'daughter of Ya' (HT 6a) and a man's in DU-JA Ḏū-Ya 'He of Ya' (HT 7a). Rivals: the Egyptian moon god Iah, jꜥḥ (Ilin-Tomich 2025); the Amorite verbal names Yahwiy-ʾIl, Yahwiy-Haddu (Gelb 1980, nos. 2871, 3593). DULAT 980 keeps Ugaritic yw apart from Hebrew yh. Weak point: Hebrew yh is first attested in the Iron Age, on jar handles from Jericho and Samaria and the Lachish altar (HALOT 393). Two attestations. See PI-TA-JA and DU-JA.
 
 ### Cognates
 

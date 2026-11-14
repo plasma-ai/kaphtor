@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 85b and HT 129 (GORILA): Kret, the eponym of Crete, as in the Ugaritic Epic of Kret (KTU 1.14–16). The word uses TA₂ (AB 66), where the gentilic KI-RE-TA-NA has plain TA (AB 59); RE alternates with RI in KI-RI-TA₂. √k-r-t 'to cut, make a covenant' has plain PS \*t in every branch: Akk. karātu, Ug. krt with t, which Ugaritic keeps apart from ṯ, and Heb. כָּרַת with taw, where PS \*ṯ would give š. TA₂ then marks either a Cretan pronunciation of the island's own name, interdental, aspirated or palatal, which foreign scribes fitted to plain t, or a substrate place name with a non-dental stop, later heard as √k-r-t. Ug. krt is /kirta/, the protagonist Kirta, and lkrt /li-kirta/ 'belonging to the story of Kirta'; Huehnergard rejects the vocalization 'keret' as non-Ugaritic, and BH kərētī 'Kerethite' differs in its vowels (Huehnergard 2012, 60, 68). Kret here is the consonantal name krt; Linear A Kirēta shares the i of /kirta/. Ki-ir-ta is a Bronze Age name: Kirta, an early king of Mitanni, on his son's seal (Šu-ut-tar-na DUMU Ki-ir-ta LUGAL Ma-i-ta-ni), and Kirta son of Belata at Alalakh (Niedorf 2008, 489; ATmB 31.1–2, 353.3).
+HT 85b and HT 129 (GORILA): Kret, the eponym of Crete, as in the Ugaritic Epic of Kret (KTU 1.14–16). The word uses TA₂ (AB 66), where the gentilic KI-RE-TA-NA has plain TA (AB 59); RE alternates with RI in KI-RI-TA₂. √k-r-t 'to cut, make a covenant' has plain PS \*t in every branch: Akk. karātu, Ug. krt with t, which Ugaritic keeps apart from ṯ, and Heb. כָּרַת with taw, where PS \*ṯ would give š. TA₂ then marks either a Cretan pronunciation of the island's own name, interdental, aspirated or palatal, which foreign scribes fitted to plain t, or a substrate place name with a non-dental stop, later heard as √k-r-t. Ug. krt is /kirta/, the protagonist Kirta, and lkrt /li-kirta/ 'belonging to the story of Kirta'; Huehnergard rejects the vocalization 'keret' as non-Ugaritic, and BH kərētī 'Kerethite' differs in its vowels (Huehnergard 2012, 60, 68). Kret here is the consonantal name krt; Linear A Kirēta shares the i of /kirta/. Ki-ir-ta is a Bronze Age name: Kirta, an early king of Mitanni, on his son's seal (Šu-ut-tar-na DUMU Ki-ir-ta LUGAL Ma-i-ta-ni), and Kirta son of Belata at Alalakh (Niedorf 2008, 489; ATmB 31.1–2, 353.3). Watson calls the Ugarit name enigmatic and allows Hurrian keretti- 'finger' as remotely possible (1996b, 100).
 
 ### Cognates
 
@@ -54,7 +54,7 @@ HT 85b and HT 129 (GORILA): Kret, the eponym of Crete, as in the Ugaritic Epic o
 
 ### Source
 
-Gordon 1966; Niedorf 2008; DULAT; Ventris and Chadwick 1956
+Gordon 1966; Niedorf 2008; DULAT; Ventris and Chadwick 1956; Watson 1996b; Huehnergard 2012
 
 ## Attestations
 

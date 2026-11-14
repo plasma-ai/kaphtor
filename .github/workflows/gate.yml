@@ -14,6 +14,7 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
+  # Other sites read data/linear-a/stats.json only at commits where job `gate` succeeded: renaming it stops their sync.
   gate:
     runs-on: ubuntu-latest
     timeout-minutes: 30

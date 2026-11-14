@@ -9,7 +9,7 @@ site: "Zakros"
 support: "Clay vessel"
 period: "LMIB"
 translation: "complete"
-words: ["A-RE-PI-RE-NA", "A-SA-MU-NE", "A-SE", "DI-DI-KA-SE", "TA-NA-I-*301-U-TI-NU", "TI-TI-KU"]
+words: ["A-RE-PI-RE-NA", "A-SA-MU-NE", "A-SE", "A-TA-I-*301-DE-KA", "DI-DI-KA-SE", "TI-TI-KU"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -64,7 +64,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/D/DI_DI_KA_SE\|DI-DI-KA-SE]] | Djed-ka(.s) | personal name, 'Her Ka endures' (Egyptian) | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/A/A_SA_MU_NE\|A-SA-MU-NE]] | ʾAšmūn | the deity Eshmun | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/A/A_SE\|A-SE]] | ʾāsē | the Physician (title of Eshmun) | CANDIDATE | CANDIDATE (lexicon) |
-| A-TA-I-\*301-DE-KA | ʾataʿinā dēka | I humble myself for you | CANDIDATE |  |
+| [[wiki/linear-a/words/A/A_TA_I_star301_DE_KA\|A-TA-I-\*301-DE-KA]] | ʾataʿinā dēka | I humble myself for you | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/A/A_RE_PI_RE_NA\|A-RE-PI-RE-NA]] | ʾa-repiʾ-rennā | Healer of Jubilation (Eshmun epithet) | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/T/TI_TI_KU\|TI-TI-KU]] | tittuk(u) | may it be poured (out) | CANDIDATE | CANDIDATE (lexicon) |
 
@@ -80,6 +80,6 @@ Dedicatory inscription: commodity (VIN 32) + dedicant (Egyptian PN) + deity (Esh
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/A/A_RE_PI_RE_NA|A-RE-PI-RE-NA]], [[wiki/linear-a/words/A/A_SA_MU_NE|A-SA-MU-NE]], [[wiki/linear-a/words/A/A_SE|A-SE]], [[wiki/linear-a/words/D/DI_DI_KA_SE|DI-DI-KA-SE]], [[wiki/linear-a/words/T/TA_NA_I_star301_U_TI_NU|TA-NA-I-\*301-U-TI-NU]], [[wiki/linear-a/words/T/TI_TI_KU|TI-TI-KU]].
+[[wiki/linear-a/words/A/A_RE_PI_RE_NA|A-RE-PI-RE-NA]], [[wiki/linear-a/words/A/A_SA_MU_NE|A-SA-MU-NE]], [[wiki/linear-a/words/A/A_SE|A-SE]], [[wiki/linear-a/words/A/A_TA_I_star301_DE_KA|A-TA-I-\*301-DE-KA]], [[wiki/linear-a/words/D/DI_DI_KA_SE|DI-DI-KA-SE]], [[wiki/linear-a/words/T/TI_TI_KU|TI-TI-KU]].
 
 <!-- END kaphtor:record -->

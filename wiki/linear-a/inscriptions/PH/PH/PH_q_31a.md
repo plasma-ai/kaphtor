@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/inscriptions/PH/PH/PH_q_31a
 title: "PH(?)31a"
-desc: "Tablet, Phaistos. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "tablet"]
+desc: "Tablet, Phaistos. Translation: incomplete (SPECULATIVE)."
+tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
 kind: "inscription"
 id: "PH(?)31a"
 site: "Phaistos"
 support: "Tablet"
 period: ""
-translation: "none"
+translation: "incomplete"
 words: ["*21F", "*21M", "KU-PA₃-NU", "KU-RO", "MA-DI", "PA-TA-DA"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -68,6 +68,32 @@ Unicode (Linear A block):
 𐘑𐄋
 𐘐𐄉𐝫
 ```
+
+## Translation
+
+**SPECULATIVE**, incomplete (status: incomplete).
+
+> \[…\] \]A\[…\] \]RU: goat (CAPm+KU) 1; Maʾdi: ram 1; ewe\[…\] \]-NE 1; Kubānu: pig (SUS+SI+RE) 1; Patada\[…\] \]1. Total: goat (CAPm+KU) 1; rams 5; ewes 3.
+
+| Word | Reading | Gloss | Confidence | Lexicon |
+|---|---|---|---|---|
+| [[wiki/linear-a/words/C/CAP\|CAP]] |  | goat (livestock logogram) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/M/MA_DI\|MA-DI]] | Maʾdi | place name: a unit of men and livestock in the HT rosters | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/star/star21M\|\*21M]] |  | ram (livestock logogram) | PROBABLE | PROBABLE (lexicon) |
+| [[wiki/linear-a/words/star/star21F\|\*21F]] |  | ewe (livestock logogram, standing alone before a numeral) | PROBABLE | PROBABLE (lexicon) |
+| [[wiki/linear-a/words/K/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | devotee of Kubaba (Kubaba + -ān-), personal name or title | PROBABLE | PROBABLE (lexicon) |
+| [[wiki/linear-a/words/S/SUS\|SUS]] |  | pig (livestock logogram) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/P/PA_TA_DA\|PA-TA-DA]] | Patada | personal name | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/K/KU_RO\|KU-RO]] | kull | total, sum (accounting term) | CONFIRMED | CONFIRMED (lexicon) |
+
+### Notes
+
+The top and the left side are broken. GORILA prints PA-TA-DA\[ (I 319); the edge beside DA looks original on the photograph and drawing. The final 3 stands at a chipped corner.
+
+### Source
+
+- di Mino: CAP, MA-DI, \*21M, \*21F, KU-PA₃-NU, SUS, PA-TA-DA, KU-RO
+- GORILA: PH(?)31a
 
 ## Lexicon words citing this document
 

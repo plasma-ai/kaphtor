@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/D/DA_SI_star118
 title: "DA-SI-*118"
-desc: "Ḏā-šiṭṭa: those of Acacia (gentilic, a roster unit); rival the unglossed Dasiṭa. Lexicon, CANDIDATE (tier 2)."
+desc: "Ḏā-šiṭṭa: those of Acacia (gentilic, a roster unit). Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "compound", "gentilic", "personnel"]
 kind: "word"
 form: "DA-SI-*118"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Ḏā-šiṭṭa |
-| Meaning | those of Acacia (gentilic, a roster unit); rival the unglossed Dasiṭa |
+| Meaning | those of Acacia (gentilic, a roster unit) |
 | Root | ḏ + š-n-ṭ |
 | Proto-Semitic | \*ḏī- (#K0877) + \*šint- (#3629) |
 | Language layer | Semitic |
@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 13 DA-SI-\*118 19 (wine list, beside KU-ZU-NI 18); HT 85a 24 (men, under A-DU · \*307+\*307, beside KU-ZU-NI 5); HT 122a 2 (men); HT 99b 2. Three scribes count it as a unit. ḏā 'those of', as in DA-NA-SI Ḏā-Naśiʾ, + ši-ṭa, Heb. šiṭṭâ 'acacia' (HALOT 1473), from \*šint-, the n unwritten or assimilated. \*118 = ṭa: s-t and s-d give no acacia. Weak point: \*118 = ṭa is a proposed value. Four attestations.
+HT 13 DA-SI-\*118 19 (wine list, beside KU-ZU-NI 18); HT 85a 24 (men, under A-DU · \*307+\*307, beside KU-ZU-NI 5); HT 122a 2 (men); HT 99b 2. Three scribes count it as a unit. HT 85a and HT 122 are one hand's pair from one room, listing the same units (Montecchi 2010, 22). ḏā 'those of', as in DA-NA-SI Ḏā-Naśiʾ, + ši-ṭa, Heb. šiṭṭâ 'acacia' (HALOT 1473), from \*šint-, the n unwritten or assimilated. \*118 = ṭa: s-t and s-d give no acacia. Weak point: \*118 = ṭa is a proposed value. Four attestations.
 
 ### Cognates
 
@@ -53,7 +53,7 @@ HT 13 DA-SI-\*118 19 (wine list, beside KU-ZU-NI 18); HT 85a 24 (men, under A-DU
 
 ### Source
 
-di Mino; HALOT
+di Mino; HALOT; Montecchi 2010
 
 ## Attestations
 
@@ -90,6 +90,6 @@ di Mino; HALOT
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/A/A_DU|A-DU]] ʾAddu / adû, [[wiki/linear-a/words/D/DA_RE|DA-RE]] dār, [[wiki/linear-a/words/D/DU|DU]] du, [[wiki/linear-a/words/J/JA_MI_DA_RE|JA-MI-DA-RE]] Yamidare, [[wiki/linear-a/words/K/KU_PA3_NU|KU-PA₃-NU]] Kubānu, [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull, [[wiki/linear-a/words/P/PA3_NI|PA₃-NI]] bānī, [[wiki/linear-a/words/Q/QA_star310_I|QA-\*310-I]] qaynī.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/A/A_DU|A-DU]] adû, [[wiki/linear-a/words/D/DA_RE|DA-RE]] dār, [[wiki/linear-a/words/D/DU|DU]] du, [[wiki/linear-a/words/J/JA_MI_DA_RE|JA-MI-DA-RE]] Yamidare, [[wiki/linear-a/words/K/KU_PA3_NU|KU-PA₃-NU]] Kubānu, [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull, [[wiki/linear-a/words/P/PA3_NI|PA₃-NI]] bānī, [[wiki/linear-a/words/Q/QA_star310_I|QA-\*310-I]] qaynī.
 
 <!-- END kaphtor:record -->

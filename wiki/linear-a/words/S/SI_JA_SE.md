@@ -67,7 +67,7 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HTZb/HTZb159\|HTZb159]] | šī-yāṣē | adjectival formation (vessel label): 'of ʿAnānu, ʿAnānu's-ware'; alt. šī-yāṣē 'which goes out' | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HTZb/HTZb159\|HTZb159]] | šī-yāṣē | adjectival formation (vessel label): 'of Ḥanānu, Ḥanānu's-ware'; alt. šī-yāṣē 'which goes out' | CANDIDATE |
 | [[wiki/linear-a/inscriptions/PE/PEZb/PEZb3\|PEZb3]] | šī-yāṣē | adjectival formation (vessel label): 'of linen, linen-ware'; alt. šī-yāṣē 'which goes out' | CANDIDATE |
 
 <!-- END kaphtor:record -->

@@ -30,11 +30,11 @@ updated: 2026-11-11T23:39:03Z
 | Reading's standing | CANDIDATE |
 | Standing as a personal name | CANDIDATE |
 | Standing of the layer | CANDIDATE (lexicon_reading) |
-| Source | di Mino; DULAT 57; Laroche 1980; KN As 1516.11; Gordon 1966 §127 |
+| Source | di Mino; DULAT 57; Laroche 1980; KN As 1516.11; Gordon 1966 §127; Watson 1996b; Kinlaw 1967 |
 
 ## Note
 
-HT 1 A-RA-NA-RE 105, the last of the counted names, whole (GORILA I 3). Ugaritic ålnr, a personal name classed Hurrian and set beside Linear B a-ra-na-ro (DULAT 57); first element allai 'the Lady' (Laroche, GLH 42–43), as in Allan-šeridani at Ugarit (Kinlaw 1967, 19). Hurrian r and l alternate; RA writes r here, as the same scribe writes RA₂ for la in QE-RA₂-U. Linear B a-ra-na-ro is a man, VIR 1, on KN As 1516.11. HT 47b \]RA-NA-RE\[, room for one sign before (GORILA I 91), is the same name if the lost sign is A. Rival: Gordon's Egyptian ꜥꜣ-rn-Rꜥ 'Great-is-the-name-of-Re' (Gordon 1966 §127).
+HT 1 A-RA-NA-RE 105, the last of the counted names, whole (GORILA I 3). Ugaritic ålnr, a personal name classed Hurrian and set beside Linear B a-ra-na-ro (DULAT 57); first element allai 'the Lady' (Laroche, GLH 42–43), as in Allan-šeridani at Ugarit (Kinlaw 1967, 19). Hurrian r and l alternate; RA writes r here, as the same scribe writes RA₂ for la in QE-RA₂-U. Linear B a-ra-na-ro is a man, VIR 1, on KN As 1516.11. Watson asks whether ålnr is a misspelling of ảlrn (1996b, 94), which would reverse the last two consonants. HT 47b \]RA-NA-RE\[, room for one sign before (GORILA I 91), is the same name if the lost sign is A. Rival: Gordon's Egyptian ꜥꜣ-rn-Rꜥ 'Great-is-the-name-of-Re' (Gordon 1966 §127).
 
 ## As a name
 

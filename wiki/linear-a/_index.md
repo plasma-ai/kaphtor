@@ -33,20 +33,20 @@ updated: 2026-11-13T15:03:19Z
 ***
 
 <!-- BEGIN kaphtor:summary -->
-The Kaphtor Lexicon sets out the Linear A record as read in kaphtor: 680 words drawn from 1,719 corpus records
+The Kaphtor Lexicon sets out the Linear A record as read in kaphtor: 694 words drawn from 1,719 corpus records
 at 59 sites, each with its reading, the evidence for it, its tier and its rivals. The readings follow the Semitic
 decipherment of Cyrus Gordon and Tom di Mino, in which Minoan is Tinitic, an archaic branch of Central Semitic written
-in the syllabary whose values Linear B inherited. 599 words read as Semitic, 36 as Hurrian, 14 as
-Egyptian and 9 as Aegean loans or names, and 572 derive their Proto-Semitic root from its associated
+in the syllabary whose values Linear B inherited. 606 words read as Semitic, 39 as Hurrian, 13 as
+Egyptian and 10 as Aegean loans or names, and 576 derive their Proto-Semitic root from its associated
 database, so a reading runs from the tablet to its cognates.
 
 The tier carries the doubt. 19 readings are CONFIRMED, where logogram, sound and arithmetic agree; 75
-are PROBABLE, 252 CANDIDATE and 334 SPECULATIVE, and a reading rises one tier at a time, on new
-evidence. The words are filed by field: personal names (243), commodities (96), administrative
-terms (68), personnel (62), ritual (65), toponyms (47) and divine names
-(32). Beside them stand one page for every inscription, 509 of 591 translations, the
-380 names of the onomasticon, the signs with their 37 resolved and proposed values, and the 373
-legible words that have no reading yet, each with its witnesses. 100 of them are undamaged in every
+are PROBABLE, 267 CANDIDATE and 333 SPECULATIVE, and a reading rises one tier at a time, on new
+evidence. The words are filed by field: personal names (245), commodities (102), administrative
+terms (71), personnel (61), ritual (68), toponyms (44) and divine names
+(33). Beside them stand one page for every inscription, 518 of 635 translations, the
+380 names of the onomasticon, the signs with their 37 resolved and proposed values, and the 370
+legible words that have no reading yet, each with its witnesses. 96 of them are undamaged in every
 witness.
 <!-- END kaphtor:summary -->
 

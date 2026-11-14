@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/K0524_guard
 title: "*šVmVr-: 'guard'"
-desc: "Proto-Semitic *šVmVr-, 'guard': reflexes in 7 language(s)."
+desc: "Proto-Semitic *šVmVr-, 'guard': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0524"
@@ -36,6 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Amorite | śmr: śamarum, śāmirum, śimrum, maśmarum (Gelb AS 21, 32); šimru, šimmāru, šammāru, šamar (Buck 2019, 333) | Gelb AS 21 32; Buck 2019, 333 | gloss withheld |
 | Syrian Aramaic | šmar 'guard, keep; send forth, dismiss' (Payne Smith 585) | Payne Smith 585 |  |
 | Aramaic | šmr (DNWSI 1166) | DNWSI 1166 | gloss withheld |
+| Pre-Islamic North Arabian | Taymanitic smrl (Al-Jallad 2026b, 73) | Al-Jallad 2026b 73 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -45,7 +45,7 @@ updated: 2026-11-03T03:29:48Z
 | Punic | ql (Krahmalkov 426–427) | Krahmalkov 426–427; Anderson–Moser 2024 root qwl | gloss withheld |
 | Judaic Aramaic | qālā (HALOT 1083; DJPA 492b apud CAL) | HALOT 1083; DJPA 492b; CAL |  |
 | Amorite | qwl: qāla, qālum (Gelb AS 21, 29); qāl (Buck 2019, 331); q-w/y-l 2: ia-qú-ul-pí-ᵈEN.ZU, qa-lu/a-ᵈa-mi (Sanmartín GlOS 1, 361) | Gelb AS 21 29; Buck 2019, 331; Sanmartín GlOS 1, 361 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ql (Al-Jallad–Jaworska 110); Taymanitic ql 4 (Al-Jallad 2026, 115) | Al-Jallad–Jaworska 110; Al-Jallad 2026 115 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ql (Al-Jallad–Jaworska 110); Taymanitic ql 4 (Al-Jallad 2026b, 18) | Al-Jallad–Jaworska 110; Al-Jallad 2026b 18 | gloss withheld |
 | Biblical Aramaic | qāl 1 (HALOT 1083–1084) | HALOT 1083–1084 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

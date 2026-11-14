@@ -36,7 +36,8 @@ Markers (registered in `pyproject.toml`; `--strict-markers` refuses any other):
 
 - `data`: reads the datasets shipped under `data/` (the five ANE client runs in `ane/test_data_paths.py`, the
   notation census on the shipped `egytext`, `pnm` and `tla` views in `ane/test_ane_keys.py`, the checks of the four
-  name layers in `ane/test_name_layers.py` and their searches in `ane/test_query_name_layers.py`, the LFS scan, the README's count badges (`test_readme_counts.py`), the Pre-Greek lexicon checks in
+  name layers in `ane/test_name_layers.py` and their searches in `ane/test_query_name_layers.py`, the LFS scan, the README's count badges (`test_readme_counts.py`) and the headline counts against them
+  (`views/test_stats.py`), the Pre-Greek lexicon checks in
   `pre_greek/` and its pages in `views/test_pregreek.py`, the four rival-language root files, the Syriac and Akkadian contact lexica, `cognate_search` on the shipped lexicon,
   and most of the Shoresh tests, which read the 10 files `linear_a/shoresh_inputs.py` names). With `data/`
   removed, every `unit` test still passes. `-m "unit or data"` is what a fresh clone can run.

@@ -40,7 +40,7 @@ updated: 2026-10-25T05:11:48Z
 | Amorite | ka/kī (Buck 2019, 328); ka: ka-zu-ra-DINGIR, ka-zu-ri-ḫa-la, a-ḫu-ka-a-bi; ki: a-ḫi-ki-li-im, a-bi-mi-ki-DINGIR, ia-wi-ki-ìl; kām(m)a: an-nu-ka-ma-bi, bu-nu-ka-ma-i-la, bi-ka-ma-DINGIR/el (Sanmartín GlOS 1, 293) | Buck 2019, 328; Sanmartín GlOS 1, 293 | gloss withheld |
 | Eblaitic | /ki/: (-)gi(-) in names, e.g. gi-a-du, gi-ì-lum; /kay/: (=)ga(=) in names, e.g. ga-ʔà-du, ga-da-mu (Sanmartín GlOS 1, 293) | Sanmartín GlOS 1, 293 | gloss withheld |
 | Biblical Aramaic | kə (HALOT BArm. s.v. כְּ) | HALOT BArm. s.v. כְּ | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic k (Al-Jallad–Jaworska 89) | Al-Jallad–Jaworska 89 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic k (Al-Jallad–Jaworska 89); Taymanitic k- (Al-Jallad 2026b, 14) | Al-Jallad–Jaworska 89; Al-Jallad 2026b 14 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

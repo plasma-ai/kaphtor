@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Pre-Islamic North Arabian | Safaitic nʿm; nʿmt; nʿm (D) (Al-Jallad 2026, 98) | Al-Jallad 2026 98 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic nʿm; nʿmt; nʿm (D) (Al-Jallad 2026, 98); Taymanitic nʿm (Al-Jallad 2026b, 49); ʾlnʿm (Al-Jallad 2026b, 70) | Al-Jallad 2026 98; Al-Jallad 2026b 49; Al-Jallad 2026b 70 | gloss withheld |
 | Ugaritic | nʕm (Kogan 2015, ch. 3 §5.2 no. 40) | Kogan 2015 ch. 3 §5.2 no. 40 | gloss withheld |
 | Phoenician | nʕm; nʿm (HALOT 704, 705); mnʿm (T 187); nʿmt (T 217) | HALOT 704, 705; T 187; T 217 | gloss withheld |
 | Epigraphic South Arabian | Sab nʿm (Biella 308); Sab nʿm (Biella 308; Sabaweb lemma 1538); Sab nʿm (SD 90; Sabaweb lemma 3090) | Biella 308; Sabaweb lemma 1538; SD 90; Sabaweb lemma 3090 | gloss withheld |

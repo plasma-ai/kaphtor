@@ -48,7 +48,7 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT35\|HT35]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT35\|HT35]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT91\|HT91]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT128a\|HT128a]] | Haghia Triada | Tablet | none |
 
@@ -56,6 +56,7 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT35\|HT35]] |  | administrative heading or transaction marker | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT91\|HT91]] |  | administrative heading or transaction marker |  |
 
 <!-- END kaphtor:record -->

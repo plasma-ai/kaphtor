@@ -54,7 +54,7 @@ updated: 2026-10-22T17:38:31Z
 | Gafat | əmʷit (LGz. 22) | LGz. 22 |  |
 | Tigrinya | ʾəm in ʾəmbet (LGz. 22) | LGz. 22 | gloss withheld |
 | Amharic | əmmamma, əmməyye, əmmäbet (LGz. 22) | LGz. 22 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ʾm (Al-Jallad–Jaworska 44); Dadanitic ʾm (Al-Jallad 2026, 6) | Al-Jallad–Jaworska 44; Al-Jallad 2026 6 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʾm (Al-Jallad–Jaworska 44); Dadanitic ʾm (Al-Jallad 2026, 6); Taymanitic bʾm (Al-Jallad 2026b, 34) | Al-Jallad–Jaworska 44; Al-Jallad 2026 6; Al-Jallad 2026b 34 | gloss withheld |
 | Emar | im-mi /ʾimmu/ (Pentiuc 2001, 89) | Pentiuc 2001 89 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

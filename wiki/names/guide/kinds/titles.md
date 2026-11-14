@@ -45,7 +45,6 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/semitic/names/PA3_NI_WI\|PA₃-NI-WI]] | bānīy | the builder (nisba/gentilic) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/PA_NA_TU\|PA-NA-TU]] | banātu / panātu / (Ku)bānatu | daughters (fem. pl.) / portions / Kubaba devotees (cf. KU-PA-NA-TU) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/PI_TA_KE_SI\|PI-TA-KE-SI]] | Bīt-kissi | (Man) of the throne-house, crown dependant (title); rival Hurrian PN Pidi-kešḫi | [[wiki/names/semitic/_index\|Semitic]] | 1 |
-| [[wiki/names/semitic/names/PI_TA_RA\|PI-TA-RA]] | bidāla | trade agents, deputies, a personnel group drawing grain; rivals bitāri 'portions' and the names Paṭir, Batūl | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/QA_star310_I\|QA-\*310-I]] | qaynī | smith or cultic administrator; occupational title | [[wiki/names/semitic/_index\|Semitic]] | 4 |
 | [[wiki/names/semitic/names/QE_PU\|QE-PU]] | qēpu | official, commissioner (title); rival: the personal name Qīpu | [[wiki/names/semitic/_index\|Semitic]] | 2 |
 | [[wiki/names/semitic/names/QE_SU_PU\|QE-SU-PU]] | qaššāpu | sorcerer, diviner (occupational title or PN) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
@@ -53,7 +52,7 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/semitic/names/RO_E\|RO-E]] | rōʿē | herdsman, shepherd (title on a label) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/RO_KE\|RO-KE]] | rōqēaḥ | perfumer (title); rival rōkēl 'trader, merchant' | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/RU_ZU_NA\|RU-ZU-NA]] | rāzin(a) | dignitary, prince (title of a recipient); rival a personal name | [[wiki/names/semitic/_index\|Semitic]] | 1 |
-| [[wiki/names/semitic/names/SA_DI\|SA-DI]] | šadī | land labourer, field worker; rival the personal name Šadī | [[wiki/names/semitic/_index\|Semitic]] | 1 |
+| [[wiki/names/semitic/names/SA_DI\|SA-DI]] | šadī | field worker, Ug. šdy 'land labourer' or 'weaver, spinner'; rival the personal name Šadī 'Country man' | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/SA_RA\|SA-RA]] | šarra | queen, princess (feminine of šarru) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/SA_RA2\|SA-RA₂]] | šarra | queen/princess; by metonymy the queen's or royal establishment (recipient/institutional heading) | [[wiki/names/semitic/_index\|Semitic]] | 20 |
 | [[wiki/names/semitic/names/SA_RO\|SA-RO]] | šarr | king; the king's account (heading and recipient) | [[wiki/names/semitic/_index\|Semitic]] | 4 |

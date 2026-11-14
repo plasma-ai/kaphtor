@@ -49,11 +49,11 @@ HT 37, an inventory tablet: KI-\*310-RE with quantity 1. With \*310 = in the wor
 |---|---|
 | Akkadian | kinnāru 'lyre', Mari and Ugarit (CAD K 387) |
 | Old Syrian | kinnār 'harp, lyre', ki-na-ri-im, GIŠ ki-in-na-ra-tim (GlOS 1, 312) |
-| Ugaritic | knr 'harp, lyre' (GlOS 1, 313) |
+| Ugaritic | knr 'harp, lyre' (GlOS 1, 313); the god Kinnāru, knr (KTU 1.47:32; 1.118:31), \[k\]nr, a ram (KTU 1.148:9), ᵈ.giški-na-rù (RS 20.024; Pardee 2000, 979, 1093; DULAT 445–46) |
 
 ### Source
 
-di Mino; GlOS 1
+di Mino; GlOS 1; Pardee 2000; Pentiuc 2001
 
 ## Attestations
 

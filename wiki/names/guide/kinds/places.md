@@ -19,15 +19,14 @@ updated: 2026-11-11T23:39:03Z
 | Name | Reading | Meaning | Layer | Documents |
 |---|---|---|---|---|
 | [[wiki/names/semitic/names/A_RA_JU\|A-RA-JU]] | ʾArāyu | a town of the kingdom of Ugarit, on the Ugarit–Alalakh border (toponym); rival Aralu | [[wiki/names/semitic/_index\|Semitic]] | 1 |
-| [[wiki/names/semitic/names/A_RA_U_DA\|A-RA-U-DA]] | ʾArwada | Arwad (island city of the Phoenician coast), an entity in a transfer | [[wiki/names/semitic/_index\|Semitic]] | 1 |
+| [[wiki/names/semitic/names/A_RA_U_DA\|A-RA-U-DA]] | ʾArwada | Arwad (island city of the Phoenician coast), the home of the man named before it; rival a personal name, Ugaritic ảrwd(n) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/A_RU_RA\|A-RU-RA]] | ʾArura | place name, heading the HT 11a list under KU-RO 10 | [[wiki/names/semitic/_index\|Semitic]] | 1 |
-| [[wiki/names/semitic/names/DA_QE_RA\|DA-QE-RA]] | ḏā-Qīra | the (district) of Qīr, the walled town; heading opposite KA-PA 'village'; rival diḳaru 'pot' | [[wiki/names/semitic/_index\|Semitic]] | 3 |
+| [[wiki/names/semitic/names/DA_QE_RA\|DA-QE-RA]] | ḏā-Qīra | the (district) of Qīr, the walled town; heading opposite KA-PA 'village'; rival diqāru 'bowl' | [[wiki/names/semitic/_index\|Semitic]] | 3 |
 | [[wiki/names/semitic/names/I_DA\|I-DA]] | ʾIda | Ida, 'the Hand' (sacred mountain—toponym/theonym) | [[wiki/names/semitic/_index\|Semitic]] | 5 |
 | [[wiki/names/semitic/names/I_DA_A\|I-DA-A]] | ʾIda | of Ida (diptotic genitive after DU-\*314-RE); rival 'toward Ida' | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/I_DA_MI\|I-DA-MI]] | ʾIda=mi | Ida, 'the Hand', the sacred mountain, with emphatic enclitic -mi | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/I_KU_RI_NA\|I-KU-RI-NA]] | ʾiqurna | at the horn, the promontory (place name) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/egyptian/names/I_KU_TA\|I-KU-TA]] | Ḥikuptaḥ | place name: Memphis, the seat of Kothar (Ug. Ḥkpt), a recipient of cyperus; rival 'the Memphite' | [[wiki/names/egyptian/_index\|Egyptian]] | 1 |
-| [[wiki/names/semitic/names/KA_KU_PA\|KA-KU-PA]] | kawkab | Star (place name, as Mari Kabkab) | [[wiki/names/semitic/_index\|Semitic]] | 3 |
 | [[wiki/names/semitic/names/KA_NU_TI\|KA-NU-TI]] | Ganuti | place name, 25 men in the HT 97a roster beside PA-I-TO | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/KA_PA\|KA-PA]] | kapa(r) | village, settlement (kapar); rival an institution | [[wiki/names/semitic/_index\|Semitic]] | 6 |
 | [[wiki/names/semitic/names/KA_TA_RE\|KA-TA-RE]] | Katare | Katara, a town of western Crete (place name; Linear B ka-ta-ra) | [[wiki/names/semitic/_index\|Semitic]] | 1 |

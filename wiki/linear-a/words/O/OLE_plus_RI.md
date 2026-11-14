@@ -61,7 +61,7 @@ di Mino; GlOS 2
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT23a\|HT23a]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT35\|HT35]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT35\|HT35]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT60\|HT60]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH82\|KH82]] | Khania | Tablet | none |
 
@@ -70,5 +70,6 @@ di Mino; GlOS 2
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT23a\|HT23a]] | riqqu | aromatic oil | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT35\|HT35]] | riqqu | aromatic/fragrant olive oil preparation | CANDIDATE |
 
 <!-- END kaphtor:record -->

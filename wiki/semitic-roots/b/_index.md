@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/b
 desc: "Semitic roots whose first radical is b."
 created: 2026-10-22T17:38:31Z
-updated: 2026-11-10T03:48:00Z
+updated: 2026-11-16T18:43:50Z
 ---
 
 # wiki/semitic-roots/b
@@ -11,7 +11,7 @@ updated: 2026-11-10T03:48:00Z
 
 [[wiki/semitic-roots/b/1010_separate|1010_separate]]: Proto-Semitic *bVyVn-, 'separate': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/b/1060_choose|1060_choose]]: Proto-Semitic *bVḥVr-, 'choose': reflexes in 8 language(s).
+[[wiki/semitic-roots/b/1060_choose|1060_choose]]: Proto-Semitic *bVḥVr-, 'choose': reflexes in 9 language(s).
 
 [[wiki/semitic-roots/b/1074_part|1074_part]]: Proto-Semitic *baʕ(V)ṣ̂-, 'part': reflexes in 1 language(s).
 
@@ -67,7 +67,7 @@ updated: 2026-11-10T03:48:00Z
 
 [[wiki/semitic-roots/b/14_mother|14_mother]]: Proto-Semitic *biy-biy-, 'mother': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/b/1623_shine_1_dawn_v_2|1623_shine_1_dawn_v_2]]: Proto-Semitic *bVlug-, 'shine' 1, 'dawn' (v.) 2: reflexes in 2 language(s).
+[[wiki/semitic-roots/b/1623_shine_1_dawn_v_2|1623_shine_1_dawn_v_2]]: Proto-Semitic *bVlug-, 'shine' 1, 'dawn' (v.) 2: reflexes in 3 language(s).
 
 [[wiki/semitic-roots/b/1624_swallow_1_eat_2|1624_swallow_1_eat_2]]: Proto-Semitic *bVlaʕ-, 'swallow' 1, 'eat' 2: reflexes in 17 language(s).
 
@@ -401,6 +401,8 @@ updated: 2026-11-10T03:48:00Z
 
 [[wiki/semitic-roots/b/46_young_man_youth|46_young_man_youth]]: Proto-Semitic *baḫūr-, 'young man, youth': reflexes in 3 language(s).
 
+[[wiki/semitic-roots/b/4721_to_shine_glitter|4721_to_shine_glitter]]: Proto-Semitic *bṣṣ, 'to shine, glitter': reflexes in 3 language(s).
+
 [[wiki/semitic-roots/b/518_split_pierce_1_be_split_2|518_split_pierce_1_be_split_2]]: Proto-Semitic *buṭ-, 'split, pierce' 1, 'be split' 2: reflexes in 2 language(s).
 
 [[wiki/semitic-roots/b/519_take_away_1_separate_2_disperse_3_distribute_sha|519_take_away_1_separate_2_disperse_3_distribute_sha]]: Proto-Semitic *bud-, 'take away' 1, 'separate' 2, 'disperse' 3, 'distribute, share out' 4: reflexes in 13 language(s).
@@ -467,7 +469,7 @@ updated: 2026-11-10T03:48:00Z
 
 [[wiki/semitic-roots/b/879_be_strong|879_be_strong]]: Proto-Semitic *bVʾuš-, 'be strong': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/b/8_husband_master_owner|8_husband_master_owner]]: Proto-Semitic *baʕl-, 'husband, master, owner': reflexes in 26 language(s).
+[[wiki/semitic-roots/b/8_husband_master_owner|8_husband_master_owner]]: Proto-Semitic *baʕl-, 'husband, master, owner': reflexes in 27 language(s).
 
 [[wiki/semitic-roots/b/962_hole|962_hole]]: Proto-Semitic *biʾ-, 'hole': reflexes in 1 language(s).
 
@@ -521,7 +523,7 @@ updated: 2026-11-10T03:48:00Z
 
 [[wiki/semitic-roots/b/S58_to_fulfill_1_pledge_oath_2|S58_to_fulfill_1_pledge_oath_2]]: Proto-Semitic *brr, 'to fulfill' 1, 'pledge, oath' 2: reflexes in 3 language(s).
 
-[[wiki/semitic-roots/b/S84_balsam_oil|S84_balsam_oil]]: Proto-Semitic *bśm, 'balsam-oil': reflexes in 6 language(s).
+[[wiki/semitic-roots/b/S84_balsam_oil|S84_balsam_oil]]: Proto-Semitic *bśm, 'balsam-oil': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/b/SA001_BEGINNING_FIRST_OCCASION|SA001_BEGINNING_FIRST_OCCASION]]: Epigraphic South Arabian headword *bdʾ, 'BEGINNING, FIRST OCCASION': reflexes in 6 language(s).
 

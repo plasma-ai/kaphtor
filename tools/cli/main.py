@@ -23,6 +23,7 @@ GATE: list[tuple[str, list[str] | None]] = [
     ("pre-commit hooks", ["pre-commit", "run", "--all-files", "--hook-stage", "manual"]),
     ("generated pages", [sys.executable, "-m", "tools.views.build", "--data", str(LINEAR_A_DATA), "--out", "wiki"]),
     ("census blocks", [sys.executable, "-m", "tools.views.census_doc", "--data", str(LINEAR_A_DATA)]),
+    ("headline counts", [sys.executable, "-m", "tools.views.stats", "--data", str(LINEAR_A_DATA)]),
     ("wiki lint", ["wiki", "lint"]),
     ("no empty folders", [sys.executable, "-m", "tools.cli.main", "empty-folders"]),
     ("index coverage", [sys.executable, "-m", "tools.cli.main", "index-coverage"]),

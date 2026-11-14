@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "dataset": "Personal names in the Aramaic inscriptions of Hatra: Marcato's catalogue entries",
+  "source": {
+    "work": "Marcato, Enrico. 2018. Personal Names in the Aramaic Inscriptions of Hatra. Antichistica 17, Studi orientali 7. Venezia: Edizioni Ca' Foscari.",
+    "doi": "10.30687/978-88-6969-231-4",
+    "url": "https://doi.org/10.30687/978-88-6969-231-4"
+  },
+  "license": "CC BY 4.0",
+  "license_basis": "The book's copyright page (pdf p. 6): 'This work is licensed under a Creative Commons Attribution 4.0 International License'",
+  "inputs": [
+    {
+      "file": "Marcato-2018-Personal-Names-Hatra.pdf",
+      "bytes": 1905802,
+      "sha256": "47e3f16e0cf507226462ef51dec5f3f525283274c2275aca848e4426194ebffc"
+    }
+  ],
+  "scope_note": "Chapter 2, sections 2.1 and 2.2. Each row gives the name, Marcato's translation, the opening words of his analysis (to 'name'), his 'Other readings', the analysis in full, the attestation line and the printed page. Chapters 3-5 are not included.",
+  "rules": {
+    "text": "From the PDF's glyphs; footnote marks dropped; a line-end hyphen closed up; a raised determinative written as a superscript letter.",
+    "palmyrene_refs": "Each 'Stark 1971, <pages>' and 'PAT no. <number>' of the analysis, as printed. They are Marcato's references; neither work is held here.",
+    "ids": "marcato2018:<name as printed>, with #2 on a name that heads a second entry.",
+    "inscriptions": "The H numbers of the attestation line, each once, line numbers and parenthesised notes left to attestations_text.",
+    "printed_page": "The folio printed at the foot of the page where the entry opens."
+  },
+  "counts": {
+    "entries": 407,
+    "by_section": {
+      "incomplete_names": 31,
+      "personal_names": 376
+    },
+    "cross_references": 51,
+    "with_description": 333,
+    "with_attestations": 407,
+    "with_other_readings": 110,
+    "with_analysis": 341,
+    "with_palmyrene_refs": 126,
+    "with_h_numbers": 407,
+    "by_gender": {
+      "None": 99,
+      "female": 11,
+      "male": 297
+    }
+  },
+  "outputs": {
+    "names.jsonl": {
+      "rows": 407,
+      "sha256": "f0df24ee47ee14e1165da5f31f30ad914f81297ce17ec6dbea2ba613481181d2"
+    }
+  }
+}

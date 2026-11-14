@@ -49,6 +49,7 @@ MA 2b: \]-RE-TI 4, \]TI 1, JA-KU 2, TI\[, a roster of small whole numbers on a t
 |---|---|
 | Amorite | JA-QWUJ-U, written ia-ku-ú (Gelb 1980, no. 3314); JA-QWUJ-UM, ia-ku-ú-um and ia-ku-um (nos. 3315, 3317); JA-QWUJ-JA, ia-ku-ia (nos. 3300–3301) |
 | Hebrew | qāwāh (קָוָה) 'wait for, hope' (Ps 27:14; HALOT 1082) |
+| Sabaic | qyw 'wait' (SD 112) |
 
 ### Source
 

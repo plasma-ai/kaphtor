@@ -71,8 +71,8 @@ di Mino; Schoep 2002; Schrijver 2014; Uchitel 2016b; HALOT; Hoch 1994; CAD K; DN
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT1\|HT1]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT15\|HT15]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT30\|HT30]] | Haghia Triada | Tablet | none |
-| [[wiki/linear-a/inscriptions/HT/HT/HT34\|HT34]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT30\|HT30]] | Haghia Triada | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/HT/HT/HT34\|HT34]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT37\|HT37]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT88\|HT88]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT93b\|HT93b]] | Haghia Triada | Tablet | incomplete |
@@ -87,6 +87,8 @@ di Mino; Schoep 2002; Schrijver 2014; Uchitel 2016b; HALOT; Hoch 1994; CAD K; DN
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT1\|HT1]] | kilʾu | owed / outstanding balance (deficit) | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT15\|HT15]] | kilʾu | owed / outstanding balance (deficit): 400 | CONFIRMED |
+| [[wiki/linear-a/inscriptions/HT/HT/HT30\|HT30]] | kilʾu | owed, outstanding balance (deficit)—transaction term heading deficit sections | CONFIRMED |
+| [[wiki/linear-a/inscriptions/HT/HT/HT34\|HT34]] | kilʾu | owed, outstanding balance (deficit)—transaction term heading deficit sections | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT88\|HT88]] | kilʾu | owed / outstanding balance (deficit) | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT93b\|HT93b]] | kilʾu | owed, outstanding | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT94b\|HT94b]] | kilʾu | owed (transaction header) | CONFIRMED |

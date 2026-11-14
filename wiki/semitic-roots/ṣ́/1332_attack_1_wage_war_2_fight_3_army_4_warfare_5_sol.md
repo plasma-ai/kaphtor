@@ -43,7 +43,7 @@ updated: 2026-11-03T03:29:48Z
 | Punic | ṣbʾ 4; Neo-Punic Sab 4 (Krahmalkov 411) | Krahmalkov 411; Anderson–Moser 2024 root ṣbʾ | gloss withheld |
 | Amorite | ṣābiʾu (Buck 2019, 333); ṣ́ābiʾ, ṣ́ābiy 4: za-bi-um, za-bu-ú-um (Sanmartín GlOS 2, 283) | Buck 2019, 333; Sanmartín GlOS 2, 283 | gloss withheld |
 | Eblaitic | za-NE(bí?), za-NE(bí?)-ù /ṣ́ābiʾ, ṣ́ābiy/ 4; maš-bí-tum /maṣ́biʾt/ 4 (Sanmartín GlOS 2, 284) | Sanmartín GlOS 2, 284 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ḍbʾ; ḍbʾ, tḍbʾ; Taymanitic ḍbʾ 6 (Al-Jallad 2026, 41) | Al-Jallad 2026 41 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ḍbʾ; ḍbʾ, tḍbʾ (Al-Jallad 2026, 41); Taymanitic ḍbʾ 6 (Al-Jallad 2026b, 7) | Al-Jallad 2026 41; Al-Jallad 2026b 7 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

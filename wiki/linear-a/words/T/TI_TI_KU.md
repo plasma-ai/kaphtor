@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 35 and ZA Zb 3. On HT 35 it heads a list in which every commodity pours, cyperus, myrrh, three grades of oil, butter and wine, all in fractional liquid measures, the pouring counterpart of the headers for given, received and counted. On ZA Zb 3 it closes the wine-libation formula (wine 32, ʾaššē fire-offering, the √n-w-y formula word, the epithet of Eshmun), as a libation should close. √n-t-k 'to pour out, forth', the tt the assimilated nun, written with the doubled TI: Ug. tntkn udmʿth km ṯqlm arṣh 'his tears pour out like shekels to the ground' (KTU 1.14 I 28–30); Heb. nifal nittak of rain (Exod 9:33), wrath (2 Chr 34:25) and molten metal (Ezek 22:20–22); Akk. natāku 'drip', with tabāku 'pour out' the standard verb of disbursement. 2 Kgs 22:9 הִתִּיכוּ hittīkū, Hiphil 3cp with the nun assimilated, 'your servants have disbursed the silver found in the house', has the disbursement sense on a financial report and the same tt. Either the noun tittuk(u) 'outpouring' or the G imperfect tittōk 'may it be poured'; both fit both slots. Rival: a toponym on ZA Zb 3, 'from Tittiku'. See I-TI-TI-KU-NI.
+HT 35 and ZA Zb 3. On HT 35 it heads a list in which every commodity pours, cyperus, myrrh, three grades of oil, butter and wine, all in fractional liquid measures, the pouring counterpart of the headers for given, received and counted. On ZA Zb 3 it closes the wine-libation formula (wine 32, ʾāsē 'the Physician', the √ʿ-n-w formula word, the epithet of Eshmun), as a libation should close. √n-t-k 'to pour out, forth', the tt the assimilated nun, written with the doubled TI: Ug. tntkn udmʿth km ṯqlm arṣh 'his tears pour out like shekels to the ground' (KTU 1.14 I 28–30); Heb. nifal nittak of rain (Exod 9:33), wrath (2 Chr 34:25) and molten metal (Ezek 22:20–22); Akk. natāku 'drip', with tabāku 'pour out' the standard verb of disbursement. 2 Kgs 22:9 הִתִּיכוּ hittīkū, Hiphil 3cp with the nun assimilated, 'your servants have disbursed the silver found in the house', has the disbursement sense on a financial report and the same tt. Either the noun tittuk(u) 'outpouring' or the G imperfect tittōk 'may it be poured'; both fit both slots. Rival: a toponym on ZA Zb 3, 'from Tittiku'. See I-TI-TI-KU-NI.
 
 ### Cognates
 
@@ -59,13 +59,14 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT35\|HT35]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT35\|HT35]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/ZA/ZAZb/ZAZb3\|ZAZb3]] | Zakros | Clay vessel | complete |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT35\|HT35]] | tittuk(u) / tittōk | outpouring, pouring-out—(header) disbursed | CANDIDATE |
 | [[wiki/linear-a/inscriptions/ZA/ZAZb/ZAZb3\|ZAZb3]] | tittuk(u) | may it be poured (out) | CANDIDATE |
 
 <!-- END kaphtor:record -->

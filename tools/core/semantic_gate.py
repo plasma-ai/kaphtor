@@ -55,6 +55,7 @@ SUPPORT_DOMAINS: dict[str, frozenset[str] | None] = {
     "Stone vessel": _RITUAL, "Stone-vessel fragment": _RITUAL, "Stone object": _RITUAL, "Metal object": _RITUAL,
     "ivory object": _RITUAL, "Bronze bowl": _RITUAL, "Silver pin": _RITUAL, "Triton": _RITUAL,
     "Stone ladle (HM 1545)": _RITUAL, "Terracotta statuette (HM 6585)": _RITUAL,
+    "Lead weight (HM 83)": _RITUAL,
     "Fragment of a locally made limestone bowl or krater": _RITUAL,
     "Serpentine cylindrical jar; HM 2479 + HM 2480": _RITUAL,
     "Square red-orange serpentine libation table (HM 5317)": _RITUAL,

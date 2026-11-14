@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-ZA 20, an allocation list: SI-TU 6, after SI-TE-TU šetātu 'woven' 1; HT Wa 1019, a nodule sealed with the name PA-TA-NE. sūt 'garment': Heb. sût, sûtōh 'his garment' beside lᵉbûšô (Gen 49:11), Ph. swt (HALOT 749).
+ZA 20, an allocation list: SI-TU 6, after SI-TE-TU šetātu 'woven' 1; HT Wa 1019, a nodule sealed with the name PA-TA-NE. sūt 'garment': Heb. sût, sûtōh 'his garment' beside lᵉbûšô (Gen 49:11), Ph. swt (HALOT 749). Ug. ṣt 'a garment' is Akk. (w)āṣītu for Watson, who keeps it apart from swt for its ṣ (2018b, 368 n. 87).
 
 ### Cognates
 
@@ -49,11 +49,11 @@ ZA 20, an allocation list: SI-TU 6, after SI-TE-TU šetātu 'woven' 1; HT Wa 101
 |---|---|
 | Hebrew | sût (סוּת) 'garment' (Gen 49:11; HALOT 749); šît (שִׁית) 'clothing, garment' (Ps 73:6, Prov 7:10; HALOT 1486) |
 | Phoenician | swt 'garment' (DNWSI 781, cited by DULAT 781) |
-| Ugaritic | ṣt 'a garment' (DULAT 781–82) |
+| Ugaritic | ṣt 'a garment' (DULAT 781–82), kept apart from swt by Watson (2018b, 368 n. 87) |
 
 ### Source
 
-di Mino; HALOT; DULAT
+di Mino; HALOT; DULAT; Watson 2018b
 
 ## Attestations
 

@@ -32,11 +32,11 @@ updated: 2026-11-11T23:39:03Z
 | Reading's standing | SPECULATIVE |
 | Standing as a personal name | SPECULATIVE |
 | Standing of the layer | SPECULATIVE (lexicon_reading) |
-| Source | di Mino; Gelb 1980; Kinlaw 1967 |
+| Source | di Mino; Gelb 1980; Kinlaw 1967; DULAT; Watson 1995 |
 
 ## Note
 
-Owner/recipient name on a painted pithos, base of A-NA-NU-SI-JA-SE (HT Zb 159). -SI-JA-SE is the vessel-label adjectival formation shared with KI-TA-NA-SI-JA-SE (PE Zb 3). Gelb 1980 reads the same spelling, A-NA-NU-UM-DINGIR, as ḤANAN-UM+ʾIL (Add. 476a), beside the Amorite Ḥanan- names (nos. 475–478); Ugarit has Ḫananu, Kinlaw's spelling (Kinlaw 1967, 55). Cuneiform does not tell ḥ from ʿ. Rival: ʿAnānu 'cloud', and Neh 10:27 names ʿĀnān beside Ḥānān. See A-NA-NE.
+Owner/recipient name on a painted pithos, base of A-NA-NU-SI-JA-SE (HT Zb 159). -SI-JA-SE is the vessel-label adjectival formation shared with KI-TA-NA-SI-JA-SE (PE Zb 3). Gelb 1980 reads the same spelling, A-NA-NU-UM-DINGIR, as ḤANAN-UM+ʾIL (Add. 476a), beside the Amorite Ḥanan- names (nos. 475–478); Ugarit has Ḫananu, Kinlaw's spelling (Kinlaw 1967, 55). Gelb's A-sign spelling does not tell ḥ from ʿ; at Ugarit the name is alphabetic ḥnn (II), syllabic ḫa-na-(an-)nu (DULAT 361; Watson 1995, 229). Rival: ʿAnānu 'cloud', and Neh 10:27 names ʿĀnān beside Ḥānān. See A-NA-NE.
 
 ## As a name
 
@@ -47,7 +47,7 @@ HT Zb 159, painted on a pithos and broken after SE: the owner's name with the ve
 | Language | Comparison |
 |---|---|
 | Amorite | A-NA-NU-UM-DINGIR, read ḤANAN-UM+ʾIL (Gelb 1980, Add. 476a), and Ḥanan-a, Ḥanan-at-um, Ḥanan-im (Gelb, AS 21, nos. 475–478) |
-| Ugarit | Ḫananu (Kinlaw 1967, 55) |
+| Ugarit | Ḫananu (Kinlaw 1967, 55); alphabetic ḥnn (II) PN, syll. ḫa-na-(an-)nu (DULAT 361) |
 | Hebrew | biblical PN חָנָן (Ḥānān, Neh 10:27; HALOT 335) |
 | Hebrew (rival) | עָנָן (ʿānān) 'cloud', biblical PN עָנָן (ʿĀnān, Neh 10:27; HALOT 858) |
 

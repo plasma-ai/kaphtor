@@ -64,11 +64,11 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/D/DA_I_PI_TA\|DA-I-PI-TA]] | Ṭayyibat | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_JU_TE\|DA-JU-TE]] | dalut | CANDIDATE |
 | [[wiki/linear-a/words/D/DA_KA\|DA-KA]] | dāgā | CANDIDATE |
-| [[wiki/linear-a/words/D/DA_KI_TI\|DA-KI-TI]] | daqqati | SPECULATIVE |
+| [[wiki/linear-a/words/D/DA_KI_TI\|DA-KI-TI]] | Daqqiti | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_KU_NA\|DA-KU-NA]] | Daguna | PROBABLE |
 | [[wiki/linear-a/words/D/DA_KU_SE_NE\|DA-KU-SE-NE]] | Takušenni | PROBABLE |
-| [[wiki/linear-a/words/D/DA_MA_TE\|DA-MA-TE]] | damat | SPECULATIVE |
-| [[wiki/linear-a/words/D/DA_ME\|DA-ME]] | damu | SPECULATIVE |
+| [[wiki/linear-a/words/D/DA_MA_TE\|DA-MA-TE]] | damat | CANDIDATE |
+| [[wiki/linear-a/words/D/DA_ME\|DA-ME]] | damʿu | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_MI_NU\|DA-MI-NU]] | Ḏā-Mīnu | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_NA_SI\|DA-NA-SI]] | Ḏā-Naśiʾ | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_NA_TU\|DA-NA-TU]] | dānatu | SPECULATIVE |

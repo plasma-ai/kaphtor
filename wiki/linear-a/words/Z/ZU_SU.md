@@ -49,6 +49,7 @@ HT 1 .2 ZU-SU 70, whole and undotted, the second entry under QE-RA₂-U, after K
 |---|---|
 | Eblaite | zu-zu, PN, ṣūṣu 'chicken' (Pagan 1998, row 5285; ARET 8 525, ARET 20 22) |
 | Mari | Zuzu, king of Apum (FM V, 286) |
+| Punic | ṣṣ, a type of bird (Tomback 1978, 280) |
 
 ### Source
 

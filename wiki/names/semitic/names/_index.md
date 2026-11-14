@@ -3,14 +3,14 @@ name: wiki/names/semitic/names
 title: "Semitic names"
 desc: "The Semitic names, one page each."
 created: 2026-11-11T23:39:03Z
-updated: 2026-11-13T13:31:15Z
+updated: 2026-11-16T19:24:13Z
 ---
 
 # Semitic names
 
 [[wiki/names/semitic/_index|..]]
 
-[[wiki/names/semitic/names/AU_RE_TE|AU_RE_TE]]: ʾawrēt: luminous one (feminine). Semitic, PROBABLE.
+[[wiki/names/semitic/names/AU_RE_TE|AU_RE_TE]]: ʾawrēt: luminous one (feminine). Semitic, CANDIDATE.
 
 [[wiki/names/semitic/names/A_DA_KI_SI_KA|A_DA_KI_SI_KA]]: Ḫadki-šiqā: Ḫadki gives drink (personal name; Ḫadki, a Mari-area name of Adad, + šiqā 'who gives drink'); rival 'Ḫadki is (my) dwelling'. Semitic, SPECULATIVE.
 
@@ -22,7 +22,7 @@ updated: 2026-11-13T13:31:15Z
 
 [[wiki/names/semitic/names/A_DI_KI_TE_TE|A_DI_KI_TE_TE]]: ʾa-Diqqitīt: O Diktaean (f.), the feminine nisbe of Dikte. Semitic, PROBABLE.
 
-[[wiki/names/semitic/names/A_DU|A_DU]]: ʾAddu / adû: Addu/Haddu (heading); rival adû 'work stint'. Semitic, CANDIDATE.
+[[wiki/names/semitic/names/A_DU|A_DU]]: ʾAddu: Addu (Haddu), the storm god, as recipient of a contribution. Semitic, CANDIDATE.
 
 [[wiki/names/semitic/names/A_DU_KU_MI_NA|A_DU_KU_MI_NA]]: ʾAddu-kummina: the one of Addu's cella (cult title as a roster name). Semitic, SPECULATIVE.
 
@@ -44,7 +44,7 @@ updated: 2026-11-13T13:31:15Z
 
 [[wiki/names/semitic/names/A_KU_MI_NA|A_KU_MI_NA]]: ha-kummina: the one of the cella (cult title as a roster name). Semitic, SPECULATIVE.
 
-[[wiki/names/semitic/names/A_MA_JA|A_MA_JA]]: ʿAmmaya: (Little) kinsman (personal name, hypocoristic); rival ʾAmaya 'maidservant'. Semitic, SPECULATIVE.
+[[wiki/names/semitic/names/A_MA_JA|A_MA_JA]]: ʿAmmaya: (Little) kinsman (personal name, hypocoristic); rival ʾAmaya 'maidservant'. Semitic, CANDIDATE.
 
 [[wiki/names/semitic/names/A_MA_WA_SI|A_MA_WA_SI]]: ʿAmma-wāṣiʾ: the Kinsman who comes forth (El epithet); rival 'Strong One'. Semitic, CANDIDATE.
 
@@ -62,11 +62,11 @@ updated: 2026-11-13T13:31:15Z
 
 [[wiki/names/semitic/names/A_RA_JU|A_RA_JU]]: ʾArāyu: a town of the kingdom of Ugarit, on the Ugarit–Alalakh border (toponym); rival Aralu. Semitic, SPECULATIVE.
 
-[[wiki/names/semitic/names/A_RA_U_DA|A_RA_U_DA]]: ʾArwada: Arwad (island city of the Phoenician coast), an entity in a transfer. Semitic, SPECULATIVE.
+[[wiki/names/semitic/names/A_RA_U_DA|A_RA_U_DA]]: ʾArwada: Arwad (island city of the Phoenician coast), the home of the man named before it; rival a personal name, Ugaritic ảrwd(n). Semitic, SPECULATIVE.
 
 [[wiki/names/semitic/names/A_RE_PI_RE_NA|A_RE_PI_RE_NA]]: ʾa-repiʾ-rennā: Healer of Jubilation (Eshmun epithet). Semitic, SPECULATIVE.
 
-[[wiki/names/semitic/names/A_RE_SA_NA|A_RE_SA_NA]]: ʾAriš-ān: 'The Requested One'—votive birth-name from √ʾ-r-š "to request, desire" + hypocoristic -ān; the child asked of the goddess, the name a receipt. Semitic, CANDIDATE.
+[[wiki/names/semitic/names/A_RE_SA_NA|A_RE_SA_NA]]: ʾAriš-ān: 'The Requested One', personal name from √ʾ-r-š 'to request, desire' with -ān; rival Ḥarišān 'craftsman'. Semitic, CANDIDATE.
 
 [[wiki/names/semitic/names/A_RE_TU_MI|A_RE_TU_MI]]: ʾarṣ̂-ummī: Earth is my mother (NWS theophoric compound PN; pre-Greek Artemis). Semitic, CANDIDATE.
 
@@ -92,6 +92,8 @@ updated: 2026-11-13T13:31:15Z
 
 [[wiki/names/semitic/names/A_TA_NA_TE|A_TA_NA_TE]]: ʾAtanat: she who gives (the name behind Athena). Semitic, PROBABLE.
 
+[[wiki/names/semitic/names/A_TA_RE|A_TA_RE]]: ʿAṯtar: ʿAṯtar (the god), receiving figs; rival Hathor. Semitic, SPECULATIVE.
+
 [[wiki/names/semitic/names/A_TI_KA|A_TI_KA]]: ʿAtīqa: personal name, 'enduring'; compare Linear B a-ti-ka. Semitic, SPECULATIVE.
 
 [[wiki/names/semitic/names/A_TI_RU|A_TI_RU]]: ʿAttiru: ʿAttiru, personal name, the nisbe 'man of ʿAṯtar'; rival ʿatīru 'entreated'. Semitic, SPECULATIVE.
@@ -106,6 +108,8 @@ updated: 2026-11-13T13:31:15Z
 
 [[wiki/names/semitic/names/DA_I_PI_TA|DA_I_PI_TA]]: Ṭayyibat: Good (f.) (personal name). Semitic, SPECULATIVE.
 
+[[wiki/names/semitic/names/DA_KI_TI|DA_KI_TI]]: Daqqiti: of Daqqitu, the goddess to whom the incense is offered; rival daqqati 'fine (powder)'. Semitic, SPECULATIVE.
+
 [[wiki/names/semitic/names/DA_KU_NA|DA_KU_NA]]: Daguna: personal name on Dagan, Daguna. Semitic, PROBABLE.
 
 [[wiki/names/semitic/names/DA_MI_NU|DA_MI_NU]]: Ḏā-Mīnu: personal name, 'He of the Portion' (ḏā + √m-n-y); rival √m-n-n 'He of the Favor'. Semitic, SPECULATIVE.
@@ -116,7 +120,7 @@ updated: 2026-11-13T13:31:15Z
 
 [[wiki/names/semitic/names/DA_NE_KU_TI|DA_NE_KU_TI]]: Ḏā-naquddi: He of the speckled (flock) (personal name); rival 'He of the head shepherd'. Semitic, SPECULATIVE.
 
-[[wiki/names/semitic/names/DA_QE_RA|DA_QE_RA]]: ḏā-Qīra: the (district) of Qīr, the walled town; heading opposite KA-PA 'village'; rival diḳaru 'pot'. Semitic, CANDIDATE.
+[[wiki/names/semitic/names/DA_QE_RA|DA_QE_RA]]: ḏā-Qīra: the (district) of Qīr, the walled town; heading opposite KA-PA 'village'; rival diqāru 'bowl'. Semitic, CANDIDATE.
 
 [[wiki/names/semitic/names/DA_RI_DA|DA_RI_DA]]: Dardaʿ: personal name, 'thistle' (Hebrew Dardaʿ). Semitic, SPECULATIVE.
 
@@ -126,7 +130,7 @@ updated: 2026-11-13T13:31:15Z
 
 [[wiki/names/semitic/names/DA_SE_RA_TE|DA_SE_RA_TE]]: Dašurat: Dašurat 'Old (f.)' (woman's name; Amorite dašuratum 'old'). Semitic, SPECULATIVE.
 
-[[wiki/names/semitic/names/DA_SI_star118|DA_SI_star118]]: Ḏā-šiṭṭa: those of Acacia (gentilic, a roster unit); rival the unglossed Dasiṭa. Semitic, CANDIDATE.
+[[wiki/names/semitic/names/DA_SI_star118|DA_SI_star118]]: Ḏā-šiṭṭa: those of Acacia (gentilic, a roster unit). Semitic, CANDIDATE.
 
 [[wiki/names/semitic/names/DA_TA_RA|DA_TA_RA]]: Daṯar: Old (man's name); rival 'He of the gate'. Semitic, SPECULATIVE.
 
@@ -150,9 +154,9 @@ updated: 2026-11-13T13:31:15Z
 
 [[wiki/names/semitic/names/DI_NA_U|DI_NA_U]]: Dīnāyu: personal name: hypocoristic of a √d-y-n name ('Judge'). Semitic, CANDIDATE.
 
-[[wiki/names/semitic/names/DI_NI|DI_NI]]: Dīnī: personal name, 'My judgment' (short form of a √d-y-n name); rival the whole group WA-DI-NI, Ugaritic PN wḏny. Semitic, SPECULATIVE.
+[[wiki/names/semitic/names/DI_NI|DI_NI]]: Dīnī: personal name, 'My judgment' (short form of a √d-y-n name). Semitic, SPECULATIVE.
 
-[[wiki/names/semitic/names/DI_RE_DI_NA|DI_RE_DI_NA]]: ʾaddīr-dīnā: mighty is the verdict (compound sentence name); rival a simplex recipient name. Semitic, SPECULATIVE.
+[[wiki/names/semitic/names/DI_RE_DI_NA|DI_RE_DI_NA]]: ʾaddīr-dīnā: mighty is the verdict (compound sentence name); rival a simplex recipient name. Semitic, CANDIDATE.
 
 [[wiki/names/semitic/names/DI_star306|DI_star306]]: Diʿa: Diʿa 'Knowledge' (personal name). Semitic, SPECULATIVE.
 
@@ -200,7 +204,7 @@ updated: 2026-11-13T13:31:15Z
 
 [[wiki/names/semitic/names/I_RA2|I_RA2]]: ʾilā(t): goddess; rival ʾila 'god'. Semitic, SPECULATIVE.
 
-[[wiki/names/semitic/names/I_RU_JA|I_RU_JA]]: ʾIlūya: personal name, 'My god'; rival Hurrian Iruja. Semitic, SPECULATIVE.
+[[wiki/names/semitic/names/I_RU_JA|I_RU_JA]]: ʾIlūya: personal name, 'My god'. Semitic, SPECULATIVE.
 
 [[wiki/names/semitic/names/I_TA_JA|I_TA_JA]]: ʾIttaya: personal name, 'with me (is God)', hypocoristic in -aya (cf. Hebrew ʾIttay). Semitic, SPECULATIVE.
 
@@ -210,7 +214,7 @@ updated: 2026-11-13T13:31:15Z
 
 [[wiki/names/semitic/names/JA_DA_SU|JA_DA_SU]]: Yadaʿ-Šum: personal name, 'Šum knew'. Semitic, SPECULATIVE.
 
-[[wiki/names/semitic/names/JA_DI|JA_DI]]: Yadi: Hand (personal name); rivals Yadīn 'he judges', Yadiʿ 'he knows'. Semitic, SPECULATIVE.
+[[wiki/names/semitic/names/JA_DI|JA_DI]]: Yadi: Hand (personal name); rivals Yadīn 'he judges', Yadiʿ 'he knows', Ugarit ydy 'may (the god) establish'. Semitic, SPECULATIVE.
 
 [[wiki/names/semitic/names/JA_DI_KI_TU|JA_DI_KI_TU]]: yā Diqqitu: O Diqqitu! (vocative invocation of the proposed goat-goddess Diqqitu). Semitic, PROBABLE.
 
@@ -242,7 +246,7 @@ updated: 2026-11-13T13:31:15Z
 
 [[wiki/names/semitic/names/JA_WI|JA_WI]]: Yawī: personal name, '(he) lives', the bare form of the Amorite Yawi-DN names. Semitic, CANDIDATE.
 
-[[wiki/names/semitic/names/JA_star21F|JA_star21F]]: Yāh(a): Yāh, divine name; deity receiving offerings alongside Baal on HT28b. Semitic, SPECULATIVE.
+[[wiki/names/semitic/names/JA_star21F|JA_star21F]]: Yāh(a): Yāh, divine name; deity receiving offerings alongside Baʿal on HT28b. Semitic, SPECULATIVE.
 
 [[wiki/names/semitic/names/JE_DI|JE_DI]]: yedī: gentilic 'the Idaean' (of Mount Ida); rivals the personal name 'He knows' and the gentilic 'Judean'. Semitic, CANDIDATE.
 
@@ -257,8 +261,6 @@ updated: 2026-11-13T13:31:15Z
 [[wiki/names/semitic/names/KA_KU|KA_KU]]: Kakku: personal name, 'Weapon' (Amorite Kakku). Semitic, SPECULATIVE.
 
 [[wiki/names/semitic/names/KA_KU_NE_TE|KA_KU_NE_TE]]: Kakku-ʿAnēt: Weapon of Anat (theophoric personal name); rival Egyptian Neith as the second element. Semitic, SPECULATIVE.
-
-[[wiki/names/semitic/names/KA_KU_PA|KA_KU_PA]]: kawkab: Star (place name, as Mari Kabkab). Semitic, CANDIDATE.
 
 [[wiki/names/semitic/names/KA_NA_NI_TI|KA_NA_NI_TI]]: kanaʿanītī: the Canaanite (ethnonymic designation). Semitic, CANDIDATE.
 
@@ -400,7 +402,7 @@ updated: 2026-11-13T13:31:15Z
 
 [[wiki/names/semitic/names/PA_RO_SU|PA_RO_SU]]: Parʿōš: personal or clan name, 'Flea'. Semitic, SPECULATIVE.
 
-[[wiki/names/semitic/names/PA_SA_RI_JA|PA_SA_RI_JA]]: Baṣariya: the Baṣirean, gentilic of Baṣīru, a town of Ugarit (Ug. bṣry): a wool section heading. Semitic, SPECULATIVE.
+[[wiki/names/semitic/names/PA_SA_RI_JA|PA_SA_RI_JA]]: Baṣriya: the Baṣirean, gentilic of Baṣīru, a town of Ugarit (Ug. bṣry): a wool section heading. Semitic, SPECULATIVE.
 
 [[wiki/names/semitic/names/PA_TA_NE|PA_TA_NE]]: Patne: personal name, 'Viper'. Semitic, CANDIDATE.
 
@@ -414,13 +416,11 @@ updated: 2026-11-13T13:31:15Z
 
 [[wiki/names/semitic/names/PI_TA_KE_SI|PI_TA_KE_SI]]: Bīt-kissi: (Man) of the throne-house, crown dependant (title); rival Hurrian PN Pidi-kešḫi. Semitic, SPECULATIVE.
 
-[[wiki/names/semitic/names/PI_TA_RA|PI_TA_RA]]: bidāla: trade agents, deputies, a personnel group drawing grain; rivals bitāri 'portions' and the names Paṭir, Batūl. Semitic, SPECULATIVE.
-
 [[wiki/names/semitic/names/PI_TE_RI|PI_TE_RI]]: piṭrī: Piṭrī, personal name, 'my release'. Semitic, CANDIDATE.
 
 [[wiki/names/semitic/names/PU2_RE_JA|PU2_RE_JA]]: burē(t)yā: my Creatress (divine epithet). Semitic, SPECULATIVE.
 
-[[wiki/names/semitic/names/PU_RA2|PU_RA2]]: Bōl: Baal, 'Lord' (allocation heading). Semitic, CANDIDATE.
+[[wiki/names/semitic/names/PU_RA2|PU_RA2]]: Bōl: Baʿal, 'Lord' (recipient in allocation lists). Semitic, CANDIDATE.
 
 [[wiki/names/semitic/names/QA_MI_star47_NA_RA|QA_MI_star47_NA_RA]]: Qāmī-šū-nāra: personal name, 'who stands: He is fire'. Semitic, SPECULATIVE.
 
@@ -442,7 +442,7 @@ updated: 2026-11-13T13:31:15Z
 
 [[wiki/names/semitic/names/RA_O_DI_KI|RA_O_DI_KI]]: rāʿû diqqi: herdsman of the small cattle (title, over a flock of 60); rival a personal name. Semitic, SPECULATIVE.
 
-[[wiki/names/semitic/names/RA_star314_RA|RA_star314_RA]]: Raḥil: personal name, 'Ewe' (√r-ḥ-l), as Hebrew Rāḥēl; rival Egyptian Ḥr-Rꜥ 'Horus-Ra'. Semitic, SPECULATIVE.
+[[wiki/names/semitic/names/RA_star314_RA|RA_star314_RA]]: Raḥal: personal name, 'Ewe' (√r-ḥ-l), as Hebrew Rāḥēl. Semitic, SPECULATIVE.
 
 [[wiki/names/semitic/names/RI_DA_U|RI_DA_U]]: Ridāyu: Ridāyu 'Helper, Escort' (personal name, hypocoristic). Semitic, SPECULATIVE.
 
@@ -472,7 +472,7 @@ updated: 2026-11-13T13:31:15Z
 
 [[wiki/names/semitic/names/RU_ZU_NA|RU_ZU_NA]]: rāzin(a): dignitary, prince (title of a recipient); rival a personal name. Semitic, SPECULATIVE.
 
-[[wiki/names/semitic/names/SA_DI|SA_DI]]: šadī: land labourer, field worker; rival the personal name Šadī. Semitic, SPECULATIVE.
+[[wiki/names/semitic/names/SA_DI|SA_DI]]: šadī: field worker, Ug. šdy 'land labourer' or 'weaver, spinner'; rival the personal name Šadī 'Country man'. Semitic, SPECULATIVE.
 
 [[wiki/names/semitic/names/SA_MA_RO|SA_MA_RO]]: Samarō: Samarō, personal name, 'guard'. Semitic, SPECULATIVE.
 
@@ -500,7 +500,7 @@ updated: 2026-11-13T13:31:15Z
 
 [[wiki/names/semitic/names/SI_DA_RO|SI_DA_RO]]: siddāru: siddāru 'Arranger' (personal name; spelling of SI-DA-RE). Semitic, SPECULATIVE.
 
-[[wiki/names/semitic/names/SI_DI_JA|SI_DI_JA]]: Šadiya: personal name, Ugaritic Šadiya (šdy II), 'field'. Semitic, PROBABLE.
+[[wiki/names/semitic/names/SI_DI_JA|SI_DI_JA]]: Šidiya: personal name, Ugaritic Šidiya (ši-di-ia). Semitic, PROBABLE.
 
 [[wiki/names/semitic/names/SI_DI_star301|SI_DI_star301]]: Ṣidna: Sidon (place name); rival Ṣīd-nā 'our Ṣid'. Semitic, SPECULATIVE.
 
@@ -554,7 +554,7 @@ updated: 2026-11-13T13:31:15Z
 
 [[wiki/names/semitic/names/TO_MA_RO|TO_MA_RO]]: Tōmar: personal name, 'palm'. Semitic, CANDIDATE.
 
-[[wiki/names/semitic/names/TU_JU_MA|TU_JU_MA]]: Tuʿlum: personal name, 'hidden one'. Semitic, SPECULATIVE.
+[[wiki/names/semitic/names/TU_JU_MA|TU_JU_MA]]: Tuʿluma: personal name, 'hidden one'; rival Hurrian talm- 'great' (Talimmu, a merchant's name at Ugarit). Semitic, SPECULATIVE.
 
 [[wiki/names/semitic/names/TU_MA|TU_MA]]: tūma: twin—birth-circumstance personal name from √t-ʾ-m. Semitic, CANDIDATE.
 
@@ -564,11 +564,11 @@ updated: 2026-11-13T13:31:15Z
 
 [[wiki/names/semitic/names/TU_RU_NU_SE_ME|TU_RU_NU_SE_ME]]: Ṯ̣ūr-nušme: personal name, 'Rock of the people'. Semitic, SPECULATIVE.
 
-[[wiki/names/semitic/names/TU_RU_SA|TU_RU_SA]]: Tursa: Shield, Protector (invoked in formula position two); the name Tursha. Semitic, SPECULATIVE.
+[[wiki/names/semitic/names/TU_RU_SA|TU_RU_SA]]: Tursa: Shield, a god invoked as 'the One of Mount Ida'; the name Tursha. Semitic, SPECULATIVE.
 
-[[wiki/names/semitic/names/U_DE_ZA|U_DE_ZA]]: Ḥudaṯu: personal name: ḥdṯ 'new'; Ḥudaṯu of ʾArāyu on HT 122b. Semitic, CANDIDATE.
+[[wiki/names/semitic/names/U_DE_ZA|U_DE_ZA]]: Ḥudeṯ: personal name, 'New Moon'; Ḥudeṯ of ʾArāyu on HT 122b. Semitic, CANDIDATE.
 
-[[wiki/names/semitic/names/U_DI_MI|U_DI_MI]]: ʾUdmī: the Udumite—man of Udum (Kirta's city), 'red (land)'. Semitic, SPECULATIVE.
+[[wiki/names/semitic/names/U_DI_MI|U_DI_MI]]: ʾUdmī: the Udumite—man of Udum (King Pabil's city in the Kirta epic), 'red (land)'. Semitic, SPECULATIVE.
 
 [[wiki/names/semitic/names/U_MI_NA_SI|U_MI_NA_SI]]: Ummī-naśiʾ: My mother is chief/exalted (sentence name). Semitic, CANDIDATE.
 

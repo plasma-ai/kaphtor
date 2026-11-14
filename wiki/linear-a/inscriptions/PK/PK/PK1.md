@@ -9,7 +9,7 @@ site: "Palaikastro"
 support: "Tablet"
 period: "LMI"
 translation: "incomplete"
-words: ["A-DU-ZA", "MA-KA-I-TA", "MA-TI-ZA-I-TE", "O-KA-MI-ZA-SI-I-NA", "O-TE-JA", "RA-NA-TU-SU", "TA₂-TA-RE", "TA₂-TI-TE"]
+words: ["A-DU-ZA", "KA-QA", "MA-KA-I-TA", "MA-TI-ZA-I-TE", "O-KA-MI-ZA-SI-I-NA", "O-TE-JA", "RA-NA-TU-SU", "TA₂-TA-RE", "TA₂-TI-TE"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -87,12 +87,12 @@ Unicode (Linear A block):
 
 **SPECULATIVE**, incomplete (status: incomplete).
 
-> SI-\[·\]-NE-TI 1; KA-QA 2 — ʾAddu-ʿazz 1; Tatare 1 — Tati-te 1; Ukammis-Sîn 1 — Ḫuteya 1 — Rannatušu 1; NI-MI 1 — TU-SU 1; Matiʿ-zayti 1 — MA-TE-TI 1; Makīt 1.
+> SI-\[·\]-NE-TI 1; Kakka 2 — ʾAddu-ʿazz 1; Tatare 1 — Tati-te 1; Ukammis-Sîn 1 — Ḫuteya 1 — Rannatušu 1; NI-MI 1 — TU-SU 1; Matiʿ-zayti 1 — MA-TE-TI 1; Makīt 1.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | SI-\[?\]-NE-TI |  | broken word, 1 |  |  |
-| [[wiki/linear-a/words/K/KA_QA\|KA-QA]] |  | personal name (unread), 2 |  | unread |
+| [[wiki/linear-a/words/K/KA_QA\|KA-QA]] | Kakka | Kakka (Hurrian woman's name), 2 | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/A/A_DU_ZA\|A-DU-ZA]] | ʾAddu-ʿazz | personal name 'Addu is strong', 1; rival hadas 'myrtle' | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/T/TA2_TA_RE\|TA₂-TA-RE]] | Tatare | personal name (Hurrian?), 1; compare Linear B ta-ta-ro, Mari ᶠTatara | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/T/TA2_TI_TE\|TA₂-TI-TE]] | Tati-te | '(Teššup) loved' (Hurrian personal name), 1 | SPECULATIVE | SPECULATIVE (lexicon) |
@@ -111,11 +111,11 @@ A list of names between rulings, each with 1, KA-QA with 2 (GORILA I 281).
 
 ### Source
 
-- di Mino: TA₂-TI-TE, RA-NA-TU-SU, MA-TI-ZA-I-TE
+- di Mino: KA-QA, TA₂-TI-TE, RA-NA-TU-SU, MA-TI-ZA-I-TE
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/A/A_DU_ZA|A-DU-ZA]], [[wiki/linear-a/words/M/MA_KA_I_TA|MA-KA-I-TA]], [[wiki/linear-a/words/M/MA_TI_ZA_I_TE|MA-TI-ZA-I-TE]], [[wiki/linear-a/words/O/O_KA_MI_ZA_SI_I_NA|O-KA-MI-ZA-SI-I-NA]], [[wiki/linear-a/words/O/O_TE_JA|O-TE-JA]], [[wiki/linear-a/words/R/RA_NA_TU_SU|RA-NA-TU-SU]], [[wiki/linear-a/words/T/TA2_TA_RE|TA₂-TA-RE]], [[wiki/linear-a/words/T/TA2_TI_TE|TA₂-TI-TE]].
+[[wiki/linear-a/words/A/A_DU_ZA|A-DU-ZA]], [[wiki/linear-a/words/K/KA_QA|KA-QA]], [[wiki/linear-a/words/M/MA_KA_I_TA|MA-KA-I-TA]], [[wiki/linear-a/words/M/MA_TI_ZA_I_TE|MA-TI-ZA-I-TE]], [[wiki/linear-a/words/O/O_KA_MI_ZA_SI_I_NA|O-KA-MI-ZA-SI-I-NA]], [[wiki/linear-a/words/O/O_TE_JA|O-TE-JA]], [[wiki/linear-a/words/R/RA_NA_TU_SU|RA-NA-TU-SU]], [[wiki/linear-a/words/T/TA2_TA_RE|TA₂-TA-RE]], [[wiki/linear-a/words/T/TA2_TI_TE|TA₂-TI-TE]].
 
 ## Edition differences
 

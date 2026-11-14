@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 | /sa/ |  | Second value of the same sign, not a rival: ME-ZA massu, MA-ZA mazza, U-\*325-ZA ʾubūs, MI-ZA-SE, O-KA-MI-ZA-SI-I-NA Ukammis-Sîn. Cuneiform ZA writes ṣa, za, sà (Huehnergard 2011, 574); at Ugarit Z-signs write z, s and ṣ (Huehnergard 2008, 199) |
 | /ṣa/ |  | Second value of the same sign: one cuneiform sign writes za and ṣa (Huehnergard 2011, 2; 574); Ugarit ZA writes ṣ (Huehnergard 2008, 199) |
 | /ša/ |  | Second value of the same sign: the S-class sibilants share signs, as SA writes s and š; one letter writes š and ś in Hebrew (Steiner 1997, 148) |
-| /ṯa/ |  | Second value of the same sign: U-DE-ZA Ḥudaṯu (Ugar. PN ḥdṯ, DULAT 351). The Z-row writes ṯ, as ZU does; sibilant signs write Ugaritic ṯ, ḥdθn = ḫu-ud!-ša-nu (Huehnergard 2008, 230); ṯ merged with š in Phoenician (Huehnergard 2012, 20; Steiner 1997, 147) |
+| /ṯa/ |  | Second value of the same sign: U-DE-ZA Ḥudeṯ (Ugar. PN ḥdṯ, DULAT 351). The Z-row writes ṯ, as ZU does; sibilant signs write Ugaritic ṯ, ḥdθn = ḫu-ud!-ša-nu (Huehnergard 2008, 230); ṯ merged with š in Phoenician (Huehnergard 2012, 20; Steiner 1997, 147) |
 | /ḏa/ |  | Second value of the same sign: ZA-TI zāt. Ugarit amḏy = ᵘʳᵘam-mi-ZA (Huehnergard 2008, 224); \*ḏ &gt; z in Akkadian and Hebrew (Huehnergard 2011, 587; Steiner 1997, 147) |
 
 ### Forms cited for the value
@@ -65,7 +65,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/T/TA_TE_I_KE_ZA_RE\|TA-TE-I-KE-ZA-RE]] | ṯāt ʾikezzer | SPECULATIVE |
 | [[wiki/linear-a/words/T/TU_MI_TI_ZA_SE\|TU-MI-TI-ZA-SE]] | tumtiṣa-se | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_star325_ZA\|U-\*325-ZA]] | ʾubūs(a) | CANDIDATE |
-| [[wiki/linear-a/words/U/U_DE_ZA\|U-DE-ZA]] | Ḥudaṯu | CANDIDATE |
+| [[wiki/linear-a/words/U/U_DE_ZA\|U-DE-ZA]] | Ḥudeṯ | CANDIDATE |
 | [[wiki/linear-a/words/Z/ZA_TI\|ZA-TI]] | zāt | CANDIDATE |
 
 <!-- END kaphtor:record -->

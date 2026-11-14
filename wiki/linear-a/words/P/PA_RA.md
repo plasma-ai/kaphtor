@@ -59,7 +59,13 @@ di Mino; CAD P; Kogan 2011; SED I; CAD B
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/PH/PH/PH3a\|PH3a]] | Phaistos | Tablet | none |
+| [[wiki/linear-a/inscriptions/PH/PH/PH3a\|PH3a]] | Phaistos | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT128a\|HT128a]] | Haghia Triada | Tablet | none |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/PH/PH/PH3a\|PH3a]] | parr(u) | skin, fleece (a hide with its wool) | SPECULATIVE |
 
 <!-- END kaphtor:record -->

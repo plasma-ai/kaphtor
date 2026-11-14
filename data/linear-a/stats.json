@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "description": "Headline counts of the Linear A record, computed from the data files.",
+  "corpus": {
+    "records": 1719,
+    "documents": 1603
+  },
+  "lexicon": {
+    "entries": 694,
+    "tiers": {
+      "CONFIRMED": 19,
+      "PROBABLE": 75,
+      "CANDIDATE": 267,
+      "SPECULATIVE": 333
+    }
+  },
+  "translations": {
+    "complete": 518,
+    "incomplete": 117
+  },
+  "sign_values": {
+    "total": 37,
+    "resolved": 5,
+    "phonemic": 14,
+    "logographic": 23
+  },
+  "names": 380,
+  "semitic_roots": 5189
+}

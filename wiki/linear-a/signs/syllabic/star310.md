@@ -23,7 +23,7 @@ updated: 2026-10-24T16:17:50Z
 
 **Status: proposed.** A proposed value.
 
-Evidence: n 5/6 with 13 consonants tied; /ni/ and /in/ give one skeleton
+Evidence: n and t 6/6, every other consonant 5 or fewer, counting the forms in each root's language cells (headers alone: n 5/6, tied with most consonants); the sixth word, \]SI-ZA-NE-\*310 (KN Zf 31), is broken at the front; /ni/ and /in/ give one skeleton
 
 ## Phonetic value
 

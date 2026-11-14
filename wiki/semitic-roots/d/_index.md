@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/d
 desc: "Semitic roots whose first radical is d."
 created: 2026-10-22T17:38:31Z
-updated: 2026-11-10T04:32:36Z
+updated: 2026-11-16T19:23:52Z
 ---
 
 # wiki/semitic-roots/d
@@ -133,7 +133,7 @@ updated: 2026-11-10T04:32:36Z
 
 [[wiki/semitic-roots/d/213_heat_1_be_warm_2|213_heat_1_be_warm_2]]: Proto-Semitic *di/ap(a)ʾ-, 'heat' 1,'be warm' 2: reflexes in 1 language(s).
 
-[[wiki/semitic-roots/d/2152_bird_of_prey|2152_bird_of_prey]]: Proto-Semitic *daʾy(-at)-, 'bird of prey': reflexes in 7 language(s).
+[[wiki/semitic-roots/d/2152_bird_of_prey|2152_bird_of_prey]]: Proto-Semitic *daʾy(-at)-, 'bird of prey': reflexes in 8 language(s).
 
 [[wiki/semitic-roots/d/2153_bear|2153_bear]]: Proto-Semitic *dubb-, 'bear': reflexes in 16 language(s).
 
@@ -261,7 +261,7 @@ updated: 2026-11-10T04:32:36Z
 
 [[wiki/semitic-roots/d/3774_to_become_effaced_obliterated_1_to_become_old_2|3774_to_become_effaced_obliterated_1_to_become_old_2]]: Proto-Semitic *dṯr, 'to become effaced, obliterated' 1, 'to become old' 2: reflexes in 2 language(s).
 
-[[wiki/semitic-roots/d/3785_aurochs_antelope|3785_aurochs_antelope]]: Proto-Semitic *dīšān- {} *ditān-, 'aurochs, antelope': reflexes in 3 language(s).
+[[wiki/semitic-roots/d/3785_aurochs_antelope|3785_aurochs_antelope]]: Proto-Semitic *dīšān- {} *ditān-, 'aurochs, antelope': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/d/3809_seek_inquire_1_study_interpret_2|3809_seek_inquire_1_study_interpret_2]]: Proto-Semitic *drš, 'seek, inquire' 1, 'study, interpret' 2: reflexes in 7 language(s).
 

@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/z
 desc: "Semitic roots whose first radical is z."
 created: 2026-10-22T17:38:31Z
-updated: 2026-11-05T22:08:06Z
+updated: 2026-11-17T16:02:37Z
 ---
 
 # wiki/semitic-roots/z
@@ -97,7 +97,7 @@ updated: 2026-11-05T22:08:06Z
 
 [[wiki/semitic-roots/z/3459_to_adulterate_counterfeit_rust|3459_to_adulterate_counterfeit_rust]]: Proto-Semitic *zɣl, 'to adulterate; counterfeit, rust': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/z/3487_gift|3487_gift]]: Proto-Semitic *zbd, 'gift': reflexes in 3 language(s).
+[[wiki/semitic-roots/z/3487_gift|3487_gift]]: Proto-Semitic *zbd, 'gift': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/z/356_cut_chop|356_cut_chop]]: Proto-Semitic *zVʕab-, 'cut, chop': reflexes in 1 language(s).
 
@@ -123,9 +123,9 @@ updated: 2026-11-05T22:08:06Z
 
 [[wiki/semitic-roots/z/3811_prince_1_princely_seat_exalted_dwelling_2|3811_prince_1_princely_seat_exalted_dwelling_2]]: Proto-Semitic *zabul-, 'prince' 1, 'princely seat, exalted dwelling' 2: reflexes in 4 language(s).
 
-[[wiki/semitic-roots/z/3873_pitcher|3873_pitcher]]: Proto-Semitic *zbr, 'pitcher': reflexes in 1 language(s).
+[[wiki/semitic-roots/z/3873_kind_of_small_vessel|3873_kind_of_small_vessel]]: Proto-Semitic *zbr, 'kind of small vessel': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/z/3879_month_Ziv|3879_month_Ziv]]: Proto-Semitic *ziw-, 'month Ziv': reflexes in 3 language(s).
+[[wiki/semitic-roots/z/3879_glow_radiance_1_month_Ziv_2|3879_glow_radiance_1_month_Ziv_2]]: Proto-Semitic *ziw-, 'glow, radiance' 1, 'month Ziv' 2: reflexes in 5 language(s).
 
 [[wiki/semitic-roots/z/3921_to_overflow|3921_to_overflow]]: Proto-Semitic *zḥḥ, 'to overflow': reflexes in 1 language(s).
 

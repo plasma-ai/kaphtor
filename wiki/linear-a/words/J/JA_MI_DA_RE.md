@@ -41,6 +41,13 @@ updated: 2026-10-24T16:17:50Z
 
 HT 122a, intact, 1 in a list of names totalling 31. Gordon reads Egyptian Ỉmy-d(t)-Rꜥ 'He-who-is-from-the-hand-of-Re' (Gordon 1966a, 31, §127), comparing Ugaritic bdil 'From-the-hand-of-El'. Rival: a Minoan name. One witness.
 
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Egyptian | Ỉmy-d(t)-Rꜥ 'He-who-is-from-the-hand-of-Re' (Gordon 1966a, 31, §127) |
+| Ugaritic | bdil 'From-the-hand-of-El', the name type Gordon compares (ibid.) |
+
 ### Source
 
 Gordon 1966a, 31 (§127)

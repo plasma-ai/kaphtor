@@ -48,6 +48,7 @@ KN 1a: JA-KU-TI E 240; the verso has JA-DU-RA-TI E 105 in the same layout (SigLA
 | Language | Comparison |
 |---|---|
 | Amorite | JA-QWUJ-U, written ia-ku-ú (Gelb 1980, no. 3314) |
+| Hebrew | qāwāh (קָוָה) 'wait for, hope' (Ps 27:14; HALOT 1082) |
 
 ### Source
 

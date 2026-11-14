@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 25a .3, after A-RI-NI-TA 1, at the end of the line with no numeral; .4 ZU-JU-PU₂ 1 ṯulpu 'flute-player' gives his trade, the layout of .4–5 DU-RU-WI / I-KI-RA 1 (GORILA I 44–45). NU is complete at the preserved right edge, though GORILA I 45 brackets it. tu-qe-nu for tuqnu, √t-q-n 'to be in good order': the Ugarit PN tqn, táq-qa-na (DULAT 862); ta-qa-an at Alalakh and il-taq-nu at Ugarit (GlOS 2, 294); Akk. tuqnu 'safety, security', in the PN Tuqunu-ēreš (CAD T 480). QE writes qe for qu. Rival: Ugaritic tkn 'inspector, measurer' (GlOS 2, 294), which needs QE = ke. One witness.
+HT 25a .3, after A-RI-NI-TA 1, at the end of the line with no numeral; .4 ZU-JU-PU₂ 1 ṯulpu 'flute-player' gives his trade, the layout of .4–5 DU-RU-WI / I-KI-RA 1 (GORILA I 44–45). NU is complete at the preserved right edge, though GORILA I 45 brackets it. tu-qe-nu for tuqnu, √t-q-n 'to be in good order': the Ugarit PN tqn, táq-qa-na (DULAT 862); ta-qa-an at Alalakh and il-taq-nu at Ugarit (GlOS 2, 294); Akk. tuqnu 'safety, security', in the PN Tuqunu-ēreš (CAD T 480). Emar has the names tuqani and tuqnu, which Watson keeps apart from Ugarit táq-qa-na (2003, 247). QE writes qe for qu. Rival: Ugaritic tkn 'inspector, measurer' (GlOS 2, 294), which needs QE = ke. One witness.
 
 ### Cognates
 
@@ -50,10 +50,11 @@ HT 25a .3, after A-RI-NI-TA 1, at the end of the line with no numeral; .4 ZU-JU-
 | Ugaritic | tqn PN, syll. táq-qa-na (DULAT 862) |
 | Old Syrian | ta-qa-an (Alalakh, AT 149); il-taq-nu (Ugarit) (GlOS 2, 294) |
 | Akkadian | tuqnu 'safety, security'; PN Tuqunu-ēreš (CAD T 480) |
+| Emar | the names tuqani, tuqnu (Watson 2003, 247) |
 
 ### Source
 
-di Mino; DULAT; GlOS; CAD T
+di Mino; DULAT; GlOS; CAD T; Watson 2003
 
 ## Attestations
 

@@ -49,6 +49,7 @@ HT 97a VIR+KA 82, HT 100 VIR+KA 58, HT 88 A-DU VIR+KA 20, HT 28a VIR+KA-VIN 6, a
 |---|---|
 | Akkadian | kāribu 'worshipper'; deity in adoration (CAD K 216); karābu 'prayer, blessing' (CAD K 192) |
 | Amorite | KRB 'bless, pray': jakrub, kirb(ān)um (Gelb AS 21, 23) |
+| Eblaite | ig-da-ra-ab, ti-ig-da-ra-ab /taktarrab/ (Gtn preterite, cf. Akk. ikrub) 'he/she has constantly prayed' (Krebernik 1988, 54, 58–59) |
 
 ### Source
 

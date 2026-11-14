@@ -26,7 +26,7 @@ updated: 2026-11-12T00:26:03Z
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT97a\|HT97a]] | Haghia Triada | Tablet | incomplete |
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA11a\|ZA11a]] | Zakros | Tablet | none |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA11a\|ZA11a]] | Zakros | Tablet | incomplete |
 
 ## In translations
 

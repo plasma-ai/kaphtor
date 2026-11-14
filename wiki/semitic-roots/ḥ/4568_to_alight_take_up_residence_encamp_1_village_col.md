@@ -32,7 +32,7 @@ updated: 2026-11-06T03:06:34Z
 | Geez | ḥalala 1 (LGz. 230) | LGz. 230 | gloss withheld |
 | Arabic | ḥalla 1; ḥallala 1 (LGz. 230); ḥilla 2 (Biella 177) | LGz. 230; Biella 177 | gloss withheld |
 | Epigraphic South Arabian | ḥll 1 (LGz. 230); Sab ḥllt 2 (Biella 177) | LGz. 230; Biella 177 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ḥl 1; ḥll (D) 1 (Al-Jallad–Jaworska 85) | Al-Jallad–Jaworska 85 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ḥl 1; ḥll (D) 1 (Al-Jallad–Jaworska 85); Taymanitic ḥl 1; ḥll 1; Hismaic ḥll; Thamudic B ḥll (Al-Jallad 2026b, 12–13) | Al-Jallad–Jaworska 85; Al-Jallad 2026b 12–13 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

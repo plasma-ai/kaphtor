@@ -56,7 +56,13 @@ di Mino; Ranke; Mourad 2014; TLA
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA11a\|ZA11a]] | Zakros | Tablet | none |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA11a\|ZA11a]] | Zakros | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA11a\|ZA11a]] | Djed-ka-Re meti | personal name, 'The ka of Re endures, the reliable one' (Egyptian) | SPECULATIVE |
 
 ## Onomasticon
 

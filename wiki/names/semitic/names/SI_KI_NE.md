@@ -27,7 +27,7 @@ updated: 2026-11-11T23:39:03Z
 | Reading | Sikinet |
 | Meaning | stewardess or female administrator; compare masculine prefect/commissioner |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
-| Root | [[wiki/names/semitic/roots/sh-k-n\|š-k-n]] |
+| Root | [[wiki/names/semitic/roots/s-k-n\|s-k-n]] |
 | Proto-Semitic | \*sākin- (#3842) |
 | Reading's standing | CANDIDATE |
 | Standing as a title | CANDIDATE |
@@ -48,6 +48,7 @@ Administrative title rather than a demonstrated theonym. Sikinet /šikinēt/ mat
 |---|---|
 | Amarna | {'form': 'sōkinu / sū-ki-ni / sū-ki-na', 'meaning': 'commissioner, one who provides (glossing Akk. rābišu)', 'root': '√š-k-n', 'ea_references': \['EA 256:9', 'EA 362:69'\], 'moran_page': 'Intro p. xxvi n.70; EA 287 n.22', 'note': "Moran: West Semitic \*sōkinu (Hebrew sōkēn), 'one who provides.' Durand proposes 'resident.' These administrative title readings are the primary comparison."} |
 | Hebrew | sōkenet (סֹכֶנֶת), Qal participle fs, of Abishag (1 Kgs 1:2, 4) |
+| Ugaritic | skn 'prefect, governor; mayor; manager, administrator' (DULAT 746) |
 
 ## Attestations
 

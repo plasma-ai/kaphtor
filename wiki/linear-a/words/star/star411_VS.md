@@ -39,7 +39,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-A hemispherical bowl on three legs with side handles, the same on all 15 Khania roundels (KH Wc 2008–2024, 2079), each a sealed receipt bearing this sign alone: a bronze-vessel receipt series of the harbour town. Cf. LB \*201 TRIPOD, ti-ri-po-de (PY Ta 641).
+A hemispherical bowl on three legs with side handles, the same on all 15 Khania roundels (KH Wc 2008–2024, 2079), each a sealed receipt bearing this sign alone: a bronze-vessel receipt series of the harbour town. Cf. LB \*201 TRIPOD, ti-ri-po-de (PY Ta 641). Cf. Ug. dd 'cauldronful', a container and measure, Heb. dûd 'cooking pot' (DULAT 262–63); Akk. ruqqu 'kettle, cauldron', bronze and weighed at Ugarit (CAD R 416–17); Ug. ḫptr 'cooking pot', set on the fire beside ḫbrṯ 'stewpot' (KTU 1.4 II 8–9; DULAT 396, 380).
 
 ### Source
 

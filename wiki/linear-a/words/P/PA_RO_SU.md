@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 20 (GORILA I 37): PA-RO-SU · heads six fraction entries (KU-MA-JU ¼, QE-KU-RE · DI ½, \*21M ⅛, SA-RE-JU ⅛, WA ¼, \*188+KU ½). The same scribe's HT 16 has the same layout under KA-KU-PA ·, a party, so the heading names the recipient. Parʿōš 'flea', the clan of Ezra 2:3 (HALOT 971); RO writes rʿō with ʿ lost. Rival: parsu 'portion, dry measure' (Ug. prs, DULAT 671), which leaves RO unexplained. HT 104 .3–4 PA-DA-SU-TI 29 is a candidate for PA-RO-SU-TI, this name with -TI, in a list of X-TI entries (GORILA I 171; Schoep 2002, 47). One attestation.
+HT 20 (GORILA I 37): PA-RO-SU · heads six fraction entries (KU-MA-JU ¼, QE-KU-RE · DI ½, \*21M ⅛, SA-RE-JU ⅛, WA ¼, \*188+KU ½). The same scribe's HT 16 has the same layout under KA-KU-PA ·, a party, so the heading names the recipient. Parʿōš 'flea', the clan of Ezra 2:3 (HALOT 971), the Ugaritic name prġṯ 'Flea' (DULAT 669; Watson 1990, 124 n. 78); RO writes rʿō with ʿ lost, and SU writes the Canaanite š from \*ṯ, as Pu-ra-gu-uš at Late Bronze Taanach (Benz 1972, 395), where Ugaritic keeps ṯ. Rival: parsu 'portion, dry measure' (Ug. prs, DULAT 671), which leaves RO unexplained. HT 104 .3–4 PA-DA-SU-TI 29 is a candidate for PA-RO-SU-TI, this name with -TI, in a list of X-TI entries (GORILA I 171; Schoep 2002, 47). One attestation.
 
 ### Cognates
 
@@ -49,12 +49,14 @@ HT 20 (GORILA I 37): PA-RO-SU · heads six fraction entries (KU-MA-JU ¼, QE-KU-
 |---|---|
 | Hebrew | Parʿōš (פַּרְעֹשׁ), a clan, 'the sons of Parʿōš' (Ezra 2:3; HALOT 971); parʿōš 'flea' (1 Sam 24:15) |
 | Phoenician | PRʿŠ 'Flea', a name element (Benz 1972, 395) |
-| Ugaritic | prġt, a name (Benz 1972, 395) |
+| Canaanite (Taanach) | Pu-ra-gu-uš, a name (Taanach 3 rev. 10; Benz 1972, 395) |
+| Ugaritic | prġṯ, a name, 'Flea' (KTU 4.128:7; 4.317:1; DULAT 669; Watson 1990, 124 n. 78) |
 | Amorite | purʿušum 'flea'; PURʿUŠ-AN-U, PU-UR-ḪU-ŠA-NU, Mari (Gelb 1980, no. 5184) |
+| Akkadian | piršaʾu 'flea' (CAD P 414) |
 
 ### Source
 
-di Mino; HALOT; DULAT; GORILA I; Schoep 2002
+di Mino; HALOT; DULAT; Benz 1972; CAD P; GORILA I; Schoep 2002; Watson 1990; Gelb 1980
 
 ## Attestations
 

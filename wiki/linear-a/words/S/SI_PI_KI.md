@@ -61,7 +61,7 @@ di Mino; GlOS 2
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA4a\|ZA4a]] | Zakros | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA5b\|ZA5b]] | Zakros | Tablet | complete |
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA15a\|ZA15a]] | Zakros | Tablet | none |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA15a\|ZA15a]] | Zakros | Tablet | complete |
 
 ## In translations
 
@@ -69,5 +69,6 @@ di Mino; GlOS 2
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA4a\|ZA4a]] | šipkī | pourings (libation portions), 5 units | CANDIDATE |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA5b\|ZA5b]] | šipkī | pourings, libation portions | CANDIDATE |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA15a\|ZA15a]] | šipkī | pourings, libation portions (wine administration term) | CANDIDATE |
 
 <!-- END kaphtor:record -->

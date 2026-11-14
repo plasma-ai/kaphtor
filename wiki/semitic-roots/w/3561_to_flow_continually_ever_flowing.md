@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/w/3561_to_flow_continually_ever_flowing
 title: "*wtn: 'to flow continually; ever-flowing'"
-desc: "Proto-Semitic *wtn, 'to flow continually; ever-flowing': reflexes in 5 language(s)."
+desc: "Proto-Semitic *wtn, 'to flow continually; ever-flowing': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3561"
@@ -34,6 +34,7 @@ updated: 2026-10-26T14:26:59Z
 | Epigraphic South Arabian | Sab mhwtn (Biella 153) (SD 165) | Biella 153; SD 165 | gloss withheld |
 | Phoenician | yrḥ ʾtnm (Krahmalkov 90; T 39) | Krahmalkov 90; T 39 | gloss withheld |
 | Punic | N.Pu. ʾtnym (T 39) | T 39 | gloss withheld |
+| Pre-Islamic North Arabian | Taymanitic wtn (Al-Jallad 2026b, 62) | Al-Jallad 2026b 62 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

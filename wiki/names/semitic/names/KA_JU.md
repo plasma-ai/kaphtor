@@ -65,7 +65,7 @@ Read words on the same documents.
 
 | Word | Reading | Meaning |
 |---|---|---|
-| [[wiki/names/semitic/names/A_DU\|A-DU]] | ʾAddu / adû | Addu/Haddu (heading); rival adû 'work stint' |
+| [[wiki/names/semitic/names/A_DU\|A-DU]] | adû | work assignment; the ration allotted to it (heading of personnel and ration lists) |
 | KI-RO | kilʾu | owed, outstanding balance (deficit)—transaction term heading deficit sections |
 | [[wiki/names/sumerian/names/KU_PA3_PA3\|KU-PA₃-PA₃]] | Kubaba | Kubaba, Sumerian Kug-Baba 'Pure is Baba' (divine or personal name) |
 | [[wiki/names/semitic/names/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan |

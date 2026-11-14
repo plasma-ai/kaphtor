@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | Manāt (Qurʾān 53:20; HALOT 602); maniyya (Lane 3025) | HALOT 602; Lane 3025 | gloss withheld |
 | Hebrew | Mǝnî (Isa 65:11; HALOT 602); mǝnāt (HALOT 603) | HALOT 602; HALOT 603 | gloss withheld |
 | Aramaic | Palmyrene Manāwāt (plural theonym); Nabataean mn(w)tw (HALOT 602) | HALOT 602 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic mny (a deity); Hismaic mn (Al-Jallad 2026, 93) | Al-Jallad 2026 93 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic mny (a deity); Hismaic mn (Al-Jallad 2026, 93); Safaitic mnt, the goddess Manōt (Al-Jallad 2026, 187) | Al-Jallad 2026 93; Al-Jallad 2026 187 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -48,10 +48,11 @@ HT 102 counts MA-ZU 3 in an administrative list, between DI-RI-NA 10 and WI 10, 
 | Language | Comparison |
 |---|---|
 | Ugaritic | mṯ (I) 'infant, baby boy' (KTU 1.69:2; 1.5 V:22; 3.7:15; Copenhagen Ugaritic Corpus/DULAT) |
+| Amorite | muṯ- 'infant' in names: mu-uš-na-a-du muṯnā-Haddu 'Our infant of Haddu', Alalaḫ; mu-uš-ta-al-ma muṯ-talma 'Baby boy of strength', Tuttul (Buck 2018, 343) |
 
 ### Source
 
-di Mino
+di Mino; DULAT; Buck 2018
 
 ## Attestations
 

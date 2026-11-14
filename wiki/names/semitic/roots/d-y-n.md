@@ -30,7 +30,7 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/semitic/names/DA_NA_TU\|DA-NA-TU]] | dānatu | personal name (f.), 'she who judges' | 1 |
 | [[wiki/names/semitic/names/DI_NA_RO\|DI-NA-RO]] | Dānīlo / Dānīlu | personal name ("El judges"—Ugaritic hero-king Dāniʾēlu) | 1 |
 | [[wiki/names/semitic/names/DI_NA_U\|DI-NA-U]] | Dīnāyu | personal name: hypocoristic of a √d-y-n name ('Judge') | 5 |
-| [[wiki/names/semitic/names/DI_NI\|DI-NI]] | Dīnī | personal name, 'My judgment' (short form of a √d-y-n name); rival the whole group WA-DI-NI, Ugaritic PN wḏny | 2 |
+| [[wiki/names/semitic/names/DI_NI\|DI-NI]] | Dīnī | personal name, 'My judgment' (short form of a √d-y-n name) | 2 |
 | [[wiki/names/semitic/names/DI_RE_DI_NA\|DI-RE-DI-NA]] | ʾaddīr-dīnā | mighty is the verdict (compound sentence name); rival a simplex recipient name | 1 |
 | [[wiki/names/semitic/names/O_RA2_DI_NE\|O-RA₂-DI-NE]] | ʾŌl-dīn | personal name, 'the Foremost is judge' (Ugaritic PN ảwldn); rival ʾIl-dīn 'El is judge' | 1 |
 

@@ -62,6 +62,6 @@ Read words on the same documents.
 
 | Word | Reading | Meaning |
 |---|---|---|
-| QA-\*118 | qaṭṭ(u) | flax, linseed—field-crop commodity |
+| QA-\*118 | qaṭṭ(u) | flax, linseed—field-crop commodity; rival the place Qṭ |
 
 <!-- END kaphtor:record -->

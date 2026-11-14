@@ -1,12 +1,16 @@
 ---
 name: wiki/linear-a/words/star/star21
 title: "*21"
-desc: "Unread sign (sign, value on file); 1 occurrence(s)."
-tags: ["linear-a", "word", "unread"]
+desc: "(logogram): sheep (livestock logogram, sex unmarked). Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "commodity", "hapax", "livestock", "logogram"]
 kind: "word"
 form: "*21"
-datasets: ["unread_signs"]
+datasets: ["lexicon"]
 attestations: ["HT38"]
+tier: 2
+confidence: "CANDIDATE"
+confidence_score: 0.45
+reading: "(logogram)"
 created: 2026-11-12T00:26:03Z
 updated: 2026-11-12T00:26:03Z
 ---
@@ -21,6 +25,26 @@ updated: 2026-11-12T00:26:03Z
 
 **Signs.** \*21
 
+## Lexicon
+
+**CANDIDATE**, tier 2 of 4, score 0.45
+
+| Field | Value |
+|---|---|
+| Reading | (logogram) |
+| Meaning | sheep (livestock logogram, sex unmarked) |
+| Language layer | logogram |
+| Tags | commodity, hapax, livestock, logogram |
+| Semantic field | commodity |
+
+### Note
+
+HT 38 \*21 3, after the pig (1) and before a weighed item and two kinds of cloth. The sheep sign without the mark of sex that makes \*21M and \*21F. Linear B OVIS. One tablet; no witness spells the word.
+
+### Source
+
+di Mino
+
 ## Attestations
 
 | Document | Site | Support | Translation |
@@ -32,13 +56,5 @@ updated: 2026-11-12T00:26:03Z
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT38\|HT38]] | sheep | sheep (logogram): 3; Peruzzi compares Linear B \*23 BOS (1958, 10) | PROBABLE |
-
-## Unread sign
-
-A sign. Status **value on file** (sign_values.json or a translation gives it a value; it has no lexicon entry).
-
-| On file in | Record | Value | Standing |
-|---|---|---|---|
-| translations.json | HT38 | sheep (logogram): 3 |  |
 
 <!-- END kaphtor:record -->

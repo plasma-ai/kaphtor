@@ -25,7 +25,7 @@ updated: 2026-11-12T00:26:03Z
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/PYR/PYR/PYR1\|PYR1]] | Pyrgos | Tablet | none |
+| [[wiki/linear-a/inscriptions/PYR/PYR/PYR1\|PYR1]] | Pyrgos | Tablet | complete |
 
 ## Unread sign
 

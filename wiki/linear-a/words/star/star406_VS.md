@@ -37,4 +37,6 @@ updated: 2026-11-12T00:26:03Z
 
 A vessel. Status **unread** (nothing on file).
 
+HT 93a: a branched outline with curled ends; the vessel shape is not clear.
+
 <!-- END kaphtor:record -->

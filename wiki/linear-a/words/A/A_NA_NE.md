@@ -41,20 +41,20 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-KN Zc 7, an inked vessel: GORILA prints JA-SA-RA-A-NA-NE as one group; read JA-SA-RA · A-NA-NE. ḥanān 'grace, favour', the qatāl pattern of the geminate root, A- writing ḥa with the guttural unwritten: Amorite Ḥanana (Gelb 1980, no. 475), ḥanan 'gracious' (GlOS 1, 245). With JA-SA-RA, yašara ḥanān 'righteous is (thy) grace'. See A-NA-NU.
+KN Zc 7, an inked vessel: GORILA prints JA-SA-RA-A-NA-NE as one group; read JA-SA-RA · A-NA-NE. ḥanān 'grace, favour', the qatāl pattern of the geminate root, A- writing ḥa with the guttural unwritten: Amorite Ḥanana (Gelb 1980, no. 475), ḥanan 'gracious' (GlOS 1, 245); Ugaritic has the noun, ḥnn 'kindness, benevolence' (DULAT 361), in a liturgical list: ḥnn il, El's benevolence, on the line after il w aṯrt and before šlm il (KTU 1.65:5–8; Pardee 2000, 977, Ḥanānu ʾIlī), as A-NA-NE follows A-ZU-RA here. With JA-SA-RA, yašara ḥanān 'righteous is (thy) grace'. See A-NA-NU.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Hebrew | ḥanān (חָנָן) 'gracious'; ḥēn (חֵן) 'grace, favor' |
-| Ugaritic | ḥnn 'to be gracious' (KTU 1.16 vi 33–34) |
+| Ugaritic | ḥnn 'to be kind', ḥnny l pn mlk (KTU 2.15:3; DULAT 361); ḥnn (I) 'kindness, benevolence', ḥnn il, El's benevolence (KTU 1.65:6; DULAT 361; Pardee 2000, 977) |
 | Arabic | ḥanān 'mercy, compassion' |
 | Akkadian | unnīnu 'prayer, supplication' |
 
 ### Source
 
-di Mino; Gelb 1980; GlOS 1
+di Mino; Gelb 1980; GlOS 1; DULAT; Pardee 2000
 
 ## Attestations
 

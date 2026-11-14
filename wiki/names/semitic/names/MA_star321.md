@@ -32,7 +32,7 @@ updated: 2026-11-11T23:39:03Z
 | Reading's standing | SPECULATIVE |
 | Standing as a personal name | SPECULATIVE |
 | Standing of the layer | SPECULATIVE (lexicon_reading) |
-| Source | di Mino |
+| Source | di Mino; DULAT; Buck 2018 |
 
 ## Note
 
@@ -47,6 +47,7 @@ Reading from the lexicon (di Mino).
 | Language | Comparison |
 |---|---|
 | Ugaritic | mṯ (I) 'infant, baby boy' (KTU 1.69:2; 1.5 V:22; 3.7:15; Copenhagen Ugaritic Corpus/DULAT) |
+| Amorite | muṯ- 'infant' in names: mu-uš-na-a-du muṯnā-Haddu 'Our infant of Haddu', Alalaḫ; mu-uš-ta-al-ma muṯ-talma 'Baby boy of strength', Tuttul (Buck 2018, 343) |
 
 ## Attestations
 

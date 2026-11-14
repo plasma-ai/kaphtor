@@ -31,4 +31,6 @@ updated: 2026-11-12T00:26:03Z
 
 A vessel. Status **unread** (nothing on file).
 
+HT 31, the first vessel of the list: a bowl on three legs with two loops standing on the rim.
+
 <!-- END kaphtor:record -->

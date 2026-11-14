@@ -49,6 +49,7 @@ KH 92 .1 A-DA-QIf-RI · KU-NI-TE 10\[ (Younger, Linear A Texts): a counted entry
 |---|---|
 | Phoenician | Punic khnt 'priestess' (Krahmalkov) |
 | Ugaritic | khn 'priest' (CUC) |
+| Hebrew | kōhēn 'priest' (Kogan 2015, ch. 3 §5.3 no. 16) |
 
 ### Source
 
@@ -58,7 +59,13 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/KH/KH/KH92\|KH92]] | Khania | Tablet | none |
+| [[wiki/linear-a/inscriptions/KH/KH/KH92\|KH92]] | Khania | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/KH/KH/KH92\|KH92]] | kuhnēt | priestess (fem. singular) | SPECULATIVE |
 
 ## Onomasticon
 

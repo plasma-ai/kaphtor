@@ -23,21 +23,27 @@ updated: 2026-10-24T16:17:50Z
 
 **Status: proposed.** A proposed value.
 
-Evidence: As a class (h ḥ ḫ), 7/11 word types, and no rival class above 8/11, so root shape does not decide. In context H gives \*21F-\*118 ḥiṭṭa 'wheat' (KH 88, ZA 5a), \*21F-TU-NE hatune 'son-in-law' (HT 7b, HT 87, HT 117b), \*21F-JA-DU Ḥayya-Addu and TU-\*21F-RI-NA ṭuhārīna. HT Scribe 11 writes \*21F-TU-NE (HT 7b, a roster of men) and QE-TU-NE (HT 12, among goods), keeping \*21F apart from Q.
+Evidence: As a class (h ḥ ḫ), 7/11 word types, and no rival class above 8/11, so root shape does not decide. In context H gives \*21F-\*118 ḥiṭṭa 'wheat' (KH 88, ZA 5a), \*21F-TU-NE hatune 'son-in-law' (HT 7b, HT 87, HT 117b) and TU-\*21F-RI-NA ṭuhārīna. HT Scribe 11 writes \*21F-TU-NE (HT 7b, a roster of men) and QE-TU-NE (HT 12, among goods), keeping \*21F apart from Q.
 
 ## Phonetic value
 
 | Field | Value |
 |---|---|
 | Value | /ha/ |
-| Alternates | none |
+| Alternates | /ḥa/, /ḫa/ |
 | Linear B | no Linear B counterpart recorded |
 | Neutralization class | none |
+
+### Alternate values
+
+| Value | Confidence | Evidence |
+|---|---|---|
+| /ḥa/ |  | Second value of the same sign, not a rival: \*21F-\*118 ḥiṭṭa 'wheat' (KH 88, ZA 5a) |
+| /ḫa/ |  | Second value of the same sign, not a rival: A-SE-TU-\*21F Aštuḫḫa (PH 2), U-NU-\*21F Unuḫu (HT 26a) |
 
 ### Forms cited for the value
 
 - TU-\*21F-RI-NA = ṭuhārīna "the pure ones" (√ṭ-h-r)—unique to /h/, no other C fits ṭ-X-r
-- \*21F-JA-DU = ḥayya-Addu "Addu lives" (√ḥ-y-y; cf. Amorite ḪAJJ-A + DN names, Gelb AS 21 nos. 1651–1653)
 - \*21F-TU-NE = ḥātān "bridegroom" (HT 7b, 87, 117b)
 - JA-\*21F = Yāh, beside PU-RA₂ on HT 28b
 - \*21F-\*118 = ḥṭt "wheat" (KH 88 before figs; ZA 5a with wine), if \*118 = ṭa

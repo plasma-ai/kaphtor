@@ -15,23 +15,23 @@
     "compound": "a logogram or sign joined to others by a hyphen"
   },
   "stats": {
-    "listed": 197,
+    "listed": 186,
     "by_status": {
-      "unread": 112,
-      "value_on_file": 11,
+      "unread": 108,
+      "value_on_file": 4,
       "component_read": 74
     },
     "by_kind": {
-      "syllabogram": 33,
-      "sign": 49,
-      "ligature": 76,
-      "vessel": 7,
+      "syllabogram": 30,
+      "sign": 48,
+      "ligature": 71,
+      "vessel": 6,
       "logogram": 5,
-      "compound": 27
+      "compound": 26
     },
-    "occurrences": 501,
-    "hapax": 113,
-    "cross_site": 44
+    "occurrences": 456,
+    "hapax": 109,
+    "cross_site": 38
   },
   "excluded": {
     "None": "a placeholder in the corpus record, not a sign",
@@ -131,7 +131,7 @@
       "sign": "A",
       "kind": "syllabogram",
       "status": "unread",
-      "frequency": 18,
+      "frequency": 17,
       "attestations": [
         "ARKH1b",
         "ARKH5",
@@ -147,7 +147,6 @@
         "KH73",
         "PEZb8",
         "PH27",
-        "PKZa11",
         "SYZa12",
         "ZA21a"
       ],
@@ -156,14 +155,13 @@
         "Haghia Triada",
         "Kannia",
         "Khania",
-        "Palaikastro",
         "Petras",
         "Phaistos",
         "Syme",
         "Zakros"
       ],
       "cross_site": true,
-      "note": "Alone on 3 Haghia Triada nodules (HT Wa 1147–1149) and the Petras vessel PE Zb 8. On tablets at Khania, Haghia Triada, Arkhanes, Phaistos and Zakros it stands as an entry, with a quantity on HT 57a (A ⅛). No reading."
+      "note": "Alone on 3 Haghia Triada nodules (HT Wa 1147–1149) and the Petras vessel PE Zb 8. On tablets at Khania, Haghia Triada, Arkhanes, Phaistos and Zakros it stands as an entry, with a quantity on HT 57a (A ⅛). No reading. The A before SA-SA-RA-ME on PK Za 11 is the first sign of A-SA-SA-RA-ME and is counted with that word."
     },
     {
       "sign": "O",
@@ -196,43 +194,6 @@
       ],
       "cross_site": true,
       "note": "Alone on 11 Khania roundels and 3 Haghia Triada nodules (HT Wa 1279–1281); NA O on the roundel KN Wc 42. With a quantity on HT 113: O 2½. No reading."
-    },
-    {
-      "sign": "KI",
-      "kind": "syllabogram",
-      "status": "value_on_file",
-      "on_file": [
-        {
-          "file": "translations.json",
-          "record": "HT118",
-          "value": "owed(?), abbreviation of KI-RO"
-        }
-      ],
-      "frequency": 16,
-      "attestations": [
-        "HT100",
-        "HT118",
-        "HT154.",
-        "HT49a",
-        "HT54b",
-        "HT81",
-        "HT97a",
-        "KEZb3",
-        "KKHZb1",
-        "THE10",
-        "TY3a",
-        "ZA21b"
-      ],
-      "sites": [
-        "Haghia Triada",
-        "Kalo Chorafi",
-        "Kea",
-        "Thera",
-        "Tylissos",
-        "Zakros"
-      ],
-      "cross_site": true,
-      "note": "An entry with a quantity on Haghia Triada tablets: KI 2 on HT 100, and KI 10, KI 4 and KI 1 after names on HT 118, where the translation takes it as short for KI-RO. Alone on the vessels KE Zb 3 and KKH Zb 1 and the Thera tablet THE 10. No lexicon entry."
     },
     {
       "sign": "*164",
@@ -470,14 +431,13 @@
       "sign": "NA",
       "kind": "syllabogram",
       "status": "unread",
-      "frequency": 7,
+      "frequency": 6,
       "attestations": [
         "ARKH1b",
         "HT154c",
         "HT64",
         "KH36",
         "KNWc42",
-        "KNZa10",
         "PHWc40"
       ],
       "sites": [
@@ -488,7 +448,7 @@
         "Phaistos"
       ],
       "cross_site": true,
-      "note": ""
+      "note": "The NA that opens side b of KN Za 10 is the last sign of JA-SA-SA-RA-MA-NA and is counted with that word."
     },
     {
       "sign": "RA",
@@ -537,40 +497,6 @@
       "note": ""
     },
     {
-      "sign": "WA",
-      "kind": "syllabogram",
-      "status": "value_on_file",
-      "on_file": [
-        {
-          "file": "translations.json",
-          "record": "HTWc3007",
-          "value": "cloth (logogram), as alone on HT Wc 3019 (WA ¼)"
-        },
-        {
-          "file": "translations.json",
-          "record": "HTWc3008",
-          "value": "cloth (logogram)"
-        }
-      ],
-      "frequency": 6,
-      "attestations": [
-        "ARGZg1",
-        "HT16",
-        "HT20",
-        "HTWc3019",
-        "KHWc2124",
-        "ZAZg34"
-      ],
-      "sites": [
-        "Argos",
-        "Haghia Triada",
-        "Khania",
-        "Zakros"
-      ],
-      "cross_site": true,
-      "note": "With a quantity on HT 16 (⅓), HT 20, the roundel HT Wc 3019 (¼) and the Zakros stone vessel ZA Zg 34 (60); alone on the roundel KH Wc 2124. The translations of HT Wc 3007, HT Wc 3008 and HT 20 take it as the cloth logogram, as Nosch and Weilhartner do for AB 54 on HT Wc 3019, HT 16 and HT 20 (2026). No lexicon entry."
-    },
-    {
       "sign": "QA2+[?]+RE",
       "kind": "ligature",
       "status": "component_read",
@@ -596,25 +522,6 @@
       ],
       "cross_site": false,
       "note": ""
-    },
-    {
-      "sign": "*409-VS",
-      "kind": "vessel",
-      "status": "unread",
-      "frequency": 5,
-      "attestations": [
-        "KHWc2010",
-        "KHWc2020",
-        "KHWc2021",
-        "KHWc2025",
-        "ZO1"
-      ],
-      "sites": [
-        "Khania",
-        "Zominthos"
-      ],
-      "cross_site": true,
-      "note": "A vessel sign. Alone on 4 Khania roundels (KH Wc 2010, 2020, 2021, 2025); *409-VS 217 on ZO 1. No reading."
     },
     {
       "sign": "*86",
@@ -668,7 +575,7 @@
         "Khania"
       ],
       "cross_site": false,
-      "note": "A vessel sign. Alone on 4 Khania roundels (KH Wc 2084, 2103, 2114, 2122). No reading."
+      "note": "A vessel sign: a pointed, triangular vessel, on KH Wc 2103 with crossing supports, a vessel standing in a frame, and a curl on each side; KH Wc 2084 and 2114 are broken. Alone on 4 Khania roundels (KH Wc 2084, 2103, 2114, 2122). No reading."
     },
     {
       "sign": "MI",
@@ -730,26 +637,6 @@
         "Khania",
         "Malia",
         "Zakros"
-      ],
-      "cross_site": true,
-      "note": ""
-    },
-    {
-      "sign": "VIR+*313b",
-      "kind": "ligature",
-      "status": "unread",
-      "components": [
-        "VIR",
-        "*313b"
-      ],
-      "frequency": 4,
-      "attestations": [
-        "HT94a",
-        "KH7a"
-      ],
-      "sites": [
-        "Haghia Triada",
-        "Khania"
       ],
       "cross_site": true,
       "note": ""
@@ -879,7 +766,7 @@
         "Phaistos"
       ],
       "cross_site": true,
-      "note": ""
+      "note": "An animal's head in profile, two projections on top and a muzzle to the right, with L2 beneath: PH 8a, counted 1. PK Za 28 has it after ]-PU₂-RE-[ on a stone vessel, where the drawing shows more than the photograph; KN Zg 57a lists it among vessel signs."
     },
     {
       "sign": "GRA+F",
@@ -949,18 +836,16 @@
       "sign": "ME",
       "kind": "syllabogram",
       "status": "unread",
-      "frequency": 3,
+      "frequency": 2,
       "attestations": [
-        "IOZa16",
         "ZA21a",
         "ZA21b"
       ],
       "sites": [
-        "Iouktas",
         "Zakros"
       ],
-      "cross_site": true,
-      "note": ""
+      "cross_site": false,
+      "note": "The ME after JA-SA-SA-RA on IO Za 16 continues that word across the line break (JA-SA-SA-RA-ME) and is counted with it."
     },
     {
       "sign": "MI+JA+I",
@@ -980,31 +865,6 @@
       "sites": [
         "Haghia Triada",
         "Khania"
-      ],
-      "cross_site": true,
-      "note": ""
-    },
-    {
-      "sign": "MU",
-      "kind": "syllabogram",
-      "status": "value_on_file",
-      "on_file": [
-        {
-          "file": "translations.json",
-          "record": "TELZb1",
-          "value": "bovine (commodity ideogram)"
-        }
-      ],
-      "frequency": 3,
-      "attestations": [
-        "HT23b",
-        "KH6",
-        "TELZb1"
-      ],
-      "sites": [
-        "Haghia Triada",
-        "Khania",
-        "Tel Haror"
       ],
       "cross_site": true,
       "note": ""
@@ -1096,7 +956,7 @@
         "Knossos"
       ],
       "cross_site": true,
-      "note": ""
+      "note": "Alone on the roundel KN Wc 23. On HT 125a and HT 130 it follows a lost stretch, on tablets that also spell SA-RA₂."
     },
     {
       "sign": "TA₂",
@@ -1350,7 +1210,7 @@
         "Khania"
       ],
       "cross_site": false,
-      "note": "A vessel sign. Alone on 2 Khania roundels (KH Wc 2006, 2007). No reading."
+      "note": "A vessel sign: a tapering vessel on a foot, cross-hatched inside, with loops on the rim; Vandenabeele takes A 417 for a basket (Schoep 2002, 127 n. 138). Alone on 2 Khania roundels (KH Wc 2006, 2007). No reading."
     },
     {
       "sign": "*47",
@@ -1380,7 +1240,7 @@
         "Malia"
       ],
       "cross_site": false,
-      "note": ""
+      "note": "MA 10a and MA 10c: the necked jar of *412 with a different mark written inside it, counted 4 and 3."
     },
     {
       "sign": "*82",
@@ -1614,32 +1474,6 @@
       "note": ""
     },
     {
-      "sign": "MA+RU-ME",
-      "kind": "compound",
-      "status": "value_on_file",
-      "components": [
-        "MA",
-        "RU",
-        "ME"
-      ],
-      "on_file": [
-        {
-          "file": "translations.json",
-          "record": "HT24a",
-          "value": "the wool (quantities 10 and 6; a third entry on .4 breaks after ME)"
-        }
-      ],
-      "frequency": 2,
-      "attestations": [
-        "HT24a"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "note": ""
-    },
-    {
       "sign": "MI+JA+KA",
       "kind": "ligature",
       "status": "component_read",
@@ -1810,25 +1644,6 @@
       "note": ""
     },
     {
-      "sign": "VIR+*313a",
-      "kind": "ligature",
-      "status": "unread",
-      "components": [
-        "VIR",
-        "*313a"
-      ],
-      "frequency": 2,
-      "attestations": [
-        "HT100",
-        "HT89"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "note": ""
-    },
-    {
       "sign": "ZA",
       "kind": "syllabogram",
       "status": "unread",
@@ -1879,27 +1694,6 @@
       ],
       "cross_site": false,
       "note": "HT 11a .4 and HT 93a .5–6, each before a numeral."
-    },
-    {
-      "sign": "*21",
-      "kind": "sign",
-      "status": "value_on_file",
-      "on_file": [
-        {
-          "file": "translations.json",
-          "record": "HT38",
-          "value": "sheep (logogram): 3"
-        }
-      ],
-      "frequency": 1,
-      "attestations": [
-        "HT38"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "note": ""
     },
     {
       "sign": "*304-CYP",
@@ -2402,7 +2196,7 @@
         "Haghia Triada"
       ],
       "cross_site": false,
-      "note": ""
+      "note": "HT 31: a plain tapering vessel on a short foot."
     },
     {
       "sign": "*404-VS",
@@ -2466,7 +2260,7 @@
         "Haghia Triada"
       ],
       "cross_site": false,
-      "note": ""
+      "note": "HT 93a: a branched outline with curled ends; the vessel shape is not clear."
     },
     {
       "sign": "*410-VS",
@@ -2480,7 +2274,7 @@
         "Haghia Triada"
       ],
       "cross_site": false,
-      "note": ""
+      "note": "HT 31, the first vessel of the list: a bowl on three legs with two loops standing on the rim."
     },
     {
       "sign": "*412-VS-VIN",
@@ -2577,7 +2371,7 @@
         "Phaistos"
       ],
       "cross_site": false,
-      "note": ""
+      "note": "PH 8a, counted 7: a tall tapering container filled with diagonal strokes, a loop at the upper right, L2 beneath; SigLA codes it A417, the hatched vessel of KH Wc 2006 and 2007."
     },
     {
       "sign": "*505",
@@ -2860,7 +2654,7 @@
         "Khania"
       ],
       "cross_site": false,
-      "note": ""
+      "note": "Alone on the roundel KH Wc 2028: a pointed form over a hanging loop."
     },
     {
       "sign": "GRA+BOSm",
@@ -2902,7 +2696,7 @@
         "Haghia Triada"
       ],
       "cross_site": false,
-      "note": ""
+      "note": "HT 133: A-DU · TE GRA+DA 55, the grain sign carrying DA after TE. Under the same heading A-DU, HT 86a and HT 95b spell DA-ME before grain (DA-ME GRA+B 20; DA-ME 10), and HT 120 has DA-ME GRA+K+L 74: DA is the first sign of DA-ME, as Linear B TELA+PA carries the first sign of pa-wo (Melena 2014, 143). One occurrence; HT 133 is the work of another scribe than HT 86a and HT 120. See DA-ME."
     },
     {
       "sign": "GRA+H",
@@ -3138,31 +2932,6 @@
       ],
       "sites": [
         "Khania"
-      ],
-      "cross_site": false,
-      "note": ""
-    },
-    {
-      "sign": "MA+RU",
-      "kind": "ligature",
-      "status": "value_on_file",
-      "components": [
-        "MA",
-        "RU"
-      ],
-      "on_file": [
-        {
-          "file": "translations.json",
-          "record": "HT12",
-          "value": "wool (logogram)"
-        }
-      ],
-      "frequency": 1,
-      "attestations": [
-        "HT12"
-      ],
-      "sites": [
-        "Haghia Triada"
       ],
       "cross_site": false,
       "note": ""
@@ -3636,31 +3405,6 @@
       "note": ""
     },
     {
-      "sign": "TELA+KU",
-      "kind": "ligature",
-      "status": "value_on_file",
-      "components": [
-        "TELA",
-        "KU"
-      ],
-      "on_file": [
-        {
-          "file": "translations.json",
-          "record": "HT38",
-          "value": "cloth with KU (logogram): 2"
-        }
-      ],
-      "frequency": 1,
-      "attestations": [
-        "HT38"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "note": ""
-    },
-    {
       "sign": "TELA+TE",
       "kind": "ligature",
       "status": "component_read",
@@ -3817,24 +3561,6 @@
       ],
       "sites": [
         "Khania"
-      ],
-      "cross_site": false,
-      "note": ""
-    },
-    {
-      "sign": "VIR+*313c",
-      "kind": "ligature",
-      "status": "unread",
-      "components": [
-        "VIR",
-        "*313c"
-      ],
-      "frequency": 1,
-      "attestations": [
-        "HT127b"
-      ],
-      "sites": [
-        "Haghia Triada"
       ],
       "cross_site": false,
       "note": ""

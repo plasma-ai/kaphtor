@@ -63,6 +63,7 @@ No CH ancestor—Linear A innovation, possibly from MM seal whirl motif (Ferrara
 | [[wiki/linear-a/words/A/A_KA_TA\|A-KA-TA]] | ʾAkkata | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_SA_DA_KA\|A-SA-DA-KA]] | ʾaṣdaqa | CANDIDATE |
 | [[wiki/linear-a/words/A/A_SI_JA_KA\|A-SI-JA-KA]] | šawīqu | CANDIDATE |
+| [[wiki/linear-a/words/A/A_TA_I_star301_DE_KA\|A-TA-I-\*301-DE-KA]] | ʾataʿinā dēka | CANDIDATE |
 | [[wiki/linear-a/words/A/A_TI_KA\|A-TI-KA]] | ʿAtīqa | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_KA\|DA-KA]] | dāgā | CANDIDATE |
 | [[wiki/linear-a/words/D/DI_DI_KA_SE\|DI-DI-KA-SE]] | Djed-ka(.s) | SPECULATIVE |
@@ -70,14 +71,15 @@ No CH ancestor—Linear A innovation, possibly from MM seal whirl motif (Ferrara
 | [[wiki/linear-a/words/I/I_NA_TA_I_ZU_DI_SI_KA\|I-NA-TA-I-ZU-DI-SI-KA]] | ʿInatī ṯudī-šiqā | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA\|KA]] | kapp | CANDIDATE |
 | [[wiki/linear-a/words/K/KA_star305\|KA-\*305]] | ka-ḏā | SPECULATIVE |
-| [[wiki/linear-a/words/K/KA_star314_SI\|KA-\*314-SI]] | Kaḥas | SPECULATIVE |
+| [[wiki/linear-a/words/K/KA_star314_SI\|KA-\*314-SI]] | kaḥsi | CANDIDATE |
 | [[wiki/linear-a/words/K/KA_DI\|KA-DI]] | kadd | PROBABLE |
 | [[wiki/linear-a/words/K/KA_DU_MA_NE\|KA-DU-MA-NE]] | Qadmān | CONFIRMED |
 | [[wiki/linear-a/words/K/KA_I_RO\|KA-I-RO]] | kāʾil | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_JU\|KA-JU]] | kallû | SPECULATIVE |
+| [[wiki/linear-a/words/K/KA_KI\|KA-KI]] | Kakki | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_KU\|KA-KU]] | Kakku | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_KU_NE_TE\|KA-KU-NE-TE]] | Kakku-ʿAnēt | SPECULATIVE |
-| [[wiki/linear-a/words/K/KA_KU_PA\|KA-KU-PA]] | kawkab | CANDIDATE |
+| [[wiki/linear-a/words/K/KA_KU_PA\|KA-KU-PA]] | kakkub | CANDIDATE |
 | [[wiki/linear-a/words/K/KA_NA\|KA-NA]] | qana / qanû | CANDIDATE |
 | [[wiki/linear-a/words/K/KA_NA_NI_TI\|KA-NA-NI-TI]] | kanaʿanītī | CANDIDATE |
 | [[wiki/linear-a/words/K/KA_NA_TI\|KA-NA-TI]] | kanasti | SPECULATIVE |
@@ -86,6 +88,7 @@ No CH ancestor—Linear A innovation, possibly from MM seal whirl motif (Ferrara
 | [[wiki/linear-a/words/K/KA_PA\|KA-PA]] | kapa(r) | CANDIDATE |
 | [[wiki/linear-a/words/K/KA_PA_QE\|KA-PA-QE]] | kapar qē(pu) | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_PO_RU\|KA-PO-RU]] | kapōru | SPECULATIVE |
+| [[wiki/linear-a/words/K/KA_QA\|KA-QA]] | Kakka | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_RE_RO\|KA-RE-RO]] | Kariru | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_RI_star310_I\|KA-RI-\*310-I]] | Qarīnī | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_RO_NA\|KA-RO-NA]] | Qarna | PROBABLE |

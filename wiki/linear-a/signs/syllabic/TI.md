@@ -56,7 +56,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_TI_KA\|A-TI-KA]] | ʿAtīqa | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_TI_RU\|A-TI-RU]] | ʿAttiru | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_TU_RI_SI_TI\|A-TU-RI-SI-TI]] | ha-Turisīt | CANDIDATE |
-| [[wiki/linear-a/words/D/DA_KI_TI\|DA-KI-TI]] | daqqati | SPECULATIVE |
+| [[wiki/linear-a/words/D/DA_KI_TI\|DA-KI-TI]] | Daqqiti | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_NE_KU_TI\|DA-NE-KU-TI]] | Ḏā-naquddi | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_DU_TI\|I-DU-TI]] | Yidu-ti | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_KU_JU_TI\|I-KU-JU-TI]] | ʾukulti | SPECULATIVE |

@@ -70,12 +70,12 @@ di Mino
 | [[wiki/linear-a/inscriptions/HT/HT/HT131b\|HT131b]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT14\|HT14]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT154a\|HT154a]] | Haghia Triada | Tablet | none |
-| [[wiki/linear-a/inscriptions/HT/HT/HT21\|HT21]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT21\|HT21]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT44a\|HT44a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT58\|HT58]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/TY/TY/TY3a\|TY3a]] | Tylissos | Tablet | none |
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA11a\|ZA11a]] | Zakros | Tablet | none |
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA11b\|ZA11b]] | Zakros | Tablet | none |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA11a\|ZA11a]] | Zakros | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA11b\|ZA11b]] | Zakros | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA18a\|ZA18a]] | Zakros | Tablet | none |
 
 ## In translations
@@ -84,11 +84,14 @@ di Mino
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH3a\|ARKH3a]] | \[ideogram\] | olives |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT14\|HT14]] | \[ideogram\] | olives |  |
+| [[wiki/linear-a/inscriptions/HT/HT/HT21\|HT21]] |  | zayt 'olive (fruit)' | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT44a\|HT44a]] | \[ideogram\] | olives |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT91\|HT91]] | zayt | olives |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT123_plus_124a\|HT123+124a]] | \[ideogram\] | olives |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT131b\|HT131b]] | zayt | olive (fruit) |  |
 | [[wiki/linear-a/inscriptions/HT/HTW/HTW231a\|HTW231a]] | zayt | olive fruit |  |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA6a\|ZA6a]] | zayt | olives | PROBABLE |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA11a\|ZA11a]] |  | zayt 'olive (fruit)' | PROBABLE |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA11b\|ZA11b]] |  | zayt 'olive (fruit)' | PROBABLE |
 
 <!-- END kaphtor:record -->

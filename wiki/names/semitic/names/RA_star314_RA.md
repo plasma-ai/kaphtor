@@ -1,11 +1,11 @@
 ---
 name: wiki/names/semitic/names/RA_star314_RA
 title: "RA-*314-RA"
-desc: "Raḥil: personal name, 'Ewe' (√r-ḥ-l), as Hebrew Rāḥēl; rival Egyptian Ḥr-Rꜥ 'Horus-Ra'. Semitic, SPECULATIVE."
+desc: "Raḥal: personal name, 'Ewe' (√r-ḥ-l), as Hebrew Rāḥēl. Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "RA-*314-RA"
-reading: "Raḥil"
+reading: "Raḥal"
 attestations: ["HTWc3006"]
 created: 2026-11-11T23:39:03Z
 updated: 2026-11-11T23:39:03Z
@@ -19,28 +19,28 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Raḥil** · personal name, 'Ewe' (√r-ḥ-l), as Hebrew Rāḥēl; rival Egyptian Ḥr-Rꜥ 'Horus-Ra'
+**Raḥal** · personal name, 'Ewe' (√r-ḥ-l), as Hebrew Rāḥēl
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
-| Reading | Raḥil |
-| Meaning | personal name, 'Ewe' (√r-ḥ-l), as Hebrew Rāḥēl; rival Egyptian Ḥr-Rꜥ 'Horus-Ra' |
+| Reading | Raḥal |
+| Meaning | personal name, 'Ewe' (√r-ḥ-l), as Hebrew Rāḥēl |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/r-hh-l\|r-ḥ-l]] |
 | Proto-Semitic | \*raḫil- (#2267) |
 | Reading's standing | SPECULATIVE |
 | Standing as a personal name | SPECULATIVE |
 | Standing of the layer | SPECULATIVE (lexicon_reading) |
-| Source | di Mino; HALOT; Ranke; Ilin-Tomich 2025 |
+| Source | di Mino; HALOT; CAD L; DULAT; GlOS 2; DNWSI; Lane |
 
 ## Note
 
-HT Wc 3006, a roundel: WA-O-MI / RA-\*314-RA, no logogram. raḥil 'ewe', Heb. rāḥēl 'ewe' (HALOT 1216) and the name Rachel (Gen 29:6); \*314 writes the ḥ, RA the final l as in KU-RO kull. Rivals: the commodity 'ewe'; Egyptian ḥr-rꜥ 'Horus-Ra' (Ranke I, 249.15; PNM v6, personal_names_id 142609473), Horus first. One attestation.
+HT Wc 3006, a roundel: WA-O-MI / RA-\*314-RA, no logogram. Raḥal 'Ewe', a personal name on the base \*raḥl-, closest to Akk. laḫru 'ewe', the same base with r and l transposed (CAD L 42); Ugarit bears it as a name in that form, lḥr, syllabic laḫr (DULAT 493; GlOS 2, 161). Heb. rāḥēl 'ewe' and the name Rachel (HALOT 1216; Gen 29:6), Deir ʿAlla rḥl 'ewe' (DNWSI 1068), Arb. riḫl (Lane 1059). \*314 writes the ḥ with its echo vowel, RA the final l as in KU-RO kull. One attestation. See \*314-TA-MA.
 
 ## As a name
 
-raḥil 'ewe', Hebrew rāḥēl and the name Rachel, on a roundel without a logogram. Rival: Egyptian ḥr-rꜥ 'Horus-Ra' (PNM v6). See the lexicon entry.
+Raḥal 'Ewe', closest to Akkadian laḫru, borne as a name at Ugarit (lḥr); Hebrew rāḥēl and the name Rachel. On a roundel without a logogram. See the lexicon entry.
 
 ## Cognates
 
@@ -48,6 +48,7 @@ raḥil 'ewe', Hebrew rāḥēl and the name Rachel, on a roundel without a logo
 |---|---|
 | Hebrew | rāḥēl 'ewe'; Rāḥēl, PN, Gen 29:6 (HALOT 1216) |
 | Akkadian | laḫru 'ewe, full-grown female sheep', with metathesis (CAD L 42) |
+| Ugaritic | lḥr, a personal name (DULAT 493); syllabic laḫr 'ewe' in names (GlOS 2, 161) |
 | Arabic | riḫl, raḫil 'ewe-lamb' (Lane 1059) |
 
 ## Attestations

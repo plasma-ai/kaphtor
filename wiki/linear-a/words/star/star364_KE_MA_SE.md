@@ -61,7 +61,13 @@ di Mino; Gelb 1980; DULAT; Streit 2017; Ferrara, Montecchi & Valério 2022
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA15a\|ZA15a]] | Zakros | Tablet | none |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA15a\|ZA15a]] | Zakros | Tablet | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA15a\|ZA15a]] | Šakma-se | the one of Šakmu (Shechem) (gentilic in -SE on the toponym) | SPECULATIVE |
 
 ## Onomasticon
 

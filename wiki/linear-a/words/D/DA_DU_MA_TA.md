@@ -41,19 +41,20 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 95a .1 DA-DU-MA-TA · GRA, heading the grain list DA-ME 10, MI-NU-TE 10, SA-RU 20, KU-NI-SU 10, DI-DE-RU 10, QE-RA₂-U 7; HT 95b gives the same list under A-DU ·. A band of lost surface between MA and TA is wider than the other gaps but holds no sign position. dadmatu 'settlement(s)', feminine of \*damdam- 'inhabited land': Akkadian dadmū 'the inhabited world (settlements and inhabitants)' (CAD D 18), Amorite dadmum and fem. dadmītum (Gelb 1980, 17), the Mari name Da-ad-mi-tum (Gelb 1980, no. 1394), Old Syrian dadm 'totality; country' (GlOS 1, 141); cf. Punic ʾdmt 'land' (KAI 145.3; DNWSI 14–15). Woudhuizen (2016, 226–227) reads the same word but takes it as 'goddesses of the dwellings'. The U of DU echoes no vowel of the word. Rivals: dādu-mātu 'beloved land' (√d-w-d + Akk. mātu), though both languages put the head noun first (māt dādi); Hadad-mattān 'gift of Hadad', parallel to A-DU on side b, with Ha- lost and final -n unwritten. One attestation.
+HT 95a .1 DA-DU-MA-TA · GRA, heading the grain list DA-ME 10, MI-NU-TE 10, SA-RU 20, KU-NI-SU 10, DI-DE-RU 10, QE-RA₂-U 7; HT 95b gives the same list under A-DU · adû 'work assignment, ration'. A band of lost surface between MA and TA is wider than the other gaps but holds no sign position. dadmatu 'settlement(s)', feminine of \*damdam- 'inhabited land': Akkadian dadmū 'the inhabited world (settlements and inhabitants)' (CAD D 18), Amorite dadmum and fem. dadmītum (Gelb 1980, 17), the Mari name Da-ad-mi-tum (Gelb 1980, no. 1394), Old Syrian dadm 'totality; country' (GlOS 1, 141), the Ugaritic place name ddm 'settlement' (Watson 2001, 114), restored at KTU 1.148:43 beside syllabic da-ad-me-ma (DULAT 263); cf. Punic ʾdmt 'land' (KAI 145.3; DNWSI 14–15). Woudhuizen (2016, 226–227) reads the same word but takes it as 'goddesses of the dwellings'. The U of DU echoes no vowel of the word. Rivals: dādu-mātu 'beloved land' (√d-w-d + Akk. mātu), though both languages put the head noun first (māt dādi); Hadad-mattān 'gift of Hadad', parallel to A-DU on side b, with Ha- lost and final -n unwritten. One attestation.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Akkadian | dadmū pl. tant. 'the inhabited world (settlements and inhabitants)' (CAD D 18) |
+| Ugaritic | ddm, a place, 'settlement', Akk. dadmû, Aleppo; gentilic ddmy, KTU 1.40 (Watson 2001, 114 and n. 63) |
 | Amorite | dadmum, fem. dadmītum (Gelb 1980, 17); PN Da-ad-mi-tum (Gelb 1980, no. 1394) |
 | Phoenician | Punic ʔdmt 'land, country' |
 
 ### Source
 
-di Mino; CAD D; Gelb 1980; GlOS 1; DNWSI; Woudhuizen 2016
+di Mino; CAD D; Gelb 1980; GlOS 1; DNWSI; Woudhuizen 2016; Watson 2001; DULAT
 
 ## Attestations
 

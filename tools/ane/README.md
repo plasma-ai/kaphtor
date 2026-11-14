@@ -6,7 +6,7 @@ The remote clients fetch one bounded page per call, cache it, and send a project
 | Script | Purpose | Source |
 |---|---|---|
 | `ane_keys.py` | Query notation: parses a typed root or form and spells it in each view's stored notation; folds Greek forms to the keys of the Pre-Greek lexicon's index, and builds that index | — |
-| `aneq.py` | DuckDB queries over the local corpora: Egyptian documents, the Akkadian glossary and the other views as their data is added; `stats` lists what is present | local |
+| `aneq.py` | DuckDB queries over the local corpora: Egyptian documents, the Akkadian glossary, the ORACC editions of Ugarit and Amarna (`cuneiform`, by find number, with `--translation`), Al-Jallad's DIANA, Safaitic and Taymanitic (`diana`, `--volume 2`) and the other views as their data is added; `stats` lists what is present | local |
 | `etymon.py` | A root dossier: the root's reconstruction, Linear A words and names, and its reflexes in each local corpus; `--out DIR` or `--stdout` | local |
 | `name_elements.py` | Splits a name into the elements of a name-element table given with `--table` | local |
 | `query_deaps.py` | One DEAPS search page or textual-object record | remote |
@@ -16,7 +16,8 @@ The remote clients fetch one bounded page per call, cache it, and send a project
 | `query_idai_gazetteer.py` | Bounded, cached lookup in the public iDAI.gazetteer API | remote |
 | `query_place_authorities.py` | Pleiades and Trismegistos place records (iDAI records are not shipped) | local |
 | `query_portal_common.py` | Shared safeguards for the remote clients | — |
-| `query_proper_names.py` | ORACC, PNM, Prosopographia Memphitica, TLA v18, Gauthier DNG and Kassite concordance proper-name layers | local |
+| `query_palmyra.py` | Palmyra lookups: `sigla`, an inscription's PAT, IGLS, CIS and RES numbers as Public Inscriptions from Palmyra gives them; `element`, the dataset's personal names that hold one of thirteen divine names | local |
+| `query_proper_names.py` | ORACC (`oracc-levant`: the shipped Ugarit and Amarna names), PNM, Prosopographia Memphitica, TLA v18, Gauthier DNG, Kassite concordance, Palmyra public-inscription (`palmyra-public`), Hatra (`hatra-marcato`, Marcato 2018) and Taymanitic (`taymanitic`, DIANA II, Al-Jallad 2026b) proper-name layers | local |
 | `query_rsti.py` | One public RSTI/OCHRE UUID response | remote |
 
 Each remote client caches its responses under the user cache, `$XDG_CACHE_HOME/kaphtor/<portal>/` (else

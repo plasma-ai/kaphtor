@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ś
 desc: "Semitic roots whose first radical is ś."
 created: 2026-10-22T17:38:31Z
-updated: 2026-11-06T03:06:34Z
+updated: 2026-11-16T17:25:52Z
 ---
 
 # wiki/semitic-roots/ś
@@ -55,7 +55,7 @@ updated: 2026-11-06T03:06:34Z
 
 [[wiki/semitic-roots/ś/1406_wish|1406_wish]]: Proto-Semitic *ŝVyaʾ-, 'wish': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/ś/1407_sun_1_sun_heat_2|1407_sun_1_sun_heat_2]]: Proto-Semitic *ŝam(ŝam)-, 'sun' 1, 'sun-heat' 2: reflexes in 15 language(s).
+[[wiki/semitic-roots/ś/1407_sun_1_sun_heat_2|1407_sun_1_sun_heat_2]]: Proto-Semitic *ŝam(ŝam)-, 'sun' 1, 'sun-heat' 2: reflexes in 16 language(s).
 
 [[wiki/semitic-roots/ś/1409_storm|1409_storm]]: Proto-Semitic *ŝib-, 'storm': reflexes in 1 language(s).
 
@@ -213,7 +213,7 @@ updated: 2026-11-06T03:06:34Z
 
 [[wiki/semitic-roots/ś/3972_to_forbid_prohibit|3972_to_forbid_prohibit]]: Proto-Semitic *ŝṣṣ, 'to forbid, prohibit': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/ś/3991_be_high_inaccessible_1_make_high_protect_2|3991_be_high_inaccessible_1_make_high_protect_2]]: Proto-Semitic *ŝgb, 'be high, inaccessible' 1, 'make high, protect' 2: reflexes in 3 language(s).
+[[wiki/semitic-roots/ś/3991_be_high_inaccessible_1_make_high_protect_2|3991_be_high_inaccessible_1_make_high_protect_2]]: Proto-Semitic *ŝgb, 'be high, inaccessible' 1, 'make high, protect' 2: reflexes in 4 language(s).
 
 [[wiki/semitic-roots/ś/3992_to_swim_1_to_bathe_wash_2|3992_to_swim_1_to_bathe_wash_2]]: Proto-Semitic *ŝḥy, 'to swim' 1, 'to bathe, wash' 2: reflexes in 5 language(s).
 

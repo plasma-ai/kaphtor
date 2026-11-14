@@ -61,12 +61,12 @@ di Mino; Kamm 1963; Uchitel 2016b
 | [[wiki/linear-a/inscriptions/HT/HT/HT110a\|HT110a]] | Haghia Triada | Tablet | incomplete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HT/HT112b\|HT112b]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT12\|HT12]] | Haghia Triada | Tablet | incomplete; form not in transliteration |
-| [[wiki/linear-a/inscriptions/HT/HT/HT130\|HT130]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT130\|HT130]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT23a\|HT23a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT23b\|HT23b]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT27a\|HT27a]] | Haghia Triada | Tablet | incomplete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT30\|HT30]] | Haghia Triada | Tablet | none |
-| [[wiki/linear-a/inscriptions/HT/HT/HT35\|HT35]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT30\|HT30]] | Haghia Triada | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/HT/HT/HT35\|HT35]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT89\|HT89]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT94a\|HT94a]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT99a\|HT99a]] | Haghia Triada | Tablet | complete |
@@ -80,16 +80,16 @@ di Mino; Kamm 1963; Uchitel 2016b
 | [[wiki/linear-a/inscriptions/KH/KH/KH103\|KH103]] | Khania | Tablet | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/KH/KH/KH11\|KH11]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH12\|KH12]] | Khania | Tablet | none |
-| [[wiki/linear-a/inscriptions/KH/KH/KH13\|KH13]] | Khania | Tablet | none; form not in transliteration |
-| [[wiki/linear-a/inscriptions/KH/KH/KH14\|KH14]] | Khania | Tablet | none |
+| [[wiki/linear-a/inscriptions/KH/KH/KH13\|KH13]] | Khania | Tablet | incomplete; form not in transliteration |
+| [[wiki/linear-a/inscriptions/KH/KH/KH14\|KH14]] | Khania | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/KH/KH/KH15\|KH15]] | Khania | Tablet | complete |
 | [[wiki/linear-a/inscriptions/KH/KH/KH16\|KH16]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH2\|KH2]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH20\|KH20]] | Khania | Tablet | incomplete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/KH/KH/KH21\|KH21]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH22\|KH22]] | Khania | Tablet | none |
-| [[wiki/linear-a/inscriptions/KH/KH/KH23\|KH23]] | Khania | Tablet | none |
-| [[wiki/linear-a/inscriptions/KH/KH/KH29\|KH29]] | Khania | Tablet | none |
+| [[wiki/linear-a/inscriptions/KH/KH/KH23\|KH23]] | Khania | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/KH/KH/KH29\|KH29]] | Khania | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/KH/KH/KH33\|KH33]] | Khania | Tablet | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/KH/KH/KH34\|KH34]] | Khania | Tablet | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/KH/KH/KH35\|KH35]] | Khania | Tablet | none |
@@ -111,7 +111,7 @@ di Mino; Kamm 1963; Uchitel 2016b
 | [[wiki/linear-a/inscriptions/KH/KH/KH84\|KH84]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH85\|KH85]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH86\|KH86]] | Khania | Tablet | none |
-| [[wiki/linear-a/inscriptions/KH/KH/KH9\|KH9]] | Khania | Tablet | none |
+| [[wiki/linear-a/inscriptions/KH/KH/KH9\|KH9]] | Khania | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/PH/PH/PH1a\|PH1a]] | Phaistos | Tablet | none |
 
 ## In translations
@@ -121,11 +121,18 @@ di Mino; Kamm 1963; Uchitel 2016b
 | [[wiki/linear-a/inscriptions/HT/HT/HT23a\|HT23a]] | (logogram) | cyperus, aromatic sedge | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT23b\|HT23b]] |  | cyperus | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT27a\|HT27a]] |  | cyperus | PROBABLE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT30\|HT30]] |  | cyperus, aromatic sedge (commodity logogram) | PROBABLE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT35\|HT35]] |  | cyperus, aromatic sedge (commodity logogram) | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT99a\|HT99a]] | \[ideogram\] | cyperus, aromatic sedge |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT100\|HT100]] | \[ideogram\] | cyperus, aromatic sedge |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT106\|HT106]] | CYP | cyperus (commodity logogram) |  |
+| [[wiki/linear-a/inscriptions/HT/HT/HT130\|HT130]] |  | cyperus, aromatic sedge (commodity logogram) | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3015\|HTWc3015]] | (logogram) | cyperus, aromatic sedge (commodity logogram) | PROBABLE |
 | [[wiki/linear-a/inscriptions/KH/KH/KH6\|KH6]] |  | cyperus, 2 with a fraction | PROBABLE |
+| [[wiki/linear-a/inscriptions/KH/KH/KH9\|KH9]] |  | cyperus, aromatic sedge (commodity logogram) | PROBABLE |
+| [[wiki/linear-a/inscriptions/KH/KH/KH14\|KH14]] |  | cyperus, aromatic sedge (commodity logogram) | PROBABLE |
 | [[wiki/linear-a/inscriptions/KH/KH/KH15\|KH15]] | (logogram) | cyperus, aromatic sedge | PROBABLE |
+| [[wiki/linear-a/inscriptions/KH/KH/KH23\|KH23]] |  | cyperus, aromatic sedge (commodity logogram) | PROBABLE |
+| [[wiki/linear-a/inscriptions/KH/KH/KH29\|KH29]] |  | cyperus, aromatic sedge (commodity logogram) | PROBABLE |
 
 <!-- END kaphtor:record -->

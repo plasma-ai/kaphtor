@@ -49,6 +49,7 @@ Two damaged witnesses give the group in full. PK Za 8 (GORILA IV 24–26) secure
 |---|---|
 | Hebrew | tōm 'integrity, completeness'; bətummî 'in my integrity', Ps 26:1 (HALOT 1743) |
 | Ugaritic | tm 'complete, full' (DULAT 858) |
+| Arabic | tmm 'to be complete, accomplished' (Lane 315) |
 
 ### Source
 

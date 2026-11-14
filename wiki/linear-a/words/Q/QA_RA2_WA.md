@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/words/Q/QA_RA2_WA
 title: "QA-RA₂-WA"
-desc: "qalwa: parched (roasted) grain; rival Ugaritic qrwn 'offering'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "commodity", "foodstuff", "grain", "hapax", "noun"]
+desc: "qalwa: parched (roasted) grain; rival Ugaritic qrwn 'offering'. Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "commodity", "foodstuff", "grain", "hapax", "noun"]
 kind: "word"
 form: "QA-RA₂-WA"
 datasets: ["lexicon"]
-tier: 1
-confidence: "SPECULATIVE"
-confidence_score: 0.3
+tier: 2
+confidence: "CANDIDATE"
+confidence_score: 0.4
 reading: "qalwa"
 attestations: ["HT86a"]
 created: 2026-10-24T16:17:50Z
@@ -27,7 +27,7 @@ updated: 2026-10-24T16:17:50Z
 
 ## Lexicon
 
-**SPECULATIVE**, tier 1 of 4, score 0.30
+**CANDIDATE**, tier 2 of 4, score 0.40
 
 | Field | Value |
 |---|---|
@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 86a, intact: QA-RA₂-WA 10, where HT 95a/b write QE-RA₂-U (qelwu 'parched grain') in the same set (KU-NI-SU, SA-RU, DI-DE-RU, DA-ME, MI-NU-TE). With RA₂ = /la/, √q-l-w 'roast': Geʿez qalawa, Heb. qālî (Lev 23:14; Ruth 2:14), Aram. qəlā. Rival: Ugaritic qrwn 'offering' (DULAT 703; KTU 1.127:10–11), with RA₂ = /ra/ and final n unwritten. Cf. LB qa-ra₂-wo, a personal name (KN Ce 50; DMic II). One attestation.
+HT 86a, intact: QA-RA₂-WA 10 closes the set KU-NI-SU, SA-RU, DI-DE-RU under A-KA-RU, the place QE-RA₂-U qelwu 'parched grain' holds after DI-DE-RU on HT 95a and HT 95b: one word in two spellings. With RA₂ = /la/, √q-l-w 'roast': Geʿez qalawa, Heb. qālî (Lev 23:14; Ruth 2:14), Aram. qəlā. Rival: Ugaritic qrwn 'offering', with RA₂ = /ra/ and final n unwritten. It stands on one line, KTU 1.127:11 (DULAT 703), which Watson lists with the personal name qrwn, a spelling of krwn (Watson 1993, 221 n. 97). Cf. LB qa-ra₂-wo, a personal name (KN Ce 50; DMic II). One attestation.
 
 ### Cognates
 
@@ -53,7 +53,7 @@ HT 86a, intact: QA-RA₂-WA 10, where HT 95a/b write QE-RA₂-U (qelwu 'parched 
 
 ### Source
 
-di Mino
+di Mino; DULAT; Watson 1993
 
 ## Attestations
 
@@ -65,6 +65,6 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT86a\|HT86a]] | qalwa | parched grain | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT86a\|HT86a]] | qalwa | parched grain | CANDIDATE |
 
 <!-- END kaphtor:record -->

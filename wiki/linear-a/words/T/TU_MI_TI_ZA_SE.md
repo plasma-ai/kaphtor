@@ -49,6 +49,7 @@ ZA 14 .3–4 TU-MI-TI-ZA-SE 45\[ \], the largest share on a list of names, wheat
 |---|---|
 | Ugaritic | tmtḫṣ n. m. 'fight' (&lt; m-ḫ-ṣ); tmtt n. f. 'group of men, team, crew', rival (DULAT 859) |
 | Akkadian | mitḫuṣu 'fight, combat, clash of weapons', ana mitḫuṣi 'for battle' (KBo 1 1:41) (CAD M/2 138) |
+| Eblaite | ma-ḫa-zi /maḫāḍi/ 'to strike' (VE 531a; Krebernik 1983, 20) |
 
 ### Source
 

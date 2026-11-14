@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/p
 desc: "Semitic roots whose first radical is p."
 created: 2026-10-22T17:38:31Z
-updated: 2026-11-10T05:25:35Z
+updated: 2026-11-16T17:25:52Z
 ---
 
 # wiki/semitic-roots/p
@@ -361,7 +361,7 @@ updated: 2026-11-10T05:25:35Z
 
 [[wiki/semitic-roots/p/375_pure_gold|375_pure_gold]]: Proto-Semitic *piḏḏ-, 'pure gold': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/p/3796_and_then_and_so_coordinating_conjunction|3796_and_then_and_so_coordinating_conjunction]]: Proto-Semitic *pa, 'and then, and so' (coordinating conjunction): reflexes in 3 language(s).
+[[wiki/semitic-roots/p/3796_and_then_and_so_coordinating_conjunction|3796_and_then_and_so_coordinating_conjunction]]: Proto-Semitic *pa, 'and then, and so' (coordinating conjunction): reflexes in 4 language(s).
 
 [[wiki/semitic-roots/p/384_axe|384_axe]]: Proto-Semitic *paʾs-, 'axe': reflexes in 9 language(s).
 

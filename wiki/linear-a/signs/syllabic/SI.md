@@ -63,10 +63,10 @@ No CH ancestor—Linear A innovation, possibly from MM scorpion motif (Ferrara e
 | [[wiki/linear-a/words/J/JA_KI_SI_KI_NU\|JA-KI-SI-KI-NU]] | yaksīkin | CANDIDATE |
 | [[wiki/linear-a/words/J/JA_SI\|JA-SI]] | yašīʿ | CANDIDATE |
 | [[wiki/linear-a/words/J/JA_SI_E\|JA-SI-E]] | yašīʿ-ē | CANDIDATE |
-| [[wiki/linear-a/words/K/KA_star314_SI\|KA-\*314-SI]] | Kaḥas | SPECULATIVE |
+| [[wiki/linear-a/words/K/KA_star314_SI\|KA-\*314-SI]] | kaḥsi | CANDIDATE |
 | [[wiki/linear-a/words/K/KI_RI_SI\|KI-RI-SI]] | Kiriš | SPECULATIVE |
 | [[wiki/linear-a/words/M/MA_SI_DU\|MA-SI-DU]] | maṣīdu | SPECULATIVE |
-| [[wiki/linear-a/words/N/NA_SI\|NA-SI]] | nasīʾ | SPECULATIVE |
+| [[wiki/linear-a/words/N/NA_SI\|NA-SI]] | naśīʾ | SPECULATIVE |
 | [[wiki/linear-a/words/O/O_KA_MI_ZA_SI_I_NA\|O-KA-MI-ZA-SI-I-NA]] | Ukammis-Sîn | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA3_SI_star47\|PA₃-SI-\*47]] | basīsa | CANDIDATE |
 | [[wiki/linear-a/words/P/PI_TA_KE_SI\|PI-TA-KE-SI]] | Bīt-kissi | SPECULATIVE |
@@ -81,7 +81,7 @@ No CH ancestor—Linear A innovation, possibly from MM scorpion motif (Ferrara e
 | [[wiki/linear-a/words/S/SI_DA_RO\|SI-DA-RO]] | siddāru | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_DA_TE\|SI-DA-TE]] | ṣēdat | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_DI_star301\|SI-DI-\*301]] | Ṣidna | SPECULATIVE |
-| [[wiki/linear-a/words/S/SI_DI_JA\|SI-DI-JA]] | Šadiya | PROBABLE |
+| [[wiki/linear-a/words/S/SI_DI_JA\|SI-DI-JA]] | Šidiya | PROBABLE |
 | [[wiki/linear-a/words/S/SI_DU_QI_KU_MI\|SI-DU-QI-KU-MI]] | Ṣiduqi-kummi | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_JA_SE\|SI-JA-SE]] | šī-yāṣē | CANDIDATE |
 | [[wiki/linear-a/words/S/SI_KA\|SI-KA]] | šikā | CANDIDATE |

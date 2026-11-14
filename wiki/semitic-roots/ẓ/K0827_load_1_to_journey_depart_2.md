@@ -46,7 +46,7 @@ updated: 2026-10-27T22:12:55Z
 | East Ethiopic | Sel. Zwy. ṭānä, Wol. ṭanä (EDG 182 apud SEDonline 2019) | EDG 182; SEDonline 2019 | gloss withheld |
 | Eblaitic | zi-a-núm /ṣiʕānum/ (VE 1320, Kogan–Krebernik 2021b: 688 apud SEDonline 2019) | VE 1320, Kogan–Krebernik 2021b: 688; SEDonline 2019 | gloss withheld |
 | Epigraphic South Arabian | Sab ẓʿnw 2 (Biella 227); ẓʿn 2 (Sabaweb lemma 2418) | Biella 227; Sabaweb lemma 2418 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ẓʿn 2 (Al-Jallad 2026, 176) | Al-Jallad 2026 176 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ẓʿn 2 (Al-Jallad 2026, 176); Taymanitic ṣʿn 2 (Al-Jallad 2026b, 59) | Al-Jallad 2026 176; Al-Jallad 2026b 59 | gloss withheld |
 | Aramaic | ṭʕwn 1 (DNWSI 428) | DNWSI 428 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

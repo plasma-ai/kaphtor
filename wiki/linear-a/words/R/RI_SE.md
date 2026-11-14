@@ -41,7 +41,7 @@ updated: 2026-11-08T17:23:01Z
 
 ### Note
 
-KN Zf 13, signs 12–13, RI dotted. rēš- with the 1cs suffix -ī written with an E-series sign, as I-JA-TE ʾiyyate; RI-SU-MA rīšum(a) is the bare noun. Object before its verb: rēšī tarīmu 'you lift up my head', the idiom of Ps 3:4. Rival: SE-TE-RI-MU, Amorite sitrum 'protection', leaving RI alone. Weak point: the vowel is Akkadian rēšu's; Canaanite rōʾš and Ugaritic raʾš- keep \*a. One attestation.
+KN Zf 13, signs 12–13, RI dotted. rēš- with the 1cs suffix -ī written with an E-series sign, as I-JA-TE ʾiyyate; RI-SU-MA rīšum(a) is the bare noun. Object before its verb: rēšī tarīmu 'you lift up my head', the idiom of Ps 3:4. Rival: SE-TE-RI-MU, Amorite sitrum 'protection', leaving RI alone. The vowel is that of Ugaritic rỉš, Ebla rí-še₆ and Syriac rīšā (DULAT 713; GlOS 2, 149), and of Eteocypriot re-še 'chief' in da-we-da-re-še (Gordon 1966, n. 10); Canaanite rōš is the other form (ru-šu-nu, EA 264:18). One attestation.
 
 ### Cognates
 
@@ -50,11 +50,13 @@ KN Zf 13, signs 12–13, RI dotted. rēš- with the 1cs suffix -ī written with 
 | Hebrew | rōʾš; ûmērîm rōʾšî 'and who lifts up my head', hif. 'confer honour upon' (Ps 3:4; HALOT 1202–1204) |
 | Ugaritic | rỉš 'head'; nšu rỉš 'raise the head', of gods and farmhands (KTU 1.2 I 27, 29; 1.16 III 12; DULAT 713f.) |
 | Akkadian | rēšu 'head'; rēša našû 'to honor, to exalt': ilum rēš awīlim inašši 'the god will give honors to the man' (RA 44 23:6; CAD N/2 108) |
-| Amarna (Sidon) | yi-ša-qi₂ SAG-ia 'my head was raised', Zimredda of Sidon to the king (EA 144:16) |
+| Amarna | yi-ša-qi₂ SAG-ia 'my head was raised', Zimredda of Sidon to the king (EA 144:16) |
+| Eblaite | rí-še₆, in SAG.KI.TÚM = rí-še₆ KI.TÚM, under rīš, riʾš 'head, chief' (GlOS 2, 149) |
+| Syriac | rīšā 'head' (DULAT 713) |
 
 ### Source
 
-di Mino; HALOT; DULAT; CAD N/2
+di Mino; HALOT; DULAT; CAD N/2; GlOS 2; Gordon 1966
 
 ## Attestations
 

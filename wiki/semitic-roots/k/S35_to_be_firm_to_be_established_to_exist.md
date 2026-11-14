@@ -44,7 +44,7 @@ updated: 2026-10-22T17:38:31Z
 | Argobba | hona (LGz. 300) | LGz. 300 |  |
 | Harari | xāna (LGz. 300) | LGz. 300 |  |
 | Syrian Aramaic | kān 'be, exist; happen, occur' (Payne Smith 209); kīn 'upright, right, just'; kīnūtā 'justice, righteousness' (Payne Smith 202) | Payne Smith 209; Payne Smith 202 |  |
-| Pre-Islamic North Arabian | Safaitic mykn (Al-Jallad–Jaworska 101); kyn; kʾn (Al-Jallad 2026, 84) | Al-Jallad–Jaworska 101; Al-Jallad 2026 84 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic mykn (Al-Jallad–Jaworska 101); kyn; kʾn (Al-Jallad 2026, 84); Taymanitic knbʿm (Al-Jallad 2026b, 75) | Al-Jallad–Jaworska 101; Al-Jallad 2026 84; Al-Jallad 2026b 75 | gloss withheld |
 | Canaanite | kuna (HALOT 464) | HALOT 464 |  |
 | Jibbali | kun (Kogan 2015, ch. 2 §4.2 no. 30) | Kogan 2015 ch. 2 §4.2 no. 30 | gloss withheld |
 | Soqotri | kɔn (Kogan 2015, ch. 2 §4.2 no. 30) | Kogan 2015 ch. 2 §4.2 no. 30 | gloss withheld |

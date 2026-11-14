@@ -1,0 +1,10305 @@
+{
+ "schema_version": 1,
+ "description": "For each Linear A sign SigLA traces, up to eight of its tracings, by SigLA document and sign position: the site where the sign is most often traced first, nearest the sign's standard form first. An index to SigLA's pages; it holds no image.",
+ "compiled_by": "di Mino",
+ "source": "SigLA (sigla.phis.me), CC BY-NC-SA 4.0",
+ "rule": "Of the tracings SigLA reads with certainty, erased signs left out: the unworn ones of the home site first, those used as a syllable before other uses, by rising distance; then unworn ones of other sites likewise; then worn ones. The home site is the site with the most unworn tracings of the sign as a syllable, or of the sign in any use where it is never a syllable. A tracing is worn where SigLA draws damage dots on it. Distance is the chamfer distance between one-pixel skeletons, scaled into a 64-pixel box, of the tracing without its dots and of the sign as Noto Sans Linear A draws it.",
+ "per_sign": 8,
+ "signs": {
+  "A301": {
+   "tracings": 47,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 98a",
+     "position": 16,
+     "site": "Haghia Triada",
+     "distance": 3.9
+    },
+    {
+     "document": "HT Wa 1029α",
+     "position": 1,
+     "site": "Haghia Triada",
+     "distance": 4.08
+    },
+    {
+     "document": "HT 8a",
+     "position": 12,
+     "site": "Haghia Triada",
+     "distance": 4.65
+    },
+    {
+     "document": "HT Wa 1805",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.42
+    },
+    {
+     "document": "HT Wa 1793",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.76
+    },
+    {
+     "document": "HT Wa 1625",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.94
+    },
+    {
+     "document": "HT Wa 1624",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.97
+    },
+    {
+     "document": "HT Wa 1816",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.44
+    }
+   ]
+  },
+  "A303": {
+   "tracings": 49,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 30",
+     "position": 22,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.44
+    },
+    {
+     "document": "HT 30",
+     "position": 4,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.76
+    },
+    {
+     "document": "HT 94a",
+     "position": 18,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.02
+    },
+    {
+     "document": "HT 112b",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.27
+    },
+    {
+     "document": "HT 35",
+     "position": 8,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.28
+    },
+    {
+     "document": "HT 23b",
+     "position": 3,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.55
+    },
+    {
+     "document": "HT 23a",
+     "position": 3,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.63
+    },
+    {
+     "document": "HT 130",
+     "position": 4,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.84
+    }
+   ]
+  },
+  "A304": {
+   "tracings": 25,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 12",
+     "position": 6,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 1.62
+    },
+    {
+     "document": "HT 18",
+     "position": 5,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 1.8
+    },
+    {
+     "document": "HT 21",
+     "position": 11,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.15
+    },
+    {
+     "document": "HT 131a",
+     "position": 9,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.23
+    },
+    {
+     "document": "HT 41a",
+     "position": 4,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.35
+    },
+    {
+     "document": "HT 116b",
+     "position": 4,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.36
+    },
+    {
+     "document": "HT 129",
+     "position": 7,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.36
+    },
+    {
+     "document": "HT 116a",
+     "position": 34,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.78
+    }
+   ]
+  },
+  "A305": {
+   "tracings": 19,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 9b",
+     "position": 7,
+     "site": "Haghia Triada",
+     "distance": 3.19
+    },
+    {
+     "document": "HT 146",
+     "position": 3,
+     "site": "Haghia Triada",
+     "distance": 3.32
+    },
+    {
+     "document": "HT 10a",
+     "position": 19,
+     "site": "Haghia Triada",
+     "distance": 3.4
+    },
+    {
+     "document": "HT 45a",
+     "position": 4,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.09
+    },
+    {
+     "document": "HT 33",
+     "position": 15,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.05
+    },
+    {
+     "document": "HT 45a",
+     "position": 6,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.41
+    },
+    {
+     "document": "HT 89",
+     "position": 5,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.49
+    },
+    {
+     "document": "HT 100",
+     "position": 5,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.66
+    }
+   ]
+  },
+  "A306": {
+   "tracings": 18,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 9b",
+     "position": 12,
+     "site": "Haghia Triada",
+     "distance": 4.81
+    },
+    {
+     "document": "HT 9a",
+     "position": 9,
+     "site": "Haghia Triada",
+     "distance": 4.95
+    },
+    {
+     "document": "HT 94a",
+     "position": 17,
+     "site": "Haghia Triada",
+     "distance": 5.1
+    },
+    {
+     "document": "HT 122b",
+     "position": 5,
+     "site": "Haghia Triada",
+     "distance": 5.15
+    },
+    {
+     "document": "HT Wc 3017a",
+     "position": 5,
+     "site": "Haghia Triada",
+     "distance": 5.8
+    },
+    {
+     "document": "HT 122a",
+     "position": 34,
+     "site": "Haghia Triada",
+     "distance": 5.83
+    },
+    {
+     "document": "HT 119",
+     "position": 15,
+     "site": "Haghia Triada",
+     "distance": 6.77
+    },
+    {
+     "document": "HT 115b",
+     "position": 23,
+     "site": "Haghia Triada",
+     "distance": 7.32
+    }
+   ]
+  },
+  "A307": {
+   "tracings": 5,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 89",
+     "position": 4,
+     "site": "Haghia Triada",
+     "use": "transaction sign",
+     "distance": 3.05
+    },
+    {
+     "document": "HT 27a",
+     "position": 4,
+     "site": "Haghia Triada",
+     "use": "transaction sign",
+     "distance": 3.42
+    },
+    {
+     "document": "HT 127b",
+     "position": 4,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.93
+    },
+    {
+     "document": "HT 5",
+     "position": 1,
+     "site": "Haghia Triada",
+     "dots": 15
+    },
+    {
+     "document": "HT 32",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "transaction sign",
+     "dots": 31
+    }
+   ]
+  },
+  "A308": {
+   "tracings": 13,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 123a",
+     "position": 5,
+     "site": "Haghia Triada",
+     "distance": 6.76
+    },
+    {
+     "document": "HT 23a",
+     "position": 5,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 4.77
+    },
+    {
+     "document": "HT 35",
+     "position": 13,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 5.96
+    },
+    {
+     "document": "HT 123a",
+     "position": 34,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 6.04
+    },
+    {
+     "document": "HT 123a",
+     "position": 15,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 6.28
+    },
+    {
+     "document": "HT 32",
+     "position": 4,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 6.32
+    },
+    {
+     "document": "HT 123a",
+     "position": 46,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 6.97
+    },
+    {
+     "document": "HT 123a",
+     "position": 25,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 6.98
+    }
+   ]
+  },
+  "A309A": {
+   "tracings": 5,
+   "site": "Tylissos",
+   "attestations": [
+    {
+     "document": "TY 2",
+     "position": 20,
+     "site": "Tylissos"
+    },
+    {
+     "document": "TY 2",
+     "position": 23,
+     "site": "Tylissos"
+    },
+    {
+     "document": "TY 2",
+     "position": 12,
+     "site": "Tylissos",
+     "dots": 13
+    },
+    {
+     "document": "TY 2",
+     "position": 6,
+     "site": "Tylissos",
+     "dots": 15
+    },
+    {
+     "document": "TY 2",
+     "position": 26,
+     "site": "Tylissos",
+     "dots": 26
+    }
+   ]
+  },
+  "A309B": {
+   "tracings": 5,
+   "site": null,
+   "attestations": [
+    {
+     "document": "TY 2",
+     "position": 8,
+     "site": "Tylissos",
+     "dots": 5
+    },
+    {
+     "document": "TY 2",
+     "position": 47,
+     "site": "Tylissos",
+     "dots": 10
+    },
+    {
+     "document": "TY 2",
+     "position": 43,
+     "site": "Tylissos",
+     "dots": 19
+    },
+    {
+     "document": "TY 2",
+     "position": 38,
+     "site": "Tylissos",
+     "dots": 22
+    },
+    {
+     "document": "TY 2",
+     "position": 1,
+     "site": "Tylissos",
+     "dots": 24
+    }
+   ]
+  },
+  "A309C": {
+   "tracings": 2,
+   "site": null,
+   "attestations": [
+    {
+     "document": "TY 2",
+     "position": 34,
+     "site": "Tylissos",
+     "dots": 7
+    },
+    {
+     "document": "TY 2",
+     "position": 29,
+     "site": "Tylissos",
+     "dots": 9
+    }
+   ]
+  },
+  "A310": {
+   "tracings": 9,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 98a",
+     "position": 24,
+     "site": "Haghia Triada",
+     "distance": 3.07
+    },
+    {
+     "document": "HT 8b",
+     "position": 7,
+     "site": "Haghia Triada",
+     "distance": 3.15
+    },
+    {
+     "document": "HT 8a",
+     "position": 14,
+     "site": "Haghia Triada",
+     "distance": 3.64
+    },
+    {
+     "document": "HT 85b",
+     "position": 31,
+     "site": "Haghia Triada",
+     "distance": 3.89
+    },
+    {
+     "document": "HT 122a",
+     "position": 14,
+     "site": "Haghia Triada",
+     "distance": 4.37
+    },
+    {
+     "document": "HT 37",
+     "position": 10,
+     "site": "Haghia Triada",
+     "distance": 5.18
+    },
+    {
+     "document": "HT 27a",
+     "position": 16,
+     "site": "Haghia Triada",
+     "dots": 15
+    },
+    {
+     "document": "ZA 11a",
+     "position": 22,
+     "site": "Zakros",
+     "dots": 7
+    }
+   ]
+  },
+  "A311": {
+   "tracings": 1,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH Wc 2047",
+     "position": 2,
+     "site": "Khania",
+     "distance": 3.73
+    }
+   ]
+  },
+  "A312": {
+   "tracings": 8,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 78",
+     "position": 2,
+     "site": "Haghia Triada",
+     "distance": 1.71
+    },
+    {
+     "document": "HT 10b",
+     "position": 11,
+     "site": "Haghia Triada",
+     "distance": 2.75
+    },
+    {
+     "document": "HT 26a",
+     "position": 2,
+     "site": "Haghia Triada",
+     "distance": 2.86
+    },
+    {
+     "document": "HT 49a",
+     "position": 22,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.44
+    },
+    {
+     "document": "HT 123b",
+     "position": 3,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 4.43
+    },
+    {
+     "document": "ZA 6b",
+     "position": 9,
+     "site": "Zakros",
+     "distance": 4.41
+    },
+    {
+     "document": "ARKH 3a",
+     "position": 11,
+     "site": "Arkhanes",
+     "use": "logogram",
+     "distance": 3.3
+    },
+    {
+     "document": "KH 8",
+     "position": 14,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 3.48
+    }
+   ]
+  },
+  "A313": {
+   "tracings": 2,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 89",
+     "position": 11,
+     "site": "Haghia Triada"
+    },
+    {
+     "document": "HT 94a",
+     "position": 7,
+     "site": "Haghia Triada"
+    }
+   ]
+  },
+  "A314": {
+   "tracings": 5,
+   "site": "Phaistos",
+   "attestations": [
+    {
+     "document": "PH Wc 38",
+     "position": 1,
+     "site": "Phaistos",
+     "distance": 3.71
+    },
+    {
+     "document": "PH 26",
+     "position": 2,
+     "site": "Phaistos",
+     "distance": 4.61
+    },
+    {
+     "document": "PH Wc 37a",
+     "position": 2,
+     "site": "Phaistos",
+     "distance": 4.98
+    },
+    {
+     "document": "ARKH 3b",
+     "position": 6,
+     "site": "Arkhanes",
+     "distance": 5.38
+    },
+    {
+     "document": "HT Wc 3006b",
+     "position": 2,
+     "site": "Haghia Triada",
+     "distance": 5.63
+    }
+   ]
+  },
+  "A315": {
+   "tracings": 1,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH 82",
+     "position": 3,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 8.03
+    }
+   ]
+  },
+  "A316": {
+   "tracings": 4,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH 91",
+     "position": 3,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 4.13
+    },
+    {
+     "document": "PH 8b",
+     "position": 1,
+     "site": "Phaistos",
+     "use": "logogram",
+     "distance": 4.12
+    },
+    {
+     "document": "PH 1a",
+     "position": 8,
+     "site": "Phaistos",
+     "use": "logogram",
+     "dots": 8
+    },
+    {
+     "document": "PH 1a",
+     "position": 5,
+     "site": "Phaistos",
+     "use": "logogram",
+     "dots": 16
+    }
+   ]
+  },
+  "A317": {
+   "tracings": 4,
+   "site": "Phaistos",
+   "attestations": [
+    {
+     "document": "PH 9a",
+     "position": 1,
+     "site": "Phaistos",
+     "distance": 5.14
+    },
+    {
+     "document": "ARKH 3a",
+     "position": 6,
+     "site": "Arkhanes",
+     "use": "logogram",
+     "distance": 3.08
+    },
+    {
+     "document": "ARKH 3a",
+     "position": 10,
+     "site": "Arkhanes",
+     "use": "logogram",
+     "distance": 3.6
+    },
+    {
+     "document": "HT 96a",
+     "position": 20,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 4.75
+    }
+   ]
+  },
+  "A318": {
+   "tracings": 4,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 94a",
+     "position": 16,
+     "site": "Haghia Triada",
+     "distance": 3.55
+    },
+    {
+     "document": "HT 45a",
+     "position": 5,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.5
+    },
+    {
+     "document": "HT 45b",
+     "position": 7,
+     "site": "Haghia Triada",
+     "use": "transaction sign?",
+     "distance": 2.99
+    },
+    {
+     "document": "HT 126a",
+     "position": 4,
+     "site": "Haghia Triada",
+     "use": "transaction sign",
+     "distance": 4.23
+    }
+   ]
+  },
+  "A319": {
+   "tracings": 5,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT Zd 155",
+     "position": 8,
+     "site": "Haghia Triada",
+     "distance": 2.09
+    },
+    {
+     "document": "HT Zd 157",
+     "position": 7,
+     "site": "Haghia Triada",
+     "distance": 2.49
+    },
+    {
+     "document": "HT 132",
+     "position": 3,
+     "site": "Haghia Triada",
+     "use": "transaction sign",
+     "distance": 0.83
+    },
+    {
+     "document": "HT Zd 156",
+     "position": 4,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 1.74
+    },
+    {
+     "document": "HT Zd 156",
+     "position": 6,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.61
+    }
+   ]
+  },
+  "A320": {
+   "tracings": 5,
+   "site": "Phaistos",
+   "attestations": [
+    {
+     "document": "PH Wc 40a",
+     "position": 2,
+     "site": "Phaistos",
+     "distance": 2.7
+    },
+    {
+     "document": "PH Wc 37b",
+     "position": 1,
+     "site": "Phaistos",
+     "use": "logogram",
+     "distance": 5.64
+    },
+    {
+     "document": "PH 16b",
+     "position": 5,
+     "site": "Phaistos",
+     "dots": 4
+    },
+    {
+     "document": "PH Wc 40a",
+     "position": 1,
+     "site": "Phaistos",
+     "dots": 7
+    },
+    {
+     "document": "PH 16a",
+     "position": 1,
+     "site": "Phaistos",
+     "dots": 33
+    }
+   ]
+  },
+  "A321": {
+   "tracings": 3,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 6a",
+     "position": 14,
+     "site": "Haghia Triada",
+     "distance": 4.51
+    },
+    {
+     "document": "TY 3a",
+     "position": 2,
+     "site": "Tylissos",
+     "distance": 2.32
+    },
+    {
+     "document": "ZA 18a",
+     "position": 5,
+     "site": "Zakros",
+     "distance": 3.16
+    }
+   ]
+  },
+  "A322": {
+   "tracings": 4,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 11a",
+     "position": 10,
+     "site": "Haghia Triada",
+     "distance": 6.15
+    },
+    {
+     "document": "KH Wc 2026",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 3.68
+    },
+    {
+     "document": "KH Wc 2098",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 3.79
+    },
+    {
+     "document": "KH Wc 2027",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 4.95
+    }
+   ]
+  },
+  "A323": {
+   "tracings": 4,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 31",
+     "position": 23,
+     "site": "Haghia Triada",
+     "distance": 2.72
+    },
+    {
+     "document": "HT 29",
+     "position": 14,
+     "site": "Haghia Triada",
+     "distance": 3.65
+    },
+    {
+     "document": "HT 96a",
+     "position": 19,
+     "site": "Haghia Triada",
+     "use": "transaction sign",
+     "distance": 3.02
+    },
+    {
+     "document": "HT 96a",
+     "position": 25,
+     "site": "Haghia Triada",
+     "use": "transaction sign",
+     "distance": 4.67
+    }
+   ]
+  },
+  "A324": {
+   "tracings": 3,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 9a",
+     "position": 16,
+     "site": "Haghia Triada",
+     "distance": 3.79
+    },
+    {
+     "document": "HT 122a",
+     "position": 23,
+     "site": "Haghia Triada",
+     "distance": 4.49
+    },
+    {
+     "document": "HT 9b",
+     "position": 14,
+     "site": "Haghia Triada",
+     "dots": 12
+    }
+   ]
+  },
+  "A325": {
+   "tracings": 4,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 85a",
+     "position": 11,
+     "site": "Haghia Triada",
+     "distance": 1.78
+    },
+    {
+     "document": "HT 10a",
+     "position": 16,
+     "site": "Haghia Triada",
+     "distance": 2.16
+    },
+    {
+     "document": "HT 10a",
+     "position": 11,
+     "site": "Haghia Triada",
+     "distance": 2.98
+    },
+    {
+     "document": "PE 2",
+     "position": 12,
+     "site": "Petras",
+     "dots": 22
+    }
+   ]
+  },
+  "A326": {
+   "tracings": 3,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 91",
+     "position": 3,
+     "site": "Haghia Triada",
+     "use": "transaction sign",
+     "distance": 1.46
+    },
+    {
+     "document": "HT 35",
+     "position": 4,
+     "site": "Haghia Triada",
+     "use": "transaction sign",
+     "distance": 2.06
+    },
+    {
+     "document": "HT 128a",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "transaction sign",
+     "distance": 2.39
+    }
+   ]
+  },
+  "A327": {
+   "tracings": 3,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 119",
+     "position": 17,
+     "site": "Haghia Triada",
+     "distance": 3.12
+    },
+    {
+     "document": "HT 119",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.87
+    },
+    {
+     "document": "HT 97a",
+     "position": 5,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.22
+    }
+   ]
+  },
+  "A328": {
+   "tracings": 3,
+   "site": "Phaistos",
+   "attestations": [
+    {
+     "document": "PH Wc <47>",
+     "position": 1,
+     "site": "Phaistos",
+     "use": "logogram",
+     "distance": 1.66
+    },
+    {
+     "document": "PH Wc 46",
+     "position": 1,
+     "site": "Phaistos",
+     "use": "logogram",
+     "distance": 2.23
+    },
+    {
+     "document": "PH 13a",
+     "position": 1,
+     "site": "Phaistos",
+     "dots": 9
+    }
+   ]
+  },
+  "A329": {
+   "tracings": 2,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 7b",
+     "position": 6,
+     "site": "Haghia Triada",
+     "distance": 3.36
+    },
+    {
+     "document": "HT 128b",
+     "position": 3,
+     "site": "Haghia Triada",
+     "distance": 4.04
+    }
+   ]
+  },
+  "A330": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 22",
+     "position": 3,
+     "site": "Haghia Triada",
+     "distance": 3.09
+    }
+   ]
+  },
+  "A331": {
+   "tracings": 2,
+   "site": null,
+   "attestations": [
+    {
+     "document": "HT 40",
+     "position": 3,
+     "site": "Haghia Triada",
+     "dots": 3
+    },
+    {
+     "document": "KH 32",
+     "position": 2,
+     "site": "Khania",
+     "dots": 55
+    }
+   ]
+  },
+  "A332": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 107",
+     "position": 4,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 6.36
+    }
+   ]
+  },
+  "A333": {
+   "tracings": 2,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT Wc 3010",
+     "position": 1,
+     "site": "Haghia Triada",
+     "distance": 2.7
+    },
+    {
+     "document": "HT Wc 3009a",
+     "position": 1,
+     "site": "Haghia Triada",
+     "distance": 4.65
+    }
+   ]
+  },
+  "A334": {
+   "tracings": 1,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH 6",
+     "position": 22,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 2.82
+    }
+   ]
+  },
+  "A335": {
+   "tracings": 3,
+   "site": null,
+   "attestations": [
+    {
+     "document": "KH 44",
+     "position": 2,
+     "site": "Khania",
+     "dots": 17
+    },
+    {
+     "document": "KH 12",
+     "position": 4,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 23
+    },
+    {
+     "document": "KH 82",
+     "position": 4,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 23
+    }
+   ]
+  },
+  "A336": {
+   "tracings": 1,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH 14",
+     "position": 7,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 3.67
+    }
+   ]
+  },
+  "A337": {
+   "tracings": 1,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH Wc 2057",
+     "position": 2,
+     "site": "Khania",
+     "distance": 5.16
+    }
+   ]
+  },
+  "A338": {
+   "tracings": 2,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH Wc 2067",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 5.99
+    },
+    {
+     "document": "KH Wc 2068",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 6.88
+    }
+   ]
+  },
+  "A339": {
+   "tracings": 2,
+   "site": "Phaistos",
+   "attestations": [
+    {
+     "document": "PH 12a",
+     "position": 3,
+     "site": "Phaistos",
+     "distance": 3.29
+    },
+    {
+     "document": "PH 15a",
+     "position": 4,
+     "site": "Phaistos",
+     "use": "logogram",
+     "distance": 2.37
+    }
+   ]
+  },
+  "A340": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 29",
+     "position": 16,
+     "site": "Haghia Triada",
+     "distance": 4.26
+    }
+   ]
+  },
+  "A341": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 33",
+     "position": 17,
+     "site": "Haghia Triada",
+     "distance": 1.64
+    }
+   ]
+  },
+  "A342": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 43",
+     "position": 5,
+     "site": "Haghia Triada",
+     "distance": 3.16
+    }
+   ]
+  },
+  "A343": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 93a",
+     "position": 40,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 4.63
+    }
+   ]
+  },
+  "A344": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 96a",
+     "position": 26,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.85
+    }
+   ]
+  },
+  "A345": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 119",
+     "position": 14,
+     "site": "Haghia Triada",
+     "distance": 3.14
+    }
+   ]
+  },
+  "A346": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 122b",
+     "position": 3,
+     "site": "Haghia Triada",
+     "use": "transaction sign",
+     "distance": 2.94
+    }
+   ]
+  },
+  "A347": {
+   "tracings": 1,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH 6",
+     "position": 11,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 3.06
+    }
+   ]
+  },
+  "A349": {
+   "tracings": 1,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH 11",
+     "position": 15,
+     "site": "Khania",
+     "distance": 5.18
+    }
+   ]
+  },
+  "A350": {
+   "tracings": 1,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH 11",
+     "position": 25,
+     "site": "Khania",
+     "distance": 5.68
+    }
+   ]
+  },
+  "A351": {
+   "tracings": 1,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH Wc 2065",
+     "position": 2,
+     "site": "Khania",
+     "distance": 2.68
+    }
+   ]
+  },
+  "A352": {
+   "tracings": 2,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH Wc 2100",
+     "position": 2,
+     "site": "Khania",
+     "distance": 4.21
+    },
+    {
+     "document": "KH 100",
+     "position": 1,
+     "site": "Khania",
+     "dots": 22
+    }
+   ]
+  },
+  "A353": {
+   "tracings": 1,
+   "site": "Phaistos",
+   "attestations": [
+    {
+     "document": "PH 9a",
+     "position": 3,
+     "site": "Phaistos",
+     "distance": 9.21
+    }
+   ]
+  },
+  "A354": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "PH 10",
+     "position": 3,
+     "site": "Phaistos",
+     "dots": 18
+    }
+   ]
+  },
+  "A355": {
+   "tracings": 1,
+   "site": "Phaistos",
+   "attestations": [
+    {
+     "document": "PH 10",
+     "position": 1,
+     "site": "Phaistos",
+     "distance": 5.73
+    }
+   ]
+  },
+  "A356": {
+   "tracings": 1,
+   "site": "Phaistos",
+   "attestations": [
+    {
+     "document": "PH 13b",
+     "position": 1,
+     "site": "Phaistos",
+     "distance": 6.37
+    }
+   ]
+  },
+  "A357": {
+   "tracings": 1,
+   "site": "Phaistos",
+   "attestations": [
+    {
+     "document": "PH 15b",
+     "position": 2,
+     "site": "Phaistos",
+     "distance": 4.27
+    }
+   ]
+  },
+  "A358": {
+   "tracings": 1,
+   "site": "Phaistos",
+   "attestations": [
+    {
+     "document": "PH 16a",
+     "position": 5,
+     "site": "Phaistos",
+     "distance": 5.68
+    }
+   ]
+  },
+  "A359": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "PH 17a",
+     "position": 1,
+     "site": "Phaistos",
+     "dots": 13
+    }
+   ]
+  },
+  "A360": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "PH 17b",
+     "position": 1,
+     "site": "Phaistos",
+     "dots": 27
+    }
+   ]
+  },
+  "A361": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "TY 3a",
+     "position": 36,
+     "site": "Tylissos",
+     "dots": 21
+    }
+   ]
+  },
+  "A362": {
+   "tracings": 1,
+   "site": "Zakros",
+   "attestations": [
+    {
+     "document": "ZA 10b",
+     "position": 2,
+     "site": "Zakros",
+     "distance": 3.18
+    }
+   ]
+  },
+  "A363": {
+   "tracings": 1,
+   "site": "Zakros",
+   "attestations": [
+    {
+     "document": "ZA 14",
+     "position": 9,
+     "site": "Zakros",
+     "distance": 3.22
+    }
+   ]
+  },
+  "A364": {
+   "tracings": 1,
+   "site": "Zakros",
+   "attestations": [
+    {
+     "document": "ZA 15a",
+     "position": 31,
+     "site": "Zakros",
+     "distance": 3.56
+    }
+   ]
+  },
+  "A365": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "HT Wa 1849",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 26
+    }
+   ]
+  },
+  "A366": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "HT Wa 1850",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 16
+    }
+   ]
+  },
+  "A367": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT Wa 1851",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 4.93
+    }
+   ]
+  },
+  "A368": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT Wa 1852",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.14
+    }
+   ]
+  },
+  "A369": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT Wa 1853",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 4.07
+    }
+   ]
+  },
+  "A370": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT Wa 1854",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 5.01
+    }
+   ]
+  },
+  "A371": {
+   "tracings": 1,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH Wa 1018",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 2.08
+    }
+   ]
+  },
+  "A402": {
+   "tracings": 4,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 31",
+     "position": 7,
+     "site": "Haghia Triada",
+     "use": "logogram"
+    },
+    {
+     "document": "HT 31",
+     "position": 26,
+     "site": "Haghia Triada",
+     "use": "logogram"
+    },
+    {
+     "document": "HT 31",
+     "position": 30,
+     "site": "Haghia Triada",
+     "use": "logogram"
+    },
+    {
+     "document": "HT 31",
+     "position": 25,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 9
+    }
+   ]
+  },
+  "A403": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 38",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram"
+    }
+   ]
+  },
+  "A406": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 93a",
+     "position": 39,
+     "site": "Haghia Triada",
+     "use": "logogram"
+    }
+   ]
+  },
+  "A408": {
+   "tracings": 3,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH Wc 2103",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram"
+    },
+    {
+     "document": "KH Wc 2084",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 37
+    },
+    {
+     "document": "KH Wc 2114",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 49
+    }
+   ]
+  },
+  "A409": {
+   "tracings": 3,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH Wc 2020",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram"
+    },
+    {
+     "document": "KH Wc 2025",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 14
+    },
+    {
+     "document": "KH Wc 2021",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 41
+    }
+   ]
+  },
+  "A410": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 31",
+     "position": 6,
+     "site": "Haghia Triada",
+     "use": "logogram"
+    }
+   ]
+  },
+  "A411": {
+   "tracings": 1,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH Wc 2010",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram"
+    }
+   ]
+  },
+  "A411a": {
+   "tracings": 1,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH Wc 2019",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram"
+    }
+   ]
+  },
+  "A411b": {
+   "tracings": 12,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH Wc 2008",
+     "position": 1,
+     "site": "Khania"
+    },
+    {
+     "document": "KH Wc 2009",
+     "position": 1,
+     "site": "Khania"
+    },
+    {
+     "document": "KH Wc 2011",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram"
+    },
+    {
+     "document": "KH Wc 2012",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram"
+    },
+    {
+     "document": "KH Wc 2014",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram"
+    },
+    {
+     "document": "KH Wc 2015",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram"
+    },
+    {
+     "document": "KH Wc 2016",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram"
+    },
+    {
+     "document": "KH Wc 2017",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram"
+    }
+   ]
+  },
+  "A411c": {
+   "tracings": 1,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH Wc 2013",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram"
+    }
+   ]
+  },
+  "A412": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "PH 9b",
+     "position": 1,
+     "site": "Phaistos",
+     "use": "logogram",
+     "dots": 42
+    }
+   ]
+  },
+  "A415": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 31",
+     "position": 10,
+     "site": "Haghia Triada",
+     "use": "logogram"
+    }
+   ]
+  },
+  "A416": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 31",
+     "position": 13,
+     "site": "Haghia Triada",
+     "use": "logogram"
+    }
+   ]
+  },
+  "A417": {
+   "tracings": 3,
+   "site": null,
+   "attestations": [
+    {
+     "document": "KH Wc 2006",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 3
+    },
+    {
+     "document": "KH Wc 2007",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 10
+    },
+    {
+     "document": "PH 8a",
+     "position": 1,
+     "site": "Phaistos",
+     "use": "logogram",
+     "dots": 11
+    }
+   ]
+  },
+  "A418": {
+   "tracings": 1,
+   "site": "Phaistos",
+   "attestations": [
+    {
+     "document": "PH 8a",
+     "position": 4,
+     "site": "Phaistos",
+     "use": "logogram"
+    }
+   ]
+  },
+  "A501": {
+   "tracings": 2,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH Wa 1002γ",
+     "position": 1,
+     "site": "Khania",
+     "distance": 2.56
+    },
+    {
+     "document": "KH Wa 1001γ",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram?",
+     "distance": 1.69
+    }
+   ]
+  },
+  "A502": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 93a",
+     "position": 9,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.2
+    }
+   ]
+  },
+  "A503": {
+   "tracings": 1,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH 18",
+     "position": 8,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 3.8
+    }
+   ]
+  },
+  "A504": {
+   "tracings": 1,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH 18",
+     "position": 10,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 3.38
+    }
+   ]
+  },
+  "A505": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 104",
+     "position": 3,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.85
+    }
+   ]
+  },
+  "A506": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "HT 101",
+     "position": 14,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 17
+    }
+   ]
+  },
+  "A507": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "ZA 15a",
+     "position": 14,
+     "site": "Zakros",
+     "use": "logogram",
+     "dots": 3
+    }
+   ]
+  },
+  "A508": {
+   "tracings": 6,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 32",
+     "position": 11,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.15
+    },
+    {
+     "document": "HT 33",
+     "position": 7,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.22
+    },
+    {
+     "document": "HT 23a",
+     "position": 17,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.55
+    },
+    {
+     "document": "HT 23b",
+     "position": 10,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 5
+    },
+    {
+     "document": "HT 34",
+     "position": 17,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 36
+    },
+    {
+     "document": "HT 60",
+     "position": 8,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 61
+    }
+   ]
+  },
+  "A509": {
+   "tracings": 3,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 33",
+     "position": 5,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.69
+    },
+    {
+     "document": "HT 45b",
+     "position": 3,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 4.34
+    },
+    {
+     "document": "HT 45b",
+     "position": 9,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 51
+    }
+   ]
+  },
+  "A510": {
+   "tracings": 8,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 35",
+     "position": 18,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.41
+    },
+    {
+     "document": "HT 12",
+     "position": 10,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.89
+    },
+    {
+     "document": "HT 32",
+     "position": 9,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.96
+    },
+    {
+     "document": "HT 60",
+     "position": 9,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 4.02
+    },
+    {
+     "document": "HT 34",
+     "position": 15,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 4.33
+    },
+    {
+     "document": "HT 30",
+     "position": 13,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 4.68
+    },
+    {
+     "document": "KH 8",
+     "position": 15,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 4.21
+    },
+    {
+     "document": "HT 23a",
+     "position": 16,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 39
+    }
+   ]
+  },
+  "A511": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 12",
+     "position": 16,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.07
+    }
+   ]
+  },
+  "A512": {
+   "tracings": 3,
+   "site": "Zakros",
+   "attestations": [
+    {
+     "document": "ZA 9",
+     "position": 18,
+     "site": "Zakros",
+     "use": "logogram",
+     "distance": 3.21
+    },
+    {
+     "document": "ZA 9",
+     "position": 8,
+     "site": "Zakros",
+     "use": "logogram",
+     "distance": 3.36
+    },
+    {
+     "document": "ZA 9",
+     "position": 13,
+     "site": "Zakros",
+     "use": "logogram",
+     "distance": 4.28
+    }
+   ]
+  },
+  "A513": {
+   "tracings": 2,
+   "site": "Phaistos",
+   "attestations": [
+    {
+     "document": "PH 31a",
+     "position": 5,
+     "site": "Phaistos",
+     "use": "logogram",
+     "distance": 3.4
+    },
+    {
+     "document": "PH 31a",
+     "position": 20,
+     "site": "Phaistos",
+     "use": "logogram",
+     "dots": 14
+    }
+   ]
+  },
+  "A514": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "TY 3a",
+     "position": 6,
+     "site": "Tylissos",
+     "use": "logogram?",
+     "dots": 23
+    }
+   ]
+  },
+  "A515": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 93a",
+     "position": 5,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.26
+    }
+   ]
+  },
+  "A516": {
+   "tracings": 10,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 118",
+     "position": 2,
+     "site": "Haghia Triada",
+     "use": "transaction sign",
+     "distance": 2.59
+    },
+    {
+     "document": "HT 154",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.81
+    },
+    {
+     "document": "HT 96b",
+     "position": 9,
+     "site": "Haghia Triada",
+     "use": "transaction sign?",
+     "distance": 4.08
+    },
+    {
+     "document": "KH 12",
+     "position": 5,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 3.25
+    },
+    {
+     "document": "KH Wc 2066",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 5.55
+    },
+    {
+     "document": "HT 34",
+     "position": 5,
+     "site": "Haghia Triada",
+     "dots": 8
+    },
+    {
+     "document": "ZA 11a",
+     "position": 7,
+     "site": "Zakros",
+     "use": "logogram",
+     "dots": 4
+    },
+    {
+     "document": "ZA 1a",
+     "position": 1,
+     "site": "Zakros",
+     "use": "logogram",
+     "dots": 8
+    }
+   ]
+  },
+  "A517": {
+   "tracings": 4,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 43",
+     "position": 7,
+     "site": "Haghia Triada",
+     "use": "logogram"
+    },
+    {
+     "document": "HT 120",
+     "position": 13,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 13
+    },
+    {
+     "document": "HT 93a",
+     "position": 26,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 21
+    },
+    {
+     "document": "HT 93a",
+     "position": 18,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 30
+    }
+   ]
+  },
+  "A518": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "ZA 11b",
+     "position": 9,
+     "site": "Zakros",
+     "use": "logogram",
+     "dots": 11
+    }
+   ]
+  },
+  "A519": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "KN 2",
+     "position": 4,
+     "site": "Knossos",
+     "use": "logogram",
+     "dots": 25
+    }
+   ]
+  },
+  "A520": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT Wa 1022",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.8
+    }
+   ]
+  },
+  "A521": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 34",
+     "position": 20,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 4.36
+    }
+   ]
+  },
+  "A522": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 114b",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram"
+    }
+   ]
+  },
+  "A523": {
+   "tracings": 2,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 94a",
+     "position": 5,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.38
+    },
+    {
+     "document": "HT 100",
+     "position": 3,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 5
+    }
+   ]
+  },
+  "A524": {
+   "tracings": 1,
+   "site": "Mallia",
+   "attestations": [
+    {
+     "document": "MA 10b",
+     "position": 9,
+     "site": "Mallia",
+     "use": "logogram",
+     "distance": 4.69
+    }
+   ]
+  },
+  "A525": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "HT 34",
+     "position": 12,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 12
+    }
+   ]
+  },
+  "A526": {
+   "tracings": 2,
+   "site": null,
+   "attestations": [
+    {
+     "document": "HT 34",
+     "position": 26,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 7
+    },
+    {
+     "document": "HT 33",
+     "position": 10,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 14
+    }
+   ]
+  },
+  "A527": {
+   "tracings": 1,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH 43",
+     "position": 2,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 5.97
+    }
+   ]
+  },
+  "A528": {
+   "tracings": 1,
+   "site": "Knossos",
+   "attestations": [
+    {
+     "document": "KN Zg <21>",
+     "position": 1,
+     "site": "Knossos",
+     "use": "logogram",
+     "distance": 3.39
+    }
+   ]
+  },
+  "A529": {
+   "tracings": 4,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 116a",
+     "position": 13,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.31
+    },
+    {
+     "document": "HT Wa 1021γ",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram?",
+     "distance": 2.38
+    },
+    {
+     "document": "HT 99b",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.91
+    },
+    {
+     "document": "HT 42+59",
+     "position": 2,
+     "site": "Haghia Triada",
+     "use": "transaction sign?",
+     "distance": 3.03
+    }
+   ]
+  },
+  "A530": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 23a",
+     "position": 28,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.73
+    }
+   ]
+  },
+  "A531": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 24b",
+     "position": 4,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.7
+    }
+   ]
+  },
+  "A532": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "KH 9",
+     "position": 15,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 4
+    }
+   ]
+  },
+  "A533": {
+   "tracings": 1,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH 11",
+     "position": 28,
+     "site": "Khania",
+     "use": "logogram"
+    }
+   ]
+  },
+  "A534": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "HT 39",
+     "position": 17,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 6
+    }
+   ]
+  },
+  "A534C": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "THE 8",
+     "position": 3,
+     "site": "Thera",
+     "use": "logogram",
+     "dots": 59
+    }
+   ]
+  },
+  "A535": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 38",
+     "position": 9,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.48
+    }
+   ]
+  },
+  "A536": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 38",
+     "position": 10,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.34
+    }
+   ]
+  },
+  "A537": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 33",
+     "position": 18,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.83
+    }
+   ]
+  },
+  "A538": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 6a",
+     "position": 11,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.77
+    }
+   ]
+  },
+  "A539": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 24b",
+     "position": 8,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.5
+    }
+   ]
+  },
+  "A540": {
+   "tracings": 1,
+   "site": "Knossos",
+   "attestations": [
+    {
+     "document": "KN 28b",
+     "position": 5,
+     "site": "Knossos",
+     "use": "logogram",
+     "distance": 5.95
+    }
+   ]
+  },
+  "A541": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT Wa 1021γ",
+     "position": 2,
+     "site": "Haghia Triada",
+     "use": "logogram?",
+     "distance": 3.75
+    }
+   ]
+  },
+  "A542": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "HT 89",
+     "position": 6,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 3
+    }
+   ]
+  },
+  "A543": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "KH 60",
+     "position": 7,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 4
+    }
+   ]
+  },
+  "A545": {
+   "tracings": 2,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 127b",
+     "position": 7,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.36
+    },
+    {
+     "document": "HT 26b",
+     "position": 11,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 4.39
+    }
+   ]
+  },
+  "A546": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 24a",
+     "position": 5,
+     "site": "Haghia Triada",
+     "use": "logogram"
+    }
+   ]
+  },
+  "A547": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "HT 47a",
+     "position": 2,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 10
+    }
+   ]
+  },
+  "A548": {
+   "tracings": 2,
+   "site": "Phaistos",
+   "attestations": [
+    {
+     "document": "PH 3b",
+     "position": 2,
+     "site": "Phaistos",
+     "use": "logogram",
+     "distance": 4.89
+    },
+    {
+     "document": "KH 103",
+     "position": 2,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 37
+    }
+   ]
+  },
+  "A549": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "HT 60",
+     "position": 3,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 20
+    }
+   ]
+  },
+  "A550": {
+   "tracings": 9,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 32",
+     "position": 12,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.92
+    },
+    {
+     "document": "HT 23a",
+     "position": 13,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 4.03
+    },
+    {
+     "document": "HT 34",
+     "position": 19,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 4.4
+    },
+    {
+     "document": "HT 81",
+     "position": 3,
+     "site": "Haghia Triada",
+     "use": "transaction sign?",
+     "distance": 4.56
+    },
+    {
+     "document": "KH 60",
+     "position": 8,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 3.6
+    },
+    {
+     "document": "KH 12",
+     "position": 3,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 3.77
+    },
+    {
+     "document": "HT 35",
+     "position": 9,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 7
+    },
+    {
+     "document": "HT 23b",
+     "position": 7,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 14
+    }
+   ]
+  },
+  "A551": {
+   "tracings": 2,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 37",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 4.54
+    },
+    {
+     "document": "KH 81",
+     "position": 2,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 3.91
+    }
+   ]
+  },
+  "A552": {
+   "tracings": 2,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 33",
+     "position": 13,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.79
+    },
+    {
+     "document": "HT 34",
+     "position": 8,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 15
+    }
+   ]
+  },
+  "A553": {
+   "tracings": 2,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH Wc 2064",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram?",
+     "distance": 3.97
+    },
+    {
+     "document": "KH Wc 2099",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 4.25
+    }
+   ]
+  },
+  "A554": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 38",
+     "position": 7,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.96
+    }
+   ]
+  },
+  "A555": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "ZA 11a",
+     "position": 17,
+     "site": "Zakros",
+     "use": "logogram",
+     "dots": 24
+    }
+   ]
+  },
+  "A556": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "PH 3a",
+     "position": 1,
+     "site": "Phaistos",
+     "use": "logogram",
+     "dots": 37
+    }
+   ]
+  },
+  "A557": {
+   "tracings": 1,
+   "site": "Phaistos",
+   "attestations": [
+    {
+     "document": "PH 3a",
+     "position": 4,
+     "site": "Phaistos",
+     "use": "logogram",
+     "distance": 3.41
+    }
+   ]
+  },
+  "A558": {
+   "tracings": 1,
+   "site": "Phaistos",
+   "attestations": [
+    {
+     "document": "PH 3a",
+     "position": 6,
+     "site": "Phaistos",
+     "use": "logogram"
+    }
+   ]
+  },
+  "A559": {
+   "tracings": 2,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 12",
+     "position": 12,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.83
+    },
+    {
+     "document": "THE 8",
+     "position": 2,
+     "site": "Thera",
+     "use": "logogram",
+     "dots": 16
+    }
+   ]
+  },
+  "A560": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "HT 24a",
+     "position": 20,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 4
+    }
+   ]
+  },
+  "A561": {
+   "tracings": 3,
+   "site": null,
+   "attestations": [
+    {
+     "document": "HT 24a",
+     "position": 6,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 3
+    },
+    {
+     "document": "HT 24a",
+     "position": 15,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 34
+    },
+    {
+     "document": "HT 24a",
+     "position": 9,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 85
+    }
+   ]
+  },
+  "A562": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "KH 43",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 10
+    }
+   ]
+  },
+  "A563": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "PH 3a",
+     "position": 5,
+     "site": "Phaistos",
+     "use": "logogram",
+     "dots": 36
+    }
+   ]
+  },
+  "A564": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "HT 39",
+     "position": 16,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 7
+    }
+   ]
+  },
+  "A565": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 8b",
+     "position": 18,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.95
+    }
+   ]
+  },
+  "A566": {
+   "tracings": 5,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH Wc 2058",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 4.84
+    },
+    {
+     "document": "KH Wc 2117b",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 8
+    },
+    {
+     "document": "KH Wc 2059",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 21
+    },
+    {
+     "document": "KH Wc 2060",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 46
+    },
+    {
+     "document": "KH Wc 2061",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 69
+    }
+   ]
+  },
+  "A567": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "KH 8",
+     "position": 12,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 25
+    }
+   ]
+  },
+  "A568": {
+   "tracings": 9,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH Wc 2030",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 2.85
+    },
+    {
+     "document": "KH Wc 2031",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 3.26
+    },
+    {
+     "document": "KH Wc 2029",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 3.56
+    },
+    {
+     "document": "KH Wc 2106",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 4.15
+    },
+    {
+     "document": "HT 97a",
+     "position": 4,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.44
+    },
+    {
+     "document": "HT 88",
+     "position": 3,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.96
+    },
+    {
+     "document": "HT 28a",
+     "position": 19,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 4.52
+    },
+    {
+     "document": "KH Wc 2032",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 30
+    }
+   ]
+  },
+  "A569": {
+   "tracings": 2,
+   "site": null,
+   "attestations": [
+    {
+     "document": "KH 9",
+     "position": 6,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 16
+    },
+    {
+     "document": "KH 14",
+     "position": 10,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 17
+    }
+   ]
+  },
+  "A570": {
+   "tracings": 2,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 89",
+     "position": 10,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.19
+    },
+    {
+     "document": "HT 100",
+     "position": 6,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 5
+    }
+   ]
+  },
+  "A571": {
+   "tracings": 4,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH 7a",
+     "position": 20,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 3.89
+    },
+    {
+     "document": "KH 7a",
+     "position": 28,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 4.37
+    },
+    {
+     "document": "HT 94a",
+     "position": 6,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.5
+    },
+    {
+     "document": "KH 7a",
+     "position": 9,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 10
+    }
+   ]
+  },
+  "A572": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "HT 127b",
+     "position": 6,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 16
+    }
+   ]
+  },
+  "A573": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 133",
+     "position": 4,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 1.91
+    }
+   ]
+  },
+  "A574": {
+   "tracings": 19,
+   "site": "Zakros",
+   "attestations": [
+    {
+     "document": "ZA 18a",
+     "position": 6,
+     "site": "Zakros",
+     "use": "logogram",
+     "distance": 1.84
+    },
+    {
+     "document": "ZA 6b",
+     "position": 11,
+     "site": "Zakros",
+     "use": "logogram",
+     "distance": 2.32
+    },
+    {
+     "document": "ZA 6b",
+     "position": 6,
+     "site": "Zakros",
+     "use": "logogram",
+     "distance": 2.75
+    },
+    {
+     "document": "ZA 11a",
+     "position": 8,
+     "site": "Zakros",
+     "use": "logogram",
+     "distance": 2.84
+    },
+    {
+     "document": "ZA 28",
+     "position": 1,
+     "site": "Zakros",
+     "use": "logogram",
+     "distance": 2.85
+    },
+    {
+     "document": "ZA 6a",
+     "position": 16,
+     "site": "Zakros",
+     "use": "logogram",
+     "distance": 4.65
+    },
+    {
+     "document": "HT 120",
+     "position": 19,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 1.25
+    },
+    {
+     "document": "KH 27",
+     "position": 2,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 1.39
+    }
+   ]
+  },
+  "A575": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "HT 82",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 39
+    }
+   ]
+  },
+  "A576": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 115a",
+     "position": 6,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 4.1
+    }
+   ]
+  },
+  "A577": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "HT 93a",
+     "position": 4,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 12
+    }
+   ]
+  },
+  "A578": {
+   "tracings": 5,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 101",
+     "position": 4,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.4
+    },
+    {
+     "document": "HT 18",
+     "position": 3,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 3
+    },
+    {
+     "document": "HT 36",
+     "position": 4,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 3
+    },
+    {
+     "document": "HT 99a",
+     "position": 9,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 3
+    },
+    {
+     "document": "HT 28a",
+     "position": 7,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 4
+    }
+   ]
+  },
+  "A579": {
+   "tracings": 7,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 61",
+     "position": 3,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.3
+    },
+    {
+     "document": "HT 128b",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.12
+    },
+    {
+     "document": "HT 128a",
+     "position": 14,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.21
+    },
+    {
+     "document": "HT 128a",
+     "position": 21,
+     "site": "Haghia Triada",
+     "dots": 42
+    },
+    {
+     "document": "HT 128b",
+     "position": 7,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 24
+    },
+    {
+     "document": "HT 128a",
+     "position": 19,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 39
+    },
+    {
+     "document": "HT 128b",
+     "position": 4,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 46
+    }
+   ]
+  },
+  "A580": {
+   "tracings": 2,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 120",
+     "position": 18,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.19
+    },
+    {
+     "document": "HT 86a",
+     "position": 20,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.51
+    }
+   ]
+  },
+  "A581": {
+   "tracings": 2,
+   "site": "Kythera",
+   "attestations": [
+    {
+     "document": "KY Zg 1",
+     "position": 1,
+     "site": "Kythera",
+     "use": "logogram",
+     "distance": 3.85
+    },
+    {
+     "document": "MA Wc <5b>",
+     "position": 1,
+     "site": "Mallia",
+     "use": "logogram",
+     "distance": 3.15
+    }
+   ]
+  },
+  "A582": {
+   "tracings": 3,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 44b",
+     "position": 3,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.43
+    },
+    {
+     "document": "KH 1",
+     "position": 2,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 3.08
+    },
+    {
+     "document": "KH 28",
+     "position": 2,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 23
+    }
+   ]
+  },
+  "A583": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 108",
+     "position": 6,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.85
+    }
+   ]
+  },
+  "A584": {
+   "tracings": 3,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 86b",
+     "position": 7,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.55
+    },
+    {
+     "document": "HT 120",
+     "position": 6,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.97
+    },
+    {
+     "document": "HT 86a",
+     "position": 7,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 4.37
+    }
+   ]
+  },
+  "A585": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "HT 22",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 11
+    }
+   ]
+  },
+  "A586": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "HT 15",
+     "position": 8,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 6
+    }
+   ]
+  },
+  "A587": {
+   "tracings": 3,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 50a",
+     "position": 13,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.46
+    },
+    {
+     "document": "HT 116a",
+     "position": 24,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.63
+    },
+    {
+     "document": "HT 101",
+     "position": 23,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.86
+    }
+   ]
+  },
+  "A588": {
+   "tracings": 1,
+   "site": "Knossos",
+   "attestations": [
+    {
+     "document": "KN Zb 34",
+     "position": 1,
+     "site": "Knossos",
+     "use": "logogram",
+     "distance": 4.03
+    }
+   ]
+  },
+  "A589": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 131b",
+     "position": 4,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.37
+    }
+   ]
+  },
+  "A590": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 27b",
+     "position": 8,
+     "site": "Haghia Triada",
+     "use": "logogram"
+    }
+   ]
+  },
+  "A591": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 27b",
+     "position": 13,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.47
+    }
+   ]
+  },
+  "A592": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 27b",
+     "position": 3,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.93
+    }
+   ]
+  },
+  "A593": {
+   "tracings": 1,
+   "site": "Zakros",
+   "attestations": [
+    {
+     "document": "ZA 5a",
+     "position": 3,
+     "site": "Zakros",
+     "use": "logogram"
+    }
+   ]
+  },
+  "A594": {
+   "tracings": 2,
+   "site": "Zakros",
+   "attestations": [
+    {
+     "document": "ZA 15b",
+     "position": 7,
+     "site": "Zakros",
+     "use": "logogram",
+     "distance": 4.11
+    },
+    {
+     "document": "ZA 6b",
+     "position": 7,
+     "site": "Zakros",
+     "use": "logogram",
+     "dots": 29
+    }
+   ]
+  },
+  "A595": {
+   "tracings": 1,
+   "site": "Kea",
+   "attestations": [
+    {
+     "document": "KE Zb 5",
+     "position": 1,
+     "site": "Kea",
+     "use": "logogram",
+     "distance": 4.68
+    }
+   ]
+  },
+  "A596": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "ZA 6b",
+     "position": 8,
+     "site": "Zakros",
+     "use": "logogram",
+     "dots": 45
+    }
+   ]
+  },
+  "A597": {
+   "tracings": 2,
+   "site": null,
+   "attestations": [
+    {
+     "document": "HT 27b",
+     "position": 5,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 11
+    },
+    {
+     "document": "HT 27b",
+     "position": 16,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 46
+    }
+   ]
+  },
+  "A598": {
+   "tracings": 1,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH 5",
+     "position": 15,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 4.63
+    }
+   ]
+  },
+  "A599": {
+   "tracings": 2,
+   "site": null,
+   "attestations": [
+    {
+     "document": "MA 6c",
+     "position": 3,
+     "site": "Mallia",
+     "use": "logogram",
+     "dots": 4
+    },
+    {
+     "document": "MA 6c",
+     "position": 2,
+     "site": "Mallia",
+     "use": "logogram",
+     "dots": 73
+    }
+   ]
+  },
+  "A600": {
+   "tracings": 1,
+   "site": "Mallia",
+   "attestations": [
+    {
+     "document": "MA 4a",
+     "position": 5,
+     "site": "Mallia",
+     "use": "logogram",
+     "distance": 7.02
+    }
+   ]
+  },
+  "A601": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "MA 4a",
+     "position": 4,
+     "site": "Mallia",
+     "use": "logogram",
+     "dots": 38
+    }
+   ]
+  },
+  "A602": {
+   "tracings": 3,
+   "site": "Mallia",
+   "attestations": [
+    {
+     "document": "MA 4a",
+     "position": 2,
+     "site": "Mallia",
+     "use": "logogram",
+     "distance": 5.99
+    },
+    {
+     "document": "MA 6a",
+     "position": 2,
+     "site": "Mallia",
+     "use": "logogram",
+     "dots": 7
+    },
+    {
+     "document": "MA 6c",
+     "position": 1,
+     "site": "Mallia",
+     "use": "logogram",
+     "dots": 22
+    }
+   ]
+  },
+  "A603": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "MA 4a",
+     "position": 3,
+     "site": "Mallia",
+     "use": "logogram",
+     "dots": 25
+    }
+   ]
+  },
+  "A604": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 16",
+     "position": 10,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 4.42
+    }
+   ]
+  },
+  "A605": {
+   "tracings": 3,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH 74",
+     "position": 7,
+     "site": "Khania",
+     "use": "logogram"
+    },
+    {
+     "document": "KH Wc 2055",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram"
+    },
+    {
+     "document": "KH Wc 2054",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 14
+    }
+   ]
+  },
+  "A606": {
+   "tracings": 10,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH Wc 2051",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 3.27
+    },
+    {
+     "document": "KH Wc 2049",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 3.3
+    },
+    {
+     "document": "KH Wc 2048",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 3.43
+    },
+    {
+     "document": "KH Wc 2050",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 3.51
+    },
+    {
+     "document": "KH Wc 2036",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 3.77
+    },
+    {
+     "document": "KH Wc 2046",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 3.81
+    },
+    {
+     "document": "KH Wc 2047",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 3
+    },
+    {
+     "document": "KH Wc 2052",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 4
+    }
+   ]
+  },
+  "A607": {
+   "tracings": 1,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH Wc 2065",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram"
+    }
+   ]
+  },
+  "A608": {
+   "tracings": 12,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 14",
+     "position": 16,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.91
+    },
+    {
+     "document": "HT 14",
+     "position": 7,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.12
+    },
+    {
+     "document": "HT 28a",
+     "position": 16,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.26
+    },
+    {
+     "document": "HT 116a",
+     "position": 12,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.36
+    },
+    {
+     "document": "HT 28b",
+     "position": 25,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.44
+    },
+    {
+     "document": "HT 12",
+     "position": 5,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.68
+    },
+    {
+     "document": "HT 50b",
+     "position": 4,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.74
+    },
+    {
+     "document": "HT 28b",
+     "position": 12,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.77
+    }
+   ]
+  },
+  "A609": {
+   "tracings": 2,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 2",
+     "position": 5,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 1.82
+    },
+    {
+     "document": "HT 2",
+     "position": 12,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.49
+    }
+   ]
+  },
+  "A610": {
+   "tracings": 21,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 21",
+     "position": 7,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.46
+    },
+    {
+     "document": "HT 42+59",
+     "position": 20,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.62
+    },
+    {
+     "document": "HT 28a",
+     "position": 8,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.63
+    },
+    {
+     "document": "HT 42+59",
+     "position": 9,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.75
+    },
+    {
+     "document": "HT 44a",
+     "position": 8,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 4.04
+    },
+    {
+     "document": "HT 96b",
+     "position": 13,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 4.08
+    },
+    {
+     "document": "HT 2",
+     "position": 11,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 4.43
+    },
+    {
+     "document": "HT 91",
+     "position": 10,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 4.51
+    }
+   ]
+  },
+  "A611": {
+   "tracings": 2,
+   "site": "Tylissos",
+   "attestations": [
+    {
+     "document": "TY 3a",
+     "position": 20,
+     "site": "Tylissos",
+     "use": "logogram",
+     "distance": 3.58
+    },
+    {
+     "document": "TY 3a",
+     "position": 7,
+     "site": "Tylissos",
+     "use": "logogram",
+     "dots": 34
+    }
+   ]
+  },
+  "A612": {
+   "tracings": 5,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 32",
+     "position": 6,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.71
+    },
+    {
+     "document": "HT 23a",
+     "position": 7,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.66
+    },
+    {
+     "document": "HT 32",
+     "position": 16,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 21
+    },
+    {
+     "document": "HT 100",
+     "position": 21,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 28
+    },
+    {
+     "document": "TY 3b",
+     "position": 12,
+     "site": "Tylissos",
+     "use": "logogram",
+     "dots": 33
+    }
+   ]
+  },
+  "A613": {
+   "tracings": 4,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 21",
+     "position": 8,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.77
+    },
+    {
+     "document": "HT 50a",
+     "position": 8,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.49
+    },
+    {
+     "document": "HT 58",
+     "position": 8,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.79
+    },
+    {
+     "document": "HT 2",
+     "position": 6,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 11
+    }
+   ]
+  },
+  "A614": {
+   "tracings": 5,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 35",
+     "position": 11,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.9
+    },
+    {
+     "document": "HT 23a",
+     "position": 11,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 4.09
+    },
+    {
+     "document": "KH 82",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 4.0
+    },
+    {
+     "document": "HT 60",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 17
+    },
+    {
+     "document": "THE 11",
+     "position": 1,
+     "site": "Thera",
+     "use": "logogram",
+     "dots": 42
+    }
+   ]
+  },
+  "A615": {
+   "tracings": 9,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 35",
+     "position": 15,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.05
+    },
+    {
+     "document": "HT 30",
+     "position": 10,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 4.18
+    },
+    {
+     "document": "KH 19",
+     "position": 3,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 3.05
+    },
+    {
+     "document": "KH 61",
+     "position": 5,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 4.07
+    },
+    {
+     "document": "HT 30",
+     "position": 30,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 8
+    },
+    {
+     "document": "KH 39",
+     "position": 4,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 5
+    },
+    {
+     "document": "KH 103",
+     "position": 3,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 7
+    },
+    {
+     "document": "KH 55",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 17
+    }
+   ]
+  },
+  "A616": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 44a",
+     "position": 9,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.76
+    }
+   ]
+  },
+  "A617": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 44a",
+     "position": 7,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.74
+    }
+   ]
+  },
+  "A618": {
+   "tracings": 20,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 8a",
+     "position": 3,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.08
+    },
+    {
+     "document": "HT 42+59",
+     "position": 17,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.78
+    },
+    {
+     "document": "HT 42+59",
+     "position": 8,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 4.11
+    },
+    {
+     "document": "HT 50b",
+     "position": 2,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 4.23
+    },
+    {
+     "document": "HT 129",
+     "position": 16,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 4.29
+    },
+    {
+     "document": "HT 42+59",
+     "position": 4,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 4.35
+    },
+    {
+     "document": "HT 18",
+     "position": 4,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 4.36
+    },
+    {
+     "document": "HT 28a",
+     "position": 9,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 4.46
+    }
+   ]
+  },
+  "A619": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "TY 3a",
+     "position": 17,
+     "site": "Tylissos",
+     "use": "logogram",
+     "dots": 7
+    }
+   ]
+  },
+  "A620": {
+   "tracings": 1,
+   "site": "Tylissos",
+   "attestations": [
+    {
+     "document": "TY 3a",
+     "position": 19,
+     "site": "Tylissos",
+     "use": "logogram",
+     "distance": 4.0
+    }
+   ]
+  },
+  "A621": {
+   "tracings": 3,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 23a",
+     "position": 9,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 1.75
+    },
+    {
+     "document": "TY 3a",
+     "position": 38,
+     "site": "Tylissos",
+     "use": "logogram",
+     "distance": 2.06
+    },
+    {
+     "document": "HT 28a",
+     "position": 12,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 37
+    }
+   ]
+  },
+  "A622": {
+   "tracings": 19,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 91",
+     "position": 23,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.32
+    },
+    {
+     "document": "HT 91",
+     "position": 12,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.78
+    },
+    {
+     "document": "HT 58",
+     "position": 7,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.84
+    },
+    {
+     "document": "HT 14",
+     "position": 15,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.89
+    },
+    {
+     "document": "HT 116a",
+     "position": 23,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 4.68
+    },
+    {
+     "document": "HT 28a",
+     "position": 11,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 4.98
+    },
+    {
+     "document": "HT 50a",
+     "position": 6,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 5.8
+    },
+    {
+     "document": "HT 42+59",
+     "position": 12,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 6.8
+    }
+   ]
+  },
+  "A623": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 121",
+     "position": 4,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.79
+    }
+   ]
+  },
+  "A624": {
+   "tracings": 18,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH 7a",
+     "position": 10,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 4.86
+    },
+    {
+     "document": "KH 7a",
+     "position": 29,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 4.91
+    },
+    {
+     "document": "KH 7b",
+     "position": 5,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 5.15
+    },
+    {
+     "document": "KH 7a",
+     "position": 21,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 5.22
+    },
+    {
+     "document": "KH 6",
+     "position": 23,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 5.37
+    },
+    {
+     "document": "KH 6",
+     "position": 26,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 5.69
+    },
+    {
+     "document": "KH 7b",
+     "position": 9,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 5.69
+    },
+    {
+     "document": "KH 6",
+     "position": 18,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 5.81
+    }
+   ]
+  },
+  "A625": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT Wc 3017b",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram"
+    }
+   ]
+  },
+  "A626": {
+   "tracings": 15,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH 5",
+     "position": 14,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 4.29
+    },
+    {
+     "document": "KH 54",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 4.54
+    },
+    {
+     "document": "KH 20",
+     "position": 9,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 4.79
+    },
+    {
+     "document": "KH 11",
+     "position": 7,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 5.17
+    },
+    {
+     "document": "KH 22",
+     "position": 4,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 5.19
+    },
+    {
+     "document": "KH 58",
+     "position": 5,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 5.22
+    },
+    {
+     "document": "KH 7a",
+     "position": 5,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 5.26
+    },
+    {
+     "document": "KH 11",
+     "position": 19,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 5.67
+    }
+   ]
+  },
+  "A627": {
+   "tracings": 1,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH 7b",
+     "position": 12,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 2.78
+    }
+   ]
+  },
+  "A628": {
+   "tracings": 2,
+   "site": null,
+   "attestations": [
+    {
+     "document": "KH 37",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 15
+    },
+    {
+     "document": "KH 37",
+     "position": 3,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 15
+    }
+   ]
+  },
+  "A629": {
+   "tracings": 6,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT Wa 1020α",
+     "position": 1,
+     "site": "Haghia Triada",
+     "distance": 2.54
+    },
+    {
+     "document": "HT 127a",
+     "position": 4,
+     "site": "Haghia Triada",
+     "distance": 3.54
+    },
+    {
+     "document": "HT Wc 3016b",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.47
+    },
+    {
+     "document": "HT 100",
+     "position": 2,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.58
+    },
+    {
+     "document": "KH 73",
+     "position": 5,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 2.6
+    },
+    {
+     "document": "KH 7b",
+     "position": 10,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 2.8
+    }
+   ]
+  },
+  "A630": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT Wc 3020b",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram?"
+    }
+   ]
+  },
+  "A631": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT Wa <1021bis>",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram?"
+    }
+   ]
+  },
+  "A632": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "KH 13",
+     "position": 5,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 9
+    }
+   ]
+  },
+  "A633": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "KH 85",
+     "position": 7,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 20
+    }
+   ]
+  },
+  "A634": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 115b",
+     "position": 30,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.85
+    }
+   ]
+  },
+  "A635": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "KH 19",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 10
+    }
+   ]
+  },
+  "A636": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "KH 2",
+     "position": 6,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 13
+    }
+   ]
+  },
+  "A637": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "KH 42",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 11
+    }
+   ]
+  },
+  "A638": {
+   "tracings": 3,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 85a",
+     "position": 3,
+     "site": "Haghia Triada",
+     "use": "transaction sign",
+     "distance": 2.36
+    },
+    {
+     "document": "HT 97a",
+     "position": 3,
+     "site": "Haghia Triada",
+     "use": "transaction sign?",
+     "dots": 11
+    },
+    {
+     "document": "HT 36",
+     "position": 3,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 58
+    }
+   ]
+  },
+  "A639": {
+   "tracings": 1,
+   "site": "Pyrgos",
+   "attestations": [
+    {
+     "document": "PYR 1",
+     "position": 6,
+     "site": "Pyrgos",
+     "use": "logogram"
+    }
+   ]
+  },
+  "A640": {
+   "tracings": 2,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH Wa 1002α",
+     "position": 1,
+     "site": "Khania",
+     "distance": 4.83
+    },
+    {
+     "document": "KH Wa 1001α",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram?",
+     "distance": 4.4
+    }
+   ]
+  },
+  "A641": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "KH 7a",
+     "position": 2,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 29
+    }
+   ]
+  },
+  "A642": {
+   "tracings": 1,
+   "site": "Phaistos",
+   "attestations": [
+    {
+     "document": "PH 8b",
+     "position": 2,
+     "site": "Phaistos",
+     "use": "logogram",
+     "distance": 2.62
+    }
+   ]
+  },
+  "A643": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 22",
+     "position": 2,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.05
+    }
+   ]
+  },
+  "A644": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 65",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.05
+    }
+   ]
+  },
+  "A645": {
+   "tracings": 2,
+   "site": null,
+   "attestations": [
+    {
+     "document": "KH Wc 2056",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 3
+    },
+    {
+     "document": "KH Wc 2057",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 7
+    }
+   ]
+  },
+  "A646": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 33",
+     "position": 16,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.1
+    }
+   ]
+  },
+  "A647": {
+   "tracings": 1,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH 11",
+     "position": 11,
+     "site": "Khania",
+     "use": "logogram"
+    }
+   ]
+  },
+  "A648": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 110b",
+     "position": 4,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 4.33
+    }
+   ]
+  },
+  "A649": {
+   "tracings": 3,
+   "site": null,
+   "attestations": [
+    {
+     "document": "KH 31",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 4
+    },
+    {
+     "document": "KH 18",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 11
+    },
+    {
+     "document": "KH 68",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 22
+    }
+   ]
+  },
+  "A650": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "KH 83",
+     "position": 4,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 13
+    }
+   ]
+  },
+  "A651": {
+   "tracings": 7,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH 12",
+     "position": 8,
+     "site": "Khania",
+     "distance": 2.47
+    },
+    {
+     "document": "KH 12",
+     "position": 7,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 2.62
+    },
+    {
+     "document": "KH 85",
+     "position": 4,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 3.23
+    },
+    {
+     "document": "KH 91",
+     "position": 11,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 3.73
+    },
+    {
+     "document": "KH 83",
+     "position": 5,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 24
+    },
+    {
+     "document": "KH 63",
+     "position": 2,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 36
+    },
+    {
+     "document": "KH 84",
+     "position": 5,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 38
+    }
+   ]
+  },
+  "A652": {
+   "tracings": 3,
+   "site": null,
+   "attestations": [
+    {
+     "document": "KH 31",
+     "position": 2,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 8
+    },
+    {
+     "document": "MI 2",
+     "position": 4,
+     "site": "Melos",
+     "use": "logogram",
+     "dots": 13
+    },
+    {
+     "document": "KH 91",
+     "position": 13,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 48
+    }
+   ]
+  },
+  "A653": {
+   "tracings": 3,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 33",
+     "position": 4,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.95
+    },
+    {
+     "document": "KH 12",
+     "position": 6,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 3.18
+    },
+    {
+     "document": "HT 82",
+     "position": 4,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 22
+    }
+   ]
+  },
+  "A654": {
+   "tracings": 1,
+   "site": "Mallia",
+   "attestations": [
+    {
+     "document": "MA 10b",
+     "position": 8,
+     "site": "Mallia",
+     "use": "logogram",
+     "distance": 3.05
+    }
+   ]
+  },
+  "A655": {
+   "tracings": 1,
+   "site": "Mallia",
+   "attestations": [
+    {
+     "document": "MA 10b",
+     "position": 5,
+     "site": "Mallia",
+     "use": "logogram",
+     "distance": 3.49
+    }
+   ]
+  },
+  "A656": {
+   "tracings": 2,
+   "site": null,
+   "attestations": [
+    {
+     "document": "HT 26a",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 4
+    },
+    {
+     "document": "HT 26b",
+     "position": 2,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 19
+    }
+   ]
+  },
+  "A657": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 39",
+     "position": 15,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 4.39
+    }
+   ]
+  },
+  "A658": {
+   "tracings": 3,
+   "site": "Mallia",
+   "attestations": [
+    {
+     "document": "MA 10b",
+     "position": 6,
+     "site": "Mallia",
+     "use": "logogram",
+     "distance": 2.95
+    },
+    {
+     "document": "MA 10c",
+     "position": 1,
+     "site": "Mallia",
+     "use": "logogram",
+     "distance": 2.96
+    },
+    {
+     "document": "MA 10a",
+     "position": 3,
+     "site": "Mallia",
+     "use": "logogram",
+     "distance": 3.41
+    }
+   ]
+  },
+  "A659": {
+   "tracings": 2,
+   "site": "Mallia",
+   "attestations": [
+    {
+     "document": "MA 10c",
+     "position": 2,
+     "site": "Mallia",
+     "use": "logogram",
+     "distance": 3.02
+    },
+    {
+     "document": "MA 10a",
+     "position": 4,
+     "site": "Mallia",
+     "use": "logogram",
+     "distance": 3.21
+    }
+   ]
+  },
+  "A660": {
+   "tracings": 1,
+   "site": "Mallia",
+   "attestations": [
+    {
+     "document": "MA 10a",
+     "position": 2,
+     "site": "Mallia",
+     "use": "logogram",
+     "distance": 4.15
+    }
+   ]
+  },
+  "A661": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "MA 10d",
+     "position": 2,
+     "site": "Mallia",
+     "use": "logogram",
+     "dots": 11
+    }
+   ]
+  },
+  "A662": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "MA 10d",
+     "position": 1,
+     "site": "Mallia",
+     "use": "logogram",
+     "dots": 23
+    }
+   ]
+  },
+  "A684": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "HT 20",
+     "position": 21,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 28
+    }
+   ]
+  },
+  "A701": {
+   "tracings": 14,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 120",
+     "position": 9,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 123a",
+     "position": 26,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 123b",
+     "position": 25,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 34",
+     "position": 16,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 91",
+     "position": 7,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 91",
+     "position": 9,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 91",
+     "position": 11,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 91",
+     "position": 13,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    }
+   ]
+  },
+  "A702": {
+   "tracings": 22,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 129",
+     "position": 6,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 16",
+     "position": 9,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 23a",
+     "position": 4,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 23b",
+     "position": 4,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 27a",
+     "position": 28,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 27a",
+     "position": 30,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 34",
+     "position": 9,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 35",
+     "position": 10,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    }
+   ]
+  },
+  "A703": {
+   "tracings": 26,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 100",
+     "position": 14,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 100",
+     "position": 15,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 120",
+     "position": 23,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 30",
+     "position": 7,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 30",
+     "position": 11,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 30",
+     "position": 12,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 30",
+     "position": 14,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 30",
+     "position": 24,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    }
+   ]
+  },
+  "A704": {
+   "tracings": 72,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 100",
+     "position": 12,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 100",
+     "position": 23,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 101",
+     "position": 22,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 10b",
+     "position": 21,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 110b",
+     "position": 14,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 123a",
+     "position": 6,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 123a",
+     "position": 16,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 123a",
+     "position": 30,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    }
+   ]
+  },
+  "A705": {
+   "tracings": 17,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 123b",
+     "position": 31,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 16",
+     "position": 7,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 16",
+     "position": 12,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 20",
+     "position": 14,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 20",
+     "position": 18,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 34",
+     "position": 29,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 50a",
+     "position": 15,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 51b",
+     "position": 7,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    }
+   ]
+  },
+  "A706": {
+   "tracings": 16,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 100",
+     "position": 19,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 123a",
+     "position": 49,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 147",
+     "position": 2,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 23a",
+     "position": 6,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 23a",
+     "position": 8,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 23a",
+     "position": 10,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 23a",
+     "position": 12,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 23a",
+     "position": 14,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    }
+   ]
+  },
+  "A707": {
+   "tracings": 115,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 100",
+     "position": 17,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 100",
+     "position": 22,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 103",
+     "position": 9,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 103",
+     "position": 20,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 104",
+     "position": 9,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 10a",
+     "position": 9,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 10a",
+     "position": 21,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 10b",
+     "position": 13,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    }
+   ]
+  },
+  "A708": {
+   "tracings": 23,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 12",
+     "position": 17,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 16",
+     "position": 16,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 23a",
+     "position": 23,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 23a",
+     "position": 27,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 32",
+     "position": 8,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 32",
+     "position": 10,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 34",
+     "position": 14,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 34",
+     "position": 27,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    }
+   ]
+  },
+  "A709": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "KH 96",
+     "position": 1,
+     "site": "Khania",
+     "use": "fraction",
+     "dots": 15
+    }
+   ]
+  },
+  "A710": {
+   "tracings": 1,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH 77",
+     "position": 2,
+     "site": "Khania",
+     "use": "fraction"
+    }
+   ]
+  },
+  "A711": {
+   "tracings": 3,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 123a",
+     "position": 10,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 91",
+     "position": 5,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 123a",
+     "position": 20,
+     "site": "Haghia Triada",
+     "use": "fraction",
+     "dots": 14
+    }
+   ]
+  },
+  "A713": {
+   "tracings": 1,
+   "site": "Mallia",
+   "attestations": [
+    {
+     "document": "MA 10b",
+     "position": 10,
+     "site": "Mallia",
+     "use": "fraction"
+    }
+   ]
+  },
+  "A717": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 6a",
+     "position": 12,
+     "site": "Haghia Triada"
+    }
+   ]
+  },
+  "A718": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 115a",
+     "position": 30,
+     "site": "Haghia Triada"
+    }
+   ]
+  },
+  "A1000": {
+   "tracings": 1,
+   "site": "Phaistos",
+   "attestations": [
+    {
+     "document": "PH 31a",
+     "position": 14,
+     "site": "Phaistos",
+     "use": "logogram"
+    }
+   ]
+  },
+  "A1001": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "PH 31b",
+     "position": 19,
+     "site": "Phaistos",
+     "use": "logogram",
+     "dots": 29
+    }
+   ]
+  },
+  "A7092": {
+   "tracings": 12,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 123b",
+     "position": 20,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 28a",
+     "position": 13,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 33",
+     "position": 8,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 33",
+     "position": 12,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 45b",
+     "position": 4,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 45b",
+     "position": 10,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 60",
+     "position": 10,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "KH 82",
+     "position": 2,
+     "site": "Khania",
+     "use": "fraction"
+    }
+   ]
+  },
+  "A7093": {
+   "tracings": 2,
+   "site": "Knossos",
+   "attestations": [
+    {
+     "document": "KN 28b",
+     "position": 3,
+     "site": "Knossos",
+     "use": "fraction"
+    },
+    {
+     "document": "KN 28b",
+     "position": 6,
+     "site": "Knossos",
+     "use": "fraction"
+    }
+   ]
+  },
+  "A7094": {
+   "tracings": 2,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 33",
+     "position": 9,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    },
+    {
+     "document": "HT 81",
+     "position": 8,
+     "site": "Haghia Triada",
+     "use": "fraction"
+    }
+   ]
+  },
+  "A7096": {
+   "tracings": 2,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH 76",
+     "position": 4,
+     "site": "Khania",
+     "use": "fraction"
+    },
+    {
+     "document": "KN 49",
+     "position": 2,
+     "site": "Knossos",
+     "use": "fraction",
+     "dots": 16
+    }
+   ]
+  },
+  "AB01": {
+   "tracings": 105,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT Wa 1001",
+     "position": 1,
+     "site": "Haghia Triada",
+     "distance": 1.81
+    },
+    {
+     "document": "HT 95a",
+     "position": 1,
+     "site": "Haghia Triada",
+     "distance": 1.87
+    },
+    {
+     "document": "HT 117a",
+     "position": 60,
+     "site": "Haghia Triada",
+     "distance": 1.96
+    },
+    {
+     "document": "HT 6b",
+     "position": 14,
+     "site": "Haghia Triada",
+     "distance": 2.12
+    },
+    {
+     "document": "HT Wa 1003",
+     "position": 1,
+     "site": "Haghia Triada",
+     "distance": 2.13
+    },
+    {
+     "document": "HT 29",
+     "position": 24,
+     "site": "Haghia Triada",
+     "distance": 2.17
+    },
+    {
+     "document": "HT 117a",
+     "position": 46,
+     "site": "Haghia Triada",
+     "distance": 2.21
+    },
+    {
+     "document": "HT Wa 1004",
+     "position": 1,
+     "site": "Haghia Triada",
+     "distance": 2.29
+    }
+   ]
+  },
+  "AB02": {
+   "tracings": 94,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 122a",
+     "position": 44,
+     "site": "Haghia Triada",
+     "distance": 0.73
+    },
+    {
+     "document": "HT 31",
+     "position": 15,
+     "site": "Haghia Triada",
+     "distance": 0.84
+    },
+    {
+     "document": "HT 119",
+     "position": 20,
+     "site": "Haghia Triada",
+     "distance": 1.16
+    },
+    {
+     "document": "HT 117a",
+     "position": 6,
+     "site": "Haghia Triada",
+     "distance": 1.18
+    },
+    {
+     "document": "HT 88",
+     "position": 31,
+     "site": "Haghia Triada",
+     "distance": 1.63
+    },
+    {
+     "document": "HT 38",
+     "position": 3,
+     "site": "Haghia Triada",
+     "distance": 1.77
+    },
+    {
+     "document": "HT 1",
+     "position": 5,
+     "site": "Haghia Triada",
+     "distance": 1.89
+    },
+    {
+     "document": "HT 116a",
+     "position": 3,
+     "site": "Haghia Triada",
+     "distance": 1.93
+    }
+   ]
+  },
+  "AB03": {
+   "tracings": 95,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 8b",
+     "position": 14,
+     "site": "Haghia Triada",
+     "distance": 1.58
+    },
+    {
+     "document": "HT 122a",
+     "position": 26,
+     "site": "Haghia Triada",
+     "distance": 1.7
+    },
+    {
+     "document": "HT 8b",
+     "position": 12,
+     "site": "Haghia Triada",
+     "distance": 1.7
+    },
+    {
+     "document": "HT 24a",
+     "position": 11,
+     "site": "Haghia Triada",
+     "distance": 1.85
+    },
+    {
+     "document": "HT 41a",
+     "position": 10,
+     "site": "Haghia Triada",
+     "distance": 1.87
+    },
+    {
+     "document": "HT Wc 3002",
+     "position": 1,
+     "site": "Haghia Triada",
+     "distance": 1.9
+    },
+    {
+     "document": "HT 102",
+     "position": 2,
+     "site": "Haghia Triada",
+     "distance": 2.03
+    },
+    {
+     "document": "HT 112a",
+     "position": 4,
+     "site": "Haghia Triada",
+     "distance": 2.15
+    }
+   ]
+  },
+  "AB04": {
+   "tracings": 86,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 98a",
+     "position": 15,
+     "site": "Haghia Triada",
+     "distance": 2.1
+    },
+    {
+     "document": "HT 8a",
+     "position": 11,
+     "site": "Haghia Triada",
+     "distance": 2.15
+    },
+    {
+     "document": "HT 86a",
+     "position": 23,
+     "site": "Haghia Triada",
+     "distance": 2.22
+    },
+    {
+     "document": "HT 12",
+     "position": 4,
+     "site": "Haghia Triada",
+     "distance": 2.24
+    },
+    {
+     "document": "HT 95b",
+     "position": 10,
+     "site": "Haghia Triada",
+     "distance": 2.32
+    },
+    {
+     "document": "HT Zb 158b",
+     "position": 4,
+     "site": "Haghia Triada",
+     "distance": 2.38
+    },
+    {
+     "document": "HT 117a",
+     "position": 34,
+     "site": "Haghia Triada",
+     "distance": 2.54
+    },
+    {
+     "document": "HT 34",
+     "position": 3,
+     "site": "Haghia Triada",
+     "distance": 2.67
+    }
+   ]
+  },
+  "AB05": {
+   "tracings": 14,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 131b",
+     "position": 6,
+     "site": "Haghia Triada",
+     "distance": 1.71
+    },
+    {
+     "document": "HT 122b",
+     "position": 24,
+     "site": "Haghia Triada",
+     "distance": 3.03
+    },
+    {
+     "document": "HT 120",
+     "position": 22,
+     "site": "Haghia Triada",
+     "distance": 3.32
+    },
+    {
+     "document": "HT 97a",
+     "position": 11,
+     "site": "Haghia Triada",
+     "distance": 4.09
+    },
+    {
+     "document": "HT 132",
+     "position": 6,
+     "site": "Haghia Triada",
+     "distance": 4.83
+    },
+    {
+     "document": "ARKH 2",
+     "position": 10,
+     "site": "Arkhanes",
+     "distance": 1.22
+    },
+    {
+     "document": "PE 2",
+     "position": 26,
+     "site": "Petras",
+     "distance": 1.36
+    },
+    {
+     "document": "KH 11",
+     "position": 14,
+     "site": "Khania",
+     "distance": 1.37
+    }
+   ]
+  },
+  "AB06": {
+   "tracings": 103,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 102",
+     "position": 15,
+     "site": "Haghia Triada",
+     "distance": 0.83
+    },
+    {
+     "document": "HT 11a",
+     "position": 7,
+     "site": "Haghia Triada",
+     "distance": 0.9
+    },
+    {
+     "document": "HT 64",
+     "position": 4,
+     "site": "Haghia Triada",
+     "distance": 1.01
+    },
+    {
+     "document": "HT 98a",
+     "position": 6,
+     "site": "Haghia Triada",
+     "distance": 1.01
+    },
+    {
+     "document": "HT 10b",
+     "position": 9,
+     "site": "Haghia Triada",
+     "distance": 1.04
+    },
+    {
+     "document": "HT 115a",
+     "position": 15,
+     "site": "Haghia Triada",
+     "distance": 1.05
+    },
+    {
+     "document": "HT Wa 1020γ",
+     "position": 3,
+     "site": "Haghia Triada",
+     "distance": 1.16
+    },
+    {
+     "document": "HT 7a",
+     "position": 10,
+     "site": "Haghia Triada",
+     "distance": 1.25
+    }
+   ]
+  },
+  "AB07": {
+   "tracings": 89,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 101",
+     "position": 3,
+     "site": "Haghia Triada",
+     "distance": 1.75
+    },
+    {
+     "document": "HT 8a",
+     "position": 2,
+     "site": "Haghia Triada",
+     "distance": 1.91
+    },
+    {
+     "document": "HT 98a",
+     "position": 12,
+     "site": "Haghia Triada",
+     "distance": 2.07
+    },
+    {
+     "document": "HT 85b",
+     "position": 29,
+     "site": "Haghia Triada",
+     "distance": 2.34
+    },
+    {
+     "document": "HT 36",
+     "position": 2,
+     "site": "Haghia Triada",
+     "distance": 2.41
+    },
+    {
+     "document": "HT 118",
+     "position": 4,
+     "site": "Haghia Triada",
+     "distance": 2.42
+    },
+    {
+     "document": "HT Wc 3011",
+     "position": 2,
+     "site": "Haghia Triada",
+     "distance": 2.44
+    },
+    {
+     "document": "HT 19",
+     "position": 11,
+     "site": "Haghia Triada",
+     "distance": 2.46
+    }
+   ]
+  },
+  "AB08": {
+   "tracings": 144,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 96a",
+     "position": 6,
+     "site": "Haghia Triada",
+     "distance": 1.19
+    },
+    {
+     "document": "HT 86b",
+     "position": 1,
+     "site": "Haghia Triada",
+     "distance": 1.68
+    },
+    {
+     "document": "HT 122b",
+     "position": 9,
+     "site": "Haghia Triada",
+     "distance": 1.74
+    },
+    {
+     "document": "HT Zd 155",
+     "position": 1,
+     "site": "Haghia Triada",
+     "distance": 1.83
+    },
+    {
+     "document": "HT 4",
+     "position": 5,
+     "site": "Haghia Triada",
+     "distance": 1.86
+    },
+    {
+     "document": "HT 115a",
+     "position": 27,
+     "site": "Haghia Triada",
+     "distance": 1.88
+    },
+    {
+     "document": "HT 95b",
+     "position": 1,
+     "site": "Haghia Triada",
+     "distance": 1.95
+    },
+    {
+     "document": "HT 133",
+     "position": 1,
+     "site": "Haghia Triada",
+     "distance": 1.96
+    }
+   ]
+  },
+  "AB09": {
+   "tracings": 54,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 132",
+     "position": 2,
+     "site": "Haghia Triada",
+     "distance": 2.33
+    },
+    {
+     "document": "HT 115a",
+     "position": 28,
+     "site": "Haghia Triada",
+     "distance": 2.4
+    },
+    {
+     "document": "HT 115a",
+     "position": 20,
+     "site": "Haghia Triada",
+     "distance": 2.96
+    },
+    {
+     "document": "HT 18",
+     "position": 2,
+     "site": "Haghia Triada",
+     "distance": 3.27
+    },
+    {
+     "document": "HT 81",
+     "position": 2,
+     "site": "Haghia Triada",
+     "distance": 3.44
+    },
+    {
+     "document": "HT 85b",
+     "position": 23,
+     "site": "Haghia Triada",
+     "distance": 3.68
+    },
+    {
+     "document": "HT 117b",
+     "position": 9,
+     "site": "Haghia Triada",
+     "distance": 3.78
+    },
+    {
+     "document": "HT 93a",
+     "position": 17,
+     "site": "Haghia Triada",
+     "distance": 3.84
+    }
+   ]
+  },
+  "AB10": {
+   "tracings": 47,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 140",
+     "position": 1,
+     "site": "Haghia Triada",
+     "distance": 2.22
+    },
+    {
+     "document": "HT 25a",
+     "position": 6,
+     "site": "Haghia Triada",
+     "distance": 2.3
+    },
+    {
+     "document": "HT 9a",
+     "position": 13,
+     "site": "Haghia Triada",
+     "distance": 2.4
+    },
+    {
+     "document": "HT 58",
+     "position": 10,
+     "site": "Haghia Triada",
+     "distance": 2.74
+    },
+    {
+     "document": "HT 13",
+     "position": 2,
+     "site": "Haghia Triada",
+     "distance": 2.77
+    },
+    {
+     "document": "HT 95a",
+     "position": 21,
+     "site": "Haghia Triada",
+     "distance": 2.83
+    },
+    {
+     "document": "HT 26b",
+     "position": 8,
+     "site": "Haghia Triada",
+     "distance": 3.0
+    },
+    {
+     "document": "HT 85a",
+     "position": 10,
+     "site": "Haghia Triada",
+     "distance": 3.01
+    }
+   ]
+  },
+  "AB11": {
+   "tracings": 6,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 115a",
+     "position": 32,
+     "site": "Haghia Triada",
+     "distance": 2.33
+    },
+    {
+     "document": "HT 122b",
+     "position": 23,
+     "site": "Haghia Triada",
+     "distance": 2.7
+    },
+    {
+     "document": "HT 16",
+     "position": 14,
+     "site": "Haghia Triada",
+     "distance": 9.98
+    },
+    {
+     "document": "KH 9",
+     "position": 4,
+     "site": "Khania",
+     "distance": 2.19
+    },
+    {
+     "document": "KN 22b",
+     "position": 1,
+     "site": "Knossos",
+     "distance": 5.34
+    },
+    {
+     "document": "HT 131b",
+     "position": 5,
+     "site": "Haghia Triada",
+     "dots": 10
+    }
+   ]
+  },
+  "AB13": {
+   "tracings": 20,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 85b",
+     "position": 19,
+     "site": "Haghia Triada",
+     "distance": 3.05
+    },
+    {
+     "document": "HT 51b",
+     "position": 2,
+     "site": "Haghia Triada",
+     "distance": 3.34
+    },
+    {
+     "document": "HT 95a",
+     "position": 7,
+     "site": "Haghia Triada",
+     "distance": 4.15
+    },
+    {
+     "document": "HT 23a",
+     "position": 26,
+     "site": "Haghia Triada",
+     "distance": 4.24
+    },
+    {
+     "document": "HT 86a",
+     "position": 19,
+     "site": "Haghia Triada",
+     "distance": 4.25
+    },
+    {
+     "document": "HT 10a",
+     "position": 25,
+     "site": "Haghia Triada",
+     "distance": 4.76
+    },
+    {
+     "document": "HT 120",
+     "position": 5,
+     "site": "Haghia Triada",
+     "distance": 5.17
+    },
+    {
+     "document": "HT 19",
+     "position": 10,
+     "site": "Haghia Triada",
+     "distance": 6.25
+    }
+   ]
+  },
+  "AB16": {
+   "tracings": 31,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 12",
+     "position": 1,
+     "site": "Haghia Triada",
+     "distance": 2.57
+    },
+    {
+     "document": "HT 118",
+     "position": 7,
+     "site": "Haghia Triada",
+     "distance": 3.43
+    },
+    {
+     "document": "HT 44a",
+     "position": 2,
+     "site": "Haghia Triada",
+     "distance": 3.43
+    },
+    {
+     "document": "HT 131a",
+     "position": 4,
+     "site": "Haghia Triada",
+     "distance": 3.44
+    },
+    {
+     "document": "HT 8a",
+     "position": 13,
+     "site": "Haghia Triada",
+     "distance": 3.61
+    },
+    {
+     "document": "HT 8b",
+     "position": 6,
+     "site": "Haghia Triada",
+     "distance": 3.61
+    },
+    {
+     "document": "HT 122a",
+     "position": 13,
+     "site": "Haghia Triada",
+     "distance": 3.68
+    },
+    {
+     "document": "HT Wc 3017a",
+     "position": 1,
+     "site": "Haghia Triada",
+     "distance": 3.85
+    }
+   ]
+  },
+  "AB17": {
+   "tracings": 35,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 122a",
+     "position": 5,
+     "site": "Haghia Triada",
+     "distance": 2.72
+    },
+    {
+     "document": "HT 88",
+     "position": 6,
+     "site": "Haghia Triada",
+     "distance": 2.73
+    },
+    {
+     "document": "HT 1",
+     "position": 10,
+     "site": "Haghia Triada",
+     "distance": 2.74
+    },
+    {
+     "document": "HT 10a",
+     "position": 17,
+     "site": "Haghia Triada",
+     "distance": 2.99
+    },
+    {
+     "document": "HT 85b",
+     "position": 20,
+     "site": "Haghia Triada",
+     "distance": 3.16
+    },
+    {
+     "document": "HT 10a",
+     "position": 12,
+     "site": "Haghia Triada",
+     "distance": 3.18
+    },
+    {
+     "document": "HT 13",
+     "position": 8,
+     "site": "Haghia Triada",
+     "distance": 3.18
+    },
+    {
+     "document": "HT 85a",
+     "position": 12,
+     "site": "Haghia Triada",
+     "distance": 3.56
+    }
+   ]
+  },
+  "AB20": {
+   "tracings": 1,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH 57",
+     "position": 2,
+     "site": "Khania",
+     "distance": 1.63
+    }
+   ]
+  },
+  "AB21": {
+   "tracings": 3,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH Wc 2062",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 7.79
+    },
+    {
+     "document": "KH Wc 2102",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 8.74
+    },
+    {
+     "document": "HT 38",
+     "position": 6,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 7.98
+    }
+   ]
+  },
+  "AB21F": {
+   "tracings": 35,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 115a",
+     "position": 16,
+     "site": "Haghia Triada"
+    },
+    {
+     "document": "HT 117b",
+     "position": 1,
+     "site": "Haghia Triada"
+    },
+    {
+     "document": "HT 129",
+     "position": 10,
+     "site": "Haghia Triada"
+    },
+    {
+     "document": "HT 135a",
+     "position": 9,
+     "site": "Haghia Triada"
+    },
+    {
+     "document": "HT 26a",
+     "position": 13,
+     "site": "Haghia Triada"
+    },
+    {
+     "document": "HT 28b",
+     "position": 19,
+     "site": "Haghia Triada"
+    },
+    {
+     "document": "HT 7b",
+     "position": 1,
+     "site": "Haghia Triada"
+    },
+    {
+     "document": "HT 84",
+     "position": 1,
+     "site": "Haghia Triada"
+    }
+   ]
+  },
+  "AB21M": {
+   "tracings": 6,
+   "site": "Phaistos",
+   "attestations": [
+    {
+     "document": "PH 31a",
+     "position": 21,
+     "site": "Phaistos",
+     "use": "logogram"
+    },
+    {
+     "document": "PH 31b",
+     "position": 18,
+     "site": "Phaistos",
+     "use": "logogram"
+    },
+    {
+     "document": "PH 31b",
+     "position": 25,
+     "site": "Phaistos",
+     "use": "logogram"
+    },
+    {
+     "document": "ZA 22",
+     "position": 2,
+     "site": "Zakros",
+     "use": "logogram"
+    },
+    {
+     "document": "PH 31b",
+     "position": 13,
+     "site": "Phaistos",
+     "use": "logogram",
+     "dots": 19
+    },
+    {
+     "document": "PH 31a",
+     "position": 8,
+     "site": "Phaistos",
+     "use": "logogram",
+     "dots": 23
+    }
+   ]
+  },
+  "AB22": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT Wc 3014b",
+     "position": 2,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 6.63
+    }
+   ]
+  },
+  "AB22F": {
+   "tracings": 5,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 101",
+     "position": 2,
+     "site": "Haghia Triada"
+    },
+    {
+     "document": "HT 64",
+     "position": 7,
+     "site": "Haghia Triada",
+     "use": "logogram"
+    },
+    {
+     "document": "PH 31b",
+     "position": 10,
+     "site": "Phaistos",
+     "use": "logogram"
+    },
+    {
+     "document": "PH 31b",
+     "position": 1,
+     "site": "Phaistos",
+     "use": "logogram",
+     "dots": 11
+    },
+    {
+     "document": "THE 12",
+     "position": 1,
+     "site": "Thera",
+     "use": "logogram",
+     "dots": 26
+    }
+   ]
+  },
+  "AB22M": {
+   "tracings": 5,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 20",
+     "position": 13,
+     "site": "Haghia Triada",
+     "use": "logogram"
+    },
+    {
+     "document": "KH 6",
+     "position": 17,
+     "site": "Khania",
+     "use": "logogram"
+    },
+    {
+     "document": "PH 31b",
+     "position": 9,
+     "site": "Phaistos",
+     "use": "logogram"
+    },
+    {
+     "document": "PH 31b",
+     "position": 5,
+     "site": "Phaistos",
+     "use": "logogram",
+     "dots": 16
+    },
+    {
+     "document": "KN Wc 29",
+     "position": 1,
+     "site": "Knossos",
+     "use": "logogram",
+     "dots": 21
+    }
+   ]
+  },
+  "AB23": {
+   "tracings": 11,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 117a",
+     "position": 17,
+     "site": "Haghia Triada",
+     "distance": 4.77
+    },
+    {
+     "document": "HT 46a",
+     "position": 1,
+     "site": "Haghia Triada",
+     "distance": 4.9
+    },
+    {
+     "document": "HT 3",
+     "position": 10,
+     "site": "Haghia Triada",
+     "distance": 7.45
+    },
+    {
+     "document": "HT 78",
+     "position": 1,
+     "site": "Haghia Triada",
+     "distance": 7.48
+    },
+    {
+     "document": "ZA 21a",
+     "position": 4,
+     "site": "Zakros",
+     "distance": 2.94
+    },
+    {
+     "document": "KN Za 10a",
+     "position": 3,
+     "site": "Knossos",
+     "distance": 3.4
+    },
+    {
+     "document": "ZA 15a",
+     "position": 27,
+     "site": "Zakros",
+     "distance": 6.21
+    },
+    {
+     "document": "KN Zf 13",
+     "position": 16,
+     "site": "Knossos",
+     "distance": 6.36
+    }
+   ]
+  },
+  "AB23M": {
+   "tracings": 7,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 114a",
+     "position": 10,
+     "site": "Haghia Triada",
+     "use": "logogram"
+    },
+    {
+     "document": "HT 121",
+     "position": 11,
+     "site": "Haghia Triada",
+     "use": "logogram"
+    },
+    {
+     "document": "HT 30",
+     "position": 19,
+     "site": "Haghia Triada",
+     "use": "logogram"
+    },
+    {
+     "document": "HT 30",
+     "position": 28,
+     "site": "Haghia Triada",
+     "use": "logogram"
+    },
+    {
+     "document": "GO Wc 1b",
+     "position": 1,
+     "site": "Gournia",
+     "use": "logogram"
+    },
+    {
+     "document": "KH 97",
+     "position": 5,
+     "site": "Khania",
+     "use": "logogram"
+    },
+    {
+     "document": "KH Wc 2069",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram"
+    }
+   ]
+  },
+  "AB24": {
+   "tracings": 47,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 117b",
+     "position": 3,
+     "site": "Haghia Triada",
+     "distance": 1.65
+    },
+    {
+     "document": "HT 96b",
+     "position": 4,
+     "site": "Haghia Triada",
+     "distance": 2.01
+    },
+    {
+     "document": "HT 127a",
+     "position": 2,
+     "site": "Haghia Triada",
+     "distance": 2.58
+    },
+    {
+     "document": "HT 115a",
+     "position": 26,
+     "site": "Haghia Triada",
+     "distance": 2.66
+    },
+    {
+     "document": "HT 12",
+     "position": 9,
+     "site": "Haghia Triada",
+     "distance": 2.87
+    },
+    {
+     "document": "HT 115b",
+     "position": 4,
+     "site": "Haghia Triada",
+     "distance": 2.98
+    },
+    {
+     "document": "HT 13",
+     "position": 23,
+     "site": "Haghia Triada",
+     "distance": 3.1
+    },
+    {
+     "document": "HT 7b",
+     "position": 3,
+     "site": "Haghia Triada",
+     "distance": 3.1
+    }
+   ]
+  },
+  "AB26": {
+   "tracings": 72,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 25a",
+     "position": 4,
+     "site": "Haghia Triada",
+     "distance": 1.69
+    },
+    {
+     "document": "HT 3",
+     "position": 11,
+     "site": "Haghia Triada",
+     "distance": 1.8
+    },
+    {
+     "document": "HT 93a",
+     "position": 25,
+     "site": "Haghia Triada",
+     "distance": 1.9
+    },
+    {
+     "document": "HT 128a",
+     "position": 5,
+     "site": "Haghia Triada",
+     "distance": 1.98
+    },
+    {
+     "document": "HT 7b",
+     "position": 5,
+     "site": "Haghia Triada",
+     "distance": 2.04
+    },
+    {
+     "document": "HT 10b",
+     "position": 16,
+     "site": "Haghia Triada",
+     "distance": 2.25
+    },
+    {
+     "document": "HT 115a",
+     "position": 33,
+     "site": "Haghia Triada",
+     "distance": 2.27
+    },
+    {
+     "document": "HT 95b",
+     "position": 4,
+     "site": "Haghia Triada",
+     "distance": 2.32
+    }
+   ]
+  },
+  "AB27": {
+   "tracings": 99,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 98a",
+     "position": 11,
+     "site": "Haghia Triada",
+     "distance": 0.87
+    },
+    {
+     "document": "HT 13",
+     "position": 7,
+     "site": "Haghia Triada",
+     "distance": 1.32
+    },
+    {
+     "document": "HT 20",
+     "position": 10,
+     "site": "Haghia Triada",
+     "distance": 2.07
+    },
+    {
+     "document": "HT 117b",
+     "position": 5,
+     "site": "Haghia Triada",
+     "distance": 2.16
+    },
+    {
+     "document": "HT 96b",
+     "position": 8,
+     "site": "Haghia Triada",
+     "distance": 2.26
+    },
+    {
+     "document": "HT 10a",
+     "position": 8,
+     "site": "Haghia Triada",
+     "distance": 2.3
+    },
+    {
+     "document": "HT 132",
+     "position": 5,
+     "site": "Haghia Triada",
+     "distance": 2.45
+    },
+    {
+     "document": "HT 88",
+     "position": 29,
+     "site": "Haghia Triada",
+     "distance": 2.65
+    }
+   ]
+  },
+  "AB28": {
+   "tracings": 104,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 123b",
+     "position": 28,
+     "site": "Haghia Triada",
+     "distance": 2.47
+    },
+    {
+     "document": "HT 49b",
+     "position": 2,
+     "site": "Haghia Triada",
+     "distance": 2.62
+    },
+    {
+     "document": "HT 27a",
+     "position": 8,
+     "site": "Haghia Triada",
+     "distance": 2.88
+    },
+    {
+     "document": "HT 89",
+     "position": 8,
+     "site": "Haghia Triada",
+     "distance": 2.99
+    },
+    {
+     "document": "HT 44a",
+     "position": 1,
+     "site": "Haghia Triada",
+     "distance": 3.06
+    },
+    {
+     "document": "HT 12",
+     "position": 19,
+     "site": "Haghia Triada",
+     "distance": 3.08
+    },
+    {
+     "document": "HT 8b",
+     "position": 8,
+     "site": "Haghia Triada",
+     "distance": 3.14
+    },
+    {
+     "document": "HT 28a",
+     "position": 28,
+     "site": "Haghia Triada",
+     "distance": 3.16
+    }
+   ]
+  },
+  "AB28B": {
+   "tracings": 5,
+   "site": "Zakros",
+   "attestations": [
+    {
+     "document": "ZA 15a",
+     "position": 18,
+     "site": "Zakros"
+    },
+    {
+     "document": "ZA 4a",
+     "position": 20,
+     "site": "Zakros"
+    },
+    {
+     "document": "ZA 5b",
+     "position": 1,
+     "site": "Zakros"
+    },
+    {
+     "document": "ZA 6b",
+     "position": 5,
+     "site": "Zakros"
+    },
+    {
+     "document": "HT 62+73",
+     "position": 12,
+     "site": "Haghia Triada"
+    }
+   ]
+  },
+  "AB29": {
+   "tracings": 7,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 63",
+     "position": 6,
+     "site": "Haghia Triada",
+     "distance": 2.72
+    },
+    {
+     "document": "HT 14",
+     "position": 11,
+     "site": "Haghia Triada",
+     "distance": 3.2
+    },
+    {
+     "document": "HT 25a",
+     "position": 21,
+     "site": "Haghia Triada",
+     "distance": 5.26
+    },
+    {
+     "document": "ZA 6a",
+     "position": 14,
+     "site": "Zakros",
+     "distance": 5.45
+    },
+    {
+     "document": "HT 8b",
+     "position": 2,
+     "site": "Haghia Triada",
+     "dots": 12
+    },
+    {
+     "document": "HT Zb 160",
+     "position": 5,
+     "site": "Haghia Triada",
+     "dots": 14
+    },
+    {
+     "document": "HT 49a",
+     "position": 28,
+     "site": "Haghia Triada",
+     "dots": 20
+    }
+   ]
+  },
+  "AB30": {
+   "tracings": 114,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 49a",
+     "position": 14,
+     "site": "Haghia Triada",
+     "distance": 3.6
+    },
+    {
+     "document": "HT 95b",
+     "position": 12,
+     "site": "Haghia Triada",
+     "distance": 3.65
+    },
+    {
+     "document": "HT 96a",
+     "position": 5,
+     "site": "Haghia Triada",
+     "distance": 3.66
+    },
+    {
+     "document": "HT 23b",
+     "position": 1,
+     "site": "Haghia Triada",
+     "distance": 3.99
+    },
+    {
+     "document": "HT 86b",
+     "position": 5,
+     "site": "Haghia Triada",
+     "distance": 4.17
+    },
+    {
+     "document": "HT 25a",
+     "position": 14,
+     "site": "Haghia Triada",
+     "distance": 4.28
+    },
+    {
+     "document": "HT 27a",
+     "position": 2,
+     "site": "Haghia Triada",
+     "distance": 4.4
+    },
+    {
+     "document": "HT 25a",
+     "position": 5,
+     "site": "Haghia Triada",
+     "distance": 4.46
+    }
+   ]
+  },
+  "AB31": {
+   "tracings": 91,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 10a",
+     "position": 4,
+     "site": "Haghia Triada",
+     "distance": 1.31
+    },
+    {
+     "document": "HT 53a",
+     "position": 2,
+     "site": "Haghia Triada",
+     "distance": 1.43
+    },
+    {
+     "document": "HT 95b",
+     "position": 3,
+     "site": "Haghia Triada",
+     "distance": 1.62
+    },
+    {
+     "document": "HT 90",
+     "position": 5,
+     "site": "Haghia Triada",
+     "distance": 1.65
+    },
+    {
+     "document": "HT 99a",
+     "position": 3,
+     "site": "Haghia Triada",
+     "distance": 1.98
+    },
+    {
+     "document": "HT 9a",
+     "position": 1,
+     "site": "Haghia Triada",
+     "distance": 2.22
+    },
+    {
+     "document": "HT 100",
+     "position": 9,
+     "site": "Haghia Triada",
+     "distance": 2.25
+    },
+    {
+     "document": "HT 34",
+     "position": 6,
+     "site": "Haghia Triada",
+     "distance": 2.33
+    }
+   ]
+  },
+  "AB34": {
+   "tracings": 9,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 140",
+     "position": 2,
+     "site": "Haghia Triada",
+     "distance": 4.32
+    },
+    {
+     "document": "HT 15",
+     "position": 2,
+     "site": "Haghia Triada",
+     "distance": 4.61
+    },
+    {
+     "document": "HT 140",
+     "position": 13,
+     "site": "Haghia Triada",
+     "distance": 6.55
+    },
+    {
+     "document": "HT 116a",
+     "position": 19,
+     "site": "Haghia Triada",
+     "distance": 6.74
+    },
+    {
+     "document": "TY 2",
+     "position": 3,
+     "site": "Tylissos",
+     "distance": 6.79
+    },
+    {
+     "document": "ZA 6a",
+     "position": 5,
+     "site": "Zakros",
+     "distance": 9.29
+    },
+    {
+     "document": "KN Zc 6",
+     "position": 1,
+     "site": "Knossos",
+     "distance": 10.03
+    },
+    {
+     "document": "HT 135b",
+     "position": 2,
+     "site": "Haghia Triada",
+     "dots": 8
+    }
+   ]
+  },
+  "AB37": {
+   "tracings": 81,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 96a",
+     "position": 2,
+     "site": "Haghia Triada",
+     "distance": 1.65
+    },
+    {
+     "document": "HT 35",
+     "position": 1,
+     "site": "Haghia Triada",
+     "distance": 1.83
+    },
+    {
+     "document": "HT 96a",
+     "position": 3,
+     "site": "Haghia Triada",
+     "distance": 1.89
+    },
+    {
+     "document": "HT 63",
+     "position": 4,
+     "site": "Haghia Triada",
+     "distance": 2.26
+    },
+    {
+     "document": "HT 35",
+     "position": 2,
+     "site": "Haghia Triada",
+     "distance": 2.42
+    },
+    {
+     "document": "HT 104",
+     "position": 17,
+     "site": "Haghia Triada",
+     "distance": 2.44
+    },
+    {
+     "document": "HT 62+73",
+     "position": 13,
+     "site": "Haghia Triada",
+     "distance": 2.55
+    },
+    {
+     "document": "HT 104",
+     "position": 8,
+     "site": "Haghia Triada",
+     "distance": 2.77
+    }
+   ]
+  },
+  "AB38": {
+   "tracings": 26,
+   "site": "Zakros",
+   "attestations": [
+    {
+     "document": "ZA 4a",
+     "position": 19,
+     "site": "Zakros",
+     "distance": 3.08
+    },
+    {
+     "document": "ZA 15a",
+     "position": 9,
+     "site": "Zakros",
+     "distance": 3.21
+    },
+    {
+     "document": "ZA 4a",
+     "position": 27,
+     "site": "Zakros",
+     "distance": 3.35
+    },
+    {
+     "document": "ZA 15a",
+     "position": 30,
+     "site": "Zakros",
+     "distance": 3.59
+    },
+    {
+     "document": "ZA 11b",
+     "position": 1,
+     "site": "Zakros",
+     "distance": 3.8
+    },
+    {
+     "document": "ZA 5a",
+     "position": 15,
+     "site": "Zakros",
+     "distance": 3.82
+    },
+    {
+     "document": "ZA 4a",
+     "position": 1,
+     "site": "Zakros",
+     "use": "logogram",
+     "distance": 4.19
+    },
+    {
+     "document": "PH 2",
+     "position": 11,
+     "site": "Phaistos",
+     "distance": 2.77
+    }
+   ]
+  },
+  "AB39": {
+   "tracings": 38,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 116a",
+     "position": 18,
+     "site": "Haghia Triada",
+     "distance": 2.15
+    },
+    {
+     "document": "HT 6a",
+     "position": 8,
+     "site": "Haghia Triada",
+     "distance": 2.59
+    },
+    {
+     "document": "HT 4",
+     "position": 14,
+     "site": "Haghia Triada",
+     "distance": 2.72
+    },
+    {
+     "document": "HT 87",
+     "position": 8,
+     "site": "Haghia Triada",
+     "distance": 2.83
+    },
+    {
+     "document": "HT 21",
+     "position": 1,
+     "site": "Haghia Triada",
+     "distance": 3.28
+    },
+    {
+     "document": "HT 6a",
+     "position": 28,
+     "site": "Haghia Triada",
+     "distance": 3.68
+    },
+    {
+     "document": "HT 123b",
+     "position": 10,
+     "site": "Haghia Triada",
+     "distance": 3.69
+    },
+    {
+     "document": "ZA 21a",
+     "position": 3,
+     "site": "Zakros",
+     "distance": 1.89
+    }
+   ]
+  },
+  "AB40": {
+   "tracings": 21,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 115b",
+     "position": 11,
+     "site": "Haghia Triada",
+     "distance": 2.5
+    },
+    {
+     "document": "HT 25a",
+     "position": 24,
+     "site": "Haghia Triada",
+     "distance": 2.57
+    },
+    {
+     "document": "HT Zd 157",
+     "position": 1,
+     "site": "Haghia Triada",
+     "distance": 3.25
+    },
+    {
+     "document": "HT 115a",
+     "position": 11,
+     "site": "Haghia Triada",
+     "distance": 3.29
+    },
+    {
+     "document": "HT 5",
+     "position": 5,
+     "site": "Haghia Triada",
+     "distance": 3.5
+    },
+    {
+     "document": "HT 28b",
+     "position": 22,
+     "site": "Haghia Triada",
+     "distance": 4.23
+    },
+    {
+     "document": "KH 5",
+     "position": 10,
+     "site": "Khania",
+     "distance": 2.75
+    },
+    {
+     "document": "ZA 14",
+     "position": 24,
+     "site": "Zakros",
+     "distance": 2.88
+    }
+   ]
+  },
+  "AB41": {
+   "tracings": 107,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 4",
+     "position": 15,
+     "site": "Haghia Triada",
+     "distance": 2.0
+    },
+    {
+     "document": "HT 140",
+     "position": 3,
+     "site": "Haghia Triada",
+     "distance": 2.15
+    },
+    {
+     "document": "HT 28b",
+     "position": 2,
+     "site": "Haghia Triada",
+     "distance": 2.45
+    },
+    {
+     "document": "HT 96a",
+     "position": 13,
+     "site": "Haghia Triada",
+     "distance": 2.62
+    },
+    {
+     "document": "HT 122a",
+     "position": 20,
+     "site": "Haghia Triada",
+     "distance": 2.63
+    },
+    {
+     "document": "HT 28b",
+     "position": 8,
+     "site": "Haghia Triada",
+     "distance": 2.64
+    },
+    {
+     "document": "HT 117a",
+     "position": 10,
+     "site": "Haghia Triada",
+     "distance": 2.68
+    },
+    {
+     "document": "HT 122a",
+     "position": 7,
+     "site": "Haghia Triada",
+     "distance": 2.76
+    }
+   ]
+  },
+  "AB43": {
+   "tracings": 1,
+   "site": "Mycenae",
+   "attestations": [
+    {
+     "document": "MY Zf 2",
+     "position": 1,
+     "site": "Mycenae"
+    }
+   ]
+  },
+  "AB44": {
+   "tracings": 10,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 87",
+     "position": 10,
+     "site": "Haghia Triada",
+     "distance": 2.72
+    },
+    {
+     "document": "HT 1",
+     "position": 11,
+     "site": "Haghia Triada",
+     "distance": 2.88
+    },
+    {
+     "document": "HT 98a",
+     "position": 20,
+     "site": "Haghia Triada",
+     "distance": 3.26
+    },
+    {
+     "document": "HT 85a",
+     "position": 20,
+     "site": "Haghia Triada",
+     "distance": 3.83
+    },
+    {
+     "document": "ZA 15a",
+     "position": 32,
+     "site": "Zakros",
+     "distance": 2.46
+    },
+    {
+     "document": "KN Zf 13",
+     "position": 8,
+     "site": "Knossos",
+     "distance": 3.71
+    },
+    {
+     "document": "PS Za 2",
+     "position": 16,
+     "site": "Psykhro",
+     "distance": 4.17
+    },
+    {
+     "document": "HT 94b",
+     "position": 10,
+     "site": "Haghia Triada",
+     "dots": 6
+    }
+   ]
+  },
+  "AB45": {
+   "tracings": 30,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 9a",
+     "position": 6,
+     "site": "Haghia Triada",
+     "distance": 3.99
+    },
+    {
+     "document": "HT 122a",
+     "position": 27,
+     "site": "Haghia Triada",
+     "distance": 4.41
+    },
+    {
+     "document": "HT 13",
+     "position": 3,
+     "site": "Haghia Triada",
+     "distance": 4.43
+    },
+    {
+     "document": "HT 86b",
+     "position": 12,
+     "site": "Haghia Triada",
+     "distance": 4.73
+    },
+    {
+     "document": "HT 86a",
+     "position": 11,
+     "site": "Haghia Triada",
+     "distance": 4.74
+    },
+    {
+     "document": "HT 31",
+     "position": 21,
+     "site": "Haghia Triada",
+     "distance": 5.39
+    },
+    {
+     "document": "HT 95b",
+     "position": 15,
+     "site": "Haghia Triada",
+     "distance": 5.55
+    },
+    {
+     "document": "HT 122a",
+     "position": 4,
+     "site": "Haghia Triada",
+     "distance": 5.59
+    }
+   ]
+  },
+  "AB46": {
+   "tracings": 10,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 36",
+     "position": 1,
+     "site": "Haghia Triada",
+     "distance": 2.83
+    },
+    {
+     "document": "HT 8a",
+     "position": 1,
+     "site": "Haghia Triada",
+     "distance": 3.37
+    },
+    {
+     "document": "HT Wa 1020γ",
+     "position": 1,
+     "site": "Haghia Triada",
+     "distance": 5.15
+    },
+    {
+     "document": "PE 6",
+     "position": 8,
+     "site": "Petras",
+     "distance": 2.75
+    },
+    {
+     "document": "KN 22a",
+     "position": 5,
+     "site": "Knossos",
+     "distance": 3.94
+    },
+    {
+     "document": "KH 50",
+     "position": 3,
+     "site": "Khania",
+     "distance": 4.03
+    },
+    {
+     "document": "HT 122b",
+     "position": 1,
+     "site": "Haghia Triada",
+     "dots": 8
+    },
+    {
+     "document": "HT 140",
+     "position": 7,
+     "site": "Haghia Triada",
+     "dots": 9
+    }
+   ]
+  },
+  "AB47": {
+   "tracings": 8,
+   "site": "Arkhanes",
+   "attestations": [
+    {
+     "document": "ARKH 4a",
+     "position": 13,
+     "site": "Arkhanes",
+     "distance": 3.42
+    },
+    {
+     "document": "ARKH 4b",
+     "position": 7,
+     "site": "Arkhanes",
+     "distance": 3.5
+    },
+    {
+     "document": "ZA 15a",
+     "position": 1,
+     "site": "Zakros",
+     "distance": 2.97
+    },
+    {
+     "document": "HT 127a",
+     "position": 6,
+     "site": "Haghia Triada",
+     "distance": 3.22
+    },
+    {
+     "document": "HT 115a",
+     "position": 1,
+     "site": "Haghia Triada",
+     "distance": 4.2
+    },
+    {
+     "document": "MA 1b",
+     "position": 3,
+     "site": "Mallia",
+     "use": "logogram",
+     "distance": 1.95
+    },
+    {
+     "document": "MA 1a",
+     "position": 4,
+     "site": "Mallia",
+     "use": "logogram",
+     "distance": 2.54
+    },
+    {
+     "document": "KH 104",
+     "position": 6,
+     "site": "Khania",
+     "dots": 33
+    }
+   ]
+  },
+  "AB48": {
+   "tracings": 1,
+   "site": "Syme",
+   "attestations": [
+    {
+     "document": "SY Za 4",
+     "position": 9,
+     "site": "Syme",
+     "distance": 3.35
+    }
+   ]
+  },
+  "AB49": {
+   "tracings": 4,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 120",
+     "position": 12,
+     "site": "Haghia Triada",
+     "distance": 5.4
+    },
+    {
+     "document": "ZA 10b",
+     "position": 9,
+     "site": "Zakros",
+     "distance": 4.25
+    },
+    {
+     "document": "PE 2",
+     "position": 27,
+     "site": "Petras",
+     "distance": 5.17
+    },
+    {
+     "document": "HT 126a",
+     "position": 14,
+     "site": "Haghia Triada",
+     "dots": 12
+    }
+   ]
+  },
+  "AB50": {
+   "tracings": 21,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 87",
+     "position": 20,
+     "site": "Haghia Triada",
+     "distance": 3.23
+    },
+    {
+     "document": "HT 9b",
+     "position": 18,
+     "site": "Haghia Triada",
+     "distance": 3.38
+    },
+    {
+     "document": "HT 123a",
+     "position": 11,
+     "site": "Haghia Triada",
+     "distance": 3.92
+    },
+    {
+     "document": "HT 9a",
+     "position": 15,
+     "site": "Haghia Triada",
+     "distance": 3.92
+    },
+    {
+     "document": "HT 31",
+     "position": 12,
+     "site": "Haghia Triada",
+     "distance": 3.93
+    },
+    {
+     "document": "HT Zb 161",
+     "position": 2,
+     "site": "Haghia Triada",
+     "distance": 4.38
+    },
+    {
+     "document": "HT 31",
+     "position": 4,
+     "site": "Haghia Triada",
+     "distance": 4.94
+    },
+    {
+     "document": "HT 139",
+     "position": 2,
+     "site": "Haghia Triada",
+     "distance": 5.6
+    }
+   ]
+  },
+  "AB51": {
+   "tracings": 71,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 99b",
+     "position": 7,
+     "site": "Haghia Triada",
+     "distance": 3.19
+    },
+    {
+     "document": "HT 95a",
+     "position": 2,
+     "site": "Haghia Triada",
+     "distance": 3.52
+    },
+    {
+     "document": "HT 122a",
+     "position": 36,
+     "site": "Haghia Triada",
+     "distance": 3.54
+    },
+    {
+     "document": "HT 133",
+     "position": 2,
+     "site": "Haghia Triada",
+     "distance": 3.68
+    },
+    {
+     "document": "HT 123b",
+     "position": 24,
+     "site": "Haghia Triada",
+     "distance": 3.73
+    },
+    {
+     "document": "HT 104",
+     "position": 11,
+     "site": "Haghia Triada",
+     "distance": 3.79
+    },
+    {
+     "document": "HT 110a",
+     "position": 2,
+     "site": "Haghia Triada",
+     "distance": 3.81
+    },
+    {
+     "document": "HT 108",
+     "position": 10,
+     "site": "Haghia Triada",
+     "distance": 3.87
+    }
+   ]
+  },
+  "AB53": {
+   "tracings": 73,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 98a",
+     "position": 23,
+     "site": "Haghia Triada",
+     "distance": 2.2
+    },
+    {
+     "document": "HT 87",
+     "position": 6,
+     "site": "Haghia Triada",
+     "distance": 2.41
+    },
+    {
+     "document": "HT 118",
+     "position": 11,
+     "site": "Haghia Triada",
+     "distance": 2.62
+    },
+    {
+     "document": "HT 85a",
+     "position": 6,
+     "site": "Haghia Triada",
+     "distance": 3.06
+    },
+    {
+     "document": "HT 128a",
+     "position": 23,
+     "site": "Haghia Triada",
+     "distance": 3.11
+    },
+    {
+     "document": "HT 6b",
+     "position": 10,
+     "site": "Haghia Triada",
+     "distance": 3.13
+    },
+    {
+     "document": "HT 115a",
+     "position": 7,
+     "site": "Haghia Triada",
+     "distance": 3.16
+    },
+    {
+     "document": "HT 93a",
+     "position": 37,
+     "site": "Haghia Triada",
+     "distance": 3.21
+    }
+   ]
+  },
+  "AB54": {
+   "tracings": 23,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 128a",
+     "position": 10,
+     "site": "Haghia Triada",
+     "distance": 1.93
+    },
+    {
+     "document": "HT 36",
+     "position": 11,
+     "site": "Haghia Triada",
+     "distance": 2.77
+    },
+    {
+     "document": "HT Wc 3006a",
+     "position": 1,
+     "site": "Haghia Triada",
+     "distance": 2.92
+    },
+    {
+     "document": "HT 6b",
+     "position": 1,
+     "site": "Haghia Triada",
+     "distance": 3.13
+    },
+    {
+     "document": "HT Wc 3007",
+     "position": 1,
+     "site": "Haghia Triada",
+     "distance": 3.22
+    },
+    {
+     "document": "HT 86a",
+     "position": 15,
+     "site": "Haghia Triada",
+     "distance": 3.4
+    },
+    {
+     "document": "HT Wc 3008a",
+     "position": 1,
+     "site": "Haghia Triada",
+     "distance": 3.83
+    },
+    {
+     "document": "HT 85b",
+     "position": 24,
+     "site": "Haghia Triada",
+     "distance": 4.07
+    }
+   ]
+  },
+  "AB55": {
+   "tracings": 45,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 122a",
+     "position": 39,
+     "site": "Haghia Triada",
+     "distance": 1.54
+    },
+    {
+     "document": "HT 116a",
+     "position": 31,
+     "site": "Haghia Triada",
+     "distance": 1.61
+    },
+    {
+     "document": "HT 115a",
+     "position": 10,
+     "site": "Haghia Triada",
+     "distance": 2.31
+    },
+    {
+     "document": "HT 88",
+     "position": 20,
+     "site": "Haghia Triada",
+     "distance": 2.66
+    },
+    {
+     "document": "HT 47a",
+     "position": 15,
+     "site": "Haghia Triada",
+     "distance": 2.75
+    },
+    {
+     "document": "HT 97a",
+     "position": 7,
+     "site": "Haghia Triada",
+     "distance": 2.79
+    },
+    {
+     "document": "HT 62+73",
+     "position": 21,
+     "site": "Haghia Triada",
+     "distance": 2.96
+    },
+    {
+     "document": "HT 1",
+     "position": 14,
+     "site": "Haghia Triada",
+     "distance": 3.25
+    }
+   ]
+  },
+  "AB56": {
+   "tracings": 41,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 93a",
+     "position": 41,
+     "site": "Haghia Triada",
+     "distance": 2.1
+    },
+    {
+     "document": "HT 1",
+     "position": 13,
+     "site": "Haghia Triada",
+     "distance": 2.3
+    },
+    {
+     "document": "HT 119",
+     "position": 9,
+     "site": "Haghia Triada",
+     "distance": 2.39
+    },
+    {
+     "document": "HT 88",
+     "position": 19,
+     "site": "Haghia Triada",
+     "distance": 2.54
+    },
+    {
+     "document": "HT 8a",
+     "position": 4,
+     "site": "Haghia Triada",
+     "distance": 2.7
+    },
+    {
+     "document": "HT 24a",
+     "position": 2,
+     "site": "Haghia Triada",
+     "distance": 2.82
+    },
+    {
+     "document": "HT 31",
+     "position": 9,
+     "site": "Haghia Triada",
+     "distance": 2.96
+    },
+    {
+     "document": "HT 102",
+     "position": 6,
+     "site": "Haghia Triada",
+     "distance": 3.28
+    }
+   ]
+  },
+  "AB57": {
+   "tracings": 94,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 28b",
+     "position": 3,
+     "site": "Haghia Triada",
+     "distance": 2.2
+    },
+    {
+     "document": "HT 11a",
+     "position": 16,
+     "site": "Haghia Triada",
+     "distance": 2.41
+    },
+    {
+     "document": "HT Wc 3001",
+     "position": 3,
+     "site": "Haghia Triada",
+     "distance": 2.84
+    },
+    {
+     "document": "HT 93a",
+     "position": 46,
+     "site": "Haghia Triada",
+     "distance": 3.09
+    },
+    {
+     "document": "HT 126a",
+     "position": 12,
+     "site": "Haghia Triada",
+     "distance": 3.13
+    },
+    {
+     "document": "HT 41a",
+     "position": 11,
+     "site": "Haghia Triada",
+     "distance": 3.13
+    },
+    {
+     "document": "HT 7a",
+     "position": 6,
+     "site": "Haghia Triada",
+     "distance": 3.14
+    },
+    {
+     "document": "HT 7a",
+     "position": 8,
+     "site": "Haghia Triada",
+     "distance": 3.28
+    }
+   ]
+  },
+  "AB58": {
+   "tracings": 46,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 81",
+     "position": 6,
+     "site": "Haghia Triada",
+     "distance": 1.53
+    },
+    {
+     "document": "HT 95b",
+     "position": 13,
+     "site": "Haghia Triada",
+     "distance": 1.54
+    },
+    {
+     "document": "HT 20",
+     "position": 3,
+     "site": "Haghia Triada",
+     "distance": 1.77
+    },
+    {
+     "document": "HT 49a",
+     "position": 27,
+     "site": "Haghia Triada",
+     "distance": 2.33
+    },
+    {
+     "document": "HT 63",
+     "position": 5,
+     "site": "Haghia Triada",
+     "distance": 2.41
+    },
+    {
+     "document": "HT Wc 3009a",
+     "position": 3,
+     "site": "Haghia Triada",
+     "distance": 2.52
+    },
+    {
+     "document": "HT 87",
+     "position": 19,
+     "site": "Haghia Triada",
+     "distance": 2.76
+    },
+    {
+     "document": "HT 1",
+     "position": 7,
+     "site": "Haghia Triada",
+     "distance": 2.97
+    }
+   ]
+  },
+  "AB59": {
+   "tracings": 117,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 21",
+     "position": 2,
+     "site": "Haghia Triada",
+     "distance": 1.11
+    },
+    {
+     "document": "HT 26a",
+     "position": 5,
+     "site": "Haghia Triada",
+     "distance": 1.34
+    },
+    {
+     "document": "HT 98a",
+     "position": 5,
+     "site": "Haghia Triada",
+     "distance": 1.65
+    },
+    {
+     "document": "HT 96a",
+     "position": 15,
+     "site": "Haghia Triada",
+     "distance": 1.75
+    },
+    {
+     "document": "HT 104",
+     "position": 1,
+     "site": "Haghia Triada",
+     "distance": 1.82
+    },
+    {
+     "document": "HT 116a",
+     "position": 2,
+     "site": "Haghia Triada",
+     "distance": 2.02
+    },
+    {
+     "document": "HT 115b",
+     "position": 32,
+     "site": "Haghia Triada",
+     "distance": 2.06
+    },
+    {
+     "document": "HT Wa 1020γ",
+     "position": 2,
+     "site": "Haghia Triada",
+     "distance": 2.07
+    }
+   ]
+  },
+  "AB60": {
+   "tracings": 88,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT Wc 3006b",
+     "position": 3,
+     "site": "Haghia Triada",
+     "distance": 2.81
+    },
+    {
+     "document": "HT 80",
+     "position": 2,
+     "site": "Haghia Triada",
+     "distance": 3.31
+    },
+    {
+     "document": "HT Wc 3012a",
+     "position": 3,
+     "site": "Haghia Triada",
+     "distance": 3.65
+    },
+    {
+     "document": "HT 28a",
+     "position": 24,
+     "site": "Haghia Triada",
+     "distance": 5.38
+    },
+    {
+     "document": "HT Wc 3011",
+     "position": 3,
+     "site": "Haghia Triada",
+     "distance": 5.38
+    },
+    {
+     "document": "HT 11a",
+     "position": 3,
+     "site": "Haghia Triada",
+     "distance": 5.52
+    },
+    {
+     "document": "HT 115a",
+     "position": 25,
+     "site": "Haghia Triada",
+     "distance": 5.63
+    },
+    {
+     "document": "HT 117a",
+     "position": 32,
+     "site": "Haghia Triada",
+     "distance": 5.68
+    }
+   ]
+  },
+  "AB61": {
+   "tracings": 26,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 93a",
+     "position": 33,
+     "site": "Haghia Triada",
+     "distance": 3.69
+    },
+    {
+     "document": "HT 6a",
+     "position": 15,
+     "site": "Haghia Triada",
+     "distance": 5.34
+    },
+    {
+     "document": "HT Wa 1280",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.92
+    },
+    {
+     "document": "HT Wa 1279",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 4.05
+    },
+    {
+     "document": "HT Wa 1281",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 6.06
+    },
+    {
+     "document": "PK 1a",
+     "position": 22,
+     "site": "Palaiokastro",
+     "distance": 2.77
+    },
+    {
+     "document": "PK 1a",
+     "position": 16,
+     "site": "Palaiokastro",
+     "distance": 3.01
+    },
+    {
+     "document": "KH Wc 2035",
+     "position": 1,
+     "site": "Khania",
+     "distance": 3.21
+    }
+   ]
+  },
+  "AB65": {
+   "tracings": 35,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 109",
+     "position": 8,
+     "site": "Haghia Triada",
+     "distance": 3.41
+    },
+    {
+     "document": "HT 93a",
+     "position": 30,
+     "site": "Haghia Triada",
+     "distance": 3.8
+    },
+    {
+     "document": "HT 20",
+     "position": 6,
+     "site": "Haghia Triada",
+     "distance": 4.58
+    },
+    {
+     "document": "HT 20",
+     "position": 17,
+     "site": "Haghia Triada",
+     "distance": 4.66
+    },
+    {
+     "document": "HT 88",
+     "position": 17,
+     "site": "Haghia Triada",
+     "distance": 5.36
+    },
+    {
+     "document": "HT 39",
+     "position": 6,
+     "site": "Haghia Triada",
+     "distance": 5.58
+    },
+    {
+     "document": "HT 119",
+     "position": 18,
+     "site": "Haghia Triada",
+     "distance": 5.97
+    },
+    {
+     "document": "HT 122b",
+     "position": 11,
+     "site": "Haghia Triada",
+     "distance": 6.0
+    }
+   ]
+  },
+  "AB66": {
+   "tracings": 14,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 90",
+     "position": 14,
+     "site": "Haghia Triada",
+     "distance": 3.93
+    },
+    {
+     "document": "HT 122b",
+     "position": 7,
+     "site": "Haghia Triada",
+     "distance": 5.12
+    },
+    {
+     "document": "HT 11a",
+     "position": 19,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 5.21
+    },
+    {
+     "document": "PK 1a",
+     "position": 13,
+     "site": "Palaiokastro",
+     "distance": 5.93
+    },
+    {
+     "document": "PK 1a",
+     "position": 10,
+     "site": "Palaiokastro",
+     "distance": 5.95
+    },
+    {
+     "document": "HT 103",
+     "position": 2,
+     "site": "Haghia Triada",
+     "dots": 4
+    },
+    {
+     "document": "HT 114a",
+     "position": 3,
+     "site": "Haghia Triada",
+     "dots": 4
+    },
+    {
+     "document": "HT 121",
+     "position": 3,
+     "site": "Haghia Triada",
+     "dots": 4
+    }
+   ]
+  },
+  "AB67": {
+   "tracings": 103,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 2",
+     "position": 7,
+     "site": "Haghia Triada",
+     "distance": 1.94
+    },
+    {
+     "document": "HT 1",
+     "position": 4,
+     "site": "Haghia Triada",
+     "distance": 2.44
+    },
+    {
+     "document": "HT 8a",
+     "position": 19,
+     "site": "Haghia Triada",
+     "distance": 2.46
+    },
+    {
+     "document": "HT 62+73",
+     "position": 25,
+     "site": "Haghia Triada",
+     "distance": 2.71
+    },
+    {
+     "document": "HT 123a",
+     "position": 50,
+     "site": "Haghia Triada",
+     "distance": 2.84
+    },
+    {
+     "document": "HT 94b",
+     "position": 11,
+     "site": "Haghia Triada",
+     "distance": 2.9
+    },
+    {
+     "document": "HT 87",
+     "position": 16,
+     "site": "Haghia Triada",
+     "distance": 2.95
+    },
+    {
+     "document": "HT 108",
+     "position": 1,
+     "site": "Haghia Triada",
+     "distance": 2.97
+    }
+   ]
+  },
+  "AB69": {
+   "tracings": 63,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 9a",
+     "position": 10,
+     "site": "Haghia Triada",
+     "distance": 2.39
+    },
+    {
+     "document": "HT 87",
+     "position": 28,
+     "site": "Haghia Triada",
+     "distance": 2.43
+    },
+    {
+     "document": "HT 13",
+     "position": 11,
+     "site": "Haghia Triada",
+     "distance": 2.53
+    },
+    {
+     "document": "HT 94b",
+     "position": 3,
+     "site": "Haghia Triada",
+     "distance": 2.65
+    },
+    {
+     "document": "HT 129",
+     "position": 9,
+     "site": "Haghia Triada",
+     "distance": 2.73
+    },
+    {
+     "document": "HT 41a",
+     "position": 2,
+     "site": "Haghia Triada",
+     "distance": 2.94
+    },
+    {
+     "document": "HT 115a",
+     "position": 22,
+     "site": "Haghia Triada",
+     "distance": 2.96
+    },
+    {
+     "document": "HT 122a",
+     "position": 35,
+     "site": "Haghia Triada",
+     "distance": 3.33
+    }
+   ]
+  },
+  "AB70": {
+   "tracings": 11,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 62+73",
+     "position": 20,
+     "site": "Haghia Triada",
+     "distance": 2.09
+    },
+    {
+     "document": "HT 31",
+     "position": 5,
+     "site": "Haghia Triada",
+     "distance": 2.3
+    },
+    {
+     "document": "HT 23a",
+     "position": 29,
+     "site": "Haghia Triada",
+     "distance": 2.52
+    },
+    {
+     "document": "HT 119",
+     "position": 6,
+     "site": "Haghia Triada",
+     "distance": 3.99
+    },
+    {
+     "document": "TY 3a",
+     "position": 27,
+     "site": "Tylissos",
+     "distance": 2.46
+    },
+    {
+     "document": "ZA 8",
+     "position": 9,
+     "site": "Zakros",
+     "distance": 3.19
+    },
+    {
+     "document": "HT 117a",
+     "position": 48,
+     "site": "Haghia Triada",
+     "dots": 5
+    },
+    {
+     "document": "HT 24a",
+     "position": 19,
+     "site": "Haghia Triada",
+     "dots": 10
+    }
+   ]
+  },
+  "AB72": {
+   "tracings": 1,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 28a",
+     "position": 15,
+     "site": "Haghia Triada"
+    }
+   ]
+  },
+  "AB73": {
+   "tracings": 73,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 119",
+     "position": 4,
+     "site": "Haghia Triada",
+     "distance": 2.1
+    },
+    {
+     "document": "HT 128a",
+     "position": 15,
+     "site": "Haghia Triada",
+     "distance": 2.31
+    },
+    {
+     "document": "HT 117a",
+     "position": 53,
+     "site": "Haghia Triada",
+     "distance": 2.5
+    },
+    {
+     "document": "HT Wc 3014a",
+     "position": 2,
+     "site": "Haghia Triada",
+     "distance": 2.81
+    },
+    {
+     "document": "HT 41a",
+     "position": 7,
+     "site": "Haghia Triada",
+     "distance": 2.83
+    },
+    {
+     "document": "HT 117a",
+     "position": 8,
+     "site": "Haghia Triada",
+     "distance": 3.04
+    },
+    {
+     "document": "HT 117a",
+     "position": 29,
+     "site": "Haghia Triada",
+     "distance": 3.12
+    },
+    {
+     "document": "HT 26a",
+     "position": 7,
+     "site": "Haghia Triada",
+     "distance": 3.26
+    }
+   ]
+  },
+  "AB74": {
+   "tracings": 22,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT Wa 1294",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 4.21
+    },
+    {
+     "document": "HT Wa 1292",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 4.24
+    },
+    {
+     "document": "HT Wa 1317",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 4.26
+    },
+    {
+     "document": "HT Wa 1307",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 4.35
+    },
+    {
+     "document": "HT Wa 1287",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 5.16
+    },
+    {
+     "document": "HT Wa 1295",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 5.39
+    },
+    {
+     "document": "HT Wa 1308",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 5.56
+    },
+    {
+     "document": "HT Wa 1282",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 5.71
+    }
+   ]
+  },
+  "AB76": {
+   "tracings": 43,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 3",
+     "position": 15,
+     "site": "Haghia Triada",
+     "distance": 2.91
+    },
+    {
+     "document": "HT Wa 1007",
+     "position": 2,
+     "site": "Haghia Triada",
+     "distance": 3.31
+    },
+    {
+     "document": "HT 33",
+     "position": 3,
+     "site": "Haghia Triada",
+     "distance": 3.65
+    },
+    {
+     "document": "HT 86a",
+     "position": 14,
+     "site": "Haghia Triada",
+     "distance": 3.82
+    },
+    {
+     "document": "HT 95b",
+     "position": 18,
+     "site": "Haghia Triada",
+     "distance": 3.88
+    },
+    {
+     "document": "HT 18",
+     "position": 7,
+     "site": "Haghia Triada",
+     "distance": 3.9
+    },
+    {
+     "document": "HT 100",
+     "position": 10,
+     "site": "Haghia Triada",
+     "distance": 4.05
+    },
+    {
+     "document": "HT 121",
+     "position": 6,
+     "site": "Haghia Triada",
+     "distance": 4.06
+    }
+   ]
+  },
+  "AB77": {
+   "tracings": 113,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 9b",
+     "position": 6,
+     "site": "Haghia Triada",
+     "distance": 1.51
+    },
+    {
+     "document": "HT 21",
+     "position": 3,
+     "site": "Haghia Triada",
+     "distance": 2.03
+    },
+    {
+     "document": "HT 28a",
+     "position": 4,
+     "site": "Haghia Triada",
+     "distance": 2.04
+    },
+    {
+     "document": "HT 140",
+     "position": 28,
+     "site": "Haghia Triada",
+     "distance": 2.07
+    },
+    {
+     "document": "HT 13",
+     "position": 1,
+     "site": "Haghia Triada",
+     "distance": 2.26
+    },
+    {
+     "document": "HT 28b",
+     "position": 4,
+     "site": "Haghia Triada",
+     "distance": 2.3
+    },
+    {
+     "document": "HT Wc 3010",
+     "position": 5,
+     "site": "Haghia Triada",
+     "distance": 2.41
+    },
+    {
+     "document": "HT Wc 3003",
+     "position": 1,
+     "site": "Haghia Triada",
+     "distance": 2.42
+    }
+   ]
+  },
+  "AB78": {
+   "tracings": 37,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 3",
+     "position": 5,
+     "site": "Haghia Triada",
+     "distance": 1.38
+    },
+    {
+     "document": "HT 57a",
+     "position": 3,
+     "site": "Haghia Triada",
+     "distance": 1.52
+    },
+    {
+     "document": "HT 95a",
+     "position": 19,
+     "site": "Haghia Triada",
+     "distance": 1.71
+    },
+    {
+     "document": "HT 9b",
+     "position": 17,
+     "site": "Haghia Triada",
+     "distance": 2.1
+    },
+    {
+     "document": "HT 54a",
+     "position": 6,
+     "site": "Haghia Triada",
+     "distance": 2.41
+    },
+    {
+     "document": "HT 6a",
+     "position": 25,
+     "site": "Haghia Triada",
+     "distance": 2.41
+    },
+    {
+     "document": "HT 62+73",
+     "position": 28,
+     "site": "Haghia Triada",
+     "distance": 2.53
+    },
+    {
+     "document": "HT 9a",
+     "position": 14,
+     "site": "Haghia Triada",
+     "distance": 2.6
+    }
+   ]
+  },
+  "AB79": {
+   "tracings": 30,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 101",
+     "position": 1,
+     "site": "Haghia Triada",
+     "distance": 3.32
+    },
+    {
+     "document": "HT 26b",
+     "position": 9,
+     "site": "Haghia Triada",
+     "distance": 3.41
+    },
+    {
+     "document": "HT Wc 3011",
+     "position": 1,
+     "site": "Haghia Triada",
+     "distance": 3.62
+    },
+    {
+     "document": "HT 64",
+     "position": 2,
+     "site": "Haghia Triada",
+     "distance": 3.85
+    },
+    {
+     "document": "HT 1",
+     "position": 6,
+     "site": "Haghia Triada",
+     "distance": 3.88
+    },
+    {
+     "document": "HT 99b",
+     "position": 6,
+     "site": "Haghia Triada",
+     "distance": 3.92
+    },
+    {
+     "document": "HT Wc 3012a",
+     "position": 1,
+     "site": "Haghia Triada",
+     "distance": 3.95
+    },
+    {
+     "document": "HT 36",
+     "position": 10,
+     "site": "Haghia Triada",
+     "distance": 3.98
+    }
+   ]
+  },
+  "AB80": {
+   "tracings": 91,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 81",
+     "position": 7,
+     "site": "Haghia Triada",
+     "distance": 3.78
+    },
+    {
+     "document": "HT 88",
+     "position": 25,
+     "site": "Haghia Triada",
+     "distance": 3.79
+    },
+    {
+     "document": "HT 31",
+     "position": 19,
+     "site": "Haghia Triada",
+     "distance": 3.86
+    },
+    {
+     "document": "HT 64",
+     "position": 6,
+     "site": "Haghia Triada",
+     "distance": 4.03
+    },
+    {
+     "document": "HT 6b",
+     "position": 9,
+     "site": "Haghia Triada",
+     "distance": 4.19
+    },
+    {
+     "document": "HT 20",
+     "position": 5,
+     "site": "Haghia Triada",
+     "distance": 4.22
+    },
+    {
+     "document": "HT 99b",
+     "position": 9,
+     "site": "Haghia Triada",
+     "distance": 4.27
+    },
+    {
+     "document": "HT 89",
+     "position": 7,
+     "site": "Haghia Triada",
+     "distance": 4.31
+    }
+   ]
+  },
+  "AB81": {
+   "tracings": 177,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 127b",
+     "position": 10,
+     "site": "Haghia Triada",
+     "distance": 2.85
+    },
+    {
+     "document": "HT 87",
+     "position": 23,
+     "site": "Haghia Triada",
+     "distance": 3.02
+    },
+    {
+     "document": "HT 122a",
+     "position": 43,
+     "site": "Haghia Triada",
+     "distance": 3.08
+    },
+    {
+     "document": "HT 117a",
+     "position": 15,
+     "site": "Haghia Triada",
+     "distance": 3.16
+    },
+    {
+     "document": "HT 49b",
+     "position": 1,
+     "site": "Haghia Triada",
+     "distance": 3.21
+    },
+    {
+     "document": "HT 47a",
+     "position": 3,
+     "site": "Haghia Triada",
+     "distance": 3.22
+    },
+    {
+     "document": "HT 20",
+     "position": 4,
+     "site": "Haghia Triada",
+     "distance": 3.33
+    },
+    {
+     "document": "HT 13",
+     "position": 15,
+     "site": "Haghia Triada",
+     "distance": 3.49
+    }
+   ]
+  },
+  "AB82": {
+   "tracings": 3,
+   "site": "Zakros",
+   "attestations": [
+    {
+     "document": "ZA 4a",
+     "position": 28,
+     "site": "Zakros",
+     "distance": 4.17
+    },
+    {
+     "document": "KH Wa 1004",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 4.07
+    },
+    {
+     "document": "KH Wa 1003",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 4.95
+    }
+   ]
+  },
+  "AB85": {
+   "tracings": 3,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH 6",
+     "position": 27,
+     "site": "Khania",
+     "distance": 9.4
+    },
+    {
+     "document": "HT 118",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 4.87
+    },
+    {
+     "document": "HT 38",
+     "position": 5,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 6.52
+    }
+   ]
+  },
+  "AB86": {
+   "tracings": 11,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH Wa 1015α",
+     "position": 1,
+     "site": "Khania",
+     "distance": 3.01
+    },
+    {
+     "document": "KH Wa 1016α",
+     "position": 1,
+     "site": "Khania",
+     "distance": 3.67
+    },
+    {
+     "document": "KH Wa 1014α",
+     "position": 1,
+     "site": "Khania",
+     "distance": 3.94
+    },
+    {
+     "document": "HT 26b",
+     "position": 15,
+     "site": "Haghia Triada",
+     "distance": 2.84
+    },
+    {
+     "document": "HT 11b",
+     "position": 5,
+     "site": "Haghia Triada",
+     "distance": 3.99
+    },
+    {
+     "document": "HT 45a",
+     "position": 3,
+     "site": "Haghia Triada",
+     "use": "transaction sign?",
+     "distance": 3.9
+    },
+    {
+     "document": "HT 94a",
+     "position": 4,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 4.48
+    },
+    {
+     "document": "HT 94b",
+     "position": 17,
+     "site": "Haghia Triada",
+     "use": "transaction sign?",
+     "distance": 4.95
+    }
+   ]
+  },
+  "AB87": {
+   "tracings": 2,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 126b",
+     "position": 2,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.63
+    },
+    {
+     "document": "HT 126b",
+     "position": 5,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "dots": 16
+    }
+   ]
+  },
+  "AB100": {
+   "tracings": 33,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 11a",
+     "position": 17,
+     "site": "Haghia Triada"
+    },
+    {
+     "document": "HT 128b",
+     "position": 2,
+     "site": "Haghia Triada"
+    },
+    {
+     "document": "HT 93a",
+     "position": 27,
+     "site": "Haghia Triada"
+    },
+    {
+     "document": "HT 108",
+     "position": 5,
+     "site": "Haghia Triada",
+     "use": "logogram"
+    },
+    {
+     "document": "HT 119",
+     "position": 2,
+     "site": "Haghia Triada",
+     "use": "logogram"
+    },
+    {
+     "document": "HT 26b",
+     "position": 3,
+     "site": "Haghia Triada",
+     "use": "logogram"
+    },
+    {
+     "document": "HT 66",
+     "position": 2,
+     "site": "Haghia Triada",
+     "use": "logogram"
+    },
+    {
+     "document": "HT 7a",
+     "position": 3,
+     "site": "Haghia Triada",
+     "use": "logogram"
+    }
+   ]
+  },
+  "AB118": {
+   "tracings": 24,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 140",
+     "position": 16,
+     "site": "Haghia Triada",
+     "distance": 2.5
+    },
+    {
+     "document": "HT 122a",
+     "position": 8,
+     "site": "Haghia Triada",
+     "distance": 3.04
+    },
+    {
+     "document": "HT 96b",
+     "position": 6,
+     "site": "Haghia Triada",
+     "distance": 3.06
+    },
+    {
+     "document": "HT 99b",
+     "position": 5,
+     "site": "Haghia Triada",
+     "distance": 3.38
+    },
+    {
+     "document": "HT 44a",
+     "position": 3,
+     "site": "Haghia Triada",
+     "distance": 3.55
+    },
+    {
+     "document": "HT 38",
+     "position": 8,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.18
+    },
+    {
+     "document": "HT 24b",
+     "position": 9,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 4.36
+    },
+    {
+     "document": "HT 12",
+     "position": 13,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 5.08
+    }
+   ]
+  },
+  "AB120": {
+   "tracings": 56,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 50a",
+     "position": 2,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 1.61
+    },
+    {
+     "document": "HT 129",
+     "position": 4,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 1.88
+    },
+    {
+     "document": "HT 154B",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 1.97
+    },
+    {
+     "document": "HT 121",
+     "position": 7,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.17
+    },
+    {
+     "document": "HT 28a",
+     "position": 25,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.27
+    },
+    {
+     "document": "HT 116a",
+     "position": 28,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.29
+    },
+    {
+     "document": "HT 116b",
+     "position": 3,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.35
+    },
+    {
+     "document": "HT 91",
+     "position": 4,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.37
+    }
+   ]
+  },
+  "AB120B": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "ARKH 3a",
+     "position": 3,
+     "site": "Arkhanes",
+     "use": "logogram",
+     "dots": 23
+    }
+   ]
+  },
+  "AB122": {
+   "tracings": 23,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 50a",
+     "position": 12,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.13
+    },
+    {
+     "document": "HT 21",
+     "position": 14,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.43
+    },
+    {
+     "document": "HT 91",
+     "position": 14,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.43
+    },
+    {
+     "document": "HT 44a",
+     "position": 10,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.51
+    },
+    {
+     "document": "HT 123a",
+     "position": 23,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.54
+    },
+    {
+     "document": "HT 116a",
+     "position": 17,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.64
+    },
+    {
+     "document": "HT 123a",
+     "position": 13,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.8
+    },
+    {
+     "document": "HT 58",
+     "position": 9,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 2.95
+    }
+   ]
+  },
+  "AB123": {
+   "tracings": 7,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 15",
+     "position": 6,
+     "site": "Haghia Triada",
+     "distance": 2.64
+    },
+    {
+     "document": "HT 39",
+     "position": 3,
+     "site": "Haghia Triada",
+     "distance": 2.84
+    },
+    {
+     "document": "HT 96a",
+     "position": 11,
+     "site": "Haghia Triada",
+     "distance": 3.07
+    },
+    {
+     "document": "HT 9a",
+     "position": 22,
+     "site": "Haghia Triada",
+     "distance": 3.58
+    },
+    {
+     "document": "KH 53",
+     "position": 3,
+     "site": "Khania",
+     "distance": 2.85
+    },
+    {
+     "document": "ZA 20",
+     "position": 15,
+     "site": "Zakros",
+     "distance": 4.66
+    },
+    {
+     "document": "HT 9b",
+     "position": 21,
+     "site": "Haghia Triada",
+     "dots": 13
+    }
+   ]
+  },
+  "AB130": {
+   "tracings": 1,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH 61",
+     "position": 7,
+     "site": "Khania",
+     "use": "logogram"
+    }
+   ]
+  },
+  "AB131": {
+   "tracings": 3,
+   "site": null,
+   "attestations": [
+    {
+     "document": "KH 60",
+     "position": 6,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 13
+    },
+    {
+     "document": "ZA 4b",
+     "position": 1,
+     "site": "Zakros",
+     "use": "logogram",
+     "dots": 19
+    },
+    {
+     "document": "PH 7b",
+     "position": 4,
+     "site": "Phaistos",
+     "use": "logogram",
+     "dots": 60
+    }
+   ]
+  },
+  "AB131A": {
+   "tracings": 45,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 123a",
+     "position": 12,
+     "site": "Haghia Triada"
+    },
+    {
+     "document": "HT 14",
+     "position": 2,
+     "site": "Haghia Triada"
+    },
+    {
+     "document": "HT 100",
+     "position": 16,
+     "site": "Haghia Triada",
+     "use": "logogram"
+    },
+    {
+     "document": "HT 114a",
+     "position": 9,
+     "site": "Haghia Triada",
+     "use": "logogram"
+    },
+    {
+     "document": "HT 121",
+     "position": 10,
+     "site": "Haghia Triada",
+     "use": "logogram"
+    },
+    {
+     "document": "HT 13",
+     "position": 5,
+     "site": "Haghia Triada",
+     "use": "logogram"
+    },
+    {
+     "document": "HT 130",
+     "position": 10,
+     "site": "Haghia Triada",
+     "use": "logogram"
+    },
+    {
+     "document": "HT 17",
+     "position": 6,
+     "site": "Haghia Triada",
+     "use": "logogram"
+    }
+   ]
+  },
+  "AB131B": {
+   "tracings": 4,
+   "site": "Arkhanes",
+   "attestations": [
+    {
+     "document": "ARKH 2",
+     "position": 6,
+     "site": "Arkhanes"
+    },
+    {
+     "document": "ARKH 3a",
+     "position": 5,
+     "site": "Arkhanes",
+     "use": "logogram"
+    },
+    {
+     "document": "ARKH 5",
+     "position": 10,
+     "site": "Arkhanes",
+     "use": "logogram"
+    },
+    {
+     "document": "ZA 10b",
+     "position": 7,
+     "site": "Zakros",
+     "use": "logogram"
+    }
+   ]
+  },
+  "AB131C": {
+   "tracings": 5,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH 18",
+     "position": 9,
+     "site": "Khania",
+     "use": "logogram"
+    },
+    {
+     "document": "KN 54",
+     "position": 2,
+     "site": "Knossos",
+     "use": "logogram"
+    },
+    {
+     "document": "KH 18",
+     "position": 5,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 8
+    },
+    {
+     "document": "KH 61",
+     "position": 2,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 22
+    },
+    {
+     "document": "KH 85",
+     "position": 6,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 31
+    }
+   ]
+  },
+  "AB164A": {
+   "tracings": 5,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 17",
+     "position": 2,
+     "site": "Haghia Triada"
+    },
+    {
+     "document": "HT 19",
+     "position": 2,
+     "site": "Haghia Triada"
+    },
+    {
+     "document": "KH Wc 2043",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram"
+    },
+    {
+     "document": "KH Wc 2042",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 10
+    },
+    {
+     "document": "KH Wc 2044",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 26
+    }
+   ]
+  },
+  "AB164B": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "KH Wc 2040",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 12
+    }
+   ]
+  },
+  "AB164C": {
+   "tracings": 1,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH Wc 2041",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram"
+    }
+   ]
+  },
+  "AB164D": {
+   "tracings": 5,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH Wc 2037",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram"
+    },
+    {
+     "document": "KH Wc 2038",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram"
+    },
+    {
+     "document": "KH Wc 2039",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram"
+    },
+    {
+     "document": "KH Wc 2111",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 38
+    },
+    {
+     "document": "KH Wc 2045",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "dots": 43
+    }
+   ]
+  },
+  "AB171": {
+   "tracings": 1,
+   "site": "Zakros",
+   "attestations": [
+    {
+     "document": "ZA 6a",
+     "position": 4,
+     "site": "Zakros",
+     "use": "logogram",
+     "distance": 2.57
+    }
+   ]
+  },
+  "AB180": {
+   "tracings": 9,
+   "site": "Phaistos",
+   "attestations": [
+    {
+     "document": "PH 10",
+     "position": 4,
+     "site": "Phaistos",
+     "use": "logogram",
+     "distance": 5.31
+    },
+    {
+     "document": "PH 13a",
+     "position": 2,
+     "site": "Phaistos",
+     "use": "logogram",
+     "distance": 5.39
+    },
+    {
+     "document": "MA Wc 7",
+     "position": 1,
+     "site": "Mallia",
+     "use": "logogram",
+     "distance": 6.05
+    },
+    {
+     "document": "PH 12a",
+     "position": 2,
+     "site": "Phaistos",
+     "dots": 67
+    },
+    {
+     "document": "PH 15b",
+     "position": 3,
+     "site": "Phaistos",
+     "use": "logogram",
+     "dots": 32
+    },
+    {
+     "document": "MA 6d",
+     "position": 1,
+     "site": "Mallia",
+     "use": "logogram",
+     "dots": 13
+    },
+    {
+     "document": "MA 6b",
+     "position": 1,
+     "site": "Mallia",
+     "use": "logogram",
+     "dots": 14
+    },
+    {
+     "document": "MA 4b",
+     "position": 4,
+     "site": "Mallia",
+     "use": "logogram",
+     "dots": 16
+    }
+   ]
+  },
+  "AB188": {
+   "tracings": 14,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT Wc 3020a",
+     "position": 1,
+     "site": "Haghia Triada",
+     "distance": 5.14
+    },
+    {
+     "document": "HT 8b",
+     "position": 3,
+     "site": "Haghia Triada",
+     "distance": 5.29
+    },
+    {
+     "document": "HT 123b",
+     "position": 13,
+     "site": "Haghia Triada",
+     "distance": 5.33
+    },
+    {
+     "document": "HT 8b",
+     "position": 5,
+     "site": "Haghia Triada",
+     "distance": 5.33
+    },
+    {
+     "document": "HT Wa 1021α",
+     "position": 1,
+     "site": "Haghia Triada",
+     "distance": 5.37
+    },
+    {
+     "document": "HT Wc 3009b",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.3
+    },
+    {
+     "document": "HT 123b",
+     "position": 1,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.75
+    },
+    {
+     "document": "HT 103",
+     "position": 10,
+     "site": "Haghia Triada",
+     "use": "logogram",
+     "distance": 3.85
+    }
+   ]
+  },
+  "AB191": {
+   "tracings": 1,
+   "site": "Khania",
+   "attestations": [
+    {
+     "document": "KH Wc 2028",
+     "position": 1,
+     "site": "Khania",
+     "use": "logogram",
+     "distance": 5.82
+    }
+   ]
+  },
+  "AB302": {
+   "tracings": 15,
+   "site": "Haghia Triada",
+   "attestations": [
+    {
+     "document": "HT 114a",
+     "position": 7,
+     "site": "Haghia Triada",
+     "use": "logogram"
+    },
+    {
+     "document": "HT 116b",
+     "position": 5,
+     "site": "Haghia Triada",
+     "use": "logogram"
+    },
+    {
+     "document": "HT 121",
+     "position": 8,
+     "site": "Haghia Triada",
+     "use": "logogram"
+    },
+    {
+     "document": "HT 131a",
+     "position": 7,
+     "site": "Haghia Triada",
+     "use": "logogram"
+    },
+    {
+     "document": "HT 137",
+     "position": 6,
+     "site": "Haghia Triada",
+     "use": "logogram"
+    },
+    {
+     "document": "HT 139",
+     "position": 6,
+     "site": "Haghia Triada",
+     "use": "logogram"
+    },
+    {
+     "document": "HT 53a",
+     "position": 6,
+     "site": "Haghia Triada",
+     "use": "logogram"
+    },
+    {
+     "document": "ARKH 3b",
+     "position": 8,
+     "site": "Arkhanes",
+     "use": "logogram"
+    }
+   ]
+  },
+  "N800": {
+   "tracings": 1,
+   "site": null,
+   "attestations": [
+    {
+     "document": "KH 44",
+     "position": 1,
+     "site": "Khania",
+     "dots": 16
+    }
+   ]
+  }
+ }
+}

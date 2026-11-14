@@ -31,7 +31,7 @@ updated: 2026-11-12T00:26:03Z
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT36\|HT36]] |  | doubled \*307 with grain+QE, 44 ½ over an erased 20 |  |
+| [[wiki/linear-a/inscriptions/HT/HT/HT36\|HT36]] |  | the sanctuaries (\*307 doubled) with grain+QE, 44 ½ over an erased 20 |  |
 
 ## Unread sign
 

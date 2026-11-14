@@ -48,6 +48,7 @@ Reading from the lexicon (di Mino). The last word of ZA 14, against the original
 |---|---|
 | Amorite | Ya-wi-dIM, Ya-wi-AN, Ya-wi-i-la, Ya-wi-dD\[a-gan\], hypocoristic Ya-wi-ya (ARM VII 169.5) at Mari (Huffmon 1965, 39, 70–72) |
 | Amorite (rival) | ia-wi-AN yahwî-ʾilu 'ʾIlu shall exist', √h-w-y 'be' (ARM 25 48; Buck 2018, 336; Gelb 1980, no. 3591) |
+| Ugaritic | /ḥ-w/y-y/ 'to live' (DULAT 374) |
 
 ## Attestations
 

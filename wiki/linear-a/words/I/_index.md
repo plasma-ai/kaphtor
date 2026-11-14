@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/I
 desc: "Words whose first sign begins with I."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-12T22:33:33Z
+updated: 2026-11-14T19:56:36Z
 ---
 
 # wiki/linear-a/words/I
@@ -87,7 +87,7 @@ updated: 2026-11-12T22:33:33Z
 
 [[wiki/linear-a/words/I/I_RA2|I_RA2]]: ʾilā(t): goddess; rival ʾila 'god'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/I/I_RU_JA|I_RU_JA]]: ʾIlūya: personal name, 'My god'; rival Hurrian Iruja. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/I/I_RU_JA|I_RU_JA]]: ʾIlūya: personal name, 'My god'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/I/I_SA_RI|I_SA_RI]]: ʾišarī: uprightness, righteousness (genitive after the b= proclitic). Lexicon, CANDIDATE (tier 2).
 

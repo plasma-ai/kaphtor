@@ -49,6 +49,7 @@ HT Wc 3012, a roundel: ZU-DI-RA on face a, RE-RO on face b, both whole and undot
 |---|---|
 | Ugaritic | llủ, llỉ, llả, pl. llỉm 'suckling (lamb or kid)', // ỉmr: k llỉ b ṯbrn qnh 'like a suckling in the opening of his oesophagus', KTU 1.4 VIII 19 (DULAT 494) |
 | Akkadian | lalû B (laliʾu, lalaʾu) 'kid', OB on, in Nuzi and MB lists of sheep and goats (CAD L 51–52) |
+| Soqotri | lúloh 'ewe' (LS 231) |
 
 ### Source
 

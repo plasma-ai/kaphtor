@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/Q
 desc: "Words whose first sign begins with Q, and words that open with an illegible sign."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-12T00:26:03Z
+updated: 2026-11-14T19:56:36Z
 ---
 
 # wiki/linear-a/words/Q
@@ -39,9 +39,9 @@ updated: 2026-11-12T00:26:03Z
 
 [[wiki/linear-a/words/Q/QA_QA_RU_broken_start|QA_QA_RU_broken_start]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/Q/QA_RA2_WA|QA_RA2_WA]]: qalwa: parched (roasted) grain; rival Ugaritic qrwn 'offering'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/Q/QA_RA2_WA|QA_RA2_WA]]: qalwa: parched (roasted) grain; rival Ugaritic qrwn 'offering'. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/Q/QA_RE_TO|QA_RE_TO]]: qart-: city of (Phoenician construct form). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/Q/QA_RE_TO|QA_RE_TO]]: qarēt-: banquet, feast (27 ewes). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/Q/QA_SA|QA_SA]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -53,7 +53,7 @@ updated: 2026-11-12T00:26:03Z
 
 [[wiki/linear-a/words/Q/QA_TI_KI|QA_TI_KI]]: Kattike: Kattike (Hurrian personal name), on kad- 'to say'; rival katki 'utterance'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/Q/QA_star118|QA_star118]]: qaṭṭ(u): flax, linseed—field-crop commodity. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/Q/QA_star118|QA_star118]]: qaṭṭ(u): flax, linseed—field-crop commodity; rival the place Qṭ. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/Q/QA_star118_RA_RE|QA_star118_RA_RE]]: qaṭara(re): incense, incense-offering (Semitic cultic term). Lexicon, PROBABLE (tier 3).
 

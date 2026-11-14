@@ -47,6 +47,7 @@ Gelb AS 21 root RMS (unglossed): Rimši-ʾIl RI-IM-SI-DINGIR (no. 5285) and Rim�
 | Language | Comparison |
 |---|---|
 | Amorite | Gelb AS 21 root RMS (unglossed): Rimši-ʾIl RI-IM-ŠI-DINGIR (no. 5285) and Rimši-ʾIli RI-IM-ŠI-I₃-LI₂ (no. 5286), Mari; feminine ʾAnnu-rimši AN-NU-RI-IM-ŠI (no. 831, Mari) and Kakka-rimši KA-AK-KA-RI-IM-ŠI (no. 3912); same root Ramaši RA-MA-SI (FN), Ramišum RA-MI-SUM |
+| Ugaritic | rmš, a divine name, an offering recipient: š l rmš 'a ram for Rmš' (DULAT 730) |
 
 ## Attestations
 

@@ -36,7 +36,7 @@ updated: 2026-10-25T05:11:48Z
 | Syrian Aramaic | sbr (LSyr. 456, SL 963 apud SEDonline 1816) | LSyr. 456, SL 963; SEDonline 1816 | gloss withheld |
 | Mandaic Aramaic | sbr (MD 316) | MD 316 | gloss withheld |
 | Arabic | sbr (Lane 1293 apud SEDonline 1816) | Lane 1293; SEDonline 1816 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic sbr (Al-Jallad 2026, 129) | Al-Jallad 2026 129 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic sbr (Al-Jallad 2026, 129); Taymanitic śbr (Al-Jallad 2026b, 56) | Al-Jallad 2026 129; Al-Jallad 2026b 56 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

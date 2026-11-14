@@ -29,7 +29,9 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Value | /si/ |
 | Alternates | none |
-| Linear B | no Linear B counterpart recorded |
+| Linear B | B 82 |
+| Linear B Unicode | U+1005A LINEAR B SYMBOL B082 |
+| Linear B note | Unicode gives no value |
 | Neutralization class | none |
 
 ### Forms cited for the value

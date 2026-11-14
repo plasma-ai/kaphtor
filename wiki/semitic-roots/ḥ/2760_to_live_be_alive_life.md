@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Amorite | ḥjj: jaḥī, ḥajjum, ḥajjatum, ḥajja (Gelb AS 21, 19); ḥwy: ḫay- (Huffmon APNM 191); ḥaya, laḥî (Buck 2019, 327); ḥ-w-y, ḥ-y-y: ia-ḫi-ia, ia-aḫ-wi-DINGIR, la-ḫi-a-nu-um (Ur III); ḥay(ya): ḫa-iu-um, ḫa-ia-nu-um, á-ú-DINGIR (Ur III) (Sanmartín GlOS 1, 260–261) | Gelb AS 21 19; Huffmon APNM 191; Buck 2019, 327; Sanmartín GlOS 1, 260–261 | gloss withheld |
 | Punic | ḥym, N.Pu. ʿym (T 102); N.Pu. ḥwt (T 103); N.Pu. ḥyt (T 104); N.Pu. ḥwʾ, ʿwʾ (T 100); Neo-Punic mḥy (Krahmalkov 275) | T 102; T 103; T 104; T 100; Krahmalkov 275 | gloss withheld |
 | Syrian Aramaic | ḥaye (Payne Smith 139); ḥəyā (LGz. 252) | Payne Smith 139; LGz. 252 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ḥyw (Al-Jallad–Jaworska 88); ḥy; ḥyy; ḥywt; Dhofari ḥy; ḥyt; ḥyw (Al-Jallad 2026, 79) | Al-Jallad–Jaworska 88; Al-Jallad 2026 79 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ḥyw (Al-Jallad–Jaworska 88); ḥy; ḥyy; ḥywt; Dhofari ḥy; ḥyt; ḥyw (Al-Jallad 2026, 79); Taymanitic ḥyw (Al-Jallad 2026b, 43) | Al-Jallad–Jaworska 88; Al-Jallad 2026 79; Al-Jallad 2026b 43 | gloss withheld |
 | Geez | ḥaywa (LGz. 252) | LGz. 252; Anderson–Moser 2024 root ḥwy | gloss withheld |
 | Soqotri | ḥyy (LGz. 252) | LGz. 252 |  |
 | Mehri | ḥewya (LGz. 252) | LGz. 252 | gloss withheld |

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/1140_be_high_rise
 title: "*šVmVw-: 'be high, rise'"
-desc: "Proto-Semitic *šVmVw-, 'be high, rise': reflexes in 1 language(s)."
+desc: "Proto-Semitic *šVmVw-, 'be high, rise': reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1140"
@@ -31,6 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | smw \[-u-\] (Lane 1433) | Lane 1433 |  |
+| Pre-Islamic North Arabian | Taymanitic smw (Al-Jallad 2026b, 54) | Al-Jallad 2026b 54 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

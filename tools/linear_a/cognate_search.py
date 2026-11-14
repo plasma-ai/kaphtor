@@ -9,8 +9,10 @@ import argparse
 import json
 import os
 import re
+import sqlite3
 import sys
 import unicodedata
+from functools import cache
 from pathlib import Path
 from typing import Any
 
@@ -18,7 +20,7 @@ if __package__ in (None, ""):
     sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
     __package__ = "tools.linear_a"
 
-from ..core import data_cache
+from ..core import data_cache, root_index
 from ..core.greek_spelling import lb_token_to_key
 from ..core.normalization import lookup_in
 from ..core.phonetics import (
@@ -1009,8 +1011,14 @@ def search_cognates(
     verb_lens: bool = False,
     historical_lens: bool = False,
     include_akkadian: bool = False,
+    include_reflexes: bool = False,
 ) -> dict[str, Any]:
     """Full cognate search pipeline for a transliteration.
+
+    include_reflexes adds rows of method "reflex": roots found by a form in one of their language cells
+    (Ugaritic kkr under *kakkar-/*kikkar-), read from the Shoresh root index. A root its header already found
+    at that distance or closer gets no second row. The command line turns it on; a caller asks for it.
+
 
     verb_lens adds a VERBAL PARSES section (template-licensed affix strips
     searched for hidden roots), computed independently of the bare-stem
@@ -1075,15 +1083,34 @@ def search_cognates(
 
     # Step 3: Proto-Semitic distance search (with morphophonological variants).
     # The lens bypasses the cache: cached rows are surface-only.
+    # The cache answers only for a word it holds, and only while it was built from the roots file as it is now.
     if skeleton:
+        source = "live"
+        cached_matches: list[dict[str, Any]] = []
         if use_cache and CACHE_FILE.exists() and not historical_lens:
-            cache = json.loads(CACHE_FILE.read_text(encoding="utf-8"))
-            cached_matches = cache.get(transliteration, [])
+            if _cache_is_current():
+                cached_matches = json.loads(CACHE_FILE.read_text(encoding="utf-8")).get(transliteration, [])
+            else:
+                source = "live (cache stale)"
+        if cached_matches:
+            source = "cache"
             for m in cached_matches[:top_n]:
                 results["matches"].append({**m, "method": "proto_semitic"})
         else:
             ps_matches = _search_proto_semitic_multi(semitic_candidates, top_n)
             results["matches"].extend(ps_matches)
+        results["proto_semitic_source"] = source
+
+    # Step 3b: the language cells of semitic_roots.json, through the Shoresh root index's reflex keys.
+    if include_reflexes and skeleton:
+        header_hits = {m["root"]: m["distance"] for m in results["matches"] if m.get("method") == "proto_semitic"}
+        try:
+            reflex_rows = _search_reflexes_multi(semitic_candidates, top_n + len(header_hits))
+        except (OSError, RuntimeError, sqlite3.Error) as exc:
+            results["reflex_note"] = f"reflex search skipped: {exc}"
+            reflex_rows = []
+        reflex_rows = [r for r in reflex_rows if header_hits.get(r["root"], float("inf")) > r["distance"]]
+        results["matches"].extend(reflex_rows[:top_n])
 
     # Step 4: Luwian distance search
     if include_luwian and skeleton:
@@ -1163,6 +1190,103 @@ def search_cognates(
         )
 
     return results
+
+
+@cache
+def _cache_is_current() -> bool:
+    """True while the cache's sidecar names the roots file as it is now and this scorer's version."""
+    sidecar = CACHE_FILE.with_name(CACHE_FILE.name + ".provenance.json")
+    try:
+        provenance = json.loads(sidecar.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return False
+    return (provenance.get("semitic_roots_sha256") == _sha256_file(root_index.DEFAULT_ROOTS)
+            and provenance.get("scorer_version", CACHE_SCORER_VERSION) == CACHE_SCORER_VERSION)
+
+
+# The root index writes q, ẓ and ś where this scorer's table has ḳ, ṯ̣ and ŝ.
+_REFLEX_NOTATION = str.maketrans({"q": "ḳ", "ẓ": "ṯ̣", "ś": "ŝ"})
+# Ties between a root's cells go to the nearer branch first.
+REFLEX_LANGUAGE_ORDER = (
+    "Ugaritic", "Phoenician", "Punic", "Hebrew", "Canaanite", "Amorite", "Moabite", "Aramaic", "Biblical Aramaic",
+    "Egyptian Aramaic", "Judaic Aramaic", "Syrian Aramaic", "Eblaitic", "Emar", "Akkadian", "Arabic",
+    "Pre-Islamic North Arabian", "Epigraphic South Arabian", "Geez",
+)
+
+
+@cache
+def _reflex_keys() -> tuple[tuple[str, str, str, str, str, str], ...]:
+    """(Number, language, radicals, form, PS header, meaning) for every reflex key of the root index. Keys with an
+    unmapped consonant, from a non-Semitic cell or in another script are left out. Raises when the index is
+    missing or was built from other inputs."""
+    path = root_index.DEFAULT_INDEX
+    if not path.exists():
+        raise FileNotFoundError(f"{path.name} not built: run tools/linear_a/build_root_index.py --allow-missing")
+    if root_index.read_provenance(path).get("schema_version") != root_index.SCHEMA_VERSION:
+        raise root_index.IndexStale("index schema differs: rebuild with build_root_index.py --force")
+    changed = root_index.stale_inputs(path, include_lexemes=False)
+    if changed:
+        raise root_index.IndexStale(
+            f"index stale ({', '.join(Path(p).name for p in changed)} changed): run build_root_index.py --diff")
+    conn = root_index._ro(path)
+    try:
+        rows = conn.execute(
+            "SELECT k.number, k.language, k.radicals, k.form, r.ps, r.meaning FROM root_keys k"
+            " JOIN roots r ON r.number = k.number WHERE k.kind = 'reflex'"
+            " AND coalesce(k.branch, '') != 'non_semitic' AND coalesce(k.flags, '') NOT LIKE '%unmapped%'"
+            " ORDER BY k.id").fetchall()
+    finally:
+        conn.close()
+    keys = []
+    for number, language, radicals, form, ps, meaning in rows:
+        joined = "".join(radicals.split()).translate(_REFLEX_NOTATION)
+        if any(0x0370 <= ord(ch) < 0x1E00 for ch in joined):      # Greek, Hebrew, Arabic or Ethiopic script
+            continue
+        keys.append((number, language, joined, form or "", ps or "", meaning or ""))
+    return tuple(keys)
+
+
+def _search_reflexes_multi(
+    skeleton_candidates: list[tuple[str, float, str]], top_n: int,
+) -> list[dict[str, Any]]:
+    """Roots found by a form in a language cell, one row per root: its nearest cell, the other languages that
+    tie with it under "also". The gate and penalties are _search_proto_semitic_multi's."""
+    keys = _reflex_keys()
+    best: dict[str, tuple[float, int, dict[str, Any]]] = {}
+    ties: dict[str, list[str]] = {}
+    for skel, penalty, rule in skeleton_candidates:
+        skel_len = len(skel)
+        max_dist = 0.5 if skel_len <= 3 else 0.3
+        scored: dict[str, tuple[float, int]] = {}
+        for number, language, radicals, form, ps, meaning in keys:
+            if radicals not in scored:
+                tokens = _tokenize_phonemes(radicals)
+                visible = sum(1 for t in tokens if t not in GUTTURAL_PHONEMES)
+                scored[radicals] = (weighted_levenshtein(skel, radicals, guttural_transparent=True), visible)
+            dist, visible = scored[radicals]
+            if dist > max_dist * max(skel_len, visible, 1):
+                continue
+            effective = round(dist + penalty, 3)
+            rank = (REFLEX_LANGUAGE_ORDER.index(language) if language in REFLEX_LANGUAGE_ORDER
+                    else len(REFLEX_LANGUAGE_ORDER))
+            prev = best.get(number)
+            if (prev is not None and effective == prev[0] and language != prev[2]["language"]
+                    and language not in ties[number]):
+                ties[number].append(language)
+            if prev is None or (effective, rank) < prev[:2]:
+                if prev is not None and effective == prev[0]:
+                    ties[number] = [x for x in [prev[2]["language"], *ties[number]] if x != language]
+                else:
+                    ties[number] = []
+                row = {"root": ps, "number": number, "language": language, "form": form, "meaning": meaning,
+                       "distance": effective, "method": "reflex"}
+                if rule != "surface":
+                    row["morphophonological_rule"] = rule
+                    row["skeleton_used"] = skel
+                    row["base_distance"] = round(dist, 3)
+                best[number] = (effective, rank, row)
+    ordered = sorted(best.items(), key=lambda kv: (kv[1][0], kv[1][1], kv[0]))
+    return [{**row, "also": ties[number]} for number, (_, _, row) in ordered[:top_n]]
 
 
 def _search_proto_semitic(skeleton: str, top_n: int) -> list[dict[str, Any]]:
@@ -1282,26 +1406,65 @@ def _extract_root_consonant_variants(ps_root: str) -> list[str]:
     Semitic roots never begin with a true vowel. The ʾ-prefixed skeleton is the
     primary variant; the plain vowel-dropped skeleton is retained as fallback.
     """
-    parts = re.split(r'\s*~\s*', _sed_underscores(ps_root))
     variants = []
-    for part in parts:
-        s = part.strip("*- ()")
-        s = re.sub(r'[\d\s]', '', s)
-        s = re.sub(r'[-(){}*?\[\]/,;:.]', '', s)
-        initial_bare_vowel = bool(s) and s[0] in "aiuāīū"
-        consonants = []
-        for ch in s:
-            if ch in "aiueoāīūēōVv":
-                continue
-            consonants.append(ch)
-        result = "".join(consonants)
-        if initial_bare_vowel and result:
-            guttural_form = "ʾ" + result
-            if guttural_form not in variants:
-                variants.append(guttural_form)
-        if result and result not in variants:
-            variants.append(result)
+    for part in _header_parts(ps_root):
+        slots = _header_slots(part)
+        initial_bare_vowel = bool(slots) and all(alt[:1] in "aiuāīū" for alt in slots[0])
+        for reading in _slot_readings(slots):
+            result = "".join(ch for ch in reading if ch not in _HEADER_VOWELS)
+            if initial_bare_vowel and result:
+                guttural_form = "ʾ" + result
+                if guttural_form not in variants:
+                    variants.append(guttural_form)
+            if result and result not in variants:
+                variants.append(result)
     return variants
+
+
+_HEADER_VOWELS = "aiueoāīūēōVv"
+# A header's forms part at ~, {} (SED's rival reconstruction), < and >, and at a slash, comma or semicolon that a
+# starred form follows: "*kakkar-/*kikkar-", "*napr- 1, *npr 2". tools/core/semitic_root_schema.ps_radical_keys reads the
+# same headers for the root index, in its own notation; this reader keeps this scorer's.
+_HEADER_SPLIT = re.compile(r"\s*(?:~|\{\}|<|>|[/,;]\s*(?=\*))\s*")
+_MAX_SLOT_READINGS = 16
+
+
+def _header_parts(ps_root: str) -> list[str]:
+    """The forms of a PS header, one string each."""
+    return [p for p in _HEADER_SPLIT.split(_sed_underscores(ps_root)) if p.strip("*- ()")]
+
+
+def _header_slots(part: str) -> list[list[str]]:
+    """One form as slots, each a letter with its marks, or the letters a slash sets against each other:
+    "*w/nVpVṯ-" → [w|n] V p V ṯ."""
+    s = part.strip("*- ()")
+    s = re.sub(r'[\d\s]', '', s)
+    s = re.sub(r'[-(){}*?\[\],;:.]', '', s).strip("/")
+    units = re.findall(r"/|[^/][̀-ͯ]*", s)
+    slots: list[list[str]] = []
+    alternate = False
+    for unit in units:
+        if unit == "/":
+            alternate = True
+        elif alternate and slots:
+            slots[-1].append(unit)
+            alternate = False
+        else:
+            slots.append([unit])
+    return slots
+
+
+def _slot_readings(slots: list[list[str]]) -> list[str]:
+    """Every reading of a form, in the header's order, capped at _MAX_SLOT_READINGS."""
+    readings = [""]
+    for alternatives in slots:
+        readings = [r + alt for r in readings for alt in alternatives][:_MAX_SLOT_READINGS]
+    return readings
+
+
+def _header_letters(part: str) -> list[str]:
+    """The consonants of one form, a letter with its marks each, taking the first letter of each alternation."""
+    return [alternatives[0] for alternatives in _header_slots(part) if alternatives[0][0] not in _HEADER_VOWELS]
 
 
 def _generate_morphophonological_skeletons(
@@ -1860,7 +2023,7 @@ def format_reverse_table(result: dict[str, Any]) -> str:
     return "\n".join(lines)
 
 
-CACHE_SCORER_VERSION = "2.0"  # 2026-07-20: variants, morphophonology, determinism
+CACHE_SCORER_VERSION = "2.1"  # header alternates read one by one; 2.0: variants, morphophonology, determinism
 
 
 def _sha256_file(path: Path) -> str | None:
@@ -2102,6 +2265,10 @@ def format_table(result: dict[str, Any]) -> str:
 
     lines.append("")
 
+    if result.get("reflex_note"):
+        lines.append(result["reflex_note"])
+        lines.append("")
+
     matches = result["matches"]
     if not matches:
         lines.append("No matches found.")
@@ -2117,6 +2284,12 @@ def format_table(result: dict[str, Any]) -> str:
         lines.append(
             f"{m['method']:<16} {m['root']:<20} {m['meaning']:<30} {m['distance']:>6.3f}  {rule}"
         )
+        if m["method"] == "reflex":
+            also = f"; also {', '.join(m['also'])}" if m.get("also") else ""
+            lines.append(f"{'':<16} ← {m['language']} {m['form']} (root {m['number']}{also})")
+    if result.get("proto_semitic_source") == "live (cache stale)":
+        lines.append("")
+        lines.append("Cache not read: it was built from another roots file (rebuild with --build-cache).")
 
     _append_verbal_parses(lines, result)
     return "\n".join(lines)
@@ -2223,6 +2396,9 @@ def _run() -> None:
     parser.add_argument("--south-arabian", "--include-south-arabian", action="store_true",
                         help="Include South Arabian contact lexicon in search (DASI forms, 19.2K; "
                              "1.6K glossed from Beeston/Biella 1982)")
+    parser.add_argument("--no-reflexes", action="store_true",
+                        help="Leave out the rows found through a root's language cells (the Shoresh root "
+                             "index's reflex keys); headers only")
     parser.add_argument("--akkadian", "--include-akkadian", action="store_true",
                         help="Include the Akkadian contact files (Anchor Bible lexicon + CAD headwords); "
                              "the only search that reads K for ḫ")
@@ -2384,6 +2560,7 @@ def _run() -> None:
         verb_lens=args.verb_lens,
         historical_lens=args.historical_lens,
         include_akkadian=args.akkadian,
+        include_reflexes=not args.no_reflexes,
     )
 
     if args.all_readings:

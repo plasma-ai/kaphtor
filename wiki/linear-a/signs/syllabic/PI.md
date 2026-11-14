@@ -67,7 +67,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/P/PI_TA_JA\|PI-TA-JA]] | Bittaya | SPECULATIVE |
 | [[wiki/linear-a/words/P/PI_TA_KA_SE\|PI-TA-KA-SE]] | Bīt-kissē | SPECULATIVE |
 | [[wiki/linear-a/words/P/PI_TA_KE_SI\|PI-TA-KE-SI]] | Bīt-kissi | SPECULATIVE |
-| [[wiki/linear-a/words/P/PI_TA_RA\|PI-TA-RA]] | bidāla | SPECULATIVE |
+| [[wiki/linear-a/words/P/PI_TA_RA\|PI-TA-RA]] | bitra | SPECULATIVE |
 | [[wiki/linear-a/words/P/PI_TE_RI\|PI-TE-RI]] | piṭrī | CANDIDATE |
 | [[wiki/linear-a/words/Q/QE_PI_TA\|QE-PI-TA]] | qepīta | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_PI\|RU-PI]] | rōpiʾ | SPECULATIVE |

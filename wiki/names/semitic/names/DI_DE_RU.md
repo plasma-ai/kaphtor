@@ -67,6 +67,6 @@ Read words on the same documents.
 |---|---|---|
 | A-KA-RU | Agaru | field, estate (heading); rival the Ugaritic god Ugaru |
 | KU-NI-SU | kunīšu | emmer (Akkadian loan) |
-| [[wiki/names/semitic/names/A_DU\|A-DU]] | ʾAddu / adû | Addu/Haddu (heading); rival adû 'work stint' |
+| [[wiki/names/semitic/names/A_DU\|A-DU]] | adû | work assignment; the ration allotted to it (heading of personnel and ration lists) |
 
 <!-- END kaphtor:record -->

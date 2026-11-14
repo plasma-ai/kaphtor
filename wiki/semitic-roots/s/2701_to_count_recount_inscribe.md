@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | siprā; spr, sfirā (HALOT 766, 767; DNWSI 799; DNWSI 798) | HALOT 766, 767; DNWSI 799; DNWSI 798 | gloss withheld |
 | Mandaic Aramaic | aspar, sipra (HALOT 766; MD 335) | HALOT 766; MD 335 |  |
 | Judaic Aramaic | siprā (HALOT 767; DJPA 386b apud CAL) | HALOT 767; DJPA 386b; CAL | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic sfr (Al-Jallad–Jaworska 120); sfrt, sfrn; Dadanitic sfr; Thamudic B sfr (Al-Jallad 2026, 130) | Al-Jallad–Jaworska 120; Al-Jallad 2026 130 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic sfr (Al-Jallad–Jaworska 120); sfrt, sfrn; Dadanitic sfr; Thamudic B sfr (Al-Jallad 2026, 130); Taymanitic s³fr (Al-Jallad 2026b, 21) | Al-Jallad–Jaworska 120; Al-Jallad 2026 130; Al-Jallad 2026b 21 | gloss withheld |
 | Biblical Aramaic | sᵉfar (HALOT 768); sāpraʾ (T 232) | HALOT 768; T 232 | gloss withheld |
 | Punic | N.Pu. mspr (T 189); sprm, in spry (Krahmalkov 348) | T 189; Krahmalkov 348 | gloss withheld |
 | Canaanite | EG SYLL ṯu=pi₂=-r /\*s̀ōpira/ (Hoch 364) | Hoch 364 | gloss withheld |

@@ -56,7 +56,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | motä \[Bass 100\] | Bass 100 |  |
 | Argobba | moda (SED I 304) | SED I 304 |  |
 | Amorite | mwt: jamūt (Gelb AS 21, 26) | Gelb AS 21 26 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic myt (Al-Jallad–Jaworska 101); mt; ʾmt (Al-Jallad 2026, 96) | Al-Jallad–Jaworska 101; Al-Jallad 2026 96 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic myt (Al-Jallad–Jaworska 101); mt; ʾmt (Al-Jallad 2026, 96); ymyt (a deity) (Al-Jallad 2026, 187) | Al-Jallad–Jaworska 101; Al-Jallad 2026 96; Al-Jallad 2026 187 | gloss withheld |
 | Emar | mi-ti /mītī/ (Pentiuc 2001, 125–126) | Pentiuc 2001 125–126 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

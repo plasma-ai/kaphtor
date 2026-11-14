@@ -38,6 +38,24 @@ provenanced:
 The 279-tablet Copenhagen Ugaritic index is built from `auto_parsing/0.2.7`; v0.2.8's Text-Fabric layer corrects
 word divisions.
 
+## Shipped in this repository
+
+Two of the layers above are in the checkout, so their lookups need no download:
+
+| Folder | Holds | Terms |
+|---|---|---|
+| `data/share-alike/oracc-levant/` | 2,583 ORACC editions with tokens (AEMW/Ugarit 1,900, Amarna 305, the second Amarna project 376, Idrimi 2), 7,122 translation units of 1,376 texts, 1,153 excavation numbers of the Ugarit texts and 11,155 name occurrences | CC BY-SA 3.0 |
+| `data/ane/ugarit-texts-database/` | 4,582 catalogue records | CC BY 4.0 |
+
+```bash
+uv run --no-sync python -m tools.ane.aneq cuneiform "RS 16.156" --translation
+uv run --no-sync python -m tools.ane.aneq ugaritdb 16.156
+```
+
+`cuneiform` reads the shipped editions when the full ORACC snapshot is absent, and finds a tablet by its excavation
+number as well as its P number. A translation is the project's, by text and line; it is no independent witness to a
+reading. The other layers of the inventory stay a user's own downloads.
+
 The ORACC total includes SAAo, ATAE, RINAP, RIBo, TCMA, BALT, BabCity, Borsippa,
 HBTIN, Rīm-Anum, OBTA, OBMC, OBEL, AEMW/Amarna, AEMW/Ugarit,
 AEMW/Alalakh-Idrimi, DCCLT/Ebla, NERE, and CAMS/GKAB.

@@ -33,8 +33,8 @@ updated: 2026-10-24T16:17:50Z
 | Linear B Unicode | U+10017 LINEAR B SYLLABLE B015 MO |
 | Neutralization class | none |
 
-### Forms cited for the value
+### Note
 
-- Linear B projection—less common in Linear A
+NOT A LINEAR A SIGN. AB15 MO occurs nowhere in the Linear A corpus or SigLA, and Unicode's Linear A block has no AB015; the value mo is Linear B's, and it was the only support. Do not propose MO in Linear A spellings.
 
 <!-- END kaphtor:record -->

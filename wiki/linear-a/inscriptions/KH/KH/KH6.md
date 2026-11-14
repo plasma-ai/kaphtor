@@ -9,7 +9,7 @@ site: "Khania"
 support: "Tablet"
 period: "LMIB"
 translation: "incomplete"
-words: ["*21M", "AU-RE-TE", "CYP", "PI-SA", "RE", "RI-TA-JE"]
+words: ["*21M", "AU-RE-TE", "CYP", "MU", "PI-SA", "RE", "RI-TA-JE"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -96,7 +96,7 @@ Unicode (Linear A block):
 | KI-SA-NE |  | broken word, \]KI-SA-NE; cyperus ½ |  |  |
 | [[wiki/linear-a/words/R/RI_TA_JE\|RI-TA-JE]] | Lītāy | (My) Might (personal name); cyperus ½\[; rival Rašiyya | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/P/PI_SA\|PI-SA]] | Pīsa | recipient name, before the break | SPECULATIVE | SPECULATIVE (lexicon) |
-| [[wiki/linear-a/words/A/AU_RE_TE\|AU-RE-TE]] | ʾawrēt | luminous one (f.); \*306 1 | PROBABLE | PROBABLE (lexicon) |
+| [[wiki/linear-a/words/A/AU_RE_TE\|AU-RE-TE]] | ʾawrēt | luminous one (f.); \*306 1 | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/C/CYP\|CYP]] |  | cyperus, 2 with a fraction | PROBABLE | PROBABLE (lexicon) |
 
 ### Notes
@@ -109,6 +109,6 @@ GORILA III 26–27 (KH Scribe 2): cyperus allotments of ½ (CYP+D J) to recipien
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/star/star21M|\*21M]], [[wiki/linear-a/words/A/AU_RE_TE|AU-RE-TE]], [[wiki/linear-a/words/C/CYP|CYP]], [[wiki/linear-a/words/P/PI_SA|PI-SA]], [[wiki/linear-a/words/R/RE|RE]], [[wiki/linear-a/words/R/RI_TA_JE|RI-TA-JE]].
+[[wiki/linear-a/words/star/star21M|\*21M]], [[wiki/linear-a/words/A/AU_RE_TE|AU-RE-TE]], [[wiki/linear-a/words/C/CYP|CYP]], [[wiki/linear-a/words/M/MU|MU]], [[wiki/linear-a/words/P/PI_SA|PI-SA]], [[wiki/linear-a/words/R/RE|RE]], [[wiki/linear-a/words/R/RI_TA_JE|RI-TA-JE]].
 
 <!-- END kaphtor:record -->

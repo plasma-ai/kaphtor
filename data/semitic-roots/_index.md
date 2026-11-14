@@ -3,7 +3,7 @@ name: data/semitic-roots
 title: Semitic roots
 desc: The comparative Semitic root database and the consonant correspondence table, with a datasheet.
 created: 2026-10-22T18:14:10Z
-updated: 2026-10-22T18:14:10Z
+updated: 2026-11-16T17:30:00Z
 ---
 
 # Semitic roots
@@ -18,7 +18,7 @@ updated: 2026-10-22T18:14:10Z
 
 [[data/semitic-roots/semitic_roots|semitic_roots]]: Proto-Semitic roots with their reflexes across the Semitic languages, each reflex cited to its source.
 
-[[data/semitic-roots/semitic_roots.json|semitic_roots.json]]: 5,187 Proto-Semitic roots with their cited reflexes (SED, HALOT, DULAT, CAD, Lane, Klein, Ricks 1982, Rubin 2018, Al-Jallad 2026, Tāj and others); datasheet `semitic_roots.md`; CC BY 4.0.
+[[data/semitic-roots/semitic_roots.json|semitic_roots.json]]: 5,189 Proto-Semitic roots with their cited reflexes (SED, HALOT, DULAT, CAD, Lane, Klein, Ricks 1982, Rubin 2018, Al-Jallad 2026 and 2026b, Tāj and others); datasheet `semitic_roots.md`; CC BY 4.0.
 
 ***
 

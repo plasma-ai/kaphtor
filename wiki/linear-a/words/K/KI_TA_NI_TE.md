@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-PK Zb 21, a pithos incised before firing (Building 7, MM IIIB–LM IA). A -t derivative of KI-TA-NA (PE Zb 3 KI-TA-NA-SI-JA-SE; KH 60 RA-KI-TA-NA-SI); the reading, and the recurrence of KI-TA-N-, follow Davis (Kadmos 47, 2008, 1–2, apud Younger, Linear A Texts, Other Texts: Palaikastro). Unshifted ā: the pre-Canaanite form of Heb. kuttōnet, kətōnet 'tunic' (HALOT 505). As a jar label, the stored linen goods. Rival: ME-WI-TA-NI-TE, cf. HT Wc 3004a–3005a (Driessen 1991, apud Younger).
+PK Zb 21, a pithos incised before firing (Building 7, MM IIIB–LM IA). A -t derivative of KI-TA-NA (PE Zb 3 KI-TA-NA-SI-JA-SE; KH 60 \]RA-KI-TA-NA-SI\[); the reading, and the recurrence of KI-TA-N-, follow Davis (Kadmos 47, 2008, 1–2, apud Younger, Linear A Texts, Other Texts: Palaikastro). Unshifted ā: the pre-Canaanite form of Heb. kuttōnet, kətōnet 'tunic' (HALOT 505). As a jar label, the stored linen goods. Rival: ME-WI-TA-NI-TE, cf. HT Wc 3004a–3005a (Driessen 1991, apud Younger).
 
 ### Cognates
 
@@ -49,13 +49,12 @@ PK Zb 21, a pithos incised before firing (Building 7, MM IIIB–LM IA). A -t der
 |---|---|
 | Akkadian | kitītu, var. kitintu "linen robe" (eBL kitītu I); kitû "flax, linen" |
 | Hebrew | kətōnet / kuttōnet "tunic" (Gen 37:3; Exod 28:39) &lt; \*kutān-t |
-| Ugaritic | ktn "tunic" |
+| Ugaritic | ktn 'linen' (Watson 2018b, 363); 'a type of tunic', pl. ktnt (DULAT 464) |
 | Phoenician | KTN "tunic" (Krahmalkov 2000) |
-| Aramaic | kittānā "flax" (Tg. Onq. Exod 9:31 for pištāh) |
 
 ### Source
 
-di Mino; Younger, Linear A Texts; HALOT
+di Mino; Younger, Linear A Texts; HALOT; Watson 2018b; DULAT; Driessen 1991; Krahmalkov 2000
 
 ## Attestations
 

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "dataset": "ORACC editions of the Late Bronze Age Levant: aemw/ugarit, aemw/amarna, aemw/myamarna and aemw/alalakh/idrimi, with their translations, find numbers and proper-name occurrences",
+  "licence": "CC BY-SA 3.0. The projects' pages state it: every aemw/amarna text page reads 'Edition by Jacob Lauinger and Tyler Yoder. Released under a CC-BY-SA 3.0 license'; the footers read 'CC BY-SA The aemw/myamarna Project, 2014-', 'CC BY-SA Jacob Lauinger, 2015' (Statue of Idrimi) and 'CC BY-SA The AEMW Project, 2014-'. The projects' JSON archives say 'This data is released under the CC0 license'; each edition keeps that sentence in archive_license. The stricter statement is followed. Anything derived from these files carries the same terms.",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "credit": {
+    "aemw/amarna": "The Amarna Letters, edition by Jacob Lauinger and Tyler Yoder, on electronic transliterations by Shlomo Izre'el; ORACC",
+    "aemw/myamarna": "The aemw/myamarna Project, ORACC",
+    "aemw/alalakh/idrimi": "Statue of Idrimi, Jacob Lauinger; ORACC",
+    "aemw/ugarit": "AEMW Ugarit Corpus, The AEMW Project; ORACC. Its text pages name no editor and no licence; the parent project's line is followed"
+  },
+  "sources": {
+    "editions": "the projects' JSON archives from https://oracc.museum.upenn.edu/json/ (aemw-ugarit.zip, aemw-amarna.zip, aemw-myamarna.zip, aemw-alalakh-idrimi.zip); each edition names its archive and the archive's SHA-256",
+    "translations": "the projects' text pages, https://oracc.museum.upenn.edu/<project>/<text id>/html, fetched 2026-11-13; each row gives its page URL, fetch date and the page's SHA-256",
+    "find_numbers": "the excavation_no field of the aemw/ugarit catalogue in its archive",
+    "names": "the tokens ORACC lemmatises as proper nouns in the editions"
+  },
+  "change_rule": "Each edition's license is set to CC BY-SA 3.0 and the archive's sentence moved to archive_license. No other value of any row is changed from what ORACC publishes or what the parser reads off its page.",
+  "identity_rule": "An edition is one project's reading of one text: the same P-number stands under aemw/amarna and aemw/myamarna (303 letters), so a count of editions is not a count of tablets. A translation unit belongs to its project's edition. A unit ORACC serves with no id is named by its position on the page (P503860_xtr.0).",
+  "coverage": "Translations: every text the three catalogues flag as translated (aemw/ugarit 1,069, aemw/amarna 305, aemw/alalakh/idrimi 2). aemw/myamarna has none here. Find numbers: aemw/ugarit only. Names: occurrences only, no aggregated entities.",
+  "counts": {
+    "editions": 2583,
+    "editions_by_project": {"aemw/alalakh/idrimi": 2, "aemw/amarna": 305, "aemw/myamarna": 376, "aemw/ugarit": 1900},
+    "translation_units": 7122,
+    "translated_texts": 1376,
+    "find_numbers": 1153,
+    "name_occurrences": 11155,
+    "name_occurrences_by_project": {"aemw/alalakh/idrimi": 54, "aemw/amarna": 2385, "aemw/myamarna": 456, "aemw/ugarit": 8260}
+  },
+  "outputs": {
+    "oracc_documents.jsonl": {"rows": 2583, "sha256": "f0acce76445f73b92419a8197ec50cb7d828728da20fe6396807f1307ff9387a"},
+    "oracc_translations.jsonl": {"rows": 7122, "sha256": "0954f8071bb28e6e6a3174f78d84221e0f98430f6f5744ee2bcaf102ddddaf0c"},
+    "oracc_excavation_numbers.jsonl": {"rows": 1153, "sha256": "9c260fd0754d02b3260047849af61cdab3f7dcfb87a94008d194a6bdac5572be"},
+    "name_occurrences.jsonl": {"rows": 11155, "sha256": "ee9e10ed84d81a33cbdcbb675ababad3c4c24a216c497dcc4ac24f76544d29e9"}
+  }
+}

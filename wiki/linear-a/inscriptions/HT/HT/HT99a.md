@@ -63,11 +63,11 @@ Unicode (Linear A block):
 
 **CANDIDATE**, complete.
 
-> Addu \[heading\]. The queen's establishment: cyperus 4\[...\]; figs 4\[...\]; wine 1 + A706 (≈⅙?); flour/meal(?) \[...\].
+> Rations. The queen's establishment: cyperus 4\[...\]; figs 4\[...\]; wine 1 + A706 (≈⅙?); flour/meal(?) \[...\].
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/A/A_DU\|A-DU]] | ʾAddu | Addu/Haddu, initial heading; rival adû 'work assignment' | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/A/A_DU\|A-DU]] | adû | work assignment, ration (initial heading) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/S/SA_RA2\|SA-RA₂]] | šarra | queen/princess or royal establishment (recipient heading) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/C/CYP\|CYP]] | \[ideogram\] | cyperus, aromatic sedge |  | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/N/NI\|NI]] | \[ideogram\] | figs |  | CONFIRMED (lexicon) |
@@ -76,13 +76,12 @@ Unicode (Linear A block):
 
 ### Notes
 
-A-DU is an initial administrative heading, but its distribution does not establish Addu/Haddu over an entity, place, or transactional interpretation. SA-RA₂ is better treated as a recipient or institutional heading than as 'surplus'; 'queen/princess' or 'royal establishment' is the leading Semitic candidate. CYP is the cyperus logogram, not copper. Damage follows CYP 4 and NI 4; A706 is conventionally valued at approximately ⅙, and the final GRA+QE quantity is lost.
+A-DU is the initial heading adû 'work assignment, ration', here over mixed foodstuffs (CAD A/1 135; Draffkorn 1959, 152–54). SA-RA₂ is better treated as a recipient or institutional heading than as 'surplus'; 'queen/princess' or 'royal establishment' is the leading Semitic candidate. CYP is the cyperus logogram, not copper. Damage follows CYP 4 and NI 4; A706 is conventionally valued at approximately ⅙, and the final GRA+QE quantity is lost.
 
 ### Source
 
-- Gordon 1966: A-DU
 - Anastasiadou 2026; Hogan 2026: A-DU distribution and neutral administrative classification
-- di Mino: SA-RA₂, NI, GRA+QE
+- di Mino: A-DU, SA-RA₂, NI, GRA+QE
 
 ## Lexicon words citing this document
 

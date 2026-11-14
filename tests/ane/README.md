@@ -1,6 +1,6 @@
 # ANE tests
 
-Tests for the ancient Near East tools in `tools/ane/` and the name layers in `data/`. All nine run offline: the
+Tests for the ancient Near East tools in `tools/ane/` and the name layers in `data/`. All run offline: the
 parsers read inline HTML and XML fixtures, the request tests use stub clients, and the path tests, the notation census
 and the name-layer checks read the shipped data or a fixture, so no test reaches a live site.
 
@@ -9,6 +9,8 @@ and the name-layer checks read the shipped data or a fixture, so no test reaches
 | `test_data_paths.py` | `tools/paths.py`, `query_place_authorities`, `query_proper_names`: the clients, run as a user would, reach the shipped Pleiades, Trismegistos and PNM v6 data, and name a dataset that is not in the checkout (the held iDAI records among them); every portal client caches under the user cache, never the repo; iDAI refuses a delay under one second |
 | `test_name_layers.py` | the Prosopographia Memphitica, TLA v18 names, Gauthier's DNG and Kassite name concordance files: each matches its `MANIFEST.json` outputs (rows and sha256), carries no private catalogue id or local path, and is listed by its folder's `_index.md` |
 | `test_query_name_layers.py` | `query_proper_names` on those four layers: each source's own fields, the TLA yod and Manuel de Codage readings, the layers each has, and the volume and page each row prints |
+| `test_palmyra_hatra_sets.py` | the Palmyra public inscriptions with their sigla concordance, Marcato's Hatra names and the Palmyrene divine-name table: each matches its manifest, carries no private id, is listed by its index; `aneq palmyra`, `query_proper_names` and `query_palmyra` read them; no Palmyra source the repository does not ship is offered |
+| `test_diana_sets.py` | DIANA I and II (Al-Jallad 2026 and 2026b, Safaitic and Taymanitic): each set matches its manifest and licence, carries no private id and is listed by its index; `aneq diana` finds a root, a homograph as printed, a typed sibilant, a gloss word, a cognate language and a section (Volume I's group and divine names, Volume II's toponyms), and refuses a section the volume lacks; `query_proper_names --source taymanitic` returns names and places, never a word of the dictionary |
 | `test_place_authorities.py` | `query_place_authorities` on a fixture: a substring hit does not keep out a folded whole name, a whole-label match keeps the fold out, and there is no crosswalk view |
 | `test_external_portal_queries.py` | `query_deaps`, `query_elephantine`, `query_rsti`: parsers keep record identity and rights fields, never follow pagination, refuse unfiltered calls and delays under one second |
 | `test_ane_keys.py` | `ane_keys`, `aneq`: query parsing, each view's spellings (Manuel de Codage, ASCII digraphs, Hebrew romanisation, hyphened keys letter by letter), the folded key and fold pattern; a census of the keys each view stores (declared alphabet, aleph and ayin signs, aneq's SQL folds agreeing with `loose_key` and `marks_kept`), skipped view by view when that view's files are not in the checkout |

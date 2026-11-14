@@ -33,7 +33,7 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | Sikinet |
 | Meaning | stewardess or female administrator; compare masculine prefect/commissioner |
-| Root | š-k-n |
+| Root | s-k-n |
 | Proto-Semitic | \*sākin- (#3842) |
 | Language layer | Semitic |
 | Tags | hapax, noun, personnel, title |
@@ -49,6 +49,7 @@ HT 116a: SI-KI-NE GRA 12, then \*304 12, in a list of grain and oil issues, afte
 |---|---|
 | Amarna | {'form': 'sōkinu / sū-ki-ni / sū-ki-na', 'meaning': 'commissioner, one who provides (glossing Akk. rābišu)', 'root': '√š-k-n', 'ea_references': \['EA 256:9', 'EA 362:69'\], 'moran_page': 'Intro p. xxvi n.70; EA 287 n.22', 'note': "Moran: West Semitic \*sōkinu (Hebrew sōkēn), 'one who provides.' Durand proposes 'resident.' These administrative title readings are the primary comparison."} |
 | Hebrew | sōkenet (סֹכֶנֶת), Qal participle fs, of Abishag (1 Kgs 1:2, 4) |
+| Ugaritic | skn 'prefect, governor; mayor; manager, administrator' (DULAT 746) |
 
 ### Source
 

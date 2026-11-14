@@ -4,7 +4,7 @@ title: Ancient and classical Aramaic corpus
 desc: The passage-level Aramaic index (Biblical Aramaic, the Targums, Qumran, Syriac, inscriptions and the Babylonian Talmud), its fields, validation, sources and gaps.
 tags: [corpora, docs]
 created: 2026-10-22T18:14:10Z
-updated: 2026-10-22T18:14:10Z
+updated: 2026-11-14T22:20:54Z
 ---
 
 # Ancient and classical Aramaic corpus
@@ -54,7 +54,7 @@ The ETCBC Targum checkout has conflicting license metadata (MIT in README/config
 Do not describe this as “all ancient Aramaic.” Strong areas are Biblical Aramaic, major Targums, most published Judaean Desert texts, the Peshitta, and a substantial Syriac layer. Major gaps remain:
 
 1. Old and Imperial Aramaic, especially Sefire, Tell Fekheriye, Zakkur, Samʾal, Elephantine, Hermopolis, Ahiqar, Arsames, Saqqara, Wadi Daliyeh, Idumaean, and Bactrian documentary texts, and Aramaic written in Demotic script (SED's `Dem.`, e.g. `Dem. tkmh` 'back' [HJ 1266]).
-2. Full linguistic corpora for Nabataean, Palmyrene, and Hatran.
+2. Full linguistic corpora for Nabataean, Palmyrene, and Hatran. For the last two, names and catalogue rows are shipped and no inscription text: Public Inscriptions from Palmyra (Raja, Steding, Yon and Romanowska 2026; 1,135 inscriptions with their PAT, IGLS, CIS and RES numbers, dates, buildings, gods and 5,443 names in the editors' vocalised spelling; `aneq.py palmyra`, `query_proper_names.py --source palmyra-public`, `query_palmyra.py sigla`), Marcato 2018's 407 Hatran name entries with his analyses (`--source hatra-marcato`), and a table of thirteen Palmyrene divine names with their written forms (`query_palmyra.py element`). The consonantal Palmyrene forms are in works cited and not shipped: the indexes and concordance of Yon 2012 (IGLS XVII/1, pp. 423–490), the index of Gawlikowski 1975 (pp. 371–375), Piersimoni 1995's prosopography, and Du Mesnil du Buisson 1960 on Bôl and Bēl; the texts are in PAT (Hillers and Cussini 1996) and CIS II/3.
 3. Old Syriac inscriptions and Gospel witnesses; Christian Palestinian and Samaritan Aramaic.
 4. Mandaic literature and epigraphy.
 5. A manually or independently verified Bavli language edition, plus acquisition and segmentation of the Yerushalmi; both mix Hebrew and Aramaic.
@@ -76,7 +76,7 @@ CAL remains manual/export-only. The clients and their caching are listed in `too
 
 - Treat composition, redaction, manuscript, and edition dates separately.
 - Qumran/DSS and rabbinic corpora are multilingual; filter by language rather than script.
-- Palmyrene metadata is not counted as transcription.
+- Palmyrene metadata is not counted as transcription. The Palmyra dataset's names are a modern vocalisation: no Palmyrene lexical or grammatical claim rests on them.
 - Samaritan Pentateuch data is Samaritan Hebrew, not automatically Samaritan Aramaic.
 - Aramaic-script Iranian texts and Aramaic heterograms are not automatically Aramaic language.
 - Use manuscript or critical-edition control for consequential readings. ETCBC Targum is alpha. DSS morphology here is Abegg's annotation decomposed into ETCBC features, while the separately named `_etcbc` model fields are not ingested; neither substitutes for edition control.

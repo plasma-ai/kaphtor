@@ -45,10 +45,10 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/star/star314_TA_MA\|\*314-TA-MA]] | ḥatam(a) | CANDIDATE |
 | [[wiki/linear-a/words/star/star364_KE_MA_SE\|\*364-KE-MA-SE]] | Šakma-se | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_MA\|A-MA]] | ʿamma | CANDIDATE |
-| [[wiki/linear-a/words/A/A_MA_JA\|A-MA-JA]] | ʿAmmaya | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_MA_JA\|A-MA-JA]] | ʿAmmaya | CANDIDATE |
 | [[wiki/linear-a/words/A/A_MA_WA_SI\|A-MA-WA-SI]] | ʿAmma-wāṣiʾ | CANDIDATE |
 | [[wiki/linear-a/words/D/DA_DU_MA_TA\|DA-DU-MA-TA]] | dadmatu | CANDIDATE |
-| [[wiki/linear-a/words/D/DA_MA_TE\|DA-MA-TE]] | damat | SPECULATIVE |
+| [[wiki/linear-a/words/D/DA_MA_TE\|DA-MA-TE]] | damat | CANDIDATE |
 | [[wiki/linear-a/words/D/DU_DA_MA\|DU-DA-MA]] | Dūdāma | CANDIDATE |
 | [[wiki/linear-a/words/D/DU_MA_I_NA\|DU-MA-I-NA]] | ḏū-maʿīna | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_DA_MA_TE\|I-DA-MA-TE]] | ʾidmat | CANDIDATE |
@@ -62,6 +62,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/K/KI_NI_MA\|KI-NI-MA]] | kihinīma | CANDIDATE |
 | [[wiki/linear-a/words/K/KU_MA_JU\|KU-MA-JU]] | Qumalu | SPECULATIVE |
 | [[wiki/linear-a/words/K/KU_RU_MA\|KU-RU-MA]] | kurma / gurma | PROBABLE |
+| [[wiki/linear-a/words/M/MA_plus_RU\|MA+RU]] | maru | PROBABLE |
 | [[wiki/linear-a/words/M/MA_DI\|MA-DI]] | Maʾdi | SPECULATIVE |
 | [[wiki/linear-a/words/M/MA_I_MI\|MA-I-MI]] | mayimi | SPECULATIVE |
 | [[wiki/linear-a/words/M/MA_KA_I_SE\|MA-KA-I-SE]] | Makī-se | SPECULATIVE |
@@ -96,7 +97,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/T/TI_MA_RU_WI_TE\|TI-MA-RU-WI-TE]] | Tīmar-luwwīt | SPECULATIVE |
 | [[wiki/linear-a/words/T/TI_TI_MA\|TI-TI-MA]] | ṯiṯṯīma | CANDIDATE |
 | [[wiki/linear-a/words/T/TO_MA_RO\|TO-MA-RO]] | Tōmar | CANDIDATE |
-| [[wiki/linear-a/words/T/TU_JU_MA\|TU-JU-MA]] | Tuʿlum | SPECULATIVE |
+| [[wiki/linear-a/words/T/TU_JU_MA\|TU-JU-MA]] | Tuʿluma | SPECULATIVE |
 | [[wiki/linear-a/words/T/TU_MA\|TU-MA]] | tūma | CANDIDATE |
 | [[wiki/linear-a/words/Z/ZU_RI_NI_MA\|ZU-RI-NI-MA]] | Ṯūrinima | SPECULATIVE |
 

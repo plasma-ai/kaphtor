@@ -58,7 +58,13 @@ di Mino; Gelb 1980; Pagan 1998; DMic II
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT63\|HT63]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT63\|HT63]] | Haghia Triada | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT63\|HT63]] | Ṣubʾu | Ṣubʾu (personal name) | SPECULATIVE |
 
 ## Onomasticon
 

@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Value | /so/ |
 | Alternates | /mo/, /do/ |
-| Linear B | B 47, value None |
+| Linear B | B 47 |
 | Linear B note | No accepted value; Linear B keeps \*47 apart from B 15 mo. |
 | Neutralization class | none |
 

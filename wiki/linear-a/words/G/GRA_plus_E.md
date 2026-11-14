@@ -26,7 +26,7 @@ updated: 2026-11-12T00:26:03Z
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/KY/KYZg/KYZg1\|KYZg1]] | Kythera | Stone object | none |
-| [[wiki/linear-a/inscriptions/MA/MAWc/MAWc_5\|MAWc&lt;5&gt;]] | Malia | Roundel | none |
+| [[wiki/linear-a/inscriptions/MA/MAWc/MAWc_5\|MAWc&lt;5&gt;]] | Malia | Roundel | complete |
 
 ## Unread sign
 

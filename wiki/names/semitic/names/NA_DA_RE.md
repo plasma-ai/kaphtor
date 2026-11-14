@@ -32,11 +32,11 @@ updated: 2026-11-11T23:39:03Z
 | Reading's standing | PROBABLE |
 | Standing as a personal name | PROBABLE |
 | Standing of the layer | PROBABLE (lexicon_reading) |
-| Source | di Mino; Gordon (Egyptian PN); GlOS 2 |
+| Source | di Mino; Gordon (Egyptian PN); GlOS 2; Marcato 2018 |
 
 ## Note
 
-HT 117a, a personnel list: NA-DA-RE 1, beside MI-TU, KU-PA₃-NU and TE-JA-RE. Nadr 'Vow', √n-d-r 'to vow': G /nadara/, prefix /yaddur-/ with the n assimilated (Huehnergard 2012), BH nādar. Amorite NDR 'to vow' (Gelb 1980, §0.7) gives nadir- 'vowed one' as a name, which fits the roster slot, and LB no-da-ro (KN As(1) 609, personnel) keeps the n-d-r frame. Rival: Gordon's Egyptian name 'of-the-hand-of-Re'. One attestation.
+HT 117a, a personnel list: NA-DA-RE 1, beside MI-TU, KU-PA₃-NU and TE-JA-RE. Nadr 'Vow', √n-d-r 'to vow': G /nadara/, prefix /yaddur-/ with the n assimilated (Huehnergard 2012), BH nādar. Amorite NDR 'to vow' (Gelb 1980, §0.7) gives nadir- 'vowed one' as a name, which fits the roster slot, and LB no-da-ro (KN As(1) 609, personnel) keeps the n-d-r frame. Hatra has the man's name ndr 'He vowed / Vow', very likely the short form of a theophoric name (H 93:1; Marcato 2018, 84), with Nabataean ndry and Safaitic nḏr, nḏrʾl (ibid.). Rival: Gordon's Egyptian name 'of-the-hand-of-Re'. One attestation.
 
 ## As a name
 
@@ -47,6 +47,8 @@ HT 117a personnel list (1), beside MI-TU, KU-PA₃-NU and TE-JA-RE. √n-d-r 'to
 | Language | Comparison |
 |---|---|
 | Ugaritic | ndr 'vow', noun (GlOS 2, 80) |
+| Aramaic | Hatra ndr, a man's name, 'He vowed / Vow' (H 93:1; Marcato 2018, 84) |
+| Hebrew | neder 'vow' (HALOT 674) |
 
 ## Linear B
 

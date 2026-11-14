@@ -60,7 +60,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/U/U_star34_SI\|U-\*34-SI]] | u-qīš | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_star49\|U-\*49]] | ʾummi | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_star325_ZA\|U-\*325-ZA]] | ʾubūs(a) | CANDIDATE |
-| [[wiki/linear-a/words/U/U_DE_ZA\|U-DE-ZA]] | Ḥudaṯu | CANDIDATE |
+| [[wiki/linear-a/words/U/U_DE_ZA\|U-DE-ZA]] | Ḥudeṯ | CANDIDATE |
 | [[wiki/linear-a/words/U/U_DI_MI\|U-DI-MI]] | ʾUdmī | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_DI_RI_KI\|U-DI-RI-KI]] | u-dirik | CANDIDATE |
 | [[wiki/linear-a/words/U/U_JU\|U-JU]] | ʿūlū | SPECULATIVE |

@@ -39,13 +39,14 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 128a .4 MA-RI, both signs whole, after GRA+KU 4 at the end of the face; face b opens with GRA+KU 6 and no word before it, MA-RI's entry carried over (GORILA I 221). A barley list by recipient. Rival: Mari on the Euphrates, whose eighteenth-century archive records Caphtorian weapons, textiles and shoes (Cline 2014, 19); Ugarit still names ʿṯtrt Mrh, ʿAṯtart of Mari (KTU 1.100:78; RGTC 12/2, 186). One attestation.
+HT 128a .4 MA-RI, both signs whole, after GRA+KU 4 at the end of the face; face b opens with GRA+KU 6 and no word before it, MA-RI's entry carried over (GORILA I 221). A barley list by recipient. Rival: Mari on the Euphrates, whose eighteenth-century archive records Caphtorian weapons, textiles and shoes (Cline 2014, 19); Ugarit still names ʿṯtrt Mrh, ʿAṯtart of Mari (KTU 1.100:78; RGTC 12/2, 186), and writes the land ma-ri (RSO 7, 47:4). One attestation.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Linear B | ma-ri, a place in the Knossos sheep tablets, KN Dl 947.B (si-da-jo / ma-ri), 948.B (pa-za-ti / ma-ri); ethnic ma-ri-jo, KN X 1581 (DMic I 425–426) |
+| Akkadian (Ugarit, rival) | Mari, ša KUR ma-ri, spelled as Linear A spells it (RSO 7, 47:4; ORACC aemw/ugarit) |
 
 ### Source
 

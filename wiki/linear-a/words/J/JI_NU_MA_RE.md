@@ -61,6 +61,6 @@ di Mino
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA4a\|ZA4a]] | Zakros | Tablet | incomplete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA5b\|ZA5b]] | Zakros | Tablet | complete; form not in transliteration |
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA15a\|ZA15a]] | Zakros | Tablet | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA15a\|ZA15a]] | Zakros | Tablet | complete; form not in transliteration |
 
 <!-- END kaphtor:record -->

@@ -8,7 +8,7 @@ form: "I-NA-TA-I-ZU-DI-SI-KA"
 datasets: ["lexicon", "onomasticon"]
 tier: 1
 confidence: "SPECULATIVE"
-confidence_score: 0.3
+confidence_score: 0.35
 reading: "ʿInatī ṯudī-šiqā"
 attestations: ["IOZa6"]
 created: 2026-10-24T16:17:50Z
@@ -27,7 +27,7 @@ updated: 2026-10-24T16:17:50Z
 
 ## Lexicon
 
-**SPECULATIVE**, tier 1 of 4, score 0.30
+**SPECULATIVE**, tier 1 of 4, score 0.35
 
 | Field | Value |
 |---|---|
@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-IO Za 6, complete and undivided, between TA-NA-I-\*301-U-TI-NU and JA-SA-SA-RA-ME: I-NA-TA-I + ZU-DI + SI-KA. Ugaritic btlt ʿnt 'the young woman Anat' (KTU 1.3 III 11; Huehnergard 2012, 86) and Middle Babylonian Ištar-ṣēri give deity-plus-epithet controls. ZU-DI is ṯudī 'breast', Ug. ṯd 'breast, bosom' (DULAT 886); SI-KA is šiqā 'she who gives drink'. Ugaritic gives Anat the title ṯd lʾimm 'the breast of the people' (KTU 1.13:19), and pairs mṣṣ ṯd btlt 'he sucks the breasts of the Virgin' with ḥlb aṯrt (KTU 1.15 II 27; DULAT 886): the same divine nursing context. One attestation. See ZU-DI.
+IO Za 6, a small alabaster cup (Karetsou, Godart and Olivier 1985), whose narrow field accounts for eight signs run together: the group is complete and undivided, between TA-NA-I-\*301-U-TI-NU and JA-SA-SA-RA-ME: I-NA-TA-I + ZU-DI + SI-KA. Ugaritic btlt ʿnt 'the young woman Anat' (KTU 1.3 III 11; Huehnergard 2012, 86) and Middle Babylonian Ištar-ṣēri give deity-plus-epithet controls. ZU-DI is ṯudī 'breast', Ug. ṯd 'breast, bosom' (DULAT 886); SI-KA is šiqā 'she who gives drink'. Ugaritic gives Anat the title ṯd lʾimm 'the breast of the people' (KTU 1.13:19), and pairs mṣṣ ṯd btlt 'he sucks the breasts of the Virgin' with ḥlb aṯrt (KTU 1.15 II 27; DULAT 886): the same divine nursing context. The epithet suits the vessel, a cup for drink. One attestation. See ZU-DI.
 
 ### Cognates
 
@@ -54,7 +54,7 @@ IO Za 6, complete and undivided, between TA-NA-I-\*301-U-TI-NU and JA-SA-SA-RA-M
 
 ### Source
 
-di Mino
+di Mino; Karetsou, Godart and Olivier 1985; HALOT; DULAT; CAD Š/2; Huehnergard 2012
 
 ## Attestations
 

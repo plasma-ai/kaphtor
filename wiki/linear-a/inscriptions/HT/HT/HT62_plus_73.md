@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/inscriptions/HT/HT/HT62_plus_73
 title: "HT62+73"
-desc: "Tablet, Haghia Triada, LMIB. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "tablet"]
+desc: "Tablet, Haghia Triada, LMIB. Translation: incomplete (SPECULATIVE)."
+tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
 kind: "inscription"
 id: "HT62+73"
 site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
-translation: "none"
+translation: "incomplete"
 words: ["KA-KU", "TE", "VIR+[?]"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -69,6 +69,29 @@ Unicode (Linear A block):
 𐝫𐄑𐄎𐝫
 𐝫
 ```
+
+## Translation
+
+**SPECULATIVE**, incomplete (status: incomplete).
+
+> \[…\]-SA-RA, contribution: wine\[…\] \]-NA: grain 15¼; Kakku 7\[…\] \]18; \*28B-TI-\[?\] 6; DI\[…\] \]4¼; KA\[…\] men \]4; KO\[…\] \]NU 17\[…\] \]25\[…\] \]KU\[…\] PA-I-KI\[…\] \]8; SA-RO-QE\[…\] \]28\[…\]
+
+| Word | Reading | Gloss | Confidence | Lexicon |
+|---|---|---|---|---|
+| [[wiki/linear-a/words/T/TE\|TE]] | terûmā | contribution, offering (terûmā), a transaction marker | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/V/VIN\|VIN]] |  | wayn 'wine' | PROBABLE | PROBABLE (lexicon) |
+| [[wiki/linear-a/words/G/GRA\|GRA]] |  | dagān 'grain, cereal' | PROBABLE | PROBABLE (lexicon) |
+| [[wiki/linear-a/words/K/KA_KU\|KA-KU]] | Kakku | personal name, 'Weapon' (Amorite Kakku) | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/V/VIR_plus_q_broken_end\|VIR+&#91;?&#93;]] |  | men, a counted personnel class (the person sign with an unnamed element) | PROBABLE | PROBABLE (lexicon) |
+
+### Notes
+
+Two fragments that do not join (GORILA I 117): HT 62 down to \]25\[, HT 73 from \]KU\[. Every line is broken at one end or both.
+
+### Source
+
+- di Mino: TE, VIN, GRA, KA-KU, VIR+\[?\]
+- GORILA: HT62+73
 
 ## Lexicon words citing this document
 

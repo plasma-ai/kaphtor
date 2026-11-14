@@ -27,7 +27,7 @@ updated: 2026-11-12T00:26:03Z
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/KH/KH/KH11\|KH11]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH4\|KH4]] | Khania | Tablet | none |
-| [[wiki/linear-a/inscriptions/KH/KH/KH47\|KH47]] | Khania | Tablet | none |
+| [[wiki/linear-a/inscriptions/KH/KH/KH47\|KH47]] | Khania | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/KH/KH/KH6\|KH6]] | Khania | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/KH/KH/KH84\|KH84]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH87\|KH87]] | Khania | Tablet | none |

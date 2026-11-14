@@ -78,6 +78,10 @@ updated: 2026-11-04T02:00:10Z
 
 [[data/linear-a/sign-registry.json|sign-registry.json]]: The signs, with their readings, rendering and lineage; datasheet `sign-registry.md`; CC BY 4.0.
 
+[[data/linear-a/sign_attestations|sign_attestations]]: For each Linear A sign SigLA traces, up to eight of its tracings by SigLA document and sign position, with the site, the use, the distance from the sign's standard form and the rule that orders them.
+
+[[data/linear-a/sign_attestations.json|sign_attestations.json]]: SigLA's tracings chosen for each sign, by document and position; datasheet `sign_attestations.md`; CC BY-NC-SA 4.0 (SigLA's dataset) and CC BY 4.0.
+
 [[data/linear-a/sign_crosswalk_overrides|sign_crosswalk_overrides]]: Hand-curated resolutions of sign labels to sign-registry.json codes, which win over every automatic route of the sign crosswalk.
 
 [[data/linear-a/sign_crosswalk_overrides.json|sign_crosswalk_overrides.json]]: The hand-settled sign-label resolutions; datasheet `sign_crosswalk_overrides.md`; CC BY 4.0.
@@ -85,6 +89,10 @@ updated: 2026-11-04T02:00:10Z
 [[data/linear-a/sign_values|sign_values]]: The phonetic values of the Linear A syllabograms, the logograms and the fraction signs, with the resolved and proposed values listed apart.
 
 [[data/linear-a/sign_values.json|sign_values.json]]: The syllabogram, logogram and fraction values, resolved and proposed; datasheet `sign_values.md`; CC BY 4.0.
+
+[[data/linear-a/stats|stats]]: The headline counts of the Linear A record as one JSON file, for sites that print them: records and documents, lexicon entries by tier, translations, sign values, names and Semitic roots.
+
+[[data/linear-a/stats.json|stats.json]]: The headline counts; datasheet `stats.md`; CC BY 4.0.
 
 [[data/linear-a/translations|translations]]: Translations of Linear A inscriptions, keyed by inscription id, each with a word-by-word analysis.
 

@@ -71,5 +71,5 @@ def test_the_intact_unread_words_are_those_no_witness_shows_damaged():
     intact = [w for w, u in loaded.unread.items() if not u.get("surface_damage")]
     assert fields["unread_intact"] == f"{len(intact):,}"
     assert 0 < len(intact) < len(loaded.unread)
-    assert "TA-I" in intact                        # undamaged on HT 39, HT 9a and HT 9b
+    assert "RA-*164-TI" in intact                  # undamaged on HT 17 and HT 19
     assert "QE-KA" not in intact                   # whole on HT 85b, but damaged at the start on HT 111a

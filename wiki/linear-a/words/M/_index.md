@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/M
 desc: "Words whose first sign begins with M."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-12T00:26:03Z
+updated: 2026-11-17T16:49:31Z
 ---
 
 # wiki/linear-a/words/M
@@ -45,7 +45,7 @@ updated: 2026-11-12T00:26:03Z
 
 [[wiki/linear-a/words/M/MA_SI|MA_SI]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/M/MA_SI_DU|MA_SI_DU]]: maṣīdu: provisions (list heading); rival a personal name, cf. Linear B ma-si-dwo. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/M/MA_SI_DU|MA_SI_DU]]: maṣīdu: provisions (list heading); rivals a place name, 'Fortress', and a personal name, cf. Linear B ma-si-dwo. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/M/MA_SU_MI|MA_SU_MI]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -63,15 +63,13 @@ updated: 2026-11-12T00:26:03Z
 
 [[wiki/linear-a/words/M/MA_ZU|MA_ZU]]: maṯu: infants or young dependents (personnel category). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/M/MA_plus_RU|MA_plus_RU]]: Unread sign (ligature, value on file); 1 occurrence(s).
-
-[[wiki/linear-a/words/M/MA_plus_RU_ME|MA_plus_RU_ME]]: Unread sign (compound, value on file); 2 occurrence(s).
+[[wiki/linear-a/words/M/MA_plus_RU|MA_plus_RU]]: maru: wool (commodity logogram, the ligature of MA and RU). Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/M/MA_plus_RU_RE_broken_start|MA_plus_RU_RE_broken_start]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/M/MA_star321|MA_star321]]: maṯu: infants or young dependents (personnel category). Onomasticon personal name; lexicon entry MA-ZU.
 
-[[wiki/linear-a/words/M/ME|ME]]: Unread sign (syllabogram, unread); 3 occurrence(s).
+[[wiki/linear-a/words/M/ME|ME]]: Unread sign (syllabogram, unread); 2 occurrence(s).
 
 [[wiki/linear-a/words/M/ME_KI_DI|ME_KI_DI]]: Majd: personal name, 'glory' (masculine). Lexicon, SPECULATIVE (tier 1).
 
@@ -125,12 +123,12 @@ updated: 2026-11-12T00:26:03Z
 
 [[wiki/linear-a/words/M/MI_plus_star301|MI_plus_star301]]: minā: mina, portion (weight/measure unit). Lexicon, PROBABLE (tier 3).
 
-[[wiki/linear-a/words/M/MU|MU]]: Unread sign (syllabogram, value on file); 3 occurrence(s).
+[[wiki/linear-a/words/M/MU|MU]]: mūru: head of cattle (livestock logogram, the ox sign without the mark of sex). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/M/MU_RU|MU_RU]]: mūru: young bull, young animal. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/M/MU_star312|MU_star312]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/M/M_Y3|M_Y3]]: Mayyā—deified Water (deity name). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/M/M_Y3|M_Y3]]: ʾimmā: the Mother (divine title). Lexicon, SPECULATIVE (tier 1).
 
 ***

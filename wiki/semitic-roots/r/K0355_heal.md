@@ -43,7 +43,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | rəpā (LGz. 463) | LGz. 463 |  |
 | Tigrinya | räfʾe (LGz. 463) | LGz. 463 | gloss withheld |
 | Amorite | rpʾ: jirpaʾ, jarpaʾ, rapaʾ, rapaʾ(ān)um (Gelb AS 21, 30); rāpiʾu, ripʾu, rapaʾ, yarpaʾ/yirpaʾ (Buck 2019, 331); r-p-ʾ: ia-ar-pa-ᵈIM; riʾp: pí-ri-ip-i-im, ri-ip-a-DINGIR, ri-ip-a-ma-lik; rapūʾ: ra-pu-ú-um, ra-pu-a-tum (Sanmartín GlOS 2, 168–169) | Gelb AS 21 30; Buck 2019, 331; Sanmartín GlOS 2, 168–169 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic rfʾ (Al-Jallad 2026, 121) | Al-Jallad 2026 121 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic rfʾ (Al-Jallad 2026, 121); Taymanitic rfʾ; yrfʾ (Al-Jallad 2026b, 53); rfʾl (Al-Jallad 2026b, 72) | Al-Jallad 2026 121; Al-Jallad 2026b 53; Al-Jallad 2026b 72 | gloss withheld |
 | Aramaic | rpʔh (DNWSI 1082) | DNWSI 1082 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

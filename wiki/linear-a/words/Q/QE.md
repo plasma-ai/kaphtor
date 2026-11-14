@@ -48,7 +48,6 @@ HT Wc 3014, a roundel: side a KU-MI-NA, side b QE · CAP (GORILA II 76), QE befo
 | Language | Comparison |
 |---|---|
 | Akkadian | qû B 'measuring vessel; a measure of capacity', gen. qê (CAD Q 288) |
-| Hebrew | קַב qab 'qab-measure' (HALOT 1060; 2 Kgs 6:25 רֹבַע הַקַּב 'a quarter of a qab') |
 
 ### Source
 

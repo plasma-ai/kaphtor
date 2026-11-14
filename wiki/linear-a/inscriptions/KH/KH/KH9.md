@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/inscriptions/KH/KH/KH9
 title: "KH9"
-desc: "Tablet, Khania, LMIB. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "tablet"]
+desc: "Tablet, Khania, LMIB. Translation: incomplete (SPECULATIVE)."
+tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
 kind: "inscription"
 id: "KH9"
 site: "Khania"
 support: "Tablet"
 period: "LMIB"
-translation: "none"
+translation: "incomplete"
 words: ["*304", "A-SI-SU-PO-A", "CYP", "I-SI", "NI", "VIR+*307"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -67,6 +67,30 @@ Unicode (Linear A block):
 𐝫𐝎
 𐛌𐙘𐄇𐝫
 ```
+
+## Translation
+
+**SPECULATIVE**, incomplete (status: incomplete).
+
+> The storehouse: sanctuary personnel ¹⁄₁₆; figs, a fraction; MI; fire offerings: cyperus (CYP+D) ½; 2; cyperus ¼; wine; cyperus, a fraction \[…\] a fraction; SI+TA₂-\*304 1.
+
+| Word | Reading | Gloss | Confidence | Lexicon |
+|---|---|---|---|---|
+| [[wiki/linear-a/words/A/A_SI_SU_PO_A\|A-SI-SU-PO-A]] | ʾassuppōa | the storehouse (heading of issues), the word of A-SU-PU-WA | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/V/VIR_plus_star307\|VIR+\*307]] | VIR-dubur | sanctuary personnel | PROBABLE | PROBABLE (lexicon) |
+| [[wiki/linear-a/words/N/NI\|NI]] |  | figs—commodity ideogram (FIC) | CONFIRMED | CONFIRMED (lexicon) |
+| [[wiki/linear-a/words/I/I_SI\|I-SI]] | ʾiššê | fire offering(s) | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/C/CYP\|CYP]] |  | cyperus, aromatic sedge (commodity logogram) | PROBABLE | PROBABLE (lexicon) |
+| [[wiki/linear-a/words/V/VIN\|VIN]] |  | wayn 'wine' | PROBABLE | PROBABLE (lexicon) |
+
+### Notes
+
+The left margin is original; the right side is a fracture, which the ends of the lines meet.
+
+### Source
+
+- di Mino: A-SI-SU-PO-A, VIR+\*307, NI, I-SI, CYP, VIN
+- GORILA: KH9
 
 ## Lexicon words citing this document
 

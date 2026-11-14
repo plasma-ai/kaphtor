@@ -37,7 +37,7 @@ updated: 2026-10-24T16:17:50Z
 
 - TI-NI-TA = Tinit (Gordon 1966)
 - KU-NI-SU = kunāshu (Gordon 1966)
-- KA-U-DO-NI, KU-DO-NI (Gordon PNs)
+- KA-U-ZU-NI, KU-ZU-NI (Gordon 1966 §163: ka-u-do-ni, ku-do-ni, after Brice's edition)
 
 ## Lexicon words written with this sign
 
@@ -62,6 +62,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/K/KU_ZU_NI\|KU-ZU-NI]] | Kuṯinu | CANDIDATE |
 | [[wiki/linear-a/words/M/MI_DA_NI\|MI-DA-NI]] | mitāni | SPECULATIVE |
 | [[wiki/linear-a/words/N/NI\|NI]] |  | CONFIRMED |
+| [[wiki/linear-a/words/N/NI_JA_NU\|NI-JA-NU]] | niyāḥ-nu | SPECULATIVE |
 | [[wiki/linear-a/words/N/NI_NU_NI\|NI-NU-NI]] | nīnūn | SPECULATIVE |
 | [[wiki/linear-a/words/N/NI_PI\|NI-PI]] | nīb | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA3_NI\|PA₃-NI]] | bānī | CANDIDATE |
@@ -70,7 +71,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/P/PU_NI_KA\|PU-NI-KA]] | punniga | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_NI\|RU-NI]] | Runni | SPECULATIVE |
 | [[wiki/linear-a/words/T/TA_NI_KA\|TA-NI-KA]] | Taʿnaku | SPECULATIVE |
-| [[wiki/linear-a/words/T/TA_NU_NI_KI_NA\|TA-NU-NI-KI-NA]] | tannî qînâ | SPECULATIVE |
+| [[wiki/linear-a/words/T/TA_NU_NI_KI_NA\|TA-NU-NI-KI-NA]] | tanūḥūn qīna | CANDIDATE |
 | [[wiki/linear-a/words/T/TI_NI_TA\|TI-NI-TA]] | Tinit | CONFIRMED |
 | [[wiki/linear-a/words/T/TI_NI_TA_star307\|TI-NI-TA \*307]] | Tinit Dubur | PROBABLE |
 | [[wiki/linear-a/words/Z/ZU_RI_NI_MA\|ZU-RI-NI-MA]] | Ṯūrinima | SPECULATIVE |

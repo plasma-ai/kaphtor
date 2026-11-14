@@ -54,7 +54,7 @@ updated: 2026-10-22T17:38:31Z
 | Punic | ʾb 'father' | Anderson–Moser 2024 root abb |  |
 | Gafat | abʷä (LGz. 2) | LGz. 2 |  |
 | Amorite | ʾabum (Gelb AS 21, 13); ʾabu (Buck 2019, 323); ʾab: (=)a-bu/i/a(=), (=)a-ba/bí/bu(=) (Ur III) (Sanmartín GlOS 1, 3) | Gelb AS 21 13; Buck 2019, 323; Sanmartín GlOS 1, 3 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ʾb (Al-Jallad–Jaworska 38); Dadanitic ʾb; Hismaic ʾb; Dhofari ʾb (Al-Jallad 2026, 3) | Al-Jallad–Jaworska 38; Al-Jallad 2026 3 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʾb (Al-Jallad–Jaworska 38); Dadanitic ʾb; Hismaic ʾb; Dhofari ʾb (Al-Jallad 2026, 3); Taymanitic ʾbw (Al-Jallad 2026b, 28); ṣmʾb (Al-Jallad 2026b, 76) | Al-Jallad–Jaworska 38; Al-Jallad 2026 3; Al-Jallad 2026b 28; Al-Jallad 2026b 76 | gloss withheld |
 | Argobba | aw, abba (Leslau 1997:194, AAD 285 apud SEDonline 489) | Leslau 1997:194, AAD 285; SEDonline 489 | gloss withheld |
 | Eblaitic | a-ba₄, a-bu/bù, a-ba/bù /ʾab/ (Sanmartín GlOS 1, 3); a-ba-ʾà-su-ma-a /ʾabah-ay-šumay(n)/, a-bí-iš, a-bù-sù (ARET XI 1; Fronzaroli 1995, 62–63) | Sanmartín GlOS 1, 3; ARET XI 1; Fronzaroli 1995, 62–63 | gloss withheld |
 | Biblical Aramaic | ʔab (HALOT 1) | HALOT 1 | gloss withheld |

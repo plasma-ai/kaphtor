@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Bare RU-MA-TA at HT 29 (2) and HT 99b (1, in the SI+SE FIC list); RU-MA-TA-SE on ZA 20 (3) beside DU-RE-ZA-SE: bare at home, -SE abroad. Every attestation carries a quantity: a recipient entry. rūmatā, √r-w-m 'to be high', \*rūmat-, a feminine noun of place: Hebrew toponyms רוּמָה Rûmâ (2 Kgs 23:36, the u-vowel form), אֲרוּמָה ʾĂrûmâ (Judg 9:41), רָמַת Rāmat (Josh 13:26), הָרָמָתָה hā-Rāmātâ (1 Sam 1:19), רָאמֹת Rāʾmōt (Josh 20:8); Ug. rm 'to go up'. Final -A is the written vowel. Rival: \*rumanth-, the Aegean name of LB o-ru-ma-to \*Orumanthos (PY Cn 3.6; ethnic o-ru-ma-si-ja-jo, PY An 519.12; DMic II 50–51), cf. Ἐρύμανθος, a mountain, with the nasal before a stop that Linear A leaves unwritten. See RU-MA.
+Bare RU-MA-TA at HT 29 (2) and HT 99b (1, in the SI+SE FIC list); RU-MA-TA-SE on ZA 20 (3) beside DU-RE-ZA-SE: bare at home, -SE abroad. Every attestation carries a quantity: a recipient entry. rūmatā, √r-w-m 'to be high', \*rūmat-, a feminine noun of place: Hebrew toponyms רוּמָה Rûmâ (2 Kgs 23:36, the u-vowel form), אֲרוּמָה ʾĂrûmâ (Judg 9:41), רָמַת Rāmat (Josh 13:26), הָרָמָתָה hā-Rāmātâ (1 Sam 1:19), רָאמֹת Rāʾmōt (Josh 20:8); Ug. rm 'to go up'. Final -A is the written vowel. Rival: \*rumanth-, the Aegean name of LB o-ru-ma-to \*Orumanthos (PY Cn 3.6; ethnic o-ru-ma-si-ja-jo, PY An 519.12; DMic II 50–51), cf. Ἐρύμανθος, a mountain, with the nasal before a stop that Linear A leaves unwritten. Second rival: a personal name, as the Mari woman ru-ma-tum (FM VI 43 i 19′; Ziegler 1999, 85 n. 541; Gelb 1980, no. 5306), which suits the lists of persons on HT 29 and HT 99b; the -SE form on ZA 20 favours the place. See RU-MA.
 
 ### Cognates
 
@@ -49,12 +49,12 @@ Bare RU-MA-TA at HT 29 (2) and HT 99b (1, in the SI+SE FIC list); RU-MA-TA-SE on
 |---|---|
 | Hebrew | rāmâ 'height, high place' (HALOT 1240), and the town hārāmâ, Judg 4:5 |
 | Ugaritic | rm 'high, lofty'; 'height' (DULAT 730) |
-| Amorite | RWM 'be high': rāmum, rāmatum (Gelb AS 21, 29–30) |
+| Amorite | RWM 'be high': rāmum, rāmatum (Gelb AS 21, 29–30); rival the Mari woman's name ru-ma-tum (FM VI 43 i 19′) |
 | Phoenician | rm 'high, lofty' (Krahmalkov 444) |
 
 ### Source
 
-di Mino
+di Mino; FM VI; Ziegler 1999; Gelb 1980
 
 ## Attestations
 

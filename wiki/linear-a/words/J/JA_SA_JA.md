@@ -49,6 +49,7 @@ KN Zg 55, a steatite disk seal (CMS II 2, no. 213): face a a boar's head and kni
 |---|---|
 | Amorite | ia-še-ia (GlOS 2, 379); JIŠʿ-IJA (see note) |
 | Amarna | ya-šu-ia (EA 256:18; Hess 1993, 166) |
+| Hebrew | yšʿ (hif. hôšîaʿ) 'help, save' (HALOT 448) |
 
 ### Source
 

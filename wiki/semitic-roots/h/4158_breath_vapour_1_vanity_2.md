@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/h/4158_breath_vapour_1_vanity_2
 title: "*habl-: 'breath, vapour' 1, 'vanity' 2"
-desc: "Proto-Semitic *habl-, 'breath, vapour' 1, 'vanity' 2: reflexes in 5 language(s)."
+desc: "Proto-Semitic *habl-, 'breath, vapour' 1, 'vanity' 2: reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "4158"
@@ -34,6 +34,7 @@ updated: 2026-11-04T02:29:02Z
 | Mandaic Aramaic | habla, hbila 1 (MdD 115a, 129b apud HALOT 236) | HALOT 236 | gloss withheld |
 | Arabic | habalat 1; habil 2; habila 2 (HALOT 236) | HALOT 236 | gloss withheld |
 | Tigre | habbala 2 (WTS 15b apud HALOT 236) | WTS 15b; HALOT 236 | gloss withheld |
+| Pre-Islamic North Arabian | Taymanitic hbl (Al-Jallad 2026b, 39) | Al-Jallad 2026b 39 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

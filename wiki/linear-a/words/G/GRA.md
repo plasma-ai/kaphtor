@@ -62,7 +62,7 @@ di Mino
 | [[wiki/linear-a/inscriptions/HT/HT/HT92\|HT92]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT86a\|HT86a]] | Haghia Triada | Tablet | complete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HT/HT99a\|HT99a]] | Haghia Triada | Tablet | complete; form not in transliteration |
-| [[wiki/linear-a/inscriptions/HT/HT/HT21\|HT21]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT21\|HT21]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT40\|HT40]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH3a\|ARKH3a]] | Arkhanes | Tablet | complete |
 | [[wiki/linear-a/inscriptions/KH/KH/KH104\|KH104]] | Khania | Tablet | complete |
@@ -77,9 +77,12 @@ di Mino
 | [[wiki/linear-a/inscriptions/HT/HT/HT14\|HT14]] | \[ideogram\] | grain |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT15\|HT15]] | grain | grain (logogram) | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT18\|HT18]] | — | grain (logogram) | PROBABLE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT21\|HT21]] |  | dagān 'grain, cereal' | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT27b\|HT27b]] |  | grain | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT28b\|HT28b]] | dagān | grain, cereal |  |
+| [[wiki/linear-a/inscriptions/HT/HT/HT34\|HT34]] |  | dagān 'grain, cereal' | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT44a\|HT44a]] | \[ideogram\] | grain |  |
+| [[wiki/linear-a/inscriptions/HT/HT/HT62_plus_73\|HT62+73]] |  | dagān 'grain, cereal' | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT90\|HT90]] | dagān | grain, cereal |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT91\|HT91]] | dagān | grain |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT95a\|HT95a]] | GRA | grain (ideogram) | PROBABLE |
@@ -98,5 +101,7 @@ di Mino
 | [[wiki/linear-a/inscriptions/KH/KH/KH91\|KH91]] | dagān | grain (logogram) | PROBABLE |
 | [[wiki/linear-a/inscriptions/KH/KH/KH104\|KH104]] | dagān | grain (logogram) | PROBABLE |
 | [[wiki/linear-a/inscriptions/KH/KH/KH104\|KH104]] | dagān | grain (logogram) | PROBABLE |
+| [[wiki/linear-a/inscriptions/MA/MAWc/MAWc_5\|MAWc&lt;5&gt;]] |  | dagān 'grain, cereal' | PROBABLE |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA24a\|ZA24a]] |  | dagān 'grain, cereal' | PROBABLE |
 
 <!-- END kaphtor:record -->

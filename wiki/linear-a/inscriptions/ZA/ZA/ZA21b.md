@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/inscriptions/ZA/ZA/ZA21b
 title: "ZA21b"
-desc: "Tablet, Zakros. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "tablet"]
+desc: "Tablet, Zakros. Translation: incomplete (PROBABLE)."
+tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
 kind: "inscription"
 id: "ZA21b"
 site: "Zakros"
 support: "Tablet"
 period: ""
-translation: "none"
+translation: "incomplete"
 words: ["I-DA"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -59,6 +59,25 @@ Unicode (Linear A block):
 𐝫
 𐘋
 ```
+
+## Translation
+
+**PROBABLE**, incomplete (status: incomplete).
+
+> Ida; KI 2; SA-RI\[…\] ME.
+
+| Word | Reading | Gloss | Confidence | Lexicon |
+|---|---|---|---|---|
+| [[wiki/linear-a/words/I/I_DA\|I-DA]] | ʾIda | Ida, 'the Hand' (sacred mountain—toponym/theonym) | PROBABLE | PROBABLE (lexicon) |
+
+### Notes
+
+The middle of the face is lost; a blank band stands above ME.
+
+### Source
+
+- di Mino: I-DA
+- GORILA: ZA21b
 
 ## Lexicon words citing this document
 

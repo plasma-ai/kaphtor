@@ -47,6 +47,7 @@ The Amarna toponym usu (EA 121) can name a roster person by origin: HT117b label
 |---|---|
 | Akkadian | {uru}U₂-su₂ Usu, Amarna, EA 148:11, 148 r. 30, 149 r. 49, 150 r. 18 (ORACC aemw/amarna) |
 | Hebrew | Ḥōsâ, a town of Asher by Tyre, wəšāb haggəbûl ḥōsâ 'and the border turned to Hosah' (Josh 19:29; HALOT 337, which sets Akkadian Uzu, Ušu beside it) |
+| Phoenician | ʾs, Usu, Palaetyrus (Krahmalkov 65) |
 
 ## Attestations
 

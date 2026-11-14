@@ -49,7 +49,7 @@ ZA 11a and ZA 11b each have KU-PA · GRA+PA, with 1 and 3: a container named bef
 |---|---|
 | Akkadian | quppu 'box'; qappatu 'basket' |
 | Arabic | quffat- 'basket' |
-| Geez | qafo 'basket' |
+| Geʿez | qafo 'basket' |
 | Mehri | ḳeffēt 'basket' |
 | Soqotri | ḳefet 'basket' |
 | Ugaritic | qpt 'box, chest, basket' (GlOS 1, 349) |
@@ -63,9 +63,9 @@ di Mino; CAD Q
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT110a\|HT110a]] | Haghia Triada | Tablet | incomplete |
-| [[wiki/linear-a/inscriptions/KH/KH/KH29\|KH29]] | Khania | Tablet | none |
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA11a\|ZA11a]] | Zakros | Tablet | none |
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA11b\|ZA11b]] | Zakros | Tablet | none |
+| [[wiki/linear-a/inscriptions/KH/KH/KH29\|KH29]] | Khania | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA11a\|ZA11a]] | Zakros | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA11b\|ZA11b]] | Zakros | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1020\|HTWa1020]] | Haghia Triada | Nodule | complete |
 
 ## In translations
@@ -74,5 +74,8 @@ di Mino; CAD Q
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT110a\|HT110a]] | quppa | box, basket (standardized container for measured commodity allocations) | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1020\|HTWa1020]] | quppa | box, basket (standardized container for measured commodity allocations) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/KH/KH/KH29\|KH29]] | quppa | box, basket (standardized container for measured commodity allocations) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA11a\|ZA11a]] | quppa | box, basket (standardized container for measured commodity allocations) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA11b\|ZA11b]] | quppa | box, basket (standardized container for measured commodity allocations) | CANDIDATE |
 
 <!-- END kaphtor:record -->

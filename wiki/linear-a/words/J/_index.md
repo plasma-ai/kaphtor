@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/J
 desc: "Words whose first sign begins with J."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-12T00:26:03Z
+updated: 2026-11-14T19:56:36Z
 ---
 
 # wiki/linear-a/words/J
@@ -13,13 +13,13 @@ updated: 2026-11-12T00:26:03Z
 
 [[wiki/linear-a/words/J/JA_DA_SU|JA_DA_SU]]: Yadaʿ-Šum: personal name, 'Šum knew'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/J/JA_DI|JA_DI]]: Yadi: Hand (personal name); rivals Yadīn 'he judges', Yadiʿ 'he knows'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/J/JA_DI|JA_DI]]: Yadi: Hand (personal name); rivals Yadīn 'he judges', Yadiʿ 'he knows', Ugarit ydy 'may (the god) establish'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/J/JA_DI_KI_TU|JA_DI_KI_TU]]: yā Diqqitu: O Diqqitu! (vocative invocation of the proposed goat-goddess Diqqitu). Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/J/JA_DU_RA_TI|JA_DU_RA_TI]]: Yadurati: personal name: Amorite-type yaqtul name + feminine -at (cf. Yadwiratum, Gelb 1980, no. 3209; Ya-du-ra-an, Ya-du-ri-im, Huffmon 1965, 38). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/J/JA_HA|JA_HA]]: Yāh(a): Yāh, divine name; deity receiving offerings alongside Baal on HT28b. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/J/JA_HA|JA_HA]]: Yāh(a): Yāh, divine name; deity receiving offerings alongside Baʿal on HT28b. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/J/JA_I_NWA_RO|JA_I_NWA_RO]]: yā ʾanwaru: O Radiant One (vocative + elative of √n-w-r 'light'), divine epithet. Lexicon, SPECULATIVE (tier 1).
 
@@ -107,7 +107,7 @@ updated: 2026-11-12T00:26:03Z
 
 [[wiki/linear-a/words/J/JA_plus_RU|JA_plus_RU]]: Unread sign (ligature, unread); 1 occurrence(s).
 
-[[wiki/linear-a/words/J/JA_star21F|JA_star21F]]: Yāh(a): Yāh, divine name; deity receiving offerings alongside Baal on HT28b. Onomasticon theonym; lexicon entry JA-HA.
+[[wiki/linear-a/words/J/JA_star21F|JA_star21F]]: Yāh(a): Yāh, divine name; deity receiving offerings alongside Baʿal on HT28b. Onomasticon theonym; lexicon entry JA-HA.
 
 [[wiki/linear-a/words/J/JA_star304|JA_star304]]: Unread (unread): no role; 1 occurrence(s).
 

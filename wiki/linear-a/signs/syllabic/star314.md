@@ -23,7 +23,7 @@ updated: 2026-10-24T16:17:50Z
 
 **Status: proposed.** A proposed value.
 
-Evidence: DU-\*314-RE (KOZa1) stands in formula slot 2, where HTZb160 writes DU-PU₂-RE. bu and ḥa about even (bu KA-\*314-SI, ḥa RA-\*314-RA, tie \*314-TA-MA); DU and RE dotted on KOZa1, so ḥa stays
+Evidence: ḤA reads all four words: \*314-TA-MA ḥatam 'seal' (PH Wc 38), KA-\*314-SI kaḥsi 'chair' (PH Wc 37; Egyptian group writing ka-ḥ-si), RA-\*314-RA Raḥal 'Ewe' (HT Wc 3006) and DU-\*314-RE ḏū har 'the One of the mountain' (KO Za 1). The rival, bu as a variant of PU₂ (DU-\*314-RE in the slot of DU-PU₂-RE), leaves RA-\*314-RA without a reading; \*314 is three wavy strokes on KO Za 1 and at Phaistos, PU₂ three crossed prongs; the two signs share no document
 
 ## Phonetic value
 
@@ -38,26 +38,27 @@ Evidence: DU-\*314-RE (KOZa1) stands in formula slot 2, where HTZb160 writes DU-
 
 | Value | Confidence | Evidence |
 |---|---|---|
-| /ḫa/ | 0.50 | RA-ḤA-RA = Egyptian Rꜥ-Ḥr; ARKH3b \[…\]-PI-\*314(?) is broken at its start and does not independently attest Luwian piḫa- |
-| /pu/ | 0.60 | Variant of PU₂ (BU): DU-\*314-RE (KOZa1) = DU-PU₂-RE dubur 'sanctuary' (PKZa15, HTZb160), giving dubur ʾIda 'the sanctuary of Ida'; Facchetti (1999, 132), Owens (1999), Valério, Davis (2013, 44 n. 46), Thomas (2020, 8); Younger transcribes \*314 as PU₃; Soldani 2013 (46 n. 3): A314 'sostituisce forse A29' in du-bu-re |
+| /ḫa/ | 0.50 | The sign does not tell ḥ from ḫ or h: Raḥal answers Akkadian laḫru, DU-\*314-RE writes har; ARKH3b \[…\]-PI-\*314(?) is broken at its start and does not independently attest Luwian piḫa- |
+| /pu/ | 0.30 | Rival: a variant of PU₂ (BU), DU-\*314-RE (KOZa1) = DU-PU₂-RE dubur 'sanctuary' (PKZa15, HTZb160); it leaves RA-\*314-RA unread, and the sign's shape is not PU₂'s; Facchetti (1999, 132), Owens (1999), Valério, Davis (2013, 44 n. 46), Thomas (2020, 8); Younger transcribes \*314 as PU₃; Soldani 2013 (46 n. 3): A314 'sostituisce forse A29' in du-bu-re |
 
 ### Forms cited for the value
 
-- DU-\*314-RE (KOZa1) is read as a PU₂ variant, dubur (see alternates); du ḥōr(e) withdrawn
-- \*314-TA-MA = ḥatam 'seal' on roundel PHWc38 (√ḥ-t-m pan-Semitic)
-- RA-\*314-RA = Egyptian Rꜥ-Ḥr 'Ra-Horus' (HTWc3006 theophoric name)
+- DU-\*314-RE = ḏū har 'the One of the mountain', the title of Tursa (KOZa1)
+- \*314-TA-MA = ḥatam 'seal' on roundel PHWc38 (√ḥ-t-m)
+- KA-\*314-SI = kaḥsi 'chair, throne' on roundel PHWc37 (Ug. kḥṯ; Egyptian group writing ka-ḥ-si)
+- RA-\*314-RA = Raḥal 'Ewe', a personal name (HTWc3006)
 
 ### Note
 
-Candidate pharyngeal/velar fricative sign, with a competing PU₃/PU₂ value. \*314-TA-MA and RA-\*314-RA motivate /ḥa/ or /ḫa/ provisionally; DU-\*314-RE instead supports PU. ARKH3b \[…\]-PI-\*314(?) is broken before PI, PI overlies an erasure, and the sign is conventionally PU₃, so it supplies no independent support for Luwian piḫa-. \|\| bu, a PU₂ variant, is another possible value: DU-\*314-RE takes the slot of DU-PU₂-RE, but GORILA IV 20 dots DU and RE; KA-\*314-SI kabsi 'young ram' (CAD K 23) and \*314-TA-MA bṭm 'pistachio' (DULAT 249; TA dotted) read under it.
+The guttural fricative with a: ḥ in ḥatam, kaḥsi and Raḥal, h in har; like \*21F it does not tell h, ḥ and ḫ apart. Three wavy strokes on KO Za 1 and at Phaistos. ARKH3b \[…\]-PI-\*314(?) is broken before PI and PI overlies an erasure, so it supplies no support for Luwian piḫa-. \|\| Rival value bu, a PU₂ variant (Facchetti 1999, 132; Davis 2013, 44 n. 46; Younger PU₃): DU-\*314-RE takes the slot of DU-PU₂-RE. Against it: RA-\*314-RA has no reading under bu, PU₂ is three crossed prongs, and the two signs share no document.
 
 ## Lexicon words written with this sign
 
 | Word | Reading | Confidence |
 |---|---|---|
 | [[wiki/linear-a/words/star/star314_TA_MA\|\*314-TA-MA]] | ḥatam(a) | CANDIDATE |
-| [[wiki/linear-a/words/D/DU_star314_RE\|DU-\*314-RE]] | dubur | CANDIDATE |
-| [[wiki/linear-a/words/K/KA_star314_SI\|KA-\*314-SI]] | Kaḥas | SPECULATIVE |
-| [[wiki/linear-a/words/R/RA_star314_RA\|RA-\*314-RA]] | Raḥil | SPECULATIVE |
+| [[wiki/linear-a/words/D/DU_star314_RE\|DU-\*314-RE]] | ḏū har | CANDIDATE |
+| [[wiki/linear-a/words/K/KA_star314_SI\|KA-\*314-SI]] | kaḥsi | CANDIDATE |
+| [[wiki/linear-a/words/R/RA_star314_RA\|RA-\*314-RA]] | Raḥal | SPECULATIVE |
 
 <!-- END kaphtor:record -->

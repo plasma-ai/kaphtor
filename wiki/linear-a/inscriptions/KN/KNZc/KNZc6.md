@@ -9,7 +9,7 @@ site: "Knossos"
 support: "Inked inscription"
 period: ""
 translation: "incomplete"
-words: ["A-DI", "DA-KI-TI", "PA-KU", "QI-TI-RI"]
+words: ["A-DI", "DA-KI-TI", "NI-JA-NU", "PA-KU", "QI-TI-RI"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -56,19 +56,19 @@ Unicode (Linear A block):
 
 **SPECULATIVE**, incomplete (status: incomplete).
 
-> My incense: until fine, flask. NI-JA-NU. JU-KU-NA-PA-KU-NU-U-\[?\]-I-ZU.
+> My incense, unto Daqqitu: a flask. Our soothing offering. JU-KU-NA-PA-KU-NU-U-\[?\]-I-ZU.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | \*34-TI-RI | qiṭrī | my incense | PROBABLE |  |
-| [[wiki/linear-a/words/A/A_DI\|A-DI]] | ʿadi | until | SPECULATIVE | SPECULATIVE (lexicon) |
-| DA-KI-TI-PA-KU | daqqati paku | fine (powder), flask | SPECULATIVE |  |
-| [[wiki/linear-a/words/N/NI_JA_NU\|NI-JA-NU]] |  | NI dotted in one of GORILA's two transcriptions (IV 121). Not readable. |  | unread |
+| [[wiki/linear-a/words/A/A_DI\|A-DI]] | ʿadi | unto; rival 'until' | SPECULATIVE | SPECULATIVE (lexicon) |
+| DA-KI-TI-PA-KU | Daqqiti paku | Daqqitu (the goddess, genitive), flask; rival 'fine (powder)' | SPECULATIVE |  |
+| [[wiki/linear-a/words/N/NI_JA_NU\|NI-JA-NU]] | niyāḥ-nu | our soothing (offering); rivals a personal name, 'figs, wine' | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/J/JU_KU_NA_PA_KU_NU_U_q_I_ZU\|JU-KU-NA-PA-KU-NU-U-&#91;?&#93;-I-ZU]] |  | one group, its eighth sign lost. Not readable. |  | unread |
 
 ### Notes
 
-Ink-written clay cup (HM 2630), pair of KN Zc 7, from an upper MM III floor above the Basement of the Monolithic Pillars, Knossos, the crypt of a sanctuary (Evans, PoM I 587–588, 613–616). Three circular registers read as a spiral from the bottom. Register .1 QI-TI-RI heads the text, register .2 gives the incense as ground fine (A-DI DA-KI-TI, Hebrew qəṭōret … daqqâ, Lev 16:12) and the flask (PA-KU). NI-JA-NU is unread. Register .3, one group with a sign lost, is unread. Word division follows Evans (PoM I 615 n. 1), who reports dividing marks before A, DA and NI; GORILA IV 121 prints only the last. Younger reads A-DI-DA-KI-TI-PA-KU as a muddled A-DI-KI-TE. Marinatos set the two cups beside the inverted bowls of Nippur, inked with Aramaic incantations against evil spirits (Marinatos 1951, 41); Franceschetti adds the spiral script those bowls share and the Keftiu spells of the London Medical Papyrus (Franceschetti 1990, 40–41).
+Ink-written clay cup (HM 2630), pair of KN Zc 7, from an upper MM III floor above the Basement of the Monolithic Pillars, Knossos, the crypt of a sanctuary (Evans, PoM I 587–588, 613–616). Three circular registers read as a spiral from the bottom. Register .1 QI-TI-RI heads the text, register .2 names the goddess it is brought to (A-DI DA-KI-TI, 'unto Daqqitu'; rival 'until fine', Hebrew qəṭōret … daqqâ, Lev 16:12) and the flask (PA-KU), as the paired cup KN Zc 7 names its bowl, its dove and Athirat. NI-JA-NU, between dividers, is niyāḥ-nu 'our soothing (offering)'. Register .3, one group with a sign lost, is unread. Word division follows Evans (PoM I 615 n. 1), who reports dividing marks before A, DA and NI; GORILA IV 121 prints only the last. Younger reads A-DI-DA-KI-TI-PA-KU as a muddled A-DI-KI-TE. Marinatos set the two cups beside the inverted bowls of Nippur, inked with Aramaic incantations against evil spirits (Marinatos 1951, 41); Franceschetti adds the spiral script those bowls share and the Keftiu spells of the London Medical Papyrus (Franceschetti 1990, 40–41).
 
 ### Source
 
@@ -77,7 +77,7 @@ Ink-written clay cup (HM 2630), pair of KN Zc 7, from an upper MM III floor abov
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/A/A_DI|A-DI]], [[wiki/linear-a/words/D/DA_KI_TI|DA-KI-TI]], [[wiki/linear-a/words/P/PA_KU|PA-KU]], [[wiki/linear-a/words/Q/QI_TI_RI|QI-TI-RI]].
+[[wiki/linear-a/words/A/A_DI|A-DI]], [[wiki/linear-a/words/D/DA_KI_TI|DA-KI-TI]], [[wiki/linear-a/words/N/NI_JA_NU|NI-JA-NU]], [[wiki/linear-a/words/P/PA_KU|PA-KU]], [[wiki/linear-a/words/Q/QI_TI_RI|QI-TI-RI]].
 
 ## Edition differences
 

@@ -5,7 +5,7 @@ desc: How the Semitic roots grow from the dictionaries they cite, entry by entry
 tags: [docs, semitic-roots]
 authors: "di Mino"
 created: 2026-11-02T23:00:00Z
-updated: 2026-11-04T13:30:00Z
+updated: 2026-11-16T17:30:00Z
 ---
 
 # Semitic Roots: The Dictionary Scan
@@ -66,4 +66,4 @@ A reader passes when it accepts a decoy for at most 5% of entries and at least 9
 
 ## What the scan has added
 
-The scan has read Tomback, Krahmalkov and Benz's personal names (Phoenician and Punic), DIANA and Al-Jallad and Jaworska's Safaitic dictionary (Ancient North Arabian), Biella (Sabaic), Leslau's Geʿez dictionary, Hoftijzer and Jongeling's DNWSI, SED, DULAT and HALOT. Its rows run 3871–4687, with gaps where drafts merged or a row left with one branch was withdrawn. A proposal whose root a row already held was consolidated into that row, most as a new sense, and cells were added across the rest.
+The scan has read Tomback, Krahmalkov and Benz's personal names (Phoenician and Punic), DIANA I and II (Safaitic and Taymanitic) and Al-Jallad and Jaworska's Safaitic dictionary (Ancient North Arabian), Biella (Sabaic), Leslau's Geʿez dictionary, Hoftijzer and Jongeling's DNWSI, SED, DULAT and HALOT. Its rows run 3871–4687, then 4720–4721 from DIANA II, with gaps where drafts merged or a row left with one branch was withdrawn. A proposal whose root a row already held was consolidated into that row, most as a new sense, and cells were added across the rest.

@@ -189,8 +189,30 @@ def sign_status(sign_values: dict) -> dict[tuple[str, str], tuple[str, str]]:
 
 # ---------------------------------------------------------------- the loaded model
 
+def _once(name: str):
+    """A json object hook that refuses a key repeated within one object, where json.loads keeps the last value."""
+    def hook(pairs: list[tuple[str, object]]) -> dict:
+        out: dict = {}
+        for key, value in pairs:
+            if key in out:
+                raise ValueError(f"{name}: the key {key!r} appears twice in one object")
+            out[key] = value
+        return out
+    return hook
+
+
 def _read(folder: Path, name: str):
-    return json.loads(require(folder / name, name).read_text(encoding="utf-8"))
+    return json.loads(require(folder / name, name).read_text(encoding="utf-8"), object_pairs_hook=_once(name))
+
+
+def _keyed(name: str, entries: list[dict], key: str) -> dict[str, dict]:
+    """Entries by their `key` field. ValueError when two entries share it, which a dict would collapse into one."""
+    out: dict[str, dict] = {}
+    for entry in entries:
+        if entry[key] in out:
+            raise ValueError(f"{name}: two entries have the {key} {entry[key]!r}")
+        out[entry[key]] = entry
+    return out
 
 
 def attestation_base(attestation: str, corpus: dict) -> str:
@@ -222,15 +244,16 @@ class Model:
 
 
 def load(folder: Path) -> Model:
-    """Read the Linear A data files in `folder` and build the indexes."""
+    """Read the Linear A data files in `folder` and build the indexes. ValueError on a key repeated within one JSON
+    object, or on two entries of one file with the same form."""
     folder = Path(folder)
     unread = _read(folder, "unread_words.json")
     sign_values = _read(folder, "sign_values.json")
     model = Model(
         corpus=_read(folder, "corpus.json"),
-        lexicon={e["word"]: e for e in _read(folder, "lexicon.json")["entries"]},
-        onomasticon={o["token"]: o for o in _read(folder, "onomasticon.json")["entries"]},
-        unread={u["word"]: u for u in unread["entries"]},
+        lexicon=_keyed("lexicon.json", _read(folder, "lexicon.json")["entries"], "word"),
+        onomasticon=_keyed("onomasticon.json", _read(folder, "onomasticon.json")["entries"], "token"),
+        unread=_keyed("unread_words.json", unread["entries"], "word"),
         unread_statuses=unread.get("statuses", {}),
         translations={doc: normalize_translation(doc, entry)
                       for doc, entry in _read(folder, "translations.json")["translations"].items()},
@@ -250,7 +273,7 @@ def load(folder: Path) -> Model:
     model.in_translations = dict(in_translations)
     if (folder / "unread_signs.json").exists():
         signs = _read(folder, "unread_signs.json")
-        model.unread_signs = {s["sign"]: s for s in signs["entries"]}
+        model.unread_signs = _keyed("unread_signs.json", signs["entries"], "sign")
         model.unread_sign_statuses = signs.get("statuses", {})
     if (folder / "scribes.json").exists():
         model.scribes = _read(folder, "scribes.json")["scribes"]

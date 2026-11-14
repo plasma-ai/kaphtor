@@ -49,6 +49,7 @@ HT 117a: KI-DA-RO 1 in the SA-TA roster, beside KU-KU-DA-RA, KO-SA-I-TI, DA-MI-N
 |---|---|
 | Hebrew | Qēdār (קֵדָר) 'Kedar', son of Ishmael, an Arabian people; qādar (קָדַר) 'be dark, mourn' (HALOT 1072) |
 | Ugaritic | qdr 'darkening' (DULAT) |
+| Judaic Aramaic | qdr 'to become dark' (HALOT 1072) |
 
 ### Source
 

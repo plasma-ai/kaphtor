@@ -61,13 +61,15 @@ di Mino
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HS/HSZg/HSZg1\|HSZg1]] | Haghios Stephanos | Stone object | complete |
-| [[wiki/linear-a/inscriptions/MA/MA/MA1b\|MA1b]] | Malia | 3-sided bar | none |
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA7b\|ZA7b]] | Zakros | Tablet | none |
+| [[wiki/linear-a/inscriptions/MA/MA/MA1b\|MA1b]] | Malia | 3-sided bar | complete |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA7b\|ZA7b]] | Zakros | Tablet | incomplete |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HS/HSZg/HSZg1\|HSZg1]] | ʿamma | people, kinfolk—social/kinship term | CANDIDATE |
+| [[wiki/linear-a/inscriptions/MA/MA/MA1b\|MA1b]] | ʿamma | people, kinfolk—social/kinship term | CANDIDATE |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA7b\|ZA7b]] | ʿamma | people, kinfolk—social/kinship term | CANDIDATE |
 
 <!-- END kaphtor:record -->

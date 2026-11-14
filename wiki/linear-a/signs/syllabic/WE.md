@@ -35,6 +35,6 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-NOT A LINEAR A SIGN. AB75 WE occurs nowhere in the Linear A corpus or SigLA, and Unicode's Linear A block has no AB075; the value we is Linear B's. Gordon's two WE words are GORILA RI: DA-WE-DA = DA-RI-DA (HT 10a, 85a), MA-KA-WE-TE = MA-KA-RI-TE (HT 87). Do not propose WE in Linear A spellings.
+NOT A LINEAR A SIGN. AB75 WE occurs nowhere in the Linear A corpus or SigLA, and Unicode's Linear A block has no AB075; the value we is Linear B's. Its former confirmations came from Brice's edition of the texts, which read RI as we: from it Gordon took da-we-da (HT 10a, 85a, 93a, 122a) and ma-ka-we-te (HT 87, 117a), GORILA's DA-RI-DA and MA-KA-RI-TE (Gordon 1966 §§133, 136, 163). Do not propose WE in Linear A spellings.
 
 <!-- END kaphtor:record -->

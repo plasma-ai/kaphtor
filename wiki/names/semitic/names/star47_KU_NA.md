@@ -46,12 +46,12 @@ ZA 15a: heads a wine issue. sōkuna 'prefect, steward' with \*47 = so, as the Ca
 
 | Language | Comparison |
 |---|---|
-| Canaanite | su₂-ki-na 'prefect', gloss in EA 362 (ORACC aemw/amarna P270873) |
+| Amarna | su₂-ki-na 'prefect', Canaanite gloss in EA 362 (ORACC aemw/amarna P270873) |
 | Phoenician | skn 'governor'; SKN, ʾSKN Sakun, the god (lʾskn ʾdr, KAI 58); Σαγχουνιάθων; Neo-Punic Bodsychun (Krahmalkov 2000, 342–343, 99; Benz 1972, 365) |
 | Amorite | SA-KU-NU-NU-UM (Gelb 1980, no. 5405) |
 | Ugaritic | śkn 'prefect, governor; manager, administrator' (DULAT 746) |
 | Akkadian | sākinu 'a high official', Alalakh, Boğazköy, Ras Shamra (CAD S 76) |
-| Hebrew | sōkēn 'steward' (HALOT 755) |
+| Hebrew | sōkēn 'administrator' (HALOT 755) |
 
 ## Attestations
 

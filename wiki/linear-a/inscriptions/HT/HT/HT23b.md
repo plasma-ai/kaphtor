@@ -77,7 +77,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/C/CYP\|CYP]] |  | cyperus | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/O/OLE\|OLE]] |  | oil | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/M/MI_plus_JA_plus_RU\|MI+JA+RU]] |  | composite, as HT23a | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/M/MU\|MU]] |  | unread |  |  |
+| [[wiki/linear-a/words/M/MU\|MU]] |  | unread |  | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/Q/QA2_plus_q_plus_PU\|QA2+&#91;?&#93;+PU]] |  | composite (\*510?) |  |  |
 | [[wiki/linear-a/words/Q/QA2_plus_q_plus_RE\|QA2+&#91;?&#93;+RE]] |  | composite (\*508) |  |  |
 | [[wiki/linear-a/words/E/E\|E]] |  | commodity |  | CANDIDATE (lexicon) |

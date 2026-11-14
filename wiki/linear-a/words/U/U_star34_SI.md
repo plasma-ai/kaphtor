@@ -49,6 +49,7 @@ HT 140 opens both oil sections with U-\*34-SI, each followed by an unread group 
 |---|---|
 | Akkadian | qāšu (qiāšu) 'make a donation, dedicate, give a present' (CAD Q 156); qīšu 'given as a present' (CAD Q 280) |
 | Amorite | QJŠ, jaqīš 'to donate, to present'; qīšum 'given, gift' (Gelb 1980, 29) |
+| Eblaite | ḳayS, ḳīS 'gift' (GlOS 1, 364) |
 
 ### Source
 

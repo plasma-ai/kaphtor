@@ -57,15 +57,17 @@ di Mino; CAD T
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH6\|ARKH6]] | Arkhanes | Tablet | none |
+| [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH6\|ARKH6]] | Arkhanes | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT91\|HT91]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/PH/PH/PH_q_31b\|PH(?)31b]] | Phaistos | Tablet | none |
+| [[wiki/linear-a/inscriptions/PH/PH/PH_q_31b\|PH(?)31b]] | Phaistos | Tablet | incomplete |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
+| [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH6\|ARKH6]] | tēri | attendant, courtier (recipient) | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT91\|HT91]] | tēri | attendant, courtier (second recipient); Akk. tīru (tēru), CAD T 429 | CANDIDATE |
+| [[wiki/linear-a/inscriptions/PH/PH/PH_q_31b\|PH(?)31b]] | tēri | attendant, courtier (recipient) | CANDIDATE |
 
 ## Onomasticon
 

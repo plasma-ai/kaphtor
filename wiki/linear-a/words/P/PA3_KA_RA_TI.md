@@ -49,6 +49,7 @@ HT 8a .1–2 JE-DI · OLE+KI 10 PA₃ \| KA-RA-TI 1½: PA₃ is the last sign of
 |---|---|
 | Ugaritic | bqr 'cattle' (GlOS 1, 117) |
 | Emar | ba-qa-ra, bu-qà-ri 'cattle' (GlOS 1, 117) |
+| Arabic | baḳarat- 'a head of bovine livestock; cow' (BK 1, 149; Lane 234) |
 
 ### Source
 

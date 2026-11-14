@@ -4,7 +4,7 @@ title: Proper names and place authorities
 desc: ORACC QPN, PNM v6, Prosopographia Memphitica, the TLA v18 names, Gauthier's DNG, the Kassite name concordances, the Egyptian foreign-name witnesses and the place authorities, and why a place match identifies a place but never counts as linguistic evidence.
 tags: [corpora, docs]
 created: 2026-10-22T18:14:10Z
-updated: 2026-10-27T17:50:48Z
+updated: 2026-11-16T19:36:33Z
 ---
 
 # Proper names and place authorities
@@ -21,7 +21,7 @@ This repository ships only the sets under `data/`; each folder's index lists the
 | PNM v6 | 60,488 attestations; 7,933 names; 3,828 person dossiers; 21,700 spellings; 4,689 titles | `data/ane/pnm-v6/` |
 | Prosopographia Memphitica | 2,409 New Kingdom Memphite persons; 1,574 name rows; 992 titles; 30,743 relations | `data/ane/prosopographia-memphitica/` |
 | TLA v18 names | 9,186 proper-name tokens with hieroglyphs; 1,644 lemmas | `data/share-alike/tla-v18-names/` |
-| Gauthier's DNG, t. 1–6 | 7,497 entries, cross-references and addenda; page finder, no hieroglyphs | `data/ane/gauthier-dng/` |
+| Gauthier's DNG, t. 1–6 | 7,443 entries, cross-references and addenda; page finder, no hieroglyphs | `data/ane/gauthier-dng/` |
 | Kassite name concordances | 9,621 index entries of seven volumes, 1906–1912 | `data/ane/kassite-concordances/` |
 | Place authorities | 42,388 Pleiades; 65,130 TM Geo | `data/ane/place-authorities/` (Trismegistos in `data/share-alike/trismegistos/`) |
 
@@ -62,8 +62,13 @@ names but tagged as nouns stay out.
 
 Gauthier's *Dictionnaire* t. 1–6 (Le Caire 1925–1929, public domain) is read from the archive.org scans' OCR text
 layer, entry by entry, under the volume and printed page each entry opens on. It is a page finder: the hieroglyphs are
-not in the text layer, the transcriptions keep the OCR's slips (ḥ as `l;l` or `J:i`), and 2,625 rows carry flags. Read
-the printed page before quoting a form. No row is joined to any place authority.
+not in the text layer, the transcriptions keep the OCR's slips (ḥ as `l;l`, `J:i` or a digit, m as `111`), and 2,802
+rows carry flags. Read the printed page before quoting a form. No row is joined to any place authority.
+
+A search reads the transcription, the head's further spellings (`variants`), the French gloss and the description. A
+typed ḥ, m or i also finds the marks and digits the OCR prints for them, in notation (`ḥat skhem` finds `1:).at
+skhem`). The 35 entries whose head was not parsed are found through their OCR line, after every other match: such a
+row has match basis 5 and `matched_in: raw_text`, and `--exact` leaves it out.
 
 ## Kassite name concordances
 

@@ -2,14 +2,14 @@
 name: wiki/linear-a/words/N
 desc: "Words whose first sign begins with N."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-12T00:26:03Z
+updated: 2026-11-17T16:49:32Z
 ---
 
 # wiki/linear-a/words/N
 
 [[wiki/linear-a/words/_index|..]]
 
-[[wiki/linear-a/words/N/NA|NA]]: Unread sign (syllabogram, unread); 7 occurrence(s).
+[[wiki/linear-a/words/N/NA|NA]]: Unread sign (syllabogram, unread); 6 occurrence(s).
 
 [[wiki/linear-a/words/N/NA_A_PA3|NA_A_PA3]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -19,7 +19,7 @@ updated: 2026-11-12T00:26:03Z
 
 [[wiki/linear-a/words/N/NA_MA|NA_MA]]: Naʿma: Naʿma 'Grace' (personal name). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/N/NA_SI|NA_SI]]: nasīʾ: chief, prince (nasīʾ), broken before NA. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/N/NA_SI|NA_SI]]: naśīʾ: chief, prince (naśīʾ), broken before NA. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/N/NA_TI|NA_TI]]: naṭʿ: the Plantation (place name), 4 men in the HT 97a roster beside PA-I-TO. Lexicon, SPECULATIVE (tier 1).
 
@@ -45,7 +45,7 @@ updated: 2026-11-12T00:26:03Z
 
 [[wiki/linear-a/words/N/NI|NI]]: figs—commodity ideogram (FIC). Lexicon, CONFIRMED (tier 4).
 
-[[wiki/linear-a/words/N/NI_JA_NU|NI_JA_NU]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/N/NI_JA_NU|NI_JA_NU]]: niyāḥ-nu: our soothing (offering), of the incense; rivals a personal name, NI 'figs' with JA-NU 'wine'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/N/NI_MI|NI_MI]]: Unread (unread): no role; 1 occurrence(s).
 

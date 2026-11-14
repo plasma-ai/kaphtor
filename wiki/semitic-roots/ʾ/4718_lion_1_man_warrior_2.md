@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/4718_lion_1_man_warrior_2
 title: "*ʔasad-: 'lion' 1, 'man, warrior' 2"
-desc: "Proto-Semitic *ʔasad-, 'lion' 1, 'man, warrior' 2: reflexes in 3 language(s)."
+desc: "Proto-Semitic *ʔasad-, 'lion' 1, 'man, warrior' 2: reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "4718"
@@ -32,6 +32,7 @@ updated: 2026-11-10T05:11:30Z
 | Arabic | ʾasad 'lion' 1 (Lane 57) | Lane 57 |  |
 | Amorite | ʾaśdum 1 (Gelb AS 21, 13); asd-: Ás-di-e-šu-uḫ, Ya-tar-ás-di (Huffmon APNM 169) | Gelb AS 21 13; Huffmon APNM 169 | gloss withheld |
 | Epigraphic South Arabian | Sab. ʾs¹d 2 (SD 7) | SD 7 | gloss withheld |
+| Pre-Islamic North Arabian | Taymanitic ʾsd (Al-Jallad 2026b, 30) | Al-Jallad 2026b 30 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

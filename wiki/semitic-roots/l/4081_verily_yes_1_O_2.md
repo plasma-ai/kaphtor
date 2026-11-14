@@ -33,7 +33,7 @@ updated: 2026-11-04T02:29:02Z
 | Hebrew | לְ emphatic 1, vocative 2 (HALOT 510) | HALOT 510 | gloss withheld |
 | Arabic | la- corroborative particle 1 (Lane 3006); la, yā la- vocative 2 (DULAT 481) | Lane 3006; DULAT 481 |  |
 | Amorite | la-, li-, lu- 1 (Gelb AS 21, 24) | Gelb AS 21 24 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic l 1 (Al-Jallad–Jaworska 146) | Al-Jallad–Jaworska 146 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic l 1 (Al-Jallad–Jaworska 146); Taymanitic l 1 (Al-Jallad 2026b, 15) | Al-Jallad–Jaworska 146; Al-Jallad 2026b 15 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

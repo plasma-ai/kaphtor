@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/3796_and_then_and_so_coordinating_conjunction
 title: "*pa: 'and then, and so' (coordinating conjunction)"
-desc: "Proto-Semitic *pa, 'and then, and so' (coordinating conjunction): reflexes in 3 language(s)."
+desc: "Proto-Semitic *pa, 'and then, and so' (coordinating conjunction): reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3796"
@@ -32,6 +32,7 @@ updated: 2026-10-31T13:28:57Z
 | Epigraphic South Arabian | Sab f- (Biella 399) | Biella 399 | gloss withheld |
 | Ugaritic | p (copulative, consecutive, explanatory): yd \[mỉzrth\] p yln (KTU 1.17 I 5; DULAT 646) | KTU 1.17 I 5; DULAT 646 | gloss withheld |
 | Arabic | fa 'and then, and so', of order and proximate sequence: qāma zaydun fa-ʿamrun 'Zeyd came, and after him ʿAmr' (Lane 2321) | Lane 2321 |  |
+| Pre-Islamic North Arabian | Taymanitic f; Safaitic f; Dadanitic f; Dumaitic f; Hismaic f; Dhofari f (Al-Jallad 2026b, 8) | Al-Jallad 2026b 8 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

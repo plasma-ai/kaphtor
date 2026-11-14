@@ -32,6 +32,6 @@ updated: 2026-11-12T00:26:03Z
 
 A vessel. Status **unread** (nothing on file).
 
-A vessel sign. Alone on 2 Khania roundels (KH Wc 2006, 2007). No reading.
+A vessel sign: a tapering vessel on a foot, cross-hatched inside, with loops on the rim; Vandenabeele takes A 417 for a basket (Schoep 2002, 127 n. 138). Alone on 2 Khania roundels (KH Wc 2006, 2007). No reading.
 
 <!-- END kaphtor:record -->

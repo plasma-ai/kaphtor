@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-On the HT Wc 3014 roundel, KU-MI-NA (side a) and QE (side b, the standalone qab-measure √q-b-b before the CAP caprid logogram) are separate entries. A Wanderwort: Sumerian U.GAMUN, Akk. kamūnu, Ug. kmn, Linear B ku-mi-no, Greek κύμινον; KU-MI-NA has the skeleton of ku-mi-no, a Semitic loan in Linear B; Peruzzi already set the roundel's ku-mi-na before Mycenaean ku-mi-no (Peruzzi 1958, 13). HT 54a.2 reads \]KU-MI-NA-QE\[, broken at both ends (GORILA I 105). A-KU-MI-NA and A-DU-KU-MI-NA on ZA 10a are roster titles on the homograph kummi 'cella' + -ān, as SI-DU-QI-KU-MI.
+On the HT Wc 3014 roundel, KU-MI-NA (side a) and QE (side b, the standalone qab-measure √q-b-b before the CAP caprid logogram) are separate entries. A Wanderwort: Sumerian U.GAMUN, Akk. kamūnu, Ug. kmn, measured by the ltḥ, the kt and the jar (DULAT 441), Linear B ku-mi-no, Greek κύμινον; KU-MI-NA has the skeleton of ku-mi-no, a Semitic loan in Linear B; Peruzzi already set the roundel's ku-mi-na before Mycenaean ku-mi-no (Peruzzi 1958, 13). HT 54a.2 reads \]KU-MI-NA-QE\[, broken at both ends (GORILA I 105). A-KU-MI-NA and A-DU-KU-MI-NA on ZA 10a are roster titles on the homograph kummi 'cella' + -ān, as SI-DU-QI-KU-MI. KU-MI-NA is followed by QE on both witnesses. Rival: a personal or place name beside the CAP logogram.
 
 ### Cognates
 
@@ -49,15 +49,15 @@ On the HT Wc 3014 roundel, KU-MI-NA (side a) and QE (side b, the standalone qab-
 |---|---|
 | Sumerian | U.GAMUN (plant determinative + GAMUN) |
 | Akkadian | kamūnu / kammūnu—OB ration lists, medical texts |
-| Ugaritic | kmn—attested at Ugarit (Klein, CEDHL) |
+| Ugaritic | kmn (II) 'cumin': ltḥ kmn, kt kmn, kd kmn 'a jar of cumin' (KTU 4.14:9; 4.811:10; 6.105:1; DULAT 441) |
 | Linear B | ku-mi-no (𐀓𐀖𐀜)—Knossos/Pylos palatial spice inventories, 15th c. BCE |
 | Hebrew | כַּמֹּן kammōn (Isa 28:25, 27) |
 | Arabic | كمون kammūn |
-| Greek | κύμινον kuminon—universally recognized Semitic loanword |
+| Greek | κύμινον kuminon, a Semitic loanword |
 
 ### Source
 
-di Mino; Peruzzi 1958
+di Mino; Peruzzi 1958; DULAT
 
 ## Attestations
 

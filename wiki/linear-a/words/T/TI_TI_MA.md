@@ -59,6 +59,12 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/PH/PHWc/PHWc40\|PHWc40]] | Phaistos | Roundel | none |
+| [[wiki/linear-a/inscriptions/PH/PHWc/PHWc40\|PHWc40]] | Phaistos | Roundel | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/PH/PHWc/PHWc40\|PHWc40]] | ṯiṯṯīma | sixty (numeral) | CANDIDATE |
 
 <!-- END kaphtor:record -->

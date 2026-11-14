@@ -22,7 +22,12 @@ Views:
     seal             SEAL literary records (CC BY-NC-ND)
     seal_tokens      SEAL word spans with lemma, transliteration, meaning and line
     ociana           the official OCIANA Ancient North Arabian inscription export
+    diana            DIANA I (Al-Jallad 2026, Safaitic): dictionary, toponyms, and the group and divine names of its
+                     two lists (data/ane/diana-safaitic/; `diana`)
+    diana2           DIANA II (Al-Jallad 2026b, Taymanitic): dictionary, toponyms, group names and onomasticon
+                     (data/ane/diana2-taymanitic/; `diana --volume 2`)
     isicily          I.Sicily records whose main or other language is Punic, Phoenician or Hebrew
+    palmyra          Public Inscriptions from Palmyra: catalogue rows by siglum, building, god or name (no texts)
     ebl              eBL transliterated-fragment snapshot
     achemenet        Achaemenid Babylonian documents and automatic token analyses
     elisir           ELISIR pilot Eblaite lexical entries
@@ -55,6 +60,7 @@ Usage:
     python3 tools/ane/aneq.py seal šēmû --tokens
     python3 tools/ane/aneq.py ociana 'l mnt' --script Safaitic
     python3 tools/ane/aneq.py isicily qbr --language xpu
+    python3 tools/ane/aneq.py palmyra 'PAT 8'
     python3 tools/ane/aneq.py ebl 'ta-i' --period 'Old Babylonian'
     python3 tools/ane/aneq.py achemenet liq-bu-u₂
     python3 tools/ane/aneq.py elisir nab-ḫu
@@ -97,7 +103,8 @@ if __package__ in (None, ""):
     __package__ = "tools.ane"
 
 from ..paths import ANE_DATA, DATA, REPO, SHARE_ALIKE, NotInCheckout, require
-from .ane_keys import HEB_ROMAN, expand, fold_pattern, loose_key, parse_query
+from .ane_keys import HEB_ROMAN, declared, expand, fold_pattern, loose_key, parse_query
+from .find_numbers import find_number_pattern
 
 INGEST = DATA / "ingest"
 TERMS_GLOB = ANE_DATA / "biblical-terms" / "*.json"
@@ -111,17 +118,36 @@ ARAMAIC_DB = ANE_DATA / "aramaic_texts.duckdb"
 EGY_DOCS = SHARE_ALIKE / "egyptian" / "egyptian_documents.jsonl"
 EGY_SENTS = SHARE_ALIKE / "egyptian" / "egyptian_sentences.jsonl"
 CUNEIFORM_DERIVED = INGEST / "cuneiform" / "derived"
-ORACC_DOCS = CUNEIFORM_DERIVED / "oracc_documents.jsonl"
+ORACC_LEVANT = SHARE_ALIKE / "oracc-levant"       # shipped: aemw/ugarit, amarna, myamarna, alalakh/idrimi
+
+
+def _held_or_shipped(name: str) -> Path:
+    """The full ORACC file under data/ingest when it is there, else the shipped Levantine one of the same name."""
+    held = CUNEIFORM_DERIVED / name
+    return held if held.exists() else ORACC_LEVANT / name
+
+
+def _own_or_shipped(own: Path, shipped: str) -> Path:
+    """A user's own download under data/ingest when it is there, else the set shipped under data/ane/."""
+    return own if own.exists() else ANE_DATA / shipped / "records.jsonl"
+
+
+ORACC_DOCS = _held_or_shipped("oracc_documents.jsonl")
+ORACC_EXCAVATION = _held_or_shipped("oracc_excavation_numbers.jsonl")   # find numbers ORACC keeps in its catalogue
+ORACC_TRANSLATIONS = _held_or_shipped("oracc_translations.jsonl")       # one row per translation cell of a text page
 CDLI_TEXTS = CUNEIFORM_DERIVED / "cdli_texts.jsonl"
 CDLI_CATALOGUE = CUNEIFORM_DERIVED / "cdli_catalogue.jsonl"
 SEAL_RECORDS = CUNEIFORM_DERIVED / "seal_records.jsonl"
 OPEN_SEMITIC = INGEST / "open-semitic"
 OCIANA_FULL = OPEN_SEMITIC / "derived/ociana/records.jsonl"
-ISICILY_SEMITIC = OPEN_SEMITIC / "derived/isicily-semitic/records.jsonl"
+ISICILY_SEMITIC = _own_or_shipped(OPEN_SEMITIC / "derived/isicily-semitic/records.jsonl", "isicily-semitic")
 EBL_FRAGMENTS = OPEN_SEMITIC / "derived/ebl-fragments/records.jsonl"
 ACHEMENET_RECORDS = OPEN_SEMITIC / "derived/achemenet-babylonian/records.jsonl"
-ELISIR_RECORDS = OPEN_SEMITIC / "derived/elisir-eblaite-lexicon/records.jsonl"
-UGARITDB_RECORDS = OPEN_SEMITIC / "ugarit-texts-database/derived/records.jsonl"
+ELISIR_RECORDS = _own_or_shipped(OPEN_SEMITIC / "derived/elisir-eblaite-lexicon/records.jsonl", "elisir-eblaite")
+PALMYRA_RECORDS = ANE_DATA / "palmyra-public-inscriptions/records.jsonl"
+DIANA = ANE_DATA / "diana-safaitic/records.jsonl"       # Al-Jallad 2026, CC BY-NC-ND 4.0
+DIANA2 = ANE_DATA / "diana2-taymanitic/records.jsonl"   # Al-Jallad 2026b, CC BY-NC 4.0
+UGARITDB_RECORDS = _own_or_shipped(OPEN_SEMITIC / "ugarit-texts-database/derived/records.jsonl", "ugarit-texts-database")
 DAPCA_RECORDS = OPEN_SEMITIC / "dapca/records.jsonl"
 AHI_RECORDS = OPEN_SEMITIC / "ancient-hebrew-inscriptions/derived/records.jsonl"
 EUPT_DERIVED = OPEN_SEMITIC / "eupt-production/derived"
@@ -141,7 +167,7 @@ TLHDIG_DERIVED = INGEST / "anatolian/tlhdig-0.3/derived"
 TLHDIG_DOCS = TLHDIG_DERIVED / "documents.jsonl"
 TLHDIG_WORDS = TLHDIG_DERIVED / "words.jsonl"
 CYPRIOT_DERIVED = INGEST / "aegean/cypriot-syllabic-ig-xv-1/derived"
-CYPRIOT_RECORDS = CYPRIOT_DERIVED / "records.jsonl"
+CYPRIOT_RECORDS = _own_or_shipped(CYPRIOT_DERIVED / "records.jsonl", "ig-xv-1-cypriot")
 DASI_RECORDS = OPEN_SEMITIC / "dasi-csai/derived/records.jsonl"
 
 MAX_OBJ = "maximum_object_size=104857600"
@@ -325,6 +351,8 @@ def get_connection(cmd: str | None = None) -> duckdb.DuckDBPyConnection:
                        token.lang, token.damaged
                 FROM cuneiform_oracc d, UNNEST(d.tokens) AS u(token)
             """)
+        jsonl_view(con, "cuneiform_excavation", ORACC_EXCAVATION)
+        jsonl_view(con, "cuneiform_translations", ORACC_TRANSLATIONS)
         jsonl_view(con, "cuneiform_cdli_texts", CDLI_TEXTS)
         jsonl_view(con, "cdli_catalogue", CDLI_CATALOGUE)
         if jsonl_view(con, "seal", SEAL_RECORDS, "seal_tokens"):
@@ -340,6 +368,8 @@ def get_connection(cmd: str | None = None) -> duckdb.DuckDBPyConnection:
         jsonl_view(con, "ociana", OCIANA_FULL)
     if need("isicily"):
         jsonl_view(con, "isicily", ISICILY_SEMITIC)
+    if need("palmyra"):
+        jsonl_view(con, "palmyra", PALMYRA_RECORDS)
     if need("ebl"):
         jsonl_view(con, "ebl", EBL_FRAGMENTS)
     if need("achemenet") and jsonl_view(con, "achemenet", ACHEMENET_RECORDS, "achemenet_tokens"):
@@ -349,6 +379,19 @@ def get_connection(cmd: str | None = None) -> duckdb.DuckDBPyConnection:
                    d.citation, d.document_order, token.*
             FROM achemenet d, UNNEST(d.tokens) AS u(token)
         """)
+    for view, path, own in (("diana", DIANA, "Safaitic"), ("diana2", DIANA2, "Taymanitic")):
+        if not need(view, "diana"):
+            continue
+        # cognates: the languages of a row's notes and ANA parallels (its forms not in the volume's own language).
+        if path.exists():
+            con.execute(f"""
+                CREATE VIEW {view} AS
+                SELECT *, list_sort(list_distinct(list_transform(list_filter(forms, lambda f: f.language <> '{own}'),
+                                                                 lambda f: f.language))) AS cognates
+                FROM read_json_auto({quoted(path)}, format='newline_delimited', union_by_name=true, {MAX_OBJ})
+            """)
+        else:
+            left_out((view,), path)
     if need("elisir"):
         jsonl_view(con, "elisir", ELISIR_RECORDS)
     if need("ugaritdb"):
@@ -662,9 +705,12 @@ STATS = (
     ("cuneiform (SEAL tokens)", "seal_tokens", "count(*)", ""),
     ("OCIANA (inscriptions)", "ociana", "count(*)", ""),
     ("I.Sicily (Semitic records)", "isicily", "count(*)", ""),
+    ("Palmyra public inscriptions (catalogue rows)", "palmyra", "count(*)", ""),
     ("eBL (fragments)", "ebl", "count(*)", ""),
     ("Achemenet Babylonian (documents)", "achemenet", "count(*)", ""),
     ("Achemenet Babylonian (automatic tokens)", "achemenet_tokens", "count(*)", ""),
+    ("DIANA I (Safaitic headwords and toponyms)", "diana", "count(*)", ""),
+    ("DIANA II (Taymanitic headwords and names)", "diana2", "count(*)", ""),
     ("ELISIR (pilot lexical entries)", "elisir", "count(*)", ""),
     ("Ugarit Texts Database (metadata)", "ugaritdb", "count(*)", ""),
     ("DAPCA (released editions)", "dapca", "count(*)", ""),
@@ -746,6 +792,9 @@ def main() -> int:
     p = sub.add_parser("cuneiform", help="Local ORACC/CDLI/SEAL texts by ID, metadata, transliteration, or lemma")
     p.add_argument("query", nargs="?", default="")
     p.add_argument("--tokens", action="store_true", help="search annotated ORACC tokens/lemmata")
+    p.add_argument("--translation", action="store_true",
+                   help="the ORACC translation of the texts found, unit by unit, or of texts whose translation "
+                        "holds the query")
     p.add_argument("--project", help="restrict to an ORACC project (substring)")
     p.add_argument("--period", help="restrict by period (substring)")
     p.add_argument("--genre", help="restrict by genre (substring)")
@@ -762,6 +811,12 @@ def main() -> int:
     p.add_argument("--script", help="restrict by script label, e.g. Safaitic or Hismaic")
     p.add_argument("--limit", type=int, default=60, help="max rows (default 60)")
 
+    p = sub.add_parser("palmyra", help="Palmyra public inscriptions by siglum (PAT 8), building, god, name or topic")
+    p.add_argument("query", nargs="?", default="")
+    p.add_argument("--language", help="the dataset's language label: Palmyrene, Greek, GrPal, Latin …")
+    p.add_argument("--year", type=int, help="keep inscriptions whose year range holds this year CE")
+    p.add_argument("--limit", type=int, default=60, help="max rows (default 60)")
+
     p = sub.add_parser("isicily", help="I.Sicily Punic/Phoenician/Hebrew records")
     p.add_argument("query", nargs="?", default="")
     p.add_argument("--language", help="restrict by main/other language code, e.g. xpu or he")
@@ -776,6 +831,23 @@ def main() -> int:
     p.add_argument("query", nargs="?", default="")
     p.add_argument("--documents", action="store_true", help="search document IDs/citations instead of tokens")
     p.add_argument("--collection", help="restrict to a source collection, e.g. CT55 or Murashu")
+    p.add_argument("--limit", type=int, default=60, help="max rows (default 60)")
+
+    p = sub.add_parser("diana", help="Al-Jallad 2026, Dictionary of the Inscriptions of Ancient North Arabia I: "
+                                     "Safaitic (DIANA), by headword or printed variant (ʿhny; a homograph as "
+                                     "printed, ʿhnt²), root (ʿ-g-z) or English gloss word (drought; a word in the "
+                                     "book's letters is read as a headword); s1 and s2 are its s and ś")
+    p.add_argument("query", nargs="?", default="")
+    p.add_argument("--homograph", type=int, help="keep one homograph (as ʿhnt² does)")
+    p.add_argument("--kind", choices=["word", "place", "name"], help="keep one kind (place: the toponym glossary)")
+    p.add_argument("--cognate", help="keep rows whose notes cite this language (Classical Arabic, Hebrew, Geʿez, "
+                                     "Aramaic, Sabaic, Ugaritic, Hismaic, Dadanitic …)")
+    p.add_argument("--volume", type=int, choices=[1, 2], default=1,
+                   help="1 (default): Safaitic, Al-Jallad 2026; 2: Taymanitic, Al-Jallad 2026b, whose sibilants are "
+                        "s¹ s² s³ (type s1, s2, s3) and whose homographs take --homograph")
+    p.add_argument("--section", choices=["dictionary", "toponyms", "group_names", "divine_names", "onomasticon"],
+                   help="keep one part of the book: group_names in both volumes; divine_names, volume 1's list of "
+                        "deities and epithets; onomasticon, volume 2's personal names")
     p.add_argument("--limit", type=int, default=60, help="max rows (default 60)")
 
     p = sub.add_parser("elisir", help="ELISIR pilot Eblaite lexical entries")
@@ -1119,12 +1191,40 @@ def query(args: argparse.Namespace) -> None:
                            FROM cuneiform_tokens WHERE {where}
                            ORDER BY canonical_id, token_ref LIMIT {args.limit}""", args.json)
         else:
+            by_metadata = " AND ".join(filters) if filters else "TRUE"
             if args.query:
+                # A find number is matched with padding and spacing free (RS 16.156 = RS 16.0156), in the
+                # designation and in ORACC's catalogue field for texts it designates by publication.
+                pattern = find_number_pattern(args.query)
+                sidecar = ORACC_EXCAVATION.exists() and ORACC_DOCS.exists()
+                if pattern:
+                    # a longer number is another tablet (EA 34 is not EA 340): the pattern, not a substring
+                    rx = sql_string(pattern)
+                    by_designation = f"regexp_matches(designation, {rx})"
+                    in_sidecar = f"regexp_matches(excavation_no, {rx})"
+                else:
+                    by_designation = f"designation ILIKE '%{q}%' ESCAPE '\\'"
+                    in_sidecar = f"excavation_no ILIKE '%{q}%' ESCAPE '\\'"
+                # by text id alone: a P-number is one tablet whichever project's catalogue gives its find number
+                by_number = (f" OR (source_family = 'ORACC' AND canonical_id IN (SELECT canonical_id FROM "
+                             f"cuneiform_excavation WHERE {in_sidecar}))") if sidecar else ""
                 filters.append(
-                    f"(canonical_id = upper('{q}') OR designation ILIKE '%{q}%' ESCAPE '\\' "
-                    f"OR transliteration ILIKE '%{q}%' ESCAPE '\\')"
+                    f"(canonical_id = upper('{q}') OR {by_designation} "
+                    f"OR transliteration ILIKE '%{q}%' ESCAPE '\\'{by_number})"
                 )
             where = " AND ".join(filters) if filters else "TRUE"
+            if args.translation:
+                require(ORACC_TRANSLATIONS, "the ORACC translations")
+                # the texts the query finds, or texts whose translation holds it; a unit belongs to its project's edition
+                held = "(t.text_id, t.project) IN (SELECT canonical_id, source_project FROM cuneiform_docs WHERE {})"
+                in_text = (f" OR (t.translation ILIKE '%{q}%' ESCAPE '\\' AND {held.format(by_metadata)})"
+                           if args.query else "")
+                run(con, f"""SELECT t.text_id, t.project, t.label, t.line_labels, t.translation, t.url
+                               FROM cuneiform_translations t
+                               WHERE {held.format(where)}{in_text}
+                               ORDER BY t.project, t.text_id, CAST(regexp_extract(t.id, '\\.(\\d+)$', 1) AS INTEGER)
+                               LIMIT {args.limit}""", args.json)
+                return
             run(con, f"""SELECT id, canonical_id, source_family, source_project,
                                   designation, language, period, provenience, genre,
                                   substr(transliteration, 1, 120) AS text
@@ -1179,6 +1279,31 @@ def query(args: argparse.Namespace) -> None:
                               transliteration, translation, site, source_url
                        FROM ociana WHERE {where}
                        ORDER BY source_order LIMIT {args.limit}""", args.json)
+    elif args.cmd == "palmyra":
+        require(PALMYRA_RECORDS, "the Palmyra public inscriptions")
+        filters = []
+        if args.language:
+            filters.append(f"language = '{esc(args.language)}'")
+        if args.year is not None:
+            filters.append(f"year_min <= {args.year} AND year_max >= {args.year}")
+        siglum = re.fullmatch(r"(PAT|IGLS|CIS|RES)\s*0*(\S.*)", args.query.strip(), re.IGNORECASE)
+        if siglum:
+            # a siglum is matched whole, leading zeros aside: PAT 8 is not PAT 80
+            wanted = esc(f"{siglum.group(1).upper()} {siglum.group(2)}")
+            filters.append(f"('|' || regexp_replace(array_to_string(sigla, '|'), ' 0+', ' ', 'g') || '|') "
+                           f"LIKE '%|{wanted}|%' ESCAPE '\\'")
+        elif args.query:
+            # free text, the editors' accents folded: Bel reaches Bêl
+            q = esc(args.query)
+            fields = ("building_name", "gods", "names_listed", "founder", "places", "object_type", "topic_primary",
+                      "topic_secondary", "secondary_context", "id")
+            filters.append("(" + " OR ".join(
+                f"strip_accents(coalesce({f}, '')) ILIKE strip_accents('%{q}%') ESCAPE '\\'" for f in fields) + ")")
+        where = " AND ".join(filters) if filters else "TRUE"
+        run(con, f"""SELECT id, sigla, year_min, year_max, language, topic_primary, object_type, building_name,
+                              founder, gods, names_listed
+                       FROM palmyra WHERE {where}
+                       ORDER BY sheet_row LIMIT {args.limit}""", args.json)
     elif args.cmd == "isicily":
         require(ISICILY_SEMITIC, "the I.Sicily Semitic index")
         q = esc(args.query)
@@ -1244,6 +1369,47 @@ def query(args: argparse.Namespace) -> None:
                            FROM achemenet_tokens WHERE {where}
                            ORDER BY collection, document_order, TRY_CAST(token_id AS INTEGER)
                            LIMIT {args.limit}""", args.json)
+    elif args.cmd == "diana":
+        view, path, label = (("diana", DIANA, "DIANA I") if args.volume == 1 else ("diana2", DIANA2, "DIANA II"))
+        require(path, label)
+        if args.section == {1: "onomasticon", 2: "divine_names"}[args.volume]:
+            print(f"volume {args.volume} has no {args.section} section", file=sys.stderr)
+            sys.exit(2)
+        # A homograph is typed as DIANA I prints it, a superscript (ʿhnt²): a plain digit is a sibilant's index.
+        # Volume II prints its sibilants with superscripts (ms¹ʾ), so there a homograph is --homograph alone.
+        hom = (re.fullmatch(r"(.*?)([¹²³⁴⁵⁶⁷⁸⁹]+)", plain_query(args.query).strip()) if args.volume == 1 else None)
+        query = hom.group(1) if hom else args.query
+        homograph = args.homograph if args.homograph is not None else (
+            int(hom.group(2).translate(str.maketrans("¹²³⁴⁵⁶⁷⁸⁹", "123456789"))) if hom else None)
+        typed = plain_query(query).strip()
+        parsed = parse_query(query)
+        spelled = expand(parsed, view)
+        lq = loose_query(query)
+        # match_keys hold the headword, its root heading and its grouped forms; a query wholly in the book's
+        # letters is a headword or root, never a gloss word (the examples quote the inscriptions).
+        key = "".join(parsed.radicals) if parsed.mode == "root" else typed
+        tiers = [(EXACT, f"list_contains(match_keys, {sql_string(key)})"),
+                 (NOTATION, f"list_has_any({sql_strings(spelled)}, match_keys)")]
+        if not any(all(declared(view, c) for c in k) for k in spelled):
+            tiers.append((GLOSS, gloss_hit("gloss", query)))
+        filters = "".join([f" AND kind = {sql_string(args.kind)}" if args.kind else "",
+                           f" AND section = {sql_string(args.section)}" if args.section else "",
+                           f" AND homograph = {homograph}" if homograph is not None else "",
+                           f" AND list_contains(cognates, {sql_string(args.cognate)})" if args.cognate else ""])
+
+        def build(folded):
+            if typed:
+                where, basis = matched(tiers, folded_keys_hold(lq) if lq and folded else None)
+            else:
+                where, basis = "TRUE", "NULL AS match_basis"
+            return f"""SELECT id, headword, homograph, root, kind, section, pos, gloss, attestations, cognates,
+                              printed_page, pdf_page, {basis}
+                       FROM {view} WHERE {where}{filters}
+                       ORDER BY match_basis, pdf_page, id LIMIT {args.limit}"""
+        if typed:
+            run_folding(con, build, args.json, args.loose)
+        else:   # no query: every row the filters keep, in page order
+            run(con, build(False), args.json)
     elif args.cmd == "elisir":
         require(ELISIR_RECORDS, "the ELISIR index")
         q = esc(args.query)

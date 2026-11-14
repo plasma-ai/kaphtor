@@ -58,12 +58,12 @@ Uchitel 2003; Uchitel 2006; Uchitel 2016b; Montecchi 2008
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT89\|HT89]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT33\|HT33]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT33\|HT33]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT100\|HT100]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT132\|HT132]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT132\|HT132]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT126b\|HT126b]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT57b\|HT57b]] | Haghia Triada | Tablet | none |
-| [[wiki/linear-a/inscriptions/HT/HT/HT63\|HT63]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT63\|HT63]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT41a\|HT41a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT45a\|HT45a]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT45b\|HT45b]] | Haghia Triada | Tablet | none |
@@ -72,7 +72,10 @@ Uchitel 2003; Uchitel 2006; Uchitel 2016b; Montecchi 2008
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT33\|HT33]] |  | personnel-category logogram, a counted class of persons | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT41a\|HT41a]] |  | personnel category; exact class unknown | PROBABLE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT63\|HT63]] |  | personnel-category logogram, a counted class of persons | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT100\|HT100]] |  | personnel category; exact class unknown | PROBABLE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT132\|HT132]] |  | personnel-category logogram, a counted class of persons | PROBABLE |
 
 <!-- END kaphtor:record -->

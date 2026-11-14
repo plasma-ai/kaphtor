@@ -68,13 +68,14 @@ di Mino; GORILA I; Huehnergard 2012; HALOT; DULAT; CAD K
 | [[wiki/linear-a/inscriptions/HT/HT/HT154a\|HT154a]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH18\|KH18]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/PK/PK/PK3\|PK3]] | Palaikastro | 4-sided bar | none |
-| [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH6\|ARKH6]] | Arkhanes | Tablet | none |
+| [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH6\|ARKH6]] | Arkhanes | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/TY/TYWc/TYWc5\|TYWc5]] | Tylissos | Roundel | none |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
+| [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH6\|ARKH6]] | kull | all, totality, everything (administrative category: miscellaneous/general allocation; section subtotal) | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT127b\|HT127b]] |  | counted class, 72 |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT131a\|HT131a]] | kull | all, totality (subtotal marker) |  |
 

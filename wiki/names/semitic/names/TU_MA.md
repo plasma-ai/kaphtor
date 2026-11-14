@@ -32,7 +32,7 @@ updated: 2026-11-11T23:39:03Z
 | Reading's standing | CANDIDATE |
 | Standing as a personal name | CANDIDATE |
 | Standing of the layer | CANDIDATE (lexicon_reading) |
-| Source | di Mino; HALOT; Gelb 1980; GlOS 2 |
+| Source | di Mino; HALOT; Gelb 1980; GlOS 2; Benz 1972 |
 
 ## Note
 
@@ -47,6 +47,8 @@ Akkadian tuʾāmu, Aramaic tōmā (= Thomas). First in 5-person roster on HT94b 
 | Language | Comparison |
 |---|---|
 | Amorite | TU-MA-NU-UM tuʾmānum (Gelb 1980, no. 6114), TA-MI (no. 6028), fem. tu-a-ma-tum, 'twin' (GlOS 2, 290) |
+| Hebrew | tôʾămîm 'twins' (Gen 25:24; 38:27; HALOT 1694) |
+| Phoenician | TʾM 'Twin', a personal name (KAI 35:3; Benz 1972, 427) |
 
 ## Attestations
 

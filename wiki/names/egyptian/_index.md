@@ -19,11 +19,11 @@ updated: 2026-11-11T23:49:15Z
 <!-- BEGIN kaphtor:summary -->
 | Field | Value |
 |---|---|
-| Names | 13 |
-| Kinds | personal names 10, divine names 2, place name 1 |
+| Names | 11 |
+| Kinds | personal names 9, place name 1, divine name 1 |
 | Roots | 5 |
-| Sites | Haghia Triada 7, Zakros 5, Phaistos 2, Troullos 1 |
-| Standing | SPECULATIVE 10, CANDIDATE 2, PROBABLE 1 |
+| Sites | Haghia Triada 7, Zakros 4, Troullos 1, Phaistos 1 |
+| Standing | SPECULATIVE 8, CANDIDATE 2, PROBABLE 1 |
 
 ## Roots that carry more than one name
 

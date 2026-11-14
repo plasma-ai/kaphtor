@@ -34,7 +34,7 @@ updated: 2026-10-31T13:28:57Z
 | Geez | -ka, possessive, subject and object suffix 2 masc. sg.; -ki, 2 fem. sg. (LGz. 271) | LGz. 271 | gloss withheld |
 | Eblaitic | =ka, =k: -ga, -(V)g (Sanmartín GlOS 1, 292); =ki: -ki, -gi (Sanmartín GlOS 1, 292); =kum: -kum (Sanmartín GlOS 1, 292) | Sanmartín GlOS 1, 292 | gloss withheld |
 | Amorite | =ka: names la-ka-zu-bu-um, pu-ka-ᵈda-gan, i-la-la-ka, ya-ab-ni-ik-DINGIR (Sanmartín GlOS 1, 292); -k (fem.): Ni-iq-mu-uk (Huffmon APNM 218) | Sanmartín GlOS 1, 292; Huffmon APNM 218 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic k; k (Al-Jallad–Jaworska 89) | Al-Jallad–Jaworska 89 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic k; k (Al-Jallad–Jaworska 89); Taymanitic -k; Thamudic B -k; Dhofari -k (Al-Jallad 2026b, 14) | Al-Jallad–Jaworska 89; Al-Jallad 2026b 14 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

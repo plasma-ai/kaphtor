@@ -28,6 +28,6 @@ updated: 2026-11-11T23:39:03Z
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
 | [[wiki/names/semitic/names/DU_JA\|DU-JA]] | Ḏū-Ya | personal name, 'He of Ya' | 1 |
-| [[wiki/names/semitic/names/JA_star21F\|JA-\*21F]] | Yāh(a) | Yāh, divine name; deity receiving offerings alongside Baal on HT28b | 2 |
+| [[wiki/names/semitic/names/JA_star21F\|JA-\*21F]] | Yāh(a) | Yāh, divine name; deity receiving offerings alongside Baʿal on HT28b | 2 |
 
 <!-- END kaphtor:record -->

@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/inscriptions/MA/MAWc/MAWc_5
 title: "MAWc<5>"
-desc: "Roundel, Malia. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "roundel"]
+desc: "Roundel, Malia. Translation: complete (CANDIDATE)."
+tags: ["linear-a", "inscription", "translation-complete", "roundel"]
 kind: "inscription"
 id: "MAWc<5>"
 site: "Malia"
 support: "Roundel"
 period: ""
-translation: "none"
+translation: "complete"
 words: ["A-SA-DA-KA"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -48,6 +48,26 @@ Unicode (Linear A block):
 𐘇𐘞𐘀𐘾
 𐛴𐄊
 ```
+
+## Translation
+
+**CANDIDATE**, complete.
+
+> ʾAṣdaqa: grain (GRA+E) 4.
+
+| Word | Reading | Gloss | Confidence | Lexicon |
+|---|---|---|---|---|
+| [[wiki/linear-a/words/A/A_SA_DA_KA\|A-SA-DA-KA]] | ʾaṣdaqa | Most Righteous (PN) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/G/GRA\|GRA]] |  | dagān 'grain, cereal' | PROBABLE | PROBABLE (lexicon) |
+
+### Notes
+
+Face b: four unit strokes, whole. Face a: GORILA draws a dotted unit stroke after KA (II 88).
+
+### Source
+
+- di Mino: A-SA-DA-KA, GRA
+- GORILA: MAWc&lt;5&gt;
 
 ## Lexicon words citing this document
 

@@ -41,11 +41,19 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-KH 7a (Khania, LM IB): the heading over VIR+\*313b 10, men of the \*313b class, who draw ½ unit of CYP+D; each of the tablet's three sections draws CYP+D. ʾenāš 'men, people' (semitic_roots 4), E- the root's own initial, as JArm. ʔēnāš, SI writing the final š. Rival: naḥāši 'of copper' (semitic_roots 2745), the interior ḥ unwritten, as no \*314 sign occurs on any KH tablet: Emar naḫšu 'bronze(-vessel)', Amarna nuḫuštu (GlOS 2, 87); it leaves E- unexplained, since nəḥōšet and its cognates begin with n-. Weak point: the heading names the men VIR already counts. One witness.
+KH 7a (Khania, LM IB): the heading over VIR+\*313b 10, men of the \*313b class, who draw ½ unit of CYP+D; each of the tablet's three sections draws CYP+D. ʾenāš 'men, people' (semitic_roots 4), E- the root's own initial, as JArm. ʔēnāš and Ug. ỉnš 'people' (DULAT 81), ʾInāšu in Pardee's vocalisation (Pardee 2000, 969), SI writing the final š. Rival: naḥāši 'of copper' (semitic_roots 2745), the interior ḥ unwritten, as no \*314 sign occurs on any KH tablet: Emar naḫšu 'bronze(-vessel)', Amarna nuḫuštu (GlOS 2, 87); it leaves E- unexplained, since nəḥōšet and its cognates begin with n-. Weak point: the heading names the men VIR already counts. One witness.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Ugaritic | ỉnš 'people': ỉnš ỉlm 'divine people' (KTU 1.39:22), l ỉnšk 'your people' (KTU 2.81:7; DULAT 81); ʾInāšu (Pardee 2000, 969) |
+| Hebrew | ʾĕnôš 'the people' (HALOT 70) |
+| Sabaic | ʾns¹ 'man; male' (Beeston 1982, 6; Biella 1982, 23) |
 
 ### Source
 
-di Mino; GlOS 2
+di Mino; GlOS 2; DULAT; Pardee 2000; HALOT; Beeston 1982; Biella 1982
 
 ## Attestations
 

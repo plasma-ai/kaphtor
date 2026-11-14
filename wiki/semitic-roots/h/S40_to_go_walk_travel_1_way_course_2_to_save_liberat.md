@@ -31,7 +31,7 @@ updated: 2026-11-03T03:29:48Z
 |---|---|---|---|
 | Arabic | halaka (Lane 3044); salaka 1 (Al-Jallad 2026, 132) | Lane 3044; Al-Jallad 2026 132 | gloss withheld |
 | Geez | salaka 1 (LGz. 499) | LGz. 499 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic slk 1 (Al-Jallad 2026, 132); hlk; Taymanitic hlk (Al-Jallad 2026, 60) | Al-Jallad 2026 132; Al-Jallad 2026 60 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic slk 1 (Al-Jallad 2026, 132); hlk (Al-Jallad 2026, 60); Taymanitic hlk (Al-Jallad 2026b, 10) | Al-Jallad 2026 132; Al-Jallad 2026 60; Al-Jallad 2026b 10 | gloss withheld |
 | Akkadian | alāku (initial h- lost; CAD A/1 300); ilku; alaktu (CAD A/1 297) | CAD A/1 300; CAD A/1 297 | gloss withheld |
 | Ugaritic | hlk (DULAT 331); yhlk; hlk (denominative) | DULAT 331 | gloss withheld |
 | Hebrew | hālak; hălīkā (HALOT 246); mahalāk | HALOT 246 | gloss withheld |

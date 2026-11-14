@@ -49,6 +49,7 @@ ARKH Zf 9 (Arkhanes, a bronze votive object), word 2 of JA-KI-SI-KI-NU &lt;&gt; 
 |---|---|
 | Arabic | madarah (مَدَرَة) 'clod of dry earth, clay' (Lane 2700) |
 | Emar | ma-da-ri 'field', the etymon of Syriac mdr 'soil, dust' (Pentiuc 2001, 117; GlOS 2, 30) |
+| Geʿez | mədr 'earth, ground, soil' (LGz. 330) |
 
 ### Source
 

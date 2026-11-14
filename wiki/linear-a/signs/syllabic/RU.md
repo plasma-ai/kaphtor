@@ -63,6 +63,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/K/KO_RU\|KO-RU]] | kōr | SPECULATIVE |
 | [[wiki/linear-a/words/K/KU_RU_KU\|KU-RU-KU]] | kurkū | CANDIDATE |
 | [[wiki/linear-a/words/K/KU_RU_MA\|KU-RU-MA]] | kurma / gurma | PROBABLE |
+| [[wiki/linear-a/words/M/MA_plus_RU\|MA+RU]] | maru | PROBABLE |
 | [[wiki/linear-a/words/M/MA_RU\|MA-RU]] | Maruʾ | SPECULATIVE |
 | [[wiki/linear-a/words/M/MA_RU_ME\|MA-RU-ME]] | marūm | CANDIDATE |
 | [[wiki/linear-a/words/M/MI_plus_JA_plus_RU\|MI+JA+RU]] | murru | CANDIDATE |

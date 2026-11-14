@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/inscriptions/HT/HT/HT57a
 title: "HT57a"
-desc: "Tablet, Haghia Triada, LMIB. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "tablet"]
+desc: "Tablet, Haghia Triada, LMIB. Translation: incomplete (CANDIDATE)."
+tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
 kind: "inscription"
 id: "HT57a"
 site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
-translation: "none"
+translation: "incomplete"
 words: ["DA-QE-RA"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -56,6 +56,25 @@ Unicode (Linear A block):
 𐝫𐝄𐝫
 𐝫
 ```
+
+## Translation
+
+**CANDIDATE**, incomplete (status: incomplete).
+
+> The district of Qīr: 1. A ⅛ \[…\]
+
+| Word | Reading | Gloss | Confidence | Lexicon |
+|---|---|---|---|---|
+| [[wiki/linear-a/words/D/DA_QE_RA\|DA-QE-RA]] | ḏā-Qīra | the (district) of Qīr, the walled town | CANDIDATE | CANDIDATE (lexicon) |
+
+### Notes
+
+Broken at the right and below; the fraction's foot meets the lower fracture.
+
+### Source
+
+- di Mino: DA-QE-RA
+- GORILA: HT57a
 
 ## Lexicon words citing this document
 

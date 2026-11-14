@@ -49,6 +49,7 @@ HT 12 closes with DA-I 50 after OLE+DI 5, \*304 5, QA₂+\[?\]+PU 1, E 30, \*118
 |---|---|
 | Hebrew | \*day 'sufficiency, enough' (HALOT 219) |
 | Ugaritic | dy /dayyu/ 'sufficiency' (Huehnergard 2012, 145) |
+| Phoenician | d 'sufficiency': md (Tomback 1978, 69) |
 
 ### Source
 
@@ -59,12 +60,13 @@ di Mino; HALOT; Schoep 2002; Pope 1960
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT12\|HT12]] | Haghia Triada | Tablet | incomplete |
-| [[wiki/linear-a/inscriptions/KH/KH/KH13\|KH13]] | Khania | Tablet | none |
+| [[wiki/linear-a/inscriptions/KH/KH/KH13\|KH13]] | Khania | Tablet | incomplete |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT12\|HT12]] | dayu | total allocation, grand sum | CANDIDATE |
+| [[wiki/linear-a/inscriptions/KH/KH/KH13\|KH13]] | dayu | good, sufficient—commodity quality designation on oil/fat allocation tablets | CANDIDATE |
 
 <!-- END kaphtor:record -->

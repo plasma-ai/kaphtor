@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ẓ/634_think
 title: "*ṯ̣VnVn-: 'think'"
-desc: "Proto-Semitic *ṯ̣VnVn-, 'think': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ṯ̣VnVn-, 'think': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "634"
@@ -32,6 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ẓnn \[-u-\] |  |  |
 | Harsusi | ẓen |  |  |
+| Pre-Islamic North Arabian | Taymanitic ṣnl (Al-Jallad 2026b, 73) | Al-Jallad 2026b 73 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

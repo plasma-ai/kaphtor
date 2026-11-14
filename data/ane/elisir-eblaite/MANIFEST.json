@@ -1,0 +1,27 @@
+{
+  "generated_at": "2026-10-28T21:34:15+00:00",
+  "source_dir": "elisir-gitlab-44ca50fc",
+  "source_url": "https://gitlab.com/erica-scarpa/elisir",
+  "source_commit": "44ca50fccc542832fed4a69c9b13f22fe5078d42",
+  "source_sha256": {
+    "words.jsonld": "224a20b98fc226ba6995f84013112366df637000383f70102c675517d06f80cb",
+    "forms.jsonld": "48d5ef43800cbbb9cceea62f8f5218c695b6a201ee1f695b8663b04cc7643a57",
+    "senses.jsonld": "0724208eb3da4c157d8f4a851df1823e1551999bd35f40d595b086b96882040f",
+    "translations.jsonld": "ad51adb956e66822c0605242d2e2263b5119248af32d801defad5ea7da429512",
+    "roots.jsonld": "39012fe9ad5b1ac8a045785a4c42d1837d5b34452c1a105a3f788ca341cb2f81"
+  },
+  "related_doi": "10.5281/zenodo.17051643",
+  "lexical_entries": 45,
+  "indexed_lexical_entries": 37,
+  "draft_entries_not_indexed": 8,
+  "entries_with_root": 10,
+  "entries_with_attestations": 20,
+  "scope_note": "A growing release of selected entries, not a comprehensive Eblaite lexicon.",
+  "license": "CC BY 4.0",
+  "outputs": {
+    "records.jsonl": {
+      "rows": 37,
+      "sha256": "d6dd3954f2a6b8a36cbd95742f5c89d565e9f1e81b9529d10e72a601cd9d56d5"
+    }
+  }
+}

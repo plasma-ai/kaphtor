@@ -54,7 +54,7 @@ updated: 2026-11-04T22:32:52Z
 | Argobba | tänäffäsa 1 (LGz. 577) | LGz. 577 | gloss withheld |
 | Amorite | napśum 2 (Gelb AS 21, 26); napšu 2, napišu 2 (Buck 2019, 330); nap(a)S, nap(i)S 2: na-pí-zu-um, na-ap-si-i-la, na-ap-sa/ša-nu-um (Ur III) (Sanmartín GlOS 2, 98) | Gelb AS 21 26; Buck 2019, 330; Sanmartín GlOS 2, 98 | gloss withheld |
 | Punic | npš, nʾpš 2, 3 (T 218) | T 218 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic nfs 2 (Al-Jallad–Jaworska 103); nfs, nfst 3; ʾnfs, ʾfs 3; Dadanitic nfs 3; nfs 2; Hismaic nfs 2 (Al-Jallad 2026, 100) | Al-Jallad–Jaworska 103; Al-Jallad 2026 100 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic nfs 2 (Al-Jallad–Jaworska 103); nfs, nfst 3; ʾnfs, ʾfs 3; Dadanitic nfs 3; nfs 2; Hismaic nfs 2 (Al-Jallad 2026, 100); Taymanitic nfs 2 (Al-Jallad 2026b, 49) | Al-Jallad–Jaworska 103; Al-Jallad 2026 100; Al-Jallad 2026b 49 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "complete"
-words: ["*307", "A-DU", "A-DU *307+*307", "DA-RE", "DA-RI-DA", "DA-SI-*118", "KU-RO", "KU-ZU-NI", "PA₃-NI", "TE-KE", "U-*325-ZA", "VIR+[?]"]
+words: ["*307+*307", "A-DU", "A-DU *307+*307", "DA-RE", "DA-RI-DA", "DA-SI-*118", "KU-RO", "KU-ZU-NI", "PA₃-NI", "TE-KE", "U-*325-ZA", "VIR+[?]"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -69,25 +69,25 @@ Unicode (Linear A block):
 
 **CANDIDATE**, complete (status: complete).
 
-> Addu—sanctuary(?)—personnel: Dardaʿ 12; builders(?) 12; stall/storehouse 6; those of Acacia 24; Kuṯinu 5; Tegi 3; the estate 4. Total 66.
+> Work assignment · the sanctuaries · men: Dardaʿ 12; builders 12; the storehouse 6; those of Acacia 24; Kuṯinu 5; Tegi 3; the estate 4. Total 66.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/A/A_DU\|A-DU]] | ʾAddu | Storm god; rival adû 'work assignment' | CANDIDATE | CANDIDATE (lexicon) |
-| \*307+\*307 |  | sanctuary (doubled \*307, A 638) | PROBABLE |  |
-| [[wiki/linear-a/words/V/VIR_plus_q_broken_end\|VIR+&#91;?&#93;]] |  | men (personnel logogram) |  | PROBABLE (lexicon) |
+| [[wiki/linear-a/words/A/A_DU\|A-DU]] | adû | work assignment (heading); rival Addu's sanctuary (see A-DU \*307+\*307) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/star/star307_plus_star307\|\*307+\*307]] |  | the sanctuaries (\*307 doubled, A 638) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/V/VIR_plus_q_broken_end\|VIR+&#91;?&#93;]] |  | men (personnel logogram) | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/D/DA_RI_DA\|DA-RI-DA]] | Dardaʿ | personal name | SPECULATIVE | SPECULATIVE (lexicon) |
-| [[wiki/linear-a/words/P/PA3_NI\|PA₃-NI]] | bānī | builder(s) | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/U/U_star325_ZA\|U-\*325-ZA]] | ʾubūs | stall or storehouse (PS \*ʾabūs-), a standing unit like DA-RE | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/P/PA3_NI\|PA₃-NI]] | bānī | builders | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/U/U_star325_ZA\|U-\*325-ZA]] | ʾubūs | the storehouse (PS \*ʾabūs-), a standing unit like DA-RE | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/D/DA_SI_star118\|DA-SI-\*118]] | Ḏā-šiṭṭa | those of Acacia (a group of 24 men) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/K/KU_ZU_NI\|KU-ZU-NI]] | Kuṯinu | personal name, 5 personnel; Ugaritic Kušinu (kṯn) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/T/TE_KE\|TE-KE]] | Tegi | personal name; Hurrian tegi 'beautiful' (spelling of TE-KI) | SPECULATIVE | SPECULATIVE (lexicon) |
-| [[wiki/linear-a/words/D/DA_RE\|DA-RE]] | dār | estate, household | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/D/DA_RE\|DA-RE]] | dār | the estate, household | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/K/KU_RO\|KU-RO]] | kull | total | CONFIRMED | CONFIRMED (lexicon) |
 
 ### Notes
 
-Personnel roster associated with Addu; \*307+\*307 (A 638, \*307 written twice; GORILA I 131) may denote a sanctuary, but that interpretation remains provisional. Arithmetic exact: 12+12+6+24+5+3+4 = 66. PA₃-NI plausibly denotes builders; the remaining labels need not be personal names.
+A roster of 66 men under A-DU · the doubled \*307 · VIR, the heading of HT 97a (KA-RU · \*307+\*307 · VIR+KA 82); A-DU heads men again on HT 88 (VIR+KA 20). The seven entries sum exactly: 12+12+6+24+5+3+4 = 66. Hand 9 wrote this tablet and HT 122, found with it in room 7 of the Casa del Lebete; the two share DA-RI-DA, DA-SI-\*118, DA-RE and TE-KE/TE-KI, and HT 122's KU-DA 1 with KU-RO 65 makes the same 66 (Montecchi 2010, 22). KU-ZU-NI, TE-KI and DA-SI-\*118 stand together on HT 13, and DA-RE, U-\*325-ZA and DA-RI-DA on HT 10a: standing units, drawn on for men, wine and emmer. Ugarit closes its rosters the same way: tgmr bnš mlk 'sum total of the men of the king' (KTU 4.141 II 25; DULAT 848–849). On .5 the DA of DA-RE is dotted; KU-RO\[ is broken after RO, and a seventh stroke on .6 is a nail mark (GORILA I 130–31). Rival for A-DU: a place or person that sends and receives men and grain (Montecchi 2008, 319).
 
 ### Source
 
@@ -95,7 +95,7 @@ GORILA
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/star/star307|\*307]], [[wiki/linear-a/words/A/A_DU|A-DU]], [[wiki/linear-a/words/A/A_DU_star307_plus_star307|A-DU \*307+\*307]], [[wiki/linear-a/words/D/DA_RE|DA-RE]], [[wiki/linear-a/words/D/DA_RI_DA|DA-RI-DA]], [[wiki/linear-a/words/D/DA_SI_star118|DA-SI-\*118]], [[wiki/linear-a/words/K/KU_RO|KU-RO]], [[wiki/linear-a/words/K/KU_ZU_NI|KU-ZU-NI]], [[wiki/linear-a/words/P/PA3_NI|PA₃-NI]], [[wiki/linear-a/words/T/TE_KE|TE-KE]], [[wiki/linear-a/words/U/U_star325_ZA|U-\*325-ZA]], [[wiki/linear-a/words/V/VIR_plus_q_broken_end|VIR+&#91;?&#93;]].
+[[wiki/linear-a/words/star/star307_plus_star307|\*307+\*307]], [[wiki/linear-a/words/A/A_DU|A-DU]], [[wiki/linear-a/words/A/A_DU_star307_plus_star307|A-DU \*307+\*307]], [[wiki/linear-a/words/D/DA_RE|DA-RE]], [[wiki/linear-a/words/D/DA_RI_DA|DA-RI-DA]], [[wiki/linear-a/words/D/DA_SI_star118|DA-SI-\*118]], [[wiki/linear-a/words/K/KU_RO|KU-RO]], [[wiki/linear-a/words/K/KU_ZU_NI|KU-ZU-NI]], [[wiki/linear-a/words/P/PA3_NI|PA₃-NI]], [[wiki/linear-a/words/T/TE_KE|TE-KE]], [[wiki/linear-a/words/U/U_star325_ZA|U-\*325-ZA]], [[wiki/linear-a/words/V/VIR_plus_q_broken_end|VIR+&#91;?&#93;]].
 
 ## Corpus note
 

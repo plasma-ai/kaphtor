@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-IO Za 6, inside the undivided group I-NA-TA-I-ZU-DI-SI-KA, segmented after ZU-DI: the second member of ṯudī-šiqā 'Breast-Who-Gives-Drink'. √š-q-y 'give drink': the participle sāqiy 'waterer' (GlOS 2, 245), Ebla saqat 'libation' (GlOS 2, 246) and the Ebla name si-gi-da-mu 'give drink, Damu!' (Pagan 1998, row 4205). The same šiqā closes A-DA-KI-SI-KA (KH 5). Cf. administrative SI-KA (√š-k-n) on the HT nodules. Weak point: no divider stands before SI-KA. One attestation. See TE-SU-DE-SE-KE-I.
+IO Za 6, a small alabaster cup, inside the undivided group I-NA-TA-I-ZU-DI-SI-KA, segmented after ZU-DI: the second member of ṯudī-šiqā 'Breast-Who-Gives-Drink', an epithet that suits a cup for drink. √š-q-y 'give drink': the participle sāqiy 'waterer' (GlOS 2, 245), Ebla saqat 'libation' (GlOS 2, 246) and the Ebla name si-gi-da-mu 'give drink, Damu!' (Pagan 1998, row 4205). The same šiqā closes A-DA-KI-SI-KA (KH 5). Cf. administrative SI-KA (√š-k-n) on the HT nodules. Weak point: no divider stands before SI-KA. One attestation. See TE-SU-DE-SE-KE-I.
 
 ### Cognates
 

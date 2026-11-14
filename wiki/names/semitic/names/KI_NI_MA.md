@@ -32,7 +32,7 @@ updated: 2026-11-11T23:39:03Z
 | Reading's standing | CANDIDATE |
 | Standing as a title | CANDIDATE |
 | Standing of the layer | CANDIDATE (lexicon_reading) |
-| Source | di Mino; GlOS 1; HALOT; Huehnergard 2012; DULAT; Lane; Tomback 1978 |
+| Source | di Mino; GlOS 1; HALOT; Huehnergard 2012; DULAT; Lane; Tomback 1978; DNWSI |
 
 ## Note
 
@@ -47,6 +47,8 @@ Priests (plural + mimation).
 | Language | Comparison |
 |---|---|
 | Ugaritic | khn 'priest', pl. khnm (GlOS 1, 302) |
+| Hebrew | kōhēn 'priest', pl. kōhănîm (HALOT 461) |
+| Phoenician | khn 'priest', khnt 'priestess': khn bʿlt (KAI 11), khnt ʿštrt (KAI 14:15; DNWSI 490) |
 
 ## Attestations
 

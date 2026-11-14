@@ -3,7 +3,7 @@ name: wiki/names/hurrian/names
 title: "Hurrian names"
 desc: "The Hurrian names, one page each."
 created: 2026-11-11T23:39:03Z
-updated: 2026-11-12T22:33:33Z
+updated: 2026-11-16T19:24:13Z
 ---
 
 # Hurrian names
@@ -33,6 +33,10 @@ updated: 2026-11-12T22:33:33Z
 [[wiki/names/hurrian/names/DI_KI_SE|DI_KI_SE]]: Dikise: Dikise, personal name, Hurrian tagiše 'beauty'. Hurrian, CANDIDATE.
 
 [[wiki/names/hurrian/names/I_PA_SA_JA|I_PA_SA_JA]]: Ipšaja: Ipšaja (personal name; Hurrian hypocoristic). Hurrian, SPECULATIVE.
+
+[[wiki/names/hurrian/names/KA_KI|KA_KI]]: Kakki: Kakki (Hurrian personal name). Hurrian, SPECULATIVE.
+
+[[wiki/names/hurrian/names/KA_QA|KA_QA]]: Kakka: Kakka (Hurrian woman's name). Hurrian, SPECULATIVE.
 
 [[wiki/names/hurrian/names/KA_U_DE_TA|KA_U_DE_TA]]: Kaw-tatta: Kaw-tatta (Hurrian personal name), kaw- + tatt- 'love'; rival Ugaritic PN kwt. Hurrian, SPECULATIVE.
 
@@ -64,7 +68,9 @@ updated: 2026-11-12T22:33:33Z
 
 [[wiki/names/hurrian/names/TA2_TI_TE|TA2_TI_TE]]: Tati-te: Tati-te, '(Teššup) loved' (Hurrian personal name, hypocoristic). Hurrian, SPECULATIVE.
 
-[[wiki/names/hurrian/names/TA_RI_NA|TA_RI_NA]]: Tarinna: Tarinna (Hurrian personal name), stem tarinn-; rival trn 'mast'. Hurrian, SPECULATIVE.
+[[wiki/names/hurrian/names/TA_I|TA_I]]: Taḫe: Taḫe 'Man' (Hurrian personal name). Hurrian, CANDIDATE.
+
+[[wiki/names/hurrian/names/TA_RI_NA|TA_RI_NA]]: Tarinna: Tarinna (Hurrian personal name), stem tarinn-; rivals trn 'mast' and the name trn 'Bearded'. Hurrian, SPECULATIVE.
 
 [[wiki/names/hurrian/names/TA_TA|TA_TA]]: Tatta: Tatta (Hurrian personal name), stem tatt-; rival the Anatolian name Tata. Hurrian, SPECULATIVE.
 

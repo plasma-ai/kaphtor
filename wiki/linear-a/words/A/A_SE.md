@@ -59,16 +59,18 @@ di Mino; GlOS 1; DNWSI; HALOT
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT81\|HT81]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT81\|HT81]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT93a\|HT93a]] | Haghia Triada | Tablet | incomplete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT132\|HT132]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT132\|HT132]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/ZA/ZAZb/ZAZb3\|ZAZb3]] | Zakros | Clay vessel | complete |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT81\|HT81]] | ʾāsē | physician, healer | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT93a\|HT93a]] | ʾāsē | physician (recipient) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT132\|HT132]] | ʾāsē | physician, healer | CANDIDATE |
 | [[wiki/linear-a/inscriptions/ZA/ZAZb/ZAZb3\|ZAZb3]] | ʾāsē | the Physician (title of Eshmun) | CANDIDATE |
 
 ## Onomasticon

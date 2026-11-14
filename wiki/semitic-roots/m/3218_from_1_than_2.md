@@ -43,7 +43,7 @@ updated: 2026-10-26T14:26:59Z
 | Biblical Aramaic | min 1, 2 (HALOT 597) | HALOT 597 | gloss withheld |
 | Mandaic Aramaic | mn (LGz. 25) | LGz. 25 | gloss withheld |
 | Tigre | mən (LGz. 25) | LGz. 25 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic m(n), mn 1; Dadanitic mn; Hismaic m(n) (Al-Jallad–Jaworska 101) | Al-Jallad–Jaworska 101 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic m(n), mn 1; Dadanitic mn; Hismaic m(n) (Al-Jallad–Jaworska 101); Taymanitic m(n) 1; Dumaitic m-; Thamudic B m-; Thamudic D m- (Al-Jallad 2026b, 15) | Al-Jallad–Jaworska 101; Al-Jallad 2026b 15 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -51,7 +51,7 @@ updated: 2026-10-22T17:38:31Z
 | Punic | qbr, Neo-Punic qybr (Krahmalkov 423); qbr, qybr; qbr, qbʾr, qbʿr (T 283) | Krahmalkov 423; T 283 | gloss withheld |
 | Mehri | ḳəbūr (Kogan 2011, 232) | Kogan 2011 232 | gloss withheld |
 | Jibbali | ḳɔ̄r (Kogan 2011, 232) | Kogan 2011 232 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic qbr (Al-Jallad–Jaworska 109); qbr; Dadanitic qbr; Hasaitic qbr (Al-Jallad 2026, 110) | Al-Jallad–Jaworska 109; Al-Jallad 2026 110 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic qbr (Al-Jallad–Jaworska 109); qbr; Dadanitic qbr; Hasaitic qbr (Al-Jallad 2026, 110); Taymanitic ys³ʿqbr (Al-Jallad 2026b, 78) | Al-Jallad–Jaworska 109; Al-Jallad 2026 110; Al-Jallad 2026b 78 | gloss withheld |
 | Eblaitic | /q-b-r/: da-ga-bir₅, inf. ga-ba-ri-iš (Sanmartín GlOS 1, 339) | Sanmartín GlOS 1, 339 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

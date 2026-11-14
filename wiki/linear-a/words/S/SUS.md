@@ -10,7 +10,7 @@ tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.4
 reading: "(logogram)"
-attestations: ["HT118"]
+attestations: ["HT118", "HT38"]
 created: 2026-11-12T00:26:03Z
 updated: 2026-11-12T00:26:03Z
 ---
@@ -46,21 +46,25 @@ HT 118 opens SUS · \*516 ·, the pig sign and the account sign as its heading, 
 | Language | Comparison |
 |---|---|
 | Hebrew | ḥăzîr 'swine, boar' (HALOT 302) |
+| Punic | ʿNZR '(wild) pig', a personal name, three examples at Constantine (Benz 1972, 381) |
 
 ### Source
 
-di Mino; HALOT; Peruzzi 1958
+di Mino; HALOT; Peruzzi 1958; Benz 1972
 
 ## Attestations
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT118\|HT118]] | Haghia Triada | Tablet | complete |
+| [[wiki/linear-a/inscriptions/HT/HT/HT38\|HT38]] | Haghia Triada | Tablet | complete; form not in transliteration |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT118\|HT118]] | logogram | swine, pigs | CANDIDATE |
+| [[wiki/linear-a/inscriptions/PH/PH/PH_q_31a\|PH(?)31a]] |  | pig (livestock logogram) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/PH/PH/PH_q_31b\|PH(?)31b]] |  | pig (livestock logogram) | CANDIDATE |
 
 <!-- END kaphtor:record -->

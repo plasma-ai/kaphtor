@@ -49,6 +49,7 @@ HT 117a MI-RU-TA-RA-RE 1, intact, in the roster under MA-KA-RI-TE · KI-RO, betw
 |---|---|
 | Akkadian | mīru A 'young bull', mīrtu 'cow' (CAD M/2 109); darāru A 'become free, move about freely, run off' (CAD D 109); andurārum 'freedom, manumission' (Huehnergard 1997, glossary) |
 | Hebrew | mərîʾ (מְרִיא) 'fatted steer' (HALOT 635); dərôr (דְּרוֹר) 'freedom' (HALOT 230); mor-dərôr (מׇר־דְּרוֹר) 'flowing myrrh' (Exod 30:23) |
+| Ugaritic | mru 'fat cattle' (DULAT 563) |
 
 ### Source
 

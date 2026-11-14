@@ -37,7 +37,7 @@ updated: 2026-10-25T05:11:48Z
 | Epigraphic South Arabian | Sab -hw (suffix, 3 sg. m., also f. and common gender) (Biella 105) | Biella 105 | gloss withheld |
 | Arabic | -hu 'him' (acc. suffix); lahu 'to him' (BK 2 1454) | BK 2 1454 |  |
 | Ugaritic | -h /-hū/ (UVST 120) | UVST 120 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic h; Dadanitic -h; Hismaic -h; Qaryat al-Fāw -h, -hw (Al-Jallad–Jaworska 76) | Al-Jallad–Jaworska 76 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic h; Dadanitic -h; Hismaic -h; Qaryat al-Fāw -h, -hw (Al-Jallad–Jaworska 76); Taymanitic -h; Dumaitic -h; Hasaitic -h; Thamudic B -h; Dhofari -h (Al-Jallad 2026b, 11) | Al-Jallad–Jaworska 76; Al-Jallad 2026b 11 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

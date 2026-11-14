@@ -58,5 +58,6 @@ di Mino
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3014\|HTWc3014]] | (logogram) | goat (livestock logogram) | CANDIDATE |
 | [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2063\|KHWc2063]] | (logogram) | goat (conventional CAPER ideogram) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/PH/PH/PH_q_31a\|PH(?)31a]] |  | goat (livestock logogram) | CANDIDATE |
 
 <!-- END kaphtor:record -->

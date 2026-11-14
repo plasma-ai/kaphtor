@@ -66,6 +66,13 @@ VIEW_NOTATION: dict[str, dict] = {
               "alphabet": "-bdfhklmnqrstwyzġšǧʔʿḍḏḥḫṣṭṯẓ"},
     "epi": {"paths": ("EPIGRAPHY",), "aleph": ("ʾ",), "ayin": ("ʿ",), "schemes": (DIGIT,),
             "shape": ("bare",), "alphabet": "123bdfghklmnqrstwyzġśšʾʿḍḏḥḫṣṭṯẓ"},
+    # DIANA's headwords, root headings and printed variants (Al-Jallad 2026): s¹ s² are printed s ś.
+    "diana": {"paths": ("DIANA",), "aleph": ("ʾ",), "ayin": ("ʿ",), "schemes": ({"s1": "s", "s2": "ś", "s3": "s"},),
+              "shape": ("bare",), "alphabet": "bdfghklmnqrstwyzġśʾʿḍḏḥḫṣṭṯẓ"},
+    # DIANA II's headwords, root headings and grouped forms (Al-Jallad 2026b): the sibilants are printed s¹ s² s³.
+    "diana2": {"paths": ("DIANA2",), "aleph": ("ʾ",), "ayin": ("ʿ",),
+               "schemes": ({"s1": "s¹", "s2": "s²", "s3": "s³"},),
+               "shape": ("bare",), "alphabet": "bdfghklmnqrstwyz²³¹ġʾʿḍḥḫṣṭẓ"},   # ẓ: the key qrẓ of qrṣ/ṣ
     # The views below search a field other than match_keys, by equality or as a substring.
     # OSHB words: a pointed query is matched to the unpointed consonantal field.
     "hebrew": {"paths": ("HEBREW_WORDS",), "field": "consonantal_joined", "aleph": ("ʾ",), "ayin": ("ʿ",),

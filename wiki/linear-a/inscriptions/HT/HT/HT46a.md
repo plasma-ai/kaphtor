@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/inscriptions/HT/HT/HT46a
 title: "HT46a"
-desc: "Tablet, Haghia Triada, LMIB. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "tablet"]
+desc: "Tablet, Haghia Triada, LMIB. Translation: incomplete (CANDIDATE)."
+tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
 kind: "inscription"
 id: "HT46a"
 site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
-translation: "none"
+translation: "incomplete"
 words: ["KU-RO", "MU-RU"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -51,6 +51,26 @@ Unicode (Linear A block):
 𐝫𐘕𐘘𐄇𐝫
 𐝫𐙂𐘁𐄓𐄉𐝆
 ```
+
+## Translation
+
+**CANDIDATE**, incomplete (status: incomplete).
+
+> \[…\] Young bull 1. Total 43½.
+
+| Word | Reading | Gloss | Confidence | Lexicon |
+|---|---|---|---|---|
+| [[wiki/linear-a/words/M/MU_RU\|MU-RU]] | mūru | young bull, young animal | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/K/KU_RO\|KU-RO]] | kull | total, sum (accounting term) | CONFIRMED | CONFIRMED (lexicon) |
+
+### Notes
+
+Broken above and at the right; the ½ stands beside the break.
+
+### Source
+
+- di Mino: MU-RU, KU-RO
+- GORILA: HT46a
 
 ## Lexicon words citing this document
 

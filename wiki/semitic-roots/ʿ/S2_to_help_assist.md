@@ -41,7 +41,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | azāru (CAD A/2 527) | CAD A/2 527 | gloss withheld |
 | Eblaitic | /ʿaḏr, ʿadr, ʿiḏr, ʿidr/: name iš₁₁-rí-mu-ud (Sanmartín GlOS 1, 71) | Sanmartín GlOS 1, 71 | gloss withheld |
 | Epigraphic South Arabian | Sab ʿḏrn (inf.); stʿḏrthw; ʿḏr(m), ʾʿḏr (Biella 355) | Biella 355 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ʿḏr (Al-Jallad 2026, 12) | Al-Jallad 2026 12 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʿḏr (Al-Jallad 2026, 12); Taymanitic ʿzr (Al-Jallad 2026b, 34); ʿzrʾl (Al-Jallad 2026b, 71); yʿzrl; yʿzryl (Al-Jallad 2026b, 73); ṣmʿzr (Al-Jallad 2026b, 76) | Al-Jallad 2026 12; Al-Jallad 2026b 34; Al-Jallad 2026b 71; Al-Jallad 2026b 73; Al-Jallad 2026b 76 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

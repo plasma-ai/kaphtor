@@ -23,7 +23,7 @@ updated: 2026-10-24T16:17:50Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Signs.** \*333 · [[wiki/linear-a/signs/syllabic/SA|SA]] · [[wiki/linear-a/signs/syllabic/MU|MU]]
+**Signs.** [[wiki/linear-a/signs/syllabic/star333|\*333]] · [[wiki/linear-a/signs/syllabic/SA|SA]] · [[wiki/linear-a/signs/syllabic/MU|MU]]
 
 ## Lexicon
 
@@ -49,6 +49,7 @@ MO Zf 1, a lead weight from Mokhlos (HM 83; Olivier 1989, 137–139), the word a
 |---|---|
 | Hebrew | bōśem 'perfume, spice' (HALOT 163); Bāśĕmat (Gen 26:34) |
 | Arabic | bašām 'balsam tree' (Lane 209) |
+| Taymanitic | bśm 'Balsam, fragrance' (Al-Jallad 2026b, 35) |
 
 ### Source
 
@@ -58,7 +59,7 @@ di Mino; Olivier 1989; HALOT; Lane
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/MO/MOZf/MOZf1\|MOZf1]] | Mokhlos | Metal object | complete |
+| [[wiki/linear-a/inscriptions/MO/MOZf/MOZf1\|MOZf1]] | Mokhlos | Lead weight (HM 83) | complete |
 
 ## In translations
 

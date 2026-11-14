@@ -47,6 +47,8 @@ Retained candidate Dawmi, 'the enduring one.' The reading depends on syllabic \*
 | Language | Comparison |
 |---|---|
 | Arabic | dāma, inf. n. dawm 'it continued, lasted, endured' (Lane 935) |
+| Safaitic | dmt, the oasis Dūmat al-Ǧandal, root dwm (Al-Jallad 2026, 179) |
+| Sabaic | dwm 'lasting, permanent' (Biella 81) |
 
 ## Attestations
 

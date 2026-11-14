@@ -1,0 +1,358 @@
+{
+ "schema_version": "1.0",
+ "dataset": "Divine names as elements of Palmyrene personal names: the written forms to search for, each with the page that prints it",
+ "license": "CC BY 4.0",
+ "attribution": "di Mino",
+ "notes": {
+  "what_this_is": "A hand-made search table. A form here is a divine name as a source prints it; finding it inside a personal name is a substring match and a lead, never an analysis of the name.",
+  "bl_rule": "This project's rule, not a source's: a name written with bl is a candidate for Bēl and for Bôl alike, because Du Mesnil du Buisson reads BL as Bôl in ʾGN BL WBL ʿSTR, « Assemblée de Bêl et de Bôl-ʿAstar » (1960, p. 153). A Greek -βωλ- or -βηλ- for the same name on the same inscription decides between them.",
+  "notation": "aramaic forms in ʾ ʿ transliteration, lower case; greek forms without accents or case; vocalised forms as Public Inscriptions from Palmyra spells them, compared without accents or case.",
+  "sources": {
+   "yon": "Yon 2012, IGLS XVII/1: Index 1, pp. 424-425 (gods, Greek and Aramaic forms); Index 4, p. 457 (gods, Aramaic); names, pp. 454-456.",
+   "dumesnil": "Du Mesnil du Buisson 1960, RHR 158/2.",
+   "dataset": "Raja, Steding, Yon and Romanowska, Public Inscriptions from Palmyra (CC BY 4.0): the Gods column and the names."
+  }
+ },
+ "elements": [
+  {
+   "id": "bel",
+   "deity": "Bēl",
+   "aramaic": [
+    {
+     "form": "bl",
+     "source": "Yon 2012, p. 457 (bl 6, 12, 16, 21, 24, 149)"
+    }
+   ],
+   "greek": [
+    {
+     "form": "βηλ",
+     "source": "Yon 2012, p. 424 (μεγίστου θεοῦ Βηλου); Du Mesnil 1960, p. 149 (Βήλ)"
+    }
+   ],
+   "vocalised": [
+    {
+     "form": "bel",
+     "source": "dataset: Bêl, Nûrbel, Elahbel, Yedîʿbel"
+    }
+   ],
+   "shares_spelling_with": [
+    "bol"
+   ]
+  },
+  {
+   "id": "bol",
+   "deity": "Bôl",
+   "aramaic": [
+    {
+     "form": "bwl",
+     "source": "Du Mesnil 1960, p. 149 (son nom, BWL); Yon 2012, pp. 454-456 (bwlḥ’, bwlḥzy, zbdbwl, rpbwl)"
+    },
+    {
+     "form": "bl",
+     "ambiguous": true,
+     "source": "Du Mesnil 1960, p. 153 (ʾGN BL WBL ʿSTR, the second BL read Bôl); see notes.bl_rule"
+    }
+   ],
+   "greek": [
+    {
+     "form": "βωλ",
+     "source": "Yon 2012, p. 424 (Γαδσαμα Βωλῳ, no. 319); pp. 431-432 (Βωλαζαιος, Βωλανος, Ζαβδιβωλος)"
+    }
+   ],
+   "vocalised": [
+    {
+     "form": "bol",
+     "source": "dataset: Zabdibôl, Refabôl, Bôlḥâ, Bolḥazai (ô and o both occur)"
+    }
+   ],
+   "shares_spelling_with": [
+    "bel"
+   ]
+  },
+  {
+   "id": "yarhibol",
+   "deity": "Yarḥibôl",
+   "built_on": "bol",
+   "aramaic": [
+    {
+     "form": "yrḥbwl",
+     "source": "Yon 2012, p. 457 (yrḥbwl 53)"
+    }
+   ],
+   "greek": [
+    {
+     "form": "ιαριβωλ",
+     "source": "Yon 2012, p. 425 (ὑπὸ θεοῦ Ιαριβωλου)"
+    }
+   ],
+   "vocalised": [
+    {
+     "form": "yarḥibol",
+     "source": "dataset: Yarḥibôl, Yarḥibôlâ"
+    },
+    {
+     "form": "yarhibol",
+     "source": "dataset: Yarhibôl"
+    },
+    {
+     "form": "iarhibol",
+     "source": "dataset: Iarhibôl"
+    }
+   ]
+  },
+  {
+   "id": "aglibol",
+   "deity": "ʿAglibôl",
+   "built_on": "bol",
+   "aramaic": [
+    {
+     "form": "ʿglbwl",
+     "source": "Yon 2012, p. 457 (‘glbwl 123, 125, 264)"
+    }
+   ],
+   "greek": [
+    {
+     "form": "αγλιβωλ",
+     "source": "Yon 2012, p. 424 (Αγλιβωλου)"
+    },
+    {
+     "form": "αγιλβωλ",
+     "source": "Yon 2012, p. 424 (Αγιλβωλου 125, 312)"
+    }
+   ],
+   "vocalised": [
+    {
+     "form": "aglibol",
+     "source": "dataset: ʿAglibôl, Aglibôl"
+    }
+   ]
+  },
+  {
+   "id": "malakbel",
+   "deity": "Malakbēl",
+   "built_on": "bel",
+   "aramaic": [
+    {
+     "form": "mlkbl",
+     "source": "Yon 2012, p. 457 (mlkbl [123], 125, 264, 306, 320)"
+    }
+   ],
+   "greek": [
+    {
+     "form": "μαλαχβηλ",
+     "source": "Yon 2012, p. 424 ([Μα]λαχβηλῳ, no. 306)"
+    },
+    {
+     "form": "μαλαχιβηλ",
+     "source": "Yon 2012, p. 425 (Μαλαχιβηλου, no. 312)"
+    }
+   ],
+   "vocalised": [
+    {
+     "form": "malakbel",
+     "source": "dataset: Malakbêl, Malakbel"
+    },
+    {
+     "form": "malkbel",
+     "source": "dataset: Malkbêl (?)"
+    }
+   ]
+  },
+  {
+   "id": "baalshamin",
+   "deity": "Baalshamin",
+   "aramaic": [
+    {
+     "form": "bʿlšmn",
+     "source": "Yon 2012, p. 457 (b‘lšmn 145, 148, [150], 324, 350 ?)"
+    }
+   ],
+   "greek": [],
+   "vocalised": [
+    {
+     "form": "baalshamin",
+     "source": "dataset: Baalshamin, Baalshamîn"
+    }
+   ]
+  },
+  {
+   "id": "allat",
+   "deity": "Allat",
+   "aramaic": [
+    {
+     "form": "ʾlt",
+     "source": "Yon 2012, p. 457 (’lt 124, 127, [135])"
+    },
+    {
+     "form": "lt",
+     "position": "final",
+     "source": "Yon 2012, pp. 454-457, names: ‘bdlt, šlmlt, whblt, nṣrlt"
+    }
+   ],
+   "greek": [
+    {
+     "form": "αλλαθ",
+     "source": "Yon 2012, p. 424 (Αλλαθῃ, no. 134)"
+    }
+   ],
+   "vocalised": [
+    {
+     "form": "allat",
+     "source": "dataset: Allat, Allât"
+    }
+   ]
+  },
+  {
+   "id": "arsu",
+   "deity": "ʾArṣû",
+   "aramaic": [
+    {
+     "form": "ʾrṣw",
+     "source": "Yon 2012, p. 457 (’rṣw [80], 127, 150)"
+    },
+    {
+     "form": "rṣw",
+     "position": "final",
+     "source": "Yon 2012, pp. 454-457, names: gdrṣw, tymrṣw"
+    }
+   ],
+   "greek": [],
+   "vocalised": [
+    {
+     "form": "arsu",
+     "source": "dataset: Arsû, ʿArṣû"
+    },
+    {
+     "form": "arzu",
+     "source": "dataset: Arzû"
+    },
+    {
+     "form": "arṣo",
+     "source": "dataset: Arṣô"
+    }
+   ]
+  },
+  {
+   "id": "nabu",
+   "deity": "Nabû",
+   "aramaic": [
+    {
+     "form": "nbw",
+     "source": "Yon 2012, p. 456, names: nbwz’, nbwzbd, nbwl’, nbwmy"
+    }
+   ],
+   "greek": [],
+   "vocalised": [
+    {
+     "form": "nabu",
+     "source": "dataset: Nabu"
+    },
+    {
+     "form": "nebu",
+     "source": "Du Mesnil 1960, p. 149 (Nébô, his French form)"
+    }
+   ]
+  },
+  {
+   "id": "shamash",
+   "deity": "Shamash",
+   "aramaic": [
+    {
+     "form": "šmš",
+     "source": "Yon 2012, p. 457 (šmš 114, 320)"
+    }
+   ],
+   "greek": [
+    {
+     "form": "σαμσ",
+     "source": "Yon 2012, pp. 430-436, names: Αμρισαμσος, Θαιμισαμσος, Λισαμσος, Σαμσιγεραμος"
+    }
+   ],
+   "vocalised": [
+    {
+     "form": "shamash",
+     "source": "dataset: Shamash"
+    },
+    {
+     "form": "šams",
+     "source": "dataset: Šams"
+    }
+   ]
+  },
+  {
+   "id": "ate",
+   "deity": "ʿAtē",
+   "aramaic": [
+    {
+     "form": "ʿth",
+     "source": "Du Mesnil 1960, p. 152 (ʿth); Yon 2012, pp. 454-456, names: zbd‘th, ‘bd‘th, br‘th"
+    },
+    {
+     "form": "ʿtʾ",
+     "source": "Du Mesnil 1960, p. 152 (ʿtʾ); Yon 2012, p. 455, name: zbd‘t’"
+    },
+    {
+     "form": "ʿt",
+     "position": "initial",
+     "source": "Yon 2012, p. 456, names: ‘tzbd, ‘tnwry, ‘tntn, ‘t‘qb"
+    }
+   ],
+   "greek": [
+    {
+     "form": "αθη",
+     "source": "Yon 2012, pp. 430-432, names: Αθηακαβος, Αθηναθανος, Ζαβδααθης"
+    }
+   ],
+   "vocalised": []
+  },
+  {
+   "id": "atargatis",
+   "deity": "Atargatis",
+   "built_on": "ate",
+   "aramaic": [
+    {
+     "form": "ʿtrʿth",
+     "source": "Yon 2012, p. 457 (‘tr‘th 127, [150], 306)"
+    }
+   ],
+   "greek": [
+    {
+     "form": "αταργατ",
+     "source": "Yon 2012, p. 424 (ἐν ἱερῷ Ἀταργάτειος)"
+    },
+    {
+     "form": "ατεργατ",
+     "source": "Yon 2012, p. 424 ([Ατε]ργάτει, no. 306)"
+    }
+   ],
+   "vocalised": [
+    {
+     "form": "atargatis",
+     "source": "dataset: Atargatis"
+    }
+   ]
+  },
+  {
+   "id": "gad",
+   "deity": "Gad",
+   "aramaic": [
+    {
+     "form": "gd",
+     "source": "Yon 2012, p. 457 (gd tymy 306)"
+    }
+   ],
+   "greek": [
+    {
+     "form": "γαδ",
+     "source": "Yon 2012, p. 424 (Γαδσαμα, no. 319)"
+    }
+   ],
+   "vocalised": [
+    {
+     "form": "gad",
+     "source": "dataset: Gad, Gad (good fortune)"
+    }
+   ]
+  }
+ ]
+}

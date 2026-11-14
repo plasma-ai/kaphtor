@@ -49,6 +49,7 @@ HT 122b: PO-TO-KU-RO 97 follows KU-RO 65, a grand total over the subtotal, summe
 |---|---|
 | Hebrew | בַּת כֹּל bat kol 'daughter of all', Gordon's reconstruction in Hebrew script (Gordon 1966 §118); Hebrew bat 'daughter', kōl 'all' |
 | Akkadian | kullatu 'all, totality' (CAD K 504) |
+| Phoenician | bt 'daughter' (Tomback 1978, 60); kl 'all' (Krahmalkov 226) |
 
 ### Source
 

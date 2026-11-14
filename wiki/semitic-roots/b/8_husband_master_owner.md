@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/8_husband_master_owner
 title: "*baʕl-: 'husband, master, owner'"
-desc: "Proto-Semitic *baʕl-, 'husband, master, owner': reflexes in 26 language(s)."
+desc: "Proto-Semitic *baʕl-, 'husband, master, owner': reflexes in 27 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "8"
@@ -56,6 +56,7 @@ updated: 2026-10-22T17:38:31Z
 | Canaanite | baḫlu; balu (HALOT 142) | HALOT 142 |  |
 | Mandaic Aramaic | bil (LGz. 84; MD 60) | LGz. 84; MD 60 | gloss withheld |
 | Eblaitic | ba-lu /baʕlu/, in ba-lu da-a-tim (VE 1245; Krebernik 1983, 42); DN element ba-al: names en-na-ba-al, wa-a-ga-ba-al (Antalík 1998, 38) | VE 1245; Krebernik 1983, 42; Antalík 1998, 38 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic bʿl (a deity) (Al-Jallad 2026, 186); bʿlsmn, bʿlsmy, bʾlsmn, the storm god Baʿal-Samīn (Al-Jallad 2026, 186) | Al-Jallad 2026 186 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

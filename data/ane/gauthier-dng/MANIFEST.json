@@ -21,10 +21,12 @@
       "halves": 219,
       "halves_indent_from_volume": 1,
       "edge_strays_dropped": 43,
-      "entries": 1461,
+      "entries": 1454,
       "margin_rows_read_as_prose": 163,
       "held_strays_continuing": 43,
-      "headings": 1
+      "headings": 1,
+      "entries_rejoined": 6,
+      "head_rows_rejoined": 1
     },
     "t2": {
       "file": "gauthier-1925-dictionnaire-noms-geographiques-tome-2-archive.pdf",
@@ -42,11 +44,13 @@
       "halves": 173,
       "halves_indent_from_volume": 4,
       "edge_strays_dropped": 64,
-      "entries": 1055,
+      "entries": 1047,
       "rows_before_first_entry": 4,
-      "margin_rows_read_as_prose": 149,
+      "margin_rows_read_as_prose": 150,
       "held_strays_continuing": 42,
-      "headings": 2
+      "headings": 2,
+      "entries_rejoined": 7,
+      "head_rows_rejoined": 1
     },
     "t3": {
       "file": "gauthier-1926-dictionnaire-noms-geographiques-tome-3-archive.pdf",
@@ -64,10 +68,12 @@
       "halves": 155,
       "halves_indent_from_volume": 0,
       "edge_strays_dropped": 136,
-      "entries": 1022,
-      "margin_rows_read_as_prose": 123,
+      "entries": 1007,
+      "margin_rows_read_as_prose": 125,
       "held_strays_continuing": 45,
-      "headings": 4
+      "headings": 4,
+      "entries_rejoined": 12,
+      "head_rows_rejoined": 2
     },
     "t4": {
       "file": "gauthier-1927-dictionnaire-noms-geographiques-tome-4-archive.pdf",
@@ -85,11 +91,13 @@
       "halves": 226,
       "halves_indent_from_volume": 1,
       "edge_strays_dropped": 110,
-      "entries": 1477,
+      "entries": 1469,
       "rows_before_first_entry": 1,
       "held_strays_continuing": 38,
       "margin_rows_read_as_prose": 136,
-      "headings": 5
+      "headings": 5,
+      "entries_rejoined": 6,
+      "head_rows_rejoined": 2
     },
     "t5": {
       "file": "gauthier-1928-dictionnaire-noms-geographiques-tome-5-archive.pdf",
@@ -107,10 +115,12 @@
       "halves": 235,
       "halves_indent_from_volume": 0,
       "edge_strays_dropped": 219,
-      "entries": 1470,
-      "margin_rows_read_as_prose": 195,
+      "entries": 1464,
+      "margin_rows_read_as_prose": 197,
       "held_strays_continuing": 82,
-      "headings": 6
+      "headings": 6,
+      "head_rows_rejoined": 2,
+      "entries_rejoined": 4
     },
     "t6": {
       "file": "gauthier-1929-dictionnaire-noms-geographiques-tome-6-archive.pdf",
@@ -128,10 +138,12 @@
       "halves": 157,
       "halves_indent_from_volume": 1,
       "edge_strays_dropped": 17,
-      "entries": 1012,
+      "entries": 1002,
       "margin_rows_read_as_prose": 128,
       "held_strays_continuing": 22,
-      "headings": 6
+      "headings": 6,
+      "head_rows_rejoined": 3,
+      "entries_rejoined": 9
     },
     "overrides": {
       "file": "overrides.json",
@@ -141,8 +153,8 @@
   },
   "identity_rule": "gauthier:t<volume>:p<printed page>:<n>, n the entry's place among the entries that open on that page (an entry runs on to later pages under the page it opens on; page_end gives the last). A rebuild that drops an id is refused unless --allow-drop names it (or is given bare, for every id); one that gives an id another kind or transcription is refused unless --allow-remap names it (ingest_guard.refuse_remapped on (kind, transcription)).",
   "page_rule": "pdf pages are two-page spreads; the printed page of each half is a constant offset per volume (sources.t<n>.page_rule). page_check compares it with the running-head folio and the sheet signature ('Dictionnaire, t. I. 3' opens p. 17, sheets of 8 pages) wherever the OCR reads one, and lists each disagreement.",
-  "split_rule": "words are grouped into baseline rows (a word taller than 1.5 median heights, a hieroglyph group, joins the row whose foot is nearest its own; capitals of a heading stay words); the running head, the thumb letter above it and the signature line are dropped. The indent of a half page is the commonest left edge (3 pt bins) of its rows of four words or more. A row 24 pt or more left of it stands at the margin and opens an entry unless it reads as a line of the text with a stray mark before it (first word French, a French word after it with no citation near, a parenthesis of the text, the tail of a citation carried over); a row 8-24 pt left of it opens one only as a headword row (strays, then a transcription word with a citation or a comma close after). A margin row of strays alone is held and opens an entry with the next row when that row opens one or reads as a headword row. Every other row continues the open entry, across pages. In the addenda, set with first-line indents, a row 8-30 pt right of the half page's left edge opens an item, and so does the row after a heading. Flags: start_near_indent (opened 8-24 pt left of the indent), margin_row_continued (a margin row was read as a line of this entry: a start may have been missed), indent_from_volume (too few rows for the half's own indent; the volume's median for its side was used).",
-  "field_rule": "transcription: the first run of transcription-like words (letters with the marks the OCR leaves inside one, a lower-case vowel, opening in lower case or as the OCR's ḥ: l;l l). J:i I:i Q.; a capitalised people or place is flagged headword_capitalised) before the first source citation, after the stray characters, up to a comma or a French word; strays glued to its front are cut (headword_glued_strays_stripped). key: ane_keys.loose_key of it. sources_cited: each (...) group of the head (the text before the dash that opens the description) that reads as a citation. gloss_fr: the head after the last citation when it reads as French, guillemets as the OCR gives them. description_fr: the text after that dash, dashes written —. identification_text: the dash-separated statements of the description naming a modern place, site or identification (actuel, aujourd'hui, moudirieh, markaz, identifié, correspond, Kôm, Tell, village, site ...). nome: each '<roman> nome de Haute-/Basse-Égypte' of the entry, in order; the first need not be the entry's own. variants: further transcriptions in the head (head_spelling) and each 'var.' statement. kind: cross_reference when the description is one short 'Voir ...' statement (see_text), addendum for the items of the Additions et corrections (addendum_to: the volume and page they correct), entry otherwise. All text is the OCR's, uncorrected.",
+  "split_rule": "words are grouped into baseline rows (a word taller than 1.5 median heights, a hieroglyph group, joins the row whose foot is nearest its own; capitals of a heading stay words); the running head, the thumb letter above it and the signature line are dropped. The indent of a half page is the commonest left edge (3 pt bins) of its rows of four words or more. A row 24 pt or more left of it stands at the margin and opens an entry unless it reads as a line of the text with a stray mark before it (first word French, a French word after it with no citation near, a parenthesis of the text, the tail of a citation carried over); a row 8-24 pt left of it opens one only as a headword row (strays, then a transcription word with a citation or a comma close after). A margin row of strays alone is held and opens an entry with the next row when that row opens one or reads as a headword row. Every other row continues the open entry, across pages. In the addenda, set with first-line indents, a row 8-30 pt right of the half page's left edge opens an item, and so does the row after a heading. Flags: start_near_indent (opened 8-24 pt left of the indent), margin_row_continued (a margin row was read as a line of this entry: a start may have been missed), indent_from_volume (too few rows for the half's own indent; the volume's median for its side was used). A row whose only word is 'sic' is a row of strays. After the split two faults around a hieroglyph group two lines tall are mended, in the entries only (rejoin): an entry in which no headword is found is joined to the entry before it when that entry is one row whose head is left open (its citation not closed, or no dash before a description) (split_rejoined, on the joined entry; the later ids of the page move up); and the last row of the entry before it, when it holds a transcription and opens a citation it does not close, is moved to it as its head row (head_row_rejoined).",
+  "field_rule": "transcription: the first run of transcription-like words (letters with the marks the OCR leaves inside one, a lower-case vowel, opening in lower case or as the OCR's ḥ: l;l l). J:i I:i Q.; a capitalised people or place is flagged headword_capitalised) before the first source citation, after the stray characters, up to a comma or a French word; strays glued to its front are cut (headword_glued_strays_stripped); words of consonants straight before it belong to it (skr ourt, s-t ourt); a compound divided at the line end is read whole (Râmessou- / l)iq-On); a sign group read as letters opens none (c::m::i, ffi, lilMlill, u.a), nor does the end of the entry above (opens_on_entry_tail: 'p. 584 et 585), …', 'source11.'). Where that finds none, three further readings, each flagged: past a bracket of strays or a (var. …) read as the first citation (headword_past_stray_bracket), a demotic name printed in capitals (headword_capitals), a transcription word the OCR damaged at its edges (headword_loose: âbour!, agre~, k}\\taou); headword_not_found is left on the entries with signs alone or a broken first line. In the addenda the name is the word after 'au mot', the word an item adds ('Ajouter le mot X', 'Ajouter X (citation)': addendum_adds_word), or the word standing alone between the page and the remark ('Page 132. — [signs] chefti. — Ce nom …': addendum_on_word). key: ane_keys.loose_key of it. sources_cited: each (...) group of the head (the text before the dash that opens the description) that reads as a citation. gloss_fr: the head after the last citation when it reads as French, guillemets as the OCR gives them. description_fr: the text after that dash, dashes written —. identification_text: the dash-separated statements of the description naming a modern place, site or identification (actuel, aujourd'hui, moudirieh, markaz, identifié, correspond, Kôm, Tell, village, site ...). nome: each '<roman> nome de Haute-/Basse-Égypte' of the entry, in order; the first need not be the entry's own. variants: further transcriptions in the head (head_spelling), outside its citations and its French gloss (a stretch is cut at its first French article or preposition, the spellings before it kept), and each 'var.' statement that gives a transcription after its sign group; ends of citations, gloss words with the guillemet read 11, forms with digits and sign groups are left out (counts.variant_forms_left_out). kind: cross_reference when the description is one short 'Voir ...' statement (see_text), addendum for the items of the Additions et corrections (addendum_to: the volume and page they correct), entry otherwise. All text is the OCR's, uncorrected.",
   "join_rule": "none: no row is joined to Trismegistos, Pleiades, PNM or any other layer, and no id is asserted.",
   "override_rule": "overrides.json {\"entries\": {id: {field: value, \"basis\": ...}}} fixes fields by id, each change kept in the row's corrections with its basis; a fixed transcription carries its key. The source facts (id, volume, page, pdf_page, raw_text ...) cannot be fixed.",
   "page_check": {
@@ -2239,44 +2251,60 @@
     }
   },
   "counts": {
-    "entries": 7497,
+    "entries": 7443,
     "by_volume": {
-      "t1": 1461,
-      "t2": 1055,
-      "t3": 1022,
-      "t4": 1477,
-      "t5": 1470,
-      "t6": 1012
+      "t1": 1454,
+      "t2": 1047,
+      "t3": 1007,
+      "t4": 1469,
+      "t5": 1464,
+      "t6": 1002
     },
     "by_kind": {
-      "entry": 6416,
+      "entry": 6362,
       "cross_reference": 207,
       "addendum": 874
     },
     "flags": {
-      "headword_capitalised": 171,
-      "headword_glued_strays_stripped": 203,
-      "headword_not_found": 234,
-      "headword_unbalanced_parens": 228,
-      "margin_row_continued": 1048,
+      "addendum_adds_word": 144,
+      "addendum_on_word": 88,
+      "addendum_page_outside_volume": 6,
+      "head_row_rejoined": 11,
+      "headword_capitalised": 176,
+      "headword_capitals": 20,
+      "headword_glued_strays_stripped": 207,
+      "headword_loose": 75,
+      "headword_not_found": 35,
+      "headword_past_stray_bracket": 49,
+      "headword_unbalanced_parens": 196,
+      "margin_row_continued": 1051,
       "no_dash_after_head": 359,
-      "no_source_citation": 735,
-      "short_entry": 23,
-      "start_near_indent": 222
+      "no_source_citation": 693,
+      "opens_on_entry_tail": 3,
+      "short_entry": 21,
+      "split_rejoined": 44,
+      "start_near_indent": 221
     },
-    "rows_flagged": 2625,
-    "with_transcription": 6418,
+    "rows_flagged": 2802,
+    "with_transcription": 6789,
     "with_gloss": 3755,
-    "with_citation": 5999,
-    "with_identification_text": 2386,
-    "with_nome": 1037,
-    "with_variants": 2199,
-    "corrected": 0
+    "with_citation": 5987,
+    "with_identification_text": 2385,
+    "with_nome": 1036,
+    "with_variants": 907,
+    "corrected": 0,
+    "variant_forms_left_out": {
+      "citation": 94,
+      "digits": 70,
+      "gloss": 53,
+      "remark": 404,
+      "signs": 116
+    }
   },
   "outputs": {
     "entries.jsonl": {
-      "rows": 7497,
-      "sha256": "0c62e5eda903a12cde54a85450301e7ac2966f91a396f6bb38d251898c2a0068"
+      "rows": 7443,
+      "sha256": "c32c274b3857ab180ea3ddd92ba07ea4274921bbd09baefe63a7b1171822ab94"
     }
   },
   "export": {

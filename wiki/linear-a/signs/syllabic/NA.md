@@ -61,7 +61,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/D/DA_NA_TU\|DA-NA-TU]] | dānatu | SPECULATIVE |
 | [[wiki/linear-a/words/D/DI_NA_RO\|DI-NA-RO]] | Dānīlo / Dānīlu | CANDIDATE |
 | [[wiki/linear-a/words/D/DI_NA_U\|DI-NA-U]] | Dīnāyu | CANDIDATE |
-| [[wiki/linear-a/words/D/DI_RE_DI_NA\|DI-RE-DI-NA]] | ʾaddīr-dīnā | SPECULATIVE |
+| [[wiki/linear-a/words/D/DI_RE_DI_NA\|DI-RE-DI-NA]] | ʾaddīr-dīnā | CANDIDATE |
 | [[wiki/linear-a/words/D/DI_RI_NA\|DI-RI-NA]] | dīr-īna | SPECULATIVE |
 | [[wiki/linear-a/words/D/DU_MA_I_NA\|DU-MA-I-NA]] | ḏū-maʿīna | SPECULATIVE |
 | [[wiki/linear-a/words/D/DU_PA3_NA\|DU-PA₃-NA]] | Dubbān | SPECULATIVE |
@@ -90,7 +90,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/N/NA_star21F_NE_MI_NA\|NA-\*21F-NE-MI-NA]] | naḫnemina | SPECULATIVE |
 | [[wiki/linear-a/words/N/NA_DA_RE\|NA-DA-RE]] | Nadr | PROBABLE |
 | [[wiki/linear-a/words/N/NA_MA\|NA-MA]] | Naʿma | SPECULATIVE |
-| [[wiki/linear-a/words/N/NA_SI\|NA-SI]] | nasīʾ | SPECULATIVE |
+| [[wiki/linear-a/words/N/NA_SI\|NA-SI]] | naśīʾ | SPECULATIVE |
 | [[wiki/linear-a/words/N/NA_TI\|NA-TI]] | naṭʿ | SPECULATIVE |
 | [[wiki/linear-a/words/N/NA_TU_star301_NE\|NA-TU-\*301-NE]] | natūnān | PROBABLE |
 | [[wiki/linear-a/words/O/O_KA_MI_ZA_SI_I_NA\|O-KA-MI-ZA-SI-I-NA]] | Ukammis-Sîn | SPECULATIVE |
@@ -106,7 +106,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/T/TA_NA_SU_TE_KE\|TA-NA-SU-TE-KE]] | tanašutē-kī | CANDIDATE |
 | [[wiki/linear-a/words/T/TA_NA_TE\|TA-NA-TE]] | Tanāt | CANDIDATE |
 | [[wiki/linear-a/words/T/TA_NA_TI\|TA-NA-TI]] | Tanāti | CANDIDATE |
-| [[wiki/linear-a/words/T/TA_NU_NI_KI_NA\|TA-NU-NI-KI-NA]] | tannî qînâ | SPECULATIVE |
+| [[wiki/linear-a/words/T/TA_NU_NI_KI_NA\|TA-NU-NI-KI-NA]] | tanūḥūn qīna | CANDIDATE |
 | [[wiki/linear-a/words/T/TA_RI_NA\|TA-RI-NA]] | Tarinna | SPECULATIVE |
 | [[wiki/linear-a/words/T/TU_star21F_RI_NA\|TU-\*21F-RI-NA]] | ṭuhārīna | PROBABLE |
 | [[wiki/linear-a/words/U/U_MI_NA_SI\|U-MI-NA-SI]] | Ummī-naśiʾ | CANDIDATE |

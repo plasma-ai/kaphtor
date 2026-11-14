@@ -61,7 +61,13 @@ di Mino; Fischer 2002; Harding 1971; GORILA II
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/MA/MAWc/MAWc_5\|MAWc&lt;5&gt;]] | Malia | Roundel | none |
+| [[wiki/linear-a/inscriptions/MA/MAWc/MAWc_5\|MAWc&lt;5&gt;]] | Malia | Roundel | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/MA/MAWc/MAWc_5\|MAWc&lt;5&gt;]] | ʾaṣdaqa | Most Righteous (PN) | CANDIDATE |
 
 ## Onomasticon
 

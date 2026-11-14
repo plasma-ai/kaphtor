@@ -46,7 +46,7 @@ updated: 2026-10-22T17:38:31Z
 | Punic | bʿn (T 47); bn (HJ 168); Neo-Punic bnm, in bbnm (Krahmalkov 108) | T 47; HJ 168; Krahmalkov 108 | gloss withheld |
 | Syrian Aramaic | bnayyā (Kogan 2011, 234) | Kogan 2011 234 | gloss withheld |
 | Mehri | ḥə-būn (Kogan 2011, 234) | Kogan 2011 234 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic bn (Al-Jallad–Jaworska 61); bny; Taymanitic bny (Al-Jallad 2026, 29) | Al-Jallad–Jaworska 61; Al-Jallad 2026 29 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic bn (Al-Jallad–Jaworska 61); bny (Al-Jallad 2026, 29); Taymanitic b; bny (Al-Jallad 2026b, 6) | Al-Jallad–Jaworska 61; Al-Jallad 2026 29; Al-Jallad 2026b 6 | gloss withheld |
 | Eblaitic | /bin, bun/: names bí-ne-li-im, bí-ni-ma-ni (Sanmartín GlOS 1, 120) | Sanmartín GlOS 1, 120 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

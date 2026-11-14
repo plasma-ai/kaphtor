@@ -229,7 +229,7 @@ def _canon(sign: str) -> str:
 
 _LINEAR_B_GRID = re.compile(r"[DJKMNPQRSTWZ]?[AEIOU]|RA2")    # sign names Linear B gives a CV value
 # The tentative Linear B values of three signs Linear B leaves untransliterated, where the engine reads beyond them:
-# *56 pa₃, *65 ju, *79 zu (ju and zu: Davis 2026, 174 n. 641). Melena reads *56 as pa₂, a labial sonorant (ᵐb), and
+# *56 pa₃, *65 ju, *79 zu (ju and zu: Davis 2026b, 174 n. 641). Melena reads *56 as pa₂, a labial sonorant (ᵐb), and
 # *79 as wo₂ (Melena, The Untransliterated Syllabograms, §§5, 15).
 LINEAR_B_VALUES: dict[str, tuple[str | None, str]] = {"PA3": ("p", "a"), "JU": ("y", "u"), "ZU": ("z", "u")}
 # A21: signs that write their consonants before every vowel, as Old Babylonian PI writes wa, we, wi and wu

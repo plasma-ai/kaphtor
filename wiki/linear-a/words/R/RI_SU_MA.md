@@ -49,6 +49,7 @@ HT 115a, a GRA+BOSm list: RI-SU-MA, then SU 2 ⅕, after KA-PO-RU 1; HT 81: RI-S
 |---|---|
 | Eblaite | SAG.KI.TÚM = rí-še₆ KI.TÚM, rīš 'head, chief' (GlOS 2, 149) |
 | Ugaritic | rỉš 'head, chief, top, first(fruit)' (GlOS 2, 149) |
+| Akkadian | rāšu 'head, chief' OAkk, rēšu OB on (AHw 973) |
 
 ### Source
 
@@ -58,13 +59,14 @@ di Mino; GlOS 2; Huehnergard 2012
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT81\|HT81]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT81\|HT81]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT115a\|HT115a]] | Haghia Triada | Tablet | incomplete |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT81\|HT81]] | rīšum(a) | head, chief quality | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT115a\|HT115a]] | rīšum(a) | head, first quality | CANDIDATE |
 
 <!-- END kaphtor:record -->

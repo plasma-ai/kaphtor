@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/y/3332_to_help_save
 title: "*yṯʿ: 'to help, save'"
-desc: "Proto-Semitic *yṯʿ, 'to help, save': reflexes in 6 language(s)."
+desc: "Proto-Semitic *yṯʿ, 'to help, save': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3332"
@@ -35,6 +35,7 @@ updated: 2026-10-25T05:11:48Z
 | Phoenician | yšʿ (Benz PNPPI 327) |  | gloss withheld |
 | Epigraphic South Arabian | yṯʿ (Huffmon APNM 215; Benz PNPPI 327) | Huffmon APNM 215 | gloss withheld |
 | Eblaitic | /y-ṯ-ʿ/: cf. names a-sa-ì, a-sa-ì-um, a-sa-sa-du (Sanmartín GlOS 2, 379) | Sanmartín GlOS 2, 379 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic yṯʿ, ʾṯʿ, ṯʿ (a deity) (Al-Jallad 2026, 187); Taymanitic ys³ʿ (Al-Jallad 2026b, 63); ṣmys³ʿ (Al-Jallad 2026b, 77) | Al-Jallad 2026 187; Al-Jallad 2026b 63; Al-Jallad 2026b 77 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

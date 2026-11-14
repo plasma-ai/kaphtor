@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/inscriptions/ZA/ZA/ZA15a
 title: "ZA15a"
-desc: "Tablet, Zakros. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "tablet"]
+desc: "Tablet, Zakros. Translation: complete (SPECULATIVE)."
+tags: ["linear-a", "inscription", "translation-complete", "tablet"]
 kind: "inscription"
 id: "ZA15a"
 site: "Zakros"
 support: "Tablet"
 period: ""
-translation: "none"
+translation: "complete"
 words: ["*47-KU-NA", "*364-KE-MA-SE", "I-TI-NI-SA", "JA-SA-MU", "JI-NU-MA-RE", "ME-VIN", "MI-ZA-SE", "QE-SI-ZU-E", "SA", "SA-MI-DA-E", "SI-PI-KI"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -65,6 +65,36 @@ Unicode (Linear A block):
 𐘞𐘻𐘀𐘡𐄊
 𐚘𐘥𐙁𐘈𐄋
 ```
+
+## Translation
+
+**SPECULATIVE**, complete.
+
+> The prefect: wine-beer (SA-VIN). Gift for the Heroes 57; ʾItniša 10. Mixed wine: for the corvée gang 3; wine-stewards 6; libation portions 2½; Yaśmaʿū 5; groats 4; the one of Shechem 5.
+
+| Word | Reading | Gloss | Confidence | Lexicon |
+|---|---|---|---|---|
+| [[wiki/linear-a/words/star/star47_KU_NA\|\*47-KU-NA]] | sōkuna | prefect, steward (heading of a wine issue) | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/S/SA\|SA]] | śakaru | beer, strong drink—logographic abbreviation of \*śakaru/\*šikaru | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/V/VIN\|VIN]] |  | wayn 'wine' | PROBABLE | PROBABLE (lexicon) |
+| [[wiki/linear-a/words/Q/QE_SI_ZU_E\|QE-SI-ZU-E]] | qīši ṯuʿē | gift for the Heroes (construct: Amorite qīšum 'gift' + ṯuʿ 'Hero, Noble'), a recipient of wine | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/I/I_TI_NI_SA\|I-TI-NI-SA]] | ʾItniša | ʾItniša (personal name), the Mari name IT-NU-ŠA | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/M/ME_VIN\|ME-VIN]] | mesek | mixed wine (wine-section heading) | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/M/MI_ZA_SE\|MI-ZA-SE]] | mizza-se | for the corvée gang (terminative -SE) | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/star/star28B_NU_MA_RE\|\*28B-NU-MA-RE]] | yinumare | wine-lords, wine-stewards (personnel category) | CANDIDATE |  |
+| [[wiki/linear-a/words/S/SI_PI_KI\|SI-PI-KI]] | šipkī | pourings, libation portions (wine administration term) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/J/JA_SA_MU\|JA-SA-MU]] | yaśmaʿū | 'He hears'—yaqtal hypocoristic personal name with frozen nominative -ū | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/S/SA_MI_DA_E\|SA-MI-DA-E]] | samidē | groats, semolina, processed grain | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/star/star364_KE_MA_SE\|\*364-KE-MA-SE]] | Šakma-se | the one of Šakmu (Shechem) (gentilic in -SE on the toponym) | SPECULATIVE | SPECULATIVE (lexicon) |
+
+### Notes
+
+The first and last groups stand at preserved margins. A cavity damages PI and KI of SI-PI-KI and the SA of SA-MI-DA-E.
+
+### Source
+
+- di Mino: \*47-KU-NA, SA, VIN, QE-SI-ZU-E, I-TI-NI-SA, ME-VIN, MI-ZA-SE, \*28B-NU-MA-RE, SI-PI-KI, JA-SA-MU, SA-MI-DA-E, \*364-KE-MA-SE
+- GORILA: ZA15a
 
 ## Lexicon words citing this document
 

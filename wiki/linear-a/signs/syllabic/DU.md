@@ -42,8 +42,9 @@ updated: 2026-10-24T16:17:50Z
 
 | Word | Reading | Confidence |
 |---|---|---|
-| [[wiki/linear-a/words/A/A_DU\|A-DU]] | ʾAddu / adû | CANDIDATE |
-| [[wiki/linear-a/words/A/A_DU_star307_plus_star307\|A-DU \*307+\*307]] | Addu dubur-dubur | PROBABLE |
+| [[wiki/linear-a/words/A/A_DU\|A-DU]] | adû | CANDIDATE |
+| [[wiki/linear-a/words/A/A_DU_HT92_HT133\|A-DU (HT92, HT133)]] | ʾAddu | CANDIDATE |
+| [[wiki/linear-a/words/A/A_DU_star307_plus_star307\|A-DU \*307+\*307]] | adû dubur-dubur | CANDIDATE |
 | [[wiki/linear-a/words/A/A_DU_KU_MI_NA\|A-DU-KU-MI-NA]] | ʾAddu-kummina | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_DU_NI_TA_NA\|A-DU-NI-TA-NA]] | ʾAddu-nittāna | CANDIDATE |
 | [[wiki/linear-a/words/A/A_DU_ZA\|A-DU-ZA]] | ʾAddu-ʿazz | SPECULATIVE |
@@ -51,7 +52,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/D/DA_DU_MA_TA\|DA-DU-MA-TA]] | dadmatu | CANDIDATE |
 | [[wiki/linear-a/words/D/DA_DU_MI_NE\|DA-DU-MI-NE]] | dādu-Mīnō | SPECULATIVE |
 | [[wiki/linear-a/words/D/DU\|DU]] | du | CONFIRMED |
-| [[wiki/linear-a/words/D/DU_star314_RE\|DU-\*314-RE]] | dubur | CANDIDATE |
+| [[wiki/linear-a/words/D/DU_star314_RE\|DU-\*314-RE]] | ḏū har | CANDIDATE |
 | [[wiki/linear-a/words/D/DU_DA_MA\|DU-DA-MA]] | Dūdāma | CANDIDATE |
 | [[wiki/linear-a/words/D/DU_JA\|DU-JA]] | Ḏū-Ya | SPECULATIVE |
 | [[wiki/linear-a/words/D/DU_MA_I_NA\|DU-MA-I-NA]] | ḏū-maʿīna | SPECULATIVE |

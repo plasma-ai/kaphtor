@@ -19,9 +19,9 @@ updated: 2026-11-11T23:49:15Z
 <!-- BEGIN kaphtor:summary -->
 | Field | Value |
 |---|---|
-| Names | 35 |
-| Kinds | personal names 34, title 1 |
+| Names | 38 |
+| Kinds | personal names 37, title 1 |
 | Roots | 1 |
-| Sites | Haghia Triada 21, Khania 5, Palaikastro 3, Crete 2, Phaistos 2, Zakros 1, Kardamoutsa 1 |
-| Standing | SPECULATIVE 28, CANDIDATE 5, PROBABLE 2 |
+| Sites | Haghia Triada 23, Khania 5, Palaikastro 4, Crete 2, Phaistos 2, Zakros 1, Kardamoutsa 1 |
+| Standing | SPECULATIVE 30, CANDIDATE 6, PROBABLE 2 |
 <!-- END kaphtor:summary -->

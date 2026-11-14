@@ -49,6 +49,7 @@ HT 116a PI-\*34-TE GRA 5, then OLE 5, OLE+MI 1, \*OLIV+TU 2: one of six entries 
 |---|---|
 | Akkadian | piqittu 'provisioning, control, muster, charge' (CAD P 388) |
 | Hebrew | piqqādôn 'deposit, stored goods', wəhāyâ hāʾōkel ləpiqqādôn lāʾāreṣ 'and the food shall be a store for the land' (Gen 41:36; HALOT 958) |
+| Phoenician | mpqd 'depository, storehouse, warehouse' (Krahmalkov 302) |
 
 ### Source
 

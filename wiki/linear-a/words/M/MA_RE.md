@@ -49,6 +49,7 @@ HT 55a .1 \]KI-RO · MA-RE 1, whole and undotted, the first of single entries ow
 |---|---|
 | Eblaite | mar-a 'the lord' / 'the son' (Pagan 1998, rows 3651–3652) |
 | Linear A | -MA-RE mārē in JI-NU-MA-RE yinu-mārē 'wine-lords' (ZA 4a, 5b, 15a) |
+| Dadanitic | mrʾ 'lord' (Al-Jallad 2026, 93) |
 
 ### Source
 

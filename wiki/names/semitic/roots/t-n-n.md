@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/roots/t-n-n
 title: "t-n-n"
-desc: "2 names: TA-NA-TE, TA-NA-TI."
+desc: "3 names: TA-NA-TE, TA-NA-TI, TI-NI-TA."
 tags: ["names", "root", "semitic"]
 kind: "name_root"
 id: "semitic:t-n-n"
@@ -20,7 +20,8 @@ updated: 2026-11-11T23:39:03Z
 | Field | Value |
 |---|---|
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
-| Names | 2 |
+| Proto-Semitic | \*tinnīt- (#2967) |
+| Names | 3 |
 
 ## Names from this root
 
@@ -28,5 +29,6 @@ updated: 2026-11-11T23:39:03Z
 |---|---|---|---|
 | [[wiki/names/semitic/names/TA_NA_TE\|TA-NA-TE]] | Tanāt | Tanāt, a variant of Tinit, the goddess TNT, feminine of √t-n-n 'sea-dragon'; rival a form of A-TA-NA-TE ʾAtanat | 1 |
 | [[wiki/names/semitic/names/TA_NA_TI\|TA-NA-TI]] | Tanāti | the goddess TNT (Tinnit), feminine of √t-n-n 'sea-dragon' | 4 |
+| [[wiki/names/semitic/names/TI_NI_TA\|TI-NI-TA]] | Tinit | Tinit (goddess, = Phoenician Tanit) | 1 |
 
 <!-- END kaphtor:record -->

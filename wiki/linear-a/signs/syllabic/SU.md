@@ -35,7 +35,6 @@ updated: 2026-10-24T16:17:50Z
 
 ### Forms cited for the value
 
-- SU-PA₃-RA = supāra (Gordon: 'pot')
 - SU-PU = sapu (Gordon: 'jar')
 - KU-NI-SU
 
@@ -62,7 +61,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/S/SU_JU_TA\|SU-JU-TA]] | sulta | CANDIDATE |
 | [[wiki/linear-a/words/S/SU_KI_RI_TA\|SU-KI-RI-TA]] | Sukrita | CANDIDATE |
 | [[wiki/linear-a/words/S/SU_KI_RI_TE_I_JA\|SU-KI-RI-TE-I-JA]] | Sukritēya | SPECULATIVE |
-| [[wiki/linear-a/words/S/SU_PA3_RA\|SU-PA₃-RA]] | subāra | PROBABLE |
+| [[wiki/linear-a/words/S/SU_PA3_RA\|SU-PA₃-RA]] | zubāra | PROBABLE |
 | [[wiki/linear-a/words/S/SU_PU\|SU-PU]] | suppu | CONFIRMED |
 | [[wiki/linear-a/words/S/SU_PU2\|SU-PU₂]] | Ṣubʾu | SPECULATIVE |
 | [[wiki/linear-a/words/S/SU_PU2_star188\|SU-PU₂-\*188]] | suppu buṭni | CANDIDATE |

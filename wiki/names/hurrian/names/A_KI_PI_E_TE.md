@@ -30,7 +30,7 @@ updated: 2026-11-11T23:39:03Z
 | Reading's standing | SPECULATIVE |
 | Standing as a personal name | SPECULATIVE |
 | Standing of the layer | SPECULATIVE (lexicon_reading) |
-| Source | di Mino; NPN; Laroche GLH |
+| Source | di Mino; NPN; Laroche GLH; Freydank and Saporetti 1979 |
 
 ## Note
 
@@ -44,7 +44,7 @@ Akipe-te '(Teššup) brought': Hurrian akip- (Laroche GLH 36), as Nuzi Akipei, A
 
 | Language | Comparison |
 |---|---|
-| Hurrian | ag- 'amener, apporter', agi-, agib- in names, Akib-Tešub (Laroche GLH 36); Nuzi Akipei, A-ki-be-e-i, 'Probably &lt; akip-' (NPN 14, 198); \[A-ki\]p-te-ia, A-ki-te-ia, and A-kip-te-šup (NPN 198); -te, the 'shortened var.' of -teja (NPN 264) |
+| Hurrian | ag- 'amener, apporter', agi-, agib- in names, Akib-Tešub (Laroche GLH 36); Nuzi Akipei, A-ki-be-e-i, 'Probably &lt; akip-' (NPN 14, 198); \[A-ki\]p-te-ia, A-ki-te-ia, and A-kip-te-šup (NPN 198); -te, the 'shortened var.' of -teja (NPN 264); Middle Assyrian Agipte?ja, ᴵA-gi-⌜ip-te?-ja⌝, MARV II, 30:39′ (Freydank and Saporetti 1979, 23) |
 
 ## Attestations
 

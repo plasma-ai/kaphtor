@@ -74,7 +74,7 @@ di Mino; DULAT
 | [[wiki/linear-a/inscriptions/HT/HT/HT7a\|HT7a]] | dār | estate, household,1 | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT10a\|HT10a]] | dār | estate, household,16½ | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT10b\|HT10b]] | dār | estate, household,2 | CANDIDATE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT85a\|HT85a]] | dār | estate, household | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT85a\|HT85a]] | dār | the estate, household | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT122b\|HT122b]] | dār | estate, household | CANDIDATE |
 | [[wiki/linear-a/inscriptions/KH/KH/KH104\|KH104]] | dār | estate, household | CANDIDATE |
 

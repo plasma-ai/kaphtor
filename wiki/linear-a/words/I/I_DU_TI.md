@@ -49,6 +49,7 @@ HT 104 .2–3 I-DU-TI 20 ½, I at the end of .2, DU-TI at the head of .3, all th
 |---|---|
 | Eblaite | i-du-na yidu-na 'our strength' and other yidu names, i-du i₃-la yidu-ʾila 'strength is god' (Pagan 1998, rows 2460–2470); i-du as a name by itself (ARET 15 8, 31 and 34; EbDA) |
 | Ugaritic | Yadu-Baʿal, Yaduwa (Kinlaw 1967, 128) |
+| Amorite | yid, yidat 'hand, arm, power; rental' (GlOS 2, 371) |
 
 ### Source
 

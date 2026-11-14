@@ -48,6 +48,7 @@ ZA 8 MA-KA-I-SE 2, in a roster of names. Makī, the Amorite name me-ki-im maqīm
 |---|---|
 | Amorite | me-ki-im maqīm 'Established', PN at Alalakh and Apišal (Buck 2019, 307; Gelb 1980 no. 4648 ME-QWIM, no. 4649 ME-KWIN) |
 | Egyptian | mkj, men, Middle Kingdom (Ranke I, 166.12–13), one a ruler 'aus ḳdm' in Sinuhe B 219, Mkj⟨m⟩ 'semit. Königstitel' of Qatna in TLA; rival |
+| Eblaite | /qām, qawm/ 'the standing one, protector': cf. names a-du-ga-mu, a-ḫu-kam₄, ga-ma-bí (GlOS 1, 361–362) |
 
 ## Attestations
 

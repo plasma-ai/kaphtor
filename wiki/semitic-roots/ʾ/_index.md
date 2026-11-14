@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ʾ
 desc: "Semitic roots whose first radical is ʾ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-11-10T05:11:30Z
+updated: 2026-11-16T17:25:52Z
 ---
 
 # wiki/semitic-roots/ʾ
@@ -503,7 +503,7 @@ updated: 2026-11-10T05:11:30Z
 
 [[wiki/semitic-roots/ʾ/451_approach|451_approach]]: Proto-Semitic *ʾVlVm-, 'approach': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/ʾ/4718_lion_1_man_warrior_2|4718_lion_1_man_warrior_2]]: Proto-Semitic *ʔasad-, 'lion' 1, 'man, warrior' 2: reflexes in 3 language(s).
+[[wiki/semitic-roots/ʾ/4718_lion_1_man_warrior_2|4718_lion_1_man_warrior_2]]: Proto-Semitic *ʔasad-, 'lion' 1, 'man, warrior' 2: reflexes in 4 language(s).
 
 [[wiki/semitic-roots/ʾ/477_go_pass|477_go_pass]]: Proto-Semitic *(ʾV)zVl-, 'go, pass': reflexes in 7 language(s).
 

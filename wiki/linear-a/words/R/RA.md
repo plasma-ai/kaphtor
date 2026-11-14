@@ -27,11 +27,11 @@ updated: 2026-11-12T00:26:03Z
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT147\|HT147]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT53a\|HT53a]] | Haghia Triada | Tablet | none |
-| [[wiki/linear-a/inscriptions/KH/KH/KH14\|KH14]] | Khania | Tablet | none |
-| [[wiki/linear-a/inscriptions/KH/KH/KH29\|KH29]] | Khania | Tablet | none |
-| [[wiki/linear-a/inscriptions/KH/KH/KH47\|KH47]] | Khania | Tablet | none |
+| [[wiki/linear-a/inscriptions/KH/KH/KH14\|KH14]] | Khania | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/KH/KH/KH29\|KH29]] | Khania | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/KH/KH/KH47\|KH47]] | Khania | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/KN/KNZg/KNZg57b\|KNZg57b]] | Knossos | ivory object | none |
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA11b\|ZA11b]] | Zakros | Tablet | none |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA11b\|ZA11b]] | Zakros | Tablet | incomplete |
 
 ## In translations
 

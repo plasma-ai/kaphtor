@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/2741_womb_to_have_mercy_compassion
 title: "*rVḥVm-: 'womb; to have mercy, compassion'"
-desc: "Proto-Semitic *rVḥVm-, 'womb; to have mercy, compassion': reflexes in 23 language(s)."
+desc: "Proto-Semitic *rVḥVm-, 'womb; to have mercy, compassion': reflexes in 24 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2741"
@@ -53,6 +53,7 @@ updated: 2026-10-22T17:38:31Z
 | Amorite | rḥm: jirḥam, jarḥam, raḥimum, raḥima (Gelb AS 21, 30); raḥmu, yirḥam (Buck 2019, 331); r-ḥ-m: ia-ar-ḫa-mu, ia-ar-ḫa-ma-an, ia-ar-a-mu-um; raḥm: ra-aḫ-ma-ia, ra-aḫ-mi-ì-lí, an-nu-ra-aḫ-mi (Sanmartín GlOS 2, 160) | Gelb AS 21 30; Buck 2019, 331; Sanmartín GlOS 2, 160 | gloss withheld |
 | Canaanite | raḥmān: name ra-aḫ-ma-nu (Sanmartín GlOS 2, 160) | Sanmartín GlOS 2, 160 | gloss withheld |
 | Punic | rḥm (DNWSI 1068) | DNWSI 1068 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic rḥm (a deity) (Al-Jallad 2026, 187); Taymanitic rḥm (Al-Jallad 2026b, 53); rḥml (Al-Jallad 2026b, 72) | Al-Jallad 2026 187; Al-Jallad 2026b 53; Al-Jallad 2026b 72 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

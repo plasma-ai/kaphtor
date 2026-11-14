@@ -48,6 +48,8 @@ HT 6a .4–5 KA-PA-QE 5¾, KA ending .4 and PA-QE heading .5, all three signs wh
 | Language | Comparison |
 |---|---|
 | Akkadian | qīpu (qēpu) 'official; administrator of a region, a city, a temple'; LÚ qīpu ša šarri (KAJ 113:25; CAD Q 264) |
+| Ugaritic | kpr 'village', the KA-PA element (GlOS 1, 315) |
+| Phoenician | kpr 'town, village' (Krahmalkov 240) |
 
 ### Source
 

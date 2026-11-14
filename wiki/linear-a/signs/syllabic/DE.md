@@ -44,6 +44,7 @@ updated: 2026-10-24T16:17:50Z
 |---|---|---|
 | [[wiki/linear-a/words/A/A_DE\|A-DE]] | ʾAddē | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_TA_DE\|A-TA-DE]] | ʾaʿtid(u) | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_TA_I_star301_DE_KA\|A-TA-I-\*301-DE-KA]] | ʾataʿinā dēka | CANDIDATE |
 | [[wiki/linear-a/words/D/DE_DI\|DE-DI]] | Dedī | SPECULATIVE |
 | [[wiki/linear-a/words/D/DE_JU_KU\|DE-JU-KU]] | Dalqu | SPECULATIVE |
 | [[wiki/linear-a/words/D/DI_DE_RU\|DI-DE-RU]] | ʾaddīru | PROBABLE |
@@ -55,6 +56,6 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/S/SE_DE\|SE-DE]] | ṣēd | SPECULATIVE |
 | [[wiki/linear-a/words/S/SE_WA_AU_DE\|SE-WA-AU-DE]] | šawaʿ-dē | SPECULATIVE |
 | [[wiki/linear-a/words/T/TE_SU_DE_SE_KE_I\|TE-SU-DE-SE-KE-I]] | tesʾad šeqī | SPECULATIVE |
-| [[wiki/linear-a/words/U/U_DE_ZA\|U-DE-ZA]] | Ḥudaṯu | CANDIDATE |
+| [[wiki/linear-a/words/U/U_DE_ZA\|U-DE-ZA]] | Ḥudeṯ | CANDIDATE |
 
 <!-- END kaphtor:record -->

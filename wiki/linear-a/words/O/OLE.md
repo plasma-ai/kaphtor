@@ -71,6 +71,7 @@ di Mino
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH3b\|ARKH3b]] | \[ideogram\] | olive oil |  |
+| [[wiki/linear-a/inscriptions/HT/HT/HT21\|HT21]] |  | šamnu 'oil, olive oil' | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT23b\|HT23b]] |  | oil | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT114a\|HT114a]] | šamnu | oil | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT116b\|HT116b]] | šamnu | oil, olive oil |  |

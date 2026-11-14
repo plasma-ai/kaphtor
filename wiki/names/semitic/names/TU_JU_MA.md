@@ -1,11 +1,11 @@
 ---
 name: wiki/names/semitic/names/TU_JU_MA
 title: "TU-JU-MA"
-desc: "Tuʿlum: personal name, 'hidden one'. Semitic, SPECULATIVE."
+desc: "Tuʿluma: personal name, 'hidden one'; rival Hurrian talm- 'great' (Talimmu, a merchant's name at Ugarit). Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "TU-JU-MA"
-reading: "Tuʿlum"
+reading: "Tuʿluma"
 attestations: ["HT117a"]
 created: 2026-11-11T23:39:03Z
 updated: 2026-11-11T23:39:03Z
@@ -19,30 +19,32 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Tuʿlum** · personal name, 'hidden one'
+**Tuʿluma** · personal name, 'hidden one'; rival Hurrian talm- 'great' (Talimmu, a merchant's name at Ugarit)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
-| Reading | Tuʿlum |
-| Meaning | personal name, 'hidden one' |
+| Reading | Tuʿluma |
+| Meaning | personal name, 'hidden one'; rival Hurrian talm- 'great' (Talimmu, a merchant's name at Ugarit) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/ayin-l-m\|ʿ-l-m]] |
 | Proto-Semitic | \*ɣlm (#3633) |
 | Reading's standing | SPECULATIVE |
 | Standing as a personal name | SPECULATIVE |
 | Standing of the layer | SPECULATIVE (lexicon_reading) |
-| Source | di Mino; HALOT |
+| Source | di Mino; HALOT; Kinlaw 1967; Watson 2016 |
 
 ## Note
 
-HT 117a: TU-JU-MA 1 in the roster under MA-KA-RI-TE, 'merchants'. √ʿ-l-m 'to be hidden' (HALOT 834), ʿ unwritten, JU writing lu. Rival: √t-l-m, Heb. telem 'furrow' (HALOT 1740). One attestation.
+HT 117a: TU-JU-MA 1 in the roster under MA-KA-RI-TE, 'merchants'. Tuʿluma 'hidden one': Heb. taʿălumâ 'secret, hidden thing' (HALOT 1769), a t-noun of ʿ-l-m 'to be concealed' (HALOT 834), ʿ unwritten, JU writing lu as in ZU-JU-PU₂ and SU-JU-TA; MA writes -a, where KU-RA-MU on the same roster writes -mu. Weak point: TU for ta-. Rival: Hurrian talm- 'great', the Ugarit name Talimmu, ta-li-im-mu, a merchant and a foreigner (Kinlaw 1967, 116; Watson 2016, 347), beside Kukkadal on this tablet, the vowels a–i–u differing. One attestation.
 
 ## Cognates
 
 | Language | Comparison |
 |---|---|
-| Hebrew | ʿlm 'to be hidden' (HALOT 834) |
+| Hebrew | taʿălumâ 'secret, hidden thing' (HALOT 1769); ʿlm 'to be concealed' (HALOT 834) |
+| Ugaritic | rival tlmủ, ta-li-im-mu Talimmu 'Great, Powerful' (Kinlaw 1967, 116; Watson 2016, 347) |
+| Hurrian | rival talm- 'great' (Watson 2016, 347) |
 
 ## Attestations
 

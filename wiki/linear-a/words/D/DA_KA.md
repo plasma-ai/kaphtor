@@ -49,6 +49,7 @@ The sole word on five Haghia Triada nodules (HT Wa 1001–1005), a commodity lab
 |---|---|
 | Ugaritic | dg (I) 'fish' (DULAT 264–265) |
 | Hebrew | dāg 'fish', dāgā (דָּגָה) 'fish' (collective) (HALOT 213) |
+| Aramaic | dg 'fish' (DNWSI 240) |
 
 ### Source
 

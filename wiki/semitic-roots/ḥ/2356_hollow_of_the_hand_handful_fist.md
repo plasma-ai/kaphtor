@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/2356_hollow_of_the_hand_handful_fist
 title: "*ḥupn-: 'hollow of the hand, handful; fist'"
-desc: "Proto-Semitic *ḥupn-, 'hollow of the hand, handful; fist': reflexes in 19 language(s)."
+desc: "Proto-Semitic *ḥupn-, 'hollow of the hand, handful; fist': reflexes in 20 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2356"
@@ -49,6 +49,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | OFF ḥpn \[HJ 395\] | HJ 395 | gloss withheld |
 | Geez | ḥafana (LGz. 227) | LGz. 227 | gloss withheld |
 | Tigrinya | ḥəfni, ḥəfənti (SED I 114) | SED I 114 | gloss withheld |
+| Pre-Islamic North Arabian | Taymanitic ḥfn (Al-Jallad 2026b, 41) | Al-Jallad 2026b 41 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

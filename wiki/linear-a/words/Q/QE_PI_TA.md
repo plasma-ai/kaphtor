@@ -49,6 +49,7 @@ HT 6a, after DA-QE-RA: QE-PI-TA 22¾, counted in quarters, a container or unit. 
 |---|---|
 | Ugaritic | qpt 'box, chest, basket' (DULAT 696) |
 | Akkadian | quppatu 'box, basket'; quppu A 'wicker basket or wooden chest' (CAD Q 307); qappatu (qabbatu) '(a basket made of palm leaves)' (CAD Q 91) |
+| Arabic | quff-at- 'basket' (Lane 2991) |
 
 ### Source
 

@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | bnātā (Kogan 2011, 234) | Kogan 2011 234 | gloss withheld |
 | Mehri | ḥə-bántən (Kogan 2011, 235) | Kogan 2011 235 | gloss withheld |
 | Amorite | bintu/bittu (Buck 2019, 325); bintum, bittum, bina (Gelb AS 21, 16) | Buck 2019, 325; Gelb AS 21 16 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic bnt; Dadanitic bnt; Hismaic bnt; Thamudic D bnt; Hasaitic bnt (Al-Jallad 2026, 28) | Al-Jallad 2026 28 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic bnt; Dadanitic bnt; Hismaic bnt; Thamudic D bnt; Hasaitic bnt (Al-Jallad 2026, 28); Taymanitic bt; Dadanitic bt; Hismaic bt; Thamudic D bt (Al-Jallad 2026b, 6) | Al-Jallad 2026 28; Al-Jallad 2026b 6 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -1,12 +1,12 @@
 ---
 name: wiki/linear-a/words/N/NA
 title: "NA"
-desc: "Unread sign (syllabogram, unread); 7 occurrence(s)."
+desc: "Unread sign (syllabogram, unread); 6 occurrence(s)."
 tags: ["linear-a", "word", "unread"]
 kind: "word"
 form: "NA"
 datasets: ["unread_signs"]
-attestations: ["ARKH1b", "HT154c", "HT64", "KH36", "KNWc42", "KNZa10", "PHWc40"]
+attestations: ["ARKH1b", "HT154c", "HT64", "KH36", "KNWc42", "PHWc40"]
 created: 2026-11-12T00:26:03Z
 updated: 2026-11-12T00:26:03Z
 ---
@@ -30,8 +30,7 @@ updated: 2026-11-12T00:26:03Z
 | [[wiki/linear-a/inscriptions/HT/HT/HT64\|HT64]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/KH/KH/KH36\|KH36]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KN/KNWc/KNWc42\|KNWc42]] | Knossos | Roundel | none |
-| [[wiki/linear-a/inscriptions/KN/KNZa/KNZa10\|KNZa10]] | Knossos | Stone vessel | complete |
-| [[wiki/linear-a/inscriptions/PH/PHWc/PHWc40\|PHWc40]] | Phaistos | Roundel | none |
+| [[wiki/linear-a/inscriptions/PH/PHWc/PHWc40\|PHWc40]] | Phaistos | Roundel | complete |
 
 ## In translations
 
@@ -42,5 +41,7 @@ updated: 2026-11-12T00:26:03Z
 ## Unread sign
 
 A syllabogram. Status **unread** (nothing on file).
+
+The NA that opens side b of KN Za 10 is the last sign of JA-SA-SA-RA-MA-NA and is counted with that word.
 
 <!-- END kaphtor:record -->

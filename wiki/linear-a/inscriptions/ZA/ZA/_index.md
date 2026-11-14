@@ -2,7 +2,7 @@
 name: wiki/linear-a/inscriptions/ZA/ZA
 desc: "Inscriptions from Zakros, series ZA."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-13T13:31:15Z
+updated: 2026-11-14T19:56:36Z
 ---
 
 # wiki/linear-a/inscriptions/ZA/ZA
@@ -13,9 +13,9 @@ updated: 2026-11-13T13:31:15Z
 
 [[wiki/linear-a/inscriptions/ZA/ZA/ZA10b|ZA10b]]: Tablet, Zakros. Translation: incomplete.
 
-[[wiki/linear-a/inscriptions/ZA/ZA/ZA11a|ZA11a]]: Tablet, Zakros. Translation: none.
+[[wiki/linear-a/inscriptions/ZA/ZA/ZA11a|ZA11a]]: Tablet, Zakros. Translation: incomplete (SPECULATIVE).
 
-[[wiki/linear-a/inscriptions/ZA/ZA/ZA11b|ZA11b]]: Tablet, Zakros. Translation: none.
+[[wiki/linear-a/inscriptions/ZA/ZA/ZA11b|ZA11b]]: Tablet, Zakros. Translation: incomplete (SPECULATIVE).
 
 [[wiki/linear-a/inscriptions/ZA/ZA/ZA12a|ZA12a]]: Tablet, Zakros. Translation: none.
 
@@ -25,7 +25,7 @@ updated: 2026-11-13T13:31:15Z
 
 [[wiki/linear-a/inscriptions/ZA/ZA/ZA14|ZA14]]: Tablet, Zakros, LMIB. Translation: incomplete (SPECULATIVE).
 
-[[wiki/linear-a/inscriptions/ZA/ZA/ZA15a|ZA15a]]: Tablet, Zakros. Translation: none.
+[[wiki/linear-a/inscriptions/ZA/ZA/ZA15a|ZA15a]]: Tablet, Zakros. Translation: complete (SPECULATIVE).
 
 [[wiki/linear-a/inscriptions/ZA/ZA/ZA15b|ZA15b]]: Tablet, Zakros. Translation: complete (CANDIDATE).
 
@@ -47,13 +47,13 @@ updated: 2026-11-13T13:31:15Z
 
 [[wiki/linear-a/inscriptions/ZA/ZA/ZA21a|ZA21a]]: Tablet, Zakros. Translation: none.
 
-[[wiki/linear-a/inscriptions/ZA/ZA/ZA21b|ZA21b]]: Tablet, Zakros. Translation: none.
+[[wiki/linear-a/inscriptions/ZA/ZA/ZA21b|ZA21b]]: Tablet, Zakros. Translation: incomplete (PROBABLE).
 
 [[wiki/linear-a/inscriptions/ZA/ZA/ZA22|ZA22]]: Tablet, Zakros. Translation: none.
 
 [[wiki/linear-a/inscriptions/ZA/ZA/ZA23|ZA23]]: Tablet, Zakros. Translation: none.
 
-[[wiki/linear-a/inscriptions/ZA/ZA/ZA24a|ZA24a]]: Tablet, Zakros. Translation: none.
+[[wiki/linear-a/inscriptions/ZA/ZA/ZA24a|ZA24a]]: Tablet, Zakros. Translation: incomplete (PROBABLE).
 
 [[wiki/linear-a/inscriptions/ZA/ZA/ZA24b|ZA24b]]: Tablet, Zakros. Translation: none.
 
@@ -91,7 +91,7 @@ updated: 2026-11-13T13:31:15Z
 
 [[wiki/linear-a/inscriptions/ZA/ZA/ZA7a|ZA7a]]: Tablet, Zakros. Translation: incomplete (SPECULATIVE).
 
-[[wiki/linear-a/inscriptions/ZA/ZA/ZA7b|ZA7b]]: Tablet, Zakros. Translation: none.
+[[wiki/linear-a/inscriptions/ZA/ZA/ZA7b|ZA7b]]: Tablet, Zakros. Translation: incomplete (CANDIDATE).
 
 [[wiki/linear-a/inscriptions/ZA/ZA/ZA8|ZA8]]: Tablet, Zakros, LMIB. Translation: incomplete (SPECULATIVE).
 

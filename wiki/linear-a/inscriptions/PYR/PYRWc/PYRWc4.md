@@ -55,7 +55,7 @@ Unicode (Linear A block):
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/T/TI\|TI]] | tiʾin | figs (logographic abbreviation of TI-NI) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/T/TI\|TI]] | tiʾin | figs (logographic abbreviation of tiʾin) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/I/I_SI\|I-SI]] | ʾiššê | fire offering(s) | SPECULATIVE | SPECULATIVE (lexicon) |
 
 ### Notes

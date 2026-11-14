@@ -45,7 +45,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | baräḵä (LGz. 105) | LGz. 105 | gloss withheld |
 | Amharic | barräkä (LGz. 105) | LGz. 105 | gloss withheld |
 | Gurage | baräkä (LGz. 105) | LGz. 105 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic brk (Al-Jallad–Jaworska 62) | Al-Jallad–Jaworska 62 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic brk (Al-Jallad–Jaworska 62); Taymanitic ybrk (Al-Jallad 2026b, 7); ybrkl (Al-Jallad 2026b, 74) | Al-Jallad–Jaworska 62; Al-Jallad 2026b 7; Al-Jallad 2026b 74 | gloss withheld |
 | Judaic Aramaic | birketaʾ (T 57) | T 57 |  |
 | Mandaic Aramaic | brakaʾ (T 57) | T 57 |  |
 | Amorite | yabruk, bariku (Buck 2019, 325); b-r-k: ia-ab-ru-ka-bum, ia-ab-ru-uk-a-bu-um, ba-ri-ku-um (Sanmartín GlOS 1, 124) | Buck 2019, 325; Sanmartín GlOS 1, 124 | gloss withheld |

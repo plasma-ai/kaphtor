@@ -2,20 +2,20 @@
 name: wiki/linear-a/words/S
 desc: "Words whose first sign begins with S."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-12T00:26:03Z
+updated: 2026-11-17T15:50:06Z
 ---
 
 # wiki/linear-a/words/S
 
 [[wiki/linear-a/words/_index|..]]
 
-[[wiki/linear-a/words/S/S3T|S3T]]: the śĕʾēt-mark (skin-disease term—rubric disease name). Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/S/S3T|S3T]]: śṭ-: turn aside! (imperative, command to the disease); rival śĕʾēt. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/S/S3_BW|S3_BW]]: turn away! (2mp imperative—disease expulsion command). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/S/S3_BW|S3_BW]]: ṯūb-: turn back! (imperative, command to the disease). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/S/SA|SA]]: śakaru: beer, strong drink—logographic abbreviation of *śakaru/*šikaru; commodity logogram, compounded with VIN. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/S/SA_DI|SA_DI]]: šadī: land labourer, field worker; rival the personal name Šadī. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/S/SA_DI|SA_DI]]: šadī: field worker, Ug. šdy 'land labourer' or 'weaver, spinner'; rival the personal name Šadī 'Country man'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/S/SA_JA_MA|SA_JA_MA]]: śaymā: setting, arrangement; a set/group (of vessels)—deverbal noun from √ś-y-m 'to place, set'. Lexicon, SPECULATIVE (tier 1).
 
@@ -65,7 +65,7 @@ updated: 2026-11-12T00:26:03Z
 
 [[wiki/linear-a/words/S/SA_star301_RI|SA_star301_RI]]: šannāri: Cat (personal name). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/S/SA_star305_MI|SA_star305_MI]]: šadmi: terrace, terraced field (a counted entry); rival the place Šdmy. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/S/SA_star305_MI|SA_star305_MI]]: šadmi: terrace, terraced field (a counted entry); rival the place Śdmy. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/S/SA_star323_MI|SA_star323_MI]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -89,6 +89,8 @@ updated: 2026-11-12T00:26:03Z
 
 [[wiki/linear-a/words/S/SE_star305|SE_star305]]: ṣēdā: provisions (section heading); same word as SI-DA-TE ṣēdat. Lexicon, SPECULATIVE (tier 1).
 
+[[wiki/linear-a/words/S/SE_star332|SE_star332]]: Unread (role only): personal name; 1 occurrence(s).
+
 [[wiki/linear-a/words/S/SI|SI]]: šay: tribute, gift—logographic abbreviation of šay(u); administrative category marker for goods designated as tribute/gift offerings. Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/S/SI_CYP|SI_CYP]]: Unread sign (compound, component read); 1 occurrence(s).
@@ -99,7 +101,7 @@ updated: 2026-11-12T00:26:03Z
 
 [[wiki/linear-a/words/S/SI_DA_TE|SI_DA_TE]]: ṣēdat: provisions (cf. Heb. ṣêdâ, travelling provision). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/S/SI_DI_JA|SI_DI_JA]]: Šadiya: personal name, Ugaritic Šadiya (šdy II), 'field'. Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/S/SI_DI_JA|SI_DI_JA]]: Šidiya: personal name, Ugaritic Šidiya (ši-di-ia). Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/S/SI_DI_star301|SI_DI_star301]]: Ṣidna: Sidon (place name); rival Ṣīd-nā 'our Ṣid'. Lexicon, SPECULATIVE (tier 1).
 
@@ -183,7 +185,7 @@ updated: 2026-11-12T00:26:03Z
 
 [[wiki/linear-a/words/S/SU_PA|SU_PA]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/S/SU_PA3_RA|SU_PA3_RA]]: subāra: vessel (pot). Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/S/SU_PA3_RA|SU_PA3_RA]]: zubāra: small bowl, cup (the vessel named on HT31). Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/S/SU_PU|SU_PU]]: suppu: bowl, basin (the vessel named on HT31). Lexicon, CONFIRMED (tier 4).
 

@@ -49,6 +49,7 @@ OLE with the adjunct U, 22 tokens on 13 documents from Haghia Triada and Tylisso
 |---|---|
 | Arabic | ʿaṣara 'he pressed it so as to force out its juice, honey, oil' (Lane 2061); ʿuṣārat, coll. ʿuṣār, 'expressed juice' (Lane 2062) |
 | Aramaic | Syriac ʿṣar 'tread, press out; crush' (Payne Smith 423); JArm. maʿṣartā 'press' (Tg. Ps.-J. Num 18:27) |
+| Geʿez | ʿaṣara 'press out, press, squeeze, wring out' (LGz. 75) |
 
 ### Source
 
@@ -59,7 +60,7 @@ di Mino; Lane; Payne Smith
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT2\|HT2]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT21\|HT21]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT21\|HT21]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT28a\|HT28a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT42_plus_59\|HT42+59]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT44a\|HT44a]] | Haghia Triada | Tablet | complete |
@@ -77,6 +78,7 @@ di Mino; Lane; Payne Smith
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT2\|HT2]] | \[ideogram\] | olive oil subtype U |  |
+| [[wiki/linear-a/inscriptions/HT/HT/HT21\|HT21]] | ʿuṣār | pressed oil (ʿuṣār) | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT42_plus_59\|HT42+59]] | šamnu U | U-grade oil (highest-frequency OLE compound, 22 att.; specific grade TBD). 7 + 2 + \[qty lost\] units | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT44a\|HT44a]] | \[ideogram\] | olive oil subtype U |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT91\|HT91]] | ʿuṣār | pressed oil (ʿuṣār) |  |

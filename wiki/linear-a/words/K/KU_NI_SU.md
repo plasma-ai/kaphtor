@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 10a KU-NI-SU · heads a list of issues with no commodity logogram (SA-MA 4, DA-RE 16½, \*305-RU 2½, DA-RI-DA 8, ME-ZA 3); HT 86a/b A-KA-RU · KU-NI-SU GRA+K+L 20, SA-RU 20, DI-DE-RU 20, QA-RA₂-WA 10, the grain sign after the word; HT 95a/b the same set with DA-ME, MI-NU-TE and QE-RA₂-U. kunīšu 'emmer', an Akkadian loan (Gordon 1966, §116): CAD K 536 lists kunīšu beside kunāšu, and Nuzi writes ku-ni-šu in grain issues, 1 imēr ku-ni-šu ana PN (HSS 14 163:1; CAD K 537). S writes the Akkadian š of PS \*kunaṯ- (#1604), and the Ugarit polyglot sets \[ku-na\]-šu beside Ugaritic ku-sú-mu (GlOS 1, 323). GRA+KU abbreviates the word, and MI-NU-TE minūtu stands in the same set. Weak point: on HT 95a/b the word stands in a fixed set whose DA-ME and SA-RU take commodities elsewhere, as recipients do. Five attestations. See GRA+KU.
+HT 10a KU-NI-SU · heads a list of issues with no commodity logogram (SA-MA 4, DA-RE 16½, \*305-RU 2½, DA-RI-DA 8, ME-ZA 3); HT 86a/b A-KA-RU · KU-NI-SU GRA+K+L 20, SA-RU 20, DI-DE-RU 20, QA-RA₂-WA 10, the grain sign after the word; HT 95a/b the same set with DA-ME, MI-NU-TE and QE-RA₂-U. kunīšu 'emmer', an Akkadian loan (Gordon 1966, §116): CAD K 536 lists kunīšu beside kunāšu, and Nuzi writes ku-ni-šu in grain issues, 1 imēr ku-ni-šu ana PN (HSS 14 163:1; CAD K 537). S writes the Akkadian š of PS \*kunaṯ-, and the Ugarit polyglot sets \[ku-na\]-šu beside Ugaritic ku-sú-mu (GlOS 1, 323). GRA+KU abbreviates the word, and MI-NU-TE minūtu stands in the same set. Weak point: on HT 95a/b the word stands in a fixed set whose DA-ME and SA-RU take commodities elsewhere, as recipients do. Five attestations. See GRA+KU.
 
 ### Cognates
 
@@ -49,7 +49,7 @@ HT 10a KU-NI-SU · heads a list of issues with no commodity logogram (SA-MA 4, D
 |---|---|
 | Akkadian | kunāšu (kunīšu, kunšu) 'emmer' (CAD K 536); Nuzi ku-ni-šu, ku-ni-ši (HSS 14 163:1ff.; HSS 16 114:1; JEN 427:9; CAD K 537); Boğazköy ZÍD ku-ni-ši 'emmer flour' (AfO 16 48:21) |
 | Ugaritic | polyglot \[ÁŠ = ku-na\]-šu = Hurrian ut-te = Ugaritic ku-sú-mu (GlOS 1, 323) |
-| Syrian Aramaic | kunnātā (semitic_roots 1604) |
+| Aramaic | Official Aramaic knt 'emmer' (DNWSI 521) |
 
 ### Source
 

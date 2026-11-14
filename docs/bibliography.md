@@ -5,7 +5,7 @@ desc: The full references for the works the Linear A data, the Semitic roots and
 tags: [docs, linear-a, semitic-roots, pre-greek]
 authors: "di Mino"
 created: 2026-11-02T15:00:00Z
-updated: 2026-11-07T03:00:00Z
+updated: 2026-11-16T17:30:00Z
 ---
 
 # Bibliography
@@ -35,6 +35,9 @@ Al-Jallad, Ahmad. 2022. *The Religion and Rituals of the Nomads of Pre-Islamic A
 
 **Al-Jallad 2026**
 Al-Jallad, Ahmad. 2026. *Dictionary of the Inscriptions of Ancient North Arabia, Volume I: Safaitic*. Columbus, Ohio: Online Corpus of the Inscriptions of Ancient North Arabia (OCIANA). https://doi.org/10.5281/zenodo.23847496.
+
+**Al-Jallad 2026b**
+Al-Jallad, Ahmad. 2026. *Dictionary of the Inscriptions of Ancient North Arabia, Volume II: Taymanitic*. Columbus: Online Corpus of the Inscriptions of Ancient North Arabia (OCIANA). https://doi.org/10.5281/zenodo.24223110.
 
 **Allen 2014**
 Allen, James P. 2014. *Middle Egyptian: An Introduction to the Language and Culture of Hieroglyphs*. Cambridge University Press, Cambridge; 3rd ed. (1st ed. 2000, 2nd ed. 2010); ISBN 978-1-107-05364-9 (hardback), 978-1-107-66328-2 (paperback).
@@ -69,6 +72,9 @@ Astour, Michael C. 1965. *Hellenosemitica: An Ethnic and Cultural Study in West 
 **Astour 1966**
 Astour, Michael C. 1966. "Some New Divine Names from Ugarit." *Journal of the American Oriental Society* 86(3): 277–284.
 Astour, Michael C. 1966. "Aegean Place-Names in an Egyptian Inscription." *American Journal of Archaeology* 70.4: 313–317.
+
+**Astour 1995**
+Astour, Michael C. 1995. "La topographie du royaume d'Ougarit." In Marguerite Yon, Maurice Sznycer and Pierre Bordreuil (eds.), *Le pays d'Ougarit autour de 1200 av. J.-C.: Histoire et archéologie. Actes du Colloque International, Paris, 28 juin–1er juillet 1993*, Ras Shamra-Ougarit XI, Éditions Recherche sur les Civilisations, Paris, 55–71.
 
 **Baranowski 2014**
 Baranowski, Krzysztof J. 2014. *The Verb in the Amarna Letters from Canaan*. PhD dissertation, Graduate Department of Near and Middle Eastern Civilizations, University of Toronto.
@@ -129,6 +135,9 @@ Buck, Mary E. 2019. *The Amorite Dynasty of Ugarit: Historical Implications of L
 
 **Cash and Cash 2012**
 Cash, Roland, and Evelyne Cash. 2012. "La tablette HT 123: une comptabilité en linéaire A." *Kadmos* 50: 33–62. https://doi.org/10.1515/kadmos.2011.003.
+
+**Chabot et al. 1926** (cited as CIS II/3)
+Académie des Inscriptions et Belles-Lettres; Chabot, Jean-Baptiste, et al. (eds.). 1926. *Corpus Inscriptionum Semiticarum, Pars secunda: Inscriptiones Aramaicas continens, Tomus III, Sectio tertia: Inscriptiones Palmyrenae*. Parisiis: e Reipublicae Typographeo. https://archive.org/details/corpusinscriptio0003vari.
 
 **Chadwick and Baumbach 1963**
 Chadwick, John, and Lydia Baumbach. 1963. "The Mycenaean Greek Vocabulary." *Glotta* 41.3/4: 157–271.
@@ -221,6 +230,9 @@ Dozy, R. 1927. *Supplément aux dictionnaires arabes*. E. J. Brill, Leiden; Mais
 **Draffkorn 1959**
 Draffkorn, Anne Elizabeth. 1959. *Hurrians and Hurrian at Alalaḫ: An Ethno-linguistic Analysis*. PhD dissertation, University of Pennsylvania (University Microfilms, Ann Arbor, Mic 59-4612).
 
+**Du Mesnil du Buisson 1960**
+Du Mesnil du Buisson, Robert. 1960. "Le vrai nom de Bôl, prédécesseur de Bêl, à Palmyre." *Revue de l'histoire des religions* 158 (2): 145–160. https://doi.org/10.3406/rhr.1960.9094.
+
 **Duhoux 1978**
 Duhoux, Yves. 1978. "Une analyse linguistique du linéaire A." In *Études minoennes I: Le linéaire A*, edited by Yves Duhoux, 65–129. Bibliothèque des Cahiers de l'Institut de Linguistique de Louvain 14. Louvain: Peeters.
 
@@ -278,6 +290,9 @@ Franceschetti, Adele. 1990. "Le tazze ad iscrizione dipinta in Lineare A proveni
 **Frantsouzoff and Rossi 2023**
 Frantsouzoff, Serge, and Irene Rossi. 2023. "Dhat Ḥimyam." *Thematic Dictionary of Ancient Arabia*, online edition. https://doi.org/10.60667/tdaa-0040.
 
+**Freydank and Saporetti 1979**
+Freydank, Helmut, and Claudio Saporetti. 1979. *Nuove attestazioni dell'onomastica medio-assira*. Incunabula Graeca 74. Roma: Edizioni dell'Ateneo & Bizzarri.
+
 **Fronzaroli 1966** (also Fronzaroli 1965b)
 Fronzaroli, Pelio. 1965. "Studi sul lessico comune semitico. IV." *Rendiconti della Classe di Scienze morali, storiche e filologiche, Accademia Nazionale dei Lincei* XX: 246–269.
 
@@ -295,6 +310,9 @@ Gardiner, Alan H., ed. 1935. *Hieratic Papyri in the British Museum, Third Serie
 
 **Gauthier 1907**
 Gauthier, Henri. 1907. *Le livre des rois d'Égypte*, t. I: *Des origines à la fin de la XIIe dynastie*. MIFAO 17. Le Caire: IFAO.
+
+**Gawlikowski 1975**
+Gawlikowski, Michel. 1975. "Recueil d'inscriptions palmyréniennes provenant de fouilles syriennes et polonaises récentes à Palmyre." *Mémoires présentés par divers savants à l'Académie des inscriptions et belles-lettres de l'Institut de France. Première série, Sujets divers d'érudition* 16 (1): 263–377. https://doi.org/10.3406/mesav.1975.1134.
 
 **Gaya Nuño 1951**
 Gaya Nuño, Benito. 1951. "Sobre algunos grupos introductivos de Hagia Tríada." *Minos* 1: 92–99. https://revistas.usal.es/dos/index.php/0544-3733/article/view/2226.
@@ -328,6 +346,9 @@ Golinets, Viktor. 2025. "The Significance of the Newly Found Amorite–Akkadian 
 
 **Gordon 1934**
 Gordon, Cyrus H. 1934. "The Pronoun in the Nuzi Tablets." *The American Journal of Semitic Languages and Literatures* 51/1: 1–21. https://doi.org/10.1086/370440.
+
+**Gordon 1963**
+Gordon, Cyrus H. 1963. "The Mediterranean Factor in the Old Testament." In *Congress Volume Bonn 1962*, Supplements to Vetus Testamentum 9, pp. 19–31. Brill (Leiden).
 
 **Gordon 1965**
 Gordon, Cyrus H. 1965. *The Common Background of Greek and Hebrew Civilizations*. The Norton Library. W. W. Norton & Company, New York.
@@ -401,8 +422,14 @@ Hieber, Daniel W. 2026. "Pre-Greek: The lost language hidden within Ancient Gree
 **Hieber n.d.**
 Hieber, Daniel W. n.d. "Pre-Greek Toponyms." *Linguistic Discovery* (dataset). https://resources.linguisticdiscovery.com/pre-greek-toponyms.
 
+**Hill 1914**
+Hill, George Francis. 1914. *Catalogue of the Greek Coins of Palestine (Galilee, Samaria, and Judaea)*. British Museum (London).
+
 **Hoch 1994** (cited as Hoch)
 Hoch, James E. 1994. *Semitic Words in Egyptian Texts of the New Kingdom and Third Intermediate Period*. Princeton: Princeton University Press.
+
+**Hoekstra 1989**
+Hoekstra, Arie. 1989. "Books XIII–XVI." In Alfred Heubeck and Arie Hoekstra, *A Commentary on Homer's Odyssey*, vol. II: *Books IX–XVI*. Oxford: Clarendon Press.
 
 **Hogan 2026**
 Hogan, Robert. 2026. "Creating a network graph from the Linear A tablets." In E. Salgarella & V. Petrakis (eds.), The Wor(l)ds of Linear A, AURA Supplement 15; ASASA(RAME) 1, Department of History and Archaeology, NKUA, Athens, pp. 77–94.
@@ -554,11 +581,20 @@ Leslau, Wolf. 1963. *Etymological Dictionary of Harari*. Berkeley and Los Angele
 **Leslau 1987** (cited as CDG, LGz, LGz., Leslau CDG)
 Leslau, Wolf. 1987. *Comparative Dictionary of Geʿez (Classical Ethiopic)*. Wiesbaden: Harrassowitz.
 
+**Levaniouk 2011**
+Levaniouk, Olga. 2011. *Eve of the Festival: Making Myth in Odyssey 19*. Hellenic Studies Series 46. Center for Hellenic Studies (Washington, DC). http://nrs.harvard.edu/urn-3:hul.ebook:CHS_Levaniouk.Eve_of_the_Festival.2011.
+
 **Lipiński 1997** (cited as OLA80)
 Lipiński, Edward. 1997. *Semitic Languages: Outline of a Comparative Grammar*. Peeters (Orientalia Lovaniensia Analecta 80).
 
+**Louden 2011**
+Louden, Bruce. 2011. *Homer's Odyssey and the Near East*. Cambridge University Press.
+
 **MacGillivray, Driessen et al. 1998**
 MacGillivray, J. A., L. H. Sackett, and J. M. Driessen. 1998. "Excavations at Palaikastro, 1994 and 1996." *The Annual of the British School at Athens* 93: 221–268. https://doi.org/10.1017/s0068245400003440.
+
+**Marcato 2018**
+Marcato, Enrico. 2018. *Personal Names in the Aramaic Inscriptions of Hatra*. Antichistica 17, Studi orientali 7. Venezia: Edizioni Ca' Foscari. https://doi.org/10.30687/978-88-6969-231-4.
 
 **Marinatos 1951**
 Marinatos, Spyridon. 1951. "Some General Notes on the Minoan Written Documents." *Minos* 1: 39–42. https://revistas.usal.es/dos/index.php/0544-3733/article/view/2139.
@@ -607,6 +643,9 @@ Moran, W. L. 1960. "Early Canaanite yaqtula." *Orientalia* 29: 1–19.
 
 **Moran 1992** (cited as EA)
 Moran, William L. 1992. *The Amarna Letters*. Johns Hopkins University Press.
+
+**Mosenkis 2025**
+Mosenkis, Yurii. 2025. "Одіссей «новий місяць» і Пенелопа «повний місяць»" [Odysseus 'new moon' and Penelope 'full moon']. *Мова та історія: Збірник наукових праць* 541: 23. Kyiv.
 
 **Mourad 2014**
 Mourad, Anna-Latifa. 2014. *Rise of the Hyksos: Egypt and the Levant from the Middle Kingdom to the Early Second Intermediate Period*. PhD thesis, Macquarie University, Sydney.
@@ -677,6 +716,9 @@ Palaeolexicon. 2016. "Pre-Pre-Greek: Traces of a hunter-gatherer substrate in Gr
 **Palaima 1988**
 Palaima, Thomas G. 1988. "The Development of the Mycenaean Writing System." In J.-P. Olivier & T. G. Palaima (eds.), Texts, Tablets and Scribes: Studies in Mycenaean Epigraphy and Economy Offered to Emmett L. Bennett, Jr., Suplementos a Minos 10, Universidad de Salamanca, pp. 269ff.
 
+**Pardee 2000**
+Pardee, Dennis. 2000. *Les textes rituels*. Ras Shamra-Ougarit XII, 2 fascicules. Éditions Recherche sur les Civilisations, Paris.
+
 **Pardee 2002**
 Pardee, Dennis. 2002. *Ritual and Cult at Ugarit*. Society of Biblical Literature.
 
@@ -701,8 +743,14 @@ Peruzzi, Emilio. 1958. "Note minoiche." *Minos* 6: 9–15. https://revistas.usal
 **Peust 1999**
 Peust, Carsten. 1999. *Egyptian Phonology: An Introduction to the Phonology of a Dead Language*. Monographien zur ägyptischen Sprache 2. Peust & Gutschmidt, Göttingen. https://doi.org/10.11588/propylaeumdok.00001265.
 
+**Piersimoni 1995**
+Piersimoni, Palmira. 1995. *The Palmyrene Prosopography*. 2 vols. Doctoral thesis, University College London (University of London). https://discovery.ucl.ac.uk/id/eprint/1349788/.
+
 **Pinches 1917**
 Pinches, Theophilus G. 1917. "The Language of the Kassites." *Journal of the Royal Asiatic Society of Great Britain and Ireland* 49: 101–114. https://doi.org/10.1017/S0035869X00049947.
+
+**Poccetti 2012**
+Poccetti, Paolo. 2012. "Reflexes of Variations in Latin and Greek through neither Latin nor Greek Documentation: Names of Greek Religion and Mythology in the Languages of Ancient Italy." In Martti Leiwo, Hilla Halla-aho and Marja Vierros (eds.), *Variation and Change in Greek and Latin*, Papers and Monographs of the Finnish Institute at Athens XVII, pp. 71–96. Foundation of the Finnish Institute at Athens (Helsinki).
 
 **Podany 2002**
 Podany, Amanda H. 2002. *The Land of Hana: Kings, Chronology, and Scribal Tradition*. CDL Press, Bethesda, Maryland.
@@ -740,6 +788,9 @@ Rainey, Anson F. 1996. *Canaanite in the Amarna Tablets: A Linguistic Analysis o
 **Raison–Pope 1994**
 Raison, Jacques, and Maurice Pope. 1994. *Corpus transnuméré du linéaire A*. Peeters, Louvain-la-Neuve (Bibliothèque des Cahiers de l'Institut de Linguistique de Louvain 74).
 
+**Raja, Steding et al. 2026**
+Raja, Rubina, Julia Steding, Jean-Baptiste Yon, and Iza Romanowska. 2026. *Public Inscriptions from Palmyra*. Zenodo. https://doi.org/10.5281/zenodo.18934260.
+
 **Reinisch 1884**
 Reinisch, Leo. 1884. *Die Chamirsprache in Abessinien*. Offprint from Sitzungsberichte der phil.-hist. Classe der kais. Akademie der Wissenschaften. Wien: Carl Gerold's Sohn (in Commission).
 
@@ -769,6 +820,9 @@ Rubin, Aaron D. 2014. *The Jibbali (Shaḥri) Language of Oman: Grammar and Text
 
 **Rubin 2018**
 Rubin, Aaron D. 2018. *Omani Mehri: A New Grammar with Texts*. Brill, Leiden/Boston (Studies in Semitic Languages and Linguistics 93).
+
+**Sakellarakis and Olivier 1994**
+Sakellarakis, Yannis, and Jean-Pierre Olivier. 1994. "Un vase en pierre avec inscription en linéaire A du sanctuaire de sommet minoen de Cythère." *Bulletin de Correspondance Hellénique* 118/2: 343–351.
 
 **Salgarella 2020**
 Salgarella, Ester. 2020. *Aegean Linear Script(s): Rethinking the Relationship Between Linear A and Linear B*. Cambridge University Press.
@@ -938,8 +992,26 @@ Vercoutter, Jean. 1956. *L'Égypte et le monde égéen préhellénique: étude c
 **Waal 2017**
 Waal, Willemijn. 2017. "How to read the signs: The use of symbol, marking and pictographs in Bronze Age Anatolia." In *Non-scribal Communication Media in the Bronze Age Aegean and Surrounding Areas: The Semantics of A-literate and Proto-literate Media (Seals, Potmarks, Mason's Marks, Seal-impressed Pottery, Ideograms and Logograms, and Related Systems)*, edited by Anna Margherita Jasink, Judith Weingarten and Silvia Ferrara, 111–129. Periploi 9; Strumenti per la didattica e la ricerca 196. Firenze: Firenze University Press.
 
+**Watson 1990**
+Watson, Wilfred G. E. 1990. "Ugaritic Onomastics (1)." *Aula Orientalis* 8: 113–127.
+
+**Watson 1993**
+Watson, Wilfred G. E. 1993. "Ugaritic Onomastics (3)." *Aula Orientalis* 11: 213–222.
+
+**Watson 1995**
+Watson, Wilfred G. E. 1995. "Ugaritic Onomastics (4)." *Aula Orientalis* 13: 217–229.
+
 **Watson 1996**
 Watson, Wilfred G. E. 1996. "Further Comments on Ugaritic wn." *Aula Orientalis* 14: 285–287.
+
+**Watson 1996b**
+Watson, Wilfred G. E. 1996. "Ugaritic Onomastics (5)." *Aula Orientalis* 14: 93–106.
+
+**Watson 2001**
+Watson, Wilfred G. E. 2001. "The Lexical Aspect of Ugaritic Toponyms." *Aula Orientalis* 19: 109–123.
+
+**Watson 2003**
+Watson, Wilfred G. E. 2003. "Ugaritic Onomastics (7)." *Aula Orientalis* 21: 243–248.
 
 **Watson 2007**
 Watson, Wilfred G. E. 2007. "Additional Names for Animals in the Ugaritic Texts." *Historiae* 4: 93–116.
@@ -947,8 +1019,14 @@ Watson, Wilfred G. E. 2007. "Additional Names for Animals in the Ugaritic Texts.
 **Watson 2012**
 Watson, Wilfred G. E. 2012. "Ugaritic Onomastics (8)." *Aula Orientalis* 30: 323–351.
 
+**Watson 2016**
+Watson, Wilfred G. E. 2016. "Ugaritic Onomastics (9)." *Aula Orientalis* 34/2: 335–358.
+
 **Watson 2018**
 Watson, Wilfred G. E. 2018. "Terms for Occupations, Professions and Social Classes in Ugaritic: An Etymological Study." *Folia Orientalia* 55: 307–378. https://doi.org/10.24425/for.2018.124688
+
+**Watson 2018b**
+Watson, Wilfred G. E. 2018. "Terms for Textiles, Clothing, Hides, Wool and Accessories in Ugaritic: An Etymological Study." *Aula Orientalis* 36/2: 359–396.
 
 **Watson 2020**
 Watson, Wilfred G. E. 2020. "A New Proposal for Ugaritic ṣṣ, “salt, salt-field”." *Historiae* 17: 15–23.
@@ -976,6 +1054,9 @@ Wreszinski, Walter. 1912. *Der Londoner medizinische Papyrus (Brit. Museum Nr. 1
 
 **Yakubovich 2015**
 Yakubovich, Ilya. 2015. *The Luwian Language*. Manuscript.
+
+**Yon 2012**
+Yon, Jean-Baptiste. 2012. *Inscriptions grecques et latines de la Syrie. Tome XVII, fascicule 1: Palmyre*. Bibliothèque archéologique et historique 195. Beyrouth: Presses de l'Ifpo.
 
 **Younger 2023**
 Younger, John G. 2023. *Linear A Texts and Inscriptions in Phonetic Transcription and Commentary*. University of Kansas (people.ku.edu/~jyounger/LinearA/).
@@ -1011,6 +1092,7 @@ These works are not held. The data cites each through another work, named after 
 - **Gordon 1969**: GORDON, C. H. 1969 «Ki-de-ma-wi-na (HT 31:4)», Kadmos 8, pp. 131-133. Cited through Duhoux 2002.
 - **Gordon 1976**: GORDON, C. H. 1976 «Further Notes on the Hagia Triada Tablet n° 31», Kadmos 15, pp. 28-30. Cited through Duhoux 2002.
 - **Greenfield 1958**: Greenfield 1958 – J. Greenfield. Lexicographic Notes. I. HUCA 29:203‒228. Cited through SEDonline.
+- **Hillers and Cussini 1996** (cited as PAT): Hillers, Delbert R.; Cussini, Eleonora (1996). Palmyrene Aramaic Texts. Baltimore; London: The Johns Hopkins University Press. Publications of the Comprehensive Aramaic Lexicon Project III. Cited through Marcato 2018.
 - **Häberl et al. 2020**: key only. Cited through SEDonline.
 - **Hetzron 1977b**: Hetzron 1977b – R. Hetzron. Innovations in the Semitic Numeral System. JSS 22:167‒201. Cited through SEDonline.
 - **Huehnergard 1987**: Huehnergard, J. 1987: Ugaritic Vocabulary in Syllabic Transcription (HSS 32). Atlanta. Cited through Watson 2020.
@@ -1067,6 +1149,7 @@ These works are not held. The data cites each through another work, named after 
 - **Renfroe 1992**: Renfroe 1992 – F. Renfroe. Arabic-Ugaritic Lexical Studies. Münster. Cited through SEDonline.
 - **Ryckmans 1975**: RycMus88 ______. "Himyaritica, V." Mus 88 (1975) 199-219. Cited through Biella 1982.
 - **Simeone-Senelle–Lonnet 1991**: M.-C. Simeone-Senelle, A. Lonnet. Lexique soqotri: les noms des parties du corps. Semitic Studies in Honor of Wolf Leslau. On the Occasion of His Eighty-fifth Birthday. Wiesbaden, 1991. Pp. 1143–1487. Cited through SEDonline.
+- **Stark 1971**: Stark, Jürgen K. (1971). Personal Names in Palmyrene Inscriptions. Oxford: Clarendon Press. Cited through Marcato 2018.
 - **Stein 2010**: Stein 2010 – P. Stein. Die altsüdarabischen Minuskelinschriften auf Holzstäbchen aus der Bayerischen Staatsbibliothek in München. Tübingen/Berlin. Cited through SEDonline.
 - **Stein 2012**: P. Stein, Lehrbuch der sabäischen Sprache. 2. Teil: Chrestomathie, Wiesbaden (Sabaweb bibliography). Cited through Sabaweb.
 - **Talon 1997**: Monti 2017 gives the key only (its bibliography lists Talon 1996 alone). Cited through Monti 2017.
@@ -1196,6 +1279,7 @@ Roots cells counts the roots’ cite cells (`reflexes[].cite`, `sed`) that carry
 | Aist | J. Aistleitner. Wörterbuch der ugaritischen Sprache. Leipzig, 1963. | 49 |  |
 | AIT | Wiseman, *The Alalakh Tablets* (1953) |  | 1 |
 | Al-Jallad 2026 | Al-Jallad, *Dictionary of the Inscriptions of Ancient North Arabia, Volume I: Safaitic* (2026) | 400 |  |
+| Al-Jallad 2026b | Al-Jallad, *Dictionary of the Inscriptions of Ancient North Arabia, Volume II: Taymanitic* (2026) | 124 |  |
 | Al-Jallad–Jaworska | Ahmad Al-Jallad and Karolina Jaworska, *A Dictionary of the Safaitic Inscriptions* (2019) | 288 |  |
 | Anderson–Moser 2024 | Anderson, *Protosemitic Root Derivations* (2024) | 1369 |  |
 | Andersson | author–year, the year in the loc: Andersson 2012 | 1 |  |
@@ -1314,6 +1398,7 @@ Roots cells counts the roots’ cite cells (`reflexes[].cite`, `sed`) that carry
 | FM II | Charpin, *Florilegium marianum II* (1994) |  | 2 |
 | FM IV | Ziegler, *Florilegium marianum IV: Le Harem de Zimrî-Lîm* (1999) |  | 5 |
 | FM V | Charpin, *Florilegium marianum V: Mari et le Proche-Orient à l'époque amorrite. Essai d'histoire politique* (2003) |  | 6 |
+| FM VI | Charpin and Durand (eds.), *Florilegium marianum VI* (2002) |  | 1 |
 | Fouc. | Ch. de Foucauld. Dictionnaire touareg-français. Vol. 1—4. P., 1951—1952. | 1 |  |
 | Fox | S. E. Fox. The Neo-Aramaic Dialect of Jilu. Wiesbaden, 1997. | 3 |  |
 | Fr | Georg Wilhelm Freytag, *Lexicon arabico-latinum, tomi I–II* (1830) | 5 |  |

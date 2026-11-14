@@ -20,10 +20,10 @@ updated: 2026-11-11T23:49:15Z
 | Field | Value |
 |---|---|
 | Names | 309 |
-| Kinds | personal names 191, titles 51, divine names 26, place names 26, gentilics 11, place names or gentilics 4 |
-| Roots | 236 |
-| Sites | Haghia Triada 183, Zakros 41, Khania 17, Knossos 15, Phaistos 11, Palaikastro 10, Arkhanes 8, Syme 6, Malia 4, Petras 3, Crete 3, Thera 2, Kophinas 2, Iouktas 2, Tylissos 2, Platanos 2, Nerokurou 1, Skoteino Cave 1, Inatos 1, Kamilari 1, Lachish 1, Samothrace 1, Prassa 1, Gournia 1, Miletos 1, Pyrgos 1, Kophinas (?) 1, Poros Herakleiou 1, Mokhlos 1 |
-| Standing | SPECULATIVE 187, CANDIDATE 95, PROBABLE 23, CONFIRMED 4 |
+| Kinds | personal names 191, titles 50, divine names 28, place names 25, gentilics 11, place names or gentilics 4 |
+| Roots | 233 |
+| Sites | Haghia Triada 181, Zakros 42, Khania 16, Knossos 16, Phaistos 11, Palaikastro 10, Arkhanes 8, Syme 6, Malia 4, Petras 3, Crete 3, Thera 2, Kophinas 2, Iouktas 2, Tylissos 2, Platanos 2, Nerokurou 1, Skoteino Cave 1, Inatos 1, Kamilari 1, Lachish 1, Samothrace 1, Prassa 1, Gournia 1, Miletos 1, Pyrgos 1, Kophinas (?) 1, Poros Herakleiou 1, Mokhlos 1 |
+| Standing | SPECULATIVE 186, CANDIDATE 97, PROBABLE 22, CONFIRMED 4 |
 
 ## Roots that carry more than one name
 
@@ -36,13 +36,12 @@ updated: 2026-11-11T23:49:15Z
 | [[wiki/names/semitic/roots/y-d\|y-d]] | [[wiki/names/semitic/names/I_DA\|I-DA]], [[wiki/names/semitic/names/I_DA_A\|I-DA-A]], [[wiki/names/semitic/names/I_DA_MI\|I-DA-MI]], [[wiki/names/semitic/names/I_DU_NE_SI\|I-DU-NE-SI]], [[wiki/names/semitic/names/JA_DI\|JA-DI]], [[wiki/names/semitic/names/JE_DI\|JE-DI]] |
 | [[wiki/names/semitic/roots/n-w-r\|n-w-r]] | [[wiki/names/semitic/names/JA_I_NWA_RO\|JA-I-NWA-RO]], [[wiki/names/semitic/names/NU_RO\|NU-RO]], [[wiki/names/semitic/names/QA_MI_star47_NA_RA\|QA-MI-\*47-NA-RA]], [[wiki/names/semitic/names/star47_NU_RA_JA\|\*47-NU-RA-JA]], [[wiki/names/semitic/names/star301_U_RA\|\*301-U-RA]] |
 | [[wiki/names/semitic/roots/ayin-m-m\|ʿ-m-m]] | [[wiki/names/semitic/names/A_MA_JA\|A-MA-JA]], [[wiki/names/semitic/names/A_MA_WA_SI\|A-MA-WA-SI]], [[wiki/names/semitic/names/A_MI_DA_U\|A-MI-DA-U]], [[wiki/names/semitic/names/A_MI_JA_RU\|A-MI-JA-RU]], [[wiki/names/semitic/names/star306_plus_MI\|\*306+MI]] |
+| [[wiki/names/semitic/roots/d-q-q\|d-q-q]] | [[wiki/names/semitic/names/A_DI_KI_TE_TE\|A-DI-KI-TE-TE]], [[wiki/names/semitic/names/DA_KI_TI\|DA-KI-TI]], [[wiki/names/semitic/names/JA_DI_KI_TU\|JA-DI-KI-TU]], [[wiki/names/semitic/names/RA_O_DI_KI\|RA-O-DI-KI]] |
 | [[wiki/names/semitic/roots/q-w-y\|q-w-y]] | [[wiki/names/semitic/names/JA_KU\|JA-KU]], [[wiki/names/semitic/names/JA_KU_TI\|JA-KU-TI]], [[wiki/names/semitic/names/KO_A_DU_WA\|KO-A-DU-WA]], [[wiki/names/semitic/names/KO_JA\|KO-JA]] |
 | [[wiki/names/semitic/roots/y-t-n\|y-t-n]] | [[wiki/names/semitic/names/A_TA_NA_JE\|A-TA-NA-JE]], [[wiki/names/semitic/names/A_TA_NA_TE\|A-TA-NA-TE]], [[wiki/names/semitic/names/I_TI_NI_SA\|I-TI-NI-SA]], [[wiki/names/semitic/names/JE_TA_NA\|JE-TA-NA]] |
 | [[wiki/names/semitic/roots/sh-r-r\|š-r-r]] | [[wiki/names/semitic/names/SA_RA\|SA-RA]], [[wiki/names/semitic/names/SA_RA2\|SA-RA₂]], [[wiki/names/semitic/names/SA_RO\|SA-RO]], [[wiki/names/semitic/names/SA_RU\|SA-RU]] |
-| [[wiki/names/semitic/roots/alef-d-d\|ʾ-d-d]] | [[wiki/names/semitic/names/A_DU\|A-DU]], [[wiki/names/semitic/names/A_DU_KU_MI_NA\|A-DU-KU-MI-NA]], [[wiki/names/semitic/names/A_DU_NI_TA_NA\|A-DU-NI-TA-NA]], [[wiki/names/semitic/names/KO_A_DU_WA\|KO-A-DU-WA]] |
 | [[wiki/names/semitic/roots/alef-l\|ʾ-l]] | [[wiki/names/semitic/names/I_RA2\|I-RA₂]], [[wiki/names/semitic/names/I_RU_JA\|I-RU-JA]], [[wiki/names/semitic/names/PI_RU_E_JU\|PI-RU-E-JU]], [[wiki/names/semitic/names/SA_RE_JU\|SA-RE-JU]] |
 | [[wiki/names/semitic/roots/b-n-y\|b-n-y]] | [[wiki/names/semitic/names/PA3_NI\|PA₃-NI]], [[wiki/names/semitic/names/PA3_NI_NA\|PA₃-NI-NA]], [[wiki/names/semitic/names/PA3_NI_WI\|PA₃-NI-WI]] |
-| [[wiki/names/semitic/roots/d-q-q\|d-q-q]] | [[wiki/names/semitic/names/A_DI_KI_TE_TE\|A-DI-KI-TE-TE]], [[wiki/names/semitic/names/JA_DI_KI_TU\|JA-DI-KI-TU]], [[wiki/names/semitic/names/RA_O_DI_KI\|RA-O-DI-KI]] |
 | [[wiki/names/semitic/roots/d-w-r\|d-w-r]] | [[wiki/names/semitic/names/DA_RU_NE_TE\|DA-RU-NE-TE]], [[wiki/names/semitic/names/DA_RU_star329\|DA-RU-\*329]], [[wiki/names/semitic/names/JA_DU_RA_TI\|JA-DU-RA-TI]] |
 | [[wiki/names/semitic/roots/d-th-r\|d-ṯ-r]] | [[wiki/names/semitic/names/DA_SE_RA_TE\|DA-SE-RA-TE]], [[wiki/names/semitic/names/DA_TA_RA\|DA-TA-RA]], [[wiki/names/semitic/names/DA_TA_RE\|DA-TA-RE]] |
 | [[wiki/names/semitic/roots/k-m-m\|k-m-m]] | [[wiki/names/semitic/names/A_DU_KU_MI_NA\|A-DU-KU-MI-NA]], [[wiki/names/semitic/names/A_KU_MI_NA\|A-KU-MI-NA]], [[wiki/names/semitic/names/SI_DU_star34_KU_MI\|SI-DU-\*34-KU-MI]] |
@@ -54,7 +53,9 @@ updated: 2026-11-11T23:49:15Z
 | [[wiki/names/semitic/roots/q-r-n\|q-r-n]] | [[wiki/names/semitic/names/I_KU_RI_NA\|I-KU-RI-NA]], [[wiki/names/semitic/names/KA_RI_star310_I\|KA-RI-\*310-I]], [[wiki/names/semitic/names/KA_RO_NA\|KA-RO-NA]] |
 | [[wiki/names/semitic/roots/q-w-m\|q-w-m]] | [[wiki/names/semitic/names/MA_KA_I_SE\|MA-KA-I-SE]], [[wiki/names/semitic/names/MA_KA_I_TA\|MA-KA-I-TA]], [[wiki/names/semitic/names/QA_MI_star47_NA_RA\|QA-MI-\*47-NA-RA]] |
 | [[wiki/names/semitic/roots/r-n-n\|r-n-n]] | [[wiki/names/semitic/names/A_RE_PI_RE_NA\|A-RE-PI-RE-NA]], [[wiki/names/semitic/names/RA_NA_TU_SU\|RA-NA-TU-SU]], [[wiki/names/semitic/names/RU_NI\|RU-NI]] |
+| [[wiki/names/semitic/roots/t-n-n\|t-n-n]] | [[wiki/names/semitic/names/TA_NA_TE\|TA-NA-TE]], [[wiki/names/semitic/names/TA_NA_TI\|TA-NA-TI]], [[wiki/names/semitic/names/TI_NI_TA\|TI-NI-TA]] |
 | [[wiki/names/semitic/roots/sh-m\|š-m]] | [[wiki/names/semitic/names/JA_DA_SU\|JA-DA-SU]], [[wiki/names/semitic/names/JA_SU_MA_TU\|JA-SU-MA-TU]], [[wiki/names/semitic/names/SI_MA\|SI-MA]] |
+| [[wiki/names/semitic/roots/alef-d-d\|ʾ-d-d]] | [[wiki/names/semitic/names/A_DU\|A-DU]], [[wiki/names/semitic/names/A_DU_NI_TA_NA\|A-DU-NI-TA-NA]], [[wiki/names/semitic/names/KO_A_DU_WA\|KO-A-DU-WA]] |
 | [[wiki/names/semitic/roots/alef-d-r\|ʾ-d-r]] | [[wiki/names/semitic/names/A_DA_RO\|A-DA-RO]], [[wiki/names/semitic/names/DI_DE_RU\|DI-DE-RU]], [[wiki/names/semitic/names/DI_RE_DI_NA\|DI-RE-DI-NA]] |
 | [[wiki/names/semitic/roots/ayin-n-t\|ʿ-n-t]] | [[wiki/names/semitic/names/DA_RU_NE_TE\|DA-RU-NE-TE]], [[wiki/names/semitic/names/I_NA_TA_I_ZU_DI_SI_KA\|I-NA-TA-I-ZU-DI-SI-KA]], [[wiki/names/semitic/names/KA_KU_NE_TE\|KA-KU-NE-TE]] |
 | [[wiki/names/semitic/roots/ayin-t-w\|ʿ-t-w]] | [[wiki/names/semitic/names/U_TA_I_SE\|U-TA-I-SE]], [[wiki/names/semitic/names/star306_TU\|\*306-TU]], [[wiki/names/semitic/names/star306_TU_JA\|\*306-TU-JA]] |
@@ -77,8 +78,8 @@ updated: 2026-11-11T23:49:15Z
 | [[wiki/names/semitic/roots/r-ayin-y\|r-ʿ-y]] | [[wiki/names/semitic/names/RA_O_DI_KI\|RA-O-DI-KI]], [[wiki/names/semitic/names/RO_E\|RO-E]] |
 | [[wiki/names/semitic/roots/s-d-r\|s-d-r]] | [[wiki/names/semitic/names/SI_DA_RE\|SI-DA-RE]], [[wiki/names/semitic/names/SI_DA_RO\|SI-DA-RO]] |
 | [[wiki/names/semitic/roots/s-g-r\|s-g-r]] | [[wiki/names/semitic/names/SU_KI_RI_TA\|SU-KI-RI-TA]], [[wiki/names/semitic/names/SU_KI_RI_TE_I_JA\|SU-KI-RI-TE-I-JA]] |
+| [[wiki/names/semitic/roots/s-k-n\|s-k-n]] | [[wiki/names/semitic/names/SI_KI_NE\|SI-KI-NE]], [[wiki/names/semitic/names/star47_KU_NA\|\*47-KU-NA]] |
 | [[wiki/names/semitic/roots/t-m-r\|t-m-r]] | [[wiki/names/semitic/names/TI_MA_RU_WI_TE\|TI-MA-RU-WI-TE]], [[wiki/names/semitic/names/TO_MA_RO\|TO-MA-RO]] |
-| [[wiki/names/semitic/roots/t-n-n\|t-n-n]] | [[wiki/names/semitic/names/TA_NA_TE\|TA-NA-TE]], [[wiki/names/semitic/names/TA_NA_TI\|TA-NA-TI]] |
 | [[wiki/names/semitic/roots/w-d-d\|w-d-d]] | [[wiki/names/semitic/names/WI_DI_NA\|WI-DI-NA]], [[wiki/names/semitic/names/WI_TE_JA_MU\|WI-TE-JA-MU]] |
 | [[wiki/names/semitic/roots/w-p-ayin\|w-p-ʿ]] | [[wiki/names/semitic/names/A_WA_PI\|A-WA-PI]], [[wiki/names/semitic/names/JA_WA_PI\|JA-WA-PI]] |
 | [[wiki/names/semitic/roots/y-d-ayin-2\|y-d-ʿ]] | [[wiki/names/semitic/names/A_MI_DA_U\|A-MI-DA-U]], [[wiki/names/semitic/names/JA_DA_SU\|JA-DA-SU]] |
@@ -91,6 +92,7 @@ updated: 2026-11-11T23:49:15Z
 | [[wiki/names/semitic/roots/alef-s-y\|ʾ-s-y]] | [[wiki/names/semitic/names/A_SE\|A-SE]], [[wiki/names/semitic/names/A_SE_JA\|A-SE-JA]] |
 | [[wiki/names/semitic/roots/alef-w-r\|ʾ-w-r]] | [[wiki/names/semitic/names/AU_RE_TE\|AU-RE-TE]], [[wiki/names/semitic/names/U_RE_WI\|U-RE-WI]] |
 | [[wiki/names/semitic/roots/ayin-b-r\|ʿ-b-r]] | [[wiki/names/semitic/names/A_PA_RA_NE\|A-PA-RA-NE]], [[wiki/names/semitic/names/PA_RA_NE\|PA-RA-NE]] |
+| [[wiki/names/semitic/roots/ayin-th-t-r\|ʿ-ṯ-t-r]] | [[wiki/names/semitic/names/A_TA_RE\|A-TA-RE]], [[wiki/names/semitic/names/A_TI_RU\|A-TI-RU]] |
 | [[wiki/names/semitic/roots/hh-y-y\|ḥ-y-y]] | [[wiki/names/semitic/names/A_JA\|A-JA]], [[wiki/names/semitic/names/A_JU\|A-JU]] |
 | [[wiki/names/semitic/roots/ss-d-q\|ṣ-d-q]] | [[wiki/names/semitic/names/A_SA_DA_KA\|A-SA-DA-KA]], [[wiki/names/semitic/names/SI_DU_star34_KU_MI\|SI-DU-\*34-KU-MI]] |
 | [[wiki/names/semitic/roots/ss-l-l\|ṣ-l-l]] | [[wiki/names/semitic/names/SI_RU\|SI-RU]], [[wiki/names/semitic/names/SI_RU_MA_RI_TA2\|SI-RU-MA-RI-TA₂]] |

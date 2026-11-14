@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/words/K/KA_star314_SI
 title: "KA-*314-SI"
-desc: "Kaḥas: personal name; Egyptian kꜣḥs, a name under Senusret III; rival kabsi 'young ram'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
+desc: "kaḥsi: chair, throne (goods on a receipt). Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "hapax", "noun"]
 kind: "word"
 form: "KA-*314-SI"
-datasets: ["lexicon", "onomasticon"]
-tier: 1
-confidence: "SPECULATIVE"
-confidence_score: 0.3
-reading: "Kaḥas"
+datasets: ["lexicon"]
+tier: 2
+confidence: "CANDIDATE"
+confidence_score: 0.4
+reading: "kaḥsi"
 attestations: ["PHWc37"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -27,51 +27,44 @@ updated: 2026-10-24T16:17:50Z
 
 ## Lexicon
 
-**SPECULATIVE**, tier 1 of 4, score 0.30
+**CANDIDATE**, tier 2 of 4, score 0.40
 
 | Field | Value |
 |---|---|
-| Reading | Kaḥas |
-| Meaning | personal name; Egyptian kꜣḥs, a name under Senusret III; rival kabsi 'young ram' |
-| Language layer | Middle Egyptian |
-| Tags | hapax, personal_name |
-| Semantic field | personal_name |
+| Reading | kaḥsi |
+| Meaning | chair, throne (goods on a receipt) |
+| Root | k-ḥ-ṯ |
+| Language layer | Semitic |
+| Tags | hapax, noun |
+| Semantic field | commodity |
 
 ### Note
 
-PH Wc 37 KA-\*314-SI \*320, a Phaistos roundel (MM II), all three signs whole (GORILA II 94). Egyptian kꜣḥs, a name under Senusret III (Ranke II, 322.3; PNM v6, Louvre C 173), with \*314 read ḥa and the final vowel dead. Rival, \*314 as a variant of PU₂: kabsi 'young ram', Akk. kabsu (CAD K 23), Heb. kebeś, a roundel commodity. One witness.
+PH Wc 37 KA-\*314-SI \*320, a Phaistos roundel (MM II), all three signs whole (GORILA II 94). kaḥsi 'chair, throne', goods on a receipt: Ug. kḥṯ, pl. kḥṯm, the seat of a god or king, l kḥṯ drkth 'to the throne of his dominion' (KTU 1.3 IV 3; DULAT 429); the Amarna gloss GU.ZA ka-aḫ-šu, a chair plated with gold in a list of belongings (EA 120:18); Egyptian group writing ka-ḥ-si, sign for sign (GlOS 1, 303, after Hoch, SWET 336f., no. 496). GlOS compares Hurrian kešḫi 'throne, chair'. ḤA carries the ḥ with its echo vowel, and SI the Canaanite š from ṯ, as SU in PA-RO-SU. \*320 on the other face is unread. One attestation. See \*314-TA-MA.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Egyptian | kꜣḥs, a personal name (PNM v6, personal_names_id 142607804; Ranke II, 322.3) |
-| Akkadian | kabsu 'young male sheep' (CAD K 23), the rival |
+| Ugaritic | kḥṯ 'throne', pl. kḥṯm (DULAT 429); l kḥṯ drkth, KTU 1.3 IV 3 |
+| Amarna Canaanite | GU.ZA ka-aḫ-šu 'chair', a gloss (EA 120:18; GlOS 1, 303) |
+| Egyptian | ka-ḥ-si, ka-ḥa-sa, ka-ḥa-su₂ 'throne, chair', group writing (GlOS 1, 303, after Hoch, SWET 336f., no. 496) |
+| Hurrian | kešḫi 'throne, chair', compared (GlOS 1, 303) |
 
 ### Source
 
-Ilin-Tomich 2025 (PNM v6), s.v. kꜣḥs; di Mino
+di Mino; DULAT; GlOS 1
 
 ## Attestations
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/PH/PHWc/PHWc37\|PHWc37]] | Phaistos | Roundel | none |
+| [[wiki/linear-a/inscriptions/PH/PHWc/PHWc37\|PHWc37]] | Phaistos | Roundel | complete |
 
-## Onomasticon
+## In translations
 
-| Field | Value |
-|---|---|
-| Type | personal name (SPECULATIVE) |
-| Affiliation | egyptian (SPECULATIVE) |
-| Evidence | lexicon_reading |
-| Entry | manual |
-| Occurrences | 1 in 1 documents |
-| Sites | Phaistos |
-| Supports | Roundel 1 |
-
-### Note
-
-PH Wc 37, a Phaistos roundel with \*320. Egyptian kꜣḥs, a name under Senusret III (Ranke II, 322.3; PNM v6), with \*314 read ḥa. Rival: \*314 as a variant of PU₂, giving kabsi 'young ram' (Akk. kabsu), a roundel commodity. See the lexicon entry.
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/PH/PHWc/PHWc37\|PHWc37]] | kaḥsi | chair, throne (goods on a receipt) | CANDIDATE |
 
 <!-- END kaphtor:record -->

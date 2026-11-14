@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/g
 desc: "Semitic roots whose first radical is g."
 created: 2026-10-22T17:38:31Z
-updated: 2026-11-10T03:48:00Z
+updated: 2026-11-16T17:25:52Z
 ---
 
 # wiki/semitic-roots/g
@@ -13,7 +13,7 @@ updated: 2026-11-10T03:48:00Z
 
 [[wiki/semitic-roots/g/1011_divide|1011_divide]]: Proto-Semitic *gVʕVl-, 'divide': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/g/1026_gather|1026_gather]]: Proto-Semitic *gVmaʕ-, 'gather': reflexes in 4 language(s).
+[[wiki/semitic-roots/g/1026_gather|1026_gather]]: Proto-Semitic *gVmaʕ-, 'gather': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/g/1028_be_full|1028_be_full]]: Proto-Semitic *gVmu/im-, 'be full': reflexes in 1 language(s).
 
@@ -329,7 +329,7 @@ updated: 2026-11-10T03:48:00Z
 
 [[wiki/semitic-roots/g/3242_threshing_floor|3242_threshing_floor]]: Proto-Semitic *gurn-, 'threshing floor': reflexes in 6 language(s).
 
-[[wiki/semitic-roots/g/3243_to_be_lucky_fortunate_luck_fortune|3243_to_be_lucky_fortunate_luck_fortune]]: Proto-Semitic *gd, 'to be lucky, fortunate; luck, fortune': reflexes in 13 language(s).
+[[wiki/semitic-roots/g/3243_to_be_lucky_fortunate_luck_fortune|3243_to_be_lucky_fortunate_luck_fortune]]: Proto-Semitic *gd, 'to be lucky, fortunate; luck, fortune': reflexes in 14 language(s).
 
 [[wiki/semitic-roots/g/3267_to_gather_fruit_garden_crop|3267_to_gather_fruit_garden_crop]]: Proto-Semitic *gny, 'to gather fruit; garden crop': reflexes in 2 language(s).
 

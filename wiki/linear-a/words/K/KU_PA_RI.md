@@ -47,6 +47,7 @@ PE 1 .2 KU-PA-RI VIR 5̣0\[, whole, under the heading U-KA-RE A-SE-SI-NA; .3 GRA
 
 | Language | Comparison |
 |---|---|
+| Eblaite | ga-ba-ru₁₂ /kapr/ 'village' (GlOS 1, 315) |
 | Hebrew | kōper 'village', wᵉʿad kōper happᵉrāzî 'and to the village of the open country' (1 Sam 6:18); pl. kᵉpārîm, beʿārîm ûbakkᵉpārîm 'in the cities and in the villages' (1 Chr 27:25) |
 | Akkadian | kaparru 'shepherd of low rank': ŠE.BA 7 LÚ ka-pa-ar-ri 'grain rations of 7 k.-shepherds' (Chagar Bazar, AOAT 1 206 A 931:16); rations ša LÚ.NA.GADA.MEŠ u LÚ ka-pa-ar-ri (ARM 5 71:6, 14) (CAD K 177), the rival |
 

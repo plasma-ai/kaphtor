@@ -31,4 +31,6 @@ updated: 2026-11-12T00:26:03Z
 
 A ligature. Status **unread** (nothing on file).
 
+PH 8a, counted 7: a tall tapering container filled with diagonal strokes, a loop at the upper right, L2 beneath; SigLA codes it A417, the hatched vessel of KH Wc 2006 and 2007.
+
 <!-- END kaphtor:record -->

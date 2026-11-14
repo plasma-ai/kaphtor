@@ -40,18 +40,19 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Keftiu Spell 33 (London Medical Papyrus, BM 10059), element 7, in Egyptian group-writing with the determinative A2 'to speak, think'. Steiner reads \*ḥanqatu 'she who strangles', a disease demon: √ḥ-n-q, Akk. ḫanāqu (CAD Ḫ 75), Heb. ḥānaq (Nah 2:13), Syr. ḥnaq, Ar. ḫanaqa, with Egyptian h for ḥ as usual. The samānu disease swells and constricts, and a strangling demon fits it. The m' before k writes the velar nasal \[ŋ\], as Akkadian writes /n/ as m before a velar, ku-um-ka for /kunkū/ (Steiner 1992, 198 and n. 61). Weak point: N and M' both stand before K3, where Steiner reads one nasal, ḥ-m-k-tu.
+Keftiu Spell 33 (London Medical Papyrus, BM 10059), element 7, in Egyptian group-writing with the determinative A2 'to speak, think'. Steiner reads ḥ-m-k-tu, the 'strangulation-demon', PS \*ḫanqatu 'strangulation': Akk. ḫanāqu (CAD Ḫ 75), Heb. ḥānaq (Nah 2:13), Syr. ḥnaq, Ar. ḫanaqa; Egyptian ḥ writes \*ḫ, merged with ḥ in Phoenician, and k writes q, as in Spell 30 (Steiner 1992, 198). The samānu disease swells and constricts, and a strangling demon fits it. Steiner identifies her with Ugarit's iltm ḫnqtm, ʾIlatāma Ḫāniqatāma 'the two strangler goddesses', who receive two ewes (KTU 1.39:18) and stand in a god-list (KTU 1.102:13; Pardee 2000, 968), and with the ḥnqt of the first Arslan Tash incantation, lḥnqt ʾmr (KAI 27:4–5), Phoenician ḥnq 'to strangle' (DNWSI 389). The m' before k writes the velar nasal \[ŋ\], as Akkadian writes /n/ as m before a velar, ku-um-ka for /kunkū/ (Steiner 1992, 198 and n. 61). Weak point: N and M' both stand before K3, where Steiner reads one nasal, ḥ-m-k-tu.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Ugaritic | ḫnqt 'strangler', du. ḫnqtm (GlOS 1, 275) |
+| Ugaritic | ḫnqt 'strangler', du. ḫnqtm (GlOS 1, 275); iltm ḫnqtm 'the two strangler goddesses' (KTU 1.39:18; 1.102:13; Pardee 2000, 968) |
 | Eblaite | Ì.SIG.SIG = ḫu-nu-ga-tum 'constriction' (GlOS 1, 275) |
+| Phoenician | ḥnq 'to strangle'; lḥnqt ʾmr, the strangler of the first Arslan Tash incantation (KAI 27:4–5; DNWSI 389) |
 
 ### Source
 
-di Mino; Steiner 1992; GlOS 1
+di Mino; Steiner 1992; GlOS 1; Pardee 2000; DNWSI; CAD Ḫ
 
 ## Attestations
 

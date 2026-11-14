@@ -41,19 +41,19 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-PH 2 .1–2 RA-O-DI-KI 60, RA at the end of .1, under A-SE-TU-\*21F (the female small-cattle sign) and beside PI-RU-E-JU 60 and SE-SA-PA₃ 60 (GORILA I 288–289). rāʿû diqqi: the contracted nominative rāʿû &lt; \*rāʿiyu 'herdsman', O writing ʿu, and the genitive diqqi of \*diqq- 'small (cattle)', as in KA-NI-JA-MI qāniy-yammi. The same root as RO-E rōʿē (PH 24). Akkadian has the masculine noun diqqu 'small one' (CAD D 159), Ugaritic the masculine dq 'tiny, fine' (DULAT 275). Weak point: the spelling differs from RO-E. Rivals: a personal name; Hurrian -tiki (Papan-tiki, Monti 2017, 411), which leaves RA-O unread. One witness.
+PH 2 .1–2 RA-O-DI-KI 60, RA at the end of .1, under A-SE-TU-\*21F (the female small-cattle sign) and beside PI-RU-E-JU 60 and SE-SA-PA₃ 60 (GORILA I 288–289). rāʿû diqqi: the contracted nominative rāʿû &lt; \*rāʿiyu 'herdsman', O writing ʿu, and the genitive diqqi of \*diqq- 'small (cattle)', as in KA-NI-JA-MI qāniy-yammi. The same root as RO-E rōʿē (PH 24). Ugarit builds the title the same way, rʕy and the animal: rʕy ủzm 'gooseherds', rʕy ḥmrm 'muleteer' (DULAT 716). Akkadian has the masculine noun diqqu 'small one' (CAD D 159), Ugaritic the masculine dq 'tiny, fine' (DULAT 275) and dqt 'sacrificial ewe', offered to trṯ (KTU 1.39:16; Pardee 2000, 992). Weak points: the spelling differs from RO-E; the Ugaritic livestock noun is the feminine dqt. Rivals: a personal name; Hurrian -tiki (Papan-tiki, Monti 2017, 411), which leaves RA-O unread. One witness.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Arabic | huwa rāʿī ad-daqāʾiq 'he is the pastor of sheep, or goats'; daqīqa 'small cattle', opposed to jalīla 'camels' (Lane 896) |
-| Ugaritic | rʕy 'shepherd' (DULAT 716); dqt 'sacrificial ewe, sheep' (DULAT 276) |
+| Ugaritic | rʕy 'shepherd', with the animal herded: rʕy ủzm 'gooseherds' (KTU 4.129:1), rʕy ḥmrm 'muleteer' (KTU 4.618:3; DULAT 716); dqt 'sacrificial ewe, sheep' (DULAT 276) |
 | Akkadian | rēʾû, rāʾû 'herdsman, shepherd'; reʾû unīqi 'shepherd of she-kids' (CAD R 303) |
 
 ### Source
 
-di Mino; Lane; DULAT; CAD
+di Mino; Lane; DULAT; CAD; Pardee 2000; Monti 2017
 
 ## Attestations
 

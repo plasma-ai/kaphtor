@@ -42,7 +42,7 @@ updated: 2026-10-22T17:38:31Z
 | Harari | zi (LGz. 629) | LGz. 629 |  |
 | Phoenician | z (T 89); z, ʾz, zʾ (T 89); zn (T 94) | T 89; T 94 | gloss withheld |
 | Amorite | zu (Huffmon APNM 186; HALOT 264); ḏū, ḏūna, ḏūnati (Buck 2019, 326) | Huffmon APNM 186; HALOT 264; Buck 2019, 326 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ḏ (Al-Jallad–Jaworska 65) | Al-Jallad–Jaworska 65 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ḏ (Al-Jallad–Jaworska 65); Taymanitic zn; Hismaic ḏ; Dadanitic ḏh (Al-Jallad 2026b, 24) | Al-Jallad–Jaworska 65; Al-Jallad 2026b 24 | gloss withheld |
 | Modern Arabic | Yem. ḏi (Biella 89) | Biella 89 |  |
 | Emar | zu /ðū̆/ (Pentiuc 2001, 196) | Pentiuc 2001 196 | gloss withheld |
 | Moabite | zʾt (T 89) | T 89 | gloss withheld |

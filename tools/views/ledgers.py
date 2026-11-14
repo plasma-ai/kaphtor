@@ -30,7 +30,7 @@ from .model import (
 )
 from .render import BY_SCRIBE, _page, _words
 
-TIERS = ("CONFIRMED", "PROBABLE", "CANDIDATE", "SPECULATIVE")
+TIERS = counts.TIERS
 SIGN_STATUSES = ("resolved", "proposed", "speculative", "conventional")
 
 
@@ -100,7 +100,7 @@ def counts_page(model: Model) -> tuple[str, str]:
              ("GORILA 1,427 and RILA-S1 107 documents are published to the end of 2023 (1,534 in all). Each document "
               "of the corpus falls in one class:"), ""]
     body += table(["Class", "Documents"], [[c, f"{census[c]:,}"] for c in counts.CLASSES if census[c]]) + [""]
-    tiers = Counter(e["confidence"] for e in model.lexicon.values())
+    tiers = counts.lexicon_tiers(model.lexicon.values())
     body += ["## Lexicon by tier", ""] + table(["Confidence", "Tier", "Entries"], [
         [c, str(next((e["tier"] for e in model.lexicon.values() if e["confidence"] == c), "")), str(tiers[c])]
         for c in (*TIERS, *sorted(set(tiers) - set(TIERS))) if tiers[c]]) + [""]

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/2076_to_suffer_pain
 title: "*kʾb: 'to suffer pain'"
-desc: "Proto-Semitic *kʾb, 'to suffer pain': reflexes in 7 language(s)."
+desc: "Proto-Semitic *kʾb, 'to suffer pain': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2076"
@@ -37,6 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | ke(ʔ)b 'he/she afflicted with pain' \[Brock 314\] | Brock 314 |  |
 | Modern Aramaic | MLH kyv (SED I 296) | SED I 296 |  |
 | Aramaic | KʾB (Aramaic Root Atlas; CAL s.v. kʾb) | Aramaic Root Atlas; CAL s.v. kʾb; Anderson–Moser 2024 root kʾb | gloss withheld |
+| Pre-Islamic North Arabian | Taymanitic kʾb (Al-Jallad 2026b, 43) | Al-Jallad 2026b 43 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

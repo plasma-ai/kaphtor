@@ -27,6 +27,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/RA_star314_RA\|RA-\*314-RA]] | Raḥil | personal name, 'Ewe' (√r-ḥ-l), as Hebrew Rāḥēl; rival Egyptian Ḥr-Rꜥ 'Horus-Ra' | 1 |
+| [[wiki/names/semitic/names/RA_star314_RA\|RA-\*314-RA]] | Raḥal | personal name, 'Ewe' (√r-ḥ-l), as Hebrew Rāḥēl | 1 |
 
 <!-- END kaphtor:record -->

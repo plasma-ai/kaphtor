@@ -29,6 +29,7 @@ updated: 2026-10-22T18:14:10Z
 | `note` | evidence, rivals and parallels; sections are separated by ` \|\| ` |
 | `source` | who proposed the reading: "di Mino", another scholar's work, or both |
 | `reviewer`, `outside_scholar` | on CONFIRMED entries: the reviewer, and the outside scholar whose published reading matches |
+| `first_proposed_by` | on an entry of any tier whose reading an earlier scholar published first: `scholar`, `work`, `year` and `sections`, as the note cites them. It credits the proposer and stakes nothing: unlike `outside_scholar`, it is no part of a tier's test |
 | `alternative_readings`, `related_forms`, `corpus_forms`, `root_meaning`, `phonological_notes`, `cross_references`, `sigla_contested` and `sigla_note` | present on a few entries |
 
 Inscription ids match `translations.json` and the corpus, except `LMP-Spell33`, the Keftiu spell of the London

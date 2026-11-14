@@ -48,6 +48,8 @@ HT 120: DA-U-\*49 · A517 20 under the heading DA-QE-RA, between DA-ME (GRA+K+L 
 | Language | Comparison |
 |---|---|
 | Arabic | dāma, inf. n. dawm 'it continued, lasted, endured' (Lane 935) |
+| Safaitic | dmt, the oasis Dūmat al-Ǧandal, root dwm (Al-Jallad 2026, 179) |
+| Sabaic | dwm 'lasting, permanent' (Biella 81) |
 
 ### Source
 

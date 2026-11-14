@@ -1,0 +1,71 @@
+{
+  "schema_version": 2,
+  "generated_at": "2026-10-11T17:34:38+00:00",
+  "corpus_id": "ig-xv-1-cypriot-syllabic",
+  "source": "https://telota.bbaw.de/ig/",
+  "license": "CC BY 4.0",
+  "expected_records": 410,
+  "source_xml_files": 311,
+  "source_inventory_sha256": "aff9ff61fd7cc06544d5f513791339f9ebafe1e50efc9da0dfc280b2fcbb742f",
+  "records": 311,
+  "complete": false,
+  "recovered_xml_files": 1,
+  "recovery_log": [
+    {
+      "file": "IG_XV_1_150.xml",
+      "strict_error": "mismatched tag: line 46, column 351",
+      "recovery_errors": [
+        "IG_XV_1_150.xml:46:355:FATAL:PARSER:ERR_TAG_NAME_MISMATCH: Opening and ending tag mismatch: div line 46 and ab",
+        "IG_XV_1_150.xml:46:361:FATAL:PARSER:ERR_TAG_NAME_MISMATCH: Opening and ending tag mismatch: ab line 46 and div",
+        "IG_XV_1_150.xml:50:20:FATAL:PARSER:ERR_TAG_NAME_MISMATCH: Opening and ending tag mismatch: div line 46 and body",
+        "IG_XV_1_150.xml:51:16:FATAL:PARSER:ERR_TAG_NAME_MISMATCH: Opening and ending tag mismatch: body line 42 and text",
+        "IG_XV_1_150.xml:52:7:FATAL:PARSER:ERR_TAG_NAME_MISMATCH: Opening and ending tag mismatch: text line 41 and TEI"
+      ]
+    }
+  ],
+  "parse_failures": [],
+  "place_counts": {
+    "Amathus": 91,
+    "unbekannt": 1,
+    "Kurion": 66,
+    "Vássa Koilaníou": 1,
+    "Drýmou": 5,
+    "Marion": 147
+  },
+  "translation_language_counts": {
+    "DE": 311,
+    "GRC": 148
+  },
+  "edition_part_language_counts": {
+    "Cypriot Greek": 230,
+    "Eteocypriot (unclassified)": 27,
+    "Phoenician": 2,
+    "unclassified": 138
+  },
+  "edition_part_script_counts": {
+    "Cypriot syllabic": 379,
+    "Greek alphabetic": 17,
+    "Phoenician alphabetic": 1
+  },
+  "edition_part_preservation_counts": {
+    "preserved": 199,
+    "restored": 34,
+    "restored+uncertain": 22,
+    "restored+uncertain+unreadable": 21,
+    "restored+unreadable": 7,
+    "uncertain": 91,
+    "uncertain+unreadable": 16,
+    "uncertain+xml_recovered": 1,
+    "unreadable": 5,
+    "xml_recovered": 1
+  },
+  "records_index": "records.jsonl",
+  "records_sha256": "4c166f5591806ed610049335eeca28d1e782d15ba917c0c65b499e4f5fb4393f",
+  "evidence_policy": "Mixed corpus. Only edition parts explicitly classified as Cypriot Greek in Cypriot syllabic script are known-language CV controls. Eteocypriot, Phoenician, alphabetic, unclassified, recovered, damaged, restored, uncertain, and unreadable parts remain separately labeled.",
+  "outputs": {
+    "records.jsonl": {
+      "rows": 311,
+      "sha256": "ac2c5d475e62760bf8cc2881346426393fdad1a1ec5f3c949bdff90d60a78a17"
+    }
+  }
+}

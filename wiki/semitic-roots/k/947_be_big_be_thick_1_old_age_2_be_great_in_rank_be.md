@@ -38,7 +38,7 @@ updated: 2026-10-28T07:37:32Z
 | Syrian Aramaic | kbr Br 316 |  | gloss withheld |
 | Amorite | Yakba/urum (PN) 3 (HALOT 459); kabru, kabaru, kibru, kibiru, kubburu 1 (Buck 2019, 328); k-b-r 3: ia-ak-bu-ri-im; kibr 1: ki-bi-ir-é-a, =ᵈab-ba, =a-ḫi; kabar 1, 3: EŠ₄.DAR-ka-bar, be-lí-ka-ab-ra-at, ᵈiš-ḫa-ra-ka-ab-ra-at; kabir 1, 3: cf. ka-bi-rum (Sanmartín GlOS 1, 298); kubār 1: name gu-ba-ru-um (Ur III) (Sanmartín GlOS 1, 299) | HALOT 459; Buck 2019, 328; Sanmartín GlOS 1, 298; Sanmartín GlOS 1, 299 | gloss withheld |
 | Phoenician | kbr (Krahmalkov 223) | Krahmalkov 223 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic kbr (Al-Jallad–Jaworska 89) | Al-Jallad–Jaworska 89 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic kbr (Al-Jallad–Jaworska 89); Taymanitic kbr (Al-Jallad 2026b, 44) | Al-Jallad–Jaworska 89; Al-Jallad 2026b 44 | gloss withheld |
 | Hebrew | kbr (HALOT 459 apud SEDonline 354); kabbīr (HALOT 458 apud SEDonline 354); kabbīr yāmîm 2 (HALOT 458) | HALOT 459; SEDonline 354; HALOT 458 | gloss withheld |
 | Aramaic | kbr (Kogan 2015, ch. 6 §8.1.3.2 no. 2) | Kogan 2015 ch. 6 §8.1.3.2 no. 2 | gloss withheld |
 | Eblaitic | ga-bí-ra, ga-bí-ra-a /kabir/ 1, 3; /k-b-r/ 3, /kabr/, /kibr/, /kabar/, /kibar/ in names: ig-bù-ul, kab-la-gàr-du, gi-bí-rí, ga-bar-gi-su, gi-ba-rí-a (Sanmartín GlOS 1, 298); cf. GU₂-BAR /kubārum/, a dry measure 1 (ELISIR s.v. GU₂-BAR); /kabbur/ 3: name ga-bù-rúm (Sanmartín GlOS 1, 299); /kubār/ 1: names gú-ba-ra, gú-ba-lum (Sanmartín GlOS 1, 299) | Sanmartín GlOS 1, 298; ELISIR s.v. GU₂-BAR; Sanmartín GlOS 1, 299 | gloss withheld |

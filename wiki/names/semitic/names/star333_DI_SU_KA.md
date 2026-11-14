@@ -44,6 +44,7 @@ HT Wc 3009, a roundel: \*333-DI-SU-KA \*188. With \*333 = bi, bīdi 'in the char
 |---|---|
 | Ugaritic | bd 'in the hand, charge of' (&lt; bi-yadi) (Huehnergard 2012, glossary) |
 | Hebrew | bĕyad 'in the hand of' |
+| Phoenician | bd 'by (expressing agency); from; in one's charge' (Krahmalkov 97–98) |
 
 ## Attestations
 

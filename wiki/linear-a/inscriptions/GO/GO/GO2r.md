@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/inscriptions/GO/GO/GO2r
 title: "GO2r"
-desc: "Tablet, Gournia. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "tablet"]
+desc: "Tablet, Gournia. Translation: incomplete (SPECULATIVE)."
+tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
 kind: "inscription"
 id: "GO2r"
 site: "Gournia"
 support: "Tablet"
 period: ""
-translation: "none"
+translation: "incomplete"
 words: ["KA", "SI", "SI-DA-RO"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -61,6 +61,27 @@ Unicode (Linear A block):
 𐝫𐘈𐝫
 𐝫
 ```
+
+## Translation
+
+**SPECULATIVE**, incomplete (status: incomplete).
+
+> \[…\] Tribute; bowl ⅛; tribute 2; DA; Siddāru ¼; SE \[…\]
+
+| Word | Reading | Gloss | Confidence | Lexicon |
+|---|---|---|---|---|
+| [[wiki/linear-a/words/S/SI\|SI]] | šay | tribute, gift—logographic abbreviation of šay(u) | PROBABLE | PROBABLE (lexicon) |
+| [[wiki/linear-a/words/K/KA\|KA]] | kapp | palm-measure, bowl (unit of dry/liquid measure; administrative commodity category) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/S/SI_DA_RO\|SI-DA-RO]] | siddāru | siddāru 'Arranger' (personal name; spelling of SI-DA-RE) | SPECULATIVE | SPECULATIVE (lexicon) |
+
+### Notes
+
+Broken above and below: the first SI is cut above and the last sign, SE, below.
+
+### Source
+
+- di Mino: SI, KA, SI-DA-RO
+- RILA-S1: GO 2
 
 ## Lexicon words citing this document
 

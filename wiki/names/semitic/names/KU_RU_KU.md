@@ -48,6 +48,7 @@ HT 87, a one-unit entry in the \*21F-TU-NE · MA-KA-RI-TE roster. kurkū, PS \*k
 |---|---|
 | Hebrew | karkōm 'saffron', Song 4:14 (HALOT 498) |
 | Aramaic | Jewish Aramaic and Syriac kurkəmā 'saffron' (HALOT 498) |
+| Arabic | kurkum- 'Indian saffron, turmeric; henna' (BK 2, 888) |
 
 ## Attestations
 

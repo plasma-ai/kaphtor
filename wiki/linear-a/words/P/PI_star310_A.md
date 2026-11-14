@@ -49,6 +49,7 @@ ZA 11a, after KU-PA · GRA+PA 1, heading OLIV 2. With \*310 at the proposed valu
 |---|---|
 | Hebrew | \*pāneh 'face, front', only in the plural pānîm (HALOT 938) |
 | Ugaritic | pnm 'face, countenance', also as a preposition (DULAT 664) |
+| Akkadian | pānu 'front side', pl. 'face' (AHw 818) |
 
 ### Source
 
@@ -58,6 +59,12 @@ di Mino; HALOT; DULAT
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA11a\|ZA11a]] | Zakros | Tablet | none |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA11a\|ZA11a]] | Zakros | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA11a\|ZA11a]] | pīnā | face, front | CANDIDATE |
 
 <!-- END kaphtor:record -->

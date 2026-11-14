@@ -69,7 +69,7 @@ di Mino; GlOS 1; Montecchi 2010; Uchitel 2016a
 | [[wiki/linear-a/inscriptions/HT/HT/HT8b\|HT8b]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT94a\|HT94a]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT102\|HT102]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT105\|HT105]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT105\|HT105]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT140\|HT140]] | Haghia Triada | Tablet | complete |
 
 ## In translations
@@ -79,6 +79,7 @@ di Mino; GlOS 1; Montecchi 2010; Uchitel 2016a
 | [[wiki/linear-a/inscriptions/HT/HT/HT6a\|HT6a]] | kapa(r) | village, settlement; heading of the first section | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT8b\|HT8b]] | kapa(r) | village, settlement | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT102\|HT102]] | kapa(r) | village (account heading) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT105\|HT105]] | kapa(r) | village, settlement (kapar) | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT140\|HT140]] | kapa(r) | a vessel (kappar): ½, KA its abbreviation (Montecchi 2010, 15); rival the village | CANDIDATE |
 
 ## Onomasticon

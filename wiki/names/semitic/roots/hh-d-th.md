@@ -27,6 +27,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/U_DE_ZA\|U-DE-ZA]] | Ḥudaṯu | personal name: ḥdṯ 'new'; Ḥudaṯu of ʾArāyu on HT 122b | 1 |
+| [[wiki/names/semitic/names/U_DE_ZA\|U-DE-ZA]] | Ḥudeṯ | personal name, 'New Moon'; Ḥudeṯ of ʾArāyu on HT 122b | 2 |
 
 <!-- END kaphtor:record -->

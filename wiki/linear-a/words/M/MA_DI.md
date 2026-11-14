@@ -61,19 +61,21 @@ di Mino; Gelb 1980; de Martino 2011; Peruzzi 1958
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT118\|HT118]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT3\|HT3]] | Haghia Triada | Tablet | incomplete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT69\|HT69]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT69\|HT69]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT85b\|HT85b]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT97a\|HT97a]] | Haghia Triada | Tablet | incomplete |
-| [[wiki/linear-a/inscriptions/PH/PH/PH_q_31a\|PH(?)31a]] | Phaistos | Tablet | none |
+| [[wiki/linear-a/inscriptions/PH/PH/PH_q_31a\|PH(?)31a]] | Phaistos | Tablet | incomplete |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT3\|HT3]] | Maʾdi | place name, 2 | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT69\|HT69]] | Maʾdi | place name: a unit of men and livestock in the HT rosters | SPECULATIVE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT85b\|HT85b]] | Maʾdi | place name: the man of Maʾdi, 1 | SPECULATIVE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT97a\|HT97a]] | Maʾdi | place name, 5; rival the Hurrian personal name Madi | SPECULATIVE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT118\|HT118]] | Maʾdi | place name, 15; rival the Hurrian personal name Madi | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/PH/PH/PH_q_31a\|PH(?)31a]] | Maʾdi | place name: a unit of men and livestock in the HT rosters | SPECULATIVE |
 
 ## Onomasticon
 

@@ -49,7 +49,7 @@ updated: 2026-10-22T17:38:31Z
 | Eblaitic | a-ḫi-lu /ʾ-ḫ-r/; a-ḫa-ra-am, aḫ-la, a-aḫ-la /ʾaḫ(a)r/, a-ḫé-ri, a-ḫé-tum, a-ḫir-tum /ʾaḫir/ (Sanmartín GlOS 1, 16–17); a-ḫé-rí, a-ḫi-rí /ʾaḫīr-/ (gen. cstr.), a-ḫé-tum, a-ḫir-tum /ʾaḫirtum/ (ARET XI 1, 2); a-ḫi-lum /ʾaḫīrum/ (= Sum. ka-«tak₄», EV 0147), ʾà₅-ḫir-tum (= Sum. giš-íb, VE 465) (Fronzaroli 1995, 63 and n. 84), /ʾaḫirtum/ (Hajouz 2013, 46); ʔaxxur, ʔuxxur: names a-ḫu-lu, ù-ḫu-EN(ru₁₂) (Sanmartín GlOS 1, 17) | Sanmartín GlOS 1, 16–17; ARET XI 1, 2; EV 0147; VE 465; Fronzaroli 1995, 63 and n. 84; Hajouz 2013, 46; Sanmartín GlOS 1, 17 | gloss withheld |
 | Canaanite | aḫ-ru-un-ú /ʾaḫrōn=hū/ (gloss to EGIR-šu) (Sanmartín GlOS 1, 17) | Sanmartín GlOS 1, 17 | gloss withheld |
 | Moabite | ʔḥr (DNWSI 39) | DNWSI 39 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ʾḫrt (Al-Jallad–Jaworska 41) | Al-Jallad–Jaworska 41 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʾḫrt (Al-Jallad–Jaworska 41); Taymanitic ʾḫr (Al-Jallad 2026b, 2) | Al-Jallad–Jaworska 41; Al-Jallad 2026b 2 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

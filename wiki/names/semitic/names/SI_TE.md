@@ -48,6 +48,7 @@ ZA 26a .1 SI-TE · DI-DI-\[, the first group of the tablet, intact and undotted 
 |---|---|
 | Akkadian | ṣītum 'rise, rising (of sun), east; emergence, birth, origin; produce, product; lease; expenditure, loss' (Huehnergard 1997, glossary); NIM read ṣīti 'east' (ORACC CAMS/GKAB, P348764); Tâmtu ša ṣīt Šamši 'the Sea of the Rising Sun' (RGTC 7/3, s.v.) |
 | Hebrew | môṣāʾ (מוֹצָא) 'going out; east', against maʿărāb 'west' (Ps 75:7); ṣēʾt (צֵאת) 'going out', kə-ṣēʾt ha-šemeš 'as the going-out of the sun' (Judg 5:31) |
+| Ugaritic | yṣʾ 'go out, appear' (DULAT 969) |
 
 ## Attestations
 

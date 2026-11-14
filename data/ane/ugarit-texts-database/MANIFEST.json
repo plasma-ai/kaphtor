@@ -1,0 +1,153 @@
+{
+  "schema_version": 2,
+  "generated_at": "2026-10-11T13:53:53+00:00",
+  "source": {
+    "title": "Ugarit Texts Database",
+    "doi": "10.5281/zenodo.12820382",
+    "record_url": "https://zenodo.org/records/12820382",
+    "publication_date": "2024-07-25",
+    "license": "cc-by-4.0",
+    "csv_file": "UGARIT_TEXTS_DATABASE.csv",
+    "csv_sha256": "4b5fd119344970e4a3b0513d41f52b64c27fae10d6eb682e53f3c101477633cf",
+    "record_file": "record.json",
+    "record_sha256": "eb8c7e66263276bf475214feb4d64e44035af8851f60abbbdfd042da4fe9fad9"
+  },
+  "indexed_records": 4582,
+  "unique_ids": 4582,
+  "parse_failures": 0,
+  "duplicate_reference_groups": 922,
+  "duplicate_reference_groups_by_type": {
+    "excavation_siglum_and_cleared_number_set": 115,
+    "excavation_siglum_and_cleared_numbers": 1,
+    "individual_excavation_reference": 797,
+    "ktu3": 9
+  },
+  "source_row_ids": {
+    "numeric_count": 4582,
+    "minimum": 0,
+    "maximum": 4598,
+    "missing_within_range": [
+      822,
+      2150,
+      3523,
+      3526,
+      3531,
+      4386,
+      4387,
+      4388,
+      4552,
+      4561,
+      4562,
+      4591,
+      4592,
+      4593,
+      4594,
+      4595,
+      4597
+    ]
+  },
+  "field_coverage": {
+    "Column1": 4582,
+    "Excavation Siglum": 4567,
+    "Excavation Numbers \"Cleared\"": 4582,
+    "Excavation Numbers UTDB": 4379,
+    "Excavation Numbers SAU": 3693,
+    "KTU3": 1998,
+    "SAU Biblio (not full!!)": 3046,
+    "UTDB Language": 4391,
+    "RSTI Language": 4148,
+    "RSTI Script": 4140,
+    "Script (prev)": 4206,
+    "Language (prev)": 4201,
+    "SAU Script": 3300,
+    "SAU Language": 2699,
+    "SAU Script et Language": 3317,
+    "SAU genre": 2676,
+    "RSTI object type": 4376,
+    "RSTI description": 4055,
+    "Archive/General area": 4037,
+    "SAU Archive/General area": 3114,
+    "Detail in General": 1453,
+    "SAU Detail in General": 1510,
+    "SAU findspot": 3406,
+    "possible relevant (religious) genres": 426,
+    "\"Clemens 2001\"": 558,
+    "Clemens Type": 422,
+    "Clemens Note": 520,
+    "Seal": 47,
+    "Size": 4274,
+    "Museal Siglum": 4223,
+    "SAU Museal Siglum": 3371,
+    "TEO findspot": 4317,
+    "Topographic Point": 2468,
+    "SAU p.t.": 2894,
+    "Depth": 2116,
+    "SAU Depth": 1500,
+    "Note": 28
+  },
+  "language_counts": {
+    "Akkadian": 2266,
+    "Ugaritic": 2035,
+    "Sumerian": 448,
+    "Hurrian": 116,
+    "Egyptian": 109,
+    "Ugaritic?": 26,
+    "Hittite": 18,
+    "Akkadian?": 17,
+    "Cypro-Minoan": 15,
+    "Cypro-Minoan?": 13,
+    "[Sumerian]": 11,
+    "Sumerian?": 6,
+    "Latin": 5,
+    "[Akkadian]": 3,
+    "Egyptian?": 3,
+    "Hurrian?": 2,
+    "[Sumerian?]": 2,
+    "Phoenician": 2,
+    "multilingual": 1,
+    "[Ugaritic]": 1,
+    "[Akkadian?]": 1,
+    "(Akkadian)": 1,
+    "Hittite?": 1,
+    "Hitite": 1
+  },
+  "script_counts": {
+    "Logosyllabic": 2331,
+    "Alphabetic": 2074,
+    "Alphabetical": 160,
+    "Hieroglyphic": 110,
+    "Hieroglyphs": 102,
+    "Alphabetic/Logosyllabic": 17,
+    "Cypro-Minoan": 12,
+    "Hieroglyphic (Anatolian)": 9,
+    "Syllabic": 7,
+    "(Alphabetic)": 1
+  },
+  "scope_note": "Metadata catalogue only; it does not supply the full texts. Raw source fields are authoritative. Parsed lists, consolidated labels, and search_text are navigation aids. Repeated references are retained and ledgered, not merged.",
+  "derived_artifacts": {
+    "records.jsonl": {
+      "path": "records.jsonl",
+      "sha256": "40a495cedc2db494304d54a3adc15fc027b59a7960108a54adb9c8114b7f698d",
+      "bytes": 12086948,
+      "rows": 4582
+    },
+    "duplicate_references.jsonl": {
+      "path": "duplicate_references.jsonl",
+      "sha256": "312330814e856bb175880f7bca0ce67e59d2e18ffb7d2fe744a56fc17b30a9f6",
+      "bytes": 409894,
+      "rows": 922
+    },
+    "failures.jsonl": {
+      "path": "failures.jsonl",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "rows": 0
+    }
+  },
+  "outputs": {
+    "records.jsonl": {
+      "rows": 4582,
+      "sha256": "7fca982054f8080ce52d3e3dfb8b603cc250f3a43b1a883a9a149899e0bd9988"
+    }
+  }
+}

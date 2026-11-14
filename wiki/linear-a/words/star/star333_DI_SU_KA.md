@@ -23,7 +23,7 @@ updated: 2026-10-24T16:17:50Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Signs.** \*333 · [[wiki/linear-a/signs/syllabic/DI|DI]] · [[wiki/linear-a/signs/syllabic/SU|SU]] · [[wiki/linear-a/signs/syllabic/KA|KA]]
+**Signs.** [[wiki/linear-a/signs/syllabic/star333|\*333]] · [[wiki/linear-a/signs/syllabic/DI|DI]] · [[wiki/linear-a/signs/syllabic/SU|SU]] · [[wiki/linear-a/signs/syllabic/KA|KA]]
 
 ## Lexicon
 
@@ -49,6 +49,7 @@ HT Wc 3009, a roundel: \*333-DI-SU-KA \*188. With \*333 = bi, bīdi 'in the char
 |---|---|
 | Ugaritic | bd 'in the hand, charge of' (&lt; bi-yadi) (Huehnergard 2012, glossary) |
 | Hebrew | bĕyad 'in the hand of' |
+| Phoenician | bd 'by (expressing agency); from; in one's charge' (Krahmalkov 97–98) |
 
 ### Source
 

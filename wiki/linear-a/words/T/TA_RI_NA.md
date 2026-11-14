@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/T/TA_RI_NA
 title: "TA-RI-NA"
-desc: "Tarinna: Tarinna (Hurrian personal name), stem tarinn-; rival trn 'mast'. Lexicon, SPECULATIVE (tier 1)."
+desc: "Tarinna: Tarinna (Hurrian personal name), stem tarinn-; rivals trn 'mast' and the name trn 'Bearded'. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "TA-RI-NA"
@@ -32,25 +32,25 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Tarinna |
-| Meaning | Tarinna (Hurrian personal name), stem tarinn-; rival trn 'mast' |
+| Meaning | Tarinna (Hurrian personal name), stem tarinn-; rivals trn 'mast' and the name trn 'Bearded' |
 | Language layer | Hurrian |
 | Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT 10b .1–2 TA-RI-NA 15, TA closing .1 and RI-NA opening .2, whole and undotted, on a face written over an erasure (GORILA I 21); after U-TI 1 and DA-RE 2, before \*312-TA 6½. Hurrian stem tarinn(i): Tarinnam, tarinn(i)=a=m(e/a) (VHN 299; Monti 2017, 351), Tarinam at Šemšara (Monti 2017, 413), Tarinze (Monti 2017, 301). Sign for sign, the final -m unwritten. Rival: Ugaritic trn 'mast' (#2979), out of place in a grain list. One witness.
+HT 10b .1–2 TA-RI-NA 15, TA closing .1 and RI-NA opening .2, whole and undotted, on a face written over an erasure (GORILA I 21); after U-TI 1 and DA-RE 2, before \*312-TA 6½. Hurrian stem tarinn(i): Tarinnam, tarinn(i)=a=m(e/a) (VHN 299; Monti 2017, 351), Tarinam at Šemšara (Monti 2017, 413), Tarinze (Monti 2017, 301). Sign for sign, the final -m unwritten. Rivals: Ugaritic trn 'mast' (#2979), out of place in a grain list; the Ugarit name trn, tu-ra-ni, 'Bearded' (Watson 1990, 126), the vowels differing. One witness.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Hurrian | Tarinnam, ta-ri-nam, tarinn(i)=a=m(e/a) (VHN 299; Monti 2017, 351); Tarinam, ta-ri-nam, Šemšara 2:98 (Monti 2017, 413); Tarinze, ta-ri-in-ze (VHN 299; Monti 2017, 301) |
-| Ugaritic | trn 'mast' (DULAT 866; semitic_roots no. 2979), the rival |
+| Ugaritic | trn 'mast' (DULAT 866; semitic_roots no. 2979), the rival; the name trn, tu-ra-ni, 'Bearded' (Watson 1990, 126), a second rival |
 
 ### Source
 
-di Mino; Monti 2017
+di Mino; Monti 2017; Watson 1990
 
 ## Attestations
 

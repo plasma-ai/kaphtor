@@ -32,7 +32,7 @@ updated: 2026-11-11T23:39:03Z
 | Reading's standing | SPECULATIVE |
 | Standing as a personal name | SPECULATIVE |
 | Standing of the layer | SPECULATIVE (lexicon_reading) |
-| Source | di Mino; Gelb 1980 |
+| Source | di Mino; Gelb 1980; Pagan 1998 |
 
 ## Note
 
@@ -47,6 +47,8 @@ HT Wc 3017 face a QA-KU-RE · DI-\*306 ·, face b CYP+D · \*304+PA (GORILA II 7
 | Language | Comparison |
 |---|---|
 | Amorite | daʿum, diʿ(atān)um, fem. daʿatum, diʿatum 'knowledge' (Gelb 1980, 17); DAʿ-UM, DA-UM (no. 1491); DIʿ-ATAN-UM, DI-ḪA-TA-NU-U\[M\] (no. 1507) |
+| Eblaite | da-hu daʿu 'knowledge', a personal name (Pagan 1998, row 1430) |
+| Phoenician | ydʿ 'know, understand' (Krahmalkov 206) |
 
 ## Attestations
 

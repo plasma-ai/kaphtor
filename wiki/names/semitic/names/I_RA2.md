@@ -32,11 +32,11 @@ updated: 2026-11-11T23:39:03Z
 | Reading's standing | SPECULATIVE |
 | Standing as a divine name | SPECULATIVE |
 | Standing of the layer | SPECULATIVE (lexicon_reading) |
-| Source | di Mino; GORILA II; DULAT; Huehnergard 2012; Huffmon 1965; Pagan 1998 |
+| Source | di Mino; GORILA II; DULAT; Pardee 2000; Huehnergard 2012; Huffmon 1965; Pagan 1998 |
 
 ## Note
 
-HT Wa 1006–1013: eight sealings bearing only I-RA₂, in two hands (scribes 52 and 53), from one deposit, Portico 11 and Room 13, LM IB; one context. I ʾi, RA₂ la: feminine ʾilat- 'goddess' (Akk. ilat, Ug. ỉlt 'goddess', DULAT 63), the final -t unwritten. Rival: masculine ʾila 'god', Ug. il /ʾilu/ 'god; El' (Huehnergard 2012, 41), the Amorite name element \*ilāh, almost always first in a name (Huffmon 1965, 162; I-la-sa-lim, Sa-mu-ū-i-la, 165), and Ebla's bare i-la 'the god' as a name (Pagan 1998, row 2700). See SA-RE-JU, PI-RU-E-JU and DI-NA-RO.
+HT Wa 1006–1013: eight sealings bearing only I-RA₂, in two hands (scribes 52 and 53), from one deposit, Portico 11 and Room 13, LM IB; one context. I ʾi, RA₂ la: feminine ʾilat- 'goddess' (Akk. ilat, Ug. ỉlt 'goddess', DULAT 63), the final -t unwritten; at Ugarit ỉlt alone receives a sheep and has a throne (KTU 1.50:2, 4), beside ỉlt mgdl and ỉlt ảsrm (KTU 1.39:11; Pardee 2000, 967). Rival: masculine ʾila 'god', Ug. il /ʾilu/ 'god; El' (Huehnergard 2012, 41), the Amorite name element \*ilāh, almost always first in a name (Huffmon 1965, 162; I-la-sa-lim, Sa-mu-ū-i-la, 165), and Ebla's bare i-la 'the god' as a name (Pagan 1998, row 2700). See SA-RE-JU, PI-RU-E-JU and DI-NA-RO.
 
 ## As a name
 
@@ -47,7 +47,7 @@ Eight sealings, two hands, one deposit (Portico 11 and Room 13): one context. Ri
 | Language | Comparison |
 |---|---|
 | Akkadian | ilat 'goddess' |
-| Ugaritic | ilt 'goddess' |
+| Ugaritic | ilt 'goddess' (DULAT 63); ỉlt in the rituals, KTU 1.50:2, 4 (Pardee 2000, 967) |
 | Hebrew | ʾēlat (construct) 'goddess of' |
 | Arabic | ʾilāhat 'goddess' |
 | Amorite (rival) | ila, \*ilāh 'god' (Huffmon 1965, 165) |

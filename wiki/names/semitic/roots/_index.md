@@ -3,7 +3,7 @@ name: wiki/names/semitic/roots
 title: "Semitic roots"
 desc: "The roots under the Semitic names, each with the names it carries."
 created: 2026-11-11T23:39:03Z
-updated: 2026-11-12T22:33:33Z
+updated: 2026-11-17T17:03:27Z
 ---
 
 # Semitic roots
@@ -12,7 +12,7 @@ updated: 2026-11-12T22:33:33Z
 
 [[wiki/names/semitic/roots/alef-d|alef-d]]: 1 name: A-DE.
 
-[[wiki/names/semitic/roots/alef-d-d|alef-d-d]]: 4 names: A-DU, A-DU-KU-MI-NA, A-DU-NI-TA-NA, KO-A-DU-WA.
+[[wiki/names/semitic/roots/alef-d-d|alef-d-d]]: 3 names: A-DU, A-DU-NI-TA-NA, KO-A-DU-WA.
 
 [[wiki/names/semitic/roots/alef-d-n|alef-d-n]]: 1 name: WA-DU-NI-MI.
 
@@ -76,7 +76,7 @@ updated: 2026-11-12T22:33:33Z
 
 [[wiki/names/semitic/roots/ayin-t-w|ayin-t-w]]: 3 names: U-TA-I-SE, *306-TU, *306-TU-JA.
 
-[[wiki/names/semitic/roots/ayin-th-t-r|ayin-th-t-r]]: 1 name: A-TI-RU.
+[[wiki/names/semitic/roots/ayin-th-t-r|ayin-th-t-r]]: 2 names: A-TA-RE, A-TI-RU.
 
 [[wiki/names/semitic/roots/ayin-w-t|ayin-w-t]]: 1 name: U-TA₂.
 
@@ -87,8 +87,6 @@ updated: 2026-11-12T22:33:33Z
 [[wiki/names/semitic/roots/ayinakko|ayinakko]]: 1 name: *306-KI-TA₂.
 
 [[wiki/names/semitic/roots/b-ayin-l|b-ayin-l]]: 1 name: PU-RA₂.
-
-[[wiki/names/semitic/roots/b-d-l|b-d-l]]: 1 name: PI-TA-RA.
 
 [[wiki/names/semitic/roots/b-n-t|b-n-t]]: 2 names: PA-NA-TU, PI-TA-JA.
 
@@ -116,7 +114,7 @@ updated: 2026-11-12T22:33:33Z
 
 [[wiki/names/semitic/roots/d-l-q|d-l-q]]: 1 name: DE-JU-KU.
 
-[[wiki/names/semitic/roots/d-q-q|d-q-q]]: 3 names: A-DI-KI-TE-TE, JA-DI-KI-TU, RA-O-DI-KI.
+[[wiki/names/semitic/roots/d-q-q|d-q-q]]: 4 names: A-DI-KI-TE-TE, DA-KI-TI, JA-DI-KI-TU, RA-O-DI-KI.
 
 [[wiki/names/semitic/roots/d-r-d-ayin|d-r-d-ayin]]: 1 name: DA-RI-DA.
 
@@ -141,6 +139,8 @@ updated: 2026-11-12T22:33:33Z
 [[wiki/names/semitic/roots/g-d|g-d]]: 1 name: KU-DA.
 
 [[wiki/names/semitic/roots/ganuti|ganuti]]: 1 name: KA-NU-TI.
+
+[[wiki/names/semitic/roots/h-d-d|h-d-d]]: 1 name: A-DU-KU-MI-NA.
 
 [[wiki/names/semitic/roots/ha|ha]]: 1 name: A-TU-RI-SI-TI.
 
@@ -187,8 +187,6 @@ updated: 2026-11-12T22:33:33Z
 [[wiki/names/semitic/roots/k-s-alef|k-s-alef]]: 2 names: PI-TA-KA-SE, PI-TA-KE-SI.
 
 [[wiki/names/semitic/roots/k-t-r|k-t-r]]: 1 name: KA-TA-RE.
-
-[[wiki/names/semitic/roots/k-w-k-b|k-w-k-b]]: 1 name: KA-KU-PA.
 
 [[wiki/names/semitic/roots/k-w-n|k-w-n]]: 1 name: KI-NU.
 
@@ -340,9 +338,7 @@ updated: 2026-11-12T22:33:33Z
 
 [[wiki/names/semitic/roots/s-g-r|s-g-r]]: 2 names: SU-KI-RI-TA, SU-KI-RI-TE-I-JA.
 
-[[wiki/names/semitic/roots/s-k-n|s-k-n]]: 1 name: *47-KU-NA.
-
-[[wiki/names/semitic/roots/sh-k-n|sh-k-n]]: 1 name: SI-KI-NE.
+[[wiki/names/semitic/roots/s-k-n|s-k-n]]: 2 names: SI-KI-NE, *47-KU-NA.
 
 [[wiki/names/semitic/roots/sh-k-t|sh-k-t]]: 1 name: SE-KU-TU.
 
@@ -392,9 +388,7 @@ updated: 2026-11-12T22:33:33Z
 
 [[wiki/names/semitic/roots/t-m-r|t-m-r]]: 2 names: TI-MA-RU-WI-TE, TO-MA-RO.
 
-[[wiki/names/semitic/roots/t-n-n|t-n-n]]: 2 names: TA-NA-TE, TA-NA-TI.
-
-[[wiki/names/semitic/roots/t-n-t|t-n-t]]: 1 name: TI-NI-TA.
+[[wiki/names/semitic/roots/t-n-n|t-n-n]]: 3 names: TA-NA-TE, TA-NA-TI, TI-NI-TA.
 
 [[wiki/names/semitic/roots/t-p-alef|t-p-alef]]: 1 name: TA-PA.
 

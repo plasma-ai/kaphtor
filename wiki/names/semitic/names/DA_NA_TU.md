@@ -48,6 +48,7 @@ Ug. dnty, Danel's wife (KTU 1.17 V 16); Heb. Dînāh.
 |---|---|
 | Ugaritic | dnty, wife of Danel (KTU 1.17 V 16; DULAT 274); dn 'judgment' (DULAT 273) |
 | Hebrew | Dînāh (Gen 30:21; HALOT 220); dîn 'judgment' (HALOT 220) |
+| Amorite | dān 'judge': a-bi-da-an (GlOS 1, 155) |
 
 ## Attestations
 

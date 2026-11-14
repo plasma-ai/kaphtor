@@ -48,6 +48,7 @@ HT 62 .2 (GORILA I 117): \]\[·\]-NA GRA 15¼ KA-KU 7\[, a recipient after a gra
 | Language | Comparison |
 |---|---|
 | Amorite | KAKK-U, written ka-ak-ku, a woman's name (Gelb 1980, no. 3913); KAKK-A+ compounds (nos. 3905–3912); kakkum, fem. kakka 'weapon', and the god Kakka (Gelb 1980, glossary) |
+| Akkadian | kakku 'weapon (a specific, individually used weapon)' (CAD K 50) |
 
 ### Source
 
@@ -57,7 +58,13 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT62_plus_73\|HT62+73]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT62_plus_73\|HT62+73]] | Haghia Triada | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT62_plus_73\|HT62+73]] | Kakku | personal name, 'Weapon' (Amorite Kakku) | SPECULATIVE |
 
 ## Onomasticon
 

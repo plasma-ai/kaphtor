@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/inscriptions/ZA/ZA/ZA11b
 title: "ZA11b"
-desc: "Tablet, Zakros. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "tablet"]
+desc: "Tablet, Zakros. Translation: incomplete (SPECULATIVE)."
+tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
 kind: "inscription"
 id: "ZA11b"
 site: "Zakros"
 support: "Tablet"
 period: ""
-translation: "none"
+translation: "incomplete"
 words: ["*516", "GRA+PA", "KU-PA", "OLIV", "SA-*301-RI"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -59,6 +59,29 @@ Unicode (Linear A block):
 𐙂𐘂𐄁𐛭𐄉
 𐝫
 ```
+
+## Translation
+
+**SPECULATIVE**, incomplete (status: incomplete).
+
+> E-TO-RI-\[?\], account: Šannāri: parīsu-measure 1; I: olives 1\[…\] \]I-DE\[…\] RA 2; box: parīsu-measure 3 \[…\]
+
+| Word | Reading | Gloss | Confidence | Lexicon |
+|---|---|---|---|---|
+| [[wiki/linear-a/words/star/star516\|\*516]] | šipru | account, register (šipru), a transaction logogram | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/S/SA_star301_RI\|SA-\*301-RI]] | šannāri | Cat (personal name) | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/G/GRA_plus_PA\|GRA+PA]] | parīsu | parīsu, the half-gur grain measure (CAD P 186; DULAT 671–672 prś) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/O/OLIV\|OLIV]] |  | zayt 'olive (fruit)' | PROBABLE | PROBABLE (lexicon) |
+| [[wiki/linear-a/words/K/KU_PA\|KU-PA]] | quppa | box, basket (standardized container for measured commodity allocations) | CANDIDATE | CANDIDATE (lexicon) |
+
+### Notes
+
+Traces follow the 1 after OLIV, at the break. The lower part is lost.
+
+### Source
+
+- di Mino: \*516, SA-\*301-RI, GRA+PA, OLIV, KU-PA
+- GORILA: ZA11b
 
 ## Lexicon words citing this document
 

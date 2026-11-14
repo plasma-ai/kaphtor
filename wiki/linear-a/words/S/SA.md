@@ -62,12 +62,13 @@ di Mino; CAD Š/2; HALOT
 | [[wiki/linear-a/inscriptions/HT/HT/HT56a\|HT56a]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT114b\|HT114b]] | Haghia Triada | Tablet | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HT/HT131b\|HT131b]] | Haghia Triada | Tablet | incomplete; form not in transliteration |
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA15a\|ZA15a]] | Zakros | Tablet | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA15a\|ZA15a]] | Zakros | Tablet | complete; form not in transliteration |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT27b\|HT27b]] |  | transaction sign, paired with RE |  |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA15a\|ZA15a]] | śakaru | beer, strong drink—logographic abbreviation of \*śakaru/\*šikaru | CANDIDATE |
 
 <!-- END kaphtor:record -->

@@ -41,13 +41,13 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT11b SA-QE-RI · KA 30, the last of five KA entries summed to KU-RO 180: a recipient, so a name. Šaqeli on √š-q-l 'to weigh': SA writes š, and RI the l, as Linear A writes r and l alike. Names on the root: Amorite ŠIQL-AN-U, ŠIQL-AN-UM, ŠIQL-IM (Gelb 1980, nos. 5881–5883; glossary ŠQL 'to weigh'); Akkadian Šaqilia (ORACC P514274) and Šiqila (ORACC Q003427, Q006330).
+HT11b SA-QE-RI · KA 30, the last of five KA entries summed to KU-RO 180: a recipient, so a name. Šaqeli on √š-q-l 'to weigh': SA writes š, and RI the l, as Linear A writes r and l alike. Names on the root: Amorite ŠIQL-AN-U, ŠIQL-AN-UM, ŠIQL-IM (Gelb 1980, nos. 5881–5883; glossary ŠQL 'to weigh'); Akkadian Šaqilia (ORACC P514274) and Šiqila (ORACC Q003427, Q006330). Ugarit has the name šqln (KTU 4.723:10), for which 'Shekel' is not excluded (Watson 1995, 228; GlOS 2, 321), and the Euphrates the name šu-gul-tum 'weight' (GlOS 2, 321).
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Ugaritic | ṯql 'shekel' (DULAT 914) |
+| Ugaritic | ṯql 'shekel' (DULAT 914); the name šqln (KTU 4.723:10; Watson 1995, 228) |
 | Hebrew | šāqal 'weigh' (HALOT 1642); šeqel 'weight, shekel' (HALOT 1643) |
 | Akkadian | šaqālu 'to weigh, balance, pay' (CAD Š/2 1) |
 | Phoenician | mšql 'weight'; šql 'fixed weight, shekel' (Krahmalkov 318, 480) |
@@ -55,7 +55,7 @@ HT11b SA-QE-RI · KA 30, the last of five KA entries summed to KU-RO 180: a reci
 
 ### Source
 
-di Mino; Gelb 1980
+di Mino; Gelb 1980; Watson 1995; GlOS 2
 
 ## Attestations
 

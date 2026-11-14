@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/V
 desc: "Words whose first sign begins with V."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-12T00:26:03Z
+updated: 2026-11-16T03:58:42Z
 ---
 
 # wiki/linear-a/words/V
@@ -46,11 +46,5 @@ updated: 2026-11-12T00:26:03Z
 [[wiki/linear-a/words/V/VIR_plus_star307|VIR_plus_star307]]: VIR-dubur: sanctuary personnel. Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/V/VIR_plus_star313|VIR_plus_star313]]: a counted class of men, VIR qualified by *313. Lexicon, CONFIRMED (tier 4).
-
-[[wiki/linear-a/words/V/VIR_plus_star313a|VIR_plus_star313a]]: Unread sign (ligature, unread); 2 occurrence(s).
-
-[[wiki/linear-a/words/V/VIR_plus_star313b|VIR_plus_star313b]]: Unread sign (ligature, unread); 4 occurrence(s).
-
-[[wiki/linear-a/words/V/VIR_plus_star313c|VIR_plus_star313c]]: Unread sign (ligature, unread); 1 occurrence(s).
 
 ***

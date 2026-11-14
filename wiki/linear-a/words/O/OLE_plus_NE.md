@@ -49,6 +49,7 @@ OLE with the complement NE, on HT 23a, HT 32, HT 100 and TY 3b, at Haghia Triada
 |---|---|
 | Hebrew | nesek 'libation' (HALOT 703); at Bethel Jacob wayyassēk ʿālêhā nesek and poured oil on the pillar, Gen 35:14 |
 | Ugaritic | /n-s-k/ 'to pour (out), spill' (DULAT 635) |
+| Amorite | nasku 'drink offering' (Buck 2019, 330) |
 
 ### Source
 

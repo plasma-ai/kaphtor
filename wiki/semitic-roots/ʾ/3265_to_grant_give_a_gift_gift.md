@@ -32,7 +32,7 @@ updated: 2026-10-25T05:11:48Z
 | Ugaritic | ˀušn (DULAT 114; SEDonline 1384) | DULAT 114; SEDonline 1384 | gloss withheld |
 | Arabic | ˀws (LA 6 20 apud SEDonline 1384); ˀaws- (LA 6 20 apud SEDonline 1384) | LA 6 20; SEDonline 1384 | gloss withheld |
 | Amorite | ʾwš: ia-ú-šu, ia-ú-uš-dIM, ptc. me-i-su-um; ʾays: a-i-su-um (Sanmartín GlOS 1, 54) | Sanmartín GlOS 1, 54 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ʾwsn; ʾws (D); tʾws (Al-Jallad 2026, 10) | Al-Jallad 2026 10 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʾwsn; ʾws (D); tʾws (Al-Jallad 2026, 10); Taymanitic ʾs (Al-Jallad 2026b, 30); yʾwsl (Al-Jallad 2026b, 73) | Al-Jallad 2026 10; Al-Jallad 2026b 30; Al-Jallad 2026b 73 | gloss withheld |
 | Hebrew | \*אושׁ, in the names יְהוֹאָשׁ, יוֹאָשׁ and Lach. יאושׁ (HALOT 26) | HALOT 26 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

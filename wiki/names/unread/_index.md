@@ -17,8 +17,8 @@ updated: 2026-11-11T23:49:15Z
 <!-- BEGIN kaphtor:summary -->
 | Field | Value |
 |---|---|
-| Names | 13 |
-| Kinds | personal names 13 |
-| Sites | Haghia Triada 10, Palaikastro 1, Troy 1, Zakros 1 |
-| Standing | no reading 13 |
+| Names | 12 |
+| Kinds | personal names 12 |
+| Sites | Haghia Triada 10, Troy 1, Zakros 1 |
+| Standing | no reading 12 |
 <!-- END kaphtor:summary -->

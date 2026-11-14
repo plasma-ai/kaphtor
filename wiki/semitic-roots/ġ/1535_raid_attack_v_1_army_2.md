@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ɣwr 1, ɣar- 2 |  |  |
 | Harsusi | šewɣor 1 |  |  |
 | Epigraphic South Arabian | Sab ġwr (Biella 392; Sabaweb lemma 1705); Sab ġwr (SD 54; Sabaweb lemma 1705) | Biella 392; Sabaweb lemma 1705; SD 54 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ġwr 1 (Al-Jallad 2026, 57) | Al-Jallad 2026 57 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ġwr 1 (Al-Jallad 2026, 57); Taymanitic ġwrl 1 (Al-Jallad 2026b, 71) | Al-Jallad 2026 57; Al-Jallad 2026b 71 | gloss withheld |
 | Ugaritic | /ġ-r/ Gt 1 (DULAT 319) | DULAT 319 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

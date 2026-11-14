@@ -89,10 +89,10 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/P/PA_RA\|PA-RA]] | parr(u) | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_RA_NE\|PA-RA-NE]] | Barān | CANDIDATE |
 | [[wiki/linear-a/words/P/PA3_KA_RA_TI\|PA₃-KA-RA-TI]] | baqarāti | CANDIDATE |
-| [[wiki/linear-a/words/P/PI_TA_RA\|PI-TA-RA]] | bidāla | SPECULATIVE |
+| [[wiki/linear-a/words/P/PI_TA_RA\|PI-TA-RA]] | bitra | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_star118_RA_RE\|QA-\*118-RA-RE]] | qaṭara(re) | PROBABLE |
 | [[wiki/linear-a/words/Q/QA_MI_star47_NA_RA\|QA-MI-\*47-NA-RA]] | qāmī šū-nāra | SPECULATIVE |
-| [[wiki/linear-a/words/R/RA_star314_RA\|RA-\*314-RA]] | Raḥil | SPECULATIVE |
+| [[wiki/linear-a/words/R/RA_star314_RA\|RA-\*314-RA]] | Raḥal | SPECULATIVE |
 | [[wiki/linear-a/words/R/RA_NA_TU_SU\|RA-NA-TU-SU]] | Rannatušu | SPECULATIVE |
 | [[wiki/linear-a/words/R/RA_O_DI_KI\|RA-O-DI-KI]] | rāʿû diqqi | SPECULATIVE |
 | [[wiki/linear-a/words/R/RA_TI_SE\|RA-TI-SE]] | Ratis | SPECULATIVE |
@@ -101,7 +101,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/S/SA_RA_RA\|SA-RA-RA]] | ṣarār- | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_plus_SE_RA_plus_KA\|SI+SE-RA+KA]] | šeraka | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_KI_RA\|SI-KI-RA]] | Śikira | SPECULATIVE |
-| [[wiki/linear-a/words/S/SU_PA3_RA\|SU-PA₃-RA]] | subāra | PROBABLE |
+| [[wiki/linear-a/words/S/SU_PA3_RA\|SU-PA₃-RA]] | zubāra | PROBABLE |
 | [[wiki/linear-a/words/T/TA_NA_RA_TE_U_TI_NU\|TA-NA-RA-TE-U-TI-NU]] | tan-raṣē-u-tī-n(u) | PROBABLE |
 | [[wiki/linear-a/words/T/TA_RA\|TA-RA]] | ṯa(ġ)ra | SPECULATIVE |
 | [[wiki/linear-a/words/V/VIN_plus_RA\|VIN+RA]] | raqḥ | CANDIDATE |

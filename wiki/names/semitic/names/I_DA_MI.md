@@ -36,7 +36,7 @@ updated: 2026-11-11T23:39:03Z
 
 ## Note
 
-SY Za 1 A-TA-I-\*301-WA-JA · I-DA-MI · JA\[, formula position 2, where Kophinas has dubur ʾIda (I-DA-A) and Iouktas JA-DI-KI-TU. ʾIda with the emphatic enclitic -mi, as I-PI-NA-MI-NA /ʾippina=mi=na/ (di Mino, Ya Diktu, 11); Ugaritic -m, /-mi/ or /-ma/ (Huehnergard 2012, 79); Ps 68:17 hārī-m gabnunnîm 'O many-peaked mountain' (Dahood, Psalms II, 142). One witness.
+SY Za 1 A-TA-I-\*301-WA-JA · I-DA-MI · JA\[, formula position 2, where Kophinas has ḏū har ʾIda (DU-\*314-RE · I-DA-A) and Iouktas JA-DI-KI-TU. ʾIda with the emphatic enclitic -mi, as I-PI-NA-MI-NA /ʾippina=mi=na/ (di Mino, Ya Diktu, 11); Ugaritic -m, /-mi/ or /-ma/ (Huehnergard 2012, 79); Ps 68:17 hārī-m gabnunnîm 'O many-peaked mountain' (Dahood, Psalms II, 142). One witness.
 
 ## As a name
 

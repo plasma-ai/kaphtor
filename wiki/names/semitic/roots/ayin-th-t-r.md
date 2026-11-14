@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/roots/ayin-th-t-r
 title: "ʿ-ṯ-t-r"
-desc: "1 name: A-TI-RU."
+desc: "2 names: A-TA-RE, A-TI-RU."
 tags: ["names", "root", "semitic"]
 kind: "name_root"
 id: "semitic:ʿ-ṯ-t-r"
@@ -21,12 +21,13 @@ updated: 2026-11-11T23:39:03Z
 |---|---|
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Proto-Semitic | \*ʕaṯtar- (#3775) |
-| Names | 1 |
+| Names | 2 |
 
 ## Names from this root
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
+| [[wiki/names/semitic/names/A_TA_RE\|A-TA-RE]] | ʿAṯtar | ʿAṯtar (the god), receiving figs; rival Hathor | 1 |
 | [[wiki/names/semitic/names/A_TI_RU\|A-TI-RU]] | ʿAttiru | ʿAttiru, personal name, the nisbe 'man of ʿAṯtar'; rival ʿatīru 'entreated' | 1 |
 
 <!-- END kaphtor:record -->

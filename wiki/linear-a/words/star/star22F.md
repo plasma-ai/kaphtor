@@ -10,7 +10,7 @@ tier: 3
 confidence: "PROBABLE"
 confidence_score: 0.6
 reading: "(logogram)"
-attestations: ["HT136a", "HTWc3024", "KN28a", "PH(?)31b", "ZA26b"]
+attestations: ["HTWc3024", "KN28a", "PH(?)31b"]
 created: 2026-11-12T00:26:03Z
 updated: 2026-11-12T00:26:03Z
 ---
@@ -39,7 +39,7 @@ updated: 2026-11-12T00:26:03Z
 
 ### Note
 
-The she-goat: HT 136a \*22F 30, ZA 26b \*22F 7, KN 28a \*22F 1, and PH(?) 31b \*22F 2 and \*22F 5 beside \*22M. The roundel HT Wc 3024 sets it after A-RA-TU-ME. Linear B CAPᶠ. Cf. Heb. ʿēz 'she-goat' (HALOT 804–805), Ug. ʿz 'goat' (DULAT 193). Weak point: no witness spells the word.
+The she-goat: KN 28a \*22F 1, and PH(?) 31b \*22F 2 and \*22F 5 beside \*22M. The roundel HT Wc 3024 sets it after A-RA-TU-ME. Linear B CAPᶠ. Cf. Heb. ʿēz 'she-goat' (HALOT 804–805), Ug. ʿz 'goat' (DULAT 193). Weak point: no witness spells the word.
 
 ### Cognates
 
@@ -56,16 +56,15 @@ di Mino; HALOT; DULAT
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT136a\|HT136a]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3024\|HTWc3024]] | Haghia Triada | Roundel | complete |
 | [[wiki/linear-a/inscriptions/KN/KN/KN28a\|KN28a]] | Knossos | Tablet | none |
-| [[wiki/linear-a/inscriptions/PH/PH/PH_q_31b\|PH(?)31b]] | Phaistos | Tablet | none |
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA26b\|ZA26b]] | Zakros | Tablet | none |
+| [[wiki/linear-a/inscriptions/PH/PH/PH_q_31b\|PH(?)31b]] | Phaistos | Tablet | incomplete |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3024\|HTWc3024]] | (logogram) | she-goat (livestock logogram) | PROBABLE |
+| [[wiki/linear-a/inscriptions/PH/PH/PH_q_31b\|PH(?)31b]] |  | she-goat (livestock logogram) | PROBABLE |
 
 <!-- END kaphtor:record -->

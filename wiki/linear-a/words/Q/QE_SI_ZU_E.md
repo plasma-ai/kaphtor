@@ -60,7 +60,7 @@ di Mino; CAD Q; DULAT; Younger
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA15a\|ZA15a]] | Zakros | Tablet | none |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA15a\|ZA15a]] | Zakros | Tablet | complete |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA4a\|ZA4a]] | Zakros | Tablet | incomplete |
 
 ## In translations
@@ -68,5 +68,6 @@ di Mino; CAD Q; DULAT; Younger
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA4a\|ZA4a]] | qīši ṯuʿē | gift for the Heroes, 4 units; rival 'the noble's gift' | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA15a\|ZA15a]] | qīši ṯuʿē | gift for the Heroes (construct: Amorite qīšum 'gift' + ṯuʿ 'Hero, Noble'), a recipient of wine | SPECULATIVE |
 
 <!-- END kaphtor:record -->

@@ -27,7 +27,7 @@ updated: 2026-11-12T00:26:03Z
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT11a\|HT11a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT137\|HT137]] | Haghia Triada | Tablet | none |
-| [[wiki/linear-a/inscriptions/KH/KH/KH29\|KH29]] | Khania | Tablet | none |
+| [[wiki/linear-a/inscriptions/KH/KH/KH29\|KH29]] | Khania | Tablet | incomplete |
 
 ## In translations
 

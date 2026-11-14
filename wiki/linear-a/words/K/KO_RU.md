@@ -49,6 +49,7 @@ HT 23a .5 · KO-RU 1, the last entry of side a after SI+ME 10, in a list of comm
 |---|---|
 | Akkadian | kurru A 'a measure of capacity' (CAD K 564) |
 | Hebrew | kōr 'kor, dry or liquid measure', šəlōšîm kōr sōlet 'thirty kor of fine flour' (1 Kgs 5:2; HALOT 496); kar 'ram' (HALOT 496), the rival |
+| Phoenician | kr, a measure of capacity (Tomback 1978, 148) |
 
 ### Source
 

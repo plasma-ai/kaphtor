@@ -47,10 +47,11 @@ HT 116a: KU-PA-JA GRA 16, first of six grain recipients under U-TA-RO · TE ·, 
 | Language | Comparison |
 |---|---|
 | Amorite | KUBB-IJA (KU-UB-BI-IA), Mari (Gelb AS 21 no. 4149); KUBB-AN-UM (no. 4148) |
+| Ugaritic | kbby, a personal name on Kubaba, syll. ᶠku-ba-ba (RS 16.144:6) (KTU³ 3.35:7; DULAT 419) |
 
 ### Source
 
-di Mino; Gelb 1980; Haas 1994
+di Mino; Gelb 1980; Haas 1994; DULAT
 
 ## Attestations
 

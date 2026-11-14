@@ -41,22 +41,22 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-PK Za 11, A-DI-KI-TE-TE-\[DU-PU₂\]-RE: the Palaikastro form of JA-DI-KI-TU (Diktu, Dikte), whose cognates it shares. TE-TE is the feminine nisbe -īt, ʾa-Diqqitīt 'the Diktaean', E for i: JA-DI-KI-TU ~ JA-DI-KI-TE-TE as \*312-TA ~ \*312-TE-TE (Davis 2026, 45), the base T kept as in SU-KI-RI-TE-I-JA beside SU-KI-RI-TA; Heb. ʾašdôdît, yĕhûdît (Neh 13:24); LB di-ka-ta-jo Diktaios (KN Fp 1).
+PK Za 11, A-DI-KI-TE-TE-\[DU-PU₂\]-RE: the Palaikastro form of JA-DI-KI-TU (Diktu, Dikte), whose cognates it shares. TE-TE is the feminine nisbe -īt, ʾa-Diqqitīt 'the Diktaean', E for i: JA-DI-KI-TU ~ JA-DI-KI-TE-TE as \*312-TA ~ \*312-TE-TE (Davis 2026, 46), the base T kept as in SU-KI-RI-TE-I-JA beside SU-KI-RI-TA; Heb. ʾašdôdît, yĕhûdît (Neh 13:24); LB di-ka-ta-jo Diktaios (KN Fp 1).
 
 Every TE-TE form is one sign group with dubur (PK Za 8, PK Za 11, PK Za 15), Diqqitīt dubur 'the Diktaean of the sanctuary'. PK Za 12 a: A-DI-KI-TẸ-\[TE\], TE damaged, no divider, the surface after it lost (GORILA IV 36–38).
 
-The word stands only at Palaikastro, in classical times the chief seat of Zeus Diktaios, and Pugliese Carratelli saw in it a divine name or epithet formed on Dikte (Pugliese Carratelli 1957, 170). Rival: Davis parses A- as a prepositional prefix, 'to, for the Diktaian' (Davis 2026, in Salgarella and Petrakis eds., The Wor(l)ds of Linear A, 43–60). Weak point: E writes i twice, and no held Semitic form of the name carries the nisbe.
+The word stands only at Palaikastro, in classical times the chief seat of Zeus Diktaios, and Pugliese Carratelli saw in it a divine name or epithet formed on Dikte (Pugliese Carratelli 1957, 170). Rival: Davis parses A- as a prepositional prefix, 'to, for the Diktaian' (Davis 2026, in Salgarella and Petrakis eds., The Wor(l)ds of Linear A, 43–60). DI- stands against the a of the goddess's syllabic spellings, ᵈda-ki-tu, Hittite Takiti-, Pardee's Daqqitu (DULAT 276): a dialect alternation, as TI-NI-TA beside TA-NA-TI, and Arabic has diqq beside daqīq (Lane 896). Weak point: E writes i twice, and no held Semitic form of the name carries the nisbe.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Ugaritic | dqt 'female head of small cattle for sacrifice', a ewe or she-goat (Gordon UT §19.695, cited by Astour 1966, 283 n. 74); DN dqt, KTU 1.102:8 (Astour 1966, 283–84; DULAT 276) |
-| Hebrew | cf. śəʿîrāh (שְׂעִירָה) 'she-goat' and śəʿîrîm (שְׂעִירִים) 'goat-demons' (Lev 17:7, 2 Chr 11:15) |
+| Ugaritic | dqt 'female head of small cattle for sacrifice', a ewe or she-goat (Gordon UT §19.695, cited by Astour 1966, 283 n. 74); DN dqt, KTU 1.102:8 (Astour 1966, 283–84; DULAT 276); DQT (Daqqitu) receives offerings in KTU 1.39:15–16, 1.116:19 and 1.132:7 (Pardee 2000, 976) |
+| Hebrew | daq (דַּק) 'thin, fine' (HALOT 229); for the sense cf. śəʿîrāh (שְׂעִירָה) 'she-goat' and śəʿîrîm (שְׂעִירִים) 'goat-demons' (Lev 17:7, 2 Chr 11:15) |
 
 ### Source
 
-di Mino; Davis 2026; Pugliese Carratelli 1957; GORILA IV
+di Mino; Davis 2026; Pugliese Carratelli 1957; GORILA IV; Pardee 2000; DULAT; Lane; Astour 1966
 
 ## Attestations
 

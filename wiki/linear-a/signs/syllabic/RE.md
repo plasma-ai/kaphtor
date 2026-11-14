@@ -57,11 +57,11 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_RE_PI_RE_NA\|A-RE-PI-RE-NA]] | ʾa-repiʾ-rennā | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RE_SA_NA\|A-RE-SA-NA]] | ʾAriš-ān | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RE_TU_MI\|A-RE-TU-MI]] | ʾarṣ̂-ummī | CANDIDATE |
-| [[wiki/linear-a/words/A/A_TA_RE\|A-TA-RE]] | Hathar | SPECULATIVE |
-| [[wiki/linear-a/words/A/AU_RE_TE\|AU-RE-TE]] | ʾawrēt | PROBABLE |
+| [[wiki/linear-a/words/A/A_TA_RE\|A-TA-RE]] | ʿAṯtar | SPECULATIVE |
+| [[wiki/linear-a/words/A/AU_RE_TE\|AU-RE-TE]] | ʾawrēt | CANDIDATE |
 | [[wiki/linear-a/words/D/DA_RE\|DA-RE]] | dār | CANDIDATE |
-| [[wiki/linear-a/words/D/DI_RE_DI_NA\|DI-RE-DI-NA]] | ʾaddīr-dīnā | SPECULATIVE |
-| [[wiki/linear-a/words/D/DU_star314_RE\|DU-\*314-RE]] | dubur | CANDIDATE |
+| [[wiki/linear-a/words/D/DI_RE_DI_NA\|DI-RE-DI-NA]] | ʾaddīr-dīnā | CANDIDATE |
+| [[wiki/linear-a/words/D/DU_star314_RE\|DU-\*314-RE]] | ḏū har | CANDIDATE |
 | [[wiki/linear-a/words/D/DU_PU2_RE\|DU-PU₂-RE]] | dubur | PROBABLE |
 | [[wiki/linear-a/words/D/DU_RA_RE\|DU-RA-RE]] | durār | PROBABLE |
 | [[wiki/linear-a/words/D/DU_RE_ZA_SE\|DU-RE-ZA-SE]] | turēṯa-se | CANDIDATE |
@@ -85,7 +85,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/P/PU2_RE_JA\|PU₂-RE-JA]] | burē(t)yā | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_star118_RA_RE\|QA-\*118-RA-RE]] | qaṭara(re) | PROBABLE |
 | [[wiki/linear-a/words/Q/QA_KU_RE\|QA-KU-RE]] | kakkarē | SPECULATIVE |
-| [[wiki/linear-a/words/Q/QA_RE_TO\|QA-RE-TO]] | qart- | CANDIDATE |
+| [[wiki/linear-a/words/Q/QA_RE_TO\|QA-RE-TO]] | qarēt- | CANDIDATE |
 | [[wiki/linear-a/words/Q/QE_KU_RE\|QE-KU-RE]] | kikkᵊrē | SPECULATIVE |
 | [[wiki/linear-a/words/R/RA2_RO_RE\|RA₂-RO-RE]] | Lallor | SPECULATIVE |
 | [[wiki/linear-a/words/R/RE\|RE]] | le- | CONFIRMED |

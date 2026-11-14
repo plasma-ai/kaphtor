@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ʕkk \[-i-, -u-\] (Lane 2118) | Lane 2118 |  |
-| Pre-Islamic North Arabian | Safaitic ʿky (Al-Jallad 2026, 13) | Al-Jallad 2026 13 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʿky (Al-Jallad 2026, 13); Taymanitic ʿkk (Al-Jallad 2026b, 32) | Al-Jallad 2026 13; Al-Jallad 2026b 32 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

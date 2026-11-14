@@ -106,10 +106,10 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/star/star370\|\*370]] |  | sign with 1 |  |  |
 | [[wiki/linear-a/words/star/star312\|\*312]] |  | unidentified logogram, 1 |  |  |
 | [[wiki/linear-a/words/K/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | devotee of Kubaba, personal name or title, 1; rival Ugaritic Gupana | PROBABLE | PROBABLE (lexicon) |
-| [[wiki/linear-a/words/T/TU_SU_PU2\|TU-SU-PU₂]] | Tešub | Teshub (Hurrian theophoric personal name), 1 | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/K/KI\|KI]] |  | single sign with 1 |  |  |
+| [[wiki/linear-a/words/T/TU_SU_PU2\|TU-SU-PU₂]] | Tešub | Teshub (Hurrian theophoric personal name), 1; rival tōṯabu 'resident, sojourner' | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/K/KI\|KI]] |  | single sign with 1 |  | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/T/TU\|TU]] | ṯawr | cattle (logographic abbreviation), 4 | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/K/KI\|KI]] |  | single sign with 1 |  |  |
+| [[wiki/linear-a/words/K/KI\|KI]] |  | single sign with 1 |  | CANDIDATE (lexicon) |
 
 ### Notes
 

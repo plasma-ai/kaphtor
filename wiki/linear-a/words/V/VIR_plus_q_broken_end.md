@@ -49,14 +49,14 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT105\|HT105]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT105\|HT105]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT108\|HT108]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT119\|HT119]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT25b\|HT25b]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT26b\|HT26b]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT27a\|HT27a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT58\|HT58]] | Haghia Triada | Tablet | none |
-| [[wiki/linear-a/inscriptions/HT/HT/HT62_plus_73\|HT62+73]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT62_plus_73\|HT62+73]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT66\|HT66]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT68\|HT68]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT7a\|HT7a]] | Haghia Triada | Tablet | incomplete |
@@ -80,7 +80,9 @@ di Mino
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT7a\|HT7a]] |  | men (VIR, the ligatured sign lost) | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT27a\|HT27a]] |  | men | PROBABLE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT85a\|HT85a]] |  | men (personnel logogram) |  |
+| [[wiki/linear-a/inscriptions/HT/HT/HT62_plus_73\|HT62+73]] |  | men, a counted personnel class (the person sign with an unnamed element) | PROBABLE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT85a\|HT85a]] |  | men (personnel logogram) | PROBABLE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT105\|HT105]] |  | men, a counted personnel class (the person sign with an unnamed element) | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT119\|HT119]] |  | men; the second element of the ligature is unread |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT122b\|HT122b]] |  | men (personnel logogram) |  |
 | [[wiki/linear-a/inscriptions/PE/PE/PE1\|PE1]] |  | men; the second element of the ligature is unread, 5̣0\[ (53 restored) |  |

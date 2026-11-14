@@ -48,6 +48,7 @@ HT 1 .2–3 DI-DI-ZA-KE 52, the first DI dotted, between ZU-SU 70 and KU-PA₃-N
 |---|---|
 | Amorite | zak- 'pure, innocent' (Huffmon 1965, 186); ʿAMM-I+ZAKK-UM, ʿAMM-I+ZAKK-U-HU (Gelb 1980, nos. 755, 1904); ZAKZAK-UM (nos. 6299–6300) |
 | Hebrew | dôd 'beloved, uncle'; zak 'pure' |
+| Ugaritic | dd 'beloved, love' (DULAT 262) |
 
 ## Attestations
 

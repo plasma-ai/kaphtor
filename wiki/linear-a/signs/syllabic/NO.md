@@ -35,6 +35,6 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-NOT A LINEAR A SIGN. AB52 NO occurs nowhere in the Linear A corpus or SigLA, and Unicode's Linear A block has no AB052; the value no is Linear B's. Its two former confirmations were Gordon's misreadings of I: JA-TA-NO (= JA-TA-I-\*301-U-JA, AP Za 1) and NO-X-NA-MA (= I-PI-NA-MA, AP Za 2). Do not propose NO in Linear A spellings.
+NOT A LINEAR A SIGN. AB52 NO occurs nowhere in the Linear A corpus or SigLA, and Unicode's Linear A block has no AB052; the value no is Linear B's. Its two former confirmations came from Brice's edition of the texts, which read I as no: from it Gordon took ya-ta-no (Brice I 14) and no-x-na-ma (I 13), GORILA's JA-TA-I-\*301-U-JA (AP Za 1) and I-PI-NA-MA (AP Za 2) (Gordon 1966 §163). Do not propose NO in Linear A spellings.
 
 <!-- END kaphtor:record -->

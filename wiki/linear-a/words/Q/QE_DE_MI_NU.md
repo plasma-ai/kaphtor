@@ -60,7 +60,13 @@ di Mino
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/MA/MA/MA1a\|MA1a]] | Malia | 3-sided bar | none |
-| [[wiki/linear-a/inscriptions/MA/MA/MA1b\|MA1b]] | Malia | 3-sided bar | none |
+| [[wiki/linear-a/inscriptions/MA/MA/MA1b\|MA1b]] | Malia | 3-sided bar | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/MA/MA/MA1b\|MA1b]] | Qēdmīnu | personal name, 'Easterner, Ancient one' | SPECULATIVE |
 
 ## Onomasticon
 

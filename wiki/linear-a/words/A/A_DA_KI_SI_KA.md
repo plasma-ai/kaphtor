@@ -49,6 +49,7 @@ KH 5 .1 A-DA-KI-SI-KA · A-RA-U-DA ·, the heading over WI-SA-SA-NE CYP+E 2, VIN
 |---|---|
 | Amorite | ḫadk-, theophorous element, perhaps identical with Adgi, a local (Mari area) name of Adad: Ḫa-ad-ku-um, Mu-tu-ḫa-ad-ki-im (Huffmon 1965, 190–191); Mu-tu-ḫa-ad-ki-im, var. Mu-tu-ḫa-ad-ki (ARM IV 80.10′), Mu-tu-ad-ki-im (ARM II 122.7) (Huffmon 1965, 53) |
 | Ugaritic | šqy 'to give drink' (DULAT 827) |
+| Eblaite | si-gu-dam /šiḳūtum/ 'potion' (ARET 16, 1 rev. VIII 5–11) |
 
 ### Source
 

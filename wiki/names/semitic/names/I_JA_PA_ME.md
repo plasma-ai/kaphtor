@@ -36,7 +36,7 @@ updated: 2026-11-11T23:39:03Z
 
 ## Note
 
-KH 7a: sections under E-NA-SI 'men', I-JA-PA-ME · TA-TA and SE-\*305 'provisions'; the second holds QA-TI-KI, \*313b men 4, cyperus ⅓ (GORILA III 29). yabam 'brother-in-law', as Tell Rimah ia-ba-mi-ša and Ugaritic ybm (GlOS 2, 341; DULAT 937); before TA-TA, yabam Tatta 'the brother-in-law of Tatta', a woman's name at Mari and Tuttul (Monti 2017, 302, 335): her husband's brother, as ia-ba-mi-ša 'her brother-in-law'. Rival: ybmt 'widowed sister-in-law', Anat's epithet ybmt limm (DULAT 937; Huehnergard 2012, 87). One witness.
+KH 7a: sections under E-NA-SI 'men', I-JA-PA-ME · TA-TA and SE-\*305 'provisions'; the second holds QA-TI-KI, \*313b men 4, cyperus ⅓ (GORILA III 29). yabam 'brother-in-law', as Tell Rimah ia-ba-mi-ša and Ugaritic ybm (GlOS 2, 341; DULAT 937); before TA-TA, yabam Tatta 'the brother-in-law of Tatta', a woman's name at Mari and Tuttul (Monti 2017, 302, 335): her husband's brother, as ia-ba-mi-ša 'her brother-in-law'. Rival: ybmt 'widow sister-in-law', Anat's epithet ybmt lỉmm (DULAT 937; Huehnergard 2012, 87). Weak point: I-JA- for ya-, which JA alone writes elsewhere. One witness.
 
 ## As a name
 
@@ -47,8 +47,8 @@ Reading from the lexicon (di Mino). Tell Rimah ia-ba-mi-ša 'her brother-in-law'
 | Language | Comparison |
 |---|---|
 | Hebrew | יָבָם (yābām) 'brother-in-law'; יְבָמָה (yᵊbāmāh) 'levirate widow' |
-| Ugaritic | ybm 'brother-in-law' (DULAT 937); ybmt 'widowed sister-in-law', Anat's epithet ybmt limm, the rival |
-| Tell Rimah | ia-ba-mi-ša 'her brother-in-law' (GlOS 2, 341) |
+| Ugaritic | ybm 'brother-in-law' (DULAT 937); ybmt 'widow sister-in-law, nubile widow', Anat's epithet ybmt lỉmm, the rival |
+| Old Syrian | Tell Rimah ia-ba-mi-ša 'her brother-in-law' (GlOS 2, 341) |
 
 ## Attestations
 

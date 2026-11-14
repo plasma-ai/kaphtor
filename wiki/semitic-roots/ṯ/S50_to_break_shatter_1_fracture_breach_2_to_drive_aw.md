@@ -51,7 +51,7 @@ updated: 2026-11-03T03:29:48Z
 | Harsusi | ṯebōr (HL 132 apud SEDonline 1881) | HL 132; SEDonline 1881 | gloss withheld |
 | Jibbali | ṯɔ̄r (JL 282; MLZ 171 apud SEDonline 1881) | JL 282; SEDonline 1881 | gloss withheld |
 | Mehri | ṯəbūr (ML 414–415 apud SEDonline 1881) | ML 414–415; SEDonline 1881 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ṯbr 1; ṯbr 3 (Al-Jallad 2026, 156) | Al-Jallad 2026 156 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ṯbr 1; ṯbr 3 (Al-Jallad 2026, 156); Taymanitic s³br 1 (Al-Jallad 2026b, 58) | Al-Jallad 2026 156; Al-Jallad 2026b 58 | gloss withheld |
 | Biblical Aramaic | tbr pe. pt. pass. 1 (HALOT 1402) | HALOT 1402 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

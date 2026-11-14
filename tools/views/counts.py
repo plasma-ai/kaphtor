@@ -1,4 +1,5 @@
-"""Every count the wiki prints, computed from the data files: documents, the census classes, complete translations.
+"""Every count the wiki prints, computed from the data files: documents, the census classes, complete translations,
+the lexicon's tiers and the sign values.
 
 A document groups the records that differ only in a side suffix (HT9a/HT9b, GO2r/GO2v, KNWc<24a>/<24b>). HT 154 A–N
 are separate fragments in GORILA I, so HT154a…n stay apart, and HT154ja/jb are the two sides of fragment J. Keys
@@ -11,6 +12,8 @@ from __future__ import annotations
 
 import collections
 import re
+from collections.abc import Iterable, Mapping
+from typing import Any
 
 SIDE = re.compile(r"^(.*\d)([a-h]|r|v)$")
 FRAGMENT_SIDE = re.compile(r"^(HT154[a-n])([ab])$")
@@ -21,6 +24,7 @@ CLASSES = (
     "published after 2023", "outside both editions", "GORILA, labelled", "GORILA, unlabelled", "unresolved",
 )
 DOCUMENT_SETS = ("published_after_2023", "outside_editions", "gorila_unlabelled", "unresolved")
+TIERS = ("CONFIRMED", "PROBABLE", "CANDIDATE", "SPECULATIVE")
 
 
 def doc_id(key: str) -> str:
@@ -106,3 +110,19 @@ def translation_counts(translations: dict) -> tuple[int, int]:
     """(complete, incomplete) over the `translations` sub-dict of translations.json."""
     complete = sum(1 for entry in translations.values() if is_complete(entry))
     return complete, len(translations) - complete
+
+
+def lexicon_tiers(entries: Iterable[Mapping[str, Any]]) -> collections.Counter[Any]:
+    """Lexicon entries per confidence label."""
+    return collections.Counter(entry.get("confidence") for entry in entries)
+
+
+def sign_value_counts(summary: Mapping[str, Any]) -> dict[str, int]:
+    """The sign values of `resolution_summary` in sign_values.json, fractions left out: the `total` of resolved and
+    proposed values, the `resolved` among them, and the `phonemic` and `logographic` values, resolved and proposed
+    together."""
+    proposed = summary["proposed"]
+    return {"total": summary["total"] + proposed["phonemic_count"] + proposed["logogram_count"],
+            "resolved": summary["total"],
+            "phonemic": summary["phonemic_count"] + proposed["phonemic_count"],
+            "logographic": summary["logogram_count"] + proposed["logogram_count"]}

@@ -48,10 +48,12 @@ HT 8b, Villa Magazine: PA₃-\*188 2, PA₃ ba as a phonetic complement giving t
 | Language | Comparison |
 |---|---|
 | Eblaite | GIŠ.EŠ₁₁ = buₓ-du-du buṭutt 'pistachio' (GlOS 1, 131) |
+| Akkadian | buṭnu 'terebinth' (CAD B 358) |
+| Hebrew | boṭnîm 'pistachio nuts', Gen 43:11 (HALOT 121) |
 
 ### Source
 
-di Mino; Schrijver 2014
+di Mino; Schrijver 2014; GlOS 1; CAD B; HALOT
 
 ## Attestations
 

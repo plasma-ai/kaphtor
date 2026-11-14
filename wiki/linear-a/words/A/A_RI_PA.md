@@ -49,6 +49,7 @@ PE 2, in a list of fractional entries: A-RI-PA ¼, after A-\*325-ZA ¼ and befor
 |---|---|
 | Ugaritic | rpum 'Rephaim' / ʿrpt 'clouds' |
 | Hebrew | רְפָאִים (rᵊpāʾīm) / עֲרָפֶל (ʿărāpel 'thick cloud') |
+| Phoenician | rpʾm 'shades' (KAI 13:7–8; HALOT 1274) |
 
 ### Source
 

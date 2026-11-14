@@ -48,6 +48,8 @@ ZA Wc 2, a Zakros roundel: .1 A-TI-KA-A, .2 DỤ-KO-⟦MI⟧, the signs of .1 ev
 | Language | Comparison |
 |---|---|
 | Eblaite | a-ti-gu ʿatīq 'old', AL₆.GÍD = a-ti-gu-um (GlOS 1, 93); a-ti-ga, a name (EbDA, ARET 20 0014) |
+| Ugaritic | ʿtq 'durable', syllabic at-qá (DULAT 189) |
+| Safaitic | ʿtq, a personal name (Harding 1971, 405) |
 
 ### Source
 
@@ -57,7 +59,13 @@ di Mino; DULAT; Harding 1971; DMic I 119; CMS II,7; Anastasiadou 2026, 37–39, 
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/ZA/ZAWc/ZAWc2\|ZAWc2]] | Zakros | Roundel | none |
+| [[wiki/linear-a/inscriptions/ZA/ZAWc/ZAWc2\|ZAWc2]] | Zakros | Roundel | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/ZA/ZAWc/ZAWc2\|ZAWc2]] | ʿAtīqa | personal name, 'enduring' | SPECULATIVE |
 
 ## Onomasticon
 

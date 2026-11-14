@@ -78,9 +78,9 @@ Corpus-internal arithmetic; Gordon 1966 for the Semitic comparison; Schoep 2002;
 | [[wiki/linear-a/inscriptions/HT/HT/HT27a\|HT27a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT39\|HT39]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT40\|HT40]] | Haghia Triada | Tablet | none |
-| [[wiki/linear-a/inscriptions/HT/HT/HT46a\|HT46a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT46a\|HT46a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT67\|HT67]] | Haghia Triada | Tablet | incomplete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT74\|HT74]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT74\|HT74]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT85a\|HT85a]] | Haghia Triada | Tablet | complete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HT/HT88\|HT88]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT89\|HT89]] | Haghia Triada | Tablet | complete |
@@ -100,8 +100,8 @@ Corpus-internal arithmetic; Gordon 1966 for the Semitic comparison; Schoep 2002;
 | [[wiki/linear-a/inscriptions/HT/HT/HT123_plus_124a\|HT123+124a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT123_plus_124b\|HT123+124b]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT127b\|HT127b]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT130\|HT130]] | Haghia Triada | Tablet | none |
-| [[wiki/linear-a/inscriptions/PH/PH/PH_q_31a\|PH(?)31a]] | Phaistos | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT130\|HT130]] | Haghia Triada | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/PH/PH/PH_q_31a\|PH(?)31a]] | Phaistos | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA15b\|ZA15b]] | Zakros | Tablet | complete |
 
 ## In translations
@@ -114,7 +114,9 @@ Corpus-internal arithmetic; Gordon 1966 for the Semitic comparison; Schoep 2002;
 | [[wiki/linear-a/inscriptions/HT/HT/HT11b\|HT11b]] | kull | total | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT13\|HT13]] | kull | total, 130½ | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT27a\|HT27a]] | kull | total | CONFIRMED |
+| [[wiki/linear-a/inscriptions/HT/HT/HT46a\|HT46a]] | kull | total, sum (accounting term) | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT67\|HT67]] | kull | total, sum (accounting term) | CONFIRMED |
+| [[wiki/linear-a/inscriptions/HT/HT/HT74\|HT74]] | kull | total, sum (accounting term) | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT85a\|HT85a]] | kull | total | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT88\|HT88]] | kull | total | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT94b\|HT94b]] | kull | total | CONFIRMED |
@@ -132,6 +134,8 @@ Corpus-internal arithmetic; Gordon 1966 for the Semitic comparison; Schoep 2002;
 | [[wiki/linear-a/inscriptions/HT/HT/HT123_plus_124a\|HT123+124a]] | kull | total, sum | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT123_plus_124b\|HT123+124b]] | kull | total, sum | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT127b\|HT127b]] | kull | total | CONFIRMED |
+| [[wiki/linear-a/inscriptions/HT/HT/HT130\|HT130]] | kull | total, sum (accounting term) | CONFIRMED |
+| [[wiki/linear-a/inscriptions/PH/PH/PH_q_31a\|PH(?)31a]] | kull | total, sum (accounting term) | CONFIRMED |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA15b\|ZA15b]] | kull | total, sum (accounting term) | CONFIRMED |
 
 <!-- END kaphtor:record -->

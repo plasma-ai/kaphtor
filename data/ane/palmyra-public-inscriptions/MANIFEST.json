@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0",
+  "dataset": "Public Inscriptions from Palmyra: catalogue rows, names and buildings",
+  "source": {
+    "work": "Raja, Rubina; Steding, Julia; Yon, Jean-Baptiste; Romanowska, Iza. 2026. Public Inscriptions from Palmyra. Zenodo.",
+    "doi": "10.5281/zenodo.18934260",
+    "url": "https://doi.org/10.5281/zenodo.18934260",
+    "published": "2026-03-10",
+    "data_paper": "Steding, Romanowska, Yon and Raja 2026, Journal of Open Archaeology Data, doi:10.5334/joad.189"
+  },
+  "license": "CC BY 4.0",
+  "license_basis": "Zenodo record 18934260, license.id cc-by-4.0, read 2026-11-14",
+  "inputs": [
+    {
+      "file": "Palmyra_Public_Inscriptions.xlsx",
+      "bytes": 315943,
+      "md5": "b2f7637eca0a8403a64003b994146dad",
+      "sha256": "31f9418106f002db8f6cb0d15481df6fb3b19d864a4ecaa8042303e3875512fb"
+    },
+    {
+      "file": "Palmyra_Public_Inscriptions_Names.xlsx",
+      "bytes": 82853,
+      "md5": "5caa42bf2920931c52dc26133e85123f",
+      "sha256": "28950a9384e9a40084cf597e0d5a902e7e1bd94e219a4d42e41a7858453dd1c0"
+    },
+    {
+      "file": "all_buildings.xlsx",
+      "bytes": 14294,
+      "md5": "fadfc20b0554fb4a0472e6991b4ad4cb",
+      "sha256": "f55a2420687c2014ca0c5aad3f2c2f56c92337378b2897f84a39a5bfb1564ff8"
+    }
+  ],
+  "scope_note": "Catalogue data and names. The dataset holds no inscription text. Names are the editors' vocalised romanisation; no consonantal spelling is given or derived.",
+  "rules": {
+    "cells": "Trimmed of surrounding whitespace; nothing else changed.",
+    "ids": "PAT number (digits padded to four), else IGLS, CIS, RES, else the sheet row.",
+    "sigla": "As the sheet gives them, under the dataset's own column names; the IGLS volume is not stated in the sheet.",
+    "names": "One row per filled Founder_n and Ind_n cell of the Names sheet, one per IndA-IndQ cell of the main sheet with its function, one per comma-separated entry of the Gods column (which also holds deified emperors and 'Anonymous God').",
+    "buildings": "building_id is set when the record's building_name equals a building's name exactly.",
+    "columns_left_out": [
+      "Year_mean",
+      "timespan_x",
+      "Unnamed: 0_x",
+      "not_before",
+      "not_after",
+      "timespan_y",
+      "Year_min_new",
+      "Year_max_new",
+      "random_dates",
+      "Unnamed: 0_y",
+      "building_type_new"
+    ],
+    "concordance": "concordance.jsonl: one row per inscription that carries more than one siglum, with keys pat:N, igls:N, cis:N, res:N (zeros dropped) for lookup. The equations are the dataset's own columns."
+  },
+  "counts": {
+    "records": 1135,
+    "records_by_language": {
+      "GrPal": 199,
+      "Greek": 223,
+      "LatGr": 1,
+      "LatGrPal": 8,
+      "LatPal": 1,
+      "Latin": 26,
+      "Palmyrene": 677
+    },
+    "records_with": {
+      "pat": 828,
+      "igls": 452,
+      "cis": 248,
+      "res": 65
+    },
+    "records_without_siglum": 25,
+    "records_with_building_id": 660,
+    "names": 5443,
+    "names_by_role_and_sheet": {
+      "founder/names": 892,
+      "gods_column/inscriptions": 419,
+      "individual/inscriptions": 1220,
+      "individual/names": 2912
+    },
+    "buildings": 90,
+    "founder_cell_differs_from_names_sheet": 303
+  },
+  "outputs": {
+    "records.jsonl": {
+      "rows": 1135,
+      "sha256": "8116549333b6bb97b9c9b173b9b90f7906c59501a64af83bcc0a4445e7008fd7"
+    },
+    "names.jsonl": {
+      "rows": 5443,
+      "sha256": "79453348035b0b32471cfbe29c79482e331fa57f5ce7298f44ba5a72befab4d1"
+    },
+    "buildings.jsonl": {
+      "rows": 90,
+      "sha256": "297c5a917da758023885b1d60d5532d4ccf188558fc7f25677e5309c771d9dad"
+    },
+    "concordance.jsonl": {
+      "rows": 355,
+      "sha256": "3be2eaa2db9f21e250aa35a9b4a4283bbe39d9503f30b94c131a782a76abb350"
+    }
+  }
+}

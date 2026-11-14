@@ -43,7 +43,7 @@ updated: 2026-10-22T17:38:31Z
 | Punic | ʿly; ʿlm 2 (Krahmalkov 368); ʿlm 2; Neo-Punic hyʿl 2 (Krahmalkov 370) | Krahmalkov 368; Krahmalkov 370; Anderson–Moser 2024 root ʿly | gloss withheld |
 | Phoenician | ʿly (T 244); yʿl 2; ʿlt 2 (Krahmalkov 370) | T 244; Krahmalkov 370 | gloss withheld |
 | Amorite | ʿalijum, ʿalijatum, ʿalītum, ʿalija (Gelb AS 21, 15); ʾaʿalî (Buck 2019, 325) | Gelb AS 21 15; Buck 2019, 325 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ʿly (Al-Jallad–Jaworska 52); ʿlw; ʿly; ʿly (D) (Al-Jallad 2026, 14); ʾʿly; ʾʿl (Al-Jallad 2026, 15) | Al-Jallad–Jaworska 52; Al-Jallad 2026 14; Al-Jallad 2026 15 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʿly (Al-Jallad–Jaworska 52); ʿlw; ʿly; ʿly (D) (Al-Jallad 2026, 14); ʾʿly; ʾʿl (Al-Jallad 2026, 15); Taymanitic ʿlw (Al-Jallad 2026b, 32); ʿly (Al-Jallad 2026b, 33); ʾlʿl (Al-Jallad 2026b, 70); ʾmtʿly (Al-Jallad 2026b, 74); ʿlyh (Al-Jallad 2026b, 78) | Al-Jallad–Jaworska 52; Al-Jallad 2026 14; Al-Jallad 2026 15; Al-Jallad 2026b 32; Al-Jallad 2026b 33; Al-Jallad 2026b 70; Al-Jallad 2026b 74; Al-Jallad 2026b 78 | gloss withheld |
 | Biblical Aramaic | ʕillāyā (HALOT 1948 apud SEDonline 268) | HALOT 1948; SEDonline 268 | gloss withheld |
 | Soqotri | ʕíľi (LS 309–310; CSOL I 491; CSOL II 409 apud SEDonline 268); šáˁḷe (LS 309–310; SLOnline 26015) | LS 309–310; SEDonline 268; SLOnline 26015 | gloss withheld |
 | Syrian Aramaic | ʕlā 'raise, exalt; be exalted, excel' (Payne Smith 413) | Payne Smith 413 |  |

@@ -41,21 +41,25 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-AR Zf 1 and AR Zf 2, separate one-word inscriptions on votive double axes from Arkhalkhori, AR Zf 2 broken after TE (I-DA-MA-TE\[). I-DA-MA-TE alternates with DA-MA-TE on KY Za 2, prothetic I- before the same base, Ug. dmt 'tower' (DULAT 272), as Heb. ʾezrōaʿ (Jer 32:21, Job 31:22) beside zərōaʿ 'arm' and BArm. ʾedrāʿ beside dərāʿ (HALOT 28), Ug. udmʿt beside dmʿt 'tears' (Tropper 2000, §33.423a), and Ebla iš-ba-um /ʾiṣbaʿum/ 'finger' (Lipiński 1997, §27.17). A sacred title: Ug. dmt stands in 'the tower of the mother of(?) the god\[s(?)' (KTU 2.31:46). Cf. Magdalene, read as the epithet 'the Tower' since Jerome, Ep. 127 (turritae) (Taylor 2014; Schrader and Taylor 2021). Rivals: a personal name, as for DA-MA-TE; 'Mother Ida' (Buphidis) or Demeter (Georgiev), both apud Pugliese Carratelli 1957, 171. Weak point: single words, with no sentence around them. Two attestations. See DA-MA-TE.
+AR Zf 1 and AR Zf 2, a gold and a silver votive double axe from the cave of Arkhalkhori, each bear the one word, AR Zf 2 broken after TE; KY Za 2, a ladle from the peak sanctuary of Kythera, writes DA-MA-TE alone. For its editors DA-MA-TE is 'un groupe de signes autonome, suffisant pour « faire parler » un objet votif' (Sakellarakis and Olivier 1994, 349).
+
+ʾidmat 'the Tower', prothetic I- before the base, as Heb. ʾezrōaʿ beside zərōaʿ 'arm' (HALOT 28), Ug. udmʿt beside dmʿt 'tears' (Tropper 2000, §33.423a) and Ebla iš-ba-um 'finger' (Lipiński 1997, §27.17). Ug. dmt 'tower' stands in 'the tower of the mother of(?) the god\[s(?)' (KTU 2.31:46; DULAT 272), and dmtqdš, syllabic du-ma-at qi-id-ši, is a royal farm of the sanctuary (DULAT 272; Watson 2001, 114). Akk. dimtu is tower, fortified estate and district, and its estates 'as a rule, contained threshing floors' (CAD D 144–147). The first vowel moves within the family: i in Akkadian, u at Ugarit, a in Linear A.
+
+The name may be that of Demeter: for the editors 'la « lecture » DA-MA-TE, Δαμάτηρ, est loin d'être impossible' (Sakellarakis and Olivier 1994, 349). Doric, Arcadian and Boeotian Δαμάτηρ keeps the a (DELG 272–273), and Linear B da-ma-te heads a count of landholdings on PY En 609.1, the estate sense of dimtu (DMic I 151). Hebrew calls a woman a tower: 'I am a wall, and my breasts are like towers' (Song 8:10); Magdalene is read as 'the Tower' since Jerome, Ep. 127 (Taylor 2014; Schrader and Taylor 2021). Single words, with no sentence around them. Two attestations. See DA-MA-TE.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Ugaritic | dmt "tower", in "the tower of the mother of(?) the god\[s(?)" (KTU 2.31:46), and dmtqdš "Tower" (DULAT 272) |
+| Ugaritic | dmt "tower", in "the tower of the mother of(?) the god\[s(?)" (KTU 2.31:46; DULAT 272); the places dmt, syllabic du-ma-tu, 'Tower' or 'Stop, station' (Watson 2001, 114), and dmtqdš, a royal farm of the sanctuary (DULAT 272) |
 | Akkadian | dimtu "tower; fortified area, settlement; district" (CAD D 144–147; Huehnergard 1997) |
-| Linear A | The unprefixed DA-MA-TE is independently attested at KY Za 2 |
+| Linear A | DA-MA-TE, the unprefixed base (KY Za 2) |
 | Linear B | da-ma-te, PY En 609.1, read δάμαρτες 'household estates' or Δαμάτηρ (DMic I 151) |
 | Greek | Δαμάτηρ (Dor., Arc., Boeot.), Δωμάτηρ (Aeol.), Δημήτηρ (Hom.) 'Demeter' (DELG 272–273) |
 
 ### Source
 
-di Mino; DULAT; HALOT; Tropper 2000; Lipiński 1997; Pugliese Carratelli 1957
+di Mino; Sakellarakis and Olivier 1994; DULAT; HALOT; Tropper 2000; Lipiński 1997; Watson 2001; CAD D; DELG; DMic; Taylor 2014; Schrader and Taylor 2021; Huehnergard 1997
 
 ## Attestations
 

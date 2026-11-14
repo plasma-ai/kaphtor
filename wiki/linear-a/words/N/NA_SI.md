@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/N/NA_SI
 title: "NA-SI"
-desc: "nasīʾ: chief, prince (nasīʾ), broken before NA. Lexicon, SPECULATIVE (tier 1)."
+desc: "naśīʾ: chief, prince (naśīʾ), broken before NA. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "fragmentary", "hapax"]
 kind: "word"
 form: "NA-SI"
@@ -9,7 +9,7 @@ datasets: ["lexicon"]
 tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.3
-reading: "nasīʾ"
+reading: "naśīʾ"
 attestations: ["APZa2"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,9 +31,9 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | nasīʾ |
-| Meaning | chief, prince (nasīʾ), broken before NA |
-| Root | n-s-ʾ |
+| Reading | naśīʾ |
+| Meaning | chief, prince (naśīʾ), broken before NA |
+| Root | n-ś-ʾ |
 | Proto-Semitic | \*nśʾ- (#S38) |
 | Language layer | Semitic |
 | Tags | fragmentary, hapax |
@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-AP Za 2 line 1 begins at a broken edge with \]NA-SI, a divider after SI. nasīʾ 'chief, prince', Heb. nāśîʾ. Weak point: the start is broken, so the word can be longer, and its place in the line is unknown. E-NA-SI on KH 7a is a distinct form. One attestation. See DA-NA-SI and U-MI-NA-SI.
+AP Za 2 line 1 begins at a broken edge with \]NA-SI, a divider after SI. naśīʾ 'chief, prince', Heb. nāśîʾ. Weak point: the start is broken, so the word can be longer, and its place in the line is unknown. E-NA-SI on KH 7a is a distinct form. One attestation. See DA-NA-SI and U-MI-NA-SI.
 
 ### Cognates
 

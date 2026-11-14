@@ -48,6 +48,7 @@ KN Zg 55, a steatite disk seal: face b JA-SA-JA, the whole text, in the owner's 
 |---|---|
 | Amorite | ia-še-ia (GlOS 2, 379); JIŠʿ-IJA (see note) |
 | Amarna | ya-šu-ia (EA 256:18; Hess 1993, 166) |
+| Hebrew | yšʿ (hif. hôšîaʿ) 'help, save' (HALOT 448) |
 
 ## Attestations
 

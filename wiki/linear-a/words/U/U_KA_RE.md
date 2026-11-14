@@ -41,7 +41,7 @@ updated: 2026-10-31T14:13:39Z
 
 ### Note
 
-PE 1 .1–2 U-KA-RE A-SE-SI-NA, two groups, the heading over KU-PA-RI kuparī VIR 5̣0\[ and E-KA\[ VIR 72, each with grain at ½ unit a head (Younger, Linear A Texts, after Tsipopoulou & Hallager 1996, 25–30). u-gā-r, the construct before A-SE-SI-NA ḥašīšin 'of hay', RE's vowel dead, as Mari ina ú-ga-ar ekallim 'from the meadow of the palace' (ARMT 23 244:10; CAD U/W 31). Men of the ugāru draw provisions in Akkadian: kurummat 27 ṣābī ša ú-ga-re-e īpušū 'provisions for 27 men who worked the meadowlands' (BE 14 56a:26; CAD U/W 30). Rivals: ʾikkār 'ploughman', Hebrew ʾikkār (2 Chr 26:10, pl. ʾikkārîm), U for ʾi a vowel mismatch; the PN Ugār (DULAT 27). One witness. See A-KA-RU, A-SE-SI-NA.
+PE 1 .1–2 U-KA-RE A-SE-SI-NA, two groups, the heading over KU-PA-RI kuparī VIR 5̣0\[ and E-KA\[ VIR 72, each with grain at ½ unit a head (Younger, Linear A Texts, after Tsipopoulou & Hallager 1996, 25–30). u-gā-r, the construct before A-SE-SI-NA ḥašīšin 'of hay', RE's vowel dead, as Mari ina ú-ga-ar ekallim 'from the meadow of the palace' (ARMT 23 244:10; CAD U/W 31). Men of the ugāru draw provisions in Akkadian: kurummat 27 ṣābī ša ú-ga-re-e īpušū 'provisions for 27 men who worked the meadowlands' (BE 14 56a:26; CAD U/W 30). Watson connects Ugarit's own name with ugaru 'field' (Watson 2001, 112). Rivals: ʾikkār 'ploughman', Hebrew ʾikkār (2 Chr 26:10, pl. ʾikkārîm), U for ʾi a vowel mismatch; the PN Ugār (DULAT 27). One witness. See A-KA-RU, A-SE-SI-NA.
 
 ### Cognates
 
@@ -52,7 +52,7 @@ PE 1 .1–2 U-KA-RE A-SE-SI-NA, two groups, the heading over KU-PA-RI kuparī VI
 
 ### Source
 
-di Mino; CAD U/W; DULAT
+di Mino; CAD U/W; DULAT; Watson 2001; Hallager 1996
 
 ## Attestations
 

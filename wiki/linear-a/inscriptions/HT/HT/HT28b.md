@@ -71,7 +71,7 @@ Unicode (Linear A block):
 
 **CANDIDATE**, complete (status: complete).
 
-> Fine-flour (account), Ummī-naśiʾ: for the queen/royal establishment—grain 20, honey-oil 5, figs 2, wine 4. Baal—figs 6. Yāh—wine 6. Widdinā—honey-oil 3, wine 3¼
+> Fine-flour (account), Ummī-naśiʾ: for the queen/royal establishment—grain 20, honey-oil 5, figs 2, wine 4. Baʿal—figs 6. Yāh—wine 6. Widdinā—honey-oil 3, wine 3¼
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/O/OLE_plus_DI\|OLE+DI]] | dišpu | honey-infused olive oil |  | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/N/NI\|NI]] | \*nikuleon | figs | CONFIRMED | CONFIRMED (lexicon) |
 | [[wiki/linear-a/words/V/VIN\|VIN]] | wayn | wine |  | PROBABLE (lexicon) |
-| [[wiki/linear-a/words/P/PU_RA2\|PU-RA₂]] | Bōlu | Baal (Lord) |  | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/P/PU_RA2\|PU-RA₂]] | Bōl | Baʿal (Lord) |  | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/J/JA_HA\|JA-HA]] | Yāh(a) | Yāh (divine name, deity receiving offerings) |  | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/W/WI_DI_NA\|WI-DI-NA]] | Widdinā | our Beloved (PN, widd 'love') |  | SPECULATIVE (lexicon) |
 

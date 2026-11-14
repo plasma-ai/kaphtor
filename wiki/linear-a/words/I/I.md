@@ -57,7 +57,7 @@ updated: 2026-11-12T00:26:03Z
 | [[wiki/linear-a/inscriptions/HT/HTZf/HTZf165\|HTZf165]] | Haghia Triada | Metal object | none |
 | [[wiki/linear-a/inscriptions/KAN/KANZa/KANZa1\|KANZa1]] | Kannia | Stone vessel | none |
 | [[wiki/linear-a/inscriptions/KN/KNZg/KNZg57b\|KNZg57b]] | Knossos | ivory object | none |
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA11b\|ZA11b]] | Zakros | Tablet | none |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA11b\|ZA11b]] | Zakros | Tablet | incomplete |
 
 ## In translations
 

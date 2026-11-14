@@ -47,7 +47,7 @@ KN Zf 31, a silver pin, among the man's names in the first line. Amorite Qawmī-
 | Language | Comparison |
 |---|---|
 | Amorite | QWM 'to stand'; GA-MI-DINGIR Qawmī-ʾIl (Gelb 1980, no. 1743) |
-| Eblaitic | šū-X 'he is X': šū-ʾabu 'he is father', šū-nūrī 'he is my light' (Pagan 1998, rows 4265–4285) |
+| Eblaite | šū-X 'he is X': šū-ʾabu 'he is father', šū-nūrī 'he is my light' (Pagan 1998, rows 4265–4285) |
 | Arabic | nār- 'fire' beside nūr- 'light' (Kogan 2011, 195) |
 
 ## Attestations

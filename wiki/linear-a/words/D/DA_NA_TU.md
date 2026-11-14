@@ -49,6 +49,7 @@ ARKH 6: DA-NA-TU · KU heads the tablet, TE-RI on the next line. Feminine partic
 |---|---|
 | Ugaritic | dnty, wife of Danel (KTU 1.17 V 16; DULAT 274); dn 'judgment' (DULAT 273) |
 | Hebrew | Dînāh (Gen 30:21; HALOT 220); dîn 'judgment' (HALOT 220) |
+| Amorite | dān 'judge': a-bi-da-an (GlOS 1, 155) |
 
 ### Source
 
@@ -58,7 +59,13 @@ di Mino; RIME 4
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH6\|ARKH6]] | Arkhanes | Tablet | none |
+| [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH6\|ARKH6]] | Arkhanes | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH6\|ARKH6]] | dānatu | personal name (f.), 'she who judges' | SPECULATIVE |
 
 ## Onomasticon
 

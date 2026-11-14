@@ -11,7 +11,7 @@ import string
 from collections import Counter
 from pathlib import Path
 
-from .counts import translation_counts
+from .counts import lexicon_tiers, sign_value_counts, translation_counts
 from .model import Model
 
 TEMPLATES = Path(__file__).with_name("summaries")
@@ -25,12 +25,11 @@ def _num(value: int) -> str:
 
 def fields_linear_a(model: Model) -> dict[str, str]:
     lexicon = list(model.lexicon.values())
-    tiers = Counter(e.get("confidence") for e in lexicon)
+    tiers = lexicon_tiers(lexicon)
     layers = Counter(e.get("language_layer") for e in lexicon)
     field_counts = Counter(e.get("semantic_field") for e in lexicon)
     complete, _ = translation_counts({k: t["raw"] for k, t in model.translations.items()})
-    summary = model.sign_values["resolution_summary"]
-    values = summary["total"] + summary["proposed"]["phonemic_count"] + summary["proposed"]["logogram_count"]
+    values = sign_value_counts(model.sign_values["resolution_summary"])["total"]
     out = {
         "lexicon": len(lexicon), "records": len(model.corpus),
         "sites": len({r.get("site") for r in model.corpus.values() if r.get("site")}),

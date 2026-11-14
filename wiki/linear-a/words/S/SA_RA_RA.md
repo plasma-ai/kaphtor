@@ -59,6 +59,12 @@ HALOT 1054; DULAT 581; GlOS 2; di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT30\|HT30]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT30\|HT30]] | Haghia Triada | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT30\|HT30]] | ṣarār- | bundle, bag (commodity or container) | SPECULATIVE |
 
 <!-- END kaphtor:record -->

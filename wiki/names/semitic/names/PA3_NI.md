@@ -48,6 +48,7 @@ A recipient: HT 85a after DA-RI-DA 12, counted 12; HT 102 with GRA+PA 33. √b-n
 |---|---|
 | Ugaritic | bny 'builder' (GlOS 1, 122) |
 | Amorite | BANIJ-IM Baniyim, the active participle as a name (Gelb 1980, no. 1128) |
+| Phoenician | bny 'to build' (Tomback 1978, 49) |
 
 ## Attestations
 

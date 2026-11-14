@@ -83,6 +83,6 @@ HT 26a and HT 97a, in lists of quantities: the name Tati, as at Ugarit (RS 15.01
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KA_NU_TI|KA-NU-TI]] Ganuti, [[wiki/linear-a/words/K/KI|KI]], [[wiki/linear-a/words/P/PA_I_TO|PA-I-TO]] Paito.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KA_NU_TI|KA-NU-TI]] Ganuti, [[wiki/linear-a/words/K/KI|KI]] kilʾu, [[wiki/linear-a/words/P/PA_I_TO|PA-I-TO]] Paito.
 
 <!-- END kaphtor:record -->

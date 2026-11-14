@@ -36,7 +36,7 @@ updated: 2026-11-03T03:29:48Z
 | Aramaic | KPR (Aramaic Root Atlas; DNWSI 531) | Aramaic Root Atlas; DNWSI 531 | gloss withheld |
 | Punic | kpr 'wipe' | Anderson–Moser 2024 root kpr |  |
 | Syrian Aramaic | kpar 'wipe; deny, renounce' (Payne Smith 223) | Payne Smith 223 |  |
-| Pre-Islamic North Arabian | Safaitic kfr 2 (Al-Jallad 2026, 81) | Al-Jallad 2026 81 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic kfr 2 (Al-Jallad 2026, 81); Taymanitic kfr 1; skfr 1 (Al-Jallad 2026b, 44); kfrʾl 1; kfrl 1 (Al-Jallad 2026b, 72); ykfrl 1 (Al-Jallad 2026b, 74); ṣkmkfr 1; ṣlmkfr 1 (Al-Jallad 2026b, 76); ṣmkfr 1 (Al-Jallad 2026b, 77) | Al-Jallad 2026 81; Al-Jallad 2026b 44; Al-Jallad 2026b 72; Al-Jallad 2026b 74; Al-Jallad 2026b 76; Al-Jallad 2026b 77 | gloss withheld |
 | Geez | kʷəfār, kufār 1 (LGz. 277) | LGz. 277 | gloss withheld |
 | Amharic | kufar 1 (LGz. 277) | LGz. 277 | gloss withheld |
 

@@ -47,6 +47,8 @@ A recipient in the HT 108 grain list under KI-RE-TA-NA, DU-SU-NI 4\[. Dišon 'an
 | Language | Comparison |
 |---|---|
 | Hebrew | Dîšôn, Horite and Edomite clan, wədîšôn wəʾēṣer wədîšān (Gen 36:21); dîšôn 'aurochs, antelope', among the clean animals (Deut 14:5) (HALOT 221) |
+| Safaitic | dṯn, a toponym (C 1292) and an obscure god, ʾlt dṯn (LP 341) (Al-Jallad 2026, 179, 186); HALOT 221 sets Saf. Dṯn beside the name Dîšôn |
+| Ugaritic | dtn, PN of the mythical ancestor of Ugarit's dynasty, compared with Amorite ditanum 'bison' (DULAT 280), the ditān- side of the pair |
 
 ## Attestations
 

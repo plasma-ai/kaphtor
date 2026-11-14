@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/r
 desc: "Semitic roots whose first radical is r."
 created: 2026-10-22T17:38:31Z
-updated: 2026-11-10T05:25:35Z
+updated: 2026-11-16T17:25:52Z
 ---
 
 # wiki/semitic-roots/r
@@ -31,7 +31,7 @@ updated: 2026-11-10T05:25:35Z
 
 [[wiki/semitic-roots/r/1766_mix|1766_mix]]: Proto-Semitic *riḫ-, 'mix': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/r/1767_be_thin_be_weak|1767_be_thin_be_weak]]: Proto-Semitic *rik-, 'be thin, be weak': reflexes in 6 language(s).
+[[wiki/semitic-roots/r/1767_be_thin_be_weak|1767_be_thin_be_weak]]: Proto-Semitic *rik-, 'be thin, be weak': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/r/1768_bank_coast|1768_bank_coast]]: Proto-Semitic *raḳḳ-, 'bank, coast': reflexes in 1 language(s).
 
@@ -93,7 +93,7 @@ updated: 2026-11-10T05:25:35Z
 
 [[wiki/semitic-roots/r/2473_ashes|2473_ashes]]: Proto-Semitic *ramṣ̂-, 'ashes': reflexes in 11 language(s).
 
-[[wiki/semitic-roots/r/2477_big_1_chief_master_lord_2|2477_big_1_chief_master_lord_2]]: Proto-Semitic *rabb-, 'big' 1, 'chief, master, lord' 2: reflexes in 16 language(s).
+[[wiki/semitic-roots/r/2477_big_1_chief_master_lord_2|2477_big_1_chief_master_lord_2]]: Proto-Semitic *rabb-, 'big' 1, 'chief, master, lord' 2: reflexes in 17 language(s).
 
 [[wiki/semitic-roots/r/2630_to_be_long|2630_to_be_long]]: Proto-Semitic *rʒ/dm, 'to be long': reflexes in 3 language(s).
 
@@ -107,7 +107,7 @@ updated: 2026-11-10T05:25:35Z
 
 [[wiki/semitic-roots/r/2733_to_wash_bathe_ritual|2733_to_wash_bathe_ritual]]: Proto-Semitic *rVḥVṣ̂-, 'to wash, bathe (ritual)': reflexes in 13 language(s).
 
-[[wiki/semitic-roots/r/2741_womb_to_have_mercy_compassion|2741_womb_to_have_mercy_compassion]]: Proto-Semitic *rVḥVm-, 'womb; to have mercy, compassion': reflexes in 23 language(s).
+[[wiki/semitic-roots/r/2741_womb_to_have_mercy_compassion|2741_womb_to_have_mercy_compassion]]: Proto-Semitic *rVḥVm-, 'womb; to have mercy, compassion': reflexes in 24 language(s).
 
 [[wiki/semitic-roots/r/2774_Resheph_plague_war_god|2774_Resheph_plague_war_god]]: Proto-Semitic *rašp-, 'Resheph (plague/war god)': reflexes in 6 language(s).
 
@@ -117,7 +117,7 @@ updated: 2026-11-10T05:25:35Z
 
 [[wiki/semitic-roots/r/2823_trade|2823_trade]]: Proto-Semitic *rVkVl-, 'trade': reflexes in 5 language(s).
 
-[[wiki/semitic-roots/r/2824_acquire|2824_acquire]]: Proto-Semitic *rVkVš-, 'acquire': reflexes in 5 language(s).
+[[wiki/semitic-roots/r/2824_acquire|2824_acquire]]: Proto-Semitic *rVkVš-, 'acquire': reflexes in 6 language(s).
 
 [[wiki/semitic-roots/r/2825_signal|2825_signal]]: Proto-Semitic *rVmVz-, 'signal': reflexes in 5 language(s).
 

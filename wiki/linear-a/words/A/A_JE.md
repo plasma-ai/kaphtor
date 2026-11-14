@@ -49,6 +49,7 @@ THE Zb 7, a clay vessel from Thera: the sole word on it, inscribed on an island,
 |---|---|
 | Hebrew | ʾī (אִי) "island, coastland" |
 | Ugaritic | iht (pl.) "islands, coastal region" (KTU 1.3 VI 8) |
+| Phoenician | ʾy 'island' (Krahmalkov 45) |
 
 ### Source
 

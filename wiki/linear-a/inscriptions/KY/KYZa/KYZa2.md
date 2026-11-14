@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/inscriptions/KY/KYZa/KYZa2
 title: "KYZa2"
-desc: "Stone vessel, Kythera. Translation: complete (SPECULATIVE)."
+desc: "Stone vessel, Kythera. Translation: complete (CANDIDATE)."
 tags: ["linear-a", "inscription", "translation-complete", "stone-vessel"]
 kind: "inscription"
 id: "KYZa2"
@@ -49,13 +49,17 @@ Unicode (Linear A block):
 
 ## Translation
 
-**SPECULATIVE**, complete.
+**CANDIDATE**, complete.
 
 > The Tower.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/D/DA_MA_TE\|DA-MA-TE]] | damat | the Tower | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/D/DA_MA_TE\|DA-MA-TE]] | damat | the Tower | CANDIDATE | CANDIDATE (lexicon) |
+
+### Notes
+
+A steatite ladle from the Minoan peak sanctuary of Kythera (Sakellarakis and Olivier 1994, 343–349): a high place, where a votive is expected to name the Tower.
 
 ### Source
 

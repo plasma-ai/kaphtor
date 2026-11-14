@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Pre-Islamic North Arabian | Safaitic qnwt (Al-Jallad 2026, 112) | Al-Jallad 2026 112 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic qnwt (Al-Jallad 2026, 112); Taymanitic qny (Al-Jallad 2026b, 52) | Al-Jallad 2026 112; Al-Jallad 2026b 52 | gloss withheld |
 | Akkadian | qanû (CAD Q 91); qinītu A (CAD Q 254) | CAD Q 91; CAD Q 254; Anderson–Moser 2024 root qny | gloss withheld |
 | Aramaic | QNY; mqny (DNWSI 680) | DNWSI 680; Anderson–Moser 2024 root qny | gloss withheld |
 | Geez | qny 'acquire' (Dillmann 03518) | Dillmann 03518; Anderson–Moser 2024 root qny |  |

@@ -60,12 +60,13 @@ di Mino; GlOS 2; CAD M/2; DULAT
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT3\|HT3]] | Haghia Triada | Tablet | incomplete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT46a\|HT46a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT46a\|HT46a]] | Haghia Triada | Tablet | incomplete |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT3\|HT3]] | mūru | young bull | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT46a\|HT46a]] | mūru | young bull, young animal | CANDIDATE |
 
 <!-- END kaphtor:record -->

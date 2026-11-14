@@ -57,13 +57,13 @@ Unicode (Linear A block):
 
 **PROBABLE**, complete.
 
-> I make myself a dwelling, O Tursa, Shield, in the sanctuary of Ida. So, behold my gathering in the presence of sacred song.
+> I make myself a dwelling, O Tursa, Shield, the One of Mount Ida. So, behold my gathering in the presence of sacred song.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | [[wiki/linear-a/words/A/A_TA_I_star301_WA_JA\|A-TA-I-\*301-WA-JA]] | ʾata-inawaya | I make myself a dwelling | CONFIRMED | CONFIRMED (lexicon) |
 | [[wiki/linear-a/words/T/TU_RU_SA\|TU-RU-SA]] | Tursa | Shield, Protector; the name Tursha | SPECULATIVE | SPECULATIVE (lexicon) |
-| [[wiki/linear-a/words/D/DU_star314_RE\|DU-\*314-RE]] | dubur | sanctuary, inner sanctum | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/D/DU_star314_RE\|DU-\*314-RE]] | ḏū har | the One of the mountain | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/I/I_DA_A\|I-DA-A]] | ʾIda | of Ida; alternatively, toward Ida | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/U/U_NA_KA_NA_SI\|U-NA-KA-NA-SI]] | wannā kanāsī | So, behold my gathering! | CONFIRMED | CONFIRMED (lexicon) |
 | [[wiki/linear-a/words/I/I_PI_NA_MA\|I-PI-NA-MA]] | ʾippina=ma | in the presence of | PROBABLE | PROBABLE (lexicon) |
@@ -71,7 +71,7 @@ Unicode (Linear A block):
 
 ### Notes
 
-TU-RU-SA occupies the formula's variable invocation slot and is therefore treated as a vocative addressee, not a dedicant. Preferred parse: DU-\*314-RE is a word-specific variant of DU-PU₂-RE /dubur/ 'sanctuary' (PKZa15; HTZb160; Facchetti 1999, 132; Davis 2013, 44 n. 46; Thomas 2020, 8). I-DA-A is the diptotic genitive ʾIda, 'of Ida'; cf. Ugaritic /ḥāmiyātu ʾugarita/ 'the walls of Ugarit' (Huehnergard 2012, §IV.B.3, p. 40). U-NA is provisionally /wannā/, comparing Ugaritic w hn ~ wn and \*wa-hanna/u; its exact vowels remain reconstructed. 'Toward Ida' remains an alternative.
+TU-RU-SA occupies the formula's variable invocation slot and is therefore treated as a vocative addressee, not a dedicant. DU-\*314-RE is his title, ḏū har 'the One of the mountain', with \*314 read ḤA; the rival reading takes it as a variant of DU-PU₂-RE /dubur/ 'sanctuary' (PKZa15; HTZb160; Facchetti 1999, 132; Davis 2013, 44 n. 46; Thomas 2020, 8). I-DA-A is the diptotic genitive ʾIda, 'of Ida'; cf. Ugaritic /ḥāmiyātu ʾugarita/ 'the walls of Ugarit' (Huehnergard 2012, §IV.B.3, p. 40). U-NA is provisionally /wannā/, comparing Ugaritic w hn ~ wn and \*wa-hanna/u; its exact vowels remain reconstructed. 'Toward Ida' remains an alternative.
 
 ### Source
 

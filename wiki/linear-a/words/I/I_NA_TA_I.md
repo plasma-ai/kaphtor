@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-IO Za 6, position 2. The vessel is chipped, but the complete group I-NA-TA-I-ZU-DI-SI-KA has no internal lacuna. Segmented I-NA-TA-I + ZU-DI + SI-KA, 'my Anat, Breast-Who-Gives-Drink.' Initial I carries the laryngeal ʿ, not a separate particle: Ugaritic has three vowel-conditioned aleph signs (Huehnergard 2012, 21), and syllabic Ugaritic writes ᵈa-na-tu₄ for /ʿanatu/ and ša-i for /šāʿi/ (Huehnergard 2008, 18 n. 78, 208, 249). Final I is the 1cs suffix -ī. IO Za 8 \]A-NA-TI-\*301-WA-JA\[ is broken at both edges. See TA-NA-I-\*301-U-TI-NU, DA-RU-NE-TE, KA-KU-NE-TE.
+IO Za 6, position 2. The cup is chipped, but the complete group I-NA-TA-I-ZU-DI-SI-KA has no internal lacuna. Segmented I-NA-TA-I + ZU-DI + SI-KA, 'my Anat, Breast-Who-Gives-Drink.' Initial I carries the laryngeal ʿ, not a separate particle: Ugaritic has three vowel-conditioned aleph signs (Huehnergard 2012, 21), and syllabic Ugaritic writes ᵈa-na-tu₄ for /ʿanatu/ and ša-i for /šāʿi/ (Huehnergard 2008, 18 n. 78, 208, 249). Final I is the 1cs suffix -ī. IO Za 8 \]A-NA-TI-\*301-WA-JA\[ is broken at both edges. See TA-NA-I-\*301-U-TI-NU, DA-RU-NE-TE, KA-KU-NE-TE.
 
 ### Cognates
 
@@ -49,13 +49,12 @@ IO Za 6, position 2. The vessel is chipped, but the complete group I-NA-TA-I-ZU-
 |---|---|
 | Ugaritic | ʿnt /ʿanatu/ "Anat"; syllabic ᵈa-na-tu₄ = /ʿanatu/; btlt ʿnt "the young woman Anat" |
 | Hebrew | ʿAnāt (עֲנָת) in Shamgar ben Anath (Judg 3:31); Beth-Anath (Josh 19:38); Anathoth (Jer 1:1) |
-| Akkadian | Antu "Anu's consort" (CAD A2, 148) |
 | Egyptian | ꜥntjt "Anat" (NK warrior goddess, adopted from Canaan) |
-| Amorite (Mari) | Ḫanat (cult goddess at Mari, early 2nd millennium, with initial ḫ- instead of ʿ-) |
+| Amorite | Ḫanat = ʿAnat, ᵈḪa-na-at in the Mari god list; Ḫa-ab-du-ᵈḪa-na-at, Zi-ik-ri-ḫa-na-at (Huffmon 1965, 200–201) |
 
 ### Source
 
-di Mino
+di Mino; Huehnergard 2008; Huehnergard 2012; Huffmon 1965
 
 ## Attestations
 

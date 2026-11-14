@@ -59,6 +59,12 @@ di Mino; Huehnergard 2012
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT34\|HT34]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT34\|HT34]] | Haghia Triada | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT34\|HT34]] | dalut | door, doorway | CANDIDATE |
 
 <!-- END kaphtor:record -->

@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ṣ
 desc: "Semitic roots whose first radical is ṣ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-11-10T05:25:35Z
+updated: 2026-11-16T17:25:52Z
 ---
 
 # wiki/semitic-roots/ṣ
@@ -181,7 +181,7 @@ updated: 2026-11-10T05:25:35Z
 
 [[wiki/semitic-roots/ṣ/3940_to_level_land|3940_to_level_land]]: Proto-Semitic *ṣyḥ, 'to level (land)': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/ṣ/3941_to_pray_prayer|3941_to_pray_prayer]]: Proto-Semitic *ṣlw, 'to pray; prayer': reflexes in 3 language(s).
+[[wiki/semitic-roots/ṣ/3941_to_pray_prayer|3941_to_pray_prayer]]: Proto-Semitic *ṣlw, 'to pray; prayer': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/ṣ/3942_to_spend_expenses|3942_to_spend_expenses]]: Proto-Semitic *ṣrf, 'to spend; expenses': reflexes in 1 language(s).
 

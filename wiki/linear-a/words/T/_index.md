@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/T
 desc: "Words whose first sign begins with T."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-12T16:06:30Z
+updated: 2026-11-17T14:06:48Z
 ---
 
 # wiki/linear-a/words/T
@@ -25,7 +25,7 @@ updated: 2026-11-12T16:06:30Z
 
 [[wiki/linear-a/words/T/TA_HIDE_plus_B|TA_HIDE_plus_B]]: Unread sign (compound, unread); 1 occurrence(s).
 
-[[wiki/linear-a/words/T/TA_I|TA_I]]: Unread (unread): no role; 3 occurrence(s).
+[[wiki/linear-a/words/T/TA_I|TA_I]]: Taḫe: Taḫe 'Man' (Hurrian personal name). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/T/TA_I_NU_MA_PA|TA_I_NU_MA_PA]]: Tainumapa: She of Memphis: Egyptian woman's name Tꜣ-n.t-Mn-nfr. Lexicon, SPECULATIVE (tier 1).
 
@@ -57,7 +57,7 @@ updated: 2026-11-12T16:06:30Z
 
 [[wiki/linear-a/words/T/TA_NU_MU_TI|TA_NU_MU_TI]]: ta-nʿum-u-tī: may you (f.) be gracious, favourable. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/T/TA_NU_NI_KI_NA|TA_NU_NI_KI_NA]]: tannî qînâ: chant a dirge!. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/T/TA_NU_NI_KI_NA|TA_NU_NI_KI_NA]]: tanūḥūn qīna: they wail a dirge. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/T/TA_PA|TA_PA]]: tappāʾu: partners, the heading of a shares account. Lexicon, SPECULATIVE (tier 1).
 
@@ -67,7 +67,7 @@ updated: 2026-11-12T16:06:30Z
 
 [[wiki/linear-a/words/T/TA_RA|TA_RA]]: ṯa(ġ)ra: gatekeepers (of the sanctuary); rival Akkadian tārû 'child-minder'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/T/TA_RI_NA|TA_RI_NA]]: Tarinna: Tarinna (Hurrian personal name), stem tarinn-; rival trn 'mast'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/T/TA_RI_NA|TA_RI_NA]]: Tarinna: Tarinna (Hurrian personal name), stem tarinn-; rivals trn 'mast' and the name trn 'Bearded'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/T/TA_SA_ZA|TA_SA_ZA]]: taḫsaz: she remembers. Lexicon, SPECULATIVE (tier 1).
 
@@ -81,7 +81,7 @@ updated: 2026-11-12T16:06:30Z
 
 [[wiki/linear-a/words/T/TE|TE]]: terûmā: contribution, offering (terûmā), a transaction marker. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/T/TELA_plus_KU|TELA_plus_KU]]: Unread sign (ligature, value on file); 1 occurrence(s).
+[[wiki/linear-a/words/T/TELA_plus_KU|TELA_plus_KU]]: (logogram): a kind of cloth: the cloth sign with KU. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/T/TELA_plus_TE|TELA_plus_TE]]: Unread sign (ligature, component read); 1 occurrence(s).
 
@@ -117,7 +117,7 @@ updated: 2026-11-12T16:06:30Z
 
 [[wiki/linear-a/words/T/TE_star301|TE_star301]]: Tēnā: Fig (personal name); a recipient in allocation lists. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/T/TI|TI]]: tiʾin: figs (logographic abbreviation of TI-NI). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/T/TI|TI]]: tiʾin: figs (logographic abbreviation of tiʾin). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/T/TI_DA_TA|TI_DA_TA]]: ṯidṯīta: sixth, the sixth section. Lexicon, CANDIDATE (tier 2).
 
@@ -161,7 +161,7 @@ updated: 2026-11-12T16:06:30Z
 
 [[wiki/linear-a/words/T/TU|TU]]: ṯawr: bull, cattle (logographic abbreviation of ṯawr; administrative commodity category for bovine livestock/products). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/T/TU_JU_MA|TU_JU_MA]]: Tuʿlum: personal name, 'hidden one'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/T/TU_JU_MA|TU_JU_MA]]: Tuʿluma: personal name, 'hidden one'; rival Hurrian talm- 'great' (Talimmu, a merchant's name at Ugarit). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/T/TU_MA|TU_MA]]: tūma: twin—birth-circumstance personal name from √t-ʾ-m. Lexicon, CANDIDATE (tier 2).
 
@@ -187,7 +187,7 @@ updated: 2026-11-12T16:06:30Z
 
 [[wiki/linear-a/words/T/TU_RU_NU_SE_ME|TU_RU_NU_SE_ME]]: Ṯ̣ūr-nušme: personal name, 'Rock of the people'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/T/TU_RU_SA|TU_RU_SA]]: Tursa: Shield, Protector (invoked in formula position two); the name Tursha. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/T/TU_RU_SA|TU_RU_SA]]: Tursa: Shield, a god invoked as 'the One of Mount Ida'; the name Tursha. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/T/TU_SE_SU_KI|TU_SE_SU_KI]]: Unread (role only): personal name; 1 occurrence(s).
 

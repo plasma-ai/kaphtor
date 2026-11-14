@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/h
 desc: "Semitic roots whose first radical is h."
 created: 2026-10-22T17:38:31Z
-updated: 2026-11-06T02:52:23Z
+updated: 2026-11-16T17:25:52Z
 ---
 
 # wiki/semitic-roots/h
@@ -133,7 +133,7 @@ updated: 2026-11-06T02:52:23Z
 
 [[wiki/semitic-roots/h/4064_to_become_heated_excited_to_crave|4064_to_become_heated_excited_to_crave]]: Proto-Semitic *hrr, 'to become heated, excited; to crave': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/h/4158_breath_vapour_1_vanity_2|4158_breath_vapour_1_vanity_2]]: Proto-Semitic *habl-, 'breath, vapour' 1, 'vanity' 2: reflexes in 5 language(s).
+[[wiki/semitic-roots/h/4158_breath_vapour_1_vanity_2|4158_breath_vapour_1_vanity_2]]: Proto-Semitic *habl-, 'breath, vapour' 1, 'vanity' 2: reflexes in 6 language(s).
 
 [[wiki/semitic-roots/h/4167_to_push_thrust_away|4167_to_push_thrust_away]]: Proto-Semitic *hdp, 'to push, thrust away': reflexes in 3 language(s).
 

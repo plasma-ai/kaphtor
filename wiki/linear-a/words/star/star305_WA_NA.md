@@ -39,17 +39,18 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-ZA 6a .1 \*305-WA-NA \*171 19, the first entry of face a, intact and undotted (GORILA III 157). KN Mc 4454.A writes the name the same way, da-wa-no \*150 29: name, logogram, number (DMic I 159). \*305 writes da, as Linear B d; the -o is the Greek nominative. \*171 has no reading. One attestation.
+ZA 6a .1 \*305-WA-NA \*171 19, the first entry of face a, intact and undotted (GORILA III 157). KN Mc 4454.A writes the name the same way, da-wa-no \*150 29: name, logogram, number (DMic I 159). Ugarit has the name dwn, meaning unknown; of its two syllabic spellings Watson prefers de₄-wa-an-na to tu-a-nu (KTU 4.309:5; 4.354:7; RS 17.319:17; Watson 2016, 340). \*305 writes da, as Linear B d; the -o is the Greek nominative. \*171 has no reading. One attestation.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Linear B | da-wa-no, a man's name at Knossos, KN As 1517.4, Ga 423 v., Mc 4454.A, Mc 4461.B (DMic I 159) |
+| Ugaritic | PN dwn, meaning unknown, syll. de₄-wa-an-na, preferred to tu-a-nu (KTU 4.309:5; 4.354:7; RS 17.319:17; Watson 2016, 340) |
 
 ### Source
 
-di Mino; DMic I
+di Mino; DMic I; Watson 2016
 
 ## Attestations
 

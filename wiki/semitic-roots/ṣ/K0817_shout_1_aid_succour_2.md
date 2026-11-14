@@ -44,7 +44,7 @@ updated: 2026-11-03T03:29:48Z
 | Harari | ṭäräḥa (LGz. 563) | LGz. 563 |  |
 | Amharic | ṭärra (LGz. 563) | LGz. 563 |  |
 | Gurage | ṭärra (LGz. 563) | LGz. 563 |  |
-| Pre-Islamic North Arabian | Safaitic ʾṣrḫ 1; ṣrḫ 2 (Al-Jallad 2026, 149) | Al-Jallad 2026 149 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʾṣrḫ 1; ṣrḫ 2 (Al-Jallad 2026, 149); Taymanitic ṣrḫ (Al-Jallad 2026b, 60) | Al-Jallad 2026 149; Al-Jallad 2026b 60 | gloss withheld |
 | Emar | ṣi-ra-ḫi /ṣiraḫū̆/ 1 (Pentiuc 2001, 163) | Pentiuc 2001 163 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

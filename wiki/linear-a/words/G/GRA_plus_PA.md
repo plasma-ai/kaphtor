@@ -69,8 +69,8 @@ di Mino; GlOS 2; Kamm 1963; DNWSI
 | [[wiki/linear-a/inscriptions/PE/PE/PE1\|PE1]] | Petras | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA6a\|ZA6a]] | Zakros | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA6b\|ZA6b]] | Zakros | Tablet | none |
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA11a\|ZA11a]] | Zakros | Tablet | none |
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA11b\|ZA11b]] | Zakros | Tablet | none |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA11a\|ZA11a]] | Zakros | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA11b\|ZA11b]] | Zakros | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA18a\|ZA18a]] | Zakros | Tablet | none |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA28\|ZA28]] | Zakros | Tablet | none |
 
@@ -84,5 +84,7 @@ di Mino; GlOS 2; Kamm 1963; DNWSI
 | [[wiki/linear-a/inscriptions/PE/PE/PE1\|PE1]] | \[ideogram\] | grain, parīsu measure, 26½ |  |
 | [[wiki/linear-a/inscriptions/PE/PE/PE1\|PE1]] | \[ideogram\] | grain, parīsu measure, 36 |  |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA6a\|ZA6a]] | parīsu | grain, the half-gur measure | CANDIDATE |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA11a\|ZA11a]] | parīsu | parīsu, the half-gur grain measure (CAD P 186; DULAT 671–672 prś) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA11b\|ZA11b]] | parīsu | parīsu, the half-gur grain measure (CAD P 186; DULAT 671–672 prś) | CANDIDATE |
 
 <!-- END kaphtor:record -->

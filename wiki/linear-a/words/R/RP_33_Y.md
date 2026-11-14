@@ -48,6 +48,7 @@ Keftiu Spell 33 (London Medical Papyrus, BM 10059), element 8, in Egyptian group
 |---|---|
 | Ugaritic | rpỉy, a personal name; rpủ 'healer', DN, in ỉlrpỉ, ʿmrpỉ, mlkrpỉ (GlOS 2, 170) |
 | Egyptian | r-pꜢ-y, a Semitic name (GlOS 2, 168, after Schneider, APÄQ no. 319) |
+| Amorite | rāpiʾu 'healer' (Buck 2019, 331) |
 
 ### Source
 

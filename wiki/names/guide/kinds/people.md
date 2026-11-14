@@ -41,7 +41,7 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/semitic/names/A_PA_RA_NE\|A-PA-RA-NE]] | ʿAbrān | personal name, 'the crosser, the one from beyond' (√ʿ-b-r), Alalakh Ap-ra-an | [[wiki/names/semitic/_index\|Semitic]] | 2 |
 | [[wiki/names/hurrian/names/A_RA_NA_RE\|A-RA-NA-RE]] | Aranare | personal name; Ugaritic ålnr (Hurrian), Linear B a-ra-na-ro | [[wiki/names/hurrian/_index\|Hurrian]] | 1 |
 | [[wiki/names/hurrian/names/A_RE_DA_I\|A-RE-DA-I]] | Ar-tae | Ar-tae (personal name; Hurrian ar- 'give') | [[wiki/names/hurrian/_index\|Hurrian]] | 1 |
-| [[wiki/names/semitic/names/A_RE_SA_NA\|A-RE-SA-NA]] | ʾAriš-ān | 'The Requested One'—votive birth-name from √ʾ-r-š "to request, desire" + hypocoristic -ān; the child asked of the goddess, the name a receipt | [[wiki/names/semitic/_index\|Semitic]] | 1 |
+| [[wiki/names/semitic/names/A_RE_SA_NA\|A-RE-SA-NA]] | ʾAriš-ān | 'The Requested One', personal name from √ʾ-r-š 'to request, desire' with -ān; rival Ḥarišān 'craftsman' | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/A_RE_TU_MI\|A-RE-TU-MI]] | ʾarṣ̂-ummī | Earth is my mother (NWS theophoric compound PN; pre-Greek Artemis) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/A_RI_NI_TA\|A-RI-NI-TA]] | ʾarīnīt | She-of-the-Lion (feminine gentilic—priestess/cult title; cf. I-ZU-RI-NI-TA She-of-the-Bull) | [[wiki/names/semitic/_index\|Semitic]] | 2 |
 | [[wiki/names/hurrian/names/A_RO_TE\|A-RO-TE]] | Ḫaluti | Ḫaluti (woman's name, seal owner); rival ʾālôt 'oaths, curses' | [[wiki/names/hurrian/_index\|Hurrian]] | 1 |
@@ -81,7 +81,7 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/hurrian/names/DI_KI_SE\|DI-KI-SE]] | Dikise | Dikise, personal name, Hurrian tagiše 'beauty' | [[wiki/names/hurrian/_index\|Hurrian]] | 2 |
 | [[wiki/names/semitic/names/DI_NA_RO\|DI-NA-RO]] | Dānīlo / Dānīlu | personal name ("El judges"—Ugaritic hero-king Dāniʾēlu) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/DI_NA_U\|DI-NA-U]] | Dīnāyu | personal name: hypocoristic of a √d-y-n name ('Judge') | [[wiki/names/semitic/_index\|Semitic]] | 5 |
-| [[wiki/names/semitic/names/DI_NI\|DI-NI]] | Dīnī | personal name, 'My judgment' (short form of a √d-y-n name); rival the whole group WA-DI-NI, Ugaritic PN wḏny | [[wiki/names/semitic/_index\|Semitic]] | 2 |
+| [[wiki/names/semitic/names/DI_NI\|DI-NI]] | Dīnī | personal name, 'My judgment' (short form of a √d-y-n name) | [[wiki/names/semitic/_index\|Semitic]] | 2 |
 | [[wiki/names/semitic/names/DI_RE_DI_NA\|DI-RE-DI-NA]] | ʾaddīr-dīnā | mighty is the verdict (compound sentence name); rival a simplex recipient name | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/DI_star306\|DI-\*306]] | Diʿa | Diʿa 'Knowledge' (personal name) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/DU_DA_MA\|DU-DA-MA]] | Dūdāma | Beloved (personal name, √d-w-d + -ma); rival the Aegean name of the Keftiu board and Linear B di-du-me | [[wiki/names/semitic/_index\|Semitic]] | 1 |
@@ -95,12 +95,12 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/semitic/names/I_DU_NE_SI\|I-DU-NE-SI]] | Yidu-naḥši | Strength is alive, the arm thrives (personal name); rival Yidu-nešše, Hurrian 'prosperity' | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/I_DU_TI\|I-DU-TI]] | Yidu-ti | entity name: yidu 'strength' with TI | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/hurrian/names/I_PA_SA_JA\|I-PA-SA-JA]] | Ipšaja | Ipšaja (personal name; Hurrian hypocoristic) | [[wiki/names/hurrian/_index\|Hurrian]] | 1 |
-| [[wiki/names/semitic/names/I_RU_JA\|I-RU-JA]] | ʾIlūya | personal name, 'My god'; rival Hurrian Iruja | [[wiki/names/semitic/_index\|Semitic]] | 1 |
+| [[wiki/names/semitic/names/I_RU_JA\|I-RU-JA]] | ʾIlūya | personal name, 'My god' | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/I_TA_JA\|I-TA-JA]] | ʾIttaya | personal name, 'with me (is God)', hypocoristic in -aya (cf. Hebrew ʾIttay) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/I_TI_NI_SA\|I-TI-NI-SA]] | ʾItniša | ʾItniša (personal name), the Mari name IT-NU-ŠA; rival ʾitnī-ša 'her gift (portion)' | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/I_ZU_RI_NI_TA\|I-ZU-RI-NI-TA]] | ʾi-ṯawrīnīta | She-of-the-Bull (feminine personal/divine name) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/JA_DA_SU\|JA-DA-SU]] | Yadaʿ-Šum | personal name, 'Šum knew' | [[wiki/names/semitic/_index\|Semitic]] | 1 |
-| [[wiki/names/semitic/names/JA_DI\|JA-DI]] | Yadi | Hand (personal name); rivals Yadīn 'he judges', Yadiʿ 'he knows' | [[wiki/names/semitic/_index\|Semitic]] | 1 |
+| [[wiki/names/semitic/names/JA_DI\|JA-DI]] | Yadi | Hand (personal name); rivals Yadīn 'he judges', Yadiʿ 'he knows', Ugarit ydy 'may (the god) establish' | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/JA_DU_RA_TI\|JA-DU-RA-TI]] | Yadurati | personal name: Amorite-type yaqtul name + feminine -at (cf. Yadwiratum, Gelb 1980, no. 3209; Ya-du-ra-an, Ya-du-ri-im, Huffmon 1965, 38) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/JA_KU\|JA-KU]] | Yaqū | personal name, Amorite type (yaqtul of QWJ) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/JA_KU_TI\|JA-KU-TI]] | Yaqūti | personal name, Amorite type: base JA-KU with -TI | [[wiki/names/semitic/_index\|Semitic]] | 1 |
@@ -118,9 +118,10 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/semitic/names/JE_TA_NA\|JE-TA-NA]] | Yatana | he gave (personal name) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/KA_DU_MA_NE\|KA-DU-MA-NE]] | Qadmān | the Easterner, √q-d-m + -ān (Gordon: Cadmos + -ān) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/KA_I_RO\|KA-I-RO]] | kāʾil | Measurer (professional-title PN), of grain; rival a name on g-y-l 'to rejoice' | [[wiki/names/semitic/_index\|Semitic]] | 1 |
+| [[wiki/names/hurrian/names/KA_KI\|KA-KI]] | Kakki | Kakki (Hurrian personal name) | [[wiki/names/hurrian/_index\|Hurrian]] | 1 |
 | [[wiki/names/semitic/names/KA_KU\|KA-KU]] | Kakku | personal name, 'Weapon' (Amorite Kakku) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/KA_KU_NE_TE\|KA-KU-NE-TE]] | Kakku-ʿAnēt | Weapon of Anat (theophoric personal name); rival Egyptian Neith as the second element | [[wiki/names/semitic/_index\|Semitic]] | 1 |
-| [[wiki/names/unread/names/KA_QA\|KA-QA]] |  |  | [[wiki/names/unread/_index\|Unread]] | 1 |
+| [[wiki/names/hurrian/names/KA_QA\|KA-QA]] | Kakka | Kakka (Hurrian woman's name) | [[wiki/names/hurrian/_index\|Hurrian]] | 1 |
 | [[wiki/names/semitic/names/KA_RE_RO\|KA-RE-RO]] | Kariru | Kariru (personal name, Nuzi Qa-ri-ru, Ka-ri-ru); rival karr- 'ram' | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/KA_RI_star310_I\|KA-RI-\*310-I]] | Qarīnī | 'Companion' (personal name) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/KA_RO_NA\|KA-RO-NA]] | Qarna | personal name, 'horn' | [[wiki/names/semitic/_index\|Semitic]] | 1 |
@@ -128,7 +129,6 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/semitic/names/KA_TI\|KA-TI]] | Qāti | personal name Qāti 'Hand'; rivals Gattī 'the man of the press, the Gittite', Qəhātî 'Kohathite', Kittî 'Kittian' | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/hurrian/names/KA_U_DE_TA\|KA-U-DE-TA]] | Kaw-tatta | Kaw-tatta (Hurrian personal name), kaw- + tatt- 'love'; rival Ugaritic PN kwt | [[wiki/names/hurrian/_index\|Hurrian]] | 1 |
 | [[wiki/names/hurrian/names/KA_U_ZU_NI\|KA-U-ZU-NI]] | Kawṯuni | Kawṯuni (Hurrian personal name Kaw-šuni); rival Kawṯān, Heb. Kûšān | [[wiki/names/hurrian/_index\|Hurrian]] | 1 |
-| [[wiki/names/egyptian/names/KA_star314_SI\|KA-\*314-SI]] | Kaḥas | personal name; Egyptian kꜣḥs, a name under Senusret III; rival kabsi 'young ram' | [[wiki/names/egyptian/_index\|Egyptian]] | 1 |
 | [[wiki/names/semitic/names/KE_KI_RU\|KE-KI-RU]] | Kikkaru | personal name, 'Disk, Round loaf' | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/KI_DA_RO\|KI-DA-RO]] | Qidaru | personal name, 'Dark' (√ḳ-d-r 'be dark'; cf. Hebrew Qēdār) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/KI_DI_NI\|KI-DI-NI]] | Kidinni | personal name, 'protection (of the god)' (Akk. kidinnu) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
@@ -193,7 +193,7 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/semitic/names/RA_NA_TU_SU\|RA-NA-TU-SU]] | Rannatušu | personal name, 'his shout of joy'; rival two names, RA-NA and TU-SU | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/egyptian/names/RA_TI_SE\|RA-TI-SE]] | Ratis | Ratis (Egyptian personal name rdj⸗s, the name RE-DI-SE), 'the one she has given'; rival Safaitic RDS 'Breaker' | [[wiki/names/egyptian/_index\|Egyptian]] | 1 |
 | [[wiki/names/unread/names/RA_star164_TI\|RA-\*164-TI]] |  |  | [[wiki/names/unread/_index\|Unread]] | 2 |
-| [[wiki/names/semitic/names/RA_star314_RA\|RA-\*314-RA]] | Raḥil | personal name, 'Ewe' (√r-ḥ-l), as Hebrew Rāḥēl; rival Egyptian Ḥr-Rꜥ 'Horus-Ra' | [[wiki/names/semitic/_index\|Semitic]] | 1 |
+| [[wiki/names/semitic/names/RA_star314_RA\|RA-\*314-RA]] | Raḥal | personal name, 'Ewe' (√r-ḥ-l), as Hebrew Rāḥēl | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/egyptian/names/RE_DI_SE\|RE-DI-SE]] | Redis | Redis (Egyptian personal name rdj⸗s), 'the one she has given'; rival Safaitic RDS 'Breaker' | [[wiki/names/egyptian/_index\|Egyptian]] | 1 |
 | [[wiki/names/semitic/names/RI_DA_U\|RI-DA-U]] | Ridāyu | Ridāyu 'Helper, Escort' (personal name, hypocoristic) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/RI_MI_SI\|RI-MI-SI]] | Rimši | Rimši; a personnel group named with the Amorite element rimši (Ugaritic DN rmš) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
@@ -216,7 +216,7 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/hurrian/names/SE_SA_PA3\|SE-SA-PA₃]] | Zizapa | Zizapa (Hurrian personal name), ziz- 'chest'; rival Amorite ʿIziz-ab | [[wiki/names/hurrian/_index\|Hurrian]] | 1 |
 | [[wiki/names/semitic/names/SI_DA_RE\|SI-DA-RE]] | Siddāri | personal name, 'Arranger' | [[wiki/names/semitic/_index\|Semitic]] | 2 |
 | [[wiki/names/semitic/names/SI_DA_RO\|SI-DA-RO]] | siddāru | siddāru 'Arranger' (personal name; spelling of SI-DA-RE) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
-| [[wiki/names/semitic/names/SI_DI_JA\|SI-DI-JA]] | Šadiya | personal name, Ugaritic Šadiya (šdy II), 'field' | [[wiki/names/semitic/_index\|Semitic]] | 1 |
+| [[wiki/names/semitic/names/SI_DI_JA\|SI-DI-JA]] | Šidiya | personal name, Ugaritic Šidiya (ši-di-ia) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/SI_KI_RA\|SI-KI-RA]] | Śikira | personal name, 'Hired' (√ś-k-r 'to hire'); rival šēkār 'strong drink' | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/SI_MA\|SI-MA]] | Šima | šima 'name of' (common noun in construct); also the personal name Šima, Shem, 'Name, Renown' | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/SI_MI_TA\|SI-MI-TA]] | Śīmat | personal name (f.), on √ś-y-m 'to place, fix'; rival Šimʿat | [[wiki/names/semitic/_index\|Semitic]] | 1 |
@@ -225,9 +225,10 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/semitic/names/SU_PU2\|SU-PU₂]] | Ṣubʾu | Ṣubʾu (personal name); rival ṣābu 'workers, troop' | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/hurrian/names/TA2_TA_RE\|TA₂-TA-RE]] | Tatare | personal name (Hurrian); cf. Linear B ta-ta-ro, Mari ᶠTatara | [[wiki/names/hurrian/_index\|Hurrian]] | 1 |
 | [[wiki/names/hurrian/names/TA2_TI_TE\|TA₂-TI-TE]] | Tati-te | Tati-te, '(Teššup) loved' (Hurrian personal name, hypocoristic) | [[wiki/names/hurrian/_index\|Hurrian]] | 1 |
+| [[wiki/names/hurrian/names/TA_I\|TA-I]] | Taḫe | Taḫe 'Man' (Hurrian personal name) | [[wiki/names/hurrian/_index\|Hurrian]] | 3 |
 | [[wiki/names/egyptian/names/TA_I_NU_MA_PA\|TA-I-NU-MA-PA]] | Tainumapa | She of Memphis: Egyptian woman's name Tꜣ-n.t-Mn-nfr | [[wiki/names/egyptian/_index\|Egyptian]] | 1 |
 | [[wiki/names/semitic/names/TA_NA_MA_JE\|TA-NA-MA-JE]] | Tanʿamay | personal name, 'She is gracious' | [[wiki/names/semitic/_index\|Semitic]] | 1 |
-| [[wiki/names/hurrian/names/TA_RI_NA\|TA-RI-NA]] | Tarinna | Tarinna (Hurrian personal name), stem tarinn-; rival trn 'mast' | [[wiki/names/hurrian/_index\|Hurrian]] | 1 |
+| [[wiki/names/hurrian/names/TA_RI_NA\|TA-RI-NA]] | Tarinna | Tarinna (Hurrian personal name), stem tarinn-; rivals trn 'mast' and the name trn 'Bearded' | [[wiki/names/hurrian/_index\|Hurrian]] | 1 |
 | [[wiki/names/hurrian/names/TA_TA\|TA-TA]] | Tatta | Tatta (Hurrian personal name), stem tatt-; rival the Anatolian name Tata | [[wiki/names/hurrian/_index\|Hurrian]] | 1 |
 | [[wiki/names/anatolian/names/TA_TI\|TA-TI]] | Tati | personal name; rival tati 'father' (Luwian tati-) | [[wiki/names/anatolian/_index\|Anatolian]] | 2 |
 | [[wiki/names/semitic/names/TE_JA_RE\|TE-JA-RE]] | Teyar | personal name, 'Merciful (god)'; rival tayyār 'trader' | [[wiki/names/semitic/_index\|Semitic]] | 1 |
@@ -238,13 +239,13 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/semitic/names/TI_MA_RU_WI_TE\|TI-MA-RU-WI-TE]] | Tīmar-luwwīt | Timar the Levite (f.), priestess (woman's name and title); rival Tamar + WI-TE | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/TI_NU_JA\|TI-NU-JA]] | Ṯinuya | personal name, 'Second(-born)'; rival Dīnuya | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/TO_MA_RO\|TO-MA-RO]] | Tōmar | personal name, 'palm' | [[wiki/names/semitic/_index\|Semitic]] | 1 |
-| [[wiki/names/semitic/names/TU_JU_MA\|TU-JU-MA]] | Tuʿlum | personal name, 'hidden one' | [[wiki/names/semitic/_index\|Semitic]] | 1 |
+| [[wiki/names/semitic/names/TU_JU_MA\|TU-JU-MA]] | Tuʿluma | personal name, 'hidden one'; rival Hurrian talm- 'great' (Talimmu, a merchant's name at Ugarit) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/TU_MA\|TU-MA]] | tūma | twin—birth-circumstance personal name from √t-ʾ-m | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/hurrian/names/TU_NU\|TU-NU]] | Tunu | Tunu (Hurrian personal name, owner's name on a double axe) | [[wiki/names/hurrian/_index\|Hurrian]] | 1 |
 | [[wiki/names/semitic/names/TU_QE_NU\|TU-QE-NU]] | Tuqnu | personal name: tuqnu 'good order, safety'; the flute-player of ZU-JU-PU₂ | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/TU_RU_NU_SE_ME\|TU-RU-NU-SE-ME]] | Ṯ̣ūr-nušme | personal name, 'Rock of the people' | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/hurrian/names/TU_SU_PU2\|TU-SU-PU₂]] | Tešub | Teshub (Hurrian storm god theophoric PN) | [[wiki/names/hurrian/_index\|Hurrian]] | 1 |
-| [[wiki/names/semitic/names/U_DE_ZA\|U-DE-ZA]] | Ḥudaṯu | personal name: ḥdṯ 'new'; Ḥudaṯu of ʾArāyu on HT 122b | [[wiki/names/semitic/_index\|Semitic]] | 1 |
+| [[wiki/names/semitic/names/U_DE_ZA\|U-DE-ZA]] | Ḥudeṯ | personal name, 'New Moon'; Ḥudeṯ of ʾArāyu on HT 122b | [[wiki/names/semitic/_index\|Semitic]] | 2 |
 | [[wiki/names/semitic/names/U_MI_NA_SI\|U-MI-NA-SI]] | Ummī-naśiʾ | My mother is chief/exalted (sentence name) | [[wiki/names/semitic/_index\|Semitic]] | 2 |
 | [[wiki/names/semitic/names/U_QE_TI\|U-QE-TI]] | wōqedt | the burning one (f.); name or epithet | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/U_RE_WI\|U-RE-WI]] | ʾūr-lēwī | light of the Levite (compound PN) | [[wiki/names/semitic/_index\|Semitic]] | 1 |

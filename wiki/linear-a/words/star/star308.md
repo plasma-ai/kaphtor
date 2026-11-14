@@ -64,7 +64,7 @@ di Mino; Uchitel 2016b; CAD Š/1; HALOT
 | [[wiki/linear-a/inscriptions/HT/HT/HT123_plus_124b\|HT123+124b]] | Haghia Triada | Tablet | incomplete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HT/HT23a\|HT23a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT32\|HT32]] | Haghia Triada | Tablet | none |
-| [[wiki/linear-a/inscriptions/HT/HT/HT35\|HT35]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT35\|HT35]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT26b\|HT26b]] | Haghia Triada | Tablet | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HTZf/HTZf167\|HTZf167]] | Haghia Triada | Metal object | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH12\|KH12]] | Khania | Tablet | none |
@@ -76,6 +76,7 @@ di Mino; Uchitel 2016b; CAD Š/1; HALOT
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT23a\|HT23a]] | šamnu | pressed oil, oil derivative | PROBABLE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT35\|HT35]] | šamnu | pressed oil, oil derivative—commodity modifier indicating oil extraction from base commodity | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT123_plus_124a\|HT123+124a]] | šamnu | pressed oil, oil derivative | PROBABLE |
 
 <!-- END kaphtor:record -->

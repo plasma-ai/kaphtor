@@ -52,9 +52,9 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | ʾarān Ṣidna bikē bayta rēšī tarīmu ʾAyaku | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RO_TE\|A-RO-TE]] | Ḫaluti | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_TA_NA_TE\|A-TA-NA-TE]] | ʾAtanat | PROBABLE |
-| [[wiki/linear-a/words/A/AU_RE_TE\|AU-RE-TE]] | ʾawrēt | PROBABLE |
+| [[wiki/linear-a/words/A/AU_RE_TE\|AU-RE-TE]] | ʾawrēt | CANDIDATE |
 | [[wiki/linear-a/words/D/DA_JU_TE\|DA-JU-TE]] | dalut | CANDIDATE |
-| [[wiki/linear-a/words/D/DA_MA_TE\|DA-MA-TE]] | damat | SPECULATIVE |
+| [[wiki/linear-a/words/D/DA_MA_TE\|DA-MA-TE]] | damat | CANDIDATE |
 | [[wiki/linear-a/words/D/DA_RU_NE_TE\|DA-RU-NE-TE]] | Dāru-ʿAnēt | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_SE_RA_TE\|DA-SE-RA-TE]] | Dašurat | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_DA_MA_TE\|I-DA-MA-TE]] | ʾidmat | CANDIDATE |

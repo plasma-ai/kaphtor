@@ -69,7 +69,7 @@ Unicode (Linear A block):
 
 **CANDIDATE**, complete.
 
-> Section 1—Agaru: emmer, GRA+K+L: 20; king/royal establishment: 20; nobles/council: 20; parched grain: 10. Section 2—Addu: blood (ritual category), GRA+B: 20; count/reckoning: 20.
+> Section 1—Agaru: emmer, GRA+K+L: 20; king/royal establishment: 20; nobles/council: 20; parched grain: 10. Section 2—Rations: blood (ritual category), GRA+B: 20; count/reckoning: 20.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -77,19 +77,19 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/K/KU_NI_SU\|KU-NI-SU]] | kunīšu | emmer | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/S/SA_RU\|SA-RU]] | šarru | king, prince; rival 'barley' | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/D/DI_DE_RU\|DI-DE-RU]] | ʾaddīru | nobles, council of elders | PROBABLE | PROBABLE (lexicon) |
-| [[wiki/linear-a/words/A/A_DU\|A-DU]] | ʾAddu | Storm God (= Hadad/Baal, section 2 heading); rival adû 'work assignment' | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/D/DA_ME\|DA-ME]] | damu | blood (ritual allocation category) | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/A/A_DU\|A-DU]] | adû | work assignment, ration (section 2 heading) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/D/DA_ME\|DA-ME]] | damʿu | the sanctuary's share of the produce | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/M/MI_NU_TE\|MI-NU-TE]] | minūt | amount, number; counting or reckoning | PROBABLE | PROBABLE (lexicon) |
-| [[wiki/linear-a/words/Q/QA_RA2_WA\|QA-RA₂-WA]] | qalwa | parched grain | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/Q/QA_RA2_WA\|QA-RA₂-WA]] | qalwa | parched grain | CANDIDATE | CANDIDATE (lexicon) |
 
 ### Notes
 
-Context: Two-section Haghia Triada allocation ledger, Casa Room 7. The preserved integer entries sum to 110; the GRA+K+L and GRA+B ligatures carry metrological riders and are not securely distinct grain species. DA-ME is read damu 'blood', a recurring quantified ritual category; rivals dimtu 'district' and Imperial Aramaic dmy nksyʾ 'the value of the property' (TAD B2.6 R.14), a later comparison. QA-RA₂-WA is read qalwa 'parched grain' (√q-l-w): it closes the HT95a/b set where QE-RA₂-U qelwu stands; rivals Ugaritic qrwn 'offering' and Linear B qa-ra₂-wo, a personal name. KU-NI-SU is kunīšu 'emmer', an Akkadian loan (Nuzi ku-ni-šu, CAD K 537), with the grain sign on its line. HT86b is an erased draft of the opening lines, not an independent witness.
+Context: Two-section Haghia Triada allocation ledger, Casa Room 7. The preserved integer entries sum to 110; the GRA+K+L and GRA+B ligatures carry metrological riders and are not securely distinct grain species. DA-ME is read damʿu, the sanctuary's share of the produce (Hebrew demaʿ, Exod 22:28), a recurring quantified due; rivals damu 'blood', dimtu 'district' and Imperial Aramaic dmy nksyʾ 'the value of the property' (TAD B2.6 R.14), a later comparison. QA-RA₂-WA is read qalwa 'parched grain' (√q-l-w): it closes the HT95a/b set where QE-RA₂-U qelwu stands; rivals Ugaritic qrwn 'offering' and Linear B qa-ra₂-wo, a personal name. KU-NI-SU is kunīšu 'emmer', an Akkadian loan (Nuzi ku-ni-šu, CAD K 537), with the grain sign on its line. HT86b is an erased draft of the opening lines, not an independent witness.
 
 ### Source
 
-- Gordon 1966: A-KA-RU, A-DU
-- di Mino: KU-NI-SU, SA-RU, DI-DE-RU, DA-ME, MI-NU-TE, QA-RA₂-WA
+- Gordon 1966: A-KA-RU
+- di Mino: A-DU, KU-NI-SU, SA-RU, DI-DE-RU, DA-ME, MI-NU-TE, QA-RA₂-WA
 
 ## Lexicon words citing this document
 

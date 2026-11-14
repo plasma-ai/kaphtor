@@ -47,6 +47,7 @@ GRA with the KU adjunct, 7 tokens on three Haghia Triada tablets: HT 61 MI-TI ·
 | Language | Comparison |
 |---|---|
 | Ugaritic | polyglot \[ÁŠ = ku-na\]-šu = ku-sú-mu 'emmer' (GlOS 1, 323) |
+| Akkadian | kunāšu 'emmer' (CAD K 536) |
 
 ### Source
 

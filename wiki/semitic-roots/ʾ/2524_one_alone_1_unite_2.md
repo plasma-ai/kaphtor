@@ -54,7 +54,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | ḥadä (Kogan 2015, ch. 7 §2.2 no. 63); ḥanti (LGz. 13) | Kogan 2015 ch. 7 §2.2 no. 63; LGz. 13 | gloss withheld |
 | Tigre | waḥada (HALOT 405); ḥatte, ḥante (LGz. 13) | HALOT 405; LGz. 13 | gloss withheld |
 | Punic | ʾḥd; N.Pu. ḥd, ʾd, d (T 10); ʾḥdy (T 11); ʾḥt (T 11); Neo-Punic iaed 1 (Krahmalkov 206) | T 10; T 11; Krahmalkov 206; Anderson–Moser 2024 root ʾḥd | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic wḥd (Al-Jallad–Jaworska 139); ʾḥd, twḥd; Hismaic wḥd 1 (Al-Jallad 2026, 165) | Al-Jallad–Jaworska 139; Al-Jallad 2026 165 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic wḥd (Al-Jallad–Jaworska 139); ʾḥd, twḥd; Hismaic wḥd 1 (Al-Jallad 2026, 165); Safaitic ʾḥd (a deity) 1 (Al-Jallad 2026, 186) | Al-Jallad–Jaworska 139; Al-Jallad 2026 165; Al-Jallad 2026 186 | gloss withheld |
 | Amorite | yaḥad (Buck 2019, 334) | Buck 2019, 334 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -49,6 +49,7 @@ HT 85a PA₃-NI 12, a count of men under A-DU · \*307+\*307 · VIR+\[?\], besid
 |---|---|
 | Ugaritic | bny 'builder' (GlOS 1, 122) |
 | Amorite | BANIJ-IM Baniyim, the active participle as a name (Gelb 1980, no. 1128) |
+| Phoenician | bny 'to build' (Tomback 1978, 49) |
 
 ### Source
 
@@ -65,7 +66,7 @@ di Mino; DULAT; CAD B; GlOS 1; Gelb 1980
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT85a\|HT85a]] | bānī | builder(s) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT85a\|HT85a]] | bānī | builders | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT102\|HT102]] | bānī | builder (a personnel class): GRA+PA 33 | CANDIDATE |
 
 ## Onomasticon

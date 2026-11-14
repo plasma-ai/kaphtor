@@ -63,8 +63,8 @@ di Mino; GlOS 2
 | [[wiki/linear-a/inscriptions/NE/NEZa/NEZa1\|NEZa1]] | Nerokurou | Stone vessel | complete |
 | [[wiki/linear-a/inscriptions/PK/PKZa/PKZa17\|PKZa17]] | Palaikastro | Stone vessel | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/PK/PKZa/PKZa18\|PKZa18]] | Palaikastro | Stone vessel | complete |
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA21b\|ZA21b]] | Zakros | Tablet | none |
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA24a\|ZA24a]] | Zakros | Tablet | none |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA21b\|ZA21b]] | Zakros | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA24a\|ZA24a]] | Zakros | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/PH/PH/PH6\|PH6]] | Phaistos | Tablet | complete; form not in transliteration |
 
 ## In translations
@@ -73,6 +73,8 @@ di Mino; GlOS 2
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/NE/NEZa/NEZa1\|NEZa1]] | ʾIda | Ida, 'the Hand' (sacred mountain—toponym/theonym) | PROBABLE |
 | [[wiki/linear-a/inscriptions/PK/PKZa/PKZa18\|PKZa18]] | ʾIda | Ida, 'the Hand' (sacred mountain—toponym/theonym) | PROBABLE |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA21b\|ZA21b]] | ʾIda | Ida, 'the Hand' (sacred mountain—toponym/theonym) | PROBABLE |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA24a\|ZA24a]] | ʾIda | Ida, 'the Hand' (sacred mountain—toponym/theonym) | PROBABLE |
 
 ## Onomasticon
 
@@ -88,6 +90,6 @@ di Mino; GlOS 2
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KI|KI]].
+Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KI|KI]] kilʾu.
 
 <!-- END kaphtor:record -->

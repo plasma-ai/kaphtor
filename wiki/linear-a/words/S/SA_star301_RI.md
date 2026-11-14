@@ -60,7 +60,13 @@ di Mino; Kinlaw 1967; GlOS 2; Gelb 1980; DULAT
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA11b\|ZA11b]] | Zakros | Tablet | none |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA11b\|ZA11b]] | Zakros | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA11b\|ZA11b]] | šannāri | Cat (personal name) | SPECULATIVE |
 
 ## Onomasticon
 

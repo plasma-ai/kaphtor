@@ -5,10 +5,10 @@ desc: Proto-Semitic roots with their reflexes across the Semitic languages, each
 tags: [data, semitic-roots]
 license: CC BY 4.0
 created: 2026-10-22T18:14:10Z
-updated: 2026-10-22T18:14:10Z
+updated: 2026-11-16T18:42:45Z
 ---
 
-`semitic_roots.json` holds `schema_version` (2), `description` and `roots`: 5,187 records with 26,408 reflexes.
+`semitic_roots.json` holds `schema_version` (2), `description` and `roots`: 5,189 records with 26,458 reflexes.
 Most reconstructions and meanings come from the Semitic Etymological Dictionary; `sed` cites the SEDonline entry
 (2,624 records) or the printed volume, SED I or SED II (23 records). The SA series are Epigraphic South Arabian headwords (Beeston 1982; Biella 1982), not comparative
 reconstructions.
@@ -50,16 +50,17 @@ The other cells cite the standard dictionaries by siglum, HALOT, LGz., Lane, CAD
 al-ʿArab) among them, and five more: Klein (*A Comprehensive Etymological Dictionary of the Hebrew Language*, 1987,
 by headword), Ricks 1982 (*A Lexicon of Epigraphic Qatabanian*, by headword; not the 1989 book SED cites as Ricks),
 Rubin 2018 (*Omani Mehri*, CC BY-NC-ND 4.0, by page), Al-Jallad 2026 (*Dictionary of the Inscriptions of Ancient
-North Arabia I: Safaitic*, CC BY-NC-ND 4.0, by page) and Tāj or TA (*Tāj al-ʿArūs*, by volume:page).
+North Arabia I: Safaitic*, CC BY-NC-ND 4.0, by page), Al-Jallad 2026b (*Dictionary of the Inscriptions of Ancient
+North Arabia II: Taymanitic*, CC BY-NC 4.0, by page) and Tāj or TA (*Tāj al-ʿArūs*, by volume:page).
 
 | `source_class` | Reflexes |
 | --- | --- |
-| closed | 17,563 |
-| open | 3,448 |
-| none | 2,747 |
-| mixed | 1,818 |
-| unknown | 409 |
-| open_nc | 310 |
+| closed | 17,647 |
+| open | 3,447 |
+| none | 2,746 |
+| mixed | 1,852 |
+| unknown | 410 |
+| open_nc | 352 |
 
 `semitic_correspondences.json` is the consonant correspondence table (Huehnergard 2019, Table 3.2, p. 51): for
 each Proto-Semitic consonant, its reflex in Akkadian, Ugaritic, Hebrew, Aramaic, Arabic, Sabaic, Gəʿəz and Mehri

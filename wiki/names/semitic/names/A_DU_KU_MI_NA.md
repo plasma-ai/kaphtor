@@ -27,7 +27,7 @@ updated: 2026-11-11T23:39:03Z
 | Reading | ʾAddu-kummina |
 | Meaning | the one of Addu's cella (cult title as a roster name) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
-| Root | [[wiki/names/semitic/roots/alef-d-d\|ʾ-d-d]] + [[wiki/names/semitic/roots/k-m-m\|k-m-m]] |
+| Root | [[wiki/names/semitic/roots/h-d-d\|h-d-d]] + [[wiki/names/semitic/roots/k-m-m\|k-m-m]] |
 | Proto-Semitic | \*hadad- (#3186), \*kumm- (#3788) |
 | Reading's standing | SPECULATIVE |
 | Standing as a personal name | SPECULATIVE |
@@ -48,6 +48,7 @@ A-DU (Addu) + kummi 'cella', as in SI-DU-QI-KU-MI, + the gentilic -ān of KI-RE-
 |---|---|
 | Akkadian | kummu A 'cella, private room (of a temple)'; zamār kummi ana Adad 'a cella-song for Adad' (CT 15 3 i 3, OB); Ištar of Agade adi kummiša 'with her cella', its personnel (Maqlû II 195) (CAD K 533–534) |
 | Ugaritic | kbm 'a cult installation', set beside Akk. kummu (DULAT 423) |
+| Amorite | Addu, \*Haddu, Northwest Semitic deity (Huffmon APNM 156) |
 
 ## Attestations
 

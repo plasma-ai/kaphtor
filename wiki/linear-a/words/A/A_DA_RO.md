@@ -41,19 +41,19 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Recipient slot on ARKH 5, parallel to A-DU-NI-TA-NA: A-DA-RO GRA 40\[+, the entry wrapping past the broken edge to \*131B 6 at the start of .3 (GORILA III 16–17). Final -O is a dead vowel; GORILA dots RO, and the .3 logogram is written over an erasure. Cf. A-DA-RA (KN Zf 31). Rival: Akk. adru 'threshing floor' (CAD A/1 129), against which one entry carries both grain and must (cf. Num 18:27). One attestation. See DI-DE-RU.
+Recipient slot on ARKH 5, parallel to A-DU-NI-TA-NA: A-DA-RO GRA 40\[+, the entry wrapping past the broken edge to \*131B 6 at the start of .3 (GORILA III 16–17). Final -O is a dead vowel; GORILA dots RO, and the .3 logogram is written over an erasure. Ugarit has the name: Addaru, ad-da-ru, a witness (RS 17.319:22; Kinlaw 1967, 14), which DULAT compares with alphabetic ảdrdn, etym. unc. (DULAT 22); Watson would explain ảdrdn by adr 'noble', its second element uncertain, and cites the Hurrian name attara (Watson 1996b, 94). The adjective also names a town of Amarna Canaan, URU a-du-ri (EA 256:24; DULAT 21). Cf. A-DA-RA (KN Zf 31). Rival: Akk. adru 'threshing floor' (CAD A/1 129), against which one entry carries both grain and must (cf. Num 18:27). One attestation. See DI-DE-RU.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Hebrew | ʾAddār (אַדָּר), son of Bela (1 Chr 8:3; HALOT 17); place names ʾAddārâ (Josh 15:3), Ḥăṣar-ʾAddār (Num 34:4) |
-| Ebla | ʾa₅-da-ru₁₂ ʾadaru 'strong' (Pagan 1998, row 130); a-da-ra 'the strong one' (row 558) |
-| Ugaritic | adr 'wonderful, magnificent, strong; noble' (DULAT 21) |
+| Eblaite | ʾa₅-da-ru₁₂ ʾadaru 'strong' (Pagan 1998, row 130); a-da-ra 'the strong one' (row 558) |
+| Ugaritic | adr 'wonderful, magnificent, strong; noble' (DULAT 21); PN Addaru, ad-da-ru, a witness (RS 17.319:22; Kinlaw 1967, 14) |
 
 ### Source
 
-di Mino
+di Mino; DULAT; Kinlaw 1967; Watson 1996b; HALOT; Pagan 1998; CAD A/1
 
 ## Attestations
 

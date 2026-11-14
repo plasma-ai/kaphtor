@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | ḥnn (T 109) | T 109 | gloss withheld |
 | Amorite | ḥnn: jaḥun, jaḥnun, ḥananum, ḥananatum (Gelb AS 21, 20); ḥannu, ḥinnu, ḥunna, ḥunanu (Buck 2019, 327); ḫinnu: ḫi-in-na-ša (M.A.R.I. 6, 282: 6–8) (Streck 2000, 98); ḥ-n-n: ia-ḫu-na-a, ia-ḫu-un-DINGIR, a-na-na (Ur III); ḥann, ḥinn, ḥunn, ḥinun (Sanmartín GlOS 1, 243–245) | Gelb AS 21 20; Buck 2019, 327; Streck 2000 98; Sanmartín GlOS 1, 243–245 | gloss withheld |
 | Syrian Aramaic | ḥan 'pity, spare; be gracious' (Payne Smith 148) | Payne Smith 148 |  |
-| Pre-Islamic North Arabian | Safaitic ḥnn (Al-Jallad–Jaworska 86) | Al-Jallad–Jaworska 86 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ḥnn (Al-Jallad–Jaworska 86); Taymanitic ḥnn (Al-Jallad 2026b, 13); ḥnn (Al-Jallad 2026b, 43) | Al-Jallad–Jaworska 86; Al-Jallad 2026b 13; Al-Jallad 2026b 43 | gloss withheld |
 | Judaic Aramaic | ḥanan (T 109) | T 109 | gloss withheld |
 | Mandaic Aramaic | hnn (T 109) | T 109 |  |
 | Biblical Aramaic | ḥanan (T 109) | T 109 |  |

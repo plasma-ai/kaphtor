@@ -34,6 +34,6 @@ updated: 2026-11-12T00:26:03Z
 
 A vessel. Status **unread** (nothing on file).
 
-A vessel sign. Alone on 4 Khania roundels (KH Wc 2084, 2103, 2114, 2122). No reading.
+A vessel sign: a pointed, triangular vessel, on KH Wc 2103 with crossing supports, a vessel standing in a frame, and a curl on each side; KH Wc 2084 and 2114 are broken. Alone on 4 Khania roundels (KH Wc 2084, 2103, 2114, 2122). No reading.
 
 <!-- END kaphtor:record -->

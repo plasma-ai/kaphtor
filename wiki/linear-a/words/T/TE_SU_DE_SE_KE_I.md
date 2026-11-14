@@ -49,6 +49,7 @@ KN Zf 31, a silver pin from a Mavro Spelio tomb, last word of the first line, be
 |---|---|
 | Ugaritic | /s-ʔ-d/ 'to support, comfort', tsảd; /š-q-y/ G 'to offer drink', qḥn w tšqyn yn, KTU 1.19 IV 53 (DULAT 740, 827) |
 | Hebrew | sʿd 'to sustain', of serving guests bread: wə-saʿădû libbəkem, Gen 18:5; səʿād libbəkā pat-leḥem, Judg 19:5 |
+| Amorite | sʿd 'support, protect' (Huffmon APNM 245) |
 
 ### Source
 

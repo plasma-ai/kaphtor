@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ś/1407_sun_1_sun_heat_2
 title: "*ŝam(ŝam)-: 'sun' 1, 'sun-heat' 2"
-desc: "Proto-Semitic *ŝam(ŝam)-, 'sun' 1, 'sun-heat' 2: reflexes in 15 language(s)."
+desc: "Proto-Semitic *ŝam(ŝam)-, 'sun' 1, 'sun-heat' 2: reflexes in 16 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1407"
@@ -45,6 +45,7 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | s̃um 2 (Kogan 2011, 193) | Kogan 2011 193 | gloss withheld |
 | Eblaitic | sí-piš; si-piš (OLA80 §11.9, §13.2) | OLA80 §11.9, §13.2 | gloss withheld |
 | Biblical Aramaic | \*šəmaš 1 (HALOT 1589) | HALOT 1589 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic śms 1 (Al-Jallad 2026, 187); Taymanitic sms³ 1 (Al-Jallad 2026b, 55); śms 1 (Al-Jallad 2026b, 57); lśmss 1 (Al-Jallad 2026b, 76) | Al-Jallad 2026 187; Al-Jallad 2026b 55; Al-Jallad 2026b 57; Al-Jallad 2026b 76 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

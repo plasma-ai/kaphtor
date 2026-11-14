@@ -33,21 +33,21 @@ Evidence: ṯ 15/21, n and m 16/21; A-ZU-RA yields a root under every rival. ṯ
 | Alternates | /zu/, /ḏu/, /ṯ̣u/ |
 | Linear B | B 79, value zu |
 | Linear B Unicode | U+10059 LINEAR B SYMBOL B079 |
-| Linear B note | tentative (Davis 2026, 174 n. 641) |
+| Linear B note | tentative (Davis 2026b, 174 n. 641) |
 | Neutralization class | none |
 
 ### Alternate values
 
 | Value | Confidence | Evidence |
 |---|---|---|
-| /zu/ | 0.50 | RU-ZU-NA = rāzin 'dignitary' (HALOT 1210), PS \*z; Linear B \*79 zu (Davis 2026, 174 n. 641) |
+| /zu/ | 0.50 | RU-ZU-NA = rāzin 'dignitary' (HALOT 1210), PS \*z; Linear B \*79 zu (Davis 2026b, 174 n. 641) |
 | /ḏu/ |  | ZU writes the interdental range: voiced ḏ beside ṯ (di Mino) |
 | /ṯ̣u/ |  | ZU writes the interdental range: emphatic ṯ̣, keyed ẓ (di Mino) |
 
 ### Forms cited for the value
 
 - A-ZU-RA = ʾAṯirat (KNZc7 incantation bowl)—divine name on ritual vessel
-- Linear B \*79 = zu (Davis 2026, 174 n. 641), 3–4 attestations—the rarity an interdental value predicts
+- Linear B \*79 = zu (Davis 2026b, 174 n. 641), 3–4 attestations—the rarity an interdental value predicts
 - No ṯ→z merger in Semitic typology
 - Phonemic gap: ZU writes the interdentals before every vowel
 - Complementary distribution: ZA-SI-ZU (ARKH4b)—ZA and ZU in the same word

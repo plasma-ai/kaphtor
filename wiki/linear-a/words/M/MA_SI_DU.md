@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/M/MA_SI_DU
 title: "MA-SI-DU"
-desc: "maṣīdu: provisions (list heading); rival a personal name, cf. Linear B ma-si-dwo. Lexicon, SPECULATIVE (tier 1)."
+desc: "maṣīdu: provisions (list heading); rivals a place name, 'Fortress', and a personal name, cf. Linear B ma-si-dwo. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "administrative", "foodstuff", "hapax", "noun"]
 kind: "word"
 form: "MA-SI-DU"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | maṣīdu |
-| Meaning | provisions (list heading); rival a personal name, cf. Linear B ma-si-dwo |
+| Meaning | provisions (list heading); rivals a place name, 'Fortress', and a personal name, cf. Linear B ma-si-dwo |
 | Root | ṣ-w-d |
 | Proto-Semitic | \*ṣyd ~ \*zwd (#3505) |
 | Language layer | Semitic |
@@ -41,18 +41,19 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 43 .1 MA-SI-DU ·, all three signs whole, heading the tablet before PA-\*342-I · I GRA+PA 5̣\[ (GORILA I 83). maṣīdu 'provisions': Ug. mṣd '(feast of) game' (DULAT 578), Heb. ṣêdâ 'provisions' (HALOT 1021); SI writes ṣi. Rival: a personal name, cf. Linear B ma-si-dwo, a man at Knossos (KN Fh 360.b; DMic I s.v.), with -Cu for Linear B -Co (Woudhuizen 2016, 218). One attestation. See SE-\*305 and SI-DA-TE.
+HT 43 .1 MA-SI-DU ·, all three signs whole, heading the tablet before PA-\*342-I · I GRA+PA 5̣\[ (GORILA I 83). maṣīdu 'provisions': Ug. mṣd '(feast of) game' (DULAT 578), Heb. ṣêdâ 'provisions' (HALOT 1021); SI writes ṣi. Rivals: the Ugarit place name mṣd 'Fortress' (Watson 2001, 118), the tablet headed by its place; a personal name, cf. Linear B ma-si-dwo, a man at Knossos (KN Fh 360.b; DMic I s.v.), with -Cu for Linear B -Co (Woudhuizen 2016, 218). One attestation. See SE-\*305 and SI-DA-TE.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Ugaritic | mṣd (I) '(feast/banquet of) game' (DULAT 578) |
+| Ugaritic | mṣd (I) '(feast/banquet of) game' (DULAT 578); rival the place name mṣd 'Fortress' (Watson 2001, 118) |
 | Hebrew | ṣêdâ, ṣayid 'provisions' (HALOT 1021); √ṣ-w-d 'to hunt' (HALOT 1010) |
+| Akkadian | ṣidītu 'viaticum, travel provisions, provisions' (CAD Ṣ 172) |
 
 ### Source
 
-di Mino
+di Mino; Watson 2001; Woudhuizen 2016
 
 ## Attestations
 

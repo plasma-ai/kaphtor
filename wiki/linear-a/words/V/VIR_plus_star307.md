@@ -49,6 +49,7 @@ VIR with \*307 dubur 'sanctuary' (see DU-PU₂-RE): sanctuary personnel, at Khan
 |---|---|
 | Hebrew | dəvîr (דְּבִיר) 'inner sanctuary' (1 Kgs 6:5) |
 | Egyptian | group writing d-bi₄-r dabīr 'naos, inner sanctuary' (GlOS 1, 140, after Hoch, SWET 376, no. 561) |
+| Neo-Punic | dbr 'innermost room' (Tomback 1978, 70) |
 
 ### Source
 
@@ -58,8 +59,15 @@ di Mino; HALOT; GlOS 1
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/KH/KH/KH9\|KH9]] | Khania | Tablet | none |
-| [[wiki/linear-a/inscriptions/KH/KH/KH14\|KH14]] | Khania | Tablet | none |
+| [[wiki/linear-a/inscriptions/KH/KH/KH9\|KH9]] | Khania | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/KH/KH/KH14\|KH14]] | Khania | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/KH/KH/KH19\|KH19]] | Khania | Tablet | none; form not in transliteration |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/KH/KH/KH9\|KH9]] | VIR-dubur | sanctuary personnel | PROBABLE |
+| [[wiki/linear-a/inscriptions/KH/KH/KH14\|KH14]] | VIR-dubur | sanctuary personnel | PROBABLE |
 
 <!-- END kaphtor:record -->

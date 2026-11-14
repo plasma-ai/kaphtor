@@ -90,6 +90,6 @@ Reading from the lexicon (Gordon 1966; Linear B pa-i-to).
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KA_NU_TI|KA-NU-TI]] Ganuti, [[wiki/linear-a/words/K/KI|KI]], [[wiki/linear-a/words/K/KI_RE_TA_NA|KI-RE-TA-NA]] Kretan.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KA_NU_TI|KA-NU-TI]] Ganuti, [[wiki/linear-a/words/K/KI|KI]] kilʾu, [[wiki/linear-a/words/K/KI_RE_TA_NA|KI-RE-TA-NA]] Kretan.
 
 <!-- END kaphtor:record -->

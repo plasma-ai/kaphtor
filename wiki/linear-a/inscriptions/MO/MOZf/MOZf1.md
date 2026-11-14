@@ -1,12 +1,12 @@
 ---
 name: wiki/linear-a/inscriptions/MO/MOZf/MOZf1
 title: "MOZf1"
-desc: "Metal object, Mokhlos. Translation: complete (SPECULATIVE)."
-tags: ["linear-a", "inscription", "translation-complete", "metal-object"]
+desc: "Lead weight (HM 83), Mokhlos. Translation: complete (SPECULATIVE)."
+tags: ["linear-a", "inscription", "translation-complete", "lead-weight-(hm-83)"]
 kind: "inscription"
 id: "MOZf1"
 site: "Mokhlos"
-support: "Metal object"
+support: "Lead weight (HM 83)"
 period: ""
 translation: "complete"
 words: ["*333-SA-MU"]
@@ -28,7 +28,7 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Site | Mokhlos |
 | Findspot |  |
-| Support | Metal object |
+| Support | Lead weight (HM 83) |
 | Period |  |
 | Scribe |  |
 | Edition | unattributed |
@@ -39,12 +39,12 @@ updated: 2026-10-24T16:17:50Z
 
 Transliteration, line by line:
 
-1. \*333-SA-MU
+1. \*333-SA-MU 𐄁
 
 Unicode (Linear A block):
 
 ```text
-𐙹𐘞𐘕
+𐙹𐘞𐘕𐄁
 ```
 
 ## Translation

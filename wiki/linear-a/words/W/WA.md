@@ -1,12 +1,16 @@
 ---
 name: wiki/linear-a/words/W/WA
 title: "WA"
-desc: "Unread sign (syllabogram, value on file); 6 occurrence(s)."
-tags: ["linear-a", "word", "unread"]
+desc: "(logogram): cloth (logogram, standing alone before a quantity); rival wayn 'wine'. Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "commodity", "logogram", "textile"]
 kind: "word"
 form: "WA"
-datasets: ["unread_signs"]
-attestations: ["ARGZg1", "HT16", "HT20", "HTWc3019", "KHWc2124", "ZAZg34"]
+datasets: ["lexicon"]
+attestations: ["HT16", "HT20", "HTWc3019"]
+tier: 2
+confidence: "CANDIDATE"
+confidence_score: 0.45
+reading: "(logogram)"
 created: 2026-11-12T00:26:03Z
 updated: 2026-11-12T00:26:03Z
 ---
@@ -21,16 +25,33 @@ updated: 2026-11-12T00:26:03Z
 
 **Signs.** [[wiki/linear-a/signs/syllabic/WA|WA]]
 
+## Lexicon
+
+**CANDIDATE**, tier 2 of 4, score 0.45
+
+| Field | Value |
+|---|---|
+| Reading | (logogram) |
+| Meaning | cloth (logogram, standing alone before a quantity); rival wayn 'wine' |
+| Language layer | logogram |
+| Tags | commodity, logogram, textile |
+| Semantic field | commodity |
+
+### Note
+
+AB 54 alone before a fraction: HT 16 · WA ⅓, HT 20 WA ¼, the roundel HT Wc 3019 WA ¼. Schoep has AB 54 'tentatively identified as a logogram for textile', with fractions on HT 16.2, HT 20.4 'and perhaps HT Wc 3019' (2002, 35); Nosch and Weilhartner take it as the cloth logogram on the same three (2026). The sign continues as Linear B TELA; in ligature it is TELA+KU and TELA+\*312 on HT 38. The roundels HT Wc 3007 and 3008 open WA · DI-NI, cloth and the party. Inside a word the sign is WA. Rival: wayn 'wine' written by its first sign, as in VIN+WA: ARG Zg 1 sets WA beside VIN-MI and the stone vessel ZA Zg 34 has WA 60; the roundel KH Wc 2124 bears WA alone. Weak point: every quantity is a fraction, as with the ram on HT 20. No witness spells a cloth word.
+
+### Source
+
+di Mino; Schoep 2002; Nosch and Weilhartner 2026
+
 ## Attestations
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/ARG/ARGZg/ARGZg1\|ARGZg1]] | Argos | Grave stele fragment | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT16\|HT16]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT20\|HT20]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3019\|HTWc3019]] | Haghia Triada | Roundel | none |
-| [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2124\|KHWc2124]] | Khania | Roundel | none |
-| [[wiki/linear-a/inscriptions/ZA/ZAZg/ZAZg34\|ZAZg34]] | Zakros | Stone vessel | none |
 
 ## In translations
 
@@ -39,16 +60,5 @@ updated: 2026-11-12T00:26:03Z
 | [[wiki/linear-a/inscriptions/HT/HT/HT20\|HT20]] |  | cloth (logogram), ¼ | SPECULATIVE |
 | [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3007\|HTWc3007]] |  | cloth (logogram), as alone on HT Wc 3019 (WA ¼) | SPECULATIVE |
 | [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3008\|HTWc3008]] |  | cloth (logogram) | SPECULATIVE |
-
-## Unread sign
-
-A syllabogram. Status **value on file** (sign_values.json or a translation gives it a value; it has no lexicon entry).
-
-| On file in | Record | Value | Standing |
-|---|---|---|---|
-| translations.json | HTWc3007 | cloth (logogram), as alone on HT Wc 3019 (WA ¼) |  |
-| translations.json | HTWc3008 | cloth (logogram) |  |
-
-With a quantity on HT 16 (⅓), HT 20, the roundel HT Wc 3019 (¼) and the Zakros stone vessel ZA Zg 34 (60); alone on the roundel KH Wc 2124. The translations of HT Wc 3007, HT Wc 3008 and HT 20 take it as the cloth logogram, as Nosch and Weilhartner do for AB 54 on HT Wc 3019, HT 16 and HT 20 (2026). No lexicon entry.
 
 <!-- END kaphtor:record -->

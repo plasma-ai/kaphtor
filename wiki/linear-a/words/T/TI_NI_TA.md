@@ -33,7 +33,7 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | Tinit |
 | Meaning | Tinit (goddess, = Phoenician Tanit) |
-| Root | t-n-t |
+| Root | t-n-n |
 | Proto-Semitic | \*tinnīt- (#2967) |
 | Language layer | Semitic |
 | Tags | hapax, ritual, theonym |

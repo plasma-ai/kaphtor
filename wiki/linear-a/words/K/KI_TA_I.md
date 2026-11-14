@@ -49,6 +49,7 @@ KI for /gi/, TA for /tt/, -I for the nisbe -ī. HT 123+124a, two joining palimps
 |---|---|
 | Ugaritic | gt /gittu/ 'wine or olive press; farmstead, estate' (DULAT 307) |
 | Hebrew | gat (גַּת) 'winepress'; gittî 'Gittite, of Gath' (2 Sam 6:10), pl. gittîm (2 Sam 15:18), the same nisbe |
+| Phoenician | gt 'wine vat' (Tomback 1978, 68) |
 
 ### Source
 

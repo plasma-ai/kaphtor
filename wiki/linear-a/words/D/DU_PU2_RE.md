@@ -48,6 +48,7 @@ PK Za 15 JA-DI-KI-TE-TE-DU-PU₂-RE 'O Diqqitīt of the sanctuary' and HT Zb 160
 | Language | Comparison |
 |---|---|
 | Hebrew | dəbîr (דְּבִיר) 'inner sanctuary' (1 Kgs 6:5) |
+| Punic | Neo-Punic dbr 'innermost room' (Tomback 1978, 70) |
 | Linear B | da-pu₂-ri-to-jo po-ti-ni-ja (KN Gg 702), identified with λαβύρινθος (Chadwick–Baumbach 1963, p. 216) |
 
 ### Source

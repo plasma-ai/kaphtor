@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/K0634_swell_rejoice_exult
 title: "*ʿVlVṣ-: 'swell; rejoice, exult'"
-desc: "Proto-Semitic *ʿVlVṣ-, 'swell; rejoice, exult': reflexes in 5 language(s)."
+desc: "Proto-Semitic *ʿVlVṣ-, 'swell; rejoice, exult': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0634"
@@ -34,6 +34,7 @@ updated: 2026-11-04T14:00:32Z
 | Punic | ʿlṣ 'exult' | Anderson–Moser 2024 root ʿlṣ |  |
 | Phoenician | ʿlṣ (T 246) | T 246 | gloss withheld |
 | Ugaritic | ʕlṣ (DULAT 155–156) | DULAT 155–156 | gloss withheld |
+| Pre-Islamic North Arabian | Taymanitic ʿlṣ (Al-Jallad 2026b, 32) | Al-Jallad 2026b 32 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

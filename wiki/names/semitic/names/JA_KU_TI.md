@@ -47,6 +47,7 @@ Base JA-KU, Amorite ia-ku-ú (Gelb AS 21 no. 3314).
 | Language | Comparison |
 |---|---|
 | Amorite | JA-QWUJ-U, written ia-ku-ú (Gelb 1980, no. 3314) |
+| Hebrew | qāwāh (קָוָה) 'wait for, hope' (Ps 27:14; HALOT 1082) |
 
 ## Attestations
 

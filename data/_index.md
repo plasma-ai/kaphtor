@@ -11,7 +11,7 @@ updated: 2026-11-06T18:00:00Z
 
 [[_index|..]]
 
-[[data/ane/_index|ane/]]: Open-licence and public-domain ANE datasets: the Akkadian literary glossary, PNM v6, Prosopographia Memphitica, Gauthier's DNG, the Kassite name concordances and place authorities.
+[[data/ane/_index|ane/]]: Open-licence and public-domain ANE datasets: the Akkadian literary glossary, DIANA I and II (Safaitic and Taymanitic), PNM v6, Prosopographia Memphitica, Gauthier's DNG, the Kassite name concordances, place authorities, the Ugarit Texts Database, the ELiSiR Eblaite lexicon, IG XV 1, I.Sicily's Semitic inscriptions, Palmyra's public inscriptions, Marcato's Hatra names and a table of Palmyrene divine names.
 
 [[data/contact/_index|contact/]]: The open Semitic contact lexica that the root index links to the Proto-Semitic roots: Hebrew, Aramaic, Amarna Canaanite, Syriac and Akkadian, each with a datasheet.
 
@@ -21,7 +21,7 @@ updated: 2026-11-06T18:00:00Z
 
 [[data/semitic-roots/_index|semitic-roots/]]: The comparative Semitic root database and the consonant correspondence table, with a datasheet.
 
-[[data/share-alike/_index|share-alike/]]: The ORAEC/TLA Egyptian documents, the TLA v18 names and the Trismegistos places, under CC BY-SA 4.0.
+[[data/share-alike/_index|share-alike/]]: The ORAEC/TLA Egyptian documents, the TLA v18 names and the Trismegistos places, under CC BY-SA 4.0, and the ORACC editions of the Late Bronze Age Levant, under CC BY-SA 3.0.
 
 ***
 

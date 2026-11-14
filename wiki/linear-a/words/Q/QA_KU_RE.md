@@ -48,6 +48,7 @@ HT Wc 3017, a roundel, face a QA-KU-RE · DI-\*306 ·, face b CYP+D · \*304+PA,
 | Language | Comparison |
 |---|---|
 | Akkadian | kakkaru, Qatna \[q\]a-a\[q\]-q\[a\]-r\[u\] (EA 53:32), Alalakh ka-qa-ru (CAD K 49–50) |
+| Ugaritic | kkr /kakkaru/ 'talent' (UVST 136) |
 
 ### Source
 

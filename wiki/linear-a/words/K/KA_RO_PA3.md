@@ -53,6 +53,7 @@ Weak point: PA₃ = ba is a proposed value; Gordon's p (PA₃ as PA) gives √k-
 |---|---|
 | Ugaritic | krpn 'cup, goblet' (DULAT 452), where DULAT records Stieglitz 1971's equation with Minoan ka-ro-pa₃ |
 | Akkadian | karpatu 'earthen pot; a measure' (CAD K 219); karpu 'pot, earthen container' (CAD K 221) |
+| Amorite | kirippu(m) 'oil jar' (GlOS 1, 319) |
 
 ### Source
 

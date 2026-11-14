@@ -42,7 +42,7 @@ updated: 2026-11-10T05:11:30Z
 | Phoenician | ʾšr (T 36) | T 36 | gloss withheld |
 | Judaic Aramaic | ʾatraʾ (T 36) | T 36 |  |
 | Geez | ʾašar (HALOT 97) | HALOT 97 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ʾṯr (Al-Jallad 2026, 9) | Al-Jallad 2026 9 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʾṯr (Al-Jallad 2026, 9); Taymanitic ʾs³r 1 (Al-Jallad 2026b, 3) | Al-Jallad 2026 9; Al-Jallad 2026b 3 | gloss withheld |
 | Punic | Neo-Punic ʾšr 2, in bʾšr lb (Krahmalkov 85) | Krahmalkov 85 | gloss withheld |
 | Biblical Aramaic | ʾătar 1 (HALOT 97) | HALOT 97 | gloss withheld |
 

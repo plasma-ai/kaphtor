@@ -48,6 +48,7 @@ A recipient in the HT 93a grain list, DE-JU-KU 1½. Dalqu 'burning, kindled', as
 |---|---|
 | Amorite | DALQ-UM, DALAQ-UM (Gelb 1980, nos. 1396, 1462), under DLQ 'burn': dalqum, dalaqum (Gelb AS 21, 17) |
 | Hebrew | dlq 'burn, pursue' (HALOT 223) |
+| Aramaic | dlq 'to burn, kindle' (DJPA 151a apud CAL) |
 
 ## Attestations
 

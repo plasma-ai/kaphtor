@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/inscriptions/PH/PHWc/PHWc37
 title: "PHWc37"
-desc: "Roundel, Phaistos, MMII. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "roundel"]
+desc: "Roundel, Phaistos, MMII. Translation: complete (CANDIDATE)."
+tags: ["linear-a", "inscription", "translation-complete", "roundel"]
 kind: "inscription"
 id: "PHWc37"
 site: "Phaistos"
 support: "Roundel"
 period: "MMII"
-translation: "none"
+translation: "complete"
 words: ["KA-*314-SI"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -46,6 +46,25 @@ Unicode (Linear A block):
 ```text
 𐘾𐙦𐘤𐙬
 ```
+
+## Translation
+
+**CANDIDATE**, complete.
+
+> Throne: \*320.
+
+| Word | Reading | Gloss | Confidence | Lexicon |
+|---|---|---|---|---|
+| [[wiki/linear-a/words/K/KA_star314_SI\|KA-\*314-SI]] | kaḥsi | chair, throne (goods on a receipt) | CANDIDATE | CANDIDATE (lexicon) |
+
+### Notes
+
+The roundel is whole.
+
+### Source
+
+- di Mino: KA-\*314-SI
+- GORILA: PHWc37
 
 ## Lexicon words citing this document
 

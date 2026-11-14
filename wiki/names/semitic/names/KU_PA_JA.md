@@ -31,7 +31,7 @@ updated: 2026-11-11T23:39:03Z
 | Reading's standing | SPECULATIVE |
 | Standing as a personal name | SPECULATIVE |
 | Standing of the layer | SPECULATIVE (lexicon_reading) |
-| Source | di Mino; Gelb 1980; Haas 1994 |
+| Source | di Mino; Gelb 1980; Haas 1994; DULAT |
 
 ## Note
 
@@ -46,6 +46,7 @@ First of six grain recipients on HT116a under U-TA-RO · TE ·, GRA 16. Amorite 
 | Language | Comparison |
 |---|---|
 | Amorite | KUBB-IJA (KU-UB-BI-IA), Mari (Gelb AS 21 no. 4149); KUBB-AN-UM (no. 4148) |
+| Ugaritic | kbby, a personal name on Kubaba, syll. ᶠku-ba-ba (RS 16.144:6) (KTU³ 3.35:7; DULAT 419) |
 
 ## Attestations
 

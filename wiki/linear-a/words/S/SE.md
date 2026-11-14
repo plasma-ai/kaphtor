@@ -25,9 +25,9 @@ updated: 2026-11-12T00:26:03Z
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/GO/GO/GO2r\|GO2r]] | Gournia | Tablet | none |
-| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3004\|HTWc3004]] | Haghia Triada | Roundel | none |
-| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3005\|HTWc3005]] | Haghia Triada | Roundel | none |
+| [[wiki/linear-a/inscriptions/GO/GO/GO2r\|GO2r]] | Gournia | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3004\|HTWc3004]] | Haghia Triada | Roundel | complete |
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3005\|HTWc3005]] | Haghia Triada | Roundel | complete |
 | [[wiki/linear-a/inscriptions/KH/KH/KH104\|KH104]] | Khania | Tablet | complete |
 | [[wiki/linear-a/inscriptions/KH/KH/KH28\|KH28]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH95\|KH95]] | Khania | Tablet | none |

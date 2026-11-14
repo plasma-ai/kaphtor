@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/1623_shine_1_dawn_v_2
 title: "*bVlug-: 'shine' 1, 'dawn' (v.) 2"
-desc: "Proto-Semitic *bVlug-, 'shine' 1, 'dawn' (v.) 2: reflexes in 2 language(s)."
+desc: "Proto-Semitic *bVlug-, 'shine' 1, 'dawn' (v.) 2: reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1623"
@@ -32,6 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | blg \[-u-\] 2 |  |  |
 | Hebrew | blg 1 |  |  |
+| Pre-Islamic North Arabian | Safaitic blg (a deity) 1 (Al-Jallad 2026, 186) | Al-Jallad 2026 186 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -48,10 +48,12 @@ HT 94b, under KI-RO: TU-MA 1 opens a list of five persons, 1 each, with PA-TA-NE
 | Language | Comparison |
 |---|---|
 | Amorite | TU-MA-NU-UM tuʾmānum (Gelb 1980, no. 6114), TA-MI (no. 6028), fem. tu-a-ma-tum, 'twin' (GlOS 2, 290) |
+| Hebrew | tôʾămîm 'twins' (Gen 25:24; 38:27; HALOT 1694) |
+| Phoenician | TʾM 'Twin', a personal name (KAI 35:3; Benz 1972, 427) |
 
 ### Source
 
-di Mino; HALOT; Gelb 1980; GlOS 2
+di Mino; HALOT; Gelb 1980; GlOS 2; Benz 1972
 
 ## Attestations
 

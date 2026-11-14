@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "incomplete"
-words: ["*306-TU", "*324-DI-RA", "DI-NA-U", "KA-*305", "KU-RO", "PA-DE", "QE-PU"]
+words: ["*306-TU", "*324-DI-RA", "DI-NA-U", "KA-*305", "KU-RO", "PA-DE", "QE-PU", "TA-I"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -74,7 +74,7 @@ Unicode (Linear A block):
 
 **SPECULATIVE**, incomplete (status: incomplete).
 
-> PA₃ · WA-JA-PI\[…\]. Likewise: Padī 3, A-SI 3, ʿAttu 8, the waitress 2, the official 2, TA-I-AROM 2, Dīnāyu 4. Total 24.
+> PA₃ · WA-JA-PI\[…\]. Likewise: Padī 3, A-SI 3, ʿAttu 8, the waitress 2, the official 2, Taḫe 2, Dīnāyu 4. Total 24.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/star/star306_TU\|\*306-TU]] | ʿAttu | personal name (cf. Hebrew ʿAttay; \*306 = ʿa) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/star/star324_DI_RA\|\*324-DI-RA]] | ṯadira | waitress, serving-girl (title; √ṯ-d-r) | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/Q/QE_PU\|QE-PU]] | qēpu | official, commissioner; rival: the personal name Qīpu | SPECULATIVE | SPECULATIVE (lexicon) |
-| TA-I-AROM |  | roster entry written with the aromatics ligature (unread) |  |  |
+| TA-I-AROM | Taḫe | Taḫe 'Man' (Hurrian personal name) | CANDIDATE |  |
 | [[wiki/linear-a/words/D/DI_NA_U\|DI-NA-U]] | Dīnāyu | personal name: hypocoristic of a √d-y-n name ('Judge') | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/K/KU_RO\|KU-RO]] | kull | total | CONFIRMED | CONFIRMED (lexicon) |
 
@@ -100,7 +100,7 @@ GORILA
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/star/star306_TU|\*306-TU]], [[wiki/linear-a/words/star/star324_DI_RA|\*324-DI-RA]], [[wiki/linear-a/words/D/DI_NA_U|DI-NA-U]], [[wiki/linear-a/words/K/KA_star305|KA-\*305]], [[wiki/linear-a/words/K/KU_RO|KU-RO]], [[wiki/linear-a/words/P/PA_DE|PA-DE]], [[wiki/linear-a/words/Q/QE_PU|QE-PU]].
+[[wiki/linear-a/words/star/star306_TU|\*306-TU]], [[wiki/linear-a/words/star/star324_DI_RA|\*324-DI-RA]], [[wiki/linear-a/words/D/DI_NA_U|DI-NA-U]], [[wiki/linear-a/words/K/KA_star305|KA-\*305]], [[wiki/linear-a/words/K/KU_RO|KU-RO]], [[wiki/linear-a/words/P/PA_DE|PA-DE]], [[wiki/linear-a/words/Q/QE_PU|QE-PU]], [[wiki/linear-a/words/T/TA_I|TA-I]].
 
 ## Edition differences
 

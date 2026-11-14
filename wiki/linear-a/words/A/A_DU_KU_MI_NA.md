@@ -33,7 +33,7 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | ʾAddu-kummina |
 | Meaning | the one of Addu's cella (cult title as a roster name) |
-| Root | ʾ-d-d + k-m-m |
+| Root | h-d-d + k-m-m |
 | Proto-Semitic | \*hadad- (#3186) + \*kumm- (#3788) |
 | Language layer | Semitic |
 | Tags | compound, hapax, personal_name, ritual |
@@ -49,6 +49,7 @@ ZA 10a: a roster entry counted 1, beside A-KU-MI-NA. A-DU Addu + KU-MI kummi 'ce
 |---|---|
 | Akkadian | kummu A 'cella, private room (of a temple)'; zamār kummi ana Adad 'a cella-song for Adad' (CT 15 3 i 3, OB); Ištar of Agade adi kummiša 'with her cella', its personnel (Maqlû II 195) (CAD K 533–534) |
 | Ugaritic | kbm 'a cult installation', set beside Akk. kummu (DULAT 423) |
+| Amorite | Addu, \*Haddu, Northwest Semitic deity (Huffmon APNM 156) |
 
 ### Source
 

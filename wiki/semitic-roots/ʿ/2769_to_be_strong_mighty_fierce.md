@@ -44,7 +44,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | ʿazäzä (LGz. 81) | LGz. 81 |  |
 | Amharic | azzäzä (LGz. 81) | LGz. 81 | gloss withheld |
 | Amorite | ʿzz: ʿazzum, ʿazzatum, ʿazazum, ʿizzum (Gelb AS 21, 15); ʿazzu, ʿizzu (Buck 2019, 325); ʿ-z-z: cf. ḫa-za-za-nu-um; ʿazz: az-zu, ḫa-az-zu, a-az-za-ni-tum; ʿazaz: a-za-zum, a-za-za-nu-um; ʿazīz: a-zi-za-an (Sanmartín GlOS 1, 99–101) | Gelb AS 21 15; Buck 2019, 325; Sanmartín GlOS 1, 99–101 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ʾʿzz (Al-Jallad–Jaworska 38) | Al-Jallad–Jaworska 38 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʾʿzz (Al-Jallad–Jaworska 38); ʿzz, the Palmyrene god ʿAzīzu (Al-Jallad 2026, 186) | Al-Jallad–Jaworska 38; Al-Jallad 2026 186 | gloss withheld |
 | Epigraphic South Arabian | Sab ʿzt (SD 24 apud SEDonline 1248; Sabaweb lemma 2966) | SD 24; SEDonline 1248; Sabaweb lemma 2966 | gloss withheld |
 | Syrian Aramaic | ʿzz (Kogan 2015, ch. 6 §9.1 no. 3) | Kogan 2015 ch. 6 §9.1 no. 3 | gloss withheld |
 | Eblaitic | /ʿazz/: names ḫa-zu/zú-um, ʔa₅-za=, a-za=; /ʿazīz/: name a-zi-za (Sanmartín GlOS 1, 100–101) | Sanmartín GlOS 1, 100–101 | gloss withheld |

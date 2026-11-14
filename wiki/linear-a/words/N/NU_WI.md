@@ -48,15 +48,14 @@ HT 115b TI-NU-JA · NU-WI · GRA ½; HT 115a RI-TA-MA / NU-WI 2, under a GRA+BOS
 | Language | Comparison |
 |---|---|
 | Amorite | NW \*naw(u)-, \*nawiy- 'steppe; encampment (man and beast)'; Mari nawûm, feminine (Huffmon APNM p. 237); BU-NU-NA-WI-E (Gelb 1980, no. 1342) |
-| Akkadian (Ugarit, Alalakh) | LÚ na-mu-ú 'steppe-dweller' (Ugarit), ERÍN.MEŠ na-me-e (Alalakh IV), personnel terms (GlOS 2, 116) |
 | Hebrew | נָוֶה nāweh 'pasture, abode'; construct נְוֵה nᵊwēh, as נְוֵה רֹעִים 'abode of shepherds' (Jer 33:12) |
-| Akkadian | nawû / namû 'pasturage; flocks; steppe' (ORACC CAMS/GKAB) |
+| Akkadian | namû (nawû) 'pasture land on the fringes of cultivated areas as habitat of nomads, and its population and flocks' (CAD N/1 249); ša namê 'steppe-dweller, nomad' (CAD N/1 251); LÚ na-mu-ú 'steppe-dweller' (Ugarit), ERÍN.MEŠ na-me(-e) (Alalakh IV), personnel terms (GlOS 2, 116) |
 | Sabaic | nwy 'watering place; channel' (Biella 1982: 297) |
 | Safaitic | nwy 'migrating', ptc. G (KRS 1949; Al-Jallad 2026, 107) |
 
 ### Source
 
-di Mino; GORILA I; Gelb 1980; GlOS 2; Harding 1971; Al-Jallad 2026; Wb 2; ORAEC
+di Mino; GORILA I; Gelb 1980; GlOS 2; CAD N/1; Harding 1971; Al-Jallad 2026; Wb 2; ORAEC; Biella 1982
 
 ## Attestations
 

@@ -47,11 +47,11 @@ IO Za 6 I-NA-TA-I-ZU-DI-SI-KA: ZU-DI is the first member of the compound epithet
 
 | Language | Comparison |
 |---|---|
-| Ugaritic | ṯd "breast, udder; breast-piece" (Aistleitner 332) |
-| Hebrew | šād (du. šādayim) "breast" (KB 1316); šōd "mother-breast" (KB 1317) |
+| Ugaritic | ṯd "breast, bosom, chest, teat, udder" (DULAT 886) |
+| Hebrew | šād (du. šādayim) "breast" (KB 1416); šōd "mother's breast" (KB 1418) |
 | Aramaic | taddā "breast" (Jastrow 1647) |
 | Arabic | ṯady-, ṯidy- "breast, teat (of woman)" (BK 2 220) |
-| MSA | Mehri ṯódi, Harsusi ṯōdi, Soqotri tódi "breast, bosom" |
+| Modern South Arabian | Mehri ṯódi "breast, bosom", Harsusi ṯōdi "breast", Soqotri tódi "sein" (SED I, no. 280) |
 
 ### Source
 

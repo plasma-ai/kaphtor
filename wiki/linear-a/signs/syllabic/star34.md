@@ -31,7 +31,9 @@ Evidence: qi reads \*34-TI-RI qiṭrī, PI-\*34-TE piqitti and U-\*34-SI u-qīš
 |---|---|
 | Value | /qi/ |
 | Alternates | /ai/, /ʿi/ |
-| Linear B | no Linear B counterpart recorded |
+| Linear B | B 34 |
+| Linear B Unicode | U+10053 LINEAR B SYMBOL B034 |
+| Linear B note | Unicode gives no value |
 | Neutralization class | K |
 
 ### Alternate values

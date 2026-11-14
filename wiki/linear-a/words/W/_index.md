@@ -2,14 +2,14 @@
 name: wiki/linear-a/words/W
 desc: "Words whose first sign begins with W."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-12T00:26:03Z
+updated: 2026-11-17T13:48:22Z
 ---
 
 # wiki/linear-a/words/W
 
 [[wiki/linear-a/words/_index|..]]
 
-[[wiki/linear-a/words/W/WA|WA]]: Unread sign (syllabogram, value on file); 6 occurrence(s).
+[[wiki/linear-a/words/W/WA|WA]]: (logogram): cloth (logogram, standing alone before a quantity); rival wayn 'wine'. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/W/WA_DU_NI_MI|WA_DU_NI_MI]]: ʾadunim / ʾadunīm: (to) the lord / lords—recipient entry; written only as WA-DU-NI-MI 'and (to) the lord(s)'. Onomasticon title; lexicon entry DU-NI-MI.
 
@@ -23,7 +23,7 @@ updated: 2026-11-12T00:26:03Z
 
 [[wiki/linear-a/words/W/WA_star362|WA_star362]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/W/WBQY|WBQY]]: and the bahaq-rash (wa- + pan-Semitic skin-disease noun—rubric disease name). Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/W/WBQY|WBQY]]: wa-baqq-: rot, the disease addressed (wa- + baqq-); rival bōhaq. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/W/WI|WI]]: Unread sign (syllabogram, value on file); 3 occurrence(s).
 

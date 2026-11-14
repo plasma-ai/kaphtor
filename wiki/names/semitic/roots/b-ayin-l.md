@@ -27,6 +27,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/PU_RA2\|PU-RA₂]] | Bōl | Baal, 'Lord' (allocation heading) | 2 |
+| [[wiki/names/semitic/names/PU_RA2\|PU-RA₂]] | Bōl | Baʿal, 'Lord' (recipient in allocation lists) | 2 |
 
 <!-- END kaphtor:record -->

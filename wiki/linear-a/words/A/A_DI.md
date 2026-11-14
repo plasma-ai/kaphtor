@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/A/A_DI
 title: "A-DI"
-desc: "ʿadi: until, as far as (preposition). Lexicon, SPECULATIVE (tier 1)."
+desc: "ʿadi: unto, as far as (preposition); rival 'until'. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "preposition"]
 kind: "word"
 form: "A-DI"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʿadi |
-| Meaning | until, as far as (preposition) |
+| Meaning | unto, as far as (preposition); rival 'until' |
 | Root | ʿ-d |
 | Proto-Semitic | \*ʿadi/\*qadu(m) (#S72) |
 | Language layer | Semitic |
@@ -41,19 +41,20 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-KN Zc 6 .2 opens with A-DI after .1 QI-TI-RI and governs DA-KI-TI: ʿadi daqqati '(ground) until fine', as Hebrew grinds the golden calf ʿad ʾăšer-dāq 'until it was fine' (Exod 32:20; Deut 9:21); Phoenician ʿd 'as far as, until' (Krahmalkov 2000, 360). Evans (PoM I 615 n. 1) reports a dividing mark before DA, which GORILA IV 121 does not print. Initial A- writes ʿa-, the ʿ unwritten. One attestation.
+KN Zc 6 .2 opens with A-DI after .1 QI-TI-RI and governs DA-KI-TI: ʿadi Daqqiti 'unto Daqqitu', the incense brought as far as the goddess; Hebrew ʿad 'up to, as far as' (HALOT 786–787), Akk. adi (CAD A/1 115), Phoenician ʿd 'as far as, until' (Krahmalkov 2000, 360). Davis parses the A- of A-DI-KI-TE-TE as a prepositional prefix, 'to, for the Diktaian' (Davis 2026, 43–60). Weak point: dedications use l-, as dqt l ṣpn (KTU 1.41:34). Rival: 'until', with daqqati, '(ground) until fine', as Hebrew grinds the golden calf ʿad ʾăšer-dāq 'until it was fine' (Exod 32:20; Deut 9:21). Evans (PoM I 615 n. 1) reports a dividing mark before DA, which GORILA IV 121 does not print. Initial A- writes ʿa-, the ʿ unwritten. One attestation.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Ugaritic | ʿd /ʿad(ē)/ 'up to, as far as, until' (Huehnergard 2012) |
-| Hebrew | ʿad (עַד) 'until'; ʿad ʾăšer dāq 'until it was fine' (Exod 32:20, Deut 9:21) |
+| Hebrew | ʿad (עַד) 'up to, until, as far as' (HALOT 786–787); ʿad ʾăšer dāq 'until it was fine' (Exod 32:20, Deut 9:21) |
 | Phoenician | ʿd 'as far as, up to', Phoenician and Punic (Krahmalkov 2000, 360) |
+| Akkadian | adi 'up to, as far as', of space, and 'until', of time (CAD A/1 115) |
 
 ### Source
 
-di Mino; Krahmalkov 2000
+di Mino; Krahmalkov 2000; HALOT; CAD A/1; Davis 2026; Huehnergard 2012
 
 ## Attestations
 
@@ -65,6 +66,6 @@ di Mino; Krahmalkov 2000
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/KN/KNZc/KNZc6\|KNZc6]] | ʿadi | until | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/KN/KNZc/KNZc6\|KNZc6]] | ʿadi | unto; rival 'until' | SPECULATIVE |
 
 <!-- END kaphtor:record -->

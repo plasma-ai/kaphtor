@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Epigraphic South Arabian | Sab mwt (SD 89; Biella 269, 270; Sabaweb lemma 2828); Qat. mwt (Ricks 1982 s.v. mwt) | SD 89; Biella 269, 270; Sabaweb lemma 2828; Ricks 1982 s.v. mwt | gloss withheld |
 | Geez | māwtā (LGz. 376) | LGz. 376 | gloss withheld |
 | Syrian Aramaic | mīt 'dead' (Payne Smith 269) | Payne Smith 269 |  |
-| Pre-Islamic North Arabian | Safaitic mt (Al-Jallad–Jaworska 100); Dadanitic mt; Thamudic D mt (Al-Jallad 2026, 96) | Al-Jallad–Jaworska 100; Al-Jallad 2026 96 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic mt (Al-Jallad–Jaworska 100); Dadanitic mt; Thamudic D mt (Al-Jallad 2026, 96); Safaitic mt Mōt, (a deity) (Al-Jallad 2026, 187) | Al-Jallad–Jaworska 100; Al-Jallad 2026 96; Al-Jallad 2026 187 | gloss withheld |
 | Amorite | yamūt (Buck 2019, 329) | Buck 2019, 329 | gloss withheld |
 | Eblaitic | ma-tim /mawt, mōt/ (Sanmartín GlOS 2, 63); é ma-tim /bayt mawtim/ (Fronzaroli 1995, 53) | Sanmartín GlOS 2, 63; Fronzaroli 1995, 53 | gloss withheld |
 | Aramaic | mwt (DNWSI 607) | DNWSI 607 | gloss withheld |

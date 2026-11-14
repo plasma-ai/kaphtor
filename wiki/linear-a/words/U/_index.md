@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/U
 desc: "Words whose first sign begins with U."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-12T01:31:30Z
+updated: 2026-11-14T20:32:02Z
 ---
 
 # wiki/linear-a/words/U
@@ -11,9 +11,9 @@ updated: 2026-11-12T01:31:30Z
 
 [[wiki/linear-a/words/U/U|U]]: u: and (conjunction). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/U/U_DE_ZA|U_DE_ZA]]: Ḥudaṯu: personal name: ḥdṯ 'new'; Ḥudaṯu of ʾArāyu on HT 122b. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/U/U_DE_ZA|U_DE_ZA]]: Ḥudeṯ: personal name, 'New Moon'; Ḥudeṯ of ʾArāyu on HT 122b. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/U/U_DI_MI|U_DI_MI]]: ʾUdmī: the Udumite—man of Udum (Kirta's city), 'red (land)'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/U/U_DI_MI|U_DI_MI]]: ʾUdmī: the Udumite—man of Udum (King Pabil's city in the Kirta epic), 'red (land)'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/U/U_DI_RI_KI|U_DI_RI_KI]]: u-dirik: conjunction u- "and" + dirik "way, path"—Hebrew derek דֶּרֶךְ, Akkadian darāku "to tread"; cross-ref DA-RE-KU (ZA18a, same √d-r-k skeleton, different vowel class). Lexicon, CANDIDATE (tier 2).
 

@@ -108,6 +108,37 @@ def test_gauthier_description_and_gloss_are_searched():
 
 
 @pytest.mark.data
+def test_a_name_only_gauthier_s_ocr_line_holds_is_found_last_and_said_to_be_there():
+    # t. 5 p. 9, entry 2: the head runs over two OCR lines, no headword was parsed, and 'SaQ' stands in the OCR
+    # line alone
+    rows = query("SaQ", "--source", "gauthier", "--limit", "400")
+    hit = next(r for r in rows if r["id"] == "gauthier:t5:p9:2")
+    assert hit["match_basis"] == 5 and hit["matched_in"] == "raw_text"
+    assert [r["match_basis"] for r in rows] == sorted(r["match_basis"] for r in rows)
+    assert all("matched_in" not in r for r in rows if r["match_basis"] < 5)
+    assert "gauthier:t5:p9:2" not in {r["id"] for r in query("SaQ", "--source", "gauthier", "--exact", "--limit", "400")}
+    # a head the OCR glued to stray signs is parsed: t. 1 p. 4, entry 5
+    assert query("apd", "--source", "gauthier", "--exact")[0]["id"] == "gauthier:t1:p4:5"
+
+
+@pytest.mark.data
+def test_a_typed_dotted_h_reaches_gauthier_s_marks_and_digits():
+    # the OCR gives ḥ as a cluster of marks or a digit, m as 111 and i as 1; the typed letter finds them, in notation
+    rows = query("atf-peḥou", "--source", "gauthier", "--exact")
+    assert {"atf-pel)ou", "atf-pe~ou", "atf-pe}Jou"} <= {r["transcription"] for r in rows}
+    assert all(r["match_basis"] == 1 for r in rows)
+    assert any(r["transcription"].startswith("1:).at skhem") for r in query("ḥat skhem", "--source", "gauthier"))
+    assert any("Ouza9or" in r["transcription"] for r in query("Ouzaḥor", "--source", "gauthier", "--limit", "50"))
+    assert query("atf-pel)ou", "--source", "gauthier", "--exact")[0]["match_basis"] == 0
+
+
+@pytest.mark.data
+def test_gauthier_name_after_its_article_and_a_word_an_addendum_adds():
+    assert "gauthier:t2:p29:5" in {r["id"] for r in query("(pa) bkhn", "--source", "gauthier", "--exact")}
+    assert "gauthier:t1:p214:9" in {r["id"] for r in query("aat sent", "--source", "gauthier", "--exact")}
+
+
+@pytest.mark.data
 def test_gauthier_has_no_persons_layer():
     done = run("per", "--source", "gauthier", "--layer", "persons", "--json")
     assert done.returncode == 0 and json.loads(done.stdout) == []

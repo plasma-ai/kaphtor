@@ -49,6 +49,7 @@ PK 1 MA-KA-I-TA 1 closes a roster of names entered singly (A-DU-ZA, TA₂-TA-RE,
 |---|---|
 | Amorite | me-ki-im maqīm 'Established', the masculine (Buck 2019, 307; Gelb 1980 no. 4648 ME-QWIM, no. 4649 ME-KWIN) |
 | Egyptian | mkj·t, women and men, Middle Kingdom (Ranke I, 166.17); mk·t (Ranke I, 166.19); rival |
+| Eblaite | /qām, qawm/ 'the standing one, protector': cf. names a-du-ga-mu, a-ḫu-kam₄, ga-ma-bí (GlOS 1, 361–362) |
 
 ### Source
 

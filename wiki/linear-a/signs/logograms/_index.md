@@ -3,7 +3,7 @@ name: wiki/linear-a/signs/logograms
 title: Logograms
 desc: Each logogram with its gloss or commodity, its Semitic term where one is proposed, and the words written with it.
 created: 2026-10-22T18:14:10Z
-updated: 2026-11-12T00:26:03Z
+updated: 2026-11-17T14:06:50Z
 ---
 
 # Logograms
@@ -34,7 +34,7 @@ updated: 2026-11-12T00:26:03Z
 
 [[wiki/linear-a/signs/logograms/SI_plus_SE|SI_plus_SE]]: Linear A logogram SI+SE, speculative: ṣiṣe, the salt-works, an establishment drawing grain, oil and figs; rival Šipšu, the Sun-deity.
 
-[[wiki/linear-a/signs/logograms/TI|TI]]: Linear A logogram TI, proposed: figs (abbreviation of TI-NI).
+[[wiki/linear-a/signs/logograms/TI|TI]]: Linear A logogram TI, proposed: figs (abbreviation of tiʔin).
 
 [[wiki/linear-a/signs/logograms/VIN|VIN]]: Linear A logogram VIN, proposed.
 

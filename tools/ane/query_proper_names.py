@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-"""Query the local ORACC, PNM, Prosopographia Memphitica, TLA v18, Gauthier DNG and Kassite concordance
-proper-name layers."""
+"""Query the local ORACC, PNM, Prosopographia Memphitica, TLA v18, Gauthier DNG, Kassite concordance, Palmyra
+public-inscription and Hatra (Marcato 2018) proper-name layers."""
 
 from __future__ import annotations
 
@@ -18,11 +18,15 @@ from tools.paths import ANE_DATA, SHARE_ALIKE
 
 SOURCE_DIRS = {
     "oracc": ANE_DATA / "oracc",
+    "oracc-levant": SHARE_ALIKE / "oracc-levant",
     "pnm": ANE_DATA / "pnm-v6",
     "prom": ANE_DATA / "prosopographia-memphitica",
     "tla": SHARE_ALIKE / "tla-v18-names",
     "gauthier": ANE_DATA / "gauthier-dng",
     "kassite-concordances": ANE_DATA / "kassite-concordances",
+    "palmyra-public": ANE_DATA / "palmyra-public-inscriptions",
+    "hatra-marcato": ANE_DATA / "hatra-marcato",
+    "taymanitic": ANE_DATA / "diana2-taymanitic",
 }
 
 
@@ -58,16 +62,23 @@ SOURCE_FIELDS = {"kassite-concordances": frozenset({"headword", "entry_ocr"}),
                                    "extract_gloss_en", "extract_gloss_de", "extract_bibl"}),
                  # A Gauthier DNG entry: the further spellings of its head, its French gloss and its description,
                  # which names the modern place (aujourd'hui El-Achmounein).
-                 "gauthier": frozenset({"form", "gloss_fr", "description_fr"})}
+                 "gauthier": frozenset({"form", "gloss_fr", "description_fr"}),
+                 # A Hatra name also answers to Marcato's translation of it.
+                 "hatra-marcato": frozenset({"gloss"}),
+                 # A DIANA II name: the headword without the marks of its reading, as printed ({d}{b}ʾh{b}) and the
+                 # meaning Al-Jallad gives it; the compared words of its commentary are not searched.
+                 "taymanitic": frozenset({"headword", "headword_printed", "gloss"})}
 # ORACC entities aggregate their forms as {form: count}; the forms are the keys.
 FORM_MAPS = {"citation_forms", "normalized_forms", "written_forms"}
 # ProM keeps a person's other names as a list of strings.
 STRING_LISTS = {"other_names", "other_names_unicode"}
 # A layer whose rows carry no kind because every row is of one kind.
-SOURCE_KIND = {"prom": "person"}
+SOURCE_KIND = {"prom": "person", "hatra-marcato": "person"}
 # Sources stored in a notation other than the one a scholar types (ane_keys.VIEW_NOTATION).
 # ProM's Unicode names write yod j and the suffix ⸗, as PNM does, so a query is spelled for both alike.
-NOTATION_VIEW = {"pnm": "pnm", "tla": "tla", "prom": "pnm"}
+NOTATION_VIEW = {"pnm": "pnm", "tla": "tla", "prom": "pnm", "taymanitic": "diana2"}
+# A layer read from a dictionary's rows: its words are no names and are passed over.
+NAMES_ONLY = frozenset({"taymanitic"})
 
 
 def search_values(value, extra: frozenset[str] = frozenset()) -> list[str]:
@@ -101,6 +112,30 @@ def needles(query: str, source: str) -> list[str]:
 # Match basis, as aneq ranks it: the whole name as typed, in the source's notation, folded; then the query
 # inside a longer name (Samas inside Kirsamas).
 EXACT, NOTATION, FOLDED, SUBSTRING = 0, 1, 2, 4
+# Last of all: the query inside the row's own OCR line, where no parsed field holds it (a Gauthier entry whose
+# headword the parser did not find). Such a hit says where it matched (matched_in) and is a lead to the page.
+OCR_LINE = 5
+OCR_LINE_FIELD = {"gauthier": "raw_text"}
+
+# Gauthier's dotted h in the OCR of the Dictionnaire: two or three marks, read from words whose ḥ is certain
+# (l)otep, l;lor, AmenemJ:iât, pel_iou, 1.for, ousir-l}at); a tilde between two letters is one more of them.
+# A digit stands for a letter too: 1 with a bracket and a point (1).at, 1}.at, 1:).iq, 1].at) and a 4 or 9 beside
+# small letters (4at, Ouza9or) are ḥ, 111 is m (Râ111essou) and a single 1 after a small letter is i (nofr1t).
+GAUTHIER_SMALL = "a-zâàäéîïôöûü"
+GAUTHIER_H = re.compile(r"l:\}|\}:l|l;l|l;i|J:i|J:l|I:i|l_i|1\.f|1:\)\.|1[)}\]]\.|l\)\.?|l\}|\}J|(?<=[^\W\d_])~(?=[^\W\d_])"
+                        rf"|(?<![\w(])4(?=[{GAUTHIER_SMALL}])|(?<=[{GAUTHIER_SMALL}])[49](?=[{GAUTHIER_SMALL}])")
+GAUTHIER_M = re.compile(rf"(?<=[{GAUTHIER_SMALL}])111(?!\d)")
+GAUTHIER_I = re.compile(rf"(?<=[{GAUTHIER_SMALL}])1(?![\d.)}}\]:])")
+GAUTHIER_NAME_MAX = 80    # a longer value is a line or an article, not a name
+
+
+def gauthier_h(value: str) -> str | None:
+    """A Gauthier transcription with the OCR's marks and digits read as the letters they stand for (ḥ, m, i),
+    or None when it has none."""
+    if len(value) > GAUTHIER_NAME_MAX:
+        return None
+    read = GAUTHIER_I.sub("i", GAUTHIER_M.sub("m", GAUTHIER_H.sub("ḥ", value)))
+    return read if read != value else None
 
 
 def folding(query: str):
@@ -145,13 +180,16 @@ def with_fold(strict: int | None, folded: int | None) -> int | None:
         return strict
     if folded == FOLDED:
         return FOLDED
-    return SUBSTRING if SUBSTRING in (strict, folded) else None
+    if SUBSTRING in (strict, folded):
+        return SUBSTRING
+    return OCR_LINE if strict == OCR_LINE else None
 
 
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("query", nargs="?", default="")
-    ap.add_argument("--source", choices=("oracc", "pnm", "prom", "tla", "gauthier", "kassite-concordances", "all"),
+    ap.add_argument("--source", choices=("oracc", "oracc-levant", "pnm", "prom", "tla", "gauthier", "kassite-concordances",
+                                        "palmyra-public", "hatra-marcato", "taymanitic", "all"),
                     default="all")
     ap.add_argument(
         "--layer",
@@ -178,6 +216,8 @@ def main() -> None:
     candidates = {
         "oracc": [SOURCE_DIRS["oracc"] / ("occurrences.jsonl" if attestation_layer else "entities.jsonl")]
         if args.layer != "persons" else [],
+        # The shipped ORACC names: every occurrence in aemw/ugarit, amarna, myamarna and alalakh/idrimi.
+        "oracc-levant": [SOURCE_DIRS["oracc-levant"] / "name_occurrences.jsonl"] if attestation_layer else [],
         "pnm": [
             SOURCE_DIRS["pnm"] / (
                 "attestations_enriched.jsonl" if attestation_layer
@@ -197,9 +237,18 @@ def main() -> None:
         # The printed name indexes of seven Kassite-period and kudurru volumes, as OCR leads to the page.
         "kassite-concordances": [SOURCE_DIRS["kassite-concordances"] / "entries.jsonl"]
         if args.layer != "persons" else [],
+        # Public Inscriptions from Palmyra: the founders, individuals and gods of each inscription's catalogue row,
+        # in the editors' vocalised romanisation.
+        "palmyra-public": [SOURCE_DIRS["palmyra-public"] / "names.jsonl"] if args.layer != "persons" else [],
+        # Marcato 2018: the names of Hatra's Aramaic inscriptions, each with his translation, analysis and H numbers.
+        "hatra-marcato": [SOURCE_DIRS["hatra-marcato"] / "names.jsonl"] if args.layer != "persons" else [],
+        # Al-Jallad 2026b, DIANA II: the Taymanitic onomasticon (436 personal names, each with its count, sigla,
+        # meaning and compared names), the group names and the toponyms; kind is name or place; page-cited.
+        "taymanitic": [SOURCE_DIRS["taymanitic"] / "records.jsonl"] if args.layer != "persons" else [],
     }
     entity_scopes = {
         "oracc": "textual_attestation" if attestation_layer else "name_form_aggregate",
+        "oracc-levant": "textual_attestation",
         "pnm": (
             "textual_attestation" if attestation_layer
             else "name_lexeme" if name_form_layer
@@ -209,6 +258,9 @@ def main() -> None:
         "tla": "textual_attestation" if attestation_layer else "name_lexeme",
         "gauthier": "toponym_lead",
         "kassite-concordances": "index_entry",
+        "palmyra-public": "catalogue_name",
+        "hatra-marcato": "catalogue_entry",
+        "taymanitic": "onomasticon_entry",
     }
     sources = candidates if args.source == "all" else {args.source: candidates[args.source]}
     for source, paths in sources.items():
@@ -227,6 +279,8 @@ def main() -> None:
             for row in iter_jsonl(path):
                 if args.kind and row.get("kind", SOURCE_KIND.get(source)) != args.kind:
                     continue
+                if source in NAMES_ONLY and row.get("kind") == "word":
+                    continue
                 if args.pos and row.get("qpn_pos") != args.pos:
                     continue
                 if args.language and fold(args.language) not in fold(row.get("language")):
@@ -239,12 +293,22 @@ def main() -> None:
                     continue
                 values = search_values(row, SOURCE_FIELDS.get(source, frozenset()))
                 strict = strict_basis(values, wanted, args.exact)
+                if source == "gauthier":
+                    # the name with the OCR's ḥ, m and i read: it matches in notation, never as printed
+                    derived = [read for value in values if (read := gauthier_h(value))]
+                    by_key = strict_basis(derived, wanted, args.exact) if derived else None
+                    if by_key is not None:
+                        strict = min(max(by_key, NOTATION), SUBSTRING if strict is None else strict)
+                    values = values + derived
                 # The folded tier is needed only under --loose or until a whole name matches strictly.
                 fold_basis = (folded_basis(values, folded, args.exact)
                               if folded and (args.loose or not whole) and (strict is None or strict > NOTATION)
                               else None)
                 if strict is None and fold_basis is None:
-                    continue
+                    line = row.get(OCR_LINE_FIELD.get(source, ""))
+                    if args.exact or not line or strict_basis([line], wanted, False) is None:
+                        continue
+                    strict, item["matched_in"] = OCR_LINE, OCR_LINE_FIELD[source]
                 scored.append((strict, fold_basis, item))
                 whole += strict is not None and strict <= NOTATION
                 typed += strict == EXACT
@@ -314,8 +378,31 @@ def main() -> None:
             if row["dataset"] == "kassite-concordances":
                 # The id is the work key, the PDF page and the row: the work key names the volume.
                 name, ref = row["headword"], f"{row['id'].rsplit('-', 2)[0]} p. {row['printed_page']} ({row['id']})"
+            if row["dataset"] == "palmyra-public":
+                # the inscription's sigla, its years and building, then the role and, where given, the function
+                sigla = ", ".join(f"{label} {row[key]}" for key, label in
+                                  (("pat", "PAT"), ("igls", "IGLS"), ("cis", "CIS"), ("res", "RES")) if row.get(key))
+                years = (str(row["year_min"]) if row["year_min"] == row["year_max"]
+                         else f"{row['year_min']}-{row['year_max']}")
+                detail = [sigla or "no siglum", f"{years} CE", row.get("building_name"), row["role"], row.get("function")]
+                ref = ", ".join(d for d in detail if d) + f" ({row['id']})"
+            if row["dataset"] == "hatra-marcato":
+                # his translation or cross-reference, language and gender, the H numbers, the Palmyrene parallels
+                # he cites, the page; his other readings and analysis are in --json
+                what = f"see {row['see']}" if row.get("see") else row.get("gloss")
+                detail = [what, row.get("description"), ", ".join(row["inscriptions"][:6])
+                          + (" …" if len(row["inscriptions"]) > 6 else ""),
+                          "Palm.: " + "; ".join(row["palmyrene_refs"]) if row.get("palmyrene_refs") else None]
+                ref = f"Marcato 2018 p. {row['printed_page']}, " + ", ".join(d for d in detail if d) + f" ({row['id']})"
             kind = (row.get("kind") or row.get("qpn_pos") or row.get("wikidata_class")
                     or SOURCE_KIND.get(row["dataset"]) or "")
+            if row["dataset"] == "taymanitic":
+                # the name, what it means, how often it is written, the page
+                n = row.get("attestation_count")
+                count = f", {n} attestation{'' if n == 1 else 's'}" if n else ""
+                name = row["headword_printed"]
+                kind = row.get("name_class") or row["section"].replace("_", " ")
+                ref = f"{row['gloss']}{count}; Al-Jallad 2026b, {row['printed_page']} ({row['id']})"
             print(f"{row['dataset']}\t{name or ''}\t{kind}\t{ref}")
 
 

@@ -59,13 +59,13 @@ di Mino; Tomback 1978
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT30\|HT30]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT30\|HT30]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT106\|HT106]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT130\|HT130]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT130\|HT130]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT154n\|HT154n]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT27b\|HT27b]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT51b\|HT51b]] | Haghia Triada | Tablet | incomplete; restored |
-| [[wiki/linear-a/inscriptions/GO/GO/GO2r\|GO2r]] | Gournia | Tablet | none |
+| [[wiki/linear-a/inscriptions/GO/GO/GO2r\|GO2r]] | Gournia | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/KH/KH/KH7b\|KH7b]] | Khania | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/KH/KH/KH22\|KH22]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH76\|KH76]] | Khania | Tablet | none |
@@ -167,9 +167,13 @@ di Mino; Tomback 1978
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
+| [[wiki/linear-a/inscriptions/GO/GO/GO2r\|GO2r]] | šay | tribute, gift—logographic abbreviation of šay(u) | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT27b\|HT27b]] |  | unresolved |  |
+| [[wiki/linear-a/inscriptions/HT/HT/HT30\|HT30]] | šay | tribute, gift—logographic abbreviation of šay(u) | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT106\|HT106]] | šay | tribute, gift (×3 — sub-quantities: 5½, 1, 3) | PROBABLE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT130\|HT130]] | šay | tribute, gift—logographic abbreviation of šay(u) | PROBABLE |
 | [[wiki/linear-a/inscriptions/KH/KH/KH7b\|KH7b]] |  | logogram SI, 14 |  |
+| [[wiki/linear-a/inscriptions/KH/KH/KH47\|KH47]] | šay | tribute, gift—logographic abbreviation of šay(u) | PROBABLE |
 | [[wiki/linear-a/inscriptions/KN/KNZb/KNZb4\|KNZb4]] | šay | tribute (abbreviation) | PROBABLE |
 
 <!-- END kaphtor:record -->

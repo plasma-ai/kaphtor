@@ -48,6 +48,7 @@ HT 117a: a counted roster item, quantity 1 within KU-RO 10. Amarna Ušu (EA 148,
 |---|---|
 | Akkadian | {uru}U₂-su₂ Usu, Amarna, EA 148:11, 148 r. 30, 149 r. 49, 150 r. 18 (ORACC aemw/amarna) |
 | Hebrew | Ḥōsâ, a town of Asher by Tyre, wəšāb haggəbûl ḥōsâ 'and the border turned to Hosah' (Josh 19:29; HALOT 337, which sets Akkadian Uzu, Ušu beside it) |
+| Phoenician | ʾs, Usu, Palaetyrus (Krahmalkov 65) |
 
 ### Source
 

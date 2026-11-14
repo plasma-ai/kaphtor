@@ -52,7 +52,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | ŠMʿ (Aramaic Root Atlas; DNWSI 1164) | Aramaic Root Atlas; DNWSI 1164 | gloss withheld |
 | Punic | šmʿ 'hear' | Anderson–Moser 2024 root šmʿ |  |
 | Judaic Aramaic | mišmᵉʿā (HALOT 649); šəmaʿ (HALOT 1570; DJPA 558a apud CAL) | HALOT 649; HALOT 1570; DJPA 558a; CAL | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic smʿ (Al-Jallad–Jaworska 122); Dadanitic smʿ; Hismaic smʿ(t); Taymanitic smʿ; Dumaitic smʿ; Thamudic B smʿ; Dhofari smʿ (Al-Jallad 2026, 133) | Al-Jallad–Jaworska 122; Al-Jallad 2026 133 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic smʿ (Al-Jallad–Jaworska 122); Dadanitic smʿ; Hismaic smʿ(t); Dumaitic smʿ; Thamudic B smʿ; Dhofari smʿ (Al-Jallad 2026, 133); Taymanitic smʿ (Al-Jallad 2026b, 20) | Al-Jallad–Jaworska 122; Al-Jallad 2026 133; Al-Jallad 2026b 20 | gloss withheld |
 | East Ethiopic | Sel. säma (EDG 545 apud SEDonline 26) | EDG 545; SEDonline 26 | gloss withheld |
 | Eblaitic | sa-ma-um /šamāʕum/ (VE 393, Kogan–Krebernik 2021b: 683 apud SEDonline 26; Krebernik 1983, 15); iš-má-ma, áš-da-ma, sa-ma-um /S-m-ʿ/; /Sāmiʿ/: names sa-mi-um, sá-me-um (Sanmartín GlOS 2, 251–252); /š-m-ʿ/ (cf. Akk. šemûm): names iš-má-da-ar, iš-má-da-ba-an, iš-má-da-mu, iš-má-ga-lu, iš-má-gàr-du, iš-má-ì-lum, iš-má-il/NI, iš-má-li-im, iš-má-ma-lik, iš-má-šum, iš-má-zi-kir, áš-ma-zi-kir /yaš-/; with infixed /-ta-/: iš-da-má (Krebernik 1988, 50–52, 58) | VE 393, Kogan–Krebernik 2021b: 683; SEDonline 26; Krebernik 1983, 15; Sanmartín GlOS 2, 251–252; Krebernik 1988, 50–52, 58 | gloss withheld |
 | Jibbali | šĩʕ (JL 262 apud SEDonline 26); pf. var. šãʿ (Rubin 2014 670) | JL 262; SEDonline 26; Rubin 2014 670 | gloss withheld |

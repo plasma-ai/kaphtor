@@ -41,21 +41,20 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-PH 6 I-DA-PA₃-I-SA-RI ʾIdā bi-ʾišarī: PA₃, a proposed ba, writes the proclitic b- 'in, with, by' with a dead vowel, as a CV syllabary must, after PS and Ugaritic bi=. On HT 9b PA₃ stands between dividers before WA-JA-PI, a transaction sign like TE in the HT 9a heading. Rival on HT 103, PA₃-DA-KU-SE-NE\[ \]6½ with a possible divider after PA₃ (GORILA I 171), and Ugaritic often sets a divider after a one-syllable proclitic, b. bnk (CAT 1.6:I:46; Tropper 2000, §21.412a): bād(i) 'in the charge of' (&lt; \*bi-yadi), as Kition no. 84 bd with a personal name and counted workmen (Krahmalkov 2000, 97) and CAT 4.145:9–10 bd rb ḥršm 'in the custody of the chief of the craftsmen' (Huehnergard 2012, 76, 94). Cf. Linear B pa-ro with a personal name, 'in the charge of' (Killen 2024, 103). Weak point: HT 103 wants bd 'in the charge of', and no Semitic text shortens bd to b. Two attestations. See PA₃-E.
+PH 6 I-DA-PA₃-I-SA-RI ʾIdā bi-ʾišarī: PA₃, a proposed ba, writes the proclitic b- 'in, with, by' with a dead vowel, as a CV syllabary must, after PS and Ugaritic bi=; Eteocretan writes the preposition b- 'in' as B (Gordon 1966, §107). On HT 9b PA₃ stands between dividers before WA-JA-PI, a transaction sign like TE in the HT 9a heading. Rival on HT 103, PA₃-DA-KU-SE-NE\[ \]6½ with a possible divider after PA₃ (GORILA I 171), and Ugaritic often sets a divider after a one-syllable proclitic, b. bnk (CAT 1.6:I:46; Tropper 2000, §21.412a): bād(i) 'in the charge of' (&lt; \*bi-yadi), as Kition no. 84 bd with a personal name and counted workmen (Krahmalkov 2000, 97) and CAT 4.145:9–10 bd rb ḥršm 'in the custody of the chief of the craftsmen' (Huehnergard 2012, 76, 94). Cf. Linear B pa-ro with a personal name, 'in the charge of' (Killen 2024, 103). Weak point: HT 103 wants bd 'in the charge of', and no Semitic text shortens bd to b. Two attestations. See PA₃-E.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Ugaritic | b 'in, with, by' (proclitic) |
+| Ugaritic | b 'in, with, by' (proclitic); administrative bd /bādi/(?) or /bīdi/(?) 'in the charge/custody of' (Huehnergard 2012, 94; DULAT 211–213) |
 | Hebrew | bə- (בְּ) 'in, with' |
 | Arabic | bi- 'in, with' |
-| Phoenician | b 'in, from'; bd ‘in the charge of’ |
-| Ugaritic administrative | bd /bādi/ or /bīdi/ ‘in the charge/custody of’ |
+| Phoenician | b 'in, from'; bd 'in the charge of' |
 
 ### Source
 
-di Mino; Tropper 2000
+di Mino; GORILA I; Tropper 2000; Krahmalkov 2000; Huehnergard 2012; Killen 2024; DULAT; Gordon 1966
 
 ## Attestations
 

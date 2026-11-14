@@ -49,6 +49,7 @@ HT 87: KU-RU-KU 1, fifth of six men at one unit each under the heading \*21F-TU-
 |---|---|
 | Hebrew | karkōm 'saffron', Song 4:14 (HALOT 498) |
 | Aramaic | Jewish Aramaic and Syriac kurkəmā 'saffron' (HALOT 498) |
+| Arabic | kurkum- 'Indian saffron, turmeric; henna' (BK 2, 888) |
 
 ### Source
 

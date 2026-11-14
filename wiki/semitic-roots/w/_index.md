@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/w
 desc: "Semitic roots whose first radical is w."
 created: 2026-10-22T17:38:31Z
-updated: 2026-11-10T04:32:36Z
+updated: 2026-11-16T17:25:52Z
 ---
 
 # wiki/semitic-roots/w
@@ -147,7 +147,7 @@ updated: 2026-11-10T04:32:36Z
 
 [[wiki/semitic-roots/w/3532_middle_midst|3532_middle_midst]]: Proto-Semitic *wšṭ, 'middle, midst': reflexes in 8 language(s).
 
-[[wiki/semitic-roots/w/3561_to_flow_continually_ever_flowing|3561_to_flow_continually_ever_flowing]]: Proto-Semitic *wtn, 'to flow continually; ever-flowing': reflexes in 5 language(s).
+[[wiki/semitic-roots/w/3561_to_flow_continually_ever_flowing|3561_to_flow_continually_ever_flowing]]: Proto-Semitic *wtn, 'to flow continually; ever-flowing': reflexes in 6 language(s).
 
 [[wiki/semitic-roots/w/3575_wadi_river_valley|3575_wadi_river_valley]]: Proto-Semitic *wdy, 'wadi, river valley': reflexes in 3 language(s).
 

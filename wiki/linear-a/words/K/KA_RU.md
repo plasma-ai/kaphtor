@@ -48,6 +48,7 @@ HT 97a opens KA-RU · \*307+\*307 · VIR+KA 82, then \*327 33, KA-NU-TI 25, PA-I
 | Language | Comparison |
 |---|---|
 | Hebrew | כַּר kar 'pasture, meadow' (Isa 30:23 kar nirḥāb; Ps 65:14); also 'lamb, ram' (Deut 32:14; Amos 6:4) |
+| Phoenician | kr 'pasturage' (Tomback 1978, 149) |
 
 ### Source
 

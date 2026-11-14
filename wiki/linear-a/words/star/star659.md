@@ -32,4 +32,6 @@ updated: 2026-11-12T00:26:03Z
 
 A sign. Status **unread** (nothing on file).
 
+MA 10a and MA 10c: the necked jar of \*412 with a different mark written inside it, counted 4 and 3.
+
 <!-- END kaphtor:record -->

@@ -31,7 +31,7 @@ updated: 2026-10-28T07:37:32Z
 |---|---|---|---|
 | Epigraphic South Arabian |  | Biella 518–519; SD 133; Sabaweb lemma 1568 | source's text withheld |
 | Arabic | šamita 'he rejoiced at the affliction of the enemy'; šamita bihi 'he rejoiced at his \[an enemy's\] affliction' (Lane 1594) | Lane 1594 |  |
-| Pre-Islamic North Arabian | Safaitic śmt (Al-Jallad 2026, 140) | Al-Jallad 2026 140 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic śmt (Al-Jallad 2026, 140); Taymanitic śmt (Al-Jallad 2026b, 57) | Al-Jallad 2026 140; Al-Jallad 2026b 57 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

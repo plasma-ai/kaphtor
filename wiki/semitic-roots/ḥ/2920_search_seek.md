@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/2920_search_seek
 title: "*ḥVpVś-: 'search, seek'"
-desc: "Proto-Semitic *ḥVpVś-, 'search, seek': reflexes in 8 language(s)."
+desc: "Proto-Semitic *ḥVpVś-, 'search, seek': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2920"
@@ -37,6 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | ḥps 'search' (Aramaic Root Atlas 0834) | Aramaic Root Atlas 0834 |  |
 | Judaic Aramaic | ḥps, ḥpš (HALOT 341; DJPA 212a apud CAL) | HALOT 341; DJPA 212a; CAL |  |
 | Aramaic | ḥps (HALOT 341; CAL s.v. ḥps) | HALOT 341; CAL s.v. ḥps |  |
+| Pre-Islamic North Arabian | Taymanitic ḥfś (Al-Jallad 2026b, 41) | Al-Jallad 2026b 41 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -29,7 +29,8 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Value |  |
 | Alternates | none |
-| Linear B | no Linear B counterpart recorded |
+| Linear B | B 85, value au |
+| Linear B Unicode | U+10042 LINEAR B SYLLABLE B085 AU |
 | Neutralization class | none |
 
 ### Forms cited for the value
@@ -41,7 +42,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Word | Reading | Confidence |
 |---|---|---|
-| [[wiki/linear-a/words/A/AU_RE_TE\|AU-RE-TE]] | ʾawrēt | PROBABLE |
+| [[wiki/linear-a/words/A/AU_RE_TE\|AU-RE-TE]] | ʾawrēt | CANDIDATE |
 | [[wiki/linear-a/words/S/SE_WA_AU_DE\|SE-WA-AU-DE]] | šawaʿ-dē | SPECULATIVE |
 
 <!-- END kaphtor:record -->

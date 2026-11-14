@@ -4,7 +4,7 @@ title: Arabic & Quranic Corpora
 desc: Acquisition routes, file formats and APIs for the Quran text and morphology, the classical Arabic lexica, pre-Islamic Arabian epigraphy and the sources on pagan Arabia.
 tags: [corpora, docs]
 created: 2026-10-22T18:14:10Z
-updated: 2026-10-22T18:14:10Z
+updated: 2026-11-16T17:30:00Z
 ---
 
 # Arabic & Quranic Corpora
@@ -23,6 +23,8 @@ only the sets under `data/`, and each folder's index lists them.
 | `data/share-alike/quran/quran_roots.jsonl` | 1,651 roots | QAC 0.4 morphology |
 | `data/ane/quran_text.jsonl` | 6,236 ayahs | Tanzil Uthmani |
 | `data/ane/arabian_epigraphy.jsonl` | 74 inscriptions | OCIANA (OSU) |
+| `data/ane/diana-safaitic/records.jsonl` | 1,546 entries, 340 listed names | DIANA I, Al-Jallad 2026 (Safaitic), CC BY-NC-ND 4.0 |
+| `data/ane/diana2-taymanitic/records.jsonl` | 556 headwords | DIANA II, Al-Jallad 2026b (Taymanitic), CC BY-NC 4.0 |
 | `data/ane/south_arabian_epigraphy.jsonl` | 187 curated entries | DASI (CNR), from the DASI lexicon, which is not in this repository |
 
 Not in this repository, for rights: the Faris 1952 Kitāb al-Aṣnām index, the Beeston and Biella Sabaic
@@ -95,6 +97,15 @@ correspondence: recall over precision for deep cognate hunting).
 - No API. OCIANA's official research download (ORA) holds 37,955 inscriptions, and aneq's `ociana` view reads it. A
   targeted harvest keyed on deity names is the fallback (probe-gated, ≥3 s delay, cached, resumable). Deity query
   set: mnt, lt, ʿzy, rḍw, bʿlsmn.
+- **DIANA, OCIANA's dictionaries.** Volume I, *Safaitic* (Al-Jallad 2026, doi:10.5281/zenodo.23847496, CC
+  BY-NC-ND 4.0), ships in `data/ane/diana-safaitic/`: 1,439 dictionary headwords and 107 toponyms, the successor of
+  Al-Jallad and Jaworska's dictionary, and the 282 group names and 58 divine names of its two lists (pp. 184–187). Volume II, *Taymanitic* (Al-Jallad 2026b, doi:10.5281/zenodo.24223110, CC
+  BY-NC 4.0), ships in `data/ane/diana2-taymanitic/`: 103 dictionary headwords, 7 toponyms, 10 group names and 436
+  personal names. Each entry carries its gloss, notes, compared forms, attestations and printed page. `aneq diana`
+  reads Volume I, `--volume 2` Volume II, by headword, root, homograph or gloss word (Volume I prints s¹ s² as s ś,
+  Volume II as s¹ s² s³, typed s1, s2, s3; `--section group_names` in either volume, `divine_names` for Volume I's
+  list, `onomasticon` for Volume II's names), and `query_proper_names.py --source taymanitic` reads Volume II's names
+  and places. The Semitic roots cite both volumes by page.
 - **Scrape mechanics:** Rails app, server-rendered. Search:
   `GET /inscriptions?search[transliterated_text]=<q>&search[last_updated]=0&per_page=48&search[layout]=list`,
   pagination via `page=`. Records at `/inscriptions/<id>` as dt/dd pairs (Siglum,

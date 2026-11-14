@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/J/JA_star21F
 title: "JA-*21F"
-desc: "Yāh(a): Yāh, divine name; deity receiving offerings alongside Baal on HT28b. Onomasticon theonym; lexicon entry JA-HA."
+desc: "Yāh(a): Yāh, divine name; deity receiving offerings alongside Baʿal on HT28b. Onomasticon theonym; lexicon entry JA-HA."
 tags: ["linear-a", "word"]
 kind: "word"
 form: "JA-*21F"
@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Yāh(a) |
-| Meaning | Yāh, divine name; deity receiving offerings alongside Baal on HT28b |
+| Meaning | Yāh, divine name; deity receiving offerings alongside Baʿal on HT28b |
 | Type | theonym (SPECULATIVE) |
 | Affiliation | semitic (SPECULATIVE) |
 | Evidence | lexicon_reading |

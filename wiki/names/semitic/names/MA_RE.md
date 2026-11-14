@@ -48,6 +48,7 @@ Mārē 'lord, master', the -MA-RE of JI-NU-MA-RE 'wine-lords', an entry in the K
 |---|---|
 | Eblaite | mar-a 'the lord' / 'the son' (Pagan 1998, rows 3651–3652) |
 | Linear A | -MA-RE mārē in JI-NU-MA-RE yinu-mārē 'wine-lords' (ZA 4a, 5b, 15a) |
+| Dadanitic | mrʾ 'lord' (Al-Jallad 2026, 93) |
 
 ## Attestations
 

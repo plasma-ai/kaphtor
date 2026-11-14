@@ -199,21 +199,21 @@
           "reading": "Tursa",
           "gloss": "Shield, Protector; the name Tursha",
           "confidence": "SPECULATIVE",
-          "note": "Hapax. Vocative addressee in position two, as Sokar at Troullos and Dikte at Iouktas, before dubur ʾIda, 'the sanctuary of Ida.' √t-r-s 'to shield, protect' (Ar. turs; Lane 302); the shield-bearing Kouretes of Ida, and the Sea People Tursha (Egyptian twršꜣ), named from the same root (di Mino, Ya Diktu)."
+          "note": "Hapax. Vocative addressee in position two, as Sokar at Troullos and Dikte at Iouktas, before his title ḏū har ʾIda, 'the One of Mount Ida.' √t-r-s 'to shield, protect' (Ar. turs; Lane 302); the shield-bearing Kouretes of Ida, and the Sea People Tursha (Egyptian twršꜣ), named from the same root (di Mino, Ya Diktu)."
         },
         {
           "linear_a": "DU-*314-RE",
-          "reading": "dubur",
-          "gloss": "sanctuary, inner sanctum",
+          "reading": "ḏū har",
+          "gloss": "the One of the mountain",
           "confidence": "CANDIDATE",
-          "note": "Preferred as a word-specific orthographic or graphic variant of DU-PU₂-RE, independently attested at PKZa15 and HTZb160. Facchetti (1999, 132) and Davis (2013, 44 n. 46) identify *314 here as a PU₂ variant; Thomas (2020, 8) presents the equation cautiously. Under di Mino's Semitic reading, dubur means 'sanctuary, inner sanctum' (√d-b-r). The equation does not assign PU₂ to every *314 attestation."
+          "note": "The title of Tursa, with *314 read ḤA: DU 'the one of' and har 'mountain' (Heb. har, Ug. hr, Amarna ḫa-ar-ri), as Ugaritic d and Sabaic ḏ-S¹mwy. Rival: Facchetti (1999, 132) and Davis (2013, 44 n. 46) take *314 here as a variant of PU₂, DU-PU₂-RE dubur 'sanctuary' (PKZa15, HTZb160); Thomas (2020, 8) presents the equation cautiously."
         },
         {
           "linear_a": "I-DA-A",
           "reading": "ʾIda",
           "gloss": "of Ida; alternatively, toward Ida",
           "confidence": "PROBABLE",
-          "note": "Preferred as the diptotic genitive in dubur ʾIda, 'the sanctuary of Ida': compare Ugaritic /ḥāmiyātu ʾugarita/, 'the walls of Ugarit' (Huehnergard 2012, §IV.B.3, p. 40). The older directive analysis 'toward Ida' remains possible, but Ugaritic writes that suffix with consonantal -h /-ah(a)/, so final A alone does not prove it."
+          "note": "Preferred as the diptotic genitive in ḏū har ʾIda, 'the One of Mount Ida': compare Ugaritic /ḥāmiyātu ʾugarita/, 'the walls of Ugarit' (Huehnergard 2012, §IV.B.3, p. 40). The older directive analysis 'toward Ida' remains possible, but Ugaritic writes that suffix with consonantal -h /-ah(a)/, so final A alone does not prove it."
         },
         {
           "linear_a": "U-NA-KA-NA-SI",
@@ -237,9 +237,9 @@
           "note": "√š-y-r 'sing': abstract šīrūt in -ūt (Ugaritic syllabic ši-i-ru /šīru/ 'song'); not šērūt 'service' (√š-r-t)."
         }
       ],
-      "translation": "I make myself a dwelling, O Tursa, Shield, in the sanctuary of Ida. So, behold my gathering in the presence of sacred song.",
+      "translation": "I make myself a dwelling, O Tursa, Shield, the One of Mount Ida. So, behold my gathering in the presence of sacred song.",
       "confidence": "PROBABLE",
-      "notes": "TU-RU-SA occupies the formula's variable invocation slot and is therefore treated as a vocative addressee, not a dedicant. Preferred parse: DU-*314-RE is a word-specific variant of DU-PU₂-RE /dubur/ 'sanctuary' (PKZa15; HTZb160; Facchetti 1999, 132; Davis 2013, 44 n. 46; Thomas 2020, 8). I-DA-A is the diptotic genitive ʾIda, 'of Ida'; cf. Ugaritic /ḥāmiyātu ʾugarita/ 'the walls of Ugarit' (Huehnergard 2012, §IV.B.3, p. 40). U-NA is provisionally /wannā/, comparing Ugaritic w hn ~ wn and *wa-hanna/u; its exact vowels remain reconstructed. 'Toward Ida' remains an alternative.",
+      "notes": "TU-RU-SA occupies the formula's variable invocation slot and is therefore treated as a vocative addressee, not a dedicant. DU-*314-RE is his title, ḏū har 'the One of the mountain', with *314 read ḤA; the rival reading takes it as a variant of DU-PU₂-RE /dubur/ 'sanctuary' (PKZa15; HTZb160; Facchetti 1999, 132; Davis 2013, 44 n. 46; Thomas 2020, 8). I-DA-A is the diptotic genitive ʾIda, 'of Ida'; cf. Ugaritic /ḥāmiyātu ʾugarita/ 'the walls of Ugarit' (Huehnergard 2012, §IV.B.3, p. 40). U-NA is provisionally /wannā/, comparing Ugaritic w hn ~ wn and *wa-hanna/u; its exact vowels remain reconstructed. 'Toward Ida' remains an alternative.",
       "source": {
         "di Mino": [
           "A-TA-I-*301-WA-JA",
@@ -459,7 +459,7 @@
           "linear_a": "DI-RE-DI-NA",
           "reading": "ʾaddīr-dīnā",
           "gloss": "recipient of ½; 'mighty is the verdict'; rival a simplex name",
-          "confidence": "SPECULATIVE"
+          "confidence": "CANDIDATE"
         },
         {
           "linear_a": "TE-*301",
@@ -823,10 +823,10 @@
         },
         {
           "linear_a": "PI-TA-RA",
-          "reading": "bidāla",
-          "gloss": "trade agents, a personnel group drawing grain; rivals bitāri 'portions', a recipient's name",
+          "reading": "bitra",
+          "gloss": "a portion, share; rivals bidāla 'trade agents', a recipient's name",
           "confidence": "SPECULATIVE",
-          "note": "Ugarit bi-da-lu-ma 'merchants' (LÚ.MEŠ DAM.GÀR), Ebla ba-da-lum 'merchant' (GlOS 1, 110)."
+          "note": "Emar bi-it-ru 'section, half' (Pentiuc 2001, 39), Heb. beter 'piece' (HALOT 167)."
         },
         {
           "linear_a": "*323-*344",
@@ -852,7 +852,7 @@
           "confidence": "CONFIRMED"
         }
       ],
-      "translation": "Disbursed (I-TI-TI-KU-NI) · ʿAbrān · A-*123-TE: Śīmat grain 5; Rusa 4; *323-*317 1; the agents 1; *323-*344 1. — ]KU-MA-RO: TE, figs 20; […] figs 2.",
+      "translation": "Disbursed (I-TI-TI-KU-NI) · ʿAbrān · A-*123-TE: Śīmat grain 5; Rusa 4; *323-*317 1; a portion 1; *323-*344 1. — ]KU-MA-RO: TE, figs 20; […] figs 2.",
       "status": "incomplete",
       "notes": "Grain list under a heading of three groups (GORILA I 157: only the divider after I-TI-TI-KU-NI is certain, and TI-TI-KU, though attested alone, is not to be isolated here), then a ruled section headed ]KU-MA-RO with TE and figs; .5 and .6 have a trace to the left. A-PA-RA-NE also heads HT96b, where QA-*118-RA-RE stands in the slot of A-*123-TE.",
       "source": {
@@ -1536,10 +1536,10 @@
         },
         {
           "linear_a": "DA-ME",
-          "reading": "damu",
-          "gloss": "blood (ritual allocation category)",
+          "reading": "damʿu",
+          "gloss": "the sanctuary's share of the produce",
           "confidence": "SPECULATIVE",
-          "note": "PS *dam-, Ugaritic dm /damu/; quantified like the neighboring allocation headings on HT95a/b and HT120. Rivals: dimtu 'district', Aramaic dəmē 'value of'."
+          "note": "Hebrew demaʿ, a due on produce beside melēʾâ (Exod 22:28), in Mishnaic Hebrew the priest's share, a name of the terûmâ; HT 133 writes TE GRA+DA. Rival: damu 'blood', a ritual category."
         },
         {
           "linear_a": "MI-NU-TE",
@@ -1574,7 +1574,7 @@
       ],
       "translation": "Settlement(s): grain. Blood (ritual category) 10, count/reckoning 10, king/royal establishment 20, emmer 10, nobles/council 10, parched grain 7.",
       "confidence": "CANDIDATE",
-      "notes": "Context: Grain allocation—administrative tablet with GRA ideogram and commodity distributions. DA-ME is read damu 'blood', a recurring quantified ritual category; rivals dimtu 'district', Aramaic dmy 'value'. KU-NI-SU is kunīšu 'emmer', an Akkadian loan (Nuzi ku-ni-šu, CAD K 537). With QE-RA₂-U /qelwu/ 'parched grain' it is one of two grain products in the set.",
+      "notes": "Context: Grain allocation—administrative tablet with GRA ideogram and commodity distributions. DA-ME is read damʿu, the sanctuary's share of the produce (Hebrew demaʿ, Exod 22:28), a recurring quantified due; rivals damu 'blood', dimtu 'district', Aramaic dmy 'value'. KU-NI-SU is kunīšu 'emmer', an Akkadian loan (Nuzi ku-ni-šu, CAD K 537). With QE-RA₂-U /qelwu/ 'parched grain' it is one of two grain products in the set.",
       "source": {
         "di Mino": [
           "DA-DU-MA-TA",
@@ -1641,14 +1641,14 @@
         },
         {
           "linear_a": "TU-JU-MA",
-          "reading": "Tuʿlum",
+          "reading": "Tuʿluma",
           "gloss": "personal name, 'hidden one'",
           "confidence": "SPECULATIVE"
         },
         {
           "linear_a": "U-DI-MI",
           "reading": "ʾUdmī",
-          "gloss": "the Udumite, a man of Udum (Kirta's city)",
+          "gloss": "the Udumite, a man of Udum (King Pabil's city in the Kirta epic)",
           "confidence": "SPECULATIVE"
         },
         {
@@ -1706,7 +1706,7 @@
           "confidence": "PROBABLE"
         }
       ],
-      "translation": "Merchants—owed: Ummī-naśiʾ: ʾUšu 1, Mītu 1, Kurmu ('Vineyard') 1, Maruʾ ('Fattened') 1, Kubānu 1, Tuʿlum 1, ʾUdmī 1, Mīru-darār ('Free-running Bull') 1, Teyar 1, Nadr ('Vow') 1. Total: 10. Šata: Kukkadal 1, Kōšayīt ('the Kushite woman') 1, Ḏā-Mīnu 1, Ḏā-naquddi 1, Qidaru 1.",
+      "translation": "Merchants—owed: Ummī-naśiʾ: ʾUšu 1, Mītu 1, Kurmu ('Vineyard') 1, Maruʾ ('Fattened') 1, Kubānu 1, Tuʿluma 1, ʾUdmī 1, Mīru-darār ('Free-running Bull') 1, Teyar 1, Nadr ('Vow') 1. Total: 10. Šata: Kukkadal 1, Kōšayīt ('the Kushite woman') 1, Ḏā-Mīnu 1, Ḏā-naquddi 1, Qidaru 1.",
       "confidence": "CANDIDATE",
       "notes": "Context: Personnel list—individual names with qty 1 allocations\n\nMA-KA-RI-TE 'merchants' heads a roster of men owing 1 each, as Ugaritic lists count mkrm 'merchants' with a total (ġr mkrm, DULAT 537); rival makritu 'red' (CAD M/1 138). One written word in both witnesses. Personnel allocation list with named recipients. KI-RO is 'owed', not 'all, total'. U-MI-NA-SI heads the roster outside the count: the ten one-unit entries from U-SU to NA-DA-RE make KU-RO 10. KI-DA-RO is the personal name Qidaru, last of the SA-TA roster below the ruling. Six of the fifteen names recur as men's names in Linear B at Knossos: U-SU u-su (KN V 7512), TE-JA-RE te-ja-ro (KN V 479), NA-DA-RE no-da-ro (KN As 609), KU-KU-DA-RA ku-ka-da-ro (KN Uf 836), DA-MI-NU da-mi-ni-jo (KN D series), KI-DA-RO ki-da-ro (KN E 842); MA-RU compares with ma-ro at Pylos (PY Cn 328) (DMic I–II). Both sections list persons.",
       "source": {
@@ -1816,16 +1816,16 @@
         },
         {
           "linear_a": "A-DU",
-          "reading": "ʾAddu",
-          "gloss": "Storm God (= Hadad/Baal, section 2 heading); rival adû 'work assignment'",
+          "reading": "adû",
+          "gloss": "work assignment, ration (section 2 heading)",
           "confidence": "CANDIDATE"
         },
         {
           "linear_a": "DA-ME",
-          "reading": "damu",
-          "gloss": "blood (ritual allocation category)",
+          "reading": "damʿu",
+          "gloss": "the sanctuary's share of the produce",
           "confidence": "SPECULATIVE",
-          "note": "PS *dam-, Ugaritic dm /damu/; quantified like the neighboring allocation headings on HT95a/b and HT120. Rivals: dimtu 'district', Aramaic dəmē 'value of'."
+          "note": "Hebrew demaʿ, a due on produce beside melēʾâ (Exod 22:28), in Mishnaic Hebrew the priest's share, a name of the terûmâ; HT 133 writes TE GRA+DA. Rival: damu 'blood', a ritual category."
         },
         {
           "linear_a": "MI-NU-TE",
@@ -1837,19 +1837,19 @@
           "linear_a": "QA-RA₂-WA",
           "reading": "qalwa",
           "translation": "parched grain",
-          "confidence": "SPECULATIVE",
+          "confidence": "CANDIDATE",
           "note": "√q-l-w with RA₂=/la/: stands in the slot of QE-RA₂-U qelwu 'parched grain' in the HT95a/b set. Rival: Ugaritic qrwn 'offering' (DULAT 703; disputed as a PN)."
         }
       ],
-      "translation": "Section 1—Agaru: emmer, GRA+K+L: 20; king/royal establishment: 20; nobles/council: 20; parched grain: 10. Section 2—Addu: blood (ritual category), GRA+B: 20; count/reckoning: 20.",
+      "translation": "Section 1—Agaru: emmer, GRA+K+L: 20; king/royal establishment: 20; nobles/council: 20; parched grain: 10. Section 2—Rations: blood (ritual category), GRA+B: 20; count/reckoning: 20.",
       "confidence": "CANDIDATE",
-      "notes": "Context: Two-section Haghia Triada allocation ledger, Casa Room 7. The preserved integer entries sum to 110; the GRA+K+L and GRA+B ligatures carry metrological riders and are not securely distinct grain species. DA-ME is read damu 'blood', a recurring quantified ritual category; rivals dimtu 'district' and Imperial Aramaic dmy nksyʾ 'the value of the property' (TAD B2.6 R.14), a later comparison. QA-RA₂-WA is read qalwa 'parched grain' (√q-l-w): it closes the HT95a/b set where QE-RA₂-U qelwu stands; rivals Ugaritic qrwn 'offering' and Linear B qa-ra₂-wo, a personal name. KU-NI-SU is kunīšu 'emmer', an Akkadian loan (Nuzi ku-ni-šu, CAD K 537), with the grain sign on its line. HT86b is an erased draft of the opening lines, not an independent witness.",
+      "notes": "Context: Two-section Haghia Triada allocation ledger, Casa Room 7. The preserved integer entries sum to 110; the GRA+K+L and GRA+B ligatures carry metrological riders and are not securely distinct grain species. DA-ME is read damʿu, the sanctuary's share of the produce (Hebrew demaʿ, Exod 22:28), a recurring quantified due; rivals damu 'blood', dimtu 'district' and Imperial Aramaic dmy nksyʾ 'the value of the property' (TAD B2.6 R.14), a later comparison. QA-RA₂-WA is read qalwa 'parched grain' (√q-l-w): it closes the HT95a/b set where QE-RA₂-U qelwu stands; rivals Ugaritic qrwn 'offering' and Linear B qa-ra₂-wo, a personal name. KU-NI-SU is kunīšu 'emmer', an Akkadian loan (Nuzi ku-ni-šu, CAD K 537), with the grain sign on its line. HT86b is an erased draft of the opening lines, not an independent witness.",
       "source": {
         "Gordon 1966": [
-          "A-KA-RU",
-          "A-DU"
+          "A-KA-RU"
         ],
         "di Mino": [
+          "A-DU",
           "KU-NI-SU",
           "SA-RU",
           "DI-DE-RU",
@@ -1901,8 +1901,8 @@
       "words": [
         {
           "linear_a": "A-DU",
-          "reading": "ʾAddu",
-          "gloss": "Addu, the heading; rival adû 'work assignment'",
+          "reading": "adû",
+          "gloss": "work assignment (heading)",
           "confidence": "CANDIDATE"
         },
         {
@@ -1978,18 +1978,18 @@
           "confidence": "CONFIRMED"
         }
       ],
-      "translation": "Addu: men (VIR+KA) 20; cedar 6; figs, Kikkina 7. Outstanding: Kubaba 1, the messenger 1, Kubānu 1, Payare 1, Samarō 1, Daṯar 1. Total: 6.",
+      "translation": "Work assignment: men (VIR+KA) 20; cedar 6; figs, Kikkina 7. Outstanding: Kubaba 1, the messenger 1, Kubānu 1, Payare 1, Samarō 1, Daṯar 1. Total: 6.",
       "confidence": "CANDIDATE",
-      "notes": "KI-RO opens six one-unit entries, and KU-RO 6 totals them. A-DU heads the tablet as ʾAddu, Gordon's Addu/Haddu; rival adû 'work assignment'. RE-ZA is (ʾa)raz 'cedar', counted beside cyperus on KH 86; rival Luwian aruza, a measure. KI-KI-NA is Kikkina, as Amorite KI-IK-KI-NI. KU-PA₃-NU is Kubānu 'devotee of Kubaba', beside KU-PA₃-PA₃ Kubaba; rival Gupana. PA-JA-RE is Payare, Egyptian Pꜣ-Rꜥ 'He (of) Re', Linear B pa-ja-ro. DA-TA-RE is Daṯar 'Old', Amorite DA-ŠU-RU-UM (Gelb 1980, no. 1490), the name of DA-TA-RA on HT 6a; rival ḏā-ṯaġri 'He of the gate'.",
+      "notes": "KI-RO opens six one-unit entries, and KU-RO 6 totals them. A-DU heads the tablet as adû 'work assignment', the men assigned and the six owed; rival Gordon's Addu (see A-DU (HT92, HT133)). RE-ZA is (ʾa)raz 'cedar', counted beside cyperus on KH 86; rival Luwian aruza, a measure. KI-KI-NA is Kikkina, as Amorite KI-IK-KI-NI. KU-PA₃-NU is Kubānu 'devotee of Kubaba', beside KU-PA₃-PA₃ Kubaba; rival Gupana. PA-JA-RE is Payare, Egyptian Pꜣ-Rꜥ 'He (of) Re', Linear B pa-ja-ro. DA-TA-RE is Daṯar 'Old', Amorite DA-ŠU-RU-UM (Gelb 1980, no. 1490), the name of DA-TA-RA on HT 6a; rival ḏā-ṯaġri 'He of the gate'.",
       "source": {
         "Gordon 1966": [
-          "A-DU",
           "KI-RO",
           "KU-PA₃-NU",
           "PA-JA-RE",
           "KU-RO"
         ],
         "di Mino": [
+          "A-DU",
           "KU-PA₃-PA₃",
           "KU-PA₃-NU",
           "SA-MA-RO"
@@ -2174,17 +2174,17 @@
         },
         {
           "linear_a": "TA-NU-NI-KI-NA",
-          "reading": "tannî qînâ",
-          "gloss": "chant a dirge!(?)",
-          "confidence": "SPECULATIVE",
-          "note": "Proposed internal segmentation TA-NU-NI / KI-NA: expected Hebrew 2fs Piʿel imperative /tannî/ from √t-n-y ‘recount, recite’ (Judg 5:11; 11:40) plus qînâ ‘funeral song, dirge’ (HALOT, 1097, 1759–60). HALOT's proposed antiphonal repetition motivates the natural translation ‘chant a dirge’; the stricter lexical gloss is ‘recite/repeat.’ The funerary context suits the phrase, but the inscription writes no divider between the two proposed words."
+          "reading": "tanūḥūn qīna",
+          "gloss": "they wail a dirge",
+          "confidence": "CANDIDATE",
+          "note": "Segmented TA-NU-NI / KI-NA: the prefix form of √n-w-ḥ 'to moan, lament' with the -n ending, Ugaritic tnḥn (KTU 1.15 I 7; DULAT 618), the ḥ unwritten, and qīna 'funeral song, dirge' (Heb. qînâ, HALOT 1097) as its object. The funerary context suits the phrase, but the inscription writes no divider between the two words. Rival: tannî qînâ 'recount a dirge!' (Judg 11:40; HALOT 1759)."
         },
         {
           "linear_a": "NI-NU-NI",
           "reading": "nīnūn",
           "gloss": "offspring(?)",
           "confidence": "SPECULATIVE",
-          "note": "Its position after the proposed imperative-object phrase favors a noun, contextually a vocative. Hebrew nîn means ‘offspring, descendants.’ NI-NU-NI can spell /nīn-ūn/ exactly if final I is dead; alternatively /nīn-un/ would contain Arabic-type nominative nunation. Both are grammatically regular Semitic analyses: -ūn may represent plural or collective morphology, while -un is an indefinite nominative ending. What remains uncertain is which ending the Linear A spelling encodes and whether the noun functions as a vocative here. Since this exact inflected form is unattested for nîn and NI-NU-NI is a hapax, the identification remains speculative. CAD N/2 supplies no Akkadian ninû ‘offspring.’"
+          "note": "Its position after the verb and its object favors a noun, the subject. Hebrew nîn means ‘offspring, descendants.’ NI-NU-NI can spell /nīn-ūn/ exactly if final I is dead; alternatively /nīn-un/ would contain Arabic-type nominative nunation. Both are grammatically regular Semitic analyses: -ūn may represent plural or collective morphology, while -un is an indefinite nominative ending. What remains uncertain is which ending the Linear A spelling encodes. Since this exact inflected form is unattested for nîn and NI-NU-NI is a hapax, the identification remains speculative. CAD N/2 supplies no Akkadian ninû ‘offspring.’"
         },
         {
           "linear_a": "[?]-I-[?]",
@@ -2194,10 +2194,10 @@
           "note": "One lost sign flanks I on each side (GORILA IV 161, which allows [·]-I-MA); it is not a standalone word or suffixal attestation."
         }
       ],
-      "translation": "[…] Beloved of the Deep(?), the Burning One(?), in righteousness(?)—Chant a dirge, O offspring. […]",
+      "translation": "[…] Beloved of the Deep(?), the Burning One(?), in righteousness(?)—the offspring wail a dirge. […]",
       "confidence": "SPECULATIVE",
       "coverage": "Every group but the broken ]TA and [?]-I-[?] receives a tentative gloss",
-      "notes": "PL Zf 1 is a fragmentary LM I inscription on a silver pin from the immediate vicinity of Platanos Tholos A, a funerary rather than peak-sanctuary context (Monti 2022, 113). It is read sinistroverse. Initial ]TA and final [?]-I-[?] are word fragments, WI and MU in WI-TE-JA-MU are doubtful, and the ending of JA-SA-SA-RA-[ME?] is restored. The final preserved phrase is provisionally read /tannî qînâ nīnūn/, ‘Chant a dirge, O offspring.’ The lack of a divider within TA-NU-NI-KI-NA and the ambiguity between grammatically regular plural/collective -ūn and case -un keep the identifications speculative; the morphology itself is well formed. ‘Posterity’ remains a possible interpretive gloss for /nīnūn/, not the direct translation. Duhoux's structural analysis makes WI-TE-JA-MU and U-QE-TI possible onomastic X-terms, but this is a syntactic classification, not a decipherment.",
+      "notes": "PL Zf 1 is a fragmentary LM I inscription on a silver pin from the immediate vicinity of Platanos Tholos A, a funerary rather than peak-sanctuary context (Monti 2022, 113). It is read sinistroverse. Initial ]TA and final [?]-I-[?] are word fragments, WI and MU in WI-TE-JA-MU are doubtful, and the ending of JA-SA-SA-RA-[ME?] is restored. The final preserved phrase is provisionally read /tanūḥūn qīna nīnūn/, ‘the offspring wail a dirge.’ The lack of a divider within TA-NU-NI-KI-NA and the ambiguity between grammatically regular plural/collective -ūn and case -un keep the identifications speculative; the morphology itself is well formed. ‘Posterity’ remains a possible interpretive gloss for /nīnūn/, not the direct translation. Duhoux's structural analysis makes WI-TE-JA-MU and U-QE-TI possible onomastic X-terms, but this is a syntactic classification, not a decipherment.",
       "source": {
         "GORILA IV, 161–62": [
           "diplomatic text and object"
@@ -2447,8 +2447,8 @@
       "words": [
         {
           "linear_a": "A-DU",
-          "reading": "ʾAddu",
-          "gloss": "Storm God (= Hadad/Baal)—heading/recipient; rival adû 'work assignment'",
+          "reading": "adû",
+          "gloss": "work assignment, ration (heading)",
           "confidence": "CANDIDATE"
         },
         {
@@ -2459,10 +2459,10 @@
         },
         {
           "linear_a": "DA-ME",
-          "reading": "damu",
-          "gloss": "blood (ritual allocation category)",
+          "reading": "damʿu",
+          "gloss": "the sanctuary's share of the produce",
           "confidence": "SPECULATIVE",
-          "note": "PS *dam-, Ugaritic dm /damu/; quantified like the neighboring allocation headings on HT95a/b and HT120. Rivals: dimtu 'district', Aramaic dəmē 'value of'."
+          "note": "Hebrew demaʿ, a due on produce beside melēʾâ (Exod 22:28), in Mishnaic Hebrew the priest's share, a name of the terûmâ; HT 133 writes TE GRA+DA. Rival: damu 'blood', a ritual category."
         },
         {
           "linear_a": "MI-NU-TE",
@@ -2489,13 +2489,11 @@
           "confidence": "CANDIDATE"
         }
       ],
-      "translation": "For Addu: king/royal establishment 10, [break], blood (ritual category) 10, count/reckoning 10, emmer 10, nobles/council 10, parched grain 10.",
-      "notes": "Context: Allocation ledger for the Storm God Addu—same six category words as recto (HT95a) with adjusted quantities, all standardized to 10 units except possible lost entry at break\n\nVerso of HT95a. Same six allocation categories as recto but with different quantities—recto has SA-RU 20 and QE-RA₂-U 7; verso standardizes all to 10. The recto header DA-DU-MA-TA · GRA names the institution and commodity (grain); the verso header A-DU names the divine recipient (Storm God). Together the two sides likely represent two related distributions: one institutional (recto), one cultic (verso). The fragment markers between SA-RU and DA-ME indicate at least one lost entry. All six categories match exactly between recto and verso—the same allocation vocabulary in a different fiscal context.",
+      "translation": "Rations: king/royal establishment 10, [break], blood (ritual category) 10, count/reckoning 10, emmer 10, nobles/council 10, parched grain 10.",
+      "notes": "Context: Ration ledger headed A-DU adû 'work assignment, ration'—same six category words as recto (HT95a) with adjusted quantities, all standardized to 10 units except possible lost entry at break\n\nVerso of HT95a. Same six allocation categories as recto but with different quantities—recto has SA-RU 20 and QE-RA₂-U 7; verso standardizes all to 10. The recto header DA-DU-MA-TA · GRA names the institution and commodity (grain); the verso header A-DU adû names the rations account (CAD A/1 135; Draffkorn 1959, 152–54). Together the two sides set one list under two headings, a district (recto) and the rations (verso). The fragment markers between SA-RU and DA-ME indicate at least one lost entry. All six categories match exactly between recto and verso—the same allocation vocabulary in a different fiscal context.",
       "source": {
-        "Gordon 1966": [
-          "A-DU"
-        ],
         "di Mino": [
+          "A-DU",
           "SA-RU",
           "DA-ME",
           "MI-NU-TE",
@@ -2816,7 +2814,7 @@
       "words": [
         {
           "linear_a": "]NA-SI",
-          "reading": "nasīʾ",
+          "reading": "naśīʾ",
           "gloss": "[damaged; possible 'chief/prince']",
           "confidence": "SPECULATIVE",
           "note": "The vessel is broken immediately before NA. A divider survives after SI, but no initial boundary is preserved. KH7a has the distinct form E-NA-SI and is not an independent attestation of NA-SI."
@@ -2885,17 +2883,17 @@
       "words": [
         {
           "linear_a": "DA-QE-RA",
-          "reading": "diḳaru",
-          "gloss": "bowl or vessel; perhaps a vessel-account heading",
+          "reading": "ḏā-Qīra",
+          "gloss": "the (district) of Qīr, the walled town; heading of the tablet",
           "confidence": "CANDIDATE",
-          "note": "Compare Akkadian diqāru and Late Bronze Age Ugaritic /dikāru/ 'bowl' (alphabetic plural dkrt). Huehnergard treats the Ugaritic item as an Akkadian or shared early loan, not necessarily an inherited root. DA-QE-RA occurs on HT6a, HT57a and HT120; its written vowels do not exactly match /dikāru/."
+          "note": "Heads the tablet, as it heads the second section of HT 6a opposite KA-PA 'village'. Rival: Akkadian diqāru, Ugaritic /dikāru/ 'bowl', whose vowels the spelling does not match."
         },
         {
           "linear_a": "DA-ME",
-          "reading": "damu",
-          "gloss": "blood (ritual allocation category)",
+          "reading": "damʿu",
+          "gloss": "the sanctuary's share of the produce",
           "confidence": "SPECULATIVE",
-          "note": "PS *dam-, Ugaritic dm /damu/; quantified like the neighboring allocation headings on HT95a/b and HT120. Rivals: dimtu 'district', Aramaic dəmē 'value of'."
+          "note": "Hebrew demaʿ, a due on produce beside melēʾâ (Exod 22:28), in Mishnaic Hebrew the priest's share, a name of the terûmâ; HT 133 writes TE GRA+DA. Rival: damu 'blood', a ritual category."
         },
         {
           "linear_a": "GRA+K+L",
@@ -2943,9 +2941,9 @@
           "confidence": "CONFIRMED"
         }
       ],
-      "translation": "Vessel (DA-QE-RA) account. Blood (ritual category): grain category K+L 74 and grain category PA 62½. Dawmi: A517 20. Kretan—the Cretan or Crete: grain category B 60 and grain category PA 48. Phaistos: 3⅕.",
+      "translation": "The town. Blood (ritual category): grain category K+L 74 and grain category PA 62½. Dawmi: A517 20. Kretan—the Cretan or Crete: grain category B 60 and grain category PA 48. Phaistos: 3⅕.",
       "confidence": "CANDIDATE",
-      "notes": "Administrative grain account arranged under parallel entity or category headings. DA-ME is read damu 'blood', a ritual category heading grain allocations; its quantified use on HT95a/b and HT120 weighs against the later Aramaic dəmē 'value of', and dimtu 'district' is the other rival. DA-QE-RA has Akkadian and Ugaritic /dikāru/ 'bowl' as a Bronze Age comparison, although the written vowels differ. DA-U-*49 is read Dawmi, with *49=/mi/ here; possible logographic use of *49 elsewhere does not exclude that syllabic value. GORILA groups cross-line KI-RE-TA-NA, independently confirmed by three complete attestations. PA-I-TO securely names Phaistos. The tablet does not itself express direction, shipment or taxation.",
+      "notes": "Administrative grain account arranged under parallel entity or category headings. DA-ME is read damʿu, the sanctuary's share of the produce (Hebrew demaʿ, Exod 22:28), a due heading grain allocations; rivals damu 'blood', dimtu 'district' and the later Aramaic dəmē 'value of', which its quantified use on HT95a/b and HT120 weighs against. DA-QE-RA has Akkadian and Ugaritic /dikāru/ 'bowl' as a Bronze Age comparison, although the written vowels differ. DA-U-*49 is read Dawmi, with *49=/mi/ here; possible logographic use of *49 elsewhere does not exclude that syllabic value. GORILA groups cross-line KI-RE-TA-NA, independently confirmed by three complete attestations. PA-I-TO securely names Phaistos. The tablet does not itself express direction, shipment or taxation.",
       "source": {
         "di Mino": [
           "DA-QE-RA",
@@ -3121,8 +3119,8 @@
       "words": [
         {
           "linear_a": "A-DU",
-          "reading": "ʾAddu",
-          "gloss": "Addu/Haddu, initial heading; rival adû 'work assignment'",
+          "reading": "adû",
+          "gloss": "work assignment, ration (initial heading)",
           "confidence": "CANDIDATE"
         },
         {
@@ -3157,17 +3155,15 @@
           "note": "quantity lost (break)"
         }
       ],
-      "translation": "Addu [heading]. The queen's establishment: cyperus 4[...]; figs 4[...]; wine 1 + A706 (≈⅙?); flour/meal(?) [...].",
+      "translation": "Rations. The queen's establishment: cyperus 4[...]; figs 4[...]; wine 1 + A706 (≈⅙?); flour/meal(?) [...].",
       "confidence": "CANDIDATE",
-      "notes": "A-DU is an initial administrative heading, but its distribution does not establish Addu/Haddu over an entity, place, or transactional interpretation. SA-RA₂ is better treated as a recipient or institutional heading than as 'surplus'; 'queen/princess' or 'royal establishment' is the leading Semitic candidate. CYP is the cyperus logogram, not copper. Damage follows CYP 4 and NI 4; A706 is conventionally valued at approximately ⅙, and the final GRA+QE quantity is lost.",
+      "notes": "A-DU is the initial heading adû 'work assignment, ration', here over mixed foodstuffs (CAD A/1 135; Draffkorn 1959, 152–54). SA-RA₂ is better treated as a recipient or institutional heading than as 'surplus'; 'queen/princess' or 'royal establishment' is the leading Semitic candidate. CYP is the cyperus logogram, not copper. Damage follows CYP 4 and NI 4; A706 is conventionally valued at approximately ⅙, and the final GRA+QE quantity is lost.",
       "source": {
-        "Gordon 1966": [
-          "A-DU"
-        ],
         "Anastasiadou 2026; Hogan 2026": [
           "A-DU distribution and neutral administrative classification"
         ],
         "di Mino": [
+          "A-DU",
           "SA-RA₂",
           "NI",
           "GRA+QE"
@@ -4079,8 +4075,8 @@
         },
         {
           "linear_a": "SI-DI-JA 1[",
-          "reading": "Šadiya",
-          "gloss": "Šadiya: 1[…]",
+          "reading": "Šidiya",
+          "gloss": "Šidiya: 1[…]",
           "confidence": "PROBABLE",
           "note": "Probable personal name. Compare Ugaritic alphabetic śdy, annotated as a PN in šmbʿl bn śdy, and syllabic {m}ša-di-ia at Ugarit. The name comparison does not establish a derivation from Shaddai."
         },
@@ -4102,7 +4098,7 @@
           "gloss": "damaged quantities"
         }
       ],
-      "translation": "DA-NA-SI [heading]; *318 [administrative sign]. A-NA-[…]: 1; […] ½; Šadiya: 1[…]; mother(?) (U-*49): 1; PI[…]; […]62[…]; […]2[…].",
+      "translation": "DA-NA-SI [heading]; *318 [administrative sign]. A-NA-[…]: 1; […] ½; Šidiya: 1[…]; mother(?) (U-*49): 1; PI[…]; […]62[…]; […]2[…].",
       "confidence": "CANDIDATE",
       "status": "fragmentary",
       "notes": "GORILA I 217 and the photograph show that the right side and lower center are lost; this is a damaged account, not continuous prose. Only SI-DI-JA can presently be identified beyond its administrative role. The initial break before ]U-*49 prevents HT126a from supporting either a complete U-*49 word or the translation 'and palm/tree produce.'",
@@ -4117,6 +4113,9 @@
         ],
         "ORACC aemw/ugarit, P503354.14.2 (RS 15.0173, r. 2′)": [
           "syllabic PN Šadiya"
+        ],
+        "ORACC aemw/ugarit, P503766 (RS 19.0041, o 4, r 2)": [
+          "syllabic PN Šidiya, ši-di-ia"
         ]
       }
     },
@@ -4631,9 +4630,9 @@
         },
         {
           "linear_a": "SU-PA₃-RA",
-          "reading": "subāra",
-          "gloss": "pot",
-          "root": "√s-p-l",
+          "reading": "zubāra",
+          "gloss": "small bowl",
+          "root": "√z-b-r",
           "layer": 2,
           "confidence": "PROBABLE"
         },
@@ -4646,7 +4645,7 @@
           "confidence": "CANDIDATE"
         }
       ],
-      "translation": "Vessel inventory. [?]-TI-SA (unread), acquired (PU-KO): tripod cauldron (*410-VS) […]. […]5. Goblets (QA-PA₃): 10. Bowls (SU-PU): 10. Carafes (KA-RO-PA₃): 10. Set (SA-JA-MA): 30[…]. […] 10. KI-DE-MA-*323-NA[ (unread): […]. Cups (*402-VS): 400, three hundred-circles showing. Pots (SU-PA₃-RA, *402-VS): 300. Winecups (PA-TA-QE, *402-VS): 3000.",
+      "translation": "Vessel inventory. [?]-TI-SA (unread), acquired (PU-KO): tripod cauldron (*410-VS) […]. […]5. Goblets (QA-PA₃): 10. Bowls (SU-PU): 10. Carafes (KA-RO-PA₃): 10. Set (SA-JA-MA): 30[…]. […] 10. KI-DE-MA-*323-NA[ (unread): […]. Cups (*402-VS): 400, three hundred-circles showing. Small bowls (SU-PA₃-RA, *402-VS): 300. Winecups (PA-TA-QE, *402-VS): 3000.",
       "confidence": "PROBABLE",
       "notes": "Context: Vessel inventory—the \"virtual bilingual\" (Stieglitz 1971). Minoan vessel names written over pictograms for each vessel type. The most important tablet for Semitic vessel-name identification.\n\nGordon's HT 31 vessel quartet (§163), independently confirmed by Stieglitz (Kadmos 10, 1971) and Rendsburg (Ugaritic Dictionary, forthcoming). The five names written into vessel signs all have Semitic etymologies; PU-KO pūqū 'acquired' belongs to the heading, and the tripod cauldron *410-VS, very probably of bronze (Duhoux 2002, 39), stands unnamed. Ventris & Chadwick (1956, 323): \"the difference in language is obvious.\" Quantities suggest institutional storage: 3000, 300 and 400 of the conical *402 cup. Of the 400, three hundred-circles show; the fourth place falls in the break.\n\nDuhoux reads the tablet as the inventory of a vessel store like Magazine 15 of the Villa, where conical cups stood stacked in the hundreds; the small conical cups are over 87% of the preserved count, as at Kea (1,164 of 1,318). Every intact number is a multiple of ten, the vessels standing in fives or tens. The 5 that opens .2 follows the break; Duhoux gives it to a lost second entry (2002, 35–36). The Linear B parallel is MY Ue 611, twelve vessel names with their counts (Duhoux 2002, 50–51). He finds su-pu plausibly Semitic and takes the vessel names, if Semitic, for loans (Duhoux 2002, 56–59).",
       "source": {
@@ -4832,10 +4831,10 @@
         },
         {
           "linear_a": "A-DU",
-          "reading": "ʾAddu / adû",
-          "gloss": "Storm God or work-stint/account heading",
+          "reading": "ʾAddu",
+          "gloss": "Addu, recipient of the contribution",
           "confidence": "CANDIDATE",
-          "note": "A-DU occurs in 10 documents at three sites, regularly as an administrative heading. The spelling fits the Old Babylonian Amorite/Akkadian divine name Addu; alternatively, Akkadian adû means 'a (day's) work, stint.' The sequence may be homographic across different administrative contexts. Its position between TE and the commodities here slightly favors a named recipient such as Addu, but does not confirm the divine interpretation."
+          "note": "Between TE and the grain, the god Addu as recipient: see A-DU (HT92, HT133). The same spelling heads the personnel and ration lists as adû 'work assignment, ration' (see A-DU)."
         },
         {
           "linear_a": "GRA 680",
@@ -4852,8 +4851,8 @@
           "note": "A non-phonetic commodity ideogram occurring 42 times on 38 tablets, commonly beside GRA, OLE, OLIV, and related commodities. Its distribution permits an oil/fat product; Hebrew peder 'suet' supplies a semantic comparison, not a demonstrated spoken value. It is distinct from OLE and must not be translated 'olive oil.'"
         }
       ],
-      "translation": "[Contribution/account?] — Addu(?): grain 680; unidentified oil/fat commodity 12.",
-      "notes": "Context: Administrative allocation from Casa Room 7, Haghia Triada, LM IB; HT Scribe 2. The tablet is substantially intact and no written group is cut by an edge. SigLA records an erased GRA sign, which is not part of the surviving transliteration. TE marks the transaction or category; A-DU may name Addu or an administrative work-stint. GRA is secure, whereas *304 remains an unidentified oil/fat-register commodity. No particular measurement units can be inferred from the 680:12 ratio.",
+      "translation": "Contribution—Addu: grain 680; fat 12.",
+      "notes": "Context: Administrative allocation from Casa Room 7, Haghia Triada, LM IB; HT Scribe 2. The tablet is substantially intact and no written group is cut by an edge. SigLA records an erased GRA sign, which is not part of the surviving transliteration. TE marks the contribution and A-DU its recipient, the god Addu, homograph of the rations heading adû. GRA is secure, whereas *304 remains an unidentified oil/fat-register commodity. No particular measurement units can be inferred from the 680:12 ratio.",
       "source": {
         "di Mino": [
           "TE"
@@ -4867,7 +4866,7 @@
       "site": "Haghia Triada",
       "support": "Tablet",
       "genre": "administrative allocation",
-      "translation": "Additional/surplus(?) — transaction:\nKubbaya: grain 16\nBaal (PU-RA₂): grain 40; DI-oil 5\nSalt-works (SI+SE): grain 16; KI-oil 1; MI-oil 6; olives 3\nProvisions (PI-*34-TE): grain 5; KI-oil(?) 5; MI-oil 1; TU-qualified olive product 2\nSikinet (stewardess; cf. prefect/commissioner): grain 12; *304 commodity 12\nReeds (QA-NU-MA): grain 20; *304 commodity 3",
+      "translation": "Additional/surplus(?) — transaction:\nKubbaya: grain 16\nBaʿal (PU-RA₂): grain 40; DI-oil 5\nSalt-works (SI+SE): grain 16; KI-oil 1; MI-oil 6; olives 3\nProvisions (PI-*34-TE): grain 5; KI-oil(?) 5; MI-oil 1; TU-qualified olive product 2\nSikinet (stewardess; cf. prefect/commissioner): grain 12; *304 commodity 12\nReeds (QA-NU-MA): grain 20; *304 commodity 3",
       "notes": "Context: LM IB; Casa Room 9.",
       "source": {
         "scholarly_sources": {
@@ -5108,9 +5107,9 @@
         {
           "linear_a": "A-DU",
           "reading": "ʾAddu",
-          "gloss": "Storm God (Hadad/Baal)",
+          "gloss": "Storm God (Hadad/Baʿal)",
           "confidence": "CANDIDATE",
-          "note": "Divine heading. Addu = Hadad/Baal storm god, attested across Ugaritic, Amarna, and Akkadian sources. Rival: adû 'work assignment, stint'."
+          "note": "The god Addu as recipient of the contribution: see A-DU (HT92, HT133). Rival: adû 'work assignment, ration', the heading of the personnel and ration lists (see A-DU)."
         },
         {
           "linear_a": "TE",
@@ -5123,8 +5122,8 @@
           "linear_a": "GRA+DA",
           "reading": "GRA+DA",
           "reading_type": "LOGOGRAM",
-          "gloss": "grain (sub-type DA)",
-          "note": "Commodity logogram: grain with DA qualifier."
+          "gloss": "grain of the DA-ME share",
+          "note": "The grain sign carrying DA, the first sign of DA-ME, which follows the heading A-DU on HT 86a and HT 95b. One occurrence."
         },
         {
           "linear_a": "55",
@@ -5134,7 +5133,7 @@
           "note": "Quantity of grain allocated."
         }
       ],
-      "translation": "Storm God (Addu): sacred contribution — grain (sub-type) 55",
+      "translation": "Storm God (Addu): sacred contribution — grain of the DA-ME share 55",
       "confidence": "PROBABLE",
       "coverage": "100% (2/2 meaningful words known + logogram + numeral)",
       "notes": "Context: Storm god grain allocation — LM IB\n\nShort allocation tablet dedicating 55 units of grain as a sacred contribution (terûmā) under the Storm God heading. Compare HT92 (A-DU + GRA 680) for a parallel Addu grain allocation at much larger scale.",
@@ -5548,7 +5547,7 @@
           "gloss": "personal name, 'he shone forth' (causative of *wpʿ 'be brilliant', Huffmon 1965, 212; Heb. hôpîaʿ)",
           "root": "√w-p-ʿ",
           "confidence": "SPECULATIVE",
-          "notes": "Cf. JA-WA-? at Petras (PEZb7), third sign undecided: a different initial sign, not a second attestation."
+          "notes": "The name of JA-WA-PI Yawpiʿ at Petras (PE Zb 7), with ʾa- for ya-: a different initial sign, not a second attestation."
         },
         {
           "linear_a": "TE-SU-DE-SE-KE-I",
@@ -6216,24 +6215,26 @@
         {
           "linear_a": "A-DI",
           "reading": "ʿadi",
-          "gloss": "until",
+          "gloss": "unto; rival 'until'",
           "root": "√ʿ-d",
           "confidence": "SPECULATIVE",
           "note": "Opens register .2. Evans (PoM I 615 n. 1) reports a dividing mark after it, before DA; GORILA IV 121 does not print one."
         },
         {
           "linear_a": "DA-KI-TI-PA-KU",
-          "reading": "daqqati paku",
-          "gloss": "fine (powder), flask",
+          "reading": "Daqqiti paku",
+          "gloss": "Daqqitu (the goddess, genitive), flask; rival 'fine (powder)'",
           "root": "√d-q-q + pak",
           "confidence": "SPECULATIVE",
-          "note": "DA-KI-TI daqqati 'fine powder': ʿadi daqqati '(ground) until fine', the sanctuary incense qəṭōret sammîm daqqâ of Lev 16:12 and ʿad ʾăšer dāq of Exod 32:20, Deut 9:21. PA-KU 'flask' (CANDIDATE, see PA-KU / PU-KO). Alternative for DA-KI-TI: 'of Daqqatu', Ugaritic dqt, DN 'the Little One'."
+          "note": "DA-KI-TI Daqqiti, the genitive of Daqqitu: the goddess of the Ugarit rituals (KTU 1.39:15–16; Pardee 2000, 976), ᵈda-ki-tu₄ in the Hittite offering lists; DA- beside the DI- of JA-DI-KI-TU as TA-NA-TI beside TI-NI-TA. PA-KU 'flask' (CANDIDATE, see PA-KU / PU-KO). Rival for DA-KI-TI: daqqati 'fine powder', ʿadi daqqati '(ground) until fine', the sanctuary incense qəṭōret sammîm daqqâ of Lev 16:12 and ʿad ʾăšer dāq of Exod 32:20, Deut 9:21."
         },
         {
           "linear_a": "NI-JA-NU",
-          "reading": null,
-          "gloss": "NI dotted in one of GORILA's two transcriptions (IV 121). Not readable.",
-          "confidence": null
+          "reading": "niyāḥ-nu",
+          "root": "√n-w-ḥ",
+          "gloss": "our soothing (offering); rivals a personal name, 'figs, wine'",
+          "confidence": "SPECULATIVE",
+          "note": "A word of its own between two dividers; NI dotted in one of GORILA's two transcriptions (IV 121). The incense as a soothing offering, Hebrew rêaḥ nîḥōaḥ (Lev 1:13); the noun with y is Aramaic nyḥʾ 'rest' (Targum Jonathan, 1 Kgs 8:56); -nu 'our'."
         },
         {
           "linear_a": "JU-KU-NA-PA-KU-NU-U-[?]-I-ZU",
@@ -6243,10 +6244,10 @@
           "note": "KN Zc 6 .3 JU-KU-NA-PA-KU-NỤ-[ ]-I-ZU ·, NU dotted, the seventh sign partly kept at the edge of an abrasion (U possible), the eighth not identifiable. The continuous transcription prints NỤ-[· ·]-I-ZU (GORILA IV 120–121)."
         }
       ],
-      "translation": "My incense: until fine, flask. NI-JA-NU. JU-KU-NA-PA-KU-NU-U-[?]-I-ZU.",
+      "translation": "My incense, unto Daqqitu: a flask. Our soothing offering. JU-KU-NA-PA-KU-NU-U-[?]-I-ZU.",
       "confidence": "SPECULATIVE",
       "status": "incomplete",
-      "notes": "Ink-written clay cup (HM 2630), pair of KN Zc 7, from an upper MM III floor above the Basement of the Monolithic Pillars, Knossos, the crypt of a sanctuary (Evans, PoM I 587–588, 613–616). Three circular registers read as a spiral from the bottom. Register .1 QI-TI-RI heads the text, register .2 gives the incense as ground fine (A-DI DA-KI-TI, Hebrew qəṭōret … daqqâ, Lev 16:12) and the flask (PA-KU). NI-JA-NU is unread. Register .3, one group with a sign lost, is unread. Word division follows Evans (PoM I 615 n. 1), who reports dividing marks before A, DA and NI; GORILA IV 121 prints only the last. Younger reads A-DI-DA-KI-TI-PA-KU as a muddled A-DI-KI-TE. Marinatos set the two cups beside the inverted bowls of Nippur, inked with Aramaic incantations against evil spirits (Marinatos 1951, 41); Franceschetti adds the spiral script those bowls share and the Keftiu spells of the London Medical Papyrus (Franceschetti 1990, 40–41).",
+      "notes": "Ink-written clay cup (HM 2630), pair of KN Zc 7, from an upper MM III floor above the Basement of the Monolithic Pillars, Knossos, the crypt of a sanctuary (Evans, PoM I 587–588, 613–616). Three circular registers read as a spiral from the bottom. Register .1 QI-TI-RI heads the text, register .2 names the goddess it is brought to (A-DI DA-KI-TI, 'unto Daqqitu'; rival 'until fine', Hebrew qəṭōret … daqqâ, Lev 16:12) and the flask (PA-KU), as the paired cup KN Zc 7 names its bowl, its dove and Athirat. NI-JA-NU, between dividers, is niyāḥ-nu 'our soothing (offering)'. Register .3, one group with a sign lost, is unread. Word division follows Evans (PoM I 615 n. 1), who reports dividing marks before A, DA and NI; GORILA IV 121 prints only the last. Younger reads A-DI-DA-KI-TI-PA-KU as a muddled A-DI-KI-TE. Marinatos set the two cups beside the inverted bowls of Nippur, inked with Aramaic incantations against evil spirits (Marinatos 1951, 41); Franceschetti adds the spiral script those bowls share and the Keftiu spells of the London Medical Papyrus (Franceschetti 1990, 40–41).",
       "source": {
         "scholarly_sources": {
           "di Mino": [
@@ -10738,7 +10739,7 @@
         {
           "linear_a": "*307+*307-GRA+QE",
           "reading": null,
-          "gloss": "doubled *307 with grain+QE, 44 ½ over an erased 20",
+          "gloss": "the sanctuaries (*307 doubled) with grain+QE, 44 ½ over an erased 20",
           "confidence": null
         },
         {
@@ -10748,7 +10749,7 @@
           "confidence": "SPECULATIVE"
         }
       ],
-      "translation": "The Idaean: *307+*307, grain+QE 44½. He of the Lord 7½.",
+      "translation": "The Idaean: the sanctuaries, grain+QE 44½. He of the Lord 7½.",
       "confidence": "SPECULATIVE",
       "notes": "JE-DI heads the account; DU-ZU-WA's 7 ½ stands on .3 over an erasure, one unit dotted, and a 6 is erased below (GORILA I 69).",
       "source": {
@@ -10799,8 +10800,8 @@
         },
         {
           "linear_a": "PU-RA₂",
-          "reading": "Bōlu",
-          "meaning": "Baal (Lord)"
+          "reading": "Bōl",
+          "meaning": "Baʿal (Lord)"
         },
         {
           "linear_a": "JA-HA",
@@ -10813,7 +10814,7 @@
           "meaning": "our Beloved (PN, widd 'love')"
         }
       ],
-      "translation": "Fine-flour (account), Ummī-naśiʾ: for the queen/royal establishment—grain 20, honey-oil 5, figs 2, wine 4. Baal—figs 6. Yāh—wine 6. Widdinā—honey-oil 3, wine 3¼",
+      "translation": "Fine-flour (account), Ummī-naśiʾ: for the queen/royal establishment—grain 20, honey-oil 5, figs 2, wine 4. Baʿal—figs 6. Yāh—wine 6. Widdinā—honey-oil 3, wine 3¼",
       "confidence": "CANDIDATE",
       "status": "complete",
       "notes": "Verso of HT28a/b. A-SI-JA-KA and U-MI-NA-SI form the account heading. The principal allocation is assigned to SA-RA₂, read as a royal recipient or establishment rather than 'remainder,' followed by three named sub-recipients: PU-RA₂, JA-HA, and WI-DI-NA. JA-HA is attested on both sides; its proposed relation to Yāh remains SPECULATIVE. HT28a shares the A-SI-JA-KA heading.",
@@ -11640,11 +11641,25 @@
       "support": "Papyrus (BM 10059)",
       "words": [
         {
+          "linear_a": "WBQY",
+          "reading": "wa-baqq-",
+          "gloss": "rot (the disease addressed)",
+          "confidence": "SPECULATIVE",
+          "note": "w-[b]-q with the disease classifier. baqq- 'rot', *bVḳ-, after w-. Rivals: baqq- 'gnat'; Akk. epqu 'leprosy' (CAD E 246); Heb. bōhaq (Lev 13:39). Steiner leaves it unread (Steiner 1992, 198)."
+        },
+        {
+          "linear_a": "S3T",
+          "reading": "śṭ-",
+          "gloss": "turn aside!",
+          "confidence": "SPECULATIVE",
+          "note": "s-t, the t written with the Egyptian word 'bread' for its sound (Kyriakidis 2002, 213 n. 15). √ś-ṭ-y, Heb. śṭh 'to deviate, turn aside' (HALOT 1316). Rivals: šīt 'set!'; Heb. śĕʾēt (Lev 13:2)."
+        },
+        {
           "linear_a": "S3-BW",
-          "reading": "sabbū",
-          "gloss": "turn away! (2mp imperative)",
+          "reading": "ṯūb-",
+          "gloss": "turn back!",
           "confidence": "CANDIDATE",
-          "note": "Group-writing: s3bw [first half of element 6]. √s-b-b 'to turn, go around' — 2mp imperative *sabbū addressing disease demons (plural). Heb sābab (~163 occ., HALOT 738), 2mp imper. sōbbū (Ps 48:13 סֹבּוּ צִיּוֹן 'Go round Zion'). The s in s3bw is plain /s/, not /ṣ/: the same scribe renders Semitic ṣ as Egyptian ḏ in the adjacent word yaṣʾā (y3yd33). Geminate -bb- invisible in group-writing (standard). D54 determinative is embedded in the phonogram ḏi of word 2 (Kyriakidis 2002, n. 16), not a freestanding classifier per word. Disease-expulsion doublet sabbū yaṣʾā 'Turn away! Go out!' parallels Akkadian serial motion imperatives in Udug.hul. Akulov reads the entire element as one word sa-bu-ja-ja-dza with root reduplication (Hattic analysis); our NWS parse splits it into two standard Semitic motion verbs. The sibilant correspondence excludes √ṣ-b-ʾ."
+          "note": "s-bu-ʾa. Egyptian s writes Semitic ṯ (Hoch 1994, 410 n. 44): √ṯ-w-b, Ug. /ṯ-b/ 'to return, turn round, go back' (DULAT 882–83). Rival: √s-b-b 'turn', whose samekh Egyptian writes with ṯ (Hoch 1994, 408). Weak point: the final ʾa."
         },
         {
           "linear_a": "Y3-Y-D33",
@@ -11668,55 +11683,59 @@
           "note": "Group-writing: rp33y [element 8, Det: A40 'seated god' (male)]. √r-p-ʾ 'to heal' + 1cs possessive -ī = 'my healer.' Pan-Semitic: Ug rpʾu divine title (KTU 1.108:1 rpʾu mlk ʿlm 'the Healer, eternal king'; KTU 1.20–22 rpʾīm/Rephaim ancestral healer-spirits), Heb rāpāʾ (Exod 15:26 kī ʾanī YHWH rōpʾekā 'for I am YHWH your healer'; Ps 103:3 hā-rōpēʾ ləkol-taḥăluʾāyəkī 'who heals all your diseases'), Phoen mrpʾ month name (KAI 37:3, 'healing month'), Aram rpʾ. The A40 determinative confirms divine status. STEINER'S READING: Steiner 1992 reads r-p-y = rpʾy 'my Healer.' A Keftiu deity Rpʾī invoked against disease is semantically transparent and parallels the Ugaritic Rapʾu cult. Akulov reads Erupa-j and connects to Greek Europa via Hattic *lup 'bull' — our reading and his share the same consonantal skeleton but diverge on etymology."
         },
         {
-          "linear_a": "P33-W-RY",
-          "reading": "paʿūrī",
-          "gloss": "I cry out! / my invocation",
-          "confidence": "CANDIDATE",
-          "note": "Group-writing: p33wry [element 9, Det: A2 'to speak/think']. √p-ʿ-r 'to open wide (the mouth)' + 1cs suffix -ī = 'my opening (of the mouth),' i.e. 'my cry / my invocation.' Heb pāʿar 'to open wide' (Isa 5:14 ūpāʿărāh pīhā 'and opened wide its mouth'; Ps 119:131 pī pāʿartī 'I opened my mouth wide'), Ar faġara 'to open the mouth' (with regular ʿ→ġ). The A2 'to speak' determinative fits an oral invocation verb. Form *paʿūr-ī: verbal noun (qatūl pattern) + possessive = 'my crying out.' Alternative: √p-ʾ-r 'to glorify' (Heb pāʾar, Isa 60:7) — 'my glorification,' less compelling with speech determinative. Structurally sits between the two deity names (rpʾī and Mayyā), functioning as the invocation bridge: 'My Healer — I cry out to — Mayyā.'"
+          "linear_a": "P3-WR",
+          "reading": "pꜣ wr",
+          "gloss": "the Great One (Egyptian)",
+          "confidence": "PROBABLE",
+          "note": "Egyptian pꜣ wr, the article and wr 'great one', written as Egyptian words between the divine names r-p-y and ʾ-m-ʾa: 'the Great One' (Steiner 1992, 198), 'the great god', the epithet of the god named before it (Haider 2001, 480). Rival: Kyriakidis takes wr for its sound, p(a,i)-'ur (Kyriakidis 2002, 213 n. 19)."
         },
         {
           "linear_a": "M'-Y3",
-          "reading": "Mayyā",
-          "gloss": "O Mayyā! (deity: deified Water)",
-          "confidence": "CANDIDATE",
-          "note": "Group-writing: m'y3 [element 10, Det: A40 'seated god' (male)]. Deity name — deified Water. √m-y-y 'water': Heb mayim (dual form, base *may-/*mayy-), Ug my, Akk mû, Ar māʾ. A deity *Mayyā 'Water' invoked alongside *Rpʾī 'my Healer' in a disease spell: the Healer cures, the Water purifies. The Egyptian instructions prescribe reciting the spell 'over liquid, fermented drink, urine' — all water-based media, because the spell invokes the water deity. The A40 determinative marks male gender — either the Egyptian scribe's default for foreign deities, or Mayyā was male in Keftiu religion and later feminized as Greek Μαῖα (Maia, Pleiad, mother of Hermes). Akulov connects to Pleiades' heliacal rising (navigation season marker). Alternative: substrate theonym without transparent Semitic etymology."
+          "reading": "ʾimmā",
+          "gloss": "Mother! (divine title)",
+          "confidence": "SPECULATIVE",
+          "note": "ʾ-m-ʾa with the god classifier. ʾimmā 'Mother', Ug. um (DULAT 67–68), with the Aramaic emphatic -ā; Spell 27 names 'our Lord' and then Ištar-ummī 'my mother Ištar' (Steiner 1992, 193 and n. 20). Rivals: Haider's Ameja (Haider 2001, 480); Mayyā 'Water', which drops the first group."
         }
       ],
-      "translation": "Turn away! Go out, strangling-demon! My Healer — I cry out to Mayyā!",
+      "translation": "Rot! Turn aside! Turn back! Go out, strangling-demon! My Healer, the Great One! Mother!",
       "confidence": "CANDIDATE",
-      "notes": "Context: Keftiu medical incantation against samānu disease (mycetoma/ergotism). London Medical Papyrus lines ~11,8–12. Recorded in Egyptian group-writing (syllabic orthography), not Linear A script. Six Keftiu words (five written elements, one containing two words) with Egyptian determinatives marking word boundaries and grammatical classes. Copied late 18th Dynasty, 14th century BCE (Steiner 1992, n. 5). The spell is preceded by the Egyptian frame: 'A spell about samānu illness [that] spreads through grain and soil:' and followed by the instruction 'this spell to be said 4 times.' Cf. Steiner 1992 (JNES 51) who reads spells #27–31 and #33 as NWS but skips #32 as 'non-Semitic.' Akulov 2023 provides the most detailed modern transliteration; Akulov reads through Hattic, we read through NWS.\n\nEXTERNAL SOURCE: Not Linear A script. Keftiu language recorded in Egyptian group-writing (syllabic orthography) in the London Medical Papyrus (BM 10059), 14th century BCE. STRUCTURE: Double imperative (disease expulsion) + vocative demon name + deity invocation + invocation verb + deity invocation. Classic ANE incantation formula: (1) command disease to depart, (2) name the demon (= power over it), (3) invoke protective deities. STEINER 1992 CONTEXT: Steiner (JNES 51) reads all surrounding spells (#27–31, #33) as NWS (Phoenician-Aramaic mix) but explicitly skips #32 as 'non-Semitic.' DEITY PAIRING: rpʾī (Healer) + Mayyā (Water) = cure + purification. The Ugaritic Rapʾu cult (KTU 1.108) and the water-based ritual instructions ('recite over liquid') confirm both elements. Sources: Akulov 2017/2023 (transliteration, Hattic reading), Steiner 1992 (NWS partial reading), Kyriakidis 2002 (phonological analysis), Wreszinski 1912 (editio princeps), Haider 2001 (initial identification of Keftiu deities).",
+      "notes": "Context: Keftiu medical incantation against samānu disease (mycetoma/ergotism). London Medical Papyrus lines ~11,8–12. Recorded in Egyptian group-writing (syllabic orthography), not Linear A script. Seven foreign words with Egyptian determinatives, and the Egyptian epithet pꜣ wr 'the Great One' between the two divine names. Copied late 18th Dynasty, 14th century BCE (Steiner 1992, n. 5). The heading is Egyptian, 'Incantation of the samānu-disease', and the spell is followed by the instruction 'this spell to be said 4 times.' Cf. Steiner 1992 (JNES 51) who reads spells #27–31 and #33 as NWS but skips #32 as 'non-Semitic.' Davis 2026b (83–84 n. 327) agrees: Steiner's NWS interpretation is 'convincing', and the first theonym reads ra-[pa/pi]-ja, rpʾī, with Albright, against Haider's ra-za-ja. He denies #33 to the Keftiu, since its title does not name them. Akulov 2023 provides the most detailed modern transliteration; Akulov reads through Hattic, we read through NWS.\n\nEXTERNAL SOURCE: Not Linear A script. Keftiu language recorded in Egyptian group-writing (syllabic orthography) in the London Medical Papyrus (BM 10059), 14th century BCE. STRUCTURE: Disease addressed + two imperatives (turn aside, turn back) + 'go out' + demon name + deity invocation + Egyptian epithet 'the Great One' + deity invocation. Classic ANE incantation formula: (1) command disease to depart, (2) name the demon (= power over it), (3) invoke protective deities. STEINER 1992 CONTEXT: Steiner (JNES 51) reads all surrounding spells (#27–31, #33) as NWS (Phoenician-Aramaic mix) but explicitly skips #32 as 'non-Semitic.' DEITY PAIRING: rpʾī (Healer), the Great One, + ʾimmā (Mother), as Spell 27 pairs 'our Lord' with Ištar-ummī 'my mother Ištar' (Steiner 1992, 193). Sources: Akulov 2017/2023 (transliteration, Hattic reading), Steiner 1992 (NWS partial reading), Kyriakidis 2002 (phonological analysis), Wreszinski 1912 (editio princeps), Haider 2001 (initial identification of Keftiu deities).",
       "source": {
         "di Mino": [
+          "WBQY",
+          "S3T",
           "S3-BW",
           "Y3-Y-D33",
           "HW-N-M'-K3-TW",
           "RP-33-Y",
-          "P33-W-RY",
           "M'-Y3"
         ],
         "Steiner 1992": [
           "Y3-Y-D33",
           "HW-N-M'-K3-TW",
-          "RP-33-Y"
+          "RP-33-Y",
+          "P3-WR"
         ],
         "Akulov 2017/2023": [
           "S3-BW",
           "Y3-Y-D33",
           "HW-N-M'-K3-TW",
           "RP-33-Y",
-          "P33-W-RY",
           "M'-Y3"
         ],
         "Kyriakidis 2002": [
           "RP-33-Y",
           "M'-Y3"
         ],
+        "Haider 2001": [
+          "P3-WR"
+        ],
         "Wreszinski 1912": [
           "S3-BW",
           "Y3-Y-D33",
           "HW-N-M'-K3-TW",
           "RP-33-Y",
-          "P33-W-RY",
+          "P3-WR",
           "M'-Y3"
         ]
       }
@@ -12256,7 +12275,7 @@
     },
     "POZc1": {
       "site": "Poros Herakleiou",
-      "support": "Inked inscription (clay vessel)",
+      "support": "Inked inscription (clay statuette)",
       "genre": "votive dedication",
       "period": "LM IIIA",
       "words": [
@@ -13064,20 +13083,20 @@
       "words": [
         {
           "linear_a": "A-NA-NU",
-          "reading": "ʿanānu",
-          "gloss": "personal name ʿAnānu (√ʿ-n-n)",
+          "reading": "Ḥanānu",
+          "gloss": "personal name Ḥanānu 'gracious' (√ḥ-n-n); rival ʿAnānu 'cloud'",
           "confidence": "SPECULATIVE",
-          "note": "PN ʿAnānu, √ʿ-n-n (Heb. עָנָן ʿānān 'cloud,' PS #1724 *ʿanan-; cf. the biblical PN ʿĀnān, Neh 10:27). On a painted pithos, an owner/recipient name; the substantive 'cloud' reading is the etymology, not the function. Segmented from -SI-JA-SE."
+          "note": "PN Ḥanānu, √ḥ-n-n, Ugarit ḥnn, ḫa-na-(an-)nu (DULAT 361). Rival: ʿAnānu, √ʿ-n-n (Heb. עָנָן ʿānān 'cloud,' PS #1724 *ʿanan-; cf. the biblical PN ʿĀnān, Neh 10:27). On a painted pithos, an owner/recipient name; the substantive 'cloud' reading is the etymology, not the function. Segmented from -SI-JA-SE."
         },
         {
           "linear_a": "SI-JA-SE",
           "reading": "šī-yāṣē",
-          "gloss": "adjectival formation (vessel label): 'of ʿAnānu, ʿAnānu's-ware'; alt. šī-yāṣē 'which goes out'",
+          "gloss": "adjectival formation (vessel label): 'of Ḥanānu, Ḥanānu's-ware'; alt. šī-yāṣē 'which goes out'",
           "confidence": "CANDIDATE",
-          "note": "-SI-JA-SE, the vessel-label adjectival formation—same ending on KI-TA-NA-SI-JA-SE (PEZb3), the only other attestation. Alt.: šī + yāṣē (3ms impf. √y-ṣ-ʾ), disbursement clause 'ʿAnānu('s)—which goes out.'"
+          "note": "-SI-JA-SE, the vessel-label adjectival formation—same ending on KI-TA-NA-SI-JA-SE (PEZb3), the only other attestation. Alt.: šī + yāṣē (3ms impf. √y-ṣ-ʾ), disbursement clause 'Ḥanānu('s)—which goes out.'"
         }
       ],
-      "translation": "Of ʿAnānu (vessel label; alt.: ʿAnānu—which goes out)",
+      "translation": "Of Ḥanānu (vessel label; alt.: Ḥanānu—which goes out)",
       "confidence": "SPECULATIVE",
       "notes": "Context: Painted pithos label, LMIB. Single continuous sign sequence, no word dividers.\n\nPithos disbursement label. The -SI-JA-SE suffix recurs on KI-TA-NA-SI-JA-SE (PEZb3), establishing it as a productive administrative formula on commodity nouns.",
       "source": "GORILA"
@@ -13315,7 +13334,7 @@
           "reading": "ʿAnatī nawaya",
           "gloss": "my Anat, my abode",
           "confidence": "CANDIDATE",
-          "note": "Six signs survive between broken edges, with no divider within (GORILA V 31); sign-groups likely stood to either side. Read as two words, A-NA-TI + NA-WA-JA (*301 = NA), as IO Za 6 runs I-NA-TA-I-ZU-DI-SI-KA undivided. A-NA-TI ʿAnatī 'my Anat': Ugaritic ʿnt, Baal's sister (DULAT 167–168; semitic_roots 2771), the initial ʿ unwritten and TI writing t with the 1cs -ī; IO Za 6, from the same sanctuary, spells her I-NA-TA-I ʿInatī. NA-WA-JA nawaya 'my abode': nāweh 'pasture, dwelling place' (HALOT 678; semitic_roots 3654) with the 1cs -ya, spelled with the -*301-WA-JA of the formula verb A-TA-I-*301-WA-JA 'I make myself a dwelling' on IO Za 2, 3 and 7 (di Mino, Ya Diktu). Hebrew names the deity so: YHWH nəwēh-ṣedeq 'YHWH, abode of righteousness' (Jer 50:7), and nəwēh qodšekā 'your holy abode' (Exod 15:13). A is dotted at the break, so A-NA-TI may close a longer word."
+          "note": "Six signs survive between broken edges, with no divider within (GORILA V 31); sign-groups likely stood to either side. Read as two words, A-NA-TI + NA-WA-JA (*301 = NA), as IO Za 6 runs I-NA-TA-I-ZU-DI-SI-KA undivided. A-NA-TI ʿAnatī 'my Anat': Ugaritic ʿnt, Baʿal's sister (DULAT 167–168; semitic_roots 2771), the initial ʿ unwritten and TI writing t with the 1cs -ī; IO Za 6, from the same sanctuary, spells her I-NA-TA-I ʿInatī. NA-WA-JA nawaya 'my abode': nāweh 'pasture, dwelling place' (HALOT 678; semitic_roots 3654) with the 1cs -ya, spelled with the -*301-WA-JA of the formula verb A-TA-I-*301-WA-JA 'I make myself a dwelling' on IO Za 2, 3 and 7 (di Mino, Ya Diktu). Hebrew names the deity so: YHWH nəwēh-ṣedeq 'YHWH, abode of righteousness' (Jer 50:7), and nəwēh qodšekā 'your holy abode' (Exod 15:13). A is dotted at the break, so A-NA-TI may close a longer word."
         }
       ],
       "translation": "[…] my Anat, my abode […]",
@@ -13494,7 +13513,7 @@
         },
         {
           "linear_a": "PA-SA-RI-JA",
-          "reading": "Baṣariya",
+          "reading": "Baṣriya",
           "gloss": "the Baṣirean, gentilic of Baṣīru, a town of Ugarit: second section heading",
           "confidence": "SPECULATIVE",
           "note": "Heads the second section as KU-PA₃-RI-JA Kubariya heads the first. Ugaritic bṣr, gentilic bṣry (DULAT 240); both towns stand in the same Ugarit lists (RGTC 12/2, 53)."
@@ -13784,7 +13803,7 @@
       ],
       "translation": "ʾAriš-ān (The Requested One)",
       "confidence": "CANDIDATE",
-      "notes": "Single-word owner/dedicant inscription on clay vessel from Akrotiri. The pan-Semitic votive naming motif—a child asked of the deity (Akkadian Erišti-Aya, Hebrew Šāʾûl, Hannah's Samuel etymology 1 Sam 1:20)—in the ʾrš lexeme; Amorite ARIŠ-AN (Gelb no. 2190) and Safaitic ʾršn carry the identical formation. Companion to THEZb6 ʾatanāya: both Thera vessels carry devotional single words.",
+      "notes": "Single-word owner/dedicant inscription on clay vessel from Akrotiri. The pan-Semitic votive naming motif—a child asked of the deity (Akkadian Erišti-Aya, Hebrew Šāʾûl, Hannah's Samuel etymology 1 Sam 1:20)—in the ʾrš lexeme; Punic ʾRŠ, *ʾariš (Benz 1972, 276), Ugarit ỉršn (KTU 4.77:17) and Arabian ʾršn carry the same root; rival Ḥarišān 'craftsman' (Huffmon 1965, 205). Companion to THEZb6 ʾatanāya: both Thera vessels carry devotional single words.",
       "source": "di Mino"
     },
     "TELZb1": {
@@ -14401,9 +14420,10 @@
         },
         {
           "linear_a": "TA-I-AROM",
-          "reading": null,
-          "meaning": "roster entry written with the aromatics ligature (unread)",
-          "note": "Person slot on HT9a/HT9b/HT39; also carries AROM."
+          "reading": "Taḫe",
+          "meaning": "Taḫe 'Man' (Hurrian personal name)",
+          "confidence": "CANDIDATE",
+          "note": "ta-ḫi, ḫ unwritten as in A-RU Ḫaru; written with *123, the aromatics sign, on HT 9a, HT 9b and HT 39."
         },
         {
           "linear_a": "DI-NA-U",
@@ -14418,7 +14438,7 @@
           "confidence": "CONFIRMED"
         }
       ],
-      "translation": "PA₃ · WA-JA-PI[…]. Likewise: Padī 3, A-SI 3, ʿAttu 8, the waitress 2, the official 2, TA-I-AROM 2, Dīnāyu 4. Total 24.",
+      "translation": "PA₃ · WA-JA-PI[…]. Likewise: Padī 3, A-SI 3, ʿAttu 8, the waitress 2, the official 2, Taḫe 2, Dīnāyu 4. Total 24.",
       "confidence": "SPECULATIVE",
       "status": "incomplete",
       "notes": "Verso of HT9a: the same roster with smaller amounts, under a ruled heading. The second entry is A-SI; Younger allows A-RU, the HT9a name, which the image does not favour. KA-*305 ka-ḏā 'likewise' heads the repeated roster. Arithmetic exact: 3+3+8+2+2+2+4 = 24.",
@@ -14479,9 +14499,10 @@
         },
         {
           "linear_a": "TA-I-AROM",
-          "reading": null,
-          "meaning": "roster entry written with the aromatics ligature (unread)",
-          "note": "Person slot on HT9a/HT9b/HT39; also carries AROM."
+          "reading": "Taḫe",
+          "meaning": "Taḫe 'Man' (Hurrian personal name)",
+          "confidence": "CANDIDATE",
+          "note": "ta-ḫi, ḫ unwritten as in A-RU Ḫaru; written with *123, the aromatics sign, on HT 9a, HT 9b and HT 39."
         },
         {
           "linear_a": "A-RU",
@@ -14496,7 +14517,7 @@
           "confidence": "CONFIRMED"
         }
       ],
-      "translation": "Royal allocation—contribution—wine: Padī 5¾; ʿAttu 10; Dīnāyu 4; the official 2; the waitress 2½; TA-I-AROM 2½; Ḫaru 4¼. Total 31¾.",
+      "translation": "Royal allocation—contribution—wine: Padī 5¾; ʿAttu 10; Dīnāyu 4; the official 2; the waitress 2½; Taḫe 2½; Ḫaru 4¼. Total 31¾.",
       "confidence": "CANDIDATE",
       "status": "complete",
       "notes": "Recto of HT9a/b. Entries sum to 31 against KU-RO 31¾: residual −¾ (J+E), probably a scribal omission. HT9b presents a closely corresponding roster under the untranslated heading KA-*305.",
@@ -14508,21 +14529,22 @@
       "words": [
         {
           "linear_a": "A-DU",
-          "reading": "ʾAddu",
-          "meaning": "Storm god; rival adû 'work assignment'",
+          "reading": "adû",
+          "meaning": "work assignment (heading); rival Addu's sanctuary (see A-DU *307+*307)",
           "confidence": "CANDIDATE"
         },
         {
           "linear_a": "*307+*307",
           "reading": null,
-          "meaning": "sanctuary (doubled *307, A 638)",
-          "confidence": "PROBABLE",
-          "note": "VIR+*307 'sanctuary personnel' is CONFIRMED at Khania; *307 alone may be a classifier."
+          "meaning": "the sanctuaries (*307 doubled, A 638)",
+          "confidence": "CANDIDATE",
+          "note": "*307 dubur 'sanctuary' written twice as a plural; the doubled sign heads HT 97a too. See *307+*307."
         },
         {
           "linear_a": "VIR+[?]",
           "reading": null,
-          "meaning": "men (personnel logogram)"
+          "meaning": "men (personnel logogram)",
+          "confidence": "PROBABLE"
         },
         {
           "linear_a": "DA-RI-DA",
@@ -14534,13 +14556,13 @@
         {
           "linear_a": "PA₃-NI",
           "reading": "bānī",
-          "meaning": "builder(s)",
+          "meaning": "builders",
           "confidence": "CANDIDATE"
         },
         {
           "linear_a": "U-*325-ZA",
           "reading": "ʾubūs",
-          "meaning": "stall or storehouse (PS *ʾabūs-), a standing unit like DA-RE",
+          "meaning": "the storehouse (PS *ʾabūs-), a standing unit like DA-RE",
           "confidence": "CANDIDATE",
           "note": "Preferred analysis takes *325 as /bu/ and compares PS *ʾabūs-; the administrative distribution supports a standing facility or unit."
         },
@@ -14567,7 +14589,7 @@
         {
           "linear_a": "DA-RE",
           "reading": "dār",
-          "meaning": "estate, household",
+          "meaning": "the estate, household",
           "confidence": "CANDIDATE"
         },
         {
@@ -14577,10 +14599,10 @@
           "confidence": "CONFIRMED"
         }
       ],
-      "translation": "Addu—sanctuary(?)—personnel: Dardaʿ 12; builders(?) 12; stall/storehouse 6; those of Acacia 24; Kuṯinu 5; Tegi 3; the estate 4. Total 66.",
+      "translation": "Work assignment · the sanctuaries · men: Dardaʿ 12; builders 12; the storehouse 6; those of Acacia 24; Kuṯinu 5; Tegi 3; the estate 4. Total 66.",
       "confidence": "CANDIDATE",
       "status": "complete",
-      "notes": "Personnel roster associated with Addu; *307+*307 (A 638, *307 written twice; GORILA I 131) may denote a sanctuary, but that interpretation remains provisional. Arithmetic exact: 12+12+6+24+5+3+4 = 66. PA₃-NI plausibly denotes builders; the remaining labels need not be personal names.",
+      "notes": "A roster of 66 men under A-DU · the doubled *307 · VIR, the heading of HT 97a (KA-RU · *307+*307 · VIR+KA 82); A-DU heads men again on HT 88 (VIR+KA 20). The seven entries sum exactly: 12+12+6+24+5+3+4 = 66. Hand 9 wrote this tablet and HT 122, found with it in room 7 of the Casa del Lebete; the two share DA-RI-DA, DA-SI-*118, DA-RE and TE-KE/TE-KI, and HT 122's KU-DA 1 with KU-RO 65 makes the same 66 (Montecchi 2010, 22). KU-ZU-NI, TE-KI and DA-SI-*118 stand together on HT 13, and DA-RE, U-*325-ZA and DA-RI-DA on HT 10a: standing units, drawn on for men, wine and emmer. Ugarit closes its rosters the same way: tgmr bnš mlk 'sum total of the men of the king' (KTU 4.141 II 25; DULAT 848–849). On .5 the DA of DA-RE is dotted; KU-RO[ is broken after RO, and a seventh stroke on .6 is a nail mark (GORILA I 130–31). Rival for A-DU: a place or person that sends and receives men and grain (Montecchi 2008, 319).",
       "source": "GORILA"
     },
     "HT85b": {
@@ -14682,8 +14704,8 @@
         },
         {
           "linear_a": "U-DE-ZA",
-          "reading": "Ḥudaṯu",
-          "meaning": "personal name, 2 (cf. A-RA-JU-U-DE-ZA, HT122b)",
+          "reading": "Ḥudeṯ",
+          "meaning": "personal name, 'New Moon', 2 (cf. A-RA-JU-U-DE-ZA, HT122b)",
           "confidence": "CANDIDATE"
         },
         {
@@ -14784,7 +14806,7 @@
           "confidence": "SPECULATIVE"
         }
       ],
-      "translation": "[…]RA-RI: Ḥudaṯu 2[…]; […] 2; those of Acacia 2. PA-[…]: […]DI 1; Tegi 2; Qaynī 3; Yamidare 1; Siddāri 1; the waitress 1; Padī 1; Kubānu 1; Patne 1; ʿAttu 1[…]; […]DU 1; Kubānu 1; Dardaʿ 1. Total 31. Gūda 1.",
+      "translation": "[…]RA-RI: Ḥudeṯ 2[…]; […] 2; those of Acacia 2. PA-[…]: […]DI 1; Tegi 2; Qaynī 3; Yamidare 1; Siddāri 1; the waitress 1; Padī 1; Kubānu 1; Patne 1; ʿAttu 1[…]; […]DU 1; Kubānu 1; Dardaʿ 1. Total 31. Gūda 1.",
       "confidence": "CANDIDATE",
       "status": "complete",
       "notes": "Personnel roster, mostly 1 per entry. Visible entries sum to 22 against KU-RO 31: a lost pair sums to 9. Cross-face: KU-RO 31 + KU-DA 1 + KU-RO(b) 65 = PO-TO-KU-RO 97. Shares PA-DE, *306-TU, *324-DI-RA with the HT9a/b wine roster.",
@@ -14819,8 +14841,8 @@
         },
         {
           "linear_a": "A-RA-JU-U-DE-ZA",
-          "reading": "ʾArāyu Ḥudaṯu",
-          "meaning": "roster entry: Ḥudaṯu of ʾArāyu (A-RA-JU, a town of the kingdom of Ugarit; cf. U-DE-ZA, HT122a)",
+          "reading": "ʾArāyu Ḥudeṯ",
+          "meaning": "roster entry: Ḥudeṯ 'New Moon' of ʾArāyu (A-RA-JU, a town of the kingdom of Ugarit; cf. U-DE-ZA, HT122a)",
           "confidence": "SPECULATIVE"
         },
         {
@@ -14853,7 +14875,7 @@
           "confidence": "PROBABLE"
         }
       ],
-      "translation": "The Idaean (JE-DI)—*346—men: ʿAkkīta 7; Ḥudaṯu of ʾArāyu 2; Qaqqaru 2; DI 2; estate 2 […]. Total 65. Grand total 97.",
+      "translation": "The Idaean (JE-DI)—*346—men: ʿAkkīta 7; Ḥudeṯ of ʾArāyu 2; Qaqqaru 2; DI 2; estate 2 […]. Total 65. Grand total 97.",
       "confidence": "CANDIDATE",
       "status": "incomplete",
       "notes": "Visible entries sum to 15 against KU-RO 65, so entries totaling 50 are lost. Across both faces, PO-TO-KU-RO 97 = KU-RO(a) 31 + KU-DA 1 + KU-RO(b) 65, verified exactly.",
@@ -15032,7 +15054,7 @@
         {
           "linear_a": "DI-NI",
           "reading": "Dīnī",
-          "gloss": "personal name, 'My judgment'; rival the whole group WA-DI-NI, Ugaritic PN wdny",
+          "gloss": "personal name, 'My judgment'",
           "confidence": "SPECULATIVE"
         }
       ],
@@ -15454,7 +15476,7 @@
           "linear_a": "QA-*118",
           "reading": "qaṭṭ(u)",
           "gloss": "flax, linseed",
-          "confidence": "CANDIDATE"
+          "confidence": "SPECULATIVE"
         },
         {
           "linear_a": "A-KI-PI-E-TE",
@@ -16149,7 +16171,7 @@
         {
           "linear_a": "TU-SU-PU₂",
           "reading": "Tešub",
-          "gloss": "Teshub (Hurrian theophoric personal name), 1",
+          "gloss": "Teshub (Hurrian theophoric personal name), 1; rival tōṯabu 'resident, sojourner'",
           "confidence": "CANDIDATE"
         },
         {
@@ -16373,7 +16395,7 @@
         {
           "linear_a": "A-RA-U-DA",
           "reading": "ʾArwada",
-          "gloss": "Arwad, second word of the heading",
+          "gloss": "of Arwad, the home of the man named before it; second word of the heading",
           "confidence": "SPECULATIVE"
         },
         {
@@ -16421,7 +16443,7 @@
           "confidence": "PROBABLE"
         }
       ],
-      "translation": "Ḫadki-šiqā · Arwad ·: Wiššān, cyperus+E 2; wine+WI 2. Inatos · *301-NA ·: Kapizzi, cyperus 3[ and a fraction; figs 2 and fractions.",
+      "translation": "Ḫadki-šiqā · of Arwad ·: Wiššān, cyperus+E 2; wine+WI 2. Inatos · *301-NA ·: Kapizzi, cyperus 3[ and a fraction; figs 2 and fractions.",
       "confidence": "SPECULATIVE",
       "status": "incomplete",
       "notes": "KH Scribe 2, two sections each opened by a pair of words between dividers; cyperus, wine and figs to the entities named (GORILA III 25). A-RA-U-DA is written over an erasure (Younger, Linear A Texts).",
@@ -16444,8 +16466,8 @@
         },
         {
           "linear_a": "A-TA-RE",
-          "reading": "Hathar",
-          "gloss": "Hathor (Egyptian goddess), for",
+          "reading": "ʿAṯtar",
+          "gloss": "ʿAṯtar (the god), for; rival Hathor",
           "confidence": "SPECULATIVE"
         },
         {
@@ -16491,7 +16513,7 @@
           "confidence": "SPECULATIVE"
         }
       ],
-      "translation": "Garden: for Hathor, figs ½; Kutukkore, a fraction; She-of-the-Lion 1[…]; She-of-Memphis ½; Makī 2 + fractions; Ṭayyibat 2½; the measurer 4 + fractions.",
+      "translation": "Garden: for ʿAṯtar, figs ½; Kutukkore, a fraction; She-of-the-Lion 1[…]; She-of-Memphis ½; Makī 2 + fractions; Ṭayyibat 2½; the measurer 4 + fractions.",
       "confidence": "SPECULATIVE",
       "status": "incomplete",
       "notes": "A fig issue headed KI-RA ·, names with fractions (GORILA III 165).",
@@ -16516,10 +16538,10 @@
         },
         {
           "linear_a": "KA-QA",
-          "reading": null,
-          "gloss": "personal name (unread), 2",
-          "confidence": null,
-          "note": "No reading."
+          "reading": "Kakka",
+          "gloss": "Kakka (Hurrian woman's name), 2",
+          "confidence": "SPECULATIVE",
+          "note": "Hurrian ka-ak-ka at Mari and Alalaḫ VII (Monti 2017, 252, 475); QA doubtful."
         },
         {
           "linear_a": "A-DU-ZA",
@@ -16595,12 +16617,13 @@
           "note": "Stands in a name slot, closing the list. Rival: Egyptian mkj·t."
         }
       ],
-      "translation": "SI-[·]-NE-TI 1; KA-QA 2 — ʾAddu-ʿazz 1; Tatare 1 — Tati-te 1; Ukammis-Sîn 1 — Ḫuteya 1 — Rannatušu 1; NI-MI 1 — TU-SU 1; Matiʿ-zayti 1 — MA-TE-TI 1; Makīt 1.",
+      "translation": "SI-[·]-NE-TI 1; Kakka 2 — ʾAddu-ʿazz 1; Tatare 1 — Tati-te 1; Ukammis-Sîn 1 — Ḫuteya 1 — Rannatušu 1; NI-MI 1 — TU-SU 1; Matiʿ-zayti 1 — MA-TE-TI 1; Makīt 1.",
       "confidence": "SPECULATIVE",
       "status": "incomplete",
       "notes": "A list of names between rulings, each with 1, KA-QA with 2 (GORILA I 281).",
       "source": {
         "di Mino": [
+          "KA-QA",
           "TA₂-TI-TE",
           "RA-NA-TU-SU",
           "MA-TI-ZA-I-TE"
@@ -16656,7 +16679,7 @@
           "linear_a": "AU-RE-TE",
           "reading": "ʾawrēt",
           "gloss": "luminous one (f.); *306 1",
-          "confidence": "PROBABLE"
+          "confidence": "CANDIDATE"
         },
         {
           "linear_a": "CYP",
@@ -16918,7 +16941,7 @@
     "HT97a": {
       "site": "Haghia Triada",
       "support": "Tablet",
-      "translation": "Pasture · the sanctuary · intercessory priests 82; *327 33; Ganuti 25; Phaistos 6; DI 4; the Plantation 4; Maʾdi 5; JU 15; KI 3; ZU[ ]5; Tati 2; DE-[·] 3[; ]A 5.",
+      "translation": "Pasture · the sanctuaries · intercessory priests 82; *327 33; Ganuti 25; Phaistos 6; DI 4; the Plantation 4; Maʾdi 5; JU 15; KI 3; ZU[ ]5; Tati 2; DE-[·] 3[; ]A 5.",
       "words": [
         {
           "linear_a": "KA-RU",
@@ -16929,9 +16952,9 @@
         {
           "linear_a": "*307+*307",
           "reading": null,
-          "gloss": "sanctuary (doubled *307, A 638)",
-          "confidence": "PROBABLE",
-          "note": "See TI-NI-TA *307."
+          "gloss": "the sanctuaries (*307 doubled, A 638)",
+          "confidence": "CANDIDATE",
+          "note": "See *307+*307."
         },
         {
           "linear_a": "VIR+KA",
@@ -17316,8 +17339,8 @@
       "words": [
         {
           "linear_a": "KA-KU-PA",
-          "reading": "kawkab",
-          "gloss": "Star (place name, as Mari Kabkab)",
+          "reading": "kakkub",
+          "gloss": "flask (for perfumed oil); rival Kawkab 'Star', a place name",
           "confidence": "CANDIDATE"
         },
         {
@@ -17333,7 +17356,7 @@
           "confidence": "PROBABLE"
         }
       ],
-      "translation": "Kawkab: fat (*304+PA), cyperus (CYP+D).",
+      "translation": "Flask: fat (*304+PA), cyperus (CYP+D).",
       "notes": "Photograph and drawing checked.",
       "source": {
         "di Mino": [
@@ -17421,7 +17444,7 @@
         {
           "linear_a": "TI",
           "reading": "tiʾin",
-          "gloss": "figs (logographic abbreviation of TI-NI)",
+          "gloss": "figs (logographic abbreviation of tiʾin)",
           "confidence": "CANDIDATE"
         },
         {
@@ -17533,8 +17556,8 @@
       "words": [
         {
           "linear_a": "KA-KU-PA",
-          "reading": "kawkab",
-          "gloss": "Star (place name, as Mari Kabkab)",
+          "reading": "kakkub",
+          "gloss": "flask (for perfumed oil); rival Kawkab 'Star', a place name",
           "confidence": "CANDIDATE"
         },
         {
@@ -17544,7 +17567,7 @@
           "confidence": "PROBABLE"
         }
       ],
-      "translation": "Kawkab: cyperus.",
+      "translation": "Flask: cyperus.",
       "notes": "Three signs on one face, the logogram on the other. Photograph and drawing checked.",
       "source": {
         "di Mino": [
@@ -18072,10 +18095,11 @@
           "linear_a": "DA-MA-TE",
           "reading": "damat",
           "gloss": "the Tower",
-          "confidence": "SPECULATIVE"
+          "confidence": "CANDIDATE"
         }
       ],
       "translation": "The Tower.",
+      "notes": "A steatite ladle from the Minoan peak sanctuary of Kythera (Sakellarakis and Olivier 1994, 343–349): a high place, where a votive is expected to name the Tower.",
       "source": {
         "di Mino": [
           "DA-MA-TE"
@@ -18084,7 +18108,7 @@
           "KYZa2"
         ]
       },
-      "confidence": "SPECULATIVE"
+      "confidence": "CANDIDATE"
     },
     "MAZb8": {
       "site": "Malia",
@@ -18198,7 +18222,7 @@
     },
     "MOZf1": {
       "site": "Mokhlos",
-      "support": "Metal object",
+      "support": "Lead weight (HM 83)",
       "words": [
         {
           "linear_a": "*333-SA-MU",
@@ -18394,6 +18418,1784 @@
         ]
       },
       "confidence": "CANDIDATE"
+    },
+    "HT21": {
+      "site": "Haghia Triada",
+      "support": "Tablet",
+      "words": [
+        {
+          "linear_a": "PI-TA-KA-SE",
+          "reading": "Bīt-kissē",
+          "gloss": "House of the Throne, the crown estate (institution heading)",
+          "confidence": "SPECULATIVE"
+        },
+        {
+          "linear_a": "TE",
+          "reading": "terûmā",
+          "gloss": "contribution, offering (terûmā), a transaction marker",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "GRA",
+          "reading": null,
+          "gloss": "dagān 'grain, cereal'",
+          "confidence": "PROBABLE"
+        },
+        {
+          "linear_a": "OLE+U",
+          "reading": "ʿuṣār",
+          "gloss": "pressed oil (ʿuṣār)",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "OLE",
+          "reading": null,
+          "gloss": "šamnu 'oil, olive oil'",
+          "confidence": "PROBABLE"
+        },
+        {
+          "linear_a": "*304",
+          "reading": "pidru",
+          "gloss": "fat, tallow (an oil/fat-register commodity)",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "OLIV",
+          "reading": null,
+          "gloss": "zayt 'olive (fruit)'",
+          "confidence": "PROBABLE"
+        }
+      ],
+      "translation": "The House of the Throne, contribution: grain 161; pressed oil (OLE+U) 11; E-oil 3¾; fat (*304) 7¾; olives 1¼.",
+      "notes": "The text is whole from its first group to the blank surface after the last quantity. The 11 runs over two rows.",
+      "source": {
+        "di Mino": [
+          "PI-TA-KA-SE",
+          "TE",
+          "GRA",
+          "OLE+U",
+          "OLE",
+          "*304",
+          "OLIV"
+        ],
+        "GORILA": [
+          "HT21"
+        ]
+      },
+      "confidence": "SPECULATIVE"
+    },
+    "HTWc3004": {
+      "site": "Haghia Triada",
+      "support": "Roundel",
+      "words": [
+        {
+          "linear_a": "TA-NI-KA",
+          "reading": "Taʿnaku",
+          "gloss": "Taanach (place name)",
+          "confidence": "SPECULATIVE"
+        }
+      ],
+      "translation": "Taanach: SE.",
+      "notes": "The roundel is whole; SE is lightly abraded.",
+      "source": {
+        "di Mino": [
+          "TA-NI-KA"
+        ],
+        "GORILA": [
+          "HTWc3004"
+        ]
+      },
+      "confidence": "SPECULATIVE"
+    },
+    "HTWc3005": {
+      "site": "Haghia Triada",
+      "support": "Roundel",
+      "words": [
+        {
+          "linear_a": "TA-NI-KA",
+          "reading": "Taʿnaku",
+          "gloss": "Taanach (place name)",
+          "confidence": "SPECULATIVE"
+        }
+      ],
+      "translation": "Taanach: SE.",
+      "notes": "The roundel is whole.",
+      "source": {
+        "di Mino": [
+          "TA-NI-KA"
+        ],
+        "GORILA": [
+          "HTWc3005"
+        ]
+      },
+      "confidence": "SPECULATIVE"
+    },
+    "MA1b": {
+      "site": "Malia",
+      "support": "3-sided bar",
+      "words": [
+        {
+          "linear_a": "A-MA",
+          "reading": "ʿamma",
+          "gloss": "people, kinfolk—social/kinship term",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "QE-DE-MI-NU",
+          "reading": "Qēdmīnu",
+          "gloss": "personal name, 'Easterner, Ancient one'",
+          "confidence": "SPECULATIVE"
+        }
+      ],
+      "translation": "The people · *47 · Qēdmīnu.",
+      "notes": "One face of the bar, whole end to end. A divider also follows *47 (photograph and drawing); the surface is pitted between DE and MI.",
+      "source": {
+        "di Mino": [
+          "A-MA",
+          "QE-DE-MI-NU"
+        ],
+        "GORILA": [
+          "MA1b"
+        ]
+      },
+      "confidence": "SPECULATIVE"
+    },
+    "MAWc<5>": {
+      "site": "Malia",
+      "support": "Roundel",
+      "words": [
+        {
+          "linear_a": "A-SA-DA-KA",
+          "reading": "ʾaṣdaqa",
+          "gloss": "Most Righteous (PN)",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "GRA",
+          "reading": null,
+          "gloss": "dagān 'grain, cereal'",
+          "confidence": "PROBABLE"
+        }
+      ],
+      "translation": "ʾAṣdaqa: grain (GRA+E) 4.",
+      "notes": "Face b: four unit strokes, whole. Face a: GORILA draws a dotted unit stroke after KA (II 88).",
+      "source": {
+        "di Mino": [
+          "A-SA-DA-KA",
+          "GRA"
+        ],
+        "GORILA": [
+          "MAWc<5>"
+        ]
+      },
+      "confidence": "CANDIDATE"
+    },
+    "PHWc37": {
+      "site": "Phaistos",
+      "support": "Roundel",
+      "words": [
+        {
+          "linear_a": "KA-*314-SI",
+          "reading": "kaḥsi",
+          "gloss": "chair, throne (goods on a receipt)",
+          "confidence": "CANDIDATE"
+        }
+      ],
+      "translation": "Throne: *320.",
+      "notes": "The roundel is whole.",
+      "source": {
+        "di Mino": [
+          "KA-*314-SI"
+        ],
+        "GORILA": [
+          "PHWc37"
+        ]
+      },
+      "confidence": "CANDIDATE"
+    },
+    "PHWc40": {
+      "site": "Phaistos",
+      "support": "Roundel",
+      "words": [
+        {
+          "linear_a": "TI-TI-MA",
+          "reading": "ṯiṯṯīma",
+          "gloss": "sixty (numeral)",
+          "confidence": "CANDIDATE"
+        }
+      ],
+      "translation": "Sixty: NA.",
+      "notes": "The roundel is whole.",
+      "source": {
+        "di Mino": [
+          "TI-TI-MA"
+        ],
+        "GORILA": [
+          "PHWc40"
+        ]
+      },
+      "confidence": "CANDIDATE"
+    },
+    "PYR1": {
+      "site": "Pyrgos",
+      "support": "Tablet",
+      "words": [
+        {
+          "linear_a": "TI-MA-RU-WI-TE",
+          "reading": "Tīmar-luwwīt",
+          "gloss": "Timar the Levite (f.), priestess (woman's name and title)",
+          "confidence": "SPECULATIVE"
+        },
+        {
+          "linear_a": "VIN",
+          "reading": null,
+          "gloss": "wayn 'wine'",
+          "confidence": "PROBABLE"
+        }
+      ],
+      "translation": "Timar the Levite: wine (*806-VIN) 90.",
+      "notes": "Whole from margin to margin; nine ten-bars. The foot of *806 meets damaged surface.",
+      "source": {
+        "di Mino": [
+          "TI-MA-RU-WI-TE",
+          "VIN"
+        ]
+      },
+      "confidence": "SPECULATIVE"
+    },
+    "ZA15a": {
+      "site": "Zakros",
+      "support": "Tablet",
+      "words": [
+        {
+          "linear_a": "*47-KU-NA",
+          "reading": "sōkuna",
+          "gloss": "prefect, steward (heading of a wine issue)",
+          "confidence": "SPECULATIVE"
+        },
+        {
+          "linear_a": "SA",
+          "reading": "śakaru",
+          "gloss": "beer, strong drink—logographic abbreviation of *śakaru/*šikaru",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "VIN",
+          "reading": null,
+          "gloss": "wayn 'wine'",
+          "confidence": "PROBABLE"
+        },
+        {
+          "linear_a": "QE-SI-ZU-E",
+          "reading": "qīši ṯuʿē",
+          "gloss": "gift for the Heroes (construct: Amorite qīšum 'gift' + ṯuʿ 'Hero, Noble'), a recipient of wine",
+          "confidence": "SPECULATIVE"
+        },
+        {
+          "linear_a": "I-TI-NI-SA",
+          "reading": "ʾItniša",
+          "gloss": "ʾItniša (personal name), the Mari name IT-NU-ŠA",
+          "confidence": "SPECULATIVE"
+        },
+        {
+          "linear_a": "ME-VIN",
+          "reading": "mesek",
+          "gloss": "mixed wine (wine-section heading)",
+          "confidence": "SPECULATIVE"
+        },
+        {
+          "linear_a": "MI-ZA-SE",
+          "reading": "mizza-se",
+          "gloss": "for the corvée gang (terminative -SE)",
+          "confidence": "SPECULATIVE"
+        },
+        {
+          "linear_a": "*28B-NU-MA-RE",
+          "reading": "yinumare",
+          "gloss": "wine-lords, wine-stewards (personnel category)",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "SI-PI-KI",
+          "reading": "šipkī",
+          "gloss": "pourings, libation portions (wine administration term)",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "JA-SA-MU",
+          "reading": "yaśmaʿū",
+          "gloss": "'He hears'—yaqtal hypocoristic personal name with frozen nominative -ū",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "SA-MI-DA-E",
+          "reading": "samidē",
+          "gloss": "groats, semolina, processed grain",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "*364-KE-MA-SE",
+          "reading": "Šakma-se",
+          "gloss": "the one of Šakmu (Shechem) (gentilic in -SE on the toponym)",
+          "confidence": "SPECULATIVE"
+        }
+      ],
+      "translation": "The prefect: wine-beer (SA-VIN). Gift for the Heroes 57; ʾItniša 10. Mixed wine: for the corvée gang 3; wine-stewards 6; libation portions 2½; Yaśmaʿū 5; groats 4; the one of Shechem 5.",
+      "notes": "The first and last groups stand at preserved margins. A cavity damages PI and KI of SI-PI-KI and the SA of SA-MI-DA-E.",
+      "source": {
+        "di Mino": [
+          "*47-KU-NA",
+          "SA",
+          "VIN",
+          "QE-SI-ZU-E",
+          "I-TI-NI-SA",
+          "ME-VIN",
+          "MI-ZA-SE",
+          "*28B-NU-MA-RE",
+          "SI-PI-KI",
+          "JA-SA-MU",
+          "SA-MI-DA-E",
+          "*364-KE-MA-SE"
+        ],
+        "GORILA": [
+          "ZA15a"
+        ]
+      },
+      "confidence": "SPECULATIVE"
+    },
+    "HT105": {
+      "site": "Haghia Triada",
+      "support": "Tablet",
+      "words": [
+        {
+          "linear_a": "KA-PA",
+          "reading": "kapa(r)",
+          "gloss": "village, settlement (kapar)",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "VIR+[?]",
+          "reading": null,
+          "gloss": "men, a counted personnel class (the person sign with an unnamed element)",
+          "confidence": "PROBABLE"
+        },
+        {
+          "linear_a": "SA-RA₂",
+          "reading": "šarra",
+          "gloss": "queen/princess",
+          "confidence": "CANDIDATE"
+        }
+      ],
+      "translation": "The village […] men 234. The queen: men 235.",
+      "notes": "The entry after KA-PA is lost at the upper break, which reaches the hundreds of 234. 235 is whole.",
+      "source": {
+        "di Mino": [
+          "KA-PA",
+          "VIR+[?]",
+          "SA-RA₂"
+        ],
+        "GORILA": [
+          "HT105"
+        ]
+      },
+      "confidence": "CANDIDATE",
+      "status": "incomplete"
+    },
+    "HT111b": {
+      "site": "Haghia Triada",
+      "support": "Tablet",
+      "words": [
+        {
+          "linear_a": "SA-DI",
+          "reading": "šadī",
+          "gloss": "field worker, Ug. šdy 'land labourer' or 'weaver, spinner'",
+          "confidence": "SPECULATIVE"
+        }
+      ],
+      "translation": "[…] 18; the field worker 4; 3; QE-[…] ]NI 1; NA-[…]",
+      "notes": "Broken on every side. Traces of signs follow QE and NA.",
+      "source": {
+        "di Mino": [
+          "SA-DI"
+        ],
+        "GORILA": [
+          "HT111b"
+        ]
+      },
+      "confidence": "SPECULATIVE",
+      "status": "incomplete"
+    },
+    "HT130": {
+      "site": "Haghia Triada",
+      "support": "Tablet",
+      "words": [
+        {
+          "linear_a": "SI",
+          "reading": "šay",
+          "gloss": "tribute, gift—logographic abbreviation of šay(u)",
+          "confidence": "PROBABLE"
+        },
+        {
+          "linear_a": "SA-RA₂",
+          "reading": "šarra",
+          "gloss": "queen/princess",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "CYP",
+          "reading": null,
+          "gloss": "cyperus, aromatic sedge (commodity logogram)",
+          "confidence": "PROBABLE"
+        },
+        {
+          "linear_a": "KU-RO",
+          "reading": "kull",
+          "gloss": "total, sum (accounting term)",
+          "confidence": "CONFIRMED"
+        },
+        {
+          "linear_a": "NI",
+          "reading": null,
+          "gloss": "figs—commodity ideogram (FIC)",
+          "confidence": "CONFIRMED"
+        },
+        {
+          "linear_a": "VIN",
+          "reading": null,
+          "gloss": "wayn 'wine'",
+          "confidence": "PROBABLE"
+        }
+      ],
+      "translation": "[…] Tribute 3. The queen: cyperus […] RA₂. Total: SI-CYP 8; figs 6; wine 3.",
+      "notes": "The top is lost, and the surface is abraded at SA, at RA₂ and across KU-RO. The last numeral stands above the lower edge.",
+      "source": {
+        "di Mino": [
+          "SI",
+          "SA-RA₂",
+          "CYP",
+          "KU-RO",
+          "NI",
+          "VIN"
+        ],
+        "GORILA": [
+          "HT130"
+        ]
+      },
+      "confidence": "CANDIDATE",
+      "status": "incomplete"
+    },
+    "HT132": {
+      "site": "Haghia Triada",
+      "support": "Tablet",
+      "words": [
+        {
+          "linear_a": "A-SE",
+          "reading": "ʾāsē",
+          "gloss": "physician, healer",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "QA-RE-TO",
+          "reading": "qarēt-",
+          "gloss": "banquet, feast (27 ewes)",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "*21F",
+          "reading": null,
+          "gloss": "ewe (livestock logogram, standing alone before a numeral)",
+          "confidence": "PROBABLE"
+        },
+        {
+          "linear_a": "*305",
+          "reading": null,
+          "gloss": "personnel-category logogram, a counted class of persons",
+          "confidence": "PROBABLE"
+        }
+      ],
+      "translation": "The physician: *319 5. The banquet: ewes 27. PA₃: personnel (*305) 1 […]",
+      "notes": "The lower part is broken away; the fracture touches the units of 27 and the last entry.",
+      "source": {
+        "di Mino": [
+          "A-SE",
+          "QA-RE-TO",
+          "*21F",
+          "*305"
+        ],
+        "GORILA": [
+          "HT132"
+        ]
+      },
+      "confidence": "CANDIDATE",
+      "status": "incomplete"
+    },
+    "HT30": {
+      "site": "Haghia Triada",
+      "support": "Tablet",
+      "words": [
+        {
+          "linear_a": "SI",
+          "reading": "šay",
+          "gloss": "tribute, gift—logographic abbreviation of šay(u)",
+          "confidence": "PROBABLE"
+        },
+        {
+          "linear_a": "SA-RA₂",
+          "reading": "šarra",
+          "gloss": "queen/princess",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "CYP",
+          "reading": null,
+          "gloss": "cyperus, aromatic sedge (commodity logogram)",
+          "confidence": "PROBABLE"
+        },
+        {
+          "linear_a": "NI",
+          "reading": null,
+          "gloss": "figs—commodity ideogram (FIC)",
+          "confidence": "CONFIRMED"
+        },
+        {
+          "linear_a": "VIN",
+          "reading": null,
+          "gloss": "wayn 'wine'",
+          "confidence": "PROBABLE"
+        },
+        {
+          "linear_a": "OLE+TA",
+          "reading": "ṭābu",
+          "gloss": "fine-grade olive oil",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "SA-RA-RA",
+          "reading": "ṣarār-",
+          "gloss": "bundle, bag (commodity or container)",
+          "confidence": "SPECULATIVE"
+        },
+        {
+          "linear_a": "*23M",
+          "reading": "mūru",
+          "gloss": "young bull, head of cattle (live livestock logogram; MU-onset abbreviation of *mūru)",
+          "confidence": "PROBABLE"
+        },
+        {
+          "linear_a": "KI-RO",
+          "reading": "kilʾu",
+          "gloss": "owed, outstanding balance (deficit)—transaction term heading deficit sections",
+          "confidence": "CONFIRMED"
+        }
+      ],
+      "translation": "Tribute 4. The queen: cyperus […] 14½; figs 7⅕; wine 8½; fine oil, a fraction; QA₂-ligature (PU) ⅕; bundles ½; young bull 1. Owed: cyperus 8; figs, a fraction; wine ½; young bull 1 […] ⅕; fine oil ⅕ […]",
+      "notes": "Surface is lost after the first CYP, before 14½, and again in the owed section after the young bull. Traces follow the last entry.",
+      "source": {
+        "di Mino": [
+          "SI",
+          "SA-RA₂",
+          "CYP",
+          "NI",
+          "VIN",
+          "OLE+TA",
+          "SA-RA-RA",
+          "*23M",
+          "KI-RO"
+        ],
+        "GORILA": [
+          "HT30"
+        ]
+      },
+      "confidence": "SPECULATIVE",
+      "status": "incomplete"
+    },
+    "HT33": {
+      "site": "Haghia Triada",
+      "support": "Tablet",
+      "words": [
+        {
+          "linear_a": "SA-RA₂",
+          "reading": "šarra",
+          "gloss": "queen/princess",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "*305",
+          "reading": null,
+          "gloss": "personnel-category logogram, a counted class of persons",
+          "confidence": "PROBABLE"
+        }
+      ],
+      "translation": "The queen: *401+*304; QA₂-ligature (RE+PU) 1¼; QA₂-ligature (RE), a fraction […] 3; E+KA, a fraction; MI+JA+KA ⅕; personnel (*305) 90; *341+PI 100; PA₃+QE 100.",
+      "notes": "The upper left is broken. The 3 stands at a break; 90 and the two hundreds are whole.",
+      "source": {
+        "di Mino": [
+          "SA-RA₂",
+          "*305"
+        ],
+        "GORILA": [
+          "HT33"
+        ]
+      },
+      "confidence": "CANDIDATE",
+      "status": "incomplete"
+    },
+    "HT34": {
+      "site": "Haghia Triada",
+      "support": "Tablet",
+      "words": [
+        {
+          "linear_a": "DA-JU-TE",
+          "reading": "dalut",
+          "gloss": "door, doorway",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "SI-*516",
+          "reading": "si-SIPRU",
+          "gloss": "the account/record (phonetic complement + logogram)",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "SA-RA₂",
+          "reading": "šarra",
+          "gloss": "queen/princess",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "E",
+          "reading": "ḥemʾat",
+          "gloss": "butter, ghee (ḥemʾat), a quantified commodity",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "GRA",
+          "reading": null,
+          "gloss": "dagān 'grain, cereal'",
+          "confidence": "PROBABLE"
+        },
+        {
+          "linear_a": "SA+MU+KU",
+          "reading": "ṣammūqu",
+          "gloss": "raisins (a commodity ligature spelling the word)",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "KI-RO",
+          "reading": "kilʾu",
+          "gloss": "owed, outstanding balance (deficit)—transaction term heading deficit sections",
+          "confidence": "CONFIRMED"
+        }
+      ],
+      "translation": "The door, the account. The queen: MI+JA+KA […] ⅓. Ghee: grain 200; E+[…] 2 and a fraction; QA₂-ligature (PU) ≈⅙; QA₂-ligature (RE) ¼; MI+JA+I 245; raisins 100; PA₃ 70; owed 30 ⟦7⟧; E+KA ¹⁄₁₆; PU ⅛.",
+      "notes": "A large flake is lost from the upper middle, taking the end of the second line. Of the 200 one hundred-circle is whole and the other stands at the edge of the lost surface (photograph and drawing).",
+      "source": {
+        "di Mino": [
+          "DA-JU-TE",
+          "SI-*516",
+          "SA-RA₂",
+          "E",
+          "GRA",
+          "SA+MU+KU",
+          "KI-RO"
+        ],
+        "GORILA": [
+          "HT34"
+        ]
+      },
+      "confidence": "CANDIDATE",
+      "status": "incomplete"
+    },
+    "HT35": {
+      "site": "Haghia Triada",
+      "support": "Tablet",
+      "words": [
+        {
+          "linear_a": "TI-TI-KU",
+          "reading": "tittuk(u) / tittōk",
+          "gloss": "outpouring, pouring-out—(header) disbursed",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "*326",
+          "reading": null,
+          "gloss": "administrative heading or transaction marker",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "I-KU-TA",
+          "reading": "Ḥikuptaḥ",
+          "gloss": "place name: Memphis, the seat of Kothar (Ug. Ḥkpt), a recipient of cyperus",
+          "confidence": "SPECULATIVE"
+        },
+        {
+          "linear_a": "CYP",
+          "reading": null,
+          "gloss": "cyperus, aromatic sedge (commodity logogram)",
+          "confidence": "PROBABLE"
+        },
+        {
+          "linear_a": "MI+JA+RU",
+          "reading": "murru",
+          "gloss": "myrrh (murru), compound logogram",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "OLE+RI",
+          "reading": "riqqu",
+          "gloss": "aromatic/fragrant olive oil preparation",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "*308",
+          "reading": "šamnu",
+          "gloss": "pressed oil, oil derivative—commodity modifier indicating oil extraction from base commodity",
+          "confidence": "PROBABLE"
+        },
+        {
+          "linear_a": "OLE+TA",
+          "reading": "ṭābu",
+          "gloss": "fine-grade olive oil",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "E",
+          "reading": "ḥemʾat",
+          "gloss": "butter, ghee (ḥemʾat), a quantified commodity",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "VIN",
+          "reading": null,
+          "gloss": "wayn 'wine'",
+          "confidence": "PROBABLE"
+        }
+      ],
+      "translation": "Disbursed · *326 · Memphis: cyperus 1; myrrh ⅓; aromatic oil ⅓; pressed oil (*308) ⅓; fine oil […]; ghee 5; QA₂-ligature (PU) ¹⁄₁₆; wine ⅕.",
+      "notes": "A join crosses the third line: a damaged sign position stands between OLE+TA and E, and the third ⅓ is cut (photograph and drawing). The tablet's edges are whole.",
+      "source": {
+        "di Mino": [
+          "TI-TI-KU",
+          "*326",
+          "I-KU-TA",
+          "CYP",
+          "MI+JA+RU",
+          "OLE+RI",
+          "*308",
+          "OLE+TA",
+          "E",
+          "VIN"
+        ],
+        "GORILA": [
+          "HT35"
+        ]
+      },
+      "confidence": "SPECULATIVE",
+      "status": "incomplete"
+    },
+    "HT46a": {
+      "site": "Haghia Triada",
+      "support": "Tablet",
+      "words": [
+        {
+          "linear_a": "MU-RU",
+          "reading": "mūru",
+          "gloss": "young bull, young animal",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "KU-RO",
+          "reading": "kull",
+          "gloss": "total, sum (accounting term)",
+          "confidence": "CONFIRMED"
+        }
+      ],
+      "translation": "[…] Young bull 1. Total 43½.",
+      "notes": "Broken above and at the right; the ½ stands beside the break.",
+      "source": {
+        "di Mino": [
+          "MU-RU",
+          "KU-RO"
+        ],
+        "GORILA": [
+          "HT46a"
+        ]
+      },
+      "confidence": "CANDIDATE",
+      "status": "incomplete"
+    },
+    "HT57a": {
+      "site": "Haghia Triada",
+      "support": "Tablet",
+      "words": [
+        {
+          "linear_a": "DA-QE-RA",
+          "reading": "ḏā-Qīra",
+          "gloss": "the (district) of Qīr, the walled town",
+          "confidence": "CANDIDATE"
+        }
+      ],
+      "translation": "The district of Qīr: 1. A ⅛ […]",
+      "notes": "Broken at the right and below; the fraction's foot meets the lower fracture.",
+      "source": {
+        "di Mino": [
+          "DA-QE-RA"
+        ],
+        "GORILA": [
+          "HT57a"
+        ]
+      },
+      "confidence": "CANDIDATE",
+      "status": "incomplete"
+    },
+    "HT62+73": {
+      "site": "Haghia Triada",
+      "support": "Tablet",
+      "words": [
+        {
+          "linear_a": "TE",
+          "reading": "terûmā",
+          "gloss": "contribution, offering (terûmā), a transaction marker",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "VIN",
+          "reading": null,
+          "gloss": "wayn 'wine'",
+          "confidence": "PROBABLE"
+        },
+        {
+          "linear_a": "GRA",
+          "reading": null,
+          "gloss": "dagān 'grain, cereal'",
+          "confidence": "PROBABLE"
+        },
+        {
+          "linear_a": "KA-KU",
+          "reading": "Kakku",
+          "gloss": "personal name, 'Weapon' (Amorite Kakku)",
+          "confidence": "SPECULATIVE"
+        },
+        {
+          "linear_a": "VIR+[?]",
+          "reading": null,
+          "gloss": "men, a counted personnel class (the person sign with an unnamed element)",
+          "confidence": "PROBABLE"
+        }
+      ],
+      "translation": "[…]-SA-RA, contribution: wine[…] ]-NA: grain 15¼; Kakku 7[…] ]18; *28B-TI-[?] 6; DI[…] ]4¼; KA[…] men ]4; KO[…] ]NU 17[…] ]25[…] ]KU[…] PA-I-KI[…] ]8; SA-RO-QE[…] ]28[…]",
+      "notes": "Two fragments that do not join (GORILA I 117): HT 62 down to ]25[, HT 73 from ]KU[. Every line is broken at one end or both.",
+      "source": {
+        "di Mino": [
+          "TE",
+          "VIN",
+          "GRA",
+          "KA-KU",
+          "VIR+[?]"
+        ],
+        "GORILA": [
+          "HT62+73"
+        ]
+      },
+      "confidence": "SPECULATIVE",
+      "status": "incomplete"
+    },
+    "HT63": {
+      "site": "Haghia Triada",
+      "support": "Tablet",
+      "words": [
+        {
+          "linear_a": "*305",
+          "reading": null,
+          "gloss": "personnel-category logogram, a counted class of persons",
+          "confidence": "PROBABLE"
+        },
+        {
+          "linear_a": "TE",
+          "reading": "terûmā",
+          "gloss": "contribution, offering (terûmā), a transaction marker",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "KA-TI",
+          "reading": "Qāti",
+          "gloss": "personal name Qāti 'Hand'",
+          "confidence": "SPECULATIVE"
+        },
+        {
+          "linear_a": "SU-PU₂",
+          "reading": "Ṣubʾu",
+          "gloss": "Ṣubʾu (personal name)",
+          "confidence": "SPECULATIVE"
+        },
+        {
+          "linear_a": "ZU",
+          "reading": "ṯūm",
+          "gloss": "garlic (logographic abbreviation)",
+          "confidence": "CANDIDATE"
+        }
+      ],
+      "translation": "Personnel (*305), contribution: 1; Qāti 1; Ṣubʾu […] garlic 2 […]",
+      "notes": "Surface is lost at the left of the second row, before ZU, and the bottom is broken away. The three numerals are whole.",
+      "source": {
+        "di Mino": [
+          "*305",
+          "TE",
+          "KA-TI",
+          "SU-PU₂",
+          "ZU"
+        ],
+        "GORILA": [
+          "HT63"
+        ]
+      },
+      "confidence": "SPECULATIVE",
+      "status": "incomplete"
+    },
+    "HT69": {
+      "site": "Haghia Triada",
+      "support": "Tablet",
+      "words": [
+        {
+          "linear_a": "DI",
+          "reading": "dibšu",
+          "gloss": "honey, fruit syrup—commodity abbreviation of *dibšu",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "MA-DI",
+          "reading": "Maʾdi",
+          "gloss": "place name: a unit of men and livestock in the HT rosters",
+          "confidence": "SPECULATIVE"
+        }
+      ],
+      "translation": "[…] 5; honey 8; Maʾdi 4; ]-DI 12 […]",
+      "notes": "Broken above and below, at the left of the last line, and at the right, where the numerals stand.",
+      "source": {
+        "di Mino": [
+          "DI",
+          "MA-DI"
+        ],
+        "GORILA": [
+          "HT69"
+        ]
+      },
+      "confidence": "SPECULATIVE",
+      "status": "incomplete"
+    },
+    "HT74": {
+      "site": "Haghia Triada",
+      "support": "Tablet",
+      "words": [
+        {
+          "linear_a": "KU-RO",
+          "reading": "kull",
+          "gloss": "total, sum (accounting term)",
+          "confidence": "CONFIRMED"
+        }
+      ],
+      "translation": "[…] Total 20[…]",
+      "notes": "A fragment: traces above, and the two tens of the total stand at the broken right edge.",
+      "source": {
+        "di Mino": [
+          "KU-RO"
+        ],
+        "GORILA": [
+          "HT74"
+        ]
+      },
+      "confidence": "CONFIRMED",
+      "status": "incomplete"
+    },
+    "HT81": {
+      "site": "Haghia Triada",
+      "support": "Tablet",
+      "words": [
+        {
+          "linear_a": "A-SE",
+          "reading": "ʾāsē",
+          "gloss": "physician, healer",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "MI+JA+RU",
+          "reading": "murru",
+          "gloss": "myrrh (murru), compound logogram",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "RI-SU-MA",
+          "reading": "rīšum(a)",
+          "gloss": "head, chief quality",
+          "confidence": "CANDIDATE"
+        }
+      ],
+      "translation": "The physician: myrrh ≈⅙; first quality, a fraction; KI […]",
+      "notes": "The lower part is lost; KI stands on the break.",
+      "source": {
+        "di Mino": [
+          "A-SE",
+          "MI+JA+RU",
+          "RI-SU-MA"
+        ],
+        "GORILA": [
+          "HT81"
+        ]
+      },
+      "confidence": "CANDIDATE",
+      "status": "incomplete"
+    },
+    "ARKH6": {
+      "site": "Arkhanes",
+      "support": "Tablet",
+      "words": [
+        {
+          "linear_a": "DA-NA-TU",
+          "reading": "dānatu",
+          "gloss": "personal name (f.), 'she who judges'",
+          "confidence": "SPECULATIVE"
+        },
+        {
+          "linear_a": "KU",
+          "reading": "kull",
+          "gloss": "all, totality, everything (administrative category: miscellaneous/general allocation; section subtotal)",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "TE-RI",
+          "reading": "tēri",
+          "gloss": "attendant, courtier (recipient)",
+          "confidence": "CANDIDATE"
+        }
+      ],
+      "translation": "Dānatu: all. The attendant […]",
+      "notes": "TE-RI stands on the lower fracture, its signs cut; the text below is lost.",
+      "source": {
+        "di Mino": [
+          "DA-NA-TU",
+          "KU",
+          "TE-RI"
+        ],
+        "GORILA": [
+          "ARKH6"
+        ]
+      },
+      "confidence": "SPECULATIVE",
+      "status": "incomplete"
+    },
+    "GO2r": {
+      "site": "Gournia",
+      "support": "Tablet",
+      "words": [
+        {
+          "linear_a": "SI",
+          "reading": "šay",
+          "gloss": "tribute, gift—logographic abbreviation of šay(u)",
+          "confidence": "PROBABLE"
+        },
+        {
+          "linear_a": "KA",
+          "reading": "kapp",
+          "gloss": "palm-measure, bowl (unit of dry/liquid measure; administrative commodity category)",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "SI-DA-RO",
+          "reading": "siddāru",
+          "gloss": "siddāru 'Arranger' (personal name; spelling of SI-DA-RE)",
+          "confidence": "SPECULATIVE"
+        }
+      ],
+      "translation": "[…] Tribute; bowl ⅛; tribute 2; DA; Siddāru ¼; SE […]",
+      "notes": "Broken above and below: the first SI is cut above and the last sign, SE, below.",
+      "source": {
+        "di Mino": [
+          "SI",
+          "KA",
+          "SI-DA-RO"
+        ],
+        "RILA-S1": [
+          "GO 2"
+        ]
+      },
+      "confidence": "SPECULATIVE",
+      "status": "incomplete"
+    },
+    "KH13": {
+      "site": "Khania",
+      "support": "Tablet",
+      "words": [
+        {
+          "linear_a": "DA-I",
+          "reading": "dayu",
+          "gloss": "good, sufficient—commodity quality designation on oil/fat allocation tablets",
+          "confidence": "CANDIDATE"
+        }
+      ],
+      "translation": "[…] 2½; ]A-SE-RE-ZA[…] a fraction; *304-CYP ⅓ […] good quality 3 […]",
+      "notes": "A fragment broken above, at the left and below. GORILA brackets ZA at the right; the edge beside it looks original on the photograph and drawing.",
+      "source": {
+        "di Mino": [
+          "DA-I"
+        ],
+        "GORILA": [
+          "KH13"
+        ]
+      },
+      "confidence": "CANDIDATE",
+      "status": "incomplete"
+    },
+    "KH14": {
+      "site": "Khania",
+      "support": "Tablet",
+      "words": [
+        {
+          "linear_a": "A-MA-JA",
+          "reading": "ʿAmmaya",
+          "gloss": "(Little) kinsman (personal name, hypocoristic)",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "CYP",
+          "reading": null,
+          "gloss": "cyperus, aromatic sedge (commodity logogram)",
+          "confidence": "PROBABLE"
+        },
+        {
+          "linear_a": "NI",
+          "reading": null,
+          "gloss": "figs—commodity ideogram (FIC)",
+          "confidence": "CONFIRMED"
+        },
+        {
+          "linear_a": "VIR+*307",
+          "reading": "VIR-dubur",
+          "gloss": "sanctuary personnel",
+          "confidence": "PROBABLE"
+        }
+      ],
+      "translation": "RA · ʿAmmaya: cyperus 6; cyperus ¼; *336 2; cyperus ¹⁄₁₆; figs ¼; sanctuary personnel 2; cyperus […]",
+      "notes": "The left edge and the bottom are broken; the 6 meets the upper break and the last CYP is cut.",
+      "source": {
+        "di Mino": [
+          "A-MA-JA",
+          "CYP",
+          "NI",
+          "VIR+*307"
+        ],
+        "GORILA": [
+          "KH14"
+        ]
+      },
+      "confidence": "CANDIDATE",
+      "status": "incomplete"
+    },
+    "KH23": {
+      "site": "Khania",
+      "support": "Tablet",
+      "words": [
+        {
+          "linear_a": "A-DU[",
+          "reading": null,
+          "gloss": "broken after DU, unread (see unread A-DU[)",
+          "confidence": null
+        },
+        {
+          "linear_a": "CYP",
+          "reading": null,
+          "gloss": "cyperus, aromatic sedge (commodity logogram)",
+          "confidence": "PROBABLE"
+        }
+      ],
+      "translation": "A-DU[ … cyperus […]",
+      "notes": "Broken at the right and below; CYP is cut at its foot and a trace follows it. The editors print .1 A-DU[, DU at the right-hand fracture (GORILA III 57).",
+      "source": {
+        "di Mino": [
+          "CYP"
+        ],
+        "GORILA": [
+          "KH23"
+        ]
+      },
+      "confidence": "CANDIDATE",
+      "status": "incomplete"
+    },
+    "KH29": {
+      "site": "Khania",
+      "support": "Tablet",
+      "words": [
+        {
+          "linear_a": "KU-PA",
+          "reading": "quppa",
+          "gloss": "box, basket (standardized container for measured commodity allocations)",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "CYP",
+          "reading": null,
+          "gloss": "cyperus, aromatic sedge (commodity logogram)",
+          "confidence": "PROBABLE"
+        }
+      ],
+      "translation": "RA · TA₂ 1; box 2; cyperus ½ […]",
+      "notes": "Both sides are fractures: slight traces stand before RA and after TA₂.",
+      "source": {
+        "di Mino": [
+          "KU-PA",
+          "CYP"
+        ],
+        "GORILA": [
+          "KH29"
+        ]
+      },
+      "confidence": "CANDIDATE",
+      "status": "incomplete"
+    },
+    "KH41": {
+      "site": "Khania",
+      "support": "Tablet",
+      "words": [
+        {
+          "linear_a": "KA-TA-RE",
+          "reading": "Katare",
+          "gloss": "Katara, a town of western Crete (place name; Linear B ka-ta-ra)",
+          "confidence": "SPECULATIVE"
+        }
+      ],
+      "translation": "[…]3. Katara […]",
+      "notes": "KA is cut at the left break; TA and RE are whole.",
+      "source": {
+        "di Mino": [
+          "KA-TA-RE"
+        ],
+        "GORILA": [
+          "KH41"
+        ]
+      },
+      "confidence": "SPECULATIVE",
+      "status": "incomplete"
+    },
+    "KH47": {
+      "site": "Khania",
+      "support": "Tablet",
+      "words": [
+        {
+          "linear_a": "QA-NE",
+          "reading": "qanē",
+          "gloss": "reed, cane",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "SI",
+          "reading": "šay",
+          "gloss": "tribute, gift—logographic abbreviation of šay(u)",
+          "confidence": "PROBABLE"
+        }
+      ],
+      "translation": "[…] Reed 6; tribute; RA · *306[…]",
+      "notes": "QA is cut at the upper break and *306 at the right edge. The six unit strokes are whole.",
+      "source": {
+        "di Mino": [
+          "QA-NE",
+          "SI"
+        ],
+        "GORILA": [
+          "KH47"
+        ]
+      },
+      "confidence": "CANDIDATE",
+      "status": "incomplete"
+    },
+    "KH74": {
+      "site": "Khania",
+      "support": "Tablet",
+      "words": [
+        {
+          "linear_a": "JA-DA-SU",
+          "reading": "Yadaʿ-Šum",
+          "gloss": "personal name, 'Šum knew'",
+          "confidence": "SPECULATIVE"
+        }
+      ],
+      "translation": "]-SI · Yadaʿ-Šum; ]SI-*805-MI […]",
+      "notes": "Broken at the left and below; the top and right edges are original.",
+      "source": {
+        "di Mino": [
+          "JA-DA-SU"
+        ],
+        "GORILA": [
+          "KH74"
+        ]
+      },
+      "confidence": "SPECULATIVE",
+      "status": "incomplete"
+    },
+    "KH9": {
+      "site": "Khania",
+      "support": "Tablet",
+      "words": [
+        {
+          "linear_a": "A-SI-SU-PO-A",
+          "reading": "ʾassuppōa",
+          "gloss": "the storehouse (heading of issues), the word of A-SU-PU-WA",
+          "confidence": "SPECULATIVE"
+        },
+        {
+          "linear_a": "VIR+*307",
+          "reading": "VIR-dubur",
+          "gloss": "sanctuary personnel",
+          "confidence": "PROBABLE"
+        },
+        {
+          "linear_a": "NI",
+          "reading": null,
+          "gloss": "figs—commodity ideogram (FIC)",
+          "confidence": "CONFIRMED"
+        },
+        {
+          "linear_a": "I-SI",
+          "reading": "ʾiššê",
+          "gloss": "fire offering(s)",
+          "confidence": "SPECULATIVE"
+        },
+        {
+          "linear_a": "CYP",
+          "reading": null,
+          "gloss": "cyperus, aromatic sedge (commodity logogram)",
+          "confidence": "PROBABLE"
+        },
+        {
+          "linear_a": "VIN",
+          "reading": null,
+          "gloss": "wayn 'wine'",
+          "confidence": "PROBABLE"
+        }
+      ],
+      "translation": "The storehouse: sanctuary personnel ¹⁄₁₆; figs, a fraction; MI; fire offerings: cyperus (CYP+D) ½; 2; cyperus ¼; wine; cyperus, a fraction […] a fraction; SI+TA₂-*304 1.",
+      "notes": "The left margin is original; the right side is a fracture, which the ends of the lines meet.",
+      "source": {
+        "di Mino": [
+          "A-SI-SU-PO-A",
+          "VIR+*307",
+          "NI",
+          "I-SI",
+          "CYP",
+          "VIN"
+        ],
+        "GORILA": [
+          "KH9"
+        ]
+      },
+      "confidence": "SPECULATIVE",
+      "status": "incomplete"
+    },
+    "KH92": {
+      "site": "Khania",
+      "support": "Tablet",
+      "words": [
+        {
+          "linear_a": "A-DA-*21F-RI",
+          "reading": "ha-dāhari",
+          "gloss": "the Charioteer (PN, √d-h-r 'dash, gallop'; *21F = ha)",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "KU-NI-TE",
+          "reading": "kuhnēt",
+          "gloss": "priestess (fem. singular)",
+          "confidence": "SPECULATIVE"
+        }
+      ],
+      "translation": "Ha-dāhari, the priestess: 10[…] ]NA-KI 1 […]",
+      "notes": "The beginning is whole. Traces follow the 10 and precede the lower group.",
+      "source": {
+        "di Mino": [
+          "A-DA-*21F-RI",
+          "KU-NI-TE"
+        ],
+        "RILA-S1": [
+          "KH 92"
+        ]
+      },
+      "confidence": "SPECULATIVE",
+      "status": "incomplete"
+    },
+    "PH(?)31a": {
+      "site": "Phaistos",
+      "support": "Tablet",
+      "words": [
+        {
+          "linear_a": "CAP",
+          "reading": null,
+          "gloss": "goat (livestock logogram)",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "MA-DI",
+          "reading": "Maʾdi",
+          "gloss": "place name: a unit of men and livestock in the HT rosters",
+          "confidence": "SPECULATIVE"
+        },
+        {
+          "linear_a": "*21M",
+          "reading": null,
+          "gloss": "ram (livestock logogram)",
+          "confidence": "PROBABLE"
+        },
+        {
+          "linear_a": "*21F",
+          "reading": null,
+          "gloss": "ewe (livestock logogram, standing alone before a numeral)",
+          "confidence": "PROBABLE"
+        },
+        {
+          "linear_a": "KU-PA₃-NU",
+          "reading": "Kubānu",
+          "gloss": "devotee of Kubaba (Kubaba + -ān-), personal name or title",
+          "confidence": "PROBABLE"
+        },
+        {
+          "linear_a": "SUS",
+          "reading": null,
+          "gloss": "pig (livestock logogram)",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "PA-TA-DA",
+          "reading": "Patada",
+          "gloss": "personal name",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "KU-RO",
+          "reading": "kull",
+          "gloss": "total, sum (accounting term)",
+          "confidence": "CONFIRMED"
+        }
+      ],
+      "translation": "[…] ]A[…] ]RU: goat (CAPm+KU) 1; Maʾdi: ram 1; ewe[…] ]-NE 1; Kubānu: pig (SUS+SI+RE) 1; Patada[…] ]1. Total: goat (CAPm+KU) 1; rams 5; ewes 3.",
+      "notes": "The top and the left side are broken. GORILA prints PA-TA-DA[ (I 319); the edge beside DA looks original on the photograph and drawing. The final 3 stands at a chipped corner.",
+      "source": {
+        "di Mino": [
+          "CAP",
+          "MA-DI",
+          "*21M",
+          "*21F",
+          "KU-PA₃-NU",
+          "SUS",
+          "PA-TA-DA",
+          "KU-RO"
+        ],
+        "GORILA": [
+          "PH(?)31a"
+        ]
+      },
+      "confidence": "SPECULATIVE",
+      "status": "incomplete"
+    },
+    "PH(?)31b": {
+      "site": "Phaistos",
+      "support": "Tablet",
+      "words": [
+        {
+          "linear_a": "*22F",
+          "reading": null,
+          "gloss": "she-goat (livestock logogram)",
+          "confidence": "PROBABLE"
+        },
+        {
+          "linear_a": "*21F",
+          "reading": null,
+          "gloss": "ewe (livestock logogram, standing alone before a numeral)",
+          "confidence": "PROBABLE"
+        },
+        {
+          "linear_a": "*22M",
+          "reading": null,
+          "gloss": "he-goat (livestock logogram)",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "TE-RI",
+          "reading": "tēri",
+          "gloss": "attendant, courtier (recipient)",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "*21M",
+          "reading": null,
+          "gloss": "ram (livestock logogram)",
+          "confidence": "PROBABLE"
+        },
+        {
+          "linear_a": "SUS",
+          "reading": null,
+          "gloss": "pig (livestock logogram)",
+          "confidence": "CANDIDATE"
+        }
+      ],
+      "translation": "[…] ]she-goats 2; ewe 1; ]-DU-RI: he-goat 1; TU-[…] ]NE: he-goat 1; she-goats 5; the attendant: ram[…] 1; [?]-RU-MA-TI: ram; pig (SUS+SI)[…] ]-A-MI-DA-O: ram 1.",
+      "notes": "The top and both sides are broken. Strokes of an unidentified sign stand before RU-MA-TI and after TU.",
+      "source": {
+        "di Mino": [
+          "*22F",
+          "*21F",
+          "*22M",
+          "TE-RI",
+          "*21M",
+          "SUS"
+        ],
+        "GORILA": [
+          "PH(?)31b"
+        ]
+      },
+      "confidence": "CANDIDATE",
+      "status": "incomplete"
+    },
+    "PH3a": {
+      "site": "Phaistos",
+      "support": "Tablet",
+      "words": [
+        {
+          "linear_a": "PA-RA",
+          "reading": "parr(u)",
+          "gloss": "skin, fleece (a hide with its wool)",
+          "confidence": "SPECULATIVE"
+        }
+      ],
+      "translation": "]*556 1; TA[…] ]*557 1; *563, a fraction; ]wool (MA+RU), a fraction; fleece, a fraction; ]PA[…] ]1.",
+      "notes": "The left side and the bottom are broken. GORILA dots the first and the last unit (I 291); the three fractions are whole.",
+      "source": {
+        "di Mino": [
+          "PA-RA"
+        ],
+        "GORILA": [
+          "PH3a"
+        ]
+      },
+      "confidence": "SPECULATIVE",
+      "status": "incomplete"
+    },
+    "ZA11a": {
+      "site": "Zakros",
+      "support": "Tablet",
+      "words": [
+        {
+          "linear_a": "DI-DI-KO-RA-ME-TA₂",
+          "reading": "Djed-ka-Re meti",
+          "gloss": "personal name, 'The ka of Re endures, the reliable one' (Egyptian)",
+          "confidence": "SPECULATIVE"
+        },
+        {
+          "linear_a": "*516",
+          "reading": "šipru",
+          "gloss": "account, register (šipru), a transaction logogram",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "GRA+PA",
+          "reading": "parīsu",
+          "gloss": "parīsu, the half-gur grain measure (CAD P 186; DULAT 671–672 prś)",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "VIN",
+          "reading": null,
+          "gloss": "wayn 'wine'",
+          "confidence": "PROBABLE"
+        },
+        {
+          "linear_a": "KU-PA",
+          "reading": "quppa",
+          "gloss": "box, basket (standardized container for measured commodity allocations)",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "PI-*310-A",
+          "reading": "pīnā",
+          "gloss": "face, front",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "OLIV",
+          "reading": null,
+          "gloss": "zayt 'olive (fruit)'",
+          "confidence": "PROBABLE"
+        }
+      ],
+      "translation": "Djed-ka-Re the reliable, account: parīsu-measure; ]-RA-MA-SI: wine ½[…] ]E-KU-RU 2¼; JU, a fraction; wine ½; QE+GRA+PA 4; box: parīsu-measure 1; in front: olives 2 […]",
+      "notes": "The left margin is original at the first line. The middle lines are broken at the left, with traces before RA-MA-SI, and the first ½ is itself cut. The bottom is lost.",
+      "source": {
+        "di Mino": [
+          "DI-DI-KO-RA-ME-TA₂",
+          "*516",
+          "GRA+PA",
+          "VIN",
+          "KU-PA",
+          "PI-*310-A",
+          "OLIV"
+        ],
+        "GORILA": [
+          "ZA11a"
+        ]
+      },
+      "confidence": "SPECULATIVE",
+      "status": "incomplete"
+    },
+    "ZA11b": {
+      "site": "Zakros",
+      "support": "Tablet",
+      "words": [
+        {
+          "linear_a": "*516",
+          "reading": "šipru",
+          "gloss": "account, register (šipru), a transaction logogram",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "SA-*301-RI",
+          "reading": "šannāri",
+          "gloss": "Cat (personal name)",
+          "confidence": "SPECULATIVE"
+        },
+        {
+          "linear_a": "GRA+PA",
+          "reading": "parīsu",
+          "gloss": "parīsu, the half-gur grain measure (CAD P 186; DULAT 671–672 prś)",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "OLIV",
+          "reading": null,
+          "gloss": "zayt 'olive (fruit)'",
+          "confidence": "PROBABLE"
+        },
+        {
+          "linear_a": "KU-PA",
+          "reading": "quppa",
+          "gloss": "box, basket (standardized container for measured commodity allocations)",
+          "confidence": "CANDIDATE"
+        }
+      ],
+      "translation": "E-TO-RI-[?], account: Šannāri: parīsu-measure 1; I: olives 1[…] ]I-DE[…] RA 2; box: parīsu-measure 3 […]",
+      "notes": "Traces follow the 1 after OLIV, at the break. The lower part is lost.",
+      "source": {
+        "di Mino": [
+          "*516",
+          "SA-*301-RI",
+          "GRA+PA",
+          "OLIV",
+          "KU-PA"
+        ],
+        "GORILA": [
+          "ZA11b"
+        ]
+      },
+      "confidence": "SPECULATIVE",
+      "status": "incomplete"
+    },
+    "ZA21b": {
+      "site": "Zakros",
+      "support": "Tablet",
+      "words": [
+        {
+          "linear_a": "I-DA",
+          "reading": "ʾIda",
+          "gloss": "Ida, 'the Hand' (sacred mountain—toponym/theonym)",
+          "confidence": "PROBABLE"
+        }
+      ],
+      "translation": "Ida; KI 2; SA-RI[…] ME.",
+      "notes": "The middle of the face is lost; a blank band stands above ME.",
+      "source": {
+        "di Mino": [
+          "I-DA"
+        ],
+        "GORILA": [
+          "ZA21b"
+        ]
+      },
+      "confidence": "PROBABLE",
+      "status": "incomplete"
+    },
+    "ZA24a": {
+      "site": "Zakros",
+      "support": "Tablet",
+      "words": [
+        {
+          "linear_a": "I-DA",
+          "reading": "ʾIda",
+          "gloss": "Ida, 'the Hand' (sacred mountain—toponym/theonym)",
+          "confidence": "PROBABLE"
+        },
+        {
+          "linear_a": "GRA",
+          "reading": null,
+          "gloss": "dagān 'grain, cereal'",
+          "confidence": "PROBABLE"
+        }
+      ],
+      "translation": "Ida: grain […]",
+      "notes": "GRA is cut at the broken right edge, and the bottom is lost.",
+      "source": {
+        "di Mino": [
+          "I-DA",
+          "GRA"
+        ],
+        "GORILA": [
+          "ZA24a"
+        ]
+      },
+      "confidence": "PROBABLE",
+      "status": "incomplete"
+    },
+    "ZA7b": {
+      "site": "Zakros",
+      "support": "Tablet",
+      "words": [
+        {
+          "linear_a": "A-MA",
+          "reading": "ʿamma",
+          "gloss": "people, kinfolk—social/kinship term",
+          "confidence": "CANDIDATE"
+        }
+      ],
+      "translation": "The people […] a fraction […]",
+      "notes": "Lines 2 to 7 are lost (GORILA III 163); two fraction signs stand at the lower break.",
+      "source": {
+        "di Mino": [
+          "A-MA"
+        ],
+        "GORILA": [
+          "ZA7b"
+        ]
+      },
+      "confidence": "CANDIDATE",
+      "status": "incomplete"
+    },
+    "ZAWc2": {
+      "site": "Zakros",
+      "support": "Roundel",
+      "words": [
+        {
+          "linear_a": "A-TI-KA",
+          "reading": "ʿAtīqa",
+          "gloss": "personal name, 'enduring'",
+          "confidence": "SPECULATIVE"
+        }
+      ],
+      "translation": "ʿAtīqa · A-DU-KO-[MI]",
+      "notes": "MI stands in erasure brackets (GORILA II 98). Perna reads the last sign as the numeral 2, and Anastasiadou follows him (Anastasiadou 2026, 38–41).",
+      "source": {
+        "di Mino": [
+          "A-TI-KA"
+        ],
+        "GORILA": [
+          "ZAWc2"
+        ]
+      },
+      "confidence": "SPECULATIVE",
+      "status": "incomplete"
     }
   }
 }

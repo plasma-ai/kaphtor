@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/inscriptions/ZA/ZAWc/ZAWc2
 title: "ZAWc2"
-desc: "Roundel, Zakros, LMIB. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "roundel"]
+desc: "Roundel, Zakros, LMIB. Translation: incomplete (SPECULATIVE)."
+tags: ["linear-a", "inscription", "translation-incomplete", "roundel"]
 kind: "inscription"
 id: "ZAWc2"
 site: "Zakros"
 support: "Roundel"
 period: "LMIB"
-translation: "none"
+translation: "incomplete"
 words: ["A-TI-KA"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -48,6 +48,25 @@ Unicode (Linear A block):
 𐘇𐘠𐘾𐘇
 𐘬𐘺𐘻
 ```
+
+## Translation
+
+**SPECULATIVE**, incomplete (status: incomplete).
+
+> ʿAtīqa · A-DU-KO-\[MI\]
+
+| Word | Reading | Gloss | Confidence | Lexicon |
+|---|---|---|---|---|
+| [[wiki/linear-a/words/A/A_TI_KA\|A-TI-KA]] | ʿAtīqa | personal name, 'enduring' | SPECULATIVE | SPECULATIVE (lexicon) |
+
+### Notes
+
+MI stands in erasure brackets (GORILA II 98). Perna reads the last sign as the numeral 2, and Anastasiadou follows him (Anastasiadou 2026, 38–41).
+
+### Source
+
+- di Mino: A-TI-KA
+- GORILA: ZAWc2
 
 ## Lexicon words citing this document
 

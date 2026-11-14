@@ -91,6 +91,6 @@ Reading from the lexicon (di Mino).
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/D/DA_RE|DA-RE]] dār, [[wiki/linear-a/words/K/KI|KI]], [[wiki/linear-a/words/K/KU_PA3_NU|KU-PA₃-NU]] Kubānu, [[wiki/linear-a/words/T/TE_star301|TE-\*301]] Tēnā.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/D/DA_RE|DA-RE]] dār, [[wiki/linear-a/words/K/KI|KI]] kilʾu, [[wiki/linear-a/words/K/KU_PA3_NU|KU-PA₃-NU]] Kubānu, [[wiki/linear-a/words/T/TE_star301|TE-\*301]] Tēnā.
 
 <!-- END kaphtor:record -->

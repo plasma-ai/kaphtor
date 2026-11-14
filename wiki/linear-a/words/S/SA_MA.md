@@ -49,6 +49,7 @@ HT 10a: the first entry under KU-NI-SU 'emmer', quantity 4, on an allocation tab
 |---|---|
 | Akkadian | šammu(m) "herb, plant, drug, aromatic"—ubiquitous in administrative/pharmaceutical texts |
 | Hebrew | sammîm (סַמִּים) "spices, aromatics" (Exod 30:34) |
+| Ugaritic | smm 'perfume' (DULAT 751) |
 
 ### Source
 

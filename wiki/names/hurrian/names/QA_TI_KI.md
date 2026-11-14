@@ -44,7 +44,7 @@ Kattike: Hurrian kat(t)- + the formative -ki (NPN 224), on kad- 'to say' (Richte
 
 | Language | Comparison |
 |---|---|
-| Hurrian | kat, katt and the formative -ke, var. -ki (Inniki, Unniki, Zirriki), Nuzi Qa-ti-ri (NPN 224); kad- I, katt- 'to say' (Richter 2012, 195); Mari Katiya, Kattiri (Monti 2017, 255, 432) |
+| Hurrian | kat, katt and the formative -ke, var. -ki (Inniki, Unniki, Zirriki), Nuzi Qa-ti-ri (NPN 224); kad- I, katt- 'to say' (Richter 2012, 195); Katiya at Mari, Kattiri at Tigunāni (Monti 2017, 255, 432) |
 
 ## Attestations
 

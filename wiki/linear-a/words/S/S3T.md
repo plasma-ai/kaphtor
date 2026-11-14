@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/words/S/S3T
 title: "S3T"
-desc: "the śĕʾēt-mark (skin-disease term—rubric disease name). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "hapax", "noun", "ritual"]
+desc: "śṭ-: turn aside! (imperative, command to the disease); rival śĕʾēt. Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "hapax", "ritual", "verb"]
 kind: "word"
 form: "S3T"
 datasets: ["lexicon"]
 tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.2
-reading: null
+reading: "śṭ-"
 attestations: ["LMP-Spell33"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,31 +31,40 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Meaning | the śĕʾēt-mark (skin-disease term—rubric disease name) |
-| Root | √n-ś-ʾ |
-| Proto-Semitic | \*nśʾ- (#S38) |
+| Reading | śṭ- |
+| Meaning | turn aside! (imperative, command to the disease); rival śĕʾēt |
+| Root | √ś-ṭ-y |
+| Proto-Semitic | \*śVṭVy- (#K0494) |
 | Language layer | Semitic |
-| Tags | hapax, noun, ritual |
+| Tags | hapax, ritual, verb |
 | Semantic field | ritual |
 
 ### Note
 
-LMP Spell 33, rubric element 5 (Akulov 2023, 3): s-ꜣ-t, the final loaf the Egyptian word t(i) 'bread' used for its sound (Kyriakidis 2002, 213 n. 15), a many-consonant sign read as a whole Egyptian word (Helck 1989, 123). s-ꜣ-t writes ś-ʾ-t: Heb. שְׂאֵת śĕʾēt, a skin-disease term (Lev 13:2, 10, 19, 28, 43; 14:56), 'swelling' for the rabbis, from nāśāʾ 'lift' (Sipra, b. Šebu. 6b), 'mark' in the Targums, 'discoloration' for Milgrom (Milgrom 1991, 773). With WBQY the rubric names the disease in the vocabulary of Lev 13, śĕʾēt (13:2) and bōhaq (13:39). Rival: Akulov's 'spread through grain and soil', which takes the loaf and land signs as determinatives (Akulov 2023, 3–4). Steiner leaves s-ꜣ-t unread (Steiner 1992, 198). See DA-NA-SI.
+London Medical Papyrus (BM 10059), Spell 33: s-t, the second group of the spell, the t written with the Egyptian word t 'bread' used for its sound (Kyriakidis 2002, 213 n. 15). Egyptian s writes ṯ, ś and here š, and t writes t and ṭ (Hoch 1994, 407, 410 n. 44): śṭ- 'turn aside!', √ś-ṭ-y, Heb. śṭh 'to deviate, turn aside' (HALOT 1316), by-form śwṭ (HALOT 1312), Geʿez śaṭaya. With S3-BW it gives 'Turn aside! Turn back!'. Rivals: šīt 'set!', √š-y-t; √š-d-d 'devastate' (DULAT 799), with t for d; Heb. śĕʾēt, a skin-disease term (Lev 13:2; HALOT 1301), with the ʾ unwritten; Akulov's 'spread through grain and soil', which takes the bread signs as determinatives (Akulov 2023, 3–4). Steiner leaves it unread (Steiner 1992, 198).
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Hebrew | śəʾēt II 'spot, blemish on the skin', ʾādām kî yihyeh bəʿôr bəśārô śəʾēt 'a man, when there is on the skin of his flesh a śəʾēt' (Lev 13:2; HALOT 1301) |
+| Hebrew | śṭh 'to deviate, turn aside' (HALOT 1316); śwṭ 'to turn away' (HALOT 1312); rival śəʾēt II 'spot, blemish on the skin' (Lev 13:2; HALOT 1301) |
+| Geʿez | taśaṭya 'deviate from the right path, be led astray'; śaṭyat 'misleading (n.)' (LGz. 538) |
+| Syriac | sṭā 'to turn aside, depart, apostatize' (Payne Smith 372; HALOT 1316) |
 
 ### Source
 
-di Mino; Akulov 2023; Kyriakidis 2002; Helck 1989; Milgrom 1991; Steiner 1992
+di Mino; Hoch 1994; Kyriakidis 2002; HALOT; DULAT; Akulov 2023; Steiner 1992
 
 ## Attestations
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/LMP/LMP_Spell33\|LMP-Spell33]] | Thebes (Egypt) |  | complete; no corpus record |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/LMP/LMP_Spell33\|LMP-Spell33]] | śṭ- | turn aside! | SPECULATIVE |
 
 <!-- END kaphtor:record -->

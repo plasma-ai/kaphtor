@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/1767_be_thin_be_weak
 title: "*rik-: 'be thin, be weak'"
-desc: "Proto-Semitic *rik-, 'be thin, be weak': reflexes in 6 language(s)."
+desc: "Proto-Semitic *rik-, 'be thin, be weak': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1767"
@@ -36,6 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | rkyk (HALOT 1230) | HALOT 1230 |  |
 | Syrian Aramaic | rakkīkā (HALOT 1230) | HALOT 1230 |  |
 | Mandaic Aramaic | rakik (HALOT 1230) | HALOT 1230 |  |
+| Pre-Islamic North Arabian | Taymanitic rkʾl (Al-Jallad 2026b, 73) | Al-Jallad 2026b 73 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

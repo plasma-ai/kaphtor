@@ -49,6 +49,7 @@ KH 88, a list headed QA-NU-MA · \*21F-\*118 ḥiṭṭa 'wheat', with NI figs 1
 |---|---|
 | Arabic | budd, budda 'a lot, share, portion' (Lane 161) |
 | Hebrew | bad 'part, portion'; bad bəbad 'in equal portions' (Ex 30:34; HALOT 108) |
+| Safaitic | bddt 'share; portion' (Al-Jallad 2026, 26) |
 
 ### Source
 

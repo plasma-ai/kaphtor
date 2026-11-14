@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0",
+  "dataset": "DIANA I: the Safaitic dictionary of Al-Jallad 2026 (version 2026.1), one row per headword of the dictionary proper and the toponym glossary, and per name of the Group Names and Divine Names lists",
+  "source": {
+    "work": "Al-Jallad, Ahmad, Dictionary of the Inscriptions of Ancient North Arabia, Volume I: Safaitic, version 2026.1, Online Corpus of the Inscriptions of Ancient North Arabia (OCIANA), Columbus, Ohio 2026, DOI 10.5281/zenodo.23847496",
+    "pdf": {
+      "file": "AlJallad-DictionaryInscriptionsAncientNorthArabia-I-Safaitic-2026.pdf",
+      "sha256": "6d25bbd589bd7ffe02843d285a14bb877d701c2f98676f85f15137616d88012c"
+    },
+    "text_layer": "the PDF's own (born-digital), read with PyMuPDF",
+    "pdf_pages_read": [
+      [
+        33,
+        208
+      ],
+      [
+        209,
+        214
+      ],
+      [
+        215,
+        216
+      ],
+      [
+        217,
+        218
+      ]
+    ],
+    "pdf_page_rule": "printed page = pdf - 31"
+  },
+  "notation": {
+    "alphabet": "ʾ ʿ b d ḏ ḍ f g ġ h ḫ ḥ k l m n q r s ś ṣ t ṯ ṭ w y z ẓ (s¹ s² printed s ś)",
+    "homograph": "a superscript digit in print; stored as an integer, headword_printed keeps it",
+    "languages": "the book's tags (CAr, NAr, Hbr, Arm, Gz, Sab, Ug; His, Dad, GrAr …) as the names its List of Abbreviations gives"
+  },
+  "identity_rule": "diana:p<pdf page>#<n>, n the headword's place among those that begin on that page; an entry running over a page keeps its first page",
+  "row_counts": {
+    "rows": 1886,
+    "pages": 186
+  },
+  "kinds": {
+    "name": 369,
+    "place": 107,
+    "word": 1410
+  },
+  "sections": {
+    "dictionary": 1439,
+    "divine_names": 58,
+    "group_names": 282,
+    "toponyms": 107
+  },
+  "languages": {
+    "Safaitic": 2197,
+    "Classical Arabic": 1852,
+    "Aramaic": 1080,
+    "Najdi Arabic": 1028,
+    "Geʿez": 618,
+    "Sabaic": 563,
+    "Hebrew": 551,
+    "Ugaritic": 304,
+    "Hismaic": 95,
+    "Dadanitic": 74,
+    "Graeco-Arabica": 33,
+    "Taymanitic": 26,
+    "Thamudic B": 19,
+    "Dhofari": 17,
+    "Thamudic D": 12,
+    "Dumaitic": 9,
+    "Hasaitic": 8,
+    "Thamudic": 6,
+    "Qaryat al-Fāw": 3,
+    "Levantine Arabic": 2,
+    "Thamudic C": 2,
+    "Ancient North Arabian": 1,
+    "Egyptian Arabic": 1,
+    "Ḥimaitic": 1
+  },
+  "report": {
+    "unknown_tags": {}
+  },
+  "outputs": {
+    "records.jsonl": {
+      "rows": 1886,
+      "sha256": "1852650d2cbb9d1fb08b40a1892263fd1a9b311ce43558aa8be45db9f633f8fe"
+    }
+  },
+  "license_note": "CC BY-NC-ND 4.0 (© 2026 Ahmad Al-Jallad): the entries as printed, with their pages, for non-commercial reference; the entries' text unchanged, in another format, beside the index fields forms and match_keys",
+  "license": "CC BY-NC-ND 4.0",
+  "source_url": "https://doi.org/10.5281/zenodo.23847496"
+}

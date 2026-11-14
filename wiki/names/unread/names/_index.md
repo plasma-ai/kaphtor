@@ -3,7 +3,7 @@ name: wiki/names/unread/names
 title: "Unread names"
 desc: "The Unread names, one page each."
 created: 2026-11-11T23:39:03Z
-updated: 2026-11-11T23:49:15Z
+updated: 2026-11-16T19:24:13Z
 ---
 
 # Unread names
@@ -11,8 +11,6 @@ updated: 2026-11-11T23:49:15Z
 [[wiki/names/unread/_index|..]]
 
 [[wiki/names/unread/names/JA_star345|JA_star345]]: no reading. Unread.
-
-[[wiki/names/unread/names/KA_QA|KA_QA]]: no reading. Unread.
 
 [[wiki/names/unread/names/NU_DU_star331|NU_DU_star331]]: no reading. Unread.
 

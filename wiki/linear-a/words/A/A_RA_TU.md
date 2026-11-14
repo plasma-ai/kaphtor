@@ -37,26 +37,26 @@ updated: 2026-10-24T16:17:50Z
 | Proto-Semitic | \*ʾar(V)ṣ̂- (#768) |
 | Language layer | Semitic |
 | Tags | hapax, noun |
-| Semantic field | toponym |
+| Semantic field | ritual |
 
 ### Note
 
-ZA 7a, a Zakros allocation tablet: A-RA-TU 4, beside A-RE-TU-MI, which words or a number may have followed, ʾarṣ̂-ummī 'Earth is my mother'. ʾarṣ̂atu 'earth', PS \*ʾar(V)ṣ̂-, -TU the feminine -at(u); the emphatic lateral ṣ̂ is unwritten, as in A-RE-TU-MI. A-RA-TU keeps the a of the absolute state, and A-RE-TU-MI reduces it to e in the construct before -ummī: the noun and the theophoric name stand on one tablet. A-RA-TU-ME, a hapax heading on the roundel HT Wc 3024, is ʾarṣ̂atum with mimation, as Akkadian erṣetum. Mimation marks the nonbound singular in both genders in Proto-Semitic, \*ṭāb-at-u-m beside \*ṭāb-u-m (Huehnergard 2019, 59–60, Table 3.7), and in Amorite, a-še-ra-tum, ḫa-na-tum, ni-iḫ-ma-tam, where it is 'common but apparently optional' (George and Krebernik 2022, 131). Minoan writes it on three masculine singulars, RI-SU-MA, MA-RU-ME and JA-SA-SA-RA-ME, against more than 200 without, so at that rate the eight other feminine -at common nouns are expected bare.
+ZA 7a, a Zakros allocation tablet: A-RA-TU 4, beside A-RE-TU-MI, which words or a number may have followed, ʾarṣ̂-ummī 'Earth is my mother'. ʾarṣ̂atu 'earth', PS \*ʾar(V)ṣ̂-, -TU the feminine -at(u); the emphatic lateral ṣ̂ is unwritten, as in A-RE-TU-MI. A-RA-TU keeps the a of the absolute state, and A-RE-TU-MI reduces it to e in the construct before -ummī: the noun and the theophoric name stand on one tablet. A-RA-TU-ME, a hapax heading on the roundel HT Wc 3024, is ʾarṣ̂atum with mimation, as Akkadian erṣetum. Mimation marks the nonbound singular in both genders in Proto-Semitic, \*ṭāb-at-u-m beside \*ṭāb-u-m (Huehnergard 2019, 59–60, Table 3.7), and in Amorite, a-še-ra-tum, ḫa-na-tum, ni-iḫ-ma-tam, where it is 'common but apparently optional' (George and Krebernik 2022, 131). Minoan writes it on three masculine singulars, RI-SU-MA, MA-RU-ME and JA-SA-SA-RA-ME, against more than 200 without, so at that rate the eight other feminine -at common nouns are expected bare. At Ugarit ảrṣ w šmm 'Earth and Heaven' receives a sheep as a burnt offering, šrp (KTU 1.148:5; Pardee 2000, 969), as U-JU stands one line above.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Akkadian | erṣetu(m) "earth, land, ground"—standard citation form erṣetum carries feminine mimation, supporting ʾarṣ̂atum as regular East-Semitic-style case marking |
-| Ugaritic | ʾarṣ "earth" (ṣ̂→ṣ merger) |
+| Ugaritic | ʾarṣ "earth" (ṣ̂→ṣ merger); ảrṣ w šmm, offered a sheep as šrp (KTU 1.148:5; Pardee 2000, 969) |
 | Hebrew | ʾereṣ (אֶרֶץ) "earth, land" (ṣ̂→ṣ merger) |
 | Arabic | ʾarḍ- "earth" (ṣ̂→ḍ, preserves lateral) |
 | Aramaic | ʾarʕ- "earth" (ṣ̂→ʕ fricativization) |
-| South Arabian | ʾrḍ "earth" (ṣ̂→ḍ, preserves lateral) |
+| Epigraphic South Arabian | ʾrḍ "earth" (ṣ̂→ḍ, preserves lateral) |
 
 ### Source
 
-di Mino
+di Mino; Pardee 2000; Huehnergard 2019; George and Krebernik 2022
 
 ## Attestations
 

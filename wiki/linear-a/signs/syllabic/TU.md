@@ -77,7 +77,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/T/TE_TU\|TE-TU]] | Tetu | SPECULATIVE |
 | [[wiki/linear-a/words/T/TU\|TU]] | ṯawr | CANDIDATE |
 | [[wiki/linear-a/words/T/TU_star21F_RI_NA\|TU-\*21F-RI-NA]] | ṭuhārīna | PROBABLE |
-| [[wiki/linear-a/words/T/TU_JU_MA\|TU-JU-MA]] | Tuʿlum | SPECULATIVE |
+| [[wiki/linear-a/words/T/TU_JU_MA\|TU-JU-MA]] | Tuʿluma | SPECULATIVE |
 | [[wiki/linear-a/words/T/TU_MA\|TU-MA]] | tūma | CANDIDATE |
 | [[wiki/linear-a/words/T/TU_ME_I\|TU-ME-I]] | tummī | CANDIDATE |
 | [[wiki/linear-a/words/T/TU_MI_TI_ZA_SE\|TU-MI-TI-ZA-SE]] | tumtiṣa-se | SPECULATIVE |

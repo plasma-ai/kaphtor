@@ -60,12 +60,13 @@ di Mino; GlOS 2; Pentiuc 2001; Gelb 1980
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA5a\|ZA5a]] | Zakros | Tablet | complete |
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA15a\|ZA15a]] | Zakros | Tablet | none |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA15a\|ZA15a]] | Zakros | Tablet | complete |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA5a\|ZA5a]] | samidē | semolina / groats | CANDIDATE |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA15a\|ZA15a]] | samidē | groats, semolina, processed grain | CANDIDATE |
 
 <!-- END kaphtor:record -->

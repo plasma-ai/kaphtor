@@ -9,7 +9,7 @@ site: "Tel Haror"
 support: "Clay vessel"
 period: ""
 translation: "complete"
-words: ["NI"]
+words: ["MU", "NI"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -55,7 +55,7 @@ Unicode (Linear A block):
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/M/MU\|MU]] | mūru | bovine (commodity ideogram) | CONFIRMED |  |
+| [[wiki/linear-a/words/M/MU\|MU]] | mūru | bovine (commodity ideogram) | CONFIRMED | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/T/TELA_plus_TE\|TELA+TE]] |  | cloth logogram, TE ligatured | CANDIDATE |  |
 | [[wiki/linear-a/words/N/NI\|NI]] | \*nikuleon | figs | CONFIRMED | CONFIRMED (lexicon) |
 
@@ -69,7 +69,7 @@ Olivier 1999 via RILA-S1 D 13; Younger
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/N/NI|NI]].
+[[wiki/linear-a/words/M/MU|MU]], [[wiki/linear-a/words/N/NI|NI]].
 
 ## Corpus note
 

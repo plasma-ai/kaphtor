@@ -43,7 +43,7 @@ updated: 2026-10-22T17:38:31Z
 | Amorite | ʾmr: jaʾmur, ʾamar, ʾamara, ʾāmirum (Gelb AS 21, 14); ʾamar, yaʾmur, ʾamir, ʾatamru (Buck 2019, 324) | Gelb AS 21 14; Buck 2019, 324 | gloss withheld |
 | Judaic Aramaic | mēmᵉrā (HALOT 540) | HALOT 540 | gloss withheld |
 | Punic | ʾmr (Krahmalkov 61); umer; ʾmr (Krahmalkov 61) | Krahmalkov 61; Anderson–Moser 2024 root ʾmr | gloss withheld |
-| Pre-Islamic North Arabian | Taymanitic ʾmr (Al-Jallad 2026, 7) | Al-Jallad 2026 7 | gloss withheld |
+| Pre-Islamic North Arabian | Taymanitic ʾmr (Al-Jallad 2026b, 2); ys³ʿʾmr (Al-Jallad 2026b, 78) | Al-Jallad 2026b 2; Al-Jallad 2026b 78 | gloss withheld |
 | Epigraphic South Arabian | Sab ʾmr (Sabaweb lemma 8632); Min ʾmr (LM 5 apud SEDonline 130); Qat ʾmr (LIQ 13 apud SEDonline 130) | Sabaweb lemma 8632; LM 5; SEDonline 130; LIQ 13 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

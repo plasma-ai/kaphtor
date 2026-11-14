@@ -59,8 +59,8 @@ di Mino; HALOT
 | [[wiki/linear-a/inscriptions/HT/HT/HT64\|HT64]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/KH/KH/KH6\|KH6]] | Khania | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/KN/KNWc/KNWc29\|KNWc29]] | Knossos | Roundel | none |
-| [[wiki/linear-a/inscriptions/PH/PH/PH_q_31a\|PH(?)31a]] | Phaistos | Tablet | none |
-| [[wiki/linear-a/inscriptions/PH/PH/PH_q_31b\|PH(?)31b]] | Phaistos | Tablet | none |
+| [[wiki/linear-a/inscriptions/PH/PH/PH_q_31a\|PH(?)31a]] | Phaistos | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/PH/PH/PH_q_31b\|PH(?)31b]] | Phaistos | Tablet | incomplete |
 
 ## In translations
 
@@ -68,5 +68,7 @@ di Mino; HALOT
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT20\|HT20]] |  | ram (logogram), ⅛ | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT64\|HT64]] |  | ram (logogram), 6 | PROBABLE |
+| [[wiki/linear-a/inscriptions/PH/PH/PH_q_31a\|PH(?)31a]] |  | ram (livestock logogram) | PROBABLE |
+| [[wiki/linear-a/inscriptions/PH/PH/PH_q_31b\|PH(?)31b]] |  | ram (livestock logogram) | PROBABLE |
 
 <!-- END kaphtor:record -->

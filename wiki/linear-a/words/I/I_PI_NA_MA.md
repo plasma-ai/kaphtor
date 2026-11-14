@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Complete at three peak sanctuaries: IO Za 2 and IO Za 15 (Iouktas), KO Za 1 (Kophinas), VRY Za 1 (Vrysinas). Damaged at Troullos (TL Za 1 \[…\]NA-MA) and Apodoulou (AP Za 2 I-PI-NA-MA\[, to a broken edge), and I-PI\[ at the break of PK Za 8. ʾippina=ma 'in the presence of': pnm, Heb. pānîm 'face, presence' (HALOT 938), Ug. pnm 'face, countenance' (DULAT 664). Biblical cult pairs approach before the divine presence with acceptance (Lev 1:3–4; Ps 19:15; Mal 1:8), as I-PI-NA-MA stands beside the √r-ṣ-y verb of the fuller formula. PI writes pin- against Heb. pānîm and Akk. pānu, a different vowel in one root: Hebrew shifted \*a &gt; \*i more than once (Suchard 2016, 189), Punic writes Tinnit's epithet pn bʿl as Θινιθ-Φανεβαλ and Θεννειθ-Φενηβαλ (Krahmalkov 2000, 398, 495), and SED reconstructs \*yad- 'hand', of the same noun pattern as \*pan-, 'with a variant \*id- … probably for PS too' (SED I, CXXX). Rival: Davis's functional gloss 'a favor, a blessing' (Davis 2026, 55). See PI-\*310-A.
+Complete at three peak sanctuaries: IO Za 2 and IO Za 15 (Iouktas), KO Za 1 (Kophinas), VRY Za 1 (Vrysinas). Damaged at Troullos (TL Za 1 \[…\]NA-MA) and Apodoulou (AP Za 2 I-PI-NA-MA\[, to a broken edge), and I-PI\[ at the break of PK Za 8. ʾippina=ma 'in the presence of': pnm, Heb. pānîm 'face, presence' (HALOT 938), Ug. pnm 'face, countenance' (DULAT 664). Biblical cult pairs approach before the divine presence with acceptance (Lev 1:3–4; Ps 19:15; Mal 1:8), as I-PI-NA-MA stands beside the √r-ṣ-y verb of the fuller formula. PI writes pin- against Heb. pānîm and Akk. pānu, a different vowel in one root: Hebrew shifted \*a &gt; \*i more than once (Suchard 2016, 189), Punic writes Tinnit's epithet pn bʿl as Θινιθ-Φανεβαλ and Θεννειθ-Φενηβαλ (Krahmalkov 2000, 398, 495), and SED reconstructs \*yad- 'hand', of the same noun pattern as \*pan-, 'with a variant \*id- … probably for PS too' (SED I, CXXX). The i may itself have had a wider range: Gaza's coins of Hadrian's reign write Minos ΜΕΙΝ\[ΩΣ\] (Hill 1914, 144), as if Greek ears centuries later heard the Minoan i towards ei. Cf. the a and i of one name in TA-NA-TI Tanāti and TI-NI-TA Tinit. Rival: Davis's functional gloss 'a favor, a blessing' (Davis 2026, 55). See PI-\*310-A.
 
 ### Cognates
 
@@ -56,7 +56,7 @@ Complete at three peak sanctuaries: IO Za 2 and IO Za 15 (Iouktas), KO Za 1 (Kop
 
 ### Source
 
-di Mino; GlOS 2
+di Mino; GlOS 2; Hill 1914; Davis 2026; Krahmalkov 2000; Suchard 2016
 
 ## Attestations
 

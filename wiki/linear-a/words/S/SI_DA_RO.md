@@ -55,7 +55,13 @@ di Mino; GlOS 2
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/GO/GO/GO2r\|GO2r]] | Gournia | Tablet | none |
+| [[wiki/linear-a/inscriptions/GO/GO/GO2r\|GO2r]] | Gournia | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/GO/GO/GO2r\|GO2r]] | siddāru | siddāru 'Arranger' (personal name; spelling of SI-DA-RE) | SPECULATIVE |
 
 ## Onomasticon
 

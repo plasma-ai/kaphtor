@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 13 KU-ZU-NI 18, in the KA-U-DE-TA wine list beside TE-TU (Ugaritic tt); HT 85a KU-ZU-NI 5, in a roster counted in men; both tablets also list DA-SI-\*118 and TE-KE/TE-KI. ZU writes ṯ as in ZU-DI ṯudī and A-ZU-RA ʾAṯirat: KU-ZU-NI spells Ugaritic kṯn, syllabic ku-ši-nu (RS 15.09 B I 7; Kinlaw 1967, 76), ki-še-na, ki-ši-na, etym. unc. (DULAT s.v. kṯn (I)). Cf. kṯn (II), compared with Hebrew Kûšān (Hab 3:7; Judg 3:8; Dijkstra, apud DULAT s.v. kṯn (II)). Rival: Ug. ktn 'tunic' (DULAT 464), which has t, not ṯ.
+HT 13 KU-ZU-NI 18, in the KA-U-DE-TA wine list beside TE-TU (Ugaritic tt); HT 85a KU-ZU-NI 5, in a roster counted in men; both tablets also list DA-SI-\*118 and TE-KE/TE-KI. ZU writes ṯ as in ZU-DI ṯudī and A-ZU-RA ʾAṯirat: KU-ZU-NI spells Ugaritic kṯn, syllabic ku-ši-nu (RS 15.09 B I 7; Kinlaw 1967, 76), ki-še-na, ki-ši-na, etym. unc. (DULAT s.v. kṯn (I)). Cf. kṯn (II), compared with Hebrew Kûšān (Hab 3:7; Judg 3:8; Dijkstra, apud DULAT s.v. kṯn (II)). Rivals: Ug. ktn 'tunic' (DULAT 464), which has t, not ṯ; KU-DO-NI, Kydonia; \*79 is clear on HT 85a.4 and DO is otherwise unattested in Linear A (Montecchi 2008, 320).
 
 ### Cognates
 
@@ -51,7 +51,7 @@ HT 13 KU-ZU-NI 18, in the KA-U-DE-TA wine list beside TE-TU (Ugaritic tt); HT 85
 
 ### Source
 
-DULAT s.v. kṯn (I); di Mino
+DULAT s.v. kṯn (I); di Mino; Montecchi 2008; Kinlaw 1967
 
 ## Attestations
 

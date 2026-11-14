@@ -60,12 +60,14 @@ No CH ancestor—Linear A innovation (Ferrara et al. 2022).
 | [[wiki/linear-a/words/A/A_KI_RO\|A-KI-RO]] | ʾAkiru | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_PA_KI\|A-PA-KI]] | ʾabkī | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_SI_KI_RA\|A-SI-KI-RA]] | ha-Śikira | SPECULATIVE |
-| [[wiki/linear-a/words/D/DA_KI_TI\|DA-KI-TI]] | daqqati | SPECULATIVE |
+| [[wiki/linear-a/words/D/DA_KI_TI\|DA-KI-TI]] | Daqqiti | SPECULATIVE |
 | [[wiki/linear-a/words/D/DI_KI_SE\|DI-KI-SE]] | Dikise | CANDIDATE |
 | [[wiki/linear-a/words/I/I_KI_RA\|I-KI-RA]] | ikkara | SPECULATIVE |
 | [[wiki/linear-a/words/J/JA_DI_KI_TU\|JA-DI-KI-TU]] | yā Diqqitu | PROBABLE |
 | [[wiki/linear-a/words/J/JA_KI_SI_KI_NU\|JA-KI-SI-KI-NU]] | yaksīkin | CANDIDATE |
+| [[wiki/linear-a/words/K/KA_KI\|KA-KI]] | Kakki | SPECULATIVE |
 | [[wiki/linear-a/words/K/KE_KI_RU\|KE-KI-RU]] | Kikkaru | SPECULATIVE |
+| [[wiki/linear-a/words/K/KI\|KI]] | kilʾu | CANDIDATE |
 | [[wiki/linear-a/words/K/KI_plus_MU\|KI+MU]] | kumru | CANDIDATE |
 | [[wiki/linear-a/words/K/KI_star310_RE\|KI-\*310-RE]] | kinnār | PROBABLE |
 | [[wiki/linear-a/words/K/KI_DA_RO\|KI-DA-RO]] | Qidaru | PROBABLE |
@@ -97,7 +99,7 @@ No CH ancestor—Linear A innovation (Ferrara et al. 2022).
 | [[wiki/linear-a/words/S/SI_PI_KI\|SI-PI-KI]] | šipkī | CANDIDATE |
 | [[wiki/linear-a/words/S/SU_KI_RI_TA\|SU-KI-RI-TA]] | Sukrita | CANDIDATE |
 | [[wiki/linear-a/words/S/SU_KI_RI_TE_I_JA\|SU-KI-RI-TE-I-JA]] | Sukritēya | SPECULATIVE |
-| [[wiki/linear-a/words/T/TA_NU_NI_KI_NA\|TA-NU-NI-KI-NA]] | tannî qînâ | SPECULATIVE |
+| [[wiki/linear-a/words/T/TA_NU_NI_KI_NA\|TA-NU-NI-KI-NA]] | tanūḥūn qīna | CANDIDATE |
 | [[wiki/linear-a/words/T/TE_KI\|TE-KI]] | Tegi | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_DI_RI_KI\|U-DI-RI-KI]] | u-dirik | CANDIDATE |
 

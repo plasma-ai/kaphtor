@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-In the bronze-bowl scriptio continua A-RA-KO-KU-QA-WA-SA-TO-MA-RO-AU-TA-DE-PO-NI-ZA. A palm name of the Bronze Age type: Amorite Tamar-u (Gelb 1980, no. 6027), Ugaritic tmr 'date palm' (GlOS 2, 298), Hebrew Tāmār (Gen 38; 2 Sam 13). TO writes the ō of Hebrew tōmer 'palm' (Judg 4:5); final O is the support vowel of coda r. Weak point: GORILA prints no divider in the sixteen signs, and no sequence beside TO-MA-RO recurs as a word elsewhere, so the word boundary rests on the parse. One attestation. See TO-MI-RE.
+In the bronze-bowl scriptio continua A-RA-KO-KU-QA-WA-SA-TO-MA-RO-AU-TA-DE-PO-NI-ZA. A palm name of the Bronze Age type: Amorite Tamar-u (Gelb 1980, no. 6027), Ugaritic tmr 'date palm' (GlOS 2, 298), Hebrew Tāmār (Gen 38; 2 Sam 13). Watson reads the Ugarit name tmr as 'Palm' only if Semitic, and as probably Hurrian (1995, 228; 1996b, 105). TO writes the ō of Hebrew tōmer 'palm' (Judg 4:5); final O is the support vowel of coda r. Weak point: GORILA prints no divider in the sixteen signs, and no sequence beside TO-MA-RO recurs as a word elsewhere, so the word boundary rests on the parse. One attestation. See TO-MI-RE.
 
 ### Cognates
 
@@ -49,12 +49,12 @@ In the bronze-bowl scriptio continua A-RA-KO-KU-QA-WA-SA-TO-MA-RO-AU-TA-DE-PO-NI
 |---|---|
 | Amorite | TAMAR-U /ta-ma-ru/, a one-element personal name; also ŠUM-U\*TAMAR and ŠUM-U\*TAMAR-U (Gelb 1980, nos. 6027, 5716, 5715) |
 | Hebrew | tōmer תֹּמֶר masculine palm (Judges 4:5, the Palm of Deborah) / tāmār תָּמָר feminine name |
-| Ugaritic | syllabic /tamaru/ 'date palm' proposed for Ug. 5 137 (Huehnergard 2008, nos. 175, TMR); tmr, a personal name (GlOS 2, 298) |
+| Ugaritic | syllabic /tamaru/ 'date palm' proposed for Ug. 5 137 (Huehnergard 2008, nos. 175, TMR); tmr, a personal name (GlOS 2, 298), probably Hurrian for Watson (1996b, 105) |
 | Mari | qí-iš-ti-ᵈta-ma-ru Qišti-Tamaru, with the DN Tamaru (GlOS 2, 298) |
 
 ### Source
 
-di Mino; Gelb 1980; GlOS 2
+di Mino; Gelb 1980; GlOS 2; Watson 1995; Watson 1996b; Huehnergard 2008
 
 ## Attestations
 

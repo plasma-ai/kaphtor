@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K
 desc: "Words whose first sign begins with K."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-12T00:26:03Z
+updated: 2026-11-16T19:24:06Z
 ---
 
 # wiki/linear-a/words/K
@@ -25,13 +25,13 @@ updated: 2026-11-12T00:26:03Z
 
 [[wiki/linear-a/words/K/KA_JU|KA_JU]]: kallû: messenger, courier (title). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/K/KA_KI|KA_KI]]: Unread (role only): personal name; 2 occurrence(s).
+[[wiki/linear-a/words/K/KA_KI|KA_KI]]: Kakki: Kakki (Hurrian personal name). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/K/KA_KU|KA_KU]]: Kakku: personal name, 'Weapon' (Amorite Kakku). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/K/KA_KU_NE_TE|KA_KU_NE_TE]]: Kakku-ʿAnēt: Weapon of Anat (theophoric personal name); rival Egyptian Neith as the second element. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/K/KA_KU_PA|KA_KU_PA]]: kawkab: Star (place name, as Mari Kabkab). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/K/KA_KU_PA|KA_KU_PA]]: kakkub: flask, a small container for perfumed oil, heading what goes into it; rival Kawkab 'Star', a place name. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/K/KA_NA|KA_NA]]: qana / qanû: aromatic reed, sweet cane (commodity; spelling variant of QA-NE). Lexicon, CANDIDATE (tier 2).
 
@@ -53,7 +53,7 @@ updated: 2026-11-12T00:26:03Z
 
 [[wiki/linear-a/words/K/KA_PO_RU|KA_PO_RU]]: kapōru: bowl; rival kubburu 'extra share'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/K/KA_QA|KA_QA]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/K/KA_QA|KA_QA]]: Kakka: Kakka (Hurrian woman's name). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/K/KA_RA2|KA_RA2]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -85,7 +85,7 @@ updated: 2026-11-12T00:26:03Z
 
 [[wiki/linear-a/words/K/KA_star305|KA_star305]]: ka-ḏā: thus, likewise (ditto heading). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/K/KA_star314_SI|KA_star314_SI]]: Kaḥas: personal name; Egyptian kꜣḥs, a name under Senusret III; rival kabsi 'young ram'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/K/KA_star314_SI|KA_star314_SI]]: kaḥsi: chair, throne (goods on a receipt). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/K/KE|KE]]: Unread sign (syllabogram, unread); 1 occurrence(s).
 
@@ -95,7 +95,7 @@ updated: 2026-11-12T00:26:03Z
 
 [[wiki/linear-a/words/K/KE_SI_TE|KE_SI_TE]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/K/KI|KI]]: Unread sign (syllabogram, value on file); 16 occurrence(s).
+[[wiki/linear-a/words/K/KI|KI]]: kilʾu: owed, the outstanding balance: KI-RO written by its first sign. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/K/KI_DA|KI_DA]]: Unread (role only): personal name; 1 occurrence(s).
 

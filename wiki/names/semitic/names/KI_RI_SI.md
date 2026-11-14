@@ -31,11 +31,11 @@ updated: 2026-11-11T23:39:03Z
 | Reading's standing | SPECULATIVE |
 | Standing as a divine name | SPECULATIVE |
 | Standing of the layer | SPECULATIVE (lexicon_reading) |
-| Source | di Mino; Gelb 1980; Buck 2018; Monti 2017; Gelb 1944 |
+| Source | di Mino; Gelb 1980; Buck 2018; Monti 2017; Gelb 1944; Nakata 1995; Otto 2000; Topçuoğlu 2016 |
 
 ## Note
 
-TY 3b (Tylissos, LM IB): KI-RI-SI OLE+MI 6 heads side b of an oil-distribution tablet whose other recipients are PI-KU-ZU, ZA-\*321, A-DU, A-DA and KO-A-DU-WA. SI writes the final š. Kiriš, Kirišu, a god of the Amorite names (Gelb 1980, 23): ʾIlunā-kirišu 'Kiriš is our god' at Tuttul (Buck 2018, 338; Gelb 1980, no. 2556) and A-WI-KI-RI-IŠ at Mari (ARM 14 106:18; Gelb 1980, no. 563). Rival: Hurrian, where Awi-kiriš reads 'Kiriš, save him!' and Putum-kiriš 'Kiriš begot him' (Monti 2017, 115, 111), and kiriš stands beside Kirip-atal and Nuzi Kirip-tilla (Gelb 1944, 113). Rival: a personal name. Cf. Linear B qe-ra-si-ja, an oil recipient at Knossos, with ra where KI-RI has ri. Weak point: the god is known only from names. One attestation.
+TY 3b (Tylissos, LM IB): KI-RI-SI OLE+MI 6 heads side b of an oil-distribution tablet whose other headings are PI-KU-ZU, ZA-\*321, A-DU, A-DA and KO-A-DU-WA. SI writes the final š. Kiriš, Kirišu, a god of the Amorite names (Gelb 1980, 23): ʾIlunā-kirišu 'Kiriš is our god' at Tuttul (Buck 2018, 338; Gelb 1980, no. 2556) and A-WI-KI-RI-IŠ at Mari (ARM 14 106:18; Gelb 1980, no. 563). Rivals: Hurrian, where Awi-kiriš reads 'Kiriš, save him!' and Putum-kiriš 'Kiriš begot him' (Monti 2017, 115, 111), and kiriš stands beside Kirip-atal and Nuzi Kirip-tilla (Gelb 1944, 113); a personal name. Cf. Linear B qe-ra-si-ja, an oil recipient at Knossos, with ra where KI-RI has ri. Weak point: the god is known only from names. One attestation.
 
 ## As a name
 

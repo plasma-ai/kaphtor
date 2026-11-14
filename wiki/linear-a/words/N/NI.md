@@ -59,7 +59,7 @@ di Mino; Neumann 1957, 157–58; Montecchi 2024, 178; Salgarella et al. 2025, 38
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT30\|HT30]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT30\|HT30]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT6a\|HT6a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT27a\|HT27a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT28a\|HT28a]] | Haghia Triada | Tablet | complete |
@@ -81,12 +81,12 @@ di Mino; Neumann 1957, 157–58; Montecchi 2024, 178; Salgarella et al. 2025, 38
 | [[wiki/linear-a/inscriptions/HT/HT/HT110a\|HT110a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT110b\|HT110b]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT111a\|HT111a]] | Haghia Triada | Tablet | none |
-| [[wiki/linear-a/inscriptions/HT/HT/HT111b\|HT111b]] | Haghia Triada | Tablet | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/HT/HT/HT111b\|HT111b]] | Haghia Triada | Tablet | incomplete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HT/HT114a\|HT114a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT121\|HT121]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT125b\|HT125b]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT129\|HT129]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT130\|HT130]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT130\|HT130]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT131a\|HT131a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT131b\|HT131b]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT12\|HT12]] | Haghia Triada | Tablet | incomplete |
@@ -97,9 +97,9 @@ di Mino; Neumann 1957, 157–58; Montecchi 2024, 178; Salgarella et al. 2025, 38
 | [[wiki/linear-a/inscriptions/KH/KH/KH1\|KH1]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH5\|KH5]] | Khania | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/KH/KH/KH8\|KH8]] | Khania | Tablet | none |
-| [[wiki/linear-a/inscriptions/KH/KH/KH9\|KH9]] | Khania | Tablet | none |
+| [[wiki/linear-a/inscriptions/KH/KH/KH9\|KH9]] | Khania | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/KH/KH/KH11\|KH11]] | Khania | Tablet | none |
-| [[wiki/linear-a/inscriptions/KH/KH/KH14\|KH14]] | Khania | Tablet | none |
+| [[wiki/linear-a/inscriptions/KH/KH/KH14\|KH14]] | Khania | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/KH/KH/KH15\|KH15]] | Khania | Tablet | complete |
 | [[wiki/linear-a/inscriptions/KH/KH/KH17\|KH17]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH20\|KH20]] | Khania | Tablet | incomplete |
@@ -137,6 +137,7 @@ di Mino; Neumann 1957, 157–58; Montecchi 2024, 178; Salgarella et al. 2025, 38
 | [[wiki/linear-a/inscriptions/HT/HT/HT18\|HT18]] | \*nikuleon | figs | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT27a\|HT27a]] |  | figs | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT28b\|HT28b]] | \*nikuleon | figs | CONFIRMED |
+| [[wiki/linear-a/inscriptions/HT/HT/HT30\|HT30]] |  | figs—commodity ideogram (FIC) | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT44a\|HT44a]] | \[ideogram\] | figs |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT51a\|HT51a]] |  | figs | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT67\|HT67]] | \*nikuleon | figs | CONFIRMED |
@@ -152,9 +153,12 @@ di Mino; Neumann 1957, 157–58; Montecchi 2024, 178; Salgarella et al. 2025, 38
 | [[wiki/linear-a/inscriptions/HT/HT/HT114a\|HT114a]] | \*nikuleon | figs | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT121\|HT121]] | \*nikuleon | figs | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT129\|HT129]] | \*nikuleon | figs | CONFIRMED |
+| [[wiki/linear-a/inscriptions/HT/HT/HT130\|HT130]] |  | figs—commodity ideogram (FIC) | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT131a\|HT131a]] | \*nikuleon | figs | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT131b\|HT131b]] | \*nikuleon | figs | CONFIRMED |
 | [[wiki/linear-a/inscriptions/KH/KH/KH5\|KH5]] |  | figs (logogram), 2 with fractions | PROBABLE |
+| [[wiki/linear-a/inscriptions/KH/KH/KH9\|KH9]] |  | figs—commodity ideogram (FIC) | CONFIRMED |
+| [[wiki/linear-a/inscriptions/KH/KH/KH14\|KH14]] |  | figs—commodity ideogram (FIC) | CONFIRMED |
 | [[wiki/linear-a/inscriptions/KH/KH/KH15\|KH15]] | \*nikuleon | figs (commodity ideogram) | CONFIRMED |
 | [[wiki/linear-a/inscriptions/KH/KH/KH15\|KH15]] | \*nikuleon | figs (commodity ideogram) | CONFIRMED |
 | [[wiki/linear-a/inscriptions/KH/KH/KH20\|KH20]] |  | figs (logogram), ¼ | CONFIRMED |

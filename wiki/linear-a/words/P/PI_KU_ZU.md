@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-TY 3b .2–.4 PI-KU-ZU OLE+KI 4, OLE+MI 11, OLE+NE 2, the ruled section after KI-RI-SI OLE+MI 6 (GORILA I 329); KU and ZU drawn whole on the worn surface of the facsimile. PI the proclitic bi- 'in', as PA₃-E bē; KU-ZU kuṯ, ZU for ṯ as in KU-ZU-NI Kuṯinu: three oils counted in kṯ-flasks, the Ugaritic flask for sesame, balsam and cumin (DULAT 466). Weak points: PI for the proclitic bi- has no second witness; the vowel of kṯ is unknown. One attestation.
+TY 3b .2–.4 PI-KU-ZU OLE+KI 4, OLE+MI 11, OLE+NE 2, the ruled section after KI-RI-SI OLE+MI 6 (GORILA I 329); KU and ZU drawn whole on the worn surface of the facsimile. PI the proclitic bi- 'in', as PA₃-E bē; KU-ZU kuṯ, ZU for ṯ as in KU-ZU-NI Kuṯinu: three oils counted in kṯ-flasks, the Ugaritic flask for sesame, balsam and cumin (DULAT 466); Watson calls the sense 'flask' well established in Ugaritic (Watson 1993, 216). Weak points: PI for the proclitic bi- has no second witness; the name kṯ, which Watson equates with syllabic ki-šu (Watson 1993, 216; DULAT 466 'cf.'), and Akk. kišu give i where KU writes u. Rival: a recipient's name, as the tablet's other headings are; none is on record. One attestation.
 
 ### Cognates
 
@@ -52,7 +52,7 @@ TY 3b .2–.4 PI-KU-ZU OLE+KI 4, OLE+MI 11, OLE+NE 2, the ruled section after KI
 
 ### Source
 
-di Mino; DULAT; CAD K
+di Mino; DULAT; CAD K; Watson 1993
 
 ## Attestations
 

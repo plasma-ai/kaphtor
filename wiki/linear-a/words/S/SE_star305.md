@@ -49,6 +49,7 @@ KH 7a .4 SE-\*305 ·, whole, heading the third section, KU-\[·\]-KO-E VIR+\*313
 |---|---|
 | Hebrew | ṣēdâ 'provisions': lātēt lāhem ṣēdâ laddārek 'to give them provisions for the way' (Gen 42:25); lāqaḥat ṣēdâ lāʿām 'to fetch provisions for the people' (Judg 20:10) |
 | Ugaritic | ṣd /ṣēdu/ 'provisions, sustenance': bn dgn b-m ṣdk 'son of Dagan, with your provisions' (KTU 1.14 II 25–26; Huehnergard 2012, 130) |
+| Akkadian | ṣidītu 'viaticum, travel provisions, provisions' (CAD Ṣ 172) |
 
 ### Source
 

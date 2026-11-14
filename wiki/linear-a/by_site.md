@@ -20,13 +20,13 @@ Every number on this page is computed from the data files.
 
 | Site | Records | Documents | Translated (complete) | Lexicon words attested |
 |---|---|---|---|---|
-| Haghia Triada | 1,111 | 1,053 | 362 | 378 |
-| Khania | 226 | 223 | 36 | 73 |
-| Phaistos | 66 | 48 | 11 | 45 |
-| Knossos | 57 | 51 | 19 | 56 |
-| Zakros | 53 | 40 | 7 | 97 |
-| Palaikastro | 25 | 25 | 10 | 37 |
-| Malia | 22 | 11 | 2 | 9 |
+| Haghia Triada | 1,111 | 1,053 | 365 | 387 |
+| Khania | 226 | 223 | 36 | 75 |
+| Phaistos | 66 | 48 | 13 | 45 |
+| Knossos | 57 | 51 | 19 | 57 |
+| Zakros | 53 | 40 | 8 | 96 |
+| Palaikastro | 25 | 25 | 10 | 38 |
+| Malia | 22 | 11 | 4 | 9 |
 | Thera | 19 | 18 | 3 | 3 |
 | Iouktas | 16 | 16 | 11 | 17 |
 | Arkhanes | 12 | 9 | 3 | 24 |
@@ -36,7 +36,7 @@ Every number on this page is computed from the data files.
 | Tylissos | 6 | 5 | 1 | 12 |
 | Gournia | 5 | 3 | 0 | 5 |
 | Miletos | 4 | 4 | 2 | 2 |
-| Pyrgos | 4 | 4 | 1 | 4 |
+| Pyrgos | 4 | 4 | 2 | 4 |
 | Apodoulou | 3 | 3 | 1 | 6 |
 | Crete | 3 | 3 | 2 | 7 |
 | Milos | 3 | 3 | 1 | 3 |
@@ -50,7 +50,7 @@ Every number on this page is computed from the data files.
 | Samothrace | 2 | 2 | 1 | 2 |
 | Skoteino Cave | 2 | 2 | 0 | 1 |
 | Troy | 2 | 2 | 0 | 0 |
-| Zominthos | 2 | 2 | 0 | 0 |
+| Zominthos | 2 | 2 | 0 | 1 |
 | (no site) | 1 | 1 | 1 | 1 |
 | Argos | 1 | 1 | 0 | 0 |
 | Armenoi | 1 | 1 | 0 | 0 |
@@ -75,7 +75,7 @@ Every number on this page is computed from the data files.
 | Selakanos | 1 | 1 | 0 | 0 |
 | Sitia | 1 | 1 | 0 | 0 |
 | Skhinia | 1 | 1 | 0 | 0 |
-| Tel Haror | 1 | 1 | 1 | 1 |
+| Tel Haror | 1 | 1 | 1 | 2 |
 | Tiryns | 1 | 1 | 0 | 0 |
 | Traostalos | 1 | 1 | 0 | 0 |
 | Troullos | 1 | 1 | 1 | 7 |

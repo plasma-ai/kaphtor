@@ -47,6 +47,7 @@ Qumalu: \*ḳaml- 'louse' (semitic_roots no. 2229), Gurage ḳumal; Safaitic per
 | Language | Comparison |
 |---|---|
 | Safaitic | QML, personal name, 'Ar. qaml, louse', four witnesses; Thamudic QMLT, Qatabanic QMLM (Harding 1971, 488) |
+| Aramaic | Old Aramaic ḳml 'louse' (DNWSI 1013) |
 
 ## Attestations
 

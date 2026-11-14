@@ -48,6 +48,7 @@ Priestess (fem. singular).
 |---|---|
 | Phoenician | Punic khnt 'priestess' (Krahmalkov) |
 | Ugaritic | khn 'priest' (CUC) |
+| Hebrew | kōhēn 'priest' (Kogan 2015, ch. 3 §5.3 no. 16) |
 
 ## Attestations
 

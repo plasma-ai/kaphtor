@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ẓ/K0872_hide
 title: "*ẓVpVn-: 'hide'"
-desc: "Proto-Semitic *ẓVpVn-, 'hide': reflexes in 7 language(s)."
+desc: "Proto-Semitic *ẓVpVn-, 'hide': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0872"
@@ -36,6 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | ṣafana, ʾaṣfana (LGz. 548) | LGz. 548 | gloss withheld |
 | Tigrinya | č̣äffänä (LGz. 548) | LGz. 548 | gloss withheld |
 | Amharic | č̣äffänä, ṭäffänä (LGz. 548) | LGz. 548 | gloss withheld |
+| Pre-Islamic North Arabian | Taymanitic ṣfn (Al-Jallad 2026b, 59) | Al-Jallad 2026b 59 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -55,6 +55,7 @@ Two complements carry the name. PA₃-\*188 (HT 8b) gives the b, unless PA₃ is
 |---|---|
 | Akkadian | buṭnu 'terebinth' (CAD B 358); buṭuttu A 'pistachio tree, wood, nut' (CAD B 359) |
 | Hebrew | boṭnîm 'pistachio nuts', among the choice products of the land sent down to Egypt, Gen 43:11 (HALOT 121) |
+| Ugaritic | bṭm 'pistachio' (DULAT 249) |
 
 ### Source
 

@@ -2,15 +2,15 @@
 name: wiki/linear-a/words/K/KI_TA_NA
 title: "KI-TA-NA"
 desc: "kitāna: linen (material adjectival base in jar labels). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "commodity", "hapax", "noun", "textile"]
+tags: ["linear-a", "word", "tier-2", "commodity", "noun", "textile"]
 kind: "word"
 form: "KI-TA-NA"
 datasets: ["lexicon"]
 tier: 2
 confidence: "CANDIDATE"
-confidence_score: 0.55
+confidence_score: 0.45
 reading: "kitāna"
-attestations: ["PEZb3"]
+attestations: ["PEZb3", "KH60"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -27,7 +27,7 @@ updated: 2026-10-24T16:17:50Z
 
 ## Lexicon
 
-**CANDIDATE**, tier 2 of 4, score 0.55
+**CANDIDATE**, tier 2 of 4, score 0.45
 
 | Field | Value |
 |---|---|
@@ -36,32 +36,34 @@ updated: 2026-10-24T16:17:50Z
 | Root | k-t-n |
 | Proto-Semitic | \*kitn- (#2678) |
 | Language layer | Semitic |
-| Tags | commodity, hapax, noun, textile |
+| Tags | commodity, noun, textile |
 | Semantic field | commodity |
 
 ### Note
 
-PE Zb 3, a pithos label: KI-TA-NA-SI-JA-SE, kitāna šī-yāṣē pidr-qê 'linen which goes out, a qê-measure of fat'. SI-JA-SE šī-yāṣē, the relative with the 3ms imperfect of √y-ṣ-ʾ 'to go out', marks goods for issue, as in A-NA-NU-SI-JA-SE (HT Zb 159) on another stem. Linear B ki-to, χιτών, comes from the same ktn. KI-TA-NI-TE kitānit 'linen robe, linen cloth' (PK Zb 21) is its -t derivative.
+PE Zb 3, a pithos label: KI-TA-NA-SI-JA-SE, kitāna šī-yāṣē 'linen which goes out'. SI-JA-SE šī-yāṣē, the relative with the 3ms imperfect of √y-ṣ-ʾ 'to go out', marks goods for issue, as in A-NA-NU-SI-JA-SE (HT Zb 159) on another stem. KH 60 \]RA-KI-TA-NA-SI\[ heads a tablet of vinegar and myrrh with the same five signs. Linear B ki-to, χιτών, comes from the same ktn. Ug. ktn is linen cloth, not a finished garment, for Van Soldt (apud Watson 2018b, 363 n. 41), and a type of tunic for DULAT 464, lbš w ktn 'a garment and a tunic' (KTU 1.43:4). KI-TA-NI-TE kitānit 'linen robe, linen cloth' (PK Zb 21) is its -t derivative. Rival: A-KA-RA-KI-TA-NA as one name before SI-JA-SE, as A-NA-NU on HT Zb 159.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Ugaritic | ktn 'linen tunic' |
+| Ugaritic | ktn 'linen' (Watson 2018b, 363); 'a type of tunic', pl. ktnt (DULAT 464) |
 | Akkadian | kitûm/kitinnû 'linen' |
 | Mari | ku-ta-na-am kutān 'a fabric' (ARM 30 55; GlOS 1, 176) |
 | Eblaite | GÍD.TÚG = gu-da-núm 'a garment' (GlOS 1, 176) |
+| Alalakh | kitān 'a cover (?)', gadu kitanu (AT 400:4; GlOS 1, 176) |
 | Greek | χιτών via LB ki-to, from Ug. ktn (Rendsburg 2026, 214); here fully vocalized |
 
 ### Source
 
-di Mino; GlOS 1; Rendsburg 2026
+di Mino; GlOS 1; Rendsburg 2026; Watson 2018b; DULAT
 
 ## Attestations
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/PE/PEZb/PEZb3\|PEZb3]] | Petras | Clay vessel | incomplete; form not in transliteration |
+| [[wiki/linear-a/inscriptions/KH/KH/KH60\|KH60]] | Khania | Tablet | none; form not in transliteration |
 
 ## In translations
 

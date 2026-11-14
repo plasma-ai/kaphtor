@@ -56,7 +56,7 @@ Ilin-Tomich 2025 (PNM v6), s.v. ptḥ-dj⸗f; DULAT 676; di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/PH/PH/PH_q_31a\|PH(?)31a]] | Phaistos | Tablet | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/PH/PH/PH_q_31a\|PH(?)31a]] | Phaistos | Tablet | incomplete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HTZb/HTZb160\|HTZb160]] | Haghia Triada | Clay vessel | complete |
 
 ## In translations
@@ -64,6 +64,7 @@ Ilin-Tomich 2025 (PNM v6), s.v. ptḥ-dj⸗f; DULAT 676; di Mino
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HTZb/HTZb160\|HTZb160]] | Patada | PN — Ptaḥ-di(w) 'Ptah-given' (Egyptian theophoric) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/PH/PH/PH_q_31a\|PH(?)31a]] | Patada | personal name | CANDIDATE |
 
 ## Onomasticon
 

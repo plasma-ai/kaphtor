@@ -59,7 +59,7 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT34\|HT34]] | Haghia Triada | Tablet | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/HT/HT/HT34\|HT34]] | Haghia Triada | Tablet | incomplete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HT/HT96b\|HT96b]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT118\|HT118]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT154\|HT154.]] | Haghia Triada | Tablet | none |
@@ -67,8 +67,8 @@ di Mino
 | [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2066\|KHWc2066]] | Khania | Roundel | complete |
 | [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2070\|KHWc2070]] | Khania | Roundel | complete |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA1a\|ZA1a]] | Zakros | Tablet | none |
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA11a\|ZA11a]] | Zakros | Tablet | none |
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA11b\|ZA11b]] | Zakros | Tablet | none |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA11a\|ZA11a]] | Zakros | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA11b\|ZA11b]] | Zakros | Tablet | incomplete |
 
 ## In translations
 
@@ -78,5 +78,7 @@ di Mino
 | [[wiki/linear-a/inscriptions/HT/HT/HT118\|HT118]] | šipru | transaction/account marker | CANDIDATE |
 | [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2066\|KHWc2066]] | šipru | account, record, register | CANDIDATE |
 | [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2070\|KHWc2070]] | šipru | account, record, register | CANDIDATE |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA11a\|ZA11a]] | šipru | account, register (šipru), a transaction logogram | CANDIDATE |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA11b\|ZA11b]] | šipru | account, register (šipru), a transaction logogram | CANDIDATE |
 
 <!-- END kaphtor:record -->

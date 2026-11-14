@@ -67,8 +67,8 @@ di Mino; GlOS 2
 | [[wiki/linear-a/inscriptions/HT/HT/HT23a\|HT23a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT23b\|HT23b]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT32\|HT32]] | Haghia Triada | Tablet | none |
-| [[wiki/linear-a/inscriptions/HT/HT/HT35\|HT35]] | Haghia Triada | Tablet | none |
-| [[wiki/linear-a/inscriptions/HT/HT/HT81\|HT81]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT35\|HT35]] | Haghia Triada | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/HT/HT/HT81\|HT81]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/KH/KH/KH12\|KH12]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH36\|KH36]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH60\|KH60]] | Khania | Tablet | none |
@@ -79,5 +79,7 @@ di Mino; GlOS 2
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT23a\|HT23a]] | murru | myrrh | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT23b\|HT23b]] |  | composite, as HT23a | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT35\|HT35]] | murru | myrrh (murru), compound logogram | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT81\|HT81]] | murru | myrrh (murru), compound logogram | CANDIDATE |
 
 <!-- END kaphtor:record -->

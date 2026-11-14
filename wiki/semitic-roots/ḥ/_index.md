@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ḥ
 desc: "Semitic roots whose first radical is ḥ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-11-10T03:48:00Z
+updated: 2026-11-16T17:25:52Z
 ---
 
 # wiki/semitic-roots/ḥ
@@ -153,7 +153,7 @@ updated: 2026-11-10T03:48:00Z
 
 [[wiki/semitic-roots/ḥ/234_small_lizard|234_small_lizard]]: Proto-Semitic *ḥisl-, 'small lizard': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/ḥ/2356_hollow_of_the_hand_handful_fist|2356_hollow_of_the_hand_handful_fist]]: Proto-Semitic *ḥupn-, 'hollow of the hand, handful; fist': reflexes in 19 language(s).
+[[wiki/semitic-roots/ḥ/2356_hollow_of_the_hand_handful_fist|2356_hollow_of_the_hand_handful_fist]]: Proto-Semitic *ḥupn-, 'hollow of the hand, handful; fist': reflexes in 20 language(s).
 
 [[wiki/semitic-roots/ḥ/2370_palate|2370_palate]]: Proto-Semitic *ḥanak-/*ḥink-, 'palate': reflexes in 12 language(s).
 
@@ -223,7 +223,7 @@ updated: 2026-11-10T03:48:00Z
 
 [[wiki/semitic-roots/ḥ/2910_grieve|2910_grieve]]: Proto-Semitic *ḥVzan-, 'grieve': reflexes in 8 language(s).
 
-[[wiki/semitic-roots/ḥ/2920_search_seek|2920_search_seek]]: Proto-Semitic *ḥVpVś-, 'search, seek': reflexes in 8 language(s).
+[[wiki/semitic-roots/ḥ/2920_search_seek|2920_search_seek]]: Proto-Semitic *ḥVpVś-, 'search, seek': reflexes in 9 language(s).
 
 [[wiki/semitic-roots/ḥ/2929_hurry_hasten|2929_hurry_hasten]]: Proto-Semitic *ḥVpVz-, 'hurry, hasten': reflexes in 3 language(s).
 
@@ -471,7 +471,7 @@ updated: 2026-11-10T03:48:00Z
 
 [[wiki/semitic-roots/ḥ/969_big_well_1_hole_cavity_2_dig_3|969_big_well_1_hole_cavity_2_dig_3]]: Proto-Semitic *ḥapr-, 'big well' 1, 'hole, cavity' 2, 'dig' 3: reflexes in 8 language(s).
 
-[[wiki/semitic-roots/ḥ/991_desire_beauty|991_desire_beauty]]: Proto-Semitic *ḥVmVd-, 'desire; beauty': reflexes in 11 language(s).
+[[wiki/semitic-roots/ḥ/991_desire_beauty|991_desire_beauty]]: Proto-Semitic *ḥVmVd-, 'desire; beauty': reflexes in 12 language(s).
 
 [[wiki/semitic-roots/ḥ/K0710_love|K0710_love]]: Proto-Semitic *ḥVbVb-, 'love': reflexes in 11 language(s).
 

@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ẓ
 desc: "Semitic roots whose first radical is ẓ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-11-05T22:08:06Z
+updated: 2026-11-16T17:25:52Z
 ---
 
 # wiki/semitic-roots/ẓ
@@ -43,13 +43,13 @@ updated: 2026-11-05T22:08:06Z
 
 [[wiki/semitic-roots/ẓ/3963_refrain_from_abstain|3963_refrain_from_abstain]]: Proto-Semitic *ẓlf, 'refrain from, abstain': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/ẓ/634_think|634_think]]: Proto-Semitic *ṯ̣VnVn-, 'think': reflexes in 2 language(s).
+[[wiki/semitic-roots/ẓ/634_think|634_think]]: Proto-Semitic *ṯ̣VnVn-, 'think': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/ẓ/959_shadow_shade_to_shade_protection_shelter_hut|959_shadow_shade_to_shade_protection_shelter_hut]]: Proto-Semitic *ṯ̣il(l)-, 'shadow, shade', 'to shade', 'protection', 'shelter, hut': reflexes in 23 language(s).
 
 [[wiki/semitic-roots/ẓ/K0827_load_1_to_journey_depart_2|K0827_load_1_to_journey_depart_2]]: Proto-Semitic *ṯ̣VʿVn-, 'load' 1, 'to journey, depart' 2: reflexes in 19 language(s).
 
-[[wiki/semitic-roots/ẓ/K0872_hide|K0872_hide]]: Proto-Semitic *ẓVpVn-, 'hide': reflexes in 7 language(s).
+[[wiki/semitic-roots/ẓ/K0872_hide|K0872_hide]]: Proto-Semitic *ẓVpVn-, 'hide': reflexes in 8 language(s).
 
 [[wiki/semitic-roots/ẓ/K0874_balsam|K0874_balsam]]: Proto-Semitic *ẓVrVw-, 'balsam': reflexes in 6 language(s).
 

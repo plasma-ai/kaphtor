@@ -33,7 +33,7 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | Tinit Dubur |
 | Meaning | Tinit of the Sanctuary (Goddess + Sanctuary pattern) |
-| Root | t-n-t + d-b-r |
+| Root | t-n-n + d-b-r |
 | Proto-Semitic | \*tinnīt- (#2967) + \*dVb(V)r- (#151) |
 | Language layer | Semitic |
 | Tags | compound, epithet, hapax, ritual, theonym |

@@ -49,6 +49,7 @@ HT 10a .3–4 \*305-RU 2½, whole and undotted at the end of .3, the side writte
 |---|---|
 | Ugaritic | d/ḏrʕ 'seed, seed-grain, sowing' (DULAT 277–278) |
 | Hebrew | zeraʿ 'seed' (HALOT 282) |
+| Akkadian | zēru (zarʔu) 'seed (of cereals and of other plants); acreage, arable land' (CAD Z 89; AHw 1521) |
 
 ### Source
 

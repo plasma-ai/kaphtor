@@ -86,6 +86,6 @@ HT 97a .4 NA-TI 4, whole, between DI 4 and MA-DI 5 (GORILA I 159), among men cou
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KA_NU_TI|KA-NU-TI]] Ganuti, [[wiki/linear-a/words/K/KI|KI]], [[wiki/linear-a/words/P/PA_I_TO|PA-I-TO]] Paito.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KA_NU_TI|KA-NU-TI]] Ganuti, [[wiki/linear-a/words/K/KI|KI]] kilʾu, [[wiki/linear-a/words/P/PA_I_TO|PA-I-TO]] Paito.
 
 <!-- END kaphtor:record -->

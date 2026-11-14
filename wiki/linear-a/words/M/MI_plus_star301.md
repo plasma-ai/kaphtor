@@ -49,6 +49,7 @@ KH Wc 2064 and KH Wc 2099, two Khania roundels, each with the ligature MI+\*301 
 |---|---|
 | Ugaritic | mn 'mina' (GlOS 2, 45) |
 | Egyptian | group writing man-nu₂ 'mina', a Semitic loan (GlOS 2, 45, after Hoch, SWET 127, no. 162) |
+| Hebrew | māneh 'mina (weight, fifty shekels)' (HALOT 599) |
 
 ### Source
 

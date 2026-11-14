@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/d/3785_aurochs_antelope
 title: "*dīšān- {} *ditān-: 'aurochs, antelope'"
-desc: "Proto-Semitic *dīšān- {} *ditān-, 'aurochs, antelope': reflexes in 3 language(s)."
+desc: "Proto-Semitic *dīšān- {} *ditān-, 'aurochs, antelope': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3785"
@@ -32,6 +32,8 @@ updated: 2026-10-31T13:28:57Z
 | Hebrew | dîšôn, among the clean animals (Deut 14:5) (HALOT 221) | HALOT 221 | gloss withheld |
 | Akkadian | ditānu, didānu (CAD D 164) | CAD D 164 | gloss withheld |
 | Amorite | ditanum (Gelb AS 21, 17) | Gelb AS 21 17 | gloss withheld |
+| Ugaritic | dtn, PN of the mythical ancestor of Ugarit's dynasty, compared with Amorite ditanum (DULAT 280) | DULAT 280 | gloss withheld |
+| Pre-Islamic North Arabian | Taymanitic dtn, PN (Al-Jallad 2026b, 36) | Al-Jallad 2026b 36 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -60,8 +60,8 @@ di Mino; GlOS 2
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT30\|HT30]] | Haghia Triada | Tablet | none |
-| [[wiki/linear-a/inscriptions/HT/HT/HT35\|HT35]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT30\|HT30]] | Haghia Triada | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/HT/HT/HT35\|HT35]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/KH/KH/KH19\|KH19]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH39\|KH39]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH55\|KH55]] | Khania | Tablet | complete |
@@ -72,6 +72,8 @@ di Mino; GlOS 2
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT30\|HT30]] | ṭābu | fine-grade olive oil | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT35\|HT35]] | ṭābu | fine-grade olive oil | CANDIDATE |
 | [[wiki/linear-a/inscriptions/KH/KH/KH55\|KH55]] | ṭābu | fine-grade olive oil ('good oil') | CANDIDATE |
 
 <!-- END kaphtor:record -->

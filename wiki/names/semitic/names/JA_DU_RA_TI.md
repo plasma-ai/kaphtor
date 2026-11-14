@@ -32,7 +32,7 @@ updated: 2026-11-11T23:39:03Z
 | Reading's standing | CANDIDATE |
 | Standing as a personal name | CANDIDATE |
 | Standing of the layer | CANDIDATE (lexicon_reading) |
-| Source | di Mino; Fischer 2002; Gelb 1980; Huffmon 1965 |
+| Source | di Mino; Fischer 2002; Gelb 1980; Huffmon 1965; de Boer 2014 |
 
 ## Note
 
@@ -46,7 +46,8 @@ Feminine Amorite Yadwiratum (Gelb 1980, no. 3209) differs only in the case endin
 
 | Language | Comparison |
 |---|---|
-| Amorite | JA-DWIR-AT-UM Yadwiratum (Gelb 1980, no. 3209); JA-DWIR-UM, JA-DWIR-I, JA-DWIR-AN (nos. 3210–3214); Ya-du-ra-an, Ya-du-ri-im (Huffmon 1965, 38); element jadūr, B stem of DWR 'to turn around, to dwell' (Gelb glossary) |
+| Amorite | JA-DWIR-AT-UM Yadwiratum (Gelb 1980, no. 3209); JA-DWIR-UM, JA-DWIR-I, JA-DWIR-AN (nos. 3210–3214); Ya-du-ra-an, Ya-du-ri-im (Huffmon 1965, 38); ia-du-rum Yadurum, Sippar (CT 6 43:27–28; de Boer 2014, 287); element jadūr, B stem of DWR 'to turn around, to dwell' (Gelb glossary) |
+| Eblaite | da-wa-lum, du-lum /d-w-r/ 'to turn (constantly / habitually) around, to dwell, endure' (GlOS 1, 153) |
 
 ## Attestations
 

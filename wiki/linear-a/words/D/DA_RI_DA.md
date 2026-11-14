@@ -41,17 +41,18 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-An entry with a numeral on four Haghia Triada tablets: HT 10a DA-RI-DA 8 before ME-ZA 3, in the KU-NI-SU list (GORILA I 21); HT 85a DA-RI-DA 12, first under A-DU · \*307+\*307 · VIR+\[·\] (GORILA I 131); HT 122a DA-RI-DA 1, last before KU-RO 31 (GORILA I 207); HT 93a DA-RI-DA \*406VS 2 (GORILA I 147). Hebrew Dardaʿ (1 Kgs 5:11), with ʿ unwritten, from dardar 'thistle' by dissimilation (HALOT 230). Rival: a place or work unit, since 12 on HT 85a stands against 1 on HT 122a.
+An entry with a numeral on four Haghia Triada tablets: HT 10a DA-RI-DA 8 before ME-ZA 3, in the KU-NI-SU list (GORILA I 21); HT 85a DA-RI-DA 12, first under A-DU · \*307+\*307 · VIR+\[·\] (GORILA I 131); HT 122a DA-RI-DA 1, last before KU-RO 31 (GORILA I 207); HT 93a DA-RI-DA \*406VS 2 (GORILA I 147). Hebrew Dardaʿ (1 Kgs 5:11), with ʿ unwritten, from dardar 'thistle' by dissimilation (HALOT 230). Rival: a place or work unit, since 12 on HT 85a stands against 1 on HT 122a. HT 85a and HT 122 are one hand's pair from one room, listing the same units (Montecchi 2010, 22).
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Hebrew | Dardaʿ, a wise man, wəkalkōl wədardaʿ bənê māḥôl 'and Calcol and Darda, sons of Mahol' (1 Kgs 5:11; HALOT 230) |
+| Akkadian | daddaru 'thistle' (Kogan 2011, 201) |
 
 ### Source
 
-di Mino; HALOT
+di Mino; HALOT; Montecchi 2010; Kogan 2011
 
 ## Attestations
 
@@ -89,6 +90,6 @@ An entry with a numeral on HT 10a, 85a, 93a and 122a. Dardaʿ, as Hebrew Dardaʿ
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/star/star301|\*301]] nawā, [[wiki/linear-a/words/A/A_DU|A-DU]] ʾAddu / adû, [[wiki/linear-a/words/D/DA_RE|DA-RE]] dār, [[wiki/linear-a/words/J/JA_MI_DA_RE|JA-MI-DA-RE]] Yamidare, [[wiki/linear-a/words/K/KU_NI_SU|KU-NI-SU]] kunīšu, [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull, [[wiki/linear-a/words/P/PA3_NI|PA₃-NI]] bānī, [[wiki/linear-a/words/P/PA3_NI_NA|PA₃-NI-NA]] banīna, [[wiki/linear-a/words/Q/QA_star310_I|QA-\*310-I]] qaynī, [[wiki/linear-a/words/S/SA_RA2|SA-RA₂]] šarra.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/star/star301|\*301]] nawā, [[wiki/linear-a/words/A/A_DU|A-DU]] adû, [[wiki/linear-a/words/D/DA_RE|DA-RE]] dār, [[wiki/linear-a/words/J/JA_MI_DA_RE|JA-MI-DA-RE]] Yamidare, [[wiki/linear-a/words/K/KU_NI_SU|KU-NI-SU]] kunīšu, [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull, [[wiki/linear-a/words/P/PA3_NI|PA₃-NI]] bānī, [[wiki/linear-a/words/P/PA3_NI_NA|PA₃-NI-NA]] banīna, [[wiki/linear-a/words/Q/QA_star310_I|QA-\*310-I]] qaynī, [[wiki/linear-a/words/S/SA_RA2|SA-RA₂]] šarra.
 
 <!-- END kaphtor:record -->

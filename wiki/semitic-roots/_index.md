@@ -76,13 +76,13 @@ updated: 2026-10-25T05:11:48Z
 
 <!-- BEGIN kaphtor:summary -->
 A Semitic root is a skeleton of consonants, most often three, holding a core meaning that vowels and affixes shape
-into words. The Kaphtor Semitic Roots give a page to each of 5,187 roots reconstructed for Proto-Semitic, the
+into words. The Kaphtor Semitic Roots give a page to each of 5,189 roots reconstructed for Proto-Semitic, the
 family's common ancestor, filed by first consonant. Each page sets the root and its meaning above the words descended
-from it, language by language: 26,408 forms in 43 languages, led by Arabic (3,372), Hebrew (2,510),
-Akkadian (1,723), Syriac (1,589), Geʿez (1,340) and Ugaritic (1,285), every form cited to the page that
-prints it, 33,565 citations to 258 works. 2,647 rest on Militarev and Kogan's Semitic Etymological Dictionary
-and its online continuation, and the other 2,540 were built for kaphtor from the dictionaries the Kaphtor
-Dictionary Distillation records. They are the comparanda of the Linear A readings: 572 words of the lexicon
+from it, language by language: 26,459 forms in 43 languages, led by Arabic (3,373), Hebrew (2,511),
+Akkadian (1,723), Syriac (1,590), Geʿez (1,340) and Ugaritic (1,286), every form cited to the page that
+prints it, 33,764 citations to 259 works. 2,647 rest on Militarev and Kogan's Semitic Etymological Dictionary
+and its online continuation, and the other 2,542 were built for kaphtor from the dictionaries the Kaphtor
+Dictionary Distillation records. They are the comparanda of the Linear A readings: 576 words of the lexicon
 name their root here.
 <!-- END kaphtor:summary -->
 

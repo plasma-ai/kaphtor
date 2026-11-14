@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/l/1963_heart
 title: "*libb-: 'heart'"
-desc: "Proto-Semitic *libb-, 'heart': reflexes in 27 language(s)."
+desc: "Proto-Semitic *libb-, 'heart': reflexes in 28 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1963"
@@ -57,6 +57,7 @@ updated: 2026-10-22T17:38:31Z
 | Argobba | ləbb (Leslau 1997:210, AAD 63 apud SEDonline 27) | Leslau 1997:210, AAD 63; SEDonline 27 | gloss withheld |
 | Gafat | ləb, ləbu, ləbo (Leslau 1945:160 apud SEDonline 27) | Leslau 1945:160; SEDonline 27 | gloss withheld |
 | Amorite | libb: cf. i-nu-uḫ-li-bi, i-túr-li-ib-bi (Sanmartín GlOS 2, 8) | Sanmartín GlOS 2, 8 | gloss withheld |
+| Pre-Islamic North Arabian | Taymanitic lb (Al-Jallad 2026b, 46) | Al-Jallad 2026b 46 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

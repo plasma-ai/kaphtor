@@ -5,10 +5,10 @@
 
 <p align="center">
   <a href="wiki/linear-a/inscriptions/_index.md"><img alt="corpus: 1,719 records" src="https://img.shields.io/badge/corpus-1,719%20records-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
-  <a href="wiki/linear-a/inscriptions/_index.md"><img alt="translations: 509" src="https://img.shields.io/badge/translations-509-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
-  <a href="wiki/linear-a/words/_index.md"><img alt="lexicon: 680 entries" src="https://img.shields.io/badge/lexicon-680%20entries-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <a href="wiki/linear-a/inscriptions/_index.md"><img alt="translations: 518" src="https://img.shields.io/badge/translations-518-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <a href="wiki/linear-a/words/_index.md"><img alt="lexicon: 694 entries" src="https://img.shields.io/badge/lexicon-694%20entries-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
   <a href="wiki/linear-a/words/_index.md"><img alt="names: 380" src="https://img.shields.io/badge/names-380-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
-  <a href="wiki/semitic-roots/_index.md"><img alt="Semitic roots: 5,187" src="https://img.shields.io/badge/Semitic%20roots-5,187-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <a href="wiki/semitic-roots/_index.md"><img alt="Semitic roots: 5,189" src="https://img.shields.io/badge/Semitic%20roots-5,189-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
   <a href="wiki/linear-a/signs/_index.md"><img alt="sign values: 37" src="https://img.shields.io/badge/sign%20values-37-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
   <br>
   <a href="https://github.com/plasma-ai/kaphtor/actions/workflows/gate.yml"><img alt="gate" src="https://github.com/plasma-ai/kaphtor/actions/workflows/gate.yml/badge.svg"></a>
@@ -219,9 +219,12 @@ the data from another folder.
   - `contact/`: the open contact lexica the root index links to the roots (Hebrew, Aramaic, Amarna Canaanite,
     Syriac, Akkadian)
   - `ane/`: open-licence and public-domain ancient Near East datasets, such as the ORACC Akkadian literary glossary,
-    PNM v6, Prosopographia Memphitica, Gauthier's DNG and the Kassite name concordances
-  - `share-alike/`: CC BY-SA datasets, such as the ORAEC/TLA Egyptian texts, the TLA v18 names and Trismegistos Geo,
-    kept apart
+    PNM v6, Prosopographia Memphitica, Gauthier's DNG, the Kassite name concordances, the Ugarit Texts Database's
+    catalogue, the ELiSiR Eblaite lexicon, the Cypriot syllabic inscriptions of IG XV 1, I.Sicily's Semitic
+    inscriptions, the public inscriptions of Palmyra (catalogue rows and names), Marcato's Hatra names and
+    Al-Jallad's DIANA, Safaitic and Taymanitic (non-commercial)
+  - `share-alike/`: CC BY-SA datasets, such as the ORAEC/TLA Egyptian texts, the TLA v18 names, Trismegistos Geo and
+    ORACC's editions and translations of the Ugarit, Amarna and Idrimi texts, kept apart
 - `docs/`: the repository's rules and methods, and the corpus guides, starting with [docs/anatomy.md](docs/anatomy.md)
 - `assets/`: Noto Sans fonts for the Aegean scripts (OFL 1.1) and the README banner
 - `tools/`: the Python package (`import tools`) behind the `kaphtor` command, described in
@@ -276,8 +279,8 @@ out below and in the `license` key of each datasheet:
   it; both stay under CC BY-NC-SA 4.0, apart from the `corpus_key` and `corpus_match` fields and
   `sigla/corpus_key_overrides.json`, which are CC BY 4.0. The screenshots in `docs/human-review/` show SigLA's
   drawings and sign crops and carry its CC BY-NC-SA 4.0 terms.
-- **Share-alike data.** The files in `data/share-alike/` remain under CC BY-SA 4.0, and anything derived from them
-  carries the same terms. Four more files under CC BY-SA 4.0 sit outside that folder, where the tools read them:
+- **Share-alike data.** The files in `data/share-alike/` remain under CC BY-SA 4.0 (`oracc-levant/` under CC BY-SA
+  3.0), and anything derived from them carries the same terms. Four more files under CC BY-SA 4.0 sit outside that folder, where the tools read them:
   `data/linear-a/egyptian_roots.json` and `luwian_roots.json`, which hold entries from Wiktionary,
   `data/contact/syriac_lexicon.jsonl`, drawn from Wiktionary's Classical Syriac entries, and
   `data/pre-greek/pregreek_wiktionary_glosses.json`, short glosses from Wiktionary's Pre-Greek category. A Pre-Greek
@@ -289,6 +292,11 @@ out below and in the `license` key of each datasheet:
   lexica in `data/contact/` hold only rows and fields from open sources, among them ORACC's Amarna and CAMS/GKAB
   glossaries, which its open-data download releases under CC0; their datasheets name what the private build adds, why it is not here,
   and the known limits of each source.
+- **Non-commercial data.** `data/ane/diana-safaitic/` and `data/ane/diana2-taymanitic/` hold the entries of
+  Al-Jallad's *Dictionary of the Inscriptions of Ancient North Arabia*, Volume I: Safaitic (CC BY-NC-ND 4.0) and
+  Volume II: Taymanitic (CC BY-NC 4.0), both 2026. Neither may be used commercially. Each entry's text is as the
+  book prints it, in another format, with an index (`forms`, `match_keys`) beside it; Volume I's entries may not be
+  shared in adapted form. The Semitic roots cite both volumes by page, without their glosses.
 - **Public-domain sources.** `data/ane/gauthier-dng/` (Gauthier's *Dictionnaire des noms géographiques*, 1925–1929)
   and `data/ane/kassite-concordances/` (seven name indexes, 1906–1912) are read from the OCR of public-domain books;
   the OCR and the files add no rights.

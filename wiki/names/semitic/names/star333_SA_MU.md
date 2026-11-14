@@ -48,6 +48,7 @@ Heb. bōśem (HALOT 163); Ar. bašām (Lane 209); \*333 = bi a working value.
 |---|---|
 | Hebrew | bōśem 'perfume, spice' (HALOT 163); Bāśĕmat (Gen 26:34) |
 | Arabic | bašām 'balsam tree' (Lane 209) |
+| Taymanitic | bśm 'Balsam, fragrance' (Al-Jallad 2026b, 35) |
 
 ## Attestations
 

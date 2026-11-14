@@ -59,7 +59,13 @@ di Mino; Gelb 1980; DULAT; GlOS 2; de Boer 2014
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/KH/KH/KH74\|KH74]] | Khania | Tablet | none |
+| [[wiki/linear-a/inscriptions/KH/KH/KH74\|KH74]] | Khania | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/KH/KH/KH74\|KH74]] | Yadaʿ-Šum | personal name, 'Šum knew' | SPECULATIVE |
 
 ## Onomasticon
 

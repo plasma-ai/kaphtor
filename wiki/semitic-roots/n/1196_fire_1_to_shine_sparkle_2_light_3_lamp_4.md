@@ -30,7 +30,7 @@ updated: 2026-10-26T14:26:59Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Pre-Islamic North Arabian | Safaitic nr 3 (Al-Jallad 2026, 106) | Al-Jallad 2026 106 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic nr 3 (Al-Jallad 2026, 106); nʾr (a deity) 2 (Al-Jallad 2026, 187); Taymanitic nrn 3 (Al-Jallad 2026b, 51) | Al-Jallad 2026 106; Al-Jallad 2026 187; Al-Jallad 2026b 51 | gloss withheld |
 | Arabic | nwr (u) 2; nūr- 3, nār- 1 (Kogan 2011, 195) | Kogan 2011 195 | gloss withheld |
 | Akkadian | namru, nawru 2 (CAD N/1 239); nawāru 2; nūru 3 (Kogan 2011, 195); nūru in bīt nūri, ša nūri 4 (CAD N/2 351) | CAD N/1 239; Kogan 2011 195; CAD N/2 351 | gloss withheld |
 | Ugaritic | nr 3, 4 (DULAT 633); /nēru/ or /nīru/ 4 (UVST 152) | DULAT 633; UVST 152 | gloss withheld |

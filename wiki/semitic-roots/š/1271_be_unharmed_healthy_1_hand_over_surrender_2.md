@@ -47,7 +47,7 @@ updated: 2026-10-26T14:26:59Z
 | Tigrinya | sälam (LGz. 500) | LGz. 500 | gloss withheld |
 | Amharic | sälam (LGz. 500) | LGz. 500 | gloss withheld |
 | Amorite | ślm: jiślam, śalamum, śalamatum, śalimum (Gelb AS 21, 32); yašlam, yašlim/yišlam (Buck 2019, 332); S-l-m 2: e-es-li-mu-um, ia-áš-la-mu-um, iš-la-ma-na; Salim 2: sa-li-im, sa-li-ma-tim (Sanmartín GlOS 2, 196–197) | Gelb AS 21 32; Buck 2019, 332; Sanmartín GlOS 2, 196–197 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic slm (Al-Jallad–Jaworska 122); ʾslm 2 (Al-Jallad–Jaworska 47); ʾslm; slm (Al-Jallad 2026, 132); slm (D) (Al-Jallad 2026, 133); Dhofari slm (Al-Jallad 2026, 132) | Al-Jallad–Jaworska 122; Al-Jallad–Jaworska 47; Al-Jallad 2026 132; Al-Jallad 2026 133 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic slm (Al-Jallad–Jaworska 122); ʾslm 2 (Al-Jallad–Jaworska 47); ʾslm; slm (Al-Jallad 2026, 132); slm (D) (Al-Jallad 2026, 133); Dhofari slm (Al-Jallad 2026, 132); Taymanitic slmn (Al-Jallad 2026b, 55) | Al-Jallad–Jaworska 122; Al-Jallad–Jaworska 47; Al-Jallad 2026 132; Al-Jallad 2026 133; Al-Jallad 2026b 55 | gloss withheld |
 | Punic | N.Pu. šlm (T 318); šlm (T 319); Neo-Punic šlm 2, in šlm hršt (Krahmalkov 465); šlm 2 (DNWSI 1153) | T 318; T 319; Krahmalkov 465; DNWSI 1153 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

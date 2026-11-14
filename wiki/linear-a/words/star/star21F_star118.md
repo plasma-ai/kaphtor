@@ -49,6 +49,7 @@ KH 88 QA-NU-MA · \*21F-\*118 · NI 10, before figs; ZA 5a heads a ration list, 
 |---|---|
 | Ugaritic | ḥṭt 'wheat' (DULAT 372) |
 | Hebrew | ḥiṭṭâ 'wheat' (HALOT 306) |
+| Phoenician | ḥṭm 'wheat' (Krahmalkov 181) |
 
 ### Source
 

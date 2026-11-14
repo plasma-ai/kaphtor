@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/inscriptions/PYR/PYR/PYR1
 title: "PYR1"
-desc: "Tablet, Pyrgos, LMIB. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "tablet"]
+desc: "Tablet, Pyrgos, LMIB. Translation: complete (SPECULATIVE)."
+tags: ["linear-a", "inscription", "translation-complete", "tablet"]
 kind: "inscription"
 id: "PYR1"
 site: "Pyrgos"
 support: "Tablet"
 period: "LMIB"
-translation: "none"
+translation: "complete"
 words: ["TI-MA-RU-WI-TE"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -47,6 +47,25 @@ Unicode (Linear A block):
 ```text
 𐘠𐙁𐘘𐘣𐘃𐝦𐙍𐄘
 ```
+
+## Translation
+
+**SPECULATIVE**, complete.
+
+> Timar the Levite: wine (\*806-VIN) 90.
+
+| Word | Reading | Gloss | Confidence | Lexicon |
+|---|---|---|---|---|
+| [[wiki/linear-a/words/T/TI_MA_RU_WI_TE\|TI-MA-RU-WI-TE]] | Tīmar-luwwīt | Timar the Levite (f.), priestess (woman's name and title) | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/V/VIN\|VIN]] |  | wayn 'wine' | PROBABLE | PROBABLE (lexicon) |
+
+### Notes
+
+Whole from margin to margin; nine ten-bars. The foot of \*806 meets damaged surface.
+
+### Source
+
+- di Mino: TI-MA-RU-WI-TE, VIN
 
 ## Lexicon words citing this document
 

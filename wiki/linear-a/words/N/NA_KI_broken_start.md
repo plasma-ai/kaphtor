@@ -25,7 +25,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/KH/KH/KH92\|KH92]] | Khania | Tablet | none |
+| [[wiki/linear-a/inscriptions/KH/KH/KH92\|KH92]] | Khania | Tablet | incomplete |
 
 ## Unread
 

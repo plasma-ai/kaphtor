@@ -27,6 +27,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/SI_DI_JA\|SI-DI-JA]] | Šadiya | personal name, Ugaritic Šadiya (šdy II), 'field' | 1 |
+| [[wiki/names/semitic/names/SI_DI_JA\|SI-DI-JA]] | Šidiya | personal name, Ugaritic Šidiya (ši-di-ia) | 1 |
 
 <!-- END kaphtor:record -->
