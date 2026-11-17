@@ -42,6 +42,7 @@ updated: 2026-10-24T16:17:50Z
 ### Forms cited for the value
 
 - I-PI-NA-MA = ipinama (libation-formula term; Gordon's no-x-na-ma)
+- The Linear B value, confirmed in Linear A by more than one contextual test (Davis 2026b, 18, Table 1.3, after Duhoux 1989)
 
 ## Lexicon words written with this sign
 
@@ -49,7 +50,7 @@ updated: 2026-10-24T16:17:50Z
 |---|---|---|
 | [[wiki/linear-a/words/A/A_KI_PI_E_TE\|A-KI-PI-E-TE]] | Akipe-te | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_PI\|A-PI]] | ʾāpi | SPECULATIVE |
-| [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | ʾarān Ṣidna bikē bayta rēšī tarīmu ʾAyaku | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | ʾAren Ṣidna bikē bayta rēšī tarīmu ʾAyaku | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RE_PI_RE_NA\|A-RE-PI-RE-NA]] | ʾa-repiʾ-rennā | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_WA_PI\|A-WA-PI]] | ʾawpiʿ | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_I_PI_TA\|DA-I-PI-TA]] | Ṭayyibat | SPECULATIVE |
@@ -70,7 +71,6 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/P/PI_TA_RA\|PI-TA-RA]] | bitra | SPECULATIVE |
 | [[wiki/linear-a/words/P/PI_TE_RI\|PI-TE-RI]] | piṭrī | CANDIDATE |
 | [[wiki/linear-a/words/Q/QE_PI_TA\|QE-PI-TA]] | qepīta | SPECULATIVE |
-| [[wiki/linear-a/words/R/RU_PI\|RU-PI]] | rōpiʾ | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_PI_KI\|SI-PI-KI]] | šipkī | CANDIDATE |
 | [[wiki/linear-a/words/T/TU_PI_TA\|TU-PI-TA]] | ṯūpiṭa | CANDIDATE |
 

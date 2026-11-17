@@ -3,7 +3,7 @@ name: wiki/names/semitic/names
 title: "Semitic names"
 desc: "The Semitic names, one page each."
 created: 2026-11-11T23:39:03Z
-updated: 2026-11-16T19:24:13Z
+updated: 2026-11-17T20:31:49Z
 ---
 
 # Semitic names
@@ -63,6 +63,8 @@ updated: 2026-11-16T19:24:13Z
 [[wiki/names/semitic/names/A_RA_JU|A_RA_JU]]: ʾArāyu: a town of the kingdom of Ugarit, on the Ugarit–Alalakh border (toponym); rival Aralu. Semitic, SPECULATIVE.
 
 [[wiki/names/semitic/names/A_RA_U_DA|A_RA_U_DA]]: ʾArwada: Arwad (island city of the Phoenician coast), the home of the man named before it; rival a personal name, Ugaritic ảrwd(n). Semitic, SPECULATIVE.
+
+[[wiki/names/semitic/names/A_RE_NE|A_RE_NE]]: ʾAren: Aren, a man's name, the owner of the ring. Semitic, SPECULATIVE.
 
 [[wiki/names/semitic/names/A_RE_PI_RE_NA|A_RE_PI_RE_NA]]: ʾa-repiʾ-rennā: Healer of Jubilation (Eshmun epithet). Semitic, SPECULATIVE.
 
@@ -306,6 +308,8 @@ updated: 2026-11-16T19:24:13Z
 
 [[wiki/names/semitic/names/KI_RI_TA2|KI_RI_TA2]]: Kirīta: Kret (variant spelling). Semitic, PROBABLE.
 
+[[wiki/names/semitic/names/KI_RU|KI_RU]]: Kirru: personal name, the owner of the vase; Ugaritic krr. Semitic, SPECULATIVE.
+
 [[wiki/names/semitic/names/KI_plus_MU|KI_plus_MU]]: kumru: priest(s) (personnel category, ligatured onset abbreviation). Semitic, CANDIDATE.
 
 [[wiki/names/semitic/names/KO_A_DU_WA|KO_A_DU_WA]]: Qō-Addua: personal name, 'Hope in Addu' (Amorite Quwi-Haddu); rival an Anatolian name in Kuwa-. Semitic, SPECULATIVE.
@@ -322,7 +326,7 @@ updated: 2026-11-16T19:24:13Z
 
 [[wiki/names/semitic/names/KU_PA3_NA_TU|KU_PA3_NA_TU]]: Kubānatu: devotee(s) of Kubaba (Kubaba + -ān- + feminine -atu), a counted personnel group. Semitic, CANDIDATE.
 
-[[wiki/names/semitic/names/KU_PA3_NU|KU_PA3_NU]]: Kubānu: devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan. Semitic, PROBABLE.
+[[wiki/names/semitic/names/KU_PA3_NU|KU_PA3_NU]]: Kubānu: devotee of Kubaba (Kubaba + -ān-), personal name or title. Semitic, PROBABLE.
 
 [[wiki/names/semitic/names/KU_PA3_RI_JA|KU_PA3_RI_JA]]: Kubariya: Kubariya, a town of Ugarit, (wool) of Kubariya: a section heading; rival Gubliya 'the Byblian'. Semitic, SPECULATIVE.
 

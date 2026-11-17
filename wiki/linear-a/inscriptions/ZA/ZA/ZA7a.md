@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/ZA/ZA/ZA7a
 title: "ZA7a"
-desc: "Tablet, Zakros. Translation: incomplete (SPECULATIVE)."
+desc: "Tablet, Zakros, LMIB. Translation: incomplete (SPECULATIVE)."
 tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
 kind: "inscription"
 id: "ZA7a"
 site: "Zakros"
 support: "Tablet"
-period: ""
+period: "LMIB"
 translation: "incomplete"
 words: ["A-RA-TU", "A-RE-TU-MI", "U-JU"]
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Zakros |
 | Findspot |  |
 | Support | Tablet |
-| Period |  |
+| Period | LMIB |
 | Scribe |  |
 | Edition | GORILA 3 |
 | Series | ZA |

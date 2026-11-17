@@ -48,6 +48,7 @@ Evidence: b 17/19, p 13/19, m and n 16/19, counting the forms in each root's lan
 - A-PA₃-DI = ʿabadī √ʿ-b-d 'my servant' (PKZb?)
 - PA₃-NI-NA = banīna √b-n-y 'our builder' (HT6b, HT93a)
 - KU-PA₃-PA₃ = Kubaba, Anatolian Mother Goddess (HT88)
+- Linear B \*56-ra-ku-ja 'blue-green' (KN Ld 587), beside pa-ra-ku-ja (KN Ld 575), spells with \*56, the Linear A PA₃, the b of a Semitic loan, Heb. bāreqet, Akk. barraqtu &lt; barāqu (Docs², 340; Melena 1987, 226, apud Davis 2026b, 126 n. 467)
 
 ## Lexicon words written with this sign
 
@@ -69,7 +70,7 @@ Evidence: b 17/19, p 13/19, m and n 16/19, counting the forms in each root's lan
 | [[wiki/linear-a/words/P/PA3_NI_NA\|PA₃-NI-NA]] | banīna | PROBABLE |
 | [[wiki/linear-a/words/P/PA3_NI_WI\|PA₃-NI-WI]] | bānīy | CANDIDATE |
 | [[wiki/linear-a/words/P/PA3_SI_star47\|PA₃-SI-\*47]] | basīsa | CANDIDATE |
-| [[wiki/linear-a/words/Q/QA_PA3\|QA-PA₃]] | qubaʿ | PROBABLE |
+| [[wiki/linear-a/words/Q/QA_PA3\|QA-PA₃]] | qab | PROBABLE |
 | [[wiki/linear-a/words/S/SE_SA_PA3\|SE-SA-PA₃]] | Zizapa | SPECULATIVE |
 | [[wiki/linear-a/words/S/SU_PA3_RA\|SU-PA₃-RA]] | zubāra | PROBABLE |
 

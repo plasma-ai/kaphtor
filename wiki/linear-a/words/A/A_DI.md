@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-KN Zc 6 .2 opens with A-DI after .1 QI-TI-RI and governs DA-KI-TI: ʿadi Daqqiti 'unto Daqqitu', the incense brought as far as the goddess; Hebrew ʿad 'up to, as far as' (HALOT 786–787), Akk. adi (CAD A/1 115), Phoenician ʿd 'as far as, until' (Krahmalkov 2000, 360). Davis parses the A- of A-DI-KI-TE-TE as a prepositional prefix, 'to, for the Diktaian' (Davis 2026, 43–60). Weak point: dedications use l-, as dqt l ṣpn (KTU 1.41:34). Rival: 'until', with daqqati, '(ground) until fine', as Hebrew grinds the golden calf ʿad ʾăšer-dāq 'until it was fine' (Exod 32:20; Deut 9:21). Evans (PoM I 615 n. 1) reports a dividing mark before DA, which GORILA IV 121 does not print. Initial A- writes ʿa-, the ʿ unwritten. One attestation.
+KN Zc 6 .2 opens with A-DI after .1 QI-TI-RI and governs DA-KI-TI: ʿadi Daqqiti 'unto Daqqitu', the incense brought as far as the goddess; Hebrew ʿad 'up to, as far as' (HALOT 786–787), Akk. adi (CAD A/1 115), Phoenician ʿd 'as far as, until' (Krahmalkov 2000, 360). Valério parses the A- of A-DI-KI-TE-TE as a prefix, 'to/for the Diktaian' (Valério 2007; Davis 2026, 49–50). Weak point: dedications use l-, as dqt l ṣpn (KTU 1.41:34). Rival: 'until', with daqqati, '(ground) until fine', as Hebrew grinds the golden calf ʿad ʾăšer-dāq 'until it was fine' (Exod 32:20; Deut 9:21). Evans (PoM I 615 n. 1) reports a dividing mark before DA, which GORILA IV 121 does not print. Initial A- writes ʿa-, the ʿ unwritten. One attestation.
 
 ### Cognates
 

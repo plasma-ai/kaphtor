@@ -37,13 +37,18 @@ updated: 2026-10-24T16:17:50Z
 
 | Value | Confidence | Evidence |
 |---|---|---|
-| /la/ | 0.30 | R-class liquid interchange; but RA2=AB76 exists for /la/ |
+| /la/ | 0.30 | R-class liquid interchange; but RA2=AB76 exists for /la/; Davis sets two Minoan liquids, /l/ and /r/, behind the one r-series: Greek keeps them apart in Cretan names Linear B spells alike with r, tu-ri-so Τυλισός, su-ki-ri-ta Σύβριτα, never \*Τυρισός, \*Σύβλιτα (2026b, 147–50, Hypothesis 14) |
 
 ### Forms cited for the value
 
 - JA-SA-SA-RA-ME
 - SU-PA₃-RA
 - A-RA-NA-RE (Hurrian PN, Ugaritic ålnr, Linear B a-ra-na-ro)
+- The Linear B value, confirmed in Linear A by one contextual test (Davis 2026b, 18, Table 1.3, after Duhoux 1989)
+
+### Note
+
+Petrakis and Salgarella (2026, 32, after Docs, 43, 67–70) ask, with 'the highest caution', whether Linear B spellings that look 'odd' for Greek, the 'common graphic rendering of liquids' and the 'graphic omission of final consonants', 'might hint at "canonical" features of the (or a) "Minoan" language'; Salgarella (2023, 400) holds that the first Linear B writers 'may well have retained' with the signs the orthographic conventions bound to them. Here RA writes r, with l as its alternate and RA₂ the marked la, and a final consonant is written with a dead vowel, as in A-TA-NA-TE ʾAtanat.
 
 ## Lexicon words written with this sign
 
@@ -72,8 +77,8 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/I/I_KI_RA\|I-KI-RA]] | ikkara | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_MI_SA_RA\|I-MI-SA-RA]] | Il-Mīšar | PROBABLE |
 | [[wiki/linear-a/words/J/JA_DU_RA_TI\|JA-DU-RA-TI]] | Yadurati | CANDIDATE |
-| [[wiki/linear-a/words/J/JA_PA_RA\|JA-PA-RA]] | yapʾara | CANDIDATE |
-| [[wiki/linear-a/words/J/JA_PA_RA_JA_SE\|JA-PA-RA-JA-SE]] | yapʾara yāṣē | CANDIDATE |
+| [[wiki/linear-a/words/J/JA_PA_RA\|JA-PA-RA]] | yapra | CANDIDATE |
+| [[wiki/linear-a/words/J/JA_PA_RA_JA_SE\|JA-PA-RA-JA-SE]] | yapra yāṣē | CANDIDATE |
 | [[wiki/linear-a/words/J/JA_RA\|JA-RA]] | Yaraḫ | SPECULATIVE |
 | [[wiki/linear-a/words/J/JA_SA_RA\|JA-SA-RA]] | yašara | CANDIDATE |
 | [[wiki/linear-a/words/J/JA_SA_SA_RA\|JA-SA-SA-RA]] | yaššar- | CANDIDATE |
@@ -86,12 +91,13 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/K/KU_RA_MU\|KU-RA-MU]] | Kurmu | CANDIDATE |
 | [[wiki/linear-a/words/M/MI_DA_RU_RA\|MI-DA-RU-RA]] | midrara | CANDIDATE |
 | [[wiki/linear-a/words/M/MI_RU_TA_RA_RE\|MI-RU-TA-RA-RE]] | Mīru-darār | SPECULATIVE |
-| [[wiki/linear-a/words/P/PA_RA\|PA-RA]] | parr(u) | SPECULATIVE |
+| [[wiki/linear-a/words/P/PA_RA\|PA-RA]] | barr | CANDIDATE |
 | [[wiki/linear-a/words/P/PA_RA_NE\|PA-RA-NE]] | Barān | CANDIDATE |
 | [[wiki/linear-a/words/P/PA3_KA_RA_TI\|PA₃-KA-RA-TI]] | baqarāti | CANDIDATE |
 | [[wiki/linear-a/words/P/PI_TA_RA\|PI-TA-RA]] | bitra | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_star118_RA_RE\|QA-\*118-RA-RE]] | qaṭara(re) | PROBABLE |
 | [[wiki/linear-a/words/Q/QA_MI_star47_NA_RA\|QA-MI-\*47-NA-RA]] | qāmī šū-nāra | SPECULATIVE |
+| [[wiki/linear-a/words/R/RA_star164_TI\|RA-\*164-TI]] | rāšōt | SPECULATIVE |
 | [[wiki/linear-a/words/R/RA_star314_RA\|RA-\*314-RA]] | Raḥal | SPECULATIVE |
 | [[wiki/linear-a/words/R/RA_NA_TU_SU\|RA-NA-TU-SU]] | Rannatušu | SPECULATIVE |
 | [[wiki/linear-a/words/R/RA_O_DI_KI\|RA-O-DI-KI]] | rāʿû diqqi | SPECULATIVE |

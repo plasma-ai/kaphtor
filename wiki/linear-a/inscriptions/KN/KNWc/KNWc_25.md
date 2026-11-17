@@ -27,7 +27,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Site | Knossos |
-| Findspot |  |
+| Findspot | East Temple Repository, Knossos |
 | Support | Roundel |
 | Period |  |
 | Scribe |  |

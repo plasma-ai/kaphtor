@@ -2,7 +2,7 @@
 name: wiki/linear-a/inscriptions/KN/KNWc
 desc: "Inscriptions from Knossos, series KNWc."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-13T13:31:15Z
+updated: 2026-11-17T20:31:47Z
 ---
 
 # wiki/linear-a/inscriptions/KN/KNWc

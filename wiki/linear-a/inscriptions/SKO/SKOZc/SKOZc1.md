@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/SKO/SKOZc/SKOZc1
 title: "SKOZc1"
-desc: "Clay chalice rim (two nonjoining fragments); painted inscription, Skoteino Cave, LM IA–B. Translation: incomplete (CANDIDATE)."
+desc: "Clay chalice rim (two nonjoining fragments); painted inscription, Skoteino Cave, LMIA–B. Translation: incomplete (CANDIDATE)."
 tags: ["linear-a", "inscription", "translation-incomplete", "clay-chalice-rim-(two-nonjoining-fragments);-painted-inscription"]
 kind: "inscription"
 id: "SKOZc1"
 site: "Skoteino Cave"
 support: "Clay chalice rim (two nonjoining fragments); painted inscription"
-period: "LM IA–B"
+period: "LMIA–B"
 translation: "incomplete"
 words: ["NA-TU-*301-NE"]
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Skoteino Cave |
 | Findspot | Skoteino Cave |
 | Support | Clay chalice rim (two nonjoining fragments); painted inscription |
-| Period | LM IA–B |
+| Period | LMIA–B |
 | Scribe |  |
 | Edition | post_gorila_publication |
 | Series | SKOZc |

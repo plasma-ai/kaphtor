@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/KN/KNWb/KNWb33
 title: "KNWb33"
-desc: "Sealing, Knossos. Translation: none."
+desc: "Sealing, Knossos, LMIA. Translation: none."
 tags: ["linear-a", "inscription", "translation-none", "sealing"]
 kind: "inscription"
 id: "KNWb33"
 site: "Knossos"
 support: "Sealing"
-period: ""
+period: "LMIA"
 translation: "none"
 words: ["QA-KI-SE-NU-TI"]
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Knossos |
 | Findspot |  |
 | Support | Sealing |
-| Period |  |
+| Period | LMIA |
 | Scribe |  |
 | Edition | GORILA 2 |
 | Series | KNWb |

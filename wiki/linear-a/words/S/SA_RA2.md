@@ -45,7 +45,7 @@ Twenty Haghia Triada accounting tablets; on HT 125a \]SA-RA₂ stands at a broke
 
 šarra 'queen, princess', the queen's establishment as recipient: Akk. šarratu 'queen' (CAD Š/2 72), Heb. śārâ 'woman of rank, princess' (HALOT 1354), Amorite šarra without -t, as the Mari name Nanni-šarra beside Nanni-šarrat (Ziegler 1999, 278; see SA-RA). RA₂ writes the geminate, as Linear B ra₂ writes rra, lla beside plain ra (Judson 2020, 74).
 
-Montecchi takes it as a sender, recipient or name and excludes a transactional sense (Montecchi 2008, 321). Schoep takes it for a transactional term: it never opens a tablet, never heads olives, and excludes TE on the mixed-commodity tablets, where its sections hold whole numbers and TE's fractions; on other tablets it takes fractions too (Schoep 2002, 164–65). On HT 34 it heads SA+MU+KU 100, of which KI-RO books 30 as owed: SA-RA₂ is the account due. Rivals: Šar-ra, a man's name at Alalakh (Niedorf 2008, 490); šeʾārā 'remainder' (√š-ʾ-r), where HT 30 and HT 34 write the deficit KI-RO; 'personnel', the 100 of HT 94a (Schrijver 2014, 26–29); 'rations' (Pope 1958, 16), against HT 105 SA-RA₂ VIR 235. HT 11b .1 RU-RA₂ heads KA 40, 30, 50, 30, 30 in SA-RA₂'s slot, and Younger (Linear A Texts) and Uchitel (2016b, 16) read SA-RA₂ there, a reading GORILA calls practically impossible (I 23).
+Montecchi takes it as a sender, recipient or name and excludes a transactional sense (Montecchi 2008, 321). Schoep takes it for a transactional term: it never opens a tablet, never heads olives, and excludes TE on the mixed-commodity tablets, where its sections hold whole numbers and TE's fractions; on other tablets it takes fractions too (Schoep 2002, 164–65). On HT 34 it heads SA+MU+KU 100, of which KI-RO books 30 as owed: SA-RA₂ is the account due. Rivals: Šar-ra, a man's name at Alalakh (Niedorf 2008, 490); šeʾārā 'remainder' (√š-ʾ-r), where HT 30 and HT 34 write the deficit KI-RO; 'personnel', the 100 of HT 94a (Schrijver 2014, 26–29); 'rations' (Pope 1958, 16), against HT 105 SA-RA₂ VIR 235; the name of the palace at Phaistos, the town being PA-I-TO, a place Haghia Triada sent goods to, 'great (place)' vel sim., perhaps an Anatolian loan beside Hittite šalli- 'big, great' (EDHIL 709–11), Davis's candidate (2026b, 104 n. 409). HT 11b .1 RU-RA₂ heads KA 40, 30, 50, 30, 30 in SA-RA₂'s slot, and Younger (Linear A Texts) and Uchitel (2016b, 16) read SA-RA₂ there, a reading GORILA calls practically impossible (I 23).
 
 ### Cognates
 
@@ -68,7 +68,7 @@ di Mino; Montecchi 2008; Schoep 2002; CAD Š/2; HALOT; Gelb 1980; Ziegler 1999; 
 | [[wiki/linear-a/inscriptions/HT/HT/HT28a\|HT28a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT28b\|HT28b]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT30\|HT30]] | Haghia Triada | Tablet | incomplete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT32\|HT32]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT32\|HT32]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT34\|HT34]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT33\|HT33]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT90\|HT90]] | Haghia Triada | Tablet | complete |
@@ -93,6 +93,7 @@ di Mino; Montecchi 2008; Schoep 2002; CAD Š/2; HALOT; Gelb 1980; Ziegler 1999; 
 | [[wiki/linear-a/inscriptions/HT/HT/HT28a\|HT28a]] | šarra | the queen or royal establishment; OLE+DI 1, figs 2, wine 3, VIR+KA-VIN 6 | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT28b\|HT28b]] | šarra | queen/princess or royal establishment |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT30\|HT30]] | šarra | queen/princess | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT32\|HT32]] | šarra | queen/princess | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT33\|HT33]] | šarra | queen/princess | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT34\|HT34]] | šarra | queen/princess | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT90\|HT90]] | šarra | queen/princess or royal establishment |  |

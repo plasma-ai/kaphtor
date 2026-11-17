@@ -20,18 +20,18 @@ Every number on this page is computed from the data files.
 
 | Site | Records | Documents | Translated (complete) | Lexicon words attested |
 |---|---|---|---|---|
-| Haghia Triada | 1,111 | 1,053 | 365 | 387 |
-| Khania | 226 | 223 | 36 | 75 |
+| Haghia Triada | 1,111 | 1,053 | 366 | 396 |
+| Khania | 226 | 223 | 36 | 78 |
 | Phaistos | 66 | 48 | 13 | 45 |
 | Knossos | 57 | 51 | 19 | 57 |
-| Zakros | 53 | 40 | 8 | 96 |
+| Zakros | 53 | 40 | 8 | 97 |
 | Palaikastro | 25 | 25 | 10 | 38 |
 | Malia | 22 | 11 | 4 | 9 |
 | Thera | 19 | 18 | 3 | 3 |
 | Iouktas | 16 | 16 | 11 | 17 |
-| Arkhanes | 12 | 9 | 3 | 24 |
+| Arkhanes | 12 | 9 | 3 | 25 |
 | Syme | 12 | 12 | 8 | 16 |
-| Petras | 11 | 11 | 3 | 19 |
+| Petras | 11 | 11 | 3 | 17 |
 | Kea | 8 | 8 | 1 | 2 |
 | Tylissos | 6 | 5 | 1 | 12 |
 | Gournia | 5 | 3 | 0 | 5 |

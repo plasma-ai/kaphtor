@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/words/S/SUS
 title: "SUS"
-desc: "(logogram): pig (livestock logogram). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "commodity", "livestock", "logogram"]
+desc: "(logogram): pig (livestock logogram). Lexicon, PROBABLE (tier 3)."
+tags: ["linear-a", "word", "tier-3", "commodity", "livestock", "logogram"]
 kind: "word"
 form: "SUS"
 datasets: ["lexicon"]
-tier: 2
-confidence: "CANDIDATE"
-confidence_score: 0.4
+tier: 3
+confidence: "PROBABLE"
+confidence_score: 0.65
 reading: "(logogram)"
 attestations: ["HT118", "HT38"]
 created: 2026-11-12T00:26:03Z
@@ -27,7 +27,7 @@ updated: 2026-11-12T00:26:03Z
 
 ## Lexicon
 
-**CANDIDATE**, tier 2 of 4, score 0.40
+**PROBABLE**, tier 3 of 4, score 0.65
 
 | Field | Value |
 |---|---|
@@ -63,8 +63,8 @@ di Mino; HALOT; Peruzzi 1958; Benz 1972
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT118\|HT118]] | logogram | swine, pigs | CANDIDATE |
-| [[wiki/linear-a/inscriptions/PH/PH/PH_q_31a\|PH(?)31a]] |  | pig (livestock logogram) | CANDIDATE |
-| [[wiki/linear-a/inscriptions/PH/PH/PH_q_31b\|PH(?)31b]] |  | pig (livestock logogram) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT118\|HT118]] | logogram | swine, pigs | PROBABLE |
+| [[wiki/linear-a/inscriptions/PH/PH/PH_q_31a\|PH(?)31a]] |  | pig (livestock logogram) | PROBABLE |
+| [[wiki/linear-a/inscriptions/PH/PH/PH_q_31b\|PH(?)31b]] |  | pig (livestock logogram) | PROBABLE |
 
 <!-- END kaphtor:record -->

@@ -63,11 +63,11 @@ Unicode (Linear A block):
 
 **SPECULATIVE**, incomplete (status: incomplete).
 
-> In the charge of (QE-TI), men: ʾIlūya 3; Ḏū-Ya 4; Tanāti 1; the estate (DA-RE) 1; Tetu 1.
+> List of men: ʾIlūya 3; Ḏū-Ya 4; Tanāti 1; the estate (DA-RE) 1; Tetu 1.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/Q/QE_TI\|QE-TI]] | qāti | in the charge of (list heading) | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/Q/QE_TI\|QE-TI]] | qāti | list of (heading) | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/V/VIR_plus_q_broken_end\|VIR+&#91;?&#93;]] |  | men (VIR, the ligatured sign lost) | CONFIRMED | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/I/I_RU_JA\|I-RU-JA]] | ʾIlūya | personal name, 'My god', 3 | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/D/DU_JA\|DU-JA]] | Ḏū-Ya | personal name, 'He of Ya', 4 | SPECULATIVE | SPECULATIVE (lexicon) |

@@ -70,7 +70,7 @@ Read words on the same documents.
 | [[wiki/names/semitic/names/KU_PA3_NA_TU\|KU-PA₃-NA-TU]] | Kubānatu | devotee(s) of Kubaba (Kubaba + -ān- + feminine -atu), a counted personnel group |
 | [[wiki/names/semitic/names/QA_star310_I\|QA-\*310-I]] | qaynī | smith or cultic administrator; occupational title |
 | [[wiki/names/egyptian/names/JA_MI_DA_RE\|JA-MI-DA-RE]] | Yamidare | He-from-the-hand-of-Re (Egyptian theophoric) |
-| [[wiki/names/semitic/names/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan |
+| [[wiki/names/semitic/names/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | devotee of Kubaba (Kubaba + -ān-), personal name or title |
 | DU | du | that, of (relative pronoun) |
 
 <!-- END kaphtor:record -->

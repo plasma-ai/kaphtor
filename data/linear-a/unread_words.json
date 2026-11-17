@@ -7,24 +7,24 @@
     "edge_overlap": "a lexicon word sits at one edge; often a chance 2-sign overlap"
   },
   "stats": {
-    "corpus_words": 724,
-    "read": 551,
-    "unread_listed": 370,
+    "corpus_words": 720,
+    "read": 552,
+    "unread_listed": 367,
     "by_status": {
       "edge_overlap": 18,
-      "unread": 155,
-      "role_only": 197
+      "unread": 153,
+      "role_only": 196
     },
-    "hapax": 358,
-    "repeated": 12,
+    "hapax": 356,
+    "repeated": 11,
     "cross_site": 4,
-    "surface_damaged": 274,
+    "surface_damaged": 276,
     "excluded_tokens": {
-      "single-sign": 1416,
-      "numeral/punct": 1554,
-      "logogram": 343,
-      "damaged": 1107,
-      "ligature/logogram": 420
+      "single-sign": 1418,
+      "numeral/punct": 1553,
+      "logogram": 341,
+      "damaged": 1108,
+      "ligature/logogram": 421
     }
   },
   "excluded": {
@@ -160,7 +160,7 @@
           "start"
         ]
       },
-      "note": "MA 2b .1 ]-RE-TI 4, broken before RE, the word running into the break (GORILA I 271). MI Zb 3, a jug handle, has no printed reading: Younger lists it as an inscription of doubtful status (Younger, Linear A Texts, other texts). Not readable."
+      "note": "MA 2b .1 ]-RE-TI 4, broken before RE, the word running into the break (GORILA I 271). MI Zb 3, a jug handle, is a doubtful inscription for Younger (Linear A Texts, other texts) and RILA-S1 (D 9), and Donnelly reads its signs as the Cypro-Minoan sequence CM 023-082 (Donnelly 2026, 71–72). Not readable."
     },
     {
       "word": "I-SE",
@@ -420,7 +420,7 @@
         "Haghia Triada"
       ],
       "cross_site": false,
-      "note": "HT 11a .3 *322-RI 1, RI written small at the upper right of *322, before KU-RO 10 (GORILA I 23). The copie normalisée leaves both signs undotted, the copie tabulaire dots *322. The HT 11a sign is a tall loop with a small hook on its right; the single sign of the Khania roundels KH Wc 2026, 2027 and 2098, the logogram PIRRI, is a flat oval with an upright box (GORILA III 124, 141), another sign. *322 has no syllabic value. No reading."
+      "note": "HT 11a .3 *322-RI 1, RI written small at the upper right of *322, before KU-RO 10 (GORILA I 23). The copie normalisée leaves both signs undotted, the copie tabulaire dots *322. The HT 11a sign is a tall loop with a small hook on its right; the single sign of the Khania roundels KH Wc 2026, 2027 and 2098, the logogram ṢURRU, is a flat oval with an upright box (GORILA III 124, 141), another sign. *322 has no syllabic value. No reading."
     },
     {
       "word": "*323-*344",
@@ -490,48 +490,6 @@
         ]
       },
       "note": "TY 2 .1 *309B-[ ]-PU-PI 5̣00, the sign set above *309B lost, the hundreds dotted, PI dotted in the tabular copy (GORILA I 324–325). The *34 is SigLA's. Not readable."
-    },
-    {
-      "word": "*312-TA",
-      "signs": 2,
-      "status": "unread",
-      "frequency": 1,
-      "attestations": [
-        "HT10b"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "note": "HT 10b .2 *312-TA 6½, whole and undotted, after TA-RI-NA 15 and before KA-SA-RU 6 (GORILA I 21). *312 has no assigned value. Cf. *312-TA₂. No reading."
-    },
-    {
-      "word": "*312-TA₂",
-      "signs": 2,
-      "status": "unread",
-      "frequency": 1,
-      "attestations": [
-        "ZA6b"
-      ],
-      "sites": [
-        "Zakros"
-      ],
-      "cross_site": false,
-      "note": "ZA 6b *312-TA₂ GRA+PA 40, intact, after VIN+RA 40 and VIN+KA 10, an entry receiving grain set out as I-KU-JU-TI-*28B GRA+PA 50¼ above it (GORILA III 159). *312 has no assigned value. Cf. *312-TA. No reading."
-    },
-    {
-      "word": "*312-TE-TE",
-      "signs": 3,
-      "status": "unread",
-      "frequency": 1,
-      "attestations": [
-        "HT26a"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "note": "HT 26a .1 *312-TE-TE, unquantified after the vessel heading *406VAS+KE, before TA-TI 21 and MI-KI-SE-NA 15 (GORILA I 47). *312 has no assigned value. No reading."
     },
     {
       "word": "*355-E-*354",
@@ -773,7 +731,7 @@
           "interior"
         ]
       },
-      "note": "KH 11 .1 A-DU-[·]-ZA, CYP and a fraction, the third sign lost; the apparatus finds A-DU-RE-ZA possible (GORILA III 39). It heads issues of cyperus, SU, wine and *306; .3 *306 4 and CYP follow A-DU-RE[ on KH 4 .2 as well (GORILA III 25). On HT 88 .1, A-DU VIR+KA 20 is followed by RE-ZA 6, RE over an erasure (GORILA I 139). Not readable."
+      "note": "KH 11 .1 A-DU-[·]-ZA, CYP and a fraction, the third sign lost; the apparatus finds A-DU-RE-ZA possible (GORILA III 39). It heads issues of cyperus, SU, wine and *306; .3 *306 4 and CYP follow A-DU-RE[ on KH 4 .2 as well (GORILA III 25). On HT 88 .1, A-DU VIR+KA 20 is followed by RE-ZA 6, RE over an erasure (GORILA I 139). Davis writes A-DU-RE-ZA with GORILA's dotted RE and pairs it with DU-RE-ZA-SE as evidence for affixes (2026, 46); Hogan's Table 4.3 makes the list a transfer to A-DU (2026, 81). The facsimile shows one upright in the gap, its top lost in the damage, and no divider. Not readable."
     },
     {
       "word": "A-I",
@@ -871,7 +829,7 @@
           "start"
         ]
       },
-      "note": "PH(?)31b .5 ]A-MI-DA-O *21M 1[, broken before A and after the numeral (GORILA I 319). Not readable."
+      "note": "PH(?)31b .5 ]A-MI-DA-O *21M 1[, broken before A and after the numeral (GORILA I 319). Davis lists it with A-MI-DA-U (ZA 10a) among sequences attested in slightly different forms in more than one region, its length suggesting relatedness (Davis 2026b, 77 and n. 286). Not readable."
     },
     {
       "word": "A-NA",
@@ -1043,7 +1001,7 @@
         "Khania"
       ],
       "cross_site": false,
-      "note": "KH 11 .5 A-TA-*350, then *301 1 at the head of .6 (GORILA III 39). Intact, no dots. *350 occurs nowhere else and has no value. Younger prints A-TE-*350 and compares A-TA-*301- of the libation formula (Younger, Linear A Texts), and GORILA reads TA. No reading."
+      "note": "KH 11 .5 A-TA-*350, then *301 1 at the head of .6 (GORILA III 39). Intact, no dots. *350 occurs nowhere else and has no value; Salgarella asks whether it is a variant of *306 and takes it for a possible source of Linear B wo (Salgarella 2020, 171). Younger prints A-TE-*350 and compares A-TA-*301- of the libation formula (Younger, Linear A Texts), and GORILA reads TA. No reading."
     },
     {
       "word": "A-TO-*349-TO-I",
@@ -1057,7 +1015,7 @@
         "Khania"
       ],
       "cross_site": false,
-      "note": "KH 11 .4 A-TO-*349-TỌ-I, the second TO dotted, the copie tabulaire dotting I as well, written over traces of an erasure, then an erased CYP and CYP+E, its quantity 3 on .5 (GORILA III 39). *349 occurs nowhere else (Younger, Linear A Texts). Sole attestation. Not readable."
+      "note": "KH 11 .4 A-TO-*349-TỌ-I, the second TO dotted, the copie tabulaire dotting I as well, written over traces of an erasure, then an erased CYP and CYP+E, its quantity 3 on .5 (GORILA III 39). *349 occurs nowhere else (Younger, Linear A Texts). Melena takes *349 for the ancestor of Linear B jo (Melena 2014a, 84–88); Salgarella counts it among his more convincing o-series proposals, though jo's multi-stroke variants sit uneasily with A 349's single line (Salgarella 2020, 157, 291–92). Sole attestation. Not readable."
     },
     {
       "word": "A-RA-[?]-A-TU",
@@ -2306,6 +2264,26 @@
       "note": "GORILA IV 15 reads KN Za 19 .2 ]*118-MI-NA, written right to left and broken at its start. Not readable."
     },
     {
+      "word": "]-*118-MI-[",
+      "signs": 2,
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "ZA21a"
+      ],
+      "sites": [
+        "Zakros"
+      ],
+      "cross_site": false,
+      "surface_damage": {
+        "ZA21a": [
+          "start",
+          "end"
+        ]
+      },
+      "note": "GORILA III 195 reads ZA 21a .7 ]3̣ Ạ[ ]*118̣-MI[ ]2, *118 dotted, the group broken at both ends, the 2 on the right edge of the tablet. KN Za 19 .2 has ]*118-MI-NA. Not readable."
+    },
+    {
       "word": "KE-SI-TE",
       "signs": 3,
       "status": "role_only",
@@ -2435,7 +2413,7 @@
         "Zakros"
       ],
       "cross_site": false,
-      "note": "ZA 1a .1–2 KỊ-RẸ-ZẠ · NỊ 42 ∠, after *516 ·, all three signs dotted on both copies (GORILA I 333). Younger marks the same three as doubtful (Younger, Linear A Texts). Sole attestation. Not readable."
+      "note": "ZA 1a .1–2 KỊ-RẸ-ZẠ · NỊ 42 ∠, after *516 ·, all three signs dotted on both copies (GORILA I 333). Younger marks the same three as doubtful (Younger, Linear A Texts). Davis sets it beside KI-RE-TA₂ (HT 85b, HT 129) as a possible eastern spelling of that word, citing the fig logogram NI after it here and on HT 129, support he calls weak on so damaged a tablet (Davis 2026b, 158–59). Sole attestation. Not readable."
     },
     {
       "word": "[?]-KI-TA",
@@ -2857,7 +2835,7 @@
           "end"
         ]
       },
-      "note": "HT78, a single line, ]MU-*312[, broken on both sides (GORILA I 127). Sole attestation. Not readable."
+      "note": "HT78, a single line, ]MU-*312[, broken on both sides (GORILA I 127). Sole attestation. Both signs are legible; the word is incomplete. No reading."
     },
     {
       "word": "NA-*21F-NE-[",
@@ -3598,22 +3576,6 @@
       "note": "HT58 .1 QẸ-TI-RA-DU · VIR+[?][, QE underdotted in both copies, and GORILA's note allows KẠ-TI-RA-DU (GORILA I 113). Heading of the tablet. Not readable."
     },
     {
-      "word": "RA-*164-TI",
-      "signs": 3,
-      "status": "role_only",
-      "role": "personal_name",
-      "frequency": 2,
-      "attestations": [
-        "HT17",
-        "HT19"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "note": "Heads both wine tablets of HT Scribe 18, whole on each: HT17 .1–2 RA-*164-TI · TE · VIN 38, TE over an erasure, then SA-RO 10 and SI-DA-RE 5 (GORILA I 35); HT19 .1–2 RA-*164-TI · TE · VIN 30, then SA-RO 5½ and DU-ME-DI 43½ (GORILA I 37). *164 has no resolved value. No reading."
-    },
-    {
       "word": "RA-KI-TA-NA-SI",
       "signs": 5,
       "status": "edge_overlap",
@@ -3862,20 +3824,6 @@
         ]
       },
       "note": "GORILA I 319 prints .4 [·] 1̣ [·]-RU-MA-TI *21M, the first sign lost (facsimile I 318). SigLA reads a worn vertical there as ri (AB53), with no trace of RI's hook. The word stands in a personal-name position receiving OVISm on PH(?)31b. Cf. RI-RU-MA (HT118). Not readable."
-    },
-    {
-      "word": "RO-*559",
-      "signs": 2,
-      "status": "unread",
-      "frequency": 1,
-      "attestations": [
-        "THE8"
-      ],
-      "sites": [
-        "Thera"
-      ],
-      "cross_site": false,
-      "note": "THE 8, an Akrotiri tablet admitted by RILA-S1, listed as RO-A559-A534C 200. A559 is the wool logogram MA+RU (Linear B *145 LANA), so the entry is RO, then wool and A534C before 200. The Akrotiri tablets in Younger's transcription print no such sequence (Younger, Linear A Texts). Not a word."
     },
     {
       "word": "RO-NI",
@@ -4645,7 +4593,7 @@
       "note": "HT Zf (HM 767), a gold disc 3.4 mm across on the forehead of a bronze bull from the Piazzale dei Sacelli. Perna reads TI and MA, calls the readings uncertain, considers the vertical stroke between them accidental rather than a divider, reports possible traces of one or two more signs beside an abrasion over the right half, and leaves the script open between Linear A and Linear B (Kanta and Perna 2011, 291–293). RILA-S1 lists the object among its doubtful inscriptions (D 21). LB ti-ma is a man's name at Knossos (KN 317, per Perna). Not readable."
     },
     {
-      "word": "TI-NA",
+      "word": "*320-NA",
       "signs": 2,
       "status": "role_only",
       "role": "personal_name",
@@ -4663,7 +4611,7 @@
           "end"
         ]
       },
-      "note": "PH 16a .1 ]TI-NA[, broken on both sides, traces to the right (GORILA I 307). Younger prints ]TI-NA-[ (Younger, Linear A Texts, other texts). Sole attestation. Not readable."
+      "note": "PH 16a .1 ]*320-NA[, broken on both sides, traces to the right, A 320 drawn as a ring on a Λ (GORILA I 307). Younger prints ]TI-NA-[ (Linear A Texts, other texts). Sole attestation. Not readable."
     },
     {
       "word": "[?]-TI-SA",
@@ -4893,7 +4841,7 @@
         "Zakros"
       ],
       "cross_site": false,
-      "note": "ZA 10b .1 WA-*362 2, the first entry of face b, before DU-RE-ZA-SE *131B 5 (GORILA III 171). Intact. *362 has no resolved value. No reading."
+      "note": "ZA 10b .1 WA-*362 2, the first entry of face b, before DU-RE-ZA-SE *131B 5 (GORILA III 171). Intact. *362 has no resolved value; Melena takes it for the ancestor of Linear B no (Melena 2014a, 84–88, apud Salgarella 2020, 162, 291–94). No reading."
     },
     {
       "word": "WA-JA-PI",
@@ -6991,6 +6939,25 @@
         ]
       },
       "note": "KH 23 .1 A-DU[ and .2 CYP[ ] [, the lower part lost: the editors set [ after DU, at the right-hand fracture, and note traces after CYP (GORILA III 56–57). A-DU[ may begin a longer word, as A-DU-RE[ (KH 4) and A-DU-[?]-ZA (KH 11) at the same site; A-DU stands whole on seven Haghia Triada tablets. Not readable."
+    },
+    {
+      "word": "RU-PI-[?]-*305-MI",
+      "signs": 5,
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "PE2"
+      ],
+      "sites": [
+        "Petras"
+      ],
+      "cross_site": false,
+      "surface_damage": {
+        "PE2": [
+          "middle"
+        ]
+      },
+      "note": "The first edition reads PE 2 .2 3 *702, RU-PI-[ vest ]-*305-MI / *705 and draws four fragmentary marks between PI and *305, three short traces at the break and one long stroke that meets it (Tsipopoulou and Hallager 1996, 30, Fig. 12). SigLA draws a fraction and SA there. Not readable."
     }
   ]
 }

@@ -1,25 +1,25 @@
 ---
-name: wiki/linear-a/words/T/TI_NA
-title: "TI-NA"
+name: wiki/linear-a/words/star/star320_NA
+title: "*320-NA"
 desc: "Unread (role only): personal name; 1 occurrence(s)."
 tags: ["linear-a", "word", "unread"]
 kind: "word"
-form: "TI-NA"
+form: "*320-NA"
 datasets: ["unread_words"]
 attestations: ["PH16a"]
-created: 2026-10-24T16:17:50Z
-updated: 2026-10-24T16:17:50Z
+created: 2026-11-17T22:47:56Z
+updated: 2026-11-17T22:47:56Z
 ---
 
-# TI-NA
+# *320-NA
 
-[[wiki/linear-a/words/T/_index|..]]
+[[wiki/linear-a/words/star/_index|..]]
 
 ***
 
 <!-- BEGIN kaphtor:record -->
 
-**Signs.** [[wiki/linear-a/signs/syllabic/TI|TI]] · [[wiki/linear-a/signs/syllabic/NA|NA]]
+**Signs.** [[wiki/linear-a/signs/syllabic/star320|\*320]] · [[wiki/linear-a/signs/syllabic/NA|NA]]
 
 ## Attestations
 
@@ -31,6 +31,6 @@ updated: 2026-10-24T16:17:50Z
 
 Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
 
-PH 16a .1 \]TI-NA\[, broken on both sides, traces to the right (GORILA I 307). Younger prints \]TI-NA-\[ (Younger, Linear A Texts, other texts). Sole attestation. Not readable.
+PH 16a .1 \]\*320-NA\[, broken on both sides, traces to the right, A 320 drawn as a ring on a Λ (GORILA I 307). Younger prints \]TI-NA-\[ (Linear A Texts, other texts). Sole attestation. Not readable.
 
 <!-- END kaphtor:record -->

@@ -41,7 +41,7 @@ updated: 2026-11-08T17:23:00Z
 
 ### Note
 
-KN Zf 13, signs 9–11. PA-JA writes the diphthong bay-, as PA-JA-RE Payare writes pay-; TA the t with the accusative -a of place. The contracted construct bīt- is PI-TA (PI-TA-KE-SI, PI-TA-KA-SE). Rival sense: the tomb, bêt ʿôlām 'the eternal house', with the wailers in the street (Eccl 12:5). One attestation.
+KN Zf 13, signs 9–11. PA-JA writes the diphthong bay-, as PA-JA-RE Payare writes pay-; TA the t with the accusative -a of place. Egyptian scribes write the Canaanite word the same way, ba₂-ya-ta, in Beth-Dagon and Beth-Shean, writings that 'suggest the retention of the diphthong \*\[ay\]' (Hoch 1994, no. 113), and Ebla has ba-du, bayt (GlOS 1, 135). The contracted construct bīt- is PI-TA (PI-TA-KE-SI, PI-TA-KA-SE). Rival sense: the tomb, bêt ʿôlām 'the eternal house', with the wailers in the street (Eccl 12:5). One attestation.
 
 ### Cognates
 
@@ -53,7 +53,7 @@ KN Zf 13, signs 9–11. PA-JA writes the diphthong bay-, as PA-JA-RE Payare writ
 
 ### Source
 
-di Mino; DULAT; HALOT
+di Mino; DULAT; HALOT; Hoch 1994; GlOS
 
 ## Attestations
 

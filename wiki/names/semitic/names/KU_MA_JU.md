@@ -32,11 +32,11 @@ updated: 2026-11-11T23:39:03Z
 | Reading's standing | SPECULATIVE |
 | Standing as a personal name | SPECULATIVE |
 | Standing of the layer | SPECULATIVE (lexicon_reading) |
-| Source | di Mino; Leslau 1987; Harding 1971; Gelb 1980 |
+| Source | di Mino; Leslau 1987; Harding 1971; Gelb 1980; DMic I; Davis 2026b |
 
 ## Note
 
-HT 20 .1–.2 KU-MA-JU ¼, KU at the end of .1 after the heading PA-RO-SU ·, MA-JU at the head of .2, all three signs whole and undotted (GORILA I 37). Geʿez qʷəmal, Harari qumāy 'louse' (Leslau 1987, 432), the qʷ the u of KU; the Safaitic name QML 'louse' (Harding 1971, 488). JU writes lu. First entry under PA-RO-SU Parʿōš 'Flea'; SA-RE-JU Šarr-ēlu is another name in the list. Rivals: kumru 'priest' (Amorite kumrum, Gelb 1980, 23), which needs JU for ru; Amorite GML 'to please, to spare' (Gelb 1980, 19). One witness.
+HT 20 .1–.2 KU-MA-JU ¼, KU at the end of .1 after the heading PA-RO-SU ·, MA-JU at the head of .2, all three signs whole and undotted (GORILA I 37). Geʿez qʷəmal, Harari qumāy 'louse' (Leslau 1987, 432), the qʷ the u of KU; the Safaitic name QML 'louse' (Harding 1971, 488). JU writes lu. First entry under PA-RO-SU Parʿōš 'Flea'; SA-RE-JU Šarr-ēlu is another name in the list. Linear B ka-ma-jo, men at Knossos (KN Am 5882), probably the ethnic of ka-ma (DMic I), which Davis pairs with it, a pair he calls less defensible (2026b, 161–62). Rivals: kumru 'priest' (Amorite kumrum, Gelb 1980, 23), which needs JU for ru; Amorite GML 'to please, to spare' (Gelb 1980, 19). One witness.
 
 ## As a name
 

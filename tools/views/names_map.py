@@ -37,7 +37,7 @@ SITES = {
 }
 APPROX = {"Platanos", "Nerokurou", "Poros Herakleiou", "Prassa", "Troullos", "Iouktas", "Skoteino Cave", "Pyrgos"}
 SAME = {"Kophinas (?)": "Kophinas"}   # a doubtful attribution is drawn at the site it is attributed to
-OFF_CRETE = {"Lachish", "Miletos", "Samothrace", "Thera", "Troy"}
+OFF_CRETE = {"Lachish", "Miletos", "Milos", "Samothrace", "Thera", "Troy"}
 NO_SITE = "Crete"   # a find on Crete with no site on record
 COLORS = {"semitic": "#e8e4dc", "hurrian": "#87bfab", "egyptian": "#d69897", "aegean": "#89afd6",
           "anatolian": "#b499c1", "indo_european": "#aebf92", "sumerian": "#d5a77b", "unknown": "#77777c"}

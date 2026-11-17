@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Feminine of KU-PA₃-NU Kubānu, on the base of KU-PA₃-PA₃ Kubaba (HT 88, where KU-PA₃-NU also stands). HT 119 KU-RO 160 includes \*327 34 and VIR 68, so KU-PA₃-NA-TU 7 counts persons. HT 47a KU-PA₃-NA-TU 20\[ is broken. Amorite has the short base with the same -ān- in Kubb-ān-um (Gelb 1980, no. 4148), and in Kuba-ʾEl (Gelb 1980, nos. 4099–4100), so the name need not write Kubaba's second BA. Akkadian ištarītu, a priestess named from Ištar, is the same type. AP Za 2 \]-KU-PA₃-NA-TU-NA-TE-\[ carries the stem.
+Feminine of KU-PA₃-NU Kubānu, on the base of KU-PA₃-PA₃ Kubaba (HT 88, where KU-PA₃-NU also stands). HT 119 KU-RO 160 includes \*327 34 and VIR 68, so KU-PA₃-NA-TU 7 counts persons. HT 47a KU-PA₃-NA-TU 20\[ is broken. Amorite has the short base with the same -ān- in Kubb-ān-um (Gelb 1980, no. 4148), and in Kuba-ʾEl (Gelb 1980, nos. 4099–4100), so the name need not write Kubaba's second BA. Akkadian ištarītu, a priestess named from Ištar, is the same type. AP Za 2 \]-KU-PA₃-NA-TU-NA-TE-\[ carries the stem. Rival: a man's name, Linear B ka-\*56-na-to at Knossos (KN As 1516.16; DMic I), which Davis sets beside KU-PA₃-NA-TU (2026b, 161–63), against its base, KU-PA₃-PA₃ Kubaba.
 
 ### Cognates
 
@@ -52,7 +52,7 @@ Feminine of KU-PA₃-NU Kubānu, on the base of KU-PA₃-PA₃ Kubaba (HT 88, wh
 
 ### Source
 
-di Mino, Ya Diktu; Gelb 1980, AS 21, nos. 708, 2094, 4099–4100, 4148; Laroche 1980, 150; Haas 1994
+di Mino, Ya Diktu; Gelb 1980, AS 21, nos. 708, 2094, 4099–4100, 4148; Laroche 1980, 150; Haas 1994; DMic I; Davis 2026b
 
 ## Attestations
 

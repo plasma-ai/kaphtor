@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/PL/PLZf/PLZf1
 title: "PLZf1"
-desc: "Silver pin, Platanos, LM I. Translation: complete (SPECULATIVE)."
+desc: "Silver pin, Platanos, LMI. Translation: complete (SPECULATIVE)."
 tags: ["linear-a", "inscription", "translation-complete", "silver-pin"]
 kind: "inscription"
 id: "PLZf1"
 site: "Platanos"
 support: "Silver pin"
-period: "LM I"
+period: "LMI"
 translation: "complete"
 words: ["NI-NU-NI", "TA-NU-NI-KI-NA", "U-QE-TI", "WI-TE-JA-MU"]
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Platanos |
 | Findspot | Immediate vicinity of Platanos Tholos A |
 | Support | Silver pin |
-| Period | LM I |
+| Period | LMI |
 | Scribe |  |
 | Edition | GORILA 4 |
 | Series | PLZf |

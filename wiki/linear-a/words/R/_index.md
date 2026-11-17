@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/R
 desc: "Words whose first sign begins with R."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-17T14:06:48Z
+updated: 2026-11-18T01:30:44Z
 ---
 
 # wiki/linear-a/words/R
@@ -37,7 +37,7 @@ updated: 2026-11-17T14:06:48Z
 
 [[wiki/linear-a/words/R/RA_q_DE_ME_TE|RA_q_DE_ME_TE]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/R/RA_star164_TI|RA_star164_TI]]: Unread (role only): personal name; 2 occurrence(s).
+[[wiki/linear-a/words/R/RA_star164_TI|RA_star164_TI]]: rāšōt: the choicest, first-fruits (heading of a wine contribution); rival Rāmōt 'the Heights', a place. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/R/RA_star314_RA|RA_star314_RA]]: Raḥal: personal name, 'Ewe' (√r-ḥ-l), as Hebrew Rāḥēl. Lexicon, SPECULATIVE (tier 1).
 
@@ -103,8 +103,6 @@ updated: 2026-11-17T14:06:48Z
 
 [[wiki/linear-a/words/R/RO_VIR_plus_KA|RO_VIR_plus_KA]]: Unread sign (compound, component read); 1 occurrence(s).
 
-[[wiki/linear-a/words/R/RO_star559|RO_star559]]: Unread (unread): no role; 1 occurrence(s).
-
 [[wiki/linear-a/words/R/RP_33_Y|RP_33_Y]]: my Healer (deity invocation—divine title of Rapʾu). Lexicon, CONFIRMED (tier 4).
 
 [[wiki/linear-a/words/R/RU|RU]]: Unread sign (syllabogram, unread); 4 occurrence(s).
@@ -129,7 +127,7 @@ updated: 2026-11-17T14:06:48Z
 
 [[wiki/linear-a/words/R/RU_NI|RU_NI]]: Runni: personal name, 'Jubilation'; rival 'the crier', Dīnāyu's trade. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/R/RU_PI|RU_PI]]: rōpiʾ: healer (active participle of √r-p-ʾ), a counted entry. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/R/RU_PI_q_star305_MI|RU_PI_q_star305_MI]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/R/RU_RA2|RU_RA2]]: Unread (unread): no role; 1 occurrence(s).
 

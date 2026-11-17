@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 24a .1 KU-PA₃-RI-JA · KI-MA+RU\[, the heading of a wool inventory; PA-SA-RI-JA heads the second section at .4. Kubariya, a town of the kingdom of Ugarit: alphabetic kbry (KTU 4.800 II 18), syllabic URU ku-ba-ri-ia-a in the town list RS 25.455A+ I 4, as van Soldt reads it, where Arnaud read URU šu-ma-ri-a (DULAT 424; RGTC 12/2, 165). KU-PA₃-RI-JA writes ku-ba-ri-ia sign for sign, PA₃ for b. The same list names Baṣīru at I 10 (RGTC 12/2, 53). Rival: Gubliya 'the Byblian', Gubla with the gentilic -iya: Amorite GUBL-AJ-I and GUBL-AJIT-UM (Gelb 1980, nos. 1793–1795); Akkadian Gublaya 'Byblian' at Ugarit (ORACC P503838); Hebrew gibli 'Gebalite'; Ugaritic gbl 'Byblos' (DULAT 290), with RI for l. One document.
+HT 24a .1 KU-PA₃-RI-JA · KI-MA+RU\[, the heading of a wool inventory; PA-SA-RI-JA heads the second section at .4. Kubariya, a town of the kingdom of Ugarit: alphabetic kbry (KTU 4.800 II 18), syllabic URU ku-ba-ri-ia-a in the town list RS 25.455A+ I 4, as van Soldt reads it, where Arnaud read URU šu-ma-ri-a (DULAT 424; RGTC 12/2, 165). KU-PA₃-RI-JA writes ku-ba-ri-ia sign for sign, PA₃ for b. The same list names Baṣīru at I 10 (RGTC 12/2, 53). Davis pairs it with Linear B ka-pa-ra₂, said of women clothworkers at Knossos (KN Ak 5009.A), probably an ethnic (DMic I); at Haghia Triada the word appears to name the provider or recipient of MA+RU, probably wool (Davis 2026b, 161–62, after Younger 2024a–b). Rival: Gubliya 'the Byblian', Gubla with the gentilic -iya: Amorite GUBL-AJ-I and GUBL-AJIT-UM (Gelb 1980, nos. 1793–1795); Akkadian Gublaya 'Byblian' at Ugarit (ORACC P503838); Hebrew gibli 'Gebalite'; Ugaritic gbl 'Byblos' (DULAT 290), with RI for l. One document.
 
 ### Cognates
 
@@ -51,7 +51,7 @@ HT 24a .1 KU-PA₃-RI-JA · KI-MA+RU\[, the heading of a wool inventory; PA-SA-R
 
 ### Source
 
-di Mino; DULAT; RGTC 12/2
+di Mino; DULAT; RGTC 12/2; DMic I; Davis 2026b
 
 ## Attestations
 

@@ -32,7 +32,7 @@ updated: 2026-11-11T23:39:03Z
 | Reading's standing | SPECULATIVE |
 | Standing as a personal name | SPECULATIVE |
 | Standing of the layer | SPECULATIVE (lexicon_reading) |
-| Source | di Mino; Steiner 1998; Niedorf 2008; ORACC; Kinlaw 1967; Gelb 1980; Buck 2018; HALOT; Ilin-Tomich 2025 |
+| Source | di Mino; Steiner 1998; Niedorf 2008; ORACC; Kinlaw 1967; Gelb 1980; Buck 2018; HALOT; Ilin-Tomich 2025; GlOS |
 
 ## Note
 
@@ -40,7 +40,7 @@ HT 6a .2–3 PI-TA-JA 24, intact, in a fig list after DA-TA-RA · TE · NI 15 (G
 
 Women bear Bitta- names at Alalakh, Bi-it-ta-LUGAL, Bittamalki (Niedorf 2008, 486), and at Ugarit, ᶠDUMU.MUNUS-ra-ap-i, Bitta-rapʾi (RS 16.156:4; ORACC P503399), where Kinlaw reads the logogram bat- (1967, 34), and Amorite has bi-it-ta-at-ti 'you are my daughter' (Gelb 1980, no. 1237; Buck 2018, 326). Hebrew Bityāh, Pharaoh's daughter (1 Chr 4:18), is the same name, Bittĕ-Yâ 'daughter of Yâ' and 'clearly Semitic', its derivation from Egyptian bj.tj.t 'queen' (HALOT 167) 'phonetically problematic' (Steiner 1998, 396).
 
-Rivals: Pitaya, √p-t-ḥ 'open' with ḥ unwritten and the hypocoristic -ya, as Amorite PATIḤ-UM, PA-TE-ḪU-UM, and PATIḤ-AH, PA-TI-ḪA (Gelb 1980, nos. 5160–5161), and Hebrew Pəṯaḥyāh; the Egyptian personal name pt.jj (Ilin-Tomich 2025, s.v.). One document. See JA-HA and DU-JA.
+Rivals: Pitaya, √p-t-ḥ 'open' with ḥ unwritten and the hypocoristic -ya, as Amorite PATIḤ-UM, PA-TE-ḪU-UM, and PATIḤ-AH, PA-TI-ḪA (Gelb 1980, nos. 5160–5161), and Hebrew Pəṯaḥyāh; the Egyptian personal name pt.jj (Ilin-Tomich 2025, s.v.); a name on bēt 'house', where Sanmartín files Ugarit's BI-tá-ya and Alalakh's bi-ti-ia (GlOS 1, 135). One document. See JA-HA and DU-JA.
 
 ## As a name
 

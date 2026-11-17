@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/GO/GO/GO2r
 title: "GO2r"
-desc: "Tablet, Gournia. Translation: incomplete (SPECULATIVE)."
+desc: "Tablet, Gournia, LMIB. Translation: incomplete (SPECULATIVE)."
 tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
 kind: "inscription"
 id: "GO2r"
 site: "Gournia"
 support: "Tablet"
-period: ""
+period: "LMIB"
 translation: "incomplete"
 words: ["KA", "SI", "SI-DA-RO"]
 created: 2026-10-24T16:17:50Z
@@ -27,9 +27,9 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Site | Gournia |
-| Findspot |  |
+| Findspot | Gournia palace, south-west wing, Room 16B |
 | Support | Tablet |
-| Period |  |
+| Period | LMIB |
 | Scribe |  |
 | Edition | unattributed |
 | Series | GO |
@@ -93,5 +93,9 @@ Broken above and below: the first SI is cut above and the last sign, SE, below.
 |---|---|---|
 | sign differs | ro-\[?\] | SI |
 | corpus extra sign+sigla extra sign+sign differs | si-te si-ro-pa ku-se | SI DA SI-DA-RO SE |
+
+## Corpus note
+
+From the lower of two LM IB destruction layers in Room 16B, sealed by a paved floor (Watrous et al. 2015, 437, apud Schoep 2026, 141).
 
 <!-- END kaphtor:record -->

@@ -31,6 +31,6 @@ updated: 2026-10-24T16:17:50Z
 
 Status **unread** (nothing known).
 
-KH 11 .5 A-TA-\*350, then \*301 1 at the head of .6 (GORILA III 39). Intact, no dots. \*350 occurs nowhere else and has no value. Younger prints A-TE-\*350 and compares A-TA-\*301- of the libation formula (Younger, Linear A Texts), and GORILA reads TA. No reading.
+KH 11 .5 A-TA-\*350, then \*301 1 at the head of .6 (GORILA III 39). Intact, no dots. \*350 occurs nowhere else and has no value; Salgarella asks whether it is a variant of \*306 and takes it for a possible source of Linear B wo (Salgarella 2020, 171). Younger prints A-TE-\*350 and compares A-TA-\*301- of the libation formula (Younger, Linear A Texts), and GORILA reads TA. No reading.
 
 <!-- END kaphtor:record -->

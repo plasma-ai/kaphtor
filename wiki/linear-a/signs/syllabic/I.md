@@ -36,6 +36,11 @@ updated: 2026-10-24T16:17:50Z
 ### Forms cited for the value
 
 - pure vowel—identical form in Linear B
+- The Linear B value, confirmed in Linear A by more than one contextual test (Davis 2026b, 18, Table 1.3, after Duhoux 1989)
+
+### Note
+
+GORILA's chart of AB 28 "may" conflate two signs, one drawn from a hand, the other from a head with two lateral strokes, "apparently more clearly detectable" on IO Za 2 and IO Za 6 (Decorte, pers. comm., apud Salgarella 2020, 337 and n. 26). If so, "the possibility might be entertained" that the head gave AB 28 i, and the hand, through CH 008, Linear B no (Salgarella 2020, 338).
 
 ## Lexicon words written with this sign
 
@@ -97,6 +102,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/M/MA_KA_I_TA\|MA-KA-I-TA]] | Makīt | SPECULATIVE |
 | [[wiki/linear-a/words/M/MA_RI_RE_I\|MA-RI-RE-I]] | marīrēy | CANDIDATE |
 | [[wiki/linear-a/words/M/MA_TI_ZA_I_TE\|MA-TI-ZA-I-TE]] | Matiʿ-zayti | SPECULATIVE |
+| [[wiki/linear-a/words/M/MI_plus_JA_plus_I\|MI+JA+I]] |  | SPECULATIVE |
 | [[wiki/linear-a/words/O/O_KA_MI_ZA_SI_I_NA\|O-KA-MI-ZA-SI-I-NA]] | Ukammis-Sîn | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_I_TO\|PA-I-TO]] | Paito | CONFIRMED |
 | [[wiki/linear-a/words/Q/QA_star310_I\|QA-\*310-I]] | qaynī | PROBABLE |

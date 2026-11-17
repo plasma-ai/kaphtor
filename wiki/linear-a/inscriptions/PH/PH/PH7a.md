@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/PH/PH/PH7a
 title: "PH7a"
-desc: "Tablet, Phaistos. Translation: incomplete (SPECULATIVE)."
+desc: "Tablet, Phaistos, MMIIB. Translation: incomplete (SPECULATIVE)."
 tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
 kind: "inscription"
 id: "PH7a"
 site: "Phaistos"
 support: "Tablet"
-period: ""
+period: "MMIIB"
 translation: "incomplete"
 words: ["DI-PA-JA", "JA-RU-MA-NE", "U-DI-RI-KI"]
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Phaistos |
 | Findspot |  |
 | Support | Tablet |
-| Period |  |
+| Period | MMIIB |
 | Scribe |  |
 | Edition | GORILA 1 |
 | Series | PH |

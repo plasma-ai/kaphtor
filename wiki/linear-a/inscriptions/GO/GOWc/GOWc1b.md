@@ -52,4 +52,8 @@ Unicode (Linear A block):
 
 [[wiki/linear-a/words/star/star23M|\*23M]].
 
+## Corpus note
+
+Stamped five times with one seal, CMS II,6 no. 159, matching the numeral 5 (Anastasiadou 2026, 39, 41).
+
 <!-- END kaphtor:record -->

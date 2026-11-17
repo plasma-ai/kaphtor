@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-SY Za 9, inside JA-PA-RA-JA-SE yapʾara yāṣē on a Syme libation vessel: yāṣē 'that which goes out', the 3ms imperfect of √y-ṣ-ʾ with the third aleph lost, the libation poured out of the vessel. The same two signs close SI-JA-SE šī-yāṣē 'which goes out', the disbursement marker on the pithos labels HT Zb 159 and PE Zb 3, counted under that entry. Cf. Hebrew אֲשֶׁר־יֵצֵא 'whatever goes out', of Temple expenditure (2 Kgs 12:13). One attestation.
+SY Za 9, inside JA-PA-RA-JA-SE yapra yāṣē on a Syme stone vessel: yāṣē 'that which comes forth', the 3ms imperfect of √y-ṣ-ʾ with the third aleph lost, the yield of the field (Deut 14:22), or on the rival reading the libation poured out of the vessel. The same two signs close SI-JA-SE šī-yāṣē 'which goes out', the disbursement marker on the pithos labels HT Zb 159 and PE Zb 3, counted under that entry. Cf. Hebrew אֲשֶׁר־יֵצֵא 'whatever goes out', of Temple expenditure (2 Kgs 12:13). One attestation.
 
 ### Cognates
 

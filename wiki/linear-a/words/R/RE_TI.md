@@ -32,6 +32,6 @@ updated: 2026-10-24T16:17:50Z
 
 Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
 
-MA 2b .1 \]-RE-TI 4, broken before RE, the word running into the break (GORILA I 271). MI Zb 3, a jug handle, has no printed reading: Younger lists it as an inscription of doubtful status (Younger, Linear A Texts, other texts). Not readable.
+MA 2b .1 \]-RE-TI 4, broken before RE, the word running into the break (GORILA I 271). MI Zb 3, a jug handle, is a doubtful inscription for Younger (Linear A Texts, other texts) and RILA-S1 (D 9), and Donnelly reads its signs as the Cypro-Minoan sequence CM 023-082 (Donnelly 2026, 71–72). Not readable.
 
 <!-- END kaphtor:record -->

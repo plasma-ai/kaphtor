@@ -27,7 +27,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Site | Knossos |
-| Findspot |  |
+| Findspot | East Temple Repository, Knossos |
 | Support | Roundel |
 | Period |  |
 | Scribe |  |
@@ -46,5 +46,9 @@ Unicode (Linear A block):
 ```text
 𐘽
 ```
+
+## Corpus note
+
+The roundel may be inscribed in Cretan Hieroglyphic (Schoep 2026, 142, after Petrakis 2017b, 81, table 5.3).
 
 <!-- END kaphtor:record -->

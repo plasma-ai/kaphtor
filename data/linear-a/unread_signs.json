@@ -15,23 +15,23 @@
     "compound": "a logogram or sign joined to others by a hyphen"
   },
   "stats": {
-    "listed": 186,
+    "listed": 178,
     "by_status": {
-      "unread": 108,
+      "unread": 105,
       "value_on_file": 4,
-      "component_read": 74
+      "component_read": 69
     },
     "by_kind": {
       "syllabogram": 30,
-      "sign": 48,
-      "ligature": 71,
+      "sign": 47,
+      "ligature": 64,
       "vessel": 6,
       "logogram": 5,
       "compound": 26
     },
-    "occurrences": 456,
-    "hapax": 109,
-    "cross_site": 38
+    "occurrences": 427,
+    "hapax": 106,
+    "cross_site": 35
   },
   "excluded": {
     "None": "a placeholder in the corpus record, not a sign",
@@ -284,34 +284,6 @@
       "note": "Alone on 9 Khania roundels (KH Wc 2046–2053, 2113) and the Armenoi stone object ARM Zg 1. *301 with *311 attached; the lexicon reads *301. No reading."
     },
     {
-      "sign": "QA2+[?]+PU",
-      "kind": "ligature",
-      "status": "unread",
-      "components": [
-        "QA2",
-        "[?]",
-        "PU"
-      ],
-      "frequency": 9,
-      "attestations": [
-        "HT12",
-        "HT23a",
-        "HT23b",
-        "HT30",
-        "HT32",
-        "HT34",
-        "HT35",
-        "HT60",
-        "KH8"
-      ],
-      "sites": [
-        "Haghia Triada",
-        "Khania"
-      ],
-      "cross_site": true,
-      "note": ""
-    },
-    {
       "sign": "HIDE+[?]",
       "kind": "ligature",
       "status": "unread",
@@ -431,21 +403,19 @@
       "sign": "NA",
       "kind": "syllabogram",
       "status": "unread",
-      "frequency": 6,
+      "frequency": 5,
       "attestations": [
         "ARKH1b",
         "HT154c",
         "HT64",
         "KH36",
-        "KNWc42",
-        "PHWc40"
+        "KNWc42"
       ],
       "sites": [
         "Arkhanes",
         "Haghia Triada",
         "Khania",
-        "Knossos",
-        "Phaistos"
+        "Knossos"
       ],
       "cross_site": true,
       "note": "The NA that opens side b of KN Za 10 is the last sign of JA-SA-SA-RA-MA-NA and is counted with that word."
@@ -497,33 +467,6 @@
       "note": ""
     },
     {
-      "sign": "QA2+[?]+RE",
-      "kind": "ligature",
-      "status": "component_read",
-      "components": [
-        "QA2",
-        "[?]",
-        "RE"
-      ],
-      "read_components": [
-        "RE"
-      ],
-      "frequency": 6,
-      "attestations": [
-        "HT23a",
-        "HT23b",
-        "HT32",
-        "HT33",
-        "HT34",
-        "HT60"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "note": ""
-    },
-    {
       "sign": "*86",
       "kind": "sign",
       "status": "unread",
@@ -540,25 +483,6 @@
       ],
       "cross_site": false,
       "note": "HT 11b *86 · KA 40 opens a list counted in KA. Uchitel takes the sign for a schematic ship, heading shipments (2016b, 9); the syllabic value proposed is na. No lexicon entry."
-    },
-    {
-      "sign": "*312",
-      "kind": "sign",
-      "status": "unread",
-      "frequency": 4,
-      "attestations": [
-        "ARKH3a",
-        "HT123+124b",
-        "HT49a",
-        "KH8"
-      ],
-      "sites": [
-        "Arkhanes",
-        "Haghia Triada",
-        "Khania"
-      ],
-      "cross_site": true,
-      "note": ""
     },
     {
       "sign": "*408-VS",
@@ -848,28 +772,6 @@
       "note": "The ME after JA-SA-SA-RA on IO Za 16 continues that word across the line break (JA-SA-SA-RA-ME) and is counted with it."
     },
     {
-      "sign": "MI+JA+I",
-      "kind": "ligature",
-      "status": "unread",
-      "components": [
-        "MI",
-        "JA",
-        "I"
-      ],
-      "frequency": 3,
-      "attestations": [
-        "HT34",
-        "HT37",
-        "KH81"
-      ],
-      "sites": [
-        "Haghia Triada",
-        "Khania"
-      ],
-      "cross_site": true,
-      "note": ""
-    },
-    {
       "sign": "NE",
       "kind": "syllabogram",
       "status": "unread",
@@ -1001,30 +903,6 @@
       "note": ""
     },
     {
-      "sign": "QA2+[?]+RE+PU",
-      "kind": "ligature",
-      "status": "component_read",
-      "components": [
-        "QA2",
-        "[?]",
-        "RE",
-        "PU"
-      ],
-      "read_components": [
-        "RE"
-      ],
-      "frequency": 3,
-      "attestations": [
-        "HT33",
-        "HT45b"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "note": ""
-    },
-    {
       "sign": "*171",
       "kind": "sign",
       "status": "unread",
@@ -1038,7 +916,7 @@
         "Zakros"
       ],
       "cross_site": true,
-      "note": ""
+      "note": "A logogram alone on ZA 6a.1 (Salgarella 2020, 330), among the Linear A logograms with a possible Linear B homomorph, *171 (Schoep 2002, 131–35, apud Salgarella 2020, 220 n. 119); Nosch and Weilhartner class it among the agricultural commodities (2026, 119). On the Akrotiri ostracon THE Zg 5 the corpus reads *171 7 where Nosch and Weilhartner print TE (2026, 131)."
     },
     {
       "sign": "*188+KU",
@@ -1180,7 +1058,7 @@
         "Khania"
       ],
       "cross_site": false,
-      "note": ""
+      "note": "Alone on the roundels KH Wc 2067 and 2068, a logogram (Salgarella 2020, 318): boots (Nosch and Weilhartner 2026, 119, citing Schoep 2002, 91)."
     },
     {
       "sign": "*370",
@@ -1195,7 +1073,7 @@
         "Haghia Triada"
       ],
       "cross_site": false,
-      "note": ""
+      "note": "GORILA's countermark, alone on the nodule HT Wa 1854, one of A 365–370 on HT Wa 1849–1854 (Salgarella 2020, 309–12). The corpus also has it on HT 49a, 1 *370 1, which SigLA leaves unread and Salgarella does not list."
     },
     {
       "sign": "*417-VS",
@@ -1474,29 +1352,6 @@
       "note": ""
     },
     {
-      "sign": "MI+JA+KA",
-      "kind": "ligature",
-      "status": "component_read",
-      "components": [
-        "MI",
-        "JA",
-        "KA"
-      ],
-      "read_components": [
-        "KA"
-      ],
-      "frequency": 2,
-      "attestations": [
-        "HT33",
-        "HT34"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "note": ""
-    },
-    {
       "sign": "OLE+A",
       "kind": "ligature",
       "status": "component_read",
@@ -1536,7 +1391,7 @@
         "Tylissos"
       ],
       "cross_site": false,
-      "note": ""
+      "note": "GORILA's A 611, OLE with QI, at TY 3a.2, .4 and TY 3b.2. Salgarella asks whether it is a sign of its own, the two parts hard to see, though the tablet's many OLE ligatures favour OLE with QI (Salgarella 2020, 146)."
     },
     {
       "sign": "SA-VIN",
@@ -1596,7 +1451,7 @@
         "Haghia Triada"
       ],
       "cross_site": false,
-      "note": ""
+      "note": "Alone twice on HT 126b. Linear B *87 twe: Davis takes it for a sign Linear B borrowed from Linear A with the same or a very similar value, and leaves /tʷ/ out of his inventory for want of a syllabic use (2026b, 95–96 n. 385, 154 n. 579). Linear B writes twe only at Knossos, in o-da-twe-ta, and for Salgarella 'it cannot be excluded' that Linear A had an ancestor of it in the sign of HT 126b .2–3, which GORILA V therefore sets among the AB signs, p. xlii (2020, 39 and n. 105); her later chapter counts twe among the complex signs Linear B introduced (2023, 411). Del Freo's current phonographic signary of Linear A leaves AB 87 out (Petrakis and Salgarella 2026, 31, Fig. 0.1, after Del Freo 2023, 81). No reading."
     },
     {
       "sign": "VIN+TE",
@@ -1673,7 +1528,7 @@
         "Thera"
       ],
       "cross_site": true,
-      "note": ""
+      "note": "Alone on KH 57.2, apparently before a numeral in a damaged context, probably a logogram (Salgarella 2020, 157, 170, 314); Melena takes AB 20 for the ancestor of Linear B zo (Melena 2014a, 8, apud Salgarella 2020, 170 n. 96). On the Akrotiri ostracon THE Zg 5 ZO is one of the single signs before quantities taken for abbreviations of Minoan textile names (Michailidou 1992–1993; Boulotis 1998; Burke 2010, 49, apud Nosch and Weilhartner 2026, 131). Del Freo's phonographic signary of Linear A leaves AB 20 out (Petrakis and Salgarella 2026, 31, Fig. 0.1)."
     },
     {
       "sign": "VIR+[?]-I",
@@ -1846,16 +1701,24 @@
     {
       "sign": "*320",
       "kind": "sign",
-      "status": "unread",
-      "frequency": 1,
+      "status": "value_on_file",
+      "on_file": [
+        {
+          "file": "sign_values.json",
+          "record": "*320",
+          "value": "TI (CANDIDATE), the Phaistos MM II form of AB37"
+        }
+      ],
+      "frequency": 2,
       "attestations": [
+        "PH16b",
         "PHWc37"
       ],
       "sites": [
         "Phaistos"
       ],
       "cross_site": false,
-      "note": ""
+      "note": "A ring on a Λ in GORILA's drawings. It also opens *320-NA (PH 16a) and is doubled in *320-*320-MA (PH Wc 40), each counted with its word."
     },
     {
       "sign": "*323",
@@ -1968,7 +1831,7 @@
         "Haghia Triada"
       ],
       "cross_site": false,
-      "note": ""
+      "note": "A logogram alone on HT 93a.7 (Salgarella 2020, 309–12)."
     },
     {
       "sign": "*346",
@@ -1982,7 +1845,7 @@
         "Haghia Triada"
       ],
       "cross_site": false,
-      "note": ""
+      "note": "A transaction sign alone on HT 122b.1 (Salgarella 2020, 309–12)."
     },
     {
       "sign": "*347",
@@ -2010,7 +1873,7 @@
         "Khania"
       ],
       "cross_site": false,
-      "note": ""
+      "note": "Davis lists *348 among the Linear A signs that look syllabic and have no Linear B counterpart (Davis 2026b, 96 n. 387); Salgarella has A 348 only inside the composite A 647 on KH 11.3, its use unclear (Salgarella 2020, 318)."
     },
     {
       "sign": "*352",
@@ -2094,7 +1957,7 @@
         "Haghia Triada"
       ],
       "cross_site": false,
-      "note": ""
+      "note": "GORILA's countermark, alone on the nodule HT Wa 1849, one of A 365–370 on HT Wa 1849–1854 (Salgarella 2020, 309–12)."
     },
     {
       "sign": "*366",
@@ -2108,7 +1971,7 @@
         "Haghia Triada"
       ],
       "cross_site": false,
-      "note": ""
+      "note": "GORILA's countermark, alone on the nodule HT Wa 1850, one of A 365–370 on HT Wa 1849–1854 (Salgarella 2020, 309–12)."
     },
     {
       "sign": "*367",
@@ -2122,7 +1985,7 @@
         "Haghia Triada"
       ],
       "cross_site": false,
-      "note": ""
+      "note": "GORILA's countermark, alone on the nodule HT Wa 1851, one of A 365–370 on HT Wa 1849–1854 (Salgarella 2020, 309–12)."
     },
     {
       "sign": "*368",
@@ -2136,7 +1999,7 @@
         "Haghia Triada"
       ],
       "cross_site": false,
-      "note": ""
+      "note": "GORILA's countermark, alone on the nodule HT Wa 1852, one of A 365–370 on HT Wa 1849–1854 (Salgarella 2020, 309–12)."
     },
     {
       "sign": "*369",
@@ -2150,7 +2013,7 @@
         "Haghia Triada"
       ],
       "cross_site": false,
-      "note": ""
+      "note": "GORILA's countermark, alone on the nodule HT Wa 1853, one of A 365–370 on HT Wa 1849–1854 (Salgarella 2020, 309–12)."
     },
     {
       "sign": "*371",
@@ -2654,7 +2517,7 @@
         "Khania"
       ],
       "cross_site": false,
-      "note": "Alone on the roundel KH Wc 2028: a pointed form over a hanging loop."
+      "note": "Alone on the roundel KH Wc 2028: a pointed form over a hanging loop. It is AB 191, the helmet, the one Linear A logogram certainly of the military class, as Linear B GAL (Palaima 1988, 325–26; Schoep 2002, 91, apud Nosch and Weilhartner 2026, 118; Salgarella 2020, 316)."
     },
     {
       "sign": "GRA+BOSm",
@@ -3269,7 +3132,7 @@
         "Knossos"
       ],
       "cross_site": false,
-      "note": ""
+      "note": "GORILA's A 540, a hapax on KN 28b .3, classed as SU+MI. Salgarella holds that it 'may be better interpreted' as SU+OLE, her SU+OIL: the second element has the shape OLE takes in A 622 (OLE+MI), which would otherwise read MI+MI, and MI binds only to OLE there and to one unidentified sign in A 634 (2020, 145). GORILA's drawing shows a stem with short ticks at its top beside SU, with no bowl or dot (I 263)."
     },
     {
       "sign": "SUS+SI+RE",
@@ -3293,7 +3156,7 @@
         "Phaistos"
       ],
       "cross_site": false,
-      "note": ""
+      "note": "The pig sign with SI set above it and RE beside it, on a livestock tablet, a sign GORILA does not number (Salgarella 2020, 147–48). It may answer Linear B SUS+SI, though the value of SI may have changed (Salgarella 2020, 148), Linear B's pig with si standing for 'fattened pig' (Salgarella 2023, 396, after Meissner 2019). Meissner weighs reading it si-au-re beside Mycenaean si-a₂-ro (PY Cn 608) (Meissner 2019, apud Salgarella 2020, 148 n. 70)."
     },
     {
       "sign": "TA-HIDE+B",
@@ -3380,31 +3243,6 @@
       "note": ""
     },
     {
-      "sign": "TELA+*312",
-      "kind": "ligature",
-      "status": "value_on_file",
-      "components": [
-        "TELA",
-        "*312"
-      ],
-      "on_file": [
-        {
-          "file": "translations.json",
-          "record": "HT38",
-          "value": "cloth with *312 (logogram): 1"
-        }
-      ],
-      "frequency": 1,
-      "attestations": [
-        "HT38"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "note": ""
-    },
-    {
       "sign": "TELA+TE",
       "kind": "ligature",
       "status": "component_read",
@@ -3424,6 +3262,24 @@
       ],
       "cross_site": false,
       "note": ""
+    },
+    {
+      "sign": "TELA+SE",
+      "kind": "ligature",
+      "status": "unread",
+      "components": [
+        "TELA",
+        "SE"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "THE8"
+      ],
+      "sites": [
+        "Thera"
+      ],
+      "cross_site": false,
+      "note": "The cloth sign AB 54 with SE inscribed, 200 counted (Boulotis 2008, 77, 80)."
     },
     {
       "sign": "TI+*412VAS",
@@ -3456,28 +3312,6 @@
       ],
       "sites": [
         "Knossos"
-      ],
-      "cross_site": false,
-      "note": ""
-    },
-    {
-      "sign": "VIN+KA",
-      "kind": "ligature",
-      "status": "component_read",
-      "components": [
-        "VIN",
-        "KA"
-      ],
-      "read_components": [
-        "VIN",
-        "KA"
-      ],
-      "frequency": 1,
-      "attestations": [
-        "ZA6b"
-      ],
-      "sites": [
-        "Zakros"
       ],
       "cross_site": false,
       "note": ""
@@ -3610,30 +3444,7 @@
         "Haghia Triada"
       ],
       "cross_site": false,
-      "note": "Heads HT 101, before GRA+QE 40 and three oil entries; SA-RA₂ heads the next section. The goat sign *22F stands between ZU and DI, so no run of two syllabic signs is left. It stands among the names as a personal name of unknown affiliation, and HT 101 is translated with it as an opaque heading. No reading."
-    },
-    {
-      "sign": "QA2+[?]+PU+RE",
-      "kind": "ligature",
-      "status": "component_read",
-      "components": [
-        "QA2",
-        "[?]",
-        "PU",
-        "RE"
-      ],
-      "read_components": [
-        "RE"
-      ],
-      "frequency": 1,
-      "attestations": [
-        "HT12"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "note": ""
+      "note": "Heads HT 101, before GRA+QE 40 and three oil entries; SA-RA₂ heads the next section. The goat sign *22F stands between ZU and DI, so no run of two syllabic signs is left. Salgarella notes that in Linear A only the gendered variant AB 22f is also used as a syllabogram (2020, 214), and Del Freo's phonographic signary lists AB 22f (Petrakis and Salgarella 2026, 31, Fig. 0.1, after Del Freo 2023, 81); Davis's Linear A grid sets AB 22 at pi₂, unconfirmed (2026b, 18, Table 1.3). Read as a syllabogram, AB 22f makes ZU-*22F-DI a word of three syllabic signs. It stands among the names as a personal name of unknown affiliation, and HT 101 is translated with it as an opaque heading. No reading."
     },
     {
       "sign": "VIR+[?]-*329",

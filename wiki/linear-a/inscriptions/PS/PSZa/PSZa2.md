@@ -90,7 +90,7 @@ JA-SA-SA-RA-ME, yaššaram 'in righteousness', closes the sentence, as at Ioukta
 
 ## Corpus note
 
-Steatite offering table from the Psykhro (Dictaean) Cave, MM III–LM I, in two fragments: the left corner, Ashmolean Museum AN1923.661, and a larger fragment with the rest. PS Za 2.1 \]-RE-I-KE runs along the opposite edge, broken at its start. PS Za 2.2 begins at the table's corner, so TA-NA-I-\*301-(TI/E) is whole and opens the line.
+Steatite offering table from the Psykhro (Dictaean) Cave, MM III–LM I, in three pieces: a fragment in the Louvre, I.P.S. 352, and two in the Ashmolean Museum, the left corner AN1923.661 and AE 1 (GORILA IV, xxv, 52; V, 112). PS Za 2.1 \]-RE-I-KE runs along the opposite edge, broken at its start. PS Za 2.2 begins at the table's corner, so TA-NA-I-\*301-(TI/E) is whole and opens the line.
 
 On the corner fragment, NA's stem is three drilled dots and I has five prongs. The sign after \*301 is an arch whose legs are joined by a V-shaped bar, with no stroke from the apex. E (LA 38) has a bar between the legs and TI (LA 37) has none, so the stone supports E (Ferrara, Montecchi, and Valério 2022, 87) over GORILA's uncertain TI.
 

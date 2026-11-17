@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-A commodity logogram, grain: 60 standalone and 52 in compounds, on 47 tablets at 5 sites; Linear B uses it too. dagān 'grain': Heb. דָּגָן, Ug. dgn, Ph. dgn. In GRA+DA (HT 133) DA is the phonetic complement for the da- of dagān, and DA-KA on five HT Wa nodules writes daga(n). Four times it stands with A-DU, the Storm God, an agricultural and cultic setting. See DA-KU-NA.
+A commodity logogram, grain: 60 standalone and 52 in compounds, on 47 tablets at 5 sites; Linear B uses it too. dagān 'grain': Heb. דָּגָן, Ug. dgn, Ph. dgn. In GRA+DA (HT 133) DA is the phonetic complement for the da- of dagān, and DA-KA on five HT Wa nodules writes daga(n). Four times it stands with A-DU, the Storm God, an agricultural and cultic setting. Rival: barley, HORD, with A 303 the wheat sign, an identification Schoep makes provisionally, following Palmer's barley for Linear B \*120 (Schoep 2002, 104–12, after Palmer 1992; Salgarella 2020, 219 n. 118). See DA-KU-NA.
 
 ### Cognates
 

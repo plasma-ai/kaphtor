@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/TY/TY/TY3a
 title: "TY3a"
-desc: "Tablet, Tylissos. Translation: none."
+desc: "Tablet, Tylissos, LMIB. Translation: none."
 tags: ["linear-a", "inscription", "translation-none", "tablet"]
 kind: "inscription"
 id: "TY3a"
 site: "Tylissos"
 support: "Tablet"
-period: ""
+period: "LMIB"
 translation: "none"
 words: ["KO-A-DU-WA", "OLE+KI", "OLE+MI", "OLE+TU", "OLE+U", "OLIV"]
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Tylissos |
 | Findspot |  |
 | Support | Tablet |
-| Period |  |
+| Period | LMIB |
 | Scribe |  |
 | Edition | GORILA 1 |
 | Series | TY |
@@ -94,6 +94,6 @@ Unicode (Linear A block):
 
 ## Corpus note
 
-GORILA I 327: .3 A-DU-\[··\] OLE+KI 51, two signs lost after DU, not a divider; its note records traces of both, the second possibly MA, KA or QE.
+GORILA I 327: .3 A-DU-\[··\] OLE+KI 51, two signs lost after DU, not a divider; its note records traces of both, the second possibly MA, KA or QE. Although found with mixed LM IA–IB material, the three Tylissos documents, TY 2, 3 and Wc 5, are considered to belong in LM IB (Salgarella 2020, 49, after Schoep 1995, 54, 65).
 
 <!-- END kaphtor:record -->

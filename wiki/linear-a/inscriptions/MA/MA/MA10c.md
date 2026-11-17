@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/MA/MA/MA10c
 title: "MA10c"
-desc: "4-sided bar, Malia. Translation: none."
+desc: "4-sided bar, Malia, MMIIIB. Translation: none."
 tags: ["linear-a", "inscription", "translation-none", "4-sided-bar"]
 kind: "inscription"
 id: "MA10c"
 site: "Malia"
 support: "4-sided bar"
-period: ""
+period: "MMIIIB"
 translation: "none"
 words: ["*412"]
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Malia |
 | Findspot |  |
 | Support | 4-sided bar |
-| Period |  |
+| Period | MMIIIB |
 | Scribe |  |
 | Edition | GORILA 5 |
 | Series | MA |

@@ -27,7 +27,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Site | Zakros |
-| Findspot |  |
+| Findspot | Hogarth's House A, Zakros |
 | Support | Roundel |
 | Period | LMIB |
 | Scribe |  |
@@ -74,6 +74,6 @@ MI stands in erasure brackets (GORILA II 98). Perna reads the last sign as the n
 
 ## Corpus note
 
-GORILA II 98: line 1 A-TI-KA-A, line 2 DU-KO-&#91;&#91;MI&#93;&#93;, normalized A-TI-KA · A-DU-KO-&#91;&#91;MI&#93;&#93;; the diplomatic copy spaces A TI KA A evenly, so the division after KA is editorial. DU is dotted; MI is drawn inside erasure brackets, and the dots fall under DU and the brackets, not under KO. Apparatus: 1–2 possibly over \[ \]; 2 possibly a trace between DU and KO. Perna, after autopsy, reads the last sign as the numeral 2, which Hallager calls possible but not certain; Anastasiadou, after autopsy, takes the MI stroke for a cleft and follows Perna (Anastasiadou 2026, 38–41).
+GORILA II 98: line 1 A-TI-KA-A, line 2 DU-KO-&#91;&#91;MI&#93;&#93;, normalized A-TI-KA · A-DU-KO-&#91;&#91;MI&#93;&#93;; the diplomatic copy spaces A TI KA A evenly, so the division after KA is editorial. DU is dotted; MI is drawn inside erasure brackets, and the dots fall under DU and the brackets, not under KO. Apparatus: 1–2 possibly over \[ \]; 2 possibly a trace between DU and KO. Perna, after autopsy, reads the last sign as the numeral 2, which Hallager calls possible but not certain; Anastasiadou, after autopsy, takes the MI stroke for a cleft and follows Perna (Anastasiadou 2026, 38–41). It was stamped with one seal, CMS II,7 no. 25 (Anastasiadou 2026, 39). One of five documents found together in Hogarth's House A (ZA 1, Wa 36, Wa 38, Wb 37, Wc 2), in a deposit generally attributed to LM IB. The pottery with them was LM IA in style, and traces of an LM IA fire destruction were found on the upper terrace floor of the House, so a date earlier than final LM IB has also been suggested (Platon and Brice 1975, 39, apud Salgarella 2020, 49 n. 26).
 
 <!-- END kaphtor:record -->

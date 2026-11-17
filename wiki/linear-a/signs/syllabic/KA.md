@@ -102,6 +102,7 @@ No CH ancestor—Linear A innovation, possibly from MM seal whirl motif (Ferrara
 | [[wiki/linear-a/words/M/MA_KA_I_SE\|MA-KA-I-SE]] | Makī-se | SPECULATIVE |
 | [[wiki/linear-a/words/M/MA_KA_I_TA\|MA-KA-I-TA]] | Makīt | SPECULATIVE |
 | [[wiki/linear-a/words/M/MA_KA_RI_TE\|MA-KA-RI-TE]] | makkārītu | CANDIDATE |
+| [[wiki/linear-a/words/M/MI_plus_JA_plus_KA\|MI+JA+KA]] |  | SPECULATIVE |
 | [[wiki/linear-a/words/O/O_KA_MI_ZA_SI_I_NA\|O-KA-MI-ZA-SI-I-NA]] | Ukammis-Sîn | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA3_KA_RA_TI\|PA₃-KA-RA-TI]] | baqarāti | CANDIDATE |
 | [[wiki/linear-a/words/P/PI_TA_KA_SE\|PI-TA-KA-SE]] | Bīt-kissē | SPECULATIVE |
@@ -116,6 +117,7 @@ No CH ancestor—Linear A innovation, possibly from MM seal whirl motif (Ferrara
 | [[wiki/linear-a/words/U/U_NA_KA_NA_SI\|U-NA-KA-NA-SI]] | wannā kanāsī / winnā kanāsī | CONFIRMED |
 | [[wiki/linear-a/words/U/U_NA_RU_KA_NA_SI\|U-NA-RU-KA-NA-SI]] | wannā lū kanāsī | CANDIDATE |
 | [[wiki/linear-a/words/U/U_NA_RU_KA_NA_TI\|U-NA-RU-KA-NA-TI]] | wannā lū kanasti / winnā lū kanasti | CANDIDATE |
+| [[wiki/linear-a/words/V/VIN_plus_KA\|VIN+KA]] | ḫamr | SPECULATIVE |
 | [[wiki/linear-a/words/V/VIR_plus_KA\|VIR+KA]] | VIR+KA | CANDIDATE |
 
 <!-- END kaphtor:record -->

@@ -32,11 +32,11 @@ updated: 2026-11-11T23:39:03Z
 | Reading's standing | PROBABLE |
 | Standing as a personal name | PROBABLE |
 | Standing of the layer | PROBABLE (lexicon_reading) |
-| Source | di Mino |
+| Source | di Mino; DMic I; Davis 2026b |
 
 ## Note
 
-HT 117a: KI-DA-RO 1 in the SA-TA roster, beside KU-KU-DA-RA, KO-SA-I-TI, DA-MI-NU and DA-NE-KU-TI, each counted once; HT 47a: KI-DA-RO 5 after KU-PA₃-NA-TU 20, DU 20 and PI 10. A personal name, Qidaru 'Dark', from √ḳ-d-r 'be dark', as Heb. Qēdār, Ishmael's son and an Arabian people (Gen 25:13), from qādar 'be dark, mourn'. Rival: PS \*ḳidr- 'earthenware' (Ar. qidr, Heb. qədērā, Aram. qidrā), the noun of A-KI-DA-RO (KH Wa 1002) ʾa-qidrū 'the earthenware', with A- the article or a prosthetic aleph. Two attestations, both lists of people.
+HT 117a: KI-DA-RO 1 in the SA-TA roster, beside KU-KU-DA-RA, KO-SA-I-TI, DA-MI-NU and DA-NE-KU-TI, each counted once; HT 47a: KI-DA-RO 5 after KU-PA₃-NA-TU 20, DU 20 and PI 10. A personal name, Qidaru 'Dark', from √ḳ-d-r 'be dark', as Heb. Qēdār, Ishmael's son and an Arabian people (Gen 25:13), from qādar 'be dark, mourn'. Linear B ki-da-ro, probably a man's name (KN E 842.3; DMic I), which Davis pairs with it (2026b, 118). Rival: PS \*ḳidr- 'earthenware' (Ar. qidr, Heb. qədērā, Aram. qidrā), the noun of A-KI-DA-RO (KH Wa 1002) ʾa-qidrū 'the earthenware', with A- the article or a prosthetic aleph. Two attestations, both lists of people.
 
 ## As a name
 

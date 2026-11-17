@@ -31,6 +31,6 @@ updated: 2026-10-24T16:17:50Z
 
 Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
 
-PH(?)31b .5 \]A-MI-DA-O \*21M 1\[, broken before A and after the numeral (GORILA I 319). Not readable.
+PH(?)31b .5 \]A-MI-DA-O \*21M 1\[, broken before A and after the numeral (GORILA I 319). Davis lists it with A-MI-DA-U (ZA 10a) among sequences attested in slightly different forms in more than one region, its length suggesting relatedness (Davis 2026b, 77 and n. 286). Not readable.
 
 <!-- END kaphtor:record -->

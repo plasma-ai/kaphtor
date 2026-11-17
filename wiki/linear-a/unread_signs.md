@@ -18,14 +18,14 @@ updated: 2026-11-12T00:26:03Z
 
 Every number on this page is computed from the data files.
 
-186 single and combined signs stand as entries in the corpus without a lexicon entry. 184 records with no translation wait on one of them alone: every other token there is a numeral, a lexicon entry or a name with a reading.
+178 single and combined signs stand as entries in the corpus without a lexicon entry. 185 records with no translation wait on one of them alone: every other token there is a numeral, a lexicon entry or a name with a reading.
 
 ## By status
 
 | Status | Signs | Meaning |
 |---|---|---|
-| component read | 74 | a combined sign with a component the lexicon reads |
-| unread | 108 | nothing on file |
+| component read | 69 | a combined sign with a component the lexicon reads |
+| unread | 105 | nothing on file |
 | value on file | 4 | sign_values.json or a translation gives it a value; it has no lexicon entry |
 
 ## The signs
@@ -47,7 +47,7 @@ Ordered by the records each one alone leaves unread, then by occurrences.
 | [[wiki/linear-a/words/M/MA\|MA]] | syllabogram | unread | 8 | 3 | [[wiki/linear-a/inscriptions/KH/KH/KH61\|KH61]], [[wiki/linear-a/inscriptions/KH/KH/KH62\|KH62]], [[wiki/linear-a/inscriptions/ZA/ZA/ZA29\|ZA29]] |  |
 | [[wiki/linear-a/words/J/JA\|JA]] | syllabogram | unread | 7 | 3 | [[wiki/linear-a/inscriptions/AP/APZa/APZa_3\|APZa&lt;3&gt;]], [[wiki/linear-a/inscriptions/CR/CRZf/CRZf5\|CRZf5]], [[wiki/linear-a/inscriptions/ZA/ZA/ZA32\|ZA32]] |  |
 | [[wiki/linear-a/words/star/star306\|\*306]] | sign | unread | 7 | 2 | [[wiki/linear-a/inscriptions/KH/KH/KH84\|KH84]], [[wiki/linear-a/inscriptions/KH/KH/KH87\|KH87]] |  |
-| [[wiki/linear-a/words/N/NA\|NA]] | syllabogram | unread | 6 | 2 | [[wiki/linear-a/inscriptions/HT/HT/HT154c\|HT154c]], [[wiki/linear-a/inscriptions/KH/KH/KH36\|KH36]] |  |
+| [[wiki/linear-a/words/N/NA\|NA]] | syllabogram | unread | 5 | 2 | [[wiki/linear-a/inscriptions/HT/HT/HT154c\|HT154c]], [[wiki/linear-a/inscriptions/KH/KH/KH36\|KH36]] |  |
 | [[wiki/linear-a/words/M/MI\|MI]] | syllabogram | unread | 4 | 2 | [[wiki/linear-a/inscriptions/HT/HT/HT113ter\|HT113ter]], [[wiki/linear-a/inscriptions/KN/KNWa/KNWa51\|KNWa51]] |  |
 | [[wiki/linear-a/words/R/RU\|RU]] | syllabogram | unread | 4 | 2 | [[wiki/linear-a/inscriptions/KH/KH/KH49\|KH49]], [[wiki/linear-a/inscriptions/ZA/ZA/ZA12a\|ZA12a]] |  |
 | [[wiki/linear-a/words/Q/QI\|QI]] | syllabogram | unread | 3 | 2 | [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2102\|KHWc2102]], [[wiki/linear-a/inscriptions/PH/PHWc/PHWc44\|PHWc44]] |  |
@@ -60,10 +60,10 @@ Ordered by the records each one alone leaves unread, then by occurrences.
 | [[wiki/linear-a/words/S/SE\|SE]] | syllabogram | unread | 7 | 1 | [[wiki/linear-a/inscriptions/KH/KH/KH95\|KH95]] |  |
 | [[wiki/linear-a/words/O/OLE_plus_E\|OLE+E]] | ligature | component read | 4 | 1 | [[wiki/linear-a/inscriptions/HT/HT/HT50a\|HT50a]] | reads OLE, E |
 | [[wiki/linear-a/words/L/L\|L]] | logogram | unread | 3 | 1 | [[wiki/linear-a/inscriptions/KN/KN/KN49\|KN49]] |  |
-| [[wiki/linear-a/words/M/MI_plus_JA_plus_I\|MI+JA+I]] | ligature | unread | 3 | 1 | [[wiki/linear-a/inscriptions/KH/KH/KH81\|KH81]] |  |
 | [[wiki/linear-a/words/P/PU\|PU]] | syllabogram | unread | 3 | 1 | [[wiki/linear-a/inscriptions/KN/KNZd/KNZd46\|KNZd46]] |  |
 | [[wiki/linear-a/words/R/RA2\|RA₂]] | syllabogram | unread | 3 | 1 | [[wiki/linear-a/inscriptions/KN/KNWc/KNWc23\|KNWc23]] |  |
 | [[wiki/linear-a/words/T/TA2\|TA₂]] | syllabogram | unread | 3 | 1 | [[wiki/linear-a/inscriptions/HT/HT/HT137\|HT137]] |  |
+| [[wiki/linear-a/words/star/star320\|\*320]] | sign | value on file | 2 | 1 | [[wiki/linear-a/inscriptions/PH/PH/PH16b\|PH16b]] | TI (CANDIDATE), the Phaistos MM II form of AB37 |
 | [[wiki/linear-a/words/star/star335\|\*335]] | sign | unread | 2 | 1 | [[wiki/linear-a/inscriptions/KH/KH/KH44\|KH44]] |  |
 | [[wiki/linear-a/words/star/star370\|\*370]] | sign | unread | 2 | 1 | [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1854\|HTWa1854]] |  |
 | [[wiki/linear-a/words/G/GRA_plus_E\|GRA+E]] | ligature | component read | 2 | 1 | [[wiki/linear-a/inscriptions/KY/KYZg/KYZg1\|KYZg1]] | reads GRA, E |
@@ -104,12 +104,10 @@ Ordered by the records each one alone leaves unread, then by occurrences.
 | [[wiki/linear-a/words/P/PU2\|PU₂]] | syllabogram | unread | 1 | 1 | [[wiki/linear-a/inscriptions/KE/KEZb/KEZb6\|KEZb6]] |  |
 | [[wiki/linear-a/words/R/RO_VIR_plus_KA\|RO-VIR+KA]] | compound | component read | 1 | 1 | [[wiki/linear-a/inscriptions/KN/KNZb/KNZb56\|KNZb56]] | reads RO, KA |
 | [[wiki/linear-a/words/S/SU_plus_MI\|SU+MI]] | ligature | component read | 1 | 1 | [[wiki/linear-a/inscriptions/KN/KN/KN28b\|KN28b]] | reads SU |
+| [[wiki/linear-a/words/T/TELA_plus_SE\|TELA+SE]] | ligature | unread | 1 | 1 | [[wiki/linear-a/inscriptions/THE/THE/THE8\|THE8]] |  |
 | [[wiki/linear-a/words/V/VIN_MI\|VIN-MI]] | compound | component read | 1 | 1 | [[wiki/linear-a/inscriptions/ARG/ARGZg/ARGZg1\|ARGZg1]] | reads VIN |
 | [[wiki/linear-a/words/V/VIR_plus_q_star339_HIDE_plus_q_broken_end\|VIR+&#91;?&#93;-\*339-HIDE+&#91;?&#93;]] | compound | unread | 1 | 1 | [[wiki/linear-a/inscriptions/PH/PH/PH12a\|PH12a]] |  |
-| [[wiki/linear-a/words/Q/QA2_plus_q_plus_PU\|QA2+&#91;?&#93;+PU]] | ligature | unread | 9 | 0 |  |  |
-| [[wiki/linear-a/words/Q/QA2_plus_q_plus_RE\|QA2+&#91;?&#93;+RE]] | ligature | component read | 6 | 0 |  | reads RE |
 | [[wiki/linear-a/words/star/star86\|\*86]] | sign | unread | 5 | 0 |  |  |
-| [[wiki/linear-a/words/star/star312\|\*312]] | sign | unread | 4 | 0 |  |  |
 | [[wiki/linear-a/words/star/star318\|\*318]] | sign | unread | 3 | 0 |  |  |
 | [[wiki/linear-a/words/star/star319\|\*319]] | sign | unread | 3 | 0 |  |  |
 | [[wiki/linear-a/words/star/star401_plus_star304\|\*401+\*304]] | ligature | component read | 3 | 0 |  | reads \*401, \*304 |
@@ -119,7 +117,6 @@ Ordered by the records each one alone leaves unread, then by occurrences.
 | [[wiki/linear-a/words/G/GRA_plus_F\|GRA+F]] | ligature | component read | 3 | 0 |  | reads GRA |
 | [[wiki/linear-a/words/G/GRA_plus_K_plus_L\|GRA+K+L]] | ligature | component read | 3 | 0 |  | reads GRA |
 | [[wiki/linear-a/words/N/NE\|NE]] | syllabogram | unread | 3 | 0 |  |  |
-| [[wiki/linear-a/words/Q/QA2_plus_q_plus_RE_plus_PU\|QA2+&#91;?&#93;+RE+PU]] | ligature | component read | 3 | 0 |  | reads RE |
 | [[wiki/linear-a/words/Q/QI_plus_SI\|QI+SI]] | ligature | component read | 3 | 0 |  | reads SI |
 | [[wiki/linear-a/words/W/WI\|WI]] | syllabogram | value on file | 3 | 0 |  | excluded or absent amount: 10 |
 | [[wiki/linear-a/words/star/star47\|\*47]] | sign | unread | 2 | 0 |  |  |
@@ -137,7 +134,6 @@ Ordered by the records each one alone leaves unread, then by occurrences.
 | [[wiki/linear-a/words/H/HIDE_plus_B\|HIDE+B]] | ligature | unread | 2 | 0 |  |  |
 | [[wiki/linear-a/words/J/JU\|JU]] | syllabogram | value on file | 2 | 0 |  | to/for (dedicatory preposition) or asseverative lū |
 | [[wiki/linear-a/words/M/ME\|ME]] | syllabogram | unread | 2 | 0 |  |  |
-| [[wiki/linear-a/words/M/MI_plus_JA_plus_KA\|MI+JA+KA]] | ligature | component read | 2 | 0 |  | reads KA |
 | [[wiki/linear-a/words/O/OLE_plus_A\|OLE+A]] | ligature | component read | 2 | 0 |  | reads OLE |
 | [[wiki/linear-a/words/O/OLE_plus_QIf\|OLE+QIf]] | ligature | component read | 2 | 0 |  | reads OLE |
 | [[wiki/linear-a/words/T/TI_plus_A\|TI+A]] | ligature | component read | 2 | 0 |  | reads TI |
@@ -150,7 +146,6 @@ Ordered by the records each one alone leaves unread, then by occurrences.
 | [[wiki/linear-a/words/star/star307_plus_star307_GRA_plus_QE\|\*307+\*307-GRA+QE]] | compound | component read | 1 | 0 |  | reads \*307, GRA, QE |
 | [[wiki/linear-a/words/star/star309B\|\*309B]] | sign | unread | 1 | 0 |  |  |
 | [[wiki/linear-a/words/star/star315\|\*315]] | sign | unread | 1 | 0 |  |  |
-| [[wiki/linear-a/words/star/star320\|\*320]] | sign | unread | 1 | 0 |  |  |
 | [[wiki/linear-a/words/star/star330_plus_DA\|\*330+DA]] | ligature | unread | 1 | 0 |  |  |
 | [[wiki/linear-a/words/star/star339\|\*339]] | sign | unread | 1 | 0 |  |  |
 | [[wiki/linear-a/words/star/star341_plus_PI\|\*341+PI]] | ligature | unread | 1 | 0 |  |  |
@@ -197,7 +192,6 @@ Ordered by the records each one alone leaves unread, then by occurrences.
 | [[wiki/linear-a/words/O/OLE_plus_RA\|OLE+RA]] | ligature | component read | 1 | 0 |  | reads OLE |
 | [[wiki/linear-a/words/P/PA3_plus_QE\|PA3+QE]] | ligature | component read | 1 | 0 |  | reads QE |
 | [[wiki/linear-a/words/P/PA_OLE_plus_MI\|PA-OLE+MI]] | compound | component read | 1 | 0 |  | reads PA, OLE |
-| [[wiki/linear-a/words/Q/QA2_plus_q_plus_PU_plus_RE\|QA2+&#91;?&#93;+PU+RE]] | ligature | component read | 1 | 0 |  | reads RE |
 | [[wiki/linear-a/words/Q/QE_plus_GRA_plus_PA\|QE+GRA+PA]] | ligature | component read | 1 | 0 |  | reads QE, GRA, PA |
 | [[wiki/linear-a/words/R/RE_plus_SE\|RE+SE]] | ligature | component read | 1 | 0 |  | reads RE |
 | [[wiki/linear-a/words/R/RI\|RI]] | syllabogram | unread | 1 | 0 |  |  |
@@ -209,11 +203,9 @@ Ordered by the records each one alone leaves unread, then by occurrences.
 | [[wiki/linear-a/words/T/TA2_CYP\|TA₂-CYP]] | compound | component read | 1 | 0 |  | reads CYP |
 | [[wiki/linear-a/words/T/TE_AROM\|TE-AROM]] | compound | component read | 1 | 0 |  | reads TE |
 | [[wiki/linear-a/words/T/TE_GRA_plus_F\|TE-GRA+F]] | compound | component read | 1 | 0 |  | reads TE, GRA |
-| [[wiki/linear-a/words/T/TELA_plus_star312\|TELA+\*312]] | ligature | value on file | 1 | 0 |  | cloth with \*312 (logogram): 1 |
 | [[wiki/linear-a/words/T/TELA_plus_TE\|TELA+TE]] | ligature | component read | 1 | 0 |  | reads TE |
 | [[wiki/linear-a/words/T/TI_plus_star412VAS\|TI+\*412VAS]] | ligature | component read | 1 | 0 |  | reads TI |
 | [[wiki/linear-a/words/V/VAS\|VAS]] | logogram | unread | 1 | 0 |  |  |
-| [[wiki/linear-a/words/V/VIN_plus_KA\|VIN+KA]] | ligature | component read | 1 | 0 |  | reads VIN, KA |
 | [[wiki/linear-a/words/V/VIN_plus_SA\|VIN+SA]] | ligature | component read | 1 | 0 |  | reads VIN, SA |
 | [[wiki/linear-a/words/V/VIN_SU\|VIN-SU]] | compound | component read | 1 | 0 |  | reads VIN, SU |
 | [[wiki/linear-a/words/V/VINb_plus_WI\|VINb+WI]] | ligature | unread | 1 | 0 |  |  |

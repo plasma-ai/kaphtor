@@ -35,6 +35,12 @@ records under other editions, GORILA records without a label, unresolved and mer
 Readings and translations are in [lexicon.json](lexicon.json) and [translations.json](translations.json), keyed by
 the same ids. A record's `notes` may discuss how a word is read, as epigraphic commentary.
 
+Linear A divides words with a dot, `𐄁` in `words`, and sparingly: Schoep counted 277 dividers on the tablets, fewer
+than one a tablet (Schoep 1996, 259–60, apud Salgarella 2020, 192 n. 62). A word may run across a line break, which
+"happens quite often" in Linear A and never in Linear B (Salgarella 2023, 416); IO Za 16 writes JA-SA-SA-RA / ME.
+Salgarella takes the divider for "likely to be an inherited device" in Linear B (2020, 192), and later calls Linear
+B's, a short vertical stroke, "a new introduction in LB, not present in LA" (2023, 415).
+
 ## Sources and terms
 
 The corpus builds on GORILA (Godart and Olivier) and RILA-S1, on [SigLA](https://sigla.phis.me) (Salgarella and

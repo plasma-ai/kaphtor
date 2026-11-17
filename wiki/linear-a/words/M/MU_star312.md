@@ -19,7 +19,7 @@ updated: 2026-10-24T16:17:50Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Signs.** [[wiki/linear-a/signs/syllabic/MU|MU]] · [[wiki/linear-a/signs/logograms/star312|\*312]]
+**Signs.** [[wiki/linear-a/signs/syllabic/MU|MU]] · [[wiki/linear-a/signs/syllabic/star312|\*312]]
 
 ## Attestations
 
@@ -31,6 +31,6 @@ updated: 2026-10-24T16:17:50Z
 
 Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
 
-HT78, a single line, \]MU-\*312\[, broken on both sides (GORILA I 127). Sole attestation. Not readable.
+HT78, a single line, \]MU-\*312\[, broken on both sides (GORILA I 127). Sole attestation. Both signs are legible; the word is incomplete. No reading.
 
 <!-- END kaphtor:record -->

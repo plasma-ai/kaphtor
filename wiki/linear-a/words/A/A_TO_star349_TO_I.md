@@ -31,6 +31,6 @@ updated: 2026-10-24T16:17:50Z
 
 Status **unread** (nothing known).
 
-KH 11 .4 A-TO-\*349-TỌ-I, the second TO dotted, the copie tabulaire dotting I as well, written over traces of an erasure, then an erased CYP and CYP+E, its quantity 3 on .5 (GORILA III 39). \*349 occurs nowhere else (Younger, Linear A Texts). Sole attestation. Not readable.
+KH 11 .4 A-TO-\*349-TỌ-I, the second TO dotted, the copie tabulaire dotting I as well, written over traces of an erasure, then an erased CYP and CYP+E, its quantity 3 on .5 (GORILA III 39). \*349 occurs nowhere else (Younger, Linear A Texts). Melena takes \*349 for the ancestor of Linear B jo (Melena 2014a, 84–88); Salgarella counts it among his more convincing o-series proposals, though jo's multi-stroke variants sit uneasily with A 349's single line (Salgarella 2020, 157, 291–92). Sole attestation. Not readable.
 
 <!-- END kaphtor:record -->

@@ -33,6 +33,6 @@ Evidence: no balancing total tests it; Corazza optimality
 
 ### Note
 
-Corazza optimal (28/28 best solutions); DD=1/3, DDDD=2/3. Supersedes GORILA 1/5 rendering and 'double mina' gloss for DD.
+Corazza optimal (28/28 best solutions); DD=1/3, DDDD=2/3. Supersedes GORILA's 1/5. After MA+RU on PH 3a, DD (A 717) has the shape of M, the double mina of Linear B, 'a point of convergence with the Mycenaean weight system', its value left open (Del Freo 2020, 57 n. 13). The double mina is a third of the wool unit (Nosch and Weilhartner 2026, 131), so the shape agrees with the third DD has here.
 
 <!-- END kaphtor:record -->

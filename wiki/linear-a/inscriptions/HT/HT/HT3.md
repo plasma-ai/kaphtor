@@ -90,7 +90,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/R/RU\|RU]] |  | unread |  |  |
 | SI-TU-RA₂-RE | šitla le- | shoots, for 5 | SPECULATIVE |  |
 | DI-\[ |  | unread |  |  |
-| [[wiki/linear-a/words/K/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | devotee of Kubaba (personal name or title); rival Gupana | PROBABLE | PROBABLE (lexicon) |
+| [[wiki/linear-a/words/K/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | devotee of Kubaba (personal name or title) | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/M/MA_DI\|MA-DI]] | Maʾdi | place name, 2 | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/D/DA\|DA]] |  | unread |  |  |
 

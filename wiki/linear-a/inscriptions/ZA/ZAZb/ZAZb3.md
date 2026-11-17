@@ -27,7 +27,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Site | Zakros |
-| Findspot |  |
+| Findspot | Storeroom of the villa, Epano Zakros |
 | Support | Clay vessel |
 | Period | LMIB |
 | Scribe |  |
@@ -81,5 +81,9 @@ Dedicatory inscription: commodity (VIN 32) + dedicant (Egyptian PN) + deity (Esh
 ## Lexicon words citing this document
 
 [[wiki/linear-a/words/A/A_RE_PI_RE_NA|A-RE-PI-RE-NA]], [[wiki/linear-a/words/A/A_SA_MU_NE|A-SA-MU-NE]], [[wiki/linear-a/words/A/A_SE|A-SE]], [[wiki/linear-a/words/A/A_TA_I_star301_DE_KA|A-TA-I-\*301-DE-KA]], [[wiki/linear-a/words/D/DI_DI_KA_SE|DI-DI-KA-SE]], [[wiki/linear-a/words/T/TI_TI_KU|TI-TI-KU]].
+
+## Corpus note
+
+Scratched onto a 'rather plain-looking' pithos (Davis 2026, 53; Salgarella 2020, 46, Table 5).
 
 <!-- END kaphtor:record -->

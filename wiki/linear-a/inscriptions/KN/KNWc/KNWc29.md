@@ -27,7 +27,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Site | Knossos |
-| Findspot |  |
+| Findspot | East Temple Repository, Knossos |
 | Support | Roundel |
 | Period | MMIIIB |
 | Scribe |  |
@@ -57,5 +57,9 @@ Unicode (Linear A block):
 | Kind | SigLA | GORILA |
 |---|---|---|
 | sign differs | AB22/CAPm | \*21M |
+
+## Corpus note
+
+Salgarella (2020, 48 and n. 19) dates it LM IA, after Schoep 1995, 31–34, 65.
 
 <!-- END kaphtor:record -->

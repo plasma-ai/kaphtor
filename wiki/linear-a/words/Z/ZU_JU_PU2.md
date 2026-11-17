@@ -23,7 +23,7 @@ updated: 2026-10-24T16:17:50Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Signs.** [[wiki/linear-a/signs/syllabic/ZU|ZU]] · [[wiki/linear-a/signs/syllabic/JU|JU]] · PU₂
+**Signs.** [[wiki/linear-a/signs/syllabic/ZU|ZU]] · [[wiki/linear-a/signs/syllabic/JU|JU]] · [[wiki/linear-a/signs/syllabic/PU2|PU₂]]
 
 ## Lexicon
 

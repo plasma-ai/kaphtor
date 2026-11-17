@@ -51,11 +51,11 @@ Unicode (Linear A block):
 
 **SPECULATIVE**, complete.
 
-> Large vessel.
+> Kirru.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/K/KI_RU\|KI-RU]] | kirru | large vessel (vessel label) | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/K/KI_RU\|KI-RU]] | Kirru | Kirru, the owner's name | SPECULATIVE | SPECULATIVE (lexicon) |
 
 ### Source
 

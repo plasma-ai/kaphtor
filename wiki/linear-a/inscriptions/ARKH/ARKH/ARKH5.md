@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/ARKH/ARKH/ARKH5
 title: "ARKH5"
-desc: "Tablet, Arkhanes, LMIB. Translation: incomplete (SPECULATIVE)."
+desc: "Tablet, Arkhanes, LMI. Translation: incomplete (SPECULATIVE)."
 tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
 kind: "inscription"
 id: "ARKH5"
 site: "Arkhanes"
 support: "Tablet"
-period: "LMIB"
+period: "LMI"
 translation: "incomplete"
 words: ["*131B", "A-DA-RO", "A-DU-NI-TA-NA"]
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Arkhanes |
 | Findspot |  |
 | Support | Tablet |
-| Period | LMIB |
+| Period | LMI |
 | Scribe |  |
 | Edition | GORILA 3 |
 | Series | ARKH |

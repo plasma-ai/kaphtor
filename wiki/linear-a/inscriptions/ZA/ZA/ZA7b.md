@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/ZA/ZA/ZA7b
 title: "ZA7b"
-desc: "Tablet, Zakros. Translation: incomplete (CANDIDATE)."
+desc: "Tablet, Zakros, LMIB. Translation: incomplete (CANDIDATE)."
 tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
 kind: "inscription"
 id: "ZA7b"
 site: "Zakros"
 support: "Tablet"
-period: ""
+period: "LMIB"
 translation: "incomplete"
 words: ["A-MA"]
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Zakros |
 | Findspot |  |
 | Support | Tablet |
-| Period |  |
+| Period | LMIB |
 | Scribe |  |
 | Edition | GORILA 3 |
 | Series | ZA |

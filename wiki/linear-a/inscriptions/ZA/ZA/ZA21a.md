@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/inscriptions/ZA/ZA/ZA21a
 title: "ZA21a"
-desc: "Tablet, Zakros. Translation: none."
+desc: "Tablet, Zakros, LMIB. Translation: none."
 tags: ["linear-a", "inscription", "translation-none", "tablet"]
 kind: "inscription"
 id: "ZA21a"
 site: "Zakros"
 support: "Tablet"
-period: ""
+period: "LMIB"
 translation: "none"
-words: ["*118-MI", "PA"]
+words: ["PA"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Zakros |
 | Findspot |  |
 | Support | Tablet |
-| Period |  |
+| Period | LMIB |
 | Scribe | [[wiki/linear-a/by_scribe\|ZA Scribe 1]] (?) |
 | Edition | GORILA 3 |
 | Series | ZA |
@@ -51,7 +51,7 @@ Transliteration, line by line:
 9. TA-MA-PI
 10. 3
 11. A
-12. \*118-MI 2
+12. \]-\*118-MI-\[ 2
 
 Unicode (Linear A block):
 
@@ -72,6 +72,6 @@ Unicode (Linear A block):
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/star/star118_MI|\*118-MI]], [[wiki/linear-a/words/P/PA|PA]].
+[[wiki/linear-a/words/P/PA|PA]].
 
 <!-- END kaphtor:record -->

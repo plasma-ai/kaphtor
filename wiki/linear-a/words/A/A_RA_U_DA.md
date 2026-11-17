@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-KH 5: A-DA-KI-SI-KA · A-RA-U-DA · over WI-SA-SA-NE CYP+E 2, VINb+WI 2, then WI-NA-DU · \*301-NA ·, KU-PA-ZU CYP 3. Hogan reads the tablet as one transfer of CYP+E and VINb+WI to several entities, A-RA-U-DA among them (Hogan, in Salgarella and Petrakis, The Wor(l)ds of Linear A, 81). The word follows a personal name, as {iri}a-ru-a-di-yu 'the Arwadian' follows Ṣaduqu and Hegilu at Ugarit (RS 19.42:7, 8) and the Amarna letters speak of the 'men of Arwad' (EA 101:13): Ḫadki-šiqā of Arwad. RA-U writes /raw/, as A-I writes /ay/: all four consonants ʾ-r-w-d stand in order, SigLA reads U (AB10), not AU, and the Ugarit gentilic writes the same u for w.
+KH 5: A-DA-KI-SI-KA · A-RA-U-DA · over WI-SA-SA-NE CYP+E 2, VINb+WI 2, then WI-NA-DU · \*301-NA ·, KU-PA-ZU CYP 3. Hogan reads the tablet as one transfer of CYP+E and VINb+WI to several entities, A-RA-U-DA among them (Hogan 2026, 81). The word follows a personal name, as {iri}a-ru-a-di-yu 'the Arwadian' follows Ṣaduqu and Hegilu at Ugarit (RS 19.42:7, 8) and the Amarna letters speak of the 'men of Arwad' (EA 101:13): Ḫadki-šiqā of Arwad. RA-U writes /raw/, as A-I writes /ay/: all four consonants ʾ-r-w-d stand in order, SigLA reads U (AB10), not AU, and the Ugarit gentilic writes the same u for w.
 
 Watson takes the name as Semitic, 'Desirable Place', from Ar. rāda IV 'to wish, desire, strive (toward a place)' (Watson 2001, 111). DULAT records West's comparison with Linear B a-ra-da-jo, a man at Knossos (KN As 1516.3; DULAT 107), which has no w. Rival: a second personal name, Ugaritic ảrwd(n) (DULAT 107–108) or Hebrew ʾArōd (Num 26:17). One attestation.
 

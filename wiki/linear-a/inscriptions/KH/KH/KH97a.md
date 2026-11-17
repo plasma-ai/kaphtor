@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/KH/KH/KH97a
 title: "KH97a"
-desc: "Tablet, Khania. Translation: none."
+desc: "Tablet, Khania, LMIB. Translation: none."
 tags: ["linear-a", "inscription", "translation-none", "tablet"]
 kind: "inscription"
 id: "KH97a"
 site: "Khania"
 support: "Tablet"
-period: ""
+period: "LMIB"
 translation: "none"
 words: []
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Khania |
 | Findspot |  |
 | Support | Tablet |
-| Period |  |
+| Period | LMIB |
 | Scribe |  |
 | Edition | post_gorila_publication |
 | Series | KH |
@@ -48,5 +48,9 @@ Transliteration, line by line:
 | Kind | SigLA | GORILA |
 |---|---|---|
 | boundary | re a-ja na | RE-A-JA-NA |
+
+## Corpus note
+
+The excavator first proposed an LM IA date, then judged it more likely LM IB (Salgarella 2020, 48 and n. 22). It was found in the LM IB destruction level of Room B, Splantzia, and its slightly worn fractures may perhaps indicate a date older than the LM IB destruction (Andreadaki-Vlasaki and Hallager 2007, 9–10 and n. 17).
 
 <!-- END kaphtor:record -->

@@ -33,6 +33,6 @@ Evidence: no balancing total tests it; KH 7a fits B = 1/5 in part
 
 ### Note
 
-Corazza optimal; KH 7a proportion B:4=J:10. Supersedes GORILA 1/3 rendering.
+Corazza optimal; KH 7a proportion B:4=J:10. Supersedes GORILA 1/3 rendering. Linear B RO, a weight subunit at Knossos on the saffron tablets and KN Og 1804, has the form of A 702; Salgarella asks whether it is a remnant of the Minoan fractions (Salgarella 2020, 217–18).
 
 <!-- END kaphtor:record -->

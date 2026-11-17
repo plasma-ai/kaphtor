@@ -32,11 +32,11 @@ updated: 2026-11-11T23:39:03Z
 | Reading's standing | CANDIDATE |
 | Standing as a divine name | CANDIDATE |
 | Standing of the layer | CANDIDATE (lexicon_reading) |
-| Source | di Mino; HALOT; Hvidberg-Hansen 1979 |
+| Source | di Mino; HALOT; Hvidberg-Hansen 1979; Landau 1958; DMic II; Davis 2026b |
 
 ## Note
 
-Four Haghia Triada lists: HT 7a TA-NA-TI 1, among the men under QE-TI · VIR+\[?\]; HT 10b TA-NA-TI 9¼, the last entry; HT 49a TA-NA-TI 1, in a list with KU-PA₃-NU and TU-SU-PU₂; HT 98a TA-NA-TI ¾, among fractional issues with RO-KE and KA-RI-\*310-I. Tanāti, the goddess TNT with the a-vowels against Punic Tinnit: the feminine of √t-n-n, Heb. tannîn, Tannin 'sea-monster, sea-dragon', Ug. tnn (HALOT 1764). Rival: ʿAnat with the feminine prefix t-, \*t(a)-ʿanât &gt; \*teʿnât &gt; \*tennât (Hvidberg-Hansen 1979, 140, who takes the prefix as Libyco-Berber). TA-NA-TE is the Zakros form. See TA-NA-TE.
+Four Haghia Triada lists: HT 7a TA-NA-TI 1, among the men under QE-TI · VIR+\[?\]; HT 10b TA-NA-TI 9¼, the last entry; HT 49a TA-NA-TI 1, in a list with KU-PA₃-NU and TU-SU-PU₂; HT 98a TA-NA-TI ¾, among fractional issues with RO-KE and KA-RI-\*310-I. Tanāti, the goddess TNT with the a-vowels against Punic Tinnit: the feminine of √t-n-n, Heb. tannîn, Tannin 'sea-monster, sea-dragon', Ug. tnn (HALOT 1764). Rival: ʿAnat with the feminine prefix t-, \*t(a)-ʿanât &gt; \*teʿnât &gt; \*tennât (Hvidberg-Hansen 1979, 140, who takes the prefix as Libyco-Berber). Cf. Linear B ta-na-to, a man at Knossos (KN De 1618.B), set beside it by Landau (1958, 132, 271, apud DMic II) and Davis (2026b, 104). TA-NA-TE is the Zakros form. See TA-NA-TE.
 
 ## As a name
 
@@ -71,7 +71,7 @@ Read words on the same documents.
 | Word | Reading | Meaning |
 |---|---|---|
 | DA-RE | dār | estate, household (a unit receiving men and grain); rival 'kin group, clan' |
-| [[wiki/names/semitic/names/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan |
+| [[wiki/names/semitic/names/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | devotee of Kubaba (Kubaba + -ān-), personal name or title |
 | KI | ki | so that, because |
 | [[wiki/names/semitic/names/TE_star301\|TE-\*301]] | Tēnā | Fig (personal name); a recipient in allocation lists |
 

@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/ARKH/ARKH/ARKH4b
 title: "ARKH4b"
-desc: "Tablet, Arkhanes. Translation: none."
+desc: "Tablet, Arkhanes, LMI. Translation: none."
 tags: ["linear-a", "inscription", "translation-none", "tablet"]
 kind: "inscription"
 id: "ARKH4b"
 site: "Arkhanes"
 support: "Tablet"
-period: ""
+period: "LMI"
 translation: "none"
 words: ["A-KI-RO", "RE", "U"]
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Arkhanes |
 | Findspot |  |
 | Support | Tablet |
-| Period |  |
+| Period | LMI |
 | Scribe |  |
 | Edition | GORILA 3 |
 | Series | ARKH |

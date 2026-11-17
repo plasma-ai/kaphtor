@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU
 title: "A-RE-NE-SI-DI-*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU"
-desc: "ʾarān Ṣidna bikē bayta rēšī tarīmu ʾAyaku: 'Coffin of Sidon. Weeping in the house. My head you lift up, O ʾAyaku': a lament. Lexicon, SPECULATIVE (tier 1)."
+desc: "ʾAren Ṣidna bikē bayta rēšī tarīmu ʾAyaku: 'Aren of Sidon. There is weeping in the house. You lift up my head, O ʾAyaku': a lament. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name", "ritual"]
 kind: "word"
 form: "A-RE-NE-SI-DI-*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU"
 datasets: ["lexicon"]
 tier: 1
 confidence: "SPECULATIVE"
-confidence_score: 0.25
-reading: "ʾarān Ṣidna bikē bayta rēšī tarīmu ʾAyaku"
+confidence_score: 0.2
+reading: "ʾAren Ṣidna bikē bayta rēšī tarīmu ʾAyaku"
 attestations: ["KNZf13"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -27,12 +27,12 @@ updated: 2026-10-24T16:17:50Z
 
 ## Lexicon
 
-**SPECULATIVE**, tier 1 of 4, score 0.25
+**SPECULATIVE**, tier 1 of 4, score 0.20
 
 | Field | Value |
 |---|---|
-| Reading | ʾarān Ṣidna bikē bayta rēšī tarīmu ʾAyaku |
-| Meaning | 'Coffin of Sidon. Weeping in the house. My head you lift up, O ʾAyaku': a lament |
+| Reading | ʾAren Ṣidna bikē bayta rēšī tarīmu ʾAyaku |
+| Meaning | 'Aren of Sidon. There is weeping in the house. You lift up my head, O ʾAyaku': a lament |
 | Root | ʾ-r-n · ṣ-d-n · b-k-y · b-y-t · r-ʾ-š · r-w-m · ʾ-y |
 | Proto-Semitic | \*ʾayy- (#K0567) |
 | Language layer | Semitic |
@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-KN Zf 13, gold ring HM 530, from compartment E of Chamber Tomb IX at Mavro Spilio, with a larnax (Olivier 1982): 19 signs in a spiral from the outer band inward, no dividers; RI (12, 15), MU (16) and KU (19) dotted (GORILA IV 152–153). The corpus divides it: SI-DI opens SI-DI-JA (HT 126a), -DI-NA ends four words, PA-JA opens PA-JA-RE, TE-RI stands alone, A-JA-KU closes. That is Olivier's division by sign frequency, A-RE-NE SI-DI-\*301-PI-KE PA-JA-TA-RI-SE TE-RI-ME A-JA-KU, with two groups split. A-RE-NE SI-DI-\*301 ʾarān Ṣidna 'the coffin of Sidon', as Tabnit of Sidon pairs ʾrn and ṣdnm (KAI 13); PI-KE PA-JA-TA bikē bayta 'weeping in the house'; RI-SE TE-RI-MU rēšī tarīmu 'you lift up my head' (Ps 3:4); A-JA-KU ʾAyaku, the vocative. Rivals: SE-TE-RI-MU, Amorite sitrum 'protection', giving '… for protection, ʾAyaku'; SI-DI-\*301 Ṣīd-nā 'our Ṣid'. One document.
+KN Zf 13, gold ring HM 530, from compartment E of Chamber Tomb IX at Mavro Spilio, with a larnax (Olivier 1982): 19 signs in a spiral from the outer band inward, no dividers; RI (12, 15), MU (16) and KU (19) dotted (GORILA IV 152–153). The editors read sign 16 first as ME (Olivier 1982, 22), then as 23, MU (GORILA V 179), which Younger and SigLA follow; a short stroke crosses its stem, as in ME. The corpus divides it: SI-DI opens SI-DI-JA (HT 126a), -DI-NA ends four words, PA-JA opens PA-JA-RE, TE-RI stands alone, A-JA-KU closes. That is Olivier's division by sign frequency, one of two he offers as examples (1982, 24), in the corpus's values A-RE-NE SI-DI-\*301-PI-KE PA-JA-TA-RI-SE TE-RI-MU A-JA-KU, with two groups split. Olivier notes slightly wider gaps between some signs, and signs straightened to stand upright on the spiral (1982, 24); the bezel is convex and one centimetre across, and read as breaks the gaps leave A-RE alone and join MU to A-JA-KU. A-RE-NE SI-DI-\*301 ʾAren Ṣidna 'Aren of Sidon', the owner and his city, as the ring PO Zf 2 bears a name (Dimopoulou and Olivier 2022); rival ʾarān Ṣidna 'Ark of Sidon', as Ahiram's inscription opens with ʾrn (KAI 1:1) and Tabnit of Sidon pairs ʾrn and ṣdnm (KAI 13), giving 'Ark of Sidon. There is weeping in the tomb. You lift up my head, O ʾAyaku'; PI-KE PA-JA-TA bikē bayta 'weeping in the house'; RI-SE TE-RI-MU rēšī tarīmu 'you lift up my head' (Ps 3:4); A-JA-KU ʾAyaku, the vocative. Rival: SI-DI-\*301 Ṣīd-nā 'our Ṣid'. One document.
 
 ### Cognates
 

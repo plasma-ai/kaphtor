@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/V
 desc: "Words whose first sign begins with V."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-16T03:58:42Z
+updated: 2026-11-18T17:05:12Z
 ---
 
 # wiki/linear-a/words/V
@@ -17,7 +17,7 @@ updated: 2026-11-16T03:58:42Z
 
 [[wiki/linear-a/words/V/VIN_SU|VIN_SU]]: Unread sign (compound, component read); 1 occurrence(s).
 
-[[wiki/linear-a/words/V/VIN_plus_KA|VIN_plus_KA]]: Unread sign (ligature, component read); 1 occurrence(s).
+[[wiki/linear-a/words/V/VIN_plus_KA|VIN_plus_KA]]: ḫamr: fermenting wine, the new wine: VIN with KA set at it for ḫamr. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/V/VIN_plus_RA|VIN_plus_RA]]: raqḥ: spiced wine (Hebrew yayin hāreqaḥ); rival raḥṣu 'washed wine'. Lexicon, CANDIDATE (tier 2).
 

@@ -37,13 +37,14 @@ updated: 2026-10-24T16:17:50Z
 
 - DA-KU-SE-NE = Dakušenni (Gordon: Hurrian PN)
 - SU-KI-RI-TE-SE-JA (Gordon: Tešub hyp.)
+- The Linear B value, confirmed in Linear A by one contextual test (Davis 2026b, 18, Table 1.3, after Duhoux 1989)
 
 ## Lexicon words written with this sign
 
 | Word | Reading | Confidence |
 |---|---|---|
 | [[wiki/linear-a/words/star/star364_KE_MA_SE\|\*364-KE-MA-SE]] | Šakma-se | SPECULATIVE |
-| [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | ʾarān Ṣidna bikē bayta rēšī tarīmu ʾAyaku | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | ʾAren Ṣidna bikē bayta rēšī tarīmu ʾAyaku | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_SE\|A-SE]] | ʾāsē | CANDIDATE |
 | [[wiki/linear-a/words/A/A_SE_JA\|A-SE-JA]] | Āsīya | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_SE_SI_NA\|A-SE-SI-NA]] | ḥašīšin | SPECULATIVE |
@@ -53,7 +54,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/D/DI_DI_KA_SE\|DI-DI-KA-SE]] | Djed-ka(.s) | SPECULATIVE |
 | [[wiki/linear-a/words/D/DI_KI_SE\|DI-KI-SE]] | Dikise | CANDIDATE |
 | [[wiki/linear-a/words/D/DU_RE_ZA_SE\|DU-RE-ZA-SE]] | turēṯa-se | CANDIDATE |
-| [[wiki/linear-a/words/J/JA_PA_RA_JA_SE\|JA-PA-RA-JA-SE]] | yapʾara yāṣē | CANDIDATE |
+| [[wiki/linear-a/words/J/JA_PA_RA_JA_SE\|JA-PA-RA-JA-SE]] | yapra yāṣē | CANDIDATE |
 | [[wiki/linear-a/words/J/JA_SE\|JA-SE]] | yāṣē | CANDIDATE |
 | [[wiki/linear-a/words/M/MA_KA_I_SE\|MA-KA-I-SE]] | Makī-se | SPECULATIVE |
 | [[wiki/linear-a/words/M/MI_KI_SE_NA\|MI-KI-SE-NA]] | miksēna | SPECULATIVE |
@@ -70,7 +71,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/S/SE_KU_TU\|SE-KU-TU]] | Šakūtu | SPECULATIVE |
 | [[wiki/linear-a/words/S/SE_SA_PA3\|SE-SA-PA₃]] | Zizapa | SPECULATIVE |
 | [[wiki/linear-a/words/S/SE_TO_I_JA\|SE-TO-I-JA]] | Ṣētiya | PROBABLE |
-| [[wiki/linear-a/words/S/SE_WA_AU_DE\|SE-WA-AU-DE]] | šawaʿ-dē | SPECULATIVE |
+| [[wiki/linear-a/words/S/SE_WA_AU_DE\|SE-WA-AU-DE]] | šiwwâ hawd- | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_plus_SE\|SI+SE]] | ṣiṣe | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_plus_SE_RA_plus_KA\|SI+SE-RA+KA]] | šeraka | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_JA_SE\|SI-JA-SE]] | šī-yāṣē | CANDIDATE |

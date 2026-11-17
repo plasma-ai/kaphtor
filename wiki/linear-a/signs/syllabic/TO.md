@@ -36,6 +36,7 @@ updated: 2026-10-24T16:17:50Z
 ### Forms cited for the value
 
 - PA-I-TO = Phaistos
+- The Linear B value, confirmed in Linear A by one contextual test (Davis 2026b, 18, Table 1.3, after Duhoux 1989)
 
 ## Lexicon words written with this sign
 

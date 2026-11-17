@@ -36,6 +36,7 @@ updated: 2026-10-24T16:17:50Z
 ### Forms cited for the value
 
 - A-TA-I-\*301-WA-JA (libation formula verb)
+- The Linear B value, confirmed in Linear A by more than one contextual test (Davis 2026b, 18, Table 1.3, after Duhoux 1989)
 
 ## Lexicon words written with this sign
 
@@ -52,7 +53,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/J/JA_WA_PI\|JA-WA-PI]] | Yawpiʿ | SPECULATIVE |
 | [[wiki/linear-a/words/K/KO_A_DU_WA\|KO-A-DU-WA]] | Qō-Addua | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_RA2_WA\|QA-RA₂-WA]] | qalwa | CANDIDATE |
-| [[wiki/linear-a/words/S/SE_WA_AU_DE\|SE-WA-AU-DE]] | šawaʿ-dē | SPECULATIVE |
+| [[wiki/linear-a/words/S/SE_WA_AU_DE\|SE-WA-AU-DE]] | šiwwâ hawd- | SPECULATIVE |
 | [[wiki/linear-a/words/W/WA\|WA]] | (logogram) | CANDIDATE |
 
 <!-- END kaphtor:record -->

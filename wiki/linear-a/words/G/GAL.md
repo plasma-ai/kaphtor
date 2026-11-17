@@ -31,6 +31,6 @@ updated: 2026-11-12T00:26:03Z
 
 A logogram. Status **unread** (nothing on file).
 
-Alone on the roundel KH Wc 2028: a pointed form over a hanging loop.
+Alone on the roundel KH Wc 2028: a pointed form over a hanging loop. It is AB 191, the helmet, the one Linear A logogram certainly of the military class, as Linear B GAL (Palaima 1988, 325–26; Schoep 2002, 91, apud Nosch and Weilhartner 2026, 118; Salgarella 2020, 316).
 
 <!-- END kaphtor:record -->

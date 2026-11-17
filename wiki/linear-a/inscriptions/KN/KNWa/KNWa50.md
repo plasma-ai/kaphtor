@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/KN/KNWa/KNWa50
 title: "KNWa50"
-desc: "Nodule, Knossos. Translation: complete (PROBABLE)."
+desc: "Nodule, Knossos, LMIA. Translation: complete (PROBABLE)."
 tags: ["linear-a", "inscription", "translation-complete", "nodule"]
 kind: "inscription"
 id: "KNWa50"
 site: "Knossos"
 support: "Nodule"
-period: ""
+period: "LMIA"
 translation: "complete"
 words: ["*301"]
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Knossos |
 | Findspot |  |
 | Support | Nodule |
-| Period |  |
+| Period | LMIA |
 | Scribe |  |
 | Edition | post_gorila_publication |
 | Series | KNWa |

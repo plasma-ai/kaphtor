@@ -35,7 +35,7 @@ updated: 2026-11-12T19:49:27Z
 
 ## Note
 
-HT 7a lists men under QE-TI 'in the charge of': I-RU-JA 3, DU-JA 4, TA-NA-TI 1, DA-RE 1 and TE-TU 1 (GORILA I 15). DU-JA is whole and undotted, and it follows I-RU-JA ʾIlūya 'My god', where -ja is the suffix 'my'.
+HT 7a lists men under QE-TI 'list of': I-RU-JA 3, DU-JA 4, TA-NA-TI 1, DA-RE 1 and TE-TU 1 (GORILA I 15). DU-JA is whole and undotted, and it follows I-RU-JA ʾIlūya 'My god', where -ja is the suffix 'my'.
 
 Ḏū-Ya is 'He of Ya', ḏū 'he of' before the divine name. DU writes ḏū in DU-ZU-WA 'He of the Lord' and DU-NE-MI 'He of Grace', and JA is the Yāh of JA-\*21F (HT 28b) and of PI-TA-JA Bittaya 'daughter of Ya' (HT 6a).
 

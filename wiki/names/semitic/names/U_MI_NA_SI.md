@@ -67,7 +67,7 @@ Read words on the same documents.
 | [[wiki/names/semitic/names/SA_RA2\|SA-RA₂]] | šarra | queen/princess; by metonymy the queen's or royal establishment (recipient/institutional heading) |
 | [[wiki/names/semitic/names/MA_KA_RI_TE\|MA-KA-RI-TE]] | makkārītu | merchants (heading of a roster of men); rival 'red (wool)' |
 | KI-RO | kilʾu | owed, outstanding balance (deficit)—transaction term heading deficit sections |
-| [[wiki/names/semitic/names/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan |
+| [[wiki/names/semitic/names/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | devotee of Kubaba (Kubaba + -ān-), personal name or title |
 | KU-RO | kull | total, sum (accounting term) |
 | [[wiki/names/semitic/names/KI_DA_RO\|KI-DA-RO]] | Qidaru | personal name, 'Dark' (√ḳ-d-r 'be dark'; cf. Hebrew Qēdār) |
 

@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/PH/PH/PH12c
 title: "PH12c"
-desc: "Lames (short thin tablet), Phaistos. Translation: complete (CANDIDATE)."
+desc: "Lames (short thin tablet), Phaistos, MMIIB. Translation: complete (CANDIDATE)."
 tags: ["linear-a", "inscription", "translation-complete", "lames-(short-thin-tablet)"]
 kind: "inscription"
 id: "PH12c"
 site: "Phaistos"
 support: "Lames (short thin tablet)"
-period: ""
+period: "MMIIB"
 translation: "complete"
 words: ["TE"]
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Phaistos |
 | Findspot |  |
 | Support | Lames (short thin tablet) |
-| Period |  |
+| Period | MMIIB |
 | Scribe |  |
 | Edition | GORILA 1 |
 | Series | PH |

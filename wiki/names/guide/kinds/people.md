@@ -41,6 +41,7 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/semitic/names/A_PA_RA_NE\|A-PA-RA-NE]] | ʿAbrān | personal name, 'the crosser, the one from beyond' (√ʿ-b-r), Alalakh Ap-ra-an | [[wiki/names/semitic/_index\|Semitic]] | 2 |
 | [[wiki/names/hurrian/names/A_RA_NA_RE\|A-RA-NA-RE]] | Aranare | personal name; Ugaritic ålnr (Hurrian), Linear B a-ra-na-ro | [[wiki/names/hurrian/_index\|Hurrian]] | 1 |
 | [[wiki/names/hurrian/names/A_RE_DA_I\|A-RE-DA-I]] | Ar-tae | Ar-tae (personal name; Hurrian ar- 'give') | [[wiki/names/hurrian/_index\|Hurrian]] | 1 |
+| [[wiki/names/semitic/names/A_RE_NE\|A-RE-NE]] | ʾAren | Aren, a man's name, the owner of the ring | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/A_RE_SA_NA\|A-RE-SA-NA]] | ʾAriš-ān | 'The Requested One', personal name from √ʾ-r-š 'to request, desire' with -ān; rival Ḥarišān 'craftsman' | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/A_RE_TU_MI\|A-RE-TU-MI]] | ʾarṣ̂-ummī | Earth is my mother (NWS theophoric compound PN; pre-Greek Artemis) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/A_RI_NI_TA\|A-RI-NI-TA]] | ʾarīnīt | She-of-the-Lion (feminine gentilic—priestess/cult title; cf. I-ZU-RI-NI-TA She-of-the-Bull) | [[wiki/names/semitic/_index\|Semitic]] | 2 |
@@ -136,12 +137,13 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/semitic/names/KI_NU\|KI-NU]] | Kīnu | personal name, 'the True One' (kīnu 'true, reliable') | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/KI_RE_TA2\|KI-RE-TA₂]] | Kirēta / Kret | Kret (eponym of Crete) | [[wiki/names/semitic/_index\|Semitic]] | 2 |
 | [[wiki/names/semitic/names/KI_RI_TA2\|KI-RI-TA₂]] | Kirīta | Kret (variant spelling) | [[wiki/names/semitic/_index\|Semitic]] | 2 |
+| [[wiki/names/semitic/names/KI_RU\|KI-RU]] | Kirru | personal name, the owner of the vase; Ugaritic krr | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/KO_A_DU_WA\|KO-A-DU-WA]] | Qō-Addua | personal name, 'Hope in Addu' (Amorite Quwi-Haddu); rival an Anatolian name in Kuwa- | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/KO_JA\|KO-JA]] | Qōya | personal name, Amorite type (quwy- 'wait for, hope'); rival 'be strong' | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/KU_DA\|KU-DA]] | Gūda | Gūda 'luck' (personal name), Amorite Guʾuda; rivals Kutta, qāʾid 'chief' | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/hurrian/names/KU_KU_DA_RA\|KU-KU-DA-RA]] | Kukkadal | Kukkadal (Hurrian personal name), kukk- + adal 'strong'; rival ḳdr 'dark' | [[wiki/names/hurrian/_index\|Hurrian]] | 1 |
 | [[wiki/names/semitic/names/KU_MA_JU\|KU-MA-JU]] | Qumalu | Qumalu 'Louse' (personal name); rival kumru 'priest' | [[wiki/names/semitic/_index\|Semitic]] | 1 |
-| [[wiki/names/semitic/names/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan | [[wiki/names/semitic/_index\|Semitic]] | 7 |
+| [[wiki/names/semitic/names/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | devotee of Kubaba (Kubaba + -ān-), personal name or title | [[wiki/names/semitic/_index\|Semitic]] | 7 |
 | [[wiki/names/semitic/names/KU_PA_JA\|KU-PA-JA]] | Kubbaya | personal name, hypocoristic of Kubaba in -aya, cf. Amorite Kubbiya | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/hurrian/names/KU_PA_ZU\|KU-PA-ZU]] | Kapizzi | Kapizzi (Hurrian personal name), 'kapizzi-jewel'; rival kupṯu 'headdress' | [[wiki/names/hurrian/_index\|Hurrian]] | 1 |
 | [[wiki/names/semitic/names/KU_RA_MU\|KU-RA-MU]] | Kurmu | personal name, 'Vineyard' (√k-r-m) | [[wiki/names/semitic/_index\|Semitic]] | 1 |

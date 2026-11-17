@@ -36,11 +36,11 @@ updated: 2026-11-16T19:24:13Z
 
 ## Note
 
-ZA 8 .1 KI-RA · A-TA-RE · NI ½, intact, heading the fig list (GORILA III 165). ʿAṯtar: A writes ʿa, TA the ṯt, as A-TI-RU ʿAttiru does, RE the final r with a dead vowel. Ugarit's pantheon lists name ʿṯtr (KTU 1.118:17; Pardee 2000, 1093), and Arabic ties the name to crops 'watered by rain', ʿaṯariyy (Lane 1952, apud Al-Jallad 2026, 19), fitting the god of an orchard's fig issue. Rival: Egyptian Ḥw.t-Ḥr.w Hathor, Lady of the Sycomore (AED lemma 450446; Wb 2, 282.14), with A for a dropped ḥ and TA-RE for t-ḥr. One witness.
+ZA 8 .1 KI-RA · A-TA-RE · NI ½, intact, heading the fig list (GORILA III 165). ʿAṯtar: A writes ʿa, TA the ṯt, as A-TI-RU ʿAttiru does, RE the final r with a dead vowel. Ugarit's pantheon lists name ʿṯtr (KTU 1.118:17; Pardee 2000, 1093), and Arabic ties the name to crops 'watered by rain', ʿaṯariyy (Lane 1952, apud Al-Jallad 2026, 19), fitting the god of an orchard's fig issue. Rivals: Egyptian Ḥw.t-Ḥr.w Hathor, Lady of the Sycomore (AED lemma 450446; Wb 2, 282.14), with A for a dropped ḥ and TA-RE for t-ḥr; a personal name, Linear B a-ta-ro at Pylos (PY An 35.5), probably a man's (DMic I), the final -e written -o (Salgarella 2020, 186 n. 38, after Steele and Meissner 2017, 105–6). One witness.
 
 ## As a name
 
-ZA 8, the first entry under KI-RA, with figs: ʿAṯtar, Ugaritic ʿṯtr (Pardee 2000, 1093). Rival: Hathor, Lady of the Sycomore. See the lexicon entry.
+ZA 8, the first entry under KI-RA, with figs: ʿAṯtar, Ugaritic ʿṯtr (Pardee 2000, 1093). Rivals: Hathor, Lady of the Sycomore; a man's name, Linear B a-ta-ro at Pylos (PY An 35.5). See the lexicon entry.
 
 ## Cognates
 

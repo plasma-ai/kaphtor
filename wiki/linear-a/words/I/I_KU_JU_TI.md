@@ -61,6 +61,6 @@ di Mino; CAD U/W; GlOS 1; Salgarella 2020; Steele 2024
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA6b\|ZA6b]] | Zakros | Tablet | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA6b\|ZA6b]] | Zakros | Tablet | incomplete; form not in transliteration |
 
 <!-- END kaphtor:record -->

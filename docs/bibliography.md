@@ -5,7 +5,7 @@ desc: The full references for the works the Linear A data, the Semitic roots and
 tags: [docs, linear-a, semitic-roots, pre-greek]
 authors: "di Mino"
 created: 2026-11-02T15:00:00Z
-updated: 2026-11-16T17:30:00Z
+updated: 2026-11-18T19:00:00Z
 ---
 
 # Bibliography
@@ -199,11 +199,11 @@ de Martino, Stefano. 2011. *Hurrian Personal Names in the Kingdom of Ḫatti*. L
 **Decorte 2018**
 Decorte, Roeland P.-J. E. 2018. "The First 'European' Writing: Redefining the Archanes Script." *Oxford Journal of Archaeology* 37(4): 341–372. https://doi.org/10.1111/ojoa.12152.
 
-**Del Freo & Zurbach 2011**
-Del Freo, Maurizio, and Julien Zurbach. 2011. "La préparation d’un supplément au Recueil des inscriptions en linéaire A. Observations à partir d’un travail en cours." *Bulletin de correspondance hellénique* 135.1: 73–97. https://doi.org/10.3406/bch.2011.7827.
-
 **Del Freo 2020**
 Del Freo, Maurizio. 2020. "Wool Working at Hagia Triada: The HT 24 Tablet and the 45 Noduli from the Quartiere Sudovest." In *Neôteros: Studies in Bronze Age Aegean Art and Archaeology in Honor of Professor John G. Younger on the Occasion of His Retirement*, edited by Brent Davis and Robert Laffineur, 55–64. Aegaeum 44. Leuven–Liège: Peeters.
+
+**Del Freo & Zurbach 2011**
+Del Freo, Maurizio, and Julien Zurbach. 2011. "La préparation d’un supplément au Recueil des inscriptions en linéaire A. Observations à partir d’un travail en cours." *Bulletin de correspondance hellénique* 135.1: 73–97. https://doi.org/10.3406/bch.2011.7827.
 
 **Del Freo and Zurbach 2024** (cited as RILA-S1)
 Del Freo, Maurizio, and Julien Zurbach. 2024. *Recueil des inscriptions en linéaire A. Vol. 6. Supplément 1 (RILA-S1)*. École française d'Athènes, Athens (Études Crétoises XXI.6); LXIV + 256 pp.; ISBN 978-2-86958-642-0.
@@ -220,6 +220,12 @@ Dillmann, August. 1865. *Lexicon Linguae Aethiopicae*. GitHub (DillmannData).
 **Dimopoulou and Olivier 2022**
 Dimopoulou, Nota, and Jean-Pierre Olivier. 2022. "Une bague en or de Poros / Héracleion avec inscription en linéaire A (PO Zf 2)." *Studi Micenei ed Egeo-Anatolici* NS 8: 7–16.
 
+**Dimopoulou, Olivier & Réthémiotakis 1993** (cited as Dimopoulou et al. 1993)
+Dimopoulou, Nota, Jean-Pierre Olivier, and Georges Réthémiotakis. 1993. "Une statuette en argile MR IIIA de Poros/Irakliou avec inscription en linéaire A." *Bulletin de correspondance hellénique* 117.2: 501–521. https://doi.org/10.3406/bch.1993.4657.
+
+**Donnelly 2026**
+Donnelly, Cassandra. 2026. "Cycladic Linear A and connections between scripts." In E. Salgarella & V. Petrakis (eds.), The Wor(l)ds of Linear A, AURA Supplement 15, Department of History and Archaeology, NKUA, Athens, pp. 61–76.
+
 **Doumas 2019**
 Doumas, C. G. 2019. "Ανασκαφή Ακρωτηρίου Θήρας." *Πρακτικά της εν Αθήναις Αρχαιολογικής Εταιρείας*: 287–300.
 
@@ -235,6 +241,9 @@ Du Mesnil du Buisson, Robert. 1960. "Le vrai nom de Bôl, prédécesseur de Bêl
 
 **Duhoux 1978**
 Duhoux, Yves. 1978. "Une analyse linguistique du linéaire A." In *Études minoennes I: Le linéaire A*, edited by Yves Duhoux, 65–129. Bibliothèque des Cahiers de l'Institut de Linguistique de Louvain 14. Louvain: Peeters.
+
+**Duhoux 1983**
+Duhoux, Yves. 1983. "Les langues du linéaire A et du disque de Phaestos." *Minos* 18: 33–68.
 
 **Duhoux 1989**
 Duhoux, Yves. 1989. "Le linéaire A: problèmes de déchiffrement." In Y. Duhoux, T. G. Palaima & J. Bennet (eds.), Problems in Decipherment, BCILL 49, Peeters, Louvain-la-Neuve, pp. 59–119.
@@ -383,9 +392,6 @@ Hajouz, Mohammad Ali. 2013. *Der Wortschatz der Ebla-Texte: Morphologische und l
 **Halbherr, Stefani and Banti 1977**
 Halbherr, Federico, Enrico Stefani, and Luisa Banti. 1977. "Haghia Triada nel periodo tardo palaziale." *Annuario della Scuola Archeologica di Atene e delle Missioni Italiane in Oriente* 55 (n.s. 39). Rome: L'Erma di Bretschneider.
 
-**Hallager & Andreadaki-Vlazaki 2017**
-Hallager, Erik, and Maria Andreadaki-Vlazaki. 2017. "The Greek-Swedish-Danish Excavations 2014." In *Proceedings of the Danish Institute at Athens VIII*, 281–292. Aarhus University Press. https://doi.org/10.2307/j.ctv3405qph.13.
-
 **Hallager 1996**
 Hallager, Erik. 1996. *The Minoan Roundel and Other Sealed Documents in the Neopalatial Linear A Administration*. Aegaeum 14. Liège: Université de Liège, Histoire de l'art et archéologie de la Grèce antique.
 
@@ -394,6 +400,9 @@ Hallager, Erik. 2012. "Literacy at Petras and three hitherto Unpublished Linear 
 
 **Hallager 2016**
 Hallager, Erik. 2016. "An LM IIIA:1 cup with a painted Linear A inscription." In *The Greek-Swedish Excavations at the Agia Aikaterini Square, Kastelli, Khania 1970–1987, 2001, 2005 and 2008. Vol. 5: The Late Minoan IIIA:1 and II Settlements, fasc. 1: Text*, edited by Erik Hallager and Birgitta P. Hallager, 290–293. Skrifter utgivna av Svenska institutet i Athen, 4°, 47:5:1. Svenska institutet i Athen, Stockholm.
+
+**Hallager & Andreadaki-Vlazaki 2017**
+Hallager, Erik, and Maria Andreadaki-Vlazaki. 2017. "The Greek-Swedish-Danish Excavations 2014." In *Proceedings of the Danish Institute at Athens VIII*, 281–292. Aarhus University Press. https://doi.org/10.2307/j.ctv3405qph.13.
 
 **Hallager et al. 2014**
 Hallager, Erik, Yannis Tzedakis, and Maria Andreadaki-Vlazaki. 2014. "The Greek-Swedish-Danish excavations at Kastelli, Khania 2010: a preliminary report." *Proceedings of the Danish Institute at Athens* 7: 209–220.
@@ -503,7 +512,7 @@ Kane, Thomas Leiper. 1990. *Amharic-English Dictionary*. Wiesbaden: O. Harrassow
 **Kanta and Perna 2011**
 Kanta, Athanasia, and Massimo Perna. 2011. "A Late Minoan IIIA-B Bull bearing a Linear Inscription from the «Piazzale dei Sacelli» of Haghia Triada." In *Κρήτης Μινωίδος. Tradizione e identità minoica tra produzione artigianale, pratiche cerimoniali e memoria del passato (Studi offerti a Vincenzo La Rosa per il suo 70o compleanno)*, edited by Filippo Carinci, Nicola Cucuzza, Pietro Militello and Orazio Palio, 285–296. Studi di Archeologia Cretese X. Padova: Centro di Archeologia Cretese, Bottega d'Erasmo.
 
-**Kanta, Nakassis, Palaima & Perna 2024**
+**Kanta, Nakassis, Palaima & Perna 2024** (cited as Kanta et al. 2024)
 Kanta, Athanasia, Dimitri Nakassis, Thomas G. Palaima, and Massimo Perna. 2024. "An archaeological and epigraphical overview of some inscriptions found in the Cult Center of the city of Knossos (Anetaki plot)." In *KO-RO-NO-WE-SA: Proceedings of the 15th International Colloquium on Mycenaean Studies, September 2021*, edited by J. Bennet, A. Karnava and T. Meißner, 27–43. Ariadne Supplement Series 5. Rethymno: Faculty of Philosophy, University of Crete.
 
 **Karetsou, Godart and Olivier 1985**
@@ -550,6 +559,9 @@ Kogan, Leonid. 2025. "Studies in East Semitic (Akkadian and Eblaite) Etymology."
 
 **Kogan–Krebernik 2021** (also Kogan–Krebernik 2021b)
 Kogan, Leonid, and Manfred Krebernik. 2021. "Eblaite." In J.-P. Vita (ed.), History of the Akkadian Language, Brill, Leiden/Boston (Handbook of Oriental Studies 1/152), ch. 12, pp. 664–989. https://doi.org/10.1163/9789004445215_013.
+
+**Kopaka 1989**
+Kopaka, Katerina. 1989. "Une nouvelle inscription en linéaire A de Zakros." *Kadmos* 28: 7–13. https://doi.org/10.1515/kadm.1989.28.1-2.7.
 
 **Krahmalkov 2000** (cited as Krah.)
 Krahmalkov, Charles R. 2000. *A Phoenician-Punic Dictionary*. Peeters (Leuven).
@@ -605,8 +617,14 @@ Melchert, H. Craig. 1993. *Cuneiform Luvian Lexicon*. Lexica Anatolica 2. Chapel
 **Melena 2014**
 Melena, José L. 2014. "Mycenaean Writing." In *A Companion to Linear B: Mycenaean Greek Texts and their World, vol. 3*, edited by Y. Duhoux and A. Morpurgo Davies, 1–186. Bibliothèque des Cahiers de l'Institut de Linguistique de Louvain 133. Louvain-la-Neuve – Walpole, MA: Peeters.
 
+**Melena 2014a**
+Melena, José L. 2014. "Filling Gaps in the Basic Mycenaean Syllabary." In *Donum Mycenologicum: Mycenaean Studies in Honour of Francisco Aura Jorro*, edited by Alberto Bernabé and Eugenio R. Luján, 75–85. BCILL 131. Leuven/Walpole: Peeters. Salgarella 2023 cites it as 2014a and Mycenaean Writing (Melena 2014) as 2014c.
+
 **Metaxa-Muhly 1984**
 Metaxa-Muhly, Polymnia. 1984. "Linear A inscriptions from the Sanctuary of Hermes and Aphrodite at Kato Syme." *Kadmos* 23: 124–135. https://doi.org/10.1515/kadmos-1984-1-203.
+
+**Michailidou 2000–2001**
+Michailidou, Anna. 2000–2001. "Indications of Literacy in Bronze Age Thera." *Minos* 35–36: 7–30. The volume appeared in 2002.
 
 **Milgrom 1991**
 Milgrom, Jacob. 1991. *Leviticus 1-16: A New Translation with Introduction and Commentary*. The Anchor Bible. New York: Doubleday.
@@ -695,6 +713,12 @@ Olivier, Jean-Pierre. 1989. "Le « disque de Mokhlos »: une nouvelle inscriptio
 **Olivier 1999**
 Olivier, Jean-Pierre. 1999. "Rapport 1991-1995 sur les textes en écriture hiéroglyphique crétoise en linéaire A et en linéaire B." In *Floreant Studia Mycenaea: Akten des X. Internationalen Mykenologischen Colloquiums in Salzburg vom 1.–5. Mai 1995*, edited by S. Deger-Jalkotzy, S. Hiller and O. Panagl, 419–435. Wien: Verlag der Österreichischen Akademie der Wissenschaften.
 
+**Olivier 2024**
+Olivier, Jean-Pierre. 2024. "Syllabic Scripts in the Aegean and Cyprus in the Second and First Millennia." In J. T. Killen (ed.), *The New Documents in Mycenaean Greek*, vol. 1, Cambridge University Press, Cambridge, pp. 49–94. https://doi.org/10.1017/9781139029049.
+
+**Olivier and Godart 1996** (cited as CHIC)
+Olivier, Jean-Pierre, and Louis Godart. 1996. *Corpus Hieroglyphicarum Inscriptionum Cretae (CHIC)*. Études Crétoises 31. École française d'Athènes / de Boccard.
+
 **Olyan 1988**
 Olyan, Saul M. 1988. *Asherah and the Cult of Yahweh in Israel*. Society of Biblical Literature Monograph Series 34. Scholars Press, Atlanta.
 
@@ -715,6 +739,9 @@ Palaeolexicon. 2016. "Pre-Pre-Greek: Traces of a hunter-gatherer substrate in Gr
 
 **Palaima 1988**
 Palaima, Thomas G. 1988. "The Development of the Mycenaean Writing System." In J.-P. Olivier & T. G. Palaima (eds.), Texts, Tablets and Scribes: Studies in Mycenaean Epigraphy and Economy Offered to Emmett L. Bennett, Jr., Suplementos a Minos 10, Universidad de Salamanca, pp. 269ff.
+
+**Palaima 2020**
+Palaima, Thomas G. 2020. "Problems in Minoan and Mycenaean Writing Style and Practice: The Strange Case of *33 ra3 on Pylos Tablet Aa 61." In B. Davis and R. Laffineur (eds.), *Neôteros: Studies in Bronze Age Aegean Art and Archaeology in Honor of Professor John G. Younger*, Aegaeum 44, Peeters, Leuven–Liège, pp. 3–14, pls. I–VII.
 
 **Pardee 2000**
 Pardee, Dennis. 2000. *Les textes rituels*. Ras Shamra-Ougarit XII, 2 fascicules. Éditions Recherche sur les Civilisations, Paris.
@@ -740,8 +767,17 @@ Peruzzi, Emilio. 1957. "L'iscrizione HT 13." *Minos* 5: 35–40. https://revista
 **Peruzzi 1958**
 Peruzzi, Emilio. 1958. "Note minoiche." *Minos* 6: 9–15. https://revistas.usal.es/dos/index.php/0544-3733/article/view/2741.
 
+**Petrakis and Salgarella 2026**
+Petrakis, Vassilis, and Ester Salgarella. 2026. "Getting to know Linear A: A historiographic introduction." In E. Salgarella & V. Petrakis (eds.), The Wor(l)ds of Linear A, AURA Supplement 15, Department of History and Archaeology, NKUA, Athens, pp. 27–34.
+
+**Petrakis and Steele 2026**
+Petrakis, Vassilis, and Philippa M. Steele. 2026. "The Wor(l)ds of Linear A: Concluding thoughts." In E. Salgarella & V. Petrakis (eds.), The Wor(l)ds of Linear A, AURA Supplement 15, Department of History and Archaeology, NKUA, Athens, pp. 167–176.
+
 **Peust 1999**
 Peust, Carsten. 1999. *Egyptian Phonology: An Introduction to the Phonology of a Dead Language*. Monographien zur ägyptischen Sprache 2. Peust & Gutschmidt, Göttingen. https://doi.org/10.11588/propylaeumdok.00001265.
+
+**Pierini 2022**
+Pierini, Rachele. 2022. "Textiles and iconography in the Bronze Age Aegean scripts: TELA logogram and the ligatured endogram TE." In S. Harris, C. Brøns and M. Zuchowska (eds.), *Textiles in Ancient Mediterranean Iconography*. Oxbow Books, pp. 41–50.
 
 **Piersimoni 1995**
 Piersimoni, Palmira. 1995. *The Palmyrene Prosopography*. 2 vols. Doctoral thesis, University College London (University of London). https://discovery.ucl.ac.uk/id/eprint/1349788/.
@@ -830,6 +866,9 @@ Salgarella, Ester. 2020. *Aegean Linear Script(s): Rethinking the Relationship B
 **Salgarella 2022**
 Salgarella, Ester. 2022. "Mix and Match: A Combinatory (Re-)Classification of Linear A Signs." *Talanta* 54: 31–52. https://doi.org/10.17863/cam.75845.
 
+**Salgarella 2023**
+Salgarella, Ester. 2023. "Reconstructing a Prehistoric Writing System." In *The Cambridge Handbook of Historical Orthography*, edited by Marco Condorelli and Hanna Rutkowska, 395–418. Cambridge University Press.
+
 **Salgarella et al. 2025**
 Salgarella, Ester, Laura Bellinato, and Silvia Ferrara. 2025. "On Aegean spices: decipherment prospects on Linear A and B spice-related signs." *Kadmos* 64/1–2: 29–44. https://doi.org/10.1515/kadmos-2025-0002.
 
@@ -856,6 +895,9 @@ Schneider, Thomas. 1992. *Asiatische Personennamen in ägyptischen Quellen des N
 
 **Schoep 2002**
 Schoep, Ilse. 2002. *The Administration of Neopalatial Crete: A Critical Assessment of the Linear A Tablets and Their Role in the Administrative Process*. Ediciones Universidad de Salamanca (Minos Suplemento 17).
+
+**Schoep 2026**
+Schoep, Ilse. 2026. "The Impact of the Chronological Framework on the Study of Minoan and Mycenaean Writing and Sealing Practices." In E. Salgarella & V. Petrakis (eds.), The Wor(l)ds of Linear A, AURA Supplement 15, Department of History and Archaeology, NKUA, Athens, pp. 137–150.
 
 **Schoep and Driessen 2003**
 Schoep, Ilse, and Jan Driessen. 2003. "An Inscribed Handle from Palaikastro (PK Zb 25)." *Minos* 37–38 (2002–2003): 77–80. https://revistas.usal.es/dos/index.php/0544-3733/article/view/16446.
@@ -893,6 +935,9 @@ Soldani, Francesco. 2013. *Interconnessione grafica tra i vari sillabari egei e 
 **Steele 2024**
 Steele, Philippa M. 2024. *Exploring Writing Systems and Practices in the Bronze Age Aegean*. Oxbow Books. ISBN 978-1-78925-901-8 (hb), 978-1-78925-902-5 (digital). Online work CC BY 3.0.
 
+**Steele and Meissner 2017**
+Steele, Philippa M., and Torsten Meissner. 2017. "From Linear B to Linear A: The Problem of the Backward Projection of Sound Values." In *Understanding Relations Between Scripts: The Aegean Writing Systems*, edited by Philippa M. Steele, 93–110. Oxford: Oxbow Books. https://doi.org/10.17863/CAM.11325.
+
 **Steiner 1992**
 Steiner, Richard C. 1992. "Northwest Semitic Incantations in an Egyptian Medical Papyrus of the Fourteenth Century B.C.E." *Journal of Near Eastern Studies* 51.3: 191–200.
 
@@ -901,6 +946,9 @@ Steiner, Richard C. 1998. "Bittĕ-Yâ, daughter of Pharaoh (1 Chr 4,18), and Bin
 
 **Stieglitz 1971**
 Stieglitz, Robert R. 1971. "Minoan Vessel Names." *Kadmos* 10: 110–112.
+
+**Stieglitz 1994**
+Stieglitz, Robert R. 1994. "The Minoan Origin of Tyrian Purple." *The Biblical Archaeologist* 57(1): 46–54.
 
 **Streck 2000**
 Streck, Michael P. 2000. *Das amurritische Onomastikon der altbabylonischen Zeit, Band 1: Die Amurriter. Die onomastische Forschung. Orthographie und Phonologie. Nominalmorphologie*. Alter Orient und Altes Testament 271/1. Ugarit-Verlag, Münster.
@@ -941,23 +989,26 @@ Tomback, Richard S. 1978. *A Comparative Semitic Lexicon of the Phoenician and P
 **Topçuoğlu 2016**
 Topçuoğlu, Oya. 2016. *Emblems of Power: Ideology and Identity in Late Old Assyrian Glyptic*. PhD dissertation, University of Chicago. https://doi.org/10.6082/d9v3n-6ed75.
 
+**Tour 2026**
+Tour, Emily. 2026. "Coded in clay: Understanding the relationships between the Linear A, Cretan Hieroglyphic and Linear B administrative systems through the application of phylogenetics." In E. Salgarella & V. Petrakis (eds.), The Wor(l)ds of Linear A, AURA Supplement 15, Department of History and Archaeology, NKUA, Athens, pp. 151–166.
+
 **Trémouille 2014**
 Trémouille, Marie-Claude. 2014. *Répertoire onomastique*. Hethitologie Portal Mainz, prepared by G. G. W. Müller. https://wres-hatti.adwudlit.uni-mainz.de/hetonom/reponomast.php.
-
-**Tropper & Vita 2019**
-Tropper, Josef, and Juan-Pablo Vita. 2019. "Ugaritic." In John Huehnergard and Na'ama Pat-El (eds.), The Semitic Languages, 2nd ed. Routledge, Abingdon/New York: 482–508 (ch. 19). https://doi.org/10.4324/9780429025563-19.
 
 **Tropper 2000** (cited as Tropper UG)
 Tropper, Josef. 2000. *Ugaritische Grammatik*. Alter Orient und Altes Testament 273. Münster: Ugarit-Verlag.
 
+**Tropper & Vita 2019**
+Tropper, Josef, and Juan-Pablo Vita. 2019. "Ugaritic." In John Huehnergard and Na'ama Pat-El (eds.), The Semitic Languages, 2nd ed. Routledge, Abingdon/New York: 482–508 (ch. 19). https://doi.org/10.4324/9780429025563-19.
+
 **Tsipopoulou & Hallager 1996**
 Tsipopoulou, Metaxia, and Erik Hallager. 1996. "Inscriptions with Hieroglyphs and Linear A from Petras, Siteia." *Studi Micenei ed Egeo-Anatolici* 37.
 
-**Tzachili & Karnava 2016**
-Tzachili, I., and A. Karnava. 2016. "An inscribed lychnos base from Akrotiri, Thera." *Minos* 39: 27–40.
-
 **Tzachili 2003**
 Tzachili, Iris. 2003. "The Clay Cylinders from Akrotiri, Thera. A Non Literate Alternative Way of Accounting?" *Minos* 37–38 (2002–2003): 7–76. https://revistas.usal.es/dos/index.php/0544-3733/article/view/16445.
+
+**Tzachili & Karnava 2016**
+Tzachili, I., and A. Karnava. 2016. "An inscribed lychnos base from Akrotiri, Thera." *Minos* 39: 27–40.
 
 **Uchitel 2003**
 Uchitel, Alexander. 2003. "HT 94." *Minos* 37–38 (2002–2003): 81–88.
@@ -973,6 +1024,9 @@ Uchitel, Alexander. 2016. "Ships and shipment in Minoan Linear A." *Minos* 39: 9
 
 **Valério 2007**
 Valério, Miguel. 2007. ""Diktaian Master": A Minoan Predecessor of Diktaian Zeus in Linear A?" *Kadmos* 46: 3–14. https://doi.org/10.1515/kadmos.2007.002.
+
+**Valério 2017**
+Valério, Miguel. 2017. "Λαβύρινθος and Word-Initial Lambdacism in Anatolian Greek." *Journal of Language Relationship* 15.1–2: 51–59. https://doi.org/10.31826/jlr-2017-151-209.
 
 **van Gessel 1998**
 van Gessel, Ben H. L. 1998. *Onomasticon of the Hittite Pantheon, Parts One and Two*. Brill, Leiden (Handbook of Oriental Studies I/33).
@@ -1059,7 +1113,7 @@ Yakubovich, Ilya. 2015. *The Luwian Language*. Manuscript.
 Yon, Jean-Baptiste. 2012. *Inscriptions grecques et latines de la Syrie. Tome XVII, fascicule 1: Palmyre*. Bibliothèque archéologique et historique 195. Beyrouth: Presses de l'Ifpo.
 
 **Younger 2023**
-Younger, John G. 2023. *Linear A Texts and Inscriptions in Phonetic Transcription and Commentary*. University of Kansas (people.ku.edu/~jyounger/LinearA/).
+Younger, John G. 2023. *Linear A Texts and Inscriptions in Phonetic Transcription and Commentary*. University of Kansas (people.ku.edu/~jyounger/LinearA/, offline since early 2024; the files are at kansas.academia.edu/JYounger: E. Salgarella & V. Petrakis (eds.), The Wor(l)ds of Linear A, AURA Supplement 15, p. 17).
 
 **Ziegler 1999** (cited as FM IV)
 Ziegler, Nele. 1999. *Florilegium marianum IV: Le Harem de Zimrî-Lîm*. Mémoires de N.A.B.U. 5. SEPOA, Paris.
@@ -1074,27 +1128,48 @@ These works are not held. The data cites each through another work, named after 
 - **Arkhipov–Kogan 2025**: Arkhipov, Illya & Kogan, Leonid (2025) “More on the Lexicon and Grammar in the Ebla Chancery Texts”, AoF 52: 1–20. Cited through Kogan 2025.
 - **Avanzini 2004**: Avanzini 2004 – A. Avanzini. Corpus of South Arabian Inscriptions. I‒III. Qatabanic, Marginal Qatabanic, Awsanite Inscriptions. Pisa. Cited through SEDonline.
 - **Bassano 1918**: [Bass.]—F. da Bassano. *Vocabolario tigray-italiano e repertorio italiano-tigray*. Roma, 1918. (SED I, abbreviations). Cited through SEDonline.
+- **Bennett 1958b**: Bennett, E.L. Jr. 1958. “Some Minoan Texts in the Iraklion Museum.” In Minoica; Festschrift zum 80. Geburtstag von Johannes Sundwall, edited by E. Grumach, 35–49. Berlin: Akademie-Verlag. Cited through Schoep 2026.
 - **Bittner 1911**: Bittner, Maximilian 1911 Studien zur Laut- und Formenlehre der Mehri-Sprache in Südarabien. 2. Zum Verbum. = SbWien 168,2. Wien: Hölder. Cited through EDA I.
 - **Blau 1971b**: Blau 1971b – J. Blau. Marginalia Semitica I. IOS 1:1‒35. Cited through SEDonline.
+- **Bosanquet 1903**: Bosanquet, R.C. 1903. “Excavations at Palaikastro II.” BSA 9: 274–387. Cited through Schoep 2026.
+- **Bosanquet and Dawkins 1923**: Bosanquet, R.C., and R.M. Dawkins. 1923. The Unpublished Objects from the Palaikastro Excavations 1902-1906, Part I. BSA Supplementary Paper 1. London: McMillan. Cited through Schoep 2026 and Tour 2026.
+- **Boulotis 1998**: Boulotis, C. 1998. “Les Nouveaux Documents en Linéaire A d’Akrotiri (Théra): Remarques Préliminaires.” BCH 122: 407–11. Cited through Nosch and Weilhartner 2026.
+- **Brice 1961**: Brice, W.C. 1961. Inscriptions in the Minoan Linear Script of Class A, Edited from the Notes of Sir Arthur Evans and Sir John Myres. Oxford: Society of Antiquaries. Cited through Schoep 2026 and Tour 2026.
+- **Brice 1965**: W. C. BRICE, The Minoan 'Libation Formula', *Bulletin of the John Rylands Library* 48.1 (1965), p. 67. Cited through Ferrara, Montecchi and Valério 2022.
+- **Brice 1991**: W. C. BRICE, Notes on Linear A, *Kadmos* 30 (1991), pp. 46-48. Cited through Ferrara, Montecchi and Valério 2022.
 - **Bulakh 2022**: M. Bulakh. “Parasite h” in Soqotri revisited. Journal Asiatique 310, 2, 2022, p. 189–210. Cited through SEDonline.
 - **Bulakh 2024**: Bulakh, Maria. The T-Stems in Soqotri. A Contribution to Semitic Detransitivising Derivation. Brill: Leiden - Boston, 2024. Cited through SEDonline.
 - **Bulakh et al. 2020**: Bulakh, Maria - Leonid Kogan - Ahmed Issa - Issa Gumaan - Maysoon Mohammed, The causative stem in Soqotri. The analysis // Brill’s Journal of Afroasiatic Languages and Linguistics 12, 2020, 260-285. Cited through SEDonline.
 - **Bulakh et al. 2021**: M. Bulakh, L. Kogan, Ahmed Issa ad-Daˁrhi, Issa Gumˁan ad-Daˁrhi, Maysun Mohammed ad-Daˁrhi. The causative stem in Soqotri. The data. Brill’s Journal of Afroasiatic Languages and Linguistics 13, 2021, 239–287. Cited through SEDonline.
 - **Bulakh–Kogan 2013b**: Bulakh–Kogan 2013b – M. Bulakh, L. Kogan. Эфиосемитские языки. Языки мира. Семитские языки. II. Эфиосемитские языки. Moscow. Pp. 13‒141. Cited through SEDonline.
+- **Burke 2010**: Burke, B. 2010. From Minos to Midas: Ancient Cloth Production in the Aegean and in Anatolia. Ancient Textiles Series 7. Oxford – Oakville: Oxbow. Cited through Nosch and Weilhartner 2026.
+- **Chapouthier 1948**: Chapouthier, F. 1948. “Inscription Minoenne sur une Pastille d’Argile.” Revue Archéologique 29–30: 166‒69. Cited through Anastasiadou 2026.
 - **Conti 1990**: Conti 1990 – G. Conti. Il sillabario della quarta fonte della lista lessicale bilingue eblaita. Firenze. Cited through SEDonline.
+- **Corsten 2010**: Corsten, T. (ed.) 2010. *Lexicon of Greek Personal Names, vol. 5a: Coastal Asia Minor: Pontos to Ionia* (Oxford: Oxford University Press). Cited through Davis 2026b.
 - **Dahood 1965**: Stieglitz 1971, 110 n. 2: M. Dahood, Ugaritic-Hebrew Philology, Rome 1965. Cited through Stieglitz 1971.
+- **Davis 1964**: S. DAVIS, Cretan Hieroglyphs: The End of a Quest?, *Greece and Rome* 11 (1964), p. 108. Cited through Ferrara, Montecchi and Valério 2022.
 - **Davis 1967**: S. Davis, *The Decipherment of the Minoan Linear A and Pictographic Scripts*, pp. 254–57. Cited through Finkelberg 2002.
+- **Davis 2014**: Davis, B. 2014. *Minoan Stone Vessels with Linear A Inscriptions* [Aegaeum 36] (Leuven/Liège: Peeters). Cited through Salgarella 2023; the reference as Davis 2026b gives it.
+- **Del Freo 2023**: Del Freo, M. 2023. “Linear A and Linear B Syllabograms: Formal Similarities and Possible Homophonies”. In The Legacy of Michael Ventris: Progress and Perspectives in the Field of Aegean Scripts and Mycenaean Studies, edited by F. Aura Jorro, M. Del Freo and J. Piquero, 65–87. Incunabula Graeca 108. Roma: CNR Edizioni. Cited through Petrakis and Salgarella 2026.
+- **Del Freo et al. 2010**: Del Freo, M., M.-L. Nosch, and F. Rougemont. 2010. “The Terminology of Textiles in the Linear B Tablets, Including Some Considerations on Linear A Logograms and Abbreviations.” In Textile Terminologies in the Ancient Near East and Mediterranean from the Third to the First Millennia BC, edited by C. Michel and M.-L. Nosch, 338–73. Ancient Textiles Series 8. Oxford – Oakville: Oxbow. Cited through Nosch and Weilhartner 2026.
+- **Docs²**: M. Ventris – J. Chadwick, Documents in Mycenaean Greek, Cambridge, Univ. Press, 1956, 1973² (DMic's "Docs., Docs.²"; the second edition of Ventris and Chadwick 1956). Cited through DMic I, Davis 2026b and Ferrara, Montecchi and Valério 2022.
 - **Driessen 1991**: Younger gives the key only; Del Freo & Zurbach 2011, bibliography: J. Driessen, dans J. A. MacGillivray et al., « Excavations at Palaikastro, 1990 », ABSA 86, p. 121-148. Cited through Younger, Linear A Texts.
 - **Fronzaroli 1968**: Fronzaroli 1968 – P. Fronzaroli. Studi sul lessico comune semitico. V. ANLR VIII/XXIII/7‒ 12:267‒303. Cited through SEDonline.
 - **Fronzaroli 1984**: Fronzaroli 1984 – P. Fronzaroli. Materiali per il lessico eblaita. 1. StEb. 7:145‒190. Cited through SEDonline.
 - **Gasparini - Morris 2025**: Gasparini, Fabio - Miranda Morris. A descriptive grammar of Bəṭaḥrēt (Baṭḥari), Harrassowitz: Wiesbaden, 2025. Cited through SEDonline.
+- **Godart 1999**: L. GODART, L’écriture d’Archanès: hiéroglyphique ou linéaire A?, in Ph. P. Betancourt, V. Karageorghis, R. Laffineur, W. D. Niemeier (eds), *Meletemata. Studies in Aegean Archaeology Presented to Malcolm H. Wiener*, Liège, 1999, vol. 1, p. 300. Cited through Ferrara, Montecchi and Valério 2022.
 - **Gordon 1957**: GORDON, C. H. 1957 «Notes on Minoan Linear A», Antiquity 31, pp. 124-130. Cited through Duhoux 2002.
 - **Gordon 1969**: GORDON, C. H. 1969 «Ki-de-ma-wi-na (HT 31:4)», Kadmos 8, pp. 131-133. Cited through Duhoux 2002.
 - **Gordon 1976**: GORDON, C. H. 1976 «Further Notes on the Hagia Triada Tablet n° 31», Kadmos 15, pp. 28-30. Cited through Duhoux 2002.
 - **Greenfield 1958**: Greenfield 1958 – J. Greenfield. Lexicographic Notes. I. HUCA 29:203‒228. Cited through SEDonline.
-- **Hillers and Cussini 1996** (cited as PAT): Hillers, Delbert R.; Cussini, Eleonora (1996). Palmyrene Aramaic Texts. Baltimore; London: The Johns Hopkins University Press. Publications of the Comprehensive Aramaic Lexicon Project III. Cited through Marcato 2018.
 - **Häberl et al. 2020**: key only. Cited through SEDonline.
+- **Hallager 1980**: Hallager E., 1980, ‘A new Linear A inscription from Khania’, *Kadmos* 19, pp. 9–11. Cited through Salgarella 2020.
+- **Hallager 2002**: E. HALLAGER, “One Linear A Tablet and 45 noduli,” Creta Antica 3 (2002) 105-107. Cited through Del Freo 2020.
+- **Hallager and Vlasakis 1984**: Hallager, E. and Vlasakis, M. 1984. Two New Roundels with Linear A from Khania. *Kadmos* 23: 1–10. Cited through Davis 2026b.
+- **Hallager et al. 1991**: Hallager, E.; Vlasakis, M.; and Markoulakis, S. 1991. New and Hitherto Unpublished Linear A Documents from Kasteli, Khania. *Kadmos* 30: 34–41. Cited through Davis 2026b.
 - **Hetzron 1977b**: Hetzron 1977b – R. Hetzron. Innovations in the Semitic Numeral System. JSS 22:167‒201. Cited through SEDonline.
+- **Hillers and Cussini 1996** (cited as PAT): Hillers, Delbert R.; Cussini, Eleonora (1996). Palmyrene Aramaic Texts. Baltimore; London: The Johns Hopkins University Press. Publications of the Comprehensive Aramaic Lexicon Project III. Cited through Marcato 2018.
+- **Hitchman 2006**: Hitchman, R. 2006. Some Personal Names from Western Crete, in D. Kölligan and R. Sen (eds.) *Oxford University Working Papers in Linguistics, Philology & Phonetics*, vol. 11 (Oxford: Oxford University Press): 77–88. Cited through Davis 2026b.
 - **Huehnergard 1987**: Huehnergard, J. 1987: Ugaritic Vocabulary in Syllabic Transcription (HSS 32). Atlanta. Cited through Watson 2020.
 - **Huehnergard 1991**: Huehnergard 1991a – J. Huehnergard. Further South Semitic Cognates to the Akkadian Lexicon. Semitic Studies in Honor of Wolf Leslau. Wiesbaden. Pp. 690‒713. Cited through SEDonline.
 - **Huehnergard 2003**: Huehnergard 2003 – J. Huehnergard. Akkadian ḫ and West Semitic *ḥ. Studia Semitica (FS A. Militarev). Moscow. Pp. 102‒119. Cited through SEDonline.
@@ -1104,6 +1179,8 @@ These works are not held. The data cites each through another work, named after 
 - **Johnstone 1975**: Johnstone 1975 – T. M. Johnstone. The Modern South Arabican Languages. Afroasiatic Linguitics 1/5:93‒121. Cited through SEDonline.
 - **Johnstone 1981**: Johnstone 1981 T. M. Johnstone, Jibbali Lexicon. Cited through Sabaweb.
 - **Johnstone 1987**: Johnstone 1987 T. M. Johnstone, Mehri Lexicon and English-Mehri Word-List. Cited through Sabaweb.
+- **Karnava 2005**: Karnava, A. 2005. “The Tel Haror Inscription and Crete: A Further Link.” In EMPORIA: Aegeans in the Central and Eastern Mediterranean. Proceedings of the 10th International Aegean Conference, Athens, Italian School of Archaeology, 14–18 April 2004, edited by R. Laffineur and E. Greco, 838–41. Aegaeum 25. Liège – Austin: Université de Liège and the University of Texas at Austin, Program in Aegean Scripts and Prehistory. Cited through Nosch and Weilhartner 2026.
+- **Karnava 2019**: Karnava, A. 2019. “The Inscribed Loomweight.” In Akrotiri, Thera: The Middle Bronze Age. Pottery and Stratigraphy, Volume 1, edited by I. Nikolakopoulou, 501–4. Athens: The Athens Archaeological Society. Cited through Donnelly 2026.
 - **Killen 1969**: Killen 1969 = KILLEN, J.T., «The Minoan Documents», BICS 16, 1969, pp. 162-165. Cited through Schoep 2002.
 - **Kogan 2001**: Kogan 2001 – L. Kogan. *γ in Akkadian. UF 33:263‒298. Cited through SEDonline.
 - **Kogan 2005c**: Kogan 2005c – L. Kogan. *γ in Ethiopian. Studia Semitica et Semitohamitica. Festschrift für Rainer Voigt. Münster. Pp. 183‒216. Cited through SEDonline.
@@ -1112,6 +1189,7 @@ These works are not held. The data cites each through another work, named after 
 - **Kogan 2009**: Kogan 2009 – L. Kogan. Семитские языки. Языки мира. Семитские языки. Аккадский язык. Северозападносемитские языки. Moscow. Pp. 15‒112. Cited through SEDonline.
 - **Kogan 2012**: Kogan 2012a – L. Kogan. Les noms de plantes akkadiens dans leur contexte sémitique. Language and Nature. Papers Presented to John Huehnergard on the Occasion of His 60th Birthday. Chicago. Pp. 229‒267. Cited through SEDonline.
 - **Kogan–Krebernik 2021a**: Kogan–Krebernik 2021a – L. Kogan, M. Krebernik. A History of Akkadian Lexicon. History of the Akkadian Language. Volume 1. Leiden/Boston. Pp. 366–476. Cited through SEDonline.
+- **Landau 1958**: O. Landau, Mykenisch-griechische Personennamen, Gotemburgo, Almquist & Wiksells, 1958 (DMic's “Landau, Namen”). Cited through DMic.
 - **Landberg 1901**: LaH ______. Études sur les dialectes de l'Arabie méridionale. Vol I: Ḥaḍramōṭ. Leyden: Brill, 1901. Cited through Biella 1982.
 - **Lejeune and Godart 1995**: M. Lejeune and L. Godart, “Le syllabogramme *56 dans le linéaire B thébain”, Rivista di filologia e di istruzione classica 123, 1995, pp. 272-277. Cited through Uchitel 2016a.
 - **Leslau 1944**: Leslau 1944—Leslau, Wolf. “Vocabulary Common to Akkadian and South-East Semitic (Ethiopic and South-Arabic).” *Journal of the American Oriental Society* 64 (1944): 53–58. (Vita 2021, bibliography). Cited through SEDonline.
@@ -1120,8 +1198,15 @@ These works are not held. The data cites each through another work, named after 
 - **Leslau 1997**: Leslau 1997 – W. Leslau. Ethiopic Documents: Argobba. Grammar and Dictionary. Wiesbaden. Cited through SEDonline.
 - **Lonnet 2005**: Lonnet 2005 – A. Lonnet. Emprunts intra-sémitiques: l’exemple des emprunts arabes en sudarabique moderne. AuOr 23:199‒206. Cited through SEDonline.
 - **Marrassini 1971**: Marrassini 1971 – P. Marrassini. Formazione del lessico dell’edilizia militare nel semitico di Siria. Firenze. Cited through SEDonline.
-- **Melena 1987**: MELENA J. L. 1987 «On Untransliterated Syllabograms *56 and *22», dans ILIEVSKI, P. H. — CREPAJAC, L. (éd.), Tractata Mycenaea, Skopje, pp. 203-232. Cited through Duhoux 2002.
+- **Meissner 2019**: Meissner, Torsten 2019. 'Griechisch σίλλος Mastschwein', *Glotta* 95: 190–200. Cited through Salgarella 2023, Salgarella 2020.
+- **Meissner and Steele 2017**: Meissner, Torsten and Steele, Philippa M. 2017. 'Linear A and Linear B: structural and contextual concerns', in Marie-Louise Nosch and Hedvig Landenius Enegren (eds.), *Aegean Scripts. Proceedings of the 14th International Colloquium on Mycenaean Studies, Copenhagen, 2–5 September 2015*, vol. 1. Rome: Edizioni dell'Ateneo, pp. 99–114. Cited through Salgarella 2023.
+- **Melena 1978**: Melena, José L. 1978. 'En torno a la identificación del silabograma *79 del silabario micénico', in *Actas del V Congreso Español de Estudios Clásicos*, pp. 751–57. Cited through Salgarella 2023.
+- **Melena 1983**: Melena, José L. 1983. 'Notas de philologia micénica, III: El silabograma *86', *Emerita* 51: 255–67. Cited through Salgarella 2023.
+- **Melena 1987**: MELENA J. L. 1987 «On Untransliterated Syllabograms *56 and *22», dans ILIEVSKI, P. H. — CREPAJAC, L. (éd.), Tractata Mycenaea, Skopje, pp. 203-232. Cited through Duhoux 2002, Davis 2026b and Salgarella 2023.
+- **Melena 2014b**: Melena, José L. 2014b. 'Filling gaps in the Mycenaean Linear B additional syllabary: the case of syllabogram *34', in A. Martínez Fernández, B. Ortega Villaro, H. Velasco López, H. Zamora Salamanca (eds.), *AGALMA Homenaje a Manuel García Teijeiro*. Valladolid: Editorial Universidad de Valladolid, pp. 207–26. Cited through Salgarella 2023.
+- **Michailidou 1992–1993**: Michailidou, A. 1992–1993. “‘Ostrakon’ with Linear A Script from Akrotiri (Thera). A Non-bureaucratic Activity?” Minos 27–28: 7–24. Cited through Nosch and Weilhartner 2026.
 - **Militello 1989**: Militello, P. 1989, Gli scribi di Haghia Triada. Alcune osservazioni, PP 44, pp. 126–147. Cited through Montecchi 2010.
+- **Militello 1992**: Militello, P. 1992. “Aspetti del Funzionamento del Sistema Amministrativo ad Haghia Triada.” In Mykenaïka. Actes du IXe Colloque International sur les Textes Mycéniens et Égéens, Organisé par le Centre de l’Antiquité Grecque et Romaine de la Fondation Hellénique des Recherches Scientifiques et l’École Française d’Athènes, edited by J.-P. Olivier, 411–4. BCH Supplément 25. Paris: École Française d’Athènes. Cited through Nosch and Weilhartner 2026.
 - **Morris 2012**: Morris 2012 – M. Morris. Review of Rubin 2010. JAOS 132–486. Cited through SEDonline.
 - **Morris 2021**: Morris, Miranda (2021) The Oral Art of Soqotra. A Collection of Island Voices. Leiden. Cited through Kogan 2025.
 - **Müller 1905**: Müller, David H. 1905 Die Mehri- und Soqoṭri-Sprache. 2. Soqoṭri-Texte. = Südarabische Expedition 6. Wien: Hölder. Cited through EDA I.
@@ -1139,28 +1224,50 @@ These works are not held. The data cites each through another work, named after 
 - **Naumkin et al. 2019b**: V. Naumkin, M. Bulakh, D. Cherkashin, L. Kogan, Aḥmad ˁĪsā ad-Daˁrhī, ˁĪsā Gumˁān ad-Daˁrhī, Maysūn Muḥammad ad-Daˁrhī. Studies in the Verbal Morphology of Soqotri III/2: a List of Sound and Weak Verbs Belonging to Second Stem in Soqotri. Zeitschrift für Arabische Linguistik 70, 2019, 73–91. Cited through SEDonline.
 - **Naumkin et al. 2022**: V. Naumkin, L. Kogan, Aḥmad ˁĪsā ad-Daˁrhī, ˁĪsā Gumˁān ad-Daˁrhī. Soqotri Lexical Archive: the 2013 Fieldwork Season. Zeitschrift der Deutschen Morgenländischen Gesellschaft 172, 2022, 253–282. Cited through SEDonline.
 - **Naumkin–Kogan 2021**: В.В. Наумкин, Л.Е. Коган. Сокотрийская народная поэзия: вечное возвращение. Антропология и этнология: современный взгляд / отв. Ред. А.В. Головнёв, Э.-Б.М. Гучинова. Москва, 2021, 522–534. Cited through SEDonline.
+- **Nosch 2007**: Nosch, M.-L. 2007. The Knossos Od Series. An Epigraphical Study. Mykenische Studien 20. Wien: Österreichische Akademie der Wissenschaften. Cited through Nosch and Weilhartner 2026.
+- **Owens 1990–1991**: Owens, G. 1990–1991. “Three Re-Discovered Linear A Inscriptions from Knossos.” Minos 25–26: 367–72. Cited through Donnelly 2026.
+- **Palaima 1981**: Palaima, T.G. 1981. “On the Painted Linear Sign from a Wall at Knossos.” Kadmos 20: 79–82. Cited through Donnelly 2026.
+- **Palaima 1994**: Th.G. PALAIMA, “Seal-Users and Script-Users/Nodules and Tablets at LMIB Hagia Triada,” in P. FERIOLI, E. FIANDRA, G.G. FISSORE and M. FRANGIPANE (eds), Archives Before Writing (1994) 317-318. Cited through Del Freo 2020.
+- **Palaima 2003b**: Palaima T. G., 2003b, ‘The inscribed bronze “kessel” from Shaft Grave IV and Cretan heirlooms of the bronze artist named “Aigeus” vel sim. in the Mycenaean Palatial Period’, in Duhoux Y., ed., *Briciaka: A Tribute to W. C. Brice, Cretan Studies* 9, pp. 187–201. Cited through Salgarella 2020.
+- **Palaima and Sikkenga 1999**: Palaima, Thomas G. and Sikkenga, Elizabeth 1999. 'Linear A > Linear B', in Philip P. Betancourt, Vassos Karageorghis, Robert Laffineur and Wolf-Dietrich Niemeier (eds.), *Meletemata: Studies in Aegean Archaeology Presented to Malcolm H. Wiener as He Enters His 65th Year*, vol. 2. Liège/Austin: Histoire de l'art et archéologie de la Grèce antique, Université de Liège/Program in Aegean Scripts and Prehistory, University of Texas at Austin, pp. 599–608. Cited through Salgarella 2023.
+- **Palmer 1992**: Palmer 1992 = PALMER, R., «Wheat and Barley in Mycenaean Society», in Mykenaika, pp. 475-497. Cited through Schoep 2002.
 - **Pardee 1988**: Pardee 1988 – D. Pardee. Les textes para-mythologiques de la 24e campagne (1961). Paris. Cited through SEDonline.
 - **Pardee 1997**: Pardee 1997 – D. Pardee. Miscellaneous Ugaritic texts translated and annotated in the section “West Semitic Canonical Compositions.” The Context of Scripture. I. Canonical Compositions from the Biblical World. Leiden/New York/Köln. Cited through SEDonline.
 - **Pasquali 1995**: Pasquali 1995—Pasquali, Jacopo. “*Hullum* a Ebla e Mari.” *Nouvelles Assyriologiques Brèves et Utilitaires* 1995: 52–53. (Vita 2021, bibliography). Cited through SEDonline.
+- **Perna 2016**: M. PERNA, La scrittura lineare A, in M. Del Freo, M. Perna (eds), Manuale di epigrafia micenea. Introduzione allo studio dei testi in lineare B, Padova, 2016, vol. 1, p. 88, tab. 1. Cited through Ferrara, Montecchi and Valério 2022.
+- **Perna 2019**: M. PERNA, A seal in the British Museum with a Cretan Hieroglyphic inscription (CR (?) S (1/1) 07), Kadmos 58 (2019), p. 52. Cited through Ferrara, Montecchi and Valério 2022.
+- **Petrakis 2017b**: Petrakis, V. 2017b. “Reconstructing the Matrix of the ‘Mycenaean’ Literate Administrations.” In URBS, 69–92 (URBS: Steele, P.M., ed. 2017. Understanding Relations Between Scripts: The Aegean Writing Systems, Oxford-Philadelphia: Oxbow). Cited through Schoep 2026.
 - **Pirenne 1990**: Pirenne 1990 – J. Pirenne. Fouilles de Shabwa. I. Les témoins écrits de la région de Shabwa et l’histoire. Paris. Cited through SEDonline.
+- **Platon and Brice 1975**: Platon N. and Brice W., 1975, ‘Ενεπίγραφοι πινακίδες και πίθοι γραμματικού συστήματος Α εκ Ζάκρου’ (Inscribed tablets and pithoi of the Linear A system from Zakros), *Βιβλιοθήκη της εν Αθήναις Αρχαιολογικής Εταιρείας* 85. Cited through Salgarella 2020.
 - **Rainey 1978**: Rainey 1978 – A. Rainey. El Amarna Tablets 359‒379. Neukirchen. Cited through SEDonline.
 - **Rainey 2015**: Rainey 2015—Rainey, Anson F. *The El-Amarna Correspondence*. Leiden-Boston: Brill, 2015. (Vita 2021, bibliography). Cited through SEDonline.
 - **Raison and Pope 1994**: RAISON, J. — POPE, M. 1994 (2nd ed.) Corpus transnuméré du linéaire A, Louvain-la-Neuve. Cited through Duhoux 2002.
 - **Renfroe 1992**: Renfroe 1992 – F. Renfroe. Arabic-Ugaritic Lexical Studies. Münster. Cited through SEDonline.
 - **Ryckmans 1975**: RycMus88 ______. "Himyaritica, V." Mus 88 (1975) 199-219. Cited through Biella 1982.
+- **Schoep 1995**: Schoep I., 1995, ‘Context and chronology of Linear A administrative documents’, *Aegean Archaeology* 2, pp. 29–65. Cited through Salgarella 2020.
+- **Schoep 1999**: Schoep, I. 1999. Tablets and Territories? Reconstructing Late Minoan IB Political Geography through Undeciphered Documents. *AJA* 103.2: 201–221. Cited through Davis 2026b.
+- **Schoep 2007**: Schoep, I. 2007. “The Inscribed Document.” In Knossos: Protopalatial Deposits in Early Magazine A and the South-West Houses, by C.F. Macdonald and C. Knappett, 131–4. BSA Supplementary Volume 41, London: The British School at Athens. Cited through Petrakis and Steele 2026.
+- **Sherratt 2000**: Sherratt, S. 2000. Catalogue of Cycladic Antiquities in the Ashmolean Museum: The Captive Spirit. Oxford: Oxford University Press. Cited through Donnelly 2026.
 - **Simeone-Senelle–Lonnet 1991**: M.-C. Simeone-Senelle, A. Lonnet. Lexique soqotri: les noms des parties du corps. Semitic Studies in Honor of Wolf Leslau. On the Occasion of His Eighty-fifth Birthday. Wiesbaden, 1991. Pp. 1143–1487. Cited through SEDonline.
 - **Stark 1971**: Stark, Jürgen K. (1971). Personal Names in Palmyrene Inscriptions. Oxford: Clarendon Press. Cited through Marcato 2018.
 - **Stein 2010**: Stein 2010 – P. Stein. Die altsüdarabischen Minuskelinschriften auf Holzstäbchen aus der Bayerischen Staatsbibliothek in München. Tübingen/Berlin. Cited through SEDonline.
 - **Stein 2012**: P. Stein, Lehrbuch der sabäischen Sprache. 2. Teil: Chrestomathie, Wiesbaden (Sabaweb bibliography). Cited through Sabaweb.
 - **Talon 1997**: Monti 2017 gives the key only (its bibliography lists Talon 1996 alone). Cited through Monti 2017.
 - **Tezel 2003**: Tezel 2003 – A. Tezel. Comparative Etymological Studies in the Western Neo-Syriac (Ṭūrōyo) Lexicon. Uppsala. Cited through SEDonline.
+- **Timm 2004**: Timm, T. 2004. Der Diskos von Phaistos: Anmerkungen zur Deutung und Textstruktur. *IGForsch* 109: 204–231. Cited through Davis 2026b.
+- **Tomas 2003**: Tomas H., 2003, *Understanding the Transition from Linear A to Linear B Script*, University of Oxford (unpublished PhD dissertation). Cited through Salgarella 2020.
 - **Tonietti 1997**: Tonietti 1997 – M. V. Tonietti. Il sistema preposizionale nei tre testi del rituale di ARET XI: analogie e divergenze. QuSem 19:73‒109. Cited through SEDonline.
 - **Tropper 1995b**: Tropper 1995b – J. Tropper. Akkadisch nuḫḫutu und die Repräsentation des Phonems /ḥ/ im Akkadischen. ZA 85:58‒66. Cited through SEDonline.
 - **Tropper 2001a**: Tropper 2001a – J. Tropper. Die Herausbildung des bestimmten Artikels im Semitischen. JSS 46:1‒31. Cited through SEDonline.
+- **Valério 2015**: Valério, M. 2015. Linear A *du-pu₂-re*, Hittite *tabarna* and Their Alleged Relatives Revisited. *Journal of Language Relationship* 13.4: 329–354. Cited through Davis 2026b.
 - **Vandenabeele 1974**: VANDENABEELE, FR. 1974 «Les idéogrammes de vases sur les tablettes en linéaire A de Haghia Triada et Phaistos», BCH 98, pp. 5-21. Cited through Duhoux 2002.
 - **Vycichl 1983**: ThotBank field VYCICHL__1983, p. 50; Kilani 2019, bibliography: Vycichl, W. 1984. Dictionnaire étymologique de la langue copte. Leuven: Peeters. Cited through Kilani 2020, ThotBank.
+- **Watrous et al. 2015**: Watrous, L.V., D. Matthew Buell, J.C. McEnroe, J.G. Younger, L.A. Turner, B.S. Kunkel, K. Glowacki, S. Gallimore, A. Smith, P.A. Pantou, A. Chapin, and E. Margaritis. 2015. “Excavations at Gournia, 2010–2012.” Hesperia 84: 397–465. Cited through Schoep 2026.
 - **Wetter 2010**: Wetter, A. 2010 Das Argobba. Eine deskriptive Grammatik der Varietät von Shonke und T’ollaha. Köln: Köppe. (HSK 36, 1212). Cited through SEDonline.
 - **Wilcke 1985**: Wilcke 1985 – C. Wilcke. Familiengründung im Alten Babylonien. Geschlechtsreife und Legitimation zur Zeugnung. Freiburg–München. Pp. 213‒317. Cited through SEDonline.
+- **Younger 2000–2020**: J. G. YOUNGER, Notes to Hieroglyphic Signs, online 2000-2021 (last access February 2021); http://people.ku.edu/~jyounger/Hiero/SignNotes.html. Cited through Ferrara, Montecchi and Valério 2022, whose Appendix 1 dates it 2000-2020.
+- **Younger 2024a**: Younger, J. G. 2024a. Linear A Texts in Phonetic Transcription: HT (Haghia Triada) [https://web.archive.org/web/20240109172638/http://people.ku.edu/~jyounger/LinearA/HTtexts.html]. Cited through Davis 2026b.
+- **Younger 2024b**: Younger, J. G. 2024b. Linear A Texts in Phonetic Transcription: Other Texts (not Haghia Triada) [https://web.archive.org/web/20240109172456/http://people.ku.edu/~jyounger/LinearA/misctexts.html]. Cited through Davis 2026b.
 - **Zeeb 2001**: Die Palastwirtschaft in Altsyrien nach den spätaltbabylonischen Getreidelieferlisten aus Alalah (Schicht VII). AOAT 282. Münster (bibliography of Niedorf 2008). Cited through Niedorf 2008.
 - **Zurro 1983**: Zurro 1983—Zurro, Eduardo. “Notas de lexicografía eblaïta: nombres de árboles y plantas.” *Aula Orientalis* 1 (1983): 263–69. (Vita 2021, bibliography). Cited through SEDonline.
 

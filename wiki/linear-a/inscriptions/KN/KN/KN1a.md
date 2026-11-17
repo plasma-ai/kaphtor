@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/KN/KN/KN1a
 title: "KN1a"
-desc: "Tablet, Knossos. Translation: complete (SPECULATIVE)."
+desc: "Tablet, Knossos, LMIA. Translation: complete (SPECULATIVE)."
 tags: ["linear-a", "inscription", "translation-complete", "tablet"]
 kind: "inscription"
 id: "KN1a"
 site: "Knossos"
 support: "Tablet"
-period: ""
+period: "LMIA"
 translation: "complete"
 words: ["E", "JA-KU-TI"]
 created: 2026-10-24T16:17:50Z
@@ -27,9 +27,9 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Site | Knossos |
-| Findspot |  |
+| Findspot | East Temple Repository, Knossos |
 | Support | Tablet |
-| Period |  |
+| Period | LMIA |
 | Scribe |  |
 | Edition | GORILA 1 |
 | Series | KN |

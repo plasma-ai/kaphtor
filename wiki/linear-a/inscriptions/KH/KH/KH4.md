@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/KH/KH/KH4
 title: "KH4"
-desc: "Tablet, Khania. Translation: none."
+desc: "Tablet, Khania, LMIB. Translation: none."
 tags: ["linear-a", "inscription", "translation-none", "tablet"]
 kind: "inscription"
 id: "KH4"
 site: "Khania"
 support: "Tablet"
-period: ""
+period: "LMIB"
 translation: "none"
 words: ["CYP"]
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Khania |
 | Findspot |  |
 | Support | Tablet |
-| Period |  |
+| Period | LMIB |
 | Scribe | [[wiki/linear-a/by_scribe\|KH Scribe 2]] |
 | Edition | GORILA 3 |
 | Series | KH |

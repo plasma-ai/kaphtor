@@ -1,12 +1,12 @@
 ---
 name: wiki/linear-a/words/N/NA
 title: "NA"
-desc: "Unread sign (syllabogram, unread); 6 occurrence(s)."
+desc: "Unread sign (syllabogram, unread); 5 occurrence(s)."
 tags: ["linear-a", "word", "unread"]
 kind: "word"
 form: "NA"
 datasets: ["unread_signs"]
-attestations: ["ARKH1b", "HT154c", "HT64", "KH36", "KNWc42", "PHWc40"]
+attestations: ["ARKH1b", "HT154c", "HT64", "KH36", "KNWc42"]
 created: 2026-11-12T00:26:03Z
 updated: 2026-11-12T00:26:03Z
 ---
@@ -30,7 +30,6 @@ updated: 2026-11-12T00:26:03Z
 | [[wiki/linear-a/inscriptions/HT/HT/HT64\|HT64]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/KH/KH/KH36\|KH36]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KN/KNWc/KNWc42\|KNWc42]] | Knossos | Roundel | none |
-| [[wiki/linear-a/inscriptions/PH/PHWc/PHWc40\|PHWc40]] | Phaistos | Roundel | complete |
 
 ## In translations
 

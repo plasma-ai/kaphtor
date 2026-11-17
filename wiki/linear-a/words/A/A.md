@@ -27,7 +27,7 @@ updated: 2026-11-12T00:26:03Z
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH1b\|ARKH1b]] | Arkhanes | Tablet | none |
 | [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH5\|ARKH5]] | Arkhanes | Tablet | incomplete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT37\|HT37]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT37\|HT37]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT57a\|HT57a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1147\|HTWa1147]] | Haghia Triada | Nodule | none |
 | [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1148\|HTWa1148]] | Haghia Triada | Nodule | none |

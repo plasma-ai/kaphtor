@@ -33,4 +33,6 @@ A ligature. Status **component read** (a combined sign with a component the lexi
 
 The lexicon reads [[wiki/linear-a/words/S/SUS|SUS]], [[wiki/linear-a/words/S/SI|SI]], [[wiki/linear-a/words/R/RE|RE]].
 
+The pig sign with SI set above it and RE beside it, on a livestock tablet, a sign GORILA does not number (Salgarella 2020, 147–48). It may answer Linear B SUS+SI, though the value of SI may have changed (Salgarella 2020, 148), Linear B's pig with si standing for 'fattened pig' (Salgarella 2023, 396, after Meissner 2019). Meissner weighs reading it si-au-re beside Mycenaean si-a₂-ro (PY Cn 608) (Meissner 2019, apud Salgarella 2020, 148 n. 70).
+
 <!-- END kaphtor:record -->

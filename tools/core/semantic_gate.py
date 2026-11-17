@@ -54,7 +54,7 @@ _POTTERY = frozenset({"pottery_vessel", "food_drink"})
 SUPPORT_DOMAINS: dict[str, frozenset[str] | None] = {
     "Stone vessel": _RITUAL, "Stone-vessel fragment": _RITUAL, "Stone object": _RITUAL, "Metal object": _RITUAL,
     "ivory object": _RITUAL, "Bronze bowl": _RITUAL, "Silver pin": _RITUAL, "Triton": _RITUAL,
-    "Stone ladle (HM 1545)": _RITUAL, "Terracotta statuette (HM 6585)": _RITUAL,
+    "Stone ladle (HM 1545)": _RITUAL, "Terracotta statuette (HM 6585)": _RITUAL, "Terracotta statuette": _RITUAL,
     "Lead weight (HM 83)": _RITUAL,
     "Fragment of a locally made limestone bowl or krater": _RITUAL,
     "Serpentine cylindrical jar; HM 2479 + HM 2480": _RITUAL,
@@ -66,7 +66,7 @@ SUPPORT_DOMAINS: dict[str, frozenset[str] | None] = {
     "Inked inscription": _POTTERY, "Clay chalice rim (two nonjoining fragments); painted inscription": _POTTERY,
     "Tablet": None, "Lames (short thin tablet)": None, "3-sided bar": None, "4-sided bar": None, "Roundel": None,
     "Nodule": None, "Sealing": None, "Architecture": None, "Graffito": None, "Grave stele fragment": None,
-    "Clay reel": None, "Clay larnax fragment": None, "Loom weight": None, "Label": None,
+    "Clay reel": None, "Clay larnax fragment": None, "Loom weight": None, "Label": None, "Ostracon": None,
     "Amygdaloid stone seal": None, "Clay spindle whorl": None, "Unspecified object": None, "": None,
 }
 

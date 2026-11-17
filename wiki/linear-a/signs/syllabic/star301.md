@@ -42,10 +42,11 @@ Evidence: \*301 fills the NA slot of A-TA-I-\*301-WA-JA at five peak sanctuaries
 - A-NA-TI-\*301-WA-JA (IOZa8)—ʿAnatī nawaya 'my Anat, my abode', \*301 in the NA of √n-w-y
 - A-TA-I-\*301-DE-KA (ZAZb3)—Zakros variant
 - \*301 consistently occupies the NA position in the libation formula word across all site-specific variants
+- PK Za 8 \]-NU · PA₃-E beside PK Za 11 A-TA-I-\*301-WA-E sets NU where \*301 stands: Davis suggests the syllable of \*301 might begin with n (2026b, 129)
 
 ### Note
 
-Allograph of NA (AB06). Second sign writing /na/. 272 corpus occurrences (236 standalone across 4 sites: 229 HT, 5 KH, 1 KN, 1 ZA; predominantly HT nodules). 24 written forms. Identified from peak sanctuary libation formula evidence: \*301 always fills the NA slot in A-TA-I-\*301-WA-JA and its variants.
+Allograph of NA (AB06). Second sign writing /na/. 272 corpus occurrences (236 standalone across 4 sites: 229 HT, 5 KH, 1 KN, 1 ZA; predominantly HT nodules). 24 written forms. Identified from peak sanctuary libation formula evidence: \*301 always fills the NA slot in A-TA-I-\*301-WA-JA and its variants. Cretan Hieroglyphic CH 046 is its likely forerunner (Docs², 33, fig. 6, apud Davis 2026b, 342 n. 824; Younger; Salgarella 2020, 341).
 
 ## Also in logograms
 
@@ -57,7 +58,7 @@ Allograph of NA (AB06). Second sign writing /na/. 272 corpus occurrences (236 st
 |---|---|---|
 | [[wiki/linear-a/words/star/star301\|\*301]] | nawā | PROBABLE |
 | [[wiki/linear-a/words/star/star301_U_RA\|\*301-U-RA]] | naura | CANDIDATE |
-| [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | ʾarān Ṣidna bikē bayta rēšī tarīmu ʾAyaku | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | ʾAren Ṣidna bikē bayta rēšī tarīmu ʾAyaku | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_TA_I_star301_DE_KA\|A-TA-I-\*301-DE-KA]] | ʾataʿinā dēka | CANDIDATE |
 | [[wiki/linear-a/words/A/A_TA_I_star301_WA_E\|A-TA-I-\*301-WA-E]] | ʾatainawē | CONFIRMED |
 | [[wiki/linear-a/words/A/A_TA_I_star301_WA_JA\|A-TA-I-\*301-WA-JA]] | ʾatainawaya | CONFIRMED |

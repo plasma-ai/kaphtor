@@ -3,7 +3,7 @@ name: wiki/names/semitic/roots
 title: "Semitic roots"
 desc: "The roots under the Semitic names, each with the names it carries."
 created: 2026-11-11T23:39:03Z
-updated: 2026-11-17T17:03:27Z
+updated: 2026-11-17T19:56:25Z
 ---
 
 # Semitic roots
@@ -27,6 +27,8 @@ updated: 2026-11-17T17:03:27Z
 [[wiki/names/semitic/roots/alef-m-t|alef-m-t]]: 1 name: A-MI-TA.
 
 [[wiki/names/semitic/roots/alef-r-dd|alef-r-dd]]: 1 name: A-RE-TU-MI.
+
+[[wiki/names/semitic/roots/alef-r-n|alef-r-n]]: 1 name: A-RE-NE.
 
 [[wiki/names/semitic/roots/alef-r-sh|alef-r-sh]]: 1 name: A-RE-SA-NA.
 
@@ -177,6 +179,8 @@ updated: 2026-11-17T17:03:27Z
 [[wiki/names/semitic/roots/k-n-ayin|k-n-ayin]]: 1 name: KA-NA-NI-TI.
 
 [[wiki/names/semitic/roots/k-p-r|k-p-r]]: 2 names: KA-PA, KA-PA-QE.
+
+[[wiki/names/semitic/roots/k-r|k-r]]: 1 name: KI-RU.
 
 [[wiki/names/semitic/roots/k-r-k|k-r-k]]: 1 name: KU-RU-KU.
 

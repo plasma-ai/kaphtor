@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Single-sign commodity logogram: PA writes the ba- of barr- 'wheat, threshed grain', Hebrew bār (Gen 41:35–49; HALOT 153). Standalone commodity (16×, 5 sites) in bulk quantities, 64 and 40 on ZA 12a/b, clustering with TI (figs). After GRA, PA is the measure parīsu (GRA+PA); \*304+PA 3×. On HT 8a PA takes KI-oil 3½ in a list of recipients, an abbreviation there. Rival: parīsu standing alone. One sign, no phonetic complement.
+Single-sign commodity logogram: PA writes the ba- of barr- 'wheat, threshed grain', Hebrew bār (Gen 41:35–49; HALOT 153). Standalone commodity (16×, 5 sites) in bulk quantities, 64 and 40 on ZA 12a/b, clustering with TI (figs). After GRA, PA is the measure parīsu (GRA+PA); \*304+PA 3×. On HT 8a PA takes KI-oil 3½ in a list of recipients, an abbreviation there. Rival: parīsu standing alone. One sign, no phonetic complement; PA-RA spells the word out over the grain entries of HT 128a.
 
 ### Cognates
 

@@ -70,12 +70,12 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/K/KI_RO\|KI-RO]] | kilʾu | owed / outstanding balance (deficit) | CONFIRMED | CONFIRMED (lexicon) |
 | [[wiki/linear-a/words/Z/ZU_SU\|ZU-SU]] | Zuzu | personal name; compare Ugaritic {m}zu-zu; rival an institutional name | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/D/DI_DI_ZA_KE\|DI-DI-ZA-KE]] | Dīdī-zakī | personal name, 'My beloved is pure' | SPECULATIVE | SPECULATIVE (lexicon) |
-| [[wiki/linear-a/words/K/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | devotee of Kubaba (personal name or title); rival Gupana | PROBABLE | PROBABLE (lexicon) |
+| [[wiki/linear-a/words/K/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | devotee of Kubaba (personal name or title) | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/A/A_RA_NA_RE\|A-RA-NA-RE]] | Aranare | personal name; Ugaritic ålnr (Hurrian), Linear B a-ra-na-ro | CANDIDATE | CANDIDATE (lexicon) |
 
 ### Notes
 
-Substantially intact LM IB administrative roster; no commodity logogram is present. KI-RO 197 is not a total: the four following quantities sum to 336. QE-RA₂-U /qelwu/ 'parched grain' heads the list, as it closes the HT95a/b grain set. ZU-SU compares with the Late Bronze Age Ugaritic personal name {m}zu-zu (RSO 7, 3, lower edge 3; ORACC P347841), though SU/ZU remains unexplained. DI-DI-ZA-KE has no secure external analysis. KU-PA₃-NU is Kubānu 'devotee of Kubaba', masculine of KU-PA₃-NA-TU Kubānatu (di Mino, Ya Diktu); the rival compares Ugaritic syllabic {m}gu-pa-na (RS 11.839 r.8; ORACC P503288), alphabetic Gupan, and Linear B ku-pa-nu-we-to. A-RA-NA-RE is the Hurrian name Ugaritic ålnr, which DULAT sets beside Linear B a-ra-na-ro (DULAT 57; KN As 1516.11); Gordon's Egyptian 'Great-is-the-name-of-Re' is the rival.
+Substantially intact LM IB administrative roster; no commodity logogram is present. KI-RO 197 is not a total: the four following quantities sum to 336. QE-RA₂-U /qelwu/ 'parched grain' heads the list, as it closes the HT95a/b grain set. ZU-SU compares with the Late Bronze Age Ugaritic personal name {m}zu-zu (RSO 7, 3, lower edge 3; ORACC P347841), though SU/ZU remains unexplained. DI-DI-ZA-KE has no secure external analysis. KU-PA₃-NU is Kubānu 'devotee of Kubaba', masculine of KU-PA₃-NA-TU Kubānatu (di Mino, Ya Diktu). A-RA-NA-RE is the Hurrian name Ugaritic ålnr, which DULAT sets beside Linear B a-ra-na-ro (DULAT 57; KN As 1516.11); Gordon's Egyptian 'Great-is-the-name-of-Re' is the rival.
 
 ### Source
 

@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/inscriptions/ARKH/ARKH/ARKH3a
 title: "ARKH3a"
-desc: "Tablet, Arkhanes. Translation: complete (CANDIDATE)."
+desc: "Tablet, Arkhanes, LMI. Translation: complete (CANDIDATE)."
 tags: ["linear-a", "inscription", "translation-complete", "tablet"]
 kind: "inscription"
 id: "ARKH3a"
 site: "Arkhanes"
 support: "Tablet"
-period: ""
+period: "LMI"
 translation: "complete"
-words: ["*131B", "*317", "GRA", "KI-NU", "OLIV"]
+words: ["*131B", "*312", "*317", "GRA", "KI-NU", "OLIV"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Arkhanes |
 | Findspot |  |
 | Support | Tablet |
-| Period |  |
+| Period | LMI |
 | Scribe | [[wiki/linear-a/by_scribe\|ARKH Scribe 1]] (?) |
 | Edition | GORILA 3 |
 | Series | ARKH |
@@ -74,7 +74,7 @@ Unicode (Linear A block):
 
 **CANDIDATE**, complete.
 
-> \[…\]-KA-NE—grain 1/6, olives 3 1/6, must 2, \[break\] 2, \*317 2. \[break\] Kīnu—grain 13, \[…\]TE 2, \*317 2, \*312 2, \[…\]KU 3.
+> \[…\]-KA-NE—grain 1/6, olives 3 1/6, must 2, \[break\] 2, \*317 2. \[break\] Kīnu—grain 13, \[…\]TE 2, \*317 2, lengths of cloth (\*312) 2, \[…\]KU 3.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/star/star317\|\*317]] |  | unresolved commodity logogram |  | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/K/KI_NU\|KI-NU]] | Kīnu | personal name ('the Just/True One') | CANDIDATE | CANDIDATE (lexicon) |
 | \]TE |  | broken before TE. Not readable. |  |  |
-| [[wiki/linear-a/words/star/star312\|\*312]] |  | unidentified logogram, 2 |  |  |
+| [[wiki/linear-a/words/star/star312\|\*312]] | bitt(u) | a length of cloth (the sign BI, short for bitt), 2 | CANDIDATE | CANDIDATE (lexicon) |
 | \]KU |  | broken before KU. Not readable. |  |  |
 
 ### Notes
@@ -100,7 +100,7 @@ Arkhanes tablet. Two-section ration/offering allocation matching ARKH3b pattern.
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/star/star131B|\*131B]], [[wiki/linear-a/words/star/star317|\*317]], [[wiki/linear-a/words/G/GRA|GRA]], [[wiki/linear-a/words/K/KI_NU|KI-NU]], [[wiki/linear-a/words/O/OLIV|OLIV]].
+[[wiki/linear-a/words/star/star131B|\*131B]], [[wiki/linear-a/words/star/star312|\*312]], [[wiki/linear-a/words/star/star317|\*317]], [[wiki/linear-a/words/G/GRA|GRA]], [[wiki/linear-a/words/K/KI_NU|KI-NU]], [[wiki/linear-a/words/O/OLIV|OLIV]].
 
 ## Edition differences
 

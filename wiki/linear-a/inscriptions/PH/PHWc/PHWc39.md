@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/PH/PHWc/PHWc39
 title: "PHWc39"
-desc: "Roundel, Phaistos, MMII. Translation: complete (SPECULATIVE)."
+desc: "Roundel, Phaistos, MMIIB. Translation: complete (SPECULATIVE)."
 tags: ["linear-a", "inscription", "translation-complete", "roundel"]
 kind: "inscription"
 id: "PHWc39"
 site: "Phaistos"
 support: "Roundel"
-period: "MMII"
+period: "MMIIB"
 translation: "complete"
 words: ["JA-DI", "RO"]
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Phaistos |
 | Findspot |  |
 | Support | Roundel |
-| Period | MMII |
+| Period | MMIIB |
 | Scribe |  |
 | Edition | GORILA 2 |
 | Series | PHWc |

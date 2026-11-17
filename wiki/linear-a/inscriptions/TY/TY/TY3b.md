@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/TY/TY/TY3b
 title: "TY3b"
-desc: "Tablet, Tylissos. Translation: complete (SPECULATIVE)."
+desc: "Tablet, Tylissos, LMIB. Translation: complete (SPECULATIVE)."
 tags: ["linear-a", "inscription", "translation-complete", "tablet"]
 kind: "inscription"
 id: "TY3b"
 site: "Tylissos"
 support: "Tablet"
-period: ""
+period: "LMIB"
 translation: "complete"
 words: ["KI-RI-SI", "OLE+KI", "OLE+MI", "OLE+NE", "PI-KU-ZU"]
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Tylissos |
 | Findspot |  |
 | Support | Tablet |
-| Period |  |
+| Period | LMIB |
 | Scribe |  |
 | Edition | unattributed |
 | Series | TY |

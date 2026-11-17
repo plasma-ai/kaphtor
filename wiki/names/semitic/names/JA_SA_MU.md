@@ -36,7 +36,7 @@ updated: 2026-11-11T23:39:03Z
 
 ## Note
 
-ZA 15a, a Zakros wine allocation list: JA-SA-MU 5, beside SI-PI-KI and SA-MI-DA-E. yaśmaʿū 'he hears', √š-m-ʿ, the bare verbal element of a sentence name, as Yišmāʿēl 'El hears' without the god; SA writes s and š alike, and the final ʿ is unwritten. Cuneiform writes the guttural (Ya-ás-ma-aḫ-{d}IM) and Linear A drops it: JA-SA-MU is the Linear A shape of the Yašmaʿ hypocoristicon, Ya-ás-ma-ḫu-u\[m\] (Huffmon 1965, 132). The form is the yaqtal theme-vowel class with the frozen nominative -ū, the citation form of an independent name (Huffmon 1965, 104–15); the yaqtul yašmuʿ is the rival parse, both G imperfects with one Linear A surface. Rivals: yasamu with sāmek; Ya-ʾAšmu, an Eshmun short form, though the short forms of ʾŠMN write ʾŠM-, not \*YŠM-. One attestation.
+ZA 15a, a Zakros wine allocation list: JA-SA-MU 5, beside SI-PI-KI and SA-MI-DA-E. yaśmaʿū 'he hears', √š-m-ʿ, the bare verbal element of a sentence name, as Yišmāʿēl 'El hears' without the god; SA writes s and š alike, and the final ʿ is unwritten. Cuneiform writes the guttural (Ya-ás-ma-aḫ-{d}IM) and Linear A drops it: JA-SA-MU is the Linear A shape of the Yašmaʿ hypocoristicon, Ya-ás-ma-ḫu-u\[m\] (Huffmon 1965, 132). The form is the yaqtal theme-vowel class with the frozen nominative -ū, the citation form of an independent name (Huffmon 1965, 104–15); the yaqtul yašmuʿ is the rival parse, both G imperfects with one Linear A surface. Rivals: yasamu with sāmek; Ya-ʾAšmu, an Eshmun short form, though the short forms of ʾŠMN write ʾŠM-, not \*YŠM-. Davis (2026b, 216) sees a possible counterpart in A-SA-MU-NE (ZA Zb 3). One attestation.
 
 ## As a name
 

@@ -50,7 +50,7 @@ Evidence: ḤA reads all four words: \*314-TA-MA ḥatam 'seal' (PH Wc 38), KA-\
 
 ### Note
 
-The guttural fricative with a: ḥ in ḥatam, kaḥsi and Raḥal, h in har; like \*21F it does not tell h, ḥ and ḫ apart. Three wavy strokes on KO Za 1 and at Phaistos. ARKH3b \[…\]-PI-\*314(?) is broken before PI and PI overlies an erasure, so it supplies no support for Luwian piḫa-. \|\| Rival value bu, a PU₂ variant (Facchetti 1999, 132; Davis 2013, 44 n. 46; Younger PU₃): DU-\*314-RE takes the slot of DU-PU₂-RE. Against it: RA-\*314-RA has no reading under bu, PU₂ is three crossed prongs, and the two signs share no document.
+The guttural fricative with a: ḥ in ḥatam, kaḥsi and Raḥal, h in har; like \*21F it does not tell h, ḥ and ḫ apart. Three wavy strokes on KO Za 1 and at Phaistos. ARKH3b \[…\]-PI-\*314(?) is broken before PI and PI overlies an erasure, so it supplies no support for Luwian piḫa-. Davis's inventory leaves room for such a sign: beyond its eighteen consonants, at least some untransliterated syllabograms 'probably represent one or more additional Minoan fricatives, most likely /x/ and/or /h/' (2026b, 170, Hypothesis 21). \|\| Rival value bu, a PU₂ variant (Facchetti 1999, 132; Davis 2013, 44 n. 46; Davis 2026b, 213 n. 712; Younger PU₃): DU-\*314-RE takes the slot of DU-PU₂-RE. Against it: RA-\*314-RA has no reading under bu, PU₂ is three crossed prongs, and the two signs share no document.
 
 ## Lexicon words written with this sign
 

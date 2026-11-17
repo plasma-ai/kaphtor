@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-\*401 with the rider RU, which gives the ru- onset of its proposed value RUQQÛ: Akk. ruqqû 'perfumed (oil)' and ruqqû 'to prepare perfume' (CAD R 420). Six Khania documents, KH 12 twice, KH 63, KH 83, KH 84, KH 85 and KH 91, and KN Zg 57a, the ivory sceptre ring from Knossos. Counted in fractions (¹⁄₁₆ on KH 85 and KH 91), it stands with CYP, MI+JA+RU (myrrh), \*308 (šamnu) and OLE+TA (fine oil): an aromatic. KH 91 writes \*401+RU beside \*401+RA, two compounds on one tablet. Cf. \*401+\*304 (RUQQÛ+PIDRU, 'aromatic fat'). See \*401.
+\*401 with the rider RU, which gives the ru- onset of its proposed value RUQQÛ: Akk. ruqqû 'perfumed (oil)' and ruqqû 'to prepare perfume' (CAD R 420). Six Khania documents, KH 12 twice, KH 63, KH 83, KH 84, KH 85 and KH 91, and KN Zg 57a, the ivory sceptre ring from Knossos. Counted in fractions (¹⁄₁₆ on KH 85 and KH 91), it stands with CYP, MI+JA+RU (purple dye), \*308 (šamnu) and OLE+TA (fine oil): an aromatic. KH 91 writes \*401+RU beside \*401+RA, two compounds on one tablet. Cf. \*401+\*304 (RUQQÛ+PIDRU, 'aromatic fat'). See \*401.
 
 ### Cognates
 

@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/KN/KN/KN2
 title: "KN2"
-desc: "Tablet, Knossos. Translation: none."
+desc: "Tablet, Knossos, LMIA. Translation: none."
 tags: ["linear-a", "inscription", "translation-none", "tablet"]
 kind: "inscription"
 id: "KN2"
 site: "Knossos"
 support: "Tablet"
-period: ""
+period: "LMIA"
 translation: "none"
 words: ["*118"]
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Knossos |
 | Findspot |  |
 | Support | Tablet |
-| Period |  |
+| Period | LMIA |
 | Scribe |  |
 | Edition | GORILA 1 |
 | Series | KN |

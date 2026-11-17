@@ -44,6 +44,7 @@ updated: 2026-10-24T16:17:50Z
 
 - KI-RE-TA-NA = Kretan (6x HT)
 - KI-RO = kiro 'owed/outstanding'
+- The Linear B value, confirmed in Linear A by one contextual test (Davis 2026b, 18, Table 1.3, after Duhoux 1989)
 
 ### Note
 
@@ -83,7 +84,7 @@ No CH ancestor—Linear A innovation (Ferrara et al. 2022).
 | [[wiki/linear-a/words/K/KI_RI_SI\|KI-RI-SI]] | Kiriš | SPECULATIVE |
 | [[wiki/linear-a/words/K/KI_RI_TA2\|KI-RI-TA₂]] | Kirīta | PROBABLE |
 | [[wiki/linear-a/words/K/KI_RO\|KI-RO]] | kilʾu | CONFIRMED |
-| [[wiki/linear-a/words/K/KI_RU\|KI-RU]] | kirru | SPECULATIVE |
+| [[wiki/linear-a/words/K/KI_RU\|KI-RU]] | Kirru | SPECULATIVE |
 | [[wiki/linear-a/words/K/KI_TA_I\|KI-TA-I]] | gittī | SPECULATIVE |
 | [[wiki/linear-a/words/K/KI_TA_NA\|KI-TA-NA]] | kitāna | CANDIDATE |
 | [[wiki/linear-a/words/K/KI_TA_NI_TE\|KI-TA-NI-TE]] | kitānit | CANDIDATE |

@@ -39,7 +39,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Cyperus commodity logogram, its principal distribution at Khania: 35 plain and 28 in the fraction ligatures CYP+D and CYP+E. The sign continues as the Linear B CYPERUS ideogram, associated with ku-pa-ro. On HT 89 it opens the commodity section after the total, at 2 + A732. At Khania it keeps company with aromatics: myrrh (MI+JA+RU), \*401+RU and fine oil (OLE+TA). Rival: barley. Kamm takes the sign for barley: it and the wheat sign head the same list in turn, before figs and wine, and stand in one rubric only once (Kamm 1963, 139–140, 145). His wheat example is HT 89, where GORILA has this sign, as on HT 27 and HT 130. Uchitel calls it the ideogram for barley (2016b, 11).
+Cyperus commodity logogram, its principal distribution at Khania: 35 plain and 28 in the fraction ligatures CYP+D and CYP+E. The sign continues as the Linear B CYPERUS ideogram, associated with ku-pa-ro. On HT 89 it opens the commodity section after the total, at 2 + A732. At Khania it keeps company with the purple dye (MI+JA+RU), the aromatic \*401+RU and fine oil (OLE+TA). Rival: barley. Kamm takes the sign for barley: it and the wheat sign head the same list in turn, before figs and wine, and stand in one rubric only once (Kamm 1963, 139–140, 145). His wheat example is HT 89, where GORILA has this sign, as on HT 27 and HT 130. Uchitel calls it the ideogram for barley (2016b, 11).
 
 ### Cognates
 

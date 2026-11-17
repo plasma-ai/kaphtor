@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-ZA 26a .1 SI-TE · DI-DI-\[, heading the tablet before \*21F 13, intact and undotted (GORILA III 202–203); MIL Zb 3, a vessel, breaks through SI. √y-ṣ-ʾ: ṣīt, the sun's going-out, the East, as Akkadian ṣītum and Hebrew môṣāʾ (Ps 75:7). SI writes ṣ as in SI-JA-SE, and SI-TU sūt spells the closed syllable alike. The Kom el-Hetan list's damaged \[sȝ\]-i-tȝ-\[y\], tentatively Siteia (Cline & Stannish 2011, 10), compares; cf. Σηταία (DMic II 288; MGV I 243 s.u.) and Σήται (Ruijgh, Études 210 n. 559, apud DMic II 289 n. 5). Rival: ṣīt 'issue, outlay', Ugaritic ṣảt 'issue' (DULAT 764).
+ZA 26a .1 SI-TE · DI-DI-\[, heading the tablet before \*21F 13, intact and undotted (GORILA III 202–203); MIL Zb 3, a vessel, breaks through SI. √y-ṣ-ʾ: ṣīt, the sun's going-out, the East, as Akkadian ṣītum and Hebrew môṣāʾ (Ps 75:7). SI writes ṣ as in SI-JA-SE, and SI-TU šītu spells the closed syllable alike. The Kom el-Hetan list's damaged \[sȝ\]-i-tȝ-\[y\], tentatively Siteia (Cline & Stannish 2011, 10), compares; cf. Σηταία (DMic II 288; MGV I 243 s.u.) and Σήται (Ruijgh, Études 210 n. 559, apud DMic II 289 n. 5). Rival: ṣīt 'issue, outlay', Ugaritic ṣảt 'issue' (DULAT 764).
 
 ### Cognates
 

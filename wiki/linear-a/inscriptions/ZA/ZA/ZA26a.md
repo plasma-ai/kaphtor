@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/ZA/ZA/ZA26a
 title: "ZA26a"
-desc: "Tablet, Zakros. Translation: incomplete (CANDIDATE)."
+desc: "Tablet, Zakros, LMIB. Translation: incomplete (CANDIDATE)."
 tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
 kind: "inscription"
 id: "ZA26a"
 site: "Zakros"
 support: "Tablet"
-period: ""
+period: "LMIB"
 translation: "incomplete"
 words: ["*21F", "SI-TE"]
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Zakros |
 | Findspot |  |
 | Support | Tablet |
-| Period |  |
+| Period | LMIB |
 | Scribe |  |
 | Edition | GORILA 3 |
 | Series | ZA |

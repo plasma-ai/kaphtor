@@ -31,6 +31,6 @@ updated: 2026-10-24T16:17:50Z
 
 Status **unread** (nothing known).
 
-KH 11 .1 A-DU-\[·\]-ZA, CYP and a fraction, the third sign lost; the apparatus finds A-DU-RE-ZA possible (GORILA III 39). It heads issues of cyperus, SU, wine and \*306; .3 \*306 4 and CYP follow A-DU-RE\[ on KH 4 .2 as well (GORILA III 25). On HT 88 .1, A-DU VIR+KA 20 is followed by RE-ZA 6, RE over an erasure (GORILA I 139). Not readable.
+KH 11 .1 A-DU-\[·\]-ZA, CYP and a fraction, the third sign lost; the apparatus finds A-DU-RE-ZA possible (GORILA III 39). It heads issues of cyperus, SU, wine and \*306; .3 \*306 4 and CYP follow A-DU-RE\[ on KH 4 .2 as well (GORILA III 25). On HT 88 .1, A-DU VIR+KA 20 is followed by RE-ZA 6, RE over an erasure (GORILA I 139). Davis writes A-DU-RE-ZA with GORILA's dotted RE and pairs it with DU-RE-ZA-SE as evidence for affixes (2026, 46); Hogan's Table 4.3 makes the list a transfer to A-DU (2026, 81). The facsimile shows one upright in the gap, its top lost in the damage, and no divider. Not readable.
 
 <!-- END kaphtor:record -->

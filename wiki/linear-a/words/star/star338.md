@@ -32,4 +32,6 @@ updated: 2026-11-12T00:26:03Z
 
 A sign. Status **unread** (nothing on file).
 
+Alone on the roundels KH Wc 2067 and 2068, a logogram (Salgarella 2020, 318): boots (Nosch and Weilhartner 2026, 119, citing Schoep 2002, 91).
+
 <!-- END kaphtor:record -->

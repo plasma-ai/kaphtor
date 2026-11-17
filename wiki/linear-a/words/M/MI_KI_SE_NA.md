@@ -59,6 +59,12 @@ di Mino; HALOT
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT26a\|HT26a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT26a\|HT26a]] | Haghia Triada | Tablet | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT26a\|HT26a]] | miksēna | coverings, blankets, 15 | SPECULATIVE |
 
 <!-- END kaphtor:record -->

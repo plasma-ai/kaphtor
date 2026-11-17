@@ -72,6 +72,6 @@ Unicode (Linear A block):
 
 ## Corpus note
 
-Ivory ring KN Zg 57, face A (top): 12 quadrupeds in metopes on the left half; on the right, 16 whole or partial signs (at least 18 originally), vessels incl. the rhyton A664. No numerals. Face B = KNZg57b; faces C (textiles, at least nine sign-groups) and D (about nine hide signs) unrecorded. The ring holds c. 84 preserved signs and 35 traces, about 119 in all.
+Ivory ring KN Zg 57, face A (top): 12 quadrupeds in metopes on the left half; on the right, 16 whole or partial signs (at least 18 originally), vessels incl. the rhyton A664. No numerals. Face B = KNZg57b; faces C (textiles, at least nine sign-groups) and D (about nine hide signs) unrecorded. Face C carries five textile logograms, one of them new, AB 54+77, cloth with KA, which would answer a Linear B \*tela+KA, so far unattested (Nosch and Weilhartner 2026, 129, after Kanta et al. 2024). The ring holds c. 84 preserved signs and 35 traces, about 119 in all.
 
 <!-- END kaphtor:record -->

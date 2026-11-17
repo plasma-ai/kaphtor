@@ -42,6 +42,7 @@ updated: 2026-10-24T16:17:50Z
 ### Forms cited for the value
 
 - KU-PA₃-NA-TU = Gupanatu (Gordon 1966: fem. of Gupanu)
+- The Linear B value, confirmed in Linear A by one contextual test (Davis 2026b, 18, Table 1.3, after Duhoux 1989)
 
 ## Lexicon words written with this sign
 
@@ -72,7 +73,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/R/RA_NA_TU_SU\|RA-NA-TU-SU]] | Rannatušu | SPECULATIVE |
 | [[wiki/linear-a/words/S/SE_KU_TU\|SE-KU-TU]] | Šakūtu | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_TE_TU\|SI-TE-TU]] | šetātu | SPECULATIVE |
-| [[wiki/linear-a/words/S/SI_TU\|SI-TU]] | sūt | CANDIDATE |
+| [[wiki/linear-a/words/S/SI_TU\|SI-TU]] | šītu | CANDIDATE |
 | [[wiki/linear-a/words/S/SI_TU_RA2\|SI-TU-RA₂]] | šitla | SPECULATIVE |
 | [[wiki/linear-a/words/T/TE_TU\|TE-TU]] | Tetu | SPECULATIVE |
 | [[wiki/linear-a/words/T/TU\|TU]] | ṯawr | CANDIDATE |

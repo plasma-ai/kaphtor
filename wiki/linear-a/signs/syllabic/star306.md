@@ -44,7 +44,7 @@ Evidence: ʿ leads by one word (7/7 against 6/7 for p, r, l, n, m, w); the ancho
 
 ### Note
 
-Voiced pharyngeal fricative. Fills the highest-priority gap in the phonemic inventory (ayin). 23 occurrences across Haghia Triada, Khania, Arkhanes, Fourni. 8 standalone occurrences at Khania suggest acrophonic/abbreviatory administrative use.
+Voiced pharyngeal fricative. Fills the highest-priority gap in the phonemic inventory (ayin). 23 occurrences across Haghia Triada, Khania, Arkhanes, Fourni. 8 standalone occurrences at Khania suggest acrophonic/abbreviatory administrative use. Salgarella takes the dotted Khania form of A 306 (KH 11.3, 11.6, 19.1, 84.2) for a possible graphic source of Linear B \*42 wo, which H 124-A in the Room of the Chariot Tablets draws without its bottom line; the lateral curl aside, the shapes match, and the hapax A 350 (KH 11.5) is her alternative candidate (Salgarella 2020, 157, 171, 246, 296). The Linear A antecedents of the o-series remain controversial (Salgarella 2023, 411 n. 9). Davis lists \*306 among the apparently syllabic Linear A signs absent from Linear B, 'strong evidence that LB did not borrow all LA syllabic signs' (2026b, 96 and n. 387), and expects some of the still-untransliterated signs to 'represent additional Minoan fricatives, most likely /x/ and/or /h/' (2026b, 169, Implication 16). ʿ is a fricative Greek lacked.
 
 ## Lexicon words written with this sign
 

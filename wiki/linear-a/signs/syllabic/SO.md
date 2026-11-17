@@ -35,6 +35,6 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-NOT A LINEAR A SIGN. AB12 SO occurs nowhere in the Linear A corpus or SigLA, and Unicode's Linear A block has no AB012; the value so is Linear B's. A 363 (reversed) and A 364 "could be the forerunners" of Linear B so and do (Melena 2014, 85–86); LA 363/364 compared with B 12 so (Soldani 2013, apud Ferrara, Montecchi & Valério 2022, 98). A363 occurs once (ZA 14 PU-NI-KA-\*363); A364 is the Zakros form of \*324, primary ṮA, SO the rival. Do not propose AB12 in Linear A spellings; SO stands only as the rival value of \*324.
+NOT A LINEAR A SIGN. AB12 SO occurs nowhere in the Linear A corpus or SigLA, and Unicode's Linear A block has no AB012; the value so is Linear B's. A 363 (reversed) and A 364 "could be the forerunners" of Linear B so and do (Melena 2014, 85–86); LA 363/364 compared with B 12 so (Soldani 2013, apud Ferrara, Montecchi & Valério 2022, 98). A363 occurs once (ZA 14 PU-NI-KA-\*363); A364 is the Zakros form of \*324, primary ṮA, SO the rival. Del Freo's current phonographic signary of Linear A leaves it out (Petrakis and Salgarella 2026, 31, Fig. 0.1, after Del Freo 2023, 81). Do not propose AB12 in Linear A spellings; SO stands only as the rival value of \*324.
 
 <!-- END kaphtor:record -->

@@ -8,7 +8,7 @@ form: "I-NA-JA-RE-TA"
 datasets: ["lexicon"]
 tier: 1
 confidence: "SPECULATIVE"
-confidence_score: 0.2
+confidence_score: 0.25
 reading: "hinna yarēʾat-[…]"
 attestations: ["APZa2"]
 created: 2026-10-24T16:17:50Z
@@ -27,7 +27,7 @@ updated: 2026-10-24T16:17:50Z
 
 ## Lexicon
 
-**SPECULATIVE**, tier 1 of 4, score 0.20
+**SPECULATIVE**, tier 1 of 4, score 0.25
 
 | Field | Value |
 |---|---|
@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-AP Za 2 .2 I-NA-JA-RE-TA\[ \]QA, no divider after TA. hinna yarēʾat… 'behold, she who reveres…': I-NA- as in I-NA-JA-PA-QA hinna yapqaḥ (PK Za 11), Ebla i-na, in-na (GlOS 1, 218); yarēʾat the feminine construct of yārēʾ 'in fear of', Babylonian yərēʾat (HALOT 433), as ʾiššâ yirʾat YHWH 'a woman who fears YHWH' (Prov 31:30), JA writing ya and RE the ē. Rival: yārēʾtā 'you have feared' (2 Sam 1:14), the finite verb of I-NA-JA-PA-QA. Rival: the noun yirʾat 'the reverence of' (Job 28:28; di Mino, Ya Diktu). Weak point: no divider follows TA, and the genitive is lost in the lacuna. One attestation.
+AP Za 2 .2 I-NA-JA-RE-ṬẠ\[ \]-QA ·, TA dotted (Davis 2026, 59) and broken after (GORILA IV 4–5). hinna yarēʾat… 'behold, she who reveres…': hinna 'behold' before a verb form, as in I-NA-JA-PA-QA hinna yapqaḥ 'behold, he opens' (PK Za 11), Ebla i-na, in-na (GlOS 1, 218); yarēʾat the feminine construct of yārēʾ 'in fear of', Babylonian yərēʾat (HALOT 433), as ʾiššâ yirʾat YHWH 'a woman who fears YHWH' (Prov 31:30). AP Za 2 keeps the order of PK Za 11: I-PI-NA-MA, an I-NA-JA- word, a close in -QA. Rivals: yārēʾtā 'you have feared' (2 Sam 1:14); the noun yirʾat 'the reverence of' (Job 28:28; di Mino, Ya Diktu); a base I-NA-JA- with the suffixes -RE-TA and -PA-QA (Davis 2026, 46). Weak point: the gap before \]-QA holds either the genitive or the close JA-PA-QA of PK Za 12, which leaves yarēʾat absolute, 'behold, she is in awe'. One attestation. See I-NA and I-NA-JA-PA-QA.
 
 ### Cognates
 
@@ -53,7 +53,7 @@ AP Za 2 .2 I-NA-JA-RE-TA\[ \]QA, no divider after TA. hinna yarēʾat… 'behold
 
 ### Source
 
-di Mino; GlOS 1; HALOT
+di Mino; GlOS 1; HALOT; Davis 2026
 
 ## Attestations
 

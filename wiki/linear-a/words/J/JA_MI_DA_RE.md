@@ -39,7 +39,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 122a, intact, 1 in a list of names totalling 31. Gordon reads Egyptian Ỉmy-d(t)-Rꜥ 'He-who-is-from-the-hand-of-Re' (Gordon 1966a, 31, §127), comparing Ugaritic bdil 'From-the-hand-of-El'. Rival: a Minoan name. One witness.
+HT 122a, intact, 1 in a list of names totalling 31. Gordon reads Egyptian Ỉmy-d(t)-Rꜥ 'He-who-is-from-the-hand-of-Re' (Gordon 1966a, 31, §127), comparing Ugaritic bdil 'From-the-hand-of-El'. Rival: a Minoan name, as Linear B ja-ma-ta-ro\[, a man at Knossos (KN V 655.2, broken; DMic I), which Davis pairs with it, flagging the vowel (2026b, 119 and n. 452), its Minoan source word, he suggests, standing in ʾa-ja-man-tar of Spell 32 of the London Medical Papyrus, with the prefix ʾa- (84–85). One witness.
 
 ### Cognates
 
@@ -50,7 +50,7 @@ HT 122a, intact, 1 in a list of names totalling 31. Gordon reads Egyptian Ỉmy-
 
 ### Source
 
-Gordon 1966a, 31 (§127)
+Gordon 1966a, 31 (§127); DMic I; Davis 2026b
 
 ## Attestations
 

@@ -32,11 +32,11 @@ updated: 2026-11-11T23:39:03Z
 | Reading's standing | SPECULATIVE |
 | Standing as a personal name | SPECULATIVE |
 | Standing of the layer | SPECULATIVE (lexicon_reading) |
-| Source | di Mino; Gelb 1980; Faris 1952 |
+| Source | di Mino; Gelb 1980; Faris 1952; DMic II; Davis 2026b |
 
 ## Note
 
-HT 126a .1 DA-NA-SI · \*318 ·, heading the tablet, before A-NA-\[·\] 1 and SI-DI-JA 1 (GORILA I 217). ḏā 'the one of', as in DA-MI-NU, + Naśiʾ, the Amorite god of NŠʾ 'to carry, to raise' (Gelb 1980, 27), whom Gelb's names write NA-SI sign for sign: IA-AḪ-WI-NA-SI, IA-DU-UR-NA-SI, NI-IQ-MI-LA-NA-SI, ZI-ID-KU-LA-NA-SI (nos. 2874, 3218, 5051, 6457). 'He of Naśiʾ', the type of Amorite Zu-dIš-ḫa-ra 'He of Išḫara' (Gelb no. 6598). NA-SI also closes U-MI-NA-SI, the heading of HT 117a and HT 28b. Rival: ḏā-Nasr, the god Nasr of Ḥimyar (Q 71:23; Faris 1952, 10), with r unwritten.
+HT 126a .1 DA-NA-SI · \*318 ·, heading the tablet, before A-NA-\[·\] 1 and SI-DI-JA 1 (GORILA I 217). ḏā 'the one of', as in DA-MI-NU, + Naśiʾ, the Amorite god of NŠʾ 'to carry, to raise' (Gelb 1980, 27), whom Gelb's names write NA-SI sign for sign: IA-AḪ-WI-NA-SI, IA-DU-UR-NA-SI, NI-IQ-MI-LA-NA-SI, ZI-ID-KU-LA-NA-SI (nos. 2874, 3218, 5051, 6457). 'He of Naśiʾ', the type of Amorite Zu-dIš-ḫa-ra 'He of Išḫara' (Gelb no. 6598). NA-SI also closes U-MI-NA-SI, the heading of HT 117a and HT 28b. Rivals: ḏā-Nasr, the god Nasr of Ḥimyar (Q 71:23; Faris 1952, 10), with r unwritten; Linear B sa-na-so\[ (KN Nc 5787, broken, without context), a man's name in DMic II, which Davis pairs with it as a possible man's name (2026b, 119).
 
 ## As a name
 

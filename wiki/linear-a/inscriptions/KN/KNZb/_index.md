@@ -2,7 +2,7 @@
 name: wiki/linear-a/inscriptions/KN/KNZb
 desc: "Inscriptions from Knossos, series KNZb."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-13T13:31:15Z
+updated: 2026-11-17T20:57:20Z
 ---
 
 # wiki/linear-a/inscriptions/KN/KNZb
@@ -25,7 +25,7 @@ updated: 2026-11-13T13:31:15Z
 
 [[wiki/linear-a/inscriptions/KN/KNZb/KNZb4|KNZb4]]: Clay vessel, Knossos. Translation: complete.
 
-[[wiki/linear-a/inscriptions/KN/KNZb/KNZb40|KNZb40]]: Pithoid jar, Knossos. Translation: complete (SPECULATIVE).
+[[wiki/linear-a/inscriptions/KN/KNZb/KNZb40|KNZb40]]: Pithoid jar, Knossos, LMII. Translation: complete (SPECULATIVE).
 
 [[wiki/linear-a/inscriptions/KN/KNZb/KNZb5|KNZb5]]: Clay vessel, Knossos, MMIIIB. Translation: complete.
 

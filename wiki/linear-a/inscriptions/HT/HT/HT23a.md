@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "complete"
-words: ["*21F-RI-TU-QA", "*308", "CYP", "E", "KA-NA", "KO-RU", "MI+JA+RU", "OLE+NE", "OLE+RI", "OLE+TU", "SA-SA-ME"]
+words: ["*21F-RI-TU-QA", "*308", "CYP", "E", "KA-NA", "KO-RU", "MI+JA+RU", "OLE+NE", "OLE+RI", "OLE+TU", "QA2+[?]+PU", "QA2+[?]+RE", "SA-SA-ME"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -79,7 +79,7 @@ Unicode (Linear A block):
 
 **CANDIDATE**, complete.
 
-> Sweet cane (KA-NA): cyperus B, \*308 H, oil+NE H, oil+TU H, oil+RI H, MI+JA+RU H, wine 10, QA₂-ligature (\*510) 10, QA₂-ligature (\*508) 10, E 17, the tied packet K, sesame K, SI+ME 10, kor 1.
+> Sweet cane (KA-NA): cyperus B, \*308 H, oil+NE H, oil+TU H, oil+RI H, purple dye H, wine 10, qab of PU 10, qab of RE 10, E 17, the tied packet K, sesame K, SI+ME 10, kor 1.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -89,13 +89,13 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/O/OLE_plus_NE\|OLE+NE]] | neseku | libation oil | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/O/OLE_plus_TU\|OLE+TU]] | ṭuhūru | purified oil | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/O/OLE_plus_RI\|OLE+RI]] | riqqu | aromatic oil | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/M/MI_plus_JA_plus_RU\|MI+JA+RU]] | murru | myrrh | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/M/MI_plus_JA_plus_RU\|MI+JA+RU]] | miyāru | purple dye | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/V/VIN\|VIN]] | wayn | wine | PROBABLE | PROBABLE (lexicon) |
-| [[wiki/linear-a/words/Q/QA2_plus_q_plus_PU\|QA2+&#91;?&#93;+PU]] | (ligature) | \[QA₂-commodity, grade PU\] (\*510) | SPECULATIVE |  |
-| [[wiki/linear-a/words/Q/QA2_plus_q_plus_RE\|QA2+&#91;?&#93;+RE]] | (ligature) | \[QA₂-commodity, grade RE\] (\*508) | SPECULATIVE |  |
+| [[wiki/linear-a/words/Q/QA2_plus_q_plus_PU\|QA2+&#91;?&#93;+PU]] |  | qab of PU (QA in the \*402 cup, A 510) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/Q/QA2_plus_q_plus_RE\|QA2+&#91;?&#93;+RE]] |  | qab of RE (QA in the \*402 cup, A 508) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/E/E\|E]] |  | commodity, unread | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/star/star21F_RI_TU_QA\|\*21F-RI-TU-QA]] | ha-ritūqa | the tied, sealed packet | SPECULATIVE | SPECULATIVE (lexicon) |
-| [[wiki/linear-a/words/S/SA_SA_ME\|SA-SA-ME]] | šašamā | sesame | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/S/SA_SA_ME\|SA-SA-ME]] | šašamā | sesame | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/S/SI_plus_ME\|SI+ME]] | (ligature) | \[SI+ME commodity\] | SPECULATIVE |  |
 | [[wiki/linear-a/words/K/KO_RU\|KO-RU]] | kōr | kor (dry measure) | SPECULATIVE | SPECULATIVE (lexicon) |
 
@@ -110,6 +110,6 @@ LM IB aromatics-and-foodstuffs ledger headed by KA-NA with a divider. Face b rep
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/star/star21F_RI_TU_QA|\*21F-RI-TU-QA]], [[wiki/linear-a/words/star/star308|\*308]], [[wiki/linear-a/words/C/CYP|CYP]], [[wiki/linear-a/words/E/E|E]], [[wiki/linear-a/words/K/KA_NA|KA-NA]], [[wiki/linear-a/words/K/KO_RU|KO-RU]], [[wiki/linear-a/words/M/MI_plus_JA_plus_RU|MI+JA+RU]], [[wiki/linear-a/words/O/OLE_plus_NE|OLE+NE]], [[wiki/linear-a/words/O/OLE_plus_RI|OLE+RI]], [[wiki/linear-a/words/O/OLE_plus_TU|OLE+TU]], [[wiki/linear-a/words/S/SA_SA_ME|SA-SA-ME]].
+[[wiki/linear-a/words/star/star21F_RI_TU_QA|\*21F-RI-TU-QA]], [[wiki/linear-a/words/star/star308|\*308]], [[wiki/linear-a/words/C/CYP|CYP]], [[wiki/linear-a/words/E/E|E]], [[wiki/linear-a/words/K/KA_NA|KA-NA]], [[wiki/linear-a/words/K/KO_RU|KO-RU]], [[wiki/linear-a/words/M/MI_plus_JA_plus_RU|MI+JA+RU]], [[wiki/linear-a/words/O/OLE_plus_NE|OLE+NE]], [[wiki/linear-a/words/O/OLE_plus_RI|OLE+RI]], [[wiki/linear-a/words/O/OLE_plus_TU|OLE+TU]], [[wiki/linear-a/words/Q/QA2_plus_q_plus_PU|QA2+&#91;?&#93;+PU]], [[wiki/linear-a/words/Q/QA2_plus_q_plus_RE|QA2+&#91;?&#93;+RE]], [[wiki/linear-a/words/S/SA_SA_ME|SA-SA-ME]].
 
 <!-- END kaphtor:record -->

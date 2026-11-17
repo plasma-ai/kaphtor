@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/AN/ANZb/ANZb1
 title: "ANZb1"
-desc: "Clay vessel, unknown, LM I. Translation: complete (CANDIDATE)."
+desc: "Clay vessel, unknown, LMI. Translation: complete (CANDIDATE)."
 tags: ["linear-a", "inscription", "translation-complete", "clay-vessel"]
 kind: "inscription"
 id: "ANZb1"
 site: "unknown"
 support: "Clay vessel"
-period: "LM I"
+period: "LMI"
 translation: "complete"
 words: ["TE"]
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | unknown |
 | Findspot |  |
 | Support | Clay vessel |
-| Period | LM I |
+| Period | LMI |
 | Scribe |  |
 | Edition | post_gorila_publication |
 | Series | ANZb |

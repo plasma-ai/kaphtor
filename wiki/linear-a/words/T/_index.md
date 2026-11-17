@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/T
 desc: "Words whose first sign begins with T."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-17T14:06:48Z
+updated: 2026-11-18T16:16:38Z
 ---
 
 # wiki/linear-a/words/T
@@ -83,9 +83,11 @@ updated: 2026-11-17T14:06:48Z
 
 [[wiki/linear-a/words/T/TELA_plus_KU|TELA_plus_KU]]: (logogram): a kind of cloth: the cloth sign with KU. Lexicon, CANDIDATE (tier 2).
 
+[[wiki/linear-a/words/T/TELA_plus_SE|TELA_plus_SE]]: Unread sign (ligature, unread); 1 occurrence(s).
+
 [[wiki/linear-a/words/T/TELA_plus_TE|TELA_plus_TE]]: Unread sign (ligature, component read); 1 occurrence(s).
 
-[[wiki/linear-a/words/T/TELA_plus_star312|TELA_plus_star312]]: Unread sign (ligature, value on file); 1 occurrence(s).
+[[wiki/linear-a/words/T/TELA_plus_star312|TELA_plus_star312]]: (logogram): a kind of cloth: the cloth sign with *312 (BI), short for bitt 'a length of cloth'. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/T/TE_AROM|TE_AROM]]: Unread sign (compound, component read); 1 occurrence(s).
 
@@ -133,8 +135,6 @@ updated: 2026-11-17T14:06:48Z
 
 [[wiki/linear-a/words/T/TI_MA_RU_WI_TE|TI_MA_RU_WI_TE]]: Tīmar-luwwīt: Timar the Levite (f.), priestess (woman's name and title); rival Tamar + WI-TE. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/T/TI_NA|TI_NA]]: Unread (role only): personal name; 1 occurrence(s).
-
 [[wiki/linear-a/words/T/TI_NI_TA|TI_NI_TA]]: Tinit: Tinit (goddess, = Phoenician Tanit). Lexicon, CONFIRMED (tier 4).
 
 [[wiki/linear-a/words/T/TI_NI_TA_star307|TI_NI_TA_star307]]: Tinit Dubur: Tinit of the Sanctuary (Goddess + Sanctuary pattern). Lexicon, PROBABLE (tier 3).
@@ -144,8 +144,6 @@ updated: 2026-11-17T14:06:48Z
 [[wiki/linear-a/words/T/TI_NU_JA|TI_NU_JA]]: Ṯinuya: personal name, 'Second(-born)'; rival Dīnuya. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/T/TI_TI_KU|TI_TI_KU]]: tittuk(u) / tittōk: outpouring, pouring-out—(header) disbursed; (libation) may it be poured. Lexicon, CANDIDATE (tier 2).
-
-[[wiki/linear-a/words/T/TI_TI_MA|TI_TI_MA]]: ṯiṯṯīma: sixty (numeral). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/T/TI_plus_A|TI_plus_A]]: Unread sign (ligature, component read); 2 occurrence(s).
 

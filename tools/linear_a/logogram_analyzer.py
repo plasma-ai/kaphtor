@@ -22,6 +22,7 @@ from __future__ import annotations
 import argparse
 import json
 import math
+import re
 import sys
 import unicodedata
 from collections import Counter, defaultdict
@@ -260,24 +261,28 @@ BOTANICAL_WORDS = {"plant", "bulb", "garlic", "onion", "grain", "wheat",
                     "barley", "tree", "branch", "leaf", "flower", "seed",
                     "fruit", "fig", "olive", "vine", "reed"}
 ANIMAL_WORDS = {"bull", "ox", "cow", "cattle", "goat", "sheep", "ram",
-                 "pig", "horse", "donkey", "fish", "bird", "deer"}
+                 "pig", "horse", "donkey", "fish", "bird", "deer",
+                 "animal", "feline", "cat"}
 VESSEL_WORDS = {"vessel", "cup", "bowl", "jar", "pot", "jug", "vase",
                  "amphora", "pithos", "tripod", "measure"}
 HUMAN_WORDS = {"man", "woman", "person", "human", "figure", "head",
                 "hand", "arm", "leg", "foot", "eye"}
 
 def classify_pictograph(text: str | None) -> tuple[str, str]:
-    """Return (classification, verdict) for a pictograph description."""
+    """Return (classification, verdict) for a pictograph description. Matches whole words and their plurals, so
+    'ram' inside 'frame' or 'hand' inside 'handle' is no hit; animals are tried before body parts, so an animal's
+    head is an animal."""
     if not text:
         return "none", "NEUTRAL"
-    lower = text.lower()
-    if any(w in lower for w in BOTANICAL_WORDS):
+    words = set(re.findall(r"[a-z]+", text.lower()))
+    words |= {w[:-1] for w in words if w.endswith("s")}
+    if words & BOTANICAL_WORDS:
         return "botanical", "SUPPORTS"
-    if any(w in lower for w in ANIMAL_WORDS):
+    if words & ANIMAL_WORDS:
         return "animal", "SUPPORTS"
-    if any(w in lower for w in VESSEL_WORDS):
+    if words & VESSEL_WORDS:
         return "vessel/measure", "SUPPORTS"
-    if any(w in lower for w in HUMAN_WORDS):
+    if words & HUMAN_WORDS:
         return "personnel", "WEAKENS"
     return "abstract/other", "NEUTRAL"
 

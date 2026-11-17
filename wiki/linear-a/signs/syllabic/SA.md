@@ -37,13 +37,17 @@ updated: 2026-10-24T16:17:50Z
 
 | Value | Confidence | Evidence |
 |---|---|---|
-| /sha/ | 0.50 | SA-SA digraph = single /sh/ in JA-SA-SA-RA-ME (Gordon) |
+| /sha/ | 0.50 | SA-SA digraph = single /sh/ in JA-SA-SA-RA-ME (Gordon); The Kom el-Hetan list of Amenhotep III writes the Cretan names with Egyptian š, ʾa-m-ni-š Amnisos, bei-š-ta-ya Phaistos, ku-nu-š Knossos, and s only in Mycenaean Thebes (Davis 2026b, 80–81, 152) |
 | /za/ | 0.20 | S-class neutralization |
 
 ### Forms cited for the value
 
 - JA-SA-SA-RA-ME = yaššaram (libation formula)
 - KU-NI-SU (-SU as /su/)
+
+### Note
+
+Davis takes the s-series for Minoan /s/ or /ʃ/, pronounced \[ʃ\] (2026b, 153, Hypothesis 17), and SA writes š in JA-SA-SA-RA-ME yaššaram.
 
 ## Lexicon words written with this sign
 
@@ -76,7 +80,6 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/S/SA\|SA]] | śakaru | CANDIDATE |
 | [[wiki/linear-a/words/S/SA_plus_MU_plus_KU\|SA+MU+KU]] | ṣammūqu | CANDIDATE |
 | [[wiki/linear-a/words/S/SA_star301_RI\|SA-\*301-RI]] | šannāri | SPECULATIVE |
-| [[wiki/linear-a/words/S/SA_star305_MI\|SA-\*305-MI]] | šadmi | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_DI\|SA-DI]] | šadī | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_JA_MA\|SA-JA-MA]] | śaymā | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_MA\|SA-MA]] | samm- | CANDIDATE |
@@ -91,7 +94,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/S/SA_RE_JU\|SA-RE-JU]] | Šarr-ēlu | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_RO\|SA-RO]] | šarr | CANDIDATE |
 | [[wiki/linear-a/words/S/SA_RU\|SA-RU]] | šarru | CANDIDATE |
-| [[wiki/linear-a/words/S/SA_SA_ME\|SA-SA-ME]] | šašamā | CANDIDATE |
+| [[wiki/linear-a/words/S/SA_SA_ME\|SA-SA-ME]] | šašamā | PROBABLE |
 | [[wiki/linear-a/words/S/SA_TA\|SA-TA]] | Šata | SPECULATIVE |
 | [[wiki/linear-a/words/S/SE_SA_PA3\|SE-SA-PA₃]] | Zizapa | SPECULATIVE |
 | [[wiki/linear-a/words/T/TA_SA_ZA\|TA-SA-ZA]] | taḫsaz | SPECULATIVE |

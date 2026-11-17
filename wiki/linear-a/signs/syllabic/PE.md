@@ -35,6 +35,6 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-NOT A LINEAR A SIGN. AB72 PE does not occur in the Linear A corpus, and Unicode's Linear A block has no AB072; the value pe is Linear B's, and it was the only support. SigLA codes one sign AB72, with no value, on HT 28a: the second sign of the word GORILA and the corpus read SA-RA₂. Do not propose PE in Linear A spellings.
+NOT A LINEAR A SIGN. AB72 PE does not occur in the Linear A corpus, and Unicode's Linear A block has no AB072; the value pe is Linear B's, and it was the only support. SigLA codes one sign AB72, with no value, on HT 28a: the second sign of the word GORILA and the corpus read SA-RA₂. Del Freo's current phonographic signary of Linear A leaves it out (Petrakis and Salgarella 2026, 31, Fig. 0.1, after Del Freo 2023, 81). Do not propose PE in Linear A spellings.
 
 <!-- END kaphtor:record -->

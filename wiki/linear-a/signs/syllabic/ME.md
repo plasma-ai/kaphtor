@@ -36,6 +36,7 @@ updated: 2026-10-24T16:17:50Z
 ### Forms cited for the value
 
 - JA-SA-SA-RA-ME (libation formula)
+- The Linear B value, confirmed in Linear A by one contextual test (Davis 2026b, 18, Table 1.3, after Duhoux 1989)
 
 ## Lexicon words written with this sign
 
@@ -52,7 +53,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/M/ME_KI_DI\|ME-KI-DI]] | Majd | SPECULATIVE |
 | [[wiki/linear-a/words/M/ME_VIN\|ME-VIN]] | mesek | SPECULATIVE |
 | [[wiki/linear-a/words/M/ME_ZA\|ME-ZA]] | massu | CANDIDATE |
-| [[wiki/linear-a/words/S/SA_SA_ME\|SA-SA-ME]] | šašamā | CANDIDATE |
+| [[wiki/linear-a/words/S/SA_SA_ME\|SA-SA-ME]] | šašamā | PROBABLE |
 | [[wiki/linear-a/words/T/TU_ME_I\|TU-ME-I]] | tummī | CANDIDATE |
 | [[wiki/linear-a/words/T/TU_RU_NU_SE_ME\|TU-RU-NU-SE-ME]] | Ṯ̣ūr-nušme | SPECULATIVE |
 

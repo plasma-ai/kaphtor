@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/KH/KH/KH7a
 title: "KH7a"
-desc: "Tablet, Khania. Translation: incomplete (SPECULATIVE)."
+desc: "Tablet, Khania, LMIB. Translation: incomplete (SPECULATIVE)."
 tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
 kind: "inscription"
 id: "KH7a"
 site: "Khania"
 support: "Tablet"
-period: ""
+period: "LMIB"
 translation: "incomplete"
 words: ["CYP", "E-NA-SI", "I-JA-PA-ME", "QA-TI-KI", "SE-*305", "TA-TA", "VIR+*313"]
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Khania |
 | Findspot |  |
 | Support | Tablet |
-| Period |  |
+| Period | LMIB |
 | Scribe | [[wiki/linear-a/by_scribe\|KH Scribe 2]] |
 | Edition | GORILA 3 |
 | Series | KH |

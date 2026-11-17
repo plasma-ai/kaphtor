@@ -31,6 +31,6 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Corazza C1 consensus; HT Zd 156 halving series.
+Corazza C1 consensus; HT Zd 156 halving series. The Linear B weight sign Q may elaborate the form of A 705 (Salgarella 2020, 218).
 
 <!-- END kaphtor:record -->

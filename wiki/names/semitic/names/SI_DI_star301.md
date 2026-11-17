@@ -35,11 +35,11 @@ updated: 2026-11-11T23:39:03Z
 
 ## Note
 
-KN Zf 13, signs 4–6, after A-RE-NE ʾarān 'coffin'. DI is a dead vowel copying SI's i, as KA-SA-PU writes kasp-: Ṣidn-a. The final -a is Sidon's own spelling, ᵘʳᵘṢi₂-du-na in Zimredda's letters (EA 144:5, 11), where Ugarit inflects a-na ᵘʳᵘṢi₂-du-ni (RGTC 12/2, 248). The middle vowel varies: ū (Ṣidūna), ā (ṣi-da-ni-yu), y (ṣdyn). Rival: Ṣīd-nā 'our Ṣid', the god of Sidon with -nā, as DA-DU-\*301 dādu-nā. One attestation.
+KN Zf 13, signs 4–6, after A-RE-NE ʾAren, the owner's name: 'Aren of Sidon'. DI is a dead vowel copying SI's i, as KA-SA-PU writes kasp-: Ṣidn-a. The final -a is Sidon's own spelling, ᵘʳᵘṢi₂-du-na in Zimredda's letters (EA 144:5, 11), where Ugarit inflects a-na ᵘʳᵘṢi₂-du-ni (RGTC 12/2, 248). The middle vowel varies: ū (Ṣidūna), ā (ṣi-da-ni-yu), y (ṣdyn). Rival: Ṣīd-nā 'our Ṣid', the god of Sidon with -nā, as DA-DU-\*301 dādu-nā. One attestation.
 
 ## As a name
 
-KN Zf 13, signs 4–6 of the gold ring's spiral, after A-RE-NE ʾarān: 'the coffin of Sidon'. DI a dead vowel, Ṣidn-a; the -a is Sidon's own spelling, ᵘʳᵘṢi₂-du-na (EA 144:5, 11; RGTC 12/2, 248); Ugaritic ṣdyn /Ṣidyān/ (DULAT 769). See the lexicon entry.
+KN Zf 13, signs 4–6 of the gold ring's spiral, after A-RE-NE ʾAren: 'Aren of Sidon'; rival 'Ark of Sidon'. DI a dead vowel, Ṣidn-a; the -a is Sidon's own spelling, ᵘʳᵘṢi₂-du-na (EA 144:5, 11; RGTC 12/2, 248); Ugaritic ṣdyn /Ṣidyān/ (DULAT 769). See the lexicon entry.
 
 ## Cognates
 
@@ -67,7 +67,7 @@ Read words on the same documents.
 
 | Word | Reading | Meaning |
 |---|---|---|
-| A-RE-NE | ʾarān | coffin, chest; rival Ḥōrān (Horon) |
+| [[wiki/names/semitic/names/A_RE_NE\|A-RE-NE]] | ʾAren | Aren, a man's name, the owner of the ring |
 | [[wiki/names/semitic/names/A_JA_KU\|A-JA-KU]] | ʾAyaku | personal name ('Where are you?') |
 
 <!-- END kaphtor:record -->

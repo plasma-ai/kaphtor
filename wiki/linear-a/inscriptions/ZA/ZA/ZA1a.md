@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/ZA/ZA/ZA1a
 title: "ZA1a"
-desc: "Tablet, Zakros. Translation: none."
+desc: "Tablet, Zakros, LMIB. Translation: none."
 tags: ["linear-a", "inscription", "translation-none", "tablet"]
 kind: "inscription"
 id: "ZA1a"
 site: "Zakros"
 support: "Tablet"
-period: ""
+period: "LMIB"
 translation: "none"
 words: ["*516", "NI"]
 created: 2026-10-24T16:17:50Z
@@ -27,9 +27,9 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Site | Zakros |
-| Findspot |  |
+| Findspot | Hogarth's House A, Zakros |
 | Support | Tablet |
-| Period |  |
+| Period | LMIB |
 | Scribe |  |
 | Edition | GORILA 1 |
 | Series | ZA |
@@ -57,5 +57,9 @@ Unicode (Linear A block):
 ## Lexicon words citing this document
 
 [[wiki/linear-a/words/star/star516|\*516]], [[wiki/linear-a/words/N/NI|NI]].
+
+## Corpus note
+
+One of five documents found together in Hogarth's House A (ZA 1, Wa 36, Wa 38, Wb 37, Wc 2), in a deposit generally attributed to LM IB. The pottery with them was LM IA in style, and traces of an LM IA fire destruction were found on the upper terrace floor of the House, so a date earlier than final LM IB has also been suggested (Platon and Brice 1975, 39, apud Salgarella 2020, 49 n. 26).
 
 <!-- END kaphtor:record -->

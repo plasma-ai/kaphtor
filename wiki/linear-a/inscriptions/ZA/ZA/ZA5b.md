@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/ZA/ZA/ZA5b
 title: "ZA5b"
-desc: "Tablet, Zakros. Translation: complete (CANDIDATE)."
+desc: "Tablet, Zakros, LMIB. Translation: complete (CANDIDATE)."
 tags: ["linear-a", "inscription", "translation-complete", "tablet"]
 kind: "inscription"
 id: "ZA5b"
 site: "Zakros"
 support: "Tablet"
-period: ""
+period: "LMIB"
 translation: "complete"
 words: ["JI-NU-MA-RE", "MA-KA-I-TA", "SI-PI-KI"]
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Zakros |
 | Findspot |  |
 | Support | Tablet |
-| Period |  |
+| Period | LMIB |
 | Scribe | [[wiki/linear-a/by_scribe\|ZA Scribe 1]] |
 | Edition | GORILA 3 |
 | Series | ZA |

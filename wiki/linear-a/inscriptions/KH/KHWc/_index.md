@@ -2,7 +2,7 @@
 name: wiki/linear-a/inscriptions/KH/KHWc
 desc: "Inscriptions from Khania, series KHWc."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-24T16:17:50Z
+updated: 2026-11-17T20:57:20Z
 ---
 
 # wiki/linear-a/inscriptions/KH/KHWc
@@ -199,7 +199,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2117|KHWc2117]]: Roundel, Khania, LMIIIA. Translation: none.
 
-[[wiki/linear-a/inscriptions/KH/KHWc/KHWc2118|KHWc2118]]: Roundel, Khania. Translation: none.
+[[wiki/linear-a/inscriptions/KH/KHWc/KHWc2118|KHWc2118]]: Roundel, Khania, LMIB. Translation: none.
 
 [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2121|KHWc2121]]: Roundel, Khania. Translation: none.
 

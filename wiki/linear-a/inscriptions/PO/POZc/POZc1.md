@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/PO/POZc/POZc1
 title: "POZc1"
-desc: "Inked inscription, Poros Herakleiou, LMIIIA. Translation: complete (CANDIDATE)."
-tags: ["linear-a", "inscription", "translation-complete", "inked-inscription"]
+desc: "Terracotta statuette, Poros Herakleiou, LMIIIA1–2. Translation: complete (CANDIDATE)."
+tags: ["linear-a", "inscription", "translation-complete", "terracotta-statuette"]
 kind: "inscription"
 id: "POZc1"
 site: "Poros Herakleiou"
-support: "Inked inscription"
-period: "LMIIIA"
+support: "Terracotta statuette"
+period: "LMIIIA1–2"
 translation: "complete"
 words: ["RI-QE-TI"]
 created: 2026-10-24T16:17:50Z
@@ -28,8 +28,8 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Site | Poros Herakleiou |
 | Findspot |  |
-| Support | Inked inscription |
-| Period | LMIIIA |
+| Support | Terracotta statuette |
+| Period | LMIIIA1–2 |
 | Scribe |  |
 | Edition | unattributed |
 | Series | POZc |
@@ -71,5 +71,9 @@ A votive naming the dance of the goddess — epigraphic counterpart to Minoan ec
 ## Lexicon words citing this document
 
 [[wiki/linear-a/words/R/RI_QE_TI|RI-QE-TI]].
+
+## Corpus note
+
+Salgarella (2020, 43) dates it LM IIIA1 on stylistic grounds, after Dimopoulou et al. 1993.
 
 <!-- END kaphtor:record -->

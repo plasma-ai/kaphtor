@@ -35,6 +35,6 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-NOT A LINEAR A SIGN. AB15 MO occurs nowhere in the Linear A corpus or SigLA, and Unicode's Linear A block has no AB015; the value mo is Linear B's, and it was the only support. Do not propose MO in Linear A spellings.
+NOT A LINEAR A SIGN. AB15 MO occurs nowhere in the Linear A corpus or SigLA, and Unicode's Linear A block has no AB015; the value mo is Linear B's, and it was the only support. Del Freo's current phonographic signary of Linear A leaves it out (Petrakis and Salgarella 2026, 31, Fig. 0.1, after Del Freo 2023, 81). Do not propose MO in Linear A spellings.
 
 <!-- END kaphtor:record -->

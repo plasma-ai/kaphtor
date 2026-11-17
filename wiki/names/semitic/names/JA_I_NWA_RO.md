@@ -32,11 +32,11 @@ updated: 2026-11-11T23:39:03Z
 | Reading's standing | SPECULATIVE |
 | Standing as a divine name | SPECULATIVE |
 | Standing of the layer | SPECULATIVE (lexicon_reading) |
-| Source | di Mino |
+| Source | di Mino; Muhly and Olivier 2008; Davis 2026b |
 
 ## Note
 
-SY Za 4, word 2, after the formula verb A-TA-I-\*301-WA-JA, in the deity or recipient slot. RILA-S1 (84) reads JA-I-NWA-RO with RO underdotted and rates GORILA's JA-I-NWA-ZA 'moins probable' (cf. SY Za 11; for ZA cf. KN Zf 31). Sign 3 is NWA (AB48) in both RILA-S1 lines, its only occurrence in the corpus, with the value of Linear B B48 (pe-ru-si-nwa ~ pe-ru-si-nu-wa). JA is vocative ya, as in JA-DI-KI-TU; I writes the aleph, here ʾa (cf. I- for ʾu in I-KU-JU-TI); NWA writes /nw/; -RO writes final /-ru/. ʾanwaru is the ʾaqtal elative of √n-w-r 'light': Arb. 'hāḏā ʾanwaru min ḏāka' (al-Zamakhsharī, Asās al-Balāgha, s.v. nwr). The epithet stands before PA₃-NI-WI 'the Builder', as Ugaritic pairs El's titles ṯr il dpid // bny bnwt 'Builder of Built (Ones)' (KTU 1.4 III 30–32; Smith & Pitard 2009, 39, 447). Same root as NU-RO nūr; Akkadian nawir 'is bright' names a god in OB personal names, Sîn-nawir 'The Moon Is Shining' (CAD N/1 212). Rival: ʾaṣwaru 'Fashioner' (√ṣ-w-r; Q 59:24 al-muṣawwir beside al-bāriʾ), which needs AB48 to be a sibilant + w sign. One attestation. See \*301-U-RA.
+SY Za 4, word 2, after the formula verb A-TA-I-\*301-WA-JA, in the deity or recipient slot. RILA-S1 (84) reads JA-I-NWA-RO with RO underdotted and rates Muhly and Olivier's JA-I-NWA-ZA (2008, 208) 'moins probable' (cf. SY Za 11; for ZA cf. KN Zf 31). Sign 3 is NWA (AB48) in both RILA-S1 lines, its only occurrence in the corpus, the Linear A counterpart of Linear B nwa, long thought absent from the script (Muhly and Olivier 2008, 207–8, 216; Davis 2026b, 95 n. 383), with the value of Linear B B48 (pe-ru-si-nwa ~ pe-ru-si-nu-wa). JA is vocative ya, as in JA-DI-KI-TU; I writes the aleph, here ʾa (cf. I- for ʾu in I-KU-JU-TI); NWA writes /nw/; -RO writes final /-ru/. ʾanwaru is the ʾaqtal elative of √n-w-r 'light': Arb. 'hāḏā ʾanwaru min ḏāka' (al-Zamakhsharī, Asās al-Balāgha, s.v. nwr). The epithet stands before PA₃-NI-WI 'the Builder', as Ugaritic pairs El's titles ṯr il dpid // bny bnwt 'Builder of Built (Ones)' (KTU 1.4 III 30–32; Smith & Pitard 2009, 39, 447). Same root as NU-RO nūr; Akkadian nawir 'is bright' names a god in OB personal names, Sîn-nawir 'The Moon Is Shining' (CAD N/1 212). Rival: ʾaṣwaru 'Fashioner' (√ṣ-w-r; Q 59:24 al-muṣawwir beside al-bāriʾ), which needs AB48 to be a sibilant + w sign. One attestation. See \*301-U-RA.
 
 ## As a name
 

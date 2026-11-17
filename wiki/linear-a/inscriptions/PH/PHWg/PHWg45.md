@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/PH/PHWg/PHWg45
 title: "PHWg45"
-desc: "Nodule, Phaistos, MMII. Translation: none."
+desc: "Nodule, Phaistos, MMIIB. Translation: none."
 tags: ["linear-a", "inscription", "translation-none", "nodule"]
 kind: "inscription"
 id: "PHWg45"
 site: "Phaistos"
 support: "Nodule"
-period: "MMII"
+period: "MMIIB"
 translation: "none"
 words: []
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Phaistos |
 | Findspot |  |
 | Support | Nodule |
-| Period | MMII |
+| Period | MMIIB |
 | Scribe |  |
 | Edition | unattributed |
 | Series | PHWg |

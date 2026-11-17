@@ -37,11 +37,16 @@ updated: 2026-10-24T16:17:50Z
 
 | Value | Confidence | Evidence |
 |---|---|---|
-| /ta/ | 0.20 | T-class neutralization (less likely for DA) |
+| /ta/ | 0.20 | T-class neutralization (less likely for DA); Cypriot syllabic ta descends from Linear A DA, not TA; Davis reads DA /θa/ and the Cypriot /ta/ as an innovation (2026b, 121–22, Tables 3.28, 3.30) |
 
 ### Forms cited for the value
 
 - DA-KU-SE-NE = Dakušenni (Hurrian PN)
+- The Linear B value, confirmed in Linear A by more than one contextual test (Davis 2026b, 18, Table 1.3, after Duhoux 1989)
+
+### Note
+
+Rival for the d-series: a dental fricative /θ/, said \[θ\] or \[ð\], from DU-PU₂-RE beside Linear B da-pu₂-ri-to-jo and λαβύρινθος, a link Davis takes from Valério, and from potential pairs, mostly men's names, in which Linear B renders Linear A d with d, r, t or s (2026b, 108–24, Hypothesis 7).
 
 ## Lexicon words written with this sign
 

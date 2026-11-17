@@ -38,4 +38,6 @@ updated: 2026-11-12T00:26:03Z
 
 A sign. Status **unread** (nothing on file).
 
+GORILA's countermark, alone on the nodule HT Wa 1854, one of A 365–370 on HT Wa 1849–1854 (Salgarella 2020, 309–12). The corpus also has it on HT 49a, 1 \*370 1, which SigLA leaves unread and Salgarella does not list.
+
 <!-- END kaphtor:record -->

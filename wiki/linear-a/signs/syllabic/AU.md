@@ -35,7 +35,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Forms cited for the value
 
-- AU-RE-TE = ʾawrēt 'luminous' (√ʾ-w-r 'to shine') on KH6
+- AU-RE-TE = ʾawrēt 'luminous' (√ʾ-w-r 'to shine') on KH6, the only syllabic AU on the administrative documents, the use Linear B keeps, while Haghia Triada writes AB 85 only as the logogram SUS (Salgarella 2020, 156, 164)
 - KO(?)Zf2 contains AU within an undivided sequence; AU-TA is not admitted as an independent confirming witness
 
 ## Lexicon words written with this sign
@@ -43,6 +43,6 @@ updated: 2026-10-24T16:17:50Z
 | Word | Reading | Confidence |
 |---|---|---|
 | [[wiki/linear-a/words/A/AU_RE_TE\|AU-RE-TE]] | ʾawrēt | CANDIDATE |
-| [[wiki/linear-a/words/S/SE_WA_AU_DE\|SE-WA-AU-DE]] | šawaʿ-dē | SPECULATIVE |
+| [[wiki/linear-a/words/S/SE_WA_AU_DE\|SE-WA-AU-DE]] | šiwwâ hawd- | SPECULATIVE |
 
 <!-- END kaphtor:record -->

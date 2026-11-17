@@ -28,10 +28,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Value | /du/ |
-| Alternates | none |
+| Alternates | /ḏu/ |
 | Linear B | B 51, value du |
 | Linear B Unicode | U+10009 LINEAR B SYLLABLE B051 DU |
 | Neutralization class | T |
+
+### Alternate values
+
+| Value | Confidence | Evidence |
+|---|---|---|
+| /ḏu/ |  | Second value of the same sign, not a rival: the relative ḏū 'he of, that of', alone on ZA 10b and ZA 31 and first in DU-RU-WI, DU-\*314-RE ḏū har and DU-JA Ḏū-Ya; Cypriot syllabic su descends from Linear A DU, which Davis reads /θu/, said \[θu\] or \[ðu\] (2026b, 121–23, Tables 3.28–3.31, Hypothesis 7) |
 
 ### Forms cited for the value
 

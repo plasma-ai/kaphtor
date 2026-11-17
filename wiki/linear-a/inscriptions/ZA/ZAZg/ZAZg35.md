@@ -51,21 +51,21 @@ Unicode (Linear A block):
 
 **SPECULATIVE**, complete.
 
-> ʿAmmī-yarūm, who cries out.
+> ʿAmmī-yarūm set the ornament.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | [[wiki/linear-a/words/A/A_MI_JA_RU\|A-MI-JA-RU]] | ʿAmmī-yarūm | personal name, 'My kinsman is exalted' | SPECULATIVE | SPECULATIVE (lexicon) |
-| [[wiki/linear-a/words/S/SE_WA_AU_DE\|SE-WA-AU-DE]] | šawaʿ-dē | who cries out, the one who implores (relative clause: √š-w-ʿ + determinative-relative dē) | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/S/SE_WA_AU_DE\|SE-WA-AU-DE]] | šiwwâ hawd- | set the ornament | SPECULATIVE | SPECULATIVE (lexicon) |
 
 ### Notes
 
-All eight signs and the divider are whole. The left end of the label is probably a break, so text may be lost before A-MI-JA-RU. Photograph and drawing checked.
+A bone or ivory rod found outside the south front of the workshop quarter of the Zakros palace, in a fill with nothing later than LM IA, broken at the left end (Kopaka 1989, 7–9). Seven signs and the divider are whole; the first is cut by the break, printed \]ME, doubtful, in the first edition, and A by the drawing. Rival reading: 'ʿAmmī-yarūm, who cries out.' Photograph and drawing checked.
 
 ### Source
 
 - di Mino: A-MI-JA-RU, SE-WA-AU-DE
-- GORILA: ZAZg35
+- Kopaka 1989: ZAZg35
 
 ## Lexicon words citing this document
 

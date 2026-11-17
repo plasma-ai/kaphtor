@@ -49,6 +49,7 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/hurrian/names/A_RA_NA_RE\|A-RA-NA-RE]] | Aranare: personal name; Ugaritic ålnr (Hurrian), Linear B a-ra-na-ro | Hurrian personal name |  | CANDIDATE | 1 |
 | [[wiki/names/semitic/names/A_RA_U_DA\|A-RA-U-DA]] | ʾArwada: Arwad (island city of the Phoenician coast), the home of the man named before it; rival a personal name, Ugaritic ảrwd(n) | Semitic place name | [[wiki/names/semitic/roots/alefarwad\|ʾArwad]] | SPECULATIVE | 1 |
 | [[wiki/names/hurrian/names/A_RE_DA_I\|A-RE-DA-I]] | Ar-tae: Ar-tae (personal name; Hurrian ar- 'give') | Hurrian personal name |  | SPECULATIVE | 1 |
+| [[wiki/names/semitic/names/A_RE_NE\|A-RE-NE]] | ʾAren: Aren, a man's name, the owner of the ring | Semitic personal name | [[wiki/names/semitic/roots/alef-r-n\|ʾ-r-n]] | SPECULATIVE | 1 |
 | [[wiki/names/semitic/names/A_RE_PI_RE_NA\|A-RE-PI-RE-NA]] | ʾa-repiʾ-rennā: Healer of Jubilation (Eshmun epithet) | Semitic divine name | [[wiki/names/semitic/roots/r-p-alef\|r-p-ʾ]] + [[wiki/names/semitic/roots/r-n-n\|r-n-n]] | SPECULATIVE | 1 |
 | [[wiki/names/semitic/names/A_RE_SA_NA\|A-RE-SA-NA]] | ʾAriš-ān: 'The Requested One', personal name from √ʾ-r-š 'to request, desire' with -ān; rival Ḥarišān 'craftsman' | Semitic personal name | [[wiki/names/semitic/roots/alef-r-sh\|ʾ-r-š]] | CANDIDATE | 1 |
 | [[wiki/names/semitic/names/A_RE_TU_MI\|A-RE-TU-MI]] | ʾarṣ̂-ummī: Earth is my mother (NWS theophoric compound PN; pre-Greek Artemis) | Semitic personal name | [[wiki/names/semitic/roots/alef-r-dd\|ʾ-r-ṣ̂]] + [[wiki/names/semitic/roots/alef-m-m\|ʾ-m-m]] | CANDIDATE | 1 |
@@ -188,6 +189,7 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/semitic/names/KI_RE_TA_NA\|KI-RE-TA-NA]] | Kretan: Cretan (gentilic: 'of Crete') | Semitic gentilic | [[wiki/names/semitic/roots/k-r-t\|k-r-t]] | CONFIRMED | 4 |
 | [[wiki/names/semitic/names/KI_RI_SI\|KI-RI-SI]] | Kiriš: Kiriš, the god of the Amorite names, as oil recipient; rivals Hurrian Kiriš and a personal name | Semitic divine name | [[wiki/names/semitic/roots/kirish\|Kiriš]] | SPECULATIVE | 1 |
 | [[wiki/names/semitic/names/KI_RI_TA2\|KI-RI-TA₂]] | Kirīta: Kret (variant spelling) | Semitic personal name | [[wiki/names/semitic/roots/k-r-t\|k-r-t]] | PROBABLE | 2 |
+| [[wiki/names/semitic/names/KI_RU\|KI-RU]] | Kirru: personal name, the owner of the vase; Ugaritic krr | Semitic personal name | [[wiki/names/semitic/roots/k-r\|k-r]] | SPECULATIVE | 1 |
 | [[wiki/names/semitic/names/KI_plus_MU\|KI+MU]] | kumru: priest(s) (personnel category, ligatured onset abbreviation) | Semitic title | [[wiki/names/semitic/roots/k-m-r\|k-m-r]] | CANDIDATE | 2 |
 | [[wiki/names/semitic/names/KO_A_DU_WA\|KO-A-DU-WA]] | Qō-Addua: personal name, 'Hope in Addu' (Amorite Quwi-Haddu); rival an Anatolian name in Kuwa- | Semitic personal name | [[wiki/names/semitic/roots/q-w-y\|q-w-y]] + [[wiki/names/semitic/roots/alef-d-d\|ʾ-d-d]] | SPECULATIVE | 1 |
 | [[wiki/names/semitic/names/KO_JA\|KO-JA]] | Qōya: personal name, Amorite type (quwy- 'wait for, hope'); rival 'be strong' | Semitic personal name | [[wiki/names/semitic/roots/q-w-y\|q-w-y]] | SPECULATIVE | 1 |
@@ -197,7 +199,7 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/semitic/names/KU_MA_JU\|KU-MA-JU]] | Qumalu: Qumalu 'Louse' (personal name); rival kumru 'priest' | Semitic personal name | [[wiki/names/semitic/roots/q-m-l\|q-m-l]] | SPECULATIVE | 1 |
 | [[wiki/names/semitic/names/KU_NI_TE\|KU-NI-TE]] | kuhnēt: priestess (fem. singular) | Semitic title | [[wiki/names/semitic/roots/k-h-n-t\|k-h-n-t]] | SPECULATIVE | 1 |
 | [[wiki/names/semitic/names/KU_PA3_NA_TU\|KU-PA₃-NA-TU]] | Kubānatu: devotee(s) of Kubaba (Kubaba + -ān- + feminine -atu), a counted personnel group | Semitic title | [[wiki/names/semitic/roots/kubaba\|Kubaba]] | CANDIDATE | 2 |
-| [[wiki/names/semitic/names/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu: devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan | Semitic personal name | [[wiki/names/semitic/roots/kubaba\|Kubaba]] | PROBABLE | 7 |
+| [[wiki/names/semitic/names/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu: devotee of Kubaba (Kubaba + -ān-), personal name or title | Semitic personal name | [[wiki/names/semitic/roots/kubaba\|Kubaba]] | PROBABLE | 7 |
 | [[wiki/names/sumerian/names/KU_PA3_PA3\|KU-PA₃-PA₃]] | Kubaba: Kubaba, Sumerian Kug-Baba 'Pure is Baba' (divine or personal name) | Sumerian divine name | [[wiki/names/sumerian/roots/kubaba\|Kubaba]] | PROBABLE | 1 |
 | [[wiki/names/semitic/names/KU_PA3_RI_JA\|KU-PA₃-RI-JA]] | Kubariya: Kubariya, a town of Ugarit, (wool) of Kubariya: a section heading; rival Gubliya 'the Byblian' | Semitic place name | [[wiki/names/semitic/roots/kubariya\|Kubariya]] | SPECULATIVE | 1 |
 | [[wiki/names/semitic/names/KU_PA_JA\|KU-PA-JA]] | Kubbaya: personal name, hypocoristic of Kubaba in -aya, cf. Amorite Kubbiya | Semitic personal name | [[wiki/names/semitic/roots/kubb\|Kubb-]] | SPECULATIVE | 1 |

@@ -40,7 +40,7 @@ Evidence: qi reads \*34-TI-RI qiṭrī, PI-\*34-TE piqitti and U-\*34-SI u-qīš
 
 | Value | Confidence | Evidence |
 |---|---|---|
-| /ai/ | 0.25 | Linear B \*34 /ˈai/ (Melena, Untransliterated Syllabograms, 21–22); PI-\*34-TE bayte 'house' (HT116a; DULAT 243) |
+| /ai/ | 0.25 | Linear B \*34 /ˈai/ (Melena, Untransliterated Syllabograms, 21–22), \*34/35 a₅ /ʰai/ in Salgarella's table (Melena 2014b, apud Salgarella 2023, 414); PI-\*34-TE bayte 'house' (HT116a; DULAT 243) |
 | /ʿi/ | 0.15 | \*34-TI-RI ʿiṭrī 'my scent' (KNZc6; HALOT 906) |
 
 ### Forms cited for the value

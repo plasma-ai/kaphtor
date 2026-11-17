@@ -47,4 +47,8 @@ Unicode (Linear A block):
 𐝫𐘅𐘵
 ```
 
+## Corpus note
+
+Like KN Wc 23, the roundel may be inscribed in Cretan Hieroglyphic (Schoep 2026, 142).
+
 <!-- END kaphtor:record -->

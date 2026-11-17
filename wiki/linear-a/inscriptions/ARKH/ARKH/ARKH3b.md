@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/ARKH/ARKH/ARKH3b
 title: "ARKH3b"
-desc: "Tablet, Arkhanes. Translation: incomplete (SPECULATIVE)."
+desc: "Tablet, Arkhanes, LMI. Translation: incomplete (SPECULATIVE)."
 tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
 kind: "inscription"
 id: "ARKH3b"
 site: "Arkhanes"
 support: "Tablet"
-period: ""
+period: "LMI"
 translation: "incomplete"
 words: []
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Arkhanes |
 | Findspot |  |
 | Support | Tablet |
-| Period |  |
+| Period | LMI |
 | Scribe | [[wiki/linear-a/by_scribe\|ARKH Scribe 1]] (?) |
 | Edition | GORILA 3 |
 | Series | ARKH |

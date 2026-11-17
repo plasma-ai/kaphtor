@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/MA/MA/MA1b
 title: "MA1b"
-desc: "3-sided bar, Malia. Translation: complete (SPECULATIVE)."
+desc: "3-sided bar, Malia, MMIIIB. Translation: complete (SPECULATIVE)."
 tags: ["linear-a", "inscription", "translation-complete", "3-sided-bar"]
 kind: "inscription"
 id: "MA1b"
 site: "Malia"
 support: "3-sided bar"
-period: ""
+period: "MMIIIB"
 translation: "complete"
 words: ["A-MA", "QE-DE-MI-NU"]
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Malia |
 | Findspot |  |
 | Support | 3-sided bar |
-| Period |  |
+| Period | MMIIIB |
 | Scribe |  |
 | Edition | GORILA 1 |
 | Series | MA |

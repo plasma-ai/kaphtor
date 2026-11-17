@@ -69,7 +69,7 @@ Gordon 1966; HALOT
 | [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH4b\|ARKH4b]] | Arkhanes | Tablet | none |
 | [[wiki/linear-a/inscriptions/GO/GO/GO2v\|GO2v]] | Gournia | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT109\|HT109]] | Haghia Triada | Tablet | incomplete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT32\|HT32]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT32\|HT32]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT41a\|HT41a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT66\|HT66]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH6\|KH6]] | Khania | Tablet | incomplete |

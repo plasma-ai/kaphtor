@@ -45,7 +45,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/D/DI_DI_KO_RA_ME_TA2\|DI-DI-KO-RA-ME-TA₂]] | Djed-ka-Re meti | SPECULATIVE |
 | [[wiki/linear-a/words/K/KO_A_DU_WA\|KO-A-DU-WA]] | Qō-Addua | SPECULATIVE |
 | [[wiki/linear-a/words/K/KO_JA\|KO-JA]] | Qōya | SPECULATIVE |
-| [[wiki/linear-a/words/K/KO_MU\|KO-MU]] | kummu | SPECULATIVE |
+| [[wiki/linear-a/words/K/KO_MU\|KO-MU]] | qōmu | SPECULATIVE |
 | [[wiki/linear-a/words/K/KO_RU\|KO-RU]] | kōr | SPECULATIVE |
 | [[wiki/linear-a/words/K/KO_SA_I_TI\|KO-SA-I-TI]] | Kōšayīt | SPECULATIVE |
 | [[wiki/linear-a/words/K/KU_TU_KO_RE\|KU-TU-KO-RE]] | Kutukkore | SPECULATIVE |

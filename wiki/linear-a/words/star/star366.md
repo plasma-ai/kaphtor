@@ -31,4 +31,6 @@ updated: 2026-11-12T00:26:03Z
 
 A sign. Status **unread** (nothing on file).
 
+GORILA's countermark, alone on the nodule HT Wa 1850, one of A 365–370 on HT Wa 1849–1854 (Salgarella 2020, 309–12).
+
 <!-- END kaphtor:record -->

@@ -41,7 +41,7 @@ updated: 2026-11-08T17:23:01Z
 
 ### Note
 
-KN Zf 13, signs 12–13, RI dotted. rēš- with the 1cs suffix -ī written with an E-series sign, as I-JA-TE ʾiyyate; RI-SU-MA rīšum(a) is the bare noun. Object before its verb: rēšī tarīmu 'you lift up my head', the idiom of Ps 3:4. Rival: SE-TE-RI-MU, Amorite sitrum 'protection', leaving RI alone. The vowel is that of Ugaritic rỉš, Ebla rí-še₆ and Syriac rīšā (DULAT 713; GlOS 2, 149), and of Eteocypriot re-še 'chief' in da-we-da-re-še (Gordon 1966, n. 10); Canaanite rōš is the other form (ru-šu-nu, EA 264:18). One attestation.
+KN Zf 13, signs 12–13, RI dotted. rēš- with the 1cs suffix -ī written with an E-series sign, as I-JA-TE ʾiyyate; RI-SU-MA rīšum(a) is the bare noun. Object before its verb: rēšī tarīmu 'you lift up my head', the idiom of Ps 3:4. The vowel is that of Ugaritic rỉš, Ebla rí-še₆ and Syriac rīšā (DULAT 713; GlOS 2, 149), and of Eteocypriot re-še 'chief' in da-we-da-re-še (Gordon 1966, n. 10); Canaanite rōš is the other form (ru-šu-nu, EA 264:18). One attestation.
 
 ### Cognates
 

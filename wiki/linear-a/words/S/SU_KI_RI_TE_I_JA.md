@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT Zb 158b, a jar: the only word on side b (GORILA IV 65); side a reads \[·\]-TU-SE-SU-KI. Gentilic on SU-KI-RI-TA (PH Wa 32), the vowel of KI dead before RI; Linear B has the ethnic su-ki-ri-ta-jo (KN C 911). Davis (Aura Suppl. 13, 46) pairs the two forms as alternating endings. -I-JA is the Semitic nisba \*-iy- (fem. \*-iyya), the gentilic suffix of Ugaritic ugrty /ʾugaritiyyu/ 'man of Ugarit' (Fischer 2002, §116). Rival: Anatolian -iya-. -TE-I-JA has no other Linear A witness; SE-TO-I-JA (PR Za 1) shares -I-JA. One document.
+HT Zb 158b, a jar: the only word on side b (GORILA IV 65); side a reads \[·\]-TU-SE-SU-KI. Gentilic on SU-KI-RI-TA (PH Wa 32), the vowel of KI dead before RI; Linear B has the ethnic su-ki-ri-ta-jo (KN C 911). Davis (2026, 46) pairs the two forms as alternating endings. -I-JA is the Semitic nisba \*-iy- (fem. \*-iyya), the gentilic suffix of Ugaritic ugrty /ʾugaritiyyu/ 'man of Ugarit' (Fischer 2002, §116). Rival: Anatolian -iya-. -TE-I-JA has no other Linear A witness; SE-TO-I-JA (PR Za 1) shares -I-JA. One document.
 
 ### Cognates
 
@@ -80,6 +80,6 @@ di Mino; Fischer 2002
 
 ### Note
 
-Only word on side b of the HT Zb 158 jar (GORILA IV 65); side a reads \[·\]-TU-SE-SU-KI. Gentilic on SU-KI-RI-TA (PH Wa 32), the vowel of KI dead before RI: Sukrita, Greek Σύβριτα, a Cretan town at Thronos in the Amari valley. Ventris and Chadwick read LB su-ki-ri-ta as Sugrita, KI for /gi/; the later β is the Pre-Greek β/γ alternation of βληχών/γλαχών and βλέπω/γλέπω, not a regular labio-velar outcome (Chadwick & Baumbach 1963). Davis (Aura Suppl. 13, 46) pairs the two forms as alternating endings. -TE-I-JA has no other Linear A witness; SE-TO-I-JA (PR Za 1) shares -I-JA. The ending can be the Semitic nisba \*-iy- (fem. \*-iyya), the suffix of gentilics such as Ugaritic ugrty /ʾugaritiyyu/ 'man of Ugarit' (Arabic nisba, Fischer §116); Anatolian -iya- fits it as well.
+Only word on side b of the HT Zb 158 jar (GORILA IV 65); side a reads \[·\]-TU-SE-SU-KI. Gentilic on SU-KI-RI-TA (PH Wa 32), the vowel of KI dead before RI: Sukrita, Greek Σύβριτα, a Cretan town at Thronos in the Amari valley. Ventris and Chadwick read LB su-ki-ri-ta as Sugrita, KI for /gi/; the later β is the Pre-Greek β/γ alternation of βληχών/γλαχών and βλέπω/γλέπω, not a regular labio-velar outcome (Chadwick & Baumbach 1963). Davis (2026, 46) pairs the two forms as alternating endings. -TE-I-JA has no other Linear A witness; SE-TO-I-JA (PR Za 1) shares -I-JA. The ending can be the Semitic nisba \*-iy- (fem. \*-iyya), the suffix of gentilics such as Ugaritic ugrty /ʾugaritiyyu/ 'man of Ugarit' (Arabic nisba, Fischer §116); Anatolian -iya- fits it as well.
 
 <!-- END kaphtor:record -->

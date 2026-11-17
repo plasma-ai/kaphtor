@@ -48,7 +48,6 @@ Dual-function: logogram (60%, standalone with quantities 1-90) + syllabogram da 
 | [[wiki/linear-a/words/star/star305_RU\|\*305-RU]] | ḏarʿ(u) | SPECULATIVE |
 | [[wiki/linear-a/words/star/star305_WA_NA\|\*305-WA-NA]] | Dawana | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_star305\|KA-\*305]] | ka-ḏā | SPECULATIVE |
-| [[wiki/linear-a/words/S/SA_star305_MI\|SA-\*305-MI]] | šadmi | SPECULATIVE |
 | [[wiki/linear-a/words/S/SE_star305\|SE-\*305]] | ṣēdā | SPECULATIVE |
 
 <!-- END kaphtor:record -->

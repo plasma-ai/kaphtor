@@ -43,6 +43,6 @@ Transliteration, line by line:
 
 ## Corpus note
 
-RILA-S1 sign index (AB 31): \]\[·\]-31-31-60-73, alternative \]J̣Ạ-SA-SA-RA-MI. Miniature painted cup, Plateia Haghia Aikaterini, LM IIIA1 (Hallager 2016, 290–293, fig. 81); RILA-S1 p. xvii calls it a variant of the sacred formula.
+RILA-S1 sign index (AB 31): \]\[·\]-31-31-60-73, alternative \]J̣Ạ-SA-SA-RA-MI. Miniature painted cup, Plateia Haghia Aikaterini, LM IIIA1 (Hallager 2016, 290–293, fig. 81); RILA-S1 p. xvii calls it a variant of the sacred formula. It is understood to have been imported from Knossos, and is dated LM IIIA1 on style and by its find in a rubbish pit of mostly LM IIIA1 material (Salgarella 2020, 43).
 
 <!-- END kaphtor:record -->

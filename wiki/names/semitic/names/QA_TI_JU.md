@@ -32,11 +32,11 @@ updated: 2026-11-11T23:39:03Z
 | Reading's standing | SPECULATIVE |
 | Standing as a personal name | SPECULATIVE |
 | Standing of the layer | SPECULATIVE (lexicon_reading) |
-| Source | di Mino; Harding 1971; Monti 2017 |
+| Source | di Mino; Harding 1971; Monti 2017; DMic II; Davis 2026b |
 
 ## Note
 
-ZA 14: QA-TI-JU 8, a name among recipients (ME-KI-DI 1, PU-NI-KA-\*363 3, KU-PI 1, TU-MI-TI-ZA-SE 45). JU writes lu: qa-ti-lu, the qātil participle of \*ḳtl 'kill', a name in Safaitic qtl and Arabic Qātila (Harding 1971, 476). Rival: Hurrian Katiya 'He/She said' (Mari ka-ti-ia; Monti 2017, 255), with JU for yu, on the stem of QA-TI-DA-TE Kati-tati. One witness.
+ZA 14: QA-TI-JU 8, a name among recipients (ME-KI-DI 1, PU-NI-KA-\*363 3, KU-PI 1, TU-MI-TI-ZA-SE 45). JU writes lu: qa-ti-lu, the qātil participle of \*ḳtl 'kill', a name in Safaitic qtl and Arabic Qātila (Harding 1971, 476). Linear B qa-ti-ja (KN As 1519.4) and qa-di-ja (KN C 911.6), men at Knossos (DMic II), which Davis pairs with QA-TI-JU as one name heard with t and d (2026b, 104–5). Rival: Hurrian Katiya 'He/She said' (Mari ka-ti-ia; Monti 2017, 255), with JU for yu, on the stem of QA-TI-DA-TE Kati-tati. One witness.
 
 ## As a name
 

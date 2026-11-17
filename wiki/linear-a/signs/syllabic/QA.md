@@ -36,6 +36,11 @@ updated: 2026-10-24T16:17:50Z
 ### Forms cited for the value
 
 - QA-PA₃ = kapu (Gordon: 'vessel')
+- The Linear B value, confirmed in Linear A by one contextual test (Davis 2026b, 18, Table 1.3, after Duhoux 1989)
+
+### Note
+
+Rival: a labiovelar /kʷ/, said \[kʷ\] or \[gʷ\], the value of Linear B q, from QA-QA-RU beside Linear B qa-qa-ro, KN As 604.3 (Davis 2026b, 153, 157, Hypothesis 18; the pair after Duhoux 1992, 81).
 
 ## Lexicon words written with this sign
 
@@ -56,7 +61,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/Q/QA_MI_star47_NA_RA\|QA-MI-\*47-NA-RA]] | qāmī šū-nāra | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_NE\|QA-NE]] | qanē | CANDIDATE |
 | [[wiki/linear-a/words/Q/QA_NU_MA\|QA-NU-MA]] | qanūma | CANDIDATE |
-| [[wiki/linear-a/words/Q/QA_PA3\|QA-PA₃]] | qubaʿ | PROBABLE |
+| [[wiki/linear-a/words/Q/QA_PA3\|QA-PA₃]] | qab | PROBABLE |
 | [[wiki/linear-a/words/Q/QA_QA_DA\|QA-QA-DA]] | qaqqadu | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_QA_RU\|QA-QA-RU]] | Qaqqaru | CANDIDATE |
 | [[wiki/linear-a/words/Q/QA_RA2_WA\|QA-RA₂-WA]] | qalwa | CANDIDATE |

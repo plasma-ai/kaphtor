@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/MA/MA/MA9
 title: "MA9"
-desc: "Tablet, Malia, MMIII. Translation: none."
+desc: "Tablet, Malia, MMIIIB. Translation: none."
 tags: ["linear-a", "inscription", "translation-none", "tablet"]
 kind: "inscription"
 id: "MA9"
 site: "Malia"
 support: "Tablet"
-period: "MMIII"
+period: "MMIIIB"
 translation: "none"
 words: []
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Malia |
 | Findspot | Malia Palace Room III 8 |
 | Support | Tablet |
-| Period | MMIII |
+| Period | MMIIIB |
 | Scribe |  |
 | Edition | GORILA 1 |
 | Series | MA |

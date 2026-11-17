@@ -75,6 +75,6 @@ Face b: four unit strokes, whole. Face a: GORILA draws a dotted unit stroke afte
 
 ## Corpus note
 
-GORILA II 88: a.1–2 A-SA-DA-KẠ with a dotted unit stroke after it; SA drawn damaged. b GRA+E 4 (A581, GRA with the fraction E), two strokes over two; SigLA omits the 4.
+GORILA II 88: a.1–2 A-SA-DA-KẠ with a dotted unit stroke after it; SA drawn damaged. b GRA+E 4 (A581, GRA with the fraction E), two strokes over two; SigLA omits the 4. Now lost. At least one seal impression is recorded, and the "pinched" appearance of part of its rim could suggest that it was stamped twice (Anastasiadou 2026, 39, after Chapouthier 1948).
 
 <!-- END kaphtor:record -->

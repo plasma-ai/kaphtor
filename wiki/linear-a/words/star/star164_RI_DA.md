@@ -19,7 +19,7 @@ updated: 2026-10-24T16:17:50Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Signs.** \*164 · [[wiki/linear-a/signs/syllabic/RI|RI]] · [[wiki/linear-a/signs/syllabic/DA|DA]]
+**Signs.** [[wiki/linear-a/signs/syllabic/star164|\*164]] · [[wiki/linear-a/signs/syllabic/RI|RI]] · [[wiki/linear-a/signs/syllabic/DA|DA]]
 
 ## Attestations
 

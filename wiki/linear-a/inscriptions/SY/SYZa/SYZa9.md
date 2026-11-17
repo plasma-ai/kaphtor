@@ -51,17 +51,17 @@ Unicode (Linear A block):
 
 **CANDIDATE**, complete.
 
-> May that which is poured out glorify (her).
+> May what comes forth bear fruit.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/J/JA_PA_RA_JA_SE\|JA-PA-RA-JA-SE]] | yapʾara yāṣē | may that which goes out glorify | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/J/JA_PA_RA_JA_SE\|JA-PA-RA-JA-SE]] | yapra yāṣē | may what comes forth bear fruit | CANDIDATE | CANDIDATE (lexicon) |
 
 ### Notes
 
 Context: Peak sanctuary; sole word inscription (LM IA)
 
-The sole word of the Syme inscription (first edition, transcription only: Muhly & Olivier 2008, 212–13, HM 5585, found 1987). The libation is the grammatical subject: what goes out of the vessel glorifies the goddess—cf. Isa 60:13 לְפָאֵר מְקוֹם מִקְדָּשִׁי "to beautify the place of my sanctuary", and the hitpaʿel prayer register (Isa 60:21, 61:3; Ben Sira 50:20). √p-ʾ-r also gives pəʾēr "diadem" and tipʾart "splendor".
+The sole word of the Syme inscription (first edition, transcription only: Muhly & Olivier 2008, 212–13, HM 5585, found 1987). A prayer for the yield: Hebrew sets the two verbs in one verse, וְיָצָא חֹטֶר … יִפְרֶה (Isa 11:1), and calls the crop what comes forth from the field (Deut 14:22). On the rival reading the libation is the grammatical subject, what goes out of the vessel glorifying the goddess—cf. Isa 60:13 לְפָאֵר מְקוֹם מִקְדָּשִׁי "to beautify the place of my sanctuary" and Ben Sira 50:20.
 
 ### Source
 

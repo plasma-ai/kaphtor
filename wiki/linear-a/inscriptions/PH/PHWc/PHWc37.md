@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/PH/PHWc/PHWc37
 title: "PHWc37"
-desc: "Roundel, Phaistos, MMII. Translation: complete (CANDIDATE)."
+desc: "Roundel, Phaistos, MMIIB. Translation: complete (CANDIDATE)."
 tags: ["linear-a", "inscription", "translation-complete", "roundel"]
 kind: "inscription"
 id: "PHWc37"
 site: "Phaistos"
 support: "Roundel"
-period: "MMII"
+period: "MMIIB"
 translation: "complete"
 words: ["KA-*314-SI"]
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Phaistos |
 | Findspot |  |
 | Support | Roundel |
-| Period | MMII |
+| Period | MMIIB |
 | Scribe |  |
 | Edition | GORILA 2 |
 | Series | PHWc |
@@ -59,7 +59,7 @@ Unicode (Linear A block):
 
 ### Notes
 
-The roundel is whole.
+The roundel is whole. \*320 stands alone on face b, where PH Wc 39 and 40 have RO; if \*320 is TI, it is TI alone. Salgarella reads the faces as one sign-group, KA-314-SI-320 (2020, 324).
 
 ### Source
 

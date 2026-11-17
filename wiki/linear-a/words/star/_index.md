@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/star
 desc: "Words that open with a sign known by its number, such as *306."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-16T03:58:42Z
+updated: 2026-11-18T16:16:38Z
 ---
 
 # wiki/linear-a/words/star
@@ -11,9 +11,9 @@ updated: 2026-11-16T03:58:42Z
 
 [[wiki/linear-a/words/star/star118|star118]]: (logogram): talent, the largest weight unit (standing alone before a numeral). Lexicon, PROBABLE (tier 3).
 
-[[wiki/linear-a/words/star/star118_MI|star118_MI]]: ṭammi: abundance, a counted entry; rival dam 'blood'. Lexicon, SPECULATIVE (tier 1).
-
 [[wiki/linear-a/words/star/star118_MI_NA_broken_start|star118_MI_NA_broken_start]]: Unread (unread): no role; 1 occurrence(s).
+
+[[wiki/linear-a/words/star/star118_MI_broken_both|star118_MI_broken_both]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/star/star131B|star131B]]: tirōšu: must, new wine (unfermented or partially fermented grape juice) — commodity logogram. Lexicon, SPECULATIVE (tier 1).
 
@@ -137,13 +137,13 @@ updated: 2026-11-16T03:58:42Z
 
 [[wiki/linear-a/words/star/star310|star310]]: Unread sign (sign, unread); 1 occurrence(s).
 
-[[wiki/linear-a/words/star/star312|star312]]: Unread sign (sign, unread); 4 occurrence(s).
+[[wiki/linear-a/words/star/star312|star312]]: bitt(u): a length of cloth; in the name list of HT 49a, the daughter (the sign BI, short for bitt, alone before a quantity). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/star/star312_TA|star312_TA]]: Unread (unread): no role; 1 occurrence(s).
+[[wiki/linear-a/words/star/star312_TA|star312_TA]]: bīta: the house, the household (an institution drawing emmer); rivals bitta 'lengths of cloth' and the name zo-ta. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/star/star312_TA2|star312_TA2]]: Unread (unread): no role; 1 occurrence(s).
+[[wiki/linear-a/words/star/star312_TA2|star312_TA2]]: bīta: the house, the household: the Zakros spelling of *312-TA. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/star/star312_TE_TE|star312_TE_TE]]: Unread (unread): no role; 1 occurrence(s).
+[[wiki/linear-a/words/star/star312_TE_TE|star312_TE_TE]]: bittīt: of the cloth lengths (feminine nisbe of bitt, the word of *312), heading a textile account; rival bītīt 'of the house'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/star/star314|star314]]: Unread sign (sign, unread); 1 occurrence(s).
 
@@ -165,7 +165,11 @@ updated: 2026-11-16T03:58:42Z
 
 [[wiki/linear-a/words/star/star319|star319]]: Unread sign (sign, unread); 3 occurrence(s).
 
-[[wiki/linear-a/words/star/star320|star320]]: Unread sign (sign, unread); 1 occurrence(s).
+[[wiki/linear-a/words/star/star320|star320]]: Unread sign (sign, value on file); 2 occurrence(s).
+
+[[wiki/linear-a/words/star/star320_NA|star320_NA]]: Unread (role only): personal name; 1 occurrence(s).
+
+[[wiki/linear-a/words/star/star320_star320_MA|star320_star320_MA]]: ṯiṯṯīma: sixty (numeral); rival a personal name. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/star/star322_RI|star322_RI]]: Unread (unread): no role; 1 occurrence(s).
 

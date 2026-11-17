@@ -27,7 +27,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Site | Gournia |
-| Findspot |  |
+| Findspot | Gournia palace, south-west wing, Room 16B |
 | Support | Roundel |
 | Period | LMIB |
 | Scribe |  |
@@ -46,5 +46,9 @@ Unicode (Linear A block):
 ```text
 𐝬𐄑,𐄈
 ```
+
+## Corpus note
+
+From the lower of two LM IB destruction layers in Room 16B, sealed by a paved floor (Watrous et al. 2015, 437, apud Schoep 2026, 141).
 
 <!-- END kaphtor:record -->

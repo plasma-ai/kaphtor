@@ -78,7 +78,7 @@ Unicode (Linear A block):
 
 ### Notes
 
-Allocation tablet, companion to HT11b (same scribe, same findspot). Section 1: A-RU-RA (ʾArura) \]3, KA-RO-NA (Qarna) 2, \*322-RI 1, KU-RO 10. GORILA I 23 prints the first numeral broken before 3 (\]3), so the entries can reach KU-RO 10. Section 2: A-SU-JA 1, VIR+\[?\]-I 3, TA₂ 15. \*322-RI has no reading: its sign differs from the Khania roundel logogram PIRRI.
+Allocation tablet, companion to HT11b (same scribe, same findspot). Section 1: A-RU-RA (ʾArura) \]3, KA-RO-NA (Qarna) 2, \*322-RI 1, KU-RO 10. GORILA I 23 prints the first numeral broken before 3 (\]3), so the entries can reach KU-RO 10. Section 2: A-SU-JA 1, VIR+\[?\]-I 3, TA₂ 15. \*322-RI has no reading: its sign differs from the Khania roundel logogram ṢURRU.
 
 ## Lexicon words citing this document
 

@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-The diptotic genitive in ḏū har ʾIda, 'the One of Mount Ida', as Ugaritic /ḥāmiyātu ʾugarita/ 'the walls of Ugarit', where a diptotic place name has genitive -a (Huehnergard 2012, 40, §IV.B.3). Rival: 'toward Ida', with the directive of Ugaritic -h /-ah(a)/ and Hebrew -āh, which final A alone does not show. Bare I-DA is attested. Ida 'the Hand' (see I-DA): Ebla spells 'hand(s)' i-da-a, sign for sign (A.ŠU.LUḪ = ma-wu i-da-a 'water of the hands', GlOS 2, 27, 371); Cretan Greek writes the name Βίδα.
+The diptotic genitive in ḏū har ʾIda, 'the One of Mount Ida', as Ugaritic /ḥāmiyātu ʾugarita/ 'the walls of Ugarit', where a diptotic place name has genitive -a (Huehnergard 2012, 40, §IV.B.3). Davis too offers a genitive, 'of Ida', after Duhoux's 'la divinité de l'Ida' (Duhoux 1992, 80), but objects that the mountain's name was Ϝίδα, Βίδα, and gives 'this thing' as the alternative (Davis 2026b, 213–14 and n. 717). Rival: 'toward Ida', with the directive of Ugaritic -h /-ah(a)/ and Hebrew -āh, which final A alone does not show. Bare I-DA is attested. Ida 'the Hand' (see I-DA): Ebla spells 'hand(s)' i-da-a, sign for sign (A.ŠU.LUḪ = ma-wu i-da-a 'water of the hands', GlOS 2, 27, 371); Cretan Greek writes the name Βίδα.
 
 ### Cognates
 
@@ -54,7 +54,7 @@ The diptotic genitive in ḏū har ʾIda, 'the One of Mount Ida', as Ugaritic /�
 
 ### Source
 
-di Mino; GlOS 2; Huehnergard 2012
+di Mino; GlOS 2; Huehnergard 2012; Duhoux 1992; Davis 2026b
 
 ## Attestations
 

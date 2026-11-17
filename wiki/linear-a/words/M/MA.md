@@ -30,7 +30,7 @@ updated: 2026-11-12T00:26:03Z
 | [[wiki/linear-a/inscriptions/HT/HT/HT3\|HT3]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/KH/KH/KH61\|KH61]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH62\|KH62]] | Khania | Tablet | none |
-| [[wiki/linear-a/inscriptions/THE/THEZg/THEZg5\|THEZg5]] | Thera | Stone object | none |
+| [[wiki/linear-a/inscriptions/THE/THEZg/THEZg5\|THEZg5]] | Thera | Ostracon | none |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA29\|ZA29]] | Zakros | Tablet | none |
 
 ## In translations

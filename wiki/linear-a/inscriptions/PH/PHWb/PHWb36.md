@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/PH/PHWb/PHWb36
 title: "PHWb36"
-desc: "Sealing, Phaistos, MMII. Translation: complete (CANDIDATE)."
+desc: "Sealing, Phaistos, MMIIB. Translation: complete (CANDIDATE)."
 tags: ["linear-a", "inscription", "translation-complete", "sealing"]
 kind: "inscription"
 id: "PHWb36"
 site: "Phaistos"
 support: "Sealing"
-period: "MMII"
+period: "MMIIB"
 translation: "complete"
 words: ["TE"]
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Phaistos |
 | Findspot |  |
 | Support | Sealing |
-| Period | MMII |
+| Period | MMIIB |
 | Scribe |  |
 | Edition | unattributed |
 | Series | PHWb |

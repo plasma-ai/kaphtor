@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Commodity ideogram \*316, six occurrences on five documents at Khania and Phaistos. On the nodules KH Wa 1001 and KH Wa 1002 the KI complement (\*316+KI) gives the initial syllable /ki/. Akk. kiššanu, a leguminous plant, issued in the Alalakh ration lists (CAD K 456). On KH 91 \*316 1 13/20 follows VIN (wine) in a rations list with GRA, NI (figs), \*401+RU and \*401+RA; on PH 1a it is allocated to named individuals (DI-RA-DI-NA, JA) with CYP. Weak point: the comparison is Akkadian alone.
+Commodity ideogram \*316, six occurrences on five documents at Khania and Phaistos. On the nodules KH Wa 1001 and KH Wa 1002 the KI complement (\*316+KI) gives the initial syllable /ki/. Akk. kiššanu, a leguminous plant, issued in the Alalakh ration lists (CAD K 456). On KH 91 \*316 1 13/20 follows VIN (wine) in a rations list with GRA, NI (figs), \*401+RU and \*401+RA; on PH 1a it is allocated to named individuals (DI-RA-DI-NA, JA) with CYP. Weak points: GORILA reads the nodules as one word, A-KI-DA-RO (III 104), and Salgarella takes their A 640 for its opening a-ki- (2020, 131), so the KI may belong to the word; the comparison is Akkadian alone.
 
 ### Cognates
 

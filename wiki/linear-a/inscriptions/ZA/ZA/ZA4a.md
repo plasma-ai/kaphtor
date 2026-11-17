@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/ZA/ZA/ZA4a
 title: "ZA4a"
-desc: "Tablet, Zakros. Translation: incomplete."
+desc: "Tablet, Zakros, LMIB. Translation: incomplete."
 tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
 kind: "inscription"
 id: "ZA4a"
 site: "Zakros"
 support: "Tablet"
-period: ""
+period: "LMIB"
 translation: "incomplete"
 words: ["A-TI-RU", "JA-PA", "JI-NU-MA-RE", "KA-DI", "QE-SI-ZU-E", "SI-PI-KI"]
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Zakros |
 | Findspot |  |
 | Support | Tablet |
-| Period |  |
+| Period | LMIB |
 | Scribe | [[wiki/linear-a/by_scribe\|ZA Scribe 1]] |
 | Edition | GORILA 3 |
 | Series | ZA |

@@ -2,14 +2,14 @@
 name: wiki/linear-a/words/N
 desc: "Words whose first sign begins with N."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-17T16:49:32Z
+updated: 2026-11-17T22:47:56Z
 ---
 
 # wiki/linear-a/words/N
 
 [[wiki/linear-a/words/_index|..]]
 
-[[wiki/linear-a/words/N/NA|NA]]: Unread sign (syllabogram, unread); 6 occurrence(s).
+[[wiki/linear-a/words/N/NA|NA]]: Unread sign (syllabogram, unread); 5 occurrence(s).
 
 [[wiki/linear-a/words/N/NA_A_PA3|NA_A_PA3]]: Unread (role only): personal name; 1 occurrence(s).
 

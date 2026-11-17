@@ -163,5 +163,6 @@ di Mino
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/PH/PHWc/PHWc39\|PHWc39]] | rōš | principal, first quality (grade marker) | PROBABLE |
+| [[wiki/linear-a/inscriptions/PH/PHWc/PHWc40\|PHWc40]] | rōš | principal, first quality (grade marker) | PROBABLE |
 
 <!-- END kaphtor:record -->

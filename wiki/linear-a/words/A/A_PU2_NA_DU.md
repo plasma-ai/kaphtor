@@ -19,7 +19,7 @@ updated: 2026-10-24T16:17:50Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Signs.** [[wiki/linear-a/signs/syllabic/A|A]] · PU₂ · [[wiki/linear-a/signs/syllabic/NA|NA]] · [[wiki/linear-a/signs/syllabic/DU|DU]]
+**Signs.** [[wiki/linear-a/signs/syllabic/A|A]] · [[wiki/linear-a/signs/syllabic/PU2|PU₂]] · [[wiki/linear-a/signs/syllabic/NA|NA]] · [[wiki/linear-a/signs/syllabic/DU|DU]]
 
 ## Attestations
 

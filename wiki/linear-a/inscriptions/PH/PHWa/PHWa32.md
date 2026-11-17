@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/PH/PHWa/PHWa32
 title: "PHWa32"
-desc: "Nodule, Phaistos, MMIII. Translation: complete (CANDIDATE)."
+desc: "Nodule, Phaistos, MMIIIB. Translation: complete (CANDIDATE)."
 tags: ["linear-a", "inscription", "translation-complete", "nodule"]
 kind: "inscription"
 id: "PHWa32"
 site: "Phaistos"
 support: "Nodule"
-period: "MMIII"
+period: "MMIIIB"
 translation: "complete"
 words: ["SU-KI-RI-TA"]
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Phaistos |
 | Findspot |  |
 | Support | Nodule |
-| Period | MMIII |
+| Period | MMIIIB |
 | Scribe |  |
 | Edition | GORILA 2 |
 | Series | PHWa |

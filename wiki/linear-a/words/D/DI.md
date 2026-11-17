@@ -62,7 +62,7 @@ GORILA I; CAD D 161–63; DULAT 261, 610; Montecchi 2008, 318; Uchitel 2016b
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT3\|HT3]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT20\|HT20]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT32\|HT32]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT32\|HT32]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT66\|HT66]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT69\|HT69]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT85b\|HT85b]] | Haghia Triada | Tablet | complete |
@@ -76,6 +76,7 @@ GORILA I; CAD D 161–63; DULAT 261, 610; Montecchi 2008, 318; Uchitel 2016b
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT3\|HT3]] |  |  |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT20\|HT20]] | dibšu | honey (abbreviation), ½ | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT32\|HT32]] | dibšu | honey, 65 and 53 | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT69\|HT69]] | dibšu | honey, fruit syrup—commodity abbreviation of \*dibšu | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT85b\|HT85b]] |  | roster category logogram (unread) |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT97a\|HT97a]] |  | roster entry (abbreviation), 4 | SPECULATIVE |

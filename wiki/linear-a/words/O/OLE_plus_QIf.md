@@ -33,4 +33,6 @@ A ligature. Status **component read** (a combined sign with a component the lexi
 
 The lexicon reads [[wiki/linear-a/words/O/OLE|OLE]].
 
+GORILA's A 611, OLE with QI, at TY 3a.2, .4 and TY 3b.2. Salgarella asks whether it is a sign of its own, the two parts hard to see, though the tablet's many OLE ligatures favour OLE with QI (Salgarella 2020, 146).
+
 <!-- END kaphtor:record -->

@@ -40,7 +40,7 @@ class TestMap:
 
     def test_the_document_type_table_is_the_one_ruled(self):
         ritual = ["Stone vessel", "Stone-vessel fragment", "Stone object", "Metal object", "ivory object",
-                  "Bronze bowl", "Silver pin", "Triton", "Stone ladle (HM 1545)", "Terracotta statuette (HM 6585)", "Lead weight (HM 83)",
+                  "Bronze bowl", "Silver pin", "Triton", "Stone ladle (HM 1545)", "Terracotta statuette (HM 6585)", "Terracotta statuette", "Lead weight (HM 83)",
                   "Fragment of a locally made limestone bowl or krater", "Serpentine cylindrical jar; HM 2479 + HM 2480",
                   "Square red-orange serpentine libation table (HM 5317)", "Square serpentine libation-table fragment",
                   "Stone libation table fragment", "Fragmentary circular serpentine libation table"]
@@ -48,7 +48,7 @@ class TestMap:
                    "Clay chalice rim (two nonjoining fragments); painted inscription"]
         unknown = ["Tablet", "Lames (short thin tablet)", "3-sided bar", "4-sided bar", "Roundel", "Nodule", "Sealing",
                    "Architecture", "Graffito", "Grave stele fragment", "Clay reel", "Clay larnax fragment",
-                   "Loom weight", "Label", "Amygdaloid stone seal", "Clay spindle whorl", "Unspecified object", ""]
+                   "Loom weight", "Label", "Ostracon", "Amygdaloid stone seal", "Clay spindle whorl", "Unspecified object", ""]
         assert sg.SUPPORT_DOMAINS == {**{s: RITUAL for s in ritual}, **{s: POTTERY for s in pottery},
                                       **{s: None for s in unknown}}
 

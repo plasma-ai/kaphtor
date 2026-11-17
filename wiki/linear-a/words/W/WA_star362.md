@@ -47,7 +47,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-ZA 10b .1 WA-\*362 2, the first entry of face b (GORILA III 171). \*362 has no resolved value. No reading.
+ZA 10b .1 WA-\*362 2, the first entry of face b (GORILA III 171). \*362 has no resolved value; Melena takes it for the ancestor of Linear B no (Melena 2014a, 84–88, apud Salgarella 2020, 162, 291–94). No reading.
 
 ### Co-occurring lexicon words
 
@@ -57,6 +57,6 @@ Readings from the lexicon as it stands: [[wiki/linear-a/words/D/DU|DU]] du, [[wi
 
 Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
 
-ZA 10b .1 WA-\*362 2, the first entry of face b, before DU-RE-ZA-SE \*131B 5 (GORILA III 171). Intact. \*362 has no resolved value. No reading.
+ZA 10b .1 WA-\*362 2, the first entry of face b, before DU-RE-ZA-SE \*131B 5 (GORILA III 171). Intact. \*362 has no resolved value; Melena takes it for the ancestor of Linear B no (Melena 2014a, 84–88, apud Salgarella 2020, 162, 291–94). No reading.
 
 <!-- END kaphtor:record -->

@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/PK/PK/PK1
 title: "PK1"
-desc: "Tablet, Palaikastro, LMI. Translation: incomplete (SPECULATIVE)."
+desc: "Tablet, Palaikastro, LMIB. Translation: incomplete (SPECULATIVE)."
 tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
 kind: "inscription"
 id: "PK1"
 site: "Palaikastro"
 support: "Tablet"
-period: "LMI"
+period: "LMIB"
 translation: "incomplete"
 words: ["A-DU-ZA", "KA-QA", "MA-KA-I-TA", "MA-TI-ZA-I-TE", "O-KA-MI-ZA-SI-I-NA", "O-TE-JA", "RA-NA-TU-SU", "TA₂-TA-RE", "TA₂-TI-TE"]
 created: 2026-10-24T16:17:50Z
@@ -27,9 +27,9 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Site | Palaikastro |
-| Findspot |  |
+| Findspot | Block B, room 13, Palaikastro |
 | Support | Tablet |
-| Period | LMI |
+| Period | LMIB |
 | Scribe |  |
 | Edition | GORILA 1 |
 | Series | PK |
@@ -127,6 +127,6 @@ A list of names between rulings, each with 1, KA-QA with 2 (GORILA I 281).
 
 ## Corpus note
 
-GORILA I 281: .1 SI-\[·\]-NE-TI 1, one word with a sign lost between SI and NE, not SI · NE-TI. Traces in the gap fit KI or TU (cf. SI-KI-NE, HT 116a.5–6). GORILA V 75 keeps \[·\] and adds a dotted stroke after TI. SigLA reads the first sign as A, GORILA SI.
+GORILA I 281: .1 SI-\[·\]-NE-TI 1, one word with a sign lost between SI and NE, not SI · NE-TI. Traces in the gap fit KI or TU (cf. SI-KI-NE, HT 116a.5–6). GORILA V 75 keeps \[·\] and adds a dotted stroke after TI. SigLA reads the first sign as A, GORILA SI. Schoep (2026, 141) reports it found on an LM IB floor in Block B, room 13, sealed by a later LM IB floor (after Bosanquet 1903), and calls it the only Linear A tablet ruled like the later Linear B tablets.
 
 <!-- END kaphtor:record -->

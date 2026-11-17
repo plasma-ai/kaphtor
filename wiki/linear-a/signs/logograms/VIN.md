@@ -32,6 +32,7 @@ Evidence: the meaning is given; no \*wayn- record (Ugaritic yn), and Hittite wiy
 | [[wiki/linear-a/words/M/ME_VIN\|ME-VIN]] | mesek | SPECULATIVE |
 | [[wiki/linear-a/words/P/PU_VIN\|PU-VIN]] | pūra | SPECULATIVE |
 | [[wiki/linear-a/words/V/VIN\|VIN]] |  | PROBABLE |
+| [[wiki/linear-a/words/V/VIN_plus_KA\|VIN+KA]] | ḫamr | SPECULATIVE |
 | [[wiki/linear-a/words/V/VIN_plus_RA\|VIN+RA]] | raqḥ | CANDIDATE |
 
 <!-- END kaphtor:record -->

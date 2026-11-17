@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/words/S/SA_SA_ME
 title: "SA-SA-ME"
-desc: "šašamā: sesame (seed-spice commodity). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "aromatic", "commodity", "foodstuff", "hapax", "noun"]
+desc: "šašamā: sesame (seed-spice commodity). Lexicon, PROBABLE (tier 3)."
+tags: ["linear-a", "word", "tier-3", "aromatic", "commodity", "foodstuff", "hapax", "noun"]
 kind: "word"
 form: "SA-SA-ME"
 datasets: ["lexicon"]
-tier: 2
-confidence: "CANDIDATE"
-confidence_score: 0.6
+tier: 3
+confidence: "PROBABLE"
+confidence_score: 0.65
 reading: "šašamā"
 attestations: ["HT23a"]
 created: 2026-10-24T16:17:50Z
@@ -27,7 +27,7 @@ updated: 2026-10-24T16:17:50Z
 
 ## Lexicon
 
-**CANDIDATE**, tier 2 of 4, score 0.60
+**PROBABLE**, tier 3 of 4, score 0.65
 
 | Field | Value |
 |---|---|
@@ -66,6 +66,6 @@ di Mino; GORILA I; Peruzzi 1958; CAD Š/1; DULAT; DMic II
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT23a\|HT23a]] | šašamā | sesame | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT23a\|HT23a]] | šašamā | sesame | PROBABLE |
 
 <!-- END kaphtor:record -->

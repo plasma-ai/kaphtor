@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-ZA Zb 34 \]PU₂-RE-JA · KO-MU · RU-DI\[ (GORILA IV 115) holds the word, more signs perhaps following it. HT 141 .2 \]RU-DỊ-\[ (GORILA I 239) breaks after DI, the word possibly whole. rūdī 'roam!', the feminine imperative of √r-w-d (semitic_roots K0360), addressed to PU₂-RE-JA 'my Creatress', with KO-MU the accusative of place: Heb. rûd 'roam about freely' (Jer 2:31), 'Judah still goes about with God' (Hos 12:1); Arb. rāda 'go back and forth' (HALOT 1194). Rival: 'Rule!', √r-d-y, Heb. rādâ (Gen 1:26, Ps 72:8), whose imperative rədēh has no u (HALOT 1190). Two attestations.
+ZA Zb 34 \]PU₂-RE-JA · KO-MU · RU-DI\[ (GORILA IV 115) holds the word, more signs perhaps following it. HT 141 .2 \]RU-DỊ-\[ (GORILA I 239) breaks after DI, the word possibly whole. rūdī 'roam!', the feminine imperative of √r-w-d (semitic_roots K0360), addressed to PU₂-RE-JA 'my Creatress', after KO-MU qōmu 'arise!': Heb. rûd 'roam about freely' (Jer 2:31), 'Judah still goes about with God' (Hos 12:1); Arb. rāda 'go back and forth' (HALOT 1194). Rival: 'Rule!', √r-d-y, Heb. rādâ (Gen 1:26, Ps 72:8), whose imperative rədēh has no u (HALOT 1190). Two attestations.
 
 ### Cognates
 

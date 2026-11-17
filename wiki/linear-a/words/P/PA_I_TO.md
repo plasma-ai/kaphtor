@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 97a PA-I-TO 6, among the entries under KA-RU · \*307+\*307 · VIR+KA 82, after KA-NU-TI 25; HT 120 PA-I-TO 3⅕, the last entry, after KI-RE-TA-NA GRA+B 60 and GRA+PA 48. Linear B writes the same pa-i-to for Phaistos, the town of the Knossos tablets (DMic II 68).
+HT 97a PA-I-TO 6, among the entries under KA-RU · \*307+\*307 · VIR+KA 82, after KA-NU-TI 25; HT 120 PA-I-TO 3⅕, the last entry, after KI-RE-TA-NA GRA+B 60 and GRA+PA 48. Linear B writes the same pa-i-to for Phaistos, the town of the Knossos tablets (DMic II 68). Davis answers its rarity at Haghia Triada: pa-i-to may name the town of Phaistos, which shows hardly any occupation in LM IB (Schoep 1999, 205), the palace bearing a name of its own, perhaps SA-RA₂ (Davis 2026b, 104 n. 409).
 
 ### Cognates
 
@@ -51,7 +51,7 @@ HT 97a PA-I-TO 6, among the entries under KA-RU · \*307+\*307 · VIR+KA 82, aft
 
 ### Source
 
-di Mino; Gordon 1966; DMic II; Cline and Stannish 2011; Beekes 2014
+di Mino; Gordon 1966; DMic II; Cline and Stannish 2011; Beekes 2014; Schoep 1999; Davis 2026b
 
 ### Review
 

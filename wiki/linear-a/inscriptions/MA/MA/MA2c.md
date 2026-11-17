@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/MA/MA/MA2c
 title: "MA2c"
-desc: "3-sided bar, Malia. Translation: none."
+desc: "3-sided bar, Malia, MMIIIB. Translation: none."
 tags: ["linear-a", "inscription", "translation-none", "3-sided-bar"]
 kind: "inscription"
 id: "MA2c"
 site: "Malia"
 support: "3-sided bar"
-period: ""
+period: "MMIIIB"
 translation: "none"
 words: ["JA-MA-U-TI"]
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Malia |
 | Findspot |  |
 | Support | 3-sided bar |
-| Period |  |
+| Period | MMIIIB |
 | Scribe |  |
 | Edition | GORILA 1 |
 | Series | MA |

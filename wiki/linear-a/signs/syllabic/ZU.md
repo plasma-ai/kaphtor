@@ -33,7 +33,7 @@ Evidence: ṯ 15/21, n and m 16/21; A-ZU-RA yields a root under every rival. ṯ
 | Alternates | /zu/, /ḏu/, /ṯ̣u/ |
 | Linear B | B 79, value zu |
 | Linear B Unicode | U+10059 LINEAR B SYMBOL B079 |
-| Linear B note | tentative (Davis 2026b, 174 n. 641) |
+| Linear B note | tentative (Davis 2026b, 174 n. 641); wo₂ /wjo/? for Melena (1978, apud Salgarella 2023, 414) |
 | Neutralization class | none |
 
 ### Alternate values

@@ -31,6 +31,6 @@ updated: 2026-10-24T16:17:50Z
 
 Status **edge overlap** (a lexicon word sits at one edge; often a chance 2-sign overlap).
 
-ZA 1a .1–2 KỊ-RẸ-ZẠ · NỊ 42 ∠, after \*516 ·, all three signs dotted on both copies (GORILA I 333). Younger marks the same three as doubtful (Younger, Linear A Texts). Sole attestation. Not readable.
+ZA 1a .1–2 KỊ-RẸ-ZẠ · NỊ 42 ∠, after \*516 ·, all three signs dotted on both copies (GORILA I 333). Younger marks the same three as doubtful (Younger, Linear A Texts). Davis sets it beside KI-RE-TA₂ (HT 85b, HT 129) as a possible eastern spelling of that word, citing the fig logogram NI after it here and on HT 129, support he calls weak on so damaged a tablet (Davis 2026b, 158–59). Sole attestation. Not readable.
 
 <!-- END kaphtor:record -->

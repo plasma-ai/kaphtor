@@ -23,7 +23,7 @@ updated: 2026-10-24T16:17:50Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Signs.** [[wiki/linear-a/signs/syllabic/DU|DU]] · PU₂ · [[wiki/linear-a/signs/syllabic/RE|RE]]
+**Signs.** [[wiki/linear-a/signs/syllabic/DU|DU]] · [[wiki/linear-a/signs/syllabic/PU2|PU₂]] · [[wiki/linear-a/signs/syllabic/RE|RE]]
 
 ## Lexicon
 
@@ -41,7 +41,11 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-PK Za 15 JA-DI-KI-TE-TE-DU-PU₂-RE 'O Diqqitīt of the sanctuary' and HT Zb 160 PA-TA-DA-DU-PU₂-RE. PK Za 11 reads A-DI-KI-TE-TE-\[··\]-RE (GORILA IV 34), two signs lost before RE, the slot DU-PU₂ fills on PK Za 15, and PK Za 8 writes it JA-DI-KI-TE-TE-\*307-PU₂-RE. Three spellings write dubur: \*307 alone, \*307-PU₂-RE and DU-PU₂-RE. Hebrew dəbîr 'rear room, holy of holies' of the temple (HALOT 208); Linear B da-pu₂-ri-to-jo po-ti-ni-ja (KN Gg 702); Egyptian group writing d-bi₄-r dabīr 'naos, inner sanctuary' (GlOS 1, 140, after Hoch, SWET 376, no. 561). DU-PU₂ keeps the u-u of the base noun dubur 'back, hind part' (Arabic dubur, Akkadian dubur, #151), of which the holy of holies is the later back-room sense. See DU-\*314-RE.
+PK Za 15 JA-DI-KI-TE-TE-DU-PU₂-RE 'O Diqqitīt of the sanctuary' and HT Zb 160 PA-TA-DA-DU-PU₂-RE. PK Za 11 reads A-DI-KI-TE-TE-\[··\]-RE (GORILA IV 34), two signs lost before RE, the slot DU-PU₂ fills on PK Za 15, and PK Za 8 writes it JA-DI-KI-TE-TE-\*307-PU₂-RE. Three spellings write dubur: \*307 alone, \*307-PU₂-RE and DU-PU₂-RE.
+
+Hebrew dəbîr 'rear room, holy of holies' of the temple (HALOT 208); Linear B da-pu₂-ri-to-jo po-ti-ni-ja (KN Gg 702); Egyptian group writing d-bi₄-r dabīr 'naos, inner sanctuary' (GlOS 1, 140, after Hoch, SWET 376, no. 561). DU-PU₂ keeps the u-u of the base noun dubur 'back, hind part' (Arabic dubur, Akkadian dubur, #151), of which the holy of holies is the later back-room sense.
+
+Valério ties DU-PU₂-RE to Linear B du-pu₂-r-, da-pu₂-r-, the forerunner of λαβυρ- in Λαβύρινθος, glossing it 'lord, master (vel sim.)' (Valério 2007), later 'sanctuary, shrine (vel sim.)' (Valério 2015, 2017, apud Davis 2026b, 108 n. 417). Davis takes the a of da-pu₂- for an unstressed u that Minoans reduced to \[ə\] before a labial and Mycenaeans wrote a, the careful saying kept in the man's name du-pu₂-ra-zo (KN Da 1173, V 479) beside da-pu₂-ra-zo on the Eleusis jar (2026b, 161–63, Hypothesis 20). The two vowels are those of the noun's two patterns, dabīr in Hebrew dəbîr and Egyptian d-bi₄-r, dubur in Arabic and Akkadian. See DU-\*314-RE.
 
 ### Cognates
 
@@ -53,7 +57,7 @@ PK Za 15 JA-DI-KI-TE-TE-DU-PU₂-RE 'O Diqqitīt of the sanctuary' and HT Zb 160
 
 ### Source
 
-di Mino; Facchetti 1999; Thomas 2020; GlOS 1; HALOT
+di Mino; Facchetti 1999; Thomas 2020; GlOS 1; HALOT; Valério 2007; Davis 2026b
 
 ## Attestations
 

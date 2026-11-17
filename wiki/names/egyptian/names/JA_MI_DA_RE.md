@@ -30,11 +30,11 @@ updated: 2026-11-11T23:39:03Z
 | Reading's standing | SPECULATIVE |
 | Standing as a personal name | SPECULATIVE |
 | Standing of the layer | SPECULATIVE (lexicon_reading) |
-| Source | Gordon 1966a, 31 (§127) |
+| Source | Gordon 1966a, 31 (§127); DMic I; Davis 2026b |
 
 ## Note
 
-HT 122a, intact, 1 in a list of names totalling 31. Gordon reads Egyptian Ỉmy-d(t)-Rꜥ 'He-who-is-from-the-hand-of-Re' (Gordon 1966a, 31, §127), comparing Ugaritic bdil 'From-the-hand-of-El'. Rival: a Minoan name. One witness.
+HT 122a, intact, 1 in a list of names totalling 31. Gordon reads Egyptian Ỉmy-d(t)-Rꜥ 'He-who-is-from-the-hand-of-Re' (Gordon 1966a, 31, §127), comparing Ugaritic bdil 'From-the-hand-of-El'. Rival: a Minoan name, as Linear B ja-ma-ta-ro\[, a man at Knossos (KN V 655.2, broken; DMic I), which Davis pairs with it, flagging the vowel (2026b, 119 and n. 452), its Minoan source word, he suggests, standing in ʾa-ja-man-tar of Spell 32 of the London Medical Papyrus, with the prefix ʾa- (84–85). One witness.
 
 ## As a name
 
@@ -64,7 +64,7 @@ Read words on the same documents.
 | Word | Reading | Meaning |
 |---|---|---|
 | [[wiki/names/semitic/names/QA_star310_I\|QA-\*310-I]] | qaynī | smith or cultic administrator; occupational title |
-| [[wiki/names/semitic/names/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan |
+| [[wiki/names/semitic/names/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | devotee of Kubaba (Kubaba + -ān-), personal name or title |
 | DU | du | that, of (relative pronoun) |
 | KU-RO | kull | total, sum (accounting term) |
 

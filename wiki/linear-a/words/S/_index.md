@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/S
 desc: "Words whose first sign begins with S."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-17T15:50:06Z
+updated: 2026-11-18T16:16:38Z
 ---
 
 # wiki/linear-a/words/S
@@ -53,7 +53,7 @@ updated: 2026-11-17T15:50:06Z
 
 [[wiki/linear-a/words/S/SA_RU|SA_RU]]: šarru: king, prince (administrative title/category). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/S/SA_SA_ME|SA_SA_ME]]: šašamā: sesame (seed-spice commodity). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/S/SA_SA_ME|SA_SA_ME]]: šašamā: sesame (seed-spice commodity). Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/S/SA_SA_RA_MI_broken_start|SA_SA_RA_MI_broken_start]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -64,8 +64,6 @@ updated: 2026-11-17T15:50:06Z
 [[wiki/linear-a/words/S/SA_plus_MU_plus_KU|SA_plus_MU_plus_KU]]: ṣammūqu: raisins (a commodity ligature spelling the word). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/S/SA_star301_RI|SA_star301_RI]]: šannāri: Cat (personal name). Lexicon, SPECULATIVE (tier 1).
-
-[[wiki/linear-a/words/S/SA_star305_MI|SA_star305_MI]]: šadmi: terrace, terraced field (a counted entry); rival the place Śdmy. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/S/SA_star323_MI|SA_star323_MI]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -85,7 +83,7 @@ updated: 2026-11-17T15:50:06Z
 
 [[wiki/linear-a/words/S/SE_TO_I_JA|SE_TO_I_JA]]: Ṣētiya: the Eastern (place), a central Cretan toponym; rivals the epithet 'she of the East' and a pre-Greek toponym Setoiya. Lexicon, PROBABLE (tier 3).
 
-[[wiki/linear-a/words/S/SE_WA_AU_DE|SE_WA_AU_DE]]: šawaʿ-dē: who cries out, the one who implores (relative clause: √š-w-ʿ + determinative-relative dē). Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/S/SE_WA_AU_DE|SE_WA_AU_DE]]: šiwwâ hawd-: set the ornament (a maker's line after the name). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/S/SE_star305|SE_star305]]: ṣēdā: provisions (section heading); same word as SI-DA-TE ṣēdat. Lexicon, SPECULATIVE (tier 1).
 
@@ -147,7 +145,7 @@ updated: 2026-11-17T15:50:06Z
 
 [[wiki/linear-a/words/S/SI_TE_TU|SI_TE_TU]]: šetātu: woven (cloth), a textile entry; rival šittātu 'remainder'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/S/SI_TU|SI_TU]]: sūt: garment, textile. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/S/SI_TU|SI_TU]]: šītu: garment, textile. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/S/SI_TU_RA2|SI_TU_RA2]]: šitla: shoots, cuttings (planting stock). Lexicon, SPECULATIVE (tier 1).
 
@@ -169,7 +167,9 @@ updated: 2026-11-17T15:50:06Z
 
 [[wiki/linear-a/words/S/SU|SU]]: šaḫū: pig (livestock commodity). Lexicon, PROBABLE (tier 3).
 
-[[wiki/linear-a/words/S/SUS|SUS]]: (logogram): pig (livestock logogram). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/S/SURRU|SURRU]]: bag, bundle (a container counted on the roundels). Lexicon, SPECULATIVE (tier 1).
+
+[[wiki/linear-a/words/S/SUS|SUS]]: (logogram): pig (livestock logogram). Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/S/SUS_plus_SI_plus_RE|SUS_plus_SI_plus_RE]]: Unread sign (ligature, component read); 1 occurrence(s).
 

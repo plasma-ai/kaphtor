@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 115b .2 DU-PA₃-NA 1, whole and undotted, after TI-NU-JA · NU-WI · GRA ½ and before KU-RU-MA · I ½, on a palimpsest (GORILA I 191). Amorite DABIN-UM (Gelb 1980, no. 1411) and the root DBB in Gelb's glossary; Arabian DBN (Harding 1971, 234). Rival: Harding's own gloss, dibbān 'fly'. One document.
+HT 115b .2 DU-PA₃-NA 1, whole and undotted, after TI-NU-JA · NU-WI · GRA ½ and before KU-RU-MA · I ½, on a palimpsest (GORILA I 191). Amorite DABIN-UM (Gelb 1980, no. 1411) and the root DBB in Gelb's glossary; Arabian DBN (Harding 1971, 234). Linear B ta-pa-no, a man at Knossos (KN Sc 240; DMic II), which Davis pairs with it, a pair he calls less defensible (2026b, 161–62). Rival: Harding's own gloss, dibbān 'fly'. One document.
 
 ### Cognates
 
@@ -54,7 +54,7 @@ HT 115b .2 DU-PA₃-NA 1, whole and undotted, after TI-NU-JA · NU-WI · GRA ½ 
 
 ### Source
 
-di Mino; GlOS 1; CAD D; Lane
+di Mino; GlOS 1; CAD D; Lane; DMic II; Davis 2026b
 
 ## Attestations
 

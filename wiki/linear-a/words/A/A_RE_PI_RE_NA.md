@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-ZA Zb 3 .2 A-TA-I-\*301-DE-KA · A-RE-PI-RE-NA · TI-TI-KU, a healer's title on the pithos that offers wine to A-SA-MU-NE Eshmun, the healing god. Vocative ʾa-, the east-Cretan form of yā, as A-DI-KI-TE-TE (di Mino, Ya Diktu, 20), then rāpiʾ 'healer' (√r-p-ʾ) and rinnā 'joyful cry' (√r-n-n), participle and genitive in one word as KA-NI-JA-MI qāniy-yammi. It names the god whom -DE-KA addresses, as rōpʾekā 'your healer' names YHWH (Exod 15:26); Ps 30:3 and 30:6 join the two roots. RE-PI is written over an erased PI, and damage crosses PI (GORILA IV 113). Rival: Gordon (1975, 153) reads MA for PI: re-ma-re-na, Aramaic mārēnā 'our lord'. One witness. See A-RI-PA, RP-33-Y, RU-PI and RA-NA-TU-SU.
+ZA Zb 3 .2 A-TA-I-\*301-DE-KA · A-RE-PI-RE-NA · TI-TI-KU, a healer's title on the pithos that offers wine to A-SA-MU-NE Eshmun, the healing god. Vocative ʾa-, the east-Cretan form of yā, as A-DI-KI-TE-TE (di Mino, Ya Diktu, 20), then rāpiʾ 'healer' (√r-p-ʾ) and rinnā 'joyful cry' (√r-n-n), participle and genitive in one word as KA-NI-JA-MI qāniy-yammi. It names the god whom -DE-KA addresses, as rōpʾekā 'your healer' names YHWH (Exod 15:26); Ps 30:3 and 30:6 join the two roots. RE-PI is written over an erased PI, and damage crosses PI (GORILA IV 113). Rival: Gordon (1975, 153) reads MA for PI: re-ma-re-na, Aramaic mārēnā 'our lord'. One witness. See A-RI-PA, RP-33-Y and RA-NA-TU-SU.
 
 ### Cognates
 

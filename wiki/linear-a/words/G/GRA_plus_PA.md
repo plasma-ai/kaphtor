@@ -68,7 +68,7 @@ di Mino; GlOS 2; Kamm 1963; DNWSI
 | [[wiki/linear-a/inscriptions/KH/KH/KH27\|KH27]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/PE/PE/PE1\|PE1]] | Petras | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA6a\|ZA6a]] | Zakros | Tablet | incomplete |
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA6b\|ZA6b]] | Zakros | Tablet | none |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA6b\|ZA6b]] | Zakros | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA11a\|ZA11a]] | Zakros | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA11b\|ZA11b]] | Zakros | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA18a\|ZA18a]] | Zakros | Tablet | none |

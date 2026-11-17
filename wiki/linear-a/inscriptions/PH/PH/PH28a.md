@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/PH/PH/PH28a
 title: "PH28a"
-desc: "Tablet, Phaistos. Translation: incomplete."
+desc: "Tablet, Phaistos, MMIIB. Translation: incomplete."
 tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
 kind: "inscription"
 id: "PH28a"
 site: "Phaistos"
 support: "Tablet"
-period: ""
+period: "MMIIB"
 translation: "incomplete"
 words: []
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Phaistos |
 | Findspot |  |
 | Support | Tablet |
-| Period |  |
+| Period | MMIIB |
 | Scribe |  |
 | Edition | GORILA 1 |
 | Series | PH |

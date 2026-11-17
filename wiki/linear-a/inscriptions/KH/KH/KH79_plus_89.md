@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/KH/KH/KH79_plus_89
 title: "KH79+89"
-desc: "Tablet, Khania. Translation: none."
+desc: "Tablet, Khania, LMIB. Translation: none."
 tags: ["linear-a", "inscription", "translation-none", "tablet"]
 kind: "inscription"
 id: "KH79+89"
 site: "Khania"
 support: "Tablet"
-period: ""
+period: "LMIB"
 translation: "none"
 words: []
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Khania |
 | Findspot |  |
 | Support | Tablet |
-| Period |  |
+| Period | LMIB |
 | Scribe |  |
 | Edition | GORILA 3 |
 | Series | KH |

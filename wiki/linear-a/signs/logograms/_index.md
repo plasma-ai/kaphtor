@@ -3,7 +3,7 @@ name: wiki/linear-a/signs/logograms
 title: Logograms
 desc: Each logogram with its gloss or commodity, its Semitic term where one is proposed, and the words written with it.
 created: 2026-10-22T18:14:10Z
-updated: 2026-11-17T14:06:50Z
+updated: 2026-11-18T17:05:12Z
 ---
 
 # Logograms
@@ -26,9 +26,9 @@ updated: 2026-11-17T14:06:50Z
 
 [[wiki/linear-a/signs/logograms/OLIV|OLIV]]: Linear A logogram OLIV, proposed.
 
-[[wiki/linear-a/signs/logograms/QA2_plus_q_plus_PU|QA2_plus_q_plus_PU]]: Linear A logogram QA2+[?]+PU, proposed: [paired precious-liquid commodity logogram].
+[[wiki/linear-a/signs/logograms/QA2_plus_q_plus_PU|QA2_plus_q_plus_PU]]: Linear A logogram QA2+[?]+PU, proposed: [qab-measure of a commodity, PU: QA written inside the *402 cup].
 
-[[wiki/linear-a/signs/logograms/QA2_plus_q_plus_RE|QA2_plus_q_plus_RE]]: Linear A logogram QA2+[?]+RE, proposed: [paired precious-liquid commodity logogram].
+[[wiki/linear-a/signs/logograms/QA2_plus_q_plus_RE|QA2_plus_q_plus_RE]]: Linear A logogram QA2+[?]+RE, proposed: [qab-measure of a commodity, RE: QA written inside the *402 cup].
 
 [[wiki/linear-a/signs/logograms/QE|QE]]: Linear A logogram QE, proposed: measure unit (qê, Akkadian genitive of qû ≈ 1.2 liters).
 
@@ -68,13 +68,13 @@ updated: 2026-11-17T14:06:50Z
 
 [[wiki/linear-a/signs/logograms/star309|star309]]: Linear A logogram *309, speculative: round (loaf/disc/talent-weight); on TY2 most plausibly bread-rounds in ration quantities.
 
-[[wiki/linear-a/signs/logograms/star312|star312]]: Linear A logogram *312, speculative: a logogram tied to cloth by TELA+*312; inside a word a syllable of unknown value.
+[[wiki/linear-a/signs/logograms/star312|star312]]: Linear A logogram *312, proposed: a length of cloth (bitt), written by its first sign; inside a word BI.
 
 [[wiki/linear-a/signs/logograms/star316|star316]]: Linear A logogram *316, speculative: bean, legume (food commodity in ration allocations).
 
 [[wiki/linear-a/signs/logograms/star317|star317]]: Linear A logogram *317, proposed: receipt(s), offering(s).
 
-[[wiki/linear-a/signs/logograms/star322|star322]]: Linear A logogram *322, speculative: fruit.
+[[wiki/linear-a/signs/logograms/star322|star322]]: Linear A logogram *322, speculative: bag, bundle.
 
 [[wiki/linear-a/signs/logograms/star401|star401]]: Linear A logogram *401, proposed: aromatic preparation, perfumed oil.
 

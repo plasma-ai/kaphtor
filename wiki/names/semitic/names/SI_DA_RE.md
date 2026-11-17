@@ -32,11 +32,11 @@ updated: 2026-11-11T23:39:03Z
 | Reading's standing | SPECULATIVE |
 | Standing as a personal name | SPECULATIVE |
 | Standing of the layer | SPECULATIVE (lexicon_reading) |
-| Source | di Mino |
+| Source | di Mino; DMic II; Davis 2026b |
 
 ## Note
 
-HT 17: SI-DA-RE 5 after SA-RO 10 under RA-\*164-TI · TE · VIN 38. HT 122a: SI-DA-RE 1 in a roster of men, KU-RO 31. √s-d-r 'to set in order' (Akk. sadāru, Heb. sēder); SI-DA-RO (GO 2r) and JA-SI-DA-RA\[ (PH 7a) are on the same signs. RE writes the -i of names in -I, as Amorite KAKKAR-I (Gelb 1980, no. 3957); SI-DA-RO has -u. Rival: √s-t-r 'to hide', Heb. Sitrī (Exod 6:22). Two attestations. See \*324-DI-RA.
+HT 17: SI-DA-RE 5 after SA-RO 10 under RA-\*164-TI · TE · VIN 38. HT 122a: SI-DA-RE 1 in a roster of men, KU-RO 31. √s-d-r 'to set in order' (Akk. sadāru, Heb. sēder); SI-DA-RO (GO 2r) and JA-SI-DA-RA\[ (PH 7a) are on the same signs. RE writes the -i of names in -I, as Amorite KAKKAR-I (Gelb 1980, no. 3957); SI-DA-RO has -u. Linear B si-ta-ro, a man at Knossos (KN De 1138.B, Dg 1316.B, X 7774; DMic II), which Davis pairs with SI-DA-RE (2026b, 119). Rival: √s-t-r 'to hide', Heb. Sitrī (Exod 6:22). Two attestations. See \*324-DI-RA.
 
 ## As a name
 
@@ -67,7 +67,7 @@ Read words on the same documents.
 |---|---|---|
 | [[wiki/names/semitic/names/QA_star310_I\|QA-\*310-I]] | qaynī | smith or cultic administrator; occupational title |
 | [[wiki/names/egyptian/names/JA_MI_DA_RE\|JA-MI-DA-RE]] | Yamidare | He-from-the-hand-of-Re (Egyptian theophoric) |
-| [[wiki/names/semitic/names/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan |
+| [[wiki/names/semitic/names/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | devotee of Kubaba (Kubaba + -ān-), personal name or title |
 | DU | du | that, of (relative pronoun) |
 | KU-RO | kull | total, sum (accounting term) |
 

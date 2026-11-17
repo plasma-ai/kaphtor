@@ -60,7 +60,7 @@ di Mino; Ferrara 2022; GlOS 1; CAD; AHw
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT115a\|HT115a]] | Haghia Triada | Tablet | incomplete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT37\|HT37]] | Haghia Triada | Tablet | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/HT/HT/HT37\|HT37]] | Haghia Triada | Tablet | incomplete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/KH/KH/KH11\|KH11]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH22\|KH22]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH24\|KH24]] | Khania | Tablet | none |

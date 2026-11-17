@@ -1,16 +1,16 @@
 ---
 name: wiki/linear-a/words/P/PA_RA
 title: "PA-RA"
-desc: "parr(u): skin, fleece (a hide with its wool). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "commodity", "noun", "textile"]
+desc: "barr: grain, threshed grain (heading the grain entries of HT 128a); on PH 3a bōr 'lye', the alkali that scours wool. Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "commodity", "foodstuff", "grain", "noun"]
 kind: "word"
 form: "PA-RA"
 datasets: ["lexicon"]
-tier: 1
-confidence: "SPECULATIVE"
-confidence_score: 0.3
-reading: "parr(u)"
-attestations: ["PH3a", "HT128a"]
+tier: 2
+confidence: "CANDIDATE"
+confidence_score: 0.35
+reading: "barr"
+attestations: ["HT128a", "PH3a"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -27,45 +27,49 @@ updated: 2026-10-24T16:17:50Z
 
 ## Lexicon
 
-**SPECULATIVE**, tier 1 of 4, score 0.30
+**CANDIDATE**, tier 2 of 4, score 0.35
 
 | Field | Value |
 |---|---|
-| Reading | parr(u) |
-| Meaning | skin, fleece (a hide with its wool) |
-| Root | p-r(-w) |
-| Proto-Semitic | \*parw- ~ \*parr- (#1995) |
+| Reading | barr |
+| Meaning | grain, threshed grain (heading the grain entries of HT 128a); on PH 3a bōr 'lye', the alkali that scours wool |
+| Root | b-r-r |
+| Proto-Semitic | \*barr- (#1797) |
 | Language layer | Semitic |
-| Tags | commodity, noun, textile |
+| Tags | commodity, foodstuff, grain, noun |
 | Semantic field | commodity |
 
 ### Note
 
-PH 3a .3 \]MA+RU ⅓ · PẠ-RẠ ⅓ (GORILA I 291): after the wool ligature MA+RU and the MA ligatures \*556, \*557 and \*563, with the wool entry's ⅓ measure; a fractional measure fits a material counted by weight. PA and RA at their primary values, the geminate unwritten, both signs dotted. parr(u) 'skin, fleece': Akk. pāru, parru 'skin, hide' (CAD P 209; #1995). Rivals: \*parʕ- '(loose) hair of the head' (Akk. pērtu, Heb. päraʿ; SED I No. 218), head hair rather than a traded material; \*ɣapar- 'stiff hair' (Kogan 2011, 223) with its first syllable unwritten. HT 128a .1 \*326 PA-RA TU-RU-NU-SE-ME GRA 10, with no quantity of its own (GORILA I 221): there a personal name, or \*barr- 'grain' (Heb. bār; Akk. burru '(a cereal)', Mari, CAD B 330) with PA for /b/. Weak point: a two-sign word, so the PH 3a context, not the spelling, selects the sense.
+HT 128a .1 \*326 · PA-RA TU-RU-NU-SE-ME GRA 10, then WA-TU-MA-RE GRA+KU 12, MI-TA GRA+PA ½ and two more grain entries (GORILA I 221). \*326 opens a list, and the word after it heads the entries: on HT 35 I-KU-TA takes the first commodity, here PA-RA takes no number and every entry under it is grain. barr 'threshed grain', the word the single sign PA abbreviates, spelled out: Heb. bār 'clean, threshed grain' (Gen 41:35–49; HALOT 153), Arb. burr, Sabaic br 'wheat'. PA writes b as in PA-RA-NE Barān and A-PA-RA-NE ʿAbrān.
+
+PH 3a .3 \]MA+RU ⅓ · PẠ-RẠ ⅓, both signs dotted, after the wool ligature and at its measure, with \]MI+JA ¾, the core of the dye, on the back (GORILA I 291): bōr 'lye, potash', the alkali that cleans wool, of the same root √b-r-r 'to clean, purify' (Ug. brr 'pure', DULAT s.v.): Heb. bōr (Isa 1:25; Job 9:30; HALOT 153) and bōrît, the fullers' alkali (Mal 3:2; Jer 2:22; HALOT 159). Weak point: the lye sense is Hebrew and Jewish Aramaic alone, on a dotted two-sign word.
+
+Rivals: Bara, a man's name, PA-RA-NE without -ān as Alalakh has Ap-ra beside Ap-ra-an (Wiseman 1953, 128), the party the list falls under; pir 'fruit, produce' (Ug. pr, KTU 1.5 II 5); on PH 3a paʾr 'finery, headdress', Heb. pĕʾēr, of linen in Ezek 44:18, a loanword from Egyptian pyr (HALOT 908), and parr(u) 'fleece' (Akk. pāru 'skin, hide', CAD P 209). See PA, JA-PA-RA.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Akkadian | paru A (parru, baru) 'skin, hide' (CAD P 209); pāru, parru, bāru 'Haut' (AHw 836) |
-| Arabic | farw- 'fur'; farwa 'a skin, but not unless having upon it fur or wool' (Lane 2390) |
-| Syriac | partā, pl. parrē 'bran, husk; scurf of the head' (Brock. 591) |
+| Hebrew | bār 'clean, threshed grain', Gen 41:35–49 (HALOT 153); bōr 'potash, lye' (HALOT 153); bōrît 'alkaline salt' (HALOT 159) |
+| Arabic | burr 'wheat' (HALOT 153) |
+| Ugaritic | brr 'pure, purified, clean' (DULAT s.v.) |
 
 ### Source
 
-di Mino; CAD P; Kogan 2011; SED I; CAD B
+di Mino; HALOT; DULAT; Wiseman 1953
 
 ## Attestations
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/PH/PH/PH3a\|PH3a]] | Phaistos | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT128a\|HT128a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/PH/PH/PH3a\|PH3a]] | Phaistos | Tablet | incomplete |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/PH/PH/PH3a\|PH3a]] | parr(u) | skin, fleece (a hide with its wool) | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/PH/PH/PH3a\|PH3a]] | bōr | lye, the alkali that scours wool | SPECULATIVE |
 
 <!-- END kaphtor:record -->

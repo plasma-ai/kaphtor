@@ -66,11 +66,11 @@ Unicode (Linear A block):
 
 **SPECULATIVE**, incomplete (status: incomplete).
 
-> \]\*556 1; TA\[…\] \]\*557 1; \*563, a fraction; \]wool (MA+RU), a fraction; fleece, a fraction; \]PA\[…\] \]1.
+> \]\*556 1; TA\[…\] \]\*557 1; \*563, a fraction; \]wool (MA+RU), a fraction; lye (PA-RA), a fraction; \]PA\[…\] \]1.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/P/PA_RA\|PA-RA]] | parr(u) | skin, fleece (a hide with its wool) | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/P/PA_RA\|PA-RA]] | bōr | lye, the alkali that scours wool | SPECULATIVE | CANDIDATE (lexicon) |
 
 ### Notes
 

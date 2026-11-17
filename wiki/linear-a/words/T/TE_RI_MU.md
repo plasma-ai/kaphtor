@@ -41,7 +41,7 @@ updated: 2026-11-08T17:23:02Z
 
 ### Note
 
-KN Zf 13, signs 14–16, RI and MU dotted; GORILA 1982 reads ME, which would break the parse. TE writes the t- prefix, as TE-SU-DE tesʾad on the silver pin from the same tomb (KN Zf 31); JA-RE-MI yarīm has the stem with y-. Ugaritic has no causative 'exalt' (DULAT 729f.); the Hebrew hif. supplies it. Rivals: 3fs 'she lifts up', the t- of Tarīm-Eštar; TE-RI tēri 'attendant' + MU. One attestation.
+KN Zf 13, signs 14–16, RI and MU dotted. The editors read sign 16 first as ME (Olivier 1982, 22; GORILA IV 153), then as 23, MU (GORILA V 179, -04-53-23-), which Younger and SigLA follow. Weak point: a short stroke crosses the sign's stem, as in ME, and with ME the verb is lost. TE writes the t- prefix, as TE-SU-DE tesʾad on the silver pin from the same tomb (KN Zf 31); JA-RE-MI yarīm has the stem with y-. Ugaritic has no causative 'exalt' (DULAT 729f.); the Hebrew hif. supplies it. Rivals: 3fs 'she lifts up', the t- of Tarīm-Eštar; TE-RI tēri 'attendant' + MU. One attestation.
 
 ### Cognates
 

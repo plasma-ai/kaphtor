@@ -37,16 +37,20 @@ updated: 2026-10-24T16:17:50Z
 
 - KNZa10 \]TA-NU-MU-TI: GORILA IV identifies AB23 MU; lexical analysis remains CANDIDATE
 
+### Note
+
+In Linear A only the a-gendered form of AB 23, apparently also used as the female one, writes the syllable (Salgarella 2020, 214).
+
 ## Lexicon words written with this sign
 
 | Word | Reading | Confidence |
 |---|---|---|
 | [[wiki/linear-a/words/star/star333_SA_MU\|\*333-SA-MU]] | biśāmu | SPECULATIVE |
-| [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | ʾarān Ṣidna bikē bayta rēšī tarīmu ʾAyaku | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | ʾAren Ṣidna bikē bayta rēšī tarīmu ʾAyaku | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_SA_MU_NE\|A-SA-MU-NE]] | ʾAšmūn | PROBABLE |
 | [[wiki/linear-a/words/J/JA_SA_MU\|JA-SA-MU]] | yaśmaʿū | CANDIDATE |
 | [[wiki/linear-a/words/K/KI_plus_MU\|KI+MU]] | kumru | CANDIDATE |
-| [[wiki/linear-a/words/K/KO_MU\|KO-MU]] | kummu | SPECULATIVE |
+| [[wiki/linear-a/words/K/KO_MU\|KO-MU]] | qōmu | SPECULATIVE |
 | [[wiki/linear-a/words/K/KU_RA_MU\|KU-RA-MU]] | Kurmu | CANDIDATE |
 | [[wiki/linear-a/words/M/MU\|MU]] | mūru | CANDIDATE |
 | [[wiki/linear-a/words/M/MU_RU\|MU-RU]] | mūru | CANDIDATE |

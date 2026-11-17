@@ -59,6 +59,12 @@ di Mino; GlOS 1; Pardee 2000; Pentiuc 2001
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT37\|HT37]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT37\|HT37]] | Haghia Triada | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT37\|HT37]] | kinnār | lyre, 1 | PROBABLE |
 
 <!-- END kaphtor:record -->

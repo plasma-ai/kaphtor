@@ -32,11 +32,11 @@ updated: 2026-11-11T23:39:03Z
 | Reading's standing | SPECULATIVE |
 | Standing as a personal name | SPECULATIVE |
 | Standing of the layer | SPECULATIVE (lexicon_reading) |
-| Source | di Mino; Harding 1971; HALOT; DULAT |
+| Source | di Mino; Harding 1971; HALOT; DULAT; DMic I; Davis 2026b |
 
 ## Note
 
-ZA 14 .1 ME-KI-DI 1, intact, the first entry of a name list, before \*21F-\*118 1 and QA-TI-JU 8 (GORILA III 181). Safaitic MJD, feminine MJDT (Harding 1971, 528); Hebrew meged 'precious gift' (Deut 33:13; HALOT 543). The masculine of MA-KI-DE-TE (ZA 10b). Rival: Ugaritic mkt, which DULAT queries as 'immolation, offering' (DULAT 539). One document.
+ZA 14 .1 ME-KI-DI 1, intact, the first entry of a name list, before \*21F-\*118 1 and QA-TI-JU 8 (GORILA III 181). Safaitic MJD, feminine MJDT (Harding 1971, 528); Hebrew meged 'precious gift' (Deut 33:13; HALOT 543). The masculine of MA-KI-DE-TE (ZA 10b). Linear B me-ki-ti, a man at Knossos (KN Dv 1434.b; DMic I), which Davis pairs with ME-KI-DI, the d heard as t (2026b, 119). Rival: Ugaritic mkt, which DULAT queries as 'immolation, offering' (DULAT 539). One document.
 
 ## As a name
 

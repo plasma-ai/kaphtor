@@ -27,7 +27,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Site | Tylissos |
-| Findspot |  |
+| Findspot | House C, Magazine 9, Tylissos |
 | Support | Clay vessel |
 | Period |  |
 | Scribe |  |
@@ -46,5 +46,9 @@ Unicode (Linear A block):
 ```text
 𐘇𐙕𐘸𐘳𐘇
 ```
+
+## Corpus note
+
+A pithos rim (Salgarella 2020, 46, Table 5).
 
 <!-- END kaphtor:record -->

@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/MA/MA/MA4b
 title: "MA4b"
-desc: "Tablet, Malia. Translation: none."
+desc: "Tablet, Malia, MMIIIB. Translation: none."
 tags: ["linear-a", "inscription", "translation-none", "tablet"]
 kind: "inscription"
 id: "MA4b"
 site: "Malia"
 support: "Tablet"
-period: ""
+period: "MMIIIB"
 translation: "none"
 words: []
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Malia |
 | Findspot |  |
 | Support | Tablet |
-| Period |  |
+| Period | MMIIIB |
 | Scribe |  |
 | Edition | GORILA 1 |
 | Series | MA |

@@ -27,7 +27,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Site | Knossos |
-| Findspot |  |
+| Findspot | East Temple Repository, Knossos |
 | Support | Roundel |
 | Period | MMIIIB |
 | Scribe |  |
@@ -56,6 +56,6 @@ Unicode (Linear A block):
 
 ## Corpus note
 
-GORILA II 84: \]KA-I-?\[, broken both sides; the third sign, an arch with an inner stroke, is unidentified and broken after. SigLA's ka for it does not match the drawing.
+GORILA II 84: \]KA-I-?\[, broken both sides; the third sign, an arch with an inner stroke, is unidentified and broken after. SigLA's ka for it does not match the drawing. Salgarella (2020, 48 and n. 19) dates it LM IA, after Schoep 1995, 31–34, 65.
 
 <!-- END kaphtor:record -->

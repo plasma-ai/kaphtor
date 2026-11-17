@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/PH/PHWc/PHWc44
 title: "PHWc44"
-desc: "Roundel, Phaistos, MMII. Translation: none."
+desc: "Roundel, Phaistos, MMIIB. Translation: none."
 tags: ["linear-a", "inscription", "translation-none", "roundel"]
 kind: "inscription"
 id: "PHWc44"
 site: "Phaistos"
 support: "Roundel"
-period: "MMII"
+period: "MMIIB"
 translation: "none"
 words: []
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Phaistos |
 | Findspot |  |
 | Support | Roundel |
-| Period | MMII |
+| Period | MMIIB |
 | Scribe |  |
 | Edition | GORILA 2 |
 | Series | PHWc |

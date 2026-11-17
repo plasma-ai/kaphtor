@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/M/MI_DA_NI
 title: "MI-DA-NI"
-desc: "mitāni: loins, hip meat—choice cut on sacrificial fat allocation tablet. Lexicon, SPECULATIVE (tier 1)."
+desc: "mitāni: loins, loin meat (an offering cut). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "body", "commodity", "foodstuff", "hapax", "noun", "ritual"]
 kind: "word"
 form: "MI-DA-NI"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | mitāni |
-| Meaning | loins, hip meat—choice cut on sacrificial fat allocation tablet |
+| Meaning | loins, loin meat (an offering cut) |
 | Root | m-t-n |
 | Proto-Semitic | \*matn- (#1977) |
 | Language layer | Semitic |
@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 41a, unquantified before PA-JA 2 on a tablet of \*304 (fat) allocations: MI-DA-NI PA-JA 2, a weight. Heb. māṯnayim 'loins'. Ebla writes matn 'tendon' SA.ŠU = ma-da-nu, with DA for t (GlOS 2, 59). MI writes the i of the plural, as in Arabic mitān (Lane 3017). Rival: a heading or title before PA-JA. One attestation.
+HT 41a: MI-DA-NI · PA-JA 2⅓, under QE-TU 10, \*305 · \*304 10 and RE · \*304 10. mitāni 'loins': Ug. mtnt, a loin offered with oil, honey and a dove (KTU 1.41:21), mtntm w kbd 'two loins and a liver' (KTU 1.39:2) (DULAT 593); Heb. māṯnayim 'loins'. Ebla writes matn 'tendon' SA.ŠU = ma-da-nu, with DA for t (GlOS 2, 59). MI writes the i of the plural, as in Arabic mitān (Lane 3017). Weak point: MI-DA-NI stands before the divider, where \*305 and RE stand in the line above, the place of a recipient. Rival: a recipient's name, with PA-JA the entry counted. One attestation.
 
 ### Cognates
 
@@ -49,12 +49,12 @@ HT 41a, unquantified before PA-JA 2 on a tablet of \*304 (fat) allocations: MI-D
 |---|---|
 | Hebrew | māṯnayim 'loins, hips' (Deut 33:11; Exod 28:42) |
 | Akkadian | matnu 'sinew, tendon' (CAD M/1 412) |
-| Ugaritic | mtnt 'loin', a cult term (GlOS 2, 59) |
+| Ugaritic | mtnt 'loin', a cultic offering: mtntm w kbd 'two loins and a liver' (KTU 1.39:2) (DULAT 593); mtn (I) 'tendon, loin' (DULAT 592; GlOS 2, 59) |
 | Arabic | matn, pl. mitān (Lane 3017) |
 
 ### Source
 
-di Mino; GlOS 2
+di Mino; GlOS 2; DULAT
 
 ## Attestations
 
@@ -66,6 +66,6 @@ di Mino; GlOS 2
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT41a\|HT41a]] | mitāni | loins, hip meat | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT41a\|HT41a]] | mitāni | loins, loin meat | SPECULATIVE |
 
 <!-- END kaphtor:record -->

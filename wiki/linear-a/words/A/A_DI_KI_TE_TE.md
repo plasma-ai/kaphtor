@@ -41,11 +41,11 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-PK Za 11, A-DI-KI-TE-TE-\[DU-PU₂\]-RE: the Palaikastro form of JA-DI-KI-TU (Diktu, Dikte), whose cognates it shares. TE-TE is the feminine nisbe -īt, ʾa-Diqqitīt 'the Diktaean', E for i: JA-DI-KI-TU ~ JA-DI-KI-TE-TE as \*312-TA ~ \*312-TE-TE (Davis 2026, 46), the base T kept as in SU-KI-RI-TE-I-JA beside SU-KI-RI-TA; Heb. ʾašdôdît, yĕhûdît (Neh 13:24); LB di-ka-ta-jo Diktaios (KN Fp 1).
+PK Za 11, A-DI-KI-TE-TE-\[DU-PU₂\]-RE: the Palaikastro form of JA-DI-KI-TU (Diktu, Dikte), whose cognates it shares. A- is the vocative yā, its y weakened as in A-SA-SA-RA-ME and -WA-E for -WA-JA on the same stone; PK Za 8 and 15 write JA-DI-KI-TE-TE. TE-TE is the feminine nisbe -īt, ʾa-Diqqitīt, yā Diqqitīt with the yod weakened, 'O Diktaean', E for i: JA-DI-KI-TU ~ JA-DI-KI-TE-TE as \*312-TA ~ \*312-TE-TE (Davis 2026, 46), the base T kept as in SU-KI-RI-TE-I-JA beside SU-KI-RI-TA; Heb. ʾašdôdît, yĕhûdît (Neh 13:24); LB di-ka-ta-jo Diktaios (KN Fp 1) and di-ka-ta-de 'to Dikta' (KN Fp 7.2, Fh 5467.a). Davis cuts Valério's 'Diktaian' as /Dikta=ite/ or /Dikta=it/, a suffix that must begin with i, and finds /=it/ again in tu-ri-si-ti 'Tylissian', A-TU-RI-SI-TI without A- (2026b, 201–3).
 
-Every TE-TE form is one sign group with dubur (PK Za 8, PK Za 11, PK Za 15), Diqqitīt dubur 'the Diktaean of the sanctuary'. PK Za 12 a: A-DI-KI-TẸ-\[TE\], TE damaged, no divider, the surface after it lost (GORILA IV 36–38).
+Every TE-TE form is one sign group with dubur (PK Za 8, PK Za 11, PK Za 15), yā Diqqitīt dubur 'O Diktaean of the sanctuary'. PK Za 12 a: A-DI-KI-TẸ-\[TE\], TE damaged, no divider, the surface after it lost (GORILA IV 36–38).
 
-The word stands only at Palaikastro, in classical times the chief seat of Zeus Diktaios, and Pugliese Carratelli saw in it a divine name or epithet formed on Dikte (Pugliese Carratelli 1957, 170). Rival: Davis parses A- as a prepositional prefix, 'to, for the Diktaian' (Davis 2026, in Salgarella and Petrakis eds., The Wor(l)ds of Linear A, 43–60). DI- stands against the a of the goddess's syllabic spellings, ᵈda-ki-tu, Hittite Takiti-, Pardee's Daqqitu (DULAT 276): a dialect alternation, as TI-NI-TA beside TA-NA-TI, and Arabic has diqq beside daqīq (Lane 896). Weak point: E writes i twice, and no held Semitic form of the name carries the nisbe.
+The word stands only at Palaikastro, in classical times the chief seat of Zeus Diktaios, and Pugliese Carratelli saw in it a divine name or epithet formed on Dikte (Pugliese Carratelli 1957, 170). Rival: Valério parses A- as a prefix and reads A-DI-KI-TE-TE DU-BU-RE 'to/for the Diktaian lord' (Valério 2007), later 'to/for the Diktaian sanctuary' (Davis 2026, 49–50). DI- stands against the a of the goddess's syllabic spellings, ᵈda-ki-tu, Hittite Takiti-, Pardee's Daqqitu (DULAT 276): a dialect alternation, as TI-NI-TA beside TA-NA-TI, and Arabic has diqq beside daqīq (Lane 896). Weak point: E writes i twice, and no held Semitic form of the name carries the nisbe.
 
 ### Cognates
 
@@ -56,7 +56,7 @@ The word stands only at Palaikastro, in classical times the chief seat of Zeus D
 
 ### Source
 
-di Mino; Davis 2026; Pugliese Carratelli 1957; GORILA IV; Pardee 2000; DULAT; Lane; Astour 1966
+di Mino; Davis 2026; Pugliese Carratelli 1957; GORILA IV; Pardee 2000; DULAT; Lane; Astour 1966; Valério 2007; Davis 2026b
 
 ## Attestations
 

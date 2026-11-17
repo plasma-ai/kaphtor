@@ -19,7 +19,7 @@ updated: 2026-11-12T00:26:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Signs.** PU₂
+**Signs.** [[wiki/linear-a/signs/syllabic/PU2|PU₂]]
 
 ## Attestations
 

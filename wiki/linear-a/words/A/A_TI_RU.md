@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-ZA 4a, a Zakros tablet: a roster slot of 4 units, directly before the personal name JA-PA. ʿAṯtar with ṯt assimilated to tt, as in Amorite \[A\]t-ta-ri-ša-du-u\[q\] (Huffmon 1965, 173: "perhaps an assimilated form representing \*Attar"); the geminate is unwritten and ʿayin rides the plain vowel sign. Canaanite merged ṯ with š only after the Bronze Age. The i has precedent in the family's Akk. Ištar (CAD I/J 271; semitic_roots 2770), where Ebla keeps aš-dar, or marks the nisbe ʿAttirī, which the roster slot favors. Rival: ʿatīru 'entreated' (√ʿ-t-r; Gen 25:21 wayyēʿāter; HALOT 905), which fits a-ti-ru as written.
+ZA 4a, a Zakros tablet: a roster slot of 4 units, directly before the personal name JA-PA. ʿAṯtar with ṯt assimilated to tt, as in Amorite \[A\]t-ta-ri-ša-du-u\[q\] (Huffmon 1965, 173: "perhaps an assimilated form representing \*Attar"); the geminate is unwritten and ʿayin rides the plain vowel sign. Canaanite merged ṯ with š only after the Bronze Age. The i has precedent in the family's Akk. Ištar (CAD I/J 271; semitic_roots 2770), where Ebla keeps aš-dar, or marks the nisbe ʿAttirī, which the roster slot favors. Linear B a-ti-ro, a man at Knossos (KN Dc 1272.B; DMic I, as Dv 1272), which Davis pairs with it (2026b, 104). Rival: ʿatīru 'entreated' (√ʿ-t-r; Gen 25:21 wayyēʿāter; HALOT 905), which fits a-ti-ru as written.
 
 ### Cognates
 
@@ -55,7 +55,7 @@ ZA 4a, a Zakros tablet: a roster slot of 4 units, directly before the personal n
 
 ### Source
 
-di Mino; Huffmon 1965; CAD I/J; HALOT
+di Mino; Huffmon 1965; CAD I/J; HALOT; DMic I; Davis 2026b
 
 ## Attestations
 

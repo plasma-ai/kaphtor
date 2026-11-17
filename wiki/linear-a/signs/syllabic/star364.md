@@ -36,7 +36,7 @@ updated: 2026-11-08T01:07:38Z
 
 | Value | Confidence | Evidence |
 |---|---|---|
-| /so/ | 0.25 | LA 363/364 compared with Linear B B 12 so (Soldani 2013, apud Ferrara, Montecchi & Valério 2022, 98) |
+| /so/ | 0.25 | LA 363/364 compared with Linear B B 12 so (Soldani 2013, apud Ferrara, Montecchi & Valério 2022, 98); CHIC derives A 364 from CH 043 and makes it the forerunner of Linear B so, Melena gives A 364 do and A 363 so, and Salgarella leaves open whether either comes from CH 043 (Melena 2014a, 85 n. 27; Salgarella 2020, 338–39) |
 
 ### Forms cited for the value
 

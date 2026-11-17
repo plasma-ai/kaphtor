@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/J
 desc: "Words whose first sign begins with J."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-14T19:56:36Z
+updated: 2026-11-18T17:05:12Z
 ---
 
 # wiki/linear-a/words/J
@@ -43,9 +43,9 @@ updated: 2026-11-14T19:56:36Z
 
 [[wiki/linear-a/words/J/JA_PA_QA|JA_PA_QA]]: yapqaḥ: he opens (the eyes). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/J/JA_PA_RA|JA_PA_RA]]: yapʾara: may he/it glorify, adorn (3ms volitive √p-ʾ-r; guttural ʾ unwritten). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/J/JA_PA_RA|JA_PA_RA]]: yapra: may it bear fruit (3ms volitive √p-r-y); rival yapʾara 'may it glorify'. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/J/JA_PA_RA_JA_SE|JA_PA_RA_JA_SE]]: yapʾara yāṣē: may that which goes out glorify—volitive √p-ʾ-r + √y-ṣ-ʾ participle/imperfect (the outpoured libation as subject). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/J/JA_PA_RA_JA_SE|JA_PA_RA_JA_SE]]: yapra yāṣē: may what comes forth bear fruit—volitive √p-r-y + √y-ṣ-ʾ participle/imperfect; rival yapʾara yāṣē 'may that which goes out glorify'. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/J/JA_PI_broken_start|JA_PI_broken_start]]: Unread (unread): no role; 1 occurrence(s).
 

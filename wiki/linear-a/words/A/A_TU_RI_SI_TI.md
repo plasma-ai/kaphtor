@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-KN Zb 5, a clay vessel (MM IIIB), the single word A-TU-RI-SI-TI ·. Pre-Greek Turis- (LB tu-ri-so, Tylissos) with the NWS article ha- (h dropped to A, as A-KI-DA-RO) and the feminine gentilic -īt, as KA-NA-NI-TI kanaʿanītī. The feminine agrees with the jar (Ug. kd n. f. 'jar', DULAT 424; KA-DI kadd): a provenance label of the SU-KI-RI-TE-I-JA genre. Linear B writes the same feminine ethnic with Greek -ia, tu-ri-si-ja (KN Lc 533.8; DMic II 378, s.v. tu-ri-si-jo). A Semitic formation on a pre-Greek stem.
+KN Zb 5, a clay vessel (MM IIIB), the single word A-TU-RI-SI-TI ·. Pre-Greek Turis- (LB tu-ri-so, Tylissos) with the NWS article ha- (h dropped to A, as A-KI-DA-RO) and the feminine gentilic -īt, as KA-NA-NI-TI kanaʿanītī. The feminine agrees with the jar (Ug. kd n. f. 'jar', DULAT 424; KA-DI kadd): a provenance label of the SU-KI-RI-TE-I-JA genre. Linear B writes the same feminine ethnic with Greek -ia, tu-ri-si-ja (KN Lc 533.8; DMic II 378, s.v. tu-ri-si-jo). Valério takes the word for 'Tylissian' (Valério 2007, apud Davis 2026b, 203), and Davis cuts tu-ri-si-ti, without A-, as /Tulis=it/, the suffix of A-DI-KI-TE-TE (2026b, 203). Melena and others take Linear A a- for an optional deictic or demonstrative prefix (Melena 1987, 222 n. 65, apud Davis 2026b, 202 n. 670), 'a sort of definite article' in Davis's words. A Semitic formation on a pre-Greek stem.
 
 ### Cognates
 
@@ -53,7 +53,7 @@ KN Zb 5, a clay vessel (MM IIIB), the single word A-TU-RI-SI-TI ·. Pre-Greek Tu
 
 ### Source
 
-di Mino; Gelb 1980; DULAT; DMic II; Beekes 2014
+di Mino; Gelb 1980; DULAT; DMic II; Beekes 2014; Valério 2007; Davis 2026b; Melena 1987
 
 ## Attestations
 

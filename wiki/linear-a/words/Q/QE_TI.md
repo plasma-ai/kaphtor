@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/words/Q/QE_TI
 title: "QE-TI"
-desc: "qāti: in the charge of (list heading); Akk. qātu 'hand; charge'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "accounting", "administrative", "hapax", "preposition"]
+desc: "qāti: list of (heading of a list of men); Akk. qātu 'list'. Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "accounting", "administrative", "hapax", "noun"]
 kind: "word"
 form: "QE-TI"
 datasets: ["lexicon"]
 tier: 1
 confidence: "SPECULATIVE"
-confidence_score: 0.25
+confidence_score: 0.3
 reading: "qāti"
 attestations: ["HT7a"]
 created: 2026-10-24T16:17:50Z
@@ -27,31 +27,32 @@ updated: 2026-10-24T16:17:50Z
 
 ## Lexicon
 
-**SPECULATIVE**, tier 1 of 4, score 0.25
+**SPECULATIVE**, tier 1 of 4, score 0.30
 
 | Field | Value |
 |---|---|
 | Reading | qāti |
-| Meaning | in the charge of (list heading); Akk. qātu 'hand; charge' |
+| Meaning | list of (heading of a list of men); Akk. qātu 'list' |
+| Root | q-t |
 | Proto-Semitic | \*qāt- (#S87) |
 | Language layer | Semitic |
-| Tags | accounting, administrative, hapax, preposition |
-| Semantic field | unknown |
+| Tags | accounting, administrative, hapax, noun |
+| Semantic field | administrative |
 
 ### Note
 
-HT 7a: QE-TI · VIR+\[?\] heads a list of five men with numbers. Akk. qātu 'hand; custody, charge' (CAD Q 183), the word that marks whose charge a list records; QE writes qā. Cf. QẸ-TI-RA-DU · VIR+\[?\] (HT 58), in the same slot. Rival: a personal name, as Ebla ga-ti qāti 'hand' (Pagan 1998, row 1975). One attestation. See KA-TI.
+HT 7a: QE-TI · VIR+\[?\] heads a list of five men with numbers. Akk. qātu 'list', the word that opens Old Babylonian lists before the thing listed: qāti ERÍN.ḪUN.GÁ 'list of hired men' (PBS 13 56:1), qāti ŠE 'list of barley' (CAD Q 197); so QE-TI · VIR 'list of men'. QE writes qa as in QE-SU-PU qaššāpu. HT 85a has A-DU · \*307+\*307 · VIR+\[?\] in the same slot. Cf. QẸ-TI-RA-DU · VIR+\[?\] (HT 58), in the same slot, QE dotted. Rivals: qāti 'in the charge of' (CAD Q 183, 190), where the Akkadian idiom names the holder and none follows here; a personal name, as Ebla ga-ti qāti 'hand' (Pagan 1998, row 1975). One attestation. See KA-TI.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Akkadian | qātu 'hand; authority, custody, charge' (CAD Q 183) |
+| Akkadian | qātu 'list', in headings of lists: qāti ERÍN.ḪUN.GÁ 'list of hired men' (PBS 13 56:1; CAD Q 197); 'hand; authority, custody, charge' (CAD Q 183); (rival) awīlū ul ša qātika 'are the men not under your jurisdiction?' (CAD Q 190) |
 | Ugaritic | qt 'handle' (DULAT 708) |
 
 ### Source
 
-di Mino; Pagan 1998
+di Mino; CAD Q; Pagan 1998
 
 ## Attestations
 
@@ -63,6 +64,6 @@ di Mino; Pagan 1998
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT7a\|HT7a]] | qāti | in the charge of (list heading) | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT7a\|HT7a]] | qāti | list of (heading) | SPECULATIVE |
 
 <!-- END kaphtor:record -->

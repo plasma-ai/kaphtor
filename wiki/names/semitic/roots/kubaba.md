@@ -28,6 +28,6 @@ updated: 2026-11-11T23:39:03Z
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
 | [[wiki/names/semitic/names/KU_PA3_NA_TU\|KU-PA₃-NA-TU]] | Kubānatu | devotee(s) of Kubaba (Kubaba + -ān- + feminine -atu), a counted personnel group | 2 |
-| [[wiki/names/semitic/names/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan | 7 |
+| [[wiki/names/semitic/names/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | devotee of Kubaba (Kubaba + -ān-), personal name or title | 7 |
 
 <!-- END kaphtor:record -->

@@ -35,7 +35,7 @@ updated: 2026-11-11T23:39:03Z
 
 ## Note
 
-ZA Zb 3 VIN 32 / DI-DI-KA-SE A-SA-MU-NE A-SE, the dedicator of wine to Eshmun. Egyptian ḏd-kꜣ⸗s 'her ka endures', the name type of ꜥꜣ-kꜣ⸗s 'her ka is great' (Ranke I, 58.14) and wꜣḏ-kꜣ.w⸗s 'her ka is flourishing' (PNM v6, personal_names_id 142608414); DI-DI writes ḏd, SE ⸗s. Rival: Semitic DI-DI + KA-SE kissē 'throne', KA-SE as in PI-TA-KA-SE bīt-kissē (HT 21), DI-DI as in DI-DI-ZA-KE (HT 1). One attestation.
+ZA Zb 3 VIN 32 / DI-DI-KA-SE A-SA-MU-NE A-SE, the dedicator of wine to Eshmun. Egyptian ḏd-kꜣ⸗s 'her ka endures', the name type of ꜥꜣ-kꜣ⸗s 'her ka is great' (Ranke I, 58.14) and wꜣḏ-kꜣ.w⸗s 'her ka is flourishing' (PNM v6, personal_names_id 142608414); DI-DI writes ḏd, SE ⸗s. Linear B has a man's name di-ta-ka-so at Knossos (KN Dl 916.B, Ga 427.1; DMic I), a parallel drawn by Davis (2026b, 216, 221). Rival: Semitic DI-DI + KA-SE kissē 'throne', KA-SE as in PI-TA-KA-SE bīt-kissē (HT 21), DI-DI as in DI-DI-ZA-KE (HT 1). One attestation.
 
 ## As a name
 

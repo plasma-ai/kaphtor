@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K
 desc: "Words whose first sign begins with K."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-16T19:24:06Z
+updated: 2026-11-17T19:56:23Z
 ---
 
 # wiki/linear-a/words/K
@@ -135,7 +135,7 @@ updated: 2026-11-16T19:24:06Z
 
 [[wiki/linear-a/words/K/KI_RO|KI_RO]]: kilʾu: owed, outstanding balance (deficit)—transaction term heading deficit sections. Lexicon, CONFIRMED (tier 4).
 
-[[wiki/linear-a/words/K/KI_RU|KI_RU]]: kirru: large vessel (vessel label). Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/K/KI_RU|KI_RU]]: Kirru: personal name, the owner of the vase; Ugaritic krr. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/K/KI_SA_NE_broken_start|KI_SA_NE_broken_start]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -159,7 +159,7 @@ updated: 2026-11-16T19:24:06Z
 
 [[wiki/linear-a/words/K/KO_JA|KO_JA]]: Qōya: personal name, Amorite type (quwy- 'wait for, hope'); rival 'be strong'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/K/KO_MU|KO_MU]]: kummu: cella, inner sanctuary. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/K/KO_MU|KO_MU]]: qōmu: arise! (the infinitive as a command, before RU-DI). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/K/KO_RU|KO_RU]]: kōr: kor (dry measure); rival 'ram'. Lexicon, SPECULATIVE (tier 1).
 
@@ -193,7 +193,7 @@ updated: 2026-11-16T19:24:06Z
 
 [[wiki/linear-a/words/K/KU_PA3_NA_TU_NA_TE_broken_both|KU_PA3_NA_TU_NA_TE_broken_both]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/K/KU_PA3_NU|KU_PA3_NU]]: Kubānu: devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan. Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/K/KU_PA3_NU|KU_PA3_NU]]: Kubānu: devotee of Kubaba (Kubaba + -ān-), personal name or title. Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/K/KU_PA3_PA3|KU_PA3_PA3]]: Kubaba: Kubaba, Sumerian Kug-Baba 'Pure is Baba' (divine or personal name). Lexicon, PROBABLE (tier 3).
 

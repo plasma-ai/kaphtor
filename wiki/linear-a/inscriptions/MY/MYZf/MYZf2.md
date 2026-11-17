@@ -27,7 +27,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Site | Mycenae |
-| Findspot |  |
+| Findspot | Shaft Grave IV, Grave Circle A, Mycenae |
 | Support | Metal object |
 | Period |  |
 | Scribe |  |
@@ -53,5 +53,9 @@ Unicode (Linear A block):
 | Kind | SigLA | GORILA |
 |---|---|---|
 | sigla extra sign | \*43 |  |
+
+## Corpus note
+
+A bronze cauldron, NMA 576, possibly inscribed: AB 43 is incised on one of its handle plates, the sign's only appearance in Linear A (Salgarella 2020, 374–75 and n. 3). For Melena (2014, 87 n. 114) the sign was perhaps already attested by the time of Shaft Grave IV, and a Linear A source cannot be ruled out.
 
 <!-- END kaphtor:record -->

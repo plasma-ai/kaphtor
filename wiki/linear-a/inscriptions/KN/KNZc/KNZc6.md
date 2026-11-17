@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/KN/KNZc/KNZc6
 title: "KNZc6"
-desc: "Inked inscription, Knossos. Translation: incomplete (SPECULATIVE)."
+desc: "Inked inscription, Knossos, MMIIIA. Translation: incomplete (SPECULATIVE)."
 tags: ["linear-a", "inscription", "translation-incomplete", "inked-inscription"]
 kind: "inscription"
 id: "KNZc6"
 site: "Knossos"
 support: "Inked inscription"
-period: ""
+period: "MMIIIA"
 translation: "incomplete"
 words: ["A-DI", "DA-KI-TI", "NI-JA-NU", "PA-KU", "QI-TI-RI"]
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Knossos |
 | Findspot | Knossos, upper MM III floor above the Basement of the Monolithic Pillars, with a large jar and other vessels (Evans, PoM I 587–588, 616) |
 | Support | Inked inscription |
-| Period |  |
+| Period | MMIIIA |
 | Scribe |  |
 | Edition | GORILA 4 |
 | Series | KNZc |
@@ -87,6 +87,6 @@ Ink-written clay cup (HM 2630), pair of KN Zc 7, from an upper MM III floor abov
 
 ## Corpus note
 
-Ink-written inscription inside a tall clay cup (HM 2630), pair of KN Zc 7, in three circular registers read as a spiral from the bottom. Word division: \*34-TI-RI is its own register (GORILA IV 121), and Evans (PoM I 615 n. 1) reports dividing marks before signs 4, 6 and 11 (A, DA, NI); GORILA prints only the last. GORILA IV 121: line 2 · NI-JA-NU ·, NI dotted in the running transcription only; line 3 JU-KU-NA-PA-KU-NU-U-\[·\]-I-ZU, U dotted and one sign lost (SigLA and Younger agree).
+Ink-written inscription inside a tall clay cup (HM 2630), pair of KN Zc 7, in three circular registers read as a spiral from the bottom. Word division: \*34-TI-RI is its own register (GORILA IV 121), and Evans (PoM I 615 n. 1) reports dividing marks before signs 4, 6 and 11 (A, DA, NI); GORILA prints only the last. GORILA IV 121: line 2 · NI-JA-NU ·, NI dotted in the running transcription only; line 3 JU-KU-NA-PA-KU-NU-U-\[·\]-I-ZU, U dotted and one sign lost (SigLA and Younger agree). Petrakis and Salgarella (2026, 28) date the pair of cups MM IIIA.
 
 <!-- END kaphtor:record -->

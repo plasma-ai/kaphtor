@@ -2,20 +2,16 @@
 name: wiki/linear-a/words/Q
 desc: "Words whose first sign begins with Q, and words that open with an illegible sign."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-14T19:56:36Z
+updated: 2026-11-18T17:05:12Z
 ---
 
 # wiki/linear-a/words/Q
 
 [[wiki/linear-a/words/_index|..]]
 
-[[wiki/linear-a/words/Q/QA2_plus_q_plus_PU|QA2_plus_q_plus_PU]]: Unread sign (ligature, unread); 9 occurrence(s).
+[[wiki/linear-a/words/Q/QA2_plus_q_plus_PU|QA2_plus_q_plus_PU]]: qab of PU: QA written inside the *402 cup, the measuring cup QA-PA₃ qab, with PU attached for the measured commodity, unread. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/Q/QA2_plus_q_plus_PU_plus_RE|QA2_plus_q_plus_PU_plus_RE]]: Unread sign (ligature, component read); 1 occurrence(s).
-
-[[wiki/linear-a/words/Q/QA2_plus_q_plus_RE|QA2_plus_q_plus_RE]]: Unread sign (ligature, component read); 6 occurrence(s).
-
-[[wiki/linear-a/words/Q/QA2_plus_q_plus_RE_plus_PU|QA2_plus_q_plus_RE_plus_PU]]: Unread sign (ligature, component read); 3 occurrence(s).
+[[wiki/linear-a/words/Q/QA2_plus_q_plus_RE|QA2_plus_q_plus_RE]]: qab of RE: QA written inside the *402 cup, the measuring cup QA-PA₃ qab, with RE attached for the measured commodity, unread. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/Q/QA_KI_SE_NU_TI|QA_KI_SE_NU_TI]]: Kaki-šenni-ti: personal name, Hurrian type in -šenni 'brother'. Lexicon, SPECULATIVE (tier 1).
 
@@ -31,7 +27,7 @@ updated: 2026-11-14T19:56:36Z
 
 [[wiki/linear-a/words/Q/QA_NU_MA|QA_NU_MA]]: qanūma: reeds (qanūma); heading on KH 88, grain entry on HT 116a. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/Q/QA_PA3|QA_PA3]]: qubaʿ: goblet, cup (vessel term on HT31 inventory). Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/Q/QA_PA3|QA_PA3]]: qab: qab, measuring cup (vessel term on the HT 31 inventory) and the capacity measure it holds. Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/Q/QA_QA_DA|QA_QA_DA]]: qaqqadu: head, top, capital (Akkadian qaqqadu(m)). Lexicon, SPECULATIVE (tier 1).
 
@@ -85,7 +81,7 @@ updated: 2026-11-14T19:56:36Z
 
 [[wiki/linear-a/words/Q/QE_SU_PU|QE_SU_PU]]: qaššāpu: sorcerer, diviner (occupational title or PN). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/Q/QE_TI|QE_TI]]: qāti: in the charge of (list heading); Akk. qātu 'hand; charge'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/Q/QE_TI|QE_TI]]: qāti: list of (heading of a list of men); Akk. qātu 'list'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/Q/QE_TI_RA_DU|QE_TI_RA_DU]]: Unread (edge overlap): personal name; 1 occurrence(s).
 

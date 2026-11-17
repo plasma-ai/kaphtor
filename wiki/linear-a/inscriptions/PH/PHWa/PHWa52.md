@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/PH/PHWa/PHWa52
 title: "PHWa52"
-desc: "Nodule, Phaistos, MMII. Translation: complete (PROBABLE)."
+desc: "Nodule, Phaistos, MMIIB. Translation: complete (PROBABLE)."
 tags: ["linear-a", "inscription", "translation-complete", "nodule"]
 kind: "inscription"
 id: "PHWa52"
 site: "Phaistos"
 support: "Nodule"
-period: "MMII"
+period: "MMIIB"
 translation: "complete"
 words: []
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Phaistos |
 | Findspot |  |
 | Support | Nodule |
-| Period | MMII |
+| Period | MMIIB |
 | Scribe |  |
 | Edition | post_gorila_publication |
 | Series | PHWa |

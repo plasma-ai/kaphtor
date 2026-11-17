@@ -54,4 +54,8 @@ Unicode (Linear A block):
 
 [[wiki/linear-a/words/S/SU_JU_TA|SU-JU-TA]].
 
+## Corpus note
+
+Schoep (2026, 145–47) calls it an elongated tablet, not unlike a palm-leaf tablet in shape, found among the Linear B tablets in the Heraklion Museum (Bennett 1958b, 35–49), and holds that it cannot be dated with certainty but is either MM III or LM I. Salgarella (2020, 48) lists it as of unknown date, her Table 5 (45) under LM IA.
+
 <!-- END kaphtor:record -->

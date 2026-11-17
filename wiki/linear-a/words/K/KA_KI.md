@@ -55,7 +55,13 @@ di Mino; Monti 2017; NPN
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT37\|HT37]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT37\|HT37]] | Haghia Triada | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT37\|HT37]] | Kakki | personal name (Hurrian), and again at 11 | SPECULATIVE |
 
 ## Onomasticon
 

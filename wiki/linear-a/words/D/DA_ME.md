@@ -45,7 +45,7 @@ HT 95a/b and HT 86a: DA-ME with MI-NU-TE, always together, in the set SA-RU, KU-
 
 Heb. demaʿ stands with melēʾâ as a due on produce, 'your melēʾâ and your demaʿ you shall not delay' (Exod 22:28; HALOT 227), and Mishnaic Hebrew uses it for the priest's share: 'T'rumah has three names, Reshith, T'rumah and Dema' (Mekhilta, in Jastrow 314). DA-ME writes \*damʿ- with ʿ unwritten. Weak point: the 'share' sense is attested from the Mishnah on, HALOT gives 'juice' for Exod 22:28, and Ugaritic dmʿ is only 'to weep' (DULAT 270–271).
 
-Rival: damu 'blood' (Ug. dm, DULAT 270; Heb. dām, HALOT 224; Akk. damu, CAD D 75), a ritual category drawing grain. Second rival: Old Syrian dam 'kinfolk' (GlOS 1, 147), a kin group drawing grain. Four attestations, all Haghia Triada. See MI-NU-TE, TE and \*118-MI.
+Rival: damu 'blood' (Ug. dm, DULAT 270; Heb. dām, HALOT 224; Akk. damu, CAD D 75), a ritual category drawing grain. Second rival: Old Syrian dam 'kinfolk' (GlOS 1, 147), a kin group drawing grain. Four attestations, all Haghia Triada. See MI-NU-TE and TE.
 
 ### Cognates
 

@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 123+124b, after \*312 1¾: TI-DA-TA ·, then PI-SA 4, the group followed by a divider with no numeral. Ugaritic ṯdṯ 'sixth' (DULAT 887), which keeps the d that the cardinal ṯṯ assimilates (Huehnergard 2012, 51), with T writing the interdental. TI writes the i of the NWS ordinal, Heb. šiššî, fem. šiššît, which is also the fraction 'a sixth': šiššît hāʾêpâ 'a sixth of an ephah' (Ezek 45:13; HALOT 1666). Rival: the cardinal ṯidṯat- 'six', Ug. f. ṯṯt (DULAT 922). Weak point: one attestation. Cf. TI-TI-MA.
+HT 123+124b, after \*312 1¾: TI-DA-TA ·, then PI-SA 4, the group followed by a divider with no numeral. Ugaritic ṯdṯ 'sixth' (DULAT 887), which keeps the d that the cardinal ṯṯ assimilates (Huehnergard 2012, 51), with T writing the interdental. TI writes the i of the NWS ordinal, Heb. šiššî, fem. šiššît, which is also the fraction 'a sixth': šiššît hāʾêpâ 'a sixth of an ephah' (Ezek 45:13; HALOT 1666). Rival: the cardinal ṯidṯat- 'six', Ug. f. ṯṯt (DULAT 922). Weak point: one attestation. Cf. \*320-\*320-MA.
 
 ### Cognates
 

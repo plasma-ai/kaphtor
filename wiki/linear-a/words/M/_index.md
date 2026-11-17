@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/M
 desc: "Words whose first sign begins with M."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-17T16:49:31Z
+updated: 2026-11-18T17:05:12Z
 ---
 
 # wiki/linear-a/words/M
@@ -79,7 +79,7 @@ updated: 2026-11-17T16:49:31Z
 
 [[wiki/linear-a/words/M/MI|MI]]: Unread sign (syllabogram, unread); 4 occurrence(s).
 
-[[wiki/linear-a/words/M/MI_DA_NI|MI_DA_NI]]: mitāni: loins, hip meat—choice cut on sacrificial fat allocation tablet. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/M/MI_DA_NI|MI_DA_NI]]: mitāni: loins, loin meat (an offering cut). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/M/MI_DA_RA|MI_DA_RA]]: Unread (role only): personal or place name; 1 occurrence(s).
 
@@ -115,11 +115,11 @@ updated: 2026-11-17T16:49:31Z
 
 [[wiki/linear-a/words/M/MI_ZA_SE|MI_ZA_SE]]: mizza-se: for the corvée gang (terminative -SE); the corvée word of MA-ZA / ME-ZA. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/M/MI_plus_JA_plus_I|MI_plus_JA_plus_I]]: Unread sign (ligature, unread); 3 occurrence(s).
+[[wiki/linear-a/words/M/MI_plus_JA_plus_I|MI_plus_JA_plus_I]]: purple dye of the I kind, ʾiqnaʾu 'violet purple', booked in bulk: the core of MI+JA+RU miyāru with I set over it. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/M/MI_plus_JA_plus_KA|MI_plus_JA_plus_KA]]: Unread sign (ligature, component read); 2 occurrence(s).
+[[wiki/linear-a/words/M/MI_plus_JA_plus_KA|MI_plus_JA_plus_KA]]: purple dye of the KA kind, ḫamr- 'fermenting, foaming': the core of MI+JA+RU miyāru with KA set over it. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/M/MI_plus_JA_plus_RU|MI_plus_JA_plus_RU]]: murru: myrrh (murru), compound logogram. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/M/MI_plus_JA_plus_RU|MI_plus_JA_plus_RU]]: miyāru: purple dye, the murex dye liquor (a commodity ligature spelling the word); rival murru 'myrrh'. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/M/MI_plus_star301|MI_plus_star301]]: minā: mina, portion (weight/measure unit). Lexicon, PROBABLE (tier 3).
 

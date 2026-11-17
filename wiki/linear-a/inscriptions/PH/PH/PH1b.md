@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/PH/PH/PH1b
 title: "PH1b"
-desc: "Tablet, Phaistos. Translation: none."
+desc: "Tablet, Phaistos, MMIIIB. Translation: none."
 tags: ["linear-a", "inscription", "translation-none", "tablet"]
 kind: "inscription"
 id: "PH1b"
 site: "Phaistos"
 support: "Tablet"
-period: ""
+period: "MMIIIB"
 translation: "none"
 words: ["NI"]
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Phaistos |
 | Findspot |  |
 | Support | Tablet |
-| Period |  |
+| Period | MMIIIB |
 | Scribe |  |
 | Edition | GORILA 1 |
 | Series | PH |

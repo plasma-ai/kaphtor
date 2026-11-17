@@ -98,6 +98,6 @@ Two sections, headed by MI-DA and PA-SE. Each line names a commodity and then SA
 
 ## Corpus note
 
-GORILA I 51: .6 \]VIN̥ GRA · SA 4, no divider between VIN and GRA. SA 1 RE 14 VIN · SI · stand on one line, as do PA-SE · \*591 · SA 4 RE 70\[ (photograph and facsimile); 70 shows six tens and a seventh at the broken edge.
+GORILA I 51: .6 \]VIN̥ GRA · SA 4, no divider between VIN and GRA. SA 1 RE 14 VIN · SI · stand on one line, as do PA-SE · \*591 · SA 4 RE 70\[ (photograph and facsimile); 70 shows six tens and a seventh at the broken edge. GORILA's A 590 is VIN followed by the transaction sign SI between dots, not a composite (Salgarella 2020, 149; her prose names the first sign WA, her caption 131a).
 
 <!-- END kaphtor:record -->

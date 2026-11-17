@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/TY/TY/TY2
 title: "TY2"
-desc: "Tablet, Tylissos. Translation: none."
+desc: "Tablet, Tylissos, LMIB. Translation: none."
 tags: ["linear-a", "inscription", "translation-none", "tablet"]
 kind: "inscription"
 id: "TY2"
 site: "Tylissos"
 support: "Tablet"
-period: ""
+period: "LMIB"
 translation: "none"
 words: ["RU-KA", "VIR+[?]"]
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Tylissos |
 | Findspot |  |
 | Support | Tablet |
-| Period |  |
+| Period | LMIB |
 | Scribe |  |
 | Edition | GORILA 1 |
 | Series | TY |
@@ -88,6 +88,6 @@ Unicode (Linear A block):
 
 ## Corpus note
 
-GORILA I 325: line 4, DA-\[·\]-JU stacked over \*309C in the facsimile transcription (\[ \]-JU normalized); SigLA has da (31), no 32, ju (33). The numeral 17\[ \] may be incomplete. Line 5: \*309-\[ \]-WA-JU, WA dotted; after \*309 stands SigLA's unread AB53 hook (39), not RI, followed by a lost sign (no 40), wa (41), ju (42). Count about 160 in the facsimile transcription, 80 in the normalized. Line 6: GORILA brackets a lost sign above \*309B; SigLA codes AB53 (44) damaged and unread. Lines 2–3: PA-DA \*309-RU-JU-KI 100, RU written on top of \*309 as DA (line 2) and RI (line 3) are, and read after it like them; SigLA orders pa da ru before \*309. Line 2: \*309-DA-PU-\[?\] 10, a lost sign after PU (normalized \[ \]). Line 5: \*309C-\[?\]-RU-KA 30, the AB53 hook on top of \*309C unread (SigLA AB53 35, with ka 36 before ru 37 against GORILA's RU KA). Line 1: \*309B-\[?\]-PU-PI 500, a lost sign above \*309B, PI and the 5 dotted; SigLA reads AB34 (3) in that slot. Line 1: \*309-\[?\] 290, the 2 dotted. Line 2: \*309B-\[?\]-KI-PU 50, a lost sign before KI (SigLA has no 9). Line 3: \*309-RI-JU\[ then \]\*309\[ \]6 on the same line; the apparatus notes a stroke under the third circle, perhaps a ten.
+GORILA I 325: line 4, DA-\[·\]-JU stacked over \*309C in the facsimile transcription (\[ \]-JU normalized); SigLA has da (31), no 32, ju (33). The numeral 17\[ \] may be incomplete. Line 5: \*309-\[ \]-WA-JU, WA dotted; after \*309 stands SigLA's unread AB53 hook (39), not RI, followed by a lost sign (no 40), wa (41), ju (42). Count about 160 in the facsimile transcription, 80 in the normalized. Line 6: GORILA brackets a lost sign above \*309B; SigLA codes AB53 (44) damaged and unread. Lines 2–3: PA-DA \*309-RU-JU-KI 100, RU written on top of \*309 as DA (line 2) and RI (line 3) are, and read after it like them; SigLA orders pa da ru before \*309. Line 2: \*309-DA-PU-\[?\] 10, a lost sign after PU (normalized \[ \]). Line 5: \*309C-\[?\]-RU-KA 30, the AB53 hook on top of \*309C unread (SigLA AB53 35, with ka 36 before ru 37 against GORILA's RU KA). Line 1: \*309B-\[?\]-PU-PI 500, a lost sign above \*309B, PI and the 5 dotted; SigLA reads AB34 (3) in that slot. Line 1: \*309-\[?\] 290, the 2 dotted. Line 2: \*309B-\[?\]-KI-PU 50, a lost sign before KI (SigLA has no 9). Line 3: \*309-RI-JU\[ then \]\*309\[ \]6 on the same line; the apparatus notes a stroke under the third circle, perhaps a ten. Although found with mixed LM IA–IB material, the three Tylissos documents, TY 2, 3 and Wc 5, are considered to belong in LM IB (Salgarella 2020, 49, after Schoep 1995, 54, 65).
 
 <!-- END kaphtor:record -->

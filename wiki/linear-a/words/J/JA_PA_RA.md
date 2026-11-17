@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/J/JA_PA_RA
 title: "JA-PA-RA"
-desc: "yapʾara: may he/it glorify, adorn (3ms volitive √p-ʾ-r; guttural ʾ unwritten). Lexicon, CANDIDATE (tier 2)."
+desc: "yapra: may it bear fruit (3ms volitive √p-r-y); rival yapʾara 'may it glorify'. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "hapax", "libation_formula", "ritual", "verb"]
 kind: "word"
 form: "JA-PA-RA"
@@ -9,7 +9,7 @@ datasets: ["lexicon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.4
-reading: "yapʾara"
+reading: "yapra"
 attestations: ["SYZa9"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,21 +31,25 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | yapʾara |
-| Meaning | may he/it glorify, adorn (3ms volitive √p-ʾ-r; guttural ʾ unwritten) |
-| Root | p-ʾ-r |
-| Proto-Semitic | \*pVʔVr- (#2964) |
+| Reading | yapra |
+| Meaning | may it bear fruit (3ms volitive √p-r-y); rival yapʾara 'may it glorify' |
+| Root | p-r-y |
+| Proto-Semitic | \*pir- (#756) |
 | Language layer | Semitic |
 | Tags | hapax, libation_formula, ritual, verb |
 | Semantic field | verbal |
 
 ### Note
 
-SY Za 9: only within JA-PA-RA-JA-SE. yapʾara, 3ms volitive of √p-ʾ-r 'glorify, adorn', the guttural ʾ unwritten, as in JA-PA-QA yapqaḥ (PK Za 11, PK Za 12): the same ya- prefix before a p-initial root with the guttural dropped. One attestation. See JA-PA-RA-JA-SE.
+SY Za 9: only within JA-PA-RA-JA-SE. yapra, 3ms volitive of √p-r-y 'to bear fruit', PA and RA at their primary values: Heb. pārâ, Syr. pərā, Geʿez farya (HALOT 963), Ug. pr 'fruit'. Rival: yapʾara 'may it glorify', √p-ʾ-r with ʾ unwritten, as in JA-PA-QA yapqaḥ; Hebrew has that verb in piʿel and hitpaʿel only. One attestation. See JA-PA-RA-JA-SE, PA-RA.
 
 ### Cognates
 
-Hebrew פָּאַר (pāʾar) "glorify, beautify", פְּאֵר (pəʾēr) "diadem" (Exod 39:28; Isa 61:3), תִּפְאֶרֶת (tipʾart) "beauty, splendor"
+| Language | Comparison |
+|---|---|
+| Hebrew | pārâ 'to bear fruit, be fruitful', impf. yipreh (Isa 11:1; HALOT 963) |
+| Ugaritic | pr (I) 'fruit', beside ybl 'produce' (KTU 1.5 II 5; DULAT s.v.) |
+| Geʿez | farya 'to blossom, bear fruit' (HALOT 963) |
 
 ### Source
 

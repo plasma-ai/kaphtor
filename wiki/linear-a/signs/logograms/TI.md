@@ -75,6 +75,7 @@ Dual-function sign: syllabogram /ti/ (AB37) + logogram TIʔIN when standalone wi
 | [[wiki/linear-a/words/Q/QA_TI_KI\|QA-TI-KI]] | Kattike | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QE_TI\|QE-TI]] | qāti | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QI_TI_RI\|QI-TI-RI]] | qiṭrī | PROBABLE |
+| [[wiki/linear-a/words/R/RA_star164_TI\|RA-\*164-TI]] | rāšōt | SPECULATIVE |
 | [[wiki/linear-a/words/R/RA_TI_SE\|RA-TI-SE]] | Ratis | SPECULATIVE |
 | [[wiki/linear-a/words/R/RI_QE_TI\|RI-QE-TI]] | riqitt- | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_MA_TI\|SA-MA-TI]] | Ṣamidi | SPECULATIVE |
@@ -92,7 +93,6 @@ Dual-function sign: syllabogram /ti/ (AB37) + logogram TIʔIN when standalone wi
 | [[wiki/linear-a/words/T/TI_NI_TA_star307\|TI-NI-TA \*307]] | Tinit Dubur | PROBABLE |
 | [[wiki/linear-a/words/T/TI_NU_JA\|TI-NU-JA]] | Ṯinuya | SPECULATIVE |
 | [[wiki/linear-a/words/T/TI_TI_KU\|TI-TI-KU]] | tittuk(u) / tittōk | CANDIDATE |
-| [[wiki/linear-a/words/T/TI_TI_MA\|TI-TI-MA]] | ṯiṯṯīma | CANDIDATE |
 | [[wiki/linear-a/words/T/TU_MI_TI_ZA_SE\|TU-MI-TI-ZA-SE]] | tumtiṣa-se | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_NA_RU_KA_NA_TI\|U-NA-RU-KA-NA-TI]] | wannā lū kanasti / winnā lū kanasti | CANDIDATE |
 | [[wiki/linear-a/words/U/U_QE_TI\|U-QE-TI]] | wōqedt | SPECULATIVE |

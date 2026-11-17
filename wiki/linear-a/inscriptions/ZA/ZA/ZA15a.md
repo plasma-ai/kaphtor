@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/ZA/ZA/ZA15a
 title: "ZA15a"
-desc: "Tablet, Zakros. Translation: complete (SPECULATIVE)."
+desc: "Tablet, Zakros, LMIB. Translation: complete (SPECULATIVE)."
 tags: ["linear-a", "inscription", "translation-complete", "tablet"]
 kind: "inscription"
 id: "ZA15a"
 site: "Zakros"
 support: "Tablet"
-period: ""
+period: "LMIB"
 translation: "complete"
 words: ["*47-KU-NA", "*364-KE-MA-SE", "I-TI-NI-SA", "JA-SA-MU", "JI-NU-MA-RE", "ME-VIN", "MI-ZA-SE", "QE-SI-ZU-E", "SA", "SA-MI-DA-E", "SI-PI-KI"]
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Zakros |
 | Findspot |  |
 | Support | Tablet |
-| Period |  |
+| Period | LMIB |
 | Scribe | [[wiki/linear-a/by_scribe\|ZA Scribe 5]] |
 | Edition | GORILA 3 |
 | Series | ZA |

@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 4: heads a short allocation list (DU-RI-TE 2, PA-RE, TA-PI-SI-DI 1). With \*306 = ʿa, NWS √ʿ-t-q 'be old, noble' (Heb. ʿātīq, Arab. ʿatīq), with -A-RE a nominal suffix. Rival: Sabaic ʿtkr 'become fertile (of land)' (Beeston et al. 1982, 14; Ry 522/2), a t-infix stem of √ʿ-k-r, which covers the whole sequence, ʿa-ti-ka-(a)-re for ʿ-t-k-r, and suits a heading over an allocation list. The ʿ-t-q reading leaves -RE unexplained but has the broader NWS pedigree. Weak point: \*306 = ʿa is a proposed value, which \*306-TU ʿAttu (HT 9a, HT 9b, HT 119, HT 122a) and \*306+MI ʿAmmī (HT 115b) also carry. See A-TI-KA.
+HT 4: heads a short allocation list (DU-RI-TE 2, PA-RE, TA-PI-SI-DI 1). With \*306 = ʿa, NWS √ʿ-t-q 'be old, noble' (Heb. ʿātīq, Arab. ʿatīq), with -A-RE a nominal suffix. Rival: Sabaic ʿtkr 'become fertile (of land)' (Beeston et al. 1982, 14; Ry 522/2), a t-infix stem of √ʿ-k-r, which covers the whole sequence, ʿa-ti-ka-(a)-re for ʿ-t-k-r, and suits a heading over an allocation list. The ʿ-t-q reading leaves -RE unexplained but has the broader NWS pedigree. Davis supplies an account: final -re is 'likely to denote the presence of' a Minoan affix (2026b, 204, Hypothesis 23). Weak point: \*306 = ʿa is a proposed value, which \*306-TU ʿAttu (HT 9a, HT 9b, HT 119, HT 122a) and \*306+MI ʿAmmī (HT 115b) also carry. See A-TI-KA.
 
 ### Cognates
 

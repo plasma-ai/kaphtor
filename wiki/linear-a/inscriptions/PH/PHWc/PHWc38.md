@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/PH/PHWc/PHWc38
 title: "PHWc38"
-desc: "Roundel, Phaistos, MMII. Translation: complete (CANDIDATE)."
+desc: "Roundel, Phaistos, MMIIB. Translation: complete (CANDIDATE)."
 tags: ["linear-a", "inscription", "translation-complete", "roundel"]
 kind: "inscription"
 id: "PHWc38"
 site: "Phaistos"
 support: "Roundel"
-period: "MMII"
+period: "MMIIB"
 translation: "complete"
 words: ["*314-TA-MA"]
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Phaistos |
 | Findspot |  |
 | Support | Roundel |
-| Period | MMII |
+| Period | MMIIB |
 | Scribe |  |
 | Edition | GORILA 2 |
 | Series | PHWc |

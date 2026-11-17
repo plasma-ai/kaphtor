@@ -42,7 +42,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-A marked liquid: /la/ and the geminates /lla/, /rra/, which RA also writes, unmarked.
+A marked liquid: /la/ and the geminates /lla/, /rra/, which RA also writes, unmarked. Rival: a palatalized liquid /lʲ, rʲ/, very tentatively, Linear B ra₂ a borrowed redundancy beside ri-ja (Davis 2026b, 153, 157, Hypothesis 18).
 
 ## Lexicon words written with this sign
 

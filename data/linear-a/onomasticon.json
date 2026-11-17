@@ -24,10 +24,10 @@
     "auto"
   ],
   "stats": {
-    "total": 380,
+    "total": 382,
     "by_type": {
       "gentilic": 11,
-      "personal_name": 255,
+      "personal_name": 257,
       "theonym": 30,
       "title": 51,
       "toponym": 29,
@@ -39,7 +39,7 @@
       "egyptian": 11,
       "hurrian": 38,
       "indo_european": 1,
-      "semitic": 309,
+      "semitic": 311,
       "sumerian": 1,
       "unknown": {
         "total": 12,
@@ -54,17 +54,17 @@
       "Egyptian": 11,
       "Hurro-Urartian": 38,
       "Indo-European": 2,
-      "Semitic": 310,
+      "Semitic": 312,
       "Sumerian": 1,
       "unassigned": 18
     },
     "by_provenance": {
       "auto": 0,
-      "manual": 380
+      "manual": 382
     },
-    "manual_count": 380,
+    "manual_count": 382,
     "auto_count": 0,
-    "total_entries": 380
+    "total_entries": 382
   },
   "entries": [
     {
@@ -130,7 +130,7 @@
       "contact_ref": "am_gelb_n_04148",
       "lexicon_ref": "KU-PA₃-NU",
       "reading": "Kubānu",
-      "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan",
+      "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title",
       "frequency": 8,
       "attestations": [
         "HT1",
@@ -166,7 +166,7 @@
         {
           "word": "KU-PA₃-NU",
           "reading": "Kubānu",
-          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan",
+          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title",
           "category": "personal_name"
         },
         {
@@ -221,7 +221,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "Kubānu 'devotee of Kubaba', masculine of KU-PA₃-NA-TU Kubānatu, the counted personnel group of HT119 (di Mino, Ya Diktu). HT88 sets it beside KU-PA₃-PA₃ Kubaba. Amorite has the short base with this ending, Kubb-ān-um (Gelb, AS 21, no. 4148). Eight occurrences across seven inscriptions make name or title status probable. Rival: Gupana/Gupan, from Ugaritic syllabic {m}gu-pa-na (RS 11.839 r.8; ORACC P503288) and alphabetic gpn, with Linear B ku-pa-nu-we-to."
+      "note": "Kubānu 'devotee of Kubaba', masculine of KU-PA₃-NA-TU Kubānatu, the counted personnel group of HT119 (di Mino, Ya Diktu). HT88 sets it beside KU-PA₃-PA₃ Kubaba. Amorite has the short base with this ending, Kubb-ān-um (Gelb, AS 21, no. 4148). Eight occurrences across seven inscriptions make name or title status probable. Rival: a man's name, Linear B ka-*56-no at Knossos (KN Df 1219.B), which Davis sets beside KU-PA₃-NU (2026b, 161–63)."
     },
     {
       "token": "DI-NA-U",
@@ -552,7 +552,7 @@
         {
           "word": "KU-PA₃-NU",
           "reading": "Kubānu",
-          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan",
+          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title",
           "category": "personal_name"
         },
         {
@@ -773,7 +773,7 @@
         {
           "word": "KU-PA₃-NU",
           "reading": "Kubānu",
-          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan",
+          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title",
           "category": "personal_name"
         },
         {
@@ -1033,7 +1033,7 @@
         {
           "word": "KU-PA₃-NU",
           "reading": "Kubānu",
-          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan",
+          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title",
           "category": "personal_name"
         },
         {
@@ -1098,7 +1098,7 @@
         {
           "word": "KU-PA₃-NU",
           "reading": "Kubānu",
-          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan",
+          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title",
           "category": "personal_name"
         },
         {
@@ -1228,7 +1228,7 @@
         {
           "word": "KU-PA₃-NU",
           "reading": "Kubānu",
-          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan",
+          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title",
           "category": "personal_name"
         },
         {
@@ -1370,7 +1370,7 @@
         {
           "word": "KU-PA₃-NU",
           "reading": "Kubānu",
-          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan",
+          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title",
           "category": "personal_name"
         },
         {
@@ -1574,7 +1574,7 @@
         {
           "word": "KU-PA₃-NU",
           "reading": "Kubānu",
-          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan",
+          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title",
           "category": "personal_name"
         },
         {
@@ -1769,7 +1769,7 @@
         {
           "word": "KU-PA₃-NU",
           "reading": "Kubānu",
-          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan",
+          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title",
           "category": "personal_name"
         },
         {
@@ -2313,7 +2313,7 @@
         {
           "word": "KU-PA₃-NU",
           "reading": "Kubānu",
-          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan",
+          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title",
           "category": "personal_name"
         },
         {
@@ -2880,7 +2880,7 @@
         {
           "word": "KU-PA₃-NU",
           "reading": "Kubānu",
-          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan",
+          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title",
           "category": "personal_name"
         },
         {
@@ -3089,7 +3089,7 @@
         {
           "word": "KU-PA₃-NU",
           "reading": "Kubānu",
-          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan",
+          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title",
           "category": "personal_name"
         },
         {
@@ -3173,7 +3173,7 @@
         {
           "word": "KU-PA₃-NU",
           "reading": "Kubānu",
-          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan",
+          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title",
           "category": "personal_name"
         },
         {
@@ -4595,7 +4595,7 @@
         {
           "word": "KU-PA₃-NU",
           "reading": "Kubānu",
-          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan",
+          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title",
           "category": "personal_name"
         },
         {
@@ -5186,7 +5186,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "ZA 8, the first entry under KI-RA, with figs: ʿAṯtar, Ugaritic ʿṯtr (Pardee 2000, 1093). Rival: Hathor, Lady of the Sycomore. See the lexicon entry."
+      "note": "ZA 8, the first entry under KI-RA, with figs: ʿAṯtar, Ugaritic ʿṯtr (Pardee 2000, 1093). Rivals: Hathor, Lady of the Sycomore; a man's name, Linear B a-ta-ro at Pylos (PY An 35.5). See the lexicon entry."
     },
     {
       "token": "A-TI-RU",
@@ -5590,7 +5590,7 @@
         {
           "word": "KU-PA₃-NU",
           "reading": "Kubānu",
-          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan",
+          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title",
           "category": "personal_name"
         },
         {
@@ -5709,7 +5709,7 @@
         {
           "word": "KU-PA₃-NU",
           "reading": "Kubānu",
-          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan",
+          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title",
           "category": "personal_name"
         },
         {
@@ -5972,7 +5972,7 @@
         {
           "word": "KU-PA₃-NU",
           "reading": "Kubānu",
-          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan",
+          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title",
           "category": "personal_name"
         },
         {
@@ -7783,7 +7783,7 @@
         {
           "word": "KU-PA₃-NU",
           "reading": "Kubānu",
-          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan",
+          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title",
           "category": "personal_name"
         },
         {
@@ -8298,7 +8298,7 @@
         {
           "word": "KU-PA₃-NU",
           "reading": "Kubānu",
-          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan",
+          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title",
           "category": "personal_name"
         },
         {
@@ -8924,7 +8924,7 @@
         {
           "word": "KU-PA₃-NU",
           "reading": "Kubānu",
-          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan",
+          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title",
           "category": "personal_name"
         },
         {
@@ -9119,7 +9119,7 @@
         {
           "word": "KU-PA₃-NU",
           "reading": "Kubānu",
-          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan",
+          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title",
           "category": "personal_name"
         },
         {
@@ -9202,7 +9202,7 @@
         {
           "word": "KU-PA₃-NU",
           "reading": "Kubānu",
-          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan",
+          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title",
           "category": "personal_name"
         },
         {
@@ -9955,7 +9955,7 @@
         {
           "word": "KU-PA₃-NU",
           "reading": "Kubānu",
-          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan",
+          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title",
           "category": "personal_name"
         },
         {
@@ -10644,7 +10644,7 @@
         {
           "word": "KU-PA₃-NU",
           "reading": "Kubānu",
-          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan",
+          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title",
           "category": "personal_name"
         },
         {
@@ -12673,7 +12673,7 @@
         {
           "word": "KU-PA₃-NU",
           "reading": "Kubānu",
-          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan",
+          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title",
           "category": "personal_name"
         },
         {
@@ -12946,7 +12946,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "KN Zf 13, signs 4–6 of the gold ring's spiral, after A-RE-NE ʾarān: 'the coffin of Sidon'. DI a dead vowel, Ṣidn-a; the -a is Sidon's own spelling, ᵘʳᵘṢi₂-du-na (EA 144:5, 11; RGTC 12/2, 248); Ugaritic ṣdyn /Ṣidyān/ (DULAT 769). See the lexicon entry."
+      "note": "KN Zf 13, signs 4–6 of the gold ring's spiral, after A-RE-NE ʾAren: 'Aren of Sidon'; rival 'Ark of Sidon'. DI a dead vowel, Ṣidn-a; the -a is Sidon's own spelling, ᵘʳᵘṢi₂-du-na (EA 144:5, 11; RGTC 12/2, 248); Ugaritic ṣdyn /Ṣidyān/ (DULAT 769). See the lexicon entry."
     },
     {
       "token": "SI-KI-NE",
@@ -13091,7 +13091,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "Only word on side b of the HT Zb 158 jar (GORILA IV 65); side a reads [·]-TU-SE-SU-KI. Gentilic on SU-KI-RI-TA (PH Wa 32), the vowel of KI dead before RI: Sukrita, Greek Σύβριτα, a Cretan town at Thronos in the Amari valley. Ventris and Chadwick read LB su-ki-ri-ta as Sugrita, KI for /gi/; the later β is the Pre-Greek β/γ alternation of βληχών/γλαχών and βλέπω/γλέπω, not a regular labio-velar outcome (Chadwick & Baumbach 1963). Davis (Aura Suppl. 13, 46) pairs the two forms as alternating endings. -TE-I-JA has no other Linear A witness; SE-TO-I-JA (PR Za 1) shares -I-JA. The ending can be the Semitic nisba *-iy- (fem. *-iyya), the suffix of gentilics such as Ugaritic ugrty /ʾugaritiyyu/ 'man of Ugarit' (Arabic nisba, Fischer §116); Anatolian -iya- fits it as well."
+      "note": "Only word on side b of the HT Zb 158 jar (GORILA IV 65); side a reads [·]-TU-SE-SU-KI. Gentilic on SU-KI-RI-TA (PH Wa 32), the vowel of KI dead before RI: Sukrita, Greek Σύβριτα, a Cretan town at Thronos in the Amari valley. Ventris and Chadwick read LB su-ki-ri-ta as Sugrita, KI for /gi/; the later β is the Pre-Greek β/γ alternation of βληχών/γλαχών and βλέπω/γλέπω, not a regular labio-velar outcome (Chadwick & Baumbach 1963). Davis (2026, 46) pairs the two forms as alternating endings. -TE-I-JA has no other Linear A witness; SE-TO-I-JA (PR Za 1) shares -I-JA. The ending can be the Semitic nisba *-iy- (fem. *-iyya), the suffix of gentilics such as Ugaritic ugrty /ʾugaritiyyu/ 'man of Ugarit' (Arabic nisba, Fischer §116); Anatolian -iya- fits it as well."
     },
     {
       "token": "SU-PU₂",
@@ -13716,7 +13716,7 @@
         {
           "word": "KU-PA₃-NU",
           "reading": "Kubānu",
-          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan",
+          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title",
           "category": "personal_name"
         },
         {
@@ -13988,7 +13988,7 @@
         {
           "word": "KU-PA₃-NU",
           "reading": "Kubānu",
-          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan",
+          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title",
           "category": "personal_name"
         },
         {
@@ -14066,7 +14066,7 @@
         {
           "word": "KU-PA₃-NU",
           "reading": "Kubānu",
-          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan",
+          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title",
           "category": "personal_name"
         },
         {
@@ -14149,7 +14149,7 @@
         {
           "word": "KU-PA₃-NU",
           "reading": "Kubānu",
-          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan",
+          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title",
           "category": "personal_name"
         },
         {
@@ -14379,7 +14379,7 @@
         {
           "word": "KU-PA₃-NU",
           "reading": "Kubānu",
-          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan",
+          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title",
           "category": "personal_name"
         },
         {
@@ -14558,7 +14558,7 @@
           "distance": 1.0
         }
       ],
-      "note": "ZA 10b .1 WA-*362 2, the first entry of face b (GORILA III 171). *362 has no resolved value. No reading."
+      "note": "ZA 10b .1 WA-*362 2, the first entry of face b (GORILA III 171). *362 has no resolved value; Melena takes it for the ancestor of Linear B no (Melena 2014a, 84–88, apud Salgarella 2020, 162, 291–94). No reading."
     },
     {
       "token": "WA-O-MI",
@@ -14943,7 +14943,7 @@
         {
           "word": "KU-PA₃-NU",
           "reading": "Kubānu",
-          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan",
+          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title",
           "category": "personal_name"
         },
         {
@@ -16712,7 +16712,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "ZA Zg 35, a bone label: ]A-MI-JA-RU · SE-WA-AU-DE, broken before A (Younger, Linear A Texts). ʿAmmī-yarūm 'My kinsman is exalted', as Amorite Yarīm-ʿAmmu and ʿAmmu-rāma (Gelb 1980, nos. 3436, 2154). See the lexicon entry."
+      "note": "ZA Zg 35, a bone or ivory rod: ]A-MI-JA-RU · SE-WA-AU-DE, the first sign cut by the break, printed ]ME, doubtful, in its first edition (Kopaka 1989, 9–11) and A by the drawing. ʿAmmī-yarūm 'My kinsman is exalted', as Amorite Yarīm-ʿAmmu and ʿAmmu-rāma (Gelb 1980, nos. 3436, 2154). See the lexicon entry."
     },
     {
       "token": "DA-I-PI-TA",
@@ -16749,7 +16749,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "A recipient on two Zakros tablets by different scribes: 1 in the ZA 10a name list, 2½ on ZA 8, both intact. ṭayyibat- 'good (f.)': Amorite DA-BA-TUM Ṭaybatum, a woman (Gelb no. 1409), DA for ṭ. Same spelling as Linear B da-i-pi-ta, opening KN B 799 beside ke-do-si-ja (Killen, Mycenaean Greek, glossary): the name survives into Mycenaean Knossos. Rival: DA-I + PI-TA.",
+      "note": "A recipient on two Zakros tablets by different scribes: 1 in the ZA 10a name list, 2½ on ZA 8, both intact. ṭayyibat- 'good (f.)': Amorite DA-BA-TUM Ṭaybatum, a woman (Gelb no. 1409), DA for ṭ. Same spelling as Linear B da-i-pi-ta, opening KN Bk 799 beside ke-do-si-ja (Killen, Mycenaean Greek, glossary): the name survives into Mycenaean Knossos. Rival: DA-I + PI-TA.",
       "linear_b_comparanda": "Exact Linear B continuity: da-i-pi-ta, KN Bk 799+8306—Davis's canonical ZA 10 example of Minoan name continuity (Docs² 537): the ZA10a name list and a Knossos tablet carry the identical four-syllable name, non-Greek per Docs²."
     },
     {
@@ -18560,6 +18560,77 @@
       "bucket": "onomastic",
       "weak_cognates": [],
       "note": "HT 25a .2 RU-NI 1, heading the line (GORILA I 45). Runni 'jubilation', √r-n-n: Ugaritic rny PN (DULAT 731), Hebrew Rinnāh (1 Chr 4:20; HALOT 1247). Rival: 'the crier', Dīnāyu's trade. See the lexicon entry."
+    },
+    {
+      "token": "A-RE-NE",
+      "normalized": "arene",
+      "type": "personal_name",
+      "type_confidence": "SPECULATIVE",
+      "affiliation": "semitic",
+      "language_family": "Semitic",
+      "affiliation_confidence": "SPECULATIVE",
+      "affiliation_evidence": "lexicon_reading",
+      "contact_ref": null,
+      "lexicon_ref": "A-RE-NE",
+      "reading": "ʾAren",
+      "meaning": "Aren, a man's name, the owner of the ring",
+      "frequency": 1,
+      "attestations": [
+        "KNZf13"
+      ],
+      "sites": [
+        "Knossos"
+      ],
+      "cross_site": false,
+      "genre_supports": {
+        "Metal object": 1
+      },
+      "position_summary": {
+        "follows": {},
+        "heads_document": 1
+      },
+      "co_occurring_known": [
+        "SI-DI-*301",
+        "A-JA-KU"
+      ],
+      "provenance": "manual",
+      "bucket": "onomastic",
+      "weak_cognates": [],
+      "note": "KN Zf 13, signs 1–3 of the gold ring's spiral, before SI-DI-*301 Ṣidna: 'Aren of Sidon'. ʾAren 'ibex': Ugaritic ảrn, a man's name (KTU 4.832:3; DULAT 100), Hebrew ʾĂrān, an Edomite (Gen 36:28; HALOT 89). A man's name stands before his city in lists from Ugarit, ]PN URU ṣi-d[u-na-iu] (PRU 6 81:4; DULAT 769). Rival: ʾarān 'chest, ark'. See the lexicon entry."
+    },
+    {
+      "token": "KI-RU",
+      "normalized": "kiru",
+      "type": "personal_name",
+      "type_confidence": "SPECULATIVE",
+      "affiliation": "semitic",
+      "language_family": "Semitic",
+      "affiliation_confidence": "SPECULATIVE",
+      "affiliation_evidence": "lexicon_reading",
+      "contact_ref": null,
+      "lexicon_ref": "KI-RU",
+      "reading": "Kirru",
+      "meaning": "personal name, the owner of the vase; Ugaritic krr",
+      "frequency": 1,
+      "attestations": [
+        "MIZb1"
+      ],
+      "sites": [
+        "Milos"
+      ],
+      "cross_site": false,
+      "genre_supports": {
+        "Clay vessel": 1
+      },
+      "position_summary": {
+        "follows": {},
+        "heads_document": 1
+      },
+      "co_occurring_known": [],
+      "provenance": "manual",
+      "bucket": "onomastic",
+      "weak_cognates": [],
+      "note": "MI Zb 1, the one word incised on the base of a clay vase from Melos (GORILA IV 91). Kirru: Ugaritic krr, a man's name, ki-ri-ri (DULAT 452). Weak point: three syllables there against two here. Rivals: Akkadian kirru 'large vessel', Hebrew kiyyôr 'basin'. See the lexicon entry."
     }
   ]
 }

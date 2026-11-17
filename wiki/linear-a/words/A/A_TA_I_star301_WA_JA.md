@@ -47,7 +47,7 @@ A- is the 1cs prefix, -TA- the tG prefix, I an epenthetic i, as Geʿez inserts a
 
 Nāweh joins divine habitation to pasture: nəwēh qodšekā 'your holy abode' (Exod 15:13), nəwēh-ṣedeq 'abode of righteousness' (Jer 31:23), Amorite nawûm 'steppe; encampment (man and beast)' (Huffmon 1965, 237). Greek has it as ναός 'temple', Mycenaean na-wi-jo 'of the temple' (PY Jn 829), and Rendsburg accepts naos = nāweh, the noun of Exod 15:13 and the verb of Exod 15:2 (1989, 77–78).
 
-Same paradigm: A-TA-I-\*301-WA-E (PK Za 11a), which weakens JA to E as A-SA-SA-RA-ME and A-DI-KI-TE-TE do there, and JA-TA-I-\*301-U-JA (AP Za 1, 3ms). TA-NA-I-\*301-(U-)TI(-NU) shares the frame with √ʿ-n-y 'answer' and A-TA-I-\*301-DE-KA (ZA Zb 3) with √ʿ-n-w 'be humbled', and \*301-WA nawā 'dwelling' stands on IO Za 4. Rivals: Duhoux's 'gives', which Davis adopts (Davis 2026, 53), and Finkelberg's two units, atai- and a particle chain -301-wa-ja (1990, 49–51). Thomas takes the invariant I-\*301 for the root of one family (2020, 2–3), and the editors set TA-NA-I-\*301-U-TI-NU in it (Karetsou, Godart and Olivier 1985, 134), where Ya Diktu finds two roots, √n-w-y and √ʿ-n-y. HALOT files Exod 15:2 under II נוה 'glorify', with the Peshitta and the Palestinian Targumim. See TA-NA-RA-TE-U-TI-NU, the closing petition.
+Same paradigm: A-TA-I-\*301-WA-E (PK Za 11a), which weakens JA to E as A-SA-SA-RA-ME and A-DI-KI-TE-TE do there, and JA-TA-I-\*301-U-JA (AP Za 1, 3ms). TA-NA-I-\*301-(U-)TI(-NU) shares the frame with √ʿ-n-y 'answer' and A-TA-I-\*301-DE-KA (ZA Zb 3) with √ʿ-n-w 'be humbled', and \*301-WA nawā 'dwelling' stands on IO Za 4. Rivals: Duhoux's 'gives', which Davis adopts (2026, 53), and Finkelberg's two units, atai- and a particle chain -301-wa-ja (1990, 49–51). Thomas takes the invariant I-\*301 for the root of one family (2020, 2–3), and the editors set TA-NA-I-\*301-U-TI-NU in it (Karetsou, Godart and Olivier 1985, 134), where Ya Diktu finds two roots, √n-w-y and √ʿ-n-y. HALOT files Exod 15:2 under II נוה 'glorify', with the Peshitta and the Palestinian Targumim. Davis finds a vague resemblance between this verb and the opening of Spell 32 of the London Medical Papyrus (BM 10059), the 'Spell for the Asiatic illness in the language of the Keftiu', sa-an-ta-ka-p\[ \]-pi-wa-ja (Davis 2026b, 84). See TA-NA-RA-TE-U-TI-NU, the closing petition.
 
 ### Cognates
 
@@ -61,7 +61,7 @@ Same paradigm: A-TA-I-\*301-WA-E (PK Za 11a), which weakens JA to E as A-SA-SA-R
 
 ### Source
 
-di Mino; Karetsou, Godart and Olivier 1985; Thomas 2020; Hutton and Marzouk 2012; Lane; HALOT; Huffmon 1965; Bernal 1987; Rendsburg 1989; Duhoux 1989; Davis 2026; Finkelberg 1990
+di Mino; Karetsou, Godart and Olivier 1985; Thomas 2020; Hutton and Marzouk 2012; Lane; HALOT; Huffmon 1965; Bernal 1987; Rendsburg 1989; Duhoux 1989; Davis 2026; Finkelberg 1990; Davis 2026b
 
 ### Review
 

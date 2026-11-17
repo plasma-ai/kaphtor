@@ -30,6 +30,10 @@ updated: 2026-10-24T16:17:50Z
 | Gloss | vinegar |
 | Commodity | ACETUM |
 
+### Note
+
+GORILA's variant table draws A 131c from KH 18.4 alone and sets the Phaistos tokens, PH 9b, PH 25.1 and PH Wc 43, under AB 131a (V xliv). Salgarella places A 131c 'only at Khania', on KH 18.4 and KH 85.2 (2020, 143), and later at Khania and Phaistos (340). The facsimile of KN 54 on file draws its VIN-type sign without the two-stroke crest of A 131c.
+
 ## Lexicon words written with this sign
 
 | Word | Reading | Confidence |

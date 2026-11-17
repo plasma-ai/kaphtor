@@ -31,4 +31,6 @@ updated: 2026-11-12T00:26:03Z
 
 A sign. Status **unread** (nothing on file).
 
+A logogram alone on HT 93a.7 (Salgarella 2020, 309–12).
+
 <!-- END kaphtor:record -->

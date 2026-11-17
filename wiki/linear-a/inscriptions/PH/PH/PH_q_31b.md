@@ -82,7 +82,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/star/star22M\|\*22M]] |  | he-goat (livestock logogram) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/T/TE_RI\|TE-RI]] | tēri | attendant, courtier (recipient) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/star/star21M\|\*21M]] |  | ram (livestock logogram) | PROBABLE | PROBABLE (lexicon) |
-| [[wiki/linear-a/words/S/SUS\|SUS]] |  | pig (livestock logogram) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/S/SUS\|SUS]] |  | pig (livestock logogram) | PROBABLE | PROBABLE (lexicon) |
 
 ### Notes
 

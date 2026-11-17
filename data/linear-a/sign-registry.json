@@ -11,7 +11,7 @@
   ],
   "total_signs": 386,
   "polyphonic_signs": 4,
-  "signs_with_evolution": 20,
+  "signs_with_evolution": 36,
   "unicode_completion": {
    "source": "SigLA sign list and Unicode 15.1 names list",
    "standard_unicode_rows": 341,
@@ -81,7 +81,10 @@
      "unicode_block": "U+10000–U+100FF",
      "font": "NotoSansLinearB-Regular.ttf"
     },
-    "cypro_minoan": null,
+    "cypro_minoan": {
+     "sign_number": "CM 004",
+     "source": "Davis 2026b, 398, Table 11.3"
+    },
     "proto_sinaitic": null,
     "graphic_tendencies": [
      "e",
@@ -131,7 +134,25 @@
     "KU-RO"
    ],
    "unicode_codepoint": "U+10601",
-   "unicode_glyph": "𐘁"
+   "unicode_glyph": "𐘁",
+   "evolution": {
+    "id": "sign-21",
+    "cretan_hieroglyphic": {
+     "sign_number": "CH 070",
+     "pictographic_ancestor": "knobbed cross",
+     "font_codepoint_hex": null,
+     "source": "Evans 1921, DOCS², Davis 1964, CHIC, Soldani 2013, Perna 2016 and Younger 2000–2020, in Ferrara, Montecchi & Valério 2022, Appendix 1; Davis 2026b, 343, Table 9.2"
+    },
+    "linear_b": {
+     "sign_number": "B 02",
+     "value": "ro",
+     "unicode_block": "U+10000–U+100FF",
+     "font": "NotoSansLinearB-Regular.ttf"
+    },
+    "cypro_minoan": null,
+    "proto_sinaitic": null,
+    "graphic_tendencies": []
+   }
   },
   {
    "ab_number": "AB03",
@@ -174,7 +195,22 @@
     "PA-JA-RE"
    ],
    "unicode_codepoint": "U+10602",
-   "unicode_glyph": "𐘂"
+   "unicode_glyph": "𐘂",
+   "evolution": {
+    "id": "sign-33",
+    "linear_b": {
+     "sign_number": "B 03",
+     "value": "pa",
+     "unicode_block": "U+10000–U+100FF",
+     "font": "NotoSansLinearB-Regular.ttf"
+    },
+    "cypro_minoan": {
+     "sign_number": "CM 006",
+     "source": "Davis 2026b, 398, Table 11.3"
+    },
+    "proto_sinaitic": null,
+    "graphic_tendencies": []
+   }
   },
   {
    "ab_number": "AB04",
@@ -279,7 +315,22 @@
     "PA-I-TO"
    ],
    "unicode_codepoint": "U+10604",
-   "unicode_glyph": "𐘄"
+   "unicode_glyph": "𐘄",
+   "evolution": {
+    "id": "sign-34",
+    "linear_b": {
+     "sign_number": "B 05",
+     "value": "to",
+     "unicode_block": "U+10000–U+100FF",
+     "font": "NotoSansLinearB-Regular.ttf"
+    },
+    "cypro_minoan": {
+     "sign_number": "CM 008",
+     "source": "Davis 2026b, 398, Table 11.3"
+    },
+    "proto_sinaitic": null,
+    "graphic_tendencies": []
+   }
   },
   {
    "ab_number": "AB06",
@@ -330,7 +381,25 @@
     "RA-NA-RE"
    ],
    "unicode_codepoint": "U+10605",
-   "unicode_glyph": "𐘅"
+   "unicode_glyph": "𐘅",
+   "evolution": {
+    "id": "sign-35",
+    "linear_b": {
+     "sign_number": "B 06",
+     "value": "na",
+     "unicode_block": "U+10000–U+100FF",
+     "font": "NotoSansLinearB-Regular.ttf"
+    },
+    "cypro_minoan": {
+     "sign_number": "CM 013",
+     "source": "Davis 2026b, 398, Table 11.3"
+    },
+    "proto_sinaitic": null,
+    "graphic_tendencies": []
+   },
+   "semantic_context": {
+    "pictograph": "a column, the stroke above it, Davis suggests, the beam it carries, which keeps the sign from reading as the numeral 11 (2026b, 317–18 n. 802)"
+   }
   },
   {
    "ab_number": "AB07",
@@ -428,7 +497,10 @@
      "unicode_block": "U+10000–U+100FF",
      "font": "NotoSansLinearB-Regular.ttf"
     },
-    "cypro_minoan": null,
+    "cypro_minoan": {
+     "sign_number": "CM 102",
+     "source": "Davis 2026b, 398, Table 11.3"
+    },
     "proto_sinaitic": {
      "letter": "aleph",
      "meaning": "ox head",
@@ -502,7 +574,7 @@
      "sign_number": "CH 007",
      "pictographic_ancestor": "bent arm",
      "font_codepoint_hex": "F2006",
-     "source": "Evans 1921 (CH 007 → AB 09), DOCS² (→ AB 60), Soldani 2013 and Younger 2000–2020 (→ AB 73), in Ferrara, Montecchi & Valério 2022, Appendix 1; Ferrara, Montecchi & Valério 2022 derive LA 09 from CH 026 and LA 73 from CH 007 (§1.1)"
+     "source": "Evans 1921 (CH 007 → AB 09), DOCS² (→ AB 60, variant SM 16; → AB 73, variant SM 8), Soldani 2013 and Younger 2000–2020 (→ AB 73), in Ferrara, Montecchi & Valério 2022, Appendix 1; Ferrara, Montecchi & Valério 2022 derive LA 09 from CH 026 and LA 73 from CH 007 (§1.1)"
     },
     "linear_b": {
      "sign_number": "B 09",
@@ -510,7 +582,10 @@
      "unicode_block": "U+10000–U+100FF",
      "font": "NotoSansLinearB-Regular.ttf"
     },
-    "cypro_minoan": null,
+    "cypro_minoan": {
+     "sign_number": "CM 044",
+     "source": "Davis 2026b, 398, Table 11.3"
+    },
     "proto_sinaitic": null,
     "graphic_tendencies": [
      "a",
@@ -597,7 +672,22 @@
    },
    "gordon_entries": [],
    "unicode_codepoint": "U+1060A",
-   "unicode_glyph": "𐘊"
+   "unicode_glyph": "𐘊",
+   "evolution": {
+    "id": "sign-36",
+    "linear_b": {
+     "sign_number": "B 11",
+     "value": "po",
+     "unicode_block": "U+10000–U+100FF",
+     "font": "NotoSansLinearB-Regular.ttf"
+    },
+    "cypro_minoan": {
+     "sign_number": "CM 012",
+     "source": "Davis 2026b, 398, Table 11.3"
+    },
+    "proto_sinaitic": null,
+    "graphic_tendencies": []
+   }
   },
   {
    "ab_number": "AB13",
@@ -1073,7 +1163,25 @@
     "NE-TU-RI-RE"
    ],
    "unicode_codepoint": "U+10617",
-   "unicode_glyph": "𐘗"
+   "unicode_glyph": "𐘗",
+   "evolution": {
+    "id": "sign-22",
+    "cretan_hieroglyphic": {
+     "sign_number": "CH 052",
+     "pictographic_ancestor": "stemmed cup",
+     "font_codepoint_hex": null,
+     "source": "CHIC, Brice 1991, Soldani 2013, Perna 2016 and Younger 2000–2020, in Ferrara, Montecchi & Valério 2022, Appendix 1; Davis 2026b, 343, Table 9.2"
+    },
+    "linear_b": {
+     "sign_number": "B 24",
+     "value": "ne",
+     "unicode_block": "U+10000–U+100FF",
+     "font": "NotoSansLinearB-Regular.ttf"
+    },
+    "cypro_minoan": null,
+    "proto_sinaitic": null,
+    "graphic_tendencies": []
+   }
   },
   {
    "ab_number": "AB26",
@@ -1112,7 +1220,25 @@
     "A-KA-RU"
    ],
    "unicode_codepoint": "U+10618",
-   "unicode_glyph": "𐘘"
+   "unicode_glyph": "𐘘",
+   "evolution": {
+    "id": "sign-23",
+    "cretan_hieroglyphic": {
+     "sign_number": "CH 092",
+     "pictographic_ancestor": "paired lobes on a stem",
+     "font_codepoint_hex": null,
+     "source": "Evans 1921, DOCS², Davis 1964, CHIC, Perna 2016 and Younger 2000–2020, in Ferrara, Montecchi & Valério 2022, Appendix 1; Davis 2026b, 343, Table 9.2"
+    },
+    "linear_b": {
+     "sign_number": "B 26",
+     "value": "ru",
+     "unicode_block": "U+10000–U+100FF",
+     "font": "NotoSansLinearB-Regular.ttf"
+    },
+    "cypro_minoan": null,
+    "proto_sinaitic": null,
+    "graphic_tendencies": []
+   }
   },
   {
    "ab_number": "AB27",
@@ -1377,7 +1503,7 @@
     ]
    },
    "semantic_context": {
-    "pictograph": "fig leaf or plant"
+    "pictograph": "fig leaf or plant; for Davis a bifurcated branch with clusters on both branchlets (2026b, 318 n. 802)"
    }
   },
   {
@@ -1434,7 +1560,10 @@
      "unicode_block": "U+10000–U+100FF",
      "font": "NotoSansLinearB-Regular.ttf"
     },
-    "cypro_minoan": null,
+    "cypro_minoan": {
+     "sign_number": "CM 082",
+     "source": "Davis 2026b, 398, Table 11.3"
+    },
     "proto_sinaitic": null,
     "graphic_tendencies": [
      "a",
@@ -1512,7 +1641,31 @@
     "TI-NI-TA"
    ],
    "unicode_codepoint": "U+10620",
-   "unicode_glyph": "𐘠"
+   "unicode_glyph": "𐘠",
+   "evolution": {
+    "id": "sign-24",
+    "cretan_hieroglyphic": {
+     "sign_number": "CH 049",
+     "pictographic_ancestor": "arrow-like stem with drooping arms",
+     "font_codepoint_hex": null,
+     "source": "Davis 1964, CHIC (its Linear B variant only), Soldani 2013 and Perna 2016, in Ferrara, Montecchi & Valério 2022, Appendix 1 and n. 37; Davis 2026b, 343, Table 9.2; rivals CH 093 (CHIC, Younger 2000–2020, Salgarella 2020) and CH 050 (DOCS², Younger 2000–2020)"
+    },
+    "linear_b": {
+     "sign_number": "B 37",
+     "value": "ti",
+     "unicode_block": "U+10000–U+100FF",
+     "font": "NotoSansLinearB-Regular.ttf"
+    },
+    "cypro_minoan": {
+     "sign_number": "CM 023",
+     "source": "Davis 2026b, 398, Table 11.3"
+    },
+    "proto_sinaitic": null,
+    "graphic_tendencies": []
+   },
+   "semantic_context": {
+    "pictograph": "a convex shape with a protuberance on top, often marked by a dot, short line or curve (Davis 2026b, 318 n. 802)"
+   }
   },
   {
    "ab_number": "AB38",
@@ -1556,7 +1709,7 @@
      "sign_number": "CH 028",
      "pictographic_ancestor": "fence/barrier",
      "font_codepoint_hex": "F201B",
-     "source": "Ferrara, Montecchi & Valério 2022, Appendix 2 (CH 028 > LA 38); AB 09 after Soldani 2013 (Appendix 1)"
+     "source": "Ferrara, Montecchi & Valério 2022, Appendix 2 (CH 028 > LA 38); AB 09 after Soldani 2013 (Appendix 1); rival CH 094: CHIC, Soldani 2013, Perna 2016 and Younger 2000–2020 (Ferrara, Montecchi & Valério 2022, Appendix 1); Davis 2026b, 343, Table 9.2"
     },
     "linear_b": {
      "sign_number": "B 38",
@@ -1856,7 +2009,18 @@
   {
    "ab_number": "AB48",
    "name": "nwa",
-   "readings": [],
+   "readings": [
+    {
+     "value": "nwa",
+     "consonant": "nw",
+     "vowel": "a",
+     "source": "Linear B *48 nwa (projected); once in Linear A, SY Za 4 (Muhly and Olivier 2008, 207–8, 216)",
+     "confidence": "MEDIUM",
+     "is_primary": true,
+     "implications": [],
+     "status": "conventional"
+    }
+   ],
    "rendering": {
     "unicode": "U+10629",
     "font": "NotoSansLinearA-Regular.ttf",
@@ -1877,7 +2041,25 @@
    },
    "gordon_entries": [],
    "unicode_codepoint": "U+10629",
-   "unicode_glyph": "𐘩"
+   "unicode_glyph": "𐘩",
+   "evolution": {
+    "id": "sign-25",
+    "cretan_hieroglyphic": {
+     "sign_number": "CH 006",
+     "pictographic_ancestor": "toothed bar over forked legs",
+     "font_codepoint_hex": null,
+     "source": "Evans 1921, CHIC (its Linear B form), Perna 2016 and Younger 2000–2020, in Ferrara, Montecchi & Valério 2022, Appendix 1; Salgarella 2020, 212 n. 104; Davis 2026b, 343, Table 9.2"
+    },
+    "linear_b": {
+     "sign_number": "B 48",
+     "value": "nwa",
+     "unicode_block": "U+10000–U+100FF",
+     "font": "NotoSansLinearB-Regular.ttf"
+    },
+    "cypro_minoan": null,
+    "proto_sinaitic": null,
+    "graphic_tendencies": []
+   }
   },
   {
    "ab_number": "AB49",
@@ -2092,10 +2274,10 @@
    "evolution": {
     "id": "sign-13",
     "cretan_hieroglyphic": {
-     "sign_number": "CH 037",
-     "pictographic_ancestor": "serpent/snake",
-     "font_codepoint_hex": "F2024",
-     "source": "DOCS² (CH 037 → AB 54) and Evans 1921 (→ AB 123), in Ferrara, Montecchi & Valério 2022, Appendix 1; Ferrara, Montecchi & Valério 2022 derive LA 54 from CH 041 (§1.1)"
+     "sign_number": "CH 041",
+     "pictographic_ancestor": "frame with diagonal",
+     "font_codepoint_hex": null,
+     "source": "CHIC, Soldani 2013, Perna 2016 and Younger 2000–2020, in Ferrara, Montecchi & Valério 2022, Appendix 1; Ferrara, Montecchi & Valério 2022 derive LA 54 from CH 041 (§1.1); Davis 2026b, 343, Table 9.2; rival CH 037, the serpent, after DOCS² (Evans 1921 takes CH 037 to AB 123), in Ferrara, Montecchi & Valério 2022, Appendix 1"
     },
     "linear_b": {
      "sign_number": "B 54",
@@ -2115,7 +2297,7 @@
     ]
    },
    "semantic_context": {
-    "pictograph": "serpent or snake"
+    "pictograph": "frame with diagonal"
    }
   },
   {
@@ -2445,7 +2627,28 @@
     "SU-PA₃-RA"
    ],
    "unicode_codepoint": "U+10634",
-   "unicode_glyph": "𐘴"
+   "unicode_glyph": "𐘴",
+   "evolution": {
+    "id": "sign-26",
+    "cretan_hieroglyphic": {
+     "sign_number": "CH 095",
+     "pictographic_ancestor": "hooked curl",
+     "font_codepoint_hex": null,
+     "source": "Brice 1965, Godart 1999, Perna 2019 and Younger 2000–2020, in Ferrara, Montecchi & Valério 2022, Appendix 1; Davis 2026b, 343, Table 9.2, who credits CHIC, 19, where CH 095 has no comparison; rivals CH 007 (DOCS², variant SM 16) and CH 010 (Davis 1964)"
+    },
+    "linear_b": {
+     "sign_number": "B 60",
+     "value": "ra",
+     "unicode_block": "U+10000–U+100FF",
+     "font": "NotoSansLinearB-Regular.ttf"
+    },
+    "cypro_minoan": {
+     "sign_number": "CM 087",
+     "source": "Davis 2026b, 398, Table 11.3"
+    },
+    "proto_sinaitic": null,
+    "graphic_tendencies": []
+   }
   },
   {
    "ab_number": "AB61",
@@ -2606,7 +2809,10 @@
     "SU-KI-RI-TE-SE-JA"
    ],
    "unicode_codepoint": "U+10638",
-   "unicode_glyph": "𐘸"
+   "unicode_glyph": "𐘸",
+   "semantic_context": {
+    "pictograph": "a rhyton with a handle at its rim (Davis 2026b, 317 n. 802)"
+   }
   },
   {
    "ab_number": "AB69",
@@ -2754,7 +2960,25 @@
     "NO-X-NA-MI-NA"
    ],
    "unicode_codepoint": "U+1063B",
-   "unicode_glyph": "𐘻"
+   "unicode_glyph": "𐘻",
+   "evolution": {
+    "id": "sign-31",
+    "cretan_hieroglyphic": {
+     "sign_number": "CH 007",
+     "pictographic_ancestor": "bent arm",
+     "font_codepoint_hex": null,
+     "source": "DOCS² (variant SM 8), Soldani 2013 and Younger 2000–2020, in Ferrara, Montecchi & Valério 2022, Appendix 1; Ferrara, Montecchi & Valério 2022 derive LA 73 from CH 007 (§1.1); Davis 2026b, 342 n. 824, 343, Table 9.2"
+    },
+    "linear_b": {
+     "sign_number": "B 73",
+     "value": "mi",
+     "unicode_block": "U+10000–U+100FF",
+     "font": "NotoSansLinearB-Regular.ttf"
+    },
+    "cypro_minoan": null,
+    "proto_sinaitic": null,
+    "graphic_tendencies": []
+   }
   },
   {
    "ab_number": "AB74",
@@ -2870,7 +3094,25 @@
     "PU-RA₂"
    ],
    "unicode_codepoint": "U+1063D",
-   "unicode_glyph": "𐘽"
+   "unicode_glyph": "𐘽",
+   "evolution": {
+    "id": "sign-27",
+    "cretan_hieroglyphic": {
+     "sign_number": "CH 069",
+     "pictographic_ancestor": "doubled zigzag band",
+     "font_codepoint_hex": null,
+     "source": "Evans 1921, DOCS², CHIC, Soldani 2013, Perna 2016 and Younger 2000–2020, in Ferrara, Montecchi & Valério 2022, Appendix 1; Davis 2026b, 343, Table 9.2"
+    },
+    "linear_b": {
+     "sign_number": "B 76",
+     "value": "ra₂",
+     "unicode_block": "U+10000–U+100FF",
+     "font": "NotoSansLinearB-Regular.ttf"
+    },
+    "cypro_minoan": null,
+    "proto_sinaitic": null,
+    "graphic_tendencies": []
+   }
   },
   {
    "ab_number": "AB77",
@@ -3022,7 +3264,25 @@
    },
    "gordon_entries": [],
    "unicode_codepoint": "U+10640",
-   "unicode_glyph": "𐙀"
+   "unicode_glyph": "𐙀",
+   "evolution": {
+    "id": "sign-28",
+    "cretan_hieroglyphic": {
+     "sign_number": "CH 005",
+     "pictographic_ancestor": "spined oval with side strokes (leaf or eye)",
+     "font_codepoint_hex": null,
+     "source": "Evans 1921, DOCS², Davis 1964, CHIC, Perna 2016, Soldani 2013 and Younger 2000–2020, in Ferrara, Montecchi & Valério 2022, Appendix 1; Davis 2026b, 343, Table 9.2"
+    },
+    "linear_b": {
+     "sign_number": "B 79",
+     "value": "zu",
+     "unicode_block": "U+10000–U+100FF",
+     "font": "NotoSansLinearB-Regular.ttf"
+    },
+    "cypro_minoan": null,
+    "proto_sinaitic": null,
+    "graphic_tendencies": []
+   }
   },
   {
    "ab_number": "AB80",
@@ -3065,7 +3325,10 @@
     "NO-X-NA-MA"
    ],
    "unicode_codepoint": "U+10641",
-   "unicode_glyph": "𐙁"
+   "unicode_glyph": "𐙁",
+   "semantic_context": {
+    "pictograph": "a front-facing feline head (Davis 2026b, 317 n. 802), the \"cat's head\" Evans and Carratelli saw in it (Ventris and Chadwick 1956, 40)"
+   }
   },
   {
    "ab_number": "AB81",
@@ -3164,7 +3427,25 @@
    },
    "gordon_entries": [],
    "unicode_codepoint": "U+10644",
-   "unicode_glyph": "𐙄"
+   "unicode_glyph": "𐙄",
+   "evolution": {
+    "id": "sign-29",
+    "cretan_hieroglyphic": {
+     "sign_number": "CH 017",
+     "pictographic_ancestor": "animal head in profile",
+     "font_codepoint_hex": null,
+     "source": "CHIC, Soldani 2013, Perna 2016 and Younger 2000–2020, in Ferrara, Montecchi & Valério 2022, Appendix 1; Davis 2026b, 343, Table 9.2"
+    },
+    "linear_b": {
+     "sign_number": "B 85",
+     "value": "au",
+     "unicode_block": "U+10000–U+100FF",
+     "font": "NotoSansLinearB-Regular.ttf"
+    },
+    "cypro_minoan": null,
+    "proto_sinaitic": null,
+    "graphic_tendencies": []
+   }
   },
   {
    "ab_number": "AB86",
@@ -3202,11 +3483,29 @@
    },
    "gordon_entries": [],
    "unicode_codepoint": "U+10645",
-   "unicode_glyph": "𐙅"
+   "unicode_glyph": "𐙅",
+   "evolution": {
+    "id": "sign-30",
+    "cretan_hieroglyphic": {
+     "sign_number": "CH 040",
+     "pictographic_ancestor": "ship",
+     "font_codepoint_hex": null,
+     "source": "Evans 1921, Davis 1964, CHIC, Soldani 2013 and Perna 2016, in Ferrara, Montecchi & Valério 2022, Appendix 1; Davis 2026b, 343, Table 9.2"
+    },
+    "linear_b": {
+     "sign_number": "B 86",
+     "value": null,
+     "unicode_block": "U+10000–U+100FF",
+     "font": "NotoSansLinearB-Regular.ttf"
+    },
+    "cypro_minoan": null,
+    "proto_sinaitic": null,
+    "graphic_tendencies": []
+   }
   },
   {
    "ab_number": "AB87",
-   "name": "",
+   "name": "twe",
    "readings": [],
    "rendering": {
     "unicode": "U+10646",
@@ -3716,7 +4015,20 @@
    },
    "gordon_entries": [],
    "unicode_codepoint": "U+10655",
-   "unicode_glyph": "𐙕"
+   "unicode_glyph": "𐙕",
+   "evolution": {
+    "id": "sign-32",
+    "cretan_hieroglyphic": {
+     "sign_number": "CH 046",
+     "pictographic_ancestor": "limb-like outline",
+     "font_codepoint_hex": null,
+     "source": "Evans 1921, DOCS², Brice 1991, Soldani 2013, Younger 2000–2020 and Salgarella 2020, in Ferrara, Montecchi & Valério 2022, Appendix 1; no Linear B homomorph (Davis 2026b, 342 n. 824)"
+    },
+    "linear_b": null,
+    "cypro_minoan": null,
+    "proto_sinaitic": null,
+    "graphic_tendencies": []
+   }
   },
   {
    "ab_number": "AB302",

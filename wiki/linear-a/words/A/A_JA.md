@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-PE Zc 4 A-JA ≈ JA-SI, inked, and SY Za 2, the last group of the formula, after U-NA-KA-NA-SI-OLE; MA 4b A-\[?\]-\[?\]-\[?\]-JA is a longer word. A for ḥ has its control at Old Babylonian Mari, where West Semitic ḥaya 'lives' is written both ha-ia- and a-ia-, and at Alalakh VII, where a-ia- and ha-ia- alternate in one name, a-ia- on Weeden's account reproducing an unrepresented /ḥ/ (Weeden 2009, 96–100). /ḥayyā/ 'the Living One', as Amorite Ḥajja, a divine name (Gelb 1980, 19), in Milki-Ḥayya (Gelb 1980, no. 4724). Rivals: the god Haya, dḫa-ià from Early Dynastic Fara on, whom the Old Babylonian Hymn to Haia for Rim-Sin calls the god who loves the petition 'Give me life!' (line 59; ORACC AMGG, 'Haya'; ETCSL 2.6.9.2.59); the goddess Aya; Davis's 'much', modifying the oil (Davis 2013, 41). Two attestations.
+PE Zc 4 A-JA ≈ JA-SI, inked, and SY Za 2, the last group of the formula, after U-NA-KA-NA-SI-OLE; MA 4b A-\[?\]-\[?\]-\[?\]-JA is a longer word. A for ḥ has its control at Old Babylonian Mari, where West Semitic ḥaya 'lives' is written both ha-ia- and a-ia-, and at Alalakh VII, where a-ia- and ha-ia- alternate in one name, a-ia- on Weeden's account reproducing an unrepresented /ḥ/ (Weeden 2009, 96–100). /ḥayyā/ 'the Living One', as Amorite Ḥajja, a divine name (Gelb 1980, 19), in Milki-Ḥayya (Gelb 1980, no. 4724). Rivals: the god Haya, dḫa-ià from Early Dynastic Fara on, whom the Old Babylonian Hymn to Haia for Rim-Sin calls the god who loves the petition 'Give me life!' (line 59; ORACC AMGG, 'Haya'; ETCSL 2.6.9.2.59); the goddess Aya; Davis's 'much', modifying the oil (2013, 41). Two attestations.
 
 ### Cognates
 

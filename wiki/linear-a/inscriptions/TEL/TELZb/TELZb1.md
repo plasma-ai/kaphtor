@@ -73,6 +73,6 @@ Olivier 1999 via RILA-S1 D 13; Younger
 
 ## Corpus note
 
-Three logograms: animal head (BOS), cloth (TELA+TE), figs (FIC), as Olivier reads them in the editio princeps (RILA-S1 D 13; Younger). In the facsimile the TE hatching is drawn inside the cloth sign, a ligature, not WA followed by TE. Whether the script is Cretan Hieroglyphic or Linear A, RILA-S1 leaves open.
+Three logograms: animal head (BOS), cloth (TELA+TE), figs (FIC), as Olivier reads them in the editio princeps (RILA-S1 D 13; Younger). In the facsimile the TE hatching is drawn inside the cloth sign, a ligature, not WA followed by TE. Whether the script is Cretan Hieroglyphic or Linear A, RILA-S1 leaves open. Its date is uncertain; a possible Middle Bronze Age date, IIC or III, has been suggested (Karnava 2005, 838, apud Nosch and Weilhartner 2026, 122).
 
 <!-- END kaphtor:record -->

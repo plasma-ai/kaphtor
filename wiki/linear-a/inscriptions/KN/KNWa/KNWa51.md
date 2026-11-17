@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/KN/KNWa/KNWa51
 title: "KNWa51"
-desc: "Nodule, Knossos. Translation: none."
+desc: "Nodule, Knossos, LMIA. Translation: none."
 tags: ["linear-a", "inscription", "translation-none", "nodule"]
 kind: "inscription"
 id: "KNWa51"
 site: "Knossos"
 support: "Nodule"
-period: ""
+period: "LMIA"
 translation: "none"
 words: []
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Knossos |
 | Findspot |  |
 | Support | Nodule |
-| Period |  |
+| Period | LMIA |
 | Scribe |  |
 | Edition | post_gorila_publication |
 | Series | KNWa |

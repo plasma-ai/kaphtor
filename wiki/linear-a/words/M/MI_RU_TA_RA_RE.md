@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 117a MI-RU-TA-RA-RE 1, intact, in the roster under MA-KA-RI-TE · KI-RO, between U-DI-MI and TE-JA-RE Teyar, with MA-RU Maruʾ 'Fattened' on the same list. MI-RU mīru 'young bull' (CAD M/2 109), as MU-RU mūru; TA-RA-RE darār, Akkadian darāru 'become free, move about freely, run off' (CAD D 109), as DU-RA-RE durar, TA for d as in TA-DI dādī. Rival: Murr-darār 'Flowing Myrrh', Hebrew mor-dərôr (Exod 30:23; #K0153), MI-RU as MI+JA+RU murru.
+HT 117a MI-RU-TA-RA-RE 1, intact, in the roster under MA-KA-RI-TE · KI-RO, between U-DI-MI and TE-JA-RE Teyar, with MA-RU Maruʾ 'Fattened' on the same list. MI-RU mīru 'young bull' (CAD M/2 109), as MU-RU mūru; TA-RA-RE darār, Akkadian darāru 'become free, move about freely, run off' (CAD D 109), as DU-RA-RE durar, TA for d as in TA-DI dādī. Rival: Murr-darār 'Flowing Myrrh', Hebrew mor-dərôr (Exod 30:23; #K0153), MI-RU as murru 'myrrh'.
 
 ### Cognates
 

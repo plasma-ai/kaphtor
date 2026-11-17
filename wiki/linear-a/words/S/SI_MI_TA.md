@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 96a .2 SI-MI-TA GRA 5, the first recipient under I-TI-TI-KU-NI · A-PA-RA-NE · A-\*123-TE (GORILA I 156). śīmat, the women's name of Amorite ŚIJM-AT-UM, ŠI-MA-TUM (Gelb no. 5893): SI writes ś, which merges into the S series, and MI for ma is a vowel mismatch only. Rival: Hebrew Šimʿat (2 Kgs 12:22), with the ʿ unwritten. One witness. See SA-JA-MA.
+HT 96a .2 SI-MI-TA GRA 5, the first recipient under I-TI-TI-KU-NI · A-PA-RA-NE · A-\*123-TE (GORILA I 156). śīmat, the women's name of Amorite ŚIJM-AT-UM, ŠI-MA-TUM (Gelb no. 5893): SI writes ś, which merges into the S series, and MI for ma is a vowel mismatch only. Linear B si-mi-do, a man at Knossos (KN As 607.3; DMic II), which Davis pairs with it, the t heard as d (2026b, 104–5). Rival: Hebrew Šimʿat (2 Kgs 12:22), with the ʿ unwritten. One witness. See SA-JA-MA.
 
 ### Cognates
 
@@ -54,7 +54,7 @@ HT 96a .2 SI-MI-TA GRA 5, the first recipient under I-TI-TI-KU-NI · A-PA-RA-NE 
 
 ### Source
 
-di Mino; Gelb 1980; GlOS 2; FM IV; FM V
+di Mino; Gelb 1980; GlOS 2; FM IV; FM V; DMic II; Davis 2026b
 
 ## Attestations
 

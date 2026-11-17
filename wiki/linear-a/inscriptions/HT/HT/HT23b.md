@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "incomplete"
-words: ["CYP", "E", "MI+JA+RU"]
+words: ["CYP", "E", "MI+JA+RU", "QA2+[?]+PU", "QA2+[?]+RE"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -69,7 +69,7 @@ Unicode (Linear A block):
 
 **SPECULATIVE**, incomplete (status: incomplete).
 
-> NI-RA ·: cyperus B, oil\[…\] B, MI+JA+RU\[…\], \[…\]MU?\[…\], QA₂-ligature (\*510?)\[…\], QA₂-ligature (\*508) 1, \[…\], E 7\[…\].
+> NI-RA ·: cyperus B, oil\[…\] B, purple dye\[…\], \[…\]MU?\[…\], qab of PU (?)\[…\], qab of RE 1, \[…\], E 7\[…\].
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/O/OLE\|OLE]] |  | oil | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/M/MI_plus_JA_plus_RU\|MI+JA+RU]] |  | composite, as HT23a | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/M/MU\|MU]] |  | unread |  | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/Q/QA2_plus_q_plus_PU\|QA2+&#91;?&#93;+PU]] |  | composite (\*510?) |  |  |
-| [[wiki/linear-a/words/Q/QA2_plus_q_plus_RE\|QA2+&#91;?&#93;+RE]] |  | composite (\*508) |  |  |
+| [[wiki/linear-a/words/Q/QA2_plus_q_plus_PU\|QA2+&#91;?&#93;+PU]] |  | qab of PU (A 510?) |  | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/Q/QA2_plus_q_plus_RE\|QA2+&#91;?&#93;+RE]] |  | qab of RE (A 508) |  | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/E/E\|E]] |  | commodity |  | CANDIDATE (lexicon) |
 
 ### Notes
@@ -92,7 +92,7 @@ Repeats the opening of HT23a under a different heading word. Broken from .1 onwa
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/C/CYP|CYP]], [[wiki/linear-a/words/E/E|E]], [[wiki/linear-a/words/M/MI_plus_JA_plus_RU|MI+JA+RU]].
+[[wiki/linear-a/words/C/CYP|CYP]], [[wiki/linear-a/words/E/E|E]], [[wiki/linear-a/words/M/MI_plus_JA_plus_RU|MI+JA+RU]], [[wiki/linear-a/words/Q/QA2_plus_q_plus_PU|QA2+&#91;?&#93;+PU]], [[wiki/linear-a/words/Q/QA2_plus_q_plus_RE|QA2+&#91;?&#93;+RE]].
 
 ## Corpus note
 

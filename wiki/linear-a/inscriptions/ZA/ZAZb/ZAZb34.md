@@ -51,12 +51,12 @@ Unicode (Linear A block):
 
 **SPECULATIVE**, complete.
 
-> \[…\] my Creatress—roam the cella \[…\]
+> \[…\] my Creatress, arise, roam \[…\]
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | [[wiki/linear-a/words/P/PU2_RE_JA\|PU₂-RE-JA]] | burē(t)yā | my Creatress (divine epithet) | SPECULATIVE | SPECULATIVE (lexicon) |
-| [[wiki/linear-a/words/K/KO_MU\|KO-MU]] | kummu | cella, inner sanctuary | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/K/KO_MU\|KO-MU]] | qōmu | arise! | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/R/RU_DI\|RU-DI]] | rūdī | roam! (f. imperative) | SPECULATIVE | SPECULATIVE (lexicon) |
 
 ### Notes

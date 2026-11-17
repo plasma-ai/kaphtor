@@ -43,17 +43,23 @@ updated: 2026-10-24T16:17:50Z
 
 - TA-NU-A-TI = tanuʾati (Gordon: 'I set up')
 - KI-RE-TA-NA = Kretan
+- The Linear B value, confirmed in Linear A by more than one contextual test (Davis 2026b, 18, Table 1.3, after Duhoux 1989)
+
+### Note
+
+Davis makes voicing allophonic in Minoan stops, present 'conditionally or optionally', so that Linear A t covered \[t\] beside \[d\] and the script had no voiced series (2026b, 97, 105, Hypotheses 1 and 4).
 
 ## Lexicon words written with this sign
 
 | Word | Reading | Confidence |
 |---|---|---|
 | [[wiki/linear-a/words/star/star306_TA_JE\|\*306-TA-JE]] | ʿaṭāye | CANDIDATE |
+| [[wiki/linear-a/words/star/star312_TA\|\*312-TA]] | bīta | SPECULATIVE |
 | [[wiki/linear-a/words/star/star314_TA_MA\|\*314-TA-MA]] | ḥatam(a) | CANDIDATE |
 | [[wiki/linear-a/words/A/A_DU_NI_TA_NA\|A-DU-NI-TA-NA]] | ʾAddu-nittāna | CANDIDATE |
 | [[wiki/linear-a/words/A/A_KA_TA\|A-KA-TA]] | ʾAkkata | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_MI_TA\|A-MI-TA]] | ʾamita | PROBABLE |
-| [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | ʾarān Ṣidna bikē bayta rēšī tarīmu ʾAyaku | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | ʾAren Ṣidna bikē bayta rēšī tarīmu ʾAyaku | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RI_NI_TA\|A-RI-NI-TA]] | ʾarīnīt | CANDIDATE |
 | [[wiki/linear-a/words/A/A_TA_DE\|A-TA-DE]] | ʾaʿtid(u) | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_TA_I_star301_DE_KA\|A-TA-I-\*301-DE-KA]] | ʾataʿinā dēka | CANDIDATE |

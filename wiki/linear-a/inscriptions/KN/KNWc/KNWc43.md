@@ -51,6 +51,6 @@ Unicode (Linear A block):
 
 ## Corpus note
 
-Not in GORILA. Younger (Linear A Texts, misctexts) lists it as KN Wy 43, formerly KN Wc 43 (Del Freo & Zurbach 2011, 88, Hallager 1996, Roundel 2, 169): a vestiges, b \[•\], one lost sign in the logogram slot, impressions not preserved. No divider.
+Not in GORILA. Younger (Linear A Texts, misctexts) lists it as KN Wy 43, formerly KN Wc 43 (Del Freo & Zurbach 2011, 88, Hallager 1996, Roundel 2, 169): a vestiges, b \[•\], one lost sign in the logogram slot, impressions not preserved. No divider. Like KN Wc 23, it may be inscribed in Cretan Hieroglyphic (Schoep 2026, 142).
 
 <!-- END kaphtor:record -->

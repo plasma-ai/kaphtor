@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/P
 desc: "Words whose first sign begins with P."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-17T13:48:22Z
+updated: 2026-11-18T17:05:12Z
 ---
 
 # wiki/linear-a/words/P
@@ -59,7 +59,7 @@ updated: 2026-11-17T13:48:22Z
 
 [[wiki/linear-a/words/P/PA_OLE_plus_MI|PA_OLE_plus_MI]]: Unread sign (compound, component read); 1 occurrence(s).
 
-[[wiki/linear-a/words/P/PA_RA|PA_RA]]: parr(u): skin, fleece (a hide with its wool). Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/P/PA_RA|PA_RA]]: barr: grain, threshed grain (heading the grain entries of HT 128a); on PH 3a bōr 'lye', the alkali that scours wool. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/P/PA_RA_NE|PA_RA_NE]]: Barān: personal name, the short form of A-PA-RA-NE. Lexicon, CANDIDATE (tier 2).
 
@@ -92,8 +92,6 @@ updated: 2026-11-17T13:48:22Z
 [[wiki/linear-a/words/P/PA_star47_broken_end|PA_star47_broken_end]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/P/PI|PI]]: Unread sign (syllabogram, unread); 1 occurrence(s).
-
-[[wiki/linear-a/words/P/PIRRI|PIRRI]]: fruit. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/P/PI_KE|PI_KE]]: bikē: weeping, lament; rival pīka 'your mouth'. Lexicon, SPECULATIVE (tier 1).
 

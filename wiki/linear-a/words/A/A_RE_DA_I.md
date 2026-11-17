@@ -39,7 +39,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 29 .5 A-RE-DA-I 2, whole and undotted, RE written over an erased sign, the whole tablet over an erasure (GORILA I 55). An entry of two units after \[?\]-KI-TA 2 and before KA-DU-MA-NE 1, on a tablet with PA-JA-RE. Nuzi writes the name A-ar-da-e beside A-ar-ta-e (Gelb, Purves, and MacRae 1943, 33): RE writes ar- with a dead vowel, DA the -da- of that spelling. Rival: DA-I dayu as a second element, with A-RE unexplained.
+HT 29 .5 A-RE-DA-I 2, whole and undotted, RE written over an erased sign, the whole tablet over an erasure (GORILA I 55). An entry of two units after \[?\]-KI-TA 2 and before KA-DU-MA-NE 1, on a tablet with PA-JA-RE. Nuzi writes the name A-ar-da-e beside A-ar-ta-e (Gelb, Purves, and MacRae 1943, 33): RE writes ar- with a dead vowel, DA the -da- of that spelling. Linear B a-ra-da-jo, a man at Knossos (KN As 1516.3; DMic I), which Davis pairs with it, flagging the shifting vowel before d (2026b, 118 and n. 448). Rival: DA-I dayu as a second element, with A-RE unexplained.
 
 ### Cognates
 
@@ -49,7 +49,7 @@ HT 29 .5 A-RE-DA-I 2, whole and undotted, RE written over an erased sign, the wh
 
 ### Source
 
-di Mino; Gelb, Purves, and MacRae 1943
+di Mino; Gelb, Purves, and MacRae 1943; DMic I; Davis 2026b
 
 ## Attestations
 

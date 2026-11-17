@@ -73,4 +73,8 @@ MMIIIB date makes this among the earliest formula attestations. I-DA-MI in posit
 
 [[wiki/linear-a/words/A/A_TA_I_star301_WA_JA|A-TA-I-\*301-WA-JA]], [[wiki/linear-a/words/I/I_DA_MI|I-DA-MI]].
 
+## Corpus note
+
+GORILA prints \]A-TA-I-\*301-WA-JA · I-DA-MI · JA-\[, the first A dotted as doubtful, and its drawing shows damage at both ends and a short stroke after the last JA (V 62–63). Davis reads the end ja-ja̲-\[, the second JA uncertain, and takes it, with a question mark, for the dedicant (2026b, 214).
+
 <!-- END kaphtor:record -->

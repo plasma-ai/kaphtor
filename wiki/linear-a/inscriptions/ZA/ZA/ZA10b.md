@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/ZA/ZA/ZA10b
 title: "ZA10b"
-desc: "Tablet, Zakros. Translation: incomplete."
+desc: "Tablet, Zakros, LMIB. Translation: incomplete."
 tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
 kind: "inscription"
 id: "ZA10b"
 site: "Zakros"
 support: "Tablet"
-period: ""
+period: "LMIB"
 translation: "incomplete"
 words: ["*131B", "A-DE", "A-MI-TA", "DU", "DU-RE-ZA-SE", "KA-KU-NE-TE", "MA-KI-DE-TE", "MA-ZA", "PA-JA-RE", "RA₂-RO-RE", "SA-MA", "TAMIR", "U-*49"]
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Zakros |
 | Findspot |  |
 | Support | Tablet |
-| Period |  |
+| Period | LMIB |
 | Scribe | [[wiki/linear-a/by_scribe\|ZA Scribe 4]] |
 | Edition | GORILA 3 |
 | Series | ZA |

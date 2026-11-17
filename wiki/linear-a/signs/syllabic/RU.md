@@ -59,14 +59,14 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/K/KA_RU\|KA-RU]] | karru | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_SA_RU\|KA-SA-RU]] | Qaṣṣāru | CANDIDATE |
 | [[wiki/linear-a/words/K/KE_KI_RU\|KE-KI-RU]] | Kikkaru | SPECULATIVE |
-| [[wiki/linear-a/words/K/KI_RU\|KI-RU]] | kirru | SPECULATIVE |
+| [[wiki/linear-a/words/K/KI_RU\|KI-RU]] | Kirru | SPECULATIVE |
 | [[wiki/linear-a/words/K/KO_RU\|KO-RU]] | kōr | SPECULATIVE |
 | [[wiki/linear-a/words/K/KU_RU_KU\|KU-RU-KU]] | kurkū | CANDIDATE |
 | [[wiki/linear-a/words/K/KU_RU_MA\|KU-RU-MA]] | kurma / gurma | PROBABLE |
 | [[wiki/linear-a/words/M/MA_plus_RU\|MA+RU]] | maru | PROBABLE |
 | [[wiki/linear-a/words/M/MA_RU\|MA-RU]] | Maruʾ | SPECULATIVE |
 | [[wiki/linear-a/words/M/MA_RU_ME\|MA-RU-ME]] | marūm | CANDIDATE |
-| [[wiki/linear-a/words/M/MI_plus_JA_plus_RU\|MI+JA+RU]] | murru | CANDIDATE |
+| [[wiki/linear-a/words/M/MI_plus_JA_plus_RU\|MI+JA+RU]] | miyāru | CANDIDATE |
 | [[wiki/linear-a/words/M/MI_DA_RU_RA\|MI-DA-RU-RA]] | midrara | CANDIDATE |
 | [[wiki/linear-a/words/M/MI_RU_TA_RA_RE\|MI-RU-TA-RA-RE]] | Mīru-darār | SPECULATIVE |
 | [[wiki/linear-a/words/M/MU_RU\|MU-RU]] | mūru | CANDIDATE |
@@ -80,7 +80,6 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/R/RU_MA\|RU-MA]] | Rūma | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_MA_TA\|RU-MA-TA]] | rūmatā | CANDIDATE |
 | [[wiki/linear-a/words/R/RU_NI\|RU-NI]] | Runni | SPECULATIVE |
-| [[wiki/linear-a/words/R/RU_PI\|RU-PI]] | rōpiʾ | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_SA\|RU-SA]] | Rusa | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_ZU_NA\|RU-ZU-NA]] | rāzin(a) | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_RU\|SA-RU]] | šarru | CANDIDATE |

@@ -31,4 +31,6 @@ updated: 2026-11-12T00:26:03Z
 
 A sign. Status **unread** (nothing on file).
 
+Davis lists \*348 among the Linear A signs that look syllabic and have no Linear B counterpart (Davis 2026b, 96 n. 387); Salgarella has A 348 only inside the composite A 647 on KH 11.3, its use unclear (Salgarella 2020, 318).
+
 <!-- END kaphtor:record -->

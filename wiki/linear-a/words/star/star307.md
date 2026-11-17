@@ -60,7 +60,7 @@ di Mino; Montecchi 2008; Uchitel 2006; HALOT; GlOS 1
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT127b\|HT127b]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT32\|HT32]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT32\|HT32]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT5\|HT5]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT89\|HT89]] | Haghia Triada | Tablet | complete |
 
@@ -69,6 +69,7 @@ di Mino; Montecchi 2008; Uchitel 2006; HALOT; GlOS 1
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT27a\|HT27a]] | dubur | sanctuary | CONFIRMED |
+| [[wiki/linear-a/inscriptions/HT/HT/HT32\|HT32]] | dubur | sanctuary | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT89\|HT89]] | dubur | sanctuary | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT127b\|HT127b]] | dubur | sanctuary personnel, 156 | CANDIDATE |
 

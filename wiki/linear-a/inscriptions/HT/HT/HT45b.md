@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "none"
-words: ["*305", "KU"]
+words: ["*305", "KU", "QA2+[?]+RE"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -70,7 +70,7 @@ Unicode (Linear A block):
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/star/star305|\*305]], [[wiki/linear-a/words/K/KU|KU]].
+[[wiki/linear-a/words/star/star305|\*305]], [[wiki/linear-a/words/K/KU|KU]], [[wiki/linear-a/words/Q/QA2_plus_q_plus_RE|QA2+&#91;?&#93;+RE]].
 
 ## Corpus note
 

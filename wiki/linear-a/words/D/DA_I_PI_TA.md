@@ -83,6 +83,6 @@ di Mino; Gelb 1980; GlOS 2; DMic I; Uchitel 2016a
 
 ### Note
 
-A recipient on two Zakros tablets by different scribes: 1 in the ZA 10a name list, 2½ on ZA 8, both intact. ṭayyibat- 'good (f.)': Amorite DA-BA-TUM Ṭaybatum, a woman (Gelb no. 1409), DA for ṭ. Same spelling as Linear B da-i-pi-ta, opening KN B 799 beside ke-do-si-ja (Killen, Mycenaean Greek, glossary): the name survives into Mycenaean Knossos. Rival: DA-I + PI-TA.
+A recipient on two Zakros tablets by different scribes: 1 in the ZA 10a name list, 2½ on ZA 8, both intact. ṭayyibat- 'good (f.)': Amorite DA-BA-TUM Ṭaybatum, a woman (Gelb no. 1409), DA for ṭ. Same spelling as Linear B da-i-pi-ta, opening KN Bk 799 beside ke-do-si-ja (Killen, Mycenaean Greek, glossary): the name survives into Mycenaean Knossos. Rival: DA-I + PI-TA.
 
 <!-- END kaphtor:record -->

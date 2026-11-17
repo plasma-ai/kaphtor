@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/PH/PH/PH16a
 title: "PH16a"
-desc: "Lames (short thin tablet), Phaistos. Translation: none."
+desc: "Lames (short thin tablet), Phaistos, MMIIB. Translation: none."
 tags: ["linear-a", "inscription", "translation-none", "lames-(short-thin-tablet)"]
 kind: "inscription"
 id: "PH16a"
 site: "Phaistos"
 support: "Lames (short thin tablet)"
-period: ""
+period: "MMIIB"
 translation: "none"
 words: []
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Phaistos |
 | Findspot |  |
 | Support | Lames (short thin tablet) |
-| Period |  |
+| Period | MMIIB |
 | Scribe |  |
 | Edition | GORILA 1 |
 | Series | PH |
@@ -40,14 +40,14 @@ updated: 2026-10-24T16:17:50Z
 
 Transliteration, line by line:
 
-1. TI-NA
+1. \*320-NA
 2. —
 3. \]\*358-NI\[
 
 Unicode (Linear A block):
 
 ```text
-𐝫𐘠𐘅𐝫
+𐝫𐙬𐘅𐝫
 —
 𐝫𐚒𐘝𐝫
 ```
@@ -56,6 +56,6 @@ Unicode (Linear A block):
 
 | Kind | SigLA | GORILA |
 |---|---|---|
-| damage marking+sign differs | A320-na-\[?\] \[?\]-A358-ni-\[?\] | TI-NA \*358-NI |
+| damage marking | A320-na-\[?\] \[?\]-A358-ni-\[?\] | \*320-NA \*358-NI |
 
 <!-- END kaphtor:record -->

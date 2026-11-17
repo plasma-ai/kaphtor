@@ -63,7 +63,7 @@ di Mino; GlOS 2; Rabin 1963
 | [[wiki/linear-a/inscriptions/HT/HT/HT14\|HT14]] | Haghia Triada | Tablet | complete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HT/HT99a\|HT99a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA15b\|ZA15b]] | Zakros | Tablet | complete |
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA6b\|ZA6b]] | Zakros | Tablet | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA6b\|ZA6b]] | Zakros | Tablet | incomplete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/KH/KH/KH11\|KH11]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/PH/PH/PH9b\|PH9b]] | Phaistos | Tablet | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/KH/KH/KH103\|KH103]] | Khania | Tablet | none; form not in transliteration |

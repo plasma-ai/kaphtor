@@ -67,7 +67,7 @@ Read words on the same documents.
 | Word | Reading | Meaning |
 |---|---|---|
 | KI-RO | kilʾu | owed, outstanding balance (deficit)—transaction term heading deficit sections |
-| [[wiki/names/semitic/names/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan |
+| [[wiki/names/semitic/names/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | devotee of Kubaba (Kubaba + -ān-), personal name or title |
 | [[wiki/names/hurrian/names/A_RA_NA_RE\|A-RA-NA-RE]] | Aranare | personal name; Ugaritic ålnr (Hurrian), Linear B a-ra-na-ro |
 
 <!-- END kaphtor:record -->

@@ -23,7 +23,7 @@ updated: 2026-10-24T16:17:50Z
 
 **Status: proposed.** A proposed value.
 
-Evidence: ṭ reads both repeated words, DA-SI-\*118 šiṭṭâ and \*21F-\*118 ḥṭt 'wheat', and QA-\*118-RA-RE qṭr, QA-\*118 qṭ 'flax', I-QA-\*118 q-ṭ-ʿ (ṭ in Arabic and Aramaic; NWS q-ṣ-ʿ); d only \]QA-\*118-SA and \*118-MI; DA-SI-\*118 counts in the totals of HT13 and HT85a; standalone \*118 is the talent
+Evidence: ṭ reads both repeated words, DA-SI-\*118 šiṭṭâ and \*21F-\*118 ḥṭt 'wheat', and QA-\*118-RA-RE qṭr, QA-\*118 qṭ 'flax', I-QA-\*118 q-ṭ-ʿ (ṭ in Arabic and Aramaic; NWS q-ṣ-ʿ); d only \]QA-\*118-SA; DA-SI-\*118 counts in the totals of HT13 and HT85a; standalone \*118 is the talent
 
 ## Phonetic value
 
@@ -39,7 +39,7 @@ Evidence: ṭ reads both repeated words, DA-SI-\*118 šiṭṭâ and \*21F-\*118
 
 | Value | Confidence | Evidence |
 |---|---|---|
-| /da/ | 0.25 | \]QA-\*118-SA qōdeš 'holy' (HT70, broken before; HALOT 1076); \*118-MI dam 'blood' (ZA21a; HALOT 224) |
+| /da/ | 0.25 | \]QA-\*118-SA qōdeš 'holy' (HT70, broken before; HALOT 1076) |
 | /ṯa/ | 0.20 | \*21F-\*118 ḥaṯ 'unleavened bread' (DULAT 373); QA-\*118 quṯṯāʾ 'cucumber' (HALOT 1151) |
 
 ### Forms cited for the value
@@ -52,7 +52,7 @@ Evidence: ṭ reads both repeated words, DA-SI-\*118 šiṭṭâ and \*21F-\*118
 
 ### Note
 
-CANDIDATE (0.60). The emphatic dental, the one dental with no sign of its own: DA writes d, TA t, ZU and the T-series ṯ. DA-SI-\*118 writes DA and \*118 in one word, and no word alternates \*118 with DA or TA. Inside words it is syllabic: DA-SI-\*118 counts in the totals of HT 13 (wine, KU-RO 130½) and HT 85a (men, KU-RO 66), and \*21F-\*118 stands among names (ZA 14, ARKH 2). ṭ reads both repeated words, DA-SI-\*118 ×4 and \*21F-\*118 ×4, and QA-\*118-RA-RE qaṭar- 'incense' (HT 96b) in the slot HT 96a fills with the AROM word A-\*123-TE; also QA-\*118 'flax' and I-QA-\*118 iqṭaʿ, whose ṭ is Arabic and Aramaic (Hebrew, Ugaritic and Sabaic q-ṣ-ʿ; HALOT 1124; DULAT 705). d reads only \]QA-\*118-SA (broken) and \*118-MI; ṯ gives rivals only. No spelling variant or Linear B value checks it. Alone before a numeral, after a commodity sign or a separate entry, \*118 is the talent (HT 12, HT 24b, HT 38, KN 2), as Linear B \*118 L (Bartoněk 2003, 126; Killen 2024, 141); A-KU-JU-PA-\*118 35 (PA 1) may be either.
+CANDIDATE (0.60). The emphatic dental, the one dental with no sign of its own: DA writes d, TA t, ZU and the T-series ṯ. DA-SI-\*118 writes DA and \*118 in one word, and no word alternates \*118 with DA or TA. Inside words it is syllabic: DA-SI-\*118 counts in the totals of HT 13 (wine, KU-RO 130½) and HT 85a (men, KU-RO 66), and \*21F-\*118 stands among names (ZA 14, ARKH 2). ṭ reads both repeated words, DA-SI-\*118 ×4 and \*21F-\*118 ×4, and QA-\*118-RA-RE qaṭar- 'incense' (HT 96b) in the slot HT 96a fills with the AROM word A-\*123-TE; also QA-\*118 'flax' and I-QA-\*118 iqṭaʿ, whose ṭ is Arabic and Aramaic (Hebrew, Ugaritic and Sabaic q-ṣ-ʿ; HALOT 1124; DULAT 705). d reads only \]QA-\*118-SA (broken); ṯ gives rivals only. No spelling variant or Linear B value checks it. Davis notes that \*118 closely resembles Linear B dwo and is used syllabically, in \]QA-\*118-SA (HT 70) and QA-\*118-RA-RE (HT 96b), and expects the Linear A counterparts of Linear B two, dwe and dwo to come to light (Davis 2026b, 95 n. 383). Alone before a numeral, after a commodity sign or a separate entry, \*118 is the talent (HT 12, HT 24b, HT 38, KN 2), as Linear B \*118 L (Bartoněk 2003, 126; Killen 2024, 141); A-KU-JU-PA-\*118 35 (PA 1) may be either.
 
 ## Also in logograms
 
@@ -64,7 +64,6 @@ CANDIDATE (0.60). The emphatic dental, the one dental with no sign of its own: D
 |---|---|---|
 | [[wiki/linear-a/words/star/star21F_star118\|\*21F-\*118]] | ḥiṭṭa | CANDIDATE |
 | [[wiki/linear-a/words/star/star118\|\*118]] | (logogram) | PROBABLE |
-| [[wiki/linear-a/words/star/star118_MI\|\*118-MI]] | ṭammi | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_SI_star118\|DA-SI-\*118]] | Ḏā-šiṭṭa | CANDIDATE |
 | [[wiki/linear-a/words/I/I_QA_star118\|I-QA-\*118]] | iqṭaʿ | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_star118\|QA-\*118]] | qaṭṭ(u) | SPECULATIVE |

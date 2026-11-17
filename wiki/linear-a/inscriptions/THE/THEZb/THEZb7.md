@@ -66,4 +66,8 @@ Unicode (Linear A block):
 
 [[wiki/linear-a/words/A/A_JE|A-JE]].
 
+## Corpus note
+
+A fragment of the oval-mouthed amphora inv. 1262 from Akrotiri, two signs cut after firing on its shoulder. Michailidou published it as THE Zb 14 and reads A 318–AB 08, the second sign perhaps AB 41 or AB 27 (Michailidou 2000–2001, 12–13); GORILA IV xxi and RILA-S1 157 list it among the doubtful inscriptions as D 14, and Donnelly takes up the A 318 (Donnelly 2026, 74–75).
+
 <!-- END kaphtor:record -->

@@ -2,7 +2,7 @@
 name: wiki/linear-a/inscriptions/MI/MIZb
 desc: "Inscriptions from Milos, series MIZb."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-13T13:31:15Z
+updated: 2026-11-17T20:57:20Z
 ---
 
 # wiki/linear-a/inscriptions/MI/MIZb
@@ -11,6 +11,6 @@ updated: 2026-11-13T13:31:15Z
 
 [[wiki/linear-a/inscriptions/MI/MIZb/MIZb1|MIZb1]]: Clay vessel, Milos. Translation: complete (SPECULATIVE).
 
-[[wiki/linear-a/inscriptions/MI/MIZb/MIZb3|MIZb3]]: Clay vessel, Milos. Translation: none.
+[[wiki/linear-a/inscriptions/MI/MIZb/MIZb3|MIZb3]]: Clay vessel, Milos, LMIA. Translation: none.
 
 ***

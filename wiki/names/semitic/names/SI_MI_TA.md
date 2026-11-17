@@ -32,11 +32,11 @@ updated: 2026-11-11T23:39:03Z
 | Reading's standing | SPECULATIVE |
 | Standing as a personal name | SPECULATIVE |
 | Standing of the layer | SPECULATIVE (lexicon_reading) |
-| Source | di Mino; Gelb 1980; GlOS 2; FM IV; FM V |
+| Source | di Mino; Gelb 1980; GlOS 2; FM IV; FM V; DMic II; Davis 2026b |
 
 ## Note
 
-HT 96a .2 SI-MI-TA GRA 5, the first recipient under I-TI-TI-KU-NI · A-PA-RA-NE · A-\*123-TE (GORILA I 156). śīmat, the women's name of Amorite ŚIJM-AT-UM, ŠI-MA-TUM (Gelb no. 5893): SI writes ś, which merges into the S series, and MI for ma is a vowel mismatch only. Rival: Hebrew Šimʿat (2 Kgs 12:22), with the ʿ unwritten. One witness. See SA-JA-MA.
+HT 96a .2 SI-MI-TA GRA 5, the first recipient under I-TI-TI-KU-NI · A-PA-RA-NE · A-\*123-TE (GORILA I 156). śīmat, the women's name of Amorite ŚIJM-AT-UM, ŠI-MA-TUM (Gelb no. 5893): SI writes ś, which merges into the S series, and MI for ma is a vowel mismatch only. Linear B si-mi-do, a man at Knossos (KN As 607.3; DMic II), which Davis pairs with it, the t heard as d (2026b, 104–5). Rival: Hebrew Šimʿat (2 Kgs 12:22), with the ʿ unwritten. One witness. See SA-JA-MA.
 
 ## As a name
 

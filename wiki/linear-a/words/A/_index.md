@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A
 desc: "Words whose first sign begins with A."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-17T16:49:30Z
+updated: 2026-11-17T20:31:47Z
 ---
 
 # wiki/linear-a/words/A
@@ -159,9 +159,9 @@ updated: 2026-11-17T16:49:30Z
 
 [[wiki/linear-a/words/A/A_RE_DA_I|A_RE_DA_I]]: Ar-tae: Ar-tae (personal name; Hurrian ar- 'give'). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/A/A_RE_NE|A_RE_NE]]: ʾarān: coffin, chest; rival Ḥōrān (Horon). Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/A/A_RE_NE|A_RE_NE]]: ʾAren: Aren, a man's name, the owner of the ring. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU|A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU]]: ʾarān Ṣidna bikē bayta rēšī tarīmu ʾAyaku: 'Coffin of Sidon. Weeping in the house. My head you lift up, O ʾAyaku': a lament. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU|A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU]]: ʾAren Ṣidna bikē bayta rēšī tarīmu ʾAyaku: 'Aren of Sidon. There is weeping in the house. You lift up my head, O ʾAyaku': a lament. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/A/A_RE_PI_RE_NA|A_RE_PI_RE_NA]]: ʾa-repiʾ-rennā: Healer of Jubilation (Eshmun epithet). Lexicon, SPECULATIVE (tier 1).
 

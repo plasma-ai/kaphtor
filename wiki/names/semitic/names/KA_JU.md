@@ -68,7 +68,7 @@ Read words on the same documents.
 | [[wiki/names/semitic/names/A_DU\|A-DU]] | adû | work assignment; the ration allotted to it (heading of personnel and ration lists) |
 | KI-RO | kilʾu | owed, outstanding balance (deficit)—transaction term heading deficit sections |
 | [[wiki/names/sumerian/names/KU_PA3_PA3\|KU-PA₃-PA₃]] | Kubaba | Kubaba, Sumerian Kug-Baba 'Pure is Baba' (divine or personal name) |
-| [[wiki/names/semitic/names/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan |
+| [[wiki/names/semitic/names/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | devotee of Kubaba (Kubaba + -ān-), personal name or title |
 | [[wiki/names/egyptian/names/PA_JA_RE\|PA-JA-RE]] | Payare | He (of) Re: Egyptian personal name Pꜣ-Rꜥ (Gordon's Pꜣy-Rꜥ); Linear B pa-ja-ro |
 | KU-RO | kull | total, sum (accounting term) |
 

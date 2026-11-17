@@ -36,6 +36,7 @@ updated: 2026-10-24T16:17:50Z
 ### Forms cited for the value
 
 - JA-SA-SA-RA-ME = yaššaram
+- The Linear B value, confirmed in Linear A by more than one contextual test (Davis 2026b, 18, Table 1.3, after Duhoux 1989)
 
 ## Lexicon words written with this sign
 
@@ -47,7 +48,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_JA_KU\|A-JA-KU]] | ʾAyaku | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_MA_JA\|A-MA-JA]] | ʿAmmaya | CANDIDATE |
 | [[wiki/linear-a/words/A/A_MI_JA_RU\|A-MI-JA-RU]] | ʿAmmī-yarūm | SPECULATIVE |
-| [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | ʾarān Ṣidna bikē bayta rēšī tarīmu ʾAyaku | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | ʾAren Ṣidna bikē bayta rēšī tarīmu ʾAyaku | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_SE_JA\|A-SE-JA]] | Āsīya | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_SI_JA_KA\|A-SI-JA-KA]] | šawīqu | CANDIDATE |
 | [[wiki/linear-a/words/A/A_SU_JA\|A-SU-JA]] | Azzuya | SPECULATIVE |
@@ -77,8 +78,8 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/J/JA_MI_DA_RE\|JA-MI-DA-RE]] | Yamidare | SPECULATIVE |
 | [[wiki/linear-a/words/J/JA_PA\|JA-PA]] | Yapaʿ(u) | SPECULATIVE |
 | [[wiki/linear-a/words/J/JA_PA_QA\|JA-PA-QA]] | yapqaḥ | CANDIDATE |
-| [[wiki/linear-a/words/J/JA_PA_RA\|JA-PA-RA]] | yapʾara | CANDIDATE |
-| [[wiki/linear-a/words/J/JA_PA_RA_JA_SE\|JA-PA-RA-JA-SE]] | yapʾara yāṣē | CANDIDATE |
+| [[wiki/linear-a/words/J/JA_PA_RA\|JA-PA-RA]] | yapra | CANDIDATE |
+| [[wiki/linear-a/words/J/JA_PA_RA_JA_SE\|JA-PA-RA-JA-SE]] | yapra yāṣē | CANDIDATE |
 | [[wiki/linear-a/words/J/JA_RA\|JA-RA]] | Yaraḫ | SPECULATIVE |
 | [[wiki/linear-a/words/J/JA_RE_MI\|JA-RE-MI]] | Yarīm | SPECULATIVE |
 | [[wiki/linear-a/words/J/JA_RU_MA_NE\|JA-RU-MA-NE]] | Yarīmān | CANDIDATE |
@@ -101,7 +102,9 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/K/KO_JA\|KO-JA]] | Qōya | SPECULATIVE |
 | [[wiki/linear-a/words/K/KU_PA_JA\|KU-PA-JA]] | Kubbaya | SPECULATIVE |
 | [[wiki/linear-a/words/K/KU_PA3_RI_JA\|KU-PA₃-RI-JA]] | Kubariya | SPECULATIVE |
-| [[wiki/linear-a/words/M/MI_plus_JA_plus_RU\|MI+JA+RU]] | murru | CANDIDATE |
+| [[wiki/linear-a/words/M/MI_plus_JA_plus_I\|MI+JA+I]] |  | SPECULATIVE |
+| [[wiki/linear-a/words/M/MI_plus_JA_plus_KA\|MI+JA+KA]] |  | SPECULATIVE |
+| [[wiki/linear-a/words/M/MI_plus_JA_plus_RU\|MI+JA+RU]] | miyāru | CANDIDATE |
 | [[wiki/linear-a/words/M/MI_JA\|MI-JA]] | mayya | CANDIDATE |
 | [[wiki/linear-a/words/N/NI_JA_NU\|NI-JA-NU]] | niyāḥ-nu | SPECULATIVE |
 | [[wiki/linear-a/words/O/O_TE_JA\|O-TE-JA]] | Ḫuteya | SPECULATIVE |

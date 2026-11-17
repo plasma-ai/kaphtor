@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 95a DI-DE-RU 10, HT 95b and HT 86a, in the Haghia Triada allocation set, always with SA-RU, MI-NU-TE and QE-RA₂-U, in the same order. ʾaddīru 'nobles', DI-DE- writing the geminate -dd-: Ug. adr 'strong, of good quality; noble, notable' (DULAT 21). Rival: Ug. ʾadr 'granary, barn' (GlOS 1, 10), a store drawing grain. Three attestations. See A-DA-RO.
+HT 95a DI-DE-RU 10, HT 95b and HT 86a, in the Haghia Triada allocation set, always with SA-RU, MI-NU-TE and QE-RA₂-U, in the same order. ʾaddīru 'nobles', DI-DE- writing the geminate -dd-: Ug. adr 'strong, of good quality; noble, notable' (DULAT 21). Rivals: Ug. ʾadr 'granary, barn' (GlOS 1, 10), a store drawing grain; a man's name, Linear B di-de-ro (KN Dv 1504.B), which Landau (1958, 269) and Docs² (539) compare (both apud DMic I, s.v. di-de-ro), the final -u written -o (Salgarella 2020, 33, 186 n. 38, after Steele and Meissner 2017, 105–6; Davis 2026b, 118). As a name it is ʾAddīr, Phoenician ʾDR 'Ader, DN is great' (Krahmalkov 2000, 37), the element ʾDR 'mighty, glorious' written -dir in Latin BALDIR (Benz 1972, 261). Three attestations. See A-DA-RO.
 
 ### Cognates
 

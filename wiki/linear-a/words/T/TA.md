@@ -43,7 +43,7 @@ updated: 2026-11-12T00:26:03Z
 | [[wiki/linear-a/inscriptions/KH/KH/KH16\|KH16]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH64\|KH64]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH8\|KH8]] | Khania | Tablet | none |
-| [[wiki/linear-a/inscriptions/THE/THEZg/THEZg5\|THEZg5]] | Thera | Stone object | none |
+| [[wiki/linear-a/inscriptions/THE/THEZg/THEZg5\|THEZg5]] | Thera | Ostracon | none |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA10b\|ZA10b]] | Zakros | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA24b\|ZA24b]] | Zakros | Tablet | none |
 

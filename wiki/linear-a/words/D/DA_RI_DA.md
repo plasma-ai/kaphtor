@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-An entry with a numeral on four Haghia Triada tablets: HT 10a DA-RI-DA 8 before ME-ZA 3, in the KU-NI-SU list (GORILA I 21); HT 85a DA-RI-DA 12, first under A-DU · \*307+\*307 · VIR+\[·\] (GORILA I 131); HT 122a DA-RI-DA 1, last before KU-RO 31 (GORILA I 207); HT 93a DA-RI-DA \*406VS 2 (GORILA I 147). Hebrew Dardaʿ (1 Kgs 5:11), with ʿ unwritten, from dardar 'thistle' by dissimilation (HALOT 230). Rival: a place or work unit, since 12 on HT 85a stands against 1 on HT 122a. HT 85a and HT 122 are one hand's pair from one room, listing the same units (Montecchi 2010, 22).
+An entry with a numeral on four Haghia Triada tablets: HT 10a DA-RI-DA 8 before ME-ZA 3, in the KU-NI-SU list (GORILA I 21); HT 85a DA-RI-DA 12, first under A-DU · \*307+\*307 · VIR+\[·\] (GORILA I 131); HT 122a DA-RI-DA 1, last before KU-RO 31 (GORILA I 207); HT 93a DA-RI-DA \*406VS 2 (GORILA I 147). Hebrew Dardaʿ (1 Kgs 5:11), with ʿ unwritten, from dardar 'thistle' by dissimilation (HALOT 230). Linear B may write the name as \*ra-ri-do, whose possessive ra-ri-di-jo stands on KN C 911.8 (DMic II), the first d heard as l and written r, one of the potential pairs Davis lists (2026b, 112, 118 and n. 450). Rival: a place or work unit, since 12 on HT 85a stands against 1 on HT 122a. HT 85a and HT 122 are one hand's pair from one room, listing the same units (Montecchi 2010, 22).
 
 ### Cognates
 

@@ -36,11 +36,11 @@ updated: 2026-11-11T23:39:03Z
 
 ## Note
 
-ZA Zg 35, a bone label: \]A-MI-JA-RU · SE-WA-AU-DE, broken before A, which the facsimile shows (Younger, Linear A Texts). ʿAmmī-yarūm 'My kinsman is exalted': A-MI ʿammī, as A-MI stands beside \*306+MI, and JA-RU yarūm, the yaqtul of √r-w-m as in JA-RU-MA-NE, the final m unwritten. Amorite joins the two both ways: Yarīm-ʿAmmu, ʿAmmu-rāma (Gelb 1980, nos. 3436, 2154). One attestation. See JA-RU-MA-NE.
+ZA Zg 35, a bone or ivory rod: \]A-MI-JA-RU · SE-WA-AU-DE. The first sign is cut by the break; its first edition prints \]ME, doubtful, in a group of at least four signs (Kopaka 1989, 9–11), and the drawing favours A. ʿAmmī-yarūm 'My kinsman is exalted': A-MI ʿammī, as A-MI stands beside \*306+MI, and JA-RU yarūm, the yaqtul of √r-w-m as in JA-RU-MA-NE, the final m unwritten. Amorite joins the two both ways: Yarīm-ʿAmmu, ʿAmmu-rāma (Gelb 1980, nos. 3436, 2154). One attestation. See JA-RU-MA-NE.
 
 ## As a name
 
-ZA Zg 35, a bone label: \]A-MI-JA-RU · SE-WA-AU-DE, broken before A (Younger, Linear A Texts). ʿAmmī-yarūm 'My kinsman is exalted', as Amorite Yarīm-ʿAmmu and ʿAmmu-rāma (Gelb 1980, nos. 3436, 2154). See the lexicon entry.
+ZA Zg 35, a bone or ivory rod: \]A-MI-JA-RU · SE-WA-AU-DE, the first sign cut by the break, printed \]ME, doubtful, in its first edition (Kopaka 1989, 9–11) and A by the drawing. ʿAmmī-yarūm 'My kinsman is exalted', as Amorite Yarīm-ʿAmmu and ʿAmmu-rāma (Gelb 1980, nos. 3436, 2154). See the lexicon entry.
 
 ## Cognates
 

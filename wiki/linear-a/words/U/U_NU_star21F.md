@@ -56,7 +56,13 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT26a\|HT26a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT26a\|HT26a]] | Haghia Triada | Tablet | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT26a\|HT26a]] | Unuḫu | (the men of) Unuḫu, 5 | SPECULATIVE |
 
 ## Onomasticon
 

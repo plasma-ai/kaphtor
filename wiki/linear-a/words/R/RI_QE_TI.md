@@ -59,7 +59,7 @@ di Mino; CAD R
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/PO/POZc/POZc1\|POZc1]] | Poros Herakleiou | Inked inscription | complete; form not in transliteration |
+| [[wiki/linear-a/inscriptions/PO/POZc/POZc1\|POZc1]] | Poros Herakleiou | Terracotta statuette | complete; form not in transliteration |
 
 ## In translations
 

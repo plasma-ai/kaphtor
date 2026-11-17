@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-ZA 14 .1 ME-KI-DI 1, intact, the first entry of a name list, before \*21F-\*118 1 and QA-TI-JU 8 (GORILA III 181). Safaitic MJD, feminine MJDT (Harding 1971, 528); Hebrew meged 'precious gift' (Deut 33:13; HALOT 543). The masculine of MA-KI-DE-TE (ZA 10b). Rival: Ugaritic mkt, which DULAT queries as 'immolation, offering' (DULAT 539). One document.
+ZA 14 .1 ME-KI-DI 1, intact, the first entry of a name list, before \*21F-\*118 1 and QA-TI-JU 8 (GORILA III 181). Safaitic MJD, feminine MJDT (Harding 1971, 528); Hebrew meged 'precious gift' (Deut 33:13; HALOT 543). The masculine of MA-KI-DE-TE (ZA 10b). Linear B me-ki-ti, a man at Knossos (KN Dv 1434.b; DMic I), which Davis pairs with ME-KI-DI, the d heard as t (2026b, 119). Rival: Ugaritic mkt, which DULAT queries as 'immolation, offering' (DULAT 539). One document.
 
 ### Cognates
 
@@ -52,7 +52,7 @@ ZA 14 .1 ME-KI-DI 1, intact, the first entry of a name list, before \*21F-\*118 
 
 ### Source
 
-di Mino; Harding 1971; HALOT; DULAT
+di Mino; Harding 1971; HALOT; DULAT; DMic I; Davis 2026b
 
 ## Attestations
 

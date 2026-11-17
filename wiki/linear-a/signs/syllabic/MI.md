@@ -37,12 +37,12 @@ updated: 2026-10-24T16:17:50Z
 
 - MI-NU-TE = minut (CANDIDATE: Minut)
 - JA-MI-DA-RE (Gordon: Egyptian PN)
+- The Linear B value, confirmed in Linear A by one contextual test (Davis 2026b, 18, Table 1.3, after Duhoux 1989)
 
 ## Lexicon words written with this sign
 
 | Word | Reading | Confidence |
 |---|---|---|
-| [[wiki/linear-a/words/star/star118_MI\|\*118-MI]] | ṭammi | SPECULATIVE |
 | [[wiki/linear-a/words/star/star306_plus_MI\|\*306+MI]] | ʿAmmī | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_DU_KU_MI_NA\|A-DU-KU-MI-NA]] | ʾAddu-kummina | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_KU_MI_NA\|A-KU-MI-NA]] | ha-kummina | SPECULATIVE |
@@ -64,7 +64,9 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/K/KU_MI_NA\|KU-MI-NA]] | kumina | PROBABLE |
 | [[wiki/linear-a/words/M/MA_I_MI\|MA-I-MI]] | mayimi | SPECULATIVE |
 | [[wiki/linear-a/words/M/MI_plus_star301\|MI+\*301]] | minā | PROBABLE |
-| [[wiki/linear-a/words/M/MI_plus_JA_plus_RU\|MI+JA+RU]] | murru | CANDIDATE |
+| [[wiki/linear-a/words/M/MI_plus_JA_plus_I\|MI+JA+I]] |  | SPECULATIVE |
+| [[wiki/linear-a/words/M/MI_plus_JA_plus_KA\|MI+JA+KA]] |  | SPECULATIVE |
+| [[wiki/linear-a/words/M/MI_plus_JA_plus_RU\|MI+JA+RU]] | miyāru | CANDIDATE |
 | [[wiki/linear-a/words/M/MI_DA_NI\|MI-DA-NI]] | mitāni | SPECULATIVE |
 | [[wiki/linear-a/words/M/MI_DA_RU_RA\|MI-DA-RU-RA]] | midrara | CANDIDATE |
 | [[wiki/linear-a/words/M/MI_JA\|MI-JA]] | mayya | CANDIDATE |
@@ -81,7 +83,6 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/Q/QA_MI_star47_NA_RA\|QA-MI-\*47-NA-RA]] | qāmī šū-nāra | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QE_DE_MI_NU\|QE-DE-MI-NU]] | Qēdmīnu | SPECULATIVE |
 | [[wiki/linear-a/words/R/RI_MI_SI\|RI-MI-SI]] | Rimši | CANDIDATE |
-| [[wiki/linear-a/words/S/SA_star305_MI\|SA-\*305-MI]] | šadmi | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_MI_DA_E\|SA-MI-DA-E]] | samidē | CANDIDATE |
 | [[wiki/linear-a/words/S/SI_DU_QI_KU_MI\|SI-DU-QI-KU-MI]] | Ṣiduqi-kummi | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_MI_TA\|SI-MI-TA]] | Śīmat | SPECULATIVE |

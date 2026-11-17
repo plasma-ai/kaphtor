@@ -56,13 +56,14 @@ di Mino; ORACC aemw/ugarit; Melchert 1993
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT26a\|HT26a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT26a\|HT26a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT97a\|HT97a]] | Haghia Triada | Tablet | incomplete |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT26a\|HT26a]] | Tati | personal name, 21 | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT97a\|HT97a]] | Tati | personal name, 2; rival tati 'father' | CANDIDATE |
 
 ## Onomasticon

@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/KO/KOZa/KOZa1
 title: "KOZa1"
-desc: "Stone vessel, Kophinas, LM IB. Translation: complete (PROBABLE)."
+desc: "Stone vessel, Kophinas, LMIB. Translation: complete (PROBABLE)."
 tags: ["linear-a", "inscription", "translation-complete", "stone-vessel"]
 kind: "inscription"
 id: "KOZa1"
 site: "Kophinas"
 support: "Stone vessel"
-period: "LM IB"
+period: "LMIB"
 translation: "complete"
 words: ["A-TA-I-*301-WA-JA", "DU-*314-RE", "I-DA-A", "I-PI-NA-MA", "SI-RU-TE", "TU-RU-SA", "U-NA", "U-NA-KA-NA-SI"]
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Kophinas |
 | Findspot |  |
 | Support | Stone vessel |
-| Period | LM IB |
+| Period | LMIB |
 | Scribe |  |
 | Edition | GORILA 4 |
 | Series | KOZa |

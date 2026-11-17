@@ -65,7 +65,7 @@ di Mino
 | [[wiki/linear-a/inscriptions/HT/HT/HT154\|HT154.]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/MA/MA/MA1c\|MA1c]] | Malia | Tablet | none |
 | [[wiki/linear-a/inscriptions/MA/MA/MA2b\|MA2b]] | Malia | 3-sided bar | none |
-| [[wiki/linear-a/inscriptions/PH/PH/PH16b\|PH16b]] | Phaistos | Lames (short thin tablet) | none |
+| [[wiki/linear-a/inscriptions/PH/PH/PH16b\|PH16b]] | Phaistos | Lames (short thin tablet) | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/PH/PH/PH30\|PH30]] | Phaistos | Tablet | none |
 | [[wiki/linear-a/inscriptions/PK/PK/PK3\|PK3]] | Palaikastro | 4-sided bar | none |
 | [[wiki/linear-a/inscriptions/PYR/PYRWc/PYRWc4\|PYRWc4]] | Pyrgos | Roundel | complete |

@@ -23,7 +23,7 @@ updated: 2026-10-24T16:17:50Z
 
 **Status: proposed.** A proposed value.
 
-Evidence: d reads SE-\*305 ṣēdā, KA-\*305 ka-ḏā 'thus', \*305-RU ḏarʿ 'seed-grain' (class T, as DA-TU ḏātu), \*305-WA-NA Dawana (Linear B da-wa-no) and SA-\*305-MI šadmi 'terrace'; ḏ gives no root in SE-\*305 and \*305-WA-NA; θ̣ and ṣ́ form no set. Against: DA writes the same syllable
+Evidence: d reads SE-\*305 ṣēdā, KA-\*305 ka-ḏā 'thus', \*305-RU ḏarʿ 'seed-grain' (class T, as DA-TU ḏātu) and \*305-WA-NA Dawana (Linear B da-wa-no); ḏ gives no root in SE-\*305 and \*305-WA-NA; θ̣ and ṣ́ form no set. Against: DA writes the same syllable
 
 ## Phonetic value
 
@@ -40,7 +40,6 @@ Evidence: d reads SE-\*305 ṣēdā, KA-\*305 ka-ḏā 'thus', \*305-RU ḏarʿ 
 - KA-\*305 = ka-ḏā 'thus' (HT9b), \*ḏ written with a d-sign as in DA-TU ḏātu
 - \*305-RU = ḏarʿ 'seed-grain' (HT10a), Ug. d/ḏrʕ (DULAT 277–278)
 - \*305-WA-NA = Dawana (ZA6a), Linear B da-wa-no (DMic I 159)
-- SA-\*305-MI = šadmi 'terrace' (PE2), Ug. šdmt (DULAT 799)
 
 ### Note
 
@@ -58,7 +57,6 @@ Dual-function. Logogram ḎABBĀḤŪ 'sacrificers' (personnel category) for sta
 | [[wiki/linear-a/words/star/star305_RU\|\*305-RU]] | ḏarʿ(u) | SPECULATIVE |
 | [[wiki/linear-a/words/star/star305_WA_NA\|\*305-WA-NA]] | Dawana | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_star305\|KA-\*305]] | ka-ḏā | SPECULATIVE |
-| [[wiki/linear-a/words/S/SA_star305_MI\|SA-\*305-MI]] | šadmi | SPECULATIVE |
 | [[wiki/linear-a/words/S/SE_star305\|SE-\*305]] | ṣēdā | SPECULATIVE |
 
 <!-- END kaphtor:record -->

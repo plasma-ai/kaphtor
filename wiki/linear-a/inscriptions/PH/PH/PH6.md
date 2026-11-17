@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/PH/PH/PH6
 title: "PH6"
-desc: "Tablet, Phaistos, MMII. Translation: complete (CANDIDATE)."
+desc: "Tablet, Phaistos, MMIIB. Translation: complete (CANDIDATE)."
 tags: ["linear-a", "inscription", "translation-complete", "tablet"]
 kind: "inscription"
 id: "PH6"
 site: "Phaistos"
 support: "Tablet"
-period: "MMII"
+period: "MMIIB"
 translation: "complete"
 words: ["A-RI", "I-DA", "I-DA-PA₃-I-SA-RI", "I-NA-WA", "I-SA-RI", "I-ZU-RI-NI-TA", "PA₃"]
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Phaistos |
 | Findspot |  |
 | Support | Tablet |
-| Period | MMII |
+| Period | MMIIB |
 | Scribe |  |
 | Edition | GORILA 1 |
 | Series | PH |

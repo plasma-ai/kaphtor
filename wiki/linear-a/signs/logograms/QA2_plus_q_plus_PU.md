@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/signs/logograms/QA2_plus_q_plus_PU
 title: "QA2+[?]+PU"
-desc: "Linear A logogram QA2+[?]+PU, proposed: [paired precious-liquid commodity logogram]."
+desc: "Linear A logogram QA2+[?]+PU, proposed: [qab-measure of a commodity, PU: QA written inside the *402 cup]."
 tags: ["linear-a", "sign", "logograms", "proposed"]
 kind: "sign"
 sign_kind: "logograms"
 sign: "QA2+[?]+PU"
 sign_number: null
 status: "proposed"
-value: "[paired precious-liquid commodity logogram]"
+value: "[qab-measure of a commodity, PU: QA written inside the *402 cup]"
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -27,11 +27,11 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Gloss | \[paired precious-liquid commodity logogram\] |
-| Commodity | precious liquid (aromatic-oil class), unidentified |
+| Gloss | \[qab-measure of a commodity, PU: QA written inside the \*402 cup\] |
+| Commodity | qab of PU: QA in the \*402 cup, PU unread |
 
 ### Note
 
-Coordinated pair with QA2+\[?\]+RE — 14/14 occurrences in Villa Magazine liquid registers, adjacent slots on HT23b/HT32/HT34/HT60, small-fraction-only metrology (1/16–1/24); + QA2+\[?\]+RE+PU ×3 (HT33, HT45b). Middle ligature unread; specific commodity NO READING. Firming test: GORILA Vol. 1 facsimile of the ligature.
+QA (AB 16) written inside the \*402 cup of HT 31, which carries QA-PA₃ qab there: the measuring cup, with PU the measured commodity, unread. Paired with QA2+\[?\]+RE (HT 23a 10 and 10; adjacent on HT 23b, HT 32, HT 34, HT 60), combined as QA2+\[?\]+RE+PU (HT 33, HT 45b) and QA2+\[?\]+PU+RE (HT 12); booked in fractions and tens among the aromatics. GORILA V 173 leaves the cup unidentified. See lexicon QA2+\[?\]+PU.
 
 <!-- END kaphtor:record -->

@@ -82,7 +82,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/star/star21M\|\*21M]] |  | ram (livestock logogram) | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/star/star21F\|\*21F]] |  | ewe (livestock logogram, standing alone before a numeral) | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/K/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | devotee of Kubaba (Kubaba + -ān-), personal name or title | PROBABLE | PROBABLE (lexicon) |
-| [[wiki/linear-a/words/S/SUS\|SUS]] |  | pig (livestock logogram) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/S/SUS\|SUS]] |  | pig (livestock logogram) | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/P/PA_TA_DA\|PA-TA-DA]] | Patada | personal name | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/K/KU_RO\|KU-RO]] | kull | total, sum (accounting term) | CONFIRMED | CONFIRMED (lexicon) |
 
@@ -101,6 +101,6 @@ The top and the left side are broken. GORILA prints PA-TA-DA\[ (I 319); the edge
 
 ## Corpus note
 
-GORILA I 319: .2 ends OVISf\[, dotted, the form of OVISf on .4 (SigLA AB21/OVISf); .3 \]NẸ 1, broken before and dotted, no divider; .3 ends PA-TA-DA\[ and .4 opens \]1. GORILA I 319: .3 writes SUS+SI+RE 1 in the logogram column (SigLA A1000): the pig head with SI set above it and RE free to its right.
+GORILA I 319: .2 ends OVISf\[, dotted, the form of OVISf on .4 (SigLA AB21/OVISf); .3 \]NẸ 1, broken before and dotted, no divider; .3 ends PA-TA-DA\[ and .4 opens \]1. PH 31 may be a Haghia Triada tablet (Schoep 2002, 121 n. 114, apud Salgarella 2020, 165). GORILA I 319: .3 writes SUS+SI+RE 1 in the logogram column (SigLA A1000): the pig head with SI set above it and RE free to its right.
 
 <!-- END kaphtor:record -->

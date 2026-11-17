@@ -32,11 +32,11 @@ updated: 2026-11-11T23:39:03Z
 | Reading's standing | SPECULATIVE |
 | Standing as a personal name | SPECULATIVE |
 | Standing of the layer | SPECULATIVE (lexicon_reading) |
-| Source | di Mino; RIME 4 |
+| Source | di Mino; RIME 4; DMic II; Davis 2026b |
 
 ## Note
 
-ARKH 6: DA-NA-TU · KU heads the tablet, TE-RI on the next line. Feminine participle dānat- + -u, √d-y-n 'to judge'; cf. Ug. dnty, Danel's wife (KTU 1.17 V 16), Heb. Dînāh, and DI-NA-U. Da-na-tum is a man's seal name, son of Sîn-taʾar, servant of Rīm-Sîn (RIME 4.02.14.2009). Weak point: -t may make an abstract 'judgment' as well as a feminine; the Babylonian Da-na-tum is a man. Rival: dannatu 'hardship; fortress' (CAD D 87), a heading. One attestation. See DI-NA-RO.
+ARKH 6: DA-NA-TU · KU heads the tablet, TE-RI on the next line. Feminine participle dānat- + -u, √d-y-n 'to judge'; cf. Ug. dnty, Danel's wife (KTU 1.17 V 16), Heb. Dînāh, and DI-NA-U. Da-na-tum is a man's seal name, son of Sîn-taʾar, servant of Rīm-Sîn (RIME 4.02.14.2009). Weak point: -t may make an abstract 'judgment' as well as a feminine; the Babylonian Da-na-tum is a man. Rivals: dannatu 'hardship; fortress' (CAD D 87), a heading; a place name, as Linear B sa-na-to-de 'to Sanato' (KN Fs 2.B; DMic II), which Davis pairs with it, Linear A d heard as s (2026b, 119). One attestation. See DI-NA-RO.
 
 ## As a name
 

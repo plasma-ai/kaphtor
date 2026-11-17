@@ -27,7 +27,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Site | Arkhanes |
-| Findspot |  |
+| Findspot | Tholos E, Arkhanes |
 | Support | Inked inscription |
 | Period | MMIA |
 | Scribe |  |
@@ -65,5 +65,9 @@ Unicode (Linear A block):
 ## Lexicon words citing this document
 
 [[wiki/linear-a/words/star/star306_TA_JE|\*306-TA-JE]].
+
+## Corpus note
+
+A painted larnax rim, with the end of MM II as terminus ante quem; for Salgarella it is among the earliest inscriptions, which are not always straightforward to assign to either Linear A or Cretan Hieroglyphic (2020, 42–43 and n. 6).
 
 <!-- END kaphtor:record -->

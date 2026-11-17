@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/PH/PHWy/PHWy42
 title: "PHWy42"
-desc: "Unspecified object, Phaistos, MMII. Translation: complete (PROBABLE)."
+desc: "Unspecified object, Phaistos, MMIIB. Translation: complete (PROBABLE)."
 tags: ["linear-a", "inscription", "translation-complete", "unspecified-object"]
 kind: "inscription"
 id: "PHWy42"
 site: "Phaistos"
 support: "Unspecified object"
-period: "MMII"
+period: "MMIIB"
 translation: "complete"
 words: []
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Phaistos |
 | Findspot |  |
 | Support | Unspecified object |
-| Period | MMII |
+| Period | MMIIB |
 | Scribe |  |
 | Edition | unattributed |
 | Series | PHWy |

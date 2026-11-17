@@ -6,24 +6,24 @@
     "documents": 1603
   },
   "lexicon": {
-    "entries": 694,
+    "entries": 702,
     "tiers": {
       "CONFIRMED": 19,
-      "PROBABLE": 75,
-      "CANDIDATE": 267,
-      "SPECULATIVE": 333
+      "PROBABLE": 77,
+      "CANDIDATE": 269,
+      "SPECULATIVE": 337
     }
   },
   "translations": {
-    "complete": 518,
-    "incomplete": 117
+    "complete": 519,
+    "incomplete": 120
   },
   "sign_values": {
-    "total": 37,
+    "total": 40,
     "resolved": 5,
-    "phonemic": 14,
-    "logographic": 23
+    "phonemic": 16,
+    "logographic": 24
   },
-  "names": 380,
+  "names": 382,
   "semitic_roots": 5189
 }

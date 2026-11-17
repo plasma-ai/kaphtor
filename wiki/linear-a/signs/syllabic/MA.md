@@ -37,12 +37,14 @@ updated: 2026-10-24T16:17:50Z
 
 - KNZa10 JA-SA-SA-RA-MA-NA: MA securely read within the uninterrupted graphic group
 - MA-KA-WE-TE (Gordon PN)
+- The Linear B value, confirmed in Linear A by more than one contextual test (Davis 2026b, 18, Table 1.3, after Duhoux 1989)
 
 ## Lexicon words written with this sign
 
 | Word | Reading | Confidence |
 |---|---|---|
 | [[wiki/linear-a/words/star/star314_TA_MA\|\*314-TA-MA]] | ḥatam(a) | CANDIDATE |
+| [[wiki/linear-a/words/star/star320_star320_MA\|\*320-\*320-MA]] | ṯiṯṯīma | SPECULATIVE |
 | [[wiki/linear-a/words/star/star364_KE_MA_SE\|\*364-KE-MA-SE]] | Šakma-se | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_MA\|A-MA]] | ʿamma | CANDIDATE |
 | [[wiki/linear-a/words/A/A_MA_JA\|A-MA-JA]] | ʿAmmaya | CANDIDATE |
@@ -95,7 +97,6 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/T/TA_I_NU_MA_PA\|TA-I-NU-MA-PA]] | Tainumapa | SPECULATIVE |
 | [[wiki/linear-a/words/T/TA_NA_MA_JE\|TA-NA-MA-JE]] | Tanʿamay | SPECULATIVE |
 | [[wiki/linear-a/words/T/TI_MA_RU_WI_TE\|TI-MA-RU-WI-TE]] | Tīmar-luwwīt | SPECULATIVE |
-| [[wiki/linear-a/words/T/TI_TI_MA\|TI-TI-MA]] | ṯiṯṯīma | CANDIDATE |
 | [[wiki/linear-a/words/T/TO_MA_RO\|TO-MA-RO]] | Tōmar | CANDIDATE |
 | [[wiki/linear-a/words/T/TU_JU_MA\|TU-JU-MA]] | Tuʿluma | SPECULATIVE |
 | [[wiki/linear-a/words/T/TU_MA\|TU-MA]] | tūma | CANDIDATE |

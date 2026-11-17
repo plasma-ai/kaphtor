@@ -10,7 +10,7 @@
       "evidence": [
         "JA-KI-SI-KI-NU = yaksīkin (3ms G imperfect)",
         "JA-RA = yara (impf. 3ms of √y-r-h)",
-        "JA-PA-RA = yapʾara (3ms volitive)",
+        "JA-PA-RA = yapra (3ms volitive)",
         "JA-TA-I-*301-U-JA (AP Za 1), the 3ms of the A-TA-I-*301-WA-JA paradigm"
       ],
       "strips_to": true
@@ -25,7 +25,8 @@
         "A-SA-SA-RA-ME = ʾaššaram, with ʾa- for the ya- of yaššaram",
         "A-DU = Addu (but this may be a complete word)"
       ],
-      "strips_to": true
+      "strips_to": true,
+      "note": "Davis's list of syllabograms likely to denote Minoan affixes opens with initial a-, then i-, -re, -ro, -te and -ti (2026b, 204, Hypothesis 23)."
     },
     {
       "form": "U-NA-",
@@ -60,7 +61,8 @@
       "evidence": [
         "possible prosthetic vowel before consonant clusters"
       ],
-      "strips_to": true
+      "strips_to": true,
+      "note": "Davis pairs i- with a- as the initial syllabograms likely to signal a Minoan affix (2026b, 204, Hypothesis 23)."
     },
     {
       "form": "TA-",
@@ -84,7 +86,8 @@
         "MI-NU-TE = minūt (fem.)",
         "SI-RU-TE"
       ],
-      "strips_to": true
+      "strips_to": true,
+      "note": "Davis finds that 'the contextual and the statistical evidence supports the notion' of final -te as a suffix or enclitic 'denoting a genitive, an ablative, or a toponymic or patronymic adjective' (2026b, 204, Hypothesis 24). TE-TE writes the toponymic adjective in A-DI-KI-TE-TE ʾa-Diqqitīt 'O Diktaean (f.)', the nisbe -īt."
     },
     {
       "form": "-TI",
@@ -97,7 +100,7 @@
         "GORILA I 171 allows final TI to be an ideogram or classifier"
       ],
       "strips_to": false,
-      "note": "The base/extended DA-KU-SE-NE pair supports added morphology, but HT104 alone does not determine gender or case. It is not stripped: HT104 does not yet separate a suffix from a classifier."
+      "note": "The base/extended DA-KU-SE-NE pair supports added morphology, but HT104 alone does not determine gender or case. It is not stripped: HT104 does not yet separate a suffix from a classifier. Davis (2026b, 201, 204, Hypothesis 23) counts final -ti among the signs likely to mark a Minoan suffix, 'tentatively identified' as one on contextual grounds and superfrequent in the longest words, and reads tu-ri-si-ti as 'Tylis(s)ian', with a suffix that 'must begin with [i]' (2026b, 203). The nisbe -īt is read in A-TU-RI-SI-TI ha-Turisīt 'the Tylissian (f.)', KO-SA-I-TI Kōšayīt and KA-NA-NI-TI kanaʿanītī."
     },
     {
       "form": "-TU",

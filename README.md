@@ -5,11 +5,11 @@
 
 <p align="center">
   <a href="wiki/linear-a/inscriptions/_index.md"><img alt="corpus: 1,719 records" src="https://img.shields.io/badge/corpus-1,719%20records-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
-  <a href="wiki/linear-a/inscriptions/_index.md"><img alt="translations: 518" src="https://img.shields.io/badge/translations-518-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
-  <a href="wiki/linear-a/words/_index.md"><img alt="lexicon: 694 entries" src="https://img.shields.io/badge/lexicon-694%20entries-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
-  <a href="wiki/linear-a/words/_index.md"><img alt="names: 380" src="https://img.shields.io/badge/names-380-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <a href="wiki/linear-a/inscriptions/_index.md"><img alt="translations: 519" src="https://img.shields.io/badge/translations-519-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <a href="wiki/linear-a/words/_index.md"><img alt="lexicon: 702 entries" src="https://img.shields.io/badge/lexicon-702%20entries-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <a href="wiki/linear-a/words/_index.md"><img alt="names: 382" src="https://img.shields.io/badge/names-382-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
   <a href="wiki/semitic-roots/_index.md"><img alt="Semitic roots: 5,189" src="https://img.shields.io/badge/Semitic%20roots-5,189-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
-  <a href="wiki/linear-a/signs/_index.md"><img alt="sign values: 37" src="https://img.shields.io/badge/sign%20values-37-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <a href="wiki/linear-a/signs/_index.md"><img alt="sign values: 40" src="https://img.shields.io/badge/sign%20values-40-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
   <br>
   <a href="https://github.com/plasma-ai/kaphtor/actions/workflows/gate.yml"><img alt="gate" src="https://github.com/plasma-ai/kaphtor/actions/workflows/gate.yml/badge.svg"></a>
   <a href="LICENSE"><img alt="code: Apache-2.0" src="https://img.shields.io/badge/code-Apache--2.0-3a3229?style=flat-square&labelColor=0b0a08"></a>
@@ -131,7 +131,7 @@ No reading skips a tier. A rejected reading leaves the record for the archive, w
 
 A sign value counts as resolved only on support that does not depend on a Semitic match: a Linear B value, a scribe's
 arithmetic, or a spelling variant of the same word. Every other value is listed as proposed, with its evidence where
-given. The record holds 37 sign values: 5 resolved (2 phonemic, 3 logograms) and 32 proposed (12 phonemic, 20
+given. The record holds 40 sign values: 5 resolved (2 phonemic, 3 logograms) and 35 proposed (14 phonemic, 21
 logograms). The fraction signs are counted apart: 3 resolved and 11 proposed.
 
 Linear A has no proof kernel. Counts, distributions, arithmetic and reproducibility are checked mechanically.

@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/GO/GO/GO2v
 title: "GO2v"
-desc: "Tablet, Gournia. Translation: none."
+desc: "Tablet, Gournia, LMIB. Translation: none."
 tags: ["linear-a", "inscription", "translation-none", "tablet"]
 kind: "inscription"
 id: "GO2v"
 site: "Gournia"
 support: "Tablet"
-period: ""
+period: "LMIB"
 translation: "none"
 words: ["RE"]
 created: 2026-10-24T16:17:50Z
@@ -27,9 +27,9 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Site | Gournia |
-| Findspot |  |
+| Findspot | Gournia palace, south-west wing, Room 16B |
 | Support | Tablet |
-| Period |  |
+| Period | LMIB |
 | Scribe |  |
 | Edition | unattributed |
 | Series | GO |

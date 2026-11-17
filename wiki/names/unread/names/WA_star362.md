@@ -30,7 +30,7 @@ No reading. The record files this word as a personal name.
 
 ## As a name
 
-ZA 10b .1 WA-\*362 2, the first entry of face b (GORILA III 171). \*362 has no resolved value. No reading.
+ZA 10b .1 WA-\*362 2, the first entry of face b (GORILA III 171). \*362 has no resolved value; Melena takes it for the ancestor of Linear B no (Melena 2014a, 84–88, apud Salgarella 2020, 162, 291–94). No reading.
 
 ## Attestations
 

@@ -35,6 +35,6 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-NOT A LINEAR A SIGN. AB14 DO occurs nowhere in the Linear A corpus or SigLA, and Unicode's Linear A block has no AB014; the value do is Linear B's. Its former confirmation came from Brice's edition of the texts, which read ZU (\*79) as do: from it Gordon took ka-u-do-ni (HT 26b) and ku-do-ni (HT 13, 85a), GORILA's KA-U-ZU-NI and KU-ZU-NI (Gordon 1966 §§146, 163). Do not propose DO in Linear A spellings.
+NOT A LINEAR A SIGN. AB14 DO occurs nowhere in the Linear A corpus or SigLA, and Unicode's Linear A block has no AB014; the value do is Linear B's. Its former confirmation came from Brice's edition of the texts, which read ZU (\*79) as do: from it Gordon took ka-u-do-ni (HT 26b) and ku-do-ni (HT 13, 85a), GORILA's KA-U-ZU-NI and KU-ZU-NI (Gordon 1966 §§146, 163). Del Freo's current phonographic signary of Linear A leaves it out (Petrakis and Salgarella 2026, 31, Fig. 0.1, after Del Freo 2023, 81). Do not propose DO in Linear A spellings.
 
 <!-- END kaphtor:record -->

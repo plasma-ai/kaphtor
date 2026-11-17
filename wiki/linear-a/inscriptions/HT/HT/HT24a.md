@@ -79,7 +79,7 @@ Unicode (Linear A block):
 
 Context: LM IB two-section wool ledger. Wool allocations under the headings KU-PA₃-RI-JA and PA-SA-RI-JA.
 
-GORILA I 42–43: .1 KU-PA₃-RI-JA · KỊ-MA+RU\[ .2 6 MA+RU-ME 10\[ .3 9 ½ MA+RU-MẸ 6 .4 PA-SA-RI-JA · MA+RU-MẸ\[ .5 RỤ-Ị-KO · MA+RU\[. The wool ligature MA+RU (A559) opens the group on every line, and marūm 'the wool' carries the quantities. Complete when RU-I-KO is resolved.
+GORILA I 42–43: .1 KU-PA₃-RI-JA · KỊ-MA+RU\[ .2 6 MA+RU-ME 10\[ .3 9 ½ MA+RU-MẸ 6 .4 PA-SA-RI-JA · MA+RU-MẸ\[ .5 RỤ-Ị-KO · MA+RU\[. The wool ligature MA+RU (A559) opens the group on every line, and marūm 'the wool' carries the quantities. The recto preserves 31½ wool units; restored to 45, ten times the verso's 4½ talents, it answers 45 uninscribed noduli found nearby, all stamped by one signet ring, presumably gold, with a boat (CMS II,6 no. 20) (Hallager 2002, after Palaima 1994, apud Del Freo 2020, 56–57; Nosch and Weilhartner 2026, 131). Complete when RU-I-KO is resolved.
 
 ### Source
 

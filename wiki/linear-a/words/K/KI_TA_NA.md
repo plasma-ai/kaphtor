@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-PE Zb 3, a pithos label: KI-TA-NA-SI-JA-SE, kitāna šī-yāṣē 'linen which goes out'. SI-JA-SE šī-yāṣē, the relative with the 3ms imperfect of √y-ṣ-ʾ 'to go out', marks goods for issue, as in A-NA-NU-SI-JA-SE (HT Zb 159) on another stem. KH 60 \]RA-KI-TA-NA-SI\[ heads a tablet of vinegar and myrrh with the same five signs. Linear B ki-to, χιτών, comes from the same ktn. Ug. ktn is linen cloth, not a finished garment, for Van Soldt (apud Watson 2018b, 363 n. 41), and a type of tunic for DULAT 464, lbš w ktn 'a garment and a tunic' (KTU 1.43:4). KI-TA-NI-TE kitānit 'linen robe, linen cloth' (PK Zb 21) is its -t derivative. Rival: A-KA-RA-KI-TA-NA as one name before SI-JA-SE, as A-NA-NU on HT Zb 159.
+PE Zb 3, a pithos label: KI-TA-NA-SI-JA-SE, kitāna šī-yāṣē 'linen which goes out'. SI-JA-SE šī-yāṣē, the relative with the 3ms imperfect of √y-ṣ-ʾ 'to go out', marks goods for issue, as in A-NA-NU-SI-JA-SE (HT Zb 159) on another stem. KH 60 \]RA-KI-TA-NA-SI\[ heads a tablet of vinegar and purple dye, MI+JA+RU ⅕, with the same five signs. Linear B ki-to, χιτών, comes from the same ktn. Ug. ktn is linen cloth, not a finished garment, for Van Soldt (apud Watson 2018b, 363 n. 41), and a type of tunic for DULAT 464, lbš w ktn 'a garment and a tunic' (KTU 1.43:4). KI-TA-NI-TE kitānit 'linen robe, linen cloth' (PK Zb 21) is its -t derivative. Rival: A-KA-RA-KI-TA-NA as one name before SI-JA-SE, as A-NA-NU on HT Zb 159.
 
 ### Cognates
 

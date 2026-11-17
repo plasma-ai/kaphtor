@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/ZA/ZA/ZA26b
 title: "ZA26b"
-desc: "Tablet, Zakros. Translation: none."
+desc: "Tablet, Zakros, LMIB. Translation: none."
 tags: ["linear-a", "inscription", "translation-none", "tablet"]
 kind: "inscription"
 id: "ZA26b"
 site: "Zakros"
 support: "Tablet"
-period: ""
+period: "LMIB"
 translation: "none"
 words: ["*21F"]
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Zakros |
 | Findspot |  |
 | Support | Tablet |
-| Period |  |
+| Period | LMIB |
 | Scribe |  |
 | Edition | GORILA 3 |
 | Series | ZA |

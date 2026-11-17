@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/KN/KNZc/KNZc7
 title: "KNZc7"
-desc: "Inked inscription, Knossos. Translation: complete (CANDIDATE)."
+desc: "Inked inscription, Knossos, MMIIIA. Translation: complete (CANDIDATE)."
 tags: ["linear-a", "inscription", "translation-complete", "inked-inscription"]
 kind: "inscription"
 id: "KNZc7"
 site: "Knossos"
 support: "Inked inscription"
-period: ""
+period: "MMIIIA"
 translation: "complete"
 words: ["A-KA-NU", "A-NA-NE", "A-ZU-RA", "DU-RA-RE", "JA-SA-RA", "ZA-TI"]
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Knossos |
 | Findspot | Knossos, upper MM III floor above the Basement of the Monolithic Pillars, with KN Zc 6 (Evans, PoM I 587–588, 616) |
 | Support | Inked inscription |
-| Period |  |
+| Period | MMIIIA |
 | Scribe |  |
 | Edition | GORILA 4 |
 | Series | KNZc |
@@ -96,6 +96,6 @@ GORILA IV, 125 begins directly with complete A-KA-NU-ZA-TI and marks no opening 
 
 ## Corpus note
 
-Ink-written inscription in two lines inside a clay cup (HM 2629, GORILA IV 122), pair of KN Zc 6. GORILA IV, 122–125 begins the diplomatic transcription with complete A-KA-NU-ZA-TI and marks no opening lacuna; there is no positive evidence for a lost word before A-KA-NU. Gordon segments A-KA-NU \| ZA-TI, provisionally /ʾagānu zāt/, 'this bowl.' The closest inscriptional vessel formula is Nabataean \[d\]nh ʾgnʾ dy qrb, 'This is the basin which ... offered,' followed by a deity and bšlm šlm, 'in peace, peace' (CIS II 423b; Milik 1972, 109; Alpass 2013, 102 no. 16). Safaitic f h lt s¹lm w h bʿls¹mn rwḥ, 'O Allāt \[grant\] security and O Baalshamin \[grant\] relief,' supplies a structural parallel for an omitted petition verb after the divine invocation (OCIANA AAEK 123 = ASFF 246). DU-RA-RE is durār 'dove', Hebrew I דְּרוֹר, a bird (HALOT, 230), the offering of the Knossian Dove Goddess's votary (Evans, PoM II 337, 339). The mended cup is damaged at the end of the final group: WI and PI are readable, followed by an unidentifiable terminal trace or lost continuation. Record the group as WI-PI-\[…\]; whether the missing element was another sign or a divider cannot be determined.
+Ink-written inscription in two lines inside a clay cup (HM 2629, GORILA IV 122), pair of KN Zc 6. GORILA IV, 122–125 begins the diplomatic transcription with complete A-KA-NU-ZA-TI and marks no opening lacuna; there is no positive evidence for a lost word before A-KA-NU. Gordon segments A-KA-NU \| ZA-TI, provisionally /ʾagānu zāt/, 'this bowl.' The closest inscriptional vessel formula is Nabataean \[d\]nh ʾgnʾ dy qrb, 'This is the basin which ... offered,' followed by a deity and bšlm šlm, 'in peace, peace' (CIS II 423b; Milik 1972, 109; Alpass 2013, 102 no. 16). Safaitic f h lt s¹lm w h bʿls¹mn rwḥ, 'O Allāt \[grant\] security and O Baalshamin \[grant\] relief,' supplies a structural parallel for an omitted petition verb after the divine invocation (OCIANA AAEK 123 = ASFF 246). DU-RA-RE is durār 'dove', Hebrew I דְּרוֹר, a bird (HALOT, 230), the offering of the Knossian Dove Goddess's votary (Evans, PoM II 337, 339). The mended cup is damaged at the end of the final group: WI and PI are readable, followed by an unidentifiable terminal trace or lost continuation. Record the group as WI-PI-\[…\]; whether the missing element was another sign or a divider cannot be determined. Petrakis and Salgarella (2026, 28) date the pair of cups MM IIIA.
 
 <!-- END kaphtor:record -->

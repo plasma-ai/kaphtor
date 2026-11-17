@@ -45,7 +45,7 @@ Figs. Linear B writes su-za, σῦκον, beside the same ideogram on KN F 841. 
 | Language | Comparison |
 |---|---|
 | Linear B | NI ideogram = figs, anchored by the phonetic descriptor su-za on KN F 841 (V&C 1956: σῦκον 'fig'); the Fs ration series HORD+NI+OLE(+VIN) directly continues the LA GRA+NI+OLE+VIN lists (KN Fs 2/4/8/17, PY Fn 187, PY Fg 253) |
-| Cretan Greek (Hesychius) | νικύλεον 'fig' (Cretan gloss)—exact acrophonic source of /ni/ |
+| Cretan Greek (Athenaeus) | νικύλεον 'fig' (Cretan gloss, Athenaeus 3.76e; Salgarella 2020, 33 n. 95; Nosch and Weilhartner 2026, 125)—exact acrophonic source of /ni/ |
 
 ### Source
 

@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/ARKH/ARKH/ARKH7
 title: "ARKH7"
-desc: "Tablet, Arkhanes, LMIB. Translation: none."
+desc: "Tablet, Arkhanes, LMI. Translation: none."
 tags: ["linear-a", "inscription", "translation-none", "tablet"]
 kind: "inscription"
 id: "ARKH7"
 site: "Arkhanes"
 support: "Tablet"
-period: "LMIB"
+period: "LMI"
 translation: "none"
 words: ["*308"]
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Arkhanes |
 | Findspot |  |
 | Support | Tablet |
-| Period | LMIB |
+| Period | LMI |
 | Scribe |  |
 | Edition | GORILA 3 |
 | Series | ARKH |
