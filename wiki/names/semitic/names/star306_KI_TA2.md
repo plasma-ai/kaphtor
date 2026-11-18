@@ -66,6 +66,6 @@ Read words on the same documents.
 |---|---|---|
 | DA-RE | dār | estate, household (a unit receiving men and grain); rival 'kin group, clan' |
 | KU-RO | kull | total, sum (accounting term) |
-| PO-TO-KU-RO | batkull | grandtotal (lit. 'daughter of all') |
+| PO-TO-KU-RO | pūt kull | grand total (lit. 'the full extent of the total') |
 
 <!-- END kaphtor:record -->

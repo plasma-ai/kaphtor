@@ -19,6 +19,7 @@ The readings follow a Semitic decipherment of Linear A. Each carries a tier (CON
 - [Counts](https://github.com/plasma-ai/kaphtor/blob/main/wiki/linear-a/counts.md): headline counts computed from the data
 - [Semitic roots](https://github.com/plasma-ai/kaphtor/blob/main/wiki/semitic-roots/_index.md): one page per root, with reflexes and sources
 - [Pre-Greek words](https://github.com/plasma-ai/kaphtor/blob/main/wiki/pre-greek/_index.md): one page per Greek word classed as Pre-Greek or as an early Semitic loan, with its sources, features and Semitic comparisons
+- [Aegean scripts](https://github.com/plasma-ai/kaphtor/blob/main/wiki/aegean/_index.md): the Eteocretan inscriptions, and one catalogue page per Cypro-Minoan text with its site, object type, edition of record and sources
 
 ## Data and tools
 

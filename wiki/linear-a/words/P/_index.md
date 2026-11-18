@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/P
 desc: "Words whose first sign begins with P."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-18T17:05:12Z
+updated: 2026-11-18T21:06:55Z
 ---
 
 # wiki/linear-a/words/P
@@ -135,7 +135,7 @@ updated: 2026-11-18T17:05:12Z
 
 [[wiki/linear-a/words/P/PO_SA|PO_SA]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/P/PO_TO_KU_RO|PO_TO_KU_RO]]: batkull: grandtotal (lit. 'daughter of all'). Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/P/PO_TO_KU_RO|PO_TO_KU_RO]]: pūt kull: grand total (lit. 'the full extent of the total'). Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/P/PU|PU]]: Unread sign (syllabogram, unread); 3 occurrence(s).
 

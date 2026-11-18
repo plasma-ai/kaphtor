@@ -79,7 +79,7 @@ every inscription where it recurs.
 | Names | Every name on the tablets (people, places, gods, titles, peoples), filed by the language it is read through, with the roots the names are built from and a guide across the layers | [names](wiki/names/_index.md) |
 | Semitic roots | One page per root, with its reconstruction and its reflexes across the Semitic languages, each with its sources | [roots](wiki/semitic-roots/_index.md) |
 | Pre-Greek words | One page per Greek word classed as Pre-Greek or as an early Semitic loan, with the works that treat it, its Pre-Greek features and the Semitic comparisons proposed for it | [Pre-Greek](wiki/pre-greek/_index.md) |
-| Eteocretan | The Eteocretan inscriptions and the analysis of their words | [Eteocretan](wiki/aegean/_index.md) |
+| Aegean scripts | The Eteocretan inscriptions and the analysis of their words, and one catalogue page per Cypro-Minoan text with its site, object type, edition of record and sources | [Aegean](wiki/aegean/_index.md) |
 | Corpus guides | What each ancient Near East corpus holds, its licence and its gaps, and how to query it | [guides](docs/corpora/_index.md) |
 
 The pages are built from the [data](data/_index.md), where each dataset has a datasheet or manifest naming its
@@ -210,7 +210,7 @@ the data from another folder.
     guide (`guide/ledger.md`, `guide/kinds/`, `guide/how_to.md`, `guide/map.md` with its map of Crete, `guide/crete.svg`)
   - `semitic-roots/`: one page per root, `<radical>/<id>_<slug>.md`
   - `pre-greek/`: one page per word, `<initial>/<key>.md`, with the ledgers `by_feature.md` and `semitic.md`
-  - `aegean/`: `eteocretan/`
+  - `aegean/`: `eteocretan/`, and `cypro-minoan/<site code>/<siglum>.md` with `by_site.md` and `by_type.md`
 - `data/`: the datasets, each with a datasheet or manifest giving its licence and sources
   - `linear-a/`: the corpus, sign values, lexicon, onomasticon, translations, unread words, the Eteocretan sets and
     the rival-language root keys
@@ -220,9 +220,10 @@ the data from another folder.
     Syriac, Akkadian)
   - `ane/`: open-licence and public-domain ancient Near East datasets, such as the ORACC Akkadian literary glossary,
     PNM v6, Prosopographia Memphitica, Gauthier's DNG, the Kassite name concordances, the Ugarit Texts Database's
-    catalogue, the ELiSiR Eblaite lexicon, the Cypriot syllabic inscriptions of IG XV 1, I.Sicily's Semitic
-    inscriptions, the public inscriptions of Palmyra (catalogue rows and names), Marcato's Hatra names and
-    Al-Jallad's DIANA, Safaitic and Taymanitic (non-commercial)
+    catalogue, the ELiSiR Eblaite lexicon, the Cypriot syllabic inscriptions of IG XV 1, a catalogue of the
+    Cypro-Minoan texts (with no transcription), I.Sicily's Semitic inscriptions, the public inscriptions of Palmyra
+    (catalogue rows and names), Marcato's Hatra names and Al-Jallad's DIANA, Safaitic and Taymanitic
+    (non-commercial)
   - `share-alike/`: CC BY-SA datasets, such as the ORAEC/TLA Egyptian texts, the TLA v18 names, Trismegistos Geo and
     ORACC's editions and translations of the Ugarit, Amarna and Idrimi texts, kept apart
 - `docs/`: the repository's rules and methods, and the corpus guides, starting with [docs/anatomy.md](docs/anatomy.md)

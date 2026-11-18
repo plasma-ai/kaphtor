@@ -57,7 +57,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/K/KU_RO\|KU-RO]] | kull | CONFIRMED |
 | [[wiki/linear-a/words/N/NU_RO\|NU-RO]] | nūr- | CANDIDATE |
 | [[wiki/linear-a/words/P/PA_RO_SU\|PA-RO-SU]] | Parʿōš | SPECULATIVE |
-| [[wiki/linear-a/words/P/PO_TO_KU_RO\|PO-TO-KU-RO]] | batkull | PROBABLE |
+| [[wiki/linear-a/words/P/PO_TO_KU_RO\|PO-TO-KU-RO]] | pūt kull | PROBABLE |
 | [[wiki/linear-a/words/R/RA2_RO_RE\|RA₂-RO-RE]] | Lallor | SPECULATIVE |
 | [[wiki/linear-a/words/R/RE_RO\|RE-RO]] | lalʾu | SPECULATIVE |
 | [[wiki/linear-a/words/R/RO\|RO]] | rōš | PROBABLE |

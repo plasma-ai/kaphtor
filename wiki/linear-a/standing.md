@@ -103,7 +103,7 @@ Every number on this page is computed from the data files.
 | [[wiki/linear-a/words/P/P3_WR\|P3-WR]] | pꜣ wr | the Great One (Egyptian pꜣ wr, epithet of the god r-p-y) | 0.70 |
 | [[wiki/linear-a/words/P/PA_JA_RE\|PA-JA-RE]] | Payare | He (of) Re: Egyptian personal name Pꜣ-Rꜥ (Gordon's Pꜣy-Rꜥ); Linear B pa-ja-ro | 0.70 |
 | [[wiki/linear-a/words/P/PA3_NI_NA\|PA₃-NI-NA]] | banīna | our builder | 0.70 |
-| [[wiki/linear-a/words/P/PO_TO_KU_RO\|PO-TO-KU-RO]] | batkull | grandtotal (lit. 'daughter of all') | 0.70 |
+| [[wiki/linear-a/words/P/PO_TO_KU_RO\|PO-TO-KU-RO]] | pūt kull | grand total (lit. 'the full extent of the total') | 0.70 |
 | [[wiki/linear-a/words/Q/QA_star118_RA_RE\|QA-\*118-RA-RE]] | qaṭara(re) | incense, incense-offering (Semitic cultic term) | 0.70 |
 | [[wiki/linear-a/words/Q/QA_star310_I\|QA-\*310-I]] | qaynī | smith or cultic administrator; occupational title | 0.70 |
 | [[wiki/linear-a/words/Q/QA_PA3\|QA-PA₃]] | qab | qab, measuring cup (vessel term on the HT 31 inventory) and the capacity measure it holds | 0.65 |

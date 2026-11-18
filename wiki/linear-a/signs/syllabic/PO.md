@@ -44,6 +44,6 @@ updated: 2026-10-24T16:17:50Z
 |---|---|---|
 | [[wiki/linear-a/words/A/A_SI_SU_PO_A\|A-SI-SU-PO-A]] | ʾassuppōa | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_PO_RU\|KA-PO-RU]] | kapōru | SPECULATIVE |
-| [[wiki/linear-a/words/P/PO_TO_KU_RO\|PO-TO-KU-RO]] | batkull | PROBABLE |
+| [[wiki/linear-a/words/P/PO_TO_KU_RO\|PO-TO-KU-RO]] | pūt kull | PROBABLE |
 
 <!-- END kaphtor:record -->

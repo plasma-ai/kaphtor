@@ -73,7 +73,7 @@ Read words on the same documents.
 | [[wiki/names/semitic/names/KI_RE_TA_NA\|KI-RE-TA-NA]] | Kretan | Cretan (gentilic: 'of Crete') |
 | DA-RE | dār | estate, household (a unit receiving men and grain); rival 'kin group, clan' |
 | KU-RO | kull | total, sum (accounting term) |
-| PO-TO-KU-RO | batkull | grandtotal (lit. 'daughter of all') |
+| PO-TO-KU-RO | pūt kull | grand total (lit. 'the full extent of the total') |
 | [[wiki/names/semitic/names/KA_PA\|KA-PA]] | kapa(r) | village, settlement (kapar); rival an institution |
 
 <!-- END kaphtor:record -->

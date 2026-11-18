@@ -2,12 +2,12 @@
 
 The test suite: unit, data and maintainer tiers.
 
-- [ane/](ane/README.md): offline tests for the `tools/ane/` query clients, the data paths and the name layers (9 files, 238 tests)
+- [ane/](ane/README.md): offline tests for the `tools/ane/` query clients, the data paths and the name layers (13 files, 275 tests)
 - [linear_a/](linear_a/README.md): tests for the `tools/core/` library, the Shoresh engine and commands, and the corpus
-  analyses (43 files, 1,299 tests, 628 of them on the shipped data)
+  analyses (49 files, 1,377 tests, 652 of them on the shipped data)
 - [pre_greek/](pre_greek/README.md): tests of the Pre-Greek lexicon in `data/pre-greek/` (1 file, 33 tests, 10 of them
   on the shipped data)
-- [views/](views/README.md): tests for the record wiki's builder in `tools/views/` (6 files, 165 tests, 9 of them on
+- [views/](views/README.md): tests for the record wiki's builder in `tools/views/` (7 files, 206 tests, 9 of them on
   the live Linear A data, 1 on the shipped Pre-Greek lexicon and 1 that runs plasma-wiki's `wiki`)
 - [fixtures/](fixtures/README.md): the Shoresh gold set and its baseline, byte for byte as deposited
 

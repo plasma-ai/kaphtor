@@ -83,6 +83,6 @@ HT 122b .2 \*306-KI-TA₂ 7, at the head of the line, the left edge whole beside
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/D/DA_RE|DA-RE]] dār, [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull, [[wiki/linear-a/words/P/PO_TO_KU_RO|PO-TO-KU-RO]] batkull.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/D/DA_RE|DA-RE]] dār, [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull, [[wiki/linear-a/words/P/PO_TO_KU_RO|PO-TO-KU-RO]] pūt kull.
 
 <!-- END kaphtor:record -->

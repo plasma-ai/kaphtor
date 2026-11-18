@@ -98,7 +98,7 @@ No CH ancestor—Linear A innovation, possibly from MM flying bird motif (Ferrar
 | [[wiki/linear-a/words/K/KU_ZU_NI\|KU-ZU-NI]] | Kuṯinu | CANDIDATE |
 | [[wiki/linear-a/words/P/PA_KU\|PA-KU]] | pak | CANDIDATE |
 | [[wiki/linear-a/words/P/PI_KU_ZU\|PI-KU-ZU]] | bi-kuṯ | SPECULATIVE |
-| [[wiki/linear-a/words/P/PO_TO_KU_RO\|PO-TO-KU-RO]] | batkull | PROBABLE |
+| [[wiki/linear-a/words/P/PO_TO_KU_RO\|PO-TO-KU-RO]] | pūt kull | PROBABLE |
 | [[wiki/linear-a/words/Q/QA_KU_RE\|QA-KU-RE]] | kakkarē | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QE_KU_RE\|QE-KU-RE]] | kikkᵊrē | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_plus_MU_plus_KU\|SA+MU+KU]] | ṣammūqu | CANDIDATE |

@@ -1,0 +1,89 @@
+---
+name: wiki/aegean/cypro-minoan/ENKO/ENKO_Apes_001
+title: "ENKO Apes 001"
+desc: "Cypro-Minoan text ##095, weight, from Enkomi (Famagusta)."
+tags: ["aegean", "cypro-minoan"]
+kind: "cypro_minoan_text"
+id: "ENKO Apes 001"
+site_code: "ENKO"
+type_code: "Apes"
+created: 2026-11-18T19:49:10Z
+updated: 2026-11-18T19:49:10Z
+---
+
+# ENKO Apes 001
+
+[[wiki/aegean/cypro-minoan/ENKO/_index|..]]
+
+***
+
+<!-- BEGIN kaphtor:record -->
+
+## Record
+
+| Field | Value |
+|---|---|
+| ## number | ##095 |
+| Site | Enkomi (Famagusta) (ENKO); Valério 2016, 36 |
+| Identity controls | Pleiades 13818291, Trismegistos 37211 (match: exact); Pleiades 158081397 "Tomb of the Kings near Enkomi" excluded |
+| Object type | Apes, Clay weight; Valério 2016, 37. Valério's example is ENKO Apes 001, a weight by its code, though Valério calls that reading debated (37). |
+| Subcorpus | CM 1 |
+| Status | inscription |
+| Edition of record | HoChyMin, transcribed in Valério 2016, Appendix A, 472; unverified |
+
+Not checked against HoChyMin, which is not held.
+
+## Metadata
+
+### Editions
+
+| Statement | Source | Note |
+|---|---|---|
+| HoChyMin: 118 | Valério 2016, 472 |  |
+
+### Findspot
+
+| Statement | Source | Note |
+|---|---|---|
+| *the source's own words, not reproduced* | Steele 2018, 14 |  |
+
+### Date
+
+| Statement | Source | Note |
+|---|---|---|
+| LCIA (relayed from the excavators) | Steele 2018, 14 |  |
+| LCI | Donnelly 2024, 9 |  |
+| LC I A-B (1650-1475) (relayed from HoChyMin (Vandenabeele)) | Valério 2016, 644 |  |
+| LC IA-IB (relayed from CMI II (Ferrara)) | Valério 2016, 644 |  |
+
+### Dimensions
+
+| Statement | Source | Note |
+|---|---|---|
+| h. 6.3, w. 7.2 cm | Donnelly 2024, 10 |  |
+
+### Object
+
+| Statement | Source | Note |
+|---|---|---|
+| *the source's own words, not reproduced* | Donnelly 2024, 9 |  |
+| labels | Steele 2018, 14 |  |
+
+### Document form
+
+| Statement | Source | Note |
+|---|---|---|
+| Clay Label | Donnelly 2021, 270 | Listed among the unicum inscriptions. Donnelly finds the name "label" perhaps no more accurate than the earlier "weight". |
+
+### Visual evidence
+
+| Statement | Source | Note |
+|---|---|---|
+| Figure 1.2 | Steele 2018, 13, fig. 1.2 |  |
+| Figure 4 A | Donnelly 2024, 10, fig. 4 |  |
+
+No held source states its identity, museum number, hand.
+
+No transcription is reproduced here: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
+
+<!-- END kaphtor:record -->

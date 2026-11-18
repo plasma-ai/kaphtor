@@ -3,14 +3,14 @@ name: wiki
 title: Wiki
 desc: The record, generated from the data: Linear A, the Semitic roots, the Pre-Greek lexicon and the Aegean scripts.
 created: 2026-10-22T18:14:10Z
-updated: 2026-11-11T23:40:48Z
+updated: 2026-11-18T19:49:42Z
 ---
 
 # Wiki
 
 [[_index|..]]
 
-[[wiki/aegean/_index|aegean/]]: The Eteocretan inscriptions.
+[[wiki/aegean/_index|aegean/]]: The Eteocretan inscriptions and the Cypro-Minoan catalogue.
 
 [[wiki/linear-a/_index|linear-a/]]: Inscriptions, words and signs, with the generated ledgers.
 

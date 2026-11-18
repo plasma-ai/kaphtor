@@ -98,7 +98,7 @@ def plan(data: Path, out: Path) -> dict:
         if not target.exists() or target.read_text(encoding="utf-8") != text:
             result["assets"][target] = text
     for folder, desc in {**indexes.descs(loaded), **roots.descs(roots_data), **pregreek.descs(pregreek_data),
-                         **names.descs(loaded)}.items():
+                         **names.descs(loaded), **aegean.descs(data)}.items():
         target = file_for(out, folder + "/" + INDEX.removesuffix(".md"))
         if not target.exists():
             result["indexes"][target] = markdown.frontmatter({"desc": desc}) + "\n"

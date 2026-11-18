@@ -986,10 +986,146 @@ def aegean_data(data: Path) -> Path:
     return data
 
 
+def cm_record(siglum, corpus_no, site_code, type_code, **fields):
+    statements = {f: [] for f in ("identity", "museum_no", "editions", "findspot", "date", "dimensions", "object",
+                                  "document_form", "hand", "visual_evidence")}
+    return {"record_id": f"cm:{corpus_no or siglum}", "siglum": siglum, "corpus_no": corpus_no,
+            "site_code": site_code, "type_code": type_code, "site": None, "site_queried": False,
+            "site_authorities": None, "hochymin_type": None, "traditional_subcorpus": None,
+            "inclusion_status": "inscription", "text_status": "edition",
+            "edition": {"of_record": "HoChyMin", "valerio_edition_ref": "HoChyMin: 171", "appendix_a_pages": [481],
+                        "verified": False, "verification_note": "Not checked against HoChyMin, which is not held.",
+                        "edition_note": None},
+            "siglum_note": None, "siglum_exception": None, "witness": None, "field_sources": {},
+            **statements, **fields}
+
+
+POTTERY = {"gloss": "Pottery (complete or fragmentary)", "key_code": "Avas", "material": "clay",
+           "object": "pottery (complete or fragmentary)", "note": None}
+CYPRO_MINOAN = {
+    "KITI Avas 001": cm_record(
+        "KITI Avas 001", "##130", "KITI", "Avas", site="Kition", hochymin_type=POTTERY,
+        site_authorities={"match": "exact", "pleiades": "707534", "tm": "1109", "note": None},
+        field_sources={"site": [{"work": "Valério 2016", "page": 36}],
+                       "hochymin_type": [{"work": "Valério 2016", "page": 37}]},
+        findspot=[{"text": None, "pointer": True, "cites": [{"work": "Valério 2016", "page": 419}]},
+                  {"text": "Site: Kition; Context type: Tomb", "cites": [{"work": "Donnelly 2021", "page": 294}],
+                   "note": "Room #, etc. left blank."}],
+        date=[{"text": "1300-1100", "relayed_from": "HoChyMin (Vandenabeele)",
+               "cites": [{"work": "Valério 2016", "page": 645}]}]),
+    "CYPR? Psce 003": cm_record("CYPR? Psce 003", "##195", "CYPR", "Psce"),
+    "MI Zb 3": cm_record(
+        "MI Zb 3", None, None, None, inclusion_status=None, text_status="no held transcription",
+        edition={"of_record": None, "valerio_edition_ref": None, "appendix_a_pages": [], "verified": False,
+                 "verification_note": "No transcription is held.", "edition_note": None},
+        witness={"edition_held": False, "kind": "post_appendix_find", "what": "A jug handle from Melos.",
+                 "cites": [{"work": "Donnelly 2026", "page": 71}]}),
+}
+
+
+def cypro_minoan_data(data: Path, **extra) -> Path:
+    folder = data.parent / "ane" / "cypro-minoan"
+    folder.mkdir(parents=True)
+    catalogue = {**CYPRO_MINOAN, **extra}
+    (folder / "catalogue.json").write_text(json.dumps(catalogue, ensure_ascii=False), encoding="utf-8")
+    return data
+
+
+# an Appendix A text with no ## number and no siglum (Valério 2016, 565)
+RS_1963 = cm_record(
+    "RS 1963", None, None, None,
+    edition={"of_record": "own publication", "valerio_edition_ref": None, "appendix_a_pages": [565],
+             "verified": False, "verification_note": None, "edition_note": None},
+    siglum_exception={"reason": "No siglum: one of Appendix A's 'two uncollected ones', given by its find name.",
+                      "cites": [{"work": "Valério 2016", "page": 565}]})
+SEAL = {"gloss": "Seal", "key_code": "Psce", "material": "stone", "object": "seal", "note": None}
+METAL_VAS = {"gloss": "Metal base", "key_code": "Mvas", "material": "metal", "object": "vas", "note": None}
+
+
 def test_aegean_pages_leave_name_and_sources_to_wiki_update(data):
     markdown = views("markdown")
-    for path, text in views("aegean").pages(aegean_data(data)).items():
+    for path, text in views("aegean").pages(cypro_minoan_data(aegean_data(data))).items():
         assert not {"name", "sources"} & set(markdown.parse_frontmatter(text)), path
+
+
+def test_a_cypro_minoan_page_holds_the_record_its_sources_and_no_text(data):
+    pages = views("aegean").pages(cypro_minoan_data(data))
+    text = pages["wiki/aegean/cypro-minoan/KITI/KITI_Avas_001"]
+    fields = views("markdown").parse_frontmatter(text)
+    assert fields["title"] == "KITI Avas 001"
+    assert fields["desc"] == "Cypro-Minoan text ##130, pottery (complete or fragmentary), from Kition."
+    assert "| Site | Kition (KITI); Valério 2016, 36 |" in text
+    assert "| Edition of record | HoChyMin, transcribed in Valério 2016, Appendix A, 481; unverified |" in text
+    assert "| Identity controls | Pleiades 707534, Trismegistos 1109 (match: exact) |" in text
+    assert "| *the source's own words, not reproduced* | Valério 2016, 419 |  |" in text
+    assert "| Site: Kition; Context type: Tomb | Donnelly 2021, 294 | Room #, etc. left blank. |" in text
+    assert "| 1300-1100 (relayed from HoChyMin (Vandenabeele)) | Valério 2016, 645 |  |" in text
+    assert "None" not in text
+    assert "No transcription is reproduced here" in text
+
+
+def test_a_cypro_minoan_witness_without_a_site_has_no_edition_row(data):
+    pages = views("aegean").pages(cypro_minoan_data(data))
+    text = pages["wiki/aegean/cypro-minoan/other/MI_Zb_3"]
+    assert "Edition of record" not in text
+    assert "A jug handle from Melos. (Donnelly 2026, 71)" in text
+    assert "wiki/aegean/cypro-minoan/CYPR/CYPR_q_Psce_003" in pages
+
+
+def test_the_cypro_minoan_indexes_list_every_text_by_site_and_by_type(data):
+    pages = views("aegean").pages(cypro_minoan_data(data))
+    by_site, by_type = pages["wiki/aegean/cypro-minoan/by_site"], pages["wiki/aegean/cypro-minoan/by_type"]
+    kiti = "[[wiki/aegean/cypro-minoan/KITI/KITI_Avas_001\\|KITI Avas 001]]"
+    assert f"| KITI | Kition | 1 | {kiti} |" in by_site
+    assert "| (none) |  | 1 | [[wiki/aegean/cypro-minoan/other/MI_Zb_3\\|MI Zb 3]] |" in by_site
+    assert f"| Avas | Pottery (complete or fragmentary) | clay | 1 | {kiti} |" in by_type
+
+
+def test_the_cypro_minoan_folders_take_descs_only_with_the_catalogue(data):
+    aegean = views("aegean")
+    assert aegean.descs(data) == {}
+    descs = aegean.descs(cypro_minoan_data(data))
+    assert descs["wiki/aegean/cypro-minoan/KITI"] == "The Cypro-Minoan texts of Kition, site code KITI."
+    assert descs["wiki/aegean/cypro-minoan/other"] == ("The Cypro-Minoan texts with no site code, keyed by find name "
+                                                       "or by another script's siglum.")
+    assert set(descs) == {"wiki/aegean/cypro-minoan", "wiki/aegean/cypro-minoan/KITI",
+                          "wiki/aegean/cypro-minoan/CYPR", "wiki/aegean/cypro-minoan/other"}
+
+
+def test_an_appendix_a_text_without_a_number_is_not_called_outside_appendix_a(data):
+    pages = views("aegean").pages(cypro_minoan_data(data, **{"RS 1963": RS_1963}))
+    text = pages["wiki/aegean/cypro-minoan/other/RS_1963"]
+    assert "| ## number | none |" in text
+    assert "outside" not in text
+    assert views("markdown").parse_frontmatter(text)["desc"] == "Cypro-Minoan text RS 1963, object not decoded."
+    assert "No siglum: one of Appendix A's 'two uncollected ones', given by its find name. (Valério 2016, 565)" in text
+    assert "Siglum: No siglum" not in text
+    witness = pages["wiki/aegean/cypro-minoan/other/MI_Zb_3"]
+    assert "| ## number | none, outside Valério 2016, Appendix A |" in witness
+
+
+def test_a_cypro_minoan_page_keeps_a_cites_table_a_queried_site_and_decodes_vas(data):
+    seal = cm_record("ENKO? Psce 002", "##203", "ENKO", "Psce", site="Enkomi (Famagusta)", site_queried=True,
+                     hochymin_type=SEAL,
+                     visual_evidence=[{"text": "image", "cites": [{"work": "Corazza et al. 2022", "table": "S1"}]}])
+    bowl = cm_record("PPAP Mvas 001", "##180", "PPAP", "Mvas", site="Palaepaphos", hochymin_type=METAL_VAS)
+    pages = views("aegean").pages(cypro_minoan_data(data, **{"ENKO? Psce 002": seal, "PPAP Mvas 001": bowl}))
+    markdown = views("markdown")
+    text = pages["wiki/aegean/cypro-minoan/ENKO/ENKO_q_Psce_002"]
+    assert "| image | Corazza et al. 2022, table S1 |  |" in text
+    assert markdown.parse_frontmatter(text)["desc"] == "Cypro-Minoan text ##203, seal, perhaps from Enkomi (Famagusta)."
+    desc = markdown.parse_frontmatter(pages["wiki/aegean/cypro-minoan/PPAP/PPAP_Mvas_001"])["desc"]
+    assert desc == "Cypro-Minoan text ##180, vessel, from Palaepaphos."
+
+
+def test_the_build_writes_the_cypro_minoan_folder_descs(data, tmp_path, backups):
+    build, markdown = views("build"), views("markdown")
+    out = tmp_path / "out"
+    assert build.main(["--data", str(cypro_minoan_data(data)), "--out", str(out), "--write"]) == 0
+    index = out / "aegean" / "cypro-minoan" / "KITI" / "_index.md"
+    assert markdown.parse_frontmatter(index.read_text(encoding="utf-8"))["desc"] == (
+        "The Cypro-Minoan texts of Kition, site code KITI.")
+    assert (out / "aegean" / "cypro-minoan" / "KITI" / "KITI_Avas_001.md").exists()
 
 
 def test_no_aegean_pages_without_their_files(data):

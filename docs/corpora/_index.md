@@ -4,7 +4,7 @@ title: Corpus guides
 desc: What each local ancient Near East corpus holds, its rights and gaps, and how to query it.
 tags: [corpora, docs]
 created: 2026-10-22T18:14:10Z
-updated: 2026-10-22T18:14:10Z
+updated: 2026-11-18T19:59:52Z
 ---
 
 # Corpus guides
@@ -28,6 +28,8 @@ updated: 2026-10-22T18:14:10Z
 [[docs/corpora/cuneiform-databases|cuneiform-databases]]: How to reach one record at a time on the live CDLI and ORACC sites, and how ATF transliteration is written.
 
 [[docs/corpora/cuneiform-indices/_index|cuneiform-indices/]]: Tables of contents and coverage statistics for the CDLI and ORACC snapshots.
+
+[[docs/corpora/cypriot-scripts|cypriot-scripts]]: Cypro-Minoan, the Cypriot syllabary and Eteocypriot as controls for Linear A, with their editions, the signary dispute, the proposed sign values and language proposals, the Eteocypriot corpus, and what this repository ships and how to query it.
 
 [[docs/corpora/egyptian-corpora|egyptian-corpora]]: Acquisition routes, file formats and gaps for the Egyptian texts layer, built on the open ORAEC/TLA corpus, with the texts that name Keftiu or the Levant.
 

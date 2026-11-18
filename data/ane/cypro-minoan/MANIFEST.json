@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "corpus_id": "cypro-minoan-catalogue",
+  "license": "CC BY 4.0",
+  "policy": {
+    "merge_into_linear_a": false,
+    "keys": "catalogue.json is a dict keyed by siglum as Valério 2016's Appendix A prints it; a text with no siglum is keyed by the name it is published under, or by an id.",
+    "text": "No Cypro-Minoan text ships. Valério 2016, whose Appendix A transcribes the corpus, is a doctoral thesis whose terms allow private research and teaching use only; edition names the edition of record and the Appendix A pages, for a reader with the thesis in hand.",
+    "statements": "Every metadata statement names its work and page. Where its text is the source's own words it ships as a pointer: text null, pointer true, the cites kept. A table cell ships as its datum, and a remark in it is restated as a note. No quotation of a closed source ships.",
+    "identity_controls": "Pleiades and Trismegistos ids identify a site; they are never attestations."
+  },
+  "source": {
+    "description": "di Mino's Cypro-Minoan corpus layer, one record per text, built from the held works below",
+    "corpus_sha256": "98b149d841591d18a1adb9ea8064608adce7f461ff054020320b9e22eb0f838f",
+    "manifest_sha256": "d564d372f97f60185ccc79c0df754701db75ab054c9ed9cf79043ca0da23971a"
+  },
+  "works": {
+    "Bordreuil and Pardee 1989": "Bordreuil, Pierre; Pardee, Dennis, La trouvaille épigraphique de l'Ougarit. 1. Concordance, Éditions Recherche sur les Civilisations, Paris (Ras Shamra-Ougarit V; Mémoire n° 86), 1989",
+    "Corazza et al. 2022": "Corazza, Michele; Tamburini, Fabio; Valério, Miguel; Ferrara, Silvia, Unsupervised deep learning supports reclassification of Bronze age cypriot writing system, PLoS ONE 17, 2022, e0269544, doi:10.1371/journal.pone.0269544",
+    "Donnelly 2021": "Donnelly, Cassandra M., Signs of Writing? Writing and Trade in the Late Bronze Age Eastern Mediterranean, The University of Texas at Austin (PhD dissertation), 2021, doi:10.26153/tsw/59810",
+    "Donnelly 2024": "Donnelly, Cassandra M., Cypro-Minoan and Its Writers: At Home and Overseas, Elements in Writing in the Ancient World, Cambridge University Press, 2024, doi:10.1017/9781009381840",
+    "Donnelly 2026": "Donnelly, Cassandra, Cycladic Linear A and connections between scripts, In E. Salgarella & V. Petrakis (eds.), The Wor(l)ds of Linear A, AURA Supplement 15, Department of History and Archaeology, NKUA, Athens, pp. 61–76, 2026",
+    "Egetmeyer 2024": "Egetmeyer, Markus, 2016-2020 report on the Cypriot syllabic inscriptions, in Bennet, J.; Karnava, A.; Meißner, T. (eds.), KO-RO-NO-WE-SA: Proceedings of the 15th International Colloquium on Mycenaean Studies, September 2021, Ariadne Supplement Series 5, The Faculty of Philosophy of the University of Crete, 2024, 125–136",
+    "Palaima 1989a": "Palaima, Thomas G., Cypro-Minoan Scripts: Problems of Historical Context, in Duhoux, Y.; Palaima, T. G.; Bennet, J. (eds.), Problems in Decipherment, Bibliothèque des Cahiers de l'Institut de Linguistique de Louvain 49, 1989, 121–187",
+    "Perna 2020": "Perna, Massimo, A proposito del corpus delle scritture cipro-minoiche. Vecchi documenti e nuove letture, Cahiers du Centre d'Études Chypriotes 50, 2020, 79–90, doi:10.4000/cchyp.479",
+    "Steele (ed.) 2013": "Steele, Philippa M. (ed.), Syllabic Writing on Cyprus and its Context, Cambridge Classical Studies, Cambridge University Press, 2013",
+    "Steele 2013": "Steele, Philippa M., A Linguistic History of Ancient Cyprus: The Non-Greek Languages, and their Relations with Greek, c. 1600–300 BC, Cambridge Classical Studies, Cambridge University Press, 2013",
+    "Steele 2018": "Steele, Philippa M., Writing and Society in Ancient Cyprus, Cambridge Classical Studies, Cambridge University Press, 2018, doi:10.1017/9781316729977",
+    "Valério 2016": "Valério, Miguel Filipe Grandão, Investigating the Signs and Sounds of Cypro-Minoan, PhD dissertation, Universitat de Barcelona, Facultat de Filologia, Departament de Filologia Llatina, 2016",
+    "É. Masson 1974": "Masson, Émilia, Cyprominoica: répertoires; documents de Ras Shamra; essais d'interprétation, Studies in Mediterranean Archaeology 31:2 (Studies in the Cypro-Minoan Scripts 2), Paul Åströms Förlag, 1974",
+    "É. Masson 1978": "Masson, Émilia, Deux fragments de tablettes chypro-minoennes trouvés à Enkomi en 1953 et 1969, Journal des savants 1978, 1-2, pp. 49-86, 1978, doi:10.3406/jds.1978.1365"
+  },
+  "records": 263,
+  "witnesses_outside_appendix_a": 9,
+  "inclusion_counts": {
+    "inscription": 248,
+    "unepigraphic": 2,
+    "rejected_by_valerio": 4
+  },
+  "sites_decoded": 253,
+  "types_decoded": 255,
+  "statements": {
+    "identity": 16,
+    "museum_no": 28,
+    "editions": 271,
+    "findspot": 224,
+    "date": 666,
+    "dimensions": 115,
+    "object": 94,
+    "document_form": 173,
+    "hand": 7,
+    "visual_evidence": 41
+  },
+  "pointers": {
+    "findspot": 29,
+    "date": 20,
+    "dimensions": 15,
+    "object": 4,
+    "hand": 3
+  },
+  "files": {
+    "catalogue.json": {
+      "sha256": "b4dc3f2b22aa252433319a84c323671e4a0fef8b629f61d7bd1d0408fdbb6f16",
+      "bytes": 801828
+    }
+  }
+}

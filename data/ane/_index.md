@@ -1,10 +1,10 @@
 ---
 name: data/ane
 title: Ancient Near East data
-desc: Open-licence and public-domain ANE datasets: the Akkadian literary glossary, DIANA I and II (Safaitic and Taymanitic), PNM v6, Prosopographia Memphitica, Gauthier's DNG, the Kassite name concordances, place authorities, the Ugarit Texts Database, the ELiSiR Eblaite lexicon, IG XV 1, I.Sicily's Semitic inscriptions, Palmyra's public inscriptions, Marcato's Hatra names and a table of Palmyrene divine names.
+desc: Open-licence and public-domain ANE datasets: the Akkadian literary glossary, DIANA I and II (Safaitic and Taymanitic), PNM v6, Prosopographia Memphitica, Gauthier's DNG, the Kassite name concordances, place authorities, the Ugarit Texts Database, the ELiSiR Eblaite lexicon, IG XV 1, a catalogue of the Cypro-Minoan texts, I.Sicily's Semitic inscriptions, Palmyra's public inscriptions, Marcato's Hatra names and a table of Palmyrene divine names.
 tags: [data, ane]
 created: 2026-10-22T18:14:10Z
-updated: 2026-11-16T18:42:45Z
+updated: 2026-11-18T20:35:53Z
 ---
 
 # Ancient Near East data
@@ -16,6 +16,8 @@ updated: 2026-11-16T18:42:45Z
 [[data/ane/akkadian_literary.index.json|akkadian_literary.index.json]]: A lookup from normalized match key to entry id, derived from the glossary.
 
 [[data/ane/akkadian_literary.jsonl|akkadian_literary.jsonl]]: The Akkadian literary glossary (vocabulary and proper nouns), from ORACC CAMS/GKAB, CC0 1.0.
+
+[[data/ane/cypro-minoan/_index|cypro-minoan/]]: The 263 Cypro-Minoan texts, the records of Valério's Appendix A and nine witnesses outside it, keyed by siglum where a text has one, each with its site and object type, edition of record and the metadata of held works, every statement with its work and page; no transcription, CC BY 4.0.
 
 [[data/ane/diana-safaitic/_index|diana-safaitic/]]: The 1,546 entries of Al-Jallad's Dictionary of the Inscriptions of Ancient North Arabia I (Safaitic), the dictionary and the toponym glossary, each with its gloss, notes, compared forms, attestations and printed page, and the 340 group and divine names of its two lists, CC BY-NC-ND 4.0.
 

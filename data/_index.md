@@ -4,14 +4,14 @@ title: Data
 desc: The datasets, each with a datasheet or manifest naming its licence, grouped by licence and subject.
 tags: [data]
 created: 2026-10-22T18:14:10Z
-updated: 2026-11-06T18:00:00Z
+updated: 2026-11-18T19:46:26Z
 ---
 
 # Data
 
 [[_index|..]]
 
-[[data/ane/_index|ane/]]: Open-licence and public-domain ANE datasets: the Akkadian literary glossary, DIANA I and II (Safaitic and Taymanitic), PNM v6, Prosopographia Memphitica, Gauthier's DNG, the Kassite name concordances, place authorities, the Ugarit Texts Database, the ELiSiR Eblaite lexicon, IG XV 1, I.Sicily's Semitic inscriptions, Palmyra's public inscriptions, Marcato's Hatra names and a table of Palmyrene divine names.
+[[data/ane/_index|ane/]]: Open-licence and public-domain ANE datasets: the Akkadian literary glossary, DIANA I and II (Safaitic and Taymanitic), PNM v6, Prosopographia Memphitica, Gauthier's DNG, the Kassite name concordances, place authorities, the Ugarit Texts Database, the ELiSiR Eblaite lexicon, IG XV 1, a catalogue of the Cypro-Minoan texts, I.Sicily's Semitic inscriptions, Palmyra's public inscriptions, Marcato's Hatra names and a table of Palmyrene divine names.
 
 [[data/contact/_index|contact/]]: The open Semitic contact lexica that the root index links to the Proto-Semitic roots: Hebrew, Aramaic, Amarna Canaanite, Syriac and Akkadian, each with a datasheet.
 

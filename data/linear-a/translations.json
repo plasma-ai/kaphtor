@@ -10886,14 +10886,14 @@
         },
         {
           "linear_a": "PO-TO-KU-RO",
-          "reading": "batkull",
-          "meaning": "grand total (lit. 'daughter of all')"
+          "reading": "pūt kull",
+          "meaning": "grand total"
         }
       ],
       "translation": "[damaged]... Figs 30, olives 2, VIN+SA (wine + SA, unresolved; numeral damaged) [damaged]. Grand total: 452½",
       "confidence": "CANDIDATE",
       "status": "incomplete",
-      "notes": "Verso of HT131a/b summary account tablet. Continues commodity list from recto. VIN+SA is a hapax compound logogram—VIN (wine) with SA qualifier, possibly a wine subtype or wine-remainder. Numeral damaged. PO-TO-KU-RO (bat kol 'grand total') closes the account at 452½.",
+      "notes": "Verso of HT131a/b summary account tablet. Continues commodity list from recto. VIN+SA is a hapax compound logogram—VIN (wine) with SA qualifier, possibly a wine subtype or wine-remainder. Numeral damaged. PO-TO-KU-RO (pūt kull 'grand total') closes the account at 452½.",
       "source": "GORILA"
     },
     "HT55b": {
@@ -14873,7 +14873,7 @@
         },
         {
           "linear_a": "PO-TO-KU-RO",
-          "reading": "batkull",
+          "reading": "pūt kull",
           "meaning": "grand total",
           "confidence": "PROBABLE"
         }

@@ -34,7 +34,6 @@ Entries grouped by a consonantal key of their `root` field. The key is lossy: it
 | brr | b-r-r | [[wiki/linear-a/words/P/PA\|PA]], [[wiki/linear-a/words/P/PA_RA\|PA-RA]] |
 | brʔ | b-r-ʾ | [[wiki/linear-a/words/P/PU2_RE_JA\|PU₂-RE-JA]] |
 | bss | b-s-s | [[wiki/linear-a/words/P/PA3_SI_star47\|PA₃-SI-\*47]] |
-| btkl | b-t + k-l | [[wiki/linear-a/words/P/PO_TO_KU_RO\|PO-TO-KU-RO]] |
 | btr | b-t-r | [[wiki/linear-a/words/P/PI_TA_RA\|PI-TA-RA]] |
 | btt | b-t-t | [[wiki/linear-a/words/star/star312\|\*312]], [[wiki/linear-a/words/star/star312_TE_TE\|\*312-TE-TE]] |
 | byd | b-y-d | [[wiki/linear-a/words/star/star333_DI_SU_KA\|\*333-DI-SU-KA]] |
@@ -197,6 +196,7 @@ Entries grouped by a consonantal key of their `root` field. The key is lossy: it
 | ptq | p-t-q | [[wiki/linear-a/words/P/PA_TA_QE\|PA-TA-QE]] |
 | pwq | p-w-q | [[wiki/linear-a/words/P/PU_KO\|PU-KO]] |
 | pwr | p-w-r | [[wiki/linear-a/words/P/PU_VIN\|PU-VIN]] |
+| pʔtkll | p-ʾ-t + k-l-l | [[wiki/linear-a/words/P/PO_TO_KU_RO\|PO-TO-KU-RO]] |
 | pṭr | p-ṭ-r | [[wiki/linear-a/words/P/PI_TE_RI\|PI-TE-RI]] |
 | qbb | q-b-b | [[wiki/linear-a/words/Q/QA2_plus_q_plus_PU\|QA2+&#91;?&#93;+PU]], [[wiki/linear-a/words/Q/QA2_plus_q_plus_RE\|QA2+&#91;?&#93;+RE]], [[wiki/linear-a/words/Q/QA_PA3\|QA-PA₃]] |
 | qdm | q-d-m | [[wiki/linear-a/words/K/KA_DU_MA_NE\|KA-DU-MA-NE]], [[wiki/linear-a/words/Q/QE_DE_MI_NU\|QE-DE-MI-NU]] |

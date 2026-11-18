@@ -1,0 +1,61 @@
+---
+name: wiki/aegean/cypro-minoan/MYRT/MYRT_Mvas_002
+title: "MYRT Mvas 002"
+desc: "Cypro-Minoan text ##185, vessel, from Myrtou-Pigadhes (Kyrenia)."
+tags: ["aegean", "cypro-minoan"]
+kind: "cypro_minoan_text"
+id: "MYRT Mvas 002"
+site_code: "MYRT"
+type_code: "Mvas"
+created: 2026-11-18T19:49:10Z
+updated: 2026-11-18T19:49:10Z
+---
+
+# MYRT Mvas 002
+
+[[wiki/aegean/cypro-minoan/MYRT/_index|..]]
+
+***
+
+<!-- BEGIN kaphtor:record -->
+
+## Record
+
+| Field | Value |
+|---|---|
+| ## number | ##185 |
+| Site | Myrtou-Pigadhes (Kyrenia) (MYRT); Valério 2016, 36 |
+| Identity controls | Pleiades 707584, Trismegistos 60863 (match: village); the records name Myrtou (BAtlas 72 C2; TM Cyprus), not Pigadhes |
+| Object type | Mvas, Metal base; Valério 2016, 37. The key prints 'Metal base'. The objects under the code are bowls: PPAP Mvas 001 is 'a silver bowl' (71) and 'one bronze bowl' (232), two descriptions Valério gives of the one object. |
+| Subcorpus | CM 1 |
+| Status | inscription |
+| Edition of record | HoChyMin, transcribed in Valério 2016, Appendix A, 499; unverified |
+
+Not checked against HoChyMin, which is not held.
+
+## Metadata
+
+### Editions
+
+| Statement | Source | Note |
+|---|---|---|
+| HoChyMin: 258 | Valério 2016, 499 |  |
+
+### Date
+
+| Statement | Source | Note |
+|---|---|---|
+| late LC IIC-LC IIIA (1225-1190) (relayed from HoChyMin (Vandenabeele)) | Valério 2016, 648 |  |
+| LC IIC-IIIA (relayed from CMI II (Ferrara)) | Valério 2016, 648 |  |
+
+### Document form
+
+| Statement | Source | Note |
+|---|---|---|
+| Bronze stand rings | Donnelly 2021, 265 | Single Document Form? Yes. Categories 1, 2, 3, 4, 6, 8 |
+
+No held source states its identity, museum number, findspot, dimensions, object, hand, visual evidence.
+
+No transcription is reproduced here: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
+
+<!-- END kaphtor:record -->
