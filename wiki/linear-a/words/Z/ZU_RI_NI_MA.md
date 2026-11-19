@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/Z/ZU_RI_NI_MA
 title: "ZU-RI-NI-MA"
-desc: "Ṯūrinima: Bull- (personal name). Lexicon, SPECULATIVE (tier 1)."
+desc: "Ṯūrinima: He-of-the-Bull (personal name). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "ZU-RI-NI-MA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Ṯūrinima |
-| Meaning | Bull- (personal name) |
+| Meaning | He-of-the-Bull (personal name) |
 | Root | ṯ-w-r |
 | Proto-Semitic | \*ṯawr- (#269) |
 | Language layer | Semitic |
@@ -65,7 +65,7 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/KN/KNZb/KNZb52\|KNZb52]] | Ṯūrinima | Bull- (personal name) | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/KN/KNZb/KNZb52\|KNZb52]] | Ṯūrinima | He-of-the-Bull (personal name) | SPECULATIVE |
 
 ## Onomasticon
 

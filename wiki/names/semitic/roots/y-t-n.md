@@ -28,7 +28,7 @@ updated: 2026-11-11T23:39:03Z
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
 | [[wiki/names/semitic/names/A_TA_NA_JE\|A-TA-NA-JE]] | ʾatanāya | My Giver / My Athena—1cs possessive on divine epithet (√y-t-n 'to give' + -ya 'my') | 1 |
-| [[wiki/names/semitic/names/A_TA_NA_TE\|A-TA-NA-TE]] | ʾAtanat | she who gives (the name behind Athena) | 1 |
+| [[wiki/names/semitic/names/A_TA_NA_TE\|A-TA-NA-TE]] | ʾAtanat | She who gives (divine name), the etymon of Greek Ἀθάνα, Ἀθήνη | 1 |
 | [[wiki/names/semitic/names/I_TI_NI_SA\|I-TI-NI-SA]] | ʾItniša | ʾItniša (personal name), the Mari name IT-NU-ŠA; rival ʾitnī-ša 'her gift (portion)' | 1 |
 | [[wiki/names/semitic/names/JE_TA_NA\|JE-TA-NA]] | Yatana | he gave (personal name) | 1 |
 

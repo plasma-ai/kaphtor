@@ -43,7 +43,7 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/semitic/names/PA3_NI\|PA₃-NI]] | bānī | builder (a personnel class) | [[wiki/names/semitic/_index\|Semitic]] | 2 |
 | [[wiki/names/semitic/names/PA3_NI_NA\|PA₃-NI-NA]] | banīna | our builder | [[wiki/names/semitic/_index\|Semitic]] | 2 |
 | [[wiki/names/semitic/names/PA3_NI_WI\|PA₃-NI-WI]] | bānīy | the builder (nisba/gentilic) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
-| [[wiki/names/semitic/names/PA_NA_TU\|PA-NA-TU]] | banātu / panātu / (Ku)bānatu | daughters (fem. pl.) / portions / Kubaba devotees (cf. KU-PA-NA-TU) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
+| [[wiki/names/semitic/names/PA_NA_TU\|PA-NA-TU]] | banātu / panātu / (Ku)bānatu | daughters (fem. pl.) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/PI_TA_KE_SI\|PI-TA-KE-SI]] | Bīt-kissi | (Man) of the throne-house, crown dependant (title); rival Hurrian PN Pidi-kešḫi | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/QA_star310_I\|QA-\*310-I]] | qaynī | smith or cultic administrator; occupational title | [[wiki/names/semitic/_index\|Semitic]] | 4 |
 | [[wiki/names/semitic/names/QE_PU\|QE-PU]] | qēpu | official, commissioner (title); rival: the personal name Qīpu | [[wiki/names/semitic/_index\|Semitic]] | 2 |
@@ -57,7 +57,7 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/semitic/names/SA_RA2\|SA-RA₂]] | šarra | queen/princess; by metonymy the queen's or royal establishment (recipient/institutional heading) | [[wiki/names/semitic/_index\|Semitic]] | 20 |
 | [[wiki/names/semitic/names/SA_RO\|SA-RO]] | šarr | king; the king's account (heading and recipient) | [[wiki/names/semitic/_index\|Semitic]] | 4 |
 | [[wiki/names/semitic/names/SA_RU\|SA-RU]] | šarru | king, prince (administrative title/category) | [[wiki/names/semitic/_index\|Semitic]] | 6 |
-| [[wiki/names/semitic/names/SI_KI_NE\|SI-KI-NE]] | Sikinet | stewardess or female administrator; compare masculine prefect/commissioner | [[wiki/names/semitic/_index\|Semitic]] | 1 |
+| [[wiki/names/semitic/names/SI_KI_NE\|SI-KI-NE]] | Sikinet | stewardess, female administrator | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/TA_PA\|TA-PA]] | tappāʾu | partners, the heading of a shares account | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/TA_RA\|TA-RA]] | ṯa(ġ)ra | gatekeepers (of the sanctuary); rival Akkadian tārû 'child-minder' | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/TE_RI\|TE-RI]] | tēri | attendant, courtier (recipient) | [[wiki/names/semitic/_index\|Semitic]] | 3 |

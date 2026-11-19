@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/inscriptions/KN/KNZb/KNZb4
 title: "KNZb4"
-desc: "Clay vessel, Knossos. Translation: complete."
+desc: "Clay vessel, Knossos. Translation: complete (CANDIDATE)."
 tags: ["linear-a", "inscription", "translation-complete", "clay-vessel"]
 kind: "inscription"
 id: "KNZb4"
@@ -50,7 +50,7 @@ Unicode (Linear A block):
 
 ## Translation
 
-**no confidence given**, complete (status: complete).
+**CANDIDATE**, complete (status: complete).
 
 > For Salvation: tribute.
 

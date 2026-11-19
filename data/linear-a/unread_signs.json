@@ -15,23 +15,23 @@
     "compound": "a logogram or sign joined to others by a hyphen"
   },
   "stats": {
-    "listed": 170,
+    "listed": 167,
     "by_status": {
-      "unread": 92,
+      "unread": 89,
       "value_on_file": 4,
       "component_read": 74
     },
     "by_kind": {
-      "syllabogram": 28,
+      "syllabogram": 25,
       "sign": 46,
       "ligature": 61,
       "vessel": 4,
       "logogram": 5,
       "compound": 26
     },
-    "occurrences": 388,
-    "hapax": 106,
-    "cross_site": 31
+    "occurrences": 362,
+    "hapax": 111,
+    "cross_site": 23
   },
   "excluded": {
     "None": "a placeholder in the corpus record, not a sign",
@@ -131,7 +131,7 @@
       "sign": "A",
       "kind": "syllabogram",
       "status": "unread",
-      "frequency": 17,
+      "frequency": 13,
       "attestations": [
         "ARKH1b",
         "ARKH5",
@@ -141,10 +141,7 @@
         "HTWa1148",
         "HTWa1149",
         "KANZa1",
-        "KH17",
-        "KH33",
         "KH45",
-        "KH73",
         "PEZb8",
         "PH27",
         "SYZa12",
@@ -161,7 +158,10 @@
         "Zakros"
       ],
       "cross_site": true,
-      "note": "Alone on 3 Haghia Triada nodules (HT Wa 1147–1149) and the Petras vessel PE Zb 8. On tablets at Khania, Haghia Triada, Arkhanes, Phaistos and Zakros it stands as an entry, with a quantity on HT 57a (A ⅛). No reading. The A before SA-SA-RA-ME on PK Za 11 is the first sign of A-SA-SA-RA-ME and is counted with that word."
+      "word_parts": {
+        "PKZa11": "A-SA-SA-RA-ME"
+      },
+      "note": "Alone on 3 Haghia Triada nodules (HT Wa 1147–1149) and the Petras vessel PE Zb 8. On tablets at Khania, Haghia Triada, Arkhanes, Phaistos and Zakros it stands as an entry, with a quantity on HT 57a (A ⅛). No reading. Three Khania tablets keep no whole token: KH 17 .4 and KH 33 .2 break straight after a dotted A (GORILA III 49, 63), and on KH 73 .1 breaks after a dotted A and .3 has A, a dash and the break (GORILA III 91). The A before SA-SA-RA-ME on PK Za 11 is the first sign of A-SA-SA-RA-ME and is counted with that word."
     },
     {
       "sign": "O",
@@ -193,7 +193,7 @@
         "Knossos"
       ],
       "cross_site": true,
-      "note": "Alone on 11 Khania roundels and 3 Haghia Triada nodules (HT Wa 1279–1281); NA O on the roundel KN Wc 42. With a quantity on HT 113: O 2½. No reading."
+      "note": "Alone on 11 Khania roundels and 3 Haghia Triada nodules (HT Wa 1279–1281); on the roundel KN Wc 42 beside a face that reads ]-NA. With a quantity on HT 113: O 2½. No reading."
     },
     {
       "sign": "*164",
@@ -352,22 +352,14 @@
       "sign": "NA",
       "kind": "syllabogram",
       "status": "unread",
-      "frequency": 5,
-      "attestations": [
-        "ARKH1b",
-        "HT154c",
-        "HT64",
-        "KH36",
-        "KNWc42"
-      ],
-      "sites": [
-        "Arkhanes",
-        "Haghia Triada",
-        "Khania",
-        "Knossos"
-      ],
-      "cross_site": true,
-      "note": "The NA that opens side b of KN Za 10 is the last sign of JA-SA-SA-RA-MA-NA and is counted with that word."
+      "frequency": 0,
+      "attestations": [],
+      "sites": [],
+      "cross_site": false,
+      "word_parts": {
+        "KNZa10": "JA-SA-SA-RA-MA-NA"
+      },
+      "note": "No token of NA alone survives whole. HT 64 .2 ]NA 2 and ARKH 1b .4 ]⟦NA 8⟧, the second in erasure brackets, are broken before NA (GORILA I 119; III 5). KH 36 .2 ]-NA[ ends a broken word (GORILA III 65), as does ]-NA on the second face of KN Wc 42. HT 154 C .1 ]NA-[ opens one, 'probablement' NA-MI[ (GORILA I 245).\n\nThe NA that opens side b of KN Za 10 is the last sign of JA-SA-SA-RA-MA-NA and is counted with that word."
     },
     {
       "sign": "RA",
@@ -414,21 +406,15 @@
       "sign": "MI",
       "kind": "syllabogram",
       "status": "unread",
-      "frequency": 4,
+      "frequency": 1,
       "attestations": [
-        "HT113ter",
-        "KH9",
-        "KNWa51",
-        "ZA20"
+        "KNWa51"
       ],
       "sites": [
-        "Haghia Triada",
-        "Khania",
-        "Knossos",
-        "Zakros"
+        "Knossos"
       ],
-      "cross_site": true,
-      "note": ""
+      "cross_site": false,
+      "note": "Alone on the nodule KN Wa 51. The tablets hold no whole token: KH 9 .2 MI[ is broken after MI (GORILA III 35), ZA 20 .2 ]MI[ has traces of three signs after it (GORILA III 193), and HT 113ter sets MI over 4 on a fragment whose surface is lost beside the sign."
     },
     {
       "sign": "OLE+E",
@@ -453,25 +439,6 @@
         "Haghia Triada"
       ],
       "cross_site": false,
-      "note": ""
-    },
-    {
-      "sign": "RU",
-      "kind": "syllabogram",
-      "status": "unread",
-      "frequency": 4,
-      "attestations": [
-        "KH49",
-        "MA10a",
-        "ZA12a",
-        "ZA12b"
-      ],
-      "sites": [
-        "Khania",
-        "Malia",
-        "Zakros"
-      ],
-      "cross_site": true,
       "note": ""
     },
     {
@@ -503,7 +470,7 @@
         "Haghia Triada"
       ],
       "cross_site": false,
-      "note": ""
+      "note": "Alone before a number in the commodity slot: HT 132 A-SE · *319 5; HT Zd 156 *319 2¼ and *319 3⅜, each figure half again the one before. It closes MA-TI-TI on HT Zd 155 and HT Zd 157. A plain I-beam, a stem with a bar at top and bottom; 'a probable transaction sign' on HT 132 (Steele 2024, 103). No reading.\n\nOn HT Zd 156 the first two counts follow a sign GORILA reads as 24, NE, each dotted (IV 133); Schrijver (2014, 14) and Corazza et al. (2021, 3) print *319 before all four. The series 1, 1½, 2¼, 3⅜, 5¹⁄₁₆ is a sum growing by half each term with the interest joined to the capital (CAD Ṣ 159–160, s.v. ṣibtu A), so *319 is the thing reckoned at interest, given on the two graffiti and counted 5 to the physician.\n\nRival: a punctuation sign. GORILA's corrigenda have 'I p.-ê. ponctuation' for the graffiti (V 80), and Salgarella keeps it open for the two word-final tokens (2020, 332). GORILA indexes the sign of HT 132.1 as a logogram (V 297), where a divider precedes it and 5 follows; its list of punctuation signs also holds the fraction signs 707 and 708 (V 325); and the writer of HT Zd 155 parts A-JU from the next word with a short stroke.\n\nRival: a string held taut between two pegs, a monochord, or a measured 'unit length', each from the sign's form and the graffito alone (Stieglitz 1978, 129–130); HT 132 counts 5 of it to the physician beside 27 ewes.\n\nProposed: silver. It is lent at interest, ṯlṯm ksp b nṯk 'thirty shekels of silver of interest' (KTU 4.682:12; DULAT 644), and five shekels of it are the physician's fee for setting a bone (Laws of Hammurabi § 221; CAD A/2 346, s.v. asû A), beside A-SE · *319 5. The proposal rests on that one number; nothing in the sign's form says silver. Copper in the ingot is excluded: the Linear B ingot signs are four-horned (Ventris and Chadwick 1956, 51, fig. 10), and none of the marked ingots of Haghia Triada (HT Zf 163–169) carries the sign."
     },
     {
       "sign": "*401+*304",
@@ -641,22 +608,24 @@
         "Phaistos"
       ],
       "cross_site": true,
-      "note": ""
+      "note": "The fraction sign A 709, with no value on file. PH 7b .1 ]TA 1 L and .2 ]DA-RA L, each line broken at the left (GORILA I 295); KN 49 · L, after a divider."
     },
     {
       "sign": "ME",
       "kind": "syllabogram",
       "status": "unread",
-      "frequency": 2,
+      "frequency": 1,
       "attestations": [
-        "ZA21a",
         "ZA21b"
       ],
       "sites": [
         "Zakros"
       ],
       "cross_site": false,
-      "note": "The ME after JA-SA-SA-RA on IO Za 16 continues that word across the line break (JA-SA-SA-RA-ME) and is counted with it."
+      "word_parts": {
+        "IOZa16": "JA-SA-SA-RA-ME"
+      },
+      "note": "The one token, ZA 21b .7, is erased: ⟦ME⟧, the sign dotted (GORILA III 197). ZA 21a .1 ]ME is broken before ME, with traces there (GORILA III 195).\n\nThe ME after JA-SA-SA-RA on IO Za 16 continues that word across the line break (JA-SA-SA-RA-ME) and is counted with it."
     },
     {
       "sign": "NE",
@@ -689,25 +658,21 @@
         "Thera"
       ],
       "cross_site": true,
-      "note": ""
+      "note": "On the Akrotiri ostracon THE Zg 5, PU 5 is one of the single signs before quantities taken for abbreviations of Minoan textile names (Michailidou 1992–1993; Boulotis 1998; Burke 2010, 49, apud Nosch and Weilhartner 2026, 131). Linear B writes PU on its cloth sign, 'quite likely the abbreviation of pu-ka-ta-ri-ja, puktaliā', a cloth of double thickness, and the word 'may be linked with πτυκτός' (Killen 2024, 724, 729). If that word is Greek, the ostracon's PU abbreviates another. HT 34 has PU ⅛ after E+KA ¹⁄₁₆, and the graffito KN Zd 46 carries the sign alone."
     },
     {
       "sign": "QI",
       "kind": "syllabogram",
       "status": "unread",
-      "frequency": 3,
+      "frequency": 1,
       "attestations": [
-        "KHWc2102",
-        "PHWc44",
         "THEZb13"
       ],
       "sites": [
-        "Khania",
-        "Phaistos",
         "Thera"
       ],
-      "cross_site": true,
-      "note": ""
+      "cross_site": false,
+      "note": "On THE Zb 13 a doubtful AB 21 stands apart before VIN+TE 120. On the roundels KH Wc 2102 and PH Wc 44 the sign is the sheep logogram, in the lexicon as *21."
     },
     {
       "sign": "QI+SI",
@@ -734,18 +699,15 @@
       "sign": "RA₂",
       "kind": "syllabogram",
       "status": "unread",
-      "frequency": 3,
+      "frequency": 1,
       "attestations": [
-        "HT125a",
-        "HT130",
         "KNWc23"
       ],
       "sites": [
-        "Haghia Triada",
         "Knossos"
       ],
-      "cross_site": true,
-      "note": "Alone on the roundel KN Wc 23. On HT 125a and HT 130 it follows a lost stretch, on tablets that also spell SA-RA₂."
+      "cross_site": false,
+      "note": "Alone on the roundel KN Wc 23. HT 125a .1 and HT 130 .3 have ]RA₂[, the sign dotted and broken on both sides (GORILA I 215, 225), on tablets that also spell SA-RA₂."
     },
     {
       "sign": "TA₂",
@@ -762,7 +724,7 @@
         "Khania"
       ],
       "cross_site": true,
-      "note": ""
+      "note": "Before a commodity: TA₂ before GRA, counted 3, on HT 137, and joined to the cyperus sign as TA₂-CYP on KH 60. HT 11a closes with TA₂ 15, after VIR+[?]-I 3, and KH 29 has RA · TA₂ 1, broken before RA. No word beginning with TA₂ stands before a grain sign: TA₂-TA-RE and TA₂-TI-TE of PK 1 are names counted 1 each."
     },
     {
       "sign": "WI",
@@ -793,17 +755,15 @@
       "sign": "*171",
       "kind": "sign",
       "status": "unread",
-      "frequency": 2,
+      "frequency": 1,
       "attestations": [
-        "THEZg5",
         "ZA6a"
       ],
       "sites": [
-        "Thera",
         "Zakros"
       ],
-      "cross_site": true,
-      "note": "A logogram alone on ZA 6a.1 (Salgarella 2020, 330), among the Linear A logograms with a possible Linear B homomorph, *171 (Schoep 2002, 131–35, apud Salgarella 2020, 220 n. 119); Nosch and Weilhartner class it among the agricultural commodities (2026, 119). On the Akrotiri ostracon THE Zg 5 the corpus reads *171 7 where Nosch and Weilhartner print TE (2026, 131)."
+      "cross_site": false,
+      "note": "A logogram alone on ZA 6a.1 (Salgarella 2020, 330), among the Linear A logograms with a possible Linear B homomorph, *171 (Schoep 2002, 131–35, apud Salgarella 2020, 220 n. 119); Nosch and Weilhartner class it among the agricultural commodities (2026, 119). The sign before 7 on the Akrotiri ostracon THE Zg 5 is TE, as Nosch and Weilhartner print it (2026, 131), and the drawings part the two: on ZA 6a the sign has a curved top, a short crossbar under it and an oblique foot; on the ostracon it is a stem with a straight top bar and a crossbar close under it, with no foot. *319 of HT 132 is another sign again: two straight bars and nothing between them."
     },
     {
       "sign": "*188+KU",
@@ -1154,17 +1114,15 @@
       "sign": "JE",
       "kind": "syllabogram",
       "status": "unread",
-      "frequency": 2,
+      "frequency": 1,
       "attestations": [
-        "KH1",
         "THEZb5"
       ],
       "sites": [
-        "Khania",
         "Thera"
       ],
-      "cross_site": true,
-      "note": ""
+      "cross_site": false,
+      "note": "On the Akrotiri jug THE Zb 5 JE stands by itself, incised before firing, with nothing to read it by.\n\nKH 1 is no second token: the edition prints ]JE · GRA+F 70[, the tablet broken at the left before JE (GORILA III 23), so the sign ends a word whose beginning is lost. Khania has two more words ending in JE, RI-TA-JE before CYP+D on KH 6 and ]-JE 1 on KH 50."
     },
     {
       "sign": "JU",
@@ -1340,17 +1298,15 @@
       "sign": "ZA",
       "kind": "syllabogram",
       "status": "unread",
-      "frequency": 2,
+      "frequency": 1,
       "attestations": [
-        "KH22",
         "ZA1a"
       ],
       "sites": [
-        "Khania",
         "Zakros"
       ],
-      "cross_site": true,
-      "note": ""
+      "cross_site": false,
+      "note": "ZA 1a ZA 5, after NI 42½. On KH 22 .1 ]-ZA ends a lost word, with ]SI-ZA possible (GORILA III 55)."
     },
     {
       "sign": "ZO",
@@ -1366,7 +1322,7 @@
         "Thera"
       ],
       "cross_site": true,
-      "note": "Alone on KH 57.2, apparently before a numeral in a damaged context, probably a logogram (Salgarella 2020, 157, 170, 314); Melena takes AB 20 for the ancestor of Linear B zo (Melena 2014a, 8, apud Salgarella 2020, 170 n. 96). On the Akrotiri ostracon THE Zg 5 ZO is one of the single signs before quantities taken for abbreviations of Minoan textile names (Michailidou 1992–1993; Boulotis 1998; Burke 2010, 49, apud Nosch and Weilhartner 2026, 131). Del Freo's phonographic signary of Linear A leaves AB 20 out (Petrakis and Salgarella 2026, 31, Fig. 0.1)."
+      "note": "Alone on KH 57.2, apparently before a numeral in a damaged context, probably a logogram (Salgarella 2020, 157, 170, 314); Melena takes AB 20 for the ancestor of Linear B zo (Melena 2014a, 8, apud Salgarella 2020, 170 n. 96). On the Akrotiri ostracon THE Zg 5 ZO is one of the single signs before quantities taken for abbreviations of Minoan textile names (Michailidou 1992–1993; Boulotis 1998; Burke 2010, 49, apud Nosch and Weilhartner 2026, 131). Linear B writes ZO on its cloth sign, a ligature that 'perhaps appears in Linear A. The identity of the word abbreviated to ZO is unknown' (Killen 2024, 724). Del Freo's phonographic signary of Linear A leaves AB 20 out (Petrakis and Salgarella 2026, 31, Fig. 0.1)."
     },
     {
       "sign": "VIR+[?]-I",
@@ -2646,20 +2602,6 @@
       "note": ""
     },
     {
-      "sign": "NU",
-      "kind": "syllabogram",
-      "status": "unread",
-      "frequency": 1,
-      "attestations": [
-        "KH3"
-      ],
-      "sites": [
-        "Khania"
-      ],
-      "cross_site": false,
-      "note": ""
-    },
-    {
       "sign": "OLE+KI+ME",
       "kind": "ligature",
       "status": "component_read",
@@ -2849,20 +2791,6 @@
       "frequency": 1,
       "attestations": [
         "HT93a"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "note": ""
-    },
-    {
-      "sign": "RI",
-      "kind": "syllabogram",
-      "status": "unread",
-      "frequency": 1,
-      "attestations": [
-        "HT49a"
       ],
       "sites": [
         "Haghia Triada"

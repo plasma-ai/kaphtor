@@ -1,12 +1,12 @@
 ---
 name: wiki/linear-a/words/Z/ZA
 title: "ZA"
-desc: "Unread sign (syllabogram, unread); 2 occurrence(s)."
+desc: "Unread sign (syllabogram, unread); 1 occurrence(s)."
 tags: ["linear-a", "word", "unread"]
 kind: "word"
 form: "ZA"
 datasets: ["unread_signs"]
-attestations: ["KH22", "ZA1a"]
+attestations: ["ZA1a"]
 created: 2026-11-12T00:26:03Z
 updated: 2026-11-12T00:26:03Z
 ---
@@ -25,7 +25,6 @@ updated: 2026-11-12T00:26:03Z
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/KH/KH/KH22\|KH22]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA1a\|ZA1a]] | Zakros | Tablet | none |
 
 ## In translations
@@ -37,5 +36,7 @@ updated: 2026-11-12T00:26:03Z
 ## Unread sign
 
 A syllabogram. Status **unread** (nothing on file).
+
+ZA 1a ZA 5, after NI 42½. On KH 22 .1 \]-ZA ends a lost word, with \]SI-ZA possible (GORILA III 55).
 
 <!-- END kaphtor:record -->

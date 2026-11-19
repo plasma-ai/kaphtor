@@ -32,3 +32,4 @@ The readings follow a Semitic decipherment of Linear A. Each carries a tier (CON
 - [Ya Diktu](https://doi.org/10.5281/zenodo.21903481): the grammar of the peak sanctuary libation formula
 - [Contributing](https://github.com/plasma-ai/kaphtor/blob/main/CONTRIBUTING.md): readings, rival analyses, falsifications and corrections
 - [Citation](https://github.com/plasma-ai/kaphtor/blob/main/CITATION.cff)
+- [Zenodo archive](https://doi.org/10.5281/zenodo.24375016): every release, each with its own DOI

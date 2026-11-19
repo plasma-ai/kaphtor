@@ -9,7 +9,7 @@ site: "Khania"
 support: "Tablet"
 period: "LMIB"
 translation: "incomplete"
-words: ["*21M", "AU-RE-TE", "CYP", "MU", "PI-SA", "RE", "RI-TA-JE"]
+words: ["*21M", "AU-RE-TE", "CYP", "MU", "PI-SA", "RI-TA-JE"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -50,8 +50,8 @@ Transliteration, line by line:
 8. \*21M 1
 9. CYP+D ¹⁄₂
 10. MU 1
-11. PA
-12. RE 𐄁 \*334 1
+11. PA\[
+12. \]-RE 𐄁 \*334 1
 13. CYP+D ¹⁄₂
 14. PI-SA
 15. CYP+D ¹⁄₂
@@ -109,6 +109,10 @@ GORILA III 26–27 (KH Scribe 2): cyperus allotments of ½ (CYP+D J) to recipien
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/star/star21M|\*21M]], [[wiki/linear-a/words/A/AU_RE_TE|AU-RE-TE]], [[wiki/linear-a/words/C/CYP|CYP]], [[wiki/linear-a/words/M/MU|MU]], [[wiki/linear-a/words/P/PI_SA|PI-SA]], [[wiki/linear-a/words/R/RE|RE]], [[wiki/linear-a/words/R/RI_TA_JE|RI-TA-JE]].
+[[wiki/linear-a/words/star/star21M|\*21M]], [[wiki/linear-a/words/A/AU_RE_TE|AU-RE-TE]], [[wiki/linear-a/words/C/CYP|CYP]], [[wiki/linear-a/words/M/MU|MU]], [[wiki/linear-a/words/P/PI_SA|PI-SA]], [[wiki/linear-a/words/R/RI_TA_JE|RI-TA-JE]].
+
+## Corpus note
+
+GORILA III 27: every line broken at the left. .3 \]KI-SA-NE CYP+D ½, then \*347, two short strokes detached from it and the break; .5 \]\*21M 1, CYP+D ½, MU 1, then PA with the break beside it and restoration marks above; .6 \]-RE, a divider, \*334 1, CYP+D ½, PI-SA\[. RE ends a word whose beginning is lost; \*334 is undotted here and dotted on KH 7a .1.
 
 <!-- END kaphtor:record -->

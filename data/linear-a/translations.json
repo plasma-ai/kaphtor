@@ -346,7 +346,7 @@
           "note": "RILA-S1 D 16: Olivier's *301-SI is not convincing; the *301 would be dextroverse and turned 90°, and the second sign recalls CM 1 026. The facsimile shows a chevron and a triangle, neither clearly *301 or SI. Not readable."
         }
       ],
-      "translation": "[two signs, not identified]",
+      "translation": "",
       "confidence": null,
       "status": "incomplete",
       "notes": "Context: Extra-Cretan Linear A—Mycenaean palace\n\nRILA-S1 D 16 counts TI Zb 1 doubtful: Olivier's *301-SI is not convincing, since the *301 would be dextroverse and turned 90°, and the second sign, complete, recalls CM 1 026. The facsimile shows a chevron and a triangle, neither clearly *301 or SI.",
@@ -729,6 +729,7 @@
       }
     },
     "HT70": {
+      "confidence": "SPECULATIVE",
       "site": "Haghia Triada",
       "support": "Tablet",
       "period": "LMIB",
@@ -773,6 +774,7 @@
       }
     },
     "HT96a": {
+      "confidence": "SPECULATIVE",
       "site": "Haghia Triada",
       "support": "Tablet",
       "period": "LMIB",
@@ -866,6 +868,7 @@
       }
     },
     "HT96b": {
+      "confidence": "CANDIDATE",
       "site": "Haghia Triada",
       "support": "Tablet",
       "period": "LMIB",
@@ -2236,7 +2239,7 @@
       "translation": "In righteousness—so, behold my gathering!",
       "confidence": "CONFIRMED",
       "coverage": "2/2 words translated (100%)",
-      "notes": "IO Za 9 is preserved on the broken corner of a square marble libation table. Line a is retrograde and line b runs in the opposite direction, so both read outward from the corner (GORILA V, 32–33; Younger 2023, citing Palaima 1988, 310–12). Line a keeps ]JA-SA-SA- and line b U̇-NA-KA-[; GORILA and Younger restore RA-ME and NA-SI from the formula. Both words are read in full elsewhere: JA-SA-SA-RA-ME on IO Za 6 and PS Za 2, U-NA-KA-NA-SI on KO Za 1, PK Za 8, SY Za 2 and TL Za 1. PK Za 27 breaks after U-NA-KA- too.",
+      "notes": "IO Za 9 is preserved on the broken corner of a square marble libation table. Line a is retrograde and line b runs in the opposite direction, so both read outward from the corner (GORILA V, 32–33; Younger 2023, citing Palaima 1988, 310–12). Line a keeps ]JA-SA-SA- and line b U̇-NA-KA-[; GORILA and Younger restore RA-ME and NA-SI from the formula. Both words are read in full elsewhere: JA-SA-SA-RA-ME on IO Za 6 and PS Za 2, U-NA-KA-NA-SI on KO Za 1 and SY Za 2; TL Za 1 and PK Za 8 keep all five signs and break after SI. PK Za 27 breaks after U-NA-KA- too.",
       "source": {
         "GORILA V, 32–33": [
           "JA-SA-SA-RA-ME",
@@ -2443,6 +2446,7 @@
       }
     },
     "HT95b": {
+      "confidence": "SPECULATIVE",
       "site": "Haghia Triada",
       "support": "Clay tablet (verso of HT95a)",
       "words": [
@@ -2504,6 +2508,7 @@
       }
     },
     "HT8b": {
+      "confidence": "SPECULATIVE",
       "site": "Haghia Triada",
       "support": "Clay tablet (verso of HT8a)",
       "words": [
@@ -2694,6 +2699,7 @@
       }
     },
     "KNZa10": {
+      "confidence": "SPECULATIVE",
       "site": "Knossos",
       "support": "Stone vessel",
       "words": [
@@ -4284,6 +4290,7 @@
       }
     },
     "HT41a": {
+      "confidence": "SPECULATIVE",
       "site": "Haghia Triada",
       "support": "Tablet",
       "words": [
@@ -4820,6 +4827,7 @@
       }
     },
     "HT92": {
+      "confidence": "CANDIDATE",
       "site": "Haghia Triada",
       "support": "Tablet",
       "words": [
@@ -4864,6 +4872,7 @@
       }
     },
     "HT116a": {
+      "confidence": "SPECULATIVE",
       "site": "Haghia Triada",
       "support": "Tablet",
       "genre": "administrative allocation",
@@ -5000,6 +5009,7 @@
       }
     },
     "IOZa12": {
+      "confidence": "CANDIDATE",
       "site": "Iouktas",
       "support": "Stone vessel",
       "words": [
@@ -5032,6 +5042,7 @@
       }
     },
     "IOZa14": {
+      "confidence": "PROBABLE",
       "site": "Iouktas",
       "support": "Stone vessel",
       "words": [
@@ -5364,6 +5375,8 @@
       }
     },
     "ZA10a": {
+      "confidence": "SPECULATIVE",
+      "translation": "Tanāt 2; PA 1; the one of the cella 1; ʾAtanat 1; ʿAmmī-dāʿ(u) 1; the one of Addu's cella 1; Ṭayyibat 1; DU-RE-ZA-SE 2.",
       "site": "Zakros",
       "support": "Tablet",
       "period": "LM IB",
@@ -5401,7 +5414,7 @@
         {
           "linear_a": "A-TA-NA-TE",
           "reading": "ʾAtanat",
-          "gloss": "she who gives (the name behind Athena)",
+          "gloss": "She who gives (divine name), the etymon of Greek Ἀθάνα, Ἀθήνη",
           "root": "√y-t-n",
           "position": 4,
           "quantity": 1,
@@ -5517,6 +5530,7 @@
       "source": "di Mino; GORILA IV; Olivier 1982"
     },
     "KNZf31": {
+      "confidence": "SPECULATIVE",
       "site": "Knossos",
       "support": "Metal object",
       "period": "LM I",
@@ -5919,6 +5933,7 @@
       "notes": "Personnel list (HT Scribe 9). The nine entries sum to 159 against KU-RO 160, rounded (Younger 2023). The total includes *327 34 and VIR 68, so every entry counts persons. *327 heads a personnel list in the same slot on HT97a (*327 33)."
     },
     "HT3": {
+      "confidence": "SPECULATIVE",
       "site": "Haghia Triada",
       "support": "Tablet",
       "genre": "Personnel/commodity allocation roster",
@@ -9865,7 +9880,7 @@
       "source": "GORILA"
     },
     "ANZb1": {
-      "site": "unknown",
+      "site": "Anemospilia",
       "support": "Clay vessel",
       "words": [
         {
@@ -11399,6 +11414,7 @@
       "notes": "KI-RI-TA₂ is the /i/-vowel variant of KI-RE-TA₂ (HT129). SA-RA₂ is treated as a recipient or institution, provisionally the queen or royal establishment, rather than as a balance marker. The *23M = mūru livestock reading remains CANDIDATE."
     },
     "HT121": {
+      "confidence": "SPECULATIVE",
       "site": "Haghia Triada",
       "support": "clay tablet",
       "words": [
@@ -11456,6 +11472,7 @@
       "notes": "Complete, worn tablet with a blank lower field; no signs require restoration. HT114a is a near-twin from the same room and scribe, repeating KI-RI-TA₂, SA-RA₂, and the same five-commodity order. HT121 additionally places A623 before the SA-RA₂ allocation. SigLA catalogs A623 as one logogram, while GORILA decomposes it as OLE+QE+DI. OLE makes an oil category secure and DI permits a possible honey/syrup comparison, but QE is not independently established here as the Akkadian qû-measure. SA-RA₂ is provisionally /šarra/ 'queen'; 'the queen's establishment' describes its possible metonymic administrative referent, not a different lexical meaning."
     },
     "HT67": {
+      "confidence": "CANDIDATE",
       "site": "Haghia Triada",
       "support": "clay tablet",
       "words": [
@@ -11483,6 +11500,7 @@
       "notes": "Lines 1-2 completely lost (𐝫). The 𐄁 separator between NI and TE marks the commodity/category boundary."
     },
     "HT12": {
+      "confidence": "SPECULATIVE",
       "site": "Haghia Triada",
       "support": "clay tablet",
       "words": [
@@ -11969,6 +11987,7 @@
       "source": "di Mino"
     },
     "HT94b": {
+      "confidence": "SPECULATIVE",
       "site": "Haghia Triada",
       "support": "Clay tablet",
       "words": [
@@ -12086,6 +12105,7 @@
       "notes": "Context: Debt register—KI-RO header with 5 one-unit entries, names or titles, totaling 5, followed by second section with 2 additional entries. Casa Room 7, Scribe 9."
     },
     "HT11b": {
+      "confidence": "SPECULATIVE",
       "site": "Haghia Triada",
       "support": "Clay tablet",
       "words": [
@@ -12202,6 +12222,7 @@
       "notes": "Five entries of KA, the first under *86 and two with no name, summing exactly to KU-RO 180 (40+30+50+30+30). Villa Magazine, Scribe 24; companion to HT11a. DE-NU (or DE-PA₃) and RU-RA₂ head the face, each followed by a divider (GORILA I 23)."
     },
     "HT11a": {
+      "confidence": "SPECULATIVE",
       "site": "Haghia Triada",
       "support": "Tablet",
       "findspot": "Villa Magazine",
@@ -13515,6 +13536,7 @@
       }
     },
     "IOZa8": {
+      "confidence": "CANDIDATE",
       "site": "Iouktas",
       "support": "Circular serpentine libation table fragment (HM 3783)",
       "words": [
@@ -13533,6 +13555,7 @@
       "source": "GORILA V, 30–31; Younger (2023) commentary"
     },
     "HT98b": {
+      "confidence": "SPECULATIVE",
       "site": "Haghia Triada",
       "support": "Tablet",
       "words": [
@@ -13563,6 +13586,7 @@
       "source": "di Mino"
     },
     "ZA10b": {
+      "confidence": "SPECULATIVE",
       "site": "Zakros",
       "support": "Tablet",
       "words": [
@@ -13748,10 +13772,10 @@
         },
         {
           "linear_a": "KU-RE-JU",
-          "reading": "Kulelu",
-          "gloss": "personal name",
+          "reading": "Kulēlu",
+          "gloss": "personal name, 'little perfect one'",
           "confidence": "CANDIDATE",
-          "note": "Compare Middle Assyrian Kulilu, written {m}ki-li-lu at Dunni-Aššur/Tell Sabi Abyad (T 98-038 obv. 4'; ORACC P532066), and later Kullulu, written {1}ku-lu-lu (SAA 6 22 rev. 9'). KU-RE-JU requires R/L neutralization and JU=/lu/. Also HT39, with quantity 8."
+          "note": "The diminutive *kulaylu of kull 'all, whole', ay > ē, the pattern of Ugaritic ku-re-ku /kurēk/ (Tropper 2000, 274). The root's names: Hebrew Kᵉlāl (Ezra 10:30), Akkadian Ilum-kilīlī 'God is my wreath' (CAD K 358), {m}ki-li-lu at Dunni-Aššur (T 98-038 obv. 4'; ORACC P532066), Neo-Assyrian Kullulu (SAA 6 22 rev. 9'). KU-RE-JU takes R/L neutralization and JU = lu. Also HT 39, with 8."
         },
         {
           "linear_a": "DI-KI-SE",
@@ -13761,9 +13785,9 @@
           "note": "Cf. Hurrian tagiše/tegiše 'beautiful' or 'beauty', written t/da-a-ki-ši and ta-(a)-ki-(e)-še (Laroche, pp. 249–50), and the personal name Tagi in EA 264–66. Also on HT87 under the same rubric; keep untranslated."
         }
       ],
-      "translation": "Bridegroom/in-law category: Kulelu 1; Dikise 1.",
+      "translation": "Bridegroom/in-law category: Kulēlu 1; Dikise 1.",
       "confidence": "CANDIDATE",
-      "notes": "Context: intact LM IB two-entry roster. HT87 repeats the *21F-TU-NE rubric and DI-KI-SE, while HT7b carries the same rubric with a count; the following entries are therefore most plausibly persons. Kulelu has an external formal parallel in Middle Assyrian Kulilu at Tell Sabi Abyad, but its etymology remains unproved. Dikise may be related to directly attested Hurrian tagiše/tegiše 'beautiful' or 'beauty' and the personal name Tagi; the name itself remains untranslated.",
+      "notes": "Context: intact LM IB two-entry roster. HT87 repeats the *21F-TU-NE rubric and DI-KI-SE, while HT7b carries the same rubric with a count; the following entries are therefore most plausibly persons. Kulēlu is the diminutive of kull 'all, whole', a name of the root that gives Hebrew Kᵉlāl and Akkadian Ilum-kilīlī. Dikise may be related to directly attested Hurrian tagiše/tegiše 'beautiful' or 'beauty' and the personal name Tagi; the name itself remains untranslated.",
       "source": {
         "di Mino": [
           "KU-RE-JU"
@@ -13771,6 +13795,7 @@
       }
     },
     "HT17": {
+      "confidence": "SPECULATIVE",
       "site": "Haghia Triada",
       "support": "Tablet",
       "period": "LMIB",
@@ -13821,6 +13846,7 @@
       }
     },
     "HT19": {
+      "confidence": "SPECULATIVE",
       "site": "Haghia Triada",
       "support": "Tablet",
       "period": "LMIB",
@@ -13871,6 +13897,7 @@
       }
     },
     "ZA4a": {
+      "confidence": "SPECULATIVE",
       "site": "Zakros",
       "support": "Tablet",
       "genre": "wine ledger (personnel roster + commodity block, verso total)",
@@ -13999,6 +14026,7 @@
       "source": "di Mino"
     },
     "TELZb1": {
+      "confidence": "CANDIDATE",
       "site": "Tel Haror (Levant)",
       "support": "votive graffito on sherd",
       "words": [
@@ -14027,6 +14055,7 @@
       "source": "Olivier 1999 via RILA-S1 D 13; Younger"
     },
     "KNZb5": {
+      "confidence": "CANDIDATE",
       "site": "Knossos",
       "support": "provenance label on clay vessel",
       "words": [
@@ -14068,6 +14097,7 @@
       "source": "di Mino"
     },
     "KNZb4": {
+      "confidence": "CANDIDATE",
       "site": "Knossos",
       "support": "votive label on clay vessel",
       "words": [
@@ -14097,6 +14127,7 @@
       "source": "di Mino"
     },
     "KEZb4": {
+      "confidence": "CANDIDATE",
       "site": "Kea",
       "support": "lamp dedication",
       "words": [
@@ -14114,6 +14145,7 @@
       "source": "di Mino"
     },
     "PEZc4": {
+      "confidence": "CANDIDATE",
       "site": "Petras",
       "support": "Inked inscription",
       "genre": "votive graffito",
@@ -14137,6 +14169,7 @@
       "source": "di Mino"
     },
     "CRZg3": {
+      "confidence": "CANDIDATE",
       "site": "Crete (?)",
       "support": "amygdaloid stone seal",
       "words": [
@@ -14176,7 +14209,7 @@
           "note": "One preserved pair of signs, not two mirrored forms. NE-MI has no secure lexical interpretation; MI-NE may be compared with Mīnū/Minos only speculatively, since the direction is uncertain and DA-DU-MI-NE does not provide independent confirmation of that segmentation."
         }
       ],
-      "translation": "[…NE-MI…] / […MI-NE…] — untranslated; reading direction uncertain.",
+      "translation": "",
       "status": "incomplete",
       "notes": "Broken larnax fragment. The signs may be read NE-MI in one direction or MI-NE in the other; the object may have lost additional writing at either side. A personal name is possible in the funerary context but not established.",
       "source": "Evans 1928, The Palace of Minos II.1, 83–84, fig. 40"
@@ -14365,6 +14398,7 @@
       "source": "di Mino"
     },
     "CRZf1": {
+      "confidence": "SPECULATIVE",
       "site": "Unknown (unprovenanced)",
       "support": "Gold pin",
       "words": [
@@ -14535,26 +14569,26 @@
         {
           "linear_a": "WI-JA-SU-MA-TI-TI",
           "reading": null,
-          "meaning": "WI-JA-SU | MA-TI-TI. WI-JA-SU is likely the recipient's name, with no reading. MA-TI-TI 'gift' (Heb. mattat, HALOT 656). The rival √š-m-ṭ parse needs TI-TI to write a geminate",
+          "meaning": "WI-JA-SU | MA-TI-TI. WI-JA-SU, the recipient's name, unread. MA-TI-TI mattitt(u) 'gift' (Heb. mattat, HALOT 656)",
           "confidence": null
         },
         {
           "linear_a": "A319",
           "reading": null,
-          "meaning": "unidentified commodity logogram, no sound value; five tokens in four documents. On HT Zd 156 it takes 2¼ and 3⅜ after two NE signs",
-          "confidence": "CANDIDATE"
+          "meaning": "unidentified logogram, no sound value; seven tokens in three documents. On HT Zd 156 it stands before each of the four counts; the edition reads the first two as NE, each dotted (GORILA IV 133)",
+          "confidence": null
         },
         {
           "linear_a": "TA-JA",
           "reading": null,
-          "meaning": "unread—a 2-consonant glide skeleton, within chance; probably a commodity/payer abbreviation on the final fraction line",
+          "meaning": "unread; the fifth term of the series, 5¹⁄₁₆, if it is the word for five (Olivier apud Schoep 2002, 32)",
           "confidence": null
         }
       ],
-      "translation": "HT Zd 157: WI-JA-SU [recipient's name] · MA-TI-TI 'gift' · A319 [unidentified commodity]. HT Zd 156: NE 1 · NE 1½ · A319 2¼ · A319 3⅜ · TA-JA 1/16.",
+      "translation": "HT Zd 157: WI-JA-SU [recipient's name] · MA-TI-TI 'gift' · A319 [unidentified commodity]. HT Zd 156: A319 1 · A319 1½ · A319 2¼ · A319 3⅜ · TA-JA ¹⁄₁₆: a reckoning of interest, each sum the last and half of it again.",
       "confidence": "CANDIDATE",
       "status": "incomplete",
-      "notes": "GORILA IV 132–35 presents HT Zd 156 (HM 53) and HT Zd 157 (HM 54) as separate stucco fragments from the same wall; their continuation is possible but not physically demonstrated. HT Zd 156 runs NE 1, NE 1½, A319 2¼, A319 3⅜, each figure half again the one before."
+      "notes": "GORILA IV 132–135 presents HT Zd 156 (HM 53) and HT Zd 157 (HM 54) as separate stucco fragments from the same wall; their continuation is not physically demonstrated.\n\nThe sign before each count: GORILA reads sign 24, NE, before the first two, each dotted, and 319 before the next two (IV 133). Schrijver prints ]*319 1 *319 1J *319 2E *319 3EF ta-ja K [ and leaves open whether *319 is a variant of *24 NE (2014, 14); Corazza et al. print *319 four times (2021, 3). The record follows the two. Stieglitz, from Brice's edition, reads 'at least six entries, all of which are preceded by the Minoan sign I (L14)', the fifth and sixth where the record has TA-JA and K (1978, 127, 129).\n\nThe series 1, 1½, 2¼, 3⅜ is a sum of 1 growing by half each term with the interest joined to the capital, and Olivier's TA-JA ¹⁄₁₆ as 5¹⁄₁₆ is its fifth term (apud Schoep 2002, 32). The Old Babylonian laws provide for a creditor who 'has added the interest to the capital', and a school problem asks in how many years a gur lent at interest and its interest 'become equal' (CAD Ṣ 159–160, s.v. ṣibtu A). Pope calls it 'a ready reckoner of some kind' and derives from it the multiples of 19 in the accounts (1960, 204). Rival: a separator between the terms, 'p.-ê. signe de ponctuation' in GORILA's corrigenda (V 80) and 'a possible separator' for Corazza et al.; on HT 132 the sign follows a divider and takes 5, and the edition's index files it there as a logogram (V 297)."
     },
     "HT9b": {
       "site": "Haghia Triada",
@@ -15535,11 +15569,11 @@
           "note": "Broken before, with a trace at left. Not readable."
         },
         {
-          "linear_a": "NA",
+          "linear_a": "]NA",
           "reading": null,
-          "gloss": "single sign with 2",
+          "gloss": "the end of a broken word, with 2",
           "confidence": null,
-          "note": "The particle nā does not head a numeral. No reading."
+          "note": "GORILA I 119: .2 ]NA 2, broken before NA. Not readable."
         },
         {
           "linear_a": "RU-MA",
@@ -15554,7 +15588,7 @@
           "confidence": "PROBABLE"
         }
       ],
-      "translation": "[…]KU-ZU-NA, NA 2; Rūma 3; rams 6 […]",
+      "translation": "[…]KU-ZU-NA[…] […]NA 2; Rūma 3; rams 6 […]",
       "confidence": "SPECULATIVE",
       "status": "incomplete",
       "notes": "Broken above and below; ]KU-ZU-NA opens the surviving text (GORILA I 119).",
@@ -16268,11 +16302,11 @@
           "note": "Also ZA 10a, 10b. No reading."
         },
         {
-          "linear_a": "MI",
+          "linear_a": "]MI[",
           "reading": null,
-          "gloss": "single sign with 4",
+          "gloss": "a broken word",
           "confidence": null,
-          "note": "No reading."
+          "note": "GORILA III 193: .2 ]MI[, traces of three signs after MI, then ]4. Not readable."
         },
         {
           "linear_a": "SI-TE-TU",
@@ -16306,7 +16340,7 @@
           "note": "The last line, .5 vacant; 130 against 26 surviving below the break (Younger, Linear A Texts: a totaling word)."
         }
       ],
-      "translation": "[…] DU-RE-ZA-SE, MI 4; woven cloth 1; garments 6; TE + aromatics 12; (men) of the Height 3; in all 130 […]",
+      "translation": "[…] DU-RE-ZA-SE […] MI[…] 4; woven cloth 1; garments 6; TE + aromatics 12; (men) of the Height 3; in all 130 […]",
       "confidence": "SPECULATIVE",
       "status": "incomplete",
       "notes": "Broken above and below; KU-RA 130, the total, closes the text, and .5 is vacant (GORILA III 193).",
@@ -18307,7 +18341,7 @@
         {
           "linear_a": "ZU-RI-NI-MA",
           "reading": "Ṯūrinima",
-          "gloss": "Bull- (personal name)",
+          "gloss": "He-of-the-Bull (personal name)",
           "confidence": "SPECULATIVE"
         }
       ],
@@ -20174,7 +20208,7 @@
           "confidence": "PROBABLE"
         }
       ],
-      "translation": "The storehouse: sanctuary personnel ¹⁄₁₆; figs, a fraction; MI; fire offerings: cyperus (CYP+D) ½; 2; cyperus ¼; wine; cyperus, a fraction […] a fraction; SI+TA₂-*304 1.",
+      "translation": "The storehouse: sanctuary personnel ¹⁄₁₆; figs, a fraction; MI[…]; fire offerings: cyperus (CYP+D) ½; 2; cyperus ¼; wine; cyperus, a fraction […] a fraction; SI+TA₂-*304 1.",
       "notes": "The left margin is original; the right side is a fracture, which the ends of the lines meet.",
       "source": {
         "di Mino": [

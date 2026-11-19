@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/Z/ZU_DI
 title: "ZU-DI"
-desc: "ṯudī: breast (√ṯ-d-y, PS *ṯad-); at IOZa6 first member of ZU-DI SI-KA (ṯudī-šiqā). Lexicon, PROBABLE (tier 3)."
+desc: "ṯudī: breast; the first member of ZU-DI SI-KA ṯudī-šiqā 'Breast-Who-Gives-Drink'. Lexicon, PROBABLE (tier 3)."
 tags: ["linear-a", "word", "tier-3", "body", "epithet", "hapax", "libation_formula", "noun", "ritual"]
 kind: "word"
 form: "ZU-DI"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ṯudī |
-| Meaning | breast (√ṯ-d-y, PS \*ṯad-); at IOZa6 first member of ZU-DI SI-KA (ṯudī-šiqā) |
+| Meaning | breast; the first member of ZU-DI SI-KA ṯudī-šiqā 'Breast-Who-Gives-Drink' |
 | Root | ṯ-d |
 | Proto-Semitic | \*ṯa/ud- (#2036) |
 | Language layer | Semitic |

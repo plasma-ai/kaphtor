@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/NA_TI
 title: "NA-TI"
-desc: "naṭʿ: the Plantation (place name), 4 men in the HT 97a roster beside PA-I-TO. Semitic, SPECULATIVE."
+desc: "naṭʿ: the Plantation (place name). Semitic, SPECULATIVE."
 tags: ["names", "place-name", "semitic"]
 kind: "name"
 form: "NA-TI"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**naṭʿ** · the Plantation (place name), 4 men in the HT 97a roster beside PA-I-TO
+**naṭʿ** · the Plantation (place name)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/places\|Place name]] |
 | Reading | naṭʿ |
-| Meaning | the Plantation (place name), 4 men in the HT 97a roster beside PA-I-TO |
+| Meaning | the Plantation (place name) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/n-tt-ayin\|n-ṭ-ʿ]] |
 | Proto-Semitic | \*nVṭVʕ- (#1163) |
@@ -67,7 +67,7 @@ Read words on the same documents.
 
 | Word | Reading | Meaning |
 |---|---|---|
-| [[wiki/names/semitic/names/KA_NU_TI\|KA-NU-TI]] | Ganuti | place name, 25 men in the HT 97a roster beside PA-I-TO |
+| [[wiki/names/semitic/names/KA_NU_TI\|KA-NU-TI]] | Ganuti | place name |
 | [[wiki/names/semitic/names/PA_I_TO\|PA-I-TO]] | Paito | Phaistos (place name) |
 | KI | ki | so that, because |
 

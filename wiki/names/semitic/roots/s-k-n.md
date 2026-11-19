@@ -27,7 +27,7 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/SI_KI_NE\|SI-KI-NE]] | Sikinet | stewardess or female administrator; compare masculine prefect/commissioner | 1 |
+| [[wiki/names/semitic/names/SI_KI_NE\|SI-KI-NE]] | Sikinet | stewardess, female administrator | 1 |
 | [[wiki/names/semitic/names/star47_KU_NA\|\*47-KU-NA]] | sōkuna | prefect, steward (heading of a wine issue) | 1 |
 
 <!-- END kaphtor:record -->

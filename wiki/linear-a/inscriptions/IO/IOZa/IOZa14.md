@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/inscriptions/IO/IOZa/IOZa14
 title: "IOZa14"
-desc: "Stone vessel, Iouktas. Translation: complete."
+desc: "Stone vessel, Iouktas. Translation: complete (PROBABLE)."
 tags: ["linear-a", "inscription", "translation-complete", "stone-vessel"]
 kind: "inscription"
 id: "IOZa14"
@@ -49,7 +49,7 @@ Unicode (Linear A block):
 
 ## Translation
 
-**no confidence given**, complete (status: partial).
+**PROBABLE**, complete (status: partial).
 
 > Sacred song—\[?\]
 

@@ -2,14 +2,14 @@
 name: wiki/linear-a/inscriptions/KN/KNZa
 desc: "Inscriptions from Knossos, series KNZa."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-24T16:17:50Z
+updated: 2026-11-20T13:42:56Z
 ---
 
 # wiki/linear-a/inscriptions/KN/KNZa
 
 [[wiki/linear-a/inscriptions/KN/_index|..]]
 
-[[wiki/linear-a/inscriptions/KN/KNZa/KNZa10|KNZa10]]: Stone vessel, Knossos, LMIA. Translation: complete.
+[[wiki/linear-a/inscriptions/KN/KNZa/KNZa10|KNZa10]]: Stone vessel, Knossos, LMIA. Translation: complete (SPECULATIVE).
 
 [[wiki/linear-a/inscriptions/KN/KNZa/KNZa17|KNZa17]]: Stone vessel, Knossos. Translation: none.
 

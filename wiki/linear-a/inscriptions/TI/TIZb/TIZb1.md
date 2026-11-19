@@ -51,8 +51,6 @@ Unicode (Linear A block):
 
 **no confidence given**, incomplete (status: incomplete).
 
-> \[two signs, not identified\]
-
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | [[wiki/linear-a/words/star/star301_SI\|\*301-SI]] |  | unread |  | unread |

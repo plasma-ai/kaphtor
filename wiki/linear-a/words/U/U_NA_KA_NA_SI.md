@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Fourth in the libation formula, between JA-SA-SA-RA-ME and I-PI-NA-MA, where the prayer turns from the dedicant to the gathered community. Intact on KO Za 1, PK Za 8, SY Za 2 and TL Za 1, restored or partial on IO Za 2, IO Za 9 and PK Za 27; IO Za 2 keeps only SI, the five restored signs filling its five missing flutes (GORILA V 18–19; Karetsou, Godart and Olivier 1985, 127). SY Za 3 keeps \]-KA-NA-\[ in the slot.
+Fourth in the libation formula, between JA-SA-SA-RA-ME and I-PI-NA-MA, where the prayer turns from the dedicant to the gathered community. Written in full on KO Za 1 and SY Za 2. TL Za 1 and PK Za 8 keep all five signs and break after SI. Restored or partial on IO Za 2, IO Za 9 and PK Za 27; IO Za 2 keeps only SI, the five restored signs filling its five missing flutes (GORILA V 18–19; Karetsou, Godart and Olivier 1985, 127). SY Za 3 keeps \]-KA-NA-\[ in the slot.
 
 U-NA is wannā 'and behold', Ugaritic wn from \*wa-hanna/u, the Hebrew wə-hinnē (Lipiński 1997, §27.25); the alphabetic spelling leaves the vowels open, and winnā is the rival. Ugaritic also writes w hn 'and behold' (KTU 1.14 III 14), and Amarna sets the presentative before a 1cs noun, annû arnuya 'behold my crime' (EA 253:18; Rainey 1996, 1:175). Ugaritic w- runs on without a divider 413 times in 435 (Crellin 2022, 163), as U-NA does here. KA-NA-SI is kanāsī, the G verbal noun of √k-n-s 'gather' with the 1cs suffix -ī, 'my gathering', agreeing with the 1cs A- of formula position one. SI writes s and the hushed š alike, so KA-NA-SI also reads kanāšī, with the š of Aramaic knaš 'gather' and knāš 'gathering'.
 

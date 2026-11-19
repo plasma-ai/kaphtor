@@ -25,7 +25,7 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/semitic/names/A_RE_PI_RE_NA\|A-RE-PI-RE-NA]] | ʾa-repiʾ-rennā | Healer of Jubilation (Eshmun epithet) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/A_SA_MU_NE\|A-SA-MU-NE]] | ʾAšmūn | Eshmun (healing deity) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/A_TA_NA_JE\|A-TA-NA-JE]] | ʾatanāya | My Giver / My Athena—1cs possessive on divine epithet (√y-t-n 'to give' + -ya 'my') | [[wiki/names/semitic/_index\|Semitic]] | 1 |
-| [[wiki/names/semitic/names/A_TA_NA_TE\|A-TA-NA-TE]] | ʾAtanat | she who gives (the name behind Athena) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
+| [[wiki/names/semitic/names/A_TA_NA_TE\|A-TA-NA-TE]] | ʾAtanat | She who gives (divine name), the etymon of Greek Ἀθάνα, Ἀθήνη | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/A_TA_RE\|A-TA-RE]] | ʿAṯtar | ʿAṯtar (the god), receiving figs; rival Hathor | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/A_ZU_RA\|A-ZU-RA]] | ʾAṯirat | Athirat (divine name: the Goddess) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/DA_KI_TI\|DA-KI-TI]] | Daqqiti | of Daqqitu, the goddess to whom the incense is offered; rival daqqati 'fine (powder)' | [[wiki/names/semitic/_index\|Semitic]] | 1 |

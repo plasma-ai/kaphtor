@@ -45,7 +45,7 @@ Transliteration, line by line:
 3. PA₃
 4. 𐝫
 5. —
-6. NA 8
+6. \]NA 8
 
 Unicode (Linear A block):
 
@@ -57,5 +57,9 @@ Unicode (Linear A block):
 —
 𐝫𐘅𐄎
 ```
+
+## Corpus note
+
+GORILA III 5: .1 A\[ … \]JA-RE 3̣\[, .2 \]PẠ₃\[, preferred to \]NỤ\[, .3 lost, a ruled line, .4 \]⟦NA 8⟧, broken before NA and the entry in erasure brackets, .5–6 blank.
 
 <!-- END kaphtor:record -->

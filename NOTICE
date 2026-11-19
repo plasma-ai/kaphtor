@@ -26,8 +26,11 @@ Review-page screenshots (docs/human-review/*.png)
   Salgarella and Simon Castellan, CC BY-NC-SA 4.0. The pages' text and layout are CC BY 4.0.
 
 Semitic root reflexes (data/semitic-roots/semitic_roots.json)
-  1,369 reflexes cite Adam Anderson and Jason Moser, Protosemitic Root Derivations (2024), Zenodo,
-  doi:10.5281/zenodo.14160276, CC BY 4.0. The consonant correspondences
+  1,366 reflexes cite Adam Anderson and Jason Moser, Protosemitic Root Derivations (2024), Zenodo,
+  doi:10.5281/zenodo.14160276, CC BY 4.0. The Geʿez forms cited as Dillmann come from August Dillmann, Lexicon
+  linguae aethiopicae (1865), public domain, read in the TraCES digitization
+  (https://github.com/BetaMasaheft/DillmannData), CC BY-NC-SA 4.0, and cited by its entry number; none of that
+  edition's text or markup ships. The consonant correspondences
   (data/semitic-roots/semitic_correspondences.json) follow Huehnergard 2019, Table 3.2 (p. 51), as cited facts.
 
 Rival-language root keys (data/linear-a/egyptian_roots.json, luwian_roots.json, hurrian_roots.json,
@@ -42,13 +45,14 @@ hattic_roots.json)
 
 Contact lexica (data/contact/)
   Hebrew: TBESH, STEPBible Data, Tyndale House, Cambridge, CC BY 4.0, with Brown, Driver and Briggs (1906), public
-  domain. Aramaic: the Aramaic Root Atlas, Apache-2.0. Akkadian: ORACC CAMS/GKAB, CC0 1.0. Amarna Canaanite: the
-  aemw/amarna Project (edition by Jacob Lauinger and Tyler Yoder), ORACC, CC0 1.0 as its open-data download states,
-  with our changes under CC BY 4.0. Syriac: English Wiktionary's Classical
+  domain. Aramaic: the Aramaic Root Atlas, Apache-2.0. Akkadian: ORACC CAMS/GKAB, CC0 1.0 as its open-data download
+  states; the project's page states CC BY-SA 3.0. Amarna Canaanite: the aemw/amarna Project (edition by Jacob
+  Lauinger and Tyler Yoder), ORACC, CC0 1.0 as its open-data download states, with our changes under CC BY 4.0; the
+  project's pages state CC BY-SA 3.0. Syriac: English Wiktionary's Classical
   Syriac entries, CC BY-SA 4.0; anything derived from that file carries the same terms.
 
 Akkadian literary glossary (data/ane/akkadian_literary.jsonl)
-  From ORACC CAMS/GKAB, CC0 1.0.
+  From ORACC CAMS/GKAB, CC0 1.0 as its open-data download states; the project's page states CC BY-SA 3.0.
 
 Persons and Names of the Middle Kingdom, version 6 (data/ane/pnm-v6/)
   Zenodo, doi:10.5281/zenodo.15806808, CC BY 4.0.

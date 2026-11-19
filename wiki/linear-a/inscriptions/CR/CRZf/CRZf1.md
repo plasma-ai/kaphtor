@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/inscriptions/CR/CRZf/CRZf1
 title: "CRZf1"
-desc: "Metal object, Crete. Translation: complete."
+desc: "Metal object, Crete. Translation: complete (SPECULATIVE)."
 tags: ["linear-a", "inscription", "translation-complete", "metal-object"]
 kind: "inscription"
 id: "CRZf1"
@@ -49,7 +49,7 @@ Unicode (Linear A block):
 
 ## Translation
 
-**no confidence given**, complete.
+**SPECULATIVE**, complete.
 
 > The Kinsman who comes forth, Creator of Sea and Island — Kaki-šenni — I make (this) ready.
 

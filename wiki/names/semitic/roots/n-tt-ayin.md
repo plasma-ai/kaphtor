@@ -27,6 +27,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/NA_TI\|NA-TI]] | naṭʿ | the Plantation (place name), 4 men in the HT 97a roster beside PA-I-TO | 1 |
+| [[wiki/names/semitic/names/NA_TI\|NA-TI]] | naṭʿ | the Plantation (place name) | 1 |
 
 <!-- END kaphtor:record -->

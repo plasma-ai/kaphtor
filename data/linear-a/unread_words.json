@@ -20,10 +20,10 @@
     "cross_site": 4,
     "surface_damaged": 275,
     "excluded_tokens": {
-      "single-sign": 1418,
-      "numeral/punct": 1553,
+      "single-sign": 1394,
+      "numeral/punct": 1552,
       "logogram": 341,
-      "damaged": 1108,
+      "damaged": 1133,
       "ligature/logogram": 421
     }
   },

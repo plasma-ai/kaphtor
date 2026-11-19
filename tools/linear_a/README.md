@@ -38,7 +38,7 @@ it looked for and exits 2. Outputs, caches and saved runs go to `--out` or the u
 | `root_match.py` | Shoresh: is a sign group closer to a Semitic root than its own decoys (pre-registered in `docs/shoresh-preregistration.md`). Refuses gold-set words outside the gold run | the root index, the gold set `tests/fixtures/root_match_gold.v3.json`, `corpus.json`; the competitor lexica `luwian_roots.json`, `egyptian_roots.json`, `hurrian_roots.json` and `hattic_roots.json` (without one, it stops with exit 2 and names the file; `--no-competitors` skips them) |
 | `sign_proposer.py` | Ranked candidate CV values for an undeciphered sign; `--reflexes` also scores against a root header's other alternates and the forms in every Semitic language cell (root index) | `sign-registry.json`, `sign_values.json`, `corpus.json`, `missing_sound_map.json` (`--polyvalent`); `sign-evolution-map.json`, `rejected_sign_values.json` (not shipped yet) |
 | `ventris_decode.py` | The Ventris Engine: statistics, grid, propagation, paradigms, ideograms, toponyms | `sign_values.json`, `corpus.json`, `lexicon.json`, `semitic_roots.json`, `morphemes.json` |
-| `ventris_propagate.py` | Constraint propagation of sign values across the corpus | as `ventris_decode.py` |
+| `ventris_propagate.py` | Constraint propagation of sign values across the corpus; `--hattic` scores Hattic as one more rival language, with the keys and sound table of the Shoresh competitor arm | as `ventris_decode.py`; `hattic_roots.json` with `--hattic` |
 | `ventris_runs.py` | Saved Ventris Engine runs: list, show, compare two, export one | the run cache, `CACHE/linear-a/runs/` |
 
 `analysis/` holds the engine's phases, each also a command: `ventris_stats.py`, `ventris_grid.py`,
@@ -58,6 +58,7 @@ install a run; the file it replaces is backed up first). By default outputs go t
 `guttural_audit.py`, `guttural_compression_analysis.py`), `hapax_analysis.py`, `blind_corpus_test.py`,
 `meaning_shuffle.py` (the meaning-shuffle test, refused without its signed pre-registration, `--prereg`),
 `meaning_shuffle_power.py` (that test's calibration and power on fabricated and planted words; writes `--out`),
+`hattic_layer_null.py` (the chance rate of the classifier's Hattic layer against scrambled keys; prints only),
 `d7_structural_controls.py` and `d7_s3_linear_a.py` (D7's controls and its S3 on Linear A; each writes `--out`),
 `paradigm_b.py` (verifies the frozen paradigm B test against its hashes and reproduces its numbers),
 `protocol_c.py` (verifies Protocol C's C0 and C1 record against its hashes and reruns its C1 checks), and

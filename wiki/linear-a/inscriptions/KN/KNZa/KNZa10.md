@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/inscriptions/KN/KNZa/KNZa10
 title: "KNZa10"
-desc: "Stone vessel, Knossos, LMIA. Translation: complete."
+desc: "Stone vessel, Knossos, LMIA. Translation: complete (SPECULATIVE)."
 tags: ["linear-a", "inscription", "translation-complete", "stone-vessel"]
 kind: "inscription"
 id: "KNZa10"
@@ -51,7 +51,7 @@ Unicode (Linear A block):
 
 ## Translation
 
-**no confidence given**, complete.
+**SPECULATIVE**, complete.
 
 > \[…\] May you indeed be gracious and upright …
 

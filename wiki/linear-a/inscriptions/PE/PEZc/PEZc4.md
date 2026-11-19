@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/inscriptions/PE/PEZc/PEZc4
 title: "PEZc4"
-desc: "Inked inscription, Petras, LMIB. Translation: complete."
+desc: "Inked inscription, Petras, LMIB. Translation: complete (CANDIDATE)."
 tags: ["linear-a", "inscription", "translation-complete", "inked-inscription"]
 kind: "inscription"
 id: "PEZc4"
@@ -49,7 +49,7 @@ Unicode (Linear A block):
 
 ## Translation
 
-**no confidence given**, complete (status: complete).
+**CANDIDATE**, complete (status: complete).
 
 > Living One!—Salvation!
 

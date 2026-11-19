@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/JA_DU_RA_TI
 title: "JA-DU-RA-TI"
-desc: "Yadurati: personal name: Amorite-type yaqtul name + feminine -at (cf. Yadwiratum, Gelb 1980, no. 3209; Ya-du-ra-an, Ya-du-ri-im, Huffmon 1965, 38). Semitic, CANDIDATE."
+desc: "Yadurati: personal name, an Amorite-type yaqtul name with feminine -at. Semitic, CANDIDATE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "JA-DU-RA-TI"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Yadurati** · personal name: Amorite-type yaqtul name + feminine -at (cf. Yadwiratum, Gelb 1980, no. 3209; Ya-du-ra-an, Ya-du-ri-im, Huffmon 1965, 38)
+**Yadurati** · personal name, an Amorite-type yaqtul name with feminine -at
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Yadurati |
-| Meaning | personal name: Amorite-type yaqtul name + feminine -at (cf. Yadwiratum, Gelb 1980, no. 3209; Ya-du-ra-an, Ya-du-ri-im, Huffmon 1965, 38) |
+| Meaning | personal name, an Amorite-type yaqtul name with feminine -at |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/d-w-r\|d-w-r]] |
 | Proto-Semitic | \*dVwVr- ~ \*dVrdVr- (#995) |

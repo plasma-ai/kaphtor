@@ -33,16 +33,16 @@ updated: 2026-11-13T15:03:19Z
 ***
 
 <!-- BEGIN kaphtor:summary -->
-The Kaphtor Lexicon sets out the Linear A record as read in kaphtor: 717 words drawn from 1,719 corpus records
-at 59 sites, each with its reading, the evidence for it, its tier and its rivals. The readings follow the Semitic
+The Kaphtor Lexicon sets out the Linear A record as read in kaphtor: 718 words drawn from 1,719 corpus records
+at 60 sites, each with its reading, the evidence for it, its tier and its rivals. The readings follow the Semitic
 decipherment of Cyrus Gordon and Tom di Mino, in which Minoan is Tinitic, an archaic branch of Central Semitic written
-in the syllabary whose values Linear B inherited. 623 words read as Semitic, 39 as Hurrian, 13 as
-Egyptian and 10 as Aegean loans or names, and 587 derive their Proto-Semitic root from its associated
+in the syllabary whose values Linear B inherited. 624 words read as Semitic, 39 as Hurrian, 13 as
+Egyptian and 10 as Aegean loans or names, and 588 derive their Proto-Semitic root from its associated
 database, so a reading runs from the tablet to its cognates.
 
-The tier carries the doubt. 19 readings are CONFIRMED, where logogram, sound and arithmetic agree; 78
-are PROBABLE, 272 CANDIDATE and 348 SPECULATIVE, and a reading rises one tier at a time, on new
-evidence. The words are filed by field: personal names (248), commodities (115), administrative
+The tier carries the doubt. 19 readings are CONFIRMED, where logogram, sound and arithmetic agree; 79
+are PROBABLE, 271 CANDIDATE and 349 SPECULATIVE, and a reading rises one tier at a time, on new
+evidence. The words are filed by field: personal names (248), commodities (116), administrative
 terms (76), personnel (60), ritual (68), toponyms (44) and divine names
 (34). Beside them stand one page for every inscription, 527 of 647 translations, the
 380 names of the onomasticon, the signs with their 42 resolved and proposed values, and the 362

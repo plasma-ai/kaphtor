@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/inscriptions/ZA/ZA/ZA10b
 title: "ZA10b"
-desc: "Tablet, Zakros, LMIB. Translation: incomplete."
+desc: "Tablet, Zakros, LMIB. Translation: incomplete (SPECULATIVE)."
 tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
 kind: "inscription"
 id: "ZA10b"
@@ -74,7 +74,7 @@ Unicode (Linear A block):
 
 ## Translation
 
-**no confidence given**, incomplete (status: incomplete).
+**SPECULATIVE**, incomplete (status: incomplete).
 
 > Wine 2; for the must, \*131B 5; mother(?) 6; \[...\] ʾAddē ('Father') 4; \[...\] Lallor ('Mourner') 2; Payare 1; Kakku-ʿAnēt ½; du 1
 

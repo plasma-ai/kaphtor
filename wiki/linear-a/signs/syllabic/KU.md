@@ -90,7 +90,7 @@ No CH ancestor—Linear A innovation, possibly from MM flying bird motif (Ferrar
 | [[wiki/linear-a/words/K/KU_PA3_RI_JA\|KU-PA₃-RI-JA]] | Kubariya | SPECULATIVE |
 | [[wiki/linear-a/words/K/KU_RA\|KU-RA]] | kulla | CANDIDATE |
 | [[wiki/linear-a/words/K/KU_RA_MU\|KU-RA-MU]] | Kurmu | CANDIDATE |
-| [[wiki/linear-a/words/K/KU_RE_JU\|KU-RE-JU]] | Kulelu | CANDIDATE |
+| [[wiki/linear-a/words/K/KU_RE_JU\|KU-RE-JU]] | Kulēlu | CANDIDATE |
 | [[wiki/linear-a/words/K/KU_RO\|KU-RO]] | kull | CONFIRMED |
 | [[wiki/linear-a/words/K/KU_RU_KU\|KU-RU-KU]] | kurkū | CANDIDATE |
 | [[wiki/linear-a/words/K/KU_RU_MA\|KU-RU-MA]] | kurma / gurma | PROBABLE |

@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/PA_NA_TU
 title: "PA-NA-TU"
-desc: "banātu / panātu / (Ku)bānatu: daughters (fem. pl.) / portions / Kubaba devotees (cf. KU-PA-NA-TU). Semitic, CANDIDATE."
+desc: "banātu / panātu / (Ku)bānatu: daughters (fem. pl.). Semitic, CANDIDATE."
 tags: ["names", "title", "semitic"]
 kind: "name"
 form: "PA-NA-TU"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**banātu / panātu / (Ku)bānatu** · daughters (fem. pl.) / portions / Kubaba devotees (cf. KU-PA-NA-TU)
+**banātu / panātu / (Ku)bānatu** · daughters (fem. pl.)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/titles\|Title]] |
 | Reading | banātu / panātu / (Ku)bānatu |
-| Meaning | daughters (fem. pl.) / portions / Kubaba devotees (cf. KU-PA-NA-TU) |
+| Meaning | daughters (fem. pl.) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/b-n-t\|b-n-t]] |
 | Proto-Semitic | \*bint- (#K0016) |

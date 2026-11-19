@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/S
 desc: "Words whose first sign begins with S."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-19T03:24:25Z
+updated: 2026-11-20T13:43:07Z
 ---
 
 # wiki/linear-a/words/S
@@ -117,11 +117,11 @@ updated: 2026-11-19T03:24:25Z
 
 [[wiki/linear-a/words/S/SI_KA_IOZa6|SI_KA_IOZa6]]: šiqā: Who Gives Drink (proposed second member of a divine epithet; participial/verbal noun of √š-q-y). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/S/SI_KI_NE|SI_KI_NE]]: Sikinet: stewardess or female administrator; compare masculine prefect/commissioner. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/S/SI_KI_NE|SI_KI_NE]]: Sikinet: stewardess, female administrator. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/S/SI_KI_RA|SI_KI_RA]]: Śikira: personal name, 'Hired' (√ś-k-r 'to hire'); rival šēkār 'strong drink'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/S/SI_MA|SI_MA]]: šima: name, renown, progeny (common noun in construct state; also attested as personal name Šima = Shem). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/S/SI_MA|SI_MA]]: šima: name, renown, progeny; also the personal name Šima, Shem. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/S/SI_MI_TA|SI_MI_TA]]: Śīmat: personal name (f.), on √ś-y-m 'to place, fix'; rival Šimʿat. Lexicon, SPECULATIVE (tier 1).
 

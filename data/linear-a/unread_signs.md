@@ -23,6 +23,7 @@ leaves this file.
 | `components`, `read_components` | the parts of a combined sign, and those the lexicon reads |
 | `on_file` | where a value stands: the file, the translation record where there is one, the value, and its standing where the file gives one |
 | `frequency`, `attestations`, `sites`, `cross_site` | undamaged occurrences, inscription ids (always a list), site names, and whether it crosses sites |
+| `word_parts` | on three entries: a document and the word the sign belongs to there, where a line or face end splits that word in the corpus record (`A` of A-SA-SA-RA-ME on PK Za 11); such a token is not counted |
 | `note` | the sign's contexts in the corpus and what the files hold for it, most ending "No reading." or "No lexicon entry."; written for the signs that hold back the most records and for the ligatures with an unnamed component, empty on the rest |
 
 A token counts only when it is undamaged and yields no run of two or more syllabic signs. `on_file` leaves out a

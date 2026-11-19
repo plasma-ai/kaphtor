@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/U/U_DI_RI_KI
 title: "U-DI-RI-KI"
-desc: "u-dirik: conjunction u- \"and\" + dirik \"way, path\"—Hebrew derek דֶּרֶךְ, Akkadian darāku \"to tread\"; cross-ref DA-RE-KU (ZA18a, same √d-r-k skeleton, different vowel class). Lexicon, CANDIDATE (tier 2)."
+desc: "u-dirik: and the way (u- 'and' with dirik 'way, path'). Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "compound", "fragmentary", "hapax", "noun"]
 kind: "word"
 form: "U-DI-RI-KI"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | u-dirik |
-| Meaning | conjunction u- "and" + dirik "way, path"—Hebrew derek דֶּרֶךְ, Akkadian darāku "to tread"; cross-ref DA-RE-KU (ZA18a, same √d-r-k skeleton, different vowel class) |
+| Meaning | and the way (u- 'and' with dirik 'way, path') |
 | Root | d-r-k |
 | Proto-Semitic | \*dirk- (#2639) |
 | Language layer | Semitic |

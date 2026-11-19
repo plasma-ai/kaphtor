@@ -9,6 +9,7 @@
   "codeRepository": "https://github.com/plasma-ai/kaphtor",
   "issueTracker": "https://github.com/plasma-ai/kaphtor/issues",
   "url": "https://www.plasma.ai/research/linear-a",
+  "identifier": "https://doi.org/10.5281/zenodo.24375016",
   "license": [
     "https://spdx.org/licenses/Apache-2.0",
     "https://spdx.org/licenses/CC-BY-4.0",

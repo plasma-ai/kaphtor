@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/S/SI_MA
 title: "SI-MA"
-desc: "šima: name, renown, progeny (common noun in construct state; also attested as personal name Šima = Shem). Lexicon, CANDIDATE (tier 2)."
+desc: "šima: name, renown, progeny; also the personal name Šima, Shem. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "hapax", "noun"]
 kind: "word"
 form: "SI-MA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | šima |
-| Meaning | name, renown, progeny (common noun in construct state; also attested as personal name Šima = Shem) |
+| Meaning | name, renown, progeny; also the personal name Šima, Shem |
 | Root | š-m (PS #621 \*(ʔi-)šim-) |
 | Proto-Semitic | \*(ʾi-)šim- (#621) |
 | Language layer | Semitic |

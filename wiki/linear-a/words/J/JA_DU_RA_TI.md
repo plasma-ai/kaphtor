@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/J/JA_DU_RA_TI
 title: "JA-DU-RA-TI"
-desc: "Yadurati: personal name: Amorite-type yaqtul name + feminine -at (cf. Yadwiratum, Gelb 1980, no. 3209; Ya-du-ra-an, Ya-du-ri-im, Huffmon 1965, 38). Lexicon, CANDIDATE (tier 2)."
+desc: "Yadurati: personal name, an Amorite-type yaqtul name with feminine -at. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "hapax", "personal_name"]
 kind: "word"
 form: "JA-DU-RA-TI"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Yadurati |
-| Meaning | personal name: Amorite-type yaqtul name + feminine -at (cf. Yadwiratum, Gelb 1980, no. 3209; Ya-du-ra-an, Ya-du-ri-im, Huffmon 1965, 38) |
+| Meaning | personal name, an Amorite-type yaqtul name with feminine -at |
 | Root | d-w-r |
 | Proto-Semitic | \*dVwVr- ~ \*dVrdVr- (#995) |
 | Language layer | Semitic |

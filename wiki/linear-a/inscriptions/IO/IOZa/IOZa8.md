@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/inscriptions/IO/IOZa/IOZa8
 title: "IOZa8"
-desc: "Stone vessel, Iouktas, LMI. Translation: complete."
+desc: "Stone vessel, Iouktas, LMI. Translation: complete (CANDIDATE)."
 tags: ["linear-a", "inscription", "translation-complete", "stone-vessel"]
 kind: "inscription"
 id: "IOZa8"
@@ -49,7 +49,7 @@ Unicode (Linear A block):
 
 ## Translation
 
-**no confidence given**, complete (status: fragmentary).
+**CANDIDATE**, complete (status: fragmentary).
 
 > \[…\] my Anat, my abode \[…\]
 

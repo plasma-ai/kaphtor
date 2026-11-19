@@ -6,7 +6,7 @@
 <p align="center">
   <a href="wiki/linear-a/inscriptions/_index.md"><img alt="corpus: 1,719 records" src="https://img.shields.io/badge/corpus-1,719%20records-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
   <a href="wiki/linear-a/inscriptions/_index.md"><img alt="translations: 527" src="https://img.shields.io/badge/translations-527-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
-  <a href="wiki/linear-a/words/_index.md"><img alt="lexicon: 717 entries" src="https://img.shields.io/badge/lexicon-717%20entries-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <a href="wiki/linear-a/words/_index.md"><img alt="lexicon: 718 entries" src="https://img.shields.io/badge/lexicon-718%20entries-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
   <a href="wiki/linear-a/words/_index.md"><img alt="names: 380" src="https://img.shields.io/badge/names-380-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
   <a href="wiki/semitic-roots/_index.md"><img alt="Semitic roots: 5,189" src="https://img.shields.io/badge/Semitic%20roots-5,189-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
   <a href="wiki/linear-a/signs/_index.md"><img alt="sign values: 42" src="https://img.shields.io/badge/sign%20values-42-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
@@ -14,6 +14,7 @@
   <a href="https://github.com/plasma-ai/kaphtor/actions/workflows/gate.yml"><img alt="gate" src="https://github.com/plasma-ai/kaphtor/actions/workflows/gate.yml/badge.svg"></a>
   <a href="LICENSE"><img alt="code: Apache-2.0" src="https://img.shields.io/badge/code-Apache--2.0-3a3229?style=flat-square&labelColor=0b0a08"></a>
   <a href="LICENSE-CC-BY-4.0"><img alt="data: CC BY 4.0" src="https://img.shields.io/badge/data-CC%20BY%204.0-3a3229?style=flat-square&labelColor=0b0a08"></a>
+  <a href="https://doi.org/10.5281/zenodo.24375016"><img alt="DOI: 10.5281/zenodo.24375016" src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.24375016-3a3229?style=flat-square&labelColor=0b0a08"></a>
 </p>
 
 **An open record of Linear A, and a toolkit for comparative Semitics.** The name is Caphtor (כַּפְתּוֹר), the Hebrew
@@ -253,6 +254,10 @@ at tier 1 and rises only by passing the tests above.
 
 To cite this record, use [CITATION.cff](CITATION.cff). GitHub's "Cite this repository" button reads it.
 
+Zenodo archives each release. [10.5281/zenodo.24375016](https://doi.org/10.5281/zenodo.24375016) cites the record in
+all its versions, and each release has a DOI of its own, listed on the record (1.0.0:
+[10.5281/zenodo.24375017](https://doi.org/10.5281/zenodo.24375017)).
+
 ## Acknowledgments
 
 The corpus builds on Louis Godart and Jean-Pierre Olivier's *Recueil des inscriptions en linéaire A* (GORILA) and its
@@ -272,7 +277,9 @@ noted, our original data and writing (`data/`, `wiki/`, `docs/` and the other do
 out below and in the `license` key of each datasheet:
 
 - **Protected dictionaries.** The root database gives the cited form, the source's siglum and the page, so a reader
-  can find the entry in the original. It reproduces no gloss or note from a closed source. The Pre-Greek lexicon
+  can find the entry in the original. A reflex quotes a gloss only when its cited source is in the public domain or
+  under an open licence. The reconstructions of 2,647 records and the English meanings of 2,644 come from the Semitic
+  Etymological Dictionary (SEDonline, SED I and SED II), a closed source, and each record cites its SED entry. The Pre-Greek lexicon
   takes from Beekes, Rosół and Furnée only headwords, the Semitic forms they cite with their dictionary references,
   pages, sections and verdicts recast as our codes, none of their text.
 - **The Linear A corpus.** `data/linear-a/corpus.json` builds on SigLA, whose data is under CC BY-NC-SA 4.0, and on

@@ -66,6 +66,6 @@ Read words on the same documents.
 
 | Word | Reading | Meaning |
 |---|---|---|
-| U-DI-RI-KI | u-dirik | conjunction u- "and" + dirik "way, path"—Hebrew derek דֶּרֶךְ, Akkadian darāku "to tread"; cross-ref DA-RE-KU (ZA18a, same √d-r-k skeleton, different vowel class) |
+| U-DI-RI-KI | u-dirik | and the way (u- 'and' with dirik 'way, path') |
 
 <!-- END kaphtor:record -->

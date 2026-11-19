@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/inscriptions/HT/HT/HT94b
 title: "HT94b"
-desc: "Tablet, Haghia Triada, LMIB. Translation: complete."
+desc: "Tablet, Haghia Triada, LMIB. Translation: complete (SPECULATIVE)."
 tags: ["linear-a", "inscription", "translation-complete", "tablet"]
 kind: "inscription"
 id: "HT94b"
@@ -69,7 +69,7 @@ Unicode (Linear A block):
 
 ## Translation
 
-**no confidence given**, complete (status: complete).
+**SPECULATIVE**, complete (status: complete).
 
 > Owed: Tūma 1, Patne 1, Dedī 1, Kikkaru 1, šarru 1. Total: 5. \[Section 2:\] RA-\[?\]-DE-ME-TE (unread) 1, \*21F-TU-\[?\] (unread) 1.
 

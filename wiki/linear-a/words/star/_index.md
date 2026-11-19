@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/star
 desc: "Words that open with a sign known by its number, such as *306."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-19T04:09:42Z
+updated: 2026-11-19T22:42:09Z
 ---
 
 # wiki/linear-a/words/star
@@ -23,7 +23,7 @@ updated: 2026-11-19T04:09:42Z
 
 [[wiki/linear-a/words/star/star164_RI_DA|star164_RI_DA]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/star/star171|star171]]: Unread sign (sign, unread); 2 occurrence(s).
+[[wiki/linear-a/words/star/star171|star171]]: Unread sign (sign, unread); 1 occurrence(s).
 
 [[wiki/linear-a/words/star/star188|star188]]: buṭnu: commodity ideogram, a Pistacia/terebinth product (resin, mastic or nuts). Lexicon, PROBABLE (tier 3).
 
@@ -35,7 +35,7 @@ updated: 2026-11-19T04:09:42Z
 
 [[wiki/linear-a/words/star/star188_star86|star188_star86]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/star/star21|star21]]: (logogram): sheep (livestock logogram, sex unmarked). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/star/star21|star21]]: (logogram): sheep (livestock logogram, sex unmarked). Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/star/star21F|star21F]]: (logogram): ewe (livestock logogram, standing alone before a numeral). Lexicon, PROBABLE (tier 3).
 

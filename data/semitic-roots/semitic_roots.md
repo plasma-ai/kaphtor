@@ -8,7 +8,7 @@ created: 2026-10-22T18:14:10Z
 updated: 2026-11-16T18:42:45Z
 ---
 
-`semitic_roots.json` holds `schema_version` (2), `description` and `roots`: 5,189 records with 26,458 reflexes.
+`semitic_roots.json` holds `schema_version` (2), `description` and `roots`: 5,189 records with 26,459 reflexes.
 Most reconstructions and meanings come from the Semitic Etymological Dictionary; `sed` cites the SEDonline entry
 (2,624 records) or the printed volume, SED I or SED II (23 records). The SA series are Epigraphic South Arabian headwords (Beeston 1982; Biella 1982), not comparative
 reconstructions.
@@ -35,7 +35,7 @@ Each reflex:
 | `gloss_withheld` | true when the source's quoted gloss was taken out of `text` |
 | `text_withheld` | true when the cell was the source's prose; only `lang` and `cite` are given |
 
-A reflex keeps its quoted gloss only when its cited source is `open` (3,448 reflexes: Biberstein-Kazimirski,
+A reflex keeps its quoted gloss only when its cited source is `open` (3,446 reflexes: Biberstein-Kazimirski,
 Lane, Payne Smith, Brockelmann, Jastrow, Freytag, BDB, the Aramaic Root Atlas,
 Anderson and Moser's *Protosemitic Root Derivations* and others). Other reflexes give the form and its citation, with
 any quoted gloss taken out. In every reflex, a source's commentary after the forms (derivations, hedges, remarks on
@@ -51,16 +51,20 @@ al-ʿArab) among them, and five more: Klein (*A Comprehensive Etymological Dicti
 by headword), Ricks 1982 (*A Lexicon of Epigraphic Qatabanian*, by headword; not the 1989 book SED cites as Ricks),
 Rubin 2018 (*Omani Mehri*, CC BY-NC-ND 4.0, by page), Al-Jallad 2026 (*Dictionary of the Inscriptions of Ancient
 North Arabia I: Safaitic*, CC BY-NC-ND 4.0, by page), Al-Jallad 2026b (*Dictionary of the Inscriptions of Ancient
-North Arabia II: Taymanitic*, CC BY-NC 4.0, by page) and Tāj or TA (*Tāj al-ʿArūs*, by volume:page).
+North Arabia II: Taymanitic*, CC BY-NC 4.0, by page) and Tāj or TA (*Tāj al-ʿArūs*, by volume:page). Sabaweb is
+the Sabaic dictionary of the Universität Jena (N. Nebes, 2012–2024, © Friedrich-Schiller-Universität Jena), cited by
+lemma number, its glosses withheld. Dillmann's *Lexicon linguae aethiopicae* (1865, public domain) was read in the
+TraCES digitization (github.com/BetaMasaheft/DillmannData, CC BY-NC-SA 4.0) and is cited by that edition's entry
+number; the glosses beside those forms are our English.
 
 | `source_class` | Reflexes |
 | --- | --- |
-| closed | 17,647 |
-| open | 3,447 |
+| closed | 17,649 |
+| open | 3,446 |
 | none | 2,746 |
-| mixed | 1,852 |
+| mixed | 1,853 |
 | unknown | 410 |
-| open_nc | 352 |
+| open_nc | 355 |
 
 `semitic_correspondences.json` is the consonant correspondence table (Huehnergard 2019, Table 3.2, p. 51): for
 each Proto-Semitic consonant, its reflex in Akkadian, Ugaritic, Hebrew, Aramaic, Arabic, Sabaic, Gəʿəz and Mehri

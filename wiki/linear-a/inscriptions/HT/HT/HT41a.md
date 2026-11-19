@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/inscriptions/HT/HT/HT41a
 title: "HT41a"
-desc: "Tablet, Haghia Triada, LMIB. Translation: complete."
+desc: "Tablet, Haghia Triada, LMIB. Translation: complete (SPECULATIVE)."
 tags: ["linear-a", "inscription", "translation-complete", "tablet"]
 kind: "inscription"
 id: "HT41a"
@@ -61,7 +61,7 @@ Unicode (Linear A block):
 
 ## Translation
 
-**no confidence given**, complete.
+**SPECULATIVE**, complete.
 
 > \[...broken...\] Small-portions: 10. Personnel category \*305—fat(?): 10; for fat(?): 10. Loin-meat(?); Pay: 2 1/3.
 

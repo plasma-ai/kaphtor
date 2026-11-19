@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/N/NA_TI
 title: "NA-TI"
-desc: "naṭʿ: the Plantation (place name), 4 men in the HT 97a roster beside PA-I-TO. Lexicon, SPECULATIVE (tier 1)."
+desc: "naṭʿ: the Plantation (place name). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "toponym"]
 kind: "word"
 form: "NA-TI"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | naṭʿ |
-| Meaning | the Plantation (place name), 4 men in the HT 97a roster beside PA-I-TO |
+| Meaning | the Plantation (place name) |
 | Root | n-ṭ-ʿ |
 | Proto-Semitic | \*nVṭVʕ- (#1163) |
 | Language layer | Semitic |

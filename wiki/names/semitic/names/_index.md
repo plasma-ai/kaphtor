@@ -3,7 +3,7 @@ name: wiki/names/semitic/names
 title: "Semitic names"
 desc: "The Semitic names, one page each."
 created: 2026-11-11T23:39:03Z
-updated: 2026-11-19T16:20:41Z
+updated: 2026-11-20T13:43:09Z
 ---
 
 # Semitic names
@@ -72,7 +72,7 @@ updated: 2026-11-19T16:20:41Z
 
 [[wiki/names/semitic/names/A_RE_TU_MI|A_RE_TU_MI]]: ʾarṣ̂-ummī: Earth is my mother (NWS theophoric compound PN; pre-Greek Artemis). Semitic, CANDIDATE.
 
-[[wiki/names/semitic/names/A_RI_NI_TA|A_RI_NI_TA]]: ʾarīnīt: She-of-the-Lion (feminine gentilic—priestess/cult title; cf. I-ZU-RI-NI-TA She-of-the-Bull). Semitic, CANDIDATE.
+[[wiki/names/semitic/names/A_RI_NI_TA|A_RI_NI_TA]]: ʾarīnīt: She-of-the-Lion (feminine gentilic; a priestess or cult title). Semitic, CANDIDATE.
 
 [[wiki/names/semitic/names/A_RI_SU|A_RI_SU]]: ḥārišu: the craftsman, artisan (title). Semitic, CANDIDATE.
 
@@ -92,7 +92,7 @@ updated: 2026-11-19T16:20:41Z
 
 [[wiki/names/semitic/names/A_TA_NA_JE|A_TA_NA_JE]]: ʾatanāya: My Giver / My Athena—1cs possessive on divine epithet (√y-t-n 'to give' + -ya 'my'). Semitic, CANDIDATE.
 
-[[wiki/names/semitic/names/A_TA_NA_TE|A_TA_NA_TE]]: ʾAtanat: she who gives (the name behind Athena). Semitic, PROBABLE.
+[[wiki/names/semitic/names/A_TA_NA_TE|A_TA_NA_TE]]: ʾAtanat: She who gives (divine name), the etymon of Greek Ἀθάνα, Ἀθήνη. Semitic, PROBABLE.
 
 [[wiki/names/semitic/names/A_TA_RE|A_TA_RE]]: ʿAṯtar: ʿAṯtar (the god), receiving figs; rival Hathor. Semitic, SPECULATIVE.
 
@@ -220,7 +220,7 @@ updated: 2026-11-19T16:20:41Z
 
 [[wiki/names/semitic/names/JA_DI_KI_TU|JA_DI_KI_TU]]: yā Diqqitu: O Diqqitu! (vocative invocation of the proposed goat-goddess Diqqitu). Semitic, PROBABLE.
 
-[[wiki/names/semitic/names/JA_DU_RA_TI|JA_DU_RA_TI]]: Yadurati: personal name: Amorite-type yaqtul name + feminine -at (cf. Yadwiratum, Gelb 1980, no. 3209; Ya-du-ra-an, Ya-du-ri-im, Huffmon 1965, 38). Semitic, CANDIDATE.
+[[wiki/names/semitic/names/JA_DU_RA_TI|JA_DU_RA_TI]]: Yadurati: personal name, an Amorite-type yaqtul name with feminine -at. Semitic, CANDIDATE.
 
 [[wiki/names/semitic/names/JA_I_NWA_RO|JA_I_NWA_RO]]: yā ʾanwaru: O Radiant One (vocative + elative of √n-w-r 'light'), divine epithet. Semitic, SPECULATIVE.
 
@@ -268,7 +268,7 @@ updated: 2026-11-19T16:20:41Z
 
 [[wiki/names/semitic/names/KA_NI_JA_MI|KA_NI_JA_MI]]: qāniy-yammi: Creator of the Sea (El epithet). Semitic, SPECULATIVE.
 
-[[wiki/names/semitic/names/KA_NU_TI|KA_NU_TI]]: Ganuti: place name, 25 men in the HT 97a roster beside PA-I-TO. Semitic, SPECULATIVE.
+[[wiki/names/semitic/names/KA_NU_TI|KA_NU_TI]]: Ganuti: place name. Semitic, SPECULATIVE.
 
 [[wiki/names/semitic/names/KA_PA|KA_PA]]: kapa(r): village, settlement (kapar); rival an institution. Semitic, CANDIDATE.
 
@@ -334,7 +334,7 @@ updated: 2026-11-19T16:20:41Z
 
 [[wiki/names/semitic/names/KU_RA_MU|KU_RA_MU]]: Kurmu: personal name, 'Vineyard' (√k-r-m). Semitic, CANDIDATE.
 
-[[wiki/names/semitic/names/KU_RE_JU|KU_RE_JU]]: Kulelu: Kulelu (personal name; cf. Middle Assyrian Kulilu). Semitic, CANDIDATE.
+[[wiki/names/semitic/names/KU_RE_JU|KU_RE_JU]]: Kulēlu: Kulēlu (personal name), 'little perfect one', the diminutive of kull 'all, whole'. Semitic, CANDIDATE.
 
 [[wiki/names/semitic/names/KU_RU_KU|KU_RU_KU]]: kurkū: saffron, crocus (PN from plant term). Semitic, CANDIDATE.
 
@@ -376,7 +376,7 @@ updated: 2026-11-19T16:20:41Z
 
 [[wiki/names/semitic/names/NA_MA|NA_MA]]: Naʿma: Naʿma 'Grace' (personal name). Semitic, SPECULATIVE.
 
-[[wiki/names/semitic/names/NA_TI|NA_TI]]: naṭʿ: the Plantation (place name), 4 men in the HT 97a roster beside PA-I-TO. Semitic, SPECULATIVE.
+[[wiki/names/semitic/names/NA_TI|NA_TI]]: naṭʿ: the Plantation (place name). Semitic, SPECULATIVE.
 
 [[wiki/names/semitic/names/NA_TU_star301_NE|NA_TU_star301_NE]]: natūnān: the dedicated one (qatūl passive participle of √n-t-n + -ān); rival nātānān 'the giver'. Semitic, PROBABLE.
 
@@ -398,7 +398,7 @@ updated: 2026-11-19T16:20:41Z
 
 [[wiki/names/semitic/names/PA_I_TO|PA_I_TO]]: Paito: Phaistos (place name). Semitic, CONFIRMED.
 
-[[wiki/names/semitic/names/PA_NA_TU|PA_NA_TU]]: banātu / panātu / (Ku)bānatu: daughters (fem. pl.) / portions / Kubaba devotees (cf. KU-PA-NA-TU). Semitic, CANDIDATE.
+[[wiki/names/semitic/names/PA_NA_TU|PA_NA_TU]]: banātu / panātu / (Ku)bānatu: daughters (fem. pl.). Semitic, CANDIDATE.
 
 [[wiki/names/semitic/names/PA_NU_QE|PA_NU_QE]]: Panūq: personal name, 'Pampered'; rival Amorite Banuq. Semitic, SPECULATIVE.
 
@@ -512,7 +512,7 @@ updated: 2026-11-19T16:20:41Z
 
 [[wiki/names/semitic/names/SI_DU_star34_KU_MI|SI_DU_star34_KU_MI]]: Ṣiduqi-kummi: the cella of Ṣiduq, the Just One (heading an aromatic list). Semitic, SPECULATIVE.
 
-[[wiki/names/semitic/names/SI_KI_NE|SI_KI_NE]]: Sikinet: stewardess or female administrator; compare masculine prefect/commissioner. Semitic, CANDIDATE.
+[[wiki/names/semitic/names/SI_KI_NE|SI_KI_NE]]: Sikinet: stewardess, female administrator. Semitic, CANDIDATE.
 
 [[wiki/names/semitic/names/SI_KI_RA|SI_KI_RA]]: Śikira: personal name, 'Hired' (√ś-k-r 'to hire'); rival šēkār 'strong drink'. Semitic, SPECULATIVE.
 
@@ -602,7 +602,7 @@ updated: 2026-11-19T16:20:41Z
 
 [[wiki/names/semitic/names/ZU_JU_PU2|ZU_JU_PU2]]: ṯulpu: flute; here the flute-player, the trade of TU-QE-NU Tuqnu; rival Hurrian Tulbiya. Semitic, CANDIDATE.
 
-[[wiki/names/semitic/names/ZU_RI_NI_MA|ZU_RI_NI_MA]]: Ṯūrinima: Bull- (personal name). Semitic, SPECULATIVE.
+[[wiki/names/semitic/names/ZU_RI_NI_MA|ZU_RI_NI_MA]]: Ṯūrinima: He-of-the-Bull (personal name). Semitic, SPECULATIVE.
 
 [[wiki/names/semitic/names/ZU_SU|ZU_SU]]: Ṣūṣu: personal name, 'chick'. Semitic, SPECULATIVE.
 

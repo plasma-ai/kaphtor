@@ -27,13 +27,13 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/semitic/names/I_DA_MI\|I-DA-MI]] | ʾIda=mi | Ida, 'the Hand', the sacred mountain, with emphatic enclitic -mi | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/I_KU_RI_NA\|I-KU-RI-NA]] | ʾiqurna | at the horn, the promontory (place name) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/egyptian/names/I_KU_TA\|I-KU-TA]] | Ḥikuptaḥ | place name: Memphis, the seat of Kothar (Ug. Ḥkpt), a recipient of cyperus; rival 'the Memphite' | [[wiki/names/egyptian/_index\|Egyptian]] | 1 |
-| [[wiki/names/semitic/names/KA_NU_TI\|KA-NU-TI]] | Ganuti | place name, 25 men in the HT 97a roster beside PA-I-TO | [[wiki/names/semitic/_index\|Semitic]] | 1 |
+| [[wiki/names/semitic/names/KA_NU_TI\|KA-NU-TI]] | Ganuti | place name | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/KA_PA\|KA-PA]] | kapa(r) | village, settlement (kapar); rival an institution | [[wiki/names/semitic/_index\|Semitic]] | 6 |
 | [[wiki/names/semitic/names/KA_TA_RE\|KA-TA-RE]] | Katare | Katara, a town of western Crete (place name; Linear B ka-ta-ra) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/KU_PA3_RI_JA\|KU-PA₃-RI-JA]] | Kubariya | Kubariya, a town of Ugarit, (wool) of Kubariya: a section heading; rival Gubliya 'the Byblian' | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/MA_DI\|MA-DI]] | Maʾdi | place name: a unit of men and livestock in the HT rosters; rival the Hurrian personal name Madi 'wisdom' | [[wiki/names/semitic/_index\|Semitic]] | 6 |
 | [[wiki/names/aegean/names/MA_RI\|MA-RI]] | Mari | Mari (place name; Linear B ma-ri); rival Mari on the Euphrates | [[wiki/names/aegean/_index\|Aegean]] | 1 |
-| [[wiki/names/semitic/names/NA_TI\|NA-TI]] | naṭʿ | the Plantation (place name), 4 men in the HT 97a roster beside PA-I-TO | [[wiki/names/semitic/_index\|Semitic]] | 1 |
+| [[wiki/names/semitic/names/NA_TI\|NA-TI]] | naṭʿ | the Plantation (place name) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/PA_I_TO\|PA-I-TO]] | Paito | Phaistos (place name) | [[wiki/names/semitic/_index\|Semitic]] | 2 |
 | [[wiki/names/semitic/names/PI_TA_KA_SE\|PI-TA-KA-SE]] | Bīt-kissē | House of the Throne, the crown estate (institution heading); rival the Hurrian name of PI-TA-KE-SI | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/aegean/names/RI_KA_TA\|RI-KA-TA]] | Likata | Lyktos (place name); compare Egyptian Ri-ka-ta | [[wiki/names/aegean/_index\|Aegean]] | 1 |

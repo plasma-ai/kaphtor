@@ -9,7 +9,7 @@ site: "Phaistos"
 support: "Roundel"
 period: "MMIIB"
 translation: "none"
-words: []
+words: ["*21"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -40,12 +40,16 @@ updated: 2026-10-24T16:17:50Z
 
 Transliteration, line by line:
 
-1. QI
+1. \*21
 
 Unicode (Linear A block):
 
 ```text
 𐘏
 ```
+
+## Lexicon words citing this document
+
+[[wiki/linear-a/words/star/star21|\*21]].
 
 <!-- END kaphtor:record -->

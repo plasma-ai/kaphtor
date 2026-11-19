@@ -97,6 +97,29 @@ def test_a_wrong_count_and_a_wrong_stat_are_reported():
     assert "frequency" in details and "attestations" in details and "sites" in details and "cross_site" in details
 
 
+SPLIT = CORPUS | {"D6": {"site": "Palaikastro", "transliteratedWords": ["RO-TA", "𐄁", "I", "\n", "SA-RA-ME"]}}
+
+
+def split_issues(entries):
+    document = doc(entries)
+    return s.check(document, s.occurrences(SPLIT, lex_hit, document["excluded"]), lex_hit)
+
+
+def test_a_sign_of_a_word_split_across_a_line_is_not_counted_once_the_entry_names_its_word():
+    # D6 writes I-SA-RA-ME over a line end; the corpus holds the I as a token of its own
+    found = split_issues(GOOD)
+    assert {(kind, sign) for kind, sign, _ in found} == {("field", "I")}
+    named = [GOOD[0] | {"word_parts": {"D6": "I-SA-RA-ME"}}, *GOOD[1:]]
+    assert split_issues(named) == []
+
+
+def test_a_named_word_part_the_corpus_no_longer_holds_is_reported():
+    stale = [GOOD[0] | {"word_parts": {"D9": "I-SA-RA-ME"}}, *GOOD[1:]]
+    found = issues(doc(stale))
+    assert [(kind, sign) for kind, sign, _ in found] == [("field", "I")]
+    assert "word_parts" in found[0][2] and "D9" in found[0][2]
+
+
 def test_the_ranking_counts_only_records_where_the_sign_is_the_last_thing_unread():
     listed = {e["sign"]: e for e in GOOD}
     blocked = s.sole_blockers(CORPUS, translated={"D2"}, listed=listed, lex_hit=lex_hit, named={"KU-RO"})

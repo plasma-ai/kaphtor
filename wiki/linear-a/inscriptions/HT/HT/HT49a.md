@@ -44,7 +44,7 @@ Transliteration, line by line:
 2. \]\[?\]-RA₂-DU\[
 3. TA-NA-TI 1
 4. 𐝫
-5. RI 1
+5. \]-RI 1
 6. SU-KI
 7. 𐝫 1
 8. TI-DU-NI 1
@@ -98,7 +98,7 @@ Unicode (Linear A block):
 |---|---|---|---|---|
 | [[wiki/linear-a/words/Q/q_RA2_DU_broken_both\|&#93;&#91;?&#93;-RA₂-DU&#91;]] |  | broken word |  | unread |
 | [[wiki/linear-a/words/T/TA_NA_TI\|TA-NA-TI]] | Tanāti | Tanit variant (theonym or personal name), 1 | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/R/RI\|RI]] |  | end of a broken word, 1 |  |  |
+| RI |  | end of a broken word, 1 |  |  |
 | [[wiki/linear-a/words/S/SU_KI\|SU-KI]] |  | word (unread), 1 |  | unread |
 | [[wiki/linear-a/words/T/TI_DU_NI\|TI-DU-NI]] |  | word (unread), 1\[ |  | unread |
 | [[wiki/linear-a/words/S/SI_RA\|SI-RA]] |  | broken word, 1 |  | unread |
@@ -125,6 +125,6 @@ Several entries broken at the line ends (GORILA I 93).
 
 ## Corpus note
 
-GORILA I 93: .1 \]\[·\]-RA₂-DỤ\[, a lost first sign, not a divider; .2 \]TẠ-NA-TI 1\[, no divider before the numeral. The \] before TA-NA-TI stands in the copie tabulaire alone, where it marks the broken end of the line above; the normalized copy has none, and the drawing sets TA at the original left edge.
+GORILA I 93: .1 \]\[·\]-RA₂-DỤ\[, a lost first sign, not a divider; .2 \]TẠ-NA-TI 1\[, no divider before the numeral. The \] before TA-NA-TI stands in the copie tabulaire alone, where it marks the broken end of the line above; the normalized copy has none, and the drawing sets TA at the original left edge. .3 \]-RI 1: RI ends a lost word.
 
 <!-- END kaphtor:record -->

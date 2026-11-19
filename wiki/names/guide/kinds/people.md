@@ -44,7 +44,7 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/semitic/names/A_RE_NE\|A-RE-NE]] | ʾAren | Aren, a man's name, the owner of the ring | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/A_RE_SA_NA\|A-RE-SA-NA]] | ʾAriš-ān | 'The Requested One', personal name from √ʾ-r-š 'to request, desire' with -ān; rival Ḥarišān 'craftsman' | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/A_RE_TU_MI\|A-RE-TU-MI]] | ʾarṣ̂-ummī | Earth is my mother (NWS theophoric compound PN; pre-Greek Artemis) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
-| [[wiki/names/semitic/names/A_RI_NI_TA\|A-RI-NI-TA]] | ʾarīnīt | She-of-the-Lion (feminine gentilic—priestess/cult title; cf. I-ZU-RI-NI-TA She-of-the-Bull) | [[wiki/names/semitic/_index\|Semitic]] | 2 |
+| [[wiki/names/semitic/names/A_RI_NI_TA\|A-RI-NI-TA]] | ʾarīnīt | She-of-the-Lion (feminine gentilic; a priestess or cult title) | [[wiki/names/semitic/_index\|Semitic]] | 2 |
 | [[wiki/names/hurrian/names/A_RO_TE\|A-RO-TE]] | Ḫaluti | Ḫaluti (woman's name, seal owner); rival ʾālôt 'oaths, curses' | [[wiki/names/hurrian/_index\|Hurrian]] | 1 |
 | [[wiki/names/hurrian/names/A_RU\|A-RU]] | Ḫaru | Ḫaru (Hurrian personal name); rival the Semitic name Ḫayru 'Excellent' | [[wiki/names/hurrian/_index\|Hurrian]] | 2 |
 | [[wiki/names/hurrian/names/A_RU_DA_RA\|A-RU-DA-RA]] | Arum-adal | Arum-adal (Hurrian personal name), ar=o=m-adal 'The Strong one gave him' | [[wiki/names/hurrian/_index\|Hurrian]] | 1 |
@@ -102,7 +102,7 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/semitic/names/I_ZU_RI_NI_TA\|I-ZU-RI-NI-TA]] | ʾi-ṯawrīnīta | She-of-the-Bull (feminine personal/divine name) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/JA_DA_SU\|JA-DA-SU]] | Yadaʿ-Šum | personal name, 'Šum knew' | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/JA_DI\|JA-DI]] | Yadi | Hand (personal name); rivals Yadīn 'he judges', Yadiʿ 'he knows', Ugarit ydy 'may (the god) establish' | [[wiki/names/semitic/_index\|Semitic]] | 1 |
-| [[wiki/names/semitic/names/JA_DU_RA_TI\|JA-DU-RA-TI]] | Yadurati | personal name: Amorite-type yaqtul name + feminine -at (cf. Yadwiratum, Gelb 1980, no. 3209; Ya-du-ra-an, Ya-du-ri-im, Huffmon 1965, 38) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
+| [[wiki/names/semitic/names/JA_DU_RA_TI\|JA-DU-RA-TI]] | Yadurati | personal name, an Amorite-type yaqtul name with feminine -at | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/JA_KU\|JA-KU]] | Yaqū | personal name, Amorite type (yaqtul of QWJ) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/JA_KU_TI\|JA-KU-TI]] | Yaqūti | personal name, Amorite type: base JA-KU with -TI | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/JA_MA_U_TI\|JA-MA-U-TI]] | Yamwuti | personal name, Amorite type (yaqtul of √m-w-t) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
@@ -147,7 +147,7 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/semitic/names/KU_PA_JA\|KU-PA-JA]] | Kubbaya | personal name, hypocoristic of Kubaba in -aya, cf. Amorite Kubbiya | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/hurrian/names/KU_PA_ZU\|KU-PA-ZU]] | Kapizzi | Kapizzi (Hurrian personal name), 'kapizzi-jewel'; rival kupṯu 'headdress' | [[wiki/names/hurrian/_index\|Hurrian]] | 1 |
 | [[wiki/names/semitic/names/KU_RA_MU\|KU-RA-MU]] | Kurmu | personal name, 'Vineyard' (√k-r-m) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
-| [[wiki/names/semitic/names/KU_RE_JU\|KU-RE-JU]] | Kulelu | Kulelu (personal name; cf. Middle Assyrian Kulilu) | [[wiki/names/semitic/_index\|Semitic]] | 2 |
+| [[wiki/names/semitic/names/KU_RE_JU\|KU-RE-JU]] | Kulēlu | Kulēlu (personal name), 'little perfect one', the diminutive of kull 'all, whole' | [[wiki/names/semitic/_index\|Semitic]] | 2 |
 | [[wiki/names/semitic/names/KU_RU_KU\|KU-RU-KU]] | kurkū | saffron, crocus (PN from plant term) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/hurrian/names/KU_TU_KO_RE\|KU-TU-KO-RE]] | Kutukkore | Kutukkore (Hurrian personal name) | [[wiki/names/hurrian/_index\|Hurrian]] | 1 |
 | [[wiki/names/semitic/names/KU_ZU_NI\|KU-ZU-NI]] | Kuṯinu | personal name, as Ugaritic Kušinu (kṯn) | [[wiki/names/semitic/_index\|Semitic]] | 2 |
@@ -259,7 +259,7 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/aegean/names/WI_SA\|WI-SA]] | Wisa | Wisa (personal name) | [[wiki/names/aegean/_index\|Aegean]] | 1 |
 | [[wiki/names/semitic/names/WI_SA_SA_NE\|WI-SA-SA-NE]] | Wiššān | Sleepy (personal name); rival √y-š-š 'aged' | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/WI_TE_JA_MU\|WI-TE-JA-MU]] | Widd-tiyāmu | Beloved of the Deep (title or name) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
-| [[wiki/names/semitic/names/ZU_RI_NI_MA\|ZU-RI-NI-MA]] | Ṯūrinima | Bull- (personal name) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
+| [[wiki/names/semitic/names/ZU_RI_NI_MA\|ZU-RI-NI-MA]] | Ṯūrinima | He-of-the-Bull (personal name) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/ZU_SU\|ZU-SU]] | Ṣūṣu | personal name, 'chick' | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/unread/names/ZU_star22F_DI\|ZU-\*22F-DI]] |  |  | [[wiki/names/unread/_index\|Unread]] | 1 |
 | [[wiki/names/semitic/names/star47_NU_RA_JA\|\*47-NU-RA-JA]] | Šū-nūraya | personal name, 'He is light'; rival mənōrāya 'lampstand (man)' | [[wiki/names/semitic/_index\|Semitic]] | 1 |

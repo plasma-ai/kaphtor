@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/inscriptions/TEL/TELZb/TELZb1
 title: "TELZb1"
-desc: "Clay vessel, Tel Haror. Translation: complete."
+desc: "Clay vessel, Tel Haror. Translation: complete (CANDIDATE)."
 tags: ["linear-a", "inscription", "translation-complete", "clay-vessel"]
 kind: "inscription"
 id: "TELZb1"
@@ -49,7 +49,7 @@ Unicode (Linear A block):
 
 ## Translation
 
-**no confidence given**, complete (status: complete).
+**CANDIDATE**, complete (status: complete).
 
 > Ox, cloth, figs: three logograms.
 

@@ -55,7 +55,7 @@ Unicode (Linear A block):
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/Z/ZU_RI_NI_MA\|ZU-RI-NI-MA]] | Ṯūrinima | Bull- (personal name) | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/Z/ZU_RI_NI_MA\|ZU-RI-NI-MA]] | Ṯūrinima | He-of-the-Bull (personal name) | SPECULATIVE | SPECULATIVE (lexicon) |
 
 ### Source
 

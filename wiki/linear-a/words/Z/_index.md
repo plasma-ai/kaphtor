@@ -2,14 +2,14 @@
 name: wiki/linear-a/words/Z
 desc: "Words whose first sign begins with Z."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-12T00:26:03Z
+updated: 2026-11-20T13:43:09Z
 ---
 
 # wiki/linear-a/words/Z
 
 [[wiki/linear-a/words/_index|..]]
 
-[[wiki/linear-a/words/Z/ZA|ZA]]: Unread sign (syllabogram, unread); 2 occurrence(s).
+[[wiki/linear-a/words/Z/ZA|ZA]]: Unread sign (syllabogram, unread); 1 occurrence(s).
 
 [[wiki/linear-a/words/Z/ZA_SI_ZU|ZA_SI_ZU]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -23,7 +23,7 @@ updated: 2026-11-12T00:26:03Z
 
 [[wiki/linear-a/words/Z/ZU|ZU]]: ṯūm: garlic (logographic abbreviation). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/Z/ZU_DI|ZU_DI]]: ṯudī: breast (√ṯ-d-y, PS *ṯad-); at IOZa6 first member of ZU-DI SI-KA (ṯudī-šiqā). Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/Z/ZU_DI|ZU_DI]]: ṯudī: breast; the first member of ZU-DI SI-KA ṯudī-šiqā 'Breast-Who-Gives-Drink'. Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/Z/ZU_DI_RA|ZU_DI_RA]]: ṯudira: waitress, girl (Ug. ṯdr, a Hurro-Hittite loan from šiduri); rival the name Šituri. Lexicon, CANDIDATE (tier 2).
 
@@ -33,7 +33,7 @@ updated: 2026-11-12T00:26:03Z
 
 [[wiki/linear-a/words/Z/ZU_JU_PU2|ZU_JU_PU2]]: ṯulpu: flute; here the flute-player, the trade of TU-QE-NU Tuqnu; rival Hurrian Tulbiya. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/Z/ZU_RI_NI_MA|ZU_RI_NI_MA]]: Ṯūrinima: Bull- (personal name). Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/Z/ZU_RI_NI_MA|ZU_RI_NI_MA]]: Ṯūrinima: He-of-the-Bull (personal name). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/Z/ZU_SU|ZU_SU]]: Ṣūṣu: personal name, 'chick'. Lexicon, SPECULATIVE (tier 1).
 

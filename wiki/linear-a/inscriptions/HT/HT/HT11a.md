@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/inscriptions/HT/HT/HT11a
 title: "HT11a"
-desc: "Tablet, Haghia Triada, LMIB. Translation: incomplete."
+desc: "Tablet, Haghia Triada, LMIB. Translation: incomplete (SPECULATIVE)."
 tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
 kind: "inscription"
 id: "HT11a"
@@ -62,7 +62,7 @@ Unicode (Linear A block):
 
 ## Translation
 
-**no confidence given**, incomplete (status: incomplete).
+**SPECULATIVE**, incomplete (status: incomplete).
 
 > ʾArura \[…\]3. Qarna 2. \*322-RI 1. Total 10. Azzuya 1. Personnel (VIR+\[?\]-I) 3. TA₂ 15.
 

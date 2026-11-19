@@ -1,11 +1,11 @@
 ---
 name: wiki/linear-a/inscriptions/AN/ANZb/ANZb1
 title: "ANZb1"
-desc: "Clay vessel, unknown, LMI. Translation: complete (CANDIDATE)."
+desc: "Clay vessel, Anemospilia, LMI. Translation: complete (CANDIDATE)."
 tags: ["linear-a", "inscription", "translation-complete", "clay-vessel"]
 kind: "inscription"
 id: "ANZb1"
-site: "unknown"
+site: "Anemospilia"
 support: "Clay vessel"
 period: "LMI"
 translation: "complete"
@@ -26,7 +26,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Site | unknown |
+| Site | Anemospilia |
 | Findspot |  |
 | Support | Clay vessel |
 | Period | LMI |

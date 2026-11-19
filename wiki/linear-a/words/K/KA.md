@@ -65,7 +65,7 @@ di Mino; CAD K; GlOS 1; Montecchi 2010; Uchitel 2016b
 | [[wiki/linear-a/inscriptions/HT/HT/HT93a\|HT93a]] | Haghia Triada | Tablet | incomplete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HT/HT49b\|HT49b]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/GO/GO/GO2r\|GO2r]] | Gournia | Tablet | incomplete |
-| [[wiki/linear-a/inscriptions/KH/KH/KH36\|KH36]] | Khania | Tablet | none |
+| [[wiki/linear-a/inscriptions/KH/KH/KH36\|KH36]] | Khania | Tablet | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/MI/MI/MI2\|MI2]] | Milos | Tablet | none; form not in transliteration |
 
 ## In translations

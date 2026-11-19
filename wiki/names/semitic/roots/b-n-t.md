@@ -28,7 +28,7 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/PA_NA_TU\|PA-NA-TU]] | banātu / panātu / (Ku)bānatu | daughters (fem. pl.) / portions / Kubaba devotees (cf. KU-PA-NA-TU) | 1 |
+| [[wiki/names/semitic/names/PA_NA_TU\|PA-NA-TU]] | banātu / panātu / (Ku)bānatu | daughters (fem. pl.) | 1 |
 | [[wiki/names/semitic/names/PI_TA_JA\|PI-TA-JA]] | Bittaya | personal name, 'daughter of Ya' | 1 |
 
 <!-- END kaphtor:record -->

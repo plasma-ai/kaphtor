@@ -39,6 +39,5 @@ updated: 2026-10-24T16:17:50Z
 
 Transliteration, line by line:
 
-1. None
 
 <!-- END kaphtor:record -->

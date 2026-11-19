@@ -2,14 +2,14 @@
 name: wiki/linear-a/words/N
 desc: "Words whose first sign begins with N."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-17T22:47:56Z
+updated: 2026-11-20T13:43:04Z
 ---
 
 # wiki/linear-a/words/N
 
 [[wiki/linear-a/words/_index|..]]
 
-[[wiki/linear-a/words/N/NA|NA]]: Unread sign (syllabogram, unread); 5 occurrence(s).
+[[wiki/linear-a/words/N/NA|NA]]: Unread sign (syllabogram, unread); 0 occurrence(s).
 
 [[wiki/linear-a/words/N/NA_A_PA3|NA_A_PA3]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -21,13 +21,13 @@ updated: 2026-11-17T22:47:56Z
 
 [[wiki/linear-a/words/N/NA_SI|NA_SI]]: naśīʾ: chief, prince (naśīʾ), broken before NA. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/N/NA_TI|NA_TI]]: naṭʿ: the Plantation (place name), 4 men in the HT 97a roster beside PA-I-TO. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/N/NA_TI|NA_TI]]: naṭʿ: the Plantation (place name). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/N/NA_TU_star301_NE|NA_TU_star301_NE]]: natūnān: the dedicated one (qatūl passive participle of √n-t-n + -ān); rival nātānān 'the giver'. Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/N/NA_q_DA_DA|NA_q_DA_DA]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/N/NA_star21F_NE_MI_NA|NA_star21F_NE_MI_NA]]: naḫnemina: nẖnm-oil, one of the seven sacred oils (Egyptian loanword); rival personal name. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/N/NA_star21F_NE_MI_NA|NA_star21F_NE_MI_NA]]: naḫnemina: nẖnm-oil, one of the seven sacred oils (Egyptian loanword); rival a personal name. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/N/NA_star21F_NE_broken_end|NA_star21F_NE_broken_end]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -56,8 +56,6 @@ updated: 2026-11-17T22:47:56Z
 [[wiki/linear-a/words/N/NI_RA|NI_RA]]: Unread (role only): personal name; 1 occurrence(s).
 
 [[wiki/linear-a/words/N/NI_TA_broken_both|NI_TA_broken_both]]: Unread (role only): personal name; 1 occurrence(s).
-
-[[wiki/linear-a/words/N/NU|NU]]: Unread sign (syllabogram, unread); 1 occurrence(s).
 
 [[wiki/linear-a/words/N/NU_DU_star331|NU_DU_star331]]: Unread (role only): personal name; 1 occurrence(s).
 

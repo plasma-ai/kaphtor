@@ -23,6 +23,14 @@ keywords:
   - Crete
 repository-code: "https://github.com/plasma-ai/kaphtor"
 url: "https://www.plasma.ai/research/linear-a"
+doi: "10.5281/zenodo.24375016"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24375016"
+    description: "The Zenodo archive of kaphtor, all versions"
+  - type: doi
+    value: "10.5281/zenodo.24375017"
+    description: "kaphtor 1.0.0"
 version: "1.0.0"
 date-released: "2026-11-19"
 license:

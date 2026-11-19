@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/inscriptions/ZA/ZA/ZA4a
 title: "ZA4a"
-desc: "Tablet, Zakros, LMIB. Translation: incomplete."
+desc: "Tablet, Zakros, LMIB. Translation: incomplete (SPECULATIVE)."
 tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
 kind: "inscription"
 id: "ZA4a"
@@ -74,7 +74,7 @@ Unicode (Linear A block):
 
 ## Translation
 
-**no confidence given**, incomplete (status: incomplete).
+**SPECULATIVE**, incomplete (status: incomplete).
 
 > \[…\] 5; JA-TO-JA\[…\] 3; ʿAttiru 4; Yapaʿu 1\[; \[?\]-TU-ME-SE 18; gift for the Heroes 4; wine-stewards 13; pourings 5; must 50; jars 3. (Verso ZA4b: WINE 104.)
 

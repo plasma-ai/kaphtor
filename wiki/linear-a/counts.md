@@ -27,7 +27,7 @@ Every number on this page is computed from the data files.
 | Translations incomplete | 120 |
 | Corpus records | 1,719 |
 | Documents | 1,603 |
-| Lexicon entries | 717 |
+| Lexicon entries | 718 |
 | Resolved signs (syllabic + logogram) | 5 (2 + 3) |
 | Fraction values resolved | 3 |
 | Onomasticon entries | 380 |
@@ -54,9 +54,9 @@ GORILA 1,427 and RILA-S1 107 documents are published to the end of 2023 (1,534 i
 | Confidence | Tier | Entries |
 |---|---|---|
 | CONFIRMED | 4 | 19 |
-| PROBABLE | 3 | 78 |
-| CANDIDATE | 2 | 272 |
-| SPECULATIVE | 1 | 348 |
+| PROBABLE | 3 | 79 |
+| CANDIDATE | 2 | 271 |
+| SPECULATIVE | 1 | 349 |
 
 ## Signs by status
 
@@ -92,10 +92,10 @@ Sites with ten or more records; every site is in [[wiki/linear-a/by_site|by site
 | Site | Records | Documents | Translated (complete) | Lexicon words attested |
 |---|---|---|---|---|
 | Haghia Triada | 1,111 | 1,053 | 367 | 402 |
-| Khania | 226 | 223 | 43 | 85 |
-| Phaistos | 66 | 48 | 13 | 46 |
+| Khania | 226 | 223 | 43 | 86 |
+| Phaistos | 66 | 48 | 13 | 47 |
 | Knossos | 57 | 51 | 19 | 58 |
-| Zakros | 53 | 40 | 8 | 98 |
+| Zakros | 53 | 40 | 8 | 99 |
 | Palaikastro | 25 | 25 | 10 | 40 |
 | Malia | 22 | 11 | 4 | 10 |
 | Thera | 19 | 18 | 3 | 3 |

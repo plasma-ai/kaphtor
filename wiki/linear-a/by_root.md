@@ -141,7 +141,7 @@ Entries grouped by a consonantal key of their `root` field. The key is lossy: it
 | llr | l-l-r | [[wiki/linear-a/words/R/RA2_RO_RE\|RA₂-RO-RE]] |
 | llʔ | l-l-ʾ | [[wiki/linear-a/words/R/RE_RO\|RE-RO]] |
 | lnkkknš | loan (Akk. kunāšu) | [[wiki/linear-a/words/G/GRA_plus_KU\|GRA+KU]] |
-| lrmn | l-r-m-n | [[wiki/linear-a/words/R/RI_RU_MA\|RI-RU-MA]] |
+| lrmn | l-r-m-n | [[wiki/linear-a/words/R/RI_RU_MA\|RI-RU-MA]], [[wiki/linear-a/words/R/RU\|RU]] |
 | lʔy | l-ʾ-y | [[wiki/linear-a/words/R/RI_TA_JE\|RI-TA-JE]] |
 | mdr | m-d-r | [[wiki/linear-a/words/M/MI_DA_RU_RA\|MI-DA-RU-RA]] |
 | mgd | m-g-d | [[wiki/linear-a/words/M/MA_KI_DE_TE\|MA-KI-DE-TE]], [[wiki/linear-a/words/M/ME_KI_DI\|ME-KI-DI]] |

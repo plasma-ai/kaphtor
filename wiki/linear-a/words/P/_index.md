@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/P
 desc: "Words whose first sign begins with P."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-18T21:06:55Z
+updated: 2026-11-20T13:43:05Z
 ---
 
 # wiki/linear-a/words/P
@@ -53,7 +53,7 @@ updated: 2026-11-18T21:06:55Z
 
 [[wiki/linear-a/words/P/PA_KU|PA_KU]]: pak: flask, vial (small libation/oil vessel). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/P/PA_NA_TU|PA_NA_TU]]: banātu / panātu / (Ku)bānatu: daughters (fem. pl.) / portions / Kubaba devotees (cf. KU-PA-NA-TU). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/P/PA_NA_TU|PA_NA_TU]]: banātu / panātu / (Ku)bānatu: daughters (fem. pl.). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/P/PA_NU_QE|PA_NU_QE]]: Panūq: personal name, 'Pampered'; rival Amorite Banuq. Lexicon, SPECULATIVE (tier 1).
 

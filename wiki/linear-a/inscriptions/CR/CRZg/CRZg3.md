@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/inscriptions/CR/CRZg/CRZg3
 title: "CRZg3"
-desc: "Amygdaloid stone seal, Crete (?). Translation: complete."
+desc: "Amygdaloid stone seal, Crete (?). Translation: complete (CANDIDATE)."
 tags: ["linear-a", "inscription", "translation-complete", "amygdaloid-stone-seal"]
 kind: "inscription"
 id: "CRZg3"
@@ -49,7 +49,7 @@ Unicode (Linear A block):
 
 ## Translation
 
-**no confidence given**, complete (status: doubtful).
+**CANDIDATE**, complete (status: doubtful).
 
 > Wine (?) — figs (?) — RA-type wine (?).
 

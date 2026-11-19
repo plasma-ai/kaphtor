@@ -27,6 +27,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/KA_NU_TI\|KA-NU-TI]] | Ganuti | place name, 25 men in the HT 97a roster beside PA-I-TO | 1 |
+| [[wiki/names/semitic/names/KA_NU_TI\|KA-NU-TI]] | Ganuti | place name | 1 |
 
 <!-- END kaphtor:record -->

@@ -1,12 +1,12 @@
 ---
 name: wiki/linear-a/words/R/RA2
 title: "RA₂"
-desc: "Unread sign (syllabogram, unread); 3 occurrence(s)."
+desc: "Unread sign (syllabogram, unread); 1 occurrence(s)."
 tags: ["linear-a", "word", "unread"]
 kind: "word"
 form: "RA₂"
 datasets: ["unread_signs"]
-attestations: ["HT125a", "HT130", "KNWc23"]
+attestations: ["KNWc23"]
 created: 2026-11-12T00:26:03Z
 updated: 2026-11-12T00:26:03Z
 ---
@@ -25,14 +25,12 @@ updated: 2026-11-12T00:26:03Z
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT125a\|HT125a]] | Haghia Triada | Tablet | incomplete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT130\|HT130]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/KN/KNWc/KNWc23\|KNWc23]] | Knossos | Roundel | none |
 
 ## Unread sign
 
 A syllabogram. Status **unread** (nothing on file).
 
-Alone on the roundel KN Wc 23. On HT 125a and HT 130 it follows a lost stretch, on tablets that also spell SA-RA₂.
+Alone on the roundel KN Wc 23. HT 125a .1 and HT 130 .3 have \]RA₂\[, the sign dotted and broken on both sides (GORILA I 215, 225), on tablets that also spell SA-RA₂.
 
 <!-- END kaphtor:record -->

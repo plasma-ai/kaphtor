@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/KA_NU_TI
 title: "KA-NU-TI"
-desc: "Ganuti: place name, 25 men in the HT 97a roster beside PA-I-TO. Semitic, SPECULATIVE."
+desc: "Ganuti: place name. Semitic, SPECULATIVE."
 tags: ["names", "place-name", "semitic"]
 kind: "name"
 form: "KA-NU-TI"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Ganuti** · place name, 25 men in the HT 97a roster beside PA-I-TO
+**Ganuti** · place name
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/places\|Place name]] |
 | Reading | Ganuti |
-| Meaning | place name, 25 men in the HT 97a roster beside PA-I-TO |
+| Meaning | place name |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/ganuti\|Ganuti]] |
 | Reading's standing | SPECULATIVE |

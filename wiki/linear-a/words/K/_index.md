@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K
 desc: "Words whose first sign begins with K."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-17T19:56:23Z
+updated: 2026-11-20T13:43:03Z
 ---
 
 # wiki/linear-a/words/K
@@ -45,7 +45,7 @@ updated: 2026-11-17T19:56:23Z
 
 [[wiki/linear-a/words/K/KA_NI_JA_MI|KA_NI_JA_MI]]: qāniy-yammi: Creator of the Sea (El epithet). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/K/KA_NU_TI|KA_NU_TI]]: Ganuti: place name, 25 men in the HT 97a roster beside PA-I-TO. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/K/KA_NU_TI|KA_NU_TI]]: Ganuti: place name. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/K/KA_PA|KA_PA]]: kapa(r): village, settlement (kapar); on HT 140 a vessel (kappar). Lexicon, CANDIDATE (tier 2).
 
@@ -215,7 +215,7 @@ updated: 2026-11-17T19:56:23Z
 
 [[wiki/linear-a/words/K/KU_RE|KU_RE]]: Unread (role only): personal name; 2 occurrence(s).
 
-[[wiki/linear-a/words/K/KU_RE_JU|KU_RE_JU]]: Kulelu: Kulelu (personal name; cf. Middle Assyrian Kulilu). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/K/KU_RE_JU|KU_RE_JU]]: Kulēlu: Kulēlu (personal name), 'little perfect one', the diminutive of kull 'all, whole'. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/K/KU_RO|KU_RO]]: kull: total, sum (accounting term). Lexicon, CONFIRMED (tier 4).
 

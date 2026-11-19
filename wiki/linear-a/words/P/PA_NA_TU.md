@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/P/PA_NA_TU
 title: "PA-NA-TU"
-desc: "banātu / panātu / (Ku)bānatu: daughters (fem. pl.) / portions / Kubaba devotees (cf. KU-PA-NA-TU). Lexicon, CANDIDATE (tier 2)."
+desc: "banātu / panātu / (Ku)bānatu: daughters (fem. pl.). Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "hapax", "kinship", "noun", "personnel"]
 kind: "word"
 form: "PA-NA-TU"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | banātu / panātu / (Ku)bānatu |
-| Meaning | daughters (fem. pl.) / portions / Kubaba devotees (cf. KU-PA-NA-TU) |
+| Meaning | daughters (fem. pl.) |
 | Root | b-n-t (PS \*bint- "daughter") / p-n-y (PS \*pan- "face") / Kubaba derivative |
 | Proto-Semitic | \*bint- (#K0016) |
 | Language layer | Semitic |

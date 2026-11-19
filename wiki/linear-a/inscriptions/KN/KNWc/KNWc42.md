@@ -39,7 +39,7 @@ updated: 2026-10-24T16:17:50Z
 
 Transliteration, line by line:
 
-1. NA O
+1. \]-NA O
 
 Unicode (Linear A block):
 
@@ -49,6 +49,6 @@ Unicode (Linear A block):
 
 ## Corpus note
 
-Like KN Wc 23, the roundel may be inscribed in Cretan Hieroglyphic (Schoep 2026, 142).
+Like KN Wc 23, the roundel may be inscribed in Cretan Hieroglyphic (Schoep 2026, 142). The drawing gives two faces: one sign on the first, \]-NA on the second, where NA ends a word whose beginning is lost.
 
 <!-- END kaphtor:record -->

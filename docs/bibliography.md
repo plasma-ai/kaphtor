@@ -962,6 +962,9 @@ Steiner, Richard C. 1998. "Bittĕ-Yâ, daughter of Pharaoh (1 Chr 4,18), and Bin
 **Stieglitz 1971**
 Stieglitz, Robert R. 1971. "Minoan Vessel Names." *Kadmos* 10: 110–112.
 
+**Stieglitz 1978**
+Stieglitz, Robert R. 1978. "Minoan Mathematics or Music?" *The Bulletin of the American Society of Papyrologists* 15 (1–2): 127–132.
+
 **Stieglitz 1994**
 Stieglitz, Robert R. 1994. "The Minoan Origin of Tyrian Purple." *The Biblical Archaeologist* 57(1): 46–54.
 
@@ -1501,7 +1504,7 @@ Roots cells counts the roots’ cite cells (`reflexes[].cite`, `sed`) that carry
 | Del Olmo Religión | G. del Olmo Lete. La religión cananea según la liturgia de Ugarit. Estudio Textual. Sabadell—Barcelona, 1992. | 1 |  |
 | DELG | Chantraine, *Dictionnaire étymologique de la langue grecque: Histoire des mots* (1968) |  | 2 |
 | Dillmann | Dillmann, *Lexicon Linguae Aethiopicae* (1865) | 60 |  |
-| Dillmann 1865 (TraCES/ERC digitization, CC BY-SA-NC 4.0) | TraCES, *TraCES Dillmann 1865 Geʿez Lexicon TEI Edition* (2018) | 2 |  |
+| Dillmann 1865 (TraCES/ERC digitization, CC BY-NC-SA 4.0) | TraCES, *TraCES Dillmann 1865 Geʿez Lexicon TEI Edition* (2018) | 2 |  |
 | DISO | Jean, *Dictionnaire des inscriptions sémitiques de l'ouest* (1965) | 7 |  |
 | DJBA | M. Sokoloff. A Dictionary of Jewish Babylonian Aramaic. Ramat-Gan, 2002. | 59 |  |
 | DJPA | M. Sokoloff. A Dictionary of Jewish Palestinian Aramaic. Ramat-Gan, 2002. | 329 |  |

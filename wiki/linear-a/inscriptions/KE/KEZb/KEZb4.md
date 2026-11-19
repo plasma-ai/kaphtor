@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/inscriptions/KE/KEZb/KEZb4
 title: "KEZb4"
-desc: "Clay vessel, Kea, MMIII. Translation: complete."
+desc: "Clay vessel, Kea, MMIII. Translation: complete (CANDIDATE)."
 tags: ["linear-a", "inscription", "translation-complete", "clay-vessel"]
 kind: "inscription"
 id: "KEZb4"
@@ -50,7 +50,7 @@ Unicode (Linear A block):
 
 ## Translation
 
-**no confidence given**, complete (status: complete).
+**CANDIDATE**, complete (status: complete).
 
 > O Salvation!
 

@@ -51,8 +51,6 @@ Unicode (Linear A block):
 
 **no confidence given**, incomplete (status: incomplete).
 
-> \[…NE-MI…\] / \[…MI-NE…\] — untranslated; reading direction uncertain.
-
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | NE-MI / MI-NE |  | untranslated two-sign sequence; alternative reading directions |  |  |

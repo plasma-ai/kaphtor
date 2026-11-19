@@ -68,7 +68,7 @@ Read words on the same documents.
 
 | Word | Reading | Meaning |
 |---|---|---|
-| [[wiki/names/semitic/names/KA_NU_TI\|KA-NU-TI]] | Ganuti | place name, 25 men in the HT 97a roster beside PA-I-TO |
+| [[wiki/names/semitic/names/KA_NU_TI\|KA-NU-TI]] | Ganuti | place name |
 | KI | ki | so that, because |
 | [[wiki/names/semitic/names/KI_RE_TA_NA\|KI-RE-TA-NA]] | Kretan | Cretan (gentilic: 'of Crete') |
 

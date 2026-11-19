@@ -27,6 +27,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/A_RI_NI_TA\|A-RI-NI-TA]] | ʾarīnīt | She-of-the-Lion (feminine gentilic—priestess/cult title; cf. I-ZU-RI-NI-TA She-of-the-Bull) | 2 |
+| [[wiki/names/semitic/names/A_RI_NI_TA\|A-RI-NI-TA]] | ʾarīnīt | She-of-the-Lion (feminine gentilic; a priestess or cult title) | 2 |
 
 <!-- END kaphtor:record -->

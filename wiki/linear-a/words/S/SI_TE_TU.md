@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-ZA 20 .2 SI-TE-TU 1, after DU-RE-ZA-SE MI · 4 and before SI-TU 6, in a list ending KU-RA 130 (GORILA III 193). šetātu, Ugaritic štt adj. f. 'spun, woven', written TÚG še-ta-ti at Ras Shamra (DULAT 839), beside SI-TU šītu 'garment' on the next line; Watson sets Akk. šuttūtu 'woven stuff, textile' beside štt (Watson 2018b, 368). Rival: šittātu 'remainder' (CAD Š/3 136). One witness.
+ZA 20 .2 SI-TE-TU 1, after \]DU-RE-ZA-SE\[, \]MI\[ and \]4, and before SI-TU 6, in a list ending KU-RA 130 (GORILA III 193). šetātu, Ugaritic štt adj. f. 'spun, woven', written TÚG še-ta-ti at Ras Shamra (DULAT 839), beside SI-TU šītu 'garment' on the next line; Watson sets Akk. šuttūtu 'woven stuff, textile' beside štt (Watson 2018b, 368). Rival: šittātu 'remainder' (CAD Š/3 136). One witness.
 
 ### Cognates
 

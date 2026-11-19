@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/J/JA_SA
 title: "JA-SA"
-desc: "yašar: righteous, upright (clipped form of yasaramu; may converge with *y-s \"to heal\" in onomastic contexts—cf. Greek ἰάομαι, Iāsōn, no secure IE etymology). Lexicon, CANDIDATE (tier 2)."
+desc: "yašar: righteous, upright (clipped form of yasaramu). Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "adjective", "ritual", "votive"]
 kind: "word"
 form: "JA-SA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | yašar |
-| Meaning | righteous, upright (clipped form of yasaramu; may converge with \*y-s "to heal" in onomastic contexts—cf. Greek ἰάομαι, Iāsōn, no secure IE etymology) |
+| Meaning | righteous, upright (clipped form of yasaramu) |
 | Root | y-š-r |
 | Proto-Semitic | \*yašar- (#1446) |
 | Language layer | Semitic |

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/K/KA_NU_TI
 title: "KA-NU-TI"
-desc: "Ganuti: place name, 25 men in the HT 97a roster beside PA-I-TO. Lexicon, SPECULATIVE (tier 1)."
+desc: "Ganuti: place name. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "loanword", "toponym"]
 kind: "word"
 form: "KA-NU-TI"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Ganuti |
-| Meaning | place name, 25 men in the HT 97a roster beside PA-I-TO |
+| Meaning | place name |
 | Root | Ganuti (Pre-Greek) |
 | Language layer | Semitic |
 | Tags | hapax, loanword, toponym |

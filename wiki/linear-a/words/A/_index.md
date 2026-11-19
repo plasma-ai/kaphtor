@@ -2,14 +2,14 @@
 name: wiki/linear-a/words/A
 desc: "Words whose first sign begins with A."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-19T16:20:39Z
+updated: 2026-11-20T13:43:02Z
 ---
 
 # wiki/linear-a/words/A
 
 [[wiki/linear-a/words/_index|..]]
 
-[[wiki/linear-a/words/A/A|A]]: Unread sign (syllabogram, unread); 17 occurrence(s).
+[[wiki/linear-a/words/A/A|A]]: Unread sign (syllabogram, unread); 13 occurrence(s).
 
 [[wiki/linear-a/words/A/AU|AU]]: Unread sign (syllabogram, value on file); 2 occurrence(s).
 
@@ -173,7 +173,7 @@ updated: 2026-11-19T16:20:39Z
 
 [[wiki/linear-a/words/A/A_RI_JA_broken_end|A_RI_JA_broken_end]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/A/A_RI_NI_TA|A_RI_NI_TA]]: ʾarīnīt: She-of-the-Lion (feminine gentilic—priestess/cult title; cf. I-ZU-RI-NI-TA She-of-the-Bull). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/A/A_RI_NI_TA|A_RI_NI_TA]]: ʾarīnīt: She-of-the-Lion (feminine gentilic; a priestess or cult title). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/A/A_RI_PA|A_RI_PA]]: ʾaripāʾ: healer, of the Rephaim (√r-p-ʾ); rival ʿarpa 'clouds' (√ʿ-r-p). Lexicon, CANDIDATE (tier 2).
 
@@ -241,7 +241,7 @@ updated: 2026-11-19T16:20:39Z
 
 [[wiki/linear-a/words/A/A_TA_NA_JE|A_TA_NA_JE]]: ʾatanāya: My Giver / My Athena—1cs possessive on divine epithet (√y-t-n 'to give' + -ya 'my'). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/A/A_TA_NA_TE|A_TA_NA_TE]]: ʾAtanat: she who gives (the name behind Athena). Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/A/A_TA_NA_TE|A_TA_NA_TE]]: ʾAtanat: She who gives (divine name), the etymon of Greek Ἀθάνα, Ἀθήνη. Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/A/A_TA_NA_q_broken_end|A_TA_NA_q_broken_end]]: Unread (unread): no role; 1 occurrence(s).
 

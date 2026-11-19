@@ -62,7 +62,7 @@ Unicode (Linear A block):
 
 ### Notes
 
-IO Za 9 is preserved on the broken corner of a square marble libation table. Line a is retrograde and line b runs in the opposite direction, so both read outward from the corner (GORILA V, 32–33; Younger 2023, citing Palaima 1988, 310–12). Line a keeps \]JA-SA-SA- and line b U̇-NA-KA-\[; GORILA and Younger restore RA-ME and NA-SI from the formula. Both words are read in full elsewhere: JA-SA-SA-RA-ME on IO Za 6 and PS Za 2, U-NA-KA-NA-SI on KO Za 1, PK Za 8, SY Za 2 and TL Za 1. PK Za 27 breaks after U-NA-KA- too.
+IO Za 9 is preserved on the broken corner of a square marble libation table. Line a is retrograde and line b runs in the opposite direction, so both read outward from the corner (GORILA V, 32–33; Younger 2023, citing Palaima 1988, 310–12). Line a keeps \]JA-SA-SA- and line b U̇-NA-KA-\[; GORILA and Younger restore RA-ME and NA-SI from the formula. Both words are read in full elsewhere: JA-SA-SA-RA-ME on IO Za 6 and PS Za 2, U-NA-KA-NA-SI on KO Za 1 and SY Za 2; TL Za 1 and PK Za 8 keep all five signs and break after SI. PK Za 27 breaks after U-NA-KA- too.
 
 ### Source
 
@@ -76,6 +76,6 @@ IO Za 9 is preserved on the broken corner of a square marble libation table. Lin
 
 ## Corpus note
 
-Corner of a square marble libation table (HM 3898). Line a, retrograde, keeps \]JA-SA-SA- and line b, after the divider, U̇-NA-KA-\[, the two running outward from the corner; GORILA restores RA-ME and NA-SI from the formula (V 32–33), as does Younger. JA-SA-SA-RA-ME is read in full on IO Za 6 and PS Za 2, U-NA-KA-NA-SI on KO Za 1, PK Za 8, SY Za 2 and TL Za 1.
+Corner of a square marble libation table (HM 3898). Line a, retrograde, keeps \]JA-SA-SA- and line b, after the divider, U̇-NA-KA-\[, the two running outward from the corner; GORILA restores RA-ME and NA-SI from the formula (V 32–33), as does Younger. JA-SA-SA-RA-ME is read in full on IO Za 6 and PS Za 2, U-NA-KA-NA-SI on KO Za 1 and SY Za 2; TL Za 1 and PK Za 8 keep all five signs and break after SI.
 
 <!-- END kaphtor:record -->

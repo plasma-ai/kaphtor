@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/inscriptions/KN/KNZb/KNZb5
 title: "KNZb5"
-desc: "Clay vessel, Knossos, MMIIIB. Translation: complete."
+desc: "Clay vessel, Knossos, MMIIIB. Translation: complete (CANDIDATE)."
 tags: ["linear-a", "inscription", "translation-complete", "clay-vessel"]
 kind: "inscription"
 id: "KNZb5"
@@ -50,7 +50,7 @@ Unicode (Linear A block):
 
 ## Translation
 
-**no confidence given**, complete (status: complete).
+**CANDIDATE**, complete (status: complete).
 
 > The Tylissian (jar).
 

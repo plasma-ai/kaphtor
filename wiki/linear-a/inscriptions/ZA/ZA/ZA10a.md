@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/inscriptions/ZA/ZA/ZA10a
 title: "ZA10a"
-desc: "Tablet, Zakros, LMIB. Translation: incomplete."
+desc: "Tablet, Zakros, LMIB. Translation: incomplete (SPECULATIVE)."
 tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
 kind: "inscription"
 id: "ZA10a"
@@ -64,14 +64,16 @@ Unicode (Linear A block):
 
 ## Translation
 
-**no confidence given**, incomplete (status: incomplete).
+**SPECULATIVE**, incomplete (status: incomplete).
+
+> Tanāt 2; PA 1; the one of the cella 1; ʾAtanat 1; ʿAmmī-dāʿ(u) 1; the one of Addu's cella 1; Ṭayyibat 1; DU-RE-ZA-SE 2.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | [[wiki/linear-a/words/T/TA_NA_TE\|TA-NA-TE]] | Tanāt | Tanāt, a variant of Tinit, the goddess TNT; A-TA-NA-TE ʾAtanat is a separate entry on the same tablet. | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/P/PA\|PA]] | — | Logogram/abbreviation (unresolved) |  | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/A/A_KU_MI_NA\|A-KU-MI-NA]] | ha-kummina | the one of the cella: article ha- + kummi 'cella' (CAD K 533) + gentilic -ān | SPECULATIVE | SPECULATIVE (lexicon) |
-| [[wiki/linear-a/words/A/A_TA_NA_TE\|A-TA-NA-TE]] | ʾAtanat | she who gives (the name behind Athena) | SPECULATIVE | PROBABLE (lexicon) |
+| [[wiki/linear-a/words/A/A_TA_NA_TE\|A-TA-NA-TE]] | ʾAtanat | She who gives (divine name), the etymon of Greek Ἀθάνα, Ἀθήνη | SPECULATIVE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/A/A_MI_DA_U\|A-MI-DA-U]] | ʿAmmī-dāʿ(u) | My kinsman knows (Amorite sentence name) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/A/A_DU_KU_MI_NA\|A-DU-KU-MI-NA]] | ʾAddu-kummina | the one of Addu's cella: A-DU + kummi 'cella', as SI-DU-QI-KU-MI, + gentilic -ān; cf. Akk. zamār kummi ana Adad 'a cella-song for Adad' (CT 15 3 i 3; CAD K 534) | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/D/DA_I_PI_TA\|DA-I-PI-TA]] | Ṭayyibat | PN 'Good (f.)': Amorite DA-BA-TUM Ṭaybatum, a woman (Gelb 1980, no. 1409); LB da-i-pi-ta (KN Bk 799). Rival: DA-I + PI-TA | SPECULATIVE | SPECULATIVE (lexicon) |

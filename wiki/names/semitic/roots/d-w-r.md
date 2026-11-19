@@ -29,6 +29,6 @@ updated: 2026-11-11T23:39:03Z
 |---|---|---|---|
 | [[wiki/names/semitic/names/DA_RU_NE_TE\|DA-RU-NE-TE]] | Dāru-ʿAnēt | Anat is everlasting (theophoric personal name); rivals Dūr-ʿAnat 'Wall of Anat', and Egyptian Neith as the second element | 1 |
 | [[wiki/names/semitic/names/DA_RU_star329\|DA-RU-\*329]] | Dārum | personal name, 'Eternal'; rival Arabic Dārim | 1 |
-| [[wiki/names/semitic/names/JA_DU_RA_TI\|JA-DU-RA-TI]] | Yadurati | personal name: Amorite-type yaqtul name + feminine -at (cf. Yadwiratum, Gelb 1980, no. 3209; Ya-du-ra-an, Ya-du-ri-im, Huffmon 1965, 38) | 1 |
+| [[wiki/names/semitic/names/JA_DU_RA_TI\|JA-DU-RA-TI]] | Yadurati | personal name, an Amorite-type yaqtul name with feminine -at | 1 |
 
 <!-- END kaphtor:record -->

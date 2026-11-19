@@ -43,7 +43,7 @@ Transliteration, line by line:
 1. A-SI-SU-PO-A 𐄁 VIR+\*307
 2. ¹⁄₁₆
 3. NI 𐝃𐝁
-4. MI
+4. MI\[
 5. I-SI 𐄁 CYP+D ¹⁄₂
 6. 2
 7. CYP ¹⁄₄
@@ -72,7 +72,7 @@ Unicode (Linear A block):
 
 **SPECULATIVE**, incomplete (status: incomplete).
 
-> The storehouse: sanctuary personnel ¹⁄₁₆; figs, a fraction; MI; fire offerings: cyperus (CYP+D) ½; 2; cyperus ¼; wine; cyperus, a fraction \[…\] a fraction; SI+TA₂-\*304 1.
+> The storehouse: sanctuary personnel ¹⁄₁₆; figs, a fraction; MI\[…\]; fire offerings: cyperus (CYP+D) ½; 2; cyperus ¼; wine; cyperus, a fraction \[…\] a fraction; SI+TA₂-\*304 1.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -101,5 +101,9 @@ The left margin is original; the right side is a fracture, which the ends of the
 | Kind | SigLA | GORILA |
 |---|---|---|
 | boundary | A532 A304 | SI+TA2-\*304 |
+
+## Corpus note
+
+GORILA III 35: .2 ends NI with two fractions, then MI\[, broken after MI; .3 opens \]I-SI ·.
 
 <!-- END kaphtor:record -->

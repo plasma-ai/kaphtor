@@ -28,6 +28,6 @@ updated: 2026-11-11T23:39:03Z
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
 | [[wiki/names/semitic/names/I_ZU_RI_NI_TA\|I-ZU-RI-NI-TA]] | ʾi-ṯawrīnīta | She-of-the-Bull (feminine personal/divine name) | 1 |
-| [[wiki/names/semitic/names/ZU_RI_NI_MA\|ZU-RI-NI-MA]] | Ṯūrinima | Bull- (personal name) | 1 |
+| [[wiki/names/semitic/names/ZU_RI_NI_MA\|ZU-RI-NI-MA]] | Ṯūrinima | He-of-the-Bull (personal name) | 1 |
 
 <!-- END kaphtor:record -->

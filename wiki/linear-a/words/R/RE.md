@@ -10,7 +10,7 @@ tier: 4
 confidence: "CONFIRMED"
 confidence_score: 0.85
 reading: "le-"
-attestations: ["ARKH4a", "ARKH4b", "GO2v", "HT109", "HT32", "HT41a", "HT66", "KH6", "KH8", "PKZbX"]
+attestations: ["ARKH4a", "ARKH4b", "GO2v", "HT109", "HT32", "HT41a", "HT66", "KH8", "PKZbX"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -72,7 +72,6 @@ Gordon 1966; HALOT
 | [[wiki/linear-a/inscriptions/HT/HT/HT32\|HT32]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT41a\|HT41a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT66\|HT66]] | Haghia Triada | Tablet | none |
-| [[wiki/linear-a/inscriptions/KH/KH/KH6\|KH6]] | Khania | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/KH/KH/KH8\|KH8]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/PK/PKZb/PKZbX\|PKZbX]] | Palaikastro | Clay vessel | complete |
 

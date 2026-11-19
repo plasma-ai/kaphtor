@@ -2,7 +2,7 @@
 name: wiki/linear-a/inscriptions/KE/KEZb
 desc: "Inscriptions from Kea, series KEZb."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-24T16:17:50Z
+updated: 2026-11-20T13:42:55Z
 ---
 
 # wiki/linear-a/inscriptions/KE/KEZb
@@ -11,7 +11,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/inscriptions/KE/KEZb/KEZb3|KEZb3]]: Clay vessel, Kea, LMIB. Translation: none.
 
-[[wiki/linear-a/inscriptions/KE/KEZb/KEZb4|KEZb4]]: Clay vessel, Kea, MMIII. Translation: complete.
+[[wiki/linear-a/inscriptions/KE/KEZb/KEZb4|KEZb4]]: Clay vessel, Kea, MMIII. Translation: complete (CANDIDATE).
 
 [[wiki/linear-a/inscriptions/KE/KEZb/KEZb5|KEZb5]]: Clay vessel, Kea, LMIB. Translation: none.
 

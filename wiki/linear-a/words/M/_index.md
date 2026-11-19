@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/M
 desc: "Words whose first sign begins with M."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-18T17:05:12Z
+updated: 2026-11-19T22:42:09Z
 ---
 
 # wiki/linear-a/words/M
@@ -69,7 +69,7 @@ updated: 2026-11-18T17:05:12Z
 
 [[wiki/linear-a/words/M/MA_star321|MA_star321]]: maṯu: infants or young dependents (personnel category). Onomasticon personal name; lexicon entry MA-ZU.
 
-[[wiki/linear-a/words/M/ME|ME]]: Unread sign (syllabogram, unread); 2 occurrence(s).
+[[wiki/linear-a/words/M/ME|ME]]: Unread sign (syllabogram, unread); 1 occurrence(s).
 
 [[wiki/linear-a/words/M/ME_KI_DI|ME_KI_DI]]: Majd: personal name, 'glory' (masculine). Lexicon, SPECULATIVE (tier 1).
 
@@ -77,7 +77,7 @@ updated: 2026-11-18T17:05:12Z
 
 [[wiki/linear-a/words/M/ME_ZA|ME_ZA]]: massu: corvée gang, labour gang (personnel term); the word of MA-ZA. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/M/MI|MI]]: Unread sign (syllabogram, unread); 4 occurrence(s).
+[[wiki/linear-a/words/M/MI|MI]]: Unread sign (syllabogram, unread); 1 occurrence(s).
 
 [[wiki/linear-a/words/M/MI_DA_NI|MI_DA_NI]]: mitāni: loins, loin meat (an offering cut). Lexicon, SPECULATIVE (tier 1).
 

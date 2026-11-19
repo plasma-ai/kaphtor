@@ -6,12 +6,12 @@
     "documents": 1603
   },
   "lexicon": {
-    "entries": 717,
+    "entries": 718,
     "tiers": {
       "CONFIRMED": 19,
-      "PROBABLE": 78,
-      "CANDIDATE": 272,
-      "SPECULATIVE": 348
+      "PROBABLE": 79,
+      "CANDIDATE": 271,
+      "SPECULATIVE": 349
     }
   },
   "translations": {

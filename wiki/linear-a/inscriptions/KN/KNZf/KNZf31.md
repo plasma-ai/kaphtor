@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/inscriptions/KN/KNZf/KNZf31
 title: "KNZf31"
-desc: "Metal object, Knossos. Translation: incomplete."
+desc: "Metal object, Knossos. Translation: incomplete (SPECULATIVE)."
 tags: ["linear-a", "inscription", "translation-incomplete", "metal-object"]
 kind: "inscription"
 id: "KNZf31"
@@ -49,7 +49,7 @@ Unicode (Linear A block):
 
 ## Translation
 
-**no confidence given**, incomplete (status: incomplete).
+**SPECULATIVE**, incomplete (status: incomplete).
 
 > \]SI\[ \]SI-ZA-NE-\*310, Dādu-Mīnō, 'Beloved of Minos', who stands, he is fire, ʾAwpiʿ, 'he shone forth': she serves; give him drink! The pin: fix it, you have fastened it. She will remember, by that with which one curls the hair.
 

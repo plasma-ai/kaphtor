@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/SI_KI_NE
 title: "SI-KI-NE"
-desc: "Sikinet: stewardess or female administrator; compare masculine prefect/commissioner. Semitic, CANDIDATE."
+desc: "Sikinet: stewardess, female administrator. Semitic, CANDIDATE."
 tags: ["names", "title", "semitic"]
 kind: "name"
 form: "SI-KI-NE"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Sikinet** · stewardess or female administrator; compare masculine prefect/commissioner
+**Sikinet** · stewardess, female administrator
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/titles\|Title]] |
 | Reading | Sikinet |
-| Meaning | stewardess or female administrator; compare masculine prefect/commissioner |
+| Meaning | stewardess, female administrator |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/s-k-n\|s-k-n]] |
 | Proto-Semitic | \*sākin- (#3842) |

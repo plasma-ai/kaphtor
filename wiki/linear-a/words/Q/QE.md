@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/Q/QE
 title: "QE"
-desc: "qê: measure unit (dry/liquid capacity ≈ 1.2 liters)—metrological logographic abbreviation; after a holder, qē(pu) 'commissioner' (see KA-PA-QE). Lexicon, SPECULATIVE (tier 1)."
+desc: "qê: a measure of capacity, about 1.2 litres (logographic abbreviation); after a holder, qē(pu) 'commissioner'. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "abbreviation", "administrative", "hapax", "logogram"]
 kind: "word"
 form: "QE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | qê |
-| Meaning | measure unit (dry/liquid capacity ≈ 1.2 liters)—metrological logographic abbreviation; after a holder, qē(pu) 'commissioner' (see KA-PA-QE) |
+| Meaning | a measure of capacity, about 1.2 litres (logographic abbreviation); after a holder, qē(pu) 'commissioner' |
 | Root | q-w |
 | Proto-Semitic | \*ḳū- (#3853) |
 | Language layer | Semitic |

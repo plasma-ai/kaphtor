@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/inscriptions/HT/HT/HT3
 title: "HT3"
-desc: "Tablet, Haghia Triada, LMIB. Translation: incomplete."
+desc: "Tablet, Haghia Triada, LMIB. Translation: incomplete (SPECULATIVE)."
 tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
 kind: "inscription"
 id: "HT3"
@@ -76,7 +76,7 @@ Unicode (Linear A block):
 
 ## Translation
 
-**no confidence given**, incomplete (status: incomplete).
+**SPECULATIVE**, incomplete (status: incomplete).
 
 > \[…\]MA\[…\] \[…\]DI-NA-\[…\]. 2. QE-RA₂-JA\[…\]. 2. DI 2. 4. Young bull (MU-RU) 1. RU\[…\]. Shoots, for 5. DI\[…\]. Kubānu 3. Maʾdi 2. The sanctuary's share.
 
@@ -87,7 +87,7 @@ Unicode (Linear A block):
 | QE-RA₂-JA |  | unread |  |  |
 | [[wiki/linear-a/words/D/DI\|DI]] |  |  |  | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/M/MU_RU\|MU-RU]] | mūru | young bull | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/R/RU\|RU]] |  | unread |  |  |
+| [[wiki/linear-a/words/R/RU\|RU]] |  | unread |  | SPECULATIVE (lexicon) |
 | SI-TU-RA₂-RE | šitla le- | shoots, for 5 | SPECULATIVE |  |
 | DI-\[ |  | unread |  |  |
 | [[wiki/linear-a/words/K/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | devotee of Kubaba (personal name or title) | PROBABLE | PROBABLE (lexicon) |

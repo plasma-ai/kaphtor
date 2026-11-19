@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/A/A_RI_NI_TA
 title: "A-RI-NI-TA"
-desc: "ʾarīnīt: She-of-the-Lion (feminine gentilic—priestess/cult title; cf. I-ZU-RI-NI-TA She-of-the-Bull). Lexicon, CANDIDATE (tier 2)."
+desc: "ʾarīnīt: She-of-the-Lion (feminine gentilic; a priestess or cult title). Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "gentilic", "personal_name", "ritual", "title"]
 kind: "word"
 form: "A-RI-NI-TA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʾarīnīt |
-| Meaning | She-of-the-Lion (feminine gentilic—priestess/cult title; cf. I-ZU-RI-NI-TA She-of-the-Bull) |
+| Meaning | She-of-the-Lion (feminine gentilic; a priestess or cult title) |
 | Root | ʾ-r-y |
 | Proto-Semitic | \*ʾarway- (#2120) |
 | Language layer | Semitic |

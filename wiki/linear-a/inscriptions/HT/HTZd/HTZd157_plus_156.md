@@ -61,17 +61,21 @@ Unicode (Linear A block):
 
 **CANDIDATE**, incomplete (status: incomplete).
 
-> HT Zd 157: WI-JA-SU \[recipient's name\] · MA-TI-TI 'gift' · A319 \[unidentified commodity\]. HT Zd 156: NE 1 · NE 1½ · A319 2¼ · A319 3⅜ · TA-JA 1/16.
+> HT Zd 157: WI-JA-SU \[recipient's name\] · MA-TI-TI 'gift' · A319 \[unidentified commodity\]. HT Zd 156: A319 1 · A319 1½ · A319 2¼ · A319 3⅜ · TA-JA ¹⁄₁₆: a reckoning of interest, each sum the last and half of it again.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| WI-JA-SU-MA-TI-TI |  | WI-JA-SU \| MA-TI-TI. WI-JA-SU is likely the recipient's name, with no reading. MA-TI-TI 'gift' (Heb. mattat, HALOT 656). The rival √š-m-ṭ parse needs TI-TI to write a geminate |  |  |
-| A319 |  | unidentified commodity logogram, no sound value; five tokens in four documents. On HT Zd 156 it takes 2¼ and 3⅜ after two NE signs | CANDIDATE |  |
-| [[wiki/linear-a/words/T/TA_JA\|TA-JA]] |  | unread—a 2-consonant glide skeleton, within chance; probably a commodity/payer abbreviation on the final fraction line |  | unread |
+| WI-JA-SU-MA-TI-TI |  | WI-JA-SU \| MA-TI-TI. WI-JA-SU, the recipient's name, unread. MA-TI-TI mattitt(u) 'gift' (Heb. mattat, HALOT 656) |  |  |
+| A319 |  | unidentified logogram, no sound value; seven tokens in three documents. On HT Zd 156 it stands before each of the four counts; the edition reads the first two as NE, each dotted (GORILA IV 133) |  |  |
+| [[wiki/linear-a/words/T/TA_JA\|TA-JA]] |  | unread; the fifth term of the series, 5¹⁄₁₆, if it is the word for five (Olivier apud Schoep 2002, 32) |  | unread |
 
 ### Notes
 
-GORILA IV 132–35 presents HT Zd 156 (HM 53) and HT Zd 157 (HM 54) as separate stucco fragments from the same wall; their continuation is possible but not physically demonstrated. HT Zd 156 runs NE 1, NE 1½, A319 2¼, A319 3⅜, each figure half again the one before.
+GORILA IV 132–135 presents HT Zd 156 (HM 53) and HT Zd 157 (HM 54) as separate stucco fragments from the same wall; their continuation is not physically demonstrated.
+
+The sign before each count: GORILA reads sign 24, NE, before the first two, each dotted, and 319 before the next two (IV 133). Schrijver prints \]\*319 1 \*319 1J \*319 2E \*319 3EF ta-ja K \[ and leaves open whether \*319 is a variant of \*24 NE (2014, 14); Corazza et al. print \*319 four times (2021, 3). The record follows the two. Stieglitz, from Brice's edition, reads 'at least six entries, all of which are preceded by the Minoan sign I (L14)', the fifth and sixth where the record has TA-JA and K (1978, 127, 129).
+
+The series 1, 1½, 2¼, 3⅜ is a sum of 1 growing by half each term with the interest joined to the capital, and Olivier's TA-JA ¹⁄₁₆ as 5¹⁄₁₆ is its fifth term (apud Schoep 2002, 32). The Old Babylonian laws provide for a creditor who 'has added the interest to the capital', and a school problem asks in how many years a gur lent at interest and its interest 'become equal' (CAD Ṣ 159–160, s.v. ṣibtu A). Pope calls it 'a ready reckoner of some kind' and derives from it the multiples of 19 in the accounts (1960, 204). Rival: a separator between the terms, 'p.-ê. signe de ponctuation' in GORILA's corrigenda (V 80) and 'a possible separator' for Corazza et al.; on HT 132 the sign follows a divider and takes 5, and the edition's index files it there as a logogram (V 297).
 
 ## Lexicon words citing this document
 

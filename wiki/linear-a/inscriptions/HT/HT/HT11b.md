@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/inscriptions/HT/HT/HT11b
 title: "HT11b"
-desc: "Tablet, Haghia Triada, LMIB. Translation: incomplete."
+desc: "Tablet, Haghia Triada, LMIB. Translation: incomplete (SPECULATIVE)."
 tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
 kind: "inscription"
 id: "HT11b"
@@ -64,7 +64,7 @@ Unicode (Linear A block):
 
 ## Translation
 
-**no confidence given**, incomplete (status: incomplete).
+**SPECULATIVE**, incomplete (status: incomplete).
 
 > \[…\]DE-NU, RU-RA₂: \*86, KA 40. KA 30. KA 50. The dignitary(?), KA 30. Šaqeli(?), KA 30. Total 180.
 

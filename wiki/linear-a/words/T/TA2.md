@@ -39,4 +39,6 @@ updated: 2026-11-12T00:26:03Z
 
 A syllabogram. Status **unread** (nothing on file).
 
+Before a commodity: TA₂ before GRA, counted 3, on HT 137, and joined to the cyperus sign as TA₂-CYP on KH 60. HT 11a closes with TA₂ 15, after VIR+\[?\]-I 3, and KH 29 has RA · TA₂ 1, broken before RA. No word beginning with TA₂ stands before a grain sign: TA₂-TA-RE and TA₂-TI-TE of PK 1 are names counted 1 each.
+
 <!-- END kaphtor:record -->

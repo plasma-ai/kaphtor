@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/ZU_RI_NI_MA
 title: "ZU-RI-NI-MA"
-desc: "Ṯūrinima: Bull- (personal name). Semitic, SPECULATIVE."
+desc: "Ṯūrinima: He-of-the-Bull (personal name). Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "ZU-RI-NI-MA"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Ṯūrinima** · Bull- (personal name)
+**Ṯūrinima** · He-of-the-Bull (personal name)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Ṯūrinima |
-| Meaning | Bull- (personal name) |
+| Meaning | He-of-the-Bull (personal name) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/th-w-r\|ṯ-w-r]] |
 | Proto-Semitic | \*ṯawr- (#269) |

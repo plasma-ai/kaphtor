@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/A/A_TA_NA_TE
 title: "A-TA-NA-TE"
-desc: "ʾAtanat: she who gives (the name behind Athena). Lexicon, PROBABLE (tier 3)."
+desc: "ʾAtanat: She who gives (divine name), the etymon of Greek Ἀθάνα, Ἀθήνη. Lexicon, PROBABLE (tier 3)."
 tags: ["linear-a", "word", "tier-3", "hapax", "ritual", "theonym"]
 kind: "word"
 form: "A-TA-NA-TE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʾAtanat |
-| Meaning | she who gives (the name behind Athena) |
+| Meaning | She who gives (divine name), the etymon of Greek Ἀθάνα, Ἀθήνη |
 | Root | y-t-n |
 | Proto-Semitic | \*ytn ~ \*ntn (#2608) |
 | Language layer | Semitic |
@@ -41,14 +41,14 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-ZA 10a: A-TA-NA-TE 1, fourth in a list headed by TA-NA-TE 2. ʾAtanat 'She-who-gives' (di Mino, Ya Diktu 20): feminine \*yātanat of √y-t-n 'to give' with y &gt; ʾ, final E a dead vowel after t; Phoenician keeps the y- in BʿLYTN Baʿal-yatōn 'Baʿal has given'. Greek takes the weakened form: Mycenaean a-ta-na-po-ti-ni-ja (KN V 52), Doric Ἀθάνα, Ionic Ἀθήνη, Pre-Greek for Beekes (2010); Athena wins Athens by giving the olive. The A-/∅ alternation with TA-NA-TE on ZA 10a recurs in A-PA-RA-NE/PA-RA-NE, A-MI-TA/MI-TA and A-DU/DU. Rivals: a form of TA-NA-TE Tanāt (√t-n-n, Tinnit), which heads the ZA 10a list; Hurrian Atana (Monti 2017, 451). See A-TA-NA-JE.
+ZA 10a: A-TA-NA-TE 1, fourth in a list headed by TA-NA-TE 2. ʾAtanat 'She-who-gives' (di Mino, Ya Diktu 20): feminine \*yātanat of √y-t-n 'to give' with y &gt; ʾ, final E a dead vowel after t; Phoenician keeps the y- in BʿLYTN Baʿal-yatōn 'Baʿal has given'. Greek takes the weakened form: Mycenaean a-ta-na-po-ti-ni-ja (KN V 52), Doric Ἀθάνα, Ionic Ἀθήνη, the name of 'a common Greek goddess dating from Minoan times' and 'pre-Greek' like her (Beekes 2010, 29). Diodorus reports the myths the Cretans tell: Zeus begot Athena in Crete, and men credit her with 'the gift to mankind of the domestication and cultivation of the olive-tree' (5.72.3, 5.73.7, 5.77.3). At Athens she planted the olive and won the land by it (Apollodorus, Library 3.14.1; Herodotus 8.55). The A-/∅ alternation with TA-NA-TE on ZA 10a recurs in A-PA-RA-NE/PA-RA-NE, A-MI-TA/MI-TA and A-DU/DU. Rivals: a form of TA-NA-TE Tanāt (√t-n-n, Tinnit), which heads the ZA 10a list; Hurrian Atana (Monti 2017, 451). See A-TA-NA-JE.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Linear B | a-ta-na-po-ti-ni-ja (KN V 52)—divine offering list alongside e-nu-wa-ri-jo, pa-ja-wo-ne, po-se-da-o-ne |
-| Greek | Ἀθάνα (Doric), Ἀθήνη (Ionic/Attic)—pre-Greek, no established etymology (Beekes 2010) |
+| Greek | Ἀθάνα (Doric), Ἀθήνη (Ionic, Attic): 'Like the goddess itself, the name is pre-Greek' (Beekes 2010, 29) |
 | Ugaritic | √ytn 'to give; to set, place' (Huehnergard 2012); ytnt 'she gave' (GlOS 2, 78) |
 | Phoenician | BʿLYTN Baʿal Yaton 'Baʿal has given'; YTNT, a woman's name 'she gave' (Benz 1972, 328; Krahmalkov 2000, 220) |
 | Hebrew | nātan (נָתַן) 'to give' |
@@ -68,7 +68,7 @@ di Mino; Monti 2017; Benz 1972; Krahmalkov 2000; GlOS 2
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA10a\|ZA10a]] | ʾAtanat | she who gives (the name behind Athena) | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA10a\|ZA10a]] | ʾAtanat | She who gives (divine name), the etymon of Greek Ἀθάνα, Ἀθήνη | SPECULATIVE |
 
 ## Onomasticon
 

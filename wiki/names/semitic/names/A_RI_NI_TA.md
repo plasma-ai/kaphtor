@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/A_RI_NI_TA
 title: "A-RI-NI-TA"
-desc: "ʾarīnīt: She-of-the-Lion (feminine gentilic—priestess/cult title; cf. I-ZU-RI-NI-TA She-of-the-Bull). Semitic, CANDIDATE."
+desc: "ʾarīnīt: She-of-the-Lion (feminine gentilic; a priestess or cult title). Semitic, CANDIDATE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "A-RI-NI-TA"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**ʾarīnīt** · She-of-the-Lion (feminine gentilic—priestess/cult title; cf. I-ZU-RI-NI-TA She-of-the-Bull)
+**ʾarīnīt** · She-of-the-Lion (feminine gentilic; a priestess or cult title)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | ʾarīnīt |
-| Meaning | She-of-the-Lion (feminine gentilic—priestess/cult title; cf. I-ZU-RI-NI-TA She-of-the-Bull) |
+| Meaning | She-of-the-Lion (feminine gentilic; a priestess or cult title) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/alef-r-y\|ʾ-r-y]] |
 | Proto-Semitic | \*ʾarway- (#2120) |

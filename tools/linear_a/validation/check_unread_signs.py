@@ -15,6 +15,9 @@ Everything else belongs in the file. The check reports:
   field          a counted field (frequency, attestations, sites, cross_site) that differs from the corpus
   stats          a `stats` value that differs from a recount
 Curated fields (kind, status, components, read_components, on_file, note) are never checked.
+An entry's `word_parts` maps a document to the word its token belongs to there, where a line or face end
+splits that word in the corpus record: one token on each named document is left out of the count, and a
+named document with no such token is reported under `field`.
 Exit status 1 when anything is reported, 2 when a file it reads is not in the checkout.
 
 `--rank` prints instead, for each listed sign, the records with no translation on which it is the only
@@ -89,6 +92,12 @@ def check(doc: dict, occ: dict, lex_hit) -> list[tuple[str, str, str]]:
         if not hits:
             issues.append(('not_in_corpus', sign, 'no undamaged corpus token yields this sign'))
             continue
+        for document in entry.get('word_parts') or {}:
+            part = next((hit for hit in hits if hit[0] == document), None)
+            if part is None:
+                issues.append(('field', sign, f'word_parts: {document} holds no token of this sign'))
+            else:
+                hits = [hit for hit in hits if hit is not part]
         sites = sorted({s for _, s in hits if s})
         found = {'frequency': len(hits), 'attestations': sorted({d for d, _ in hits}), 'sites': sites,
                  'cross_site': len(sites) > 1}

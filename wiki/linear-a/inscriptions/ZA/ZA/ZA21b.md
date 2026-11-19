@@ -83,4 +83,8 @@ The middle of the face is lost; a blank band stands above ME.
 
 [[wiki/linear-a/words/I/I_DA|I-DA]].
 
+## Corpus note
+
+GORILA III 197: .6 vacat, .7 ⟦MẸ⟧, the sign dotted and in erasure brackets.
+
 <!-- END kaphtor:record -->

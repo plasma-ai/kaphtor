@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/inscriptions/HT/HT/HT96b
 title: "HT96b"
-desc: "Tablet, Haghia Triada, LMIB. Translation: complete."
+desc: "Tablet, Haghia Triada, LMIB. Translation: complete (CANDIDATE)."
 tags: ["linear-a", "inscription", "translation-complete", "tablet"]
 kind: "inscription"
 id: "HT96b"
@@ -59,7 +59,7 @@ Unicode (Linear A block):
 
 ## Translation
 
-**no confidence given**, complete.
+**CANDIDATE**, complete.
 
 > ʿAbrān · qaṭara(?) · \*516: grain 40¾; U-oil 4; figs 2 1/10.
 

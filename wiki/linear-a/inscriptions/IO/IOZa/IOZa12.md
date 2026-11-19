@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/inscriptions/IO/IOZa/IOZa12
 title: "IOZa12"
-desc: "Stone vessel, Iouktas, LMI. Translation: complete."
+desc: "Stone vessel, Iouktas, LMI. Translation: complete (CANDIDATE)."
 tags: ["linear-a", "inscription", "translation-complete", "stone-vessel"]
 kind: "inscription"
 id: "IOZa12"
@@ -49,7 +49,7 @@ Unicode (Linear A block):
 
 ## Translation
 
-**no confidence given**, complete (status: partial).
+**CANDIDATE**, complete (status: partial).
 
 > …in righteousness—with (me)…
 

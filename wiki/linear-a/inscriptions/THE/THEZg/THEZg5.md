@@ -40,17 +40,17 @@ updated: 2026-10-24T16:17:50Z
 Transliteration, line by line:
 
 1. MA 40 PU 5
-2. \*171 7 ZO 9 TA 4
+2. TE 7 ZO 9 TA 4
 
 Unicode (Linear A block):
 
 ```text
 𐙁𐄓𐘫𐄋
-𐙑𐄍𐘎𐄏𐘳𐄊
+𐘃𐄍𐘎𐄏𐘳𐄊
 ```
 
 ## Corpus note
 
-An ostracon from Akrotiri, without secure context or date (Nosch and Weilhartner 2026, 131). Donnelly takes its PU (AB 50) for the only Linear A PU whose neck faces right, the direction of Cypro-Minoan CM 041 (Donnelly 2026, 74, after Palaima 1981, 81, against Owens 1990–1991). MA may stand for wool and PU, TE (here \*171), ZO and TA for textile names (Michailidou 1992–1993; Boulotis 1998; Burke 2010, 49, apud Nosch and Weilhartner 2026, 131).
+An ostracon from Akrotiri, without secure context or date (Nosch and Weilhartner 2026, 131). Donnelly takes its PU (AB 50) for the only Linear A PU whose neck faces right, the direction of Cypro-Minoan CM 041 (Donnelly 2026, 74, after Palaima 1981, 81, against Owens 1990–1991). MA may stand for wool and PU, TE, ZO and TA for textile names (Michailidou 1992–1993; Boulotis 1998; Burke 2010, 49, apud Nosch and Weilhartner 2026, 131). The sign before 7 is read TE with them; the drawing shows a stem with a straight top bar and a crossbar under it, unlike \*171 of ZA 6a.
 
 <!-- END kaphtor:record -->

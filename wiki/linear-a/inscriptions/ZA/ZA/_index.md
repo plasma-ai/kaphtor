@@ -2,16 +2,16 @@
 name: wiki/linear-a/inscriptions/ZA/ZA
 desc: "Inscriptions from Zakros, series ZA."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-18T01:30:46Z
+updated: 2026-11-20T13:43:01Z
 ---
 
 # wiki/linear-a/inscriptions/ZA/ZA
 
 [[wiki/linear-a/inscriptions/ZA/_index|..]]
 
-[[wiki/linear-a/inscriptions/ZA/ZA/ZA10a|ZA10a]]: Tablet, Zakros, LMIB. Translation: incomplete.
+[[wiki/linear-a/inscriptions/ZA/ZA/ZA10a|ZA10a]]: Tablet, Zakros, LMIB. Translation: incomplete (SPECULATIVE).
 
-[[wiki/linear-a/inscriptions/ZA/ZA/ZA10b|ZA10b]]: Tablet, Zakros, LMIB. Translation: incomplete.
+[[wiki/linear-a/inscriptions/ZA/ZA/ZA10b|ZA10b]]: Tablet, Zakros, LMIB. Translation: incomplete (SPECULATIVE).
 
 [[wiki/linear-a/inscriptions/ZA/ZA/ZA11a|ZA11a]]: Tablet, Zakros, LMIB. Translation: incomplete (SPECULATIVE).
 
@@ -77,7 +77,7 @@ updated: 2026-11-18T01:30:46Z
 
 [[wiki/linear-a/inscriptions/ZA/ZA/ZA33|ZA33]]: Tablet, Zakros, LMIB. Translation: none.
 
-[[wiki/linear-a/inscriptions/ZA/ZA/ZA4a|ZA4a]]: Tablet, Zakros, LMIB. Translation: incomplete.
+[[wiki/linear-a/inscriptions/ZA/ZA/ZA4a|ZA4a]]: Tablet, Zakros, LMIB. Translation: incomplete (SPECULATIVE).
 
 [[wiki/linear-a/inscriptions/ZA/ZA/ZA4b|ZA4b]]: Tablet, Zakros, LMIB. Translation: none.
 

@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 Transliteration, line by line:
 
 1. 𐝫
-2. NU 1
+2. \]NU 1
 3. —
 
 Unicode (Linear A block):
@@ -51,5 +51,9 @@ Unicode (Linear A block):
 𐝫𐘯𐄇
 —
 ```
+
+## Corpus note
+
+GORILA III 23: sup. mut., .1 \]NỤ 1̣, broken before NU, sign and numeral dotted, a ruled line, .2 \]vacat.
 
 <!-- END kaphtor:record -->

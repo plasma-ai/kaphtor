@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/J
 desc: "Words whose first sign begins with J."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-19T16:20:41Z
+updated: 2026-11-20T13:43:03Z
 ---
 
 # wiki/linear-a/words/J
@@ -19,7 +19,7 @@ updated: 2026-11-19T16:20:41Z
 
 [[wiki/linear-a/words/J/JA_DI_KI_TU|JA_DI_KI_TU]]: yā Diqqitu: O Diqqitu! (vocative invocation of the proposed goat-goddess Diqqitu). Lexicon, PROBABLE (tier 3).
 
-[[wiki/linear-a/words/J/JA_DU_RA_TI|JA_DU_RA_TI]]: Yadurati: personal name: Amorite-type yaqtul name + feminine -at (cf. Yadwiratum, Gelb 1980, no. 3209; Ya-du-ra-an, Ya-du-ri-im, Huffmon 1965, 38). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/J/JA_DU_RA_TI|JA_DU_RA_TI]]: Yadurati: personal name, an Amorite-type yaqtul name with feminine -at. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/J/JA_HA|JA_HA]]: Yāh(a): Yāh, divine name; deity receiving offerings alongside Baʿal on HT28b. Lexicon, SPECULATIVE (tier 1).
 
@@ -61,7 +61,7 @@ updated: 2026-11-19T16:20:41Z
 
 [[wiki/linear-a/words/J/JA_RU_MA_NE|JA_RU_MA_NE]]: Yarīmān: personal name, '(DN) is exalted', with hypocoristic -ān (Amorite type). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/J/JA_SA|JA_SA]]: yašar: righteous, upright (clipped form of yasaramu; may converge with *y-s "to heal" in onomastic contexts—cf. Greek ἰάομαι, Iāsōn, no secure IE etymology). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/J/JA_SA|JA_SA]]: yašar: righteous, upright (clipped form of yasaramu). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/J/JA_SA_JA|JA_SA_JA]]: Yašʿaya: personal name '(DN) has helped', hypocoristic. Lexicon, SPECULATIVE (tier 1).
 
@@ -69,7 +69,7 @@ updated: 2026-11-19T16:20:41Z
 
 [[wiki/linear-a/words/J/JA_SA_RA|JA_SA_RA]]: yašara: righteous is (predicate before A-NA-NE ḥanān 'grace'). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/J/JA_SA_SA_RA|JA_SA_SA_RA]]: yaššar-: line-broken first portion of JA-SA-SA-RA-ME / yaššaram 'in righteousness'; not independently attested as a bare lemma. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/J/JA_SA_SA_RA|JA_SA_SA_RA]]: yaššar-: in righteousness (JA-SA-SA-RA-ME broken across a line). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/J/JA_SA_SA_RA_MA_NA|JA_SA_SA_RA_MA_NA]]: yaššaram=na: in righteousness indeed. Lexicon, CANDIDATE (tier 2).
 
@@ -115,7 +115,7 @@ updated: 2026-11-19T16:20:41Z
 
 [[wiki/linear-a/words/J/JA_star345|JA_star345]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/J/JE|JE]]: Unread sign (syllabogram, unread); 2 occurrence(s).
+[[wiki/linear-a/words/J/JE|JE]]: Unread sign (syllabogram, unread); 1 occurrence(s).
 
 [[wiki/linear-a/words/J/JE_DI|JE_DI]]: yedī: gentilic 'the Idaean' (of Mount Ida); rivals the personal name 'He knows' and the gentilic 'Judean'. Lexicon, CANDIDATE (tier 2).
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/inscriptions/HT/HT/HT95b
 title: "HT95b"
-desc: "Tablet, Haghia Triada, LMIB. Translation: complete."
+desc: "Tablet, Haghia Triada, LMIB. Translation: complete (SPECULATIVE)."
 tags: ["linear-a", "inscription", "translation-complete", "tablet"]
 kind: "inscription"
 id: "HT95b"
@@ -64,7 +64,7 @@ Unicode (Linear A block):
 
 ## Translation
 
-**no confidence given**, complete.
+**SPECULATIVE**, complete.
 
 > Rations: king/royal establishment 10, \[break\], blood (ritual category) 10, count/reckoning 10, emmer 10, nobles/council 10, parched grain 10.
 

@@ -32,4 +32,6 @@ updated: 2026-11-12T00:26:03Z
 
 A logogram. Status **unread** (nothing on file).
 
+The fraction sign A 709, with no value on file. PH 7b .1 \]TA 1 L and .2 \]DA-RA L, each line broken at the left (GORILA I 295); KN 49 · L, after a divider.
+
 <!-- END kaphtor:record -->

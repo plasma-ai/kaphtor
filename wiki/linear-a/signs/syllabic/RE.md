@@ -74,7 +74,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/K/KI_star310_RE\|KI-\*310-RE]] | kinnār | PROBABLE |
 | [[wiki/linear-a/words/K/KI_RE_TA_NA\|KI-RE-TA-NA]] | Kretan | CONFIRMED |
 | [[wiki/linear-a/words/K/KI_RE_TA2\|KI-RE-TA₂]] | Kirēta / Kret | PROBABLE |
-| [[wiki/linear-a/words/K/KU_RE_JU\|KU-RE-JU]] | Kulelu | CANDIDATE |
+| [[wiki/linear-a/words/K/KU_RE_JU\|KU-RE-JU]] | Kulēlu | CANDIDATE |
 | [[wiki/linear-a/words/K/KU_TU_KO_RE\|KU-TU-KO-RE]] | Kutukkore | SPECULATIVE |
 | [[wiki/linear-a/words/M/MA_RE\|MA-RE]] | mārē | SPECULATIVE |
 | [[wiki/linear-a/words/M/MA_RI_RE_I\|MA-RI-RE-I]] | marīrēy | CANDIDATE |

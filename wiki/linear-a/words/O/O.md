@@ -47,6 +47,6 @@ updated: 2026-11-12T00:26:03Z
 
 A syllabogram. Status **unread** (nothing on file).
 
-Alone on 11 Khania roundels and 3 Haghia Triada nodules (HT Wa 1279–1281); NA O on the roundel KN Wc 42. With a quantity on HT 113: O 2½. No reading.
+Alone on 11 Khania roundels and 3 Haghia Triada nodules (HT Wa 1279–1281); on the roundel KN Wc 42 beside a face that reads \]-NA. With a quantity on HT 113: O 2½. No reading.
 
 <!-- END kaphtor:record -->

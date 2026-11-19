@@ -48,6 +48,7 @@ MORPHEMES_PATH = DATA_DIR / "morphemes.json"
 ROOTS_PATH = SEMITIC_ROOTS_DATA / "semitic_roots.json"
 LUWIAN_ROOTS_PATH = DATA_DIR / "luwian_roots.json"
 EGYPTIAN_ROOTS_PATH = DATA_DIR / "egyptian_roots.json"
+HATTIC_ROOTS_PATH = DATA_DIR / "hattic_roots.json"
 
 
 # --- Neutralization profiles ---
@@ -101,6 +102,7 @@ class LanguageOptions:
     site_consistency_threshold: float = 0.70
     site_profiles: dict[str, Any] | None = None
     contact_indexes: dict[str, dict[str, list[dict]]] | None = None
+    hattic: bool = False                    # --hattic: Hattic joins the rival arms; off, every score is as before
 
 
 # --- Text-type priors ---
@@ -118,6 +120,7 @@ _LANG_TO_TT_KEY: dict[str, str] = {
     "Hurrian_name": "personal_name",
     "Egyptian": "personal_name",
     "Luwian": "personal_name",
+    "Hattic": "personal_name",              # as the other rival arms; its site prior is flat (no profile names it)
     "toponym": "toponym",
     "substrate": "NWS",
 }
@@ -760,6 +763,75 @@ def score_against_egyptian_roots(
     return matches[:5]
 
 
+_HATTIC_CACHE: tuple[Any, dict[str, dict]] | None = None
+
+
+def _load_hattic() -> tuple[Any, dict[str, dict]]:
+    """The registered Hattic rival arm (tools/core/competitors.py) and its entries by Number: Soysal's stems keyed
+    as the Shoresh competitor null keys them, names left out, with the frozen HATTIC_DISTANCES and the script-side
+    k ~ ḫ row. Imported here, so a run without --hattic loads none of it."""
+    from ..core import competitors
+
+    spec = next(s for s in competitors.COMPETITORS if s.name == "hattic")
+    space = competitors.load(spec)
+    entries = {str(e.get("Number")): e for e in json.loads(HATTIC_ROOTS_PATH.read_text(encoding="utf-8"))}
+    return (space, competitors.run_tokens), entries
+
+
+def _get_hattic_space() -> Any:
+    global _HATTIC_CACHE
+    if _HATTIC_CACHE is None:
+        _HATTIC_CACHE = _load_hattic()
+    return _HATTIC_CACHE[0][0]
+
+
+def score_against_hattic_roots(
+    skeleton: str,
+    skeleton_conf: float,
+    max_distance: float = 1.5,
+) -> list[dict]:
+    """Score a skeleton against the Hattic keys, by the formula of the Luwian and Egyptian arms.
+
+    Guttural-transparent, as the registered arm is: Linear A cannot write ḫ. The distance is the arm's own
+    (HATTIC_DISTANCES with k ~ ḫ), so a classifier score and a Shoresh competitor d* rest on the same keys and
+    the same table. The length penalty counts the key's written consonants, as the Egyptian arm does.
+    """
+    if not HATTIC_ROOTS_PATH.exists():
+        return []
+    space = _get_hattic_space()
+    run_tokens, entries = _HATTIC_CACHE[0][1], _HATTIC_CACHE[1]
+    toks = run_tokens(skeleton)
+    skel_len = len(toks)
+    if skel_len < 2:
+        return []
+
+    length_factor = {2: 0.3, 3: 1.0}.get(skel_len, 0.9)
+
+    matches = []
+    for key, numbers in space.keys.items():
+        visible_len = sum(1 for t in key if t not in GUTTURAL_PHONEMES)
+        if visible_len < 1:
+            continue
+        dist = space.distance(toks, key, max_distance)
+        if dist > max_distance:
+            continue
+        len_diff = abs(skel_len - visible_len)
+        len_penalty = 1.0 if len_diff == 0 else 0.7 if len_diff == 1 else 0.4
+        entry = entries.get(numbers[0], {})
+        matches.append({
+            "root": "".join(key),
+            "lemma": entry.get("Hattic", ""),
+            "meaning": entry.get("Meaning", ""),
+            "numbers": numbers,
+            "distance": round(dist, 2),
+            "score": round((1 / (1 + dist)) * skeleton_conf * length_factor * len_penalty, 3),
+            "language": "Hattic",
+        })
+
+    matches.sort(key=lambda x: (-x["score"], x["root"]))
+    return matches[:5]
+
+
 def classify_language(
     word: str,
     signs: list[str],
@@ -772,16 +844,23 @@ def classify_language(
     luwian_matches: list[dict] | None = None,
     lang_opts: LanguageOptions | None = None,
     site: str = "",
+    hattic_matches: list[dict] | None = None,
 ) -> dict:
     """Probabilistic language classification.
 
     Computes raw likelihoods per category (NWS, Hurrian, Egyptian, Luwian,
     toponym, substrate), applies text-type priors uniformly, then normalizes
-    to a posterior distribution.
+    to a posterior distribution. With lang_opts.hattic, Hattic is one more
+    category, scored from its root matches as Luwian and Egyptian are; with
+    no Hattic match its score is 0 and every other score is what it was.
     """
     semitic_only = lang_opts is not None and lang_opts.mode == "semitic-only"
+    with_hattic = lang_opts is not None and lang_opts.hattic
     likelihoods = {"NWS": 0.0, "Hurrian_name": 0.0, "Egyptian": 0.0,
                    "Luwian": 0.0, "toponym": 0.0, "substrate": 0.0}
+    if with_hattic:
+        likelihoods = {**{k: v for k, v in likelihoods.items() if k not in ("toponym", "substrate")},
+                       "Hattic": 0.0, "toponym": 0.0, "substrate": 0.0}
 
     if nws_matches:
         likelihoods["NWS"] = nws_matches[0]["score"]
@@ -814,6 +893,12 @@ def classify_language(
             likelihoods["Luwian"] = max(likelihoods["Luwian"],
                                         luwian_matches[0]["score"])
 
+        if with_hattic:
+            if hattic_matches is None and skeleton:
+                hattic_matches = score_against_hattic_roots(skeleton, skeleton_conf)
+            if hattic_matches:
+                likelihoods["Hattic"] = hattic_matches[0]["score"]
+
     if word in known_words:
         entry = known_words[word]
         tags = set(entry.get("tags", []))
@@ -830,7 +915,8 @@ def classify_language(
 
     max_classified = max(likelihoods["NWS"], likelihoods["Hurrian_name"],
                          likelihoods["Egyptian"],
-                         likelihoods["Luwian"], likelihoods["toponym"])
+                         likelihoods["Luwian"], likelihoods["toponym"],
+                         likelihoods.get("Hattic", 0.0))
     if max_classified < 0.3:
         likelihoods["substrate"] = 0.5
 
@@ -941,13 +1027,15 @@ def propagate_word(
     else:
         eg_matches = score_against_egyptian_roots(work_skel, work_conf)
         lw_matches = score_against_luwian_roots(work_skel, work_conf)
+    with_hattic = bool(lang_opts and lang_opts.hattic) and not semitic_only
+    ht_matches = score_against_hattic_roots(work_skel, work_conf) if with_hattic else []
 
     # If no Semitic match, try Egyptian/Luwian as primary match
     if best_result is None and best_skeleton_info and not semitic_only:
         skel, skel_conf, profile, stripped, prefix, suffix = best_skeleton_info
         best_alt = None
         best_alt_score = 0.0
-        for match_list in (eg_matches, lw_matches):
+        for match_list in (eg_matches, lw_matches, ht_matches):
             if match_list and match_list[0]["score"] > best_alt_score:
                 best_alt = match_list[0]
                 best_alt_score = match_list[0]["score"]
@@ -995,6 +1083,7 @@ def propagate_word(
         luwian_matches=lw_matches,
         lang_opts=lang_opts,
         site=word_info.get("site", ""),
+        hattic_matches=ht_matches if with_hattic else None,
     )
     best_result["language"] = lang
 
@@ -1010,6 +1099,11 @@ def propagate_word(
         best_result["best_meaning"] = lw_matches[0]["meaning"]
         best_result["source_lang"] = "Luwian"
         best_result["distance"] = lw_matches[0]["distance"]
+    elif decision == "Hattic" and ht_matches:
+        best_result["best_root"] = ht_matches[0]["root"]
+        best_result["best_meaning"] = ht_matches[0]["meaning"]
+        best_result["source_lang"] = "Hattic"
+        best_result["distance"] = ht_matches[0]["distance"]
 
     best_result["site"] = word_info["site"]
     best_result["doc_id"] = word_info["doc_id"]
@@ -1033,6 +1127,8 @@ def compute_empirical_site_distribution(results: list[dict]) -> dict[str, dict[s
         site_counts[site][decision] += 1
 
     categories = ["NWS", "Hurrian_name", "Egyptian", "Luwian", "toponym", "substrate"]
+    if any(c.get("Hattic") for c in site_counts.values()):
+        categories.insert(4, "Hattic")              # only a run with --hattic has Hattic decisions to count
     distributions: dict[str, dict[str, float]] = {}
     for site, counts in site_counts.items():
         total = sum(counts.values())
@@ -1278,6 +1374,9 @@ def main():
     parser.add_argument("--json", action="store_true", help="Output as JSON")
     parser.add_argument("--language", choices=["multi", "semitic-only", "contact-aware"],
                         default="multi", help="Language filtering mode")
+    parser.add_argument("--hattic", action="store_true",
+                        help="Add Hattic to the rival arms (the registered Shoresh competitor's keys and table); "
+                             "off, every score is as before")
     parser.add_argument("--site-priors", action="store_true",
                         help="Enable per-site language priors")
     parser.add_argument("--site-consistency", action="store_true",
@@ -1297,6 +1396,7 @@ def main():
         use_site_priors=args.site_priors,
         use_site_consistency=args.site_consistency,
         site_consistency_threshold=args.site_consistency_threshold,
+        hattic=args.hattic,
     )
 
     pg = None
@@ -1333,6 +1433,7 @@ def main():
             "site_priors": args.site_priors,
             "site_consistency": args.site_consistency,
             "site_consistency_threshold": args.site_consistency_threshold,
+            "hattic": args.hattic,
             "phrase_grammar": args.phrase_grammar,
         }
         run_dir = save_run("propagation", params, data, label=args.label)

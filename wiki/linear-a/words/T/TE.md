@@ -109,7 +109,7 @@ di Mino; Montecchi 2010; Schoep 2002; HALOT; DULAT
 | [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1144\|HTWa1144]] | Haghia Triada | Nodule | complete |
 | [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1145\|HTWa1145]] | Haghia Triada | Nodule | complete |
 | [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1146\|HTWa1146]] | Haghia Triada | Nodule | complete |
-| [[wiki/linear-a/inscriptions/AN/ANZb/ANZb1\|ANZb1]] |  | Clay vessel | complete |
+| [[wiki/linear-a/inscriptions/AN/ANZb/ANZb1\|ANZb1]] | Anemospilia | Clay vessel | complete |
 | [[wiki/linear-a/inscriptions/KN/KNWc/KNWc48\|KNWc48]] | Knossos | Roundel | complete |
 | [[wiki/linear-a/inscriptions/PH/PH/PH12c\|PH12c]] | Phaistos | Lames (short thin tablet) | complete |
 | [[wiki/linear-a/inscriptions/PH/PHWb/PHWb36\|PHWb36]] | Phaistos | Sealing | complete |

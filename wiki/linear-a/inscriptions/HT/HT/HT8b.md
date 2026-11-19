@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/inscriptions/HT/HT/HT8b
 title: "HT8b"
-desc: "Tablet, Haghia Triada, LMIB. Translation: complete."
+desc: "Tablet, Haghia Triada, LMIB. Translation: complete (SPECULATIVE)."
 tags: ["linear-a", "inscription", "translation-complete", "tablet"]
 kind: "inscription"
 id: "HT8b"
@@ -67,7 +67,7 @@ Unicode (Linear A block):
 
 ## Translation
 
-**no confidence given**, complete.
+**SPECULATIVE**, complete.
 
 > Bowl of terebinth (pistachio) nuts: 1. \[divider\] 5. Terebinth: 2. Qaynī (smith or administrator): 1⅜. Village: ½. Payare: 1⅛. Terebinth by ship: ½. \[½\].
 

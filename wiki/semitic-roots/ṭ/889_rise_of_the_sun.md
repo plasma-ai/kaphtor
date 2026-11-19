@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ṭlʕ u,26 (Lane 1867) | Lane 1867 |  |
-| Geez | ṭalʿa 'grow' (Dillmann 1865 (TraCES/ERC digitization, CC BY-SA-NC 4.0)) | Dillmann 1865 (TraCES/ERC digitization, CC BY-SA-NC 4.0); Anderson–Moser 2024 root ṭlʿ |  |
+| Geez | ṭalʿa 'grow' (Dillmann 1865 (TraCES/ERC digitization, CC BY-NC-SA 4.0)) | Dillmann 1865 (TraCES/ERC digitization, CC BY-NC-SA 4.0); Anderson–Moser 2024 root ṭlʿ |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

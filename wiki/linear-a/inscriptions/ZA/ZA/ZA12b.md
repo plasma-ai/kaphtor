@@ -9,7 +9,7 @@ site: "Zakros"
 support: "Tablet"
 period: "LMIB"
 translation: "none"
-words: ["PA", "TI"]
+words: ["PA", "RU", "TI"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -58,7 +58,7 @@ Unicode (Linear A block):
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/P/PA|PA]], [[wiki/linear-a/words/T/TI|TI]].
+[[wiki/linear-a/words/P/PA|PA]], [[wiki/linear-a/words/R/RU|RU]], [[wiki/linear-a/words/T/TI|TI]].
 
 ## Corpus note
 

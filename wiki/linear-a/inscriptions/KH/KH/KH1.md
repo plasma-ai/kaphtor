@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 Transliteration, line by line:
 
-1. JE 𐄁 GRA+F 70
+1. \]JE 𐄁 GRA+F 70
 2. 3 ¹⁄₂
 3. NI
 4. 𐝫
@@ -57,5 +57,9 @@ Unicode (Linear A block):
 ## Lexicon words citing this document
 
 [[wiki/linear-a/words/N/NI|NI]].
+
+## Corpus note
+
+GORILA III 23: .1 \]JE · GRA+F 70\[, broken at the left before JE and at the right after 70; .2 \]3 ½ NI\[, 3 and NI dotted. JE ends a word whose beginning is lost.
 
 <!-- END kaphtor:record -->

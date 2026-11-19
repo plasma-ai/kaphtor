@@ -1,12 +1,12 @@
 ---
 name: wiki/linear-a/words/A/A
 title: "A"
-desc: "Unread sign (syllabogram, unread); 17 occurrence(s)."
+desc: "Unread sign (syllabogram, unread); 13 occurrence(s)."
 tags: ["linear-a", "word", "unread"]
 kind: "word"
 form: "A"
 datasets: ["unread_signs"]
-attestations: ["ARKH1b", "ARKH5", "HT37", "HT57a", "HTWa1147", "HTWa1148", "HTWa1149", "KANZa1", "KH17", "KH33", "KH45", "KH73", "PEZb8", "PH27", "SYZa12", "ZA21a"]
+attestations: ["ARKH1b", "ARKH5", "HT37", "HT57a", "HTWa1147", "HTWa1148", "HTWa1149", "KANZa1", "KH45", "PEZb8", "PH27", "SYZa12", "ZA21a"]
 created: 2026-11-12T00:26:03Z
 updated: 2026-11-12T00:26:03Z
 ---
@@ -33,10 +33,7 @@ updated: 2026-11-12T00:26:03Z
 | [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1148\|HTWa1148]] | Haghia Triada | Nodule | none |
 | [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1149\|HTWa1149]] | Haghia Triada | Nodule | none |
 | [[wiki/linear-a/inscriptions/KAN/KANZa/KANZa1\|KANZa1]] | Kannia | Stone vessel | none |
-| [[wiki/linear-a/inscriptions/KH/KH/KH17\|KH17]] | Khania | Tablet | none |
-| [[wiki/linear-a/inscriptions/KH/KH/KH33\|KH33]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH45\|KH45]] | Khania | Tablet | none |
-| [[wiki/linear-a/inscriptions/KH/KH/KH73\|KH73]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/PE/PEZb/PEZb8\|PEZb8]] | Petras | Clay vessel | none |
 | [[wiki/linear-a/inscriptions/PH/PH/PH27\|PH27]] | Phaistos | Tablet | none |
 | [[wiki/linear-a/inscriptions/SY/SYZa/SYZa12\|SYZa12]] | Syme | Stone vessel | none |
@@ -46,6 +43,6 @@ updated: 2026-11-12T00:26:03Z
 
 A syllabogram. Status **unread** (nothing on file).
 
-Alone on 3 Haghia Triada nodules (HT Wa 1147–1149) and the Petras vessel PE Zb 8. On tablets at Khania, Haghia Triada, Arkhanes, Phaistos and Zakros it stands as an entry, with a quantity on HT 57a (A ⅛). No reading. The A before SA-SA-RA-ME on PK Za 11 is the first sign of A-SA-SA-RA-ME and is counted with that word.
+Alone on 3 Haghia Triada nodules (HT Wa 1147–1149) and the Petras vessel PE Zb 8. On tablets at Khania, Haghia Triada, Arkhanes, Phaistos and Zakros it stands as an entry, with a quantity on HT 57a (A ⅛). No reading. Three Khania tablets keep no whole token: KH 17 .4 and KH 33 .2 break straight after a dotted A (GORILA III 49, 63), and on KH 73 .1 breaks after a dotted A and .3 has A, a dash and the break (GORILA III 91). The A before SA-SA-RA-ME on PK Za 11 is the first sign of A-SA-SA-RA-ME and is counted with that word.
 
 <!-- END kaphtor:record -->

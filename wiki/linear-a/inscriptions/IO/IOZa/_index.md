@@ -2,7 +2,7 @@
 name: wiki/linear-a/inscriptions/IO/IOZa
 desc: "Inscriptions from Iouktas, series IOZa."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-12T00:26:03Z
+updated: 2026-11-20T13:42:55Z
 ---
 
 # wiki/linear-a/inscriptions/IO/IOZa
@@ -11,11 +11,11 @@ updated: 2026-11-12T00:26:03Z
 
 [[wiki/linear-a/inscriptions/IO/IOZa/IOZa11|IOZa11]]: Stone vessel, Iouktas. Translation: incomplete.
 
-[[wiki/linear-a/inscriptions/IO/IOZa/IOZa12|IOZa12]]: Stone vessel, Iouktas, LMI. Translation: complete.
+[[wiki/linear-a/inscriptions/IO/IOZa/IOZa12|IOZa12]]: Stone vessel, Iouktas, LMI. Translation: complete (CANDIDATE).
 
 [[wiki/linear-a/inscriptions/IO/IOZa/IOZa13|IOZa13]]: Stone vessel, Iouktas. Translation: none.
 
-[[wiki/linear-a/inscriptions/IO/IOZa/IOZa14|IOZa14]]: Stone vessel, Iouktas. Translation: complete.
+[[wiki/linear-a/inscriptions/IO/IOZa/IOZa14|IOZa14]]: Stone vessel, Iouktas. Translation: complete (PROBABLE).
 
 [[wiki/linear-a/inscriptions/IO/IOZa/IOZa15|IOZa15]]: Stone vessel, Iouktas. Translation: complete (PROBABLE).
 
@@ -33,7 +33,7 @@ updated: 2026-11-12T00:26:03Z
 
 [[wiki/linear-a/inscriptions/IO/IOZa/IOZa7|IOZa7]]: Stone vessel, Iouktas, LMI. Translation: complete (CANDIDATE).
 
-[[wiki/linear-a/inscriptions/IO/IOZa/IOZa8|IOZa8]]: Stone vessel, Iouktas, LMI. Translation: complete.
+[[wiki/linear-a/inscriptions/IO/IOZa/IOZa8|IOZa8]]: Stone vessel, Iouktas, LMI. Translation: complete (CANDIDATE).
 
 [[wiki/linear-a/inscriptions/IO/IOZa/IOZa9|IOZa9]]: Stone vessel, Iouktas. Translation: complete (CONFIRMED).
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/inscriptions/HT/HT/HT96a
 title: "HT96a"
-desc: "Tablet, Haghia Triada, LMIB. Translation: incomplete."
+desc: "Tablet, Haghia Triada, LMIB. Translation: incomplete (SPECULATIVE)."
 tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
 kind: "inscription"
 id: "HT96a"
@@ -71,7 +71,7 @@ Unicode (Linear A block):
 
 ## Translation
 
-**no confidence given**, incomplete (status: incomplete).
+**SPECULATIVE**, incomplete (status: incomplete).
 
 > Disbursed (I-TI-TI-KU-NI) · ʿAbrān · the incense: Śīmat grain 5; Rusa 4; \*323-\*317 1; a portion 1; \*323-\*344 1. — \]KU-MA-RO: TE, figs 20; \[…\] figs 2.
 

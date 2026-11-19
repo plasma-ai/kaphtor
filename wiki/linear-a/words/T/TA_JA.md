@@ -31,7 +31,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HTZd/HTZd157_plus_156\|HTZd157+156]] |  | unread—a 2-consonant glide skeleton, within chance; probably a commodity/payer abbreviation on the final fraction line |  |
+| [[wiki/linear-a/inscriptions/HT/HTZd/HTZd157_plus_156\|HTZd157+156]] |  | unread; the fifth term of the series, 5¹⁄₁₆, if it is the word for five (Olivier apud Schoep 2002, 32) |  |
 
 ## Unread
 

@@ -10,6 +10,7 @@ through `tools/core/run_saver.py`, so `ventris_runs.py` lists them.
 | `root_match_checks.py` | The Shoresh pre-gold checks (`docs/shoresh-preregistration.md`) |
 | `meaning_shuffle.py` | The meaning-shuffle test; refused without its signed pre-registration (`--prereg`) |
 | `meaning_shuffle_power.py` | The meaning-shuffle test's calibration and power, on fabricated and planted words only; writes `--out` |
+| `hattic_layer_null.py` | The chance rate of the classifier's Hattic layer (`ventris_propagate.py --hattic`): the words Hattic wins against the same keys with their consonants dealt out again; prints only |
 | `d7_structural_controls.py` | D7's controls (`docs/d7-structural-preregistration.md`): S1 and S3 on the rival languages' own texts, none shipped; writes `--out` |
 | `d7_s3_linear_a.py` | D7's S3 on Linear A (`docs/d7-structural-result.md`); writes `--out` |
 | `paradigm_b.py` | The frozen paradigm B test, verified against its hashes, its numbers reproduced |

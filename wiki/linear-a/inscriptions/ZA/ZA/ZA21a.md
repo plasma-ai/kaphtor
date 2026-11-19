@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 Transliteration, line by line:
 
-1. ME
+1. \]ME
 2. \]PI-MU 40
 3. 𐝫
 4. \]MA\[
@@ -73,5 +73,9 @@ Unicode (Linear A block):
 ## Lexicon words citing this document
 
 [[wiki/linear-a/words/P/PA|PA]].
+
+## Corpus note
+
+GORILA III 195: .1 \]ME, with the note 'Traces devant' ME; the tabular copy prints \]ME\[.
 
 <!-- END kaphtor:record -->

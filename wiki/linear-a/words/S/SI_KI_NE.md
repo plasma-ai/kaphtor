@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/S/SI_KI_NE
 title: "SI-KI-NE"
-desc: "Sikinet: stewardess or female administrator; compare masculine prefect/commissioner. Lexicon, CANDIDATE (tier 2)."
+desc: "Sikinet: stewardess, female administrator. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "hapax", "noun", "personnel", "title"]
 kind: "word"
 form: "SI-KI-NE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Sikinet |
-| Meaning | stewardess or female administrator; compare masculine prefect/commissioner |
+| Meaning | stewardess, female administrator |
 | Root | s-k-n |
 | Proto-Semitic | \*sākin- (#3842) |
 | Language layer | Semitic |
