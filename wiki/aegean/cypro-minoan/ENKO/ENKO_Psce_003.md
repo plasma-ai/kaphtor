@@ -27,6 +27,9 @@ updated: 2026-11-18T19:49:10Z
 | Site | Enkomi (Famagusta) (ENKO); Valério 2016, 36 |
 | Identity controls | Pleiades 13818291, Trismegistos 37211 (match: exact); Pleiades 158081397 "Tomb of the Kings near Enkomi" excluded |
 | Object type | Psce, Stone seal; Valério 2016, 37 |
+| Date | LC IA (Late Cypriot IA), 1600–1525 BCE (Valério 2016, 39); AGREE, certainty HIGH; lead statement: CMI II (Ferrara), "LC IA" (Valério 2016, 649) |
+| Script | Cypro-Minoan; Valério 2016, 555 |
+| Subcorpus | none: no held source assigns it |
 | Status | inscription |
 | Edition of record | CMI II, transcribed in Valério 2016, Appendix A, 555; unverified |
 

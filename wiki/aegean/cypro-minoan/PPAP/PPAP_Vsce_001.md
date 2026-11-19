@@ -27,7 +27,9 @@ updated: 2026-11-18T19:49:10Z
 | Site | Palaeopaphos-Skales (Paphos) (PPAP); Valério 2016, 36 |
 | Identity controls | Pleiades 707596, Trismegistos 1565 (match: city); the records are (Palai)Paphos, not Skales |
 | Object type | Vsce, Glass seal; Valério 2016, 37 |
-| Subcorpus | CM 1 |
+| Date | LC IIIA (Late Cypriot IIIA), 1190–1100 BCE (Valério 2016, 39); OVERLAP, certainty MEDIUM; lead statement: CMI II (Ferrara), "LC IIIA(?)" (Valério 2016, 649) |
+| Script | Cypro-Minoan; Valério 2016, 504 |
+| Subcorpus | CM 1; Valério 2016, 452; Valério 2016, 451 |
 | Status | inscription |
 | Edition of record | HoChyMin, transcribed in Valério 2016, Appendix A, 504; unverified |
 

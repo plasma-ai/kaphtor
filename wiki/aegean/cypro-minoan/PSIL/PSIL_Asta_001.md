@@ -27,7 +27,9 @@ updated: 2026-11-18T19:49:10Z
 | Site | Psilatos (Famagusta) (PSIL); Valério 2016, 36 |
 | Identity controls | none (match: none); no record |
 | Object type | Asta, Clay figurine; Valério 2016, 37 |
-| Subcorpus | CM 1 |
+| Date | LC IIIA (Late Cypriot IIIA), 1190–1100 BCE (Valério 2016, 39); OVERLAP, certainty MEDIUM; lead statement: CMI II (Ferrara), "LC IIIA" (Valério 2016, 645) |
+| Script | Cypro-Minoan; Valério 2016, 481 |
+| Subcorpus | CM 1; Valério 2016, 452; Valério 2016, 451 |
 | Status | inscription |
 | Edition of record | HoChyMin, transcribed in Valério 2016, Appendix A, 481; unverified |
 

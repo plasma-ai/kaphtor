@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/V
 desc: "Words whose first sign begins with V."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-18T17:05:12Z
+updated: 2026-11-19T03:56:49Z
 ---
 
 # wiki/linear-a/words/V
@@ -39,7 +39,7 @@ updated: 2026-11-18T17:05:12Z
 
 [[wiki/linear-a/words/V/VIR_plus_q_star329|VIR_plus_q_star329]]: Unread sign (compound, unread); 1 occurrence(s).
 
-[[wiki/linear-a/words/V/VIR_plus_q_star339_HIDE_plus_q_broken_end|VIR_plus_q_star339_HIDE_plus_q_broken_end]]: Unread sign (compound, unread); 1 occurrence(s).
+[[wiki/linear-a/words/V/VIR_plus_q_star339_HIDE_plus_q_broken_end|VIR_plus_q_star339_HIDE_plus_q_broken_end]]: Unread sign (compound, component read); 1 occurrence(s).
 
 [[wiki/linear-a/words/V/VIR_plus_q_star352_JA|VIR_plus_q_star352_JA]]: Unread (unread): no role; 1 occurrence(s).
 

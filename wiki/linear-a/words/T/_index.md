@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/T
 desc: "Words whose first sign begins with T."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-18T16:16:38Z
+updated: 2026-11-19T03:56:49Z
 ---
 
 # wiki/linear-a/words/T
@@ -23,7 +23,7 @@ updated: 2026-11-18T16:16:38Z
 
 [[wiki/linear-a/words/T/TA_DI|TA_DI]]: dādī: my beloved, a name and name element. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/T/TA_HIDE_plus_B|TA_HIDE_plus_B]]: Unread sign (compound, unread); 1 occurrence(s).
+[[wiki/linear-a/words/T/TA_HIDE_plus_B|TA_HIDE_plus_B]]: Unread sign (compound, component read); 1 occurrence(s).
 
 [[wiki/linear-a/words/T/TA_I|TA_I]]: Taḫe: Taḫe 'Man' (Hurrian personal name). Lexicon, CANDIDATE (tier 2).
 
@@ -83,7 +83,7 @@ updated: 2026-11-18T16:16:38Z
 
 [[wiki/linear-a/words/T/TELA_plus_KU|TELA_plus_KU]]: (logogram): a kind of cloth: the cloth sign with KU. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/T/TELA_plus_SE|TELA_plus_SE]]: Unread sign (ligature, unread); 1 occurrence(s).
+[[wiki/linear-a/words/T/TELA_plus_SE|TELA_plus_SE]]: Unread sign (ligature, component read); 1 occurrence(s).
 
 [[wiki/linear-a/words/T/TELA_plus_TE|TELA_plus_TE]]: Unread sign (ligature, component read); 1 occurrence(s).
 
@@ -125,7 +125,7 @@ updated: 2026-11-18T16:16:38Z
 
 [[wiki/linear-a/words/T/TI_DI_TE_QA_TI|TI_DI_TE_QA_TI]]: tidī teqaʿti: 'fix it, you have fastened it' (of the pin); rival Tidiʿ-Teqaʿt, personal name 'Teqaʿt knows', after one of the Kotharat. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/T/TI_DU|TI_DU]]: Unread (unread): no role; 1 occurrence(s).
+[[wiki/linear-a/words/T/TI_DU|TI_DU]]: ṭiṭṭu: malt, a jar's contents beside honey. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/T/TI_DU_NI|TI_DU_NI]]: Unread (unread): no role; 1 occurrence(s).
 

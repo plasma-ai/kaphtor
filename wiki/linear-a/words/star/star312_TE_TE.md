@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 26a .1 \*406VAS+KE · \*312-TE-TE ·, unquantified after the vessel heading, over TA-TI 21, MI-KI-SE-NA 'coverings' 15 and U-NU-\*21F 5 (GORILA I 47); side b has VIR+\[?\] 9 in its place. Davis sets \*312-TA ~ \*312-TE-TE beside JA-DI-KI-TU ~ JA-DI-KI-TE-TE (2026, 46); TE-TE is the feminine nisbe -īt of A-DI-KI-TE-TE, with the base T kept. With \*312 = BI, bittīt 'of the cloth lengths' names the account, and coverings are counted under it. Rival: bītīt 'of the house', the nisbe of \*312-TA. One attestation. See \*312 and \*312-TA.
+HT 26a .1 \*406VAS+KE · \*312-TE-TE ·, unquantified after the vessel heading, over TA-TI 21, MI-KI-SE-NA 'coverings' 15 and U-NU-\*21F 5 (GORILA I 47); side b has VIR+\[?\] 9 in its place. Davis sets \*312-TA ~ \*312-TE-TE beside JA-DI-KI-TU ~ JA-DI-KI-TE-TE (2026, 46); TE-TE is the feminine nisbe -et of A-DI-KI-TE-TE, with the base T kept. With \*312 = BI, bittīt 'of the cloth lengths' names the account, and coverings are counted under it. Rival: bītīt 'of the house', the nisbe of \*312-TA. One attestation. See \*312 and \*312-TA.
 
 ### Cognates
 

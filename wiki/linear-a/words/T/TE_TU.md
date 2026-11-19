@@ -40,20 +40,20 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 13 .3 TE-TU 56, whole and undotted, the largest share of the KA-U-DE-TA VIN · TE list (KU-RO 130½), beside TE-KI, KU-ZU-NI and DA-SI-\*118 (GORILA I 27); HT 7a .5 TE-TU 1, TE over an erasure, under QE-TI · VIR+\[?\] (GORILA I 15); HT 85b .2–3 TE-TU\[, broken after TU (GORILA I 133). Counted one man on two rosters: a person. Ugarit has the personal name tt, syllabic te-et-te, tu-ut-ti, tu-tu, etym. unc. (DULAT 869); Tette, king of Nuḫašše (Kinlaw 1967, 119). A pet-name type found across languages: Egyptian tt.w Tetu (Ranke I, 385.27), Hurrian Tuttu at Mari (Monti 2017, 308), Hittite Tuttu (LAMAN 4579). Rival: Egyptian Teti (Ttj). Two whole witnesses.
+HT 13 .3 TE-TU 56, whole and undotted, the largest share of the KA-U-DE-TA VIN · TE list (KU-RO 130½), beside TE-KI, KU-ZU-NI and DA-SI-\*118 (GORILA I 27); HT 7a .5 TE-TU 1, TE over an erasure, under QE-TI · VIR+\[?\] (GORILA I 15); HT 85b .2–3 TE-TU\[, broken after TU (GORILA I 133). Counted one man on two rosters: a person. Ugarit has the personal name tt, syllabic te-et-te, tu-ut-ti, tu-tu, etym. unc. (DULAT 869), a common name there: tt in KTU 4.7:17, 4.102:26 and 4.103:19, tu-ut-tu in RS 94.2443:2 (Burlingame 2020, 203); Tette, king of Nuḫašše (Kinlaw 1967, 119). A pet-name type found across languages: Egyptian tt.w Tetu (Ranke I, 385.27), Hurrian Tuttu at Mari (Monti 2017, 308), Hittite Tuttu (LAMAN 4579). Rival: Egyptian Teti (Ttj). Two whole witnesses.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Ugaritic | tt PN, etym. unc., syllabic te-et-te, tu-ut-ti, tu-tu (DULAT 869) |
+| Ugaritic | tt PN, etym. unc., syllabic te-et-te, tu-ut-ti, tu-tu (DULAT 869); common: KTU 4.7:17, 4.102:26, 4.103:19, tu-ut-tu RS 94.2443:2 (Burlingame 2020, 203) |
 | Akkadian | Tette, {1}te-et-te, king of Nuḫašše, RS 17.334 (Kinlaw 1967, 119) |
 | Hurrian | Tuttu, tu-ut-tu, Mari (Monti 2017, 308) |
 | Egyptian | tt.w, 12th Dynasty to Thutmose III (PNM v6, personal_names_id 142606772; Ranke I, 385.27) |
 
 ### Source
 
-di Mino; DULAT
+di Mino; DULAT; Burlingame 2020
 
 ## Attestations
 

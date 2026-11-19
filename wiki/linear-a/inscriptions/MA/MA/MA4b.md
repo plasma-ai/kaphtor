@@ -9,7 +9,7 @@ site: "Malia"
 support: "Tablet"
 period: "MMIIIB"
 translation: "none"
-words: []
+words: ["HIDE"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -49,6 +49,10 @@ Unicode (Linear A block):
 𐘇𐝫𐝫𐝫𐘱𐙒𐄙𐄒𐄍
 𐄙𐄕
 ```
+
+## Lexicon words citing this document
+
+[[wiki/linear-a/words/H/HIDE|HIDE]].
 
 ## Corpus note
 

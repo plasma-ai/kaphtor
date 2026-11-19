@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/Q
 desc: "Words whose first sign begins with Q, and words that open with an illegible sign."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-18T17:05:12Z
+updated: 2026-11-19T03:04:47Z
 ---
 
 # wiki/linear-a/words/Q
@@ -63,7 +63,7 @@ updated: 2026-11-18T17:05:12Z
 
 [[wiki/linear-a/words/Q/QE_DE_MI_NU|QE_DE_MI_NU]]: Qēdmīnu: personal name, 'Easterner, Ancient one'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/Q/QE_KA|QE_KA]]: Unread (role only): personal name; 2 occurrence(s).
+[[wiki/linear-a/words/Q/QE_KA|QE_KA]]: Qēqa: personal name. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/Q/QE_KU_RE|QE_KU_RE]]: kikkᵊrē: rounds, round cakes of (a commodity); talent; rival the personal name Qaqqaru. Lexicon, SPECULATIVE (tier 1).
 

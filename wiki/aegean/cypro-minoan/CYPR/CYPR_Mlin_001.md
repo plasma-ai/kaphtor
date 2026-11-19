@@ -27,6 +27,9 @@ updated: 2026-11-18T19:49:10Z
 | Site | Cyprus (CYPR); Valério 2016, 36 |
 | Identity controls | none (match: generic); generic code, no site |
 | Object type | Mlin, Metal ingot; Valério 2016, 37 |
+| Date | none: no held source dates it |
+| Script | Cypro-Minoan; Donnelly 2024, 46; Donnelly 2024, 51, fig. 17D |
+| Subcorpus | none: no held source assigns it |
 | Status | outside Appendix A |
 
 Outside Appendix A: A miniature ingot held by the Leventis Municipal Museum in Nicosia, with the two-sign sequence of the Enkomi miniature ingots ##174–176. (Donnelly 2024, 51, fig. 17D; Donnelly 2024, 50)

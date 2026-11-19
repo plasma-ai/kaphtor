@@ -124,6 +124,14 @@
         {
           "entry": "*312=BI",
           "evidence": "its own readings, with no support from another script. Alone and inside the cloth sign it is bitt 'a length of cloth' (Ug. bt, DULAT 247–248), which takes the 1¾ of HT 123+124b; *312-TA and *312-TA₂ read bīta 'the house', drawing grain beside the estate and the storehouse, and *312-TE-TE bittīt 'of the cloth lengths'. Against: the rival ZO has the Linear B ligature TELA+ZO and the sign's shape (Montecchi 2010, 31 n. 38; Melena 2014, 46 n. 50); the lexicon writes bīt with PI, and *333 is also proposed as BI"
+        },
+        {
+          "entry": "*350=WO",
+          "evidence": "the Linear B sign's shape, on one token. A 350 is 'similar in shape to LB wo' and 'might be an alternative good candidate to represent a possible ancestor (or source) of LB 42/wo' (Salgarella 2020, 171), and with wo A-TA-*350 reads ʾatāwu 'what has come in' on KH 11. Against: the sign stands once, and Salgarella's reserve is 'if not actually a variant of A 306'"
+        },
+        {
+          "entry": "*362=NO",
+          "evidence": "the forerunner of the Linear B sign, on one token. Melena takes A 362, a hand, for the forerunner of Linear B no (2014a, 84–88, apud Salgarella 2020, 162, 337), and with no WA-*362 reads waynu 'wine' before the must on ZA 10b. Against: the sign stands once, Linear B no has a thumb and no strokes across the stem, 'unlike its LA counterpart', and A 28b is another possible source (Salgarella 2020, 294)"
         }
       ],
       "logograms": [
@@ -253,7 +261,7 @@
           "evidence": "rests on its identification with BB"
         }
       ],
-      "phonemic_count": 14,
+      "phonemic_count": 16,
       "logogram_count": 21,
       "fraction_count": 11
     }
@@ -3133,6 +3141,43 @@
       "note": "SPECULATIVE (0.30). Four tokens in two words: *324-DI-RA (HT 9a, 9b, 122a) and *364-KE-MA-SE (ZA 15a). Shoresh UNINFORMATIVE on both words under ṮA and SO (p_max 0.64–0.83).",
       "linear_b_cognate": null
     },
+    "*350": {
+      "ab_number": null,
+      "sign_number": "A350",
+      "primary": {
+        "consonant": "w",
+        "vowel": "o",
+        "confidence": 0.3
+      },
+      "alternates": [
+        {
+          "consonant": "ʿ",
+          "vowel": "a",
+          "confidence": 0.1,
+          "evidence": [
+            "A variant of *306: Salgarella's reserve, 'if not actually a variant of A 306' (2020, 171). Against: A-TA-ʿA has no root, and the *306 of KH 11 .3 and .6, by the same hand, has a closed loop at the left and two short strokes at the right that the sign of .5 lacks (SigLA's tracings)"
+          ]
+        }
+      ],
+      "confirmed_by": [
+        "A-TA-*350 = A-TA-WO ʾatāwu 'what has come in' (KH 11; Ugaritic ảtwt, DULAT 119–120; Ebla a-du-wu-mu, GlOS 1, 49)"
+      ],
+      "note": "A350, KH 11 .5 only. 'Similar in shape to LB wo', and 'if not actually a variant of A 306' it 'might be an alternative good candidate to represent a possible ancestor (or source) of LB 42/wo' (Salgarella 2020, 171). One word, so nothing checks the value a second time."
+    },
+    "*362": {
+      "ab_number": null,
+      "sign_number": "A362",
+      "primary": {
+        "consonant": "n",
+        "vowel": "o",
+        "confidence": 0.3
+      },
+      "alternates": [],
+      "confirmed_by": [
+        "WA-*362 = WA-NO waynu 'wine' (ZA 10b), before DU-RE-ZA-SE *131B 'for the must'; WA writes the word by its first sign in VIN+WA (HT 27b)"
+      ],
+      "note": "A362, a hand, ZA 10b .1 only. Melena takes it for the forerunner of Linear B no (2014a, 84–88, apud Salgarella 2020, 162, 337). Against: Linear B no has a thumb on the right and no strokes across the stem, 'unlike its LA counterpart', and A 28b is another possible source (Salgarella 2020, 294). One word, so nothing checks the value a second time."
+    },
     "*364": {
       "ab_number": null,
       "same_as": "*324",
@@ -3469,6 +3514,24 @@
       "note": "Semantic reading: PALM/TREE, based on the pictorial form and counted administrative contexts. TAMIR is the proposed Semitic lexical name, and /mi/ its proposed syllabic use. Both are speculative: TO-*49-RE yields t-m-r only after /mi/ is assumed, while Linear B tu-*49-mi places *49 beside ordinary MI. Dawmi for HT120 is a contingent name reading.",
       "sign_number": "*49"
     },
+    "*123": {
+      "commodity": "QUṬŌRT",
+      "gloss": "aromatics, incense",
+      "root": "q-ṭ-r",
+      "cognates": {
+        "Egyptian transcription": "qu₄-da-ru₂-ta, quṭōrt 'incense' (Hoch, SWET 305, no. 440, apud GlOS 1, 359)",
+        "Hebrew": "qəṭōret 'incense, smoke of sacrifice', n.f. (HALOT 1095–96)",
+        "Punic": "qṭrt 'perfume', qṭrt lbn (KAI 76 B 6; DNWSI 1007)",
+        "Ugaritic": "qṭr 'smoke' (DULAT 709)",
+        "Akkadian": "qatāru 'to make an incense offering' (CAD Q 166)"
+      },
+      "standalone_count": 0,
+      "confidence": 0.3,
+      "tier": 1,
+      "status": "SPECULATIVE",
+      "note": "SPECULATIVE (0.30). AB123, seven texts, never alone: A-*123-TE (HT 96a), TA-I-*123 (HT 9a, 9b, 39), TE-*123 (ZA 20), A-ME-*123 (KH 53), DU-*123-A (HT 15). Cretan Hieroglyphic 157, 'Spice jar? For 'spices'' (Meissner and Salgarella 2024, 153), and Linear B AROM. No sound: each open consonant (b, ʿ, ḥ, ṭ, ṣ) set in its place reads at most two of the five words. The word rests on A-*123-TE ha-quṭōrt 'the incense', in the slot of QA-*118-RA-RE on HT 96b. On HT 9b TA-I-*123 2 counts inside the wine total, where the sign tags the recipient. For Schoep the sign 'occurs in Linear A only as a syllabogram' (2002, 91); Steele answers that it stands 'just before numerals in four out of seven examples' (2024, 64).",
+      "sign_number": "*123"
+    },
     "*188": {
       "commodity": "BUṬNU",
       "gloss": "terebinth/pistachio products (resin, mastic, nuts)",
@@ -3478,7 +3541,7 @@
       "confidence": 0.72,
       "tier": 3,
       "status": "PROBABLE",
-      "note": "High frequency (29×). Compound forms: SU-PU₂-*188 (bowl of terebinth), PA₃-*188 (prefixed, PA₃ a phonetic complement or a transaction sign) and *188-DU (phonetic complement), *188-*308 (terebinth oil), *86+*188 (a consignment by ship).",
+      "note": "High frequency (29×). Compound forms: SU-PU₂-*188 (bowl of terebinth), PA₃-*188 (prefixed, PA₃ a phonetic complement or a transaction sign) and *188-DU (phonetic complement), *188-*308 (terebinth oil), *86+*188 (terebinth carried by ship) and its variant *337+*188.",
       "sign_number": "*188"
     },
     "*308": {

@@ -24,6 +24,9 @@ updated: 2026-11-18T19:49:10Z
 | Field | Value |
 |---|---|
 | ## number | none |
+| Date | LC II (Late Cypriot II), 1425–1190 BCE (Valério 2016, 39); AGREE, certainty MEDIUM; lead statement: Valério 2016, *the source's own words, not reproduced* (Valério 2016, 62) |
+| Script | Cypro-Minoan; Valério 2016, 564 |
+| Subcorpus | none: no held source assigns it |
 | Status | inscription |
 | Edition of record | own publication, transcribed in Valério 2016, Appendix A, 564; unverified |
 
@@ -39,7 +42,13 @@ No siglum: one of Appendix A's 'two uncollected ones', given by its find name. (
 |---|---|---|
 | Hirschfeld and Smith 2012 | Valério 2016, 564 |  |
 
-No held source states its identity, museum number, findspot, date, dimensions, object, document form, hand, visual evidence.
+### Date
+
+| Statement | Source | Note |
+|---|---|---|
+| *the source's own words, not reproduced* | Valério 2016, 62 |  |
+
+No held source states its identity, museum number, findspot, dimensions, object, document form, hand, visual evidence.
 
 No transcription is reproduced here: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
 

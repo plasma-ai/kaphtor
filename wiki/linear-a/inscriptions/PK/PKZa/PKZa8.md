@@ -9,7 +9,7 @@ site: "Palaikastro"
 support: "Stone vessel"
 period: ""
 translation: "incomplete"
-words: ["DU-PU₂-RE", "I-PI-NA-MA", "PA₃-E", "TU-ME-I", "U-NA", "U-NA-KA-NA-SI"]
+words: ["DU-PU₂-RE", "I-PI-NA-MA", "JA-DI-KI-TE-TE", "PA₃-E", "TU-ME-I", "U-NA", "U-NA-KA-NA-SI"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -61,7 +61,7 @@ Unicode (Linear A block):
 |---|---|---|---|---|
 | \]NU | \[…\]nū | fragmentary ending; possibly indeed, verily | CANDIDATE |  |
 | [[wiki/linear-a/words/P/PA3_E\|PA₃-E]] | bē | in, at … (possible preposition bē) | CANDIDATE | CANDIDATE (lexicon) |
-| JA-DI-KI-TE-TE-\*307-PU₂-RE | yā Diqqitīt dubur | O Diktaean of the Sanctuary | PROBABLE |  |
+| JA-DI-KI-TE-TE-\*307-PU₂-RE | yā Diqqitet dubur | O Diktaean of the Sanctuary | PROBABLE |  |
 | [[wiki/linear-a/words/T/TU_ME_I\|TU-ME-I]] | tummī | my wholeness (noun \*tumm- + 1cs -ī) | CANDIDATE | CANDIDATE (lexicon) |
 | JA-SA\[…\] | yaššara\[m\] | \[in\] righteousness | CANDIDATE |  |
 | U-NA-KA-NA-SI\[…\] | wannā kanāsī | so, behold my gathering | PROBABLE |  |
@@ -77,7 +77,7 @@ Context: Fragmentary Palaikastro libation formula with DUBUR logogram and phonet
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/D/DU_PU2_RE|DU-PU₂-RE]], [[wiki/linear-a/words/I/I_PI_NA_MA|I-PI-NA-MA]], [[wiki/linear-a/words/P/PA3_E|PA₃-E]], [[wiki/linear-a/words/T/TU_ME_I|TU-ME-I]], [[wiki/linear-a/words/U/U_NA|U-NA]], [[wiki/linear-a/words/U/U_NA_KA_NA_SI|U-NA-KA-NA-SI]].
+[[wiki/linear-a/words/D/DU_PU2_RE|DU-PU₂-RE]], [[wiki/linear-a/words/I/I_PI_NA_MA|I-PI-NA-MA]], [[wiki/linear-a/words/J/JA_DI_KI_TE_TE|JA-DI-KI-TE-TE]], [[wiki/linear-a/words/P/PA3_E|PA₃-E]], [[wiki/linear-a/words/T/TU_ME_I|TU-ME-I]], [[wiki/linear-a/words/U/U_NA|U-NA]], [[wiki/linear-a/words/U/U_NA_KA_NA_SI|U-NA-KA-NA-SI]].
 
 ## Corpus note
 

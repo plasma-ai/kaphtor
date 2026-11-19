@@ -27,7 +27,9 @@ updated: 2026-11-18T19:49:10Z
 | Site | Maa-Palaeokastro (Paphos) (MAAP); Valério 2016, 36 |
 | Identity controls | Pleiades 944168237 (match: name); Pleiades 944168237 "Maa", "a fortified settlement on Cyprus dating to the thirteenth and twelfth centuries B.C."; no TM record |
 | Object type | Avas, Pottery (complete or fragmentary); Valério 2016, 37 |
-| Subcorpus | CM 1 |
+| Date | LC IIIA (Late Cypriot IIIA), 1190–1100 BCE (Valério 2016, 39); AGREE, certainty HIGH; lead statement: CMI II (Ferrara), "LC IIIA" (Valério 2016, 647) |
+| Script | Cypro-Minoan; Valério 2016, 491 |
+| Subcorpus | CM 1; Valério 2016, 452; Valério 2016, 451 |
 | Status | inscription |
 | Edition of record | HoChyMin, transcribed in Valério 2016, Appendix A, 491; unverified |
 

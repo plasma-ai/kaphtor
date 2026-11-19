@@ -27,7 +27,9 @@ updated: 2026-11-18T19:49:10Z
 | Site | Myrtou-Pigadhes (Kyrenia) (MYRT); Valério 2016, 36 |
 | Identity controls | Pleiades 707584, Trismegistos 60863 (match: village); the records name Myrtou (BAtlas 72 C2; TM Cyprus), not Pigadhes |
 | Object type | Avas, Pottery (complete or fragmentary); Valério 2016, 37 |
-| Subcorpus | CM 1 |
+| Date | LC IIC–IIIA (Late Cypriot IIC–IIIA), 1320–1100 BCE (Valério 2016, 39); OVERLAP, certainty MEDIUM; lead statement: CMI II (Ferrara), "LC IIC-IIIA" (Valério 2016, 647) |
+| Script | Cypro-Minoan; Valério 2016, 493 |
+| Subcorpus | CM 1; Valério 2016, 452; Valério 2016, 451 |
 | Status | inscription |
 | Edition of record | HoChyMin, transcribed in Valério 2016, Appendix A, 493; unverified |
 

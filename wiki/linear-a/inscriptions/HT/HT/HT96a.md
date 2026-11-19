@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "incomplete"
-words: ["*317", "A-PA-RA-NE", "I-TI-TI-KU-NI", "NI", "PI-TA-RA", "RU-SA", "SI-MI-TA", "TE"]
+words: ["*317", "A-*123-TE", "A-PA-RA-NE", "I-TI-TI-KU-NI", "NI", "PI-TA-RA", "RU-SA", "SI-MI-TA", "TE"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -73,13 +73,13 @@ Unicode (Linear A block):
 
 **no confidence given**, incomplete (status: incomplete).
 
-> Disbursed (I-TI-TI-KU-NI) · ʿAbrān · A-\*123-TE: Śīmat grain 5; Rusa 4; \*323-\*317 1; a portion 1; \*323-\*344 1. — \]KU-MA-RO: TE, figs 20; \[…\] figs 2.
+> Disbursed (I-TI-TI-KU-NI) · ʿAbrān · the incense: Śīmat grain 5; Rusa 4; \*323-\*317 1; a portion 1; \*323-\*344 1. — \]KU-MA-RO: TE, figs 20; \[…\] figs 2.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | [[wiki/linear-a/words/I/I_TI_TI_KU_NI\|I-TI-TI-KU-NI]] | (y)ittatkūni | disbursed; rival a heading name | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/A/A_PA_RA_NE\|A-PA-RA-NE]] | ʿAbrān | heading name, also on HT96b; 'the crosser' (√ʿ-b-r); Alalakh Ap-ra-an (Wiseman 1953, 128), Amorite Ḫa-pí-ra-an, \*ʿapir- (Huffmon 1965, 36) | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/A/A_star123_TE\|A-\*123-TE]] |  | heading word, in the slot of QA-\*118-RA-RE on HT96b |  | unread |
+| [[wiki/linear-a/words/A/A_star123_TE\|A-\*123-TE]] | ha-quṭōrt | the incense, in the slot of QA-\*118-RA-RE on HT96b; the aromatics sign written for the word, with the article A- and the feminine ending -TE | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/S/SI_MI_TA\|SI-MI-TA]] | Śīmat | recipient of grain 5; personal name (f.), on √ś-y-m 'to place, fix' (Amorite ŚIJM-AT-UM, Gelb no. 5893); rival Šimʿat | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/G/GRA\|GRA]] | grain | grain (logogram) | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/R/RU_SA\|RU-SA]] | Rusa | recipient; personal name | SPECULATIVE | SPECULATIVE (lexicon) |
@@ -96,11 +96,11 @@ Grain list under a heading of three groups (GORILA I 157: only the divider after
 
 ### Source
 
-- di Mino: I-TI-TI-KU-NI, A-PA-RA-NE, SI-MI-TA, PI-TA-RA
+- di Mino: I-TI-TI-KU-NI, A-PA-RA-NE, A-\*123-TE, SI-MI-TA, PI-TA-RA
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/star/star317|\*317]], [[wiki/linear-a/words/A/A_PA_RA_NE|A-PA-RA-NE]], [[wiki/linear-a/words/I/I_TI_TI_KU_NI|I-TI-TI-KU-NI]], [[wiki/linear-a/words/N/NI|NI]], [[wiki/linear-a/words/P/PI_TA_RA|PI-TA-RA]], [[wiki/linear-a/words/R/RU_SA|RU-SA]], [[wiki/linear-a/words/S/SI_MI_TA|SI-MI-TA]], [[wiki/linear-a/words/T/TE|TE]].
+[[wiki/linear-a/words/star/star317|\*317]], [[wiki/linear-a/words/A/A_star123_TE|A-\*123-TE]], [[wiki/linear-a/words/A/A_PA_RA_NE|A-PA-RA-NE]], [[wiki/linear-a/words/I/I_TI_TI_KU_NI|I-TI-TI-KU-NI]], [[wiki/linear-a/words/N/NI|NI]], [[wiki/linear-a/words/P/PI_TA_RA|PI-TA-RA]], [[wiki/linear-a/words/R/RU_SA|RU-SA]], [[wiki/linear-a/words/S/SI_MI_TA|SI-MI-TA]], [[wiki/linear-a/words/T/TE|TE]].
 
 ## Edition differences
 

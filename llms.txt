@@ -19,7 +19,7 @@ The readings follow a Semitic decipherment of Linear A. Each carries a tier (CON
 - [Counts](https://github.com/plasma-ai/kaphtor/blob/main/wiki/linear-a/counts.md): headline counts computed from the data
 - [Semitic roots](https://github.com/plasma-ai/kaphtor/blob/main/wiki/semitic-roots/_index.md): one page per root, with reflexes and sources
 - [Pre-Greek words](https://github.com/plasma-ai/kaphtor/blob/main/wiki/pre-greek/_index.md): one page per Greek word classed as Pre-Greek or as an early Semitic loan, with its sources, features and Semitic comparisons
-- [Aegean scripts](https://github.com/plasma-ai/kaphtor/blob/main/wiki/aegean/_index.md): the Eteocretan inscriptions, and one catalogue page per Cypro-Minoan text with its site, object type, edition of record and sources
+- [Aegean scripts](https://github.com/plasma-ai/kaphtor/blob/main/wiki/aegean/_index.md): the Eteocretan inscriptions, and one catalogue page per Cypro-Minoan text with its site, object type, date, script, edition of record and sources, and a translated text's reading word by word
 
 ## Data and tools
 
@@ -29,6 +29,6 @@ The readings follow a Semitic decipherment of Linear A. Each carries a tier (CON
 
 ## Optional
 
-- [Ya Diktu](https://doi.org/10.5281/zenodo.23584794): the grammar of the peak sanctuary libation formula
+- [Ya Diktu](https://doi.org/10.5281/zenodo.21903481): the grammar of the peak sanctuary libation formula
 - [Contributing](https://github.com/plasma-ai/kaphtor/blob/main/CONTRIBUTING.md): readings, rival analyses, falsifications and corrections
 - [Citation](https://github.com/plasma-ai/kaphtor/blob/main/CITATION.cff)

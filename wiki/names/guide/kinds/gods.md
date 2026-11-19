@@ -18,7 +18,7 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Layer | Documents |
 |---|---|---|---|---|
-| [[wiki/names/semitic/names/A_DI_KI_TE_TE\|A-DI-KI-TE-TE]] | ʾa-Diqqitīt | O Diktaean (f.), the feminine nisbe of Dikte | [[wiki/names/semitic/_index\|Semitic]] | 1 |
+| [[wiki/names/semitic/names/A_DI_KI_TE_TE\|A-DI-KI-TE-TE]] | ʾa-Diqqitet | O Diktaean (f.), the feminine nisbe of Dikte | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/A_DU\|A-DU]] | ʾAddu | Addu (Haddu), the storm god, as recipient of a contribution | [[wiki/names/semitic/_index\|Semitic]] | 2 |
 | [[wiki/names/semitic/names/A_JA\|A-JA]] | ḥayyā | 'the Living One', title of the Goddess (√ḥ-y-y) | [[wiki/names/semitic/_index\|Semitic]] | 2 |
 | [[wiki/names/semitic/names/A_MA_WA_SI\|A-MA-WA-SI]] | ʿAmma-wāṣiʾ | the Kinsman who comes forth (El epithet); rival 'Strong One' | [[wiki/names/semitic/_index\|Semitic]] | 1 |

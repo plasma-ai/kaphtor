@@ -81,18 +81,18 @@ di Mino; Uchitel 2016b; Schrijver 2014; Salgarella 2020; Ferrara, Montecchi and 
 | [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3013\|HTWc3013]] | Haghia Triada | Roundel | complete |
 | [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3020\|HTWc3020]] | Haghia Triada | Roundel | complete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/PSI/PSIZa/PSIZa1\|PSIZa1]] | Pseira | Stone vessel | none; form not in transliteration |
-| [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2056\|KHWc2056]] | Khania | Roundel | none; form not in transliteration |
-| [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2057\|KHWc2057]] | Khania | Roundel | none; form not in transliteration |
-| [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2058\|KHWc2058]] | Khania | Roundel | none; form not in transliteration |
-| [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2059\|KHWc2059]] | Khania | Roundel | none; form not in transliteration |
-| [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2060\|KHWc2060]] | Khania | Roundel | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2056\|KHWc2056]] | Khania | Roundel | complete; form not in transliteration |
+| [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2057\|KHWc2057]] | Khania | Roundel | complete; form not in transliteration |
+| [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2058\|KHWc2058]] | Khania | Roundel | complete; form not in transliteration |
+| [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2059\|KHWc2059]] | Khania | Roundel | complete; form not in transliteration |
+| [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2060\|KHWc2060]] | Khania | Roundel | complete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2061\|KHWc2061]] | Khania | Roundel | none; form not in transliteration |
-| [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2062\|KHWc2062]] | Khania | Roundel | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2062\|KHWc2062]] | Khania | Roundel | complete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2091\|KHWc2091]] | Khania | Roundel | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2092\|KHWc2092]] | Khania | Roundel | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2097\|KHWc2097]] | Khania | Roundel | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2109\|KHWc2109]] | Khania | Roundel | none; form not in transliteration |
-| [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2117\|KHWc2117]] | Khania | Roundel | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2117\|KHWc2117]] | Khania | Roundel | complete; form not in transliteration |
 
 ## In translations
 

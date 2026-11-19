@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/J
 desc: "Words whose first sign begins with J."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-18T17:05:12Z
+updated: 2026-11-19T16:20:41Z
 ---
 
 # wiki/linear-a/words/J
@@ -14,6 +14,8 @@ updated: 2026-11-18T17:05:12Z
 [[wiki/linear-a/words/J/JA_DA_SU|JA_DA_SU]]: Yadaʿ-Šum: personal name, 'Šum knew'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/J/JA_DI|JA_DI]]: Yadi: Hand (personal name); rivals Yadīn 'he judges', Yadiʿ 'he knows', Ugarit ydy 'may (the god) establish'. Lexicon, SPECULATIVE (tier 1).
+
+[[wiki/linear-a/words/J/JA_DI_KI_TE_TE|JA_DI_KI_TE_TE]]: yā Diqqitet: O Diktaean (f.), the feminine nisbe of Dikte, the vocative yā written in full. Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/J/JA_DI_KI_TU|JA_DI_KI_TU]]: yā Diqqitu: O Diqqitu! (vocative invocation of the proposed goat-goddess Diqqitu). Lexicon, PROBABLE (tier 3).
 
@@ -103,7 +105,7 @@ updated: 2026-11-18T17:05:12Z
 
 [[wiki/linear-a/words/J/JA_WA_broken_end|JA_WA_broken_end]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/J/JA_WI|JA_WI]]: Yawī: personal name, '(he) lives', the bare form of the Amorite Yawi-DN names. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/J/JA_WI|JA_WI]]: Yawī: personal name, '(he) gives life', the bare form of the Amorite Yawi-DN names. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/J/JA_plus_RU|JA_plus_RU]]: Unread sign (ligature, unread); 1 occurrence(s).
 

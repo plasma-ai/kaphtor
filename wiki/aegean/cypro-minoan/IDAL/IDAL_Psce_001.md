@@ -27,6 +27,9 @@ updated: 2026-11-18T19:49:10Z
 | Site | Idalion (Nicosia) (IDAL); Valério 2016, 36 |
 | Identity controls | Pleiades 707519, Trismegistos 2748 (match: exact) |
 | Object type | Psce, Stone seal; Valério 2016, 37 |
+| Date | LC IIIC (Late Cypriot IIIC), no years: Tables I.1 and I.2 (Valério 2016, 39) give no years for LC IIIC; AGREE, certainty MEDIUM; lead statement: CMI II (Ferrara), "LC IIIC" (Valério 2016, 650) |
+| Script | none: Valério (2016, 557) sees none of the Cypro-Minoan signs on the seal and names no script |
+| Subcorpus | none: not a Cypro-Minoan text (Valério 2016, 557) |
 | Status | rejected by valerio |
 | Edition of record | CMI II, transcribed in Valério 2016, Appendix A, 557; unverified |
 

@@ -2,7 +2,7 @@
 name: wiki/linear-a/inscriptions/KH/KH
 desc: "Inscriptions from Khania, series KH."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-17T20:57:20Z
+updated: 2026-11-19T03:56:49Z
 ---
 
 # wiki/linear-a/inscriptions/KH/KH

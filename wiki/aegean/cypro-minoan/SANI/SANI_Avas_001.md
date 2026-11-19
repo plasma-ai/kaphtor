@@ -27,6 +27,9 @@ updated: 2026-11-18T19:49:10Z
 | Site | Sanidha (Limassol) (SANI); Valério 2016, 36 |
 | Identity controls | none (match: none); no record |
 | Object type | Avas, Pottery (complete or fragmentary); Valério 2016, 37 |
+| Date | LBA (Late Bronze Age), 1600–1050 BCE (Valério 2016, 39); AGREE, certainty LOW; lead statement: CMI II (Ferrara), "LBA (unspecified)" (Valério 2016, 650) |
+| Script | Cypro-Minoan; Valério 2016, 560 |
+| Subcorpus | none: no held source assigns it |
 | Status | inscription |
 | Edition of record | CMI II, transcribed in Valério 2016, Appendix A, 560; unverified |
 

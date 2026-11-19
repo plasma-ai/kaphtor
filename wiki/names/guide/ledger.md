@@ -23,7 +23,7 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/semitic/names/A_DA_RO\|A-DA-RO]] | ʾAddar: Addar, 'Mighty' (personal name) | Semitic personal name | [[wiki/names/semitic/roots/alef-d-r\|ʾ-d-r]] | SPECULATIVE | 1 |
 | [[wiki/names/semitic/names/A_DA_star21F_RI\|A-DA-\*21F-RI]] | ha-dāhari: the Charioteer (PN, √d-h-r 'dash, gallop'; \*21F = ha) | Semitic personal name | [[wiki/names/semitic/roots/d-h-r\|d-h-r]] | CANDIDATE | 1 |
 | [[wiki/names/semitic/names/A_DE\|A-DE]] | ʾAddē: Father (hypocoristic personal name, ʾAdday); rival the kin title ʾad 'father' | Semitic personal name | [[wiki/names/semitic/roots/alef-d\|ʾ-d]] | SPECULATIVE | 1 |
-| [[wiki/names/semitic/names/A_DI_KI_TE_TE\|A-DI-KI-TE-TE]] | ʾa-Diqqitīt: O Diktaean (f.), the feminine nisbe of Dikte | Semitic divine name | [[wiki/names/semitic/roots/d-q-q\|d-q-q]] | PROBABLE | 1 |
+| [[wiki/names/semitic/names/A_DI_KI_TE_TE\|A-DI-KI-TE-TE]] | ʾa-Diqqitet: O Diktaean (f.), the feminine nisbe of Dikte | Semitic divine name | [[wiki/names/semitic/roots/d-q-q\|d-q-q]] | PROBABLE | 1 |
 | [[wiki/names/semitic/names/A_DU\|A-DU]] | ʾAddu: Addu (Haddu), the storm god, as recipient of a contribution | Semitic divine name | [[wiki/names/semitic/roots/alef-d-d\|ʾ-d-d]] | CANDIDATE | 2 |
 | [[wiki/names/semitic/names/A_DU_KU_MI_NA\|A-DU-KU-MI-NA]] | ʾAddu-kummina: the one of Addu's cella (cult title as a roster name) | Semitic personal name | [[wiki/names/semitic/roots/h-d-d\|h-d-d]] + [[wiki/names/semitic/roots/k-m-m\|k-m-m]] | SPECULATIVE | 1 |
 | [[wiki/names/semitic/names/A_DU_NI_TA_NA\|A-DU-NI-TA-NA]] | ʾAddu-nittāna: given by Addu (compound theophoric PN) | Semitic personal name | [[wiki/names/semitic/roots/alef-d-d\|ʾ-d-d]] + [[wiki/names/semitic/roots/n-t-n\|n-t-n]] | CANDIDATE | 1 |
@@ -153,7 +153,7 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/semitic/names/JA_SA_MU\|JA-SA-MU]] | yaśmaʿū: 'He hears'—yaqtal hypocoristic personal name with frozen nominative -ū | Semitic personal name | [[wiki/names/semitic/roots/sh-m-ayin\|š-m-ʿ]] | CANDIDATE | 1 |
 | [[wiki/names/semitic/names/JA_SU_MA_TU\|JA-SU-MA-TU]] | yā Šumāt: O Šumāt! (vocative yā + divine name, plural of \*šum- 'name') | Semitic divine name | [[wiki/names/semitic/roots/sh-m\|š-m]] | CANDIDATE | 1 |
 | [[wiki/names/semitic/names/JA_WA_PI\|JA-WA-PI]] | Yawpiʿ: Yawpiʿ 'He has shone forth' (personal name) | Semitic personal name | [[wiki/names/semitic/roots/w-p-ayin\|w-p-ʿ]] | SPECULATIVE | 1 |
-| [[wiki/names/semitic/names/JA_WI\|JA-WI]] | Yawī: personal name, '(he) lives', the bare form of the Amorite Yawi-DN names | Semitic personal name | [[wiki/names/semitic/roots/hh-w-y\|ḥ-w-y]] | CANDIDATE | 1 |
+| [[wiki/names/semitic/names/JA_WI\|JA-WI]] | Yawī: personal name, '(he) gives life', the bare form of the Amorite Yawi-DN names | Semitic personal name | [[wiki/names/semitic/roots/hh-w-y\|ḥ-w-y]] | CANDIDATE | 1 |
 | [[wiki/names/semitic/names/JA_star21F\|JA-\*21F]] | Yāh(a): Yāh, divine name; deity receiving offerings alongside Baʿal on HT28b | Semitic divine name | [[wiki/names/semitic/roots/y-h-w\|y-h-w]] | SPECULATIVE | 2 |
 | [[wiki/names/unread/names/JA_star345\|JA-\*345]] | no reading | Unread personal name |  |  | 1 |
 | [[wiki/names/semitic/names/JE_DI\|JE-DI]] | yedī: gentilic 'the Idaean' (of Mount Ida); rivals the personal name 'He knows' and the gentilic 'Judean' | Semitic gentilic | [[wiki/names/semitic/roots/y-d\|y-d]] | CANDIDATE | 4 |
@@ -272,14 +272,13 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/hurrian/names/QA_TI_KI\|QA-TI-KI]] | Kattike: Kattike (Hurrian personal name), on kad- 'to say'; rival katki 'utterance' | Hurrian personal name |  | SPECULATIVE | 1 |
 | [[wiki/names/semitic/names/QA_star310_I\|QA-\*310-I]] | qaynī: smith or cultic administrator; occupational title | Semitic title | [[wiki/names/semitic/roots/q-y-n\|q-y-n]] | PROBABLE | 4 |
 | [[wiki/names/semitic/names/QE_DE_MI_NU\|QE-DE-MI-NU]] | Qēdmīnu: personal name, 'Easterner, Ancient one' | Semitic personal name | [[wiki/names/semitic/roots/q-d-m\|q-d-m]] | SPECULATIVE | 2 |
-| [[wiki/names/unread/names/QE_KA\|QE-KA]] | no reading | Unread personal name |  |  | 2 |
+| [[wiki/names/semitic/names/QE_KA\|QE-KA]] | Qēqa: personal name | Semitic personal name |  | SPECULATIVE | 2 |
 | [[wiki/names/semitic/names/QE_PU\|QE-PU]] | qēpu: official, commissioner (title); rival: the personal name Qīpu | Semitic title | [[wiki/names/semitic/roots/q-y-p\|q-y-p]] | SPECULATIVE | 2 |
 | [[wiki/names/semitic/names/QE_SU_PU\|QE-SU-PU]] | qaššāpu: sorcerer, diviner (occupational title or PN) | Semitic title | [[wiki/names/semitic/roots/q-sh-p\|q-š-p]] | CANDIDATE | 1 |
 | [[wiki/names/semitic/names/RA2_RO_RE\|RA₂-RO-RE]] | Lallor: personal name, 'Mourner' (Akk. lallaru); rival Amorite Li-lu-ri | Semitic personal name | [[wiki/names/semitic/roots/l-l-r\|l-l-r]] | SPECULATIVE | 1 |
 | [[wiki/names/semitic/names/RA_NA_TU_SU\|RA-NA-TU-SU]] | Rannatušu: personal name, 'his shout of joy'; rival two names, RA-NA and TU-SU | Semitic personal name | [[wiki/names/semitic/roots/r-n-n\|r-n-n]] | SPECULATIVE | 1 |
 | [[wiki/names/semitic/names/RA_O_DI_KI\|RA-O-DI-KI]] | rāʿû diqqi: herdsman of the small cattle (title, over a flock of 60); rival a personal name | Semitic title | [[wiki/names/semitic/roots/r-ayin-y\|r-ʿ-y]] + [[wiki/names/semitic/roots/d-q-q\|d-q-q]] | SPECULATIVE | 1 |
 | [[wiki/names/egyptian/names/RA_TI_SE\|RA-TI-SE]] | Ratis: Ratis (Egyptian personal name rdj⸗s, the name RE-DI-SE), 'the one she has given'; rival Safaitic RDS 'Breaker' | Egyptian personal name | [[wiki/names/egyptian/roots/rdj\|rdj]] | SPECULATIVE | 1 |
-| [[wiki/names/unread/names/RA_star164_TI\|RA-\*164-TI]] | no reading | Unread personal name |  |  | 2 |
 | [[wiki/names/semitic/names/RA_star314_RA\|RA-\*314-RA]] | Raḥal: personal name, 'Ewe' (√r-ḥ-l), as Hebrew Rāḥēl | Semitic personal name | [[wiki/names/semitic/roots/r-hh-l\|r-ḥ-l]] | SPECULATIVE | 1 |
 | [[wiki/names/egyptian/names/RE_DI_SE\|RE-DI-SE]] | Redis: Redis (Egyptian personal name rdj⸗s), 'the one she has given'; rival Safaitic RDS 'Breaker' | Egyptian personal name | [[wiki/names/egyptian/roots/rdj\|rdj]] | SPECULATIVE | 1 |
 | [[wiki/names/semitic/names/RI_DA_U\|RI-DA-U]] | Ridāyu: Ridāyu 'Helper, Escort' (personal name, hypocoristic) | Semitic personal name | [[wiki/names/semitic/roots/r-d-alef\|r-d-ʔ]] | SPECULATIVE | 1 |
@@ -372,7 +371,6 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/hurrian/names/U_TI\|U-TI]] | Utti: Utti (Hurrian personal name), stem utt-; rival the Anatolian name Utti | Hurrian personal name |  | SPECULATIVE | 1 |
 | [[wiki/names/semitic/names/WA_DU_NI_MI\|WA-DU-NI-MI]] | ʾadunim / ʾadunīm: (to) the lord / lords—recipient entry; written only as WA-DU-NI-MI 'and (to) the lord(s)' | Semitic title | [[wiki/names/semitic/roots/alef-d-n\|ʾ-d-n]] | CANDIDATE | 2 |
 | [[wiki/names/unread/names/WA_O_MI\|WA-O-MI]] | no reading | Unread personal name |  |  | 1 |
-| [[wiki/names/unread/names/WA_star362\|WA-\*362]] | no reading | Unread personal name |  |  | 1 |
 | [[wiki/names/semitic/names/WI_DI_NA\|WI-DI-NA]] | Widdinā: personal name, 'our Beloved' | Semitic personal name | [[wiki/names/semitic/roots/w-d-d\|w-d-d]] | SPECULATIVE | 1 |
 | [[wiki/names/aegean/names/WI_NA_DU\|WI-NA-DU]] | Winadu: Inatos (place name on the south coast; Linear B wi-na-to) | Aegean place name |  | SPECULATIVE | 1 |
 | [[wiki/names/semitic/names/WI_RA_RE_MI_TE\|WI-RA-RE-MI-TE]] | Wild-rēmti: Calf of the Wild Cow (personal name, compound; wild 'young one' + rēmtu 'wild cow') | Semitic personal name | [[wiki/names/semitic/roots/w-l-d\|w-l-d]] + [[wiki/names/semitic/roots/r-alef-m\|r-ʾ-m]] | SPECULATIVE | 1 |

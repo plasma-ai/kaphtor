@@ -24,6 +24,9 @@ updated: 2026-11-18T19:49:10Z
 | Field | Value |
 |---|---|
 | ## number | none, outside Valério 2016, Appendix A |
+| Date | none: no held source dates it |
+| Script | Cypro-Minoan; Donnelly 2024, 46; Donnelly 2024, 47, table 3 |
+| Subcorpus | none: no held source assigns it |
 | Status | outside Appendix A |
 
 No siglum: a find published after Appendix A, named by its wreck. (Donnelly 2024, 47)

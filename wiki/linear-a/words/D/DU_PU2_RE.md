@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-PK Za 15 JA-DI-KI-TE-TE-DU-PU₂-RE 'O Diqqitīt of the sanctuary' and HT Zb 160 PA-TA-DA-DU-PU₂-RE. PK Za 11 reads A-DI-KI-TE-TE-\[··\]-RE (GORILA IV 34), two signs lost before RE, the slot DU-PU₂ fills on PK Za 15, and PK Za 8 writes it JA-DI-KI-TE-TE-\*307-PU₂-RE. Three spellings write dubur: \*307 alone, \*307-PU₂-RE and DU-PU₂-RE.
+PK Za 15 JA-DI-KI-TE-TE-DU-PU₂-RE 'O Diqqitet of the sanctuary' and HT Zb 160 PA-TA-DA-DU-PU₂-RE. PK Za 11 reads A-DI-KI-TE-TE-\[··\]-RE (GORILA IV 34), two signs lost before RE, the slot DU-PU₂ fills on PK Za 15, and PK Za 8 writes it JA-DI-KI-TE-TE-\*307-PU₂-RE. Three spellings write dubur: \*307 alone, \*307-PU₂-RE and DU-PU₂-RE.
 
 Hebrew dəbîr 'rear room, holy of holies' of the temple (HALOT 208); Linear B da-pu₂-ri-to-jo po-ti-ni-ja (KN Gg 702); Egyptian group writing d-bi₄-r dabīr 'naos, inner sanctuary' (GlOS 1, 140, after Hoch, SWET 376, no. 561). DU-PU₂ keeps the u-u of the base noun dubur 'back, hind part' (Arabic dubur, Akkadian dubur, #151), of which the holy of holies is the later back-room sense.
 

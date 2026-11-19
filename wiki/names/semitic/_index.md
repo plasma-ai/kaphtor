@@ -19,11 +19,11 @@ updated: 2026-11-11T23:49:15Z
 <!-- BEGIN kaphtor:summary -->
 | Field | Value |
 |---|---|
-| Names | 311 |
-| Kinds | personal names 193, titles 50, divine names 28, place names 25, gentilics 11, place names or gentilics 4 |
+| Names | 312 |
+| Kinds | personal names 194, titles 50, divine names 28, place names 25, gentilics 11, place names or gentilics 4 |
 | Roots | 235 |
-| Sites | Haghia Triada 181, Zakros 42, Knossos 17, Khania 16, Phaistos 11, Palaikastro 10, Arkhanes 8, Syme 6, Malia 4, Petras 3, Crete 3, Thera 2, Kophinas 2, Iouktas 2, Tylissos 2, Platanos 2, Nerokurou 1, Milos 1, Skoteino Cave 1, Inatos 1, Kamilari 1, Lachish 1, Samothrace 1, Prassa 1, Gournia 1, Miletos 1, Pyrgos 1, Kophinas (?) 1, Poros Herakleiou 1, Mokhlos 1 |
-| Standing | SPECULATIVE 188, CANDIDATE 97, PROBABLE 22, CONFIRMED 4 |
+| Sites | Haghia Triada 182, Zakros 42, Knossos 17, Khania 16, Phaistos 11, Palaikastro 10, Arkhanes 8, Syme 6, Malia 4, Petras 3, Crete 3, Thera 2, Kophinas 2, Iouktas 2, Tylissos 2, Platanos 2, Nerokurou 1, Milos 1, Skoteino Cave 1, Inatos 1, Kamilari 1, Lachish 1, Samothrace 1, Prassa 1, Gournia 1, Miletos 1, Pyrgos 1, Kophinas (?) 1, Poros Herakleiou 1, Mokhlos 1 |
+| Standing | SPECULATIVE 189, CANDIDATE 97, PROBABLE 22, CONFIRMED 4 |
 
 ## Roots that carry more than one name
 

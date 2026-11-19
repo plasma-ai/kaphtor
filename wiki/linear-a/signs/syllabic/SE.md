@@ -66,6 +66,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/R/RA_TI_SE\|RA-TI-SE]] | Ratis | SPECULATIVE |
 | [[wiki/linear-a/words/R/RE_DI_SE\|RE-DI-SE]] | Redis | SPECULATIVE |
 | [[wiki/linear-a/words/R/RI_SE\|RI-SE]] | rēšī | SPECULATIVE |
+| [[wiki/linear-a/words/S/SE\|SE]] | ṣēd | SPECULATIVE |
 | [[wiki/linear-a/words/S/SE_star305\|SE-\*305]] | ṣēdā | SPECULATIVE |
 | [[wiki/linear-a/words/S/SE_DE\|SE-DE]] | ṣēd | SPECULATIVE |
 | [[wiki/linear-a/words/S/SE_KU_TU\|SE-KU-TU]] | Šakūtu | SPECULATIVE |

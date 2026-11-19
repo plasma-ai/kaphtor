@@ -61,6 +61,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/P/PA_TA_QE\|PA-TA-QE]] | pitqē | CANDIDATE |
 | [[wiki/linear-a/words/Q/QE\|QE]] | qê | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QE_DE_MI_NU\|QE-DE-MI-NU]] | Qēdmīnu | SPECULATIVE |
+| [[wiki/linear-a/words/Q/QE_KA\|QE-KA]] | Qēqa | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QE_KU_RE\|QE-KU-RE]] | kikkᵊrē | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QE_PI_TA\|QE-PI-TA]] | qepīta | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QE_PU\|QE-PU]] | qēpu | SPECULATIVE |

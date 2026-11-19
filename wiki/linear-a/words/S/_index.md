@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/S
 desc: "Words whose first sign begins with S."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-18T16:16:38Z
+updated: 2026-11-19T03:24:25Z
 ---
 
 # wiki/linear-a/words/S
@@ -67,7 +67,7 @@ updated: 2026-11-18T16:16:38Z
 
 [[wiki/linear-a/words/S/SA_star323_MI|SA_star323_MI]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/S/SE|SE]]: Unread sign (syllabogram, unread); 7 occurrence(s).
+[[wiki/linear-a/words/S/SE|SE]]: ṣēd: provision: SE-DE written by its first sign. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/S/SE_DE|SE_DE]]: ṣēd: provision of (construct), before *21F-*118 ḥiṭṭa 'wheat'. Lexicon, SPECULATIVE (tier 1).
 

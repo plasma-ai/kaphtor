@@ -1,15 +1,18 @@
 #!/usr/bin/env python3
 """Query the Cypro-Minoan catalogue: one record per text, keyed by siglum, with its site and object type decoded from
-Valério's key to the sigla (2016, 36-37), its edition of record, and the metadata statements of held works, each with
-its work and page.
+Valério's key to the sigla (2016, 36-37), its edition of record, the metadata statements of held works, each with
+its work and page, and the date, script and subcorpus derived from them: the lead statement's period with its years
+on Valério's Tables I.1 and I.2 (2016, 39), the statements set against it, each null field with its reason.
 
 The catalogue carries no transcription: the corpus is transcribed in Valério 2016's Appendix A, a thesis whose terms
 allow private research use only, and the record names the pages. A statement in its source's own words is a pointer
-to the page. Cypro-Minoan is a comparandum for Linear A; nothing here enters the Linear A corpus.
+to the page. A translated text (translations.json) prints di Mino's reading word by word, each word read with its
+sign group, line and Appendix A page, as scholarship quotes the groups it discusses; a word left unread shows no group.
+Cypro-Minoan is a comparandum for Linear A; nothing here enters the Linear A corpus.
 
 Examples:
   cypro_minoan_lookup.py --doc "ENKO Atab 004"      # one text: siglum, ## number, museum or object number
-  cypro_minoan_lookup.py --doc "RS 20.25"
+  cypro_minoan_lookup.py --doc "RS 20.25"           # RASH Atab 004, with its translation
   cypro_minoan_lookup.py --site KITI --type Avas    # the texts by site and HoChyMin type codes (Kition's vessels)
   cypro_minoan_lookup.py --stats
   cypro_minoan_lookup.py --doc 209 --format json
@@ -30,13 +33,33 @@ if __package__ in (None, ""):
 from ..paths import ANE_DATA, NotInCheckout, require
 
 CATALOGUE_FILE = ANE_DATA / "cypro-minoan" / "catalogue.json"
+TRANSLATIONS_FILE = ANE_DATA / "cypro-minoan" / "translations.json"
 FIELDS = ("identity", "museum_no", "editions", "findspot", "date", "dimensions", "object", "document_form", "hand",
           "visual_evidence")
 POINTER = "[the source's own words, not reproduced]"
+UNREAD = "[group not reproduced]"
+DATING_COUNTS = ("dating_status", "date_certainty", "script", "subcorpus")
+LISTED = ("period_code", "date_range_bce", "dating_status", "script", "subcorpus")
 
 
 def load_catalogue() -> dict:
     return json.loads(require(CATALOGUE_FILE, "cypro-minoan/catalogue.json").read_text(encoding="utf-8"))
+
+
+def load_translations() -> dict:
+    """The translated texts keyed by siglum; none when the file is not in the checkout."""
+    if not TRANSLATIONS_FILE.exists():
+        return {}
+    return json.loads(TRANSLATIONS_FILE.read_text(encoding="utf-8"))["translations"]
+
+
+def translation_counts(translations: dict) -> dict:
+    """Complete is a non-empty translation whose status is not "incomplete", whatever its tier, as in Linear A;
+    incomplete is a text marked so."""
+    return {"texts": len(translations),
+            "complete": sum(1 for r in translations.values() if r["translation"] and r["status"] != "incomplete"),
+            "incomplete": sum(1 for r in translations.values() if r["status"] == "incomplete"),
+            "words": sum(len(r["words"]) for r in translations.values())}
 
 
 def _key(text: str) -> str:
@@ -89,7 +112,70 @@ def _cite(c: dict) -> str:
     return where + (f", table {c['table']}" if c.get("table") else "")
 
 
-def format_doc(key: str, r: dict) -> str:
+def _rival(v: dict) -> str:
+    """A rival of a word left unread ships without its reading, which would spell the group."""
+    return (f"rival: {v['proposer']}" + (f", {v['reading']}" if v.get("reading") else "")
+            + (f", {v['gloss']}" if v.get("gloss") else "")
+            + f" ({v['work']}, {v['page']})" + (f"; {v['note']}" if v.get("note") else ""))
+
+
+def _years(rng: list[int] | None) -> str:
+    return f"{rng[0]}–{rng[1]} BCE" if rng else ""
+
+
+def _said(st: dict) -> str:
+    return POINTER if st.get("pointer") else f"\"{st['text']}\""
+
+
+def format_dating(r: dict) -> list[str]:
+    """The date the lead statement gives, with its years on Valério's tables, status, certainty and basis, and each
+    statement set against the lead with its relation, a statement's note under it; then the script and the subcorpus
+    with their pages, a cite's note on a line of its own. A null field prints its reason."""
+    why, sources = r["null_reasons"], r["field_sources"]
+    if r["period_code"] is None:
+        lines = [f"  Date: none: {why['period_code']}"]
+    else:
+        years = (f"{_years(r['date_range_bce'])} (Valério 2016, 39)" if r["date_range_bce"]
+                 else f"no years: {why['date_range_bce']}")
+        b = r["dating_basis"]
+        lines = [(f"  Date: {r['period_code']} ({r['period_label']}), {years}; {r['dating_status']}, certainty "
+                  f"{r['date_certainty']}"),
+                 f"    basis: {b['source']}, {_said(b)} ({_where(b['cites'])})"]
+        lines += [f"      {b['note']}"] if b.get("note") else []
+        for c in r["conflicts"]:
+            lines.append(f"    conflict ({c['relation']}): {c['source']}, {_said(c)}, {c['period_code']}"
+                         + (f", {_years(c['date_range_bce'])}" if c["date_range_bce"] else ""))
+            lines += [f"      {_cite(x)}" for x in c["cites"]]
+            lines += [f"      {c['note']}"] if c.get("note") else []
+    for field, label in (("script", "Script"), ("subcorpus", "Subcorpus")):
+        cites = sources.get(field, [])
+        refs = f" ({'; '.join(_cite(c) for c in cites)})" if cites else ""
+        lines.append(f"  {label}: none: {why[field]}" if r[field] is None else f"  {label}: {r[field]}{refs}")
+        lines += [f"      {_cite(c)}: {c['note']}" for c in cites if c.get("note")]
+    return lines
+
+
+def format_reading(rec: dict) -> list[str]:
+    """The reading: source, tier and state, the translation, then each word with its line, page, group, values,
+    reading, gloss and tier, its rivals and its note, then the notes. A gloss with its own quotes prints as it stands."""
+    words = rec["words"]
+    lines = [f"  Translation: {rec['source']}, {rec['confidence']}, {rec['status'] or 'complete'}; {len(words)} words",
+             f"    {rec['translation']}", ""]
+    for w in words:
+        gloss = w["gloss"] if not w["gloss"] or "'" in w["gloss"] else f"'{w['gloss']}'"
+        kind = ", ".join(filter(None, (w["reading_type"] and w["reading_type"].lower(), w["confidence"],
+                                       "emended text" if w["text"] == "emended" else None)))
+        group = w["cypro_minoan"] or UNREAD
+        values = "-".join(v or "?" for v in w["values"])
+        cells = (w["line"], f"p. {w['page']}", group, values, w["reading"], gloss, kind)
+        lines.append("    " + "  ".join(c for c in cells if c))
+        lines += [f"      {_rival(v)}" for v in w["rivals"]]
+        lines += [f"      {p}" for p in w["note"].split("\n\n")] if w.get("note") else []
+    lines += ["", "    Notes:", *[f"    {p}" for p in rec["notes"].split("\n\n")]] if rec.get("notes") else []
+    return lines
+
+
+def format_doc(key: str, r: dict, reading: dict | None = None) -> str:
     number = f"{r['corpus_no']} ({r['record_id']})" if r["corpus_no"] else r["record_id"]
     lines = ["=" * 60, f"  {r['siglum'] or key}  —  {number}", "=" * 60]
     sources = r["field_sources"]
@@ -107,8 +193,7 @@ def format_doc(key: str, r: dict) -> str:
     if t:
         lines.append(f"  Type: {r['type_code']}, {t['gloss']} ({_where(sources.get('hochymin_type', []))})"
                      + (f"; {t['note']}" if t.get("note") else ""))
-    if r["traditional_subcorpus"]:
-        lines.append(f"  Subcorpus: {r['traditional_subcorpus']}")
+    lines += format_dating(r)
     e = r["edition"]
     if e["of_record"]:
         pages = e["appendix_a_pages"]
@@ -125,6 +210,8 @@ def format_doc(key: str, r: dict) -> str:
     if w:
         lines.append(f"  Witness outside Appendix A ({w['kind']}): {w['what']}")
         lines += [f"      {_cite(c)}" for c in w["cites"]]
+    if reading:
+        lines += ["", *format_reading(reading)]
 
     lines += ["", "  Metadata, each statement with its source"]
     empty = []
@@ -141,8 +228,9 @@ def format_doc(key: str, r: dict) -> str:
             lines += [f"      {_cite(c)}" for c in st["cites"]]
     if empty:
         lines.append(f"  No held source states: {', '.join(empty)}")
-    lines += ["", ("  No transcription ships in this repository; the edition line names the pages of Valério 2016 that "
-                   "transcribe the text.")]
+    beyond = " beyond the sign groups of the words read" if reading else ""
+    lines += ["", (f"  No transcription ships in this repository{beyond}; the edition line names the pages of Valério "
+                   "2016 that transcribe the text.")]
     return "\n".join(lines)
 
 
@@ -174,14 +262,14 @@ def format_list(texts: list[tuple[str, dict]], args: argparse.Namespace) -> str:
     if not texts:
         return f"No text for {what}."
     rows = [(r["siglum"] or key, r["corpus_no"] or "", (r["hochymin_type"] or {}).get("gloss") or "",
-             r["inclusion_status"] or "outside Appendix A") for key, r in texts]
-    width = [max(len(row[i]) for row in rows) for i in range(3)]
+             r["period_code"] or "undated", r["inclusion_status"] or "outside Appendix A") for key, r in texts]
+    width = [max(len(row[i]) for row in rows) for i in range(4)]
     return "\n".join([f"{len(texts)} text{'s' if len(texts) != 1 else ''}, {what}", ""] +
-                     ["  " + "  ".join(f"{cell:<{width[i]}}" for i, cell in enumerate(row[:3])) + f"  {row[3]}"
+                     ["  " + "  ".join(f"{cell:<{width[i]}}" for i, cell in enumerate(row[:4])) + f"  {row[4]}"
                       for row in rows])
 
 
-def stats(catalogue: dict) -> dict:
+def stats(catalogue: dict, translations: dict) -> dict:
     return {
         "records": len(catalogue),
         "witnesses_outside_appendix_a": sum(1 for r in catalogue.values() if r["witness"]),
@@ -191,6 +279,9 @@ def stats(catalogue: dict) -> dict:
         "statements": {f: sum(len(r[f]) for r in catalogue.values()) for f in FIELDS},
         "pointers": {f: n for f in FIELDS
                      if (n := sum(1 for r in catalogue.values() for st in r[f] if st.get("pointer")))},
+        "dating_and_script": {f: dict(sorted(Counter("null" if r[f] is None else r[f]
+                                                     for r in catalogue.values()).items())) for f in DATING_COUNTS},
+        "translations": translation_counts(translations),
     }
 
 
@@ -208,7 +299,9 @@ def _run(argv: list[str] | None) -> int:
     parser.add_argument("--doc", metavar="TEXT", help="One text: siglum, ## number, museum or object number")
     parser.add_argument("--site", help="Site codes, comma-separated (e.g., KITI)")
     parser.add_argument("--type", help="HoChyMin type codes, comma-separated (e.g., Avas,Mvas)")
-    parser.add_argument("--stats", action="store_true", help="Counts of texts, statements and pointers")
+    parser.add_argument("--stats", action="store_true",
+                        help="Counts of texts, statements and pointers, the date and script fields, and the "
+                             "translations")
     parser.add_argument("--format", choices=["text", "json"], default="text")
     args = parser.parse_args(argv)
     if not (args.doc or args.site or args.type or args.stats):
@@ -220,7 +313,7 @@ def _run(argv: list[str] | None) -> int:
         return 1
     catalogue = load_catalogue()
     if args.stats:
-        counts = stats(catalogue)
+        counts = stats(catalogue, load_translations())
         print(json.dumps(counts, ensure_ascii=False, indent=2) if args.format == "json" else "\n".join(
             f"{k}: {json.dumps(v, ensure_ascii=False)}" for k, v in counts.items()))
         return 0
@@ -234,7 +327,8 @@ def _run(argv: list[str] | None) -> int:
             print(json.dumps({"site": _codes(args.site), "type": _codes(args.type), "texts": [
                 {"siglum": r["siglum"] or key, "key": key, "record_id": r["record_id"], "corpus_no": r["corpus_no"],
                  "site": r["site"], "type": (r["hochymin_type"] or {}).get("gloss"),
-                 "inclusion_status": r["inclusion_status"]} for key, r in texts]}, ensure_ascii=False, indent=2))
+                 "inclusion_status": r["inclusion_status"], **{f: r[f] for f in LISTED}} for key, r in texts]},
+                ensure_ascii=False, indent=2))
         else:
             print(format_list(texts, args))
         return 0
@@ -243,10 +337,12 @@ def _run(argv: list[str] | None) -> int:
         print(f"No Cypro-Minoan text {args.doc!r} in the catalogue, or more than one answers", file=sys.stderr)
         return 1
     key, record = found
+    reading = load_translations().get(key)
     if args.format == "json":
-        print(json.dumps({"query": args.doc, "key": key, "record": record}, ensure_ascii=False, indent=2))
+        print(json.dumps({"query": args.doc, "key": key, "record": record, "translation": reading},
+                         ensure_ascii=False, indent=2))
     else:
-        print(format_doc(key, record))
+        print(format_doc(key, record, reading))
     return 0
 
 

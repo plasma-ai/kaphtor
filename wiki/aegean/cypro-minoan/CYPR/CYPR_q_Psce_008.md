@@ -27,6 +27,9 @@ updated: 2026-11-18T19:49:10Z
 | Site | Cyprus (CYPR?); Valério 2016, 36 |
 | Identity controls | none (match: generic); generic code, no site |
 | Object type | Psce, Stone seal; Valério 2016, 37 |
+| Date | BA (Bronze Age), no years: Tables I.1 and I.2 (Valério 2016, 39) give no years for BA; AGREE, certainty LOW; lead statement: Donnelly 2021, "Chronology: Bronze age unspecified" (Donnelly 2021, 301) |
+| Script | Cypro-Minoan; Valério 2016, 563 |
+| Subcorpus | none: no held source assigns it |
 | Status | inscription |
 | Edition of record | Valério 2014b, transcribed in Valério 2016, Appendix A, 563; unverified |
 

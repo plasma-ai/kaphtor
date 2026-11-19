@@ -27,9 +27,18 @@ updated: 2026-11-18T19:49:10Z
 | Site | Enkomi (Famagusta) (ENKO); Valério 2016, 36 |
 | Identity controls | Pleiades 13818291, Trismegistos 37211 (match: exact); Pleiades 158081397 "Tomb of the Kings near Enkomi" excluded |
 | Object type | Avas, Pottery (complete or fragmentary); Valério 2016, 37 |
-| Subcorpus | CM 1 |
+| Date | LC IIB (Late Cypriot IIB), 1360–1320 BCE (Valério 2016, 39); CONFLICT, certainty LOW; lead statement: CMI II (Ferrara), "LC IIB" (Valério 2016, 645) |
+| Script | Cypro-Minoan; Valério 2016, 484 |
+| Subcorpus | CM 1; Valério 2016, 452; Valério 2016, 451 |
 | Status | inscription |
 | Edition of record | HoChyMin, transcribed in Valério 2016, Appendix A, 484; unverified |
+
+Set against the lead statement:
+
+| Statement | Period | Relation | Source |
+|---|---|---|---|
+| "LC IIC (1300-1230)" | LC IIC, 1320–1190 BCE | disjoint | HoChyMin (Vandenabeele); Valério 2016, 645 |
+| *the source's own words, not reproduced* (Donnelly takes CMI II's LC IIB for the excavation layer, not the period.) | LC IIC, 1320–1190 BCE | disjoint | Donnelly 2026; Donnelly 2026, 71 |
 
 Not checked against HoChyMin, which is not held.
 
@@ -51,6 +60,7 @@ Not checked against HoChyMin, which is not held.
 
 | Statement | Source | Note |
 |---|---|---|
+| *the source's own words, not reproduced* | Donnelly 2026, 71 | Donnelly takes CMI II's LC IIB for the excavation layer, not the period. |
 | LC IIC (1300-1230) (relayed from HoChyMin (Vandenabeele)) | Valério 2016, 645 |  |
 | LC IIB (relayed from CMI II (Ferrara)) | Valério 2016, 645 |  |
 | Chronology: LCIIB (Ferr); LCIIC (NEH) | Donnelly 2021, 294 | Donnelly's table adds that the context is dated LC IIC and the find lay in level IIB, out of its primary context. |

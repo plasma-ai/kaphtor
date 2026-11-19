@@ -27,6 +27,9 @@ updated: 2026-11-18T19:49:10Z
 | Site | KALO |
 | Identity controls | none (match: none); not in Valério's key; gloss in CMI II, not held |
 | Object type | Avas, Pottery (complete or fragmentary); Valério 2016, 37 |
+| Date | LC I–II (Late Cypriot I–II), 1600–1190 BCE (Valério 2016, 39); AGREE, certainty MEDIUM; lead statement: CMI II (Ferrara), "LC I-II(?)" (Valério 2016, 650) |
+| Script | Cypro-Minoan; Valério 2016, 558 |
+| Subcorpus | none: no held source assigns it |
 | Status | inscription |
 | Edition of record | CMI II, transcribed in Valério 2016, Appendix A, 558; unverified |
 

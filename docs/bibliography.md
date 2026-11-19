@@ -133,6 +133,9 @@ Buck, Mary Ellen. 2018. *The Amorite Dynasty of Ugarit: The Historical Origins o
 **Buck 2019**
 Buck, Mary E. 2019. *The Amorite Dynasty of Ugarit: Historical Implications of Linguistic and Archaeological Parallels*. Studies in the Archaeology and History of the Levant 8. Brill, Leiden. https://doi.org/10.1163/9789004415119.
 
+**Burlingame 2020**
+Burlingame, Andrew R. 2020. "New Evidence for Ugaritic and Hittite Onomastics and Prosopography at the End of the Late Bronze Age." *Zeitschrift für Assyriologie* 110(2): 196–211. https://doi.org/10.1515/za-2020-0020.
+
 **Cash and Cash 2012**
 Cash, Roland, and Evelyne Cash. 2012. "La tablette HT 123: une comptabilité en linéaire A." *Kadmos* 50: 33–62. https://doi.org/10.1515/kadmos.2011.003.
 
@@ -392,6 +395,9 @@ Hajouz, Mohammad Ali. 2013. *Der Wortschatz der Ebla-Texte: Morphologische und l
 **Halbherr, Stefani and Banti 1977**
 Halbherr, Federico, Enrico Stefani, and Luisa Banti. 1977. "Haghia Triada nel periodo tardo palaziale." *Annuario della Scuola Archeologica di Atene e delle Missioni Italiane in Oriente* 55 (n.s. 39). Rome: L'Erma di Bretschneider.
 
+**Hallager 1995**
+Hallager, Erik. 1995. "Identical Seals on Roundels and Other Documents." In *Sceaux minoens et mycéniens: IVe symposium international, 10–12 septembre 1992, Clermont-Ferrand*, edited by Walter Müller, 87–103. Corpus der minoischen und mykenischen Siegel, Beiheft 5. Berlin: Gebr. Mann.
+
 **Hallager 1996**
 Hallager, Erik. 1996. *The Minoan Roundel and Other Sealed Documents in the Neopalatial Linear A Administration*. Aegaeum 14. Liège: Université de Liège, Histoire de l'art et archéologie de la Grèce antique.
 
@@ -584,6 +590,9 @@ Kvashilava, Gia. 2014. *On Reading and Identifying the Vessel Name KA-DI of Line
 **Kyriakidis 2002**
 Kyriakidis, Evangelos. 2002. "Indications on the Nature of the Language of the Keftiw from Egyptian Sources." *Ägypten und Levante* 12: 211–219.
 
+**La Rosa and Pugliese Carratelli 1987**
+La Rosa, V., and G. Pugliese Carratelli. 1987. "Nuove iscrizioni in lineare A dalla «Villa Reale» di Haghia Triada." *La Parola del Passato* 42: 463–468.
+
 **Laroche 1980** (cited as GLH, Laroche GLH)
 Laroche, Emmanuel. 1980. *Glossaire de la langue hourrite*. Editions Klincksieck.
 
@@ -610,6 +619,12 @@ Marcato, Enrico. 2018. *Personal Names in the Aramaic Inscriptions of Hatra*. An
 
 **Marinatos 1951**
 Marinatos, Spyridon. 1951. "Some General Notes on the Minoan Written Documents." *Minos* 1: 39–42. https://revistas.usal.es/dos/index.php/0544-3733/article/view/2139.
+
+**McAffee 2019**
+McAffee, Matthew. 2019. *Life and Mortality in Ugaritic: A Lexical and Literary Study*. Explorations in Ancient Near Eastern Civilizations 7. University Park, Pennsylvania: Eisenbrauns.
+
+**Meissner and Salgarella 2024**
+Meissner, Torsten, and Ester Salgarella. 2024. "The Relationship Between Cretan Hieroglyphic and the Other Cretan Scripts." In M. Civitillo, S. Ferrara, and T. Meissner, eds., *Cretan Hieroglyphic*, 134–164. Cambridge Classical Studies. Cambridge University Press. https://doi.org/10.1017/9781009490122.
 
 **Melchert 1993**
 Melchert, H. Craig. 1993. *Cuneiform Luvian Lexicon*. Lexica Anatolica 2. Chapel Hill, N.C.: the author.
@@ -743,6 +758,9 @@ Palaima, Thomas G. 1988. "The Development of the Mycenaean Writing System." In J
 **Palaima 2020**
 Palaima, Thomas G. 2020. "Problems in Minoan and Mycenaean Writing Style and Practice: The Strange Case of *33 ra3 on Pylos Tablet Aa 61." In B. Davis and R. Laffineur (eds.), *Neôteros: Studies in Bronze Age Aegean Art and Archaeology in Honor of Professor John G. Younger*, Aegaeum 44, Peeters, Leuven–Liège, pp. 3–14, pls. I–VII.
 
+**Papapostolou 1977**
+Papapostolou, I. A. 1977. *Τὰ σφραγίσματα τῶν Χανίων: Συμβολὴ στὴ μελέτη τῆς μινωικῆς σφραγιδογλυφίας*. Βιβλιοθήκη τῆς ἐν Ἀθήναις Ἀρχαιολογικῆς Ἑταιρείας 87. Athens: Ἡ ἐν Ἀθήναις Ἀρχαιολογικὴ Ἑταιρεία.
+
 **Pardee 2000**
 Pardee, Dennis. 2000. *Les textes rituels*. Ras Shamra-Ougarit XII, 2 fascicules. Éditions Recherche sur les Civilisations, Paris.
 
@@ -811,9 +829,6 @@ Pugliese Carratelli, Giovanni. 1945. "Le iscrizioni preelleniche di Haghia Triad
 
 **Pugliese Carratelli 1957**
 Pugliese Carratelli, Giovanni. 1957. "Sulle epigrafi in lineare A di carattere sacrale." *Minos* 5: 163–173. https://revistas.usal.es/dos/index.php/0544-3733/article/view/2714.
-
-**Pugliese Carratelli 1987**
-La Rosa, V., and G. Pugliese Carratelli. 1987. "Nuove iscrizioni in lineare A dalla «Villa Reale» di Haghia Triada." *La Parola del Passato* 42: 463–468.
 
 **Rabin 1963**
 Rabin, Chaim. 1963. "Hittite Words in Hebrew." *Orientalia* NS 32: 113–139. https://www.jstor.org/stable/43073741
@@ -1067,6 +1082,9 @@ Watson, Wilfred G. E. 2001. "The Lexical Aspect of Ugaritic Toponyms." *Aula Ori
 **Watson 2003**
 Watson, Wilfred G. E. 2003. "Ugaritic Onomastics (7)." *Aula Orientalis* 21: 243–248.
 
+**Watson 2006**
+Watson, Wilfred G. E. 2006. "Non-Semitic Words in the Ugaritic Lexicon (6)." *Ugarit-Forschungen* 38: 717–728.
+
 **Watson 2007**
 Watson, Wilfred G. E. 2007. "Additional Names for Animals in the Ugaritic Texts." *Historiae* 4: 93–116.
 
@@ -1179,6 +1197,7 @@ These works are not held. The data cites each through another work, named after 
 - **Johnstone 1975**: Johnstone 1975 – T. M. Johnstone. The Modern South Arabican Languages. Afroasiatic Linguitics 1/5:93‒121. Cited through SEDonline.
 - **Johnstone 1981**: Johnstone 1981 T. M. Johnstone, Jibbali Lexicon. Cited through Sabaweb.
 - **Johnstone 1987**: Johnstone 1987 T. M. Johnstone, Mehri Lexicon and English-Mehri Word-List. Cited through Sabaweb.
+- **Kaelin 2004**: Kaelin, O., 2004: Produkte und Lehnwörter. Das Beispiel des Granatapfels. In Schneider (ed.), 2004, 91–128 (Schneider, T. (ed.) 2004: Das Ägyptische und die Sprachen Vorderasiens Nordafrikas und der Agäis. AOAT 310. Münster). Cited through Watson 2006.
 - **Karnava 2005**: Karnava, A. 2005. “The Tel Haror Inscription and Crete: A Further Link.” In EMPORIA: Aegeans in the Central and Eastern Mediterranean. Proceedings of the 10th International Aegean Conference, Athens, Italian School of Archaeology, 14–18 April 2004, edited by R. Laffineur and E. Greco, 838–41. Aegaeum 25. Liège – Austin: Université de Liège and the University of Texas at Austin, Program in Aegean Scripts and Prehistory. Cited through Nosch and Weilhartner 2026.
 - **Karnava 2019**: Karnava, A. 2019. “The Inscribed Loomweight.” In Akrotiri, Thera: The Middle Bronze Age. Pottery and Stratigraphy, Volume 1, edited by I. Nikolakopoulou, 501–4. Athens: The Athens Archaeological Society. Cited through Donnelly 2026.
 - **Killen 1969**: Killen 1969 = KILLEN, J.T., «The Minoan Documents», BICS 16, 1969, pp. 162-165. Cited through Schoep 2002.
@@ -1197,6 +1216,8 @@ These works are not held. The data cites each through another work, named after 
 - **Leslau 1956**: Leslau 1956 – W. Leslau. Étude descriptive et comparative du gafat. Paris. Cited through SEDonline.
 - **Leslau 1997**: Leslau 1997 – W. Leslau. Ethiopic Documents: Argobba. Grammar and Dictionary. Wiesbaden. Cited through SEDonline.
 - **Lonnet 2005**: Lonnet 2005 – A. Lonnet. Emprunts intra-sémitiques: l’exemple des emprunts arabes en sudarabique moderne. AuOr 23:199‒206. Cited through SEDonline.
+- **Malbran-Labat and Roche 2007**: Malbran-Labat, F./C. Roche (2007): Urtēnu Ur-Tešub, in: J.-M. Michaud (ed.), Le royaume d’Ougarit: De la Crète à l’Euphrate. Nouveaux axes de recherche. Actes du Congrès International de Sherbrooke 2005. Proche-Orient et Littérature Ougaritique 2. Sherbrooke, 63–104. Cited through Burlingame 2020.
+- **Marcus 1972**: David Marcus, “The Verb ‘to Live’ in Ugaritic,” JSS 17 (1972): 76–82. Cited through McAffee 2019.
 - **Marrassini 1971**: Marrassini 1971 – P. Marrassini. Formazione del lessico dell’edilizia militare nel semitico di Siria. Firenze. Cited through SEDonline.
 - **Meissner 2019**: Meissner, Torsten 2019. 'Griechisch σίλλος Mastschwein', *Glotta* 95: 190–200. Cited through Salgarella 2023, Salgarella 2020.
 - **Meissner and Steele 2017**: Meissner, Torsten and Steele, Philippa M. 2017. 'Linear A and Linear B: structural and contextual concerns', in Marie-Louise Nosch and Hedvig Landenius Enegren (eds.), *Aegean Scripts. Proceedings of the 14th International Colloquium on Mycenaean Studies, Copenhagen, 2–5 September 2015*, vol. 1. Rome: Edizioni dell'Ateneo, pp. 99–114. Cited through Salgarella 2023.
@@ -1225,6 +1246,7 @@ These works are not held. The data cites each through another work, named after 
 - **Naumkin et al. 2022**: V. Naumkin, L. Kogan, Aḥmad ˁĪsā ad-Daˁrhī, ˁĪsā Gumˁān ad-Daˁrhī. Soqotri Lexical Archive: the 2013 Fieldwork Season. Zeitschrift der Deutschen Morgenländischen Gesellschaft 172, 2022, 253–282. Cited through SEDonline.
 - **Naumkin–Kogan 2021**: В.В. Наумкин, Л.Е. Коган. Сокотрийская народная поэзия: вечное возвращение. Антропология и этнология: современный взгляд / отв. Ред. А.В. Головнёв, Э.-Б.М. Гучинова. Москва, 2021, 522–534. Cited through SEDonline.
 - **Nosch 2007**: Nosch, M.-L. 2007. The Knossos Od Series. An Epigraphical Study. Mykenische Studien 20. Wien: Österreichische Akademie der Wissenschaften. Cited through Nosch and Weilhartner 2026.
+- **Olivier 1992a**: OLIVIER, J.-P., «'Cinq' en linéaire A ?», in B. BROGYANYI & R. LIPP (edd.), *Historical Philology: Greek, Latin, and Romance*, (Current Issues in Linguistic Theory 87), 1992, pp. 135-136. Cited through Schoep 2002.
 - **Owens 1990–1991**: Owens, G. 1990–1991. “Three Re-Discovered Linear A Inscriptions from Knossos.” Minos 25–26: 367–72. Cited through Donnelly 2026.
 - **Palaima 1981**: Palaima, T.G. 1981. “On the Painted Linear Sign from a Wall at Knossos.” Kadmos 20: 79–82. Cited through Donnelly 2026.
 - **Palaima 1994**: Th.G. PALAIMA, “Seal-Users and Script-Users/Nodules and Tablets at LMIB Hagia Triada,” in P. FERIOLI, E. FIANDRA, G.G. FISSORE and M. FRANGIPANE (eds), Archives Before Writing (1994) 317-318. Cited through Del Freo 2020.
@@ -1262,6 +1284,7 @@ These works are not held. The data cites each through another work, named after 
 - **Valério 2015**: Valério, M. 2015. Linear A *du-pu₂-re*, Hittite *tabarna* and Their Alleged Relatives Revisited. *Journal of Language Relationship* 13.4: 329–354. Cited through Davis 2026b.
 - **Vandenabeele 1974**: VANDENABEELE, FR. 1974 «Les idéogrammes de vases sur les tablettes en linéaire A de Haghia Triada et Phaistos», BCH 98, pp. 5-21. Cited through Duhoux 2002.
 - **Vycichl 1983**: ThotBank field VYCICHL__1983, p. 50; Kilani 2019, bibliography: Vycichl, W. 1984. Dictionnaire étymologique de la langue copte. Leuven: Peeters. Cited through Kilani 2020, ThotBank.
+- **Ward 1996**: Ward, W.A., 1996: A New Look at Semitic Personal Names and Loanwords in Egyptian. Chronique d’Égypte 71, 17–47. Cited through Watson 2006.
 - **Watrous et al. 2015**: Watrous, L.V., D. Matthew Buell, J.C. McEnroe, J.G. Younger, L.A. Turner, B.S. Kunkel, K. Glowacki, S. Gallimore, A. Smith, P.A. Pantou, A. Chapin, and E. Margaritis. 2015. “Excavations at Gournia, 2010–2012.” Hesperia 84: 397–465. Cited through Schoep 2026.
 - **Wetter 2010**: Wetter, A. 2010 Das Argobba. Eine deskriptive Grammatik der Varietät von Shonke und T’ollaha. Köln: Köppe. (HSK 36, 1212). Cited through SEDonline.
 - **Wilcke 1985**: Wilcke 1985 – C. Wilcke. Familiengründung im Alten Babylonien. Geschlechtsreife und Legitimation zur Zeugnung. Freiburg–München. Pp. 213‒317. Cited through SEDonline.

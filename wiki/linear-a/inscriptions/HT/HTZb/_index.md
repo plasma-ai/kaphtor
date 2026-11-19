@@ -2,7 +2,7 @@
 name: wiki/linear-a/inscriptions/HT/HTZb
 desc: "Inscriptions from Haghia Triada, series HTZb."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-24T16:17:50Z
+updated: 2026-11-19T03:04:47Z
 ---
 
 # wiki/linear-a/inscriptions/HT/HTZb
@@ -19,7 +19,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/inscriptions/HT/HTZb/HTZb161|HTZb161]]: Clay vessel, Haghia Triada, LMIB. Translation: none.
 
-[[wiki/linear-a/inscriptions/HT/HTZb/HTZb162|HTZb162]]: Clay vessel, Haghia Triada, LMIB. Translation: none.
+[[wiki/linear-a/inscriptions/HT/HTZb/HTZb162|HTZb162]]: Clay vessel, Haghia Triada, LMIB. Translation: complete (SPECULATIVE).
 
 [[wiki/linear-a/inscriptions/HT/HTZb/HTZb162bis|HTZb162bis]]: Clay vessel, Haghia Triada, LMIB. Translation: none.
 

@@ -39,7 +39,7 @@ updated: 2026-11-12T00:26:03Z
 
 ### Note
 
-AB 54 alone before a fraction: HT 16 · WA ⅓, HT 20 WA ¼, the roundel HT Wc 3019 WA ¼. Schoep has AB 54 'tentatively identified as a logogram for textile', with fractions on HT 16.2, HT 20.4 'and perhaps HT Wc 3019' (2002, 35); Nosch and Weilhartner take it as the cloth logogram on the same three (2026). The sign continues as Linear B TELA; in ligature it is TELA+KU and TELA+\*312 on HT 38. The roundels HT Wc 3007 and 3008 open WA · DI-NI, cloth and the party. Inside a word the sign is WA. Rival: wayn 'wine' written by its first sign, as in VIN+WA: ARG Zg 1 sets WA beside VIN-MI and the stone vessel ZA Zg 34 has WA 60; the roundel KH Wc 2124 bears WA alone. Weak point: every quantity is a fraction, as with the ram on HT 20. No witness spells a cloth word.
+AB 54 alone before a fraction: HT 16 · WA ⅓, HT 20 WA ¼, the roundel HT Wc 3019 WA ¼. Schoep has AB 54 'tentatively identified as a logogram for textile', with fractions on HT 16.2, HT 20.4 'and perhaps HT Wc 3019' (2002, 35); Nosch and Weilhartner take it as the cloth logogram on the same three (2026). The sign continues as Linear B TELA; in ligature it is TELA+KU and TELA+\*312 on HT 38. The roundels HT Wc 3007 and 3008 open WA · DI-NI, cloth and the party. Inside a word the sign is WA. Rival: wayn 'wine' written by its first sign, as in VIN+WA: ARG Zg 1 sets WA beside VIN-MI and the stone vessel ZA Zg 34 has WA 60; the roundel KH Wc 2124 bears WA alone; ZA 10b spells the word out, WA-\*362 waynu, before the must. Weak point: every quantity is a fraction, as with the ram on HT 20. No witness spells a cloth word. See WA-\*362.
 
 ### Source
 

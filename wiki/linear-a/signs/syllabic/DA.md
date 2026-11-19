@@ -62,6 +62,7 @@ Rival for the d-series: a dental fricative /θ/, said \[θ\] or \[ð\], from DU-
 | [[wiki/linear-a/words/A/A_RU_DA_RA\|A-RU-DA-RA]] | Arum-adal | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_SA_DA_KA\|A-SA-DA-KA]] | ʾaṣdaqa | CANDIDATE |
 | [[wiki/linear-a/words/A/A_SI_DA_TO_I\|A-SI-DA-TO-I]] | ʾAšdōdī | CANDIDATE |
+| [[wiki/linear-a/words/D/DA\|DA]] | damʿu | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_DU_star301\|DA-DU-\*301]] | dādu-nā-… | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_DU_MA_TA\|DA-DU-MA-TA]] | dadmatu | CANDIDATE |
 | [[wiki/linear-a/words/D/DA_DU_MI_NE\|DA-DU-MI-NE]] | dādu-Mīnō | SPECULATIVE |

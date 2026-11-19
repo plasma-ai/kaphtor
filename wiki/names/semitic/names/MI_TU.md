@@ -32,11 +32,11 @@ updated: 2026-11-11T23:39:03Z
 | Reading's standing | SPECULATIVE |
 | Standing as a personal name | SPECULATIVE |
 | Standing of the layer | SPECULATIVE (lexicon_reading) |
-| Source | di Mino |
+| Source | di Mino; McAffee 2019 |
 
 ## Note
 
-HT 117a: MI-TU 1, a recipient in the roster under MA-KA-RI-TE · KI-RO, with U-SU, KU-PA₃-NU and TE-JA-RE. mītu 'dead one', a name of the substitute type. HT 135a \]-MI-TU is the end of a longer word. Weak point: two signs. Rival: \*mi/ut- 'man' (semitic_roots 56), with i in Tigre mit and Heb. mətīm. One attestation. See JA-MA-U-TI.
+HT 117a: MI-TU 1, a recipient in the roster under MA-KA-RI-TE · KI-RO, with U-SU, KU-PA₃-NU and TE-JA-RE. mītu 'dead one', a name of the substitute type: Ug. mt, the verbal adjective /mītu/ 'dead (person)', pl. /mītūma/ (McAffee 2019, 164). HT 135a \]-MI-TU is the end of a longer word. Weak point: two signs. Rival: \*mi/ut- 'man' (semitic_roots 56), with i in Tigre mit and Heb. mətīm. One attestation. See JA-MA-U-TI.
 
 ## Cognates
 
@@ -45,7 +45,7 @@ HT 117a: MI-TU 1, a recipient in the roster under MA-KA-RI-TE · KI-RO, with U-S
 | Akkadian | mītu 'dead' (CAD M/2 140) |
 | Hebrew | mēt 'dead', participle of mût 'to die' (HALOT 562) |
 | Amorite | rival: MUT-UM 'man' in names (Gelb 1980, nos. 4827–4831) |
-| Ugaritic | rival: mt 'man' (DULAT 590) |
+| Ugaritic | mt, /mītu/ 'dead (person)', pl. /mītūma/ (McAffee 2019, 164); rival: mt 'man' (DULAT 590) |
 
 ## Attestations
 

@@ -2,7 +2,7 @@
 name: wiki/aegean/cypro-minoan
 desc: "The Cypro-Minoan texts, one catalogue page per text with its site, object type, edition of record and the statements of held works with their pages, and the indexes by site and by object type."
 created: 2026-11-18T19:49:10Z
-updated: 2026-11-18T20:36:48Z
+updated: 2026-11-19T00:44:14Z
 ---
 
 # wiki/aegean/cypro-minoan
@@ -70,5 +70,7 @@ updated: 2026-11-18T20:36:48Z
 [[wiki/aegean/cypro-minoan/by_type|by_type]]: The Cypro-Minoan texts grouped by the HoChyMin type code of their siglum, with its object and material.
 
 [[wiki/aegean/cypro-minoan/other/_index|other/]]: The Cypro-Minoan texts with no site code, keyed by find name or by another script's siglum.
+
+[[wiki/aegean/cypro-minoan/translated|translated]]: The Cypro-Minoan texts with di Mino's reading, each with its tier, state, words and translation.
 
 ***

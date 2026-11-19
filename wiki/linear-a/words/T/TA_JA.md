@@ -37,6 +37,6 @@ updated: 2026-10-24T16:17:50Z
 
 Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
 
-HT Zd 156, last entry TA-JẠ with a fraction broken after it, JA underdotted in both copies and worn in the drawing (GORILA IV 133). Stucco fragment, after two NE entries and two A319 entries. Not readable.
+HT Zd 156, last entry TA-JẠ with a fraction broken after it, JA underdotted in both copies and worn in the drawing (GORILA IV 133). Stucco fragment, after two NE entries and two A319 entries. The figures before it run 1, 1½, 2¼, 3⅜, each 1½ times the last, so this line is the fifth term, 5¹⁄₁₆, and Olivier 'tentatively suggests' that the group spells the numeral 5 (1992a, 135–36, apud Schoep 2002, 32). Not readable.
 
 <!-- END kaphtor:record -->

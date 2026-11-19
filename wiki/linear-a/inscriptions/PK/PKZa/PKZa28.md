@@ -9,7 +9,7 @@ site: "Palaikastro"
 support: "Stone vessel"
 period: ""
 translation: "incomplete"
-words: []
+words: ["*418+L2"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -56,7 +56,7 @@ Unicode (Linear A block):
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | PU₂-RE |  | broken word, \]-PU₂-RE-\[ |  |  |
-| [[wiki/linear-a/words/star/star418_plus_L2\|\*418+L2]] | — | vessel ideogram + 1/20 fraction | CONFIRMED |  |
+| [[wiki/linear-a/words/star/star418_plus_L2\|\*418+L2]] | — | vessel ideogram + 1/20 fraction | CONFIRMED | SPECULATIVE (lexicon) |
 
 ### Notes
 
@@ -65,5 +65,9 @@ Allocation-label genre.
 ### Source
 
 di Mino
+
+## Lexicon words citing this document
+
+[[wiki/linear-a/words/star/star418_plus_L2|\*418+L2]].
 
 <!-- END kaphtor:record -->

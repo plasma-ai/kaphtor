@@ -46,7 +46,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/star/star333_DI_NA_SU_KA\|\*333-DI-NA-SU-KA]] | bīdi Našūka | SPECULATIVE |
 | [[wiki/linear-a/words/star/star333_DI_SU_KA\|\*333-DI-SU-KA]] | bīdi Sūka | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_DI\|A-DI]] | ʿadi | SPECULATIVE |
-| [[wiki/linear-a/words/A/A_DI_KI_TE_TE\|A-DI-KI-TE-TE]] | ʾa-Diqqitīt | PROBABLE |
+| [[wiki/linear-a/words/A/A_DI_KI_TE_TE\|A-DI-KI-TE-TE]] | ʾa-Diqqitet | PROBABLE |
 | [[wiki/linear-a/words/A/A_PA3_DI\|A-PA₃-DI]] | ʿAbdī | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | ʾAren Ṣidna bikē bayta rēšī tarīmu ʾAyaku | SPECULATIVE |
 | [[wiki/linear-a/words/D/DE_DI\|DE-DI]] | Dedī | SPECULATIVE |
@@ -68,6 +68,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/D/DU_ME_DI\|DU-ME-DI]] | Dūmatī | CANDIDATE |
 | [[wiki/linear-a/words/I/I_NA_TA_I_ZU_DI_SI_KA\|I-NA-TA-I-ZU-DI-SI-KA]] | ʿInatī ṯudī-šiqā | SPECULATIVE |
 | [[wiki/linear-a/words/J/JA_DI\|JA-DI]] | Yadi | SPECULATIVE |
+| [[wiki/linear-a/words/J/JA_DI_KI_TE_TE\|JA-DI-KI-TE-TE]] | yā Diqqitet | PROBABLE |
 | [[wiki/linear-a/words/J/JA_DI_KI_TU\|JA-DI-KI-TU]] | yā Diqqitu | PROBABLE |
 | [[wiki/linear-a/words/J/JE_DI\|JE-DI]] | yedī | CANDIDATE |
 | [[wiki/linear-a/words/K/KA_DI\|KA-DI]] | kadd | PROBABLE |

@@ -27,6 +27,9 @@ updated: 2026-11-18T19:49:10Z
 | Site | APLI |
 | Identity controls | none (match: none); not in Valério's key; gloss in CMI II, not held |
 | Object type | Psce, Stone seal; Valério 2016, 37 |
+| Date | LC IIC (Late Cypriot IIC), 1320–1190 BCE (Valério 2016, 39); AGREE, certainty MEDIUM; lead statement: CMI II (Ferrara), "LC IIC" (Valério 2016, 649) |
+| Script | Cypro-Minoan; Valério 2016, 553 (takes the sign for a mark rather than an inscription); Valério 2016, 60 (discounts it as an inscription, with three other texts of one sign) |
+| Subcorpus | none: no held source assigns it |
 | Status | inscription |
 | Edition of record | CMI II, transcribed in Valério 2016, Appendix A, 553; unverified |
 

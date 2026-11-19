@@ -27,6 +27,9 @@ updated: 2026-11-18T19:49:10Z
 | Site | Idalion (Nicosia) (IDAL); Valério 2016, 36 |
 | Identity controls | Pleiades 707519, Trismegistos 2748 (match: exact) |
 | Object type | Avas, Pottery (complete or fragmentary); Valério 2016, 37 |
+| Date | LC III (Late Cypriot III), 1190–1050 BCE (Valério 2016, 39); AGREE, certainty MEDIUM; lead statement: CMI II (Ferrara), "LC III" (Valério 2016, 650) |
+| Script | Cypro-Minoan; Valério 2016, 557 |
+| Subcorpus | none: no held source assigns it |
 | Status | inscription |
 | Edition of record | CMI II, transcribed in Valério 2016, Appendix A, 557; unverified |
 

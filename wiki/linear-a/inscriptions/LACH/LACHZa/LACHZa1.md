@@ -9,7 +9,7 @@ site: "Lachish"
 support: "Fragment of a locally made limestone bowl or krater"
 period: ""
 translation: "complete"
-words: ["RI-DA-U"]
+words: ["RI-DA-U", "SE"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -51,12 +51,12 @@ Unicode (Linear A block):
 
 **SPECULATIVE**, complete (status: fragmentary).
 
-> \[…\]-MI(?) · Ridāyu · SE ¾ \[…\]
+> \[…\]-MI(?) · Ridāyu · provision ¾ \[…\]
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | [[wiki/linear-a/words/R/RI_DA_U\|RI-DA-U]] | Ridāyu | personal name, 'Helper' (hypocoristic, as DI-NA-U Dīnāyu); rival a vessel or contents name | SPECULATIVE | SPECULATIVE (lexicon) |
-| [[wiki/linear-a/words/S/SE\|SE]] |  | commodity ideogram or capacity measure | UNREAD |  |
+| [[wiki/linear-a/words/S/SE\|SE]] | ṣēd | provision (short form of SE-DE) | SPECULATIVE | SPECULATIVE (lexicon) |
 
 ### Notes
 
@@ -68,7 +68,7 @@ Finkelberg, Uchitel and Ussishkin 1996, 195-203
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/R/RI_DA_U|RI-DA-U]].
+[[wiki/linear-a/words/R/RI_DA_U|RI-DA-U]], [[wiki/linear-a/words/S/SE|SE]].
 
 ## Corpus note
 

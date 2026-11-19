@@ -79,6 +79,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/K/KO_A_DU_WA\|KO-A-DU-WA]] | Qō-Addua | SPECULATIVE |
 | [[wiki/linear-a/words/M/MA_SI_DU\|MA-SI-DU]] | maṣīdu | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_DU_QI_KU_MI\|SI-DU-QI-KU-MI]] | Ṣiduqi-kummi | SPECULATIVE |
+| [[wiki/linear-a/words/T/TI_DU\|TI-DU]] | ṭiṭṭu | SPECULATIVE |
 | [[wiki/linear-a/words/W/WI_NA_DU\|WI-NA-DU]] | Winadu | SPECULATIVE |
 | [[wiki/linear-a/words/Z/ZU_DU\|ZU-DU]] | ṯudu | CANDIDATE |
 

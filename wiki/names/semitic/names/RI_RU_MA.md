@@ -32,11 +32,11 @@ updated: 2026-11-11T23:39:03Z
 | Reading's standing | SPECULATIVE |
 | Standing as a personal name | SPECULATIVE |
 | Standing of the layer | SPECULATIVE (lexicon_reading) |
-| Source | di Mino; DULAT; CAD L; HALOT |
+| Source | di Mino; DULAT; CAD L; HALOT; Watson 2006 |
 
 ## Note
 
-HT 118 .4 RI-RU-MA 10, a recipient of pigs after MA-DI, QA-QA-RU and A-RI-SU (GORILA I 200 f.), all three signs whole. Ugaritic lrmn 'pomegranate' (DULAT 499); Middle Assyrian lurimāʾu, lu-ri-ma-e (CAD L 255 f.). RI writes l; the final n is unwritten. A man's name: Hebrew Rimmon (2 Sam 4:2), Akkadian Lu-ri-in-di-ya (HALOT 1242). Cf. PH(?)31b \[·\]-RU-MA-TI, Akkadian lurimtu. One witness.
+HT 118 .4 RI-RU-MA 10, a recipient of pigs after MA-DI, QA-QA-RU and A-RI-SU (GORILA I 200 f.), all three signs whole. Ugaritic lrmn 'pomegranate' (KTU 1.23:50; 4.751:11; DULAT 499); Middle Assyrian lurimāʾu, lu-ri-ma-e (CAD L 255 f.). A Wanderwort, traced through Egyptian, Sumerian, Akkadian, Ugaritic, Hurrian and Hittite (Kaelin 2004, in Watson 2006, 722). RI writes l; the final n is unwritten. A man's name: Hebrew Rimmon (2 Sam 4:2), Akkadian Lu-ri-in-di-ya (HALOT 1242). Cf. PH(?)31b \[·\]-RU-MA-TI, Akkadian lurimtu. One witness.
 
 ## As a name
 
@@ -46,7 +46,7 @@ Ugaritic lrmn 'pomegranate' (DULAT 499); Middle Assyrian lurimā'u, lu-ri-ma-e (
 
 | Language | Comparison |
 |---|---|
-| Ugaritic | lrmn 'pomegranate', pl. lrmnm (DULAT 499) |
+| Ugaritic | lrmn 'pomegranate', pl. lrmnm (KTU 1.23:50; 4.751:11; DULAT 499; Watson 2006, 722) |
 | Akkadian | lurmû 'pomegranate', MA lurimā'u lu-ri-ma-e, lurimtu EA 25 (CAD L 255 f.); PN Lu-ri-in-di-ya (HALOT 1242) |
 | Hebrew | rimmôn 'pomegranate'; PN Rimmon, 2 Sam 4:2 (HALOT 1241 f.) |
 

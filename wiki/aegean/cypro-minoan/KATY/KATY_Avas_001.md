@@ -27,9 +27,17 @@ updated: 2026-11-18T19:49:10Z
 | Site | Katydhata (Nicosia) (KATY); Valério 2016, 36 |
 | Identity controls | none (match: none); no record |
 | Object type | Avas, Pottery (complete or fragmentary); Valério 2016, 37 |
-| Subcorpus | CM 1 |
+| Date | LC IIB (Late Cypriot IIB), 1360–1320 BCE (Valério 2016, 39); CONFLICT, certainty LOW; lead statement: CMI II (Ferrara), "LC IIB" (Valério 2016, 646) |
+| Script | Cypro-Minoan; Valério 2016, 487 |
+| Subcorpus | CM 1; Valério 2016, 452; Valério 2016, 451 |
 | Status | inscription |
 | Edition of record | HoChyMin, transcribed in Valério 2016, Appendix A, 487; unverified |
+
+Set against the lead statement:
+
+| Statement | Period | Relation | Source |
+|---|---|---|---|
+| "Chronology: LCIIC-LCIIIA:1" | LC IIC–IIIA:1, 1320–1100 BCE | disjoint | Donnelly 2021; Donnelly 2021, 294 |
 
 Not checked against HoChyMin, which is not held.
 

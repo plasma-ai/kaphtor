@@ -27,7 +27,9 @@ updated: 2026-11-18T19:49:10Z
 | Site | Palaeopaphos-Skales (Paphos) (PPAP); Valério 2016, 36 |
 | Identity controls | Pleiades 707596, Trismegistos 1565 (match: city); the records are (Palai)Paphos, not Skales |
 | Object type | Mvas, Metal base; Valério 2016, 37. The key prints 'Metal base'. The objects under the code are bowls: PPAP Mvas 001 is 'a silver bowl' (71) and 'one bronze bowl' (232), two descriptions Valério gives of the one object. |
-| Subcorpus | CM 1 |
+| Date | LC IIC or CG (Late Cypriot IIC or Cypro-Geometric), no years: a choice of periods: LC IIC, 1320–1190 BCE, or CG, 1050–750 BCE (Valério 2016, 39); OVERLAP, certainty LOW; lead statement: CMI II (Ferrara), "LC IIC? CG?" (Valério 2016, 648) |
+| Script | Cypro-Minoan; Valério 2016, 499 |
+| Subcorpus | CM 1; Valério 2016, 452; Valério 2016, 451 |
 | Status | inscription |
 | Edition of record | HoChyMin, transcribed in Valério 2016, Appendix A, 499; unverified |
 

@@ -27,9 +27,17 @@ updated: 2026-11-18T19:49:10Z
 | Site | Idalion (Nicosia) (IDAL); Valério 2016, 36 |
 | Identity controls | Pleiades 707519, Trismegistos 2748 (match: exact) |
 | Object type | Avas, Pottery (complete or fragmentary); Valério 2016, 37 |
-| Subcorpus | CM 1 |
+| Date | CA II (Cypro-Archaic II), 750–480 BCE (Valério 2016, 39); CONFLICT, certainty LOW; lead statement: CMI II (Ferrara), "Cypriot Archaic II(?)" (Valério 2016, 645) |
+| Script | Cypro-Minoan; Valério 2016, 486 |
+| Subcorpus | CM 1; Valério 2016, 452; Valério 2016, 451 |
 | Status | inscription |
 | Edition of record | HoChyMin, transcribed in Valério 2016, Appendix A, 486; unverified |
+
+Set against the lead statement:
+
+| Statement | Period | Relation | Source |
+|---|---|---|---|
+| "LC (1650-1050)" | LC, 1600–1050 BCE | disjoint | HoChyMin (Vandenabeele); Valério 2016, 645 |
 
 Not checked against HoChyMin, which is not held.
 

@@ -88,6 +88,7 @@ Dual-function sign: syllabogram /ti/ (AB37) + logogram TIʔIN when standalone wi
 | [[wiki/linear-a/words/T/TI\|TI]] | tiʾin | CANDIDATE |
 | [[wiki/linear-a/words/T/TI_DA_TA\|TI-DA-TA]] | ṯidṯīta | CANDIDATE |
 | [[wiki/linear-a/words/T/TI_DI_TE_QA_TI\|TI-DI-TE-QA-TI]] | tidī teqaʿti | SPECULATIVE |
+| [[wiki/linear-a/words/T/TI_DU\|TI-DU]] | ṭiṭṭu | SPECULATIVE |
 | [[wiki/linear-a/words/T/TI_MA_RU_WI_TE\|TI-MA-RU-WI-TE]] | Tīmar-luwwīt | SPECULATIVE |
 | [[wiki/linear-a/words/T/TI_NI_TA\|TI-NI-TA]] | Tinit | CONFIRMED |
 | [[wiki/linear-a/words/T/TI_NI_TA_star307\|TI-NI-TA \*307]] | Tinit Dubur | PROBABLE |

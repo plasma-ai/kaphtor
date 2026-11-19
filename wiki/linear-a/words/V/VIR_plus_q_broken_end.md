@@ -69,7 +69,7 @@ di Mino
 | [[wiki/linear-a/inscriptions/KH/KH/KH26\|KH26]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH8\|KH8]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2004\|KHWc2004]] | Khania | Roundel | none |
-| [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2117\|KHWc2117]] | Khania | Roundel | none |
+| [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2117\|KHWc2117]] | Khania | Roundel | complete |
 | [[wiki/linear-a/inscriptions/PE/PE/PE1\|PE1]] | Petras | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/PH/PH/PH8a\|PH8a]] | Phaistos | Tablet | none |
 | [[wiki/linear-a/inscriptions/TY/TY/TY2\|TY2]] | Tylissos | Tablet | none |
@@ -85,6 +85,7 @@ di Mino
 | [[wiki/linear-a/inscriptions/HT/HT/HT105\|HT105]] |  | men, a counted personnel class (the person sign with an unnamed element) | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT119\|HT119]] |  | men; the second element of the ligature is unread |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT122b\|HT122b]] |  | men (personnel logogram) |  |
+| [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2117\|KHWc2117]] |  | men; the second element of the ligature is unread | PROBABLE |
 | [[wiki/linear-a/inscriptions/PE/PE/PE1\|PE1]] |  | men; the second element of the ligature is unread, 5̣0\[ (53 restored) |  |
 | [[wiki/linear-a/inscriptions/PE/PE/PE1\|PE1]] |  | men; the second element of the ligature is unread, 72 |  |
 

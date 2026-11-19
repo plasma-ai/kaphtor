@@ -27,6 +27,9 @@ updated: 2026-11-18T19:49:10Z
 | Site | Palaeopaphos-Skales (Paphos) (PPAP); Valério 2016, 36 |
 | Identity controls | Pleiades 707596, Trismegistos 1565 (match: city); the records are (Palai)Paphos, not Skales |
 | Object type | Mvas, Metal base; Valério 2016, 37. The key prints 'Metal base'. The objects under the code are bowls: PPAP Mvas 001 is 'a silver bowl' (71) and 'one bronze bowl' (232), two descriptions Valério gives of the one object. |
+| Date | none: no held source dates it |
+| Script | Cypro-Minoan; Donnelly 2021, 260; Donnelly 2021, 264 |
+| Subcorpus | none: no held source assigns it |
 | Status | outside Appendix A |
 
 Outside Appendix A: In the S1 Table of Corazza et al. 2022; no Appendix A record. (Corazza et al. 2022, table S1)

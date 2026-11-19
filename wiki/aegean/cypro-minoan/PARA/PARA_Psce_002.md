@@ -27,6 +27,9 @@ updated: 2026-11-18T19:49:10Z
 | Site | Ayia Paraskevi (Nicosia) (PARA); Valério 2016, 36 |
 | Identity controls | none (match: none); no record |
 | Object type | Psce, Stone seal; Valério 2016, 37 |
+| Date | LC IIB (Late Cypriot IIB), 1360–1320 BCE (Valério 2016, 39); AGREE, certainty MEDIUM; lead statement: CMI II (Ferrara), "LC IIB(?)" (Valério 2016, 649) |
+| Script | Cypro-Minoan; Valério 2016, 553 |
+| Subcorpus | none: no held source assigns it |
 | Status | inscription |
 | Edition of record | CMI II, transcribed in Valério 2016, Appendix A, 553; unverified |
 

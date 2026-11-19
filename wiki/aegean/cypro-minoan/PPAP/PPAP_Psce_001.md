@@ -27,6 +27,9 @@ updated: 2026-11-18T19:49:10Z
 | Site | Palaeopaphos-Skales (Paphos) (PPAP); Valério 2016, 36 |
 | Identity controls | Pleiades 707596, Trismegistos 1565 (match: city); the records are (Palai)Paphos, not Skales |
 | Object type | Psce, Stone seal; Valério 2016, 37 |
+| Date | CG I (Cypro-Geometric I), 1050–950 BCE (Valério 2016, 39); AGREE, certainty LOW; lead statement: V. Karageorghis (1983a), "In a CG I (secondary) context" (Valério 2016, 651) |
+| Script | Cypro-Minoan; Valério 2016, 563 |
+| Subcorpus | none: no held source assigns it |
 | Status | inscription |
 | Edition of record | Valério 2014b, transcribed in Valério 2016, Appendix A, 563–564; unverified |
 

@@ -66,6 +66,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/I/I_TA_JA\|I-TA-JA]] | ʾIttaya | SPECULATIVE |
 | [[wiki/linear-a/words/J/JA_DA_SU\|JA-DA-SU]] | Yadaʿ-Šum | SPECULATIVE |
 | [[wiki/linear-a/words/J/JA_DI\|JA-DI]] | Yadi | SPECULATIVE |
+| [[wiki/linear-a/words/J/JA_DI_KI_TE_TE\|JA-DI-KI-TE-TE]] | yā Diqqitet | PROBABLE |
 | [[wiki/linear-a/words/J/JA_DI_KI_TU\|JA-DI-KI-TU]] | yā Diqqitu | PROBABLE |
 | [[wiki/linear-a/words/J/JA_DU_RA_TI\|JA-DU-RA-TI]] | Yadurati | CANDIDATE |
 | [[wiki/linear-a/words/J/JA_HA\|JA-HA]] | Yāh(a) | SPECULATIVE |

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/star/star330_plus_DA
 title: "*330+DA"
-desc: "Unread sign (ligature, unread); 1 occurrence(s)."
+desc: "Unread sign (ligature, component read); 1 occurrence(s)."
 tags: ["linear-a", "word", "unread"]
 kind: "word"
 form: "*330+DA"
@@ -29,6 +29,8 @@ updated: 2026-11-12T00:26:03Z
 
 ## Unread sign
 
-A ligature. Status **unread** (nothing on file).
+A ligature. Status **component read** (a combined sign with a component the lexicon reads).
+
+The lexicon reads [[wiki/linear-a/words/D/DA|DA]].
 
 <!-- END kaphtor:record -->

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/star
 desc: "Words that open with a sign known by its number, such as *306."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-18T16:16:38Z
+updated: 2026-11-19T04:09:42Z
 ---
 
 # wiki/linear-a/words/star
@@ -189,7 +189,7 @@ updated: 2026-11-18T16:16:38Z
 
 [[wiki/linear-a/words/star/star328|star328]]: Unread sign (sign, unread); 2 occurrence(s).
 
-[[wiki/linear-a/words/star/star330_plus_DA|star330_plus_DA]]: Unread sign (ligature, unread); 1 occurrence(s).
+[[wiki/linear-a/words/star/star330_plus_DA|star330_plus_DA]]: Unread sign (ligature, component read); 1 occurrence(s).
 
 [[wiki/linear-a/words/star/star330_plus_SA|star330_plus_SA]]: Unread sign (ligature, component read); 1 occurrence(s).
 
@@ -207,9 +207,9 @@ updated: 2026-11-18T16:16:38Z
 
 [[wiki/linear-a/words/star/star336|star336]]: Unread sign (sign, unread); 2 occurrence(s).
 
-[[wiki/linear-a/words/star/star337_plus_star188|star337_plus_star188]]: Unread sign (ligature, component read); 2 occurrence(s).
+[[wiki/linear-a/words/star/star337_plus_star188|star337_plus_star188]]: buṭnu: terebinth carried by ship, the ship drawn with an upright and a spar (a variant of *86+*188). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/star/star338|star338]]: Unread sign (sign, unread); 2 occurrence(s).
+[[wiki/linear-a/words/star/star338|star338]]: (logogram): footwear, a boot (logogram). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/star/star339|star339]]: Unread sign (sign, unread); 1 occurrence(s).
 
@@ -277,7 +277,7 @@ updated: 2026-11-18T16:16:38Z
 
 [[wiki/linear-a/words/star/star406_VS|star406_VS]]: Unread sign (vessel, unread); 1 occurrence(s).
 
-[[wiki/linear-a/words/star/star408_VS|star408_VS]]: Unread sign (vessel, unread); 4 occurrence(s).
+[[wiki/linear-a/words/star/star408_VS|star408_VS]]: (logogram): handled vessel on three legs with a tapering body (vessel logogram). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/star/star409_VS|star409_VS]]: (logogram): tripod vessel without handles (vessel logogram). Lexicon, CANDIDATE (tier 2).
 
@@ -299,9 +299,9 @@ updated: 2026-11-18T16:16:38Z
 
 [[wiki/linear-a/words/star/star416_plus_L2|star416_plus_L2]]: Unread sign (ligature, unread); 1 occurrence(s).
 
-[[wiki/linear-a/words/star/star417_VS|star417_VS]]: Unread sign (vessel, unread); 2 occurrence(s).
+[[wiki/linear-a/words/star/star417_VS|star417_VS]]: (logogram): basket (vessel logogram). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/star/star418_plus_L2|star418_plus_L2]]: Unread sign (ligature, unread); 3 occurrence(s).
+[[wiki/linear-a/words/star/star418_plus_L2|star418_plus_L2]]: (logogram): animal-head rhyton, with the measure sign L2 beneath (vessel logogram). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/star/star47|star47]]: Unread sign (sign, unread); 2 occurrence(s).
 
@@ -355,7 +355,7 @@ updated: 2026-11-18T16:16:38Z
 
 [[wiki/linear-a/words/star/star86_SI_star118_KA|star86_SI_star118_KA]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/star/star86_plus_star188|star86_plus_star188]]: Unread sign (ligature, component read); 11 occurrence(s).
+[[wiki/linear-a/words/star/star86_plus_star188|star86_plus_star188]]: buṭnu: terebinth carried by ship (the terebinth sign *188 set on the ship *86). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/star/star903_I_DU_WI|star903_I_DU_WI]]: Unread (unread): no role; 1 occurrence(s).
 

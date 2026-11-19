@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A
 desc: "Words whose first sign begins with A."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-17T20:31:47Z
+updated: 2026-11-19T16:20:39Z
 ---
 
 # wiki/linear-a/words/A
@@ -29,7 +29,7 @@ updated: 2026-11-17T20:31:47Z
 
 [[wiki/linear-a/words/A/A_DI|A_DI]]: ʿadi: unto, as far as (preposition); rival 'until'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/A/A_DI_KI_TE_TE|A_DI_KI_TE_TE]]: ʾa-Diqqitīt: O Diktaean (f.), the feminine nisbe of Dikte. Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/A/A_DI_KI_TE_TE|A_DI_KI_TE_TE]]: ʾa-Diqqitet: O Diktaean (f.), the feminine nisbe of Dikte. Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/A/A_DI_KI_TE_broken_end|A_DI_KI_TE_broken_end]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -247,7 +247,7 @@ updated: 2026-11-17T20:31:47Z
 
 [[wiki/linear-a/words/A/A_TA_RE|A_TA_RE]]: ʿAṯtar: ʿAṯtar (the god), receiving figs; rival Hathor. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/A/A_TA_star350|A_TA_star350]]: Unread (unread): no role; 1 occurrence(s).
+[[wiki/linear-a/words/A/A_TA_star350|A_TA_star350]]: ʾatāwu: what has come in, receipt (heading of the last section of KH 11). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/A/A_TI_KA|A_TI_KA]]: ʿAtīqa: personal name, 'enduring'; compare Linear B a-ti-ka. Lexicon, SPECULATIVE (tier 1).
 
@@ -267,7 +267,7 @@ updated: 2026-11-17T20:31:47Z
 
 [[wiki/linear-a/words/A/A_q_q_q_JA|A_q_q_q_JA]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/A/A_star123_TE|A_star123_TE]]: Unread (unread): no role; 1 occurrence(s).
+[[wiki/linear-a/words/A/A_star123_TE|A_star123_TE]]: ha-quṭōrt: the incense (the aromatics sign written for the word, between the article and the feminine ending). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/A/A_star301|A_star301]]: Unread (role only): personal name; 1 occurrence(s).
 

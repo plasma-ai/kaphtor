@@ -9,7 +9,7 @@ site: "Palaikastro"
 support: "Stone vessel"
 period: ""
 translation: "complete"
-words: ["DU-PU₂-RE"]
+words: ["DU-PU₂-RE", "JA-DI-KI-TE-TE"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -55,7 +55,7 @@ Unicode (Linear A block):
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| JA-DI-KI-TE-TE-DU-PU₂-RE | yā Diqqitīt dubur | O Diktaean of the Sanctuary (vocative yā + Diqqitīt + dubur) | PROBABLE |  |
+| JA-DI-KI-TE-TE-DU-PU₂-RE | yā Diqqitet dubur | O Diktaean of the Sanctuary (vocative yā + Diqqitet + dubur) | PROBABLE |  |
 
 ### Notes
 
@@ -67,6 +67,6 @@ Libation table rim (A.Nik. M.2469), left to right. GORILA IV 41: \] · JA-DI-KI-
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/D/DU_PU2_RE|DU-PU₂-RE]].
+[[wiki/linear-a/words/D/DU_PU2_RE|DU-PU₂-RE]], [[wiki/linear-a/words/J/JA_DI_KI_TE_TE|JA-DI-KI-TE-TE]].
 
 <!-- END kaphtor:record -->

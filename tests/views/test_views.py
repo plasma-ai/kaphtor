@@ -362,6 +362,18 @@ def test_a_proposed_sign_page_gives_its_evidence_and_no_verdict(data):
         assert "Corpus test" not in text and "corpus test" not in text
 
 
+def test_a_logogram_page_tables_its_cognates_and_has_no_table_without_them(data):
+    model, render = views("model"), views("render")
+    m = model.load(data)
+    m.sign_values["logograms"]["*317"]["cognates"] = {"Hebrew": "qəṭōret 'incense' | n.f.", "Ugaritic": "qṭr 'smoke'"}
+    _, with_cognates = render.sign_page(m, "logograms", "*317")
+    _, without = render.sign_page(m, "logograms", "*308")
+    assert "### Cognates" in with_cognates
+    assert "| Hebrew | qəṭōret 'incense' \\| n.f. |" in with_cognates and "| Ugaritic | qṭr 'smoke' |" in with_cognates
+    assert with_cognates.index("## Logogram") < with_cognates.index("### Cognates")
+    assert "### Cognates" not in without
+
+
 def test_sign_keys_read_subscripts_as_digits_and_refuse_a_clash():
     model = views("model")
     assert model.sign_keys({"PA₃": {}, "TA2": {}}) == {"PA3": "PA₃", "TA2": "TA2"}
@@ -986,10 +998,16 @@ def aegean_data(data: Path) -> Path:
     return data
 
 
+CM_DATING = ("period_code", "period_label", "date_range_bce", "date_midpoint_bce", "date_certainty", "dating_basis")
+CM_UNDATED = {**{f: None for f in CM_DATING}, "dating_status": "UNDATED", "conflicts": [], "script": "Cypro-Minoan",
+              "subcorpus": None, "null_reasons": {**{f: "no held source dates it" for f in CM_DATING},
+                                                  "subcorpus": "no held source assigns it"}}
+
+
 def cm_record(siglum, corpus_no, site_code, type_code, **fields):
     statements = {f: [] for f in ("identity", "museum_no", "editions", "findspot", "date", "dimensions", "object",
                                   "document_form", "hand", "visual_evidence")}
-    return {"record_id": f"cm:{corpus_no or siglum}", "siglum": siglum, "corpus_no": corpus_no,
+    return {**CM_UNDATED, "record_id": f"cm:{corpus_no or siglum}", "siglum": siglum, "corpus_no": corpus_no,
             "site_code": site_code, "type_code": type_code, "site": None, "site_queried": False,
             "site_authorities": None, "hochymin_type": None, "traditional_subcorpus": None,
             "inclusion_status": "inscription", "text_status": "edition",
@@ -1007,12 +1025,23 @@ CYPRO_MINOAN = {
         "KITI Avas 001", "##130", "KITI", "Avas", site="Kition", hochymin_type=POTTERY,
         site_authorities={"match": "exact", "pleiades": "707534", "tm": "1109", "note": None},
         field_sources={"site": [{"work": "Valério 2016", "page": 36}],
-                       "hochymin_type": [{"work": "Valério 2016", "page": 37}]},
+                       "hochymin_type": [{"work": "Valério 2016", "page": 37}],
+                       "script": [{"work": "Valério 2016", "page": 500,
+                                   "note": "allows that the script may be Cypro-Greek"}],
+                       "subcorpus": [{"work": "Valério 2016", "page": 452}, {"work": "Valério 2016", "page": 451}]},
         findspot=[{"text": None, "pointer": True, "cites": [{"work": "Valério 2016", "page": 419}]},
                   {"text": "Site: Kition; Context type: Tomb", "cites": [{"work": "Donnelly 2021", "page": 294}],
                    "note": "Room #, etc. left blank."}],
         date=[{"text": "1300-1100", "relayed_from": "HoChyMin (Vandenabeele)",
-               "cites": [{"work": "Valério 2016", "page": 645}]}]),
+               "cites": [{"work": "Valério 2016", "page": 645}]}],
+        period_code="LC IIC–IIIA", period_label="Late Cypriot IIC–IIIA", date_range_bce=[1320, 1100],
+        date_midpoint_bce=1210, date_certainty="LOW", dating_status="CONFLICT",
+        dating_basis={"source": "HoChyMin (Vandenabeele)", "text": "1300-1100",
+                      "cites": [{"work": "Valério 2016", "page": 645}], "note": "Appendix C's row for the jug."},
+        conflicts=[{"source": "Donnelly 2021", "text": None, "pointer": True,
+                    "cites": [{"work": "Donnelly 2021", "page": 294}], "note": "Said of the tomb as a whole.",
+                    "period_code": "LC IIIB", "date_range_bce": [1100, 1050], "relation": "disjoint"}],
+        subcorpus="CM 1", null_reasons={}),
     "CYPR? Psce 003": cm_record("CYPR? Psce 003", "##195", "CYPR", "Psce"),
     "MI Zb 3": cm_record(
         "MI Zb 3", None, None, None, inclusion_status=None, text_status="no held transcription",
@@ -1062,6 +1091,24 @@ def test_a_cypro_minoan_page_holds_the_record_its_sources_and_no_text(data):
     assert "| 1300-1100 (relayed from HoChyMin (Vandenabeele)) | Valério 2016, 645 |  |" in text
     assert "None" not in text
     assert "No transcription is reproduced here" in text
+
+
+def test_a_cypro_minoan_page_gives_the_date_the_conflicts_the_script_and_the_subcorpus(data):
+    pages = views("aegean").pages(cypro_minoan_data(data))
+    text = pages["wiki/aegean/cypro-minoan/KITI/KITI_Avas_001"]
+    assert ("| Date | LC IIC–IIIA (Late Cypriot IIC–IIIA), 1320–1100 BCE (Valério 2016, 39); CONFLICT, certainty LOW; "
+            "lead statement: HoChyMin (Vandenabeele), \"1300-1100\" (Valério 2016, 645); Appendix C's row for the jug. |"
+            ) in text
+    assert "| Script | Cypro-Minoan; Valério 2016, 500 (allows that the script may be Cypro-Greek) |" in text
+    assert "| Subcorpus | CM 1; Valério 2016, 452; Valério 2016, 451 |" in text
+    assert ("Set against the lead statement:\n\n| Statement | Period | Relation | Source |\n|---|---|---|---|\n"
+            "| *the source's own words, not reproduced* (Said of the tomb as a whole.) | LC IIIB, 1100–1050 BCE | "
+            "disjoint | Donnelly 2021; "
+            "Donnelly 2021, 294 |") in text
+    undated = pages["wiki/aegean/cypro-minoan/CYPR/CYPR_q_Psce_003"]
+    assert "| Date | none: no held source dates it |" in undated
+    assert "| Subcorpus | none: no held source assigns it |" in undated
+    assert "Set against the lead statement" not in undated and "None" not in undated
 
 
 def test_a_cypro_minoan_witness_without_a_site_has_no_edition_row(data):
@@ -1116,6 +1163,66 @@ def test_a_cypro_minoan_page_keeps_a_cites_table_a_queried_site_and_decodes_vas(
     assert markdown.parse_frontmatter(text)["desc"] == "Cypro-Minoan text ##203, seal, perhaps from Enkomi (Famagusta)."
     desc = markdown.parse_frontmatter(pages["wiki/aegean/cypro-minoan/PPAP/PPAP_Mvas_001"])["desc"]
     assert desc == "Cypro-Minoan text ##180, vessel, from Palaepaphos."
+
+
+CM_TRANSLATIONS = {
+    "translations": {"KITI Avas 001": {
+        "record_id": "cm:##130", "source": "di Mino", "confidence": "CANDIDATE", "status": "incomplete",
+        "translation": "Kôṯar-ʾabī, son.", "notes": "A list of names.\n\nOne group stays unread.",
+        "words": [
+            {"line": "A.01", "page": 547, "text": "corpus", "cypro_minoan": "021-082-075-051", "reading": "Kôṯar-ʾabī",
+             "reading_type": None, "gloss": "personal name 'Kothar is my father'", "values": ["ko", "sa", "ra", "pi"],
+             "confidence": "PROBABLE", "note": "Saporetti's reading.",
+             "rivals": [{"proposer": "É. Masson", "reading": "?-ḫi-ra-bi", "work": "É. Masson 1974", "page": 43,
+                         "gloss": "a name ending in rb 'great'"}]},
+            {"line": "A.02", "page": 551, "text": "emended", "cypro_minoan": "051-028", "reading": "binu",
+             "reading_type": None, "gloss": "son", "values": ["pi", None], "confidence": "CANDIDATE", "rivals": [],
+             "note": None},
+            {"line": "A.06", "page": 548, "text": "corpus", "cypro_minoan": None, "reading": None,
+             "reading_type": "UNRESOLVED", "gloss": None, "values": [], "confidence": None,
+             "rivals": [{"proposer": "Valério", "work": "Valério 2016", "page": 548, "gloss": "a name"}],
+             "note": "No reading."}]}},
+    "sign_values": {"021": {"value": "ko", "tier": "PROBABLE", "evidence": "ko with most proposers."}},
+}
+
+
+def cypro_minoan_translated(data: Path) -> Path:
+    cypro_minoan_data(data)
+    (data.parent / "ane" / "cypro-minoan" / "translations.json").write_text(
+        json.dumps(CM_TRANSLATIONS, ensure_ascii=False), encoding="utf-8")
+    return data
+
+
+def test_a_translated_cypro_minoan_page_holds_its_reading_word_by_word(data):
+    pages = views("aegean").pages(cypro_minoan_translated(data))
+    text = pages["wiki/aegean/cypro-minoan/KITI/KITI_Avas_001"]
+    assert text.index("## Translation") < text.index("## Metadata")
+    assert "Kôṯar-ʾabī, son.\n\ndi Mino's reading, CANDIDATE, incomplete; 3 words." in text
+    assert ("| A.01 | 547 | 021-082-075-051 | ko-sa-ra-pi | Kôṯar-ʾabī | personal name 'Kothar is my father' | "
+            "PROBABLE | É. Masson, ?-ḫi-ra-bi, a name ending in rb 'great' (É. Masson 1974, 43) | "
+            "Saporetti's reading. |") in text
+    assert "| A.02 | 551 | 051-028 | pi-? | binu | son | CANDIDATE, emended text |  |  |" in text
+    assert ("| A.06 | 548 | *not reproduced* |  |  |  | unresolved | Valério, a name (Valério 2016, 548) | "
+            "No reading. |") in text
+    assert "A list of names.\n\nOne group stays unread." in text
+    assert "No transcription is reproduced here beyond the sign groups of the words read" in text
+    assert "None" not in text
+    plain = pages["wiki/aegean/cypro-minoan/CYPR/CYPR_q_Psce_003"]
+    assert "## Translation" not in plain and "beyond the sign groups" not in plain
+
+
+def test_the_translated_index_lists_each_text_read_only_with_the_file(data):
+    pages = views("aegean").pages(cypro_minoan_translated(data))
+    index = pages["wiki/aegean/cypro-minoan/translated"]
+    assert ("| [[wiki/aegean/cypro-minoan/KITI/KITI_Avas_001\\|KITI Avas 001]] | CANDIDATE | incomplete | 3 | "
+            "Kôṯar-ʾabī, son. |") in index
+    assert views("markdown").parse_frontmatter(index)["kind"] == "cypro_minoan_index"
+
+
+def test_without_the_translations_file_no_translated_index_and_no_section(data):
+    pages = views("aegean").pages(cypro_minoan_data(data))
+    assert "wiki/aegean/cypro-minoan/translated" not in pages
+    assert "## Translation" not in pages["wiki/aegean/cypro-minoan/KITI/KITI_Avas_001"]
 
 
 def test_the_build_writes_the_cypro_minoan_folder_descs(data, tmp_path, backups):

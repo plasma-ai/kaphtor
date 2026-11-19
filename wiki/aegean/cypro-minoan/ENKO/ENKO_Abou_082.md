@@ -27,7 +27,9 @@ updated: 2026-11-18T19:49:10Z
 | Site | Enkomi (Famagusta) (ENKO); Valério 2016, 36 |
 | Identity controls | Pleiades 13818291, Trismegistos 37211 (match: exact); Pleiades 158081397 "Tomb of the Kings near Enkomi" excluded |
 | Object type | Abou, Clay ball (or boule); Valério 2016, 37. Valério's n. 16: 'ball' translates the French boule (37). |
-| Subcorpus | CM 1 |
+| Date | LC IIIA–IIIB (Late Cypriot IIIA–IIIB), 1190–1050 BCE (Valério 2016, 39); AGREE, certainty MEDIUM; lead statement: CMI II (Ferrara), "LC IIIA-IIIB" (Valério 2016, 644) |
+| Script | Cypro-Minoan; Valério 2016, 469 |
+| Subcorpus | CM 1; Valério 2016, 452; Valério 2016, 451 |
 | Status | inscription |
 | Edition of record | HoChyMin, transcribed in Valério 2016, Appendix A, 469; unverified |
 

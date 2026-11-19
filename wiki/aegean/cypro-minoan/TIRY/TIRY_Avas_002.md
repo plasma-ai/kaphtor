@@ -27,6 +27,9 @@ updated: 2026-11-18T19:49:10Z
 | Site | Tiryns (Greece) (TIRY); Valério 2016, 36 |
 | Identity controls | Pleiades 570740, Trismegistos 37671 (match: exact) |
 | Object type | Avas, Pottery (complete or fragmentary); Valério 2016, 37 |
+| Date | LH IIIB Final (Late Helladic IIIB Final), no years: Tables I.1 and I.2 (Valério 2016, 39) give no years for LH IIIB Final; AGREE, certainty HIGH; lead statement: Donnelly 2021, "Chronology: LH IIIB Final" (Donnelly 2021, 295) |
+| Script | Cypro-Minoan; Valério 2016, 561 |
+| Subcorpus | none: no held source assigns it |
 | Status | inscription |
 | Edition of record | own publication, transcribed in Valério 2016, Appendix A, 561; unverified |
 

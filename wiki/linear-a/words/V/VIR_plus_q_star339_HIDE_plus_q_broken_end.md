@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/V/VIR_plus_q_star339_HIDE_plus_q_broken_end
 title: "VIR+[?]-*339-HIDE+[?]"
-desc: "Unread sign (compound, unread); 1 occurrence(s)."
+desc: "Unread sign (compound, component read); 1 occurrence(s)."
 tags: ["linear-a", "word", "unread"]
 kind: "word"
 form: "VIR+[?]-*339-HIDE+[?]"
@@ -29,7 +29,9 @@ updated: 2026-11-12T00:26:03Z
 
 ## Unread sign
 
-A compound. Status **unread** (nothing on file).
+A compound. Status **component read** (a combined sign with a component the lexicon reads).
+
+The lexicon reads [[wiki/linear-a/words/H/HIDE|HIDE]].
 
 PH 12a, before 10 and fractions; a fracture crosses the last sign.
 

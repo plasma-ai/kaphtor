@@ -27,6 +27,9 @@ updated: 2026-11-18T19:49:10Z
 | Site | Dhenia, or Deneia (Nicosia) (DHEN); Valério 2016, 36 |
 | Identity controls | none (match: none); no record under Dhenia or Deneia |
 | Object type | Mvas, Metal base; Valério 2016, 37. The key prints 'Metal base'. The objects under the code are bowls: PPAP Mvas 001 is 'a silver bowl' (71) and 'one bronze bowl' (232), two descriptions Valério gives of the one object. |
+| Date | LC I–II (Late Cypriot I–II), 1600–1190 BCE (Valério 2016, 39); AGREE, certainty MEDIUM; lead statement: CMI II (Ferrara), "LC I- II" (Valério 2016, 649) |
+| Script | Cypro-Minoan; Valério 2016, 554 (allows that the signs may be marks, not writing) |
+| Subcorpus | none: no held source assigns it |
 | Status | inscription |
 | Edition of record | CMI II, transcribed in Valério 2016, Appendix A, 554; unverified |
 

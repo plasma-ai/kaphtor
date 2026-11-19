@@ -24,13 +24,24 @@ updated: 2026-11-18T19:49:10Z
 | Field | Value |
 |---|---|
 | ## number | none, outside Valério 2016, Appendix A |
+| Date | EIA (Early Iron Age), no years: Tables I.1 and I.2 (Valério 2016, 39) give no years for EIA; AGREE, certainty MEDIUM; lead statement: Donnelly 2021, *the source's own words, not reproduced* (Donnelly 2021, 207) |
+| Script | Cypro-Minoan; Donnelly 2024, 60 |
+| Subcorpus | none: no held source assigns it |
 | Status | outside Appendix A |
 
 No siglum: a find from Ashkelon published after Appendix A. (Donnelly 2024, 60)
 
 Outside Appendix A: A text of two signs cut after firing into the handle of an imported vessel, made on the coast of Lebanon or in the Akko plain and found at Ashkelon (Master 2021, cat. no. 51). (Donnelly 2024, 60)
 
-No held source states its identity, museum number, editions, findspot, date, dimensions, object, document form, hand, visual evidence.
+## Metadata
+
+### Date
+
+| Statement | Source | Note |
+|---|---|---|
+| *the source's own words, not reproduced* | Donnelly 2021, 207 |  |
+
+No held source states its identity, museum number, editions, findspot, dimensions, object, document form, hand, visual evidence.
 
 No transcription is reproduced here: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
 

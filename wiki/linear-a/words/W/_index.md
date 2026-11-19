@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/W
 desc: "Words whose first sign begins with W."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-17T13:48:22Z
+updated: 2026-11-18T22:43:41Z
 ---
 
 # wiki/linear-a/words/W
@@ -21,7 +21,7 @@ updated: 2026-11-17T13:48:22Z
 
 [[wiki/linear-a/words/W/WA_TU_MA_RE|WA_TU_MA_RE]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/W/WA_star362|WA_star362]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/W/WA_star362|WA_star362]]: waynu: wine, spelled out before the must on a Zakros wine tablet. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/W/WBQY|WBQY]]: wa-baqq-: rot, the disease addressed (wa- + baqq-); rival bōhaq. Lexicon, SPECULATIVE (tier 1).
 

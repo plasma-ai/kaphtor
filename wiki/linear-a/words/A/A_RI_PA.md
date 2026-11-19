@@ -41,19 +41,19 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-PE 2, in a list of fractional entries: A-RI-PA ¼, after A-\*325-ZA ¼ and before QA-QA-DA ½. ʾaripāʾ, √r-p-ʾ 'to heal': Ug. rpum, the Rephaim, ancestral healers and shades (KTU 1.20–22; DULAT 731), Amorite Rapiʾum (Gelb 1980, no. 5238), r-p-ʾ names at Mari and Alalakh (GlOS 2, 168). Rival: Ug. ʿrpt 'clouds', from rkb ʿrpt 'Rider of Clouds', Baal's epithet (Ps 68:5), with the ʿ unwritten. One attestation. See RP-33-Y and A-RE-PI-RE-NA.
+PE 2, in a list of fractional entries: A-RI-PA ¼, after A-\*325-ZA ¼ and before QA-QA-DA ½. ʾaripāʾ, √r-p-ʾ 'to heal': Ug. rpum, the Rephaim, ancestral healers and shades (KTU 1.20–22; DULAT 731), Amorite Rapiʾum (Gelb 1980, no. 5238), r-p-ʾ names at Mari and Alalakh (GlOS 2, 168). Ugarit builds names on it: ảbrpủ, written a-BAR-pa-a and a-BUR₅-pí-i, ỉlrpỉ, ʿbdrpủ (ÌR-rap-i) and rpản, rap-a-na (McAffee 2019, 199–200). Rival: Ug. ʿrpt 'clouds', from rkb ʿrpt 'Rider of Clouds', Baal's epithet (Ps 68:5), with the ʿ unwritten. One attestation. See RP-33-Y and A-RE-PI-RE-NA.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Ugaritic | rpum 'Rephaim' / ʿrpt 'clouds' |
+| Ugaritic | rpum 'Rephaim' / ʿrpt 'clouds'; names ảbrpủ (a-BAR-pa-a), ỉlrpỉ, ʿbdrpủ (ÌR-rap-i), rpản (rap-a-na) (McAffee 2019, 199–200) |
 | Hebrew | רְפָאִים (rᵊpāʾīm) / עֲרָפֶל (ʿărāpel 'thick cloud') |
 | Phoenician | rpʾm 'shades' (KAI 13:7–8; HALOT 1274) |
 
 ### Source
 
-di Mino
+di Mino; McAffee 2019
 
 ## Attestations
 

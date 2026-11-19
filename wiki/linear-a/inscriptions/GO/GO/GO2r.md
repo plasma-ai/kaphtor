@@ -9,7 +9,7 @@ site: "Gournia"
 support: "Tablet"
 period: "LMIB"
 translation: "incomplete"
-words: ["KA", "SI", "SI-DA-RO"]
+words: ["DA", "KA", "SI", "SI-DA-RO"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -66,13 +66,14 @@ Unicode (Linear A block):
 
 **SPECULATIVE**, incomplete (status: incomplete).
 
-> \[…\] Tribute; bowl ⅛; tribute 2; DA; Siddāru ¼; SE \[…\]
+> \[…\] Tribute; bowl ⅛; tribute 2; the sanctuary's share; Siddāru ¼; SE \[…\]
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | [[wiki/linear-a/words/S/SI\|SI]] | šay | tribute, gift—logographic abbreviation of šay(u) | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/K/KA\|KA]] | kapp | palm-measure, bowl (unit of dry/liquid measure; administrative commodity category) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/S/SI_DA_RO\|SI-DA-RO]] | siddāru | siddāru 'Arranger' (personal name; spelling of SI-DA-RE) | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/D/DA\|DA]] | damʿu | the sanctuary's share (short form of DA-ME) | SPECULATIVE | SPECULATIVE (lexicon) |
 
 ### Notes
 
@@ -80,12 +81,12 @@ Broken above and below: the first SI is cut above and the last sign, SE, below.
 
 ### Source
 
-- di Mino: SI, KA, SI-DA-RO
+- di Mino: SI, KA, SI-DA-RO, DA
 - RILA-S1: GO 2
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/K/KA|KA]], [[wiki/linear-a/words/S/SI|SI]], [[wiki/linear-a/words/S/SI_DA_RO|SI-DA-RO]].
+[[wiki/linear-a/words/D/DA|DA]], [[wiki/linear-a/words/K/KA|KA]], [[wiki/linear-a/words/S/SI|SI]], [[wiki/linear-a/words/S/SI_DA_RO|SI-DA-RO]].
 
 ## Edition differences
 

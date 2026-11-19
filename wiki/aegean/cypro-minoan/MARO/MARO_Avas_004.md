@@ -27,6 +27,9 @@ updated: 2026-11-18T19:49:10Z
 | Site | Maroni (Larnaca) (MARO); Valério 2016, 36 |
 | Identity controls | Pleiades 380086882, Trismegistos 16568 (match: village); Pleiades: "At Maroni Vournes in southern Cyprus ..." |
 | Object type | Avas, Pottery (complete or fragmentary); Valério 2016, 37 |
+| Date | LC IIC (Late Cypriot IIC), 1320–1190 BCE (Valério 2016, 39); AGREE, certainty MEDIUM; lead statement: CMI II (Ferrara), "LC IIC" (Valério 2016, 650) |
+| Script | Cypro-Minoan; Valério 2016, 560 |
+| Subcorpus | none: no held source assigns it |
 | Status | inscription |
 | Edition of record | CMI II, transcribed in Valério 2016, Appendix A, 560; unverified |
 

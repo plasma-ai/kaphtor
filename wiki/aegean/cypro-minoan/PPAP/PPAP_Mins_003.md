@@ -27,9 +27,17 @@ updated: 2026-11-18T19:49:10Z
 | Site | Palaeopaphos-Skales (Paphos) (PPAP); Valério 2016, 36 |
 | Identity controls | Pleiades 707596, Trismegistos 1565 (match: city); the records are (Palai)Paphos, not Skales |
 | Object type | Mins, Metal tool; Valério 2016, 37 |
-| Subcorpus | CM 1 |
+| Date | CG II (Cypro-Geometric II), 950–850 BCE (Valério 2016, 39); CONFLICT, certainty LOW; lead statement: CMI II (Ferrara), "CG II" (Valério 2016, 647) |
+| Script | Cypro-Minoan; Valério 2016, 496 (doubts that the signs are Cypro-Minoan writing, or writing at all) |
+| Subcorpus | CM 1; Valério 2016, 452; Valério 2016, 451 |
 | Status | inscription |
 | Edition of record | HoChyMin, transcribed in Valério 2016, Appendix A, 496; unverified |
+
+Set against the lead statement:
+
+| Statement | Period | Relation | Source |
+|---|---|---|---|
+| "CG I (1050-950)" | CG I, 1050–950 BCE | disjoint | HoChyMin (Vandenabeele); Valério 2016, 647 |
 
 Not checked against HoChyMin, which is not held.
 

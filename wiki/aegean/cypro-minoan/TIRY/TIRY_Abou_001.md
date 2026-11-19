@@ -27,6 +27,9 @@ updated: 2026-11-18T19:49:10Z
 | Site | Tiryns (Greece) (TIRY); Valério 2016, 36 |
 | Identity controls | Pleiades 570740, Trismegistos 37671 (match: exact) |
 | Object type | Abou, Clay ball (or boule); Valério 2016, 37. Valério's n. 16: 'ball' translates the French boule (37). |
+| Date | LH IIIC (Late Helladic IIIC), no years: Tables I.1 and I.2 (Valério 2016, 39) give no years for LH IIIC; AGREE, certainty MEDIUM; lead statement: Vetters (2011), *the source's own words, not reproduced* (Donnelly 2021, 219) |
+| Script | Cypro-Minoan; Valério 2016, 561 |
+| Subcorpus | none: no held source assigns it |
 | Status | inscription |
 | Edition of record | CMI II, transcribed in Valério 2016, Appendix A, 561; unverified |
 
@@ -44,6 +47,7 @@ Not checked against CMI II, which is not held.
 
 | Statement | Source | Note |
 |---|---|---|
+| *the source's own words, not reproduced* (relayed from Vetters (2011)) | Donnelly 2021, 219 |  |
 | LC IIIC Developed (relayed from Vetters (2011)) | Valério 2016, 651 |  |
 
 No held source states its identity, museum number, findspot, dimensions, object, document form, hand, visual evidence.

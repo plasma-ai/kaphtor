@@ -30,11 +30,11 @@ updated: 2026-11-11T23:39:03Z
 | Reading's standing | SPECULATIVE |
 | Standing as a personal name | SPECULATIVE |
 | Standing of the layer | SPECULATIVE (lexicon_reading) |
-| Source | di Mino; NPN; Laroche GLH; Freydank and Saporetti 1979 |
+| Source | di Mino; NPN; Laroche GLH; Freydank and Saporetti 1979; Burlingame 2020 |
 
 ## Note
 
-KH 10 .3–4 A-KI-PI \| E-TE GRA 90, run over the line end and printed as one word in GORILA's normalized line, after I-PA-SA-JA Ipšaja · QA-\*118 (GORILA III 36–37). a-ki-pe-te: the Hurrian stem akip- 'brought' of Akip-tešup (Laroche GLH 36), A-KI-PI-E sign for sign as Nuzi Akipei, A-ki-be-e-i (NPN 14), + -te for -teja (NPN 264), as Nuzi \[A-ki\]p-te-ia (NPN 198). A recipient of grain beside the Hurrian Ipšaja. One witness.
+KH 10 .3–4 A-KI-PI \| E-TE GRA 90, run over the line end and printed as one word in GORILA's normalized line, after I-PA-SA-JA Ipšaja · QA-\*118 (GORILA III 36–37). a-ki-pe-te: the Hurrian stem akip- 'brought' of Akip-tešup (Laroche GLH 36), A-KI-PI-E sign for sign as Nuzi Akipei, A-ki-be-e-i (NPN 14), + -te for -teja (NPN 264), as Nuzi \[A-ki\]p-te-ia (NPN 198). Ugarit shortens the same way, Uri-Te for Uri-Teššub (Malbran-Labat and Roche 2007, 64 f., in Burlingame 2020, 204 n. 31). A recipient of grain beside the Hurrian Ipšaja. One witness.
 
 ## As a name
 
@@ -44,7 +44,7 @@ Akipe-te '(Teššup) brought': Hurrian akip- (Laroche GLH 36), as Nuzi Akipei, A
 
 | Language | Comparison |
 |---|---|
-| Hurrian | ag- 'amener, apporter', agi-, agib- in names, Akib-Tešub (Laroche GLH 36); Nuzi Akipei, A-ki-be-e-i, 'Probably &lt; akip-' (NPN 14, 198); \[A-ki\]p-te-ia, A-ki-te-ia, and A-kip-te-šup (NPN 198); -te, the 'shortened var.' of -teja (NPN 264); Middle Assyrian Agipte?ja, ᴵA-gi-⌜ip-te?-ja⌝, MARV II, 30:39′ (Freydank and Saporetti 1979, 23) |
+| Hurrian | ag- 'amener, apporter', agi-, agib- in names, Akib-Tešub (Laroche GLH 36); Nuzi Akipei, A-ki-be-e-i, 'Probably &lt; akip-' (NPN 14, 198); \[A-ki\]p-te-ia, A-ki-te-ia, and A-kip-te-šup (NPN 198); -te, the 'shortened var.' of -teja (NPN 264); Middle Assyrian Agipte?ja, ᴵA-gi-⌜ip-te?-ja⌝, MARV II, 30:39′ (Freydank and Saporetti 1979, 23); Ugarit Uri-Te for Uri-Teššub (Malbran-Labat and Roche 2007, 64 f., in Burlingame 2020, 204 n. 31) |
 
 ## Attestations
 

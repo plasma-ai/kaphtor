@@ -27,6 +27,9 @@ updated: 2026-11-18T19:49:10Z
 | Site | Kourion (Limassol) (KOUR); Valério 2016, 36 |
 | Identity controls | Pleiades 707549, Trismegistos 1174 (match: exact); Pleiades 543758 (mountain), TM 63437 (Lycia) and 33538 (Thessalia) excluded |
 | Object type | Avas, Pottery (complete or fragmentary); Valério 2016, 37 |
+| Date | LC IIC–IIIA (Late Cypriot IIC–IIIA), 1320–1100 BCE (Valério 2016, 39); AGREE, certainty HIGH; lead statement: Donnelly 2021, "Chronology: LCIIC-LCIIIA" (Donnelly 2021, 296) |
+| Script | Cypro-Minoan; Valério 2016, 561 |
+| Subcorpus | none: no held source assigns it |
 | Status | inscription |
 | Edition of record | Valério 2014b, transcribed in Valério 2016, Appendix A, 561; unverified |
 

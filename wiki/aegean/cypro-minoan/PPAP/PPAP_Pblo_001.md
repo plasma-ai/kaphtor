@@ -27,7 +27,9 @@ updated: 2026-11-18T19:49:10Z
 | Site | Palaeopaphos-Skales (Paphos) (PPAP); Valério 2016, 36 |
 | Identity controls | Pleiades 707596, Trismegistos 1565 (match: city); the records are (Palai)Paphos, not Skales |
 | Object type | Pblo, Stone block; Valério 2016, 37 |
-| Subcorpus | CM 1 |
+| Date | CG I (Cypro-Geometric I), 1050–950 BCE (Valério 2016, 39); AGREE, certainty HIGH; lead statement: CMI II (Ferrara), "CG I" (Valério 2016, 648) |
+| Script | Cypro-Greek; Valério 2016, 500; Valério 2016, 235 |
+| Subcorpus | none: not a Cypro-Minoan text (Valério 2016, 500); Appendix A sets it under the CM 1 heading |
 | Status | rejected by valerio |
 | Edition of record | HoChyMin, transcribed in Valério 2016, Appendix A, 500; unverified |
 

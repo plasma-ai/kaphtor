@@ -36,14 +36,16 @@ Evidence: the commodity class holds (26 of 32); the onset witness, PA₃-\*188 (
 
 ### Note
 
-High frequency (29×). Compound forms: SU-PU₂-\*188 (bowl of terebinth), PA₃-\*188 (prefixed, PA₃ a phonetic complement or a transaction sign) and \*188-DU (phonetic complement), \*188-\*308 (terebinth oil), \*86+\*188 (a consignment by ship).
+High frequency (29×). Compound forms: SU-PU₂-\*188 (bowl of terebinth), PA₃-\*188 (prefixed, PA₃ a phonetic complement or a transaction sign) and \*188-DU (phonetic complement), \*188-\*308 (terebinth oil), \*86+\*188 (terebinth carried by ship) and its variant \*337+\*188.
 
 ## Lexicon words written with this sign
 
 | Word | Reading | Confidence |
 |---|---|---|
+| [[wiki/linear-a/words/star/star86_plus_star188\|\*86+\*188]] | buṭnu | CANDIDATE |
 | [[wiki/linear-a/words/star/star188\|\*188]] | buṭnu | PROBABLE |
 | [[wiki/linear-a/words/star/star188_star308\|\*188-\*308]] | buṭnu šamni | CANDIDATE |
+| [[wiki/linear-a/words/star/star337_plus_star188\|\*337+\*188]] | buṭnu | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA3_star188\|PA₃-\*188]] | bu-buṭnu | CANDIDATE |
 | [[wiki/linear-a/words/S/SU_PU2_star188\|SU-PU₂-\*188]] | suppu buṭni | CANDIDATE |
 

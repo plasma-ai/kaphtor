@@ -24,6 +24,9 @@ updated: 2026-11-18T19:49:10Z
 | Field | Value |
 |---|---|
 | ## number | none, outside Valério 2016, Appendix A |
+| Date | LC IIIB–CG I (Late Cypriot IIIB–Cypro-Geometric I), 1100–950 BCE (Valério 2016, 39); AGREE, certainty MEDIUM; lead statement: Egetmeyer 2024, *the source's own words, not reproduced* (Egetmeyer 2024, 126) |
+| Script | none: Egetmeyer (2024, 126) leaves the script open: non liquet |
+| Subcorpus | none: no held source assigns it |
 | Status | outside Appendix A |
 
 No siglum: an Ashkelon inscription whose script is left open. (Egetmeyer 2024, 126)

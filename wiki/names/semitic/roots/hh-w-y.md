@@ -27,6 +27,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/JA_WI\|JA-WI]] | Yawī | personal name, '(he) lives', the bare form of the Amorite Yawi-DN names | 1 |
+| [[wiki/names/semitic/names/JA_WI\|JA-WI]] | Yawī | personal name, '(he) gives life', the bare form of the Amorite Yawi-DN names | 1 |
 
 <!-- END kaphtor:record -->

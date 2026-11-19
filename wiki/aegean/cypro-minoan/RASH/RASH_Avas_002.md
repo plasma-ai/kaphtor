@@ -27,6 +27,9 @@ updated: 2026-11-18T19:49:10Z
 | Site | Ras Shamra / Ugarit (Syria) (RASH); Valério 2016, 36 |
 | Identity controls | Trismegistos 50359 (match: exact); Pleiades 668295 "Leukos Limen" (BAtlas 68 A2) is not Ras Shamra or Ugarit; excluded |
 | Object type | Avas, Pottery (complete or fragmentary); Valério 2016, 37 |
+| Date | LBA (Late Bronze Age), 1600–1050 BCE (Valério 2016, 39); AGREE, certainty LOW; lead statement: Donnelly 2021, "Chronology: LBA (unspecified)" (Donnelly 2021, 296) |
+| Script | Cypro-Minoan; Valério 2016, 562 |
+| Subcorpus | none: no held source assigns it |
 | Status | inscription |
 | Edition of record | Valério 2014b, transcribed in Valério 2016, Appendix A, 562; unverified |
 

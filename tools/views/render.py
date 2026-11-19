@@ -386,6 +386,10 @@ def sign_page(model: Model, kind: str, key: str) -> tuple[str, str]:
                 if record.get(f)]
         if rows:
             body += ["## Logogram", ""] + table(["Field", "Value"], rows) + [""]
+        cognates = record.get("cognates")
+        if isinstance(cognates, dict) and cognates:
+            body += ["### Cognates", ""] + table(["Language", "Comparison"],
+                                                 [[esc(k), esc(v)] for k, v in cognates.items()]) + [""]
     else:
         body += ["## Fraction", ""] + table(["Field", "Value"], [["Value", esc(value)]]) + [""]
     if record.get("note"):

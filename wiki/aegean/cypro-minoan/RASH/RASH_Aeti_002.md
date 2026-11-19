@@ -27,9 +27,17 @@ updated: 2026-11-18T19:49:10Z
 | Site | Ras Shamra / Ugarit (Syria) (RASH); Valério 2016, 36 |
 | Identity controls | Trismegistos 50359 (match: exact); Pleiades 668295 "Leukos Limen" (BAtlas 68 A2) is not Ras Shamra or Ugarit; excluded |
 | Object type | Aéti, Clay label; Valério 2016, 37 |
-| Subcorpus | CM 3 |
+| Date | LC IIC (Late Cypriot IIC), 1320–1190 BCE (Valério 2016, 39); OVERLAP, certainty MEDIUM; lead statement: CMI II (Ferrara), "LC IIC" (Valério 2016, 649) |
+| Script | Cypro-Minoan; Valério 2016, 539 |
+| Subcorpus | CM 3; Valério 2016, 539; Valério 2016, 451 |
 | Status | inscription |
 | Edition of record | CMI II, transcribed in Valério 2016, Appendix A, 539; unverified |
+
+Set against the lead statement:
+
+| Statement | Period | Relation | Source |
+|---|---|---|---|
+| "LC IIIA (1225-1190)" | LC IIIA, 1190–1100 BCE | chronology | HoChyMin (Vandenabeele); Valério 2016, 649 |
 
 Not checked against CMI II, which is not held.
 

@@ -1,0 +1,1553 @@
+{
+ "sign_values": {
+  "001": {
+   "evidence": "we with Saporetti, Faucounau, Nahm, Duhoux, Olivier and Valério (Valério 2016, 652). On RASH Atab 004 it writes the Hurrian ew- of e-we-ta-sa-li, the name Nahm compares with ỉwrtḏl (Valério 2016, 372; DULAT 129).",
+   "tier": "CANDIDATE",
+   "value": "we"
+  },
+  "002": {
+   "evidence": "ne with Nahm, Facchetti et al. and Valério (Valério 2016, 652); É. Masson's readings imply b/p (1974, 42). It gives a-ne-ni and a-ne-ja-ni, the second the ảnnyn spelled a-na-an-ia-nu and a-na-ni-ya-nu at Ugarit (DULAT 79).",
+   "tier": "CANDIDATE",
+   "value": "ne"
+  },
+  "004": {
+   "evidence": "ta/da with every proposer (Valério 2016, 652) and the homomorph with Linear A *01 da (Davis 2026b, 398). On RASH Atab 004 it writes the d of Danāni, da-na-nu at Ugarit, and the t of ʾIlī-ṯtamri (DULAT 274, 65).",
+   "tier": "PROBABLE",
+   "value": "ta"
+  },
+  "006": {
+   "evidence": "pa with every proposer and the homomorph with Linear A *03 pa (Valério 2016, 652; Davis 2026b, 398). On RASH Atab 004 it writes the b of ʾIšbaʿli, i-ši-pa-li, i-ši-ᵈU at Ugarit (DULAT 112).",
+   "tier": "PROBABLE",
+   "value": "pa"
+  },
+  "008": {
+   "evidence": "na with Sittig, Saporetti, Faucounau, Nahm, Olivier, Steele and Valério (Valério 2016, 652); Davis's homomorph is Linear A *05 to (Davis 2026b, 398), and É. Masson read tˣ. It gives Danāni, ta-na-ni, the dnn spelled da-na-nu at Ugarit (DULAT 274).",
+   "tier": "CANDIDATE",
+   "value": "na"
+  },
+  "009": {
+   "evidence": "li with É. Masson, Saporetti, Faucounau, Nahm and Valério, against Sittig's so (Valério 2016, 652). On RASH Atab 004 it writes the l of ʾIlī- in ʾIlī-maliki, ʾIlyāni and ʾIlī-ṯtamri (DULAT 55, 66, 65).",
+   "tier": "PROBABLE",
+   "value": "li"
+  },
+  "011": {
+   "evidence": "pe with Faucounau, Nahm, Duhoux and Valério (Valério 2016, 652). On RASH Atab 004 it stands in B.19 as a sign, not a divider (Egetmeyer, in Steele (ed.) 2013, 111), in sa-pe-ri, Nahm's spr 'scribe' (Valério 2016, 389).",
+   "tier": "CANDIDATE",
+   "value": "pe"
+  },
+  "019": {
+   "evidence": "u with Faucounau, Nahm and Valério (Valério 2016, 653). On RASH Atab 004 it opens u-mi-mo-ti, the ủmmt of 'bn ủmmt' (DULAT 68), and u-la-mo-ri.",
+   "tier": "CANDIDATE",
+   "value": "u"
+  },
+  "021": {
+   "evidence": "ko with Sittig, Saporetti, Faucounau, Nahm and Valério (Valério 2016, 653); Duhoux corrects HoChyMin's 022 to 021 in B.13 and B.16 (Steele (ed.) 2013, 39 n. 54). It writes the first syllable of Kôṯar in ko-sa-ra-pi, ku-šar-a-bi in the Akkadian texts of Ugarit (Kinlaw 1967, 75).",
+   "tier": "PROBABLE",
+   "value": "ko"
+  },
+  "023": {
+   "evidence": "ti with every proposer but Sittig and the homomorph with Linear A *37 ti (Valério 2016, 653; Davis 2026b, 398). On RASH Atab 004 it closes a-ti, ʾAdī, a-du-ú and ad-di-ya at Ugarit (DULAT 23), and u-mi-mo-ti (DULAT 68).",
+   "tier": "PROBABLE",
+   "value": "ti"
+  },
+  "025": {
+   "evidence": "ka with every proposer, É. Masson's ḫ/ġa among them (Valério 2016, 653). On RASH Atab 004 it writes q, g, ġ and k: Maʿqabiyi (DULAT 516: mʿqby), ʾAġlā and ʾAġalʾabī, on the aġl- of ảġli, a-ḫa-la-e, and ảglby, a-ga-li-bi (DULAT 29, 25), which Valério sets aside as matches for their ending and their vowels (2016, 363, 371), and Kabili (DULAT 423: ka-bu-li).",
+   "tier": "CANDIDATE",
+   "value": "ka"
+  },
+  "027": {
+   "evidence": "si with É. Masson, Saporetti, Faucounau, Nahm and Valério (Valério 2016, 653). On RASH Atab 004 it opens si-ja in B.17, where Valério reads si?-ja? (2016, 388).",
+   "tier": "CANDIDATE",
+   "value": "si"
+  },
+  "028": {
+   "evidence": "nu with É. Masson (1974, 39) and Faucounau's n∂ (1977, 227); Saporetti and Woudhuizen read ni (Valério 2016, 364; Woudhuizen 2016, 30), Valério lu, Nahm ru. It closes bi-nu, Semitic bin- 'son', which stands eleven times on RASH Atab 004, seven of them between two names, as Ugaritic lists set 'PN bn PN' (DULAT 65). With 100 read ni, nu keeps the two signs apart. Valério holds that ni and nu were forced on the sign to explain the word (2016, 364).",
+   "tier": "CANDIDATE",
+   "value": "nu"
+  },
+  "035": {
+   "evidence": "we, the value Valério prefers to wi₂ for the Hurrian Ewen(n)i, as a strictly experimental one (2016, 385–386), and the cell of Table 5.27 that sets 35 under we beside wi₂ (442). Faucounau read wi and Valério's grids give wi₂ (Valério 2016, 653, 390); Nahm read me, É. Masson la. On RASH Atab 004 it gives e-we₂-ni, the name whose ewen- the Akkadian texts of Ugarit spell e-we-en- (Kinlaw 1967, 51). The subscript keeps it apart from 001.",
+   "tier": "SPECULATIVE",
+   "value": "we₂"
+  },
+  "037b": {
+   "evidence": "zi with Valério, who reads 37b, grapheme 41/37b, where HoChyMin prints 37 in A.09 (2016, 442, 548–549). On RASH Atab 004 it gives zi-ja-ni-ji, Siyanniyi, the gentilic syny that follows a name in 'PN syny' (DULAT 763), as Nahm also came to read it (Valério 2016, 380 n. 1011). Valério marks the value experimental (2016, 380).",
+   "tier": "SPECULATIVE",
+   "value": "zi"
+  },
+  "038": {
+   "evidence": "e with Faucounau, Nahm and Valério (Valério 2016, 654); É. Masson read u. On RASH Atab 004 it opens the Hurrian names in ew-, e-we-ta-sa-li and e-wi-ni.",
+   "tier": "CANDIDATE",
+   "value": "e"
+  },
+  "040": {
+   "evidence": "yi/ji with É. Masson, Nahm and Valério (Valério 2016, 654). On RASH Atab 004 it closes the gentilics that follow a name in A.04, A.09 and B.12, as É. Masson saw (1974, 38): Maʿqabiyi, of Maʿqabu, a town of Ugarit's plain (DULAT 516; Astour 1995, 65), and Siyanniyi, of Siyannu (DULAT 763).",
+   "tier": "CANDIDATE",
+   "value": "ji"
+  },
+  "051": {
+   "evidence": "pi/bi with É. Masson, Faucounau, Nahm and Valério (Valério 2016, 654); Saporetti's tabulated sa stands against. On RASH Atab 004 it writes /b/ in bi-nu 'son', in the final ʾabī of Kôṯar-ʾabī, ku-šar-a-bi in the Akkadian texts of Ugarit (Kinlaw 1967, 75), and in ʾAġalʾabī (DULAT 25: a-ga-li-bi), and /p/ in ʿAmmurapi, a-mu-ra-pí (DULAT 162).",
+   "tier": "PROBABLE",
+   "value": "pi"
+  },
+  "055": {
+   "evidence": "ma with Nahm, Facchetti et al. and Valério (Valério 2016, 654); É. Masson read ša. On RASH Atab 004 it gives ʾIlī-maliki, i-li-ma-li-ki, the ỉlmlk of Ugarit (DULAT 55), and malki 'king', ma-ki, after bi-nu in B.15 and B.18.",
+   "tier": "PROBABLE",
+   "value": "ma"
+  },
+  "058": {
+   "evidence": "ši with Nahm and Faucounau's š∂ (Valério 2016, 386, 389; Faucounau 1977, 233); É. Masson read ya, and Valério emends the sign to 25 in A.03, allowing 102 there too (2016, 547–548), and keeps it as lu??/58 in B.19 (2016, 388). Read ši, the corpus text gives two names of Ugarit: ʾIšbaʿli, i-ši-pa-li, the ỉšbʿl spelled i-ši-ᵈU (DULAT 112), and Šapši-maliki, sa-ši-ma-li-ki with the p in coda unwritten, the špšmlk spelled ᵈUTU-LUGAL, among others in the colophon of RS 20.32 (DULAT 825). Valério objects that the sign cannot share the value of 027 si (2016, 389).",
+   "tier": "CANDIDATE",
+   "value": "ši"
+  },
+  "069": {
+   "evidence": "ja with Nahm, Facchetti et al. and Valério (Valério 2016, 655). On RASH Atab 004 it closes si-ja in B.17.",
+   "tier": "CANDIDATE",
+   "value": "ja"
+  },
+  "070": {
+   "evidence": "ki with Saporetti, Faucounau, Nahm, Olivier and Valério (Valério 2016, 655); É. Masson read mi. On RASH Atab 004 it closes ʾIlī-maliki (DULAT 55: ỉlmlk) and malki 'king'.",
+   "tier": "PROBABLE",
+   "value": "ki"
+  },
+  "071": {
+   "evidence": "ja with Nahm and Valério (Valério 2016, 655, 376); É. Masson read ṯ. On RASH Atab 004 it gives ʾIlyāni, i-li-ja-ni, the ỉlyn spelled DINGIR-ia-nu (DULAT 66), and ta-ja-ni, tyn (DULAT 871).",
+   "tier": "CANDIDATE",
+   "value": "ja"
+  },
+  "073": {
+   "evidence": "mo with Nahm and Valério (Valério 2016, 655), read 73 in B.12 for HoChyMin's 72 with Duhoux and Valério (Steele (ed.) 2013, 39 n. 54; Valério 2016, 547 n. 1242). On RASH Atab 004 it writes the m of Môtu in u-mi-mo-ti (DULAT 68: ủmmt) and of Amurru in u-la-mo-ri.",
+   "tier": "CANDIDATE",
+   "value": "mo"
+  },
+  "074": {
+   "evidence": "mu with Faucounau, who read 102-074-082-051 a-mu-sa-pi and 102-074-075-051 a-mu-ra-bi (1980, 382), and mV with É. Masson (Valério 2016, 655); Valério reads wi and takes it for /b/ (2016, 382–385). Read mu, the B.17 group is ʿAmmurapi, spelled a-mu-ra-pí and am-mu-ra-pí at Ugarit, the name of its king (DULAT 162; Kinlaw 1967, 22). The value was chosen on this name, which therefore does not test it.",
+   "tier": "CANDIDATE",
+   "value": "mu"
+  },
+  "075": {
+   "evidence": "ra with É. Masson, Saporetti, Faucounau, Nahm and Valério (Valério 2016, 655). On RASH Atab 004 it writes the r of Kôṯar-ʾabī, ku-šar-a-bi (Kinlaw 1967, 75), and of ʿAmmurapi, a-mu-ra-pí (DULAT 162).",
+   "tier": "PROBABLE",
+   "value": "ra"
+  },
+  "082": {
+   "evidence": "sa with Saporetti, Faucounau, Nahm, Olivier and Valério and the homomorph with Linear A *31 sa (Valério 2016, 655; Davis 2026b, 398); É. Masson read ḫe/ḫi. On RASH Atab 004 it writes the ṯ of Kôṯar in ko-sa-ra-pi, as the Akkadian texts of Ugarit write it with š, ku-šar-a-bi (Kinlaw 1967, 75).",
+   "tier": "PROBABLE",
+   "value": "sa"
+  },
+  "087": {
+   "evidence": "la with Saporetti, Faucounau, Nahm and Valério and the homomorph with Linear A *60 (Valério 2016, 655; Davis 2026b, 398); É. Masson read tˣ. On RASH Atab 004 it writes the l of a-ka-la and a-ka-la-pi, on the Hurrian aġl- of a-ḫa-la-e and a-ga-li-bi (DULAT 29, 25), which Valério sets aside as matches (2016, 363, 371).",
+   "tier": "CANDIDATE",
+   "value": "la"
+  },
+  "091": {
+   "evidence": "mi with Saporetti, Nahm and Valério (Valério 2016, 655). On RASH Atab 004 it writes the m of ʾUmmī- in u-mi-mo-ti (DULAT 68: ủmmt).",
+   "tier": "CANDIDATE",
+   "value": "mi"
+  },
+  "092": {
+   "evidence": "sa with Nahm, as Valério reports Nahm's readings of A.11, B.18 and B.19 (2016, 377–378, 389); Faucounau read zi (1977, 235), and Valério weighs zi and leaves the sign without a value (2016, 378–379). Read sa, B.19's 092-011-096 is sa-pe-ri, Ugaritic spr 'scribe', after the name Šapši-maliki; Valério discards the reading (2016, 389). The subscript keeps it apart from 082.",
+   "tier": "SPECULATIVE",
+   "value": "sa₂"
+  },
+  "095": {
+   "evidence": "wa with Saporetti, Faucounau, Nahm and Valério (Valério 2016, 655); É. Masson read wa in A.11 (1974, 46). On RASH Atab 004 it gives the -wa-ni of A.11, the ending É. Masson compares with the Luwian ethnic -wanni- (1974, 43).",
+   "tier": "CANDIDATE",
+   "value": "wa"
+  },
+  "096": {
+   "evidence": "ri with Nahm and Valério (Valério 2016, 656); É. Masson, Saporetti and Faucounau read ru. On RASH Atab 004 it closes ʾIlī-ṯtamri, i-li-ta-ma-ri (DULAT 65: ỉlṯtmr), as the Akkadian texts of Ugarit spell the second element in a-mis-tam-ri (Kinlaw 1967, 21).",
+   "tier": "CANDIDATE",
+   "value": "ri"
+  },
+  "100": {
+   "evidence": "ni with É. Masson, Nahm and Valério (Valério 2016, 654); Faucounau read nu. On RASH Atab 004 it closes ʾIlyāni and Danāni, DINGIR-ia-nu and da-na-nu at Ugarit (DULAT 66, 274), in the genitive Valério reads in every name of the tablet (2016, 395).",
+   "tier": "CANDIDATE",
+   "value": "ni"
+  },
+  "102": {
+   "evidence": "a with every proposer (Valério 2016, 656) and the homomorph with Linear A *08 a (Davis 2026b, 398). On RASH Atab 004 it opens ʿAmmurapi, a-mu-ra-pí at Ugarit (DULAT 162), and ʾAġalʾabī (DULAT 25: a-ga-li-bi).",
+   "tier": "PROBABLE",
+   "value": "a"
+  },
+  "104": {
+   "evidence": "i with every proposer but Sittig, who read e (Valério 2016, 656). On RASH Atab 004 it opens ʾIlī-maliki, ʾIlyāni and ʾIlī-ṯtamri (DULAT 55, 66, 65) and ʾIšbaʿli (DULAT 112).",
+   "tier": "PROBABLE",
+   "value": "i"
+  }
+ },
+ "translations": {
+  "RASH Atab 004": {
+   "confidence": "CANDIDATE",
+   "notes": "A list of men, each named alone, with his father ('PN son of PN') or with his town ('PN, of GN'), as É. Masson read it (1974, 38) after Schaeffer's suggestion of a list of names (O. Masson 1969, 392 n. 22), closing with lines that name a minister and a scribe (B.17–19; É. Masson 1974, 34–35; Valério 2016, 356). Its names are those of Ugarit, Semitic with a Hurrian share, and its bn 'son' and its names in the genitive, ʾIlyāni of Siyannu among them, point to a Semitic language, as Valério concludes (2016, 395). Most identifications are those of Saporetti, Nahm, Faucounau and Valério, credited word by word, read here on one value for each sign.\n\nOf 300 random groups of the same length drawn from the tablet's own signs and set against the syllabic names of the Akkadian texts of Ugarit (Kinlaw 1967), none fits as closely as Kôṯar-ʾabī or ʿAmmurapi, two as closely as ʾIlī-malik and six as ʾIlyānu; the value of 074 was chosen on ʿAmmurapi. Two Enkomi tablets, ENKO Atab 003 and 004, read on the same values, fit the same names in 10% and 3% of their legible groups of three signs or more, against 26% here. One legible group, in A.06, stays unread.\n\nThe tablet tells nothing of the languages Cypro-Minoan wrote on Cyprus (É. Masson 1974, 47).",
+   "record_id": "cm:##215",
+   "source": "di Mino",
+   "status": "incomplete",
+   "translation": "ʾAġlā, son of Mali. ʾAdī, son of ʿAmmusapi. ʾIšbaʿl. ʾAneni, the Maʿqabian. ʾAdattari, son of Tayyānu. ʾIyapati, son of […]. Son of ʾEwenni. ʾAwesapi, son of Kabili. Zidanni. ʾIlyānu, the Siyannian. Danānu, son of ʾIlī-ṯtamar. ʾAnniyānu, son of Sanuwani. ʾUl-ʾAmurru, the Gapanian. Kôṯar-ʾabī. ʾIlī-malik, son of ʾUmmī-môtu. ʾAġalʾabī, son of the king. ʾEwri-tašal, ʾarabimasakuli. ʿAmmurapi; minister of the king […]. Mosani, son of the king. Šapši-malik, scribe; pa.",
+   "words": [
+    {
+     "confidence": "CANDIDATE",
+     "cypro_minoan": "102-025-087",
+     "gloss": "personal name, a short form of the Hurrian names in aġl-",
+     "line": "A.01",
+     "note": "Valério's /Aɣalā/, a short form of the Hurrian names in aġl- (2016, 362–363), such as ảġli, spelled a-ḫa-la-e at Ugarit (DULAT 29); Valério rates its weight as evidence low (2016, 363).",
+     "page": 547,
+     "reading": "ʾAġlā",
+     "reading_type": null,
+     "rivals": [
+      {
+       "gloss": "a name on aḫt, 'brother, sister'",
+       "page": "42, 46",
+       "proposer": "É. Masson",
+       "reading": "A-ḫˣ-tˣ",
+       "work": "É. Masson 1974"
+      }
+     ],
+     "text": "corpus",
+     "values": [
+      "a",
+      "ka",
+      "la"
+     ]
+    },
+    {
+     "confidence": "PROBABLE",
+     "cypro_minoan": "051-028",
+     "gloss": "son",
+     "line": "A.01",
+     "note": "É. Masson's bi-nu, Semitic bn 'son' (1974, 39), which stands eleven times on the tablet, seven of them between two names, as Ugaritic lists set 'PN bn PN' (DULAT 65: ỉlṯtmr, 'bn PN'), and twice before malki 'of the king' (B.15, B.18). Saporetti and Woudhuizen read pi-ni (Valério 2016, 364; Woudhuizen 2016, 30).",
+     "page": 547,
+     "reading": "binu",
+     "reading_type": null,
+     "rivals": [
+      {
+       "gloss": "Aramaic br 'son'",
+       "note": "reported by Valério and by Donnelly 2024, 27",
+       "page": 364,
+       "proposer": "Nahm",
+       "reading": "pi-ru",
+       "work": "Valério 2016"
+      },
+      {
+       "gloss": "/binu/ 'son', with l for /n/",
+       "page": "364–367",
+       "proposer": "Valério",
+       "reading": "pi??-lu?",
+       "work": "Valério 2016"
+      },
+      {
+       "gloss": "a function word, perhaps a conjunction, as Chadwick suggested",
+       "page": 392,
+       "proposer": "O. Masson",
+       "reading": "signs 38 and 14",
+       "work": "O. Masson 1969"
+      }
+     ],
+     "text": "corpus",
+     "values": [
+      "pi",
+      "nu"
+     ]
+    },
+    {
+     "confidence": "SPECULATIVE",
+     "cypro_minoan": "055-009",
+     "gloss": "personal name, a short form",
+     "line": "A.01",
+     "note": "Valério's ma??-li?, a short form, with Ugarit mlʕn and Emar Mali (2016, 367).",
+     "page": 547,
+     "reading": "Mali",
+     "reading_type": null,
+     "rivals": [
+      {
+       "gloss": "šal, on š'l 'ask'",
+       "page": 43,
+       "proposer": "É. Masson",
+       "reading": "Ša-li",
+       "work": "É. Masson 1974"
+      },
+      {
+       "gloss": "the Nuzi Hurrian name Maliya",
+       "page": 367,
+       "proposer": "Saporetti and Nahm",
+       "reading": "mi/ma-li, ma-li",
+       "work": "Valério 2016"
+      }
+     ],
+     "text": "corpus",
+     "values": [
+      "ma",
+      "li"
+     ]
+    },
+    {
+     "confidence": "SPECULATIVE",
+     "cypro_minoan": "102-023",
+     "gloss": "personal name",
+     "line": "A.02",
+     "note": "The line writes no divider before bi-nu; read, as É. Masson and Valério read it, a-ti, son of … (É. Masson 1974, 43; Valério 2016, 367). ʾAdī is ảdy, spelled a-du-ú, a-da-a-a and ad-di-ya at Ugarit (DULAT 23).",
+     "page": 547,
+     "reading": "ʾAdī",
+     "reading_type": null,
+     "rivals": [
+      {
+       "gloss": "one name, of the form of ya-qu-bi-nu",
+       "page": 227,
+       "proposer": "Faucounau",
+       "reading": "a-ti-bi-n∂",
+       "work": "Faucounau 1977"
+      },
+      {
+       "gloss": "the Hurrian name ati of Nuzi",
+       "page": 43,
+       "proposer": "É. Masson",
+       "reading": "a-ti",
+       "work": "É. Masson 1974"
+      }
+     ],
+     "text": "corpus",
+     "values": [
+      "a",
+      "ti"
+     ]
+    },
+    {
+     "confidence": "PROBABLE",
+     "cypro_minoan": "051-028",
+     "gloss": "son",
+     "line": "A.02",
+     "note": "As at A.01, written without a divider after a-ti.",
+     "page": 547,
+     "reading": "binu",
+     "reading_type": null,
+     "rivals": [],
+     "text": "corpus",
+     "values": [
+      "pi",
+      "nu"
+     ]
+    },
+    {
+     "confidence": "SPECULATIVE",
+     "cypro_minoan": "102-074-082-051",
+     "gloss": "personal name",
+     "line": "A.02",
+     "note": "Faucounau's a-mu-sa-pi (1980, 382). No name of Ugarit matches it whole; its 102-074- opens ʿAmmurapi in B.17.",
+     "page": 547,
+     "reading": "ʿAmmusapi",
+     "reading_type": null,
+     "rivals": [
+      {
+       "gloss": "/ʾAbīršap/, abršp (DULAT 14), with 074 for /b/ and the r unwritten",
+       "page": "382–385",
+       "proposer": "Valério",
+       "reading": "a?-wi??-sa??-pi??",
+       "work": "Valério 2016"
+      },
+      {
+       "gloss": "a name in the Hurrian theophoric ḫebi",
+       "page": 43,
+       "proposer": "É. Masson",
+       "reading": "A-?-ḫe-bi",
+       "work": "É. Masson 1974"
+      }
+     ],
+     "text": "corpus",
+     "values": [
+      "a",
+      "mu",
+      "sa",
+      "pi"
+     ]
+    },
+    {
+     "confidence": "CANDIDATE",
+     "cypro_minoan": "104-058-006-009",
+     "gloss": "personal name ʾIšbaʿl",
+     "line": "A.03",
+     "note": "Saporetti's i-si-ba-li (Valério 2016, 386) and Faucounau's I-š∂-ba-li, Iši-baʿal (1977, 233): ỉšbʿl, spelled i-ši-ᵈU at Ugarit (DULAT 112), with the ʿ of -ba-li unwritten as É. Masson argues (1974, 40–41). DULAT records Woudhuizen's isi₁pali for this group (112).",
+     "page": 547,
+     "reading": "ʾIšbaʿli",
+     "reading_type": null,
+     "rivals": [
+      {
+       "gloss": "iybʿl 'Where is Baʿal?'",
+       "page": "42, 62 n. 131",
+       "proposer": "É. Masson",
+       "reading": "I-ya-ba-li",
+       "work": "É. Masson 1974"
+      },
+      {
+       "gloss": "a name in Baʿl, left unidentified; the second sign emended to 25",
+       "page": "386–387",
+       "proposer": "Valério",
+       "reading": "i?-ka??-pa??-li?",
+       "work": "Valério 2016"
+      }
+     ],
+     "text": "corpus",
+     "values": [
+      "i",
+      "ši",
+      "pa",
+      "li"
+     ]
+    },
+    {
+     "confidence": "CANDIDATE",
+     "cypro_minoan": "102-002-100",
+     "gloss": "personal name",
+     "line": "A.04",
+     "note": "Valério's /Aneni/, with Emar a-ni-ni (2016, 375); at Ugarit the name ảnn (DULAT 78).",
+     "page": 547,
+     "reading": "ʾAneni",
+     "reading_type": null,
+     "rivals": [
+      {
+       "gloss": "abn or apn",
+       "page": 42,
+       "proposer": "É. Masson",
+       "reading": "A-?-ni",
+       "work": "É. Masson 1974"
+      },
+      {
+       "gloss": "the Hurrian name ann, /Ananu/",
+       "page": 375,
+       "proposer": "Nahm",
+       "reading": "a-ne-ni",
+       "work": "Valério 2016"
+      }
+     ],
+     "text": "corpus",
+     "values": [
+      "a",
+      "ne",
+      "ni"
+     ]
+    },
+    {
+     "confidence": "PROBABLE",
+     "cypro_minoan": "055-025-051-040",
+     "gloss": "of Maʿqabu, the Maʿqabian",
+     "line": "A.04",
+     "note": "Nahm's ma-ka-pi-yi, the gentilic mʿqby of the village mʿqb (Valério 2016, 380), which Valério calls ingenious and unambiguous (2016, 380): mʿqby (DULAT 516); Maʿqabu, a town of Ugarit's plain, modern el-ʿAqabé (Astour 1995, 56, 65; Watson 2001, 117). É. Masson read a name and an ethnic in this line (1974, 38).",
+     "page": 547,
+     "reading": "Maʿqabiyi",
+     "reading_type": null,
+     "rivals": [
+      {
+       "gloss": "an ethnic opening in šḫ-",
+       "page": 43,
+       "proposer": "É. Masson",
+       "reading": "Ša-ḫˣ-bi-yi",
+       "work": "É. Masson 1974"
+      }
+     ],
+     "text": "corpus",
+     "values": [
+      "ma",
+      "ka",
+      "pi",
+      "ji"
+     ]
+    },
+    {
+     "confidence": "SPECULATIVE",
+     "cypro_minoan": "102-004-004-096",
+     "gloss": "personal name",
+     "line": "A.05",
+     "note": "Valério finds no parallel and sets Addaru aside, since it would make the scribe write one 004 too many (2016, 368). The doubled 004 is the one pair of reduplicated signs in CM 3 (Duhoux, in Steele (ed.) 2013, 40 n. 56).",
+     "page": 547,
+     "reading": "ʾAdattari",
+     "reading_type": null,
+     "rivals": [
+      {
+       "gloss": "Addaru, an Akkadian name passed into West Semitic",
+       "page": "42 and n. 128",
+       "proposer": "É. Masson",
+       "reading": "A-da-da-ru",
+       "work": "É. Masson 1974"
+      },
+      {
+       "gloss": "Addaru",
+       "page": 232,
+       "proposer": "Faucounau",
+       "reading": "a-da-da-ru",
+       "work": "Faucounau 1977"
+      }
+     ],
+     "text": "corpus",
+     "values": [
+      "a",
+      "ta",
+      "ta",
+      "ri"
+     ]
+    },
+    {
+     "confidence": "PROBABLE",
+     "cypro_minoan": "051-028",
+     "gloss": "son",
+     "line": "A.05",
+     "note": "As at A.01.",
+     "page": 547,
+     "reading": "binu",
+     "reading_type": null,
+     "rivals": [],
+     "text": "corpus",
+     "values": [
+      "pi",
+      "nu"
+     ]
+    },
+    {
+     "confidence": "CANDIDATE",
+     "cypro_minoan": "004-071-100",
+     "gloss": "personal name",
+     "line": "A.05",
+     "note": "Nahm's ta-ja-ni and Valério's /Tajāni/ (2016, 376–377): tyn, a name at Ugarit (DULAT 871), Tayanu at Nuzi.",
+     "page": 547,
+     "reading": "Tayyāni",
+     "reading_type": null,
+     "rivals": [
+      {
+       "gloss": "Dayyānu",
+       "page": 231,
+       "proposer": "Faucounau",
+       "reading": "da-ya-nu",
+       "work": "Faucounau 1977"
+      },
+      {
+       "gloss": "dṯn",
+       "page": 42,
+       "proposer": "É. Masson",
+       "reading": "Da-ṯe-ni",
+       "work": "É. Masson 1974"
+      }
+     ],
+     "text": "corpus",
+     "values": [
+      "ta",
+      "ja",
+      "ni"
+     ]
+    },
+    {
+     "confidence": "SPECULATIVE",
+     "cypro_minoan": "104-071-006-023",
+     "gloss": "personal name",
+     "line": "A.06",
+     "note": "Valério's i?-ja??-pa??-ti, compared very tentatively with a name of the Ugarit liver model RS 24.326 (2016, 379).",
+     "page": 547,
+     "reading": "ʾIyapati",
+     "reading_type": null,
+     "rivals": [
+      {
+       "gloss": "the name yṯpṭ",
+       "page": 42,
+       "proposer": "É. Masson",
+       "reading": "I-ṯi-pa-ṭi",
+       "work": "É. Masson 1974"
+      },
+      {
+       "gloss": "a name in iya-",
+       "page": 231,
+       "proposer": "Faucounau",
+       "reading": "i-ya-pa-ti",
+       "work": "Faucounau 1977"
+      }
+     ],
+     "text": "corpus",
+     "values": [
+      "i",
+      "ja",
+      "pa",
+      "ti"
+     ]
+    },
+    {
+     "confidence": "PROBABLE",
+     "cypro_minoan": "051-028",
+     "gloss": "son",
+     "line": "A.06",
+     "note": "As at A.01.",
+     "page": 547,
+     "reading": "binu",
+     "reading_type": null,
+     "rivals": [],
+     "text": "corpus",
+     "values": [
+      "pi",
+      "nu"
+     ]
+    },
+    {
+     "confidence": null,
+     "cypro_minoan": null,
+     "gloss": null,
+     "line": "A.06",
+     "note": "One of its signs has no value on record, and Valério's text and re-edition differ on two more (2016, 548, 551). No reading.",
+     "page": 547,
+     "reading": null,
+     "reading_type": "UNRESOLVED",
+     "rivals": [
+      {
+       "gloss": "a short form in -tiya",
+       "page": 43,
+       "proposer": "É. Masson",
+       "work": "É. Masson 1974"
+      },
+      {
+       "gloss": "unidentified",
+       "page": "362, 379",
+       "proposer": "Valério",
+       "work": "Valério 2016"
+      }
+     ],
+     "text": "corpus",
+     "values": []
+    },
+    {
+     "confidence": "PROBABLE",
+     "cypro_minoan": "051-028",
+     "gloss": "son",
+     "line": "A.07",
+     "note": "Here without a name before it, 'son of', as É. Masson read the line (1974, 38).",
+     "page": 547,
+     "reading": "binu",
+     "reading_type": null,
+     "rivals": [],
+     "text": "corpus",
+     "values": [
+      "pi",
+      "nu"
+     ]
+    },
+    {
+     "confidence": "SPECULATIVE",
+     "cypro_minoan": "038-035-100",
+     "gloss": "personal name, Hurrian",
+     "line": "A.07",
+     "note": "Valério's e?-wi2??-ni?, Hurrian Even(n)i, Ewen(n)i at Mari (2016, 385–386); the Akkadian texts of Ugarit spell ewen- e-we-en- (Kinlaw 1967, 51). Valério leaves the group unidentified (2016, 386).",
+     "page": 547,
+     "reading": "ʾEwenni",
+     "reading_type": null,
+     "rivals": [
+      {
+       "gloss": "uln 'strength, primacy'",
+       "page": "42 and n. 132",
+       "proposer": "É. Masson",
+       "reading": "U-la-ni",
+       "work": "É. Masson 1974"
+      },
+      {
+       "gloss": "no interpretation",
+       "page": 375,
+       "proposer": "Nahm",
+       "reading": "e-*35-ni",
+       "work": "Valério 2016"
+      }
+     ],
+     "text": "corpus",
+     "values": [
+      "e",
+      "we₂",
+      "ni"
+     ]
+    },
+    {
+     "confidence": "SPECULATIVE",
+     "cypro_minoan": "102-035-082-051",
+     "gloss": "personal name",
+     "line": "A.08",
+     "note": "Valério's text, 102 for HoChyMin's 103 (2016, 548); Valério finds no convincing identification (2016, 385).",
+     "page": 551,
+     "reading": "ʾAwesapi",
+     "reading_type": null,
+     "rivals": [
+      {
+       "gloss": "a name in the Hurrian theophoric ḫebi",
+       "page": 43,
+       "proposer": "É. Masson",
+       "reading": "?-la-ḫe-bi",
+       "work": "É. Masson 1974"
+      }
+     ],
+     "text": "emended",
+     "values": [
+      "a",
+      "we₂",
+      "sa",
+      "pi"
+     ]
+    },
+    {
+     "confidence": "PROBABLE",
+     "cypro_minoan": "051-028",
+     "gloss": "son",
+     "line": "A.08",
+     "note": "As at A.01.",
+     "page": 547,
+     "reading": "binu",
+     "reading_type": null,
+     "rivals": [],
+     "text": "corpus",
+     "values": [
+      "pi",
+      "nu"
+     ]
+    },
+    {
+     "confidence": "SPECULATIVE",
+     "cypro_minoan": "025-051-009",
+     "gloss": "personal name",
+     "line": "A.08",
+     "note": "Saporetti's comparison with kbl, DUMU ka-bu-li at Ugarit (Valério 2016, 368): kb/pl(n), Hurrian(?) (DULAT 423). Nahm objects to the vowel (Valério 2016, 368).",
+     "page": 547,
+     "reading": "Kabili",
+     "reading_type": null,
+     "rivals": [
+      {
+       "gloss": "Karbili, an Akkadian name at Emar",
+       "page": 368,
+       "proposer": "Valério",
+       "reading": "ka??-pi??-li?",
+       "work": "Valério 2016"
+      },
+      {
+       "gloss": "ǵbl, from a place name",
+       "page": 42,
+       "proposer": "É. Masson",
+       "reading": "Ǵˣ-bi-li",
+       "work": "É. Masson 1974"
+      }
+     ],
+     "text": "corpus",
+     "values": [
+      "ka",
+      "pi",
+      "li"
+     ]
+    },
+    {
+     "confidence": "SPECULATIVE",
+     "cypro_minoan": "037b-004-100",
+     "gloss": "personal name",
+     "line": "A.09",
+     "note": "Valério's /ʦidanni/, Luwian Zidanni, Ugarit śdn (2016, 380–381). štn, spelled ša-ta?-na at Ugarit, also fits (DULAT 839).",
+     "page": 551,
+     "reading": "Zidanni",
+     "reading_type": null,
+     "rivals": [
+      {
+       "gloss": "kdn, common at Ugarit",
+       "page": "42 and n. 124",
+       "proposer": "É. Masson",
+       "reading": "Ki-da-ni",
+       "work": "É. Masson 1974"
+      },
+      {
+       "gloss": "guddānu, with 37b = ku/gu",
+       "page": 235,
+       "proposer": "Faucounau",
+       "reading": "37b-da-nu",
+       "work": "Faucounau 1977"
+      }
+     ],
+     "text": "emended",
+     "values": [
+      "zi",
+      "ta",
+      "ni"
+     ]
+    },
+    {
+     "confidence": "PROBABLE",
+     "cypro_minoan": "104-009-071-100",
+     "gloss": "personal name ʾIlyānu",
+     "line": "A.09",
+     "note": "Faucounau's i-li-ya-nu (1977, 231) and the ilyn of Nahm and Valério (2016, 376): ỉlyn, DINGIR-ia-nu at Ugarit (DULAT 66; Kinlaw 1967, 64).",
+     "page": 547,
+     "reading": "ʾIlyāni",
+     "reading_type": null,
+     "rivals": [
+      {
+       "gloss": "ilṯn",
+       "page": "42 and n. 125",
+       "proposer": "É. Masson",
+       "reading": "I-li-ṯe-ni",
+       "work": "É. Masson 1974"
+      }
+     ],
+     "text": "corpus",
+     "values": [
+      "i",
+      "li",
+      "ja",
+      "ni"
+     ]
+    },
+    {
+     "confidence": "CANDIDATE",
+     "cypro_minoan": "037b-071-100-040",
+     "gloss": "of Siyannu, the Siyannian",
+     "line": "A.09",
+     "note": "Nahm's later si-ya-ni-yi and Valério's /ʦijānnīji/ 'from Siyannu' (2016, 380 and n. 1011): the gentilic syny, which follows a name in 'PN syny' (DULAT 763); Siyannu (Astour 1995, 56; Watson 2001, 119).",
+     "page": 551,
+     "reading": "Siyanniyi",
+     "reading_type": null,
+     "rivals": [
+      {
+       "gloss": "the ethnic kṯny",
+       "page": "42 and n. 123",
+       "proposer": "É. Masson",
+       "reading": "Ki-ṯe-ni-yi",
+       "work": "É. Masson 1974"
+      }
+     ],
+     "text": "emended",
+     "values": [
+      "zi",
+      "ja",
+      "ni",
+      "ji"
+     ]
+    },
+    {
+     "confidence": "CANDIDATE",
+     "cypro_minoan": "004-008-100",
+     "gloss": "personal name Danānu",
+     "line": "A.10",
+     "note": "Faucounau's da-na-nu (1977, 231) and the Danānu of Nahm and Valério (2016, 375): dnn, da-na-nu at Ugarit (DULAT 274; Kinlaw 1967, 47).",
+     "page": 547,
+     "reading": "Danāni",
+     "reading_type": null,
+     "rivals": [
+      {
+       "gloss": "dtn, Datan",
+       "page": 42,
+       "proposer": "É. Masson",
+       "reading": "Da-ta-ni",
+       "work": "É. Masson 1974"
+      }
+     ],
+     "text": "corpus",
+     "values": [
+      "ta",
+      "na",
+      "ni"
+     ]
+    },
+    {
+     "confidence": "PROBABLE",
+     "cypro_minoan": "051-028",
+     "gloss": "son",
+     "line": "A.10",
+     "note": "As at A.01.",
+     "page": 547,
+     "reading": "binu",
+     "reading_type": null,
+     "rivals": [],
+     "text": "corpus",
+     "values": [
+      "pi",
+      "nu"
+     ]
+    },
+    {
+     "confidence": "PROBABLE",
+     "cypro_minoan": "104-009-004-055-096",
+     "gloss": "personal name 'ʾIlu has protected'",
+     "line": "A.10",
+     "note": "Nahm's i-li-ta-ma-ri, bn ilṯtmr (Valério 2016, 368), and Valério's /ʾIlīθtamar/ 'ʾIlu has protected' (2016, 369): ỉlṯtmr, set as 'bn PN' in the lists of Ugarit (DULAT 65), with the ṯ of the cluster unwritten. The Akkadian texts of Ugarit spell the same element in a-mis-tam-ri (Kinlaw 1967, 21).",
+     "page": 547,
+     "reading": "ʾIlī-ṯtamri",
+     "reading_type": null,
+     "rivals": [
+      {
+       "gloss": "no identification",
+       "page": 46,
+       "proposer": "É. Masson",
+       "reading": "I-li-da-ša-ru",
+       "work": "É. Masson 1974"
+      },
+      {
+       "gloss": "no identification",
+       "page": 234,
+       "proposer": "Faucounau",
+       "reading": "i-li-da-m∂-ru",
+       "work": "Faucounau 1977"
+      }
+     ],
+     "text": "corpus",
+     "values": [
+      "i",
+      "li",
+      "ta",
+      "ma",
+      "ri"
+     ]
+    },
+    {
+     "confidence": "SPECULATIVE",
+     "cypro_minoan": "102-002-071-100",
+     "gloss": "personal name ʾAnniyānu",
+     "line": "A.11",
+     "note": "ảnnyn, spelled a-na-an-ia-nu and a-na-ni-ya(-a)-nu at Ugarit, perhaps Hurrian (DULAT 79). Both spellings write two syllables with n, a-na-n(i)-, where the group writes one, a-ne-; Valério sets these names under Hurrian anan- 'rejoice' (2016, 376).",
+     "page": 547,
+     "reading": "ʾAnniyāni",
+     "reading_type": null,
+     "rivals": [
+      {
+       "gloss": "Aneyānu, with no exact match",
+       "page": "376–377",
+       "proposer": "Valério",
+       "reading": "a?-ne??-ja??-ni??",
+       "work": "Valério 2016"
+      },
+      {
+       "gloss": "a-du-ya-nu, on Addu",
+       "page": 234,
+       "proposer": "Faucounau",
+       "reading": "a-2-ya-nu",
+       "work": "Faucounau 1977"
+      },
+      {
+       "gloss": "abṯn or apṯn",
+       "page": 42,
+       "proposer": "É. Masson",
+       "reading": "A-?-ṯe-ni",
+       "work": "É. Masson 1974"
+      }
+     ],
+     "text": "corpus",
+     "values": [
+      "a",
+      "ne",
+      "ja",
+      "ni"
+     ]
+    },
+    {
+     "confidence": "PROBABLE",
+     "cypro_minoan": "051-028",
+     "gloss": "son",
+     "line": "A.11",
+     "note": "As at A.01.",
+     "page": 547,
+     "reading": "binu",
+     "reading_type": null,
+     "rivals": [],
+     "text": "corpus",
+     "values": [
+      "pi",
+      "nu"
+     ]
+    },
+    {
+     "confidence": "SPECULATIVE",
+     "cypro_minoan": "092-028-095-100",
+     "gloss": "personal name",
+     "line": "A.11",
+     "note": "É. Masson's ?-nu-wa-ni, its -wa-ni the ending of Anatolian ethnics in -wanni- (1974, 43 and n. 143).",
+     "page": 547,
+     "reading": "Sanuwani",
+     "reading_type": null,
+     "rivals": [
+      {
+       "gloss": "the Hurrian name Ziluwan if 092 is zi",
+       "page": "377–379",
+       "proposer": "Valério",
+       "reading": "*92-lu?-wa?-ni?",
+       "work": "Valério 2016"
+      },
+      {
+       "gloss": "the Anatolian name Saruwani, with 092 as sa",
+       "page": 377,
+       "proposer": "Nahm",
+       "reading": "*92-ru-wa-ni",
+       "work": "Valério 2016"
+      }
+     ],
+     "text": "corpus",
+     "values": [
+      "sa₂",
+      "nu",
+      "wa",
+      "ni"
+     ]
+    },
+    {
+     "confidence": "SPECULATIVE",
+     "cypro_minoan": "019-087-073-096",
+     "gloss": "personal name 'Amurru is strength'",
+     "line": "B.12",
+     "note": "73 for HoChyMin's 72 with Duhoux and Valério (Steele (ed.) 2013, 39 n. 54; Valério 2016, 547 n. 1242). Nahm's ul-amurru, 'Amurru is strength', which Valério keeps as plausible (2016, 369–370).",
+     "page": 551,
+     "reading": "ʾUl-ʾAmurri",
+     "reading_type": null,
+     "rivals": [
+      {
+       "gloss": "no identification",
+       "page": 46,
+       "proposer": "É. Masson",
+       "reading": "?-tˣ-?-ru",
+       "work": "É. Masson 1974"
+      }
+     ],
+     "text": "emended",
+     "values": [
+      "u",
+      "la",
+      "mo",
+      "ri"
+     ]
+    },
+    {
+     "confidence": "SPECULATIVE",
+     "cypro_minoan": "025-006-100-040",
+     "gloss": "of Gapanu",
+     "line": "B.12",
+     "note": "Valério's text marks the first sign erased (2016, 549–550), which É. Masson also leaves out (1974, 32). Valério reads 'from Gap(a)nu(?)' and sets aside gpny (2016, 381, 391); gpn is a town of Ugarit, spelled gup-na (Watson 2001, 114).",
+     "page": 551,
+     "reading": "Gapaniyi",
+     "reading_type": null,
+     "rivals": [
+      {
+       "gloss": "ǵbny, known at Ugarit, not as a name or ethnic",
+       "page": 42,
+       "proposer": "É. Masson",
+       "reading": "Ǵˣ-ba-ni-yi",
+       "work": "É. Masson 1974"
+      },
+      {
+       "gloss": "the ethnic of the land Gábanu",
+       "page": 231,
+       "proposer": "Faucounau",
+       "reading": "ka-pa-nu-y∂",
+       "work": "Faucounau 1977"
+      }
+     ],
+     "text": "emended",
+     "values": [
+      "ka",
+      "pa",
+      "ni",
+      "ji"
+     ]
+    },
+    {
+     "confidence": "PROBABLE",
+     "cypro_minoan": "021-082-075-051",
+     "gloss": "personal name 'Kothar is my father'",
+     "line": "B.13",
+     "note": "Saporetti's Ko-sa-ra-bi, ku-šar-a-bu 'Kōṯaru is my father' (Valério 2016, 370), which Valério calls a clear-cut match (2016, 370): ku-šar-a-bi in the Akkadian texts of Ugarit, borne by a son of Šaiya at RS 16.242:5 (Kinlaw 1967, 75). Every sign takes the value most proposers give it, and of 300 random groups of four signs drawn from the tablet none fits a name of Ugarit as closely.",
+     "page": 547,
+     "reading": "Kôṯar-ʾabī",
+     "reading_type": null,
+     "rivals": [
+      {
+       "gloss": "a name ending in rb 'great'",
+       "page": 43,
+       "proposer": "É. Masson",
+       "reading": "?-ḫi-ra-bi",
+       "work": "É. Masson 1974"
+      }
+     ],
+     "text": "corpus",
+     "values": [
+      "ko",
+      "sa",
+      "ra",
+      "pi"
+     ]
+    },
+    {
+     "confidence": "PROBABLE",
+     "cypro_minoan": "104-009-055-009-070",
+     "gloss": "personal name 'My god is king'",
+     "line": "B.14",
+     "note": "Saporetti's i-li-mi-li-ki, ilmlk 'My god is king', Nahm's i-li-ma-li-ki and Valério's /ʾIlīmalik/ (2016, 370–371): ỉlmlk (DULAT 55–56), written ili-milku and ilim-mu-lik in the Akkadian texts of Ugarit (Kinlaw 1967, 62, 63). Its ma-li-ki is /malik/, the form of the divine name in ᵈma-lik beside /milku/, where the noun 'king' was /malku/ (McAffee 2019, 238 n. 217), whose genitive the tablet spells ma-ki with the l unwritten (B.15). Valério translates the name 'My god is king' and allows 'My god is Malik' (2016, 371 and n. 948).",
+     "page": 547,
+     "reading": "ʾIlī-maliki",
+     "reading_type": null,
+     "rivals": [
+      {
+       "gloss": "ilšlm",
+       "page": 43,
+       "proposer": "É. Masson",
+       "reading": "I-li-ša-li-mi",
+       "work": "É. Masson 1974"
+      }
+     ],
+     "text": "corpus",
+     "values": [
+      "i",
+      "li",
+      "ma",
+      "li",
+      "ki"
+     ]
+    },
+    {
+     "confidence": "PROBABLE",
+     "cypro_minoan": "051-028",
+     "gloss": "son",
+     "line": "B.14",
+     "note": "As at A.01.",
+     "page": 547,
+     "reading": "binu",
+     "reading_type": null,
+     "rivals": [],
+     "text": "corpus",
+     "values": [
+      "pi",
+      "nu"
+     ]
+    },
+    {
+     "confidence": "CANDIDATE",
+     "cypro_minoan": "019-091-073-023",
+     "gloss": "personal name 'My mother is Môtu'",
+     "line": "B.14",
+     "note": "Nahm's ummt and Valério's /ʾUmmīmōtu/, 'My mother is Mōtu' (2016, 371): ủmmt, set as 'bn ủmmt' in the lists of Ugarit (DULAT 68). The mo of 073 writes the ō of Ugaritic /mōtu/ < *mawtu, as Valério argues (2016, 371), McAffee's /môtu/ < /*mawtu/ 'death' (2019, 13), which the alphabet's mt leaves open to confusion with /mutu/ 'man' (McAffee 2019, 14).",
+     "page": 547,
+     "reading": "ʾUmmī-môti",
+     "reading_type": null,
+     "rivals": [
+      {
+       "gloss": "no identification",
+       "page": 46,
+       "proposer": "É. Masson",
+       "reading": "?-?-?-ti",
+       "work": "É. Masson 1974"
+      }
+     ],
+     "text": "corpus",
+     "values": [
+      "u",
+      "mi",
+      "mo",
+      "ti"
+     ]
+    },
+    {
+     "confidence": "CANDIDATE",
+     "cypro_minoan": "102-025-087-051",
+     "gloss": "personal name",
+     "line": "B.15",
+     "note": "Valério's /Aɣalˀabī/ (2016, 372). Saporetti and Nahm compared ảglby, a-ga-li-bi at Ugarit, Hurrian (DULAT 25), which Valério sets aside for its vowels (2016, 371).",
+     "page": 547,
+     "reading": "ʾAġalʾabī",
+     "reading_type": null,
+     "rivals": [
+      {
+       "gloss": "aḫtb",
+       "page": 42,
+       "proposer": "É. Masson",
+       "reading": "A-ḫˣ-tˣ-bi",
+       "work": "É. Masson 1974"
+      },
+      {
+       "gloss": "one of the names of line 15, which may not be Semitic",
+       "page": "233–234",
+       "proposer": "Faucounau",
+       "reading": "a-ka-87-pi",
+       "work": "Faucounau 1977"
+      }
+     ],
+     "text": "corpus",
+     "values": [
+      "a",
+      "ka",
+      "la",
+      "pi"
+     ]
+    },
+    {
+     "confidence": "PROBABLE",
+     "cypro_minoan": "051-028",
+     "gloss": "son",
+     "line": "B.15",
+     "note": "As at A.01.",
+     "page": 547,
+     "reading": "binu",
+     "reading_type": null,
+     "rivals": [],
+     "text": "corpus",
+     "values": [
+      "pi",
+      "nu"
+     ]
+    },
+    {
+     "confidence": "CANDIDATE",
+     "cypro_minoan": "055-070",
+     "gloss": "of the king",
+     "line": "B.15",
+     "note": "Valério's /binu malki/ 'son of the king' (2016, 372), with the l in coda unwritten as Valério has the r unwritten in -ršap (2016, 384). The noun was /malku/ at Ugarit (McAffee 2019, 238 n. 217).",
+     "page": 547,
+     "reading": "malki",
+     "reading_type": null,
+     "rivals": [
+      {
+       "gloss": "the name Makku",
+       "page": 372,
+       "proposer": "Valério",
+       "reading": "ma??-ki??",
+       "work": "Valério 2016"
+      },
+      {
+       "gloss": "a name on šm 'name' or šmʿ 'hear'",
+       "page": 43,
+       "proposer": "É. Masson",
+       "reading": "Ša-mi",
+       "work": "É. Masson 1974"
+      },
+      {
+       "gloss": "perhaps Anatolian ma-ḫi",
+       "page": 232,
+       "proposer": "Faucounau",
+       "reading": "m∂-ki",
+       "work": "Faucounau 1977"
+      }
+     ],
+     "text": "corpus",
+     "values": [
+      "ma",
+      "ki"
+     ]
+    },
+    {
+     "confidence": "CANDIDATE",
+     "cypro_minoan": "038-001-004-082-009",
+     "gloss": "personal name, Hurrian",
+     "line": "B.16",
+     "note": "Nahm's e-we-ta-ša-li, Hurrian iwrtḏl, EN-ta-šal, /Evri-tazal/ (Valério 2016, 372, 658), read by Valério as /Evritazal/, the scribe having left out the ri of ewri (2016, 658): ỉwrtḏl (DULAT 129); Enta-šalu at Ugarit (Kinlaw 1967, 50).",
+     "page": 547,
+     "reading": "ʾEwri-tašal",
+     "reading_type": null,
+     "rivals": [
+      {
+       "gloss": "with EN-tasalu, e-I a divine name",
+       "page": 382,
+       "proposer": "Faucounau",
+       "reading": "e-I-ta-sa-li",
+       "work": "Faucounau 1980"
+      },
+      {
+       "gloss": "no identification",
+       "page": 46,
+       "proposer": "É. Masson",
+       "reading": "U-?-da-ḫi-li",
+       "work": "É. Masson 1974"
+      }
+     ],
+     "text": "corpus",
+     "values": [
+      "e",
+      "we",
+      "ta",
+      "sa",
+      "li"
+     ]
+    },
+    {
+     "confidence": "SPECULATIVE",
+     "cypro_minoan": "102-075-051-055-082-021-009",
+     "gloss": "a word describing the preceding name",
+     "line": "B.16",
+     "note": "Valério leaves it unidentified, perhaps a Hurrian term of occupation in -(u)ḫ(u)li that qualifies the first word (2016, 373).",
+     "page": 547,
+     "reading": "ʾArabimasakuli",
+     "reading_type": null,
+     "rivals": [
+      {
+       "gloss": "perhaps a-ra-bi",
+       "page": 43,
+       "proposer": "É. Masson",
+       "reading": "A-ra-bi-ša-ḫi-?-li",
+       "work": "É. Masson 1974"
+      }
+     ],
+     "text": "corpus",
+     "values": [
+      "a",
+      "ra",
+      "pi",
+      "ma",
+      "sa",
+      "ko",
+      "li"
+     ]
+    },
+    {
+     "confidence": "CANDIDATE",
+     "cypro_minoan": "102-074-075-051",
+     "gloss": "personal name ʿAmmurapi, the Divine Ancestor as healer",
+     "line": "B.17",
+     "note": "Faucounau's a-mu-ra-bi (1980, 382): ʿmrpỉ, spelled a-mu-ra-pí and am-mu-ra-pí at Ugarit (DULAT 162), whose one bearer in Kinlaw's index of the Akkadian texts is the king of Ugarit (Kinlaw 1967, 22); Valério reads ʿmrpi as naming the Divine Ancestor the bearer's healer (2016, 384). The value mu was chosen on this name.",
+     "page": 547,
+     "reading": "ʿAmmurapiʾ",
+     "reading_type": null,
+     "rivals": [
+      {
+       "gloss": "/ʾAbīrašp/ or /ʾAbīrapʔi/, abršp or abrpu (DULAT 13–14), with 074 for /b/",
+       "page": "382–385",
+       "proposer": "Valério",
+       "reading": "a?-wi??-ra?-pi??",
+       "work": "Valério 2016"
+      },
+      {
+       "gloss": "a name ending perhaps in rb 'great'",
+       "page": 43,
+       "proposer": "É. Masson",
+       "reading": "A-?-ra-?",
+       "work": "É. Masson 1974"
+      }
+     ],
+     "text": "corpus",
+     "values": [
+      "a",
+      "mu",
+      "ra",
+      "pi"
+     ]
+    },
+    {
+     "confidence": "SPECULATIVE",
+     "cypro_minoan": "027-069",
+     "gloss": "minister",
+     "line": "B.17",
+     "note": "ṯʿy, 'civil servant, minister', the sense under which DULAT files the title of the colophon ṯʿy nqmd mlk ủgrt, set before the name of Niqmaddu, king of Ugarit (881). The group leaves the ʿ unwritten; the same consonants make the name ṯʿy, ša-i-ya at Ugarit (DULAT 881).",
+     "page": 547,
+     "reading": "ṯāʿiya",
+     "reading_type": null,
+     "rivals": [
+      {
+       "gloss": "obscure; Ugaritic šiy?",
+       "page": 388,
+       "proposer": "Valério",
+       "reading": "si?-ja?",
+       "work": "Valério 2016"
+      },
+      {
+       "gloss": "a name",
+       "page": 46,
+       "proposer": "É. Masson",
+       "reading": "Ša-mi",
+       "work": "É. Masson 1974"
+      }
+     ],
+     "text": "corpus",
+     "values": [
+      "si",
+      "ja"
+     ]
+    },
+    {
+     "confidence": "CANDIDATE",
+     "cypro_minoan": "055-070",
+     "gloss": "of the king",
+     "line": "B.17",
+     "note": "As at B.15; Valério reads malki here too (2016, 387–388). The group breaks after it.",
+     "page": 551,
+     "reading": "malki",
+     "reading_type": null,
+     "rivals": [],
+     "text": "emended",
+     "values": [
+      "ma",
+      "ki"
+     ]
+    },
+    {
+     "confidence": null,
+     "cypro_minoan": null,
+     "gloss": null,
+     "line": "B.17",
+     "note": "The end of a group broken after ma-ki; Valério reads six signs where HoChyMin prints seven (2016, 550).",
+     "page": 551,
+     "reading": null,
+     "reading_type": "FRAGMENT",
+     "rivals": [
+      {
+       "gloss": "malki and perhaps a person; the measure prs considered and set aside",
+       "page": "387–388",
+       "proposer": "Valério",
+       "work": "Valério 2016"
+      },
+      {
+       "gloss": "perhaps a known name, on 'bless'",
+       "page": "42 and n. 130",
+       "proposer": "É. Masson",
+       "work": "É. Masson 1974"
+      }
+     ],
+     "text": "emended",
+     "values": []
+    },
+    {
+     "confidence": "SPECULATIVE",
+     "cypro_minoan": "073-092-100",
+     "gloss": "personal name",
+     "line": "B.18",
+     "note": "Nahm's mo-sa-ni, a name on the Hurrian root muš/z- (Valério 2016, 378).",
+     "page": 547,
+     "reading": "Mosani",
+     "reading_type": null,
+     "rivals": [
+      {
+       "gloss": "Muz(i)ni weighed, left open",
+       "page": "378–379",
+       "proposer": "Valério",
+       "reading": "mo??-*92-ni?",
+       "work": "Valério 2016"
+      },
+      {
+       "gloss": "with 73b zu and 92 zi",
+       "page": 235,
+       "proposer": "Faucounau",
+       "reading": "zu-zi-nu",
+       "work": "Faucounau 1977"
+      }
+     ],
+     "text": "corpus",
+     "values": [
+      "mo",
+      "sa₂",
+      "ni"
+     ]
+    },
+    {
+     "confidence": "PROBABLE",
+     "cypro_minoan": "051-028",
+     "gloss": "son",
+     "line": "B.18",
+     "note": "As at A.01.",
+     "page": 547,
+     "reading": "binu",
+     "reading_type": null,
+     "rivals": [],
+     "text": "corpus",
+     "values": [
+      "pi",
+      "nu"
+     ]
+    },
+    {
+     "confidence": "CANDIDATE",
+     "cypro_minoan": "055-070",
+     "gloss": "of the king",
+     "line": "B.18",
+     "note": "As at B.15.",
+     "page": 547,
+     "reading": "malki",
+     "reading_type": null,
+     "rivals": [],
+     "text": "corpus",
+     "values": [
+      "ma",
+      "ki"
+     ]
+    },
+    {
+     "confidence": "CANDIDATE",
+     "cypro_minoan": "082-058-055-009-070",
+     "gloss": "personal name 'Šapšu is king'",
+     "line": "B.19",
+     "note": "špšmlk, spelled ᵈUTU-LUGAL at Ugarit, among others in the colophon of RS 20.32 (DULAT 825), written here with the p in coda unwritten; Valério's earlier /Šapšu-malik/, which Valério sets aside (2016, 389). The second element is /malik/, as at B.14.",
+     "page": 547,
+     "reading": "Šapši-maliki",
+     "reading_type": null,
+     "rivals": [
+      {
+       "gloss": "the Akkadian name Šamši-Malik",
+       "page": 389,
+       "proposer": "Nahm",
+       "reading": "ša-ši-ma-li-ki",
+       "work": "Valério 2016"
+      },
+      {
+       "gloss": "Sa(..)malik, the second element /malik/",
+       "page": "388–390",
+       "proposer": "Valério",
+       "reading": "sa??-lu??/58-ma??-li?-ki??",
+       "work": "Valério 2016"
+      },
+      {
+       "gloss": "ḥyšlm",
+       "page": 43,
+       "proposer": "É. Masson",
+       "reading": "Ḥi-ya-ša-li-mi",
+       "work": "É. Masson 1974"
+      }
+     ],
+     "text": "corpus",
+     "values": [
+      "sa",
+      "ši",
+      "ma",
+      "li",
+      "ki"
+     ]
+    },
+    {
+     "confidence": "SPECULATIVE",
+     "cypro_minoan": "092-011-096",
+     "gloss": "scribe",
+     "line": "B.19",
+     "note": "Nahm's sa-pe-ri, Ugaritic spr 'scribe' (Valério 2016, 389), which Valério discards (2016, 389); 011 is a sign here, not a divider (Egetmeyer, in Steele (ed.) 2013, 111). B.17–19 close the tablet (É. Masson 1974, 34–35; Valério 2016, 356).",
+     "page": 547,
+     "reading": "sāpiri",
+     "reading_type": null,
+     "rivals": [
+      {
+       "gloss": "no analysis; or *92 | ri?",
+       "page": "389–390",
+       "proposer": "Valério",
+       "reading": "*92-pe??-ri?",
+       "work": "Valério 2016"
+      },
+      {
+       "gloss": "a signature, then an abbreviated formula",
+       "page": "34–35, 46",
+       "proposer": "É. Masson",
+       "reading": "? ru",
+       "work": "É. Masson 1974"
+      }
+     ],
+     "text": "corpus",
+     "values": [
+      "sa₂",
+      "pe",
+      "ri"
+     ]
+    },
+    {
+     "confidence": "SPECULATIVE",
+     "cypro_minoan": "006",
+     "gloss": "an abbreviation",
+     "line": "B.19",
+     "note": "Valério's pa??, perhaps an abbreviation of prs, a dry measure (2016, 390–391).",
+     "page": 547,
+     "reading": "pa",
+     "reading_type": null,
+     "rivals": [
+      {
+       "gloss": "the initial syllable of an abbreviated formula",
+       "page": 35,
+       "proposer": "É. Masson",
+       "reading": "pa",
+       "work": "É. Masson 1974"
+      }
+     ],
+     "text": "corpus",
+     "values": [
+      "pa"
+     ]
+    }
+   ]
+  }
+ }
+}

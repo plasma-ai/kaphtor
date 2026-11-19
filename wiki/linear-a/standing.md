@@ -46,7 +46,7 @@ Every number on this page is computed from the data files.
 
 ## PROBABLE
 
-77 entries.
+78 entries.
 
 | Word | Reading | Meaning | Score |
 |---|---|---|---|
@@ -61,7 +61,7 @@ Every number on this page is computed from the data files.
 | [[wiki/linear-a/words/star/star307\|\*307]] | dubur | sanctuary (logogram), standing by itself | 0.75 |
 | [[wiki/linear-a/words/star/star308\|\*308]] | šamnu | pressed oil, oil derivative—commodity modifier indicating oil extraction from base commodity | 0.70 |
 | [[wiki/linear-a/words/star/star401\|\*401]] | ruqqû | aromatic preparation, compounded ointment—commodity ideogram for perfumed/refined oil products | 0.70 |
-| [[wiki/linear-a/words/A/A_DI_KI_TE_TE\|A-DI-KI-TE-TE]] | ʾa-Diqqitīt | O Diktaean (f.), the feminine nisbe of Dikte | 0.65 |
+| [[wiki/linear-a/words/A/A_DI_KI_TE_TE\|A-DI-KI-TE-TE]] | ʾa-Diqqitet | O Diktaean (f.), the feminine nisbe of Dikte | 0.65 |
 | [[wiki/linear-a/words/A/A_KA_RU\|A-KA-RU]] | Agaru | field, estate (heading); rival the Ugaritic god Ugaru | 0.70 |
 | [[wiki/linear-a/words/A/A_MI_TA\|A-MI-TA]] | ʾamita | handmaid (of the goddess) | 0.60 |
 | [[wiki/linear-a/words/A/A_SA_MU_NE\|A-SA-MU-NE]] | ʾAšmūn | Eshmun (healing deity) | 0.70 |
@@ -78,6 +78,7 @@ Every number on this page is computed from the data files.
 | [[wiki/linear-a/words/I/I_DA_A\|I-DA-A]] | ʾIda | of Ida (diptotic genitive after DU-\*314-RE); rival 'toward Ida' | 0.70 |
 | [[wiki/linear-a/words/I/I_MI_SA_RA\|I-MI-SA-RA]] | Il-Mīšar | god of justice (ʾil 'god' + Mīšaru) | 0.70 |
 | [[wiki/linear-a/words/I/I_PI_NA_MA\|I-PI-NA-MA]] | ʾippina=ma | in the presence of | 0.75 |
+| [[wiki/linear-a/words/J/JA_DI_KI_TE_TE\|JA-DI-KI-TE-TE]] | yā Diqqitet | O Diktaean (f.), the feminine nisbe of Dikte, the vocative yā written in full | 0.65 |
 | [[wiki/linear-a/words/J/JA_DI_KI_TU\|JA-DI-KI-TU]] | yā Diqqitu | O Diqqitu! (vocative invocation of the proposed goat-goddess Diqqitu) | 0.70 |
 | [[wiki/linear-a/words/J/JE_TA_NA\|JE-TA-NA]] | Yatana | he gave (personal name) | 0.70 |
 | [[wiki/linear-a/words/K/KA_DI\|KA-DI]] | kadd | jar, jug (liquid container) | 0.65 |
@@ -130,7 +131,7 @@ Every number on this page is computed from the data files.
 
 ## CANDIDATE
 
-269 entries.
+272 entries.
 
 | Word | Reading | Meaning | Score |
 |---|---|---|---|
@@ -138,6 +139,7 @@ Every number on this page is computed from the data files.
 | [[wiki/linear-a/words/star/star21F_star118\|\*21F-\*118]] | ḥiṭṭa | wheat; rivals ḫaṭṭu 'sceptre', ḥaṯ 'unleavened bread' | 0.45 |
 | [[wiki/linear-a/words/star/star21F_TU_NE\|\*21F-TU-NE]] | hatune | bridegroom, son-in-law | 0.50 |
 | [[wiki/linear-a/words/star/star22M\|\*22M]] | (logogram) | he-goat (livestock logogram) | 0.45 |
+| [[wiki/linear-a/words/star/star86_plus_star188\|\*86+\*188]] | buṭnu | terebinth carried by ship (the terebinth sign \*188 set on the ship \*86) | 0.45 |
 | [[wiki/linear-a/words/star/star131C\|\*131C]] | (logogram) | vinegar (commodity logogram) | 0.45 |
 | [[wiki/linear-a/words/star/star188_star308\|\*188-\*308]] | buṭnu šamni | terebinth oil, the Pistacia product \*188 with \*308 'pressed oil' | 0.50 |
 | [[wiki/linear-a/words/star/star301_U_RA\|\*301-U-RA]] | naura | light, radiance (personal name or epithet) | 0.45 |
@@ -155,6 +157,7 @@ Every number on this page is computed from the data files.
 | [[wiki/linear-a/words/star/star327\|\*327]] |  | personnel-class logogram, counted beside VIR (men) | 0.40 |
 | [[wiki/linear-a/words/star/star401_plus_RU\|\*401+RU]] |  | ruqqû-ru 'aromatic preparation (with phonetic complement RU confirming /ru-/ onset)' | 0.45 |
 | [[wiki/linear-a/words/star/star406VAS_plus_KE\|\*406VAS+KE]] | kās | cup, drinking vessel—commodity ideogram for a specific vessel type, with KE phonetic complement indicating initial syllable of Semitic \*kaʾs- | 0.45 |
+| [[wiki/linear-a/words/star/star408_VS\|\*408-VS]] | (logogram) | handled vessel on three legs with a tapering body (vessel logogram) | 0.40 |
 | [[wiki/linear-a/words/star/star409_VS\|\*409-VS]] | (logogram) | tripod vessel without handles (vessel logogram) | 0.50 |
 | [[wiki/linear-a/words/star/star411_VS\|\*411-VS]] | (logogram) | tripod cauldron (vessel logogram) | 0.50 |
 | [[wiki/linear-a/words/star/star412\|\*412]] | ʾigān | large open bowl or basin for liquids; wine bowl | 0.45 |
@@ -222,6 +225,7 @@ Every number on this page is computed from the data files.
 | [[wiki/linear-a/words/G/GRA_plus_KU\|GRA+KU]] |  | kunāšu 'emmer wheat' (logographic abbreviation) | 0.50 |
 | [[wiki/linear-a/words/G/GRA_plus_PA\|GRA+PA]] | parīsu | parīsu, the half-gur grain measure (CAD P 186; DULAT 671–672 prś) | 0.45 |
 | [[wiki/linear-a/words/G/GRA_plus_QE\|GRA+QE]] | qemāḥu | flour/meal as a grain subtype; processed grain product for rations and offerings | 0.55 |
+| [[wiki/linear-a/words/H/HIDE\|HIDE]] | (logogram) | hide (logogram, AB 180) | 0.50 |
 | [[wiki/linear-a/words/I/I_DA_MA_TE\|I-DA-MA-TE]] | ʾidmat | the Tower, a sacred title (DA-MA-TE with prothetic I-) | 0.60 |
 | [[wiki/linear-a/words/I/I_DA_MI\|I-DA-MI]] | ʾIda=mi | Ida, 'the Hand', the sacred mountain, with emphatic enclitic -mi | 0.50 |
 | [[wiki/linear-a/words/I/I_DA_PA3_I_SA_RI\|I-DA-PA₃-I-SA-RI]] | ʾIdā bi-ʾišarī | Ida, in righteousness (toponym + prepositional phrase written as one word) | 0.55 |
@@ -254,7 +258,7 @@ Every number on this page is computed from the data files.
 | [[wiki/linear-a/words/J/JA_SI_E\|JA-SI-E]] | yašīʿ-ē | O Salvation—vocative/petitionary extension of yašīʿ | 0.45 |
 | [[wiki/linear-a/words/J/JA_SU_MA_TU\|JA-SU-MA-TU]] | yā Šumāt | O Šumāt! (vocative yā + divine name, plural of \*šum- 'name') | 0.55 |
 | [[wiki/linear-a/words/J/JA_TA_I_star301_U_JA\|JA-TA-I-\*301-U-JA]] | yatainawuya | he makes himself a dwelling (3ms tG-stem middle-reflexive denominative of √NWY) | 0.50 |
-| [[wiki/linear-a/words/J/JA_WI\|JA-WI]] | Yawī | personal name, '(he) lives', the bare form of the Amorite Yawi-DN names | 0.45 |
+| [[wiki/linear-a/words/J/JA_WI\|JA-WI]] | Yawī | personal name, '(he) gives life', the bare form of the Amorite Yawi-DN names | 0.45 |
 | [[wiki/linear-a/words/J/JE_DI\|JE-DI]] | yedī | gentilic 'the Idaean' (of Mount Ida); rivals the personal name 'He knows' and the gentilic 'Judean' | 0.50 |
 | [[wiki/linear-a/words/J/JI_NU_MA_RE\|JI-NU-MA-RE]] | yinumare | wine-lords, wine-stewards (personnel category) | 0.50 |
 | [[wiki/linear-a/words/K/KA\|KA]] | kapp | palm-measure, bowl (unit of dry/liquid measure; administrative commodity category) | 0.40 |
@@ -406,7 +410,7 @@ Every number on this page is computed from the data files.
 
 ## SPECULATIVE
 
-337 entries.
+348 entries.
 
 | Word | Reading | Meaning | Score |
 |---|---|---|---|
@@ -427,7 +431,12 @@ Every number on this page is computed from the data files.
 | [[wiki/linear-a/words/star/star333_DI_NA_SU_KA\|\*333-DI-NA-SU-KA]] | bīdi Našūka | In the charge of Našūka ('the Bitten one')—custody formula + personal name on a sealed receipt | 0.20 |
 | [[wiki/linear-a/words/star/star333_DI_SU_KA\|\*333-DI-SU-KA]] | bīdi Sūka | In the charge of Sūka—custody formula + personal name on a sealed receipt | 0.20 |
 | [[wiki/linear-a/words/star/star333_SA_MU\|\*333-SA-MU]] | biśāmu | Balsam, perfume—aromatic personal name (cf. Basemath) on a lead weight | 0.25 |
+| [[wiki/linear-a/words/star/star337_plus_star188\|\*337+\*188]] | buṭnu | terebinth carried by ship, the ship drawn with an upright and a spar (a variant of \*86+\*188) | 0.30 |
+| [[wiki/linear-a/words/star/star338\|\*338]] | (logogram) | footwear, a boot (logogram) | 0.30 |
 | [[wiki/linear-a/words/star/star364_KE_MA_SE\|\*364-KE-MA-SE]] | Šakma-se | the one of Šakmu (Shechem) (gentilic in -SE on the toponym) | 0.30 |
+| [[wiki/linear-a/words/star/star417_VS\|\*417-VS]] | (logogram) | basket (vessel logogram) | 0.30 |
+| [[wiki/linear-a/words/star/star418_plus_L2\|\*418+L2]] | (logogram) | animal-head rhyton, with the measure sign L2 beneath (vessel logogram) | 0.30 |
+| [[wiki/linear-a/words/A/A_star123_TE\|A-\*123-TE]] | ha-quṭōrt | the incense (the aromatics sign written for the word, between the article and the feminine ending) | 0.30 |
 | [[wiki/linear-a/words/A/A_DA_KI_SI_KA\|A-DA-KI-SI-KA]] | Ḫadki-šiqā | Ḫadki gives drink (personal name; Ḫadki, a Mari-area name of Adad, + šiqā 'who gives drink'); rival 'Ḫadki is (my) dwelling' | 0.30 |
 | [[wiki/linear-a/words/A/A_DA_RA\|A-DA-RA]] | ʾadra | the fibula, the pin; rivals ʾAdara 'the Strong One' (epithet), ʾaddart- 'mantle' | 0.30 |
 | [[wiki/linear-a/words/A/A_DA_RO\|A-DA-RO]] | ʾAddar | Addar, 'Mighty' (personal name) | 0.30 |
@@ -463,11 +472,13 @@ Every number on this page is computed from the data files.
 | [[wiki/linear-a/words/A/A_SI_SU_PO_A\|A-SI-SU-PO-A]] | ʾassuppōa | the storehouse (heading of issues), the word of A-SU-PU-WA; rival a personal or place heading in -uwa | 0.25 |
 | [[wiki/linear-a/words/A/A_SU_JA\|A-SU-JA]] | Azzuya | Azzuya (woman's name; Hurrian hypocoristic on az(z)-) | 0.30 |
 | [[wiki/linear-a/words/A/A_SU_PU_WA\|A-SU-PU-WA]] | ʾasuppūa | store(house), an entry under SI-DA-TE 'provisions'; rival a personal designation in -uwa | 0.30 |
+| [[wiki/linear-a/words/A/A_TA_star350\|A-TA-\*350]] | ʾatāwu | what has come in, receipt (heading of the last section of KH 11) | 0.30 |
 | [[wiki/linear-a/words/A/A_TA_DE\|A-TA-DE]] | ʾaʿtid(u) | I make ready (1cs prefix form) | 0.25 |
 | [[wiki/linear-a/words/A/A_TA_RE\|A-TA-RE]] | ʿAṯtar | ʿAṯtar (the god), receiving figs; rival Hathor | 0.20 |
 | [[wiki/linear-a/words/A/A_TI_KA\|A-TI-KA]] | ʿAtīqa | personal name, 'enduring'; compare Linear B a-ti-ka | 0.30 |
 | [[wiki/linear-a/words/A/A_TI_RU\|A-TI-RU]] | ʿAttiru | ʿAttiru, personal name, the nisbe 'man of ʿAṯtar'; rival ʿatīru 'entreated' | 0.30 |
 | [[wiki/linear-a/words/A/A_WA_PI\|A-WA-PI]] | ʾawpiʿ | personal name, 'he shone forth' (causative of w-p-ʿ 'be brilliant') | 0.30 |
+| [[wiki/linear-a/words/D/DA\|DA]] | damʿu | the sanctuary's share (short form of DA-ME) | 0.30 |
 | [[wiki/linear-a/words/D/DA_DU_star301\|DA-DU-\*301]] | dādu-nā-… | 'our beloved …', the opening of a longer word | 0.30 |
 | [[wiki/linear-a/words/D/DA_DU_MI_NE\|DA-DU-MI-NE]] | dādu-Mīnō | Beloved of Minos (compound theophoric name) | 0.30 |
 | [[wiki/linear-a/words/D/DA_I_PI_TA\|DA-I-PI-TA]] | Ṭayyibat | Good (f.) (personal name) | 0.30 |
@@ -638,6 +649,7 @@ Every number on this page is computed from the data files.
 | [[wiki/linear-a/words/Q/QA_TI_KI\|QA-TI-KI]] | Kattike | Kattike (Hurrian personal name), on kad- 'to say'; rival katki 'utterance' | 0.30 |
 | [[wiki/linear-a/words/Q/QE\|QE]] | qê | measure unit (dry/liquid capacity ≈ 1.2 liters)—metrological logographic abbreviation; after a holder, qē(pu) 'commissioner' (see KA-PA-QE) | 0.30 |
 | [[wiki/linear-a/words/Q/QE_DE_MI_NU\|QE-DE-MI-NU]] | Qēdmīnu | personal name, 'Easterner, Ancient one' | 0.30 |
+| [[wiki/linear-a/words/Q/QE_KA\|QE-KA]] | Qēqa | personal name | 0.30 |
 | [[wiki/linear-a/words/Q/QE_KU_RE\|QE-KU-RE]] | kikkᵊrē | rounds, round cakes of (a commodity); talent; rival the personal name Qaqqaru | 0.30 |
 | [[wiki/linear-a/words/Q/QE_PI_TA\|QE-PI-TA]] | qepīta | box, chest, basket (container or unit) | 0.30 |
 | [[wiki/linear-a/words/Q/QE_PU\|QE-PU]] | qēpu | official, commissioner (title); rival: the personal name Qīpu | 0.30 |
@@ -682,6 +694,7 @@ Every number on this page is computed from the data files.
 | [[wiki/linear-a/words/S/SA_RA_RA\|SA-RA-RA]] | ṣarār- | bundle, bag (commodity or container) | 0.30 |
 | [[wiki/linear-a/words/S/SA_RE_JU\|SA-RE-JU]] | Šarr-ēlu | personal name, 'El is king'; rival Hurrian Šar-elli | 0.30 |
 | [[wiki/linear-a/words/S/SA_TA\|SA-TA]] | Šata | Šata (personal name, heading the second section); rival śadā '(those of) the field' | 0.30 |
+| [[wiki/linear-a/words/S/SE\|SE]] | ṣēd | provision: SE-DE written by its first sign | 0.30 |
 | [[wiki/linear-a/words/S/SE_star305\|SE-\*305]] | ṣēdā | provisions (section heading); same word as SI-DA-TE ṣēdat | 0.30 |
 | [[wiki/linear-a/words/S/SE_DE\|SE-DE]] | ṣēd | provision of (construct), before \*21F-\*118 ḥiṭṭa 'wheat' | 0.30 |
 | [[wiki/linear-a/words/S/SE_KU_TU\|SE-KU-TU]] | Šakūtu | personal name, 'Calm, at rest'; rival Zakūtu 'pure, innocent' | 0.30 |
@@ -717,6 +730,7 @@ Every number on this page is computed from the data files.
 | [[wiki/linear-a/words/T/TE_SU_DE_SE_KE_I\|TE-SU-DE-SE-KE-I]] | tesʾad šeqī | she serves; give (him) drink! | 0.25 |
 | [[wiki/linear-a/words/T/TE_TU\|TE-TU]] | Tetu | personal name; Ugaritic tt, syllabic te-et-te, tu-tu | 0.30 |
 | [[wiki/linear-a/words/T/TI_DI_TE_QA_TI\|TI-DI-TE-QA-TI]] | tidī teqaʿti | 'fix it, you have fastened it' (of the pin); rival Tidiʿ-Teqaʿt, personal name 'Teqaʿt knows', after one of the Kotharat | 0.30 |
+| [[wiki/linear-a/words/T/TI_DU\|TI-DU]] | ṭiṭṭu | malt, a jar's contents beside honey | 0.30 |
 | [[wiki/linear-a/words/T/TI_MA_RU_WI_TE\|TI-MA-RU-WI-TE]] | Tīmar-luwwīt | Timar the Levite (f.), priestess (woman's name and title); rival Tamar + WI-TE | 0.30 |
 | [[wiki/linear-a/words/T/TI_NU_JA\|TI-NU-JA]] | Ṯinuya | personal name, 'Second(-born)'; rival Dīnuya | 0.30 |
 | [[wiki/linear-a/words/T/TU_JU_MA\|TU-JU-MA]] | Tuʿluma | personal name, 'hidden one'; rival Hurrian talm- 'great' (Talimmu, a merchant's name at Ugarit) | 0.30 |
@@ -736,6 +750,7 @@ Every number on this page is computed from the data files.
 | [[wiki/linear-a/words/U/U_TA_I_SE\|U-TA-I-SE]] | ʿUtay-se | personal name: ʿUtay with the -SE suffix, a recipient of cyperus; rival a Cretan name of another language (LB u-ta-jo) | 0.30 |
 | [[wiki/linear-a/words/U/U_TI\|U-TI]] | Utti | Utti (Hurrian personal name), stem utt-; rival the Anatolian name Utti | 0.20 |
 | [[wiki/linear-a/words/V/VIN_plus_KA\|VIN+KA]] | ḫamr | fermenting wine, the new wine: VIN with KA set at it for ḫamr | 0.30 |
+| [[wiki/linear-a/words/W/WA_star362\|WA-\*362]] | waynu | wine, spelled out before the must on a Zakros wine tablet | 0.30 |
 | [[wiki/linear-a/words/W/WBQY\|WBQY]] | wa-baqq- | rot, the disease addressed (wa- + baqq-); rival bōhaq | 0.20 |
 | [[wiki/linear-a/words/W/WI_DI_NA\|WI-DI-NA]] | Widdinā | personal name, 'our Beloved' | 0.30 |
 | [[wiki/linear-a/words/W/WI_NA_DU\|WI-NA-DU]] | Winadu | Inatos (place name on the south coast; Linear B wi-na-to) | 0.30 |

@@ -31,6 +31,6 @@ updated: 2026-11-12T00:26:03Z
 
 A ligature. Status **component read** (a combined sign with a component the lexicon reads).
 
-The lexicon reads [[wiki/linear-a/words/S/SA|SA]].
+The lexicon reads [[wiki/linear-a/words/H/HIDE|HIDE]], [[wiki/linear-a/words/S/SA|SA]].
 
 <!-- END kaphtor:record -->

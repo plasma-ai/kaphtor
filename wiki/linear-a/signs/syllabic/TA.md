@@ -61,6 +61,7 @@ Davis makes voicing allophonic in Minoan stops, present 'conditionally or option
 | [[wiki/linear-a/words/A/A_MI_TA\|A-MI-TA]] | ʾamita | PROBABLE |
 | [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | ʾAren Ṣidna bikē bayta rēšī tarīmu ʾAyaku | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RI_NI_TA\|A-RI-NI-TA]] | ʾarīnīt | CANDIDATE |
+| [[wiki/linear-a/words/A/A_TA_star350\|A-TA-\*350]] | ʾatāwu | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_TA_DE\|A-TA-DE]] | ʾaʿtid(u) | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_TA_I_star301_DE_KA\|A-TA-I-\*301-DE-KA]] | ʾataʿinā dēka | CANDIDATE |
 | [[wiki/linear-a/words/A/A_TA_I_star301_WA_E\|A-TA-I-\*301-WA-E]] | ʾatainawē | CONFIRMED |

@@ -17,8 +17,8 @@ updated: 2026-11-11T23:49:15Z
 <!-- BEGIN kaphtor:summary -->
 | Field | Value |
 |---|---|
-| Names | 12 |
-| Kinds | personal names 12 |
-| Sites | Haghia Triada 10, Troy 1, Zakros 1 |
-| Standing | no reading 12 |
+| Names | 9 |
+| Kinds | personal names 9 |
+| Sites | Haghia Triada 8, Troy 1 |
+| Standing | no reading 9 |
 <!-- END kaphtor:summary -->

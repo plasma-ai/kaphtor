@@ -299,7 +299,12 @@ Semitic; those readings are kept with its control record in this repository (see
   Valério's Appendix A and nine witnesses outside it. Each record gives the ## number, the site and object type decoded
   from Valério's key to the sigla (2016, 36–37), Pleiades and Trismegistos ids as identity controls only, the edition
   of record, and metadata statements, each with work and page: museum numbers, identities, editions, findspots, dates,
-  dimensions, Donnelly's document forms (2021, 260–271), hands and visual evidence. No transcription ships: Valério's
+  dimensions, Donnelly's document forms (2021, 260–271), hands and visual evidence. From the dates each record takes
+  its period with its years on Valério's Table I.1 (Table I.2 for a Minoan period; 2016, 39), the lead statement
+  (*CMI* II, then *HoChyMin*, then Donnelly, then the rest), a status (AGREE 171, OVERLAP 67, CONFLICT 18, UNDATED 7)
+  with the statements set against the lead, a certainty (HIGH 63, MEDIUM 90, LOW 103), and its script and Masson's
+  subcorpus with their pages (Cypro-Minoan 256, Cypro-Greek 3; ##001 as CM 0), with a note where a held source doubts
+  the writing (ten texts), each null field with its reason. No transcription ships: Valério's
   Appendix A is a doctoral thesis whose terms allow private research and teaching use only. A statement whose text is
   the source's own sentence ships as a pointer (field, work, page).
 - **Query the catalogue:**
@@ -313,6 +318,15 @@ Semitic; those readings are kept with its control record in this repository (see
   site and type codes and list the texts that match (KITI Avas: Kition's vessels). `--format json` prints either as
   JSON.
 
+- **Translations** (`data/ane/cypro-minoan/translations.json`): di Mino's readings of whole texts, keyed by siglum.
+  Each word read gives its sign group in Olivier's numbers, its line and the Appendix A page that prints it, as
+  scholarship quotes the groups it discusses, with one value per sign, a gloss, a tier and the published readings it
+  rivals, each credited to its proposer with work and page; a word left unread shows no group. The values the readings
+  take follow, each with its tier and evidence. Never counted with Linear A and never evidence for a Linear A value.
+  `--doc "RASH Atab 004"` (RS 20.25) prints the reading under the record, `--format json` carries it as
+  `translation`, and `--stats` counts the texts and words; the wiki gives each translated text a Translation section
+  and lists them in `wiki/aegean/cypro-minoan/translated.md`.
+
 - **IG XV 1** (`data/ane/ig-xv-1-cypriot/`, CC BY 4.0): the Cypriot syllabic inscriptions of *Inscriptiones Graecae*
   XV 1, Cypriot Greek and Eteocypriot, with their editions, places and dates.
   `uv run --no-sync python -m tools.ane.aneq cypriot Amathus` matches designation, title, place and edition, and
@@ -323,8 +337,8 @@ Semitic; those readings are kept with its control record in this repository (see
   `tools/linear_a/comparative_corpus.py` names the same control `eteocypriot-control` and searches it only with
   `--include-excluded` (`--search Amathus --corpus eteocypriot-control --include-excluded`). The registry it reads,
   `data/linear-a/comparative_corpora/`, is not shipped, so in this checkout the command stops.
-- **Not shipped:** the Cypro-Minoan transcription, its sequences and the signary, with the values each proposer gives,
-  are not in this repository, nor are the open Sign2Vec and PASP layers that
+- **Not shipped:** the Cypro-Minoan transcription beyond the groups of the words read, its sequences and the signary,
+  with the values each proposer gives, are not in this repository, nor are the open Sign2Vec and PASP layers that
   [aegean-comparative-corpora.md](aegean-comparative-corpora.md) describes. In six records a Sign2Vec sign stands
   against Appendix A's, ##212 and ##215 among them, both drawn by É. Masson (1974, 26, 33), and in 52 more Sign2Vec
   leaves out signs it judged damaged: at ADD##247 it drops the first sign, which Appendix A prints.

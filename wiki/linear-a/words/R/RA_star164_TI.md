@@ -5,7 +5,7 @@ desc: "rāšōt: the choicest, first-fruits (heading of a wine contribution); ri
 tags: ["linear-a", "word", "tier-1", "heading", "noun", "ritual"]
 kind: "word"
 form: "RA-*164-TI"
-datasets: ["lexicon", "onomasticon"]
+datasets: ["lexicon"]
 attestations: ["HT17", "HT19"]
 tier: 1
 confidence: "SPECULATIVE"
@@ -72,21 +72,5 @@ di Mino; DULAT; CAD R; HALOT; DNWSI
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT17\|HT17]] | rāšōt | the choicest, first-fruits (account heading) | SPECULATIVE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT19\|HT19]] | rāšōt | the choicest, first-fruits (account heading) | SPECULATIVE |
-
-## Onomasticon
-
-| Field | Value |
-|---|---|
-| Type | personal name (SPECULATIVE) |
-| Affiliation | unknown (SPECULATIVE) |
-| Evidence | none |
-| Entry | manual |
-| Occurrences | 2 in 2 documents |
-| Sites | Haghia Triada |
-| Supports | Tablet 2 |
-
-### Note
-
-Heads the wine tablets HT 17 and HT 19, · TE · VIN 38 and 30 (GORILA I 35, 37). \*164 has no resolved value. No reading.
 
 <!-- END kaphtor:record -->

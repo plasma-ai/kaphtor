@@ -2,14 +2,14 @@
 name: wiki/linear-a/words/D
 desc: "Words whose first sign begins with D."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-17T16:49:30Z
+updated: 2026-11-19T04:09:42Z
 ---
 
 # wiki/linear-a/words/D
 
 [[wiki/linear-a/words/_index|..]]
 
-[[wiki/linear-a/words/D/DA|DA]]: Unread sign (syllabogram, unread); 8 occurrence(s).
+[[wiki/linear-a/words/D/DA|DA]]: damʿu: the sanctuary's share (short form of DA-ME). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/D/DA_DU_MA_TA|DA_DU_MA_TA]]: dadmatu: settlement(s), district (heading of a grain list); rival 'beloved land'. Lexicon, CANDIDATE (tier 2).
 

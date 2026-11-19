@@ -27,7 +27,9 @@ updated: 2026-11-18T19:49:10Z
 | Site | Enkomi (Famagusta) (ENKO); Valério 2016, 36 |
 | Identity controls | Pleiades 13818291, Trismegistos 37211 (match: exact); Pleiades 158081397 "Tomb of the Kings near Enkomi" excluded |
 | Object type | Atab, Clay tablet; Valério 2016, 37 |
-| Subcorpus | CM 2 |
+| Date | LC IIIA–IIIB (Late Cypriot IIIA–IIIB), 1190–1050 BCE (Valério 2016, 39); OVERLAP, certainty MEDIUM; lead statement: CMI II (Ferrara), "LC IIIA-IIIB" (Valério 2016, 649) |
+| Script | Cypro-Minoan; Valério 2016, 527 |
+| Subcorpus | CM 2; Valério 2016, 505; Valério 2016, 451 |
 | Status | inscription |
 | Edition of record | HoChyMin, transcribed in Valério 2016, Appendix A, 527–538; unverified |
 

@@ -30,11 +30,11 @@ updated: 2026-11-11T23:39:03Z
 | Reading's standing | SPECULATIVE |
 | Standing as a personal name | SPECULATIVE |
 | Standing of the layer | SPECULATIVE (lexicon_reading) |
-| Source | di Mino; NPN; Laroche GLH |
+| Source | di Mino; NPN; Laroche GLH; Burlingame 2020 |
 
 ## Note
 
-PK 1 .3 TA₂-TI-TE 1, whole and undotted, before O-KA-MI-ZA-SI-I-NA, in a roster of names each counted 1 (GORILA I 281). ta-ti-te: Nuzi Ta-ti beside Tatip-tešup (NPN 150), with -te for -tešup (NPN 264), 'Teššup loved'. TA₂ writes a t-, its vowel open. One witness.
+PK 1 .3 TA₂-TI-TE 1, whole and undotted, before O-KA-MI-ZA-SI-I-NA, in a roster of names each counted 1 (GORILA I 281). ta-ti-te: Nuzi Ta-ti beside Tatip-tešup (NPN 150), with -te for -tešup (NPN 264), 'Teššup loved'. Ugarit shortens the same way, Uri-Te for Uri-Teššub (Malbran-Labat and Roche 2007, 64 f., in Burlingame 2020, 204 n. 31). TA₂ writes a t-, its vowel open. One witness.
 
 ## As a name
 
@@ -44,7 +44,7 @@ Tati-te '(Teššup) loved': Nuzi Ta-ti beside Tatip-tešup (NPN 150), with -te f
 
 | Language | Comparison |
 |---|---|
-| Hurrian | tad- 'aimer' (Laroche GLH 248); tat 'H. … Cf. tat, "love," in Tuš.' (NPN 263); Nuzi TATI, Ta-ti, and TATIP-TEŠUP, Ta-ti-ip-te-šup (NPN 150); -te, the 'shortened var.' of -teja, itself the hypocoristic of -tešup (NPN 264) |
+| Hurrian | tad- 'aimer' (Laroche GLH 248); tat 'H. … Cf. tat, "love," in Tuš.' (NPN 263); Nuzi TATI, Ta-ti, and TATIP-TEŠUP, Ta-ti-ip-te-šup (NPN 150); -te, the 'shortened var.' of -teja, itself the hypocoristic of -tešup (NPN 264); Ugarit Uri-Te for Uri-Teššub (Malbran-Labat and Roche 2007, 64 f., in Burlingame 2020, 204 n. 31) |
 
 ## Attestations
 

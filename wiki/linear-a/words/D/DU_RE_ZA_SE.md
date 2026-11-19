@@ -68,7 +68,7 @@ di Mino; DULAT; HALOT; Rabin 1963
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA10a\|ZA10a]] | — | unread; ends in -SE, as on ZA 10b and ZA 20 |  |
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA10b\|ZA10b]] |  | unread |  |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA10b\|ZA10b]] | turēṯa-se | for the must, new wine | CANDIDATE |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA20\|ZA20]] |  | heading word (unread) |  |
 
 <!-- END kaphtor:record -->

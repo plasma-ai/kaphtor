@@ -27,7 +27,16 @@ updated: 2026-11-18T19:49:10Z
 | Site | Enkomi (Famagusta) (ENKO); Valério 2016, 36 |
 | Identity controls | Pleiades 13818291, Trismegistos 37211 (match: exact); Pleiades 158081397 "Tomb of the Kings near Enkomi" excluded |
 | Object type | Atab, Clay tablet; Valério 2016, 37 |
+| Date | LC IB (Late Cypriot IB), 1525–1425 BCE (Valério 2016, 39); CONFLICT, certainty LOW; lead statement: CMI II (Ferrara), "LC IB" (Valério 2016, 641) |
+| Script | Cypro-Minoan; Valério 2016, 451; Donnelly 2021, 269 |
+| Subcorpus | CM 0; Valério 2016, 451 |
 | Status | outside Appendix A |
+
+Set against the lead statement:
+
+| Statement | Period | Relation | Source |
+|---|---|---|---|
+| *the source's own words, not reproduced* | LC IIB, 1360–1320 BCE | disjoint | Donnelly 2021; Donnelly 2021, 269 |
 
 Outside Appendix A: The earliest Cypro-Minoan tablet; Appendix A begins at ##002. In the S1 Table as CM 0. (Donnelly 2026, 61)
 

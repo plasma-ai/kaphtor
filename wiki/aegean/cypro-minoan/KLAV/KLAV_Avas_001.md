@@ -27,6 +27,9 @@ updated: 2026-11-18T19:49:10Z
 | Site | Klavdia (Larnaca) (KLAV); Valério 2016, 36 |
 | Identity controls | none (match: none); no record |
 | Object type | Avas, Pottery (complete or fragmentary); Valério 2016, 37 |
+| Date | LC IA:1 or LC IIC:1–IIIA (Late Cypriot IA:1 or Late Cypriot IIC:1–IIIA), no years: a choice of periods: LC IA:1, 1600–1525 BCE, or LC IIC:1–IIIA, 1320–1100 BCE (Valério 2016, 39); AGREE, certainty LOW; lead statement: CMI II (Ferrara), "LC IA1 or LC IIC1-IIIA" (Valério 2016, 650) |
+| Script | Cypro-Minoan; Valério 2016, 557 |
+| Subcorpus | none: no held source assigns it |
 | Status | inscription |
 | Edition of record | CMI II, transcribed in Valério 2016, Appendix A, 557; unverified |
 

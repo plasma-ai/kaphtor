@@ -27,7 +27,9 @@ updated: 2026-11-18T19:49:10Z
 | Site | Kalavasos-Ayios Dhimitrios (Larnaca) (KALA); Valério 2016, 36 |
 | Identity controls | Pleiades 754796063 (match: exact); Pleiades 807160605 Kalavasos-Tenta (neolithic) excluded; no TM record |
 | Object type | Avas, Pottery (complete or fragmentary); Valério 2016, 37 |
-| Subcorpus | CM 1 |
+| Date | LC IIC (Late Cypriot IIC), 1320–1190 BCE (Valério 2016, 39); AGREE, certainty HIGH; lead statement: CMI II (Ferrara), "LC IIC" (Valério 2016, 645) |
+| Script | Cypro-Minoan; Valério 2016, 487 |
+| Subcorpus | CM 1; Valério 2016, 452; Valério 2016, 451 |
 | Status | inscription |
 | Edition of record | HoChyMin, transcribed in Valério 2016, Appendix A, 487; unverified |
 

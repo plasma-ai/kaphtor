@@ -27,9 +27,17 @@ updated: 2026-11-18T19:49:10Z
 | Site | Kition (Larnaca) (KITI); Valério 2016, 36 |
 | Identity controls | Pleiades 707534, Trismegistos 1109 (match: exact); Pleiades 494583, an unlocated "Kition" (BAtlas 50), excluded |
 | Object type | Iins, Ivory tool; Valério 2016, 37. The key prints Inst. The sigla, in the key's own thesis, read KITI Iins 001 and 002 (494, 647), never 'Inst', so Iins decodes by this row. |
-| Subcorpus | CM 1 |
+| Date | LC IIIA (Late Cypriot IIIA), 1190–1100 BCE (Valério 2016, 39); OVERLAP, certainty MEDIUM; lead statement: CMI II (Ferrara), "LC IIIA" (Valério 2016, 647) |
+| Script | Cypro-Minoan; Valério 2016, 494 |
+| Subcorpus | CM 1; Valério 2016, 452; Valério 2016, 451 |
 | Status | inscription |
 | Edition of record | HoChyMin, transcribed in Valério 2016, Appendix A, 494; unverified |
+
+Set against the lead statement:
+
+| Statement | Period | Relation | Source |
+|---|---|---|---|
+| *the source's own words, not reproduced* (The date of the destruction that laid the debris in which the ivories were found.) | LC IIC, 1320–1190 BCE | chronology | Valério 2016; Valério 2016, 419 |
 
 Not checked against HoChyMin, which is not held.
 

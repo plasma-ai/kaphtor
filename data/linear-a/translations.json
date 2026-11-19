@@ -794,9 +794,9 @@
         },
         {
           "linear_a": "A-*123-TE",
-          "reading": null,
-          "gloss": "heading word, in the slot of QA-*118-RA-RE on HT96b",
-          "note": "*123 is LB AROM and has no syllabic value. No reading."
+          "reading": "ha-quṭōrt",
+          "gloss": "the incense, in the slot of QA-*118-RA-RE on HT96b; the aromatics sign written for the word, with the article A- and the feminine ending -TE",
+          "confidence": "SPECULATIVE"
         },
         {
           "linear_a": "SI-MI-TA",
@@ -852,13 +852,14 @@
           "confidence": "CONFIRMED"
         }
       ],
-      "translation": "Disbursed (I-TI-TI-KU-NI) · ʿAbrān · A-*123-TE: Śīmat grain 5; Rusa 4; *323-*317 1; a portion 1; *323-*344 1. — ]KU-MA-RO: TE, figs 20; […] figs 2.",
+      "translation": "Disbursed (I-TI-TI-KU-NI) · ʿAbrān · the incense: Śīmat grain 5; Rusa 4; *323-*317 1; a portion 1; *323-*344 1. — ]KU-MA-RO: TE, figs 20; […] figs 2.",
       "status": "incomplete",
       "notes": "Grain list under a heading of three groups (GORILA I 157: only the divider after I-TI-TI-KU-NI is certain, and TI-TI-KU, though attested alone, is not to be isolated here), then a ruled section headed ]KU-MA-RO with TE and figs; .5 and .6 have a trace to the left. A-PA-RA-NE also heads HT96b, where QA-*118-RA-RE stands in the slot of A-*123-TE.",
       "source": {
         "di Mino": [
           "I-TI-TI-KU-NI",
           "A-PA-RA-NE",
+          "A-*123-TE",
           "SI-MI-TA",
           "PI-TA-RA"
         ]
@@ -933,11 +934,11 @@
         },
         {
           "linear_a": "A-DI-KI-TE-TE-[DU-PU₂]-RE",
-          "reading": "ʾa-Diqqitīt [dubu]r",
+          "reading": "ʾa-Diqqitet [dubu]r",
           "gloss": "O Diktaean of the Sanctuary",
           "dialect_variant_of": "JA-DI-KI-TU",
           "confidence": "CANDIDATE",
-          "note": "GORILA IV 34: A-DI-KI-TE-TE-[·] | [·]-RE, one lost sign at the end of side a and one at the start of side b; restored after PKZa15 JA-DI-KI-TE-TE-DU-PU₂-RE and PKZa8 JA-DI-KI-TE-TE-*307-PU₂-RE. TE-TE is the feminine nisbe -īt, Diqqitīt \"the Diktaean\" (see A-DI-KI-TE-TE), one sign group with dubur in each witness (PKZa8, PKZa11, PKZa15): Diqqitīt dubur \"the Diktaean of the sanctuary\". A- vocative as on PKZa12; Davis 2026 reads A- as \"to/for\"."
+          "note": "GORILA IV 34: A-DI-KI-TE-TE-[·] | [·]-RE, one lost sign at the end of side a and one at the start of side b; restored after PKZa15 JA-DI-KI-TE-TE-DU-PU₂-RE and PKZa8 JA-DI-KI-TE-TE-*307-PU₂-RE. TE-TE is the feminine nisbe -et, Diqqitet \"the Diktaean\" (see A-DI-KI-TE-TE), one sign group with dubur in each witness (PKZa8, PKZa11, PKZa15): Diqqitet dubur \"the Diktaean of the sanctuary\". A- vocative as on PKZa12; Davis 2026 reads A- as \"to/for\"."
         },
         {
           "linear_a": "PI-TE-RI",
@@ -1026,7 +1027,7 @@
         },
         {
           "linear_a": "A-DI-KI-TE-[",
-          "reading": "ʾa-Diqqitīt…",
+          "reading": "ʾa-Diqqitet…",
           "gloss": "[the Diktaean …]",
           "confidence": "CANDIDATE",
           "note": "TE damaged, no divider, the surface after it lost. Likely A-DI-KI-TE-TE, whole on PK Za 11."
@@ -1262,10 +1263,10 @@
         },
         {
           "linear_a": "JA-DI-KI-TE-TE-*307-PU₂-RE",
-          "reading": "yā Diqqitīt dubur",
+          "reading": "yā Diqqitet dubur",
           "gloss": "O Diktaean of the Sanctuary",
           "confidence": "PROBABLE",
-          "note": "Name + nisbe -TE-TE + *307-PU₂-RE dubur, the logogram with phonetic complement. TE-TE is the feminine nisbe -īt, Diqqitīt \"the Diktaean\" (see A-DI-KI-TE-TE), one sign group with dubur in each witness (PKZa8, PKZa11, PKZa15): Diqqitīt dubur \"the Diktaean of the sanctuary\"."
+          "note": "Name + nisbe -TE-TE + *307-PU₂-RE dubur, the logogram with phonetic complement. TE-TE is the feminine nisbe -et, Diqqitet \"the Diktaean\" (see A-DI-KI-TE-TE), one sign group with dubur in each witness (PKZa8, PKZa11, PKZa15): Diqqitet dubur \"the Diktaean of the sanctuary\"."
         },
         {
           "linear_a": "TU-ME-I",
@@ -1312,10 +1313,10 @@
       "words": [
         {
           "linear_a": "JA-DI-KI-TE-TE-DU-PU₂-RE",
-          "reading": "yā Diqqitīt dubur",
-          "gloss": "O Diktaean of the Sanctuary (vocative yā + Diqqitīt + dubur)",
+          "reading": "yā Diqqitet dubur",
+          "gloss": "O Diktaean of the Sanctuary (vocative yā + Diqqitet + dubur)",
           "confidence": "PROBABLE",
-          "note": "Same phrase as PKZa8 with *307. TE-TE is the feminine nisbe -īt, Diqqitīt \"the Diktaean\" (see A-DI-KI-TE-TE), one sign group with dubur in each witness (PKZa8, PKZa11, PKZa15): Diqqitīt dubur \"the Diktaean of the sanctuary\"."
+          "note": "Same phrase as PKZa8 with *307. TE-TE is the feminine nisbe -et, Diqqitet \"the Diktaean\" (see A-DI-KI-TE-TE), one sign group with dubur in each witness (PKZa8, PKZa11, PKZa15): Diqqitet dubur \"the Diktaean of the sanctuary\"."
         }
       ],
       "translation": "[…] · O Diktaean of the Sanctuary […]",
@@ -5991,13 +5992,13 @@
         },
         {
           "linear_a": "DA",
-          "reading": null,
-          "gloss": "unread",
-          "confidence": null,
-          "note": "Single sign at the end of the last line. No reading."
+          "reading": "damʿu",
+          "gloss": "the sanctuary's share (short form of DA-ME)",
+          "confidence": "SPECULATIVE",
+          "note": "Single sign at the end of the last line."
         }
       ],
-      "translation": "[…]MA[…] […]DI-NA-[…]. 2. QE-RA₂-JA[…]. 2. DI 2. 4. Young bull (MU-RU) 1. RU[…]. Shoots, for 5. DI[…]. Kubānu 3. Maʾdi 2. DA.",
+      "translation": "[…]MA[…] […]DI-NA-[…]. 2. QE-RA₂-JA[…]. 2. DI 2. 4. Young bull (MU-RU) 1. RU[…]. Shoots, for 5. DI[…]. Kubānu 3. Maʾdi 2. The sanctuary's share.",
       "status": "incomplete",
       "notes": "Roster broken at the top and upper sides; the lower lines keep their left edge. KU-PA₃-NU and MA-DI are recurring roster entries.",
       "source": "di Mino"
@@ -12304,6 +12305,34 @@
         ]
       }
     },
+    "HTZb162": {
+      "site": "Haghia Triada",
+      "support": "Clay vessel",
+      "genre": "jar label",
+      "words": [
+        {
+          "linear_a": "DI",
+          "reading": "dibšu",
+          "gloss": "honey",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "TI-DU",
+          "reading": "ṭiṭṭu",
+          "gloss": "malt",
+          "confidence": "SPECULATIVE"
+        }
+      ],
+      "translation": "Honey 3; malt.",
+      "confidence": "SPECULATIVE",
+      "notes": "Context: HT Zb series—vessel labels. A clay vessel from Casa VAP (La Rosa and Pugliese Carratelli 1987).\n\nThe edition reads the numeral 3, and the drawing has three unit strokes, two beside DI and one lower down. The label names what the jar held.",
+      "source": {
+        "di Mino": [
+          "DI",
+          "TI-DU"
+        ]
+      }
+    },
     "HTZb160": {
       "site": "Haghia Triada",
       "support": "Clay vessel",
@@ -12497,6 +12526,12 @@
       "genre": "administrative",
       "words": [
         {
+          "linear_a": "SE",
+          "reading": "ṣēd",
+          "gloss": "provision (short form of SE-DE)",
+          "confidence": "SPECULATIVE"
+        },
+        {
           "linear_a": "GRA",
           "reading": "dagān",
           "gloss": "grain (logogram)",
@@ -12515,7 +12550,7 @@
           "confidence": "PROBABLE"
         }
       ],
-      "translation": "Grain, 1/2 [...] the estate: grain [...]",
+      "translation": "Provision: grain, 1/2 [...] the estate: grain [...]",
       "confidence": "CANDIDATE",
       "notes": "Fragmentary grain record. DA-RE beside GRA, as DA-RE draws on HT 10a.",
       "source": {}
@@ -12978,6 +13013,159 @@
       "notes": "Context: KHWc roundel — sealed receipt; unit count = rim seal-impressions (Hallager convention), unrecorded in GORILA/SigLA transcriptions.",
       "source": {}
     },
+    "KHWc2058": {
+      "site": "Khania",
+      "support": "Roundel",
+      "genre": "roundel receipt",
+      "words": [
+        {
+          "linear_a": "*86+*188",
+          "reading": "buṭnu",
+          "gloss": "terebinth carried by ship",
+          "confidence": "CANDIDATE"
+        }
+      ],
+      "translation": "Terebinth carried by ship [roundel receipt].",
+      "confidence": "CANDIDATE",
+      "notes": "Context: KHWc roundel—sealed receipt; the seal impressions on the rim count the units (Hallager convention).\n\nNine impressions of one seal (Papapostolou 1977, 162): nine units. The drawing sets the gridded terebinth sign on the right part of a hull.",
+      "source": {
+        "di Mino": [
+          "*86+*188"
+        ]
+      }
+    },
+    "KHWc2059": {
+      "site": "Khania",
+      "support": "Roundel",
+      "genre": "roundel receipt",
+      "words": [
+        {
+          "linear_a": "*86+*188",
+          "reading": "buṭnu",
+          "gloss": "terebinth carried by ship",
+          "confidence": "CANDIDATE"
+        }
+      ],
+      "translation": "Terebinth carried by ship [roundel receipt].",
+      "confidence": "CANDIDATE",
+      "notes": "Context: KHWc roundel—sealed receipt; the seal impressions on the rim count the units (Hallager convention).\n\nThree impressions survive and part of the roundel is missing (Papapostolou 1977, 162), so three is the least count on this fragment. RILA-S1 enters the roundel as KH Wc 2059 [+] 2091 [+] 2092: the fragments 2091 and 2092 carry two impressions each of the same seal (1977, 164), seven in all.",
+      "source": {
+        "di Mino": [
+          "*86+*188"
+        ]
+      }
+    },
+    "KHWc2060": {
+      "site": "Khania",
+      "support": "Roundel",
+      "genre": "roundel receipt",
+      "words": [
+        {
+          "linear_a": "*86+*188",
+          "reading": "buṭnu",
+          "gloss": "terebinth carried by ship",
+          "confidence": "CANDIDATE"
+        }
+      ],
+      "translation": "[Terebinth] carried by ship [roundel receipt].",
+      "confidence": "CANDIDATE",
+      "notes": "Context: KHWc roundel—sealed receipt; the seal impressions on the rim count the units (Hallager convention).\n\nA fragment: the hull survives and the terebinth sign above it is broken away; Hallager calls the ideogram 'incomplete; it may be the same 'ship-ideogram'' (1995, 97). Three impressions survive (Papapostolou 1977, 162).",
+      "source": {
+        "di Mino": [
+          "*86+*188"
+        ]
+      }
+    },
+    "KHWc2062": {
+      "site": "Khania",
+      "support": "Roundel",
+      "genre": "roundel receipt",
+      "words": [
+        {
+          "linear_a": "*86+*188",
+          "reading": "buṭnu",
+          "gloss": "terebinth carried by ship",
+          "confidence": "CANDIDATE"
+        }
+      ],
+      "translation": "Terebinth carried by ship [roundel receipt].",
+      "confidence": "CANDIDATE",
+      "notes": "Context: KHWc roundel—sealed receipt; the seal impressions on the rim count the units (Hallager convention).\n\nTwo impressions survive and part of the roundel is missing (Papapostolou 1977, 162). The seal is KH 5, which also stamps KH Wc 2056 and 2057 (Hallager 1995, 93 n. 36).",
+      "source": {
+        "di Mino": [
+          "*86+*188"
+        ]
+      }
+    },
+    "KHWc2117": {
+      "site": "Khania",
+      "support": "Roundel",
+      "genre": "roundel receipt",
+      "words": [
+        {
+          "linear_a": "VIR+[?]",
+          "reading": null,
+          "gloss": "men; the second element of the ligature is unread",
+          "confidence": "PROBABLE"
+        },
+        {
+          "linear_a": "*86+*188",
+          "reading": "buṭnu",
+          "gloss": "terebinth carried by ship",
+          "confidence": "CANDIDATE"
+        }
+      ],
+      "translation": "Men. Terebinth carried by ship [roundel receipt].",
+      "confidence": "CANDIDATE",
+      "notes": "Context: KHWc roundel—sealed receipt; the seal impressions on the rim count the units (Hallager convention).\n\nThe man sign stands on one face and the ship ligature on the other, where a break cuts the upper right of the terebinth sign: the men who brought or received the cargo.",
+      "source": {
+        "di Mino": [
+          "*86+*188"
+        ]
+      }
+    },
+    "KHWc2056": {
+      "site": "Khania",
+      "support": "Roundel",
+      "genre": "roundel receipt",
+      "words": [
+        {
+          "linear_a": "*337+*188",
+          "reading": "buṭnu",
+          "gloss": "terebinth carried by ship, the ship drawn with an upright and a spar",
+          "confidence": "SPECULATIVE"
+        }
+      ],
+      "translation": "Terebinth carried by ship [roundel receipt].",
+      "confidence": "SPECULATIVE",
+      "notes": "Context: KHWc roundel—sealed receipt; the seal impressions on the rim count the units (Hallager convention).\n\nTwelve impressions of seal KH 5 (Papapostolou 1977, 162; Hallager 1995, 93 n. 36): twelve units. The terebinth sign stands above a pointed figure with a cross-stroke, a long stroke down and another rising to the right.",
+      "source": {
+        "di Mino": [
+          "*337+*188"
+        ]
+      }
+    },
+    "KHWc2057": {
+      "site": "Khania",
+      "support": "Roundel",
+      "genre": "roundel receipt",
+      "words": [
+        {
+          "linear_a": "*337+*188",
+          "reading": "buṭnu",
+          "gloss": "terebinth carried by ship, the ship drawn with an upright and a spar",
+          "confidence": "SPECULATIVE"
+        }
+      ],
+      "translation": "Terebinth carried by ship [roundel receipt].",
+      "confidence": "SPECULATIVE",
+      "notes": "Context: KHWc roundel—sealed receipt; the seal impressions on the rim count the units (Hallager convention).\n\nEleven impressions of seal KH 5 (Papapostolou 1977, 162; Hallager 1995, 93 n. 36): eleven units. The same hand and composition as KH Wc 2056.",
+      "source": {
+        "di Mino": [
+          "*337+*188"
+        ]
+      }
+    },
     "PE1": {
       "site": "Petras",
       "support": "Tablet",
@@ -13380,16 +13568,17 @@
       "words": [
         {
           "linear_a": "WA-*362",
-          "reading": "",
-          "gloss": "unknown (heading?)",
+          "reading": "waynu",
+          "gloss": "wine",
           "confidence": "SPECULATIVE",
-          "note": "Undeciphered sign *362. Quantity: 2."
+          "note": "*362 read no, after Linear B. Quantity: 2."
         },
         {
           "linear_a": "DU-RE-ZA-SE",
-          "reading": "",
-          "gloss": "unread",
-          "note": "Before *131B 5. Not read."
+          "reading": "turēṯa-se",
+          "gloss": "for the must, new wine",
+          "confidence": "CANDIDATE",
+          "note": "Before its own logogram, *131B 5."
         },
         {
           "linear_a": "U-*49",
@@ -13434,7 +13623,7 @@
           "note": "Quantity: 1."
         }
       ],
-      "translation": "WA-*362 2; DU-RE-ZA-SE *131B 5; mother(?) 6; [...] ʾAddē ('Father') 4; [...] Lallor ('Mourner') 2; Payare 1; Kakku-ʿAnēt ½; du 1",
+      "translation": "Wine 2; for the must, *131B 5; mother(?) 6; [...] ʾAddē ('Father') 4; [...] Lallor ('Mourner') 2; Payare 1; Kakku-ʿAnēt ½; du 1",
       "status": "incomplete",
       "notes": "Context: Administrative tablet—commodity allocations with 10+ personal names\n\nLarge allocation tablet with 10+ names. KA-KU-NE-TE appears near PA-JA-RE (Egyptian theophoric), suggesting a mixed-origin name list. Partial translation—many names unresolved.",
       "source": "di Mino"
@@ -14022,13 +14211,13 @@
         },
         {
           "linear_a": "SE",
-          "reading": null,
-          "meaning": "commodity ideogram or capacity measure",
-          "confidence": "UNREAD",
+          "reading": "ṣēd",
+          "meaning": "provision (short form of SE-DE)",
+          "confidence": "SPECULATIVE",
           "note": "Followed by fractional sign *732, probably 3/4; *732 is not the syllabogram JE in this context."
         }
       ],
-      "translation": "[…]-MI(?) · Ridāyu · SE ¾ […]",
+      "translation": "[…]-MI(?) · Ridāyu · provision ¾ […]",
       "confidence": "SPECULATIVE",
       "status": "fragmentary",
       "notes": "Incised right-to-left on a locally made limestone bowl or krater fragment; both ends are broken. The first preserved MI is probably the end of a lost word. Finkelberg, Uchitel and Ussishkin (1996, 195-203) offer only two functional possibilities: 'RI-DA-U: 3/4 of the SE commodity,' or a container for RI-DA-U of 3/4 SE capacity. Their closest parallel, KN Zb 27 DI-NA-U · VIN 17, is name, commodity, number. RILA-S1 D 5 classifies the inscription as doubtful Linear A.",
@@ -14628,8 +14817,9 @@
         },
         {
           "linear_a": "QE-KA",
-          "reading": null,
-          "meaning": "administrative roster label (unread)"
+          "reading": "Qēqa",
+          "meaning": "personal name",
+          "confidence": "SPECULATIVE"
         },
         {
           "linear_a": "PA",
@@ -14690,7 +14880,7 @@
           "note": "Arabic qayn 'smith, artisan' and Sabaic qyn 'administrator, governor,' including administrators of a god, support an occupational reading (Biella 1982, 454). The exact relation to Hebrew qēnî 'Kenite' remains uncertain."
         }
       ],
-      "translation": "Men of the Kikkar (KI-KI-RA-JA): Kret(a) 1; QE-KA 1; PA 1; Tetu 1; KA 1; DI 1; corvée gang 1; Redis 1; WA-DU-NI-MI 1; the man of Maʾdi 1; smith or administrator(?) 1.",
+      "translation": "Men of the Kikkar (KI-KI-RA-JA): Kret(a) 1; Qēqa 1; PA 1; Tetu 1; KA 1; DI 1; corvée gang 1; Redis 1; WA-DU-NI-MI 1; the man of Maʾdi 1; smith or administrator(?) 1.",
       "confidence": "SPECULATIVE",
       "status": "complete",
       "notes": "Reverse of HT85a. Eleven entries of 1 occur under KI-KI-RA-JA, with no written total. Surface damage affects the tablet, and TE-TU is damaged at the right edge. PA, KA and DI are logograms in SigLA's analysis; QE-KA and RE-DI-SE remain untranslated roster labels; ME-ZA is massu 'corvée gang'.",
@@ -16050,7 +16240,7 @@
         {
           "linear_a": "JA-WI",
           "reading": "Yawī",
-          "gloss": "personal name, '(he) lives'; rival '(he) is'",
+          "gloss": "personal name, '(he) gives life'; rival '(he) is'",
           "confidence": "CANDIDATE",
           "note": "The last word, against the original right edge; more signs may have followed on the lost lower left. Mari Ya-wi-ya, Ya-wi-AN (Huffmon 1965, 39, 70)."
         }
@@ -18582,13 +18772,20 @@
           "reading": "Taʿnaku",
           "gloss": "Taanach (place name)",
           "confidence": "SPECULATIVE"
+        },
+        {
+          "linear_a": "SE",
+          "reading": "ṣēd",
+          "gloss": "provision (short form of SE-DE)",
+          "confidence": "SPECULATIVE"
         }
       ],
-      "translation": "Taanach: SE.",
+      "translation": "Taanach: provision.",
       "notes": "The roundel is whole; SE is lightly abraded.",
       "source": {
         "di Mino": [
-          "TA-NI-KA"
+          "TA-NI-KA",
+          "SE"
         ],
         "GORILA": [
           "HTWc3004"
@@ -18605,13 +18802,20 @@
           "reading": "Taʿnaku",
           "gloss": "Taanach (place name)",
           "confidence": "SPECULATIVE"
+        },
+        {
+          "linear_a": "SE",
+          "reading": "ṣēd",
+          "gloss": "provision (short form of SE-DE)",
+          "confidence": "SPECULATIVE"
         }
       ],
-      "translation": "Taanach: SE.",
+      "translation": "Taanach: provision.",
       "notes": "The roundel is whole.",
       "source": {
         "di Mino": [
-          "TA-NI-KA"
+          "TA-NI-KA",
+          "SE"
         ],
         "GORILA": [
           "HTWc3005"
@@ -19696,15 +19900,22 @@
           "reading": "siddāru",
           "gloss": "siddāru 'Arranger' (personal name; spelling of SI-DA-RE)",
           "confidence": "SPECULATIVE"
+        },
+        {
+          "linear_a": "DA",
+          "reading": "damʿu",
+          "gloss": "the sanctuary's share (short form of DA-ME)",
+          "confidence": "SPECULATIVE"
         }
       ],
-      "translation": "[…] Tribute; bowl ⅛; tribute 2; DA; Siddāru ¼; SE […]",
+      "translation": "[…] Tribute; bowl ⅛; tribute 2; the sanctuary's share; Siddāru ¼; SE […]",
       "notes": "Broken above and below: the first SI is cut above and the last sign, SE, below.",
       "source": {
         "di Mino": [
           "SI",
           "KA",
-          "SI-DA-RO"
+          "SI-DA-RO",
+          "DA"
         ],
         "RILA-S1": [
           "GO 2"

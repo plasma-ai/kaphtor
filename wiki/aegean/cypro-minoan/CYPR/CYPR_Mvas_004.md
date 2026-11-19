@@ -27,7 +27,9 @@ updated: 2026-11-18T19:49:10Z
 | Site | Cyprus (CYPR); Valério 2016, 36 |
 | Identity controls | none (match: generic); generic code, no site |
 | Object type | Mvas, Metal base; Valério 2016, 37. The key prints 'Metal base'. The objects under the code are bowls: PPAP Mvas 001 is 'a silver bowl' (71) and 'one bronze bowl' (232), two descriptions Valério gives of the one object. |
-| Subcorpus | CM 1 |
+| Date | LC III (Late Cypriot III), 1190–1050 BCE (Valério 2016, 39); AGREE, certainty HIGH; lead statement: CMI II (Ferrara), "LC III" (Valério 2016, 648) |
+| Script | Cypro-Minoan; Valério 2016, 498 |
+| Subcorpus | CM 1; Valério 2016, 452; Valério 2016, 451 |
 | Status | inscription |
 | Edition of record | HoChyMin, transcribed in Valério 2016, Appendix A, 498; unverified |
 

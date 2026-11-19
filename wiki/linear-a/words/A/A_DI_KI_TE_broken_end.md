@@ -31,7 +31,7 @@ updated: 2026-11-04T01:52:28Z
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/PK/PKZa/PKZa12\|PKZa12]] | ʾa-Diqqitīt… | \[the Diktaean …\] | CANDIDATE |
+| [[wiki/linear-a/inscriptions/PK/PKZa/PKZa12\|PKZa12]] | ʾa-Diqqitet… | \[the Diktaean …\] | CANDIDATE |
 
 ## Unread
 

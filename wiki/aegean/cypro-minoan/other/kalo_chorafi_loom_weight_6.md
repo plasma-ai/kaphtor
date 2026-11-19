@@ -24,6 +24,9 @@ updated: 2026-11-18T19:49:10Z
 | Field | Value |
 |---|---|
 | ## number | none, outside Valério 2016, Appendix A |
+| Date | MM III–LM IA (Middle Minoan III–Late Minoan IA), 1700–1480 BCE (Valério 2016, 39); OVERLAP, certainty MEDIUM; lead statement: Donnelly 2026, *the source's own words, not reproduced* (Donnelly 2026, 68) |
+| Script | Cypro-Minoan; Egetmeyer 2024, 126; Donnelly 2026, 66; Donnelly 2026, 71 (finds no literate setting for it and so does not count it as writing in the strict sense) |
+| Subcorpus | none: no held source assigns it |
 | Status | outside Appendix A |
 
 No siglum: a find from West Crete published after Appendix A. (Egetmeyer 2024, 126)
@@ -43,6 +46,7 @@ Outside Appendix A: A discoid loom weight from Kalo Chorafi, West Crete (Tzigoun
 | Statement | Source | Note |
 |---|---|---|
 | *the source's own words, not reproduced* | Egetmeyer 2024, 126 |  |
+| *the source's own words, not reproduced* | Donnelly 2026, 68 |  |
 
 ### Object
 

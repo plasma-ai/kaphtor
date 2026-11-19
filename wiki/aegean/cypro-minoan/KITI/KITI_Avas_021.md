@@ -27,6 +27,9 @@ updated: 2026-11-18T19:49:10Z
 | Site | Kition (Larnaca) (KITI); Valério 2016, 36 |
 | Identity controls | Pleiades 707534, Trismegistos 1109 (match: exact); Pleiades 494583, an unlocated "Kition" (BAtlas 50), excluded |
 | Object type | Avas, Pottery (complete or fragmentary); Valério 2016, 37 |
+| Date | LC IIC (Late Cypriot IIC), 1320–1190 BCE (Valério 2016, 39); AGREE, certainty MEDIUM; lead statement: CMI II (Ferrara), "LC IIC" (Valério 2016, 650) |
+| Script | Cypro-Minoan; Valério 2016, 559 |
+| Subcorpus | none: no held source assigns it |
 | Status | inscription |
 | Edition of record | CMI II, transcribed in Valério 2016, Appendix A, 559; unverified |
 

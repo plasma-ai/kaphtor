@@ -27,7 +27,7 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/A_DI_KI_TE_TE\|A-DI-KI-TE-TE]] | ʾa-Diqqitīt | O Diktaean (f.), the feminine nisbe of Dikte | 1 |
+| [[wiki/names/semitic/names/A_DI_KI_TE_TE\|A-DI-KI-TE-TE]] | ʾa-Diqqitet | O Diktaean (f.), the feminine nisbe of Dikte | 1 |
 | [[wiki/names/semitic/names/DA_KI_TI\|DA-KI-TI]] | Daqqiti | of Daqqitu, the goddess to whom the incense is offered; rival daqqati 'fine (powder)' | 1 |
 | [[wiki/names/semitic/names/JA_DI_KI_TU\|JA-DI-KI-TU]] | yā Diqqitu | O Diqqitu! (vocative invocation of the proposed goat-goddess Diqqitu) | 1 |
 | [[wiki/names/semitic/names/RA_O_DI_KI\|RA-O-DI-KI]] | rāʿû diqqi | herdsman of the small cattle (title, over a flock of 60); rival a personal name | 1 |

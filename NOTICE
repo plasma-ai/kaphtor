@@ -75,9 +75,10 @@ IG XV 1, Cypriot syllabic inscriptions (data/ane/ig-xv-1-cypriot/)
   (https://telota.bbaw.de/ig/), CC BY 4.0. Text records only.
 
 Cypro-Minoan catalogue (data/ane/cypro-minoan/)
-  di Mino's catalogue of the Cypro-Minoan texts, CC BY 4.0. Its facts cite, by work and page, Miguel Valério,
-  Investigating the Signs and Sounds of Cypro-Minoan (PhD dissertation, Universitat de Barcelona 2016), and the other
-  works its MANIFEST lists; their table data stand as printed, none of their prose ships, and no transcription.
+  di Mino's catalogue of the Cypro-Minoan texts and readings of translated texts (translations.json), CC BY 4.0. Its
+  facts cite, by work and page, Miguel Valério, Investigating the Signs and Sounds of Cypro-Minoan (PhD dissertation,
+  Universitat de Barcelona 2016), and the other works its MANIFEST lists; their table data stand as printed, none of
+  their prose ships, and no transcription beyond the sign groups of the words the readings translate.
   Pleiades (https://pleiades.stoa.org) ids and descriptions, CC BY 3.0; Trismegistos ids as references to its records.
 
 I.Sicily, Semitic inscriptions (data/ane/isicily-semitic/)

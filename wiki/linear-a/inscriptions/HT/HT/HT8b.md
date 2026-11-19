@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "complete"
-words: ["*188", "KA-PA", "PA-JA-RE", "PA₃-*188", "QA-*310-I", "SU-PU₂-*188"]
+words: ["*86+*188", "*188", "KA-PA", "PA-JA-RE", "PA₃-*188", "QA-*310-I", "SU-PU₂-*188"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -93,6 +93,6 @@ Verso of HT8a. The recto records olive oil (OLE+KI) distributions; the verso rec
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/star/star188|\*188]], [[wiki/linear-a/words/K/KA_PA|KA-PA]], [[wiki/linear-a/words/P/PA_JA_RE|PA-JA-RE]], [[wiki/linear-a/words/P/PA3_star188|PA₃-\*188]], [[wiki/linear-a/words/Q/QA_star310_I|QA-\*310-I]], [[wiki/linear-a/words/S/SU_PU2_star188|SU-PU₂-\*188]].
+[[wiki/linear-a/words/star/star86_plus_star188|\*86+\*188]], [[wiki/linear-a/words/star/star188|\*188]], [[wiki/linear-a/words/K/KA_PA|KA-PA]], [[wiki/linear-a/words/P/PA_JA_RE|PA-JA-RE]], [[wiki/linear-a/words/P/PA3_star188|PA₃-\*188]], [[wiki/linear-a/words/Q/QA_star310_I|QA-\*310-I]], [[wiki/linear-a/words/S/SU_PU2_star188|SU-PU₂-\*188]].
 
 <!-- END kaphtor:record -->

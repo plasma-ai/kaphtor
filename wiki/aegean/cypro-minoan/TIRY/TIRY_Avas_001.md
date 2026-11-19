@@ -27,6 +27,9 @@ updated: 2026-11-18T19:49:10Z
 | Site | Tiryns (Greece) (TIRY); Valério 2016, 36 |
 | Identity controls | Pleiades 570740, Trismegistos 37671 (match: exact) |
 | Object type | Avas, Pottery (complete or fragmentary); Valério 2016, 37 |
+| Date | none: no held source dates it |
+| Script | Cypro-Minoan; Valério 2016, 561 |
+| Subcorpus | none: no held source assigns it |
 | Status | inscription |
 | Edition of record | own publication, transcribed in Valério 2016, Appendix A, 561; unverified |
 

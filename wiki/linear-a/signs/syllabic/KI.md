@@ -56,7 +56,7 @@ No CH ancestor—Linear A innovation (Ferrara et al. 2022).
 |---|---|---|
 | [[wiki/linear-a/words/star/star306_KI_TA2\|\*306-KI-TA₂]] | ʿAkkīta | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_DA_KI_SI_KA\|A-DA-KI-SI-KA]] | Ḫadki-šiqā | SPECULATIVE |
-| [[wiki/linear-a/words/A/A_DI_KI_TE_TE\|A-DI-KI-TE-TE]] | ʾa-Diqqitīt | PROBABLE |
+| [[wiki/linear-a/words/A/A_DI_KI_TE_TE\|A-DI-KI-TE-TE]] | ʾa-Diqqitet | PROBABLE |
 | [[wiki/linear-a/words/A/A_KI_PI_E_TE\|A-KI-PI-E-TE]] | Akipe-te | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_KI_RO\|A-KI-RO]] | ʾAkiru | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_PA_KI\|A-PA-KI]] | ʾabkī | SPECULATIVE |
@@ -64,6 +64,7 @@ No CH ancestor—Linear A innovation (Ferrara et al. 2022).
 | [[wiki/linear-a/words/D/DA_KI_TI\|DA-KI-TI]] | Daqqiti | SPECULATIVE |
 | [[wiki/linear-a/words/D/DI_KI_SE\|DI-KI-SE]] | Dikise | CANDIDATE |
 | [[wiki/linear-a/words/I/I_KI_RA\|I-KI-RA]] | ikkara | SPECULATIVE |
+| [[wiki/linear-a/words/J/JA_DI_KI_TE_TE\|JA-DI-KI-TE-TE]] | yā Diqqitet | PROBABLE |
 | [[wiki/linear-a/words/J/JA_DI_KI_TU\|JA-DI-KI-TU]] | yā Diqqitu | PROBABLE |
 | [[wiki/linear-a/words/J/JA_KI_SI_KI_NU\|JA-KI-SI-KI-NU]] | yaksīkin | CANDIDATE |
 | [[wiki/linear-a/words/K/KA_KI\|KA-KI]] | Kakki | SPECULATIVE |

@@ -15,23 +15,23 @@
     "compound": "a logogram or sign joined to others by a hyphen"
   },
   "stats": {
-    "listed": 178,
+    "listed": 170,
     "by_status": {
-      "unread": 105,
+      "unread": 92,
       "value_on_file": 4,
-      "component_read": 69
+      "component_read": 74
     },
     "by_kind": {
-      "syllabogram": 30,
-      "sign": 47,
-      "ligature": 64,
-      "vessel": 6,
+      "syllabogram": 28,
+      "sign": 46,
+      "ligature": 61,
+      "vessel": 4,
       "logogram": 5,
       "compound": 26
     },
-    "occurrences": 427,
+    "occurrences": 388,
     "hapax": 106,
-    "cross_site": 35
+    "cross_site": 31
   },
   "excluded": {
     "None": "a placeholder in the corpus record, not a sign",
@@ -221,38 +221,6 @@
       "note": "Alone on 12 Khania roundels in the corpus (KH Wc 2036–2045, 2095, 2111). Inside a word at Haghia Triada: RA-*164-TI (HT 17, HT 19). Nosch and Weilhartner take it as a syllabogram at Haghia Triada and a logogram at Khania, possibly for textiles, because a similar sign is a textile logogram in Linear B, *164, known only at Knossos (2026). No reading."
     },
     {
-      "sign": "*86+*188",
-      "kind": "ligature",
-      "status": "component_read",
-      "components": [
-        "*86",
-        "*188"
-      ],
-      "read_components": [
-        "*188"
-      ],
-      "frequency": 11,
-      "attestations": [
-        "HT8b",
-        "KHWc2058",
-        "KHWc2059",
-        "KHWc2060",
-        "KHWc2061",
-        "KHWc2062",
-        "KHWc2091",
-        "KHWc2092",
-        "KHWc2097",
-        "KHWc2109",
-        "KHWc2117"
-      ],
-      "sites": [
-        "Haghia Triada",
-        "Khania"
-      ],
-      "cross_site": true,
-      "note": "Alone on 9 Khania roundels and after VIR+[?] on a tenth; an entry on HT 8b. *188 with *86 attached; the lexicon reads *188, and HT 8b is translated after Uchitel's ship sign (2016b, 9). No reading."
-    },
-    {
       "sign": "*301+*311",
       "kind": "ligature",
       "status": "component_read",
@@ -286,10 +254,13 @@
     {
       "sign": "HIDE+[?]",
       "kind": "ligature",
-      "status": "unread",
+      "status": "component_read",
       "components": [
         "HIDE",
         "[?]"
+      ],
+      "read_components": [
+        "HIDE"
       ],
       "frequency": 9,
       "attestations": [
@@ -307,29 +278,7 @@
         "Phaistos"
       ],
       "cross_site": true,
-      "note": "The [?] is an element joined to the hide sign that the transcription does not name; no sign is lost."
-    },
-    {
-      "sign": "DA",
-      "kind": "syllabogram",
-      "status": "unread",
-      "frequency": 8,
-      "attestations": [
-        "GO2r",
-        "GO2v",
-        "HT3",
-        "HTWa1031",
-        "HTZb162bis",
-        "HTZf163",
-        "HTZf164",
-        "HTZf168"
-      ],
-      "sites": [
-        "Gournia",
-        "Haghia Triada"
-      ],
-      "cross_site": true,
-      "note": "Alone on the nodule HT Wa 1031, the vessel HT Zb 162bis and the metal objects HT Zf 163 and 164; NE DA on HT Zf 168. An entry on GO 2 and HT 3. No reading."
+      "note": "The [?] is an element joined to the hide sign that the transcription does not name; no sign is lost. At Malia the drawings show a cross inside the sign on MA 6a and an angle beside it on MA 6c. At Phaistos the sign of PH 10 has the hide's outline and that of PH 15b is nearer an animal's head."
     },
     {
       "sign": "MA",
@@ -397,7 +346,7 @@
         "Zakros"
       ],
       "cross_site": true,
-      "note": ""
+      "note": "Whole on the metal object CR Zf 5 and before a numeral on PK 3 (JA 20), a bar whose script is doubted. Elsewhere the corpus record sets a break beside it: on both sides on the stone vessel AP Za 3 and on ZA 32, after it on SY Za 1 (I-DA-MI · JA-[), and before it on HT 44b (]JA · TE-GRA+F) and PH 1a (]JA · *316 1). No reading."
     },
     {
       "sign": "NA",
@@ -441,30 +390,7 @@
         "Zakros"
       ],
       "cross_site": true,
-      "note": ""
-    },
-    {
-      "sign": "SE",
-      "kind": "syllabogram",
-      "status": "unread",
-      "frequency": 7,
-      "attestations": [
-        "GO2r",
-        "HTWc3004",
-        "HTWc3005",
-        "KH104",
-        "KH28",
-        "KH95",
-        "LACHZa1"
-      ],
-      "sites": [
-        "Gournia",
-        "Haghia Triada",
-        "Khania",
-        "Lachish"
-      ],
-      "cross_site": true,
-      "note": ""
+      "note": "Whole on KH 47 alone, where RA · *306 opens the last line at the preserved left edge, and in its own panel on the ring KN Zg 57b, between WI and KA. A break precedes RA on HT 147, KH 29 and ZA 11b (]RA 2), and follows it on HT 53a; on KH 14 (RA · A-MA-JA · CYP 6) the drawing does not show the left margin intact. No reading."
     },
     {
       "sign": "*86",
@@ -483,23 +409,6 @@
       ],
       "cross_site": false,
       "note": "HT 11b *86 · KA 40 opens a list counted in KA. Uchitel takes the sign for a schematic ship, heading shipments (2016b, 9); the syllabic value proposed is na. No lexicon entry."
-    },
-    {
-      "sign": "*408-VS",
-      "kind": "vessel",
-      "status": "unread",
-      "frequency": 4,
-      "attestations": [
-        "KHWc2084",
-        "KHWc2103",
-        "KHWc2114",
-        "KHWc2122"
-      ],
-      "sites": [
-        "Khania"
-      ],
-      "cross_site": false,
-      "note": "A vessel sign: a pointed, triangular vessel, on KH Wc 2103 with crossing supports, a vessel standing in a frame, and a curl on each side; KH Wc 2084 and 2114 are broken. Alone on 4 Khania roundels (KH Wc 2084, 2103, 2114, 2122). No reading."
     },
     {
       "sign": "MI",
@@ -669,28 +578,6 @@
       ],
       "cross_site": false,
       "note": ""
-    },
-    {
-      "sign": "*418+L2",
-      "kind": "ligature",
-      "status": "unread",
-      "components": [
-        "*418",
-        "L2"
-      ],
-      "frequency": 3,
-      "attestations": [
-        "KNZg57a",
-        "PH8a",
-        "PKZa28"
-      ],
-      "sites": [
-        "Knossos",
-        "Palaikastro",
-        "Phaistos"
-      ],
-      "cross_site": true,
-      "note": "An animal's head in profile, two projections on top and a muzzle to the right, with L2 beneath: PH 8a, counted 1. PK Za 28 has it after ]-PU₂-RE-[ on a stone vessel, where the drawing shows more than the photograph; KN Zg 57a lists it among vessel signs."
     },
     {
       "sign": "GRA+F",
@@ -1024,43 +911,6 @@
       "note": ""
     },
     {
-      "sign": "*337+*188",
-      "kind": "ligature",
-      "status": "component_read",
-      "components": [
-        "*337",
-        "*188"
-      ],
-      "read_components": [
-        "*188"
-      ],
-      "frequency": 2,
-      "attestations": [
-        "KHWc2056",
-        "KHWc2057"
-      ],
-      "sites": [
-        "Khania"
-      ],
-      "cross_site": false,
-      "note": ""
-    },
-    {
-      "sign": "*338",
-      "kind": "sign",
-      "status": "unread",
-      "frequency": 2,
-      "attestations": [
-        "KHWc2067",
-        "KHWc2068"
-      ],
-      "sites": [
-        "Khania"
-      ],
-      "cross_site": false,
-      "note": "Alone on the roundels KH Wc 2067 and 2068, a logogram (Salgarella 2020, 318): boots (Nosch and Weilhartner 2026, 119, citing Schoep 2002, 91)."
-    },
-    {
       "sign": "*370",
       "kind": "sign",
       "status": "unread",
@@ -1074,21 +924,6 @@
       ],
       "cross_site": false,
       "note": "GORILA's countermark, alone on the nodule HT Wa 1854, one of A 365–370 on HT Wa 1849–1854 (Salgarella 2020, 309–12). The corpus also has it on HT 49a, 1 *370 1, which SigLA leaves unread and Salgarella does not list."
-    },
-    {
-      "sign": "*417-VS",
-      "kind": "vessel",
-      "status": "unread",
-      "frequency": 2,
-      "attestations": [
-        "KHWc2006",
-        "KHWc2007"
-      ],
-      "sites": [
-        "Khania"
-      ],
-      "cross_site": false,
-      "note": "A vessel sign: a tapering vessel on a foot, cross-hatched inside, with loops on the rim; Vandenabeele takes A 417 for a basket (Schoep 2002, 127 n. 138). Alone on 2 Khania roundels (KH Wc 2006, 2007). No reading."
     },
     {
       "sign": "*47",
@@ -1273,10 +1108,13 @@
     {
       "sign": "HIDE+B",
       "kind": "ligature",
-      "status": "unread",
+      "status": "component_read",
       "components": [
         "HIDE",
         "B"
+      ],
+      "read_components": [
+        "HIDE"
       ],
       "frequency": 2,
       "attestations": [
@@ -1737,9 +1575,12 @@
     {
       "sign": "*330+DA",
       "kind": "ligature",
-      "status": "unread",
+      "status": "component_read",
       "components": [
         "*330",
+        "DA"
+      ],
+      "read_components": [
         "DA"
       ],
       "frequency": 1,
@@ -2649,10 +2490,13 @@
     {
       "sign": "HIDE+L",
       "kind": "ligature",
-      "status": "unread",
+      "status": "component_read",
       "components": [
         "HIDE",
         "L"
+      ],
+      "read_components": [
+        "HIDE"
       ],
       "frequency": 1,
       "attestations": [
@@ -2674,6 +2518,7 @@
         "B"
       ],
       "read_components": [
+        "HIDE",
         "SA"
       ],
       "frequency": 1,
@@ -2696,6 +2541,7 @@
         "L"
       ],
       "read_components": [
+        "HIDE",
         "SA"
       ],
       "frequency": 1,
@@ -3161,11 +3007,14 @@
     {
       "sign": "TA-HIDE+B",
       "kind": "compound",
-      "status": "unread",
+      "status": "component_read",
       "components": [
         "TA",
         "HIDE",
         "B"
+      ],
+      "read_components": [
+        "HIDE"
       ],
       "frequency": 1,
       "attestations": [
@@ -3266,9 +3115,12 @@
     {
       "sign": "TELA+SE",
       "kind": "ligature",
-      "status": "unread",
+      "status": "component_read",
       "components": [
         "TELA",
+        "SE"
+      ],
+      "read_components": [
         "SE"
       ],
       "frequency": 1,
@@ -3468,13 +3320,16 @@
     {
       "sign": "VIR+[?]-*339-HIDE+[?]",
       "kind": "compound",
-      "status": "unread",
+      "status": "component_read",
       "components": [
         "VIR",
         "[?]",
         "*339",
         "HIDE",
         "[?]"
+      ],
+      "read_components": [
+        "HIDE"
       ],
       "frequency": 1,
       "attestations": [

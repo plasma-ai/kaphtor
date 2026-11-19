@@ -37,4 +37,6 @@ updated: 2026-11-12T00:26:03Z
 
 A syllabogram. Status **unread** (nothing on file).
 
+Whole on the metal object CR Zf 5 and before a numeral on PK 3 (JA 20), a bar whose script is doubted. Elsewhere the corpus record sets a break beside it: on both sides on the stone vessel AP Za 3 and on ZA 32, after it on SY Za 1 (I-DA-MI · JA-\[), and before it on HT 44b (\]JA · TE-GRA+F) and PH 1a (\]JA · \*316 1). No reading.
+
 <!-- END kaphtor:record -->

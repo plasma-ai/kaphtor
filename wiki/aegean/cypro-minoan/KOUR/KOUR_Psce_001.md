@@ -27,9 +27,17 @@ updated: 2026-11-18T19:49:10Z
 | Site | Kourion (Limassol) (KOUR); Valério 2016, 36 |
 | Identity controls | Pleiades 707549, Trismegistos 1174 (match: exact); Pleiades 543758 (mountain), TM 63437 (Lycia) and 33538 (Thessalia) excluded |
 | Object type | Psce, Stone seal; Valério 2016, 37 |
-| Subcorpus | CM 1 |
+| Date | LC IIB (Late Cypriot IIB), 1360–1320 BCE (Valério 2016, 39); CONFLICT, certainty LOW; lead statement: CMI II (Ferrara), "LC IIB" (Valério 2016, 648) |
+| Script | Cypro-Minoan; Valério 2016, 503 |
+| Subcorpus | CM 1; Valério 2016, 452; Valério 2016, 451 |
 | Status | inscription |
 | Edition of record | HoChyMin, transcribed in Valério 2016, Appendix A, 503; unverified |
+
+Set against the lead statement:
+
+| Statement | Period | Relation | Source |
+|---|---|---|---|
+| "LC IIA (1400-1375)" | LC IIA, 1425–1360 BCE | disjoint | HoChyMin (Vandenabeele); Valério 2016, 648 |
 
 Not checked against HoChyMin, which is not held.
 

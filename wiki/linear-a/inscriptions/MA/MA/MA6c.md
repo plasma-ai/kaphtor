@@ -9,7 +9,7 @@ site: "Malia"
 support: "Tablet"
 period: "MMIIIB"
 translation: "none"
-words: []
+words: ["HIDE"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -51,5 +51,9 @@ Unicode (Linear A block):
 𐙒𐝫𐄗𐄍𐝫
 𐝫𐙒𐝫𐄚𐄒𐄉𐝫
 ```
+
+## Lexicon words citing this document
+
+[[wiki/linear-a/words/H/HIDE|HIDE]].
 
 <!-- END kaphtor:record -->

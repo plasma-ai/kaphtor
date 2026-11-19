@@ -8,17 +8,17 @@
   },
   "stats": {
     "corpus_words": 720,
-    "read": 552,
-    "unread_listed": 367,
+    "read": 557,
+    "unread_listed": 362,
     "by_status": {
       "edge_overlap": 18,
-      "unread": 153,
-      "role_only": 196
+      "unread": 150,
+      "role_only": 194
     },
-    "hapax": 356,
-    "repeated": 11,
+    "hapax": 352,
+    "repeated": 10,
     "cross_site": 4,
-    "surface_damaged": 276,
+    "surface_damaged": 275,
     "excluded_tokens": {
       "single-sign": 1418,
       "numeral/punct": 1553,
@@ -117,28 +117,6 @@
         ]
       },
       "note": "Both attestations are damaged. HT39 .3 KU-RẸ[, between SA-MA-TI 10 and KU-RO, RE dotted, broken after, no numeral (GORILA I 75). HT53b .4 ]KỤ-RE[, broken on both sides, KU dotted (GORILA I 103). Either may belong to a longer word: KU-RE-JU (HT39, HT117b), QA-KU-RE, QE-KU-RE. Not readable."
-    },
-    {
-      "word": "QE-KA",
-      "signs": 2,
-      "status": "role_only",
-      "role": "personal_name",
-      "translation_label": "roster label (unread)",
-      "frequency": 2,
-      "attestations": [
-        "HT111a",
-        "HT85b"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "surface_damage": {
-        "HT111a": [
-          "start"
-        ]
-      },
-      "note": "HT 85b .2 QE-KA 1, whole, among the one-man entries under KI-KI-RA-JA, after KI-RE-TA₂ 1 (GORILA I 133). HT 111a .2 ]QE-KA 8, broken before, followed on the line by QA-SA-[ (QA-RE-[ equally possible), with ]QA-QA-RU 8 and DI 14[ on .3 (GORILA I 181). Both lists hold DI. No reading."
     },
     {
       "word": "RE-TI",
@@ -608,20 +586,6 @@
       "note": "MA 1a, a three-sided bar from the Malia palace: X, then I-DU-WI · *47 · QE-DE-MI-NU · (GORILA I 268–269). The copie normalisée sets X apart from I-DU-WI, Younger prints X as the mark that opens the bar, and face b opens directly with A-MA · *47 · QE-DE-MI-NU (Younger, Linear A Texts). The word is I-DU-WI, and the listed form fuses the opening mark with it. Not a word."
     },
     {
-      "word": "A-*123-TE",
-      "signs": 3,
-      "status": "unread",
-      "frequency": 1,
-      "attestations": [
-        "HT96a"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "note": "HT 96a .2, the third heading group after I-TI-TI-KU-NI · A-PA-RA-NE, over a grain list (GORILA I 157). HT 96b has QA-*118-RA-RE in the same slot after A-PA-RA-NE. *123 is LB AROM and has no syllabic value; cf. TA-I-*123 (HT9a, HT9b, HT39). An aromatics term, written with the AROM sign in the slot of the other face's QA-*118-RA-RE 'incense'. Intact. No reading."
-    },
-    {
       "word": "A-*301",
       "signs": 2,
       "status": "role_only",
@@ -988,20 +952,6 @@
         ]
       },
       "note": "KH39 .1 A-TA-[, signs undotted, the hyphen before the break marking a group that went on (GORILA III 67). A-TA- opens several longer words, at Khania A-TA-*350 (KH11). Sole attestation. Not readable."
-    },
-    {
-      "word": "A-TA-*350",
-      "signs": 3,
-      "status": "unread",
-      "frequency": 1,
-      "attestations": [
-        "KH11"
-      ],
-      "sites": [
-        "Khania"
-      ],
-      "cross_site": false,
-      "note": "KH 11 .5 A-TA-*350, then *301 1 at the head of .6 (GORILA III 39). Intact, no dots. *350 occurs nowhere else and has no value; Salgarella asks whether it is a variant of *306 and takes it for a possible source of Linear B wo (Salgarella 2020, 171). Younger prints A-TE-*350 and compares A-TA-*301- of the libation formula (Younger, Linear A Texts), and GORILA reads TA. No reading."
     },
     {
       "word": "A-TO-*349-TO-I",
@@ -4293,7 +4243,7 @@
         "Haghia Triada"
       ],
       "cross_site": false,
-      "note": "HT Zd 156, last entry TA-JẠ with a fraction broken after it, JA underdotted in both copies and worn in the drawing (GORILA IV 133). Stucco fragment, after two NE entries and two A319 entries. Not readable."
+      "note": "HT Zd 156, last entry TA-JẠ with a fraction broken after it, JA underdotted in both copies and worn in the drawing (GORILA IV 133). Stucco fragment, after two NE entries and two A319 entries. The figures before it run 1, 1½, 2¼, 3⅜, each 1½ times the last, so this line is the fifth term, 5¹⁄₁₆, and Olivier 'tentatively suggests' that the group spells the numeral 5 (1992a, 135–36, apud Schoep 2002, 32). Not readable."
     },
     {
       "word": "TA-KE",
@@ -4534,20 +4484,6 @@
         ]
       },
       "note": "PH 13c ] E E ZU TE[ as printed left to right, two fraction signs, ZU, then TE at the right break, without hyphens (GORILA I 303). Younger reads the face retrograde and sets TE and ZU apart in the logogram column (Younger, Linear A Texts, other texts). GORILA V indexes the signs one by one and leaves grouping and direction to the edition (GORILA V 138). No edition groups TE-ZU. Not a word."
-    },
-    {
-      "word": "TI-DU",
-      "signs": 2,
-      "status": "unread",
-      "frequency": 1,
-      "attestations": [
-        "HTZb162"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "note": "HT Zb 162, a clay vessel from Casa VAP published by La Rosa and Pugliese Carratelli (1987), listed in RILA-S1's concordance (p. XXVII): DI, numeral, TI-DU. Photo and facsimile show three units: DI, one clear unit stroke with a possible second (the edition's 3 is not visible), and two signs TI-DU, complete at the right. No reading."
     },
     {
       "word": "TI-DU-NI",
@@ -4826,22 +4762,6 @@
       ],
       "cross_site": false,
       "note": "VRY Zb 3, a kyathos fragment from the Vrysinas sanctuary (Rethymnon Museum Π 24605) with two incised signs. The report gives the editors' readings ]AB 37-04[ or ]AB 10-04[, that is ]TI-TE[ or ]U-TE[, the first sign fragmentary, and records that they do not exclude Cretan Hieroglyphic (Del Freo, Rapport 2016–2021, 107–108). RILA-S1 lists it among its doubtful inscriptions (D 18). Not readable."
-    },
-    {
-      "word": "WA-*362",
-      "signs": 2,
-      "status": "role_only",
-      "role": "personal_name",
-      "translation_label": "unknown (heading?)",
-      "frequency": 1,
-      "attestations": [
-        "ZA10b"
-      ],
-      "sites": [
-        "Zakros"
-      ],
-      "cross_site": false,
-      "note": "ZA 10b .1 WA-*362 2, the first entry of face b, before DU-RE-ZA-SE *131B 5 (GORILA III 171). Intact. *362 has no resolved value; Melena takes it for the ancestor of Linear B no (Melena 2014a, 84–88, apud Salgarella 2020, 162, 291–94). No reading."
     },
     {
       "word": "WA-JA-PI",

@@ -43,6 +43,7 @@ updated: 2026-10-24T16:17:50Z
 | Word | Reading | Confidence |
 |---|---|---|
 | [[wiki/linear-a/words/star/star306_TI_KA_A_RE\|\*306-TI-KA-A-RE]] | ʿatīq+are | CANDIDATE |
+| [[wiki/linear-a/words/A/A_star123_TE\|A-\*123-TE]] | ha-quṭōrt | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_star325_ZA\|A-\*325-ZA]] | ʾabūs(a) | CANDIDATE |
 | [[wiki/linear-a/words/A/A_DA_star21F_RI\|A-DA-\*21F-RI]] | ha-dāhari | CANDIDATE |
 | [[wiki/linear-a/words/A/A_DA_KI_SI_KA\|A-DA-KI-SI-KA]] | Ḫadki-šiqā | SPECULATIVE |
@@ -50,7 +51,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_DA_RO\|A-DA-RO]] | ʾAddar | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_DE\|A-DE]] | ʾAddē | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_DI\|A-DI]] | ʿadi | SPECULATIVE |
-| [[wiki/linear-a/words/A/A_DI_KI_TE_TE\|A-DI-KI-TE-TE]] | ʾa-Diqqitīt | PROBABLE |
+| [[wiki/linear-a/words/A/A_DI_KI_TE_TE\|A-DI-KI-TE-TE]] | ʾa-Diqqitet | PROBABLE |
 | [[wiki/linear-a/words/A/A_DU\|A-DU]] | adû | CANDIDATE |
 | [[wiki/linear-a/words/A/A_DU_HT92_HT133\|A-DU (HT92, HT133)]] | ʾAddu | CANDIDATE |
 | [[wiki/linear-a/words/A/A_DU_star307_plus_star307\|A-DU \*307+\*307]] | adû dubur-dubur | CANDIDATE |
@@ -114,6 +115,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_SI_SU_PO_A\|A-SI-SU-PO-A]] | ʾassuppōa | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_SU_JA\|A-SU-JA]] | Azzuya | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_SU_PU_WA\|A-SU-PU-WA]] | ʾasuppūa | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_TA_star350\|A-TA-\*350]] | ʾatāwu | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_TA_DE\|A-TA-DE]] | ʾaʿtid(u) | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_TA_I_star301_DE_KA\|A-TA-I-\*301-DE-KA]] | ʾataʿinā dēka | CANDIDATE |
 | [[wiki/linear-a/words/A/A_TA_I_star301_WA_E\|A-TA-I-\*301-WA-E]] | ʾatainawē | CONFIRMED |

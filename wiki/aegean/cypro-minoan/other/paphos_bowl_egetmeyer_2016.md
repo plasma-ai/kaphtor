@@ -24,13 +24,24 @@ updated: 2026-11-18T19:49:10Z
 | Field | Value |
 |---|---|
 | ## number | none, outside Valério 2016, Appendix A |
+| Date | none: no held statement names a period |
+| Script | Cypro-Minoan; Egetmeyer 2024, 125 |
+| Subcorpus | none: no held source assigns it |
 | Status | outside Appendix A |
 
 No siglum: a find published after Appendix A. (Egetmeyer 2024, 125)
 
 Outside Appendix A: An inscribed metallic bowl from Paphos, published by Egetmeyer 2016. (Egetmeyer 2024, 125)
 
-No held source states its identity, museum number, editions, findspot, date, dimensions, object, document form, hand, visual evidence.
+## Metadata
+
+### Date
+
+| Statement | Source | Note |
+|---|---|---|
+| *the source's own words, not reproduced* | Egetmeyer 2024, 125 |  |
+
+No held source states its identity, museum number, editions, findspot, dimensions, object, document form, hand, visual evidence.
 
 No transcription is reproduced here: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
 

@@ -3,8 +3,9 @@
   "type": "SoftwareSourceCode",
   "name": "kaphtor",
   "description": "An open record of Linear A, and a toolkit for comparative Semitics: the reconciled Linear A corpus, proposed readings with their evidence and confidence tiers, tools for testing them, a database of Semitic roots, and query tools for the corpora of the ancient Near East.",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "datePublished": "2026-10-22",
+  "dateModified": "2026-11-19",
   "codeRepository": "https://github.com/plasma-ai/kaphtor",
   "issueTracker": "https://github.com/plasma-ai/kaphtor/issues",
   "url": "https://www.plasma.ai/research/linear-a",
@@ -12,13 +13,21 @@
     "https://spdx.org/licenses/Apache-2.0",
     "https://spdx.org/licenses/CC-BY-4.0",
     "https://spdx.org/licenses/CC-BY-SA-4.0",
-    "https://spdx.org/licenses/CC-BY-NC-SA-4.0"
+    "https://spdx.org/licenses/CC-BY-SA-3.0",
+    "https://spdx.org/licenses/CC-BY-NC-SA-4.0",
+    "https://spdx.org/licenses/CC-BY-NC-4.0",
+    "https://spdx.org/licenses/CC-BY-NC-ND-4.0",
+    "https://spdx.org/licenses/CC-BY-3.0",
+    "https://spdx.org/licenses/CC0-1.0",
+    "https://spdx.org/licenses/ODC-By-1.0",
+    "https://spdx.org/licenses/OFL-1.1"
   ],
   "author": [
     {
       "type": "Person",
       "givenName": "Tom",
       "familyName": "di Mino",
+      "id": "https://orcid.org/0009-0008-3927-6609",
       "url": "https://www.minoanmystery.org"
     }
   ],
@@ -46,10 +55,11 @@
   "referencePublication": {
     "type": "ScholarlyArticle",
     "name": "Ya Diktu: Grammar of the Minoan Peak Sanctuary Libation Formula",
-    "identifier": "https://doi.org/10.5281/zenodo.23584794"
+    "identifier": "https://doi.org/10.5281/zenodo.21903481"
   },
   "relatedLink": [
     "https://www.plasma.ai/research/linear-a",
-    "https://www.minoanmystery.org/linear-a"
+    "https://www.minoanmystery.org/linear-a",
+    "https://linear-a.ai/"
   ]
 }

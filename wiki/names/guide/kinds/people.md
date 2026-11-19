@@ -114,7 +114,7 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/semitic/names/JA_SA_JA\|JA-SA-JA]] | Yašʿaya | personal name '(DN) has helped', hypocoristic | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/JA_SA_MU\|JA-SA-MU]] | yaśmaʿū | 'He hears'—yaqtal hypocoristic personal name with frozen nominative -ū | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/JA_WA_PI\|JA-WA-PI]] | Yawpiʿ | Yawpiʿ 'He has shone forth' (personal name) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
-| [[wiki/names/semitic/names/JA_WI\|JA-WI]] | Yawī | personal name, '(he) lives', the bare form of the Amorite Yawi-DN names | [[wiki/names/semitic/_index\|Semitic]] | 1 |
+| [[wiki/names/semitic/names/JA_WI\|JA-WI]] | Yawī | personal name, '(he) gives life', the bare form of the Amorite Yawi-DN names | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/unread/names/JA_star345\|JA-\*345]] |  |  | [[wiki/names/unread/_index\|Unread]] | 1 |
 | [[wiki/names/semitic/names/JE_TA_NA\|JE-TA-NA]] | Yatana | he gave (personal name) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/KA_DU_MA_NE\|KA-DU-MA-NE]] | Qadmān | the Easterner, √q-d-m + -ān (Gordon: Cadmos + -ān) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
@@ -190,11 +190,10 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/semitic/names/QA_TI_JU\|QA-TI-JU]] | Qātilu | Qātilu (personal name), 'killer'; rival Hurrian Katiya 'He/She said' | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/hurrian/names/QA_TI_KI\|QA-TI-KI]] | Kattike | Kattike (Hurrian personal name), on kad- 'to say'; rival katki 'utterance' | [[wiki/names/hurrian/_index\|Hurrian]] | 1 |
 | [[wiki/names/semitic/names/QE_DE_MI_NU\|QE-DE-MI-NU]] | Qēdmīnu | personal name, 'Easterner, Ancient one' | [[wiki/names/semitic/_index\|Semitic]] | 2 |
-| [[wiki/names/unread/names/QE_KA\|QE-KA]] |  |  | [[wiki/names/unread/_index\|Unread]] | 2 |
+| [[wiki/names/semitic/names/QE_KA\|QE-KA]] | Qēqa | personal name | [[wiki/names/semitic/_index\|Semitic]] | 2 |
 | [[wiki/names/semitic/names/RA2_RO_RE\|RA₂-RO-RE]] | Lallor | personal name, 'Mourner' (Akk. lallaru); rival Amorite Li-lu-ri | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/RA_NA_TU_SU\|RA-NA-TU-SU]] | Rannatušu | personal name, 'his shout of joy'; rival two names, RA-NA and TU-SU | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/egyptian/names/RA_TI_SE\|RA-TI-SE]] | Ratis | Ratis (Egyptian personal name rdj⸗s, the name RE-DI-SE), 'the one she has given'; rival Safaitic RDS 'Breaker' | [[wiki/names/egyptian/_index\|Egyptian]] | 1 |
-| [[wiki/names/unread/names/RA_star164_TI\|RA-\*164-TI]] |  |  | [[wiki/names/unread/_index\|Unread]] | 2 |
 | [[wiki/names/semitic/names/RA_star314_RA\|RA-\*314-RA]] | Raḥal | personal name, 'Ewe' (√r-ḥ-l), as Hebrew Rāḥēl | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/egyptian/names/RE_DI_SE\|RE-DI-SE]] | Redis | Redis (Egyptian personal name rdj⸗s), 'the one she has given'; rival Safaitic RDS 'Breaker' | [[wiki/names/egyptian/_index\|Egyptian]] | 1 |
 | [[wiki/names/semitic/names/RI_DA_U\|RI-DA-U]] | Ridāyu | Ridāyu 'Helper, Escort' (personal name, hypocoristic) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
@@ -255,7 +254,6 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/semitic/names/U_TA_I_SE\|U-TA-I-SE]] | ʿUtay-se | personal name: ʿUtay with the -SE suffix, a recipient of cyperus; rival a Cretan name of another language (LB u-ta-jo) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/hurrian/names/U_TI\|U-TI]] | Utti | Utti (Hurrian personal name), stem utt-; rival the Anatolian name Utti | [[wiki/names/hurrian/_index\|Hurrian]] | 1 |
 | [[wiki/names/unread/names/WA_O_MI\|WA-O-MI]] |  |  | [[wiki/names/unread/_index\|Unread]] | 1 |
-| [[wiki/names/unread/names/WA_star362\|WA-\*362]] |  |  | [[wiki/names/unread/_index\|Unread]] | 1 |
 | [[wiki/names/semitic/names/WI_DI_NA\|WI-DI-NA]] | Widdinā | personal name, 'our Beloved' | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/WI_RA_RE_MI_TE\|WI-RA-RE-MI-TE]] | Wild-rēmti | Calf of the Wild Cow (personal name, compound; wild 'young one' + rēmtu 'wild cow') | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/aegean/names/WI_SA\|WI-SA]] | Wisa | Wisa (personal name) | [[wiki/names/aegean/_index\|Aegean]] | 1 |

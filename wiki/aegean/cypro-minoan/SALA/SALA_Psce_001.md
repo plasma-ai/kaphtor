@@ -27,9 +27,17 @@ updated: 2026-11-18T19:49:10Z
 | Site | Salamis (Famagusta) (SALA); Valério 2016, 36 |
 | Identity controls | Pleiades 707617, Trismegistos 2075 (match: exact); Attic Salamis (Pleiades 580100, 580101; TM 37803) excluded |
 | Object type | Psce, Stone seal; Valério 2016, 37 |
-| Subcorpus | CM 1 |
+| Date | LC IIC (Late Cypriot IIC), 1320–1190 BCE (Valério 2016, 39); CONFLICT, certainty LOW; lead statement: CMI II (Ferrara), "LC IIC" (Valério 2016, 649) |
+| Script | Cypro-Minoan; Valério 2016, 504 |
+| Subcorpus | CM 1; Valério 2016, 452; Valério 2016, 451 |
 | Status | inscription |
 | Edition of record | HoChyMin, transcribed in Valério 2016, Appendix A, 504; unverified |
+
+Set against the lead statement:
+
+| Statement | Period | Relation | Source |
+|---|---|---|---|
+| "LC IIA-IIB (1415-1370)" | LC IIA–IIB, 1425–1320 BCE | disjoint | HoChyMin (Vandenabeele); Valério 2016, 649 |
 
 Not checked against HoChyMin, which is not held.
 

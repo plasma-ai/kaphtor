@@ -27,7 +27,9 @@ updated: 2026-11-18T19:49:10Z
 | Site | Athienou (Larnaca) (ATHI); Valério 2016, 36 |
 | Identity controls | none (match: none); TM 37215 is "Golgoi", a different place name from Athienou; not set |
 | Object type | Adis, Clay disk; Valério 2016, 37 |
-| Subcorpus | CM 1 |
+| Date | LBA (Late Bronze Age), 1600–1050 BCE (Valério 2016, 39); OVERLAP, certainty LOW; lead statement: CMI II (Ferrara), "LBA (unspecified)" (Valério 2016, 644) |
+| Script | Cypro-Minoan; Valério 2016, 470 |
+| Subcorpus | CM 1; Valério 2016, 452; Valério 2016, 451 |
 | Status | inscription |
 | Edition of record | HoChyMin, transcribed in Valério 2016, Appendix A, 470; unverified |
 

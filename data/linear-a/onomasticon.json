@@ -24,10 +24,10 @@
     "auto"
   ],
   "stats": {
-    "total": 382,
+    "total": 380,
     "by_type": {
       "gentilic": 11,
-      "personal_name": 257,
+      "personal_name": 255,
       "theonym": 30,
       "title": 51,
       "toponym": 29,
@@ -39,11 +39,11 @@
       "egyptian": 11,
       "hurrian": 38,
       "indo_european": 1,
-      "semitic": 311,
+      "semitic": 312,
       "sumerian": 1,
       "unknown": {
-        "total": 12,
-        "intact": 12,
+        "total": 9,
+        "intact": 9,
         "fragmentary": 0,
         "edge_damaged": 0,
         "no_witness": 0,
@@ -54,17 +54,17 @@
       "Egyptian": 11,
       "Hurro-Urartian": 38,
       "Indo-European": 2,
-      "Semitic": 312,
+      "Semitic": 313,
       "Sumerian": 1,
-      "unassigned": 18
+      "unassigned": 15
     },
     "by_provenance": {
       "auto": 0,
-      "manual": 382
+      "manual": 380
     },
-    "manual_count": 382,
+    "manual_count": 380,
     "auto_count": 0,
-    "total_entries": 382
+    "total_entries": 380
   },
   "entries": [
     {
@@ -2607,14 +2607,14 @@
       "normalized": "qeka",
       "type": "personal_name",
       "type_confidence": "CANDIDATE",
-      "affiliation": "unknown",
-      "language_family": null,
+      "affiliation": "semitic",
+      "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
-      "affiliation_evidence": "none",
+      "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
-      "lexicon_ref": null,
-      "reading": null,
-      "meaning": null,
+      "lexicon_ref": "QE-KA",
+      "reading": "Qēqa",
+      "meaning": "personal name",
       "frequency": 2,
       "attestations": [
         "HT85b",
@@ -2660,7 +2660,7 @@
           "distance": 1.0
         }
       ],
-      "note": "Roster +numeral."
+      "note": "One man on HT 85b; HT 111a ]QE-KA 8 is broken before. Beside qq, a chief of the Levant under Amenhotep II (Cairo JE 86763), and Ugaritic kkln, qqln (Watson 1996b, 100)."
     },
     {
       "token": "QE-PU",
@@ -8121,7 +8121,7 @@
       "contact_ref": null,
       "lexicon_ref": "JA-WI",
       "reading": "Yawī",
-      "meaning": "personal name, '(he) lives', the bare form of the Amorite Yawi-DN names",
+      "meaning": "personal name, '(he) gives life', the bare form of the Amorite Yawi-DN names",
       "frequency": 1,
       "attestations": [
         "ZA14"
@@ -11429,59 +11429,6 @@
       "note": "HT 87, a register of cult personnel, in the name slot with 1: Akkadian kaššāpu/qaššāpu 'sorcerer', Hebrew məkaššēp (Deut 18:10). See the lexicon entry."
     },
     {
-      "token": "RA-*164-TI",
-      "normalized": "ra164ti",
-      "type": "personal_name",
-      "type_confidence": "SPECULATIVE",
-      "affiliation": "unknown",
-      "language_family": null,
-      "affiliation_confidence": "SPECULATIVE",
-      "affiliation_evidence": "none",
-      "contact_ref": null,
-      "lexicon_ref": null,
-      "reading": null,
-      "meaning": null,
-      "frequency": 2,
-      "attestations": [
-        "HT17",
-        "HT19"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "genre_supports": {
-        "Tablet": 2
-      },
-      "position_summary": {
-        "follows": {
-          "word": 2
-        },
-        "heads_document": 2
-      },
-      "co_occurring_known": [],
-      "provenance": "manual",
-      "bucket": "onomastic",
-      "weak_cognates": [
-        {
-          "root": "*ʔurīd-",
-          "language": "Proto-Semitic",
-          "distance": 0.2
-        },
-        {
-          "root": "*ḫuld-",
-          "language": "Proto-Semitic",
-          "distance": 0.35
-        },
-        {
-          "root": "*rīʕ-",
-          "language": "Proto-Semitic",
-          "distance": 1.0
-        }
-      ],
-      "note": "Heads the wine tablets HT 17 and HT 19, · TE · VIN 38 and 30 (GORILA I 35, 37). *164 has no resolved value. No reading."
-    },
-    {
       "token": "RA-*314-RA",
       "normalized": "ra314ra",
       "type": "personal_name",
@@ -14494,71 +14441,6 @@
         }
       ],
       "note": "HT 10b .1 U-TI 1, first entry, before DA-RE 2 and TA-RI-NA 15 (GORILA I 21). Utti, as Alalakh Ú-ti (AlT 414.7,17; Niedorf 2008, 309) and Nuzi Uttija, var. Ú-ti-ia (NPN 169). See the lexicon entry U-TI."
-    },
-    {
-      "token": "WA-*362",
-      "normalized": "wa362",
-      "type": "personal_name",
-      "type_confidence": "SPECULATIVE",
-      "affiliation": "unknown",
-      "language_family": null,
-      "affiliation_confidence": "SPECULATIVE",
-      "affiliation_evidence": "none",
-      "contact_ref": null,
-      "lexicon_ref": null,
-      "reading": null,
-      "meaning": null,
-      "frequency": 1,
-      "attestations": [
-        "ZA10b"
-      ],
-      "sites": [
-        "Zakros"
-      ],
-      "cross_site": false,
-      "genre_supports": {
-        "Tablet": 1
-      },
-      "position_summary": {
-        "follows": {
-          "numeral": 1
-        },
-        "heads_document": 1
-      },
-      "co_occurring_known": [
-        {
-          "word": "PA-JA-RE",
-          "reading": "Payare",
-          "meaning": "He (of) Re: Egyptian personal name Pꜣ-Rꜥ (Gordon's Pꜣy-Rꜥ); Linear B pa-ja-ro",
-          "category": "personal_name"
-        },
-        {
-          "word": "DU",
-          "reading": "du",
-          "meaning": "that, of (relative pronoun)",
-          "category": "particle"
-        }
-      ],
-      "provenance": "manual",
-      "bucket": "onomastic",
-      "weak_cognates": [
-        {
-          "root": "*wiʕaʔ-",
-          "language": "Proto-Semitic",
-          "distance": 0.2
-        },
-        {
-          "root": "*ʔay-",
-          "language": "Proto-Semitic",
-          "distance": 0.35
-        },
-        {
-          "root": "rw",
-          "language": "Luwian",
-          "distance": 1.0
-        }
-      ],
-      "note": "ZA 10b .1 WA-*362 2, the first entry of face b (GORILA III 171). *362 has no resolved value; Melena takes it for the ancestor of Linear B no (Melena 2014a, 84–88, apud Salgarella 2020, 162, 291–94). No reading."
     },
     {
       "token": "WA-O-MI",
@@ -17632,7 +17514,7 @@
       "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
       "lexicon_ref": "A-DI-KI-TE-TE",
-      "reading": "ʾa-Diqqitīt",
+      "reading": "ʾa-Diqqitet",
       "meaning": "O Diktaean (f.), the feminine nisbe of Dikte",
       "frequency": 1,
       "attestations": [

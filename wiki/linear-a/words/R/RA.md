@@ -43,4 +43,6 @@ updated: 2026-11-12T00:26:03Z
 
 A syllabogram. Status **unread** (nothing on file).
 
+Whole on KH 47 alone, where RA · \*306 opens the last line at the preserved left edge, and in its own panel on the ring KN Zg 57b, between WI and KA. A break precedes RA on HT 147, KH 29 and ZA 11b (\]RA 2), and follows it on HT 53a; on KH 14 (RA · A-MA-JA · CYP 6) the drawing does not show the left margin intact. No reading.
+
 <!-- END kaphtor:record -->

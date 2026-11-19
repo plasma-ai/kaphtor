@@ -27,9 +27,17 @@ updated: 2026-11-18T19:49:10Z
 | Site | Athienou (Larnaca) (ATHI); Valério 2016, 36 |
 | Identity controls | none (match: none); TM 37215 is "Golgoi", a different place name from Athienou; not set |
 | Object type | Avas, Pottery (complete or fragmentary); Valério 2016, 37 |
-| Subcorpus | CM 1 |
+| Date | LC III (Late Cypriot III), 1190–1050 BCE (Valério 2016, 39); CONFLICT, certainty LOW; lead statement: CMI II (Ferrara), "LC III" (Valério 2016, 645) |
+| Script | Cypro-Minoan; Valério 2016, 482 |
+| Subcorpus | CM 1; Valério 2016, 452; Valério 2016, 451 |
 | Status | inscription |
 | Edition of record | HoChyMin, transcribed in Valério 2016, Appendix A, 482; unverified |
+
+Set against the lead statement:
+
+| Statement | Period | Relation | Source |
+|---|---|---|---|
+| "LC II (1400-1200)" | LC II, 1425–1190 BCE | disjoint | HoChyMin (Vandenabeele); Valério 2016, 645 |
 
 Not checked against HoChyMin, which is not held.
 

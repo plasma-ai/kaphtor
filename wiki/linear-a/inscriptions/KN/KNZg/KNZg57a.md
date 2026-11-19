@@ -9,7 +9,7 @@ site: "Knossos"
 support: "ivory object"
 period: ""
 translation: "incomplete"
-words: ["*304", "*401", "*401+RU", "NI"]
+words: ["*304", "*401", "*401+RU", "*418+L2", "NI"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -58,7 +58,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/star/star401_plus_RO\|\*401+RO]] | \*401+RO | vessel-ligature (unvalued complement RO) | CANDIDATE |  |
 | [[wiki/linear-a/words/star/star401_plus_star304\|\*401+\*304]] | \*401+\*304 | vessel-ligature (\*304 complement) | CANDIDATE |  |
 | [[wiki/linear-a/words/star/star401_plus_RU\|\*401+RU]] | ruqqû | perfumed-oil vessel (lexicon \*401+RU; first Knossos attestation—all six prior at Khania) | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/star/star418_plus_L2\|\*418+L2]] | \*418+L2 | vessel ideogram + 1/20 fraction | CANDIDATE |  |
+| [[wiki/linear-a/words/star/star418_plus_L2\|\*418+L2]] | \*418+L2 | vessel ideogram + 1/20 fraction | CANDIDATE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/N/NI\|NI]] | NI | figs (CONFIRMED ideogram) | CONFIRMED | CONFIRMED (lexicon) |
 | [[wiki/linear-a/words/V/VAS\|VAS]] | VAS | vessel ideogram | CONFIRMED |  |
 
@@ -68,7 +68,7 @@ Unicode (Linear A block):
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/star/star304|\*304]], [[wiki/linear-a/words/star/star401|\*401]], [[wiki/linear-a/words/star/star401_plus_RU|\*401+RU]], [[wiki/linear-a/words/N/NI|NI]].
+[[wiki/linear-a/words/star/star304|\*304]], [[wiki/linear-a/words/star/star401|\*401]], [[wiki/linear-a/words/star/star401_plus_RU|\*401+RU]], [[wiki/linear-a/words/star/star418_plus_L2|\*418+L2]], [[wiki/linear-a/words/N/NI|NI]].
 
 ## Corpus note
 

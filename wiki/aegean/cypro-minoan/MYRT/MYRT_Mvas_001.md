@@ -27,7 +27,9 @@ updated: 2026-11-18T19:49:10Z
 | Site | Myrtou-Pigadhes (Kyrenia) (MYRT); Valério 2016, 36 |
 | Identity controls | Pleiades 707584, Trismegistos 60863 (match: village); the records name Myrtou (BAtlas 72 C2; TM Cyprus), not Pigadhes |
 | Object type | Mvas, Metal base; Valério 2016, 37. The key prints 'Metal base'. The objects under the code are bowls: PPAP Mvas 001 is 'a silver bowl' (71) and 'one bronze bowl' (232), two descriptions Valério gives of the one object. |
-| Subcorpus | CM 1 |
+| Date | LC IIC–IIIA (Late Cypriot IIC–IIIA), 1320–1100 BCE (Valério 2016, 39); AGREE, certainty HIGH; lead statement: CMI II (Ferrara), "LC IIC-IIIA" (Valério 2016, 648) |
+| Script | Cypro-Minoan; Valério 2016, 499 |
+| Subcorpus | CM 1; Valério 2016, 452; Valério 2016, 451 |
 | Status | inscription |
 | Edition of record | HoChyMin, transcribed in Valério 2016, Appendix A, 499; unverified |
 

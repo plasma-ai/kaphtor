@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/H/HIDE_plus_B
 title: "HIDE+B"
-desc: "Unread sign (ligature, unread); 2 occurrence(s)."
+desc: "Unread sign (ligature, component read); 2 occurrence(s)."
 tags: ["linear-a", "word", "unread"]
 kind: "word"
 form: "HIDE+B"
@@ -30,6 +30,8 @@ updated: 2026-11-12T00:26:03Z
 
 ## Unread sign
 
-A ligature. Status **unread** (nothing on file).
+A ligature. Status **component read** (a combined sign with a component the lexicon reads).
+
+The lexicon reads [[wiki/linear-a/words/H/HIDE|HIDE]].
 
 <!-- END kaphtor:record -->

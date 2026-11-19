@@ -9,7 +9,7 @@ site: "Zakros"
 support: "Tablet"
 period: "LMIB"
 translation: "incomplete"
-words: ["*131B", "A-DE", "A-MI-TA", "DU", "DU-RE-ZA-SE", "KA-KU-NE-TE", "MA-KI-DE-TE", "MA-ZA", "PA-JA-RE", "RA₂-RO-RE", "SA-MA", "TAMIR", "U-*49"]
+words: ["*131B", "A-DE", "A-MI-TA", "DU", "DU-RE-ZA-SE", "KA-KU-NE-TE", "MA-KI-DE-TE", "MA-ZA", "PA-JA-RE", "RA₂-RO-RE", "SA-MA", "TAMIR", "U-*49", "WA-*362"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -76,12 +76,12 @@ Unicode (Linear A block):
 
 **no confidence given**, incomplete (status: incomplete).
 
-> WA-\*362 2; DU-RE-ZA-SE \*131B 5; mother(?) 6; \[...\] ʾAddē ('Father') 4; \[...\] Lallor ('Mourner') 2; Payare 1; Kakku-ʿAnēt ½; du 1
+> Wine 2; for the must, \*131B 5; mother(?) 6; \[...\] ʾAddē ('Father') 4; \[...\] Lallor ('Mourner') 2; Payare 1; Kakku-ʿAnēt ½; du 1
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/W/WA_star362\|WA-\*362]] |  | unknown (heading?) | SPECULATIVE | unread |
-| [[wiki/linear-a/words/D/DU_RE_ZA_SE\|DU-RE-ZA-SE]] |  | unread |  | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/W/WA_star362\|WA-\*362]] | waynu | wine | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/D/DU_RE_ZA_SE\|DU-RE-ZA-SE]] | turēṯa-se | for the must, new wine | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/U/U_star49\|U-\*49]] | ʾummi | mother; or capital; rival 'and palm/tree produce' | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/A/A_DE\|A-DE]] | ʾAddē | Father (hypocoristic personal name, ʾAdday); rival the kin title ʾad 'father' | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/K/KA_KU_NE_TE\|KA-KU-NE-TE]] | Kakku-ʿAnēt | Weapon of Anat (personal name); rival Neith as the second element | SPECULATIVE | SPECULATIVE (lexicon) |
@@ -101,6 +101,6 @@ di Mino
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/star/star131B|\*131B]], [[wiki/linear-a/words/A/A_DE|A-DE]], [[wiki/linear-a/words/A/A_MI_TA|A-MI-TA]], [[wiki/linear-a/words/D/DU|DU]], [[wiki/linear-a/words/D/DU_RE_ZA_SE|DU-RE-ZA-SE]], [[wiki/linear-a/words/K/KA_KU_NE_TE|KA-KU-NE-TE]], [[wiki/linear-a/words/M/MA_KI_DE_TE|MA-KI-DE-TE]], [[wiki/linear-a/words/M/MA_ZA|MA-ZA]], [[wiki/linear-a/words/P/PA_JA_RE|PA-JA-RE]], [[wiki/linear-a/words/R/RA2_RO_RE|RA₂-RO-RE]], [[wiki/linear-a/words/S/SA_MA|SA-MA]], [[wiki/linear-a/words/T/TAMIR|TAMIR]], [[wiki/linear-a/words/U/U_star49|U-\*49]].
+[[wiki/linear-a/words/star/star131B|\*131B]], [[wiki/linear-a/words/A/A_DE|A-DE]], [[wiki/linear-a/words/A/A_MI_TA|A-MI-TA]], [[wiki/linear-a/words/D/DU|DU]], [[wiki/linear-a/words/D/DU_RE_ZA_SE|DU-RE-ZA-SE]], [[wiki/linear-a/words/K/KA_KU_NE_TE|KA-KU-NE-TE]], [[wiki/linear-a/words/M/MA_KI_DE_TE|MA-KI-DE-TE]], [[wiki/linear-a/words/M/MA_ZA|MA-ZA]], [[wiki/linear-a/words/P/PA_JA_RE|PA-JA-RE]], [[wiki/linear-a/words/R/RA2_RO_RE|RA₂-RO-RE]], [[wiki/linear-a/words/S/SA_MA|SA-MA]], [[wiki/linear-a/words/T/TAMIR|TAMIR]], [[wiki/linear-a/words/U/U_star49|U-\*49]], [[wiki/linear-a/words/W/WA_star362|WA-\*362]].
 
 <!-- END kaphtor:record -->

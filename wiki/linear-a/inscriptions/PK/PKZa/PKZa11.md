@@ -62,7 +62,7 @@ Unicode (Linear A block):
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | [[wiki/linear-a/words/A/A_TA_I_star301_WA_E\|A-TA-I-\*301-WA-E]] | ʾatainawē | I make myself a dwelling | CONFIRMED | CONFIRMED (lexicon) |
-| A-DI-KI-TE-TE-\[DU-PU₂\]-RE | ʾa-Diqqitīt \[dubu\]r | O Diktaean of the Sanctuary | CANDIDATE |  |
+| A-DI-KI-TE-TE-\[DU-PU₂\]-RE | ʾa-Diqqitet \[dubu\]r | O Diktaean of the Sanctuary | CANDIDATE |  |
 | [[wiki/linear-a/words/P/PI_TE_RI\|PI-TE-RI]] | piṭrī | Pitrī/Puṭrī (personal name) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/A/A_KO_A_NE\|A-KO-A-NE]] | ha-kōhan | the priest (proposed title) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/A/A_SA_SA_RA_ME\|A-SA-SA-RA-ME]] | ʾaššaram | in righteousness (cf. IO Za 2) | CONFIRMED | CONFIRMED (lexicon) |

@@ -3,7 +3,7 @@ name: wiki/names/semitic/names
 title: "Semitic names"
 desc: "The Semitic names, one page each."
 created: 2026-11-11T23:39:03Z
-updated: 2026-11-17T20:31:49Z
+updated: 2026-11-19T16:20:41Z
 ---
 
 # Semitic names
@@ -20,7 +20,7 @@ updated: 2026-11-17T20:31:49Z
 
 [[wiki/names/semitic/names/A_DE|A_DE]]: ʾAddē: Father (hypocoristic personal name, ʾAdday); rival the kin title ʾad 'father'. Semitic, SPECULATIVE.
 
-[[wiki/names/semitic/names/A_DI_KI_TE_TE|A_DI_KI_TE_TE]]: ʾa-Diqqitīt: O Diktaean (f.), the feminine nisbe of Dikte. Semitic, PROBABLE.
+[[wiki/names/semitic/names/A_DI_KI_TE_TE|A_DI_KI_TE_TE]]: ʾa-Diqqitet: O Diktaean (f.), the feminine nisbe of Dikte. Semitic, PROBABLE.
 
 [[wiki/names/semitic/names/A_DU|A_DU]]: ʾAddu: Addu (Haddu), the storm god, as recipient of a contribution. Semitic, CANDIDATE.
 
@@ -246,7 +246,7 @@ updated: 2026-11-17T20:31:49Z
 
 [[wiki/names/semitic/names/JA_WA_PI|JA_WA_PI]]: Yawpiʿ: Yawpiʿ 'He has shone forth' (personal name). Semitic, SPECULATIVE.
 
-[[wiki/names/semitic/names/JA_WI|JA_WI]]: Yawī: personal name, '(he) lives', the bare form of the Amorite Yawi-DN names. Semitic, CANDIDATE.
+[[wiki/names/semitic/names/JA_WI|JA_WI]]: Yawī: personal name, '(he) gives life', the bare form of the Amorite Yawi-DN names. Semitic, CANDIDATE.
 
 [[wiki/names/semitic/names/JA_star21F|JA_star21F]]: Yāh(a): Yāh, divine name; deity receiving offerings alongside Baʿal on HT28b. Semitic, SPECULATIVE.
 
@@ -435,6 +435,8 @@ updated: 2026-11-17T20:31:49Z
 [[wiki/names/semitic/names/QA_star310_I|QA_star310_I]]: qaynī: smith or cultic administrator; occupational title. Semitic, PROBABLE.
 
 [[wiki/names/semitic/names/QE_DE_MI_NU|QE_DE_MI_NU]]: Qēdmīnu: personal name, 'Easterner, Ancient one'. Semitic, SPECULATIVE.
+
+[[wiki/names/semitic/names/QE_KA|QE_KA]]: Qēqa: personal name. Semitic, SPECULATIVE.
 
 [[wiki/names/semitic/names/QE_PU|QE_PU]]: qēpu: official, commissioner (title); rival: the personal name Qīpu. Semitic, SPECULATIVE.
 

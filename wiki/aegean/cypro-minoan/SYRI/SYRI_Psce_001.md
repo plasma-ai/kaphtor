@@ -27,7 +27,9 @@ updated: 2026-11-18T19:49:10Z
 | Site | Syria (SYRI); Valério 2016, 36 |
 | Identity controls | none (match: generic); generic code, no site |
 | Object type | Psce, Stone seal; Valério 2016, 37 |
-| Subcorpus | CM 3 |
+| Date | LBA (Late Bronze Age), 1600–1050 BCE (Valério 2016, 39); OVERLAP, certainty LOW; lead statement: CMI II (Ferrara), "LBA (unspecified)" (Valério 2016, 649) |
+| Script | Cypro-Minoan; Valério 2016, 552 |
+| Subcorpus | CM 3; Valério 2016, 539; Valério 2016, 451 |
 | Status | inscription |
 | Edition of record | HoChyMin, transcribed in Valério 2016, Appendix A, 552; unverified |
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/H/HIDE_plus_q_broken_end
 title: "HIDE+[?]"
-desc: "Unread sign (ligature, unread); 9 occurrence(s)."
+desc: "Unread sign (ligature, component read); 9 occurrence(s)."
 tags: ["linear-a", "word", "unread"]
 kind: "word"
 form: "HIDE+[?]"
@@ -36,8 +36,10 @@ updated: 2026-11-12T00:26:03Z
 
 ## Unread sign
 
-A ligature. Status **unread** (nothing on file).
+A ligature. Status **component read** (a combined sign with a component the lexicon reads).
 
-The \[?\] is an element joined to the hide sign that the transcription does not name; no sign is lost.
+The lexicon reads [[wiki/linear-a/words/H/HIDE|HIDE]].
+
+The \[?\] is an element joined to the hide sign that the transcription does not name; no sign is lost. At Malia the drawings show a cross inside the sign on MA 6a and an angle beside it on MA 6c. At Phaistos the sign of PH 10 has the hide's outline and that of PH 15b is nearer an animal's head.
 
 <!-- END kaphtor:record -->

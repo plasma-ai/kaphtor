@@ -27,7 +27,9 @@ updated: 2026-11-18T19:49:10Z
 | Site | Kition (Larnaca) (KITI); Valério 2016, 36 |
 | Identity controls | Pleiades 707534, Trismegistos 1109 (match: exact); Pleiades 494583, an unlocated "Kition" (BAtlas 50), excluded |
 | Object type | Avas, Pottery (complete or fragmentary); Valério 2016, 37 |
-| Subcorpus | CM 1 |
+| Date | LC IIIA (Late Cypriot IIIA), 1190–1100 BCE (Valério 2016, 39); AGREE, certainty HIGH; lead statement: CMI II (Ferrara), "LC IIIA" (Valério 2016, 646) |
+| Script | Cypro-Minoan; Valério 2016, 488 |
+| Subcorpus | CM 1; Valério 2016, 452; Valério 2016, 451 |
 | Status | inscription |
 | Edition of record | HoChyMin, transcribed in Valério 2016, Appendix A, 488; unverified |
 

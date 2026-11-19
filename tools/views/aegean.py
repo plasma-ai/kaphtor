@@ -1,6 +1,8 @@
 """The record wiki's Aegean pages: the Eteocretan inscriptions with their word analyses, the Phaistos Disc with a
 page per sign, and the Cypro-Minoan catalogue (data/ane/cypro-minoan/) with a page per text and its indexes by site
-and object type; it carries no transcription, and a statement in its source's own words shows as a pointer.
+and object type; it carries no transcription, and a statement in its source's own words shows as a pointer. A
+translated text's page (translations.json) adds the reading word by word, with the sign group, line and Appendix A
+page of each word read and no group for a word left unread, and an index lists the texts translated.
 
 Each set is optional: a data folder without its files gets no pages. Transcriptions go in code blocks, since a
 combining dot after `|` would attach to a table pipe. The disc's readings are EXPLORATORY, below the decipherment's
@@ -175,6 +177,36 @@ def _cm_catalogue(folder: Path) -> dict | None:
     return _read(Path(folder).parent / "ane" / "cypro-minoan", "catalogue.json")
 
 
+def _cm_translations(folder: Path) -> dict:
+    """The translated texts beside the catalogue, keyed by siglum; none without the file."""
+    return (_read(Path(folder).parent / "ane" / "cypro-minoan", "translations.json") or {}).get("translations") or {}
+
+
+def _cm_rival(v: dict) -> str:
+    """A rival of a word left unread ships without its reading, which would spell the group."""
+    return (f"{v['proposer']}" + (f", {v['reading']}" if v.get("reading") else "")
+            + (f", {v['gloss']}" if v.get("gloss") else "")
+            + f" ({v['work']}, {v['page']})" + (f" [{v['note']}]" if v.get("note") else ""))
+
+
+def _cm_reading(rec: dict) -> list[str]:
+    """The Translation section: the translation, its source, tier and state, a row per word, then the notes."""
+    words = rec["words"]
+    rows = []
+    for w in words:
+        kind = ", ".join(filter(None, (w["reading_type"] and w["reading_type"].lower(), w["confidence"],
+                                       "emended text" if w["text"] == "emended" else None)))
+        rows.append([esc(w["line"]), esc(w["page"]), esc(w["cypro_minoan"]) if w["cypro_minoan"] else "*not reproduced*",
+                     esc("-".join(v or "?" for v in w["values"])), esc(w["reading"] or ""), esc(w["gloss"] or ""),
+                     esc(kind), esc("; ".join(_cm_rival(v) for v in w["rivals"])), esc(w["note"] or "")])
+    state = f"{rec['source']}'s reading, {rec['confidence']}, {rec['status'] or 'complete'}; {len(words)} words."
+    body = ["## Translation", "", esc(rec["translation"]), "", esc(state), ""]
+    body += table(["Line", "Page", "Group", "Values", "Reading", "Gloss", "Tier", "Rivals", "Note"], rows) + [""]
+    for paragraph in (rec.get("notes") or "").split("\n\n"):
+        body += [esc(paragraph), ""] if paragraph else []
+    return body
+
+
 def _cm_path(key: str, r: dict) -> str:
     return f"{CM}/{r['site_code'] or CM_OTHER}/{slug(key)}"
 
@@ -189,7 +221,42 @@ def _cm_name(key: str, r: dict) -> str:
     return r["siglum"] or key
 
 
-def _cm_page(key: str, r: dict) -> tuple[str, str]:
+def _cm_years(rng: list[int] | None) -> str:
+    return f"{rng[0]}–{rng[1]} BCE" if rng else ""
+
+
+def _cm_said(st: dict) -> str:
+    return CM_POINTER if st.get("pointer") else esc(f"\"{st['text']}\"")
+
+
+def _cm_dating(r: dict) -> tuple[list[list[str]], list[str]]:
+    """The Date, Script and Subcorpus rows of the record table, a null field with its reason, a cite or a statement
+    with its note; then the statements set against the lead, as a table of their own."""
+    why, sources = r["null_reasons"], r["field_sources"]
+    if r["period_code"] is None:
+        rows = [["Date", esc(f"none: {why['period_code']}")]]
+    else:
+        years = (f"{_cm_years(r['date_range_bce'])} (Valério 2016, 39)" if r["date_range_bce"]
+                 else f"no years: {why['date_range_bce']}")
+        b = r["dating_basis"]
+        rows = [["Date", esc(f"{r['period_code']} ({r['period_label']}), {years}; {r['dating_status']}, certainty "
+                             f"{r['date_certainty']}; lead statement: {b['source']}, ") + _cm_said(b)
+                 + esc(f" ({_cm_where(b['cites'])})" + (f"; {b['note']}" if b.get("note") else ""))]]
+    for field, label in (("script", "Script"), ("subcorpus", "Subcorpus")):
+        refs = "; ".join(_cm_where([c]) + (f" ({c['note']})" if c.get("note") else "")
+                         for c in sources.get(field, []))
+        rows.append([label, esc(f"none: {why[field]}" if r[field] is None
+                                else "; ".join(filter(None, (r[field], refs))))])
+    against = []
+    if r["conflicts"]:
+        against = ["Set against the lead statement:", ""] + table(["Statement", "Period", "Relation", "Source"], [
+            [_cm_said(c) + (esc(f" ({c['note']})") if c.get("note") else ""),
+             esc(", ".join(filter(None, (c["period_code"], _cm_years(c["date_range_bce"]))))),
+             esc(c["relation"]), esc(f"{c['source']}; {_cm_where(c['cites'])}")] for c in r["conflicts"]]) + [""]
+    return rows, against
+
+
+def _cm_page(key: str, r: dict, reading: dict | None = None) -> tuple[str, str]:
     sources, t, e = r["field_sources"], r["hochymin_type"] or {}, r["edition"]
     number = r["corpus_no"] or ("none, outside Valério 2016, Appendix A" if r["witness"] else "none")
     rows = [["## number", esc(number)]]
@@ -204,8 +271,8 @@ def _cm_page(key: str, r: dict) -> tuple[str, str]:
     if t:
         rows.append(["Object type", esc(f"{r['type_code']}, {t['gloss']}; {_cm_where(sources.get('hochymin_type', []))}"
                                         + (f". {t['note']}" if t.get("note") else ""))])
-    if r["traditional_subcorpus"]:
-        rows.append(["Subcorpus", esc(r["traditional_subcorpus"])])
+    dating, against = _cm_dating(r)
+    rows += dating
     rows.append(["Status", esc(_words(r["inclusion_status"] or "outside Appendix A"))])
     if e["of_record"]:
         pages = e["appendix_a_pages"]
@@ -213,7 +280,7 @@ def _cm_page(key: str, r: dict) -> tuple[str, str]:
             if pages else ""
         rows.append(["Edition of record", esc(f"{e['of_record']}, transcribed in Valério 2016{span}; "
                                               + ("verified" if e["verified"] else "unverified"))])
-    body = ["## Record", ""] + table(["Field", "Value"], rows) + [""]
+    body = ["## Record", ""] + table(["Field", "Value"], rows) + [""] + against
     if e["of_record"] and not e["verified"] and e.get("verification_note"):
         body += [esc(e["verification_note"]), ""]
     if e.get("edition_note"):
@@ -226,6 +293,8 @@ def _cm_page(key: str, r: dict) -> tuple[str, str]:
     if r["witness"]:
         w = r["witness"]
         body += [f"Outside Appendix A: {esc(w['what'])} ({esc(_cm_where(w['cites']))})", ""]
+    if reading:
+        body += _cm_reading(reading)
     present = [(field, label) for field, label in CM_FIELDS if r[field]]
     if present:
         body += ["## Metadata", ""]
@@ -238,8 +307,9 @@ def _cm_page(key: str, r: dict) -> tuple[str, str]:
     missing = [label.lower() for field, label in CM_FIELDS if not r[field]]
     if missing:
         body += ["No held source states its " + ", ".join(missing) + ".", ""]
-    body += [("No transcription is reproduced here: Valério 2016, Appendix A transcribes the corpus under terms that "
-              "allow private research use only, and the edition row names its pages."), ""]
+    beyond = " beyond the sign groups of the words read" if reading else ""
+    body += [(f"No transcription is reproduced here{beyond}: Valério 2016, Appendix A transcribes the corpus under terms "
+              "that allow private research use only, and the edition row names its pages."), ""]
     what = (t.get("object") or "").strip()
     what = CM_OBJECTS.get(what, what) or "object not decoded"
     place = f", {'perhaps ' if r['site_queried'] else ''}from {r['site']}" if r["site"] else ""
@@ -263,7 +333,8 @@ def cypro_minoan(folder: Path) -> dict[str, str]:
     catalogue = _cm_catalogue(folder)
     if not catalogue:
         return {}
-    out = [_cm_page(key, r) for key, r in catalogue.items()]
+    translations = _cm_translations(folder)
+    out = [_cm_page(key, r, translations.get(key)) for key, r in catalogue.items()]
     sites, types = {}, {}
     for key, r in catalogue.items():
         sites.setdefault(r["site_code"], []).append((key, r))
@@ -281,6 +352,15 @@ def cypro_minoan(folder: Path) -> dict[str, str]:
     out.append(_cm_index(f"{CM}/by_type", "Cypro-Minoan texts by object type",
                          "The Cypro-Minoan texts grouped by the HoChyMin type code of their siglum, with its object "
                          "and material.", ["Code", "Object", "Material"], types, type_cells))
+    if translations:
+        rows = [[link(_cm_path(k, catalogue[k]), esc(_cm_name(k, catalogue[k]))), esc(rec["confidence"]),
+                 esc(rec["status"] or "complete"), str(len(rec["words"])), esc(rec["translation"])]
+                for k, rec in sorted(translations.items(), key=lambda kr: natural(kr[0])) if k in catalogue]
+        out.append(_page(f"{CM}/translated", {
+            "title": "Cypro-Minoan texts translated",
+            "desc": "The Cypro-Minoan texts with di Mino's reading, each with its tier, state, words and translation.",
+            "tags": ["aegean", "cypro-minoan"], "kind": "cypro_minoan_index"},
+            table(["Text", "Tier", "State", "Words", "Translation"], rows) + [""]))
     return collect(out)
 
 

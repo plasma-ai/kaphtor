@@ -27,7 +27,9 @@ updated: 2026-11-18T19:49:10Z
 | Site | Ras Shamra / Ugarit (Syria) (RASH); Valério 2016, 36 |
 | Identity controls | Trismegistos 50359 (match: exact); Pleiades 668295 "Leukos Limen" (BAtlas 68 A2) is not Ras Shamra or Ugarit; excluded |
 | Object type | Mvas, Metal base; Valério 2016, 37. The key prints 'Metal base'. The objects under the code are bowls: PPAP Mvas 001 is 'a silver bowl' (71) and 'one bronze bowl' (232), two descriptions Valério gives of the one object. |
-| Subcorpus | CM 3 |
+| Date | LC IIC–IIIA (Late Cypriot IIC–IIIA), 1320–1100 BCE (Valério 2016, 39); OVERLAP, certainty MEDIUM; lead statement: CMI II (Ferrara), "LC IIC-IIIA" (Valério 2016, 649) |
+| Script | Cypro-Minoan; Valério 2016, 551 |
+| Subcorpus | CM 3; Valério 2016, 539; Valério 2016, 451 |
 | Status | inscription |
 | Edition of record | HoChyMin, transcribed in Valério 2016, Appendix A, 551; unverified |
 

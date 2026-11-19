@@ -5,28 +5,46 @@
   "policy": {
     "merge_into_linear_a": false,
     "keys": "catalogue.json is a dict keyed by siglum as Valério 2016's Appendix A prints it; a text with no siglum is keyed by the name it is published under, or by an id.",
-    "text": "No Cypro-Minoan text ships. Valério 2016, whose Appendix A transcribes the corpus, is a doctoral thesis whose terms allow private research and teaching use only; edition names the edition of record and the Appendix A pages, for a reader with the thesis in hand.",
+    "text": "No Cypro-Minoan text ships beyond the sign groups of the words translations.json reads. Valério 2016, whose Appendix A transcribes the corpus, is a doctoral thesis whose terms allow private research and teaching use only; edition names the edition of record and the Appendix A pages, for a reader with the thesis in hand.",
+    "translations": "translations.json holds di Mino's readings of whole texts, keyed by siglum: each word read with its sign group in Olivier's numbers, its line and the Appendix A page that prints it, as scholarship quotes the groups it discusses, its value for each sign, gloss and tier, and the published readings it rivals, each with proposer, work and page; a word left unread keeps its line, page, kind and note, without its group, and its rivals keep proposer, gloss, work and page, without the readings that would spell it; then the values the readings take, each with its tier and evidence. The readings are never counted with Linear A and never evidence for a Linear A sign value.",
     "statements": "Every metadata statement names its work and page. Where its text is the source's own words it ships as a pointer: text null, pointer true, the cites kept. A table cell ships as its datum, and a remark in it is restated as a note. No quotation of a closed source ships.",
+    "dating": "Every text carries period_code, period_label, date_range_bce, date_midpoint_bce, date_certainty, dating_basis, dating_status and conflicts, derived from its date statements. The lead statement is CMI II's (Ferrara), then HoChyMin's (Vandenabeele), both as Valério's Appendix C relays them, then Donnelly's, then the rest in record order. The years are those of Valério's Table I.1, or Table I.2 for a Minoan period (2016, 39); each source's own years stay in its statement, and a choice of periods takes no single span, its reason giving each alternative's years. dating_status is AGREE, OVERLAP, CONFLICT or UNDATED; conflicts lists each statement set against the lead with its relation: disjoint, unknown, or chronology, the same years named on either side of the LC IIC/IIIA boundary, which Table I.1 sets at 1190 and the Enkomi and Kition excavations c. 1230, counted as an overlap. Two periods overlap when the years of one each names overlap, one end of a range or one alternative sufficing, or when an era holds the other by name. date_certainty is HIGH when every source names the same period; MEDIUM for an overlap, a queried lead, a lead mapped from years, a source that gives no date, or a period one source alone gives; LOW for a conflict, a lead that is unspecified, a terminus ante quem or a choice of periods, or a date out of context. Donnelly 2021's chronology column relays Ferrara's, so where it gives CMI II's period it counts as that source. A lead or conflicting statement ships as its date statement does: a pointer where that is one, with its note. Every null field has its reason in null_reasons.",
+    "script": "script is Cypro-Minoan for an Appendix A inscription and for a witness a held source sets among Cypro-Minoan texts, Cypro-Greek for the three texts Valério rejects as Cypro-Greek, and null with its reason for the rest. subcorpus is Masson's CM 1, 2 or 3 as Valério's Appendix A heads the text, or CM 0 for ##001, and null with its reason for a text outside Cypro-Minoan and one no held source assigns. field_sources gives the pages of both, with a note where a held source doubts the writing: Valério on nine texts, Donnelly on the Kalo Chorafi loom weight.",
     "identity_controls": "Pleiades and Trismegistos ids identify a site; they are never attestations."
   },
   "source": {
     "description": "di Mino's Cypro-Minoan corpus layer, one record per text, built from the held works below",
-    "corpus_sha256": "98b149d841591d18a1adb9ea8064608adce7f461ff054020320b9e22eb0f838f",
-    "manifest_sha256": "d564d372f97f60185ccc79c0df754701db75ab054c9ed9cf79043ca0da23971a"
+    "corpus_sha256": "bba272210dbfc193451389783e0c6a0d6d9f0a01d3214cd6136f673e0b0dd4c8",
+    "manifest_sha256": "87e9cccc678227082c087f48f193b9a0edc8f4957b7d9b9dfa505643af7bf561",
+    "translations_description": "di Mino's Cypro-Minoan translations layer and the values its readings take",
+    "translations_sha256": "8392d8ffeb62884848025ca2cb09b01907bee51b8201da126e743420abcb1b20",
+    "sign_values_sha256": "a328be7e3f774076fea3e0d55c3ea83d13c174e83fa02661446d59ff12c009f5",
+    "translations_manifest_sha256": "d23ca81159237c7daa36e26a81f112ca8279f38468797aedc4888331afd93643"
   },
   "works": {
+    "Astour 1995": "Astour, Michael C., La topographie du royaume d'Ougarit, in Yon, Marguerite; Sznycer, Maurice; Bordreuil, Pierre (eds.), Le pays d'Ougarit autour de 1200 av. J.-C.: Histoire et archéologie. Actes du Colloque International, Paris, 28 juin–1er juillet 1993, Éditions Recherche sur les Civilisations, Paris (Ras Shamra-Ougarit XI), 1995, 55–71",
     "Bordreuil and Pardee 1989": "Bordreuil, Pierre; Pardee, Dennis, La trouvaille épigraphique de l'Ougarit. 1. Concordance, Éditions Recherche sur les Civilisations, Paris (Ras Shamra-Ougarit V; Mémoire n° 86), 1989",
     "Corazza et al. 2022": "Corazza, Michele; Tamburini, Fabio; Valério, Miguel; Ferrara, Silvia, Unsupervised deep learning supports reclassification of Bronze age cypriot writing system, PLoS ONE 17, 2022, e0269544, doi:10.1371/journal.pone.0269544",
+    "DULAT": "del Olmo Lete, Gregorio; Sanmartín, Joaquín, A Dictionary of the Ugaritic Language in the Alphabetic Tradition, Brill, Leiden/Boston (Handbook of Oriental Studies 1/112); Third Revised Edition, tr. and ed. Wilfred G.E. Watson; 2 parts, 2015",
+    "Davis 2026b": "Davis, Brent, The Undeciphered Aegean Scripts: Linguistic Investigations into the Languages They Encode, Cambridge University Press, 2026",
     "Donnelly 2021": "Donnelly, Cassandra M., Signs of Writing? Writing and Trade in the Late Bronze Age Eastern Mediterranean, The University of Texas at Austin (PhD dissertation), 2021, doi:10.26153/tsw/59810",
     "Donnelly 2024": "Donnelly, Cassandra M., Cypro-Minoan and Its Writers: At Home and Overseas, Elements in Writing in the Ancient World, Cambridge University Press, 2024, doi:10.1017/9781009381840",
     "Donnelly 2026": "Donnelly, Cassandra, Cycladic Linear A and connections between scripts, In E. Salgarella & V. Petrakis (eds.), The Wor(l)ds of Linear A, AURA Supplement 15, Department of History and Archaeology, NKUA, Athens, pp. 61–76, 2026",
     "Egetmeyer 2024": "Egetmeyer, Markus, 2016-2020 report on the Cypriot syllabic inscriptions, in Bennet, J.; Karnava, A.; Meißner, T. (eds.), KO-RO-NO-WE-SA: Proceedings of the 15th International Colloquium on Mycenaean Studies, September 2021, Ariadne Supplement Series 5, The Faculty of Philosophy of the University of Crete, 2024, 125–136",
+    "Faucounau 1977": "Faucounau, Jean, Études chypro-minoennes, Syria 54, fasc. 3-4, pp. 209-249, 1977, doi:10.3406/syria.1977.6604",
+    "Faucounau 1980": "Faucounau, Jean, Études chypro-minoennes, Syria 57, fasc. 2-4, pp. 375-410, 1980, doi:10.3406/syria.1980.6701",
+    "Kinlaw 1967": "Kinlaw, Dennis F., A Study of the Personal Names in the Akkadian Texts from Ugarit, Brandeis University, Department of Mediterranean Studies (Ph.D. dissertation), 1967",
+    "McAffee 2019": "McAffee, Matthew, Life and Mortality in Ugaritic: A Lexical and Literary Study, Explorations in Ancient Near Eastern Civilizations 7, Eisenbrauns, 2019",
+    "O. Masson 1969": "Masson, Olivier, Documents chypro-minoens de Ras Shamra III. La tablette RS 20.25 de 1956, in Schaeffer, Claude F. A. (ed.), Ugaritica VI: publié à l'occasion de la XXXe campagne de fouilles à Ras Shamra (1968), Mission archéologique de Ras Shamra, Collège de France; Librairie orientaliste Paul Geuthner, Paris (Mission de Ras Shamra XVII; Bibliothèque archéologique et historique LXXXI), 1969, 379–392",
     "Palaima 1989a": "Palaima, Thomas G., Cypro-Minoan Scripts: Problems of Historical Context, in Duhoux, Y.; Palaima, T. G.; Bennet, J. (eds.), Problems in Decipherment, Bibliothèque des Cahiers de l'Institut de Linguistique de Louvain 49, 1989, 121–187",
     "Perna 2020": "Perna, Massimo, A proposito del corpus delle scritture cipro-minoiche. Vecchi documenti e nuove letture, Cahiers du Centre d'Études Chypriotes 50, 2020, 79–90, doi:10.4000/cchyp.479",
+    "Perna 2024": "Perna, Massimo, Rapporto sulla preparazione del corpus della scrittura cipro-minoica, in Bennet, J.; Karnava, A.; Meißner, T. (eds.), KO-RO-NO-WE-SA: Proceedings of the 15th International Colloquium on Mycenaean Studies, September 2021, Ariadne Supplement Series 5, The Faculty of Philosophy of the University of Crete, 2024, 137–142",
     "Steele (ed.) 2013": "Steele, Philippa M. (ed.), Syllabic Writing on Cyprus and its Context, Cambridge Classical Studies, Cambridge University Press, 2013",
     "Steele 2013": "Steele, Philippa M., A Linguistic History of Ancient Cyprus: The Non-Greek Languages, and their Relations with Greek, c. 1600–300 BC, Cambridge Classical Studies, Cambridge University Press, 2013",
     "Steele 2018": "Steele, Philippa M., Writing and Society in Ancient Cyprus, Cambridge Classical Studies, Cambridge University Press, 2018, doi:10.1017/9781316729977",
     "Valério 2016": "Valério, Miguel Filipe Grandão, Investigating the Signs and Sounds of Cypro-Minoan, PhD dissertation, Universitat de Barcelona, Facultat de Filologia, Departament de Filologia Llatina, 2016",
+    "Watson 2001": "Watson, Wilfred G. E., The Lexical Aspect of Ugaritic Toponyms, Aula Orientalis 19, 2001, 109–123",
+    "Woudhuizen 2016": "Woudhuizen, Fred C., Documents in Minoan, Luwian, Semitic, and Pelasgian, Dutch Archaeological and Historical Society, Amsterdam; Publications of the Henri Frankfort Foundation 14, 2016",
     "É. Masson 1974": "Masson, Émilia, Cyprominoica: répertoires; documents de Ras Shamra; essais d'interprétation, Studies in Mediterranean Archaeology 31:2 (Studies in the Cypro-Minoan Scripts 2), Paul Åströms Förlag, 1974",
     "É. Masson 1978": "Masson, Émilia, Deux fragments de tablettes chypro-minoennes trouvés à Enkomi en 1953 et 1969, Journal des savants 1978, 1-2, pp. 49-86, 1978, doi:10.3406/jds.1978.1365"
   },
@@ -44,7 +62,7 @@
     "museum_no": 28,
     "editions": 271,
     "findspot": 224,
-    "date": 666,
+    "date": 673,
     "dimensions": 115,
     "object": 94,
     "document_form": 173,
@@ -53,15 +71,52 @@
   },
   "pointers": {
     "findspot": 29,
-    "date": 20,
+    "date": 27,
     "dimensions": 15,
     "object": 4,
     "hand": 3
   },
+  "dating_and_script": {
+    "dating_status": {
+      "AGREE": 171,
+      "CONFLICT": 18,
+      "OVERLAP": 67,
+      "UNDATED": 7
+    },
+    "date_certainty": {
+      "HIGH": 63,
+      "LOW": 103,
+      "MEDIUM": 90,
+      "null": 7
+    },
+    "script": {
+      "Cypro-Greek": 3,
+      "Cypro-Minoan": 256,
+      "null": 4
+    },
+    "subcorpus": {
+      "CM 0": 1,
+      "CM 1": 200,
+      "CM 2": 3,
+      "CM 3": 8,
+      "null": 51
+    }
+  },
+  "translations": {
+    "texts": 1,
+    "complete": 0,
+    "incomplete": 1,
+    "words": 50,
+    "sign_values": 35
+  },
   "files": {
     "catalogue.json": {
-      "sha256": "b4dc3f2b22aa252433319a84c323671e4a0fef8b629f61d7bd1d0408fdbb6f16",
-      "bytes": 801828
+      "sha256": "e1ee1d4ffdd2603bb87de7b3fe4a4613ce8c511ea900ea4b73395dbdfcb5cb9d",
+      "bytes": 989616
+    },
+    "translations.json": {
+      "sha256": "f526bfa68d78e5e589d59cb3b5de2f74d36db31ed93497a7255d86350f6e88c8",
+      "bytes": 51139
     }
   }
 }

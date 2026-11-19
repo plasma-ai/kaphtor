@@ -32,11 +32,11 @@ updated: 2026-11-11T23:39:03Z
 | Reading's standing | SPECULATIVE |
 | Standing as a personal name | SPECULATIVE |
 | Standing of the layer | SPECULATIVE (lexicon_reading) |
-| Source | di Mino; DULAT; Pagan 1998; Kinlaw 1967; Gelb 1980 |
+| Source | di Mino; DULAT; Pagan 1998; Kinlaw 1967; Gelb 1980; Burlingame 2020 |
 
 ## Note
 
-HT Zd 155 A-JU · NA-MA-MA-TI-TI-A319 (GORILA IV 130–131): NA-MA stands before MA-TI-TI-A319 where WI-JA-SU stands on HT Zd 157, the name of the party to the gift. Naʿma, √n-ʿ-m 'grace', the ʿ unwritten as in TA-NA-MA-JE and DU-NE-MI. Ebla writes the same name na-ma (ARET 15 25 r. ii 12), short for names such as na-ma-da-mu naʿma-Damu 'grace of Damu' (Pagan 1998, row 3812); Hebrew has Naʿămāh (Gen 4:22; 1 Kgs 14:21). Weak point: the stucco is worn at the first MA, and GORILA's second transcription dots the second. Rival: nʿm 'good, of fine quality', as Ugaritic qn nʿm 'cane of good quality' (KTU 4.247:29; DULAT 605), but a Semitic attributive follows its noun, and NA-MA precedes MA-TI-TI. One attestation. Cf. TA-NA-MA-JE, DU-NE-MI.
+HT Zd 155 A-JU · NA-MA-MA-TI-TI-A319 (GORILA IV 130–131): NA-MA stands before MA-TI-TI-A319 where WI-JA-SU stands on HT Zd 157, the name of the party to the gift. Naʿma, √n-ʿ-m 'grace', the ʿ unwritten as in TA-NA-MA-JE and DU-NE-MI. Ebla writes the same name na-ma (ARET 15 25 r. ii 12), short for names such as na-ma-da-mu naʿma-Damu 'grace of Damu' (Pagan 1998, row 3812); Hebrew has Naʿămāh (Gen 4:22; 1 Kgs 14:21). Ugarit has the short name too, Nuʿmē beside the commoner Nuʿmēnu (RS 21.183:18, 37; Burlingame 2020, 204 n. 31), with u where NA writes a. Weak point: the stucco is worn at the first MA, and GORILA's second transcription dots the second. Rival: nʿm 'good, of fine quality', as Ugaritic qn nʿm 'cane of good quality' (KTU 4.247:29; DULAT 605), but a Semitic attributive follows its noun, and NA-MA precedes MA-TI-TI. One attestation. Cf. TA-NA-MA-JE, DU-NE-MI.
 
 ## As a name
 
@@ -48,7 +48,7 @@ HT Zd 155 A-JU · NA-MA-MA-TI-TI-A319, before MA-TI-TI-A319 in WI-JA-SU's slot o
 |---|---|
 | Eblaite | na-ma, PN (ARET 15 25 r. ii 12); na-ma-da-mu naʿma-Damu 'grace of Damu' (Pagan 1998, row 3812); PNN na-a-ma, na-ma-(DN) (DULAT 605) |
 | Hebrew | Naʿămāh, PN (Gen 4:22; 1 Kgs 14:21, 31; 2 Chr 12:13); a town of Judah (Josh 15:41) |
-| Ugaritic | nʿm 'grace, comeliness' (DULAT 605–606); Na'amanu, PN (Kinlaw 1967, 83) |
+| Ugaritic | nʿm 'grace, comeliness' (DULAT 605–606); Na'amanu, PN (Kinlaw 1967, 83); Nuʿmē beside Nuʿmēnu, PNN (RS 21.183:18, 37; Burlingame 2020, 204 n. 31) |
 | Amorite | NAʿM-AN-U, NA-AḪ-MA-NU (Gelb 1980, no. 4890); NAʿM-I, NA-AḪ-MI (no. 4893) |
 
 ## Attestations

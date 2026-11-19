@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/J/JA_WI
 title: "JA-WI"
-desc: "Yawī: personal name, '(he) lives', the bare form of the Amorite Yawi-DN names. Lexicon, CANDIDATE (tier 2)."
+desc: "Yawī: personal name, '(he) gives life', the bare form of the Amorite Yawi-DN names. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "hapax", "personal_name"]
 kind: "word"
 form: "JA-WI"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Yawī |
-| Meaning | personal name, '(he) lives', the bare form of the Amorite Yawi-DN names |
+| Meaning | personal name, '(he) gives life', the bare form of the Amorite Yawi-DN names |
 | Root | ḥ-w-y |
 | Proto-Semitic | \*ḥayy- (#2760) |
 | Language layer | Semitic |
@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-ZA 14 .4 JA-WI, the last group on the line, against the original right edge, with no numeral; the surface beneath it is blank, .5 keeps only traces at the broken lower left and .6 is vacat (GORILA III 180–181). It is the last word of the inscription, though signs may have followed on the lost lower left. Yawī, the bare form of the Mari names Ya-wi-dIM, Ya-wi-AN, Ya-wi-i-la and Ya-wi-dD\[a-gan\], beside the hypocoristic Ya-wi-ya (Huffmon 1965, 39, 70); Huffmon takes ya-wi with ya-ah-wi from \*ḥwy 'live, give life' (1965, 71–72). Rival: √h-w-y 'be, become', ia-wi-AN yahwî-ʾilu 'ʾIlu shall exist' (Buck 2018, 336; semitic_roots 1546), the alternative Huffmon names. One attestation.
+ZA 14 .4 JA-WI, the last group on the line, against the original right edge, with no numeral; the surface beneath it is blank, .5 keeps only traces at the broken lower left and .6 is vacat (GORILA III 180–181). It is the last word of the inscription, though signs may have followed on the lost lower left. Yawī, the bare form of the Mari names Ya-wi-dIM, Ya-wi-AN, Ya-wi-i-la and Ya-wi-dD\[a-gan\], beside the hypocoristic Ya-wi-ya (Huffmon 1965, 39, 70); Huffmon takes ya-wi with ya-ah-wi from \*ḥwy 'live, give life' (1965, 71–72). Ugaritic keeps ḥyy for the G stem and ḥwy for the D and Št, 'give life' (Marcus 1972, in McAffee 2019, 22–23). Rival: √h-w-y 'be, become', ia-wi-AN yahwî-ʾilu 'ʾIlu shall exist' (Buck 2018, 336; semitic_roots 1546), the alternative Huffmon names. One attestation.
 
 ### Cognates
 
@@ -49,11 +49,11 @@ ZA 14 .4 JA-WI, the last group on the line, against the original right edge, wit
 |---|---|
 | Amorite | Ya-wi-dIM, Ya-wi-AN, Ya-wi-i-la, Ya-wi-dD\[a-gan\], hypocoristic Ya-wi-ya (ARM VII 169.5) at Mari (Huffmon 1965, 39, 70–72) |
 | Amorite (rival) | ia-wi-AN yahwî-ʾilu 'ʾIlu shall exist', √h-w-y 'be' (ARM 25 48; Buck 2018, 336; Gelb 1980, no. 3591) |
-| Ugaritic | /ḥ-w/y-y/ 'to live' (DULAT 374) |
+| Ugaritic | /ḥ-w/y-y/ 'to live' (DULAT 374); ḥyy in the G stem, ḥwy in the D and Št (Marcus 1972, in McAffee 2019, 22–23) |
 
 ### Source
 
-di Mino; Huffmon 1965; Buck 2018
+di Mino; Huffmon 1965; Buck 2018; McAffee 2019
 
 ## Attestations
 
@@ -65,7 +65,7 @@ di Mino; Huffmon 1965; Buck 2018
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA14\|ZA14]] | Yawī | personal name, '(he) lives'; rival '(he) is' | CANDIDATE |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA14\|ZA14]] | Yawī | personal name, '(he) gives life'; rival '(he) is' | CANDIDATE |
 
 ## Onomasticon
 

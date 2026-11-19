@@ -27,6 +27,9 @@ updated: 2026-11-18T19:49:10Z
 | Site | Enkomi (Famagusta) (ENKO); Valério 2016, 36 |
 | Identity controls | Pleiades 13818291, Trismegistos 37211 (match: exact); Pleiades 158081397 "Tomb of the Kings near Enkomi" excluded |
 | Object type | Apes, Clay weight; Valério 2016, 37. Valério's example is ENKO Apes 001, a weight by its code, though Valério calls that reading debated (37). |
+| Date | LC IIIA (Late Cypriot IIIA), 1190–1100 BCE (Valério 2016, 39); AGREE, certainty MEDIUM; lead statement: CMI II (Ferrara), "LC IIIA" (Valério 2016, 649) |
+| Script | Cypro-Minoan; Valério 2016, 554 (sees one sign only, not an inscription); Valério 2016, 60 (discounts it as an inscription, with three other texts of one sign) |
+| Subcorpus | none: no held source assigns it |
 | Status | inscription |
 | Edition of record | CMI II, transcribed in Valério 2016, Appendix A, 554; unverified |
 

@@ -27,7 +27,9 @@ updated: 2026-11-18T19:49:10Z
 | Site | Kalavasos-Ayios Dhimitrios (Larnaca) (KALA); Valério 2016, 36 |
 | Identity controls | Pleiades 754796063 (match: exact); Pleiades 807160605 Kalavasos-Tenta (neolithic) excluded; no TM record |
 | Object type | Mbij, Metal jewelry; Valério 2016, 37 |
-| Subcorpus | CM 1 |
+| Date | LC IIA:2 (Late Cypriot IIA:2), 1425–1360 BCE (Valério 2016, 39); OVERLAP, certainty MEDIUM; lead statement: CMI II (Ferrara), "LC IIA2" (Valério 2016, 647) |
+| Script | Cypro-Minoan; Valério 2016, 495 |
+| Subcorpus | CM 1; Valério 2016, 452; Valério 2016, 451 |
 | Status | inscription |
 | Edition of record | HoChyMin, transcribed in Valério 2016, Appendix A, 495; unverified |
 
