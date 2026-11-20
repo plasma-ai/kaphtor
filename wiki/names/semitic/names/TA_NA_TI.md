@@ -70,7 +70,7 @@ Read words on the same documents.
 
 | Word | Reading | Meaning |
 |---|---|---|
-| DA-RE | dār | estate, household (a unit receiving men and grain); rival 'kin group, clan' |
+| DA-RE | dār | estate, household (a unit receiving men and grain) |
 | [[wiki/names/semitic/names/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | devotee of Kubaba (Kubaba + -ān-), personal name or title |
 | KI | ki | so that, because |
 | [[wiki/names/semitic/names/TE_star301\|TE-\*301]] | Tēnā | Fig (personal name); a recipient in allocation lists |

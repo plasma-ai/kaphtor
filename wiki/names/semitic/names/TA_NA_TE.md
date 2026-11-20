@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/TA_NA_TE
 title: "TA-NA-TE"
-desc: "Tanāt: Tanāt, a variant of Tinit, the goddess TNT, feminine of √t-n-n 'sea-dragon'; rival a form of A-TA-NA-TE ʾAtanat. Semitic, CANDIDATE."
+desc: "Tanāt: Tanāt, a variant of Tinit, the goddess TNT, feminine of √t-n-n 'sea-dragon'. Semitic, CANDIDATE."
 tags: ["names", "divine-name", "semitic"]
 kind: "name"
 form: "TA-NA-TE"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Tanāt** · Tanāt, a variant of Tinit, the goddess TNT, feminine of √t-n-n 'sea-dragon'; rival a form of A-TA-NA-TE ʾAtanat
+**Tanāt** · Tanāt, a variant of Tinit, the goddess TNT, feminine of √t-n-n 'sea-dragon'
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/gods\|Divine name]] |
 | Reading | Tanāt |
-| Meaning | Tanāt, a variant of Tinit, the goddess TNT, feminine of √t-n-n 'sea-dragon'; rival a form of A-TA-NA-TE ʾAtanat |
+| Meaning | Tanāt, a variant of Tinit, the goddess TNT, feminine of √t-n-n 'sea-dragon' |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/t-n-n\|t-n-n]] |
 | Proto-Semitic | \*tinnīt- (#2967), \*tVnnVn- (#238) |
@@ -40,7 +40,7 @@ ZA 10a TA-NA-TE 2 heads a list of single entries, with A-TA-NA-TE 1 the fourth. 
 
 ## As a name
 
-Tanāt (√t-n-n), a variant of Tinit (TI-NI-TA), the goddess TNT; ZA 10a lists A-TA-NA-TE ʾAtanat as a separate entry.
+Tanāt (√t-n-n), a variant of Tinit (TI-NI-TA), the goddess TNT; ZA 10a lists A-TA-NA-TE ʾAtanat as a separate entry. Rival: a form of A-TA-NA-TE ʾAtanat.
 
 ## Cognates
 

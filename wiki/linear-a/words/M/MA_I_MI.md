@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/M/MA_I_MI
 title: "MA-I-MI"
-desc: "mayimi: water(-men), water-drawers of the sanctuary; rival Anatolian 'grown-ups'. Lexicon, SPECULATIVE (tier 1)."
+desc: "mayimi: water(-men), water-drawers of the sanctuary. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "noun", "occupation", "personnel", "ritual"]
 kind: "word"
 form: "MA-I-MI"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | mayimi |
-| Meaning | water(-men), water-drawers of the sanctuary; rival Anatolian 'grown-ups' |
+| Meaning | water(-men), water-drawers of the sanctuary |
 | Root | \*may- 'water' |
 | Proto-Semitic | \*maʾ-/\*may- (#711) |
 | Language layer | Semitic |

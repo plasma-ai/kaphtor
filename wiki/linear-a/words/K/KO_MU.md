@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-ZA Zb 34, a pithos fragment from Zakros (GORILA IV 114): \]PU₂-RE-JẠ · KỌ-MỤ · RỤ-DI\[ (GORILA IV 115). qōmu 'arise!', the infinitive of √q-w-m as a command before the imperative RU-DI: Heb. qûm 'rise, stand up' (HALOT 1086), Ug. /q-m/ 'to stand up' (DULAT 692). Hebrew sets qûm before a second imperative, qûmî ʾôrî 'arise, shine' (Isa 60:1), and calls a god to rise, qûmâ YHWH (Num 10:35). KO writes qō from \*qā-, as A-KO-A-NE writes kō, and -MU the -u of the infinitive, as Ug. yru /yarāʾu/ (Tropper 2000, 481). PU₂-RE-JA recurs on the libation table PK Za 16, a sequence shared by a ritual vessel and a pithos (Davis 2026b, 77). Weak points: the Ugaritic infinitive as a command is disputed (Tropper 2000, 492); KO and MU are both dotted. Rival: kummu 'cella', Akkadian kummu 'cella, private room (of a temple)' (CAD K 533), cf. DU-PU₂-RE dubur 'sanctuary', with KO for ku where ZA 10a writes kummi KU-MI (A-KU-MI-NA) and no preposition before RU-DI. Rival: qūmū, the plural imperative, against the feminine singular RU-DI. One attestation.
+ZA Zb 34, a pithos fragment from Zakros (GORILA IV 114): \]PU₂-RE-JẠ · KỌ-MỤ · RỤ-DI\[ (GORILA IV 115). qōmu 'arise!', the infinitive of √q-w-m as a command before the imperative RU-DI: Heb. qûm 'rise, stand up' (HALOT 1086), Ug. /q-m/ 'to stand up' (DULAT 692), where 'the base meaning of the verb itself denotes movement upward' (Tugendhaft 2018, 99 n. 64). Hebrew sets qûm before a second imperative, qûmî ʾôrî 'arise, shine' (Isa 60:1), and calls a god to rise, qûmâ YHWH (Num 10:35). KO writes qō from \*qā-, as A-KO-A-NE writes kō, and -MU the -u of the infinitive, as Ug. yru /yarāʾu/ (Tropper 2000, 481). PU₂-RE-JA recurs on the libation table PK Za 16, a sequence shared by a ritual vessel and a pithos (Davis 2026b, 77). Weak points: the Ugaritic infinitive as a command is disputed (Tropper 2000, 492); KO and MU are both dotted. Rival: kummu 'cella', Akkadian kummu 'cella, private room (of a temple)' (CAD K 533), cf. DU-PU₂-RE dubur 'sanctuary', with KO for ku where ZA 10a writes kummi KU-MI (A-KU-MI-NA) and no preposition before RU-DI. Rival: qūmū, the plural imperative, against the feminine singular RU-DI. One attestation.
 
 ### Cognates
 
@@ -53,7 +53,7 @@ ZA Zb 34, a pithos fragment from Zakros (GORILA IV 114): \]PU₂-RE-JẠ · KỌ
 
 ### Source
 
-di Mino; HALOT; DULAT; Tropper 2000; CAD K; Davis 2026b
+di Mino; HALOT; DULAT; Tropper 2000; CAD K; Davis 2026b; Tugendhaft 2018
 
 ## Attestations
 

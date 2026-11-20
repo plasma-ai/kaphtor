@@ -27,6 +27,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/KA_TI\|KA-TI]] | Qāti | personal name Qāti 'Hand'; rivals Gattī 'the man of the press, the Gittite', Qəhātî 'Kohathite', Kittî 'Kittian' | 1 |
+| [[wiki/names/semitic/names/KA_TI\|KA-TI]] | Qāti | personal name Qāti 'Hand' | 1 |
 
 <!-- END kaphtor:record -->

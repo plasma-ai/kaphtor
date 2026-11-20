@@ -9,7 +9,7 @@ site: "Knossos"
 support: "Roundel"
 period: "MMIIIB"
 translation: "none"
-words: ["*21M"]
+words: ["*22M"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -40,23 +40,17 @@ updated: 2026-10-24T16:17:50Z
 
 Transliteration, line by line:
 
-1. \*21M
+1. \*22M
 
 Unicode (Linear A block):
 
 ```text
-𐘑
+𐘔
 ```
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/star/star21M|\*21M]].
-
-## Edition differences
-
-| Kind | SigLA | GORILA |
-|---|---|---|
-| sign differs | AB22/CAPm | \*21M |
+[[wiki/linear-a/words/star/star22M|\*22M]].
 
 ## Corpus note
 

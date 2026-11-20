@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/R/RA_star164_TI
 title: "RA-*164-TI"
-desc: "rāšōt: the choicest, first-fruits (heading of a wine contribution); rival Rāmōt 'the Heights', a place. Lexicon, SPECULATIVE (tier 1)."
+desc: "rāšōt: the choicest, first-fruits (heading of a wine contribution). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "heading", "noun", "ritual"]
 kind: "word"
 form: "RA-*164-TI"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | rāšōt |
-| Meaning | the choicest, first-fruits (heading of a wine contribution); rival Rāmōt 'the Heights', a place |
+| Meaning | the choicest, first-fruits (heading of a wine contribution) |
 | Root | r-ʾ-š |
 | Proto-Semitic | \*rʾš (#3541) |
 | Language layer | Semitic |

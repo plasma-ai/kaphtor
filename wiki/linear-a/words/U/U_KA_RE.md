@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/U/U_KA_RE
 title: "U-KA-RE"
-desc: "ʾugār: the field (of), meadowland (heading of a grain-ration list); rivals ʾikkār 'ploughman', the personal name Ugār. Lexicon, SPECULATIVE (tier 1)."
+desc: "ʾugār: the field (of), meadowland (heading of a grain-ration list). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "administrative", "agriculture", "hapax", "noun"]
 kind: "word"
 form: "U-KA-RE"
@@ -32,7 +32,7 @@ updated: 2026-10-31T14:13:39Z
 | Field | Value |
 |---|---|
 | Reading | ʾugār |
-| Meaning | the field (of), meadowland (heading of a grain-ration list); rivals ʾikkār 'ploughman', the personal name Ugār |
+| Meaning | the field (of), meadowland (heading of a grain-ration list) |
 | Root | ʾ-g-r |
 | Proto-Semitic | \*(ʾV-)g(w)ar- (or \*hugar-)/\*garh- (#1807) |
 | Language layer | Semitic |

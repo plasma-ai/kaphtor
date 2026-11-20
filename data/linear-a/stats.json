@@ -6,16 +6,16 @@
     "documents": 1603
   },
   "lexicon": {
-    "entries": 718,
+    "entries": 722,
     "tiers": {
       "CONFIRMED": 19,
       "PROBABLE": 79,
       "CANDIDATE": 271,
-      "SPECULATIVE": 349
+      "SPECULATIVE": 353
     }
   },
   "translations": {
-    "complete": 527,
+    "complete": 528,
     "incomplete": 120
   },
   "sign_values": {
@@ -24,6 +24,6 @@
     "phonemic": 18,
     "logographic": 24
   },
-  "names": 380,
+  "names": 379,
   "semitic_roots": 5189
 }

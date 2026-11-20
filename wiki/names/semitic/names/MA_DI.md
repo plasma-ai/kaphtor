@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/MA_DI
 title: "MA-DI"
-desc: "Maʾdi: place name: a unit of men and livestock in the HT rosters; rival the Hurrian personal name Madi 'wisdom'. Semitic, SPECULATIVE."
+desc: "Maʾdi: place name: a unit of men and livestock in the HT rosters. Semitic, SPECULATIVE."
 tags: ["names", "place-name", "semitic"]
 kind: "name"
 form: "MA-DI"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Maʾdi** · place name: a unit of men and livestock in the HT rosters; rival the Hurrian personal name Madi 'wisdom'
+**Maʾdi** · place name: a unit of men and livestock in the HT rosters
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/places\|Place name]] |
 | Reading | Maʾdi |
-| Meaning | place name: a unit of men and livestock in the HT rosters; rival the Hurrian personal name Madi 'wisdom' |
+| Meaning | place name: a unit of men and livestock in the HT rosters |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/m-alef-d\|m-ʾ-d]] |
 | Proto-Semitic | \*mVʾad- (#1704) |

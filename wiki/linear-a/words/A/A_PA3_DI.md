@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/A/A_PA3_DI
 title: "A-PA₃-DI"
-desc: "ʿAbdī: personal name, ʿAbdī 'my servant'; rival the head of an ʿAbdi-DN name. Lexicon, CANDIDATE (tier 2)."
+desc: "ʿAbdī: personal name, ʿAbdī 'my servant'. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "fragmentary", "hapax", "personal_name"]
 kind: "word"
 form: "A-PA₃-DI"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʿAbdī |
-| Meaning | personal name, ʿAbdī 'my servant'; rival the head of an ʿAbdi-DN name |
+| Meaning | personal name, ʿAbdī 'my servant' |
 | Root | ʿ-b-d |
 | Proto-Semitic | \*ʕVbd- (#2739) |
 | Language layer | Semitic |
@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-PK Zb 26, a pithos sherd written retrograde, A-PA₃-DI\[ broken after DI (Younger, Linear A Texts). ʿAbdī, as the Ugaritic PN ʿbdy, syll. ÌR-ya (DULAT 141), or the head of an ʿAbdi-DN name, as ʿbdyrḫ (DULAT 141) and Amarna ÌR-a-ši-ir-ta (EA 71:17). Amorite ḫa-ab-di-ia ʿabdiya at Tuttul (Buck 2018, 328). One witness.
+PK Zb 26, a pithos sherd written retrograde, A-PA₃-DI\[ broken after DI (Younger, Linear A Texts). ʿAbdī, as the Ugaritic PN ʿbdy, syll. ÌR-ya (DULAT 141), or the head of an ʿAbdi-DN name, as ʿbdyrḫ (DULAT 141), ʿbdym and ʿbdršp (Tugendhaft 2018, 77 nn. 49–50) and Amarna ÌR-a-ši-ir-ta (EA 71:17). Amorite ḫa-ab-di-ia ʿabdiya at Tuttul (Buck 2018, 328). One witness. Rival: the head of an ʿAbdi-DN name.
 
 ### Cognates
 
@@ -52,7 +52,7 @@ PK Zb 26, a pithos sherd written retrograde, A-PA₃-DI\[ broken after DI (Young
 
 ### Source
 
-di Mino; DULAT
+di Mino; DULAT; Tugendhaft 2018
 
 ## Attestations
 
@@ -80,6 +80,6 @@ di Mino; DULAT
 
 ### Note
 
-PK Zb 26, a pithos sherd written retrograde, A-PA₃-DI\[ broken after DI (Younger, Linear A Texts). ʿAbdī, as the Ugaritic PN ʕbdy (DULAT 141), or the head of an ʿAbdi-DN name. See the lexicon entry A-PA₃-DI.
+PK Zb 26, a pithos sherd written retrograde, A-PA₃-DI\[ broken after DI (Younger, Linear A Texts). ʿAbdī, as the Ugaritic PN ʕbdy (DULAT 141), or the head of an ʿAbdi-DN name. See the lexicon entry A-PA₃-DI. Rival: the head of an ʿAbdi-DN name.
 
 <!-- END kaphtor:record -->

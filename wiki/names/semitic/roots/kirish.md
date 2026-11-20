@@ -27,6 +27,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/KI_RI_SI\|KI-RI-SI]] | Kiriš | Kiriš, the god of the Amorite names, as oil recipient; rivals Hurrian Kiriš and a personal name | 1 |
+| [[wiki/names/semitic/names/KI_RI_SI\|KI-RI-SI]] | Kiriš | Kiriš, the god of the Amorite names, as oil recipient | 1 |
 
 <!-- END kaphtor:record -->

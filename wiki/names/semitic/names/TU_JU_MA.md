@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/TU_JU_MA
 title: "TU-JU-MA"
-desc: "Tuʿluma: personal name, 'hidden one'; rival Hurrian talm- 'great' (Talimmu, a merchant's name at Ugarit). Semitic, SPECULATIVE."
+desc: "Tuʿluma: personal name, 'hidden one'. Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "TU-JU-MA"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Tuʿluma** · personal name, 'hidden one'; rival Hurrian talm- 'great' (Talimmu, a merchant's name at Ugarit)
+**Tuʿluma** · personal name, 'hidden one'
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Tuʿluma |
-| Meaning | personal name, 'hidden one'; rival Hurrian talm- 'great' (Talimmu, a merchant's name at Ugarit) |
+| Meaning | personal name, 'hidden one' |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/ayin-l-m\|ʿ-l-m]] |
 | Proto-Semitic | \*ɣlm (#3633) |
@@ -37,6 +37,10 @@ updated: 2026-11-11T23:39:03Z
 ## Note
 
 HT 117a: TU-JU-MA 1 in the roster under MA-KA-RI-TE, 'merchants'. Tuʿluma 'hidden one': Heb. taʿălumâ 'secret, hidden thing' (HALOT 1769), a t-noun of ʿ-l-m 'to be concealed' (HALOT 834), ʿ unwritten, JU writing lu as in ZU-JU-PU₂ and SU-JU-TA; MA writes -a, where KU-RA-MU on the same roster writes -mu. Weak point: TU for ta-. Rival: Hurrian talm- 'great', the Ugarit name Talimmu, ta-li-im-mu, a merchant and a foreigner (Kinlaw 1967, 116; Watson 2016, 347), beside Kukkadal on this tablet, the vowels a–i–u differing. One attestation.
+
+## As a name
+
+Rival: Hurrian talm- 'great' (Talimmu, a merchant's name at Ugarit).
 
 ## Cognates
 
@@ -62,7 +66,7 @@ Read words on the same documents.
 
 | Word | Reading | Meaning |
 |---|---|---|
-| [[wiki/names/semitic/names/MA_KA_RI_TE\|MA-KA-RI-TE]] | makkārītu | merchants (heading of a roster of men); rival 'red (wool)' |
+| [[wiki/names/semitic/names/MA_KA_RI_TE\|MA-KA-RI-TE]] | makkārītu | merchants (heading of a roster of men) |
 | KI-RO | kilʾu | owed, outstanding balance (deficit)—transaction term heading deficit sections |
 | [[wiki/names/semitic/names/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | devotee of Kubaba (Kubaba + -ān-), personal name or title |
 | KU-RO | kull | total, sum (accounting term) |

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/K/KA_I_RO
 title: "KA-I-RO"
-desc: "kāʾil: Measurer (professional-title PN), of grain; rival a name on g-y-l 'to rejoice'. Lexicon, SPECULATIVE (tier 1)."
+desc: "kāʾil: Measurer (professional-title PN), of grain. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "KA-I-RO"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | kāʾil |
-| Meaning | Measurer (professional-title PN), of grain; rival a name on g-y-l 'to rejoice' |
+| Meaning | Measurer (professional-title PN), of grain |
 | Root | k-y-l |
 | Proto-Semitic | \*kalVy- ~ \*kayl- (#298) |
 | Language layer | Semitic |

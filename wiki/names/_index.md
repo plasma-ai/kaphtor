@@ -31,11 +31,11 @@ updated: 2026-11-11T23:49:15Z
 ***
 
 <!-- BEGIN kaphtor:summary -->
-The tablets of Minoan Crete carry 380 names: 255 personal names, 29 place names, 30 divine names, 51 titles, 11 gentilics, 4 place names or gentilics. Each name is filed here under the language it is read through, and under each language lie the roots the names are built from. A root page shows every name that grows from it; a name page shows its reading, its root, its cognates, the documents it stands on and the words that keep it company.
+The tablets of Minoan Crete carry 379 names: 255 personal names, 29 place names, 30 divine names, 50 titles, 11 gentilics, 4 place names or gentilics. Each name is filed here under the language it is read through, and under each language lie the roots the names are built from. A root page shows every name that grows from it; a name page shows its reading, its root, its cognates, the documents it stands on and the words that keep it company.
 
 | Layer | Names | Roots | Chief sites |
 |---|---|---|---|
-| [[wiki/names/semitic/_index\|Semitic]] | 312 | 235 | Haghia Triada 182, Zakros 42, Knossos 17 |
+| [[wiki/names/semitic/_index\|Semitic]] | 311 | 235 | Haghia Triada 182, Zakros 42, Knossos 17 |
 | [[wiki/names/hurrian/_index\|Hurrian]] | 38 | 1 | Haghia Triada 23, Khania 5, Palaikastro 4 |
 | [[wiki/names/egyptian/_index\|Egyptian]] | 11 | 5 | Haghia Triada 7, Zakros 4, Troullos 1 |
 | [[wiki/names/aegean/_index\|Aegean]] | 6 |  | Haghia Triada 4, Khania 1, Zakros 1 |
@@ -49,7 +49,7 @@ The tablets of Minoan Crete carry 380 names: 255 personal names, 29 place names,
 | [[wiki/names/guide/kinds/people\|People]] | 255 | Semitic 194, Hurrian 37, Egyptian 9, Unread 9, Aegean 3, Anatolian 2, Indo-European 1 |
 | [[wiki/names/guide/kinds/places\|Places]] | 29 | Semitic 25, Aegean 3, Egyptian 1 |
 | [[wiki/names/guide/kinds/gods\|Gods]] | 30 | Semitic 28, Sumerian 1, Egyptian 1 |
-| [[wiki/names/guide/kinds/titles\|Titles]] | 51 | Semitic 50, Hurrian 1 |
+| [[wiki/names/guide/kinds/titles\|Titles]] | 50 | Semitic 49, Hurrian 1 |
 | [[wiki/names/guide/kinds/peoples\|Peoples]] | 11 | Semitic 11 |
 | [[wiki/names/guide/kinds/places_and_peoples\|Places or peoples]] | 4 | Semitic 4 |
 

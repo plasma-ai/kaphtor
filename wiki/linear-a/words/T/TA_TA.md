@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/T/TA_TA
 title: "TA-TA"
-desc: "Tatta: Tatta (Hurrian personal name), stem tatt-; rival the Anatolian name Tata. Lexicon, SPECULATIVE (tier 1)."
+desc: "Tatta: Tatta (Hurrian personal name), stem tatt-. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "TA-TA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Tatta |
-| Meaning | Tatta (Hurrian personal name), stem tatt-; rival the Anatolian name Tata |
+| Meaning | Tatta (Hurrian personal name), stem tatt- |
 | Language layer | Hurrian |
 | Tags | hapax, personal_name |
 | Semantic field | personal_name |

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/D/DI_DE_RU
 title: "DI-DE-RU"
-desc: "ʾaddīru: nobles, notables; rival ʾadr 'granary'. Lexicon, PROBABLE (tier 3)."
+desc: "ʾaddīru: nobles, notables. Lexicon, PROBABLE (tier 3)."
 tags: ["linear-a", "word", "tier-3", "noun", "personnel", "title"]
 kind: "word"
 form: "DI-DE-RU"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʾaddīru |
-| Meaning | nobles, notables; rival ʾadr 'granary' |
+| Meaning | nobles, notables |
 | Root | ʾ-d-r |
 | Proto-Semitic | \*ʾaddīr- (#1340) |
 | Language layer | Semitic |
@@ -84,7 +84,7 @@ di Mino; DULAT; GlOS 1
 
 ### Note
 
-Reading from the lexicon (di Mino).
+Reading from the lexicon (di Mino). Rival: ʾadr 'granary'.
 
 ### Co-occurring lexicon words
 

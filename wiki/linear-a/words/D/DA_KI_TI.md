@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/D/DA_KI_TI
 title: "DA-KI-TI"
-desc: "Daqqiti: of Daqqitu, the goddess to whom the incense is offered; rival daqqati 'fine (powder)'. Lexicon, SPECULATIVE (tier 1)."
+desc: "Daqqiti: of Daqqitu, the goddess to whom the incense is offered. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "noun", "ritual"]
 kind: "word"
 form: "DA-KI-TI"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Daqqiti |
-| Meaning | of Daqqitu, the goddess to whom the incense is offered; rival daqqati 'fine (powder)' |
+| Meaning | of Daqqitu, the goddess to whom the incense is offered |
 | Root | d-q-q |
 | Proto-Semitic | \*diḳ(ḳ)- (#1654) |
 | Language layer | Semitic |

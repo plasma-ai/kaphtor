@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/M/MI_RU_TA_RA_RE
 title: "MI-RU-TA-RA-RE"
-desc: "Mīru-darār: Free-running Bull, a bull that roams free (personal name); rival Murr-darār 'Flowing Myrrh'. Lexicon, SPECULATIVE (tier 1)."
+desc: "Mīru-darār: Free-running Bull, a bull that roams free (personal name). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "compound", "hapax", "personal_name"]
 kind: "word"
 form: "MI-RU-TA-RA-RE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Mīru-darār |
-| Meaning | Free-running Bull, a bull that roams free (personal name); rival Murr-darār 'Flowing Myrrh' |
+| Meaning | Free-running Bull, a bull that roams free (personal name) |
 | Root | m-r-ʾ + d-r-r |
 | Proto-Semitic | \*mir(Vʾ)- (#2245) + \*dVr- (#503) |
 | Language layer | Semitic |

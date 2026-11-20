@@ -15,22 +15,22 @@
     "compound": "a logogram or sign joined to others by a hyphen"
   },
   "stats": {
-    "listed": 167,
+    "listed": 164,
     "by_status": {
-      "unread": 89,
+      "unread": 81,
       "value_on_file": 4,
-      "component_read": 74
+      "component_read": 79
     },
     "by_kind": {
       "syllabogram": 25,
-      "sign": 46,
-      "ligature": 61,
+      "sign": 43,
+      "ligature": 63,
       "vessel": 4,
-      "logogram": 5,
+      "logogram": 3,
       "compound": 26
     },
-    "occurrences": 362,
-    "hapax": 111,
+    "occurrences": 346,
+    "hapax": 106,
     "cross_site": 23
   },
   "excluded": {
@@ -131,37 +131,27 @@
       "sign": "A",
       "kind": "syllabogram",
       "status": "unread",
-      "frequency": 13,
+      "frequency": 7,
       "attestations": [
-        "ARKH1b",
-        "ARKH5",
         "HT37",
-        "HT57a",
         "HTWa1147",
         "HTWa1148",
         "HTWa1149",
         "KANZa1",
-        "KH45",
         "PEZb8",
-        "PH27",
-        "SYZa12",
-        "ZA21a"
+        "SYZa12"
       ],
       "sites": [
-        "Arkhanes",
         "Haghia Triada",
         "Kannia",
-        "Khania",
         "Petras",
-        "Phaistos",
-        "Syme",
-        "Zakros"
+        "Syme"
       ],
       "cross_site": true,
       "word_parts": {
         "PKZa11": "A-SA-SA-RA-ME"
       },
-      "note": "Alone on 3 Haghia Triada nodules (HT Wa 1147–1149) and the Petras vessel PE Zb 8. On tablets at Khania, Haghia Triada, Arkhanes, Phaistos and Zakros it stands as an entry, with a quantity on HT 57a (A ⅛). No reading. Three Khania tablets keep no whole token: KH 17 .4 and KH 33 .2 break straight after a dotted A (GORILA III 49, 63), and on KH 73 .1 breaks after a dotted A and .3 has A, a dash and the break (GORILA III 91). The A before SA-SA-RA-ME on PK Za 11 is the first sign of A-SA-SA-RA-ME and is counted with that word."
+      "note": "Alone on 3 Haghia Triada nodules (HT Wa 1147–1149) and the Petras vessel PE Zb 8. One tablet keeps it whole as an entry: HT 37 .5 A 15 under KI-RO, the 15 dotted and the half-line written over an erasure (GORILA I 71). No reading. Every other tablet breaks at the sign: A[ on HT 57a .2 (I 111), KH 45 .1 (III 71), ARKH 1b .1 (III 5) and ZA 21a .7, there dotted (III 195); ]A[ on PH 27 .2 (I 313); A-[ on ARKH 5 .3, where the editors allow A-DA[ (III 17). KH 17 .4 and KH 33 .2 break straight after a dotted A (III 49, 63), and on KH 73 .1 breaks after a dotted A and .3 has A, a dash and the break (III 91). The fraction once read after A on HT 57a stands on the next line, broken at both sides. The A before SA-SA-RA-ME on PK Za 11 is the first sign of A-SA-SA-RA-ME and is counted with that word."
     },
     {
       "sign": "O",
@@ -218,7 +208,7 @@
         "Khania"
       ],
       "cross_site": false,
-      "note": "Alone on 12 Khania roundels in the corpus (KH Wc 2036–2045, 2095, 2111). Inside a word at Haghia Triada: RA-*164-TI (HT 17, HT 19). Nosch and Weilhartner take it as a syllabogram at Haghia Triada and a logogram at Khania, possibly for textiles, because a similar sign is a textile logogram in Linear B, *164, known only at Knossos (2026). No reading."
+      "note": "Alone on 12 Khania roundels in the corpus (KH Wc 2036–2045, 2095, 2111). Inside a word at Haghia Triada: RA-*164-TI (HT 17, HT 19). Nosch and Weilhartner take it as a syllabogram at Haghia Triada and a logogram at Khania, possibly for textiles, because a similar sign is a textile logogram in Linear B, *164, known only at Knossos (2026), one of the cloths Nosch says 'may be Minoan textile types' (2024, 341). No reading."
     },
     {
       "sign": "*301+*311",
@@ -510,17 +500,41 @@
         "*401",
         "RO"
       ],
-      "frequency": 3,
+      "frequency": 2,
       "attestations": [
-        "KH31",
         "KNZg57a"
       ],
       "sites": [
-        "Khania",
         "Knossos"
       ],
-      "cross_site": true,
+      "cross_site": false,
       "note": ""
+    },
+    {
+      "sign": "*401+RA",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "*401",
+        "RA"
+      ],
+      "read_components": [
+        "*401",
+        "RA"
+      ],
+      "frequency": 1,
+      "attestations": [
+        "KH31"
+      ],
+      "sites": [
+        "Khania"
+      ],
+      "cross_site": false,
+      "at_break": [
+        "KH91",
+        "MI2"
+      ],
+      "note": "GORILA A 652, 401VAS+60 (GORILA V 311): whole on KH 31 .2; on KH 91 .4 and MI 2 .3 the reading is dotted and the token stands at a break."
     },
     {
       "sign": "*412+E",
@@ -544,7 +558,30 @@
         "Malia"
       ],
       "cross_site": false,
-      "note": ""
+      "note": "GORILA A 658, 412VAS+E: the jar of *412 with the fraction sign E written inside it, listed again under the fraction (GORILA V 314, 318). Counted 4, 3 and 2 on MA 10. The jar has one handle high at the left, a narrow neck and swelling shoulders, the outline of Linear B *205, a-te-we, 'a straight-sided ewer' (Ventris and Chadwick 1956, 324, 327)."
+    },
+    {
+      "sign": "*412+F",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "*412",
+        "F"
+      ],
+      "read_components": [
+        "*412",
+        "F"
+      ],
+      "frequency": 2,
+      "attestations": [
+        "MA10a",
+        "MA10c"
+      ],
+      "sites": [
+        "Malia"
+      ],
+      "cross_site": false,
+      "note": "GORILA A 659, 412VAS+F: the jar of *412 with the fraction sign F written inside it, listed again under the fraction (GORILA V 314, 319). Counted 4 and 3 on MA 10, each time after *412+E."
     },
     {
       "sign": "GRA+F",
@@ -838,37 +875,38 @@
         "Khania"
       ],
       "cross_site": false,
-      "note": ""
+      "note": "A logogram counted in whole numbers, twice in one slot of KH Scribe 2: KH 6 .6 ]-RE · *334 1 and KH 7a .1 ]NE-[·]-KI *334 4, dotted there, each before a cyperus fraction (GORILA III 27, 29). In that slot the same hand counts *21M, MU and *306 on KH 6 and VIR+*313b on KH 7a. Salgarella has A 334 as 'logogram?', sign alone (Salgarella 2020, 316)."
     },
     {
       "sign": "*335",
       "kind": "sign",
       "status": "unread",
-      "frequency": 2,
-      "attestations": [
+      "frequency": 0,
+      "attestations": [],
+      "sites": [],
+      "cross_site": false,
+      "at_break": [
         "KH12",
         "KH44"
       ],
-      "sites": [
-        "Khania"
-      ],
-      "cross_site": false,
-      "note": ""
+      "note": "Neither token stands clear of a break. KH 12 .2 has it over an erasure, between two fractions, with a dotted [ after it (GORILA III 41); KH 44 .2 has ]*335[ in the tabular copy, with traces at the left (III 71)."
     },
     {
       "sign": "*336",
       "kind": "sign",
       "status": "unread",
-      "frequency": 2,
+      "frequency": 1,
       "attestations": [
-        "KH14",
-        "KH82"
+        "KH14"
       ],
       "sites": [
         "Khania"
       ],
       "cross_site": false,
-      "note": ""
+      "at_break": [
+        "KH82"
+      ],
+      "note": "Drawn as an animal's head facing right, two ovals above it and an eye within. KH 14 .2 *336 2, whole, between two cyperus entries, on a tablet of KH Scribe 1 that counts VIR+*307 2 on the next line (GORILA III 45). KH 82 .4 ]*336[, dotted and broken at both sides (III 97), is not counted."
     },
     {
       "sign": "*370",
@@ -883,37 +921,7 @@
         "Haghia Triada"
       ],
       "cross_site": false,
-      "note": "GORILA's countermark, alone on the nodule HT Wa 1854, one of A 365–370 on HT Wa 1849–1854 (Salgarella 2020, 309–12). The corpus also has it on HT 49a, 1 *370 1, which SigLA leaves unread and Salgarella does not list."
-    },
-    {
-      "sign": "*47",
-      "kind": "sign",
-      "status": "unread",
-      "frequency": 2,
-      "attestations": [
-        "MA1a",
-        "MA1b"
-      ],
-      "sites": [
-        "Malia"
-      ],
-      "cross_site": false,
-      "note": ""
-    },
-    {
-      "sign": "*659",
-      "kind": "sign",
-      "status": "unread",
-      "frequency": 2,
-      "attestations": [
-        "MA10a",
-        "MA10c"
-      ],
-      "sites": [
-        "Malia"
-      ],
-      "cross_site": false,
-      "note": "MA 10a and MA 10c: the necked jar of *412 with a different mark written inside it, counted 4 and 3."
+      "note": "GORILA's countermark, alone on the nodule HT Wa 1854, one of A 365–370 on HT Wa 1849–1854 (Salgarella 2020, 309–12). The corpus also has it on HT 49a .6, *370 1 between A-RU 1 and *312 1, which SigLA leaves unread and Salgarella does not list: the transcription draws a dotted sign there, a flag on a staff (GORILA I 93), and the sign index has 370 on HT Wa 1854 alone (V 310)."
     },
     {
       "sign": "*82",
@@ -1271,7 +1279,7 @@
         "Thera"
       ],
       "cross_site": true,
-      "note": ""
+      "note": "GORILA's A 588, the wine sign with TE inside it, cut on the pithos KN Zb 34 (Pierini 2022, 46–47, fig. 3.8a) and on the pithos rim THE Zb 13."
     },
     {
       "sign": "VIN+WA",
@@ -1327,10 +1335,14 @@
     {
       "sign": "VIR+[?]-I",
       "kind": "compound",
-      "status": "unread",
+      "status": "component_read",
       "components": [
         "VIR",
         "[?]",
+        "I"
+      ],
+      "read_components": [
+        "VIR",
         "I"
       ],
       "frequency": 2,
@@ -1342,7 +1354,7 @@
         "Haghia Triada"
       ],
       "cross_site": false,
-      "note": "HT 11a .4 and HT 93a .5–6, each before a numeral."
+      "note": "HT 11a .4–5, counted 3, and HT 93a .5–6, counted 6: the man sign and I side by side in the word column, with no divider, GORILA's 100/102-28 (V 272). On HT 93a the two entries above it end on a divider and I before GRA+PA, A-SE · I GRA+PA 26 ¾ and QA-QA-RU · I GRA+PA 5 (I 147), so the man sign stands where the recipient stands and I is the lexicon's I 'ration'. On HT 11a two short strokes project from the man sign's right side (I 23)."
     },
     {
       "sign": "*304-CYP",
@@ -1482,15 +1494,14 @@
       "sign": "*315",
       "kind": "sign",
       "status": "unread",
-      "frequency": 1,
-      "attestations": [
+      "frequency": 0,
+      "attestations": [],
+      "sites": [],
+      "cross_site": false,
+      "at_break": [
         "KH82"
       ],
-      "sites": [
-        "Khania"
-      ],
-      "cross_site": false,
-      "note": ""
+      "note": "KH 82 .3 ]*315, then 1 and the break: the tabular copy sets ] before the sign and the drawing none, with 'trace à droite' (GORILA III 97). It stands in the column of words, counted 1."
     },
     {
       "sign": "*320",
@@ -1642,21 +1653,20 @@
         "Haghia Triada"
       ],
       "cross_site": false,
-      "note": "A transaction sign alone on HT 122b.1 (Salgarella 2020, 309–12)."
+      "note": "A transaction sign alone on HT 122b.1 (Salgarella 2020, 309–12): JE-DI · *346 · and the man sign at the break, the sign a tall upright with a narrow closed foot to its right (GORILA I 209). The sign index has it here alone, as a transaction sign, [3] (V 304)."
     },
     {
       "sign": "*347",
       "kind": "sign",
       "status": "unread",
-      "frequency": 1,
-      "attestations": [
+      "frequency": 0,
+      "attestations": [],
+      "sites": [],
+      "cross_site": false,
+      "at_break": [
         "KH6"
       ],
-      "sites": [
-        "Khania"
-      ],
-      "cross_site": false,
-      "note": ""
+      "note": "KH 6 .3, after ]KI-SA-NE CYP+D ½: *347, two short strokes detached from it and the break (GORILA III 27). The same hand draws *306 with two such strokes at its side (KH 6 .7, KH 11 .3 and .6), and the fraction on KH 11 as a wedge with them."
     },
     {
       "sign": "*348",
@@ -1670,7 +1680,7 @@
         "Khania"
       ],
       "cross_site": false,
-      "note": "Davis lists *348 among the Linear A signs that look syllabic and have no Linear B counterpart (Davis 2026b, 96 n. 387); Salgarella has A 348 only inside the composite A 647 on KH 11.3, its use unclear (Salgarella 2020, 318)."
+      "note": "Davis lists *348 among the Linear A signs that look syllabic and have no Linear B counterpart (Davis 2026b, 96 n. 387); Salgarella has A 348 only inside the composite A 647 on KH 11.3, its use unclear (Salgarella 2020, 318). KH 11 .3 has *348 alone before CYP with two fractions, and .6 SI in the same column before CYP with the same amount (GORILA III 39)."
     },
     {
       "sign": "*352",
@@ -1684,7 +1694,7 @@
         "Khania"
       ],
       "cross_site": false,
-      "note": ""
+      "note": "KH 100 .1 *352 *306[, under a lost upper edge. Its editors, who publish the tablet as KH 99, read the sign tentatively: the curved crossing strokes could be a variant of DE, unusually large, or A 352, 'found once on the roundel KH Wc 2100'; the second sign is incomplete too (Andreadaki-Vlasaki and Hallager 2007, 12). They take *352 for a syllable in both places (2007, 17). On KH Wc 2100 it stands inside VIR+[?]-*352-JA."
     },
     {
       "sign": "*356",
@@ -1827,11 +1837,11 @@
       "note": ""
     },
     {
-      "sign": "*402+A",
+      "sign": "*404+A",
       "kind": "ligature",
       "status": "unread",
       "components": [
-        "*402",
+        "*404",
         "A"
       ],
       "frequency": 1,
@@ -1842,7 +1852,7 @@
         "Malia"
       ],
       "cross_site": false,
-      "note": ""
+      "note": "GORILA A 654, 404VAS+08 (GORILA V 312): MA 10b .2, a tapering cup with a loop handle at its left and A written inside, counted 2."
     },
     {
       "sign": "*402-VS",
@@ -1859,18 +1869,17 @@
       "note": "HT 31: a plain tapering vessel on a short foot."
     },
     {
-      "sign": "*404-VS",
+      "sign": "*414-VS",
       "kind": "vessel",
       "status": "unread",
-      "frequency": 1,
-      "attestations": [
+      "frequency": 0,
+      "attestations": [],
+      "sites": [],
+      "cross_site": false,
+      "at_break": [
         "MA10c"
       ],
-      "sites": [
-        "Malia"
-      ],
-      "cross_site": false,
-      "note": ""
+      "note": "No token of the sign alone survives whole. MA 10c ends on 414VAS[ ], a loop handle and the left of a rounded body at the break (GORILA V 51, 314). MA 10d has the vessel twice with a sign inside, *414+F and *414+[ ]."
     },
     {
       "sign": "*405+Ω",
@@ -1888,7 +1897,7 @@
         "Malia"
       ],
       "cross_site": false,
-      "note": ""
+      "note": "GORILA A 655, 405VAS+Ω (GORILA V 312): MA 10b .1, a tapering cup with a loop handle at each side and a sign inside it. Nearest among the Linear B vessels is *212, u-do-ro, 'a conical bucket-shaped bowl with two horizontal (?) handles' (Ventris and Chadwick 1956, 324, 328)."
     },
     {
       "sign": "*405-VS-*906",
@@ -1926,15 +1935,17 @@
       "sign": "*410-VS",
       "kind": "vessel",
       "status": "unread",
-      "frequency": 1,
+      "frequency": 2,
       "attestations": [
-        "HT31"
+        "HT31",
+        "KNZg57a"
       ],
       "sites": [
-        "Haghia Triada"
+        "Haghia Triada",
+        "Knossos"
       ],
-      "cross_site": false,
-      "note": "HT 31, the first vessel of the list: a bowl on three legs with two loops standing on the rim."
+      "cross_site": true,
+      "note": "HT 31 .1, the first vessel of the list: a bowl on three legs with two loops standing on the rim (GORILA V 313). The ivory ring KN Zg 57 has a tripod among the vessels of face A, one of the two vase signs there with no syllabogram above it; the editors point to HT 31 for the shape (Kanta, Nakassis, Palaima and Perna 2024, 38). Linear B *201, ti-ri-po 'tripod', has the same bowl, three legs and two loops on the rim (Ventris and Chadwick 1956, 324–325); *409-VS has the legs with no handles and *411-VS two bars at the sides (GORILA V 313)."
     },
     {
       "sign": "*412-VS-VIN",
@@ -1980,11 +1991,11 @@
       "note": ""
     },
     {
-      "sign": "*414+A",
+      "sign": "*407+A",
       "kind": "ligature",
       "status": "unread",
       "components": [
-        "*414",
+        "*407",
         "A"
       ],
       "frequency": 1,
@@ -1995,7 +2006,7 @@
         "Haghia Triada"
       ],
       "cross_site": false,
-      "note": ""
+      "note": "GORILA A 657, 407VAS+08 (GORILA V 312): HT 39 .5, after KU-RO and counted 100, a broad shallow vessel with a raised loop at each end of the rim and A above its middle. Nearest among the Linear B vessels is *200, pi-je-ra₃ 'boiling-pan', 'a large shallow vessel … provided with high-swung handles' (Ventris and Chadwick 1956, 324–325)."
     },
     {
       "sign": "*414+F",
@@ -2016,12 +2027,15 @@
       "note": ""
     },
     {
-      "sign": "*416+L2",
+      "sign": "*417+L2",
       "kind": "ligature",
-      "status": "unread",
+      "status": "component_read",
       "components": [
-        "*416",
+        "*417",
         "L2"
+      ],
+      "read_components": [
+        "*417"
       ],
       "frequency": 1,
       "attestations": [
@@ -2031,12 +2045,20 @@
         "Phaistos"
       ],
       "cross_site": false,
-      "note": "PH 8a, counted 7: a tall tapering container filled with diagonal strokes, a loop at the upper right, L2 beneath; SigLA codes it A417, the hatched vessel of KH Wc 2006 and 2007."
+      "note": "GORILA A 663, 417VAS 'L2' (GORILA V 315, 322): PH 8a .1, counted 7, the hatched vessel of KH Wc 2006 and 2007 with the fraction sign L2 beneath it, as *418+L2 has on .3. The Phaistos drawing is broader than the Khania one, with a flat bottom and parallel strokes for the lattice (GORILA I 296; III 116)."
     },
     {
-      "sign": "*505",
-      "kind": "sign",
-      "status": "unread",
+      "sign": "TE+RO",
+      "kind": "ligature",
+      "status": "component_read",
+      "components": [
+        "TE",
+        "RO"
+      ],
+      "read_components": [
+        "TE",
+        "RO"
+      ],
       "frequency": 1,
       "attestations": [
         "HT104"
@@ -2045,7 +2067,7 @@
         "Haghia Triada"
       ],
       "cross_site": false,
-      "note": ""
+      "note": "GORILA A 505, 04+02: HT 104 .1 TA-PA · TE+RO ·, between two dividers in the heading. The editors' note: TE and RO 'with the two horizontal strokes running together' (GORILA I 171); the sign index lists it under 02 and under 04 (V 145, 151).\n\nThe contribution of capital, TE 'contribution' with RO 'principal', under TA-PA 'partners', heading three shares that sum to 95. Akk. kasap tappūti is 'partnership capital' (CAD T 192), and qaqqadu 'head' is the 'original amount, principal' of a loan (CAD Q 109), as RO is rōš 'head'."
     },
     {
       "sign": "*517",
@@ -2115,7 +2137,7 @@
         "Haghia Triada"
       ],
       "cross_site": false,
-      "note": ""
+      "note": "GORILA A 648: the footed cup 400VAS with a sign above its rim, read 400VAS+RI with the RI dotted, or 400VAS+E with the fraction sign (GORILA V 311, 318). HT 110b .1, counted 3."
     },
     {
       "sign": "*800",
@@ -2192,7 +2214,7 @@
         "Thera"
       ],
       "cross_site": false,
-      "note": ""
+      "note": "THE 12, a fragment from Akrotiri Δ18: SigLA codes its one sign AB 22f, the she-goat; Younger reads ]OLE[. The drawing has a short bar, a diagonal under it and a long stem bowed to the left, three strokes that do not join; the photograph held shows no more. Neither reading is confirmed."
     },
     {
       "sign": "CYP+K",
@@ -2301,20 +2323,6 @@
       ],
       "cross_site": false,
       "note": ""
-    },
-    {
-      "sign": "GAL",
-      "kind": "logogram",
-      "status": "unread",
-      "frequency": 1,
-      "attestations": [
-        "KHWc2028"
-      ],
-      "sites": [
-        "Khania"
-      ],
-      "cross_site": false,
-      "note": "Alone on the roundel KH Wc 2028: a pointed form over a hanging loop. It is AB 191, the helmet, the one Linear A logogram certainly of the military class, as Linear B GAL (Palaima 1988, 325–26; Schoep 2002, 91, apud Nosch and Weilhartner 2026, 118; Salgarella 2020, 316)."
     },
     {
       "sign": "GRA+BOSm",
@@ -2679,7 +2687,7 @@
         "Thera"
       ],
       "cross_site": false,
-      "note": ""
+      "note": "THE 7a, Akrotiri Δ18: before 46 stands a sign with a curved head, three strokes descending from it and a baseline beneath, the sheep sign; SigLA codes it AB 21f, the ewe, and Younger reads OVIS with no mark of sex. The sign before the first numeral survives as two upright remnants, which SigLA leaves unread and Younger reads OVIS again. The photograph and drawing held do not settle the mark of sex."
     },
     {
       "sign": "PA-OLE+MI",
@@ -3020,27 +3028,6 @@
       "note": ""
     },
     {
-      "sign": "TELA+TE",
-      "kind": "ligature",
-      "status": "component_read",
-      "components": [
-        "TELA",
-        "TE"
-      ],
-      "read_components": [
-        "TE"
-      ],
-      "frequency": 1,
-      "attestations": [
-        "TELZb1"
-      ],
-      "sites": [
-        "Tel Haror"
-      ],
-      "cross_site": false,
-      "note": ""
-    },
-    {
       "sign": "TELA+SE",
       "kind": "ligature",
       "status": "component_read",
@@ -3059,7 +3046,7 @@
         "Thera"
       ],
       "cross_site": false,
-      "note": "The cloth sign AB 54 with SE inscribed, 200 counted (Boulotis 2008, 77, 80)."
+      "note": "The cloth sign AB 54 with SE inscribed, 200 counted (Boulotis 2008, 77, 80). Linear B *168+SE stands only in the latest Knossos archive and 'might be a textile' (Nosch 2024, 333); Davaras 1986 and Firth 2016, 235 'do not interpret *168 as a textile' (in Nosch 2024, 333 n. 72). Melena's weaver's vessel, the kalathiskos, Duhoux rejects: *168 lies on its long side, the kalathiskoi stand on the short one (Melena 1975, 118–134, in Duhoux 1977, 658)."
     },
     {
       "sign": "TI+*412VAS",
@@ -3078,20 +3065,6 @@
       ],
       "sites": [
         "Malia"
-      ],
-      "cross_site": false,
-      "note": ""
-    },
-    {
-      "sign": "VAS",
-      "kind": "logogram",
-      "status": "unread",
-      "frequency": 1,
-      "attestations": [
-        "KNZg57a"
-      ],
-      "sites": [
-        "Knossos"
       ],
       "cross_site": false,
       "note": ""
@@ -3164,8 +3137,12 @@
     {
       "sign": "VINb+WI",
       "kind": "ligature",
-      "status": "unread",
+      "status": "component_read",
       "components": [
+        "VINb",
+        "WI"
+      ],
+      "read_components": [
         "VINb",
         "WI"
       ],
@@ -3177,7 +3154,7 @@
         "Khania"
       ],
       "cross_site": false,
-      "note": ""
+      "note": "GORILA A 598 (GORILA III 25): KH 5 .2, the wine sign with WI, counted 2, between WI-SA-SA-NE with CYP+E 2 and WI-NA-DU."
     },
     {
       "sign": "VIR+KA-VIN",
@@ -3243,7 +3220,7 @@
         "Haghia Triada"
       ],
       "cross_site": false,
-      "note": "HT 128b .2, before GRA+KU 1; a fracture crosses the first sign (GORILA I 221)."
+      "note": "HT 128b .1, two signs before GRA+KU 1, the vessel bracketed and dotted; a fracture crosses the first sign (GORILA I 221). GORILA's sign index files the pair as 21f-329 (V 176) and has no HT 128b under the man sign (V 272); SigLA reads AB100-A329. On the edition's own drawing the first sign has two lower strokes ending in bent feet, as the man sign has."
     },
     {
       "sign": "VIR+[?]-*339-HIDE+[?]",

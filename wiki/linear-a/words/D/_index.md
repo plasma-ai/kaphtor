@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/D
 desc: "Words whose first sign begins with D."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-19T04:09:42Z
+updated: 2026-11-20T18:49:29Z
 ---
 
 # wiki/linear-a/words/D
@@ -11,7 +11,7 @@ updated: 2026-11-19T04:09:42Z
 
 [[wiki/linear-a/words/D/DA|DA]]: damʿu: the sanctuary's share (short form of DA-ME). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/D/DA_DU_MA_TA|DA_DU_MA_TA]]: dadmatu: settlement(s), district (heading of a grain list); rival 'beloved land'. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/D/DA_DU_MA_TA|DA_DU_MA_TA]]: dadmatu: settlement(s), district (heading of a grain list). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/D/DA_DU_MI_NE|DA_DU_MI_NE]]: dādu-Mīnō: Beloved of Minos (compound theophoric name). Lexicon, SPECULATIVE (tier 1).
 
@@ -29,7 +29,7 @@ updated: 2026-11-19T04:09:42Z
 
 [[wiki/linear-a/words/D/DA_KI|DA_KI]]: Unread (role only): recipient or allocation heading; 1 occurrence(s).
 
-[[wiki/linear-a/words/D/DA_KI_TI|DA_KI_TI]]: Daqqiti: of Daqqitu, the goddess to whom the incense is offered; rival daqqati 'fine (powder)'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/D/DA_KI_TI|DA_KI_TI]]: Daqqiti: of Daqqitu, the goddess to whom the incense is offered. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/D/DA_KU|DA_KU]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -41,23 +41,23 @@ updated: 2026-11-19T04:09:42Z
 
 [[wiki/linear-a/words/D/DA_MA_TE|DA_MA_TE]]: damat: the Tower; the unprefixed base of I-DA-MA-TE. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/D/DA_ME|DA_ME]]: damʿu: the sanctuary's share of the produce (a due on grain); rival damu 'blood'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/D/DA_ME|DA_ME]]: damʿu: the sanctuary's share of the produce (a due on grain). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/D/DA_MI_NU|DA_MI_NU]]: Ḏā-Mīnu: personal name, 'He of the Portion' (ḏā + √m-n-y); rival √m-n-n 'He of the Favor'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/D/DA_MI_NU|DA_MI_NU]]: Ḏā-Mīnu: personal name, 'He of the Portion' (ḏā + √m-n-y). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/D/DA_NA_SI|DA_NA_SI]]: Ḏā-Naśiʾ: He of Naśiʾ (personal name heading HT 126a). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/D/DA_NA_TU|DA_NA_TU]]: dānatu: personal name (f.), 'she who judges'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/D/DA_NE_KU_TI|DA_NE_KU_TI]]: Ḏā-naquddi: He of the speckled (flock) (personal name); rival 'He of the head shepherd'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/D/DA_NE_KU_TI|DA_NE_KU_TI]]: Ḏā-naquddi: He of the speckled (flock) (personal name). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/D/DA_PA3_broken_end|DA_PA3_broken_end]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/D/DA_QE_RA|DA_QE_RA]]: ḏā-Qīra: the (district) of Qīr, the walled town; heading opposite KA-PA 'village'; rival diqāru 'bowl'. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/D/DA_QE_RA|DA_QE_RA]]: ḏā-Qīra: the (district) of Qīr, the walled town; heading opposite KA-PA 'village'. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/D/DA_RA|DA_RA]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/D/DA_RE|DA_RE]]: dār: estate, household (a unit receiving men and grain); rival 'kin group, clan'. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/D/DA_RE|DA_RE]]: dār: estate, household (a unit receiving men and grain). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/D/DA_RE_KU_broken_end|DA_RE_KU_broken_end]]: Unread (edge overlap): personal name; 1 occurrence(s).
 
@@ -65,19 +65,19 @@ updated: 2026-11-19T04:09:42Z
 
 [[wiki/linear-a/words/D/DA_RO_PA|DA_RO_PA]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/D/DA_RU_NE_TE|DA_RU_NE_TE]]: Dāru-ʿAnēt: Anat is everlasting (theophoric personal name); rivals Dūr-ʿAnat 'Wall of Anat', and Egyptian Neith as the second element. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/D/DA_RU_NE_TE|DA_RU_NE_TE]]: Dāru-ʿAnēt: Anat is everlasting (theophoric personal name). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/D/DA_RU_star329|DA_RU_star329]]: Dārum: personal name, 'Eternal'; rival Arabic Dārim. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/D/DA_RU_star329|DA_RU_star329]]: Dārum: personal name, 'Eternal'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/D/DA_SE_RA_TE|DA_SE_RA_TE]]: Dašurat: Dašurat 'Old (f.)' (woman's name; Amorite dašuratum 'old'). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/D/DA_SI_star118|DA_SI_star118]]: Ḏā-šiṭṭa: those of Acacia (gentilic, a roster unit). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/D/DA_TA_RA|DA_TA_RA]]: Daṯar: Old (man's name); rival 'He of the gate'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/D/DA_TA_RA|DA_TA_RA]]: Daṯar: Old (man's name). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/D/DA_TA_RE|DA_TA_RE]]: Daṯar: Old (man's name); rival 'He of the gate'. Onomasticon personal name; lexicon entry DA-TA-RA.
+[[wiki/linear-a/words/D/DA_TA_RE|DA_TA_RE]]: Daṯar: Old (man's name). Onomasticon personal name; lexicon entry DA-TA-RA.
 
-[[wiki/linear-a/words/D/DA_TU|DA_TU]]: ḏātu: She of (…), a woman named by her house (personal name; feminine of ḏū 'he of'); rival daṯʾu 'spring pasture'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/D/DA_TU|DA_TU]]: ḏātu: She of (…), a woman named by her house (personal name; feminine of ḏū 'he of'). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/D/DA_U_MI|DA_U_MI]]: dawmi: the enduring one (personal name). Lexicon, CANDIDATE (tier 2).
 
@@ -93,7 +93,7 @@ updated: 2026-11-19T04:09:42Z
 
 [[wiki/linear-a/words/D/DA_star118|DA_star118]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/D/DE_DI|DE_DI]]: Dedī: personal name, 'my beloved'; rival the Hurrian name dḏy. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/D/DE_DI|DE_DI]]: Dedī: personal name, 'my beloved'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/D/DE_JU_KU|DE_JU_KU]]: Dalqu: personal name, 'burning, kindled'. Lexicon, SPECULATIVE (tier 1).
 
@@ -105,11 +105,11 @@ updated: 2026-11-19T04:09:42Z
 
 [[wiki/linear-a/words/D/DE_SU_q_star47_TE|DE_SU_q_star47_TE]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/D/DI|DI]]: dibšu: honey, fruit syrup—commodity abbreviation of *dibšu; rival dblt 'fig cake'. In personnel lists a separate single-sign abbreviation. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/D/DI|DI]]: dibšu: honey, fruit syrup—commodity abbreviation of *dibšu. In personnel lists a separate single-sign abbreviation. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/D/DI_DE|DI_DE]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/D/DI_DE_RU|DI_DE_RU]]: ʾaddīru: nobles, notables; rival ʾadr 'granary'. Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/D/DI_DE_RU|DI_DE_RU]]: ʾaddīru: nobles, notables. Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/D/DI_DI|DI_DI]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -137,15 +137,13 @@ updated: 2026-11-19T04:09:42Z
 
 [[wiki/linear-a/words/D/DI_NE|DI_NE]]: dīn: judgment (name element). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/D/DI_NI|DI_NI]]: Dīnī: personal name, 'My judgment' (short form of a √d-y-n name). Lexicon, SPECULATIVE (tier 1).
-
 [[wiki/linear-a/words/D/DI_PA_JA|DI_PA_JA]]: dipaya: dipas, a large handled vessel (Linear B di-pa). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/D/DI_RA_DI_NA|DI_RA_DI_NA]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/D/DI_RE_DI_NA|DI_RE_DI_NA]]: ʾaddīr-dīnā: mighty is the verdict (compound sentence name); rival a simplex recipient name. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/D/DI_RE_DI_NA|DI_RE_DI_NA]]: ʾaddīr-dīnā: mighty is the verdict (compound sentence name). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/D/DI_RI_NA|DI_RI_NA]]: dīr-īna: households, granaries (grain recipient); rivals the Amorite place name Dīr, a personal name. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/D/DI_RI_NA|DI_RI_NA]]: dīr-īna: households, granaries (grain recipient). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/D/DI_SI|DI_SI]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -157,7 +155,7 @@ updated: 2026-11-19T04:09:42Z
 
 [[wiki/linear-a/words/D/DU_AROM_A|DU_AROM_A]]: Unread sign (compound, component read); 1 occurrence(s).
 
-[[wiki/linear-a/words/D/DU_DA_MA|DU_DA_MA]]: Dūdāma: Beloved (personal name, √d-w-d + -ma); rival the Aegean name of the Keftiu board and Linear B di-du-me. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/D/DU_DA_MA|DU_DA_MA]]: Dūdāma: Beloved (personal name, √d-w-d + -ma). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/D/DU_JA|DU_JA]]: Ḏū-Ya: personal name, 'He of Ya'. Lexicon, SPECULATIVE (tier 1).
 
@@ -165,7 +163,7 @@ updated: 2026-11-19T04:09:42Z
 
 [[wiki/linear-a/words/D/DU_KA|DU_KA]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/D/DU_MA_I_NA|DU_MA_I_NA]]: ḏū-maʿīna: He of the Spring (personal name; ḏū 'he of' + maʿīn 'spring, flowing water'); rival a product, '(the drink) of the spring'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/D/DU_MA_I_NA|DU_MA_I_NA]]: ḏū-maʿīna: He of the Spring (personal name; ḏū 'he of' + maʿīn 'spring, flowing water'). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/D/DU_ME_DI|DU_ME_DI]]: Dūmatī: Dūmatī (personal name—'the Enduring One', √dwm hypocoristic). Lexicon, CANDIDATE (tier 2).
 
@@ -185,7 +183,7 @@ updated: 2026-11-19T04:09:42Z
 
 [[wiki/linear-a/words/D/DU_RE_ZA|DU_RE_ZA]]: Unread (edge overlap): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/D/DU_RE_ZA_SE|DU_RE_ZA_SE]]: turēṯa-se: for the must, new wine (terminative -SE); at Khania with the article, A-DU-RE-ZA ha-tīrāṯ 'the must'; rival √d-r-š 'demand, requisition'. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/D/DU_RE_ZA_SE|DU_RE_ZA_SE]]: turēṯa-se: for the must, new wine (terminative -SE); at Khania with the article, A-DU-RE-ZA ha-tīrāṯ 'the must'. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/D/DU_RI|DU_RI]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -197,8 +195,8 @@ updated: 2026-11-19T04:09:42Z
 
 [[wiki/linear-a/words/D/DU_TI_q_broken_end|DU_TI_q_broken_end]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/D/DU_ZU_WA|DU_ZU_WA]]: ḏū-ṯuwāʕ: He of the Lord (personal name; ḏū 'he of' + ṯuwāʕ 'lord'); rival 'the noble one'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/D/DU_ZU_WA|DU_ZU_WA]]: ḏū-ṯuwāʕ: He of the Lord (personal name; ḏū 'he of' + ṯuwāʕ 'lord'). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/D/DU_star314_RE|DU_star314_RE]]: ḏū har: the One of the mountain (divine title before I-DA-A 'of Ida'); rival dubur 'sanctuary', a variant spelling of DU-PU₂-RE. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/D/DU_star314_RE|DU_star314_RE]]: ḏū har: the One of the mountain (divine title before I-DA-A 'of Ida'). Lexicon, CANDIDATE (tier 2).
 
 ***

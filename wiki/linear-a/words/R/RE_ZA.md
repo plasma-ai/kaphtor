@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/R/RE_ZA
 title: "RE-ZA"
-desc: "(ʾa)raz: cedar (wood, resin or oil; commodity); rival Luwian aruza, a measure. Lexicon, SPECULATIVE (tier 1)."
+desc: "(ʾa)raz: cedar (wood, resin or oil; commodity). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "aromatic", "commodity", "noun"]
 kind: "word"
 form: "RE-ZA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | (ʾa)raz |
-| Meaning | cedar (wood, resin or oil; commodity); rival Luwian aruza, a measure |
+| Meaning | cedar (wood, resin or oil; commodity) |
 | Root | ʾ-r-z |
 | Proto-Semitic | \*ʾVrz- (#2735) |
 | Language layer | Semitic |

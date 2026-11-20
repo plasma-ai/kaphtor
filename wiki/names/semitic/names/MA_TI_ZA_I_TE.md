@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/MA_TI_ZA_I_TE
 title: "MA-TI-ZA-I-TE"
-desc: "Matiʿ-zayti: Protector of the olive trees (personal name; matiʿ 'protector' + zayt 'olive tree'); rival Hurrian mat-. Semitic, SPECULATIVE."
+desc: "Matiʿ-zayti: Protector of the olive trees (personal name; matiʿ 'protector' + zayt 'olive tree'). Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "MA-TI-ZA-I-TE"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Matiʿ-zayti** · Protector of the olive trees (personal name; matiʿ 'protector' + zayt 'olive tree'); rival Hurrian mat-
+**Matiʿ-zayti** · Protector of the olive trees (personal name; matiʿ 'protector' + zayt 'olive tree')
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Matiʿ-zayti |
-| Meaning | Protector of the olive trees (personal name; matiʿ 'protector' + zayt 'olive tree'); rival Hurrian mat- |
+| Meaning | Protector of the olive trees (personal name; matiʿ 'protector' + zayt 'olive tree') |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/m-t-ayin\|m-t-ʿ]] + [[wiki/names/semitic/roots/z-y-t\|z-y-t]] |
 | Proto-Semitic | \*mutaʕ- (#854), \*zayt- (#2694) |
@@ -66,7 +66,7 @@ Read words on the same documents.
 
 | Word | Reading | Meaning |
 |---|---|---|
-| [[wiki/names/semitic/names/MA_KA_I_TA\|MA-KA-I-TA]] | Makīt | personal name (f.), the feminine of Makī (MA-KA-I-SE); rival the Egyptian name mkj·t |
-| [[wiki/names/semitic/names/A_DU_ZA\|A-DU-ZA]] | ʾAddu-ʿazz | ʾAddu-ʿazz (personal name), 'Addu is strong'; rival Hadas 'Myrtle' |
+| [[wiki/names/semitic/names/MA_KA_I_TA\|MA-KA-I-TA]] | Makīt | personal name (f.), the feminine of Makī (MA-KA-I-SE) |
+| [[wiki/names/semitic/names/A_DU_ZA\|A-DU-ZA]] | ʾAddu-ʿazz | ʾAddu-ʿazz (personal name), 'Addu is strong' |
 
 <!-- END kaphtor:record -->

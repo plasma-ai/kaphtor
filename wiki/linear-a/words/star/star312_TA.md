@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/star/star312_TA
 title: "*312-TA"
-desc: "bīta: the house, the household (an institution drawing emmer); rivals bitta 'lengths of cloth' and the name zo-ta. Lexicon, SPECULATIVE (tier 1)."
+desc: "bīta: the house, the household (an institution drawing emmer). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "administrative", "hapax", "noun"]
 kind: "word"
 form: "*312-TA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | bīta |
-| Meaning | the house, the household (an institution drawing emmer); rivals bitta 'lengths of cloth' and the name zo-ta |
+| Meaning | the house, the household (an institution drawing emmer) |
 | Root | b-y-t |
 | Proto-Semitic | \*bayt- (#652) |
 | Language layer | Semitic |

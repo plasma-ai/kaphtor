@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/Q/QE_SI_TE
 title: "QE-SI-TE"
-desc: "qešet: bow, incised on the Malia palace wall; rival 'throne, seat' (PS *kussīʾ-). Lexicon, SPECULATIVE (tier 1)."
+desc: "qešet: bow, incised on the Malia palace wall. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "noun"]
 kind: "word"
 form: "QE-SI-TE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | qešet |
-| Meaning | bow, incised on the Malia palace wall; rival 'throne, seat' (PS \*kussīʾ-) |
+| Meaning | bow, incised on the Malia palace wall |
 | Root | q-š-t |
 | Proto-Semitic | \*ḳa(w)š- (#362) |
 | Language layer | Semitic |

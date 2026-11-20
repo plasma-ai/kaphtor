@@ -26,6 +26,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/RI_TA_JE\|RI-TA-JE]] | Lītāy | (My) Might (personal name; lītu 'might, victory' + hypocoristic -āy); rival Rašiyya | 1 |
+| [[wiki/names/semitic/names/RI_TA_JE\|RI-TA-JE]] | Lītāy | (My) Might (personal name; lītu 'might, victory' + hypocoristic -āy) | 1 |
 
 <!-- END kaphtor:record -->

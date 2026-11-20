@@ -1,7 +1,7 @@
 ---
 name: wiki/names/hurrian/names/A_SE_TU_star21F
 title: "A-SE-TU-*21F"
-desc: "Aštuḫḫa: Female (Hurrian personal name); rival the line as a heading, 'female (ones)'. Hurrian, SPECULATIVE."
+desc: "Aštuḫḫa: Female (Hurrian personal name). Hurrian, SPECULATIVE."
 tags: ["names", "personal-name", "hurrian"]
 kind: "name"
 form: "A-SE-TU-*21F"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Aštuḫḫa** · Female (Hurrian personal name); rival the line as a heading, 'female (ones)'
+**Aštuḫḫa** · Female (Hurrian personal name)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Aštuḫḫa |
-| Meaning | Female (Hurrian personal name); rival the line as a heading, 'female (ones)' |
+| Meaning | Female (Hurrian personal name) |
 | Language layer | [[wiki/names/hurrian/_index\|Hurrian]] |
 | Reading's standing | SPECULATIVE |
 | Standing as a personal name | SPECULATIVE |
@@ -38,7 +38,7 @@ PH 2 .1 A-SE-TU-\*21F 1, the first entry, above RA-O-DI-KI 60, PI-RU-E-JU 60 and
 
 ## As a name
 
-Aštuḫḫa 'Female', the Nuzi woman's name ᶠAš-du-uḫ-ḫa-a-a (NPN 37); Hurrian aštuḫḫi 'feminine' (Laroche GLH 62).
+Aštuḫḫa 'Female', the Nuzi woman's name ᶠAš-du-uḫ-ḫa-a-a (NPN 37); Hurrian aštuḫḫi 'feminine' (Laroche GLH 62). Rival: the line as a heading, 'female (ones)'.
 
 ## Cognates
 

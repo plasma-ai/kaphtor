@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/Q/QE_PU
 title: "QE-PU"
-desc: "qēpu: official, commissioner (title); rival: the personal name Qīpu. Lexicon, SPECULATIVE (tier 1)."
+desc: "qēpu: official, commissioner (title). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "noun", "title"]
 kind: "word"
 form: "QE-PU"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | qēpu |
-| Meaning | official, commissioner (title); rival: the personal name Qīpu |
+| Meaning | official, commissioner (title) |
 | Root | q-y-p |
 | Proto-Semitic | \*ḳīp- (#3850) |
 | Language layer | Semitic |
@@ -82,7 +82,7 @@ di Mino; CAD Q
 
 ### Note
 
-Roster +numeral.
+Roster +numeral. Rival: the personal name Qīpu.
 
 ### Co-occurring lexicon words
 

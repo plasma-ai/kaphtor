@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/T/TI_NU_JA
 title: "TI-NU-JA"
-desc: "Ṯinuya: personal name, 'Second(-born)'; rival Dīnuya. Lexicon, SPECULATIVE (tier 1)."
+desc: "Ṯinuya: personal name, 'Second(-born)'. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "TI-NU-JA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Ṯinuya |
-| Meaning | personal name, 'Second(-born)'; rival Dīnuya |
+| Meaning | personal name, 'Second(-born)' |
 | Root | ṯ-n-y |
 | Proto-Semitic | \*ṯVny- (#2553) |
 | Language layer | Semitic |

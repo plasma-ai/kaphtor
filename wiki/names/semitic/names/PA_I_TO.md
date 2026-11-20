@@ -31,11 +31,11 @@ updated: 2026-11-11T23:39:03Z
 | Reading's standing | CONFIRMED |
 | Standing as a place name | CONFIRMED |
 | Standing of the layer | CONFIRMED (lexicon_reading) |
-| Source | di Mino; Gordon 1966; DMic II; Cline and Stannish 2011; Beekes 2014; Schoep 1999; Davis 2026b |
+| Source | di Mino; Gordon 1966; DMic II; Cline and Stannish 2011; Beekes 2014; Schoep 1999; Davis 2026b; Luján 2010 |
 
 ## Note
 
-HT 97a PA-I-TO 6, among the entries under KA-RU · \*307+\*307 · VIR+KA 82, after KA-NU-TI 25; HT 120 PA-I-TO 3⅕, the last entry, after KI-RE-TA-NA GRA+B 60 and GRA+PA 48. Linear B writes the same pa-i-to for Phaistos, the town of the Knossos tablets (DMic II 68). Davis answers its rarity at Haghia Triada: pa-i-to may name the town of Phaistos, which shows hardly any occupation in LM IB (Schoep 1999, 205), the palace bearing a name of its own, perhaps SA-RA₂ (Davis 2026b, 104 n. 409).
+HT 97a PA-I-TO 6, among the entries under KA-RU · \*307+\*307 · VIR+KA 82, after KA-NU-TI 25; HT 120 PA-I-TO 3⅕, the last entry, after KI-RE-TA-NA GRA+B 60 and GRA+PA 48. Linear B writes the same pa-i-to for Phaistos, the town of the Knossos tablets (DMic II 68), whose women, pa-i-ti-ja, weave te-pa for the palace (KN Le 641, Lc 546; Luján 2010, 377, 379). Davis answers its rarity at Haghia Triada: pa-i-to may name the town of Phaistos, which shows hardly any occupation in LM IB (Schoep 1999, 205), the palace bearing a name of its own, perhaps SA-RA₂ (Davis 2026b, 104 n. 409).
 
 ## As a name
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/DU_DA_MA
 title: "DU-DA-MA"
-desc: "Dūdāma: Beloved (personal name, √d-w-d + -ma); rival the Aegean name of the Keftiu board and Linear B di-du-me. Semitic, CANDIDATE."
+desc: "Dūdāma: Beloved (personal name, √d-w-d + -ma). Semitic, CANDIDATE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "DU-DA-MA"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Dūdāma** · Beloved (personal name, √d-w-d + -ma); rival the Aegean name of the Keftiu board and Linear B di-du-me
+**Dūdāma** · Beloved (personal name, √d-w-d + -ma)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Dūdāma |
-| Meaning | Beloved (personal name, √d-w-d + -ma); rival the Aegean name of the Keftiu board and Linear B di-du-me |
+| Meaning | Beloved (personal name, √d-w-d + -ma) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/d-w-d\|d-w-d]] |
 | Proto-Semitic | \*dawid- (#19) |
@@ -36,11 +36,11 @@ updated: 2026-11-11T23:39:03Z
 
 ## Note
 
-HT 6b .4 DU-DA-MA 66, the largest entry in a list of names, on a face written over an erasure; DU-DA-MA itself shows no undertext (GORILA I 13). dū-dā-ma, the vowels of Heb. dûdāʾîm 'love-apples', √d-w-d 'beloved', + -ma as in the Amorite name DA-DU-MA, Dawdu-ma (Gelb 1980, no. 1433). One attestation. See TA-DI.
+HT 6b .4 DU-DA-MA 66, the largest entry in a list of names, on a face written over an erasure; DU-DA-MA itself shows no undertext (GORILA I 13). dū-dā-ma, the vowels of Heb. dûdāʾîm 'love-apples', √d-w-d 'beloved', + -ma as in the Amorite name DA-DU-MA, Dawdu-ma (Gelb 1980, no. 1433). One attestation. See TA-DI. Rival: the Aegean name of the Keftiu board and Linear B di-du-me.
 
 ## As a name
 
-Dūdāma 'Beloved', √d-w-d + -ma, as the Amorite DA-DU-MA (Gelb 1980, no. 1433); the d-d-m name of the Keftiu board and Linear B di-du-me.
+Dūdāma 'Beloved', √d-w-d + -ma, as the Amorite DA-DU-MA (Gelb 1980, no. 1433); the d-d-m name of the Keftiu board and Linear B di-du-me. Rival: the Aegean name of the Keftiu board and Linear B di-du-me.
 
 ## Cognates
 

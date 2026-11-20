@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/A/A_SI_SU_PO_A
 title: "A-SI-SU-PO-A"
-desc: "ʾassuppōa: the storehouse (heading of issues), the word of A-SU-PU-WA; rival a personal or place heading in -uwa. Lexicon, SPECULATIVE (tier 1)."
+desc: "ʾassuppōa: the storehouse (heading of issues), the word of A-SU-PU-WA. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "administrative", "hapax", "noun"]
 kind: "word"
 form: "A-SI-SU-PO-A"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʾassuppōa |
-| Meaning | the storehouse (heading of issues), the word of A-SU-PU-WA; rival a personal or place heading in -uwa |
+| Meaning | the storehouse (heading of issues), the word of A-SU-PU-WA |
 | Root | ʾ-s-p |
 | Proto-Semitic | \*ʾasupp- (#3870) |
 | Language layer | Semitic |

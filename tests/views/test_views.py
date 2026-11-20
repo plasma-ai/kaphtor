@@ -891,6 +891,27 @@ def test_an_unread_sign_has_a_word_page_and_the_ledger_links_it(data):
     assert f"[[{model.word_path('OLE+QE')}\\|OLE+QE]]" in ledger
 
 
+def test_a_sign_whole_only_beside_a_break_names_the_documents_on_its_page(data):
+    model, render = views("model"), views("render")
+    signs = {"statuses": UNREAD_SIGNS["statuses"], "entries": [
+        {"sign": "*347", "kind": "sign", "status": "unread", "frequency": 0, "attestations": [], "sites": [],
+         "cross_site": False, "at_break": ["ZZ7", "ZZ8"], "note": "Two strokes and the break."},
+        UNREAD_SIGNS["entries"][0]]}
+    (data / "unread_signs.json").write_text(json.dumps(signs, ensure_ascii=False), encoding="utf-8")
+    m = model.load(data)
+    _, text = render.word_page(m, "*347")
+    assert "Unread sign (sign, unread); 0 occurrence(s), whole beside a break on 2 document(s)." in text
+    assert (f"No token stands clear of a break. The sign is whole beside one on [[{model.doc_path('ZZ7')}|ZZ7]] "
+            f"and [[{model.doc_path('ZZ8')}|ZZ8]].") in text
+    _, plain = render.word_page(m, "I")
+    assert "beside a break" not in plain and "No token stands clear" not in plain
+    signs["entries"][1] = signs["entries"][1] | {"at_break": ["ZZ9"]}
+    (data / "unread_signs.json").write_text(json.dumps(signs, ensure_ascii=False), encoding="utf-8")
+    _, both = render.word_page(model.load(data), "I")
+    assert f"The sign also stands whole beside a break on [[{model.doc_path('ZZ9')}|ZZ9]]." in both
+    assert "Unread sign (syllabogram, unread); 2 occurrence(s)." in both
+
+
 SCRIBES = {"scribes": {
     "HT Scribe 9": {"site": "Haghia Triada", "class": "tablet", "numbering": "Militello 1989", "source": "Younger 2023",
                     "gorila_v": ["9 HT"], "note": ""},

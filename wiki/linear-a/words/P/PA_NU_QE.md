@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/P/PA_NU_QE
 title: "PA-NU-QE"
-desc: "Panūq: personal name, 'Pampered'; rival Amorite Banuq. Lexicon, SPECULATIVE (tier 1)."
+desc: "Panūq: personal name, 'Pampered'. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "PA-NU-QE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Panūq |
-| Meaning | personal name, 'Pampered'; rival Amorite Banuq |
+| Meaning | personal name, 'Pampered' |
 | Root | p-n-q |
 | Proto-Semitic | \*panaq- (#K0254) |
 | Language layer | Semitic |

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/star/star47_NU_RA_JA
 title: "*47-NU-RA-JA"
-desc: "Šū-nūraya: personal name, 'He is light'; rival mənōrāya 'lampstand (man)'. Lexicon, SPECULATIVE (tier 1)."
+desc: "Šū-nūraya: personal name, 'He is light'. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "*47-NU-RA-JA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Šū-nūraya |
-| Meaning | personal name, 'He is light'; rival mənōrāya 'lampstand (man)' |
+| Meaning | personal name, 'He is light' |
 | Root | n-w-r |
 | Proto-Semitic | \*nūr- (#1196) |
 | Language layer | Semitic |
@@ -81,7 +81,7 @@ di Mino; DULAT; Pagan 1998; Gelb 1980
 
 ### Note
 
-Šū-nūraya 'He is light', as Ebla su-nu-ri₂ šū-nūrī (Pagan 1998, row 4282) and Ugaritic nu-ri-ia (DULAT 634); on the same palimpsest as \*301-U-RA naura.
+Šū-nūraya 'He is light', as Ebla su-nu-ri₂ šū-nūrī (Pagan 1998, row 4282) and Ugaritic nu-ri-ia (DULAT 634); on the same palimpsest as \*301-U-RA naura. Rival: mənōrāya 'lampstand (man)'.
 
 ### Co-occurring lexicon words
 

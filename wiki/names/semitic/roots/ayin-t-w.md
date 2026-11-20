@@ -27,7 +27,7 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/U_TA_I_SE\|U-TA-I-SE]] | ʿUtay-se | personal name: ʿUtay with the -SE suffix, a recipient of cyperus; rival a Cretan name of another language (LB u-ta-jo) | 1 |
+| [[wiki/names/semitic/names/U_TA_I_SE\|U-TA-I-SE]] | ʿUtay-se | personal name: ʿUtay with the -SE suffix, a recipient of cyperus | 1 |
 | [[wiki/names/semitic/names/star306_TU\|\*306-TU]] | ʿAttu | personal name (cf. Hebrew ʿAttay) | 4 |
 | [[wiki/names/semitic/names/star306_TU_JA\|\*306-TU-JA]] | ʿAttuya | personal name, ʿAttu with -ya (Hebrew ʿĂtāyāh) | 1 |
 

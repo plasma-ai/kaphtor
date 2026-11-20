@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/PI_TA_KA_SE
 title: "PI-TA-KA-SE"
-desc: "Bīt-kissē: House of the Throne, the crown estate (institution heading); rival the Hurrian name of PI-TA-KE-SI. Semitic, SPECULATIVE."
+desc: "Bīt-kissē: House of the Throne, the crown estate (institution heading). Semitic, SPECULATIVE."
 tags: ["names", "place-name", "semitic"]
 kind: "name"
 form: "PI-TA-KA-SE"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Bīt-kissē** · House of the Throne, the crown estate (institution heading); rival the Hurrian name of PI-TA-KE-SI
+**Bīt-kissē** · House of the Throne, the crown estate (institution heading)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/places\|Place name]] |
 | Reading | Bīt-kissē |
-| Meaning | House of the Throne, the crown estate (institution heading); rival the Hurrian name of PI-TA-KE-SI |
+| Meaning | House of the Throne, the crown estate (institution heading) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/b-y-t\|b-y-t]] + [[wiki/names/semitic/roots/k-s-alef\|k-s-ʾ]] |
 | Proto-Semitic | \*bayt- (#652), \*kVsVʾ- (#K0105) |

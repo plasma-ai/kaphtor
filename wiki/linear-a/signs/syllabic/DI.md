@@ -61,7 +61,6 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/D/DI_NA_RO\|DI-NA-RO]] | Dānīlo / Dānīlu | CANDIDATE |
 | [[wiki/linear-a/words/D/DI_NA_U\|DI-NA-U]] | Dīnāyu | CANDIDATE |
 | [[wiki/linear-a/words/D/DI_NE\|DI-NE]] | dīn | SPECULATIVE |
-| [[wiki/linear-a/words/D/DI_NI\|DI-NI]] | Dīnī | SPECULATIVE |
 | [[wiki/linear-a/words/D/DI_PA_JA\|DI-PA-JA]] | dipaya | CANDIDATE |
 | [[wiki/linear-a/words/D/DI_RE_DI_NA\|DI-RE-DI-NA]] | ʾaddīr-dīnā | CANDIDATE |
 | [[wiki/linear-a/words/D/DI_RI_NA\|DI-RI-NA]] | dīr-īna | SPECULATIVE |
@@ -91,6 +90,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/T/TU_PA_DI_DA\|TU-PA-DI-DA]] | ṭūb-dida | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_DI_MI\|U-DI-MI]] | ʾUdmī | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_DI_RI_KI\|U-DI-RI-KI]] | u-dirik | CANDIDATE |
+| [[wiki/linear-a/words/W/WA_DI_NI\|WA-DI-NI]] | Waḏnī | SPECULATIVE |
 | [[wiki/linear-a/words/W/WI_DI_NA\|WI-DI-NA]] | Widdinā | SPECULATIVE |
 | [[wiki/linear-a/words/Z/ZU_DI\|ZU-DI]] | ṯudī | PROBABLE |
 | [[wiki/linear-a/words/Z/ZU_DI_RA\|ZU-DI-RA]] | ṯudira | CANDIDATE |

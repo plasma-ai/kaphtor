@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/KO_SA_I_TI
 title: "KO-SA-I-TI"
-desc: "Kōšayīt: the Kushite woman (origin label); rival kusītu 'robe'. Semitic, SPECULATIVE."
+desc: "Kōšayīt: the Kushite woman (origin label). Semitic, SPECULATIVE."
 tags: ["names", "place-name-or-gentilic", "semitic"]
 kind: "name"
 form: "KO-SA-I-TI"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Kōšayīt** · the Kushite woman (origin label); rival kusītu 'robe'
+**Kōšayīt** · the Kushite woman (origin label)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/places_and_peoples\|Place name or gentilic]] |
 | Reading | Kōšayīt |
-| Meaning | the Kushite woman (origin label); rival kusītu 'robe' |
+| Meaning | the Kushite woman (origin label) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/kaleph3sh-kush\|Kꜣš 'Kush']] |
 | Reading's standing | SPECULATIVE |

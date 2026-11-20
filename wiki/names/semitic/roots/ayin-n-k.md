@@ -28,6 +28,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/TA_NI_KA\|TA-NI-KA]] | Taʿnaku | Taanach (place name); rival a personal name | 2 |
+| [[wiki/names/semitic/names/TA_NI_KA\|TA-NI-KA]] | Taʿnaku | Taanach (place name) | 2 |
 
 <!-- END kaphtor:record -->

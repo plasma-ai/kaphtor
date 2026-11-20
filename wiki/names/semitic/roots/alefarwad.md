@@ -27,6 +27,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/A_RA_U_DA\|A-RA-U-DA]] | ʾArwada | Arwad (island city of the Phoenician coast), the home of the man named before it; rival a personal name, Ugaritic ảrwd(n) | 1 |
+| [[wiki/names/semitic/names/A_RA_U_DA\|A-RA-U-DA]] | ʾArwada | Arwad (island city of the Phoenician coast), the home of the man named before it | 1 |
 
 <!-- END kaphtor:record -->

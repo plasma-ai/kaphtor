@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/K/KA_RE_RO
 title: "KA-RE-RO"
-desc: "Kariru: Kariru (personal name, Nuzi Qa-ri-ru, Ka-ri-ru); rival karr- 'ram'. Lexicon, SPECULATIVE (tier 1)."
+desc: "Kariru: Kariru (personal name, Nuzi Qa-ri-ru, Ka-ri-ru). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "loanword", "personal_name"]
 kind: "word"
 form: "KA-RE-RO"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Kariru |
-| Meaning | Kariru (personal name, Nuzi Qa-ri-ru, Ka-ri-ru); rival karr- 'ram' |
+| Meaning | Kariru (personal name, Nuzi Qa-ri-ru, Ka-ri-ru) |
 | Root | Kariru (Pre-Greek) |
 | Language layer | Semitic |
 | Tags | hapax, loanword, personal_name |

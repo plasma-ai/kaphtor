@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/P
 desc: "Words whose first sign begins with P."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-20T13:43:05Z
+updated: 2026-11-21T04:44:24Z
 ---
 
 # wiki/linear-a/words/P
@@ -13,7 +13,7 @@ updated: 2026-11-20T13:43:05Z
 
 [[wiki/linear-a/words/P/PA|PA]]: barr: barr- 'wheat, threshed grain'. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/P/PA3|PA3]]: bi=: in, with, by (proclitic b-); rival on HT 103 bād(i) 'in the charge of'. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/P/PA3|PA3]]: bi=: in, with, by (proclitic b-). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/P/PA3_E|PA3_E]]: bē: in, at (preposition). Lexicon, CANDIDATE (tier 2).
 
@@ -37,7 +37,7 @@ updated: 2026-11-20T13:43:05Z
 
 [[wiki/linear-a/words/P/PA_DA_NI|PA_DA_NI]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/P/PA_DA_SU_TI|PA_DA_SU_TI]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/P/PA_DA_SU_TI|PA_DA_SU_TI]]: Parʿōš-ti: the name Parʿōš 'Flea' with TI: a partner's share of 29. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/P/PA_DE|PA_DE]]: Padī: personal name 'redeemer' (p-d-y); recipient of wine. Lexicon, SPECULATIVE (tier 1).
 
@@ -55,7 +55,7 @@ updated: 2026-11-20T13:43:05Z
 
 [[wiki/linear-a/words/P/PA_NA_TU|PA_NA_TU]]: banātu / panātu / (Ku)bānatu: daughters (fem. pl.). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/P/PA_NU_QE|PA_NU_QE]]: Panūq: personal name, 'Pampered'; rival Amorite Banuq. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/P/PA_NU_QE|PA_NU_QE]]: Panūq: personal name, 'Pampered'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/P/PA_OLE_plus_MI|PA_OLE_plus_MI]]: Unread sign (compound, component read); 1 occurrence(s).
 
@@ -77,7 +77,7 @@ updated: 2026-11-20T13:43:05Z
 
 [[wiki/linear-a/words/P/PA_TA|PA_TA]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/P/PA_TA_DA|PA_TA_DA]]: Patada: personal name; Egyptian Ptḥ-dj(⸗f) 'Ptah gives'; rival Hurrian pṭḏ (Ugarit). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/P/PA_TA_DA|PA_TA_DA]]: Patada: personal name; Egyptian Ptḥ-dj(⸗f) 'Ptah gives'. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/P/PA_TA_NE|PA_TA_NE]]: Patne: personal name, 'Viper'. Lexicon, CANDIDATE (tier 2).
 
@@ -93,11 +93,11 @@ updated: 2026-11-20T13:43:05Z
 
 [[wiki/linear-a/words/P/PI|PI]]: Unread sign (syllabogram, unread); 1 occurrence(s).
 
-[[wiki/linear-a/words/P/PI_KE|PI_KE]]: bikē: weeping, lament; rival pīka 'your mouth'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/P/PI_KE|PI_KE]]: bikē: weeping, lament. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/P/PI_KU_ZU|PI_KU_ZU]]: bi-kuṯ: in flasks (preposition bi- + kuṯ 'flask, jar'; heading of an oil section). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/P/PI_MI_NA_TE|PI_MI_NA_TE]]: bi-mināti: by the portions (broken before PI); rivals 'by the recitation', minḥâ 'offering'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/P/PI_MI_NA_TE|PI_MI_NA_TE]]: bi-mināti: by the portions (broken before PI). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/P/PI_MI_TI_TA_RA2|PI_MI_TI_TA_RA2]]: Unread (role only): personal name; 2 occurrence(s).
 
@@ -107,17 +107,17 @@ updated: 2026-11-20T13:43:05Z
 
 [[wiki/linear-a/words/P/PI_O|PI_O]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/P/PI_RU_E_JU|PI_RU_E_JU]]: Pirʾu-ʾēlu: personal name, 'Offspring of El'; rival 'Fruit of El'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/P/PI_RU_E_JU|PI_RU_E_JU]]: Pirʾu-ʾēlu: personal name, 'Offspring of El'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/P/PI_SA|PI_SA]]: Pīsa: personal name, '(a bird)', Akk. būṣu; rival an institution; a recipient. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/P/PI_SA|PI_SA]]: Pīsa: personal name, '(a bird)', Akk. būṣu. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/P/PI_TA_JA|PI_TA_JA]]: Bittaya: personal name, 'daughter of Ya'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/P/PI_TA_KA_SE|PI_TA_KA_SE]]: Bīt-kissē: House of the Throne, the crown estate (institution heading); rival the Hurrian name of PI-TA-KE-SI. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/P/PI_TA_KA_SE|PI_TA_KA_SE]]: Bīt-kissē: House of the Throne, the crown estate (institution heading). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/P/PI_TA_KE_SI|PI_TA_KE_SI]]: Bīt-kissi: (Man) of the throne-house, crown dependant (title); rival Hurrian PN Pidi-kešḫi. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/P/PI_TA_KE_SI|PI_TA_KE_SI]]: Bīt-kissi: (Man) of the throne-house, crown dependant (title). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/P/PI_TA_RA|PI_TA_RA]]: bitra: a portion, share (accounting term); rivals bidāla 'trade agents' and the names Paṭir, Batūl. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/P/PI_TA_RA|PI_TA_RA]]: bitra: a portion, share (accounting term). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/P/PI_TE_RI|PI_TE_RI]]: piṭrī: Piṭrī, personal name, 'my release'. Lexicon, CANDIDATE (tier 2).
 
@@ -129,7 +129,7 @@ updated: 2026-11-20T13:43:05Z
 
 [[wiki/linear-a/words/P/PI_star314_broken_start|PI_star314_broken_start]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/P/PI_star34_TE|PI_star34_TE]]: piqitti: provisions, provisioning (allocation entry); rivals bayti 'house', a recipient name. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/P/PI_star34_TE|PI_star34_TE]]: piqitti: provisions, provisioning (allocation entry). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/P/PO_DI_PA3|PO_DI_PA3]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -153,12 +153,12 @@ updated: 2026-11-20T13:43:05Z
 
 [[wiki/linear-a/words/P/PU_MA_KU|PU_MA_KU]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/P/PU_NI_KA|PU_NI_KA]]: punniga: a kind of bread, counted by the loaf (*363); rival: a personal name. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/P/PU_NI_KA|PU_NI_KA]]: punniga: a kind of bread, counted by the loaf (*363). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/P/PU_RA|PU_RA]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/P/PU_RA2|PU_RA2]]: Bōl: Baʿal, 'Lord' (recipient in allocation lists). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/P/PU_VIN|PU_VIN]]: pūra: the (wine-)vat, a pressing unit (allocation heading); rival 'madder'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/P/PU_VIN|PU_VIN]]: pūra: the (wine-)vat, a pressing unit (allocation heading). Lexicon, SPECULATIVE (tier 1).
 
 ***

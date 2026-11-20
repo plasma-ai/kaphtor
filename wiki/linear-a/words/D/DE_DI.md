@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/D/DE_DI
 title: "DE-DI"
-desc: "Dedī: personal name, 'my beloved'; rival the Hurrian name dḏy. Lexicon, SPECULATIVE (tier 1)."
+desc: "Dedī: personal name, 'my beloved'. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "DE-DI"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Dedī |
-| Meaning | personal name, 'my beloved'; rival the Hurrian name dḏy |
+| Meaning | personal name, 'my beloved' |
 | Root | d-w-d |
 | Proto-Semitic | \*dawid- (#19) |
 | Language layer | Semitic |

@@ -1,7 +1,7 @@
 ---
 name: wiki/names/egyptian/names/RA_TI_SE
 title: "RA-TI-SE"
-desc: "Ratis: Ratis (Egyptian personal name rdj⸗s, the name RE-DI-SE), 'the one she has given'; rival Safaitic RDS 'Breaker'. Egyptian, SPECULATIVE."
+desc: "Ratis: Ratis (Egyptian personal name rdj⸗s, the name RE-DI-SE), 'the one she has given'. Egyptian, SPECULATIVE."
 tags: ["names", "personal-name", "egyptian"]
 kind: "name"
 form: "RA-TI-SE"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Ratis** · Ratis (Egyptian personal name rdj⸗s, the name RE-DI-SE), 'the one she has given'; rival Safaitic RDS 'Breaker'
+**Ratis** · Ratis (Egyptian personal name rdj⸗s, the name RE-DI-SE), 'the one she has given'
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Ratis |
-| Meaning | Ratis (Egyptian personal name rdj⸗s, the name RE-DI-SE), 'the one she has given'; rival Safaitic RDS 'Breaker' |
+| Meaning | Ratis (Egyptian personal name rdj⸗s, the name RE-DI-SE), 'the one she has given' |
 | Language layer | [[wiki/names/egyptian/_index\|Egyptian]] |
 | Root | [[wiki/names/egyptian/roots/rdj\|rdj]] |
 | Reading's standing | SPECULATIVE |

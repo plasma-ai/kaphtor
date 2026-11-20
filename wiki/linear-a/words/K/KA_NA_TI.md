@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/K/KA_NA_TI
 title: "KA-NA-TI"
-desc: "kanasti: you (f.) gathered (2fs suffix form; after lū 'may you gather'); rival K-N-S-T feminine collective 'assembly'. Lexicon, SPECULATIVE (tier 1)."
+desc: "kanasti: you (f.) gathered (2fs suffix form; after lū 'may you gather'). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "libation_formula", "ritual", "verb"]
 kind: "word"
 form: "KA-NA-TI"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | kanasti |
-| Meaning | you (f.) gathered (2fs suffix form; after lū 'may you gather'); rival K-N-S-T feminine collective 'assembly' |
+| Meaning | you (f.) gathered (2fs suffix form; after lū 'may you gather') |
 | Root | k-n-s |
 | Proto-Semitic | \*kanVs- (#2763) |
 | Language layer | Semitic |

@@ -72,6 +72,6 @@ Read words on the same documents.
 
 | Word | Reading | Meaning |
 |---|---|---|
-| [[wiki/names/semitic/names/KA_PA\|KA-PA]] | kapa(r) | village, settlement (kapar); rival an institution |
+| [[wiki/names/semitic/names/KA_PA\|KA-PA]] | kapa(r) | village, settlement (kapar) |
 
 <!-- END kaphtor:record -->

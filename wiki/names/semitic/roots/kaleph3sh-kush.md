@@ -27,6 +27,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/KO_SA_I_TI\|KO-SA-I-TI]] | Kōšayīt | the Kushite woman (origin label); rival kusītu 'robe' | 1 |
+| [[wiki/names/semitic/names/KO_SA_I_TI\|KO-SA-I-TI]] | Kōšayīt | the Kushite woman (origin label) | 1 |
 
 <!-- END kaphtor:record -->

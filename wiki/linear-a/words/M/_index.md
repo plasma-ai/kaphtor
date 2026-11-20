@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/M
 desc: "Words whose first sign begins with M."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-19T22:42:09Z
+updated: 2026-11-20T14:16:39Z
 ---
 
 # wiki/linear-a/words/M
@@ -11,33 +11,33 @@ updated: 2026-11-19T22:42:09Z
 
 [[wiki/linear-a/words/M/MA|MA]]: Unread sign (syllabogram, unread); 8 occurrence(s).
 
-[[wiki/linear-a/words/M/MA_DI|MA_DI]]: Maʾdi: place name: a unit of men and livestock in the HT rosters; rival the Hurrian personal name Madi 'wisdom'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/M/MA_DI|MA_DI]]: Maʾdi: place name: a unit of men and livestock in the HT rosters. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/M/MA_I|MA_I]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/M/MA_I_MI|MA_I_MI]]: mayimi: water(-men), water-drawers of the sanctuary; rival Anatolian 'grown-ups'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/M/MA_I_MI|MA_I_MI]]: mayimi: water(-men), water-drawers of the sanctuary. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/M/MA_JU|MA_JU]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/M/MA_KA_I_SE|MA_KA_I_SE]]: Makī-se: personal name: Makī with the Zakros -SE; Amorite maqīm 'Established'; rival the Egyptian name mkj. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/M/MA_KA_I_SE|MA_KA_I_SE]]: Makī-se: personal name: Makī with the Zakros -SE; Amorite maqīm 'Established'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/M/MA_KA_I_TA|MA_KA_I_TA]]: Makīt: personal name (f.), the feminine of Makī (MA-KA-I-SE); rival the Egyptian name mkj·t. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/M/MA_KA_I_TA|MA_KA_I_TA]]: Makīt: personal name (f.), the feminine of Makī (MA-KA-I-SE). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/M/MA_KA_RI_TE|MA_KA_RI_TE]]: makkārītu: merchants (heading of a roster of men); rival 'red (wool)'. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/M/MA_KA_RI_TE|MA_KA_RI_TE]]: makkārītu: merchants (heading of a roster of men). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/M/MA_KI_DE_TE|MA_KI_DE_TE]]: Majdat: personal name, 'glory' (feminine). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/M/MA_RE|MA_RE]]: mārē: lord, master (title, an entry in a KI-RO roster); rival a personal name. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/M/MA_RE|MA_RE]]: mārē: lord, master (title, an entry in a KI-RO roster). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/M/MA_RE_RI_MI_DE|MA_RE_RI_MI_DE]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/M/MA_RI|MA_RI]]: Mari: Mari (place name; Linear B ma-ri); rival Mari on the Euphrates. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/M/MA_RI|MA_RI]]: Mari: Mari (place name; Linear B ma-ri). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/M/MA_RI_RE_I|MA_RI_RE_I]]: marīrēy: myrrh (the bitter resin). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/M/MA_RI_TA2|MA_RI_TA2]]: marʾ(i)tā: the Lady (divine title; personal-name element). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/M/MA_RU|MA_RU]]: Maruʾ: Fattened (personal name), the bare stem of the Amorite MARUʾ- names; rival Maru 'Wool'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/M/MA_RU|MA_RU]]: Maruʾ: Fattened (personal name), the bare stem of the Amorite MARUʾ- names. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/M/MA_RU_A|MA_RU_A]]: Unread (edge overlap): personal name; 1 occurrence(s).
 
@@ -45,7 +45,7 @@ updated: 2026-11-19T22:42:09Z
 
 [[wiki/linear-a/words/M/MA_SI|MA_SI]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/M/MA_SI_DU|MA_SI_DU]]: maṣīdu: provisions (list heading); rivals a place name, 'Fortress', and a personal name, cf. Linear B ma-si-dwo. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/M/MA_SI_DU|MA_SI_DU]]: maṣīdu: provisions (list heading). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/M/MA_SU_MI|MA_SU_MI]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -57,7 +57,7 @@ updated: 2026-11-19T22:42:09Z
 
 [[wiki/linear-a/words/M/MA_TI_TI|MA_TI_TI]]: mattitt(u): gift. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/M/MA_TI_ZA_I_TE|MA_TI_ZA_I_TE]]: Matiʿ-zayti: Protector of the olive trees (personal name; matiʿ 'protector' + zayt 'olive tree'); rival Hurrian mat-. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/M/MA_TI_ZA_I_TE|MA_TI_ZA_I_TE]]: Matiʿ-zayti: Protector of the olive trees (personal name; matiʿ 'protector' + zayt 'olive tree'). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/M/MA_ZA|MA_ZA]]: mazza: corvée workers, labour gang (personnel term). Lexicon, SPECULATIVE (tier 1).
 
@@ -73,7 +73,7 @@ updated: 2026-11-19T22:42:09Z
 
 [[wiki/linear-a/words/M/ME_KI_DI|ME_KI_DI]]: Majd: personal name, 'glory' (masculine). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/M/ME_VIN|ME_VIN]]: mesek: mixed wine (wine-section heading); rival 'must'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/M/ME_VIN|ME_VIN]]: mesek: mixed wine (wine-section heading). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/M/ME_ZA|ME_ZA]]: massu: corvée gang, labour gang (personnel term); the word of MA-ZA. Lexicon, CANDIDATE (tier 2).
 
@@ -103,7 +103,7 @@ updated: 2026-11-19T22:42:09Z
 
 [[wiki/linear-a/words/M/MI_RE|MI_RE]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/M/MI_RU_TA_RA_RE|MI_RU_TA_RA_RE]]: Mīru-darār: Free-running Bull, a bull that roams free (personal name); rival Murr-darār 'Flowing Myrrh'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/M/MI_RU_TA_RA_RE|MI_RU_TA_RA_RE]]: Mīru-darār: Free-running Bull, a bull that roams free (personal name). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/M/MI_TA|MI_TA]]: mitta: personal name (Mitanni Indo-Aryan type). Lexicon, CANDIDATE (tier 2).
 
@@ -119,7 +119,7 @@ updated: 2026-11-19T22:42:09Z
 
 [[wiki/linear-a/words/M/MI_plus_JA_plus_KA|MI_plus_JA_plus_KA]]: purple dye of the KA kind, ḫamr- 'fermenting, foaming': the core of MI+JA+RU miyāru with KA set over it. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/M/MI_plus_JA_plus_RU|MI_plus_JA_plus_RU]]: miyāru: purple dye, the murex dye liquor (a commodity ligature spelling the word); rival murru 'myrrh'. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/M/MI_plus_JA_plus_RU|MI_plus_JA_plus_RU]]: miyāru: purple dye, the murex dye liquor (a commodity ligature spelling the word). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/M/MI_plus_star301|MI_plus_star301]]: minā: mina, portion (weight/measure unit). Lexicon, PROBABLE (tier 3).
 

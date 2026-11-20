@@ -80,7 +80,7 @@ correspondence: recall over precision for deep cognate hunting).
   (Lane's *Arabic-English Lexicon*, *Lisān al-ʿArab*, al-Zabīdī, …). WordPress
   WP-JSON API.
 - **lexicon.quranic-research.net**: offline (broken SSL).
-- **SabaWeb (sabaweb.uni-jena.de)**: the Sabaic dictionary, online over HTTP, its project closed in August 2024 (© Friedrich-Schiller-Universität Jena). The print dictionaries are Beeston et al.,
+- **SabaWeb (sabaweb.uni-jena.de)**: the Sabaic dictionary, online over HTTP, its project closed in August 2024. Its DFG final report (NE 371/10, §3.6) puts the published data under CC BY-SA 4.0; the pages themselves state no licence (© Friedrich-Schiller-Universität Jena). The print dictionaries are Beeston et al.,
   *Sabaic Dictionary* (1982) and Biella, *Dictionary of Old South Arabic* (1982).
 - **SEDonline (http://sed-online.ru)**: the Semitic Etymological Database, live (HSE University; L. Kogan,
   I. Arkhipov). The old host sed-online.uni-jena.de is gone. No

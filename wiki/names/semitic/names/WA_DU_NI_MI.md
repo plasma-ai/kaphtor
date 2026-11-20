@@ -68,8 +68,8 @@ Read words on the same documents.
 
 | Word | Reading | Meaning |
 |---|---|---|
-| [[wiki/names/egyptian/names/RA_TI_SE\|RA-TI-SE]] | Ratis | Ratis (Egyptian personal name rdj⸗s, the name RE-DI-SE), 'the one she has given'; rival Safaitic RDS 'Breaker' |
+| [[wiki/names/egyptian/names/RA_TI_SE\|RA-TI-SE]] | Ratis | Ratis (Egyptian personal name rdj⸗s, the name RE-DI-SE), 'the one she has given' |
 | MA-RI-RE-I | marīrēy | myrrh (the bitter resin) |
-| [[wiki/names/semitic/names/DU_DA_MA\|DU-DA-MA]] | Dūdāma | Beloved (personal name, √d-w-d + -ma); rival the Aegean name of the Keftiu board and Linear B di-du-me |
+| [[wiki/names/semitic/names/DU_DA_MA\|DU-DA-MA]] | Dūdāma | Beloved (personal name, √d-w-d + -ma) |
 
 <!-- END kaphtor:record -->

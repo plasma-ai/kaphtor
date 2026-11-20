@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/S/SA_RE_JU
 title: "SA-RE-JU"
-desc: "Šarr-ēlu: personal name, 'El is king'; rival Hurrian Šar-elli. Lexicon, SPECULATIVE (tier 1)."
+desc: "Šarr-ēlu: personal name, 'El is king'. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "compound", "hapax", "personal_name"]
 kind: "word"
 form: "SA-RE-JU"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Šarr-ēlu |
-| Meaning | personal name, 'El is king'; rival Hurrian Šar-elli |
+| Meaning | personal name, 'El is king' |
 | Root | ŝ-r-r + ʾ-l |
 | Proto-Semitic | \*ŝarr- (#3463) + \*ʾil- (#2719) |
 | Language layer | Semitic |

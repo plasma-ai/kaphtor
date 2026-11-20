@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/J/JA_PA_RA_JA_SE
 title: "JA-PA-RA-JA-SE"
-desc: "yapra yāṣē: may what comes forth bear fruit—volitive √p-r-y + √y-ṣ-ʾ participle/imperfect; rival yapʾara yāṣē 'may that which goes out glorify'. Lexicon, CANDIDATE (tier 2)."
+desc: "yapra yāṣē: may what comes forth bear fruit—volitive √p-r-y + √y-ṣ-ʾ participle/imperfect. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "compound", "hapax", "libation_formula", "participle", "ritual", "verb"]
 kind: "word"
 form: "JA-PA-RA-JA-SE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | yapra yāṣē |
-| Meaning | may what comes forth bear fruit—volitive √p-r-y + √y-ṣ-ʾ participle/imperfect; rival yapʾara yāṣē 'may that which goes out glorify' |
+| Meaning | may what comes forth bear fruit—volitive √p-r-y + √y-ṣ-ʾ participle/imperfect |
 | Root | p-r-y + y-ṣ-ʾ |
 | Proto-Semitic | \*pir- (#756) + \*wVṣ̂Vʾ- (#K0448) |
 | Language layer | Semitic |
@@ -53,7 +53,7 @@ The reading is the editors' own, 57-03-60-57-09, on a circular serpentine libati
 |---|---|
 | Hebrew | pārâ 'to bear fruit', impf. yipreh, with yāṣāʾ 'go out' in one verse (Isa 11:1; HALOT 963); יָצָא/יֹצֵא (yāṣāʾ/yōṣē) "go out"; rival פָּאַר (pāʾar) "glorify, beautify" (Isa 60:7, 13) |
 | Akkadian | (w)aṣû "go out", ṣītu "outflow, disbursement" |
-| Ugaritic | yṣʾ 'go out, appear' (DULAT 969) |
+| Ugaritic | yṣả 'go out, appear' (DULAT 969) |
 
 ### Source
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/T/TA_RA
 title: "TA-RA"
-desc: "ṯa(ġ)ra: gatekeepers (of the sanctuary); rival Akkadian tārû 'child-minder'. Lexicon, SPECULATIVE (tier 1)."
+desc: "ṯa(ġ)ra: gatekeepers (of the sanctuary). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "noun", "occupation", "personnel", "ritual"]
 kind: "word"
 form: "TA-RA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ṯa(ġ)ra |
-| Meaning | gatekeepers (of the sanctuary); rival Akkadian tārû 'child-minder' |
+| Meaning | gatekeepers (of the sanctuary) |
 | Root | \*ṯaġr- 'gate' |
 | Proto-Semitic | \*ŝₓaʕar- (#677) |
 | Language layer | Semitic |

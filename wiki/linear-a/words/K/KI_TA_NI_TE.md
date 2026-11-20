@@ -47,14 +47,14 @@ PK Zb 21, a pithos incised before firing (Building 7, MM IIIB–LM IA). A -t der
 
 | Language | Comparison |
 |---|---|
-| Akkadian | kitītu, var. kitintu "linen robe" (eBL kitītu I); kitû "flax, linen" |
+| Akkadian | kitītu, var. kitintu "linen robe" (eBL kitītu I), where CAD has kitītu A 'fine (lit. linen-like) wool; Mari' (K 466); kitû 'flax, linen (thread and fabric)' (CAD K 473) |
 | Hebrew | kətōnet / kuttōnet "tunic" (Gen 37:3; Exod 28:39) &lt; \*kutān-t |
 | Ugaritic | ktn 'linen' (Watson 2018b, 363); 'a type of tunic', pl. ktnt (DULAT 464) |
 | Phoenician | KTN "tunic" (Krahmalkov 2000) |
 
 ### Source
 
-di Mino; Younger, Linear A Texts; HALOT; Watson 2018b; DULAT; Driessen 1991; Krahmalkov 2000
+di Mino; Younger, Linear A Texts; HALOT; Watson 2018b; DULAT; Driessen 1991; Krahmalkov 2000; CAD K
 
 ## Attestations
 

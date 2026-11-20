@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/D/DU_RE_ZA_SE
 title: "DU-RE-ZA-SE"
-desc: "turēṯa-se: for the must, new wine (terminative -SE); at Khania with the article, A-DU-RE-ZA ha-tīrāṯ 'the must'; rival √d-r-š 'demand, requisition'. Lexicon, CANDIDATE (tier 2)."
+desc: "turēṯa-se: for the must, new wine (terminative -SE); at Khania with the article, A-DU-RE-ZA ha-tīrāṯ 'the must'. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "beverage", "commodity", "foodstuff", "noun"]
 kind: "word"
 form: "DU-RE-ZA-SE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | turēṯa-se |
-| Meaning | for the must, new wine (terminative -SE); at Khania with the article, A-DU-RE-ZA ha-tīrāṯ 'the must'; rival √d-r-š 'demand, requisition' |
+| Meaning | for the must, new wine (terminative -SE); at Khania with the article, A-DU-RE-ZA ha-tīrāṯ 'the must' |
 | Root | t-r-ṯ |
 | Proto-Semitic | \*tīrāṯ- (#S26) |
 | Language layer | Semitic |

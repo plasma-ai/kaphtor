@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/M/MA_DI
 title: "MA-DI"
-desc: "Maʾdi: place name: a unit of men and livestock in the HT rosters; rival the Hurrian personal name Madi 'wisdom'. Lexicon, SPECULATIVE (tier 1)."
+desc: "Maʾdi: place name: a unit of men and livestock in the HT rosters. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "toponym"]
 kind: "word"
 form: "MA-DI"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Maʾdi |
-| Meaning | place name: a unit of men and livestock in the HT rosters; rival the Hurrian personal name Madi 'wisdom' |
+| Meaning | place name: a unit of men and livestock in the HT rosters |
 | Root | m-ʾ-d |
 | Proto-Semitic | \*mVʾad- (#1704) |
 | Language layer | Semitic |

@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/TI_NU_JA
 title: "TI-NU-JA"
-desc: "Ṯinuya: personal name, 'Second(-born)'; rival Dīnuya. Semitic, SPECULATIVE."
+desc: "Ṯinuya: personal name, 'Second(-born)'. Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "TI-NU-JA"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Ṯinuya** · personal name, 'Second(-born)'; rival Dīnuya
+**Ṯinuya** · personal name, 'Second(-born)'
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Ṯinuya |
-| Meaning | personal name, 'Second(-born)'; rival Dīnuya |
+| Meaning | personal name, 'Second(-born)' |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/th-n-y\|ṯ-n-y]] |
 | Proto-Semitic | \*ṯVny- (#2553) |

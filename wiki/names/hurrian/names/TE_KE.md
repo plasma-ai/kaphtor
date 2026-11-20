@@ -65,7 +65,7 @@ Read words on the same documents.
 |---|---|---|
 | [[wiki/names/semitic/names/A_DU\|A-DU]] | adû | work assignment; the ration allotted to it (heading of personnel and ration lists) |
 | [[wiki/names/semitic/names/PA3_NI\|PA₃-NI]] | bānī | builder (a personnel class) |
-| DA-RE | dār | estate, household (a unit receiving men and grain); rival 'kin group, clan' |
+| DA-RE | dār | estate, household (a unit receiving men and grain) |
 | KU-RO | kull | total, sum (accounting term) |
 
 <!-- END kaphtor:record -->

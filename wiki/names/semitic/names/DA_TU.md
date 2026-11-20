@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/DA_TU
 title: "DA-TU"
-desc: "ḏātu: She of (…), a woman named by her house (personal name; feminine of ḏū 'he of'); rival daṯʾu 'spring pasture'. Semitic, SPECULATIVE."
+desc: "ḏātu: She of (…), a woman named by her house (personal name; feminine of ḏū 'he of'). Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "DA-TU"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**ḏātu** · She of (…), a woman named by her house (personal name; feminine of ḏū 'he of'); rival daṯʾu 'spring pasture'
+**ḏātu** · She of (…), a woman named by her house (personal name; feminine of ḏū 'he of')
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | ḏātu |
-| Meaning | She of (…), a woman named by her house (personal name; feminine of ḏū 'he of'); rival daṯʾu 'spring pasture' |
+| Meaning | She of (…), a woman named by her house (personal name; feminine of ḏū 'he of') |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/dh\|ḏ]] |
 | Proto-Semitic | \*ḏāt- (#K0876) |

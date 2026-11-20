@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/S/SE_TO_I_JA
 title: "SE-TO-I-JA"
-desc: "Ṣētiya: the Eastern (place), a central Cretan toponym; rivals the epithet 'she of the East' and a pre-Greek toponym Setoiya. Lexicon, PROBABLE (tier 3)."
+desc: "Ṣētiya: the Eastern (place), a central Cretan toponym. Lexicon, PROBABLE (tier 3)."
 tags: ["linear-a", "word", "tier-3", "hapax", "libation_formula", "ritual", "toponym"]
 kind: "word"
 form: "SE-TO-I-JA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Ṣētiya |
-| Meaning | the Eastern (place), a central Cretan toponym; rivals the epithet 'she of the East' and a pre-Greek toponym Setoiya |
+| Meaning | the Eastern (place), a central Cretan toponym |
 | Root | y-ṣ-ʾ |
 | Proto-Semitic | \*wVṣ̂Vʾ- (#K0448) |
 | Language layer | Semitic |
@@ -41,19 +41,19 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-PR Za 1, formula slot 2, the site-specific slot (cf. TU-RU-SA at Kophinas, O-SU-QA-RE at Tylissos, I-DA-MI at Syme): 'at Ṣētiya', the place. Linear B writes the same spelling, se-to-i-ja, a Knossos toponym on 17 tablets (As 40+5093, As 1516, Dc 5687+, Lc 525, Le 654, Mc 4464+, Sd 4407+ and others; DMic II 288). √y-ṣ-ʾ (K0448): ṣēt 'the East' with the gentilic -iya of SU-KI-RI-TE-I-JA; SE writes the ē of Hebrew ṣēʾt (Judg 5:31), SI-TE Ṣīt the ī. East with a gentilic names a people in haq-Qadmōnî 'the Kadmonites' (Gen 15:19) and a sea in hay-yām haq-qadmônî 'the eastern sea' (Ezek 47:18). Rivals: an epithet 'she of the East'; a pre-Greek toponym Setoiya.
+PR Za 1, formula slot 2, the site-specific slot (cf. TU-RU-SA at Kophinas, O-SU-QA-RE at Troullos, I-DA-MI at Syme): 'at Ṣētiya', the place. Linear B writes the same spelling, se-to-i-ja, a Knossos toponym on 17 tablets (As 40+5093, As 1516, Dc 5687+, Lc 525, Le 654, Mc 4464+, Sd 4407+ and others; DMic II 288). It keeps flocks there and is the one place booked for the king's cloth, wa-na-ka-te-ra TELA+TE 40 against LANA 100\[ on KN Lc 525, again on Le 654 (Luján 2010, 375–376, 380). √y-ṣ-ʾ (K0448): ṣēt 'the East' with the gentilic -iya of SU-KI-RI-TE-I-JA; SE writes the ē of Hebrew ṣēʾt (Judg 5:31), SI-TE Ṣīt the ī. East with a gentilic names a people in haq-Qadmōnî 'the Kadmonites' (Gen 15:19) and a sea in hay-yām haq-qadmônî 'the eastern sea' (Ezek 47:18). Rivals: an epithet 'she of the East'; a pre-Greek toponym Setoiya.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Akkadian | ṣītum / ṣīt šamšim 'sunrise, east' (Huehnergard 1997, glossary); ṣītān 'at sunrise' (ORACC CAMS/GKAB); Ebla balri ṣīt šamši 'on the east bank' (EDA I, P0477) |
+| Akkadian | ṣītum 'sunrise, east', also ṣīt šamšim (Huehnergard 1997, glossary), written ṣi-it šam-ši (CAD Ṣ 215); ṣītān 'at sunrise' (ORACC CAMS/GKAB); Ebla balri ṣīt šamši 'on the east bank' (EDA I, P0477) |
 | Hebrew | ṣēʾt (צֵאת) 'going out', kə-ṣēʾt ha-šemeš (Judg 5:31); gentilic of 'east': haq-Qadmōnî (Gen 15:19), hay-yām haq-qadmônî 'the eastern sea' (Ezek 47:18) |
-| Ugaritic | yṣʾ 'go out, appear' (DULAT 969) |
+| Ugaritic | yṣả 'go out, appear' (DULAT 969) |
 
 ### Source
 
-di Mino; DMic II
+di Mino; DMic II; Luján 2010
 
 ## Attestations
 
@@ -65,7 +65,7 @@ di Mino; DMic II
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/PR/PRZa/PRZa1\|PRZa1]] | Ṣētiya | the Eastern (one), of the East | PROBABLE |
+| [[wiki/linear-a/inscriptions/PR/PRZa/PRZa1\|PRZa1]] | Ṣētiya | the Eastern (place) | PROBABLE |
 
 ## Onomasticon
 
@@ -81,6 +81,6 @@ di Mino; DMic II
 
 ### Note
 
-Ṣētiya 'the Eastern (one)', √y-ṣ-ʾ (K0448): ṣēt 'the East' with the gentilic -iya; cf. SI-TE Ṣīt.
+Ṣētiya 'the Eastern (one)', √y-ṣ-ʾ (K0448): ṣēt 'the East' with the gentilic -iya; cf. SI-TE Ṣīt. Rivals: the epithet 'she of the East' and a pre-Greek toponym Setoiya.
 
 <!-- END kaphtor:record -->

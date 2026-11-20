@@ -48,7 +48,7 @@ updated: 2026-11-04T22:32:52Z
 | Gurage | amänä 3 (LGz. 24) | LGz. 24 |  |
 | Harari | amäna 3 (LGz. 24) | LGz. 24 |  |
 | Amorite | ʾmn 3: ʾamanum, ʾaminum, ʾaminatum, ʾamina (Gelb AS 21, 14); mnw 1: manawum, manawa, manijum, manuwum (Gelb AS 21, 25); manî 1, yamnān 1 (Buck 2019, 329); manat 5 (Buck 2019, 329) | Gelb AS 21 14; Gelb AS 21 25; Buck 2019, 329 | gloss withheld |
-| Ugaritic | ʔimt 3 (Kogan 2015, ch. 2 §4.2 no. 2); mny 1 (Tropper UG 379); mnt 5 (DULAT 558) | Kogan 2015 ch. 2 §4.2 no. 2; Tropper UG 379; DULAT 558 | gloss withheld |
+| Ugaritic | ʔimt 3 (Kogan 2015, ch. 2 §4.2 no. 2); mny 1 (Tropper UG 379); mnt 5, 1 (DULAT 558) | Kogan 2015 ch. 2 §4.2 no. 2; Tropper UG 379; DULAT 558 | gloss withheld |
 | Argobba | ˀammɛn 3 (Wetter 2010:84, AAD 270 apud SEDonline 187) | Wetter 2010:84, AAD 270; SEDonline 187 | gloss withheld |
 | East Ethiopic | Sel. Wol. amänä 3 (EDG 49 apud SEDonline 187) | EDG 49; SEDonline 187 | gloss withheld |
 | Judaic Aramaic | menaʾ 1 (T 186) | T 186 |  |

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/A/A_RE_SA_NA
 title: "A-RE-SA-NA"
-desc: "ʾAriš-ān: 'The Requested One', personal name from √ʾ-r-š 'to request, desire' with -ān; rival Ḥarišān 'craftsman'. Lexicon, CANDIDATE (tier 2)."
+desc: "ʾAriš-ān: 'The Requested One', personal name from √ʾ-r-š 'to request, desire' with -ān. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "hapax", "personal_name", "votive"]
 kind: "word"
 form: "A-RE-SA-NA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʾAriš-ān |
-| Meaning | 'The Requested One', personal name from √ʾ-r-š 'to request, desire' with -ān; rival Ḥarišān 'craftsman' |
+| Meaning | 'The Requested One', personal name from √ʾ-r-š 'to request, desire' with -ān |
 | Root | ʾ-r-š |
 | Proto-Semitic | \*ʾVrVš- (#K0596) |
 | Language layer | Semitic |
@@ -87,6 +87,6 @@ di Mino; Gelb 1980; Huffmon 1965; Benz 1972; DULAT; Watson 1995; Watson 1993; HA
 
 ### Note
 
-THE Zb 2, the sole word on an Akrotiri clay vessel, in the owner's or dedicant's slot. ʾAriš-ān 'the requested one', √ʾ-r-š 'to request' with hypocoristic -ān; the Amorite name ʾARIŚ-AN, ḪA-RI-ŠA-AN (Gelb, AS 21, no. 2190), -NA writing its closing n. RE writes ri, as KI-RE-TA₂ beside KI-RI-TA₂. One attestation.
+THE Zb 2, the sole word on an Akrotiri clay vessel, in the owner's or dedicant's slot. ʾAriš-ān 'the requested one', √ʾ-r-š 'to request' with hypocoristic -ān; the Amorite name ʾARIŚ-AN, ḪA-RI-ŠA-AN (Gelb, AS 21, no. 2190), -NA writing its closing n. RE writes ri, as KI-RE-TA₂ beside KI-RI-TA₂. One attestation. Rival: Ḥarišān 'craftsman'.
 
 <!-- END kaphtor:record -->

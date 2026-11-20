@@ -43,6 +43,7 @@ updated: 2026-10-24T16:17:50Z
 | Word | Reading | Confidence |
 |---|---|---|
 | [[wiki/linear-a/words/D/DU_RU_WI\|DU-RU-WI]] | ḏu-luwwī | CANDIDATE |
+| [[wiki/linear-a/words/I/I_DU_WI\|I-DU-WI]] | Yaduwi | SPECULATIVE |
 | [[wiki/linear-a/words/J/JA_WI\|JA-WI]] | Yawī | CANDIDATE |
 | [[wiki/linear-a/words/N/NU_WI\|NU-WI]] | nōwē | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA3_NI_WI\|PA₃-NI-WI]] | bānīy | CANDIDATE |

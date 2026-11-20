@@ -41,7 +41,7 @@ Transliteration, line by line:
 
 1. 𐝫
 2. \]\*22F 2
-3. \*21F 1
+3. \*21F 1\[
 4. \]-DU-RI \*22M 1
 5. TU-\[
 6. \]NE \*22M 1
@@ -105,6 +105,6 @@ The top and both sides are broken. Strokes of an unidentified sign stand before 
 
 ## Corpus note
 
-GORILA I 319: TU-\[, broken after. GORILA I 319: .5 \]A-MI-DA-O AB21M 1\[, a ram, as SigLA; the start is broken. .4 SUS+SI\[, broken after; no RE survives (SigLA A1001 SUS+SI). .4 \[·\] 1̣ \[·\]-RU-MA-TI \*21M (note: perhaps OVISm 1̣ before it), the first sign of the word lost in the transcription, normalized column and note, the facsimile (I 318) blank there; SigLA reads a worn vertical with a curled foot as ri (AB53), giving RI-RU-MA-TI. .3 \]NE \*22M 1: the copie tabulaire sets NE in the word column and the he-goat in the logogram column, as it sets \]-DU-RI and \*22M 1 on .2; NE ends a word lost at the left.
+GORILA I 319: TU-\[, broken after. GORILA I 319: .5 \]A-MI-DA-O AB21M 1\[, a ram, as SigLA; the start is broken. .4 SUS+SI\[, broken after; no RE survives (SigLA A1001 SUS+SI). .4 \[·\] 1̣ \[·\]-RU-MA-TI \*21M (note: perhaps CAPm+KU, dotted, and 1̣ before it; the sign index lists A 513 there, starred), the first sign of the word lost in the transcription, normalized column and note, the facsimile (I 318) blank there; SigLA reads a worn vertical with a curled foot as ri (AB53), giving RI-RU-MA-TI. .3 \]NE \*22M 1: the copie tabulaire sets NE in the word column and the he-goat in the logogram column, as it sets \]-DU-RI and \*22M 1 on .2; NE ends a word lost at the left.
 
 <!-- END kaphtor:record -->

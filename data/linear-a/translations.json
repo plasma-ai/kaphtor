@@ -2094,10 +2094,12 @@
           "confidence": "SPECULATIVE"
         },
         {
-          "linear_a": "*505",
+          "linear_a": "TE+RO",
           "reading": "[logogram]",
           "reading_type": "IDEOGRAM",
-          "gloss": "hapax transaction sign; exact operation unknown"
+          "gloss": "contribution of capital: TE 'contribution' and RO 'principal' written as one sign",
+          "confidence": "SPECULATIVE",
+          "note": "GORILA A 505, 04+02: 'TE and RO with the two horizontal strokes running together' (GORILA I 171, note to .1; V 145, 151). Akk. kasap tappūti is 'partnership capital' (CAD T 192), and qaqqadu 'head' the 'original amount, principal' (CAD Q 109), as RO is rōš 'head'. One witness."
         },
         {
           "linear_a": "DA-KU-SE-NE-TI",
@@ -2115,10 +2117,10 @@
         },
         {
           "linear_a": "PA-DA-SU-TI",
-          "reading": null,
-          "gloss": "unidentified entity: 29",
+          "reading": "Parʿōš-ti",
+          "gloss": "the name Parʿōš 'Flea' with TI: 29",
           "confidence": "SPECULATIVE",
-          "note": "No verified Luwian or Semitic match. HT 20 .1 reads PA-RO-SU; with PA-RO here (Schoep 2002, 47) it is that name with the -TI of the two entries above."
+          "note": "All four signs dotted; the editors do not exclude PA-RO for PA-DA (GORILA I 171), and Schoep reads PA-RO-SU-TI (2002, 47): the PA-RO-SU of HT 20 .1 with the TI of the two entries above, which the editors allow as an ideogram."
         },
         {
           "linear_a": "KU-RO",
@@ -2127,7 +2129,7 @@
           "confidence": "CONFIRMED"
         }
       ],
-      "translation": "Partners · *505: Takušenni-ti 45½; Yidu-ti 20½; PA-DA-SU-TI 29. Total: 95.",
+      "translation": "Partners, contribution of capital: Takušenni-ti 45½; Yidu-ti 20½; Parʿōš-ti 29. Total: 95.",
       "confidence": "CANDIDATE",
       "status": "partially translated",
       "notes": "Inter-entity transfer list with an unspecified commodity and unresolved direction. The arithmetic is exact: 45½ + 20½ + 29 = 95. Repeated final TI defines a shared administrative or morphological class. The DA-KU-SE-NE / DA-KU-SE-NE-TI pair favors suffixation, while GORILA I 171 allows TI to be an ideogram or classifier.",
@@ -2677,7 +2679,7 @@
           "reading": "yā ʾanwaru",
           "gloss": "O Radiant One",
           "confidence": "SPECULATIVE",
-          "note": "Position 2, the divine address. Vocative ya + ʾanwaru, elative of √n-w-r 'light'; I- writes the aleph. RILA-S1 p. 84 reads JA-I-NWA-RO with RO underdotted; GORILA's ZA is 'moins probable'. Sign 3 is NWA (AB48), its only occurrence in the corpus. Rival: ʾaṣwaru 'Fashioner' if AB48 wrote a sibilant + w."
+          "note": "Position 2, the divine address. Vocative ya + ʾanwaru, elative of √n-w-r 'light'; I- writes the aleph. RILA-S1 p. 84 reads JA-I-NWA-RO with RO underdotted; Muhly and Olivier's ZA (2008, 208) is 'moins probable'. Sign 3 is NWA (AB48), its only occurrence in the corpus. Rival: ʾaṣwaru 'Fashioner' if AB48 wrote a sibilant + w."
         },
         {
           "linear_a": "PA₃-NI-WI",
@@ -4359,11 +4361,11 @@
       "support": "Nodule",
       "words": [
         {
-          "linear_a": "JA-SA / SA-RA",
-          "reading": "yasara(m)",
-          "gloss": "in righteousness (√y-š-r, libation formula without terminal -ME)",
-          "confidence": "PROBABLE",
-          "note": "Syllable sequence JA-SA-SA-RA = the libation formula JA-SA-SA-RA(-ME) without terminal mimation. Scribe groups as JA-SA | SA-RA on the nodule. Compare IOZa12, where JA-SA-SA-RA-ME stands whole. The formula on an administrative nodule labels the sealed commodity as ritually dedicated."
+          "linear_a": "A-SA",
+          "reading": "ʾašša-",
+          "gloss": "in righteousness (the formula's opening)",
+          "confidence": "CANDIDATE",
+          "note": "The seal impression: the double axe and the forked sign, Cretan Hieroglyphic 042-019 (CHIC #137), the first element of the Archanes formula A-SA / SA-RA-NE, whose Linear A counterpart is A-SA-SA-RA-ME. Younger prints JA-SA <-SA-RA>, the second element supplied; SA-RA is not on the nodule."
         },
         {
           "linear_a": "TE",
@@ -4389,10 +4391,10 @@
       ],
       "translation": "In righteousness: offering of 10 ¹⁄₁₆ [units]",
       "confidence": "CANDIDATE",
-      "notes": "Context: Northernmost Linear A inscription—clay nodule with libation formula vocabulary\n\nClay nodule sealing a shipment of 10 ¹⁄₁₆ units of unnamed commodity. Syllable sequence JA-SA SA-RA reads as JA-SA-SA-RA, the libation formula (CONFIRMED) without terminal -ME mimation. The formula on an administrative nodule labels the sealed goods as ritually consecrated. Compare IOZa12 where the same formula splits across a line break as JA-SA / SA-RA-ME. Parsing JA-SA and SA-RA as separate words (yašar 'upright' + šarra 'queen') is less economical and breaks the cross-site pattern. Northernmost Linear A inscription—Minoan ritual-administrative vocabulary extending to Samothrace.",
+      "notes": "Context: the northernmost document of the record, a clay nodule of MM II (CMS V Suppl. 1B no. 327).\n\nA cushion seal stamped the nodule with two signs in a frame, the double axe and the forked sign, A-SA, the opening of the formula ʾaššaram; another face has TE 10 ¹⁄₁₆ incised, an offering of 10 ¹⁄₁₆ units of an unnamed commodity. The formula's opening on a sealed lot marks the goods as dedicated. Whether the signs of a seal spell a word or stand as emblems is disputed.",
       "source": {
         "di Mino": [
-          "JA-SA-SA-RA",
+          "A-SA",
           "TE"
         ]
       }
@@ -4402,16 +4404,16 @@
       "support": "Stone vessel",
       "words": [
         {
-          "linear_a": "TA-NA-SU-TE-KE",
-          "reading": "tanašutē-kī",
-          "gloss": "may [it] be drunk for you (f.)",
-          "confidence": "CANDIDATE",
-          "note": "N-stem 3fs imperfective of √š-t-y 'to drink' + 2fs pronominal suffix -kī addressing the Goddess. Same TA-NA prefix as TA-NA-RA-TE (N-stem of √r-ṣ-y). Weak C₃ (y) drops as expected for lamed-he verbs."
+          "linear_a": "TA-NA-SU-TE-[?]-KE",
+          "reading": null,
+          "gloss": "[the verb of the formula, a sign lost]",
+          "confidence": null,
+          "note": "GORILA IV 48 prints TA-NA-SU-TE[ ]-KE, TE and KE dotted; the facsimile shows a gap one narrow sign wide between them, with an upright trace at its top and foot. Davis suggests DA or RO there (2011, 476, apud Younger)."
         },
         {
           "linear_a": "SE-TO-I-JA",
           "reading": "Ṣētiya",
-          "gloss": "the Eastern (one), of the East",
+          "gloss": "the Eastern (place)",
           "confidence": "PROBABLE",
           "note": "Same spelling as Linear B se-to-i-ja, 17 Knossos tablets (As 40+5093, As 1516, Dc 5687+, Lc 525, Le 654, Mc 4464+, Sd 4407+ and others). Formula slot 2, the site-specific slot. √y-ṣ-ʾ: ṣēt 'the East' with the gentilic -iya; cf. SI-TE Ṣīt."
         },
@@ -4423,13 +4425,14 @@
           "note": "GORILA IV 48 normalizes the fourth sign as RA, drawn reversed (the A802 form) in the drawing and facsimile. Same spelling as IOZb10."
         }
       ],
-      "translation": "May [the offering] be drunk for you (O Goddess)—Ṣētiya, the Eastern one—in righteousness",
+      "translation": "[…] at Ṣētiya, the Eastern place, in righteousness",
       "confidence": "CANDIDATE",
-      "notes": "Context: Peak sanctuary libation formula variant.\n\nFormula structure parallels IOZa2 but with a unique verb form (TA-NA-SU-TE-KE instead of A-TA-I-*301-WA-JA) and ʾaššaram for yaššaram, as on IOZb10.",
+      "notes": "Context: Peak sanctuary libation formula variant.\n\nThe formula's structure is that of IOZa2, with another word in the verb slot, TA-NA-SU-TE-[?]-KE, broken by one sign, where IOZa2 has A-TA-I-*301-WA-JA, and with ʾaššaram for yaššaram, as on IOZb10.",
       "source": {
         "scholarly_sources": {
           "di Mino": [
-            "TA-NA-SU-TE-KE"
+            "SE-TO-I-JA",
+            "A-SA-SA-RA-ME"
           ]
         },
         "translator": "di Mino"
@@ -6289,7 +6292,7 @@
           "meaning": "in righteousness (variant of yaššaram, ʾa- for ya-)"
         }
       ],
-      "translation": "rectitude",
+      "translation": "In righteousness",
       "confidence": "CONFIRMED",
       "notes": "One-word peak sanctuary vessel; ʾa- prefix + √y-š-r \"upright, righteous\" + mimation",
       "source": "GORILA"
@@ -12322,7 +12325,7 @@
       "source": {
         "di Mino": [
           "RI-QE-TI",
-          "A-SA-SA-RA-*325"
+          "A-SA-SA-RA-[·]"
         ]
       }
     },
@@ -14039,8 +14042,8 @@
         {
           "linear_a": "TELA+TE",
           "reading": null,
-          "meaning": "cloth logogram, TE ligatured",
-          "confidence": "CANDIDATE"
+          "meaning": "a cloth contribution: the cloth sign with TE",
+          "confidence": "SPECULATIVE"
         },
         {
           "linear_a": "NI",
@@ -14049,9 +14052,9 @@
           "confidence": "CONFIRMED"
         }
       ],
-      "translation": "Ox, cloth, figs: three logograms.",
+      "translation": "Ox, a cloth contribution, figs: three logograms.",
       "status": "complete",
-      "notes": "Sherd of a large vessel from the Tel Haror temple complex, MB III, in clay of the Myrtos-Pyrgos region. Olivier reads three logograms: animal head, cloth, figs. The script, Cretan Hieroglyphic or Linear A, is open (RILA-S1 D 13).",
+      "notes": "Sherd of a handmade pithos from the cult building of area K at Tel Haror, MB III, in clay of the Myrtos-Pyrgos region, an ex-voto (Pierini 2022, 44). Olivier reads three logograms: animal head, cloth, figs. The script, Cretan Hieroglyphic or Linear A, is open (RILA-S1 D 13).",
       "source": "Olivier 1999 via RILA-S1 D 13; Younger"
     },
     "KNZb5": {
@@ -15273,24 +15276,18 @@
       "support": "Roundel",
       "words": [
         {
-          "linear_a": "WA",
-          "reading": null,
-          "gloss": "cloth (logogram), as alone on HT Wc 3019 (WA ¼)",
-          "confidence": "SPECULATIVE"
-        },
-        {
-          "linear_a": "DI-NI",
-          "reading": "Dīnī",
-          "gloss": "personal name, 'My judgment'",
+          "linear_a": "WA-DI-NI",
+          "reading": "Waḏnī",
+          "gloss": "personal name, as Ugaritic wḏny",
           "confidence": "SPECULATIVE"
         }
       ],
-      "translation": "Cloth: Dīnī ('My judgment').",
+      "translation": "Waḏnī.",
       "confidence": "SPECULATIVE",
-      "notes": "The corpus runs WA-DI-NI as one word; GORILA prints WA · DI-NI on the twin roundel HT Wc 3008 (GORILA II 74). A receipt naming the commodity and the party.",
+      "notes": "One word, three signs whole with no divider (GORILA II 74). WA is drawn small and square, as inside a word; the cloth sign of HT Wc 3019 stands tall with four uprights. The twin of HT Wc 3008. Rival: WA · DI-NI, cloth and Dīnī 'My judgment', after the point GORILA's transcription prints on HT Wc 3008.",
       "source": {
         "di Mino": [
-          "DI-NI"
+          "WA-DI-NI"
         ]
       }
     },
@@ -15299,15 +15296,9 @@
       "support": "Roundel",
       "words": [
         {
-          "linear_a": "WA",
-          "reading": null,
-          "gloss": "cloth (logogram)",
-          "confidence": "SPECULATIVE"
-        },
-        {
-          "linear_a": "DI-NI",
-          "reading": "Dīnī",
-          "gloss": "personal name, 'My judgment'",
+          "linear_a": "WA-DI-NI",
+          "reading": "Waḏnī",
+          "gloss": "personal name, as Ugaritic wḏny",
           "confidence": "SPECULATIVE"
         },
         {
@@ -15317,12 +15308,12 @@
           "confidence": "SPECULATIVE"
         }
       ],
-      "translation": "Cloth: Dīnī // Ruya-dādī.",
+      "translation": "Waḏnī // Ruya-dādī.",
       "confidence": "SPECULATIVE",
-      "notes": "Face a WA · DI-NI, with a point after WA; face b RU-JA-TA-DI, no divider (GORILA II 74). The same party as HT Wc 3007.",
+      "notes": "Face a WA-DI-NI, one word: GORILA's transcription prints a point after WA, its drawing at most a tick against the sign's right stroke, and WA is drawn square, as inside a word; face b RU-JA-TA-DI, no divider (GORILA II 74). The same name as HT Wc 3007. Rival: WA · DI-NI, cloth and Dīnī 'My judgment'.",
       "source": {
         "di Mino": [
-          "DI-NI",
+          "WA-DI-NI",
           "RU-JA-TA-DI"
         ]
       }
@@ -15582,13 +15573,13 @@
           "confidence": "SPECULATIVE"
         },
         {
-          "linear_a": "*21M",
+          "linear_a": "*22M",
           "reading": null,
-          "gloss": "ram (logogram), 6",
-          "confidence": "PROBABLE"
+          "gloss": "he-goat (logogram), 6",
+          "confidence": "CANDIDATE"
         }
       ],
-      "translation": "[…]KU-ZU-NA[…] […]NA 2; Rūma 3; rams 6 […]",
+      "translation": "[…]KU-ZU-NA[…] […]NA 2; Rūma 3; he-goats 6 […]",
       "confidence": "SPECULATIVE",
       "status": "incomplete",
       "notes": "Broken above and below; ]KU-ZU-NA opens the surviving text (GORILA I 119).",
@@ -15758,10 +15749,10 @@
           "confidence": "CANDIDATE"
         },
         {
-          "linear_a": "*21M",
+          "linear_a": "*22M",
           "reading": null,
-          "gloss": "ram (logogram), ⅛",
-          "confidence": "PROBABLE"
+          "gloss": "he-goat (logogram), ⅛",
+          "confidence": "CANDIDATE"
         },
         {
           "linear_a": "SA-RE-JU",
@@ -15782,9 +15773,9 @@
           "confidence": "SPECULATIVE"
         }
       ],
-      "translation": "Parʿōš: Qumalu ¼; rounds of honey (QE-KU-RE · DI) ½; ram ⅛; Šarr-ēlu ⅛; cloth ¼; *188+KU ½.",
+      "translation": "Parʿōš: Qumalu ¼; rounds of honey (QE-KU-RE · DI) ½; he-goat ⅛; Šarr-ēlu ⅛; cloth ¼; *188+KU ½.",
       "confidence": "SPECULATIVE",
-      "notes": "PA-RO-SU · heads six entries, all fractions (GORILA I 37). *21M is the ram sign; a fraction of a ram is unusual.",
+      "notes": "PA-RO-SU · heads six entries, all fractions (GORILA I 37). *22M is the he-goat sign (GORILA V 178); a fraction of an animal is unusual.",
       "source": {
         "di Mino": [
           "SA-RE-JU",
@@ -17001,7 +16992,7 @@
           "confidence": "PROBABLE"
         }
       ],
-      "translation": "[…] cyperus ½; DI-SI-[…] — […]-TE-NU-RE[…] — […]-KI-SA-NE: cyperus ½; *347[…] — […] cyperus […] ½; Lītāy: cyperus ½[…] — […] *21M 1; cyperus ½; MU 1; PA[…] — […]-RE · *334 1; cyperus ½; Pīsa[…] — […] cyperus ½; ʾAwrēt · *306 1 — […] 8; cyperus 2 J+[…].",
+      "translation": "[…] cyperus ½; DI-SI-[…] — […]-TE-NU-RE[…] — […]-KI-SA-NE: cyperus ½; *347[…] — […] cyperus […] ½; Lītāy: cyperus ½[…] — […] he-goat 1; cyperus ½; MU 1; PA[…] — […]-RE · *334 1; cyperus ½; Pīsa[…] — […] cyperus ½; ʾAwrēt · *306 1 — […] 8; cyperus 2 J+[…].",
       "confidence": "SPECULATIVE",
       "status": "incomplete",
       "notes": "GORILA III 26–27 (KH Scribe 2): cyperus allotments of ½ (CYP+D J) to recipients, broken at the left and cut below. DI-SI, TE-NU-RE and KI-SA-NE are broken.",
@@ -18857,6 +18848,43 @@
       },
       "confidence": "SPECULATIVE"
     },
+    "MA1a": {
+      "site": "Malia",
+      "support": "3-sided bar",
+      "words": [
+        {
+          "linear_a": "I-DU-WI",
+          "reading": "Yaduwi",
+          "gloss": "personal name, the Ugarit name Yaduwa; after the mark that opens the bar",
+          "confidence": "SPECULATIVE"
+        },
+        {
+          "linear_a": "*47",
+          "reading": "šū",
+          "gloss": "he of, that of (determinative pronoun)",
+          "confidence": "SPECULATIVE"
+        },
+        {
+          "linear_a": "QE-DE-MI-NU",
+          "reading": "Qēdmīnu",
+          "gloss": "personal name, 'Easterner, Ancient one'",
+          "confidence": "SPECULATIVE"
+        }
+      ],
+      "translation": "Yaduwi, he of Qēdmīnu.",
+      "notes": "One face of the bar, whole end to end, opening on a mark, X. A divider stands on each side of *47 and one closes the face (GORILA I 269). Face b sets A-MA in the place of I-DU-WI.",
+      "source": {
+        "di Mino": [
+          "I-DU-WI",
+          "*47",
+          "QE-DE-MI-NU"
+        ],
+        "GORILA": [
+          "MA1a"
+        ]
+      },
+      "confidence": "SPECULATIVE"
+    },
     "MA1b": {
       "site": "Malia",
       "support": "3-sided bar",
@@ -18868,17 +18896,24 @@
           "confidence": "CANDIDATE"
         },
         {
+          "linear_a": "*47",
+          "reading": "šū",
+          "gloss": "he of, that of (determinative pronoun)",
+          "confidence": "SPECULATIVE"
+        },
+        {
           "linear_a": "QE-DE-MI-NU",
           "reading": "Qēdmīnu",
           "gloss": "personal name, 'Easterner, Ancient one'",
           "confidence": "SPECULATIVE"
         }
       ],
-      "translation": "The people · *47 · Qēdmīnu.",
-      "notes": "One face of the bar, whole end to end. A divider also follows *47 (photograph and drawing); the surface is pitted between DE and MI.",
+      "translation": "The people of Qēdmīnu.",
+      "notes": "One face of the bar, whole end to end. A divider stands on each side of *47 (GORILA I 269); the surface is pitted between DE and MI.",
       "source": {
         "di Mino": [
           "A-MA",
+          "*47",
           "QE-DE-MI-NU"
         ],
         "GORILA": [
@@ -19665,8 +19700,8 @@
           "confidence": "CANDIDATE"
         }
       ],
-      "translation": "The district of Qīr: 1. A ⅛ […]",
-      "notes": "Broken at the right and below; the fraction's foot meets the lower fracture.",
+      "translation": "The district of Qīr […] […]1, A[…] […]⅛[…]",
+      "notes": "Broken at the right and below, and written over an erasure; .2 ]1 A[ and .3 the fraction between two breaks (GORILA I 111), its foot meeting the lower fracture.",
       "source": {
         "di Mino": [
           "DA-QE-RA"

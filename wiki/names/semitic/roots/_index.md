@@ -3,7 +3,7 @@ name: wiki/names/semitic/roots
 title: "Semitic roots"
 desc: "The roots under the Semitic names, each with the names it carries."
 created: 2026-11-11T23:39:03Z
-updated: 2026-11-17T19:56:25Z
+updated: 2026-11-20T23:22:22Z
 ---
 
 # Semitic roots
@@ -130,7 +130,7 @@ updated: 2026-11-17T19:56:25Z
 
 [[wiki/names/semitic/roots/d-w-r|d-w-r]]: 3 names: DA-RU-NE-TE, DA-RU-*329, JA-DU-RA-TI.
 
-[[wiki/names/semitic/roots/d-y-n|d-y-n]]: 6 names: DA-NA-TU, DI-NA-RO, DI-NA-U, DI-NI, DI-RE-DI-NA, O-RA₂-DI-NE.
+[[wiki/names/semitic/roots/d-y-n|d-y-n]]: 5 names: DA-NA-TU, DI-NA-RO, DI-NA-U, DI-RE-DI-NA, O-RA₂-DI-NE.
 
 [[wiki/names/semitic/roots/d-y-sh-n|d-y-sh-n]]: 1 name: DU-SU-NI.
 
@@ -360,7 +360,7 @@ updated: 2026-11-17T19:56:25Z
 
 [[wiki/names/semitic/roots/sh-q-y|sh-q-y]]: 2 names: A-DA-KI-SI-KA, I-NA-TA-I-ZU-DI-SI-KA.
 
-[[wiki/names/semitic/roots/sh-r-r|sh-r-r]]: 4 names: SA-RA, SA-RA₂, SA-RO, SA-RU.
+[[wiki/names/semitic/roots/sh-r-r|sh-r-r]]: 3 names: SA-RA₂, SA-RO, SA-RU.
 
 [[wiki/names/semitic/roots/sl-d-w|sl-d-w]]: 1 name: SA-DI.
 

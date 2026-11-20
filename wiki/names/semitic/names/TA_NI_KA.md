@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/TA_NI_KA
 title: "TA-NI-KA"
-desc: "Taʿnaku: Taanach (place name); rival a personal name. Semitic, SPECULATIVE."
+desc: "Taʿnaku: Taanach (place name). Semitic, SPECULATIVE."
 tags: ["names", "place-name", "semitic"]
 kind: "name"
 form: "TA-NI-KA"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Taʿnaku** · Taanach (place name); rival a personal name
+**Taʿnaku** · Taanach (place name)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/places\|Place name]] |
 | Reading | Taʿnaku |
-| Meaning | Taanach (place name); rival a personal name |
+| Meaning | Taanach (place name) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/ayin-n-k\|ʿ-n-k]] |
 | Proto-Semitic | \*ʕnk (#4414) |
@@ -40,7 +40,7 @@ HT Wc 3004 and HT Wc 3005, two roundels by one scribe, each reading TA-NI-KA wit
 
 ## As a name
 
-Roundel label at Haghia Triada (HT Wc 3004, 3005). Amarna URU Taḫnaka, EA 248:14 (Moran 1992); Hebrew תַּעְנַךְ Taʿnak, t-ʿ-n-k with ʿ unwritten; NI against the a of Taʿnak. Place-name function on roundels unproved.
+Roundel label at Haghia Triada (HT Wc 3004, 3005). Amarna URU Taḫnaka, EA 248:14 (Moran 1992); Hebrew תַּעְנַךְ Taʿnak, t-ʿ-n-k with ʿ unwritten; NI against the a of Taʿnak. Place-name function on roundels unproved. Rival: a personal name.
 
 ## Cognates
 

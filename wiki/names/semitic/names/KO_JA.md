@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/KO_JA
 title: "KO-JA"
-desc: "Qōya: personal name, Amorite type (quwy- 'wait for, hope'); rival 'be strong'. Semitic, SPECULATIVE."
+desc: "Qōya: personal name, Amorite type (quwy- 'wait for, hope'). Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "KO-JA"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Qōya** · personal name, Amorite type (quwy- 'wait for, hope'); rival 'be strong'
+**Qōya** · personal name, Amorite type (quwy- 'wait for, hope')
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Qōya |
-| Meaning | personal name, Amorite type (quwy- 'wait for, hope'); rival 'be strong' |
+| Meaning | personal name, Amorite type (quwy- 'wait for, hope') |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/q-w-y\|q-w-y]] |
 | Proto-Semitic | \*ḳVw- (#1678) |
@@ -40,7 +40,7 @@ HT 119 KO-JA 10, after RI-MI-SI 13, in a personnel list (Scribe 9). Qōya, a hyp
 
 ## As a name
 
-HT 119 .2 KO-JA 10, the second named entry of a personnel list. A hypocoristic on Amorite QWJ, 'wait for, hope' or 'be strong' (Gelb, AS 21: KU-IA-UM no. 4109, KU-WU-UM no. 4188, KU-IA-TUM no. 4108, KU-U₂-D-DA-GAN no. 4145, KU-U₂-D-IM no. 4146). KO for /qō/: cuneiform cannot show o. Weak points: two signs, the vowel. One attestation.
+HT 119 .2 KO-JA 10, the second named entry of a personnel list. A hypocoristic on Amorite QWJ, 'wait for, hope' or 'be strong' (Gelb, AS 21: KU-IA-UM no. 4109, KU-WU-UM no. 4188, KU-IA-TUM no. 4108, KU-U₂-D-DA-GAN no. 4145, KU-U₂-D-IM no. 4146). KO for /qō/: cuneiform cannot show o. Weak points: two signs, the vowel. One attestation. Rival: 'be strong'.
 
 ## Cognates
 

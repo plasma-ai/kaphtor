@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/TA_RA
 title: "TA-RA"
-desc: "ṯa(ġ)ra: gatekeepers (of the sanctuary); rival Akkadian tārû 'child-minder'. Semitic, SPECULATIVE."
+desc: "ṯa(ġ)ra: gatekeepers (of the sanctuary). Semitic, SPECULATIVE."
 tags: ["names", "title", "semitic"]
 kind: "name"
 form: "TA-RA"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**ṯa(ġ)ra** · gatekeepers (of the sanctuary); rival Akkadian tārû 'child-minder'
+**ṯa(ġ)ra** · gatekeepers (of the sanctuary)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/titles\|Title]] |
 | Reading | ṯa(ġ)ra |
-| Meaning | gatekeepers (of the sanctuary); rival Akkadian tārû 'child-minder' |
+| Meaning | gatekeepers (of the sanctuary) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/thagr-gate\|\*ṯaġr- 'gate']] |
 | Proto-Semitic | \*ŝₓaʕar- (#677) |

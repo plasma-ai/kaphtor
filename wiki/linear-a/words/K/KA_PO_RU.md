@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/K/KA_PO_RU
 title: "KA-PO-RU"
-desc: "kapōru: bowl; rival kubburu 'extra share'. Lexicon, SPECULATIVE (tier 1)."
+desc: "kapōru: bowl. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "noun", "vessel"]
 kind: "word"
 form: "KA-PO-RU"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | kapōru |
-| Meaning | bowl; rival kubburu 'extra share' |
+| Meaning | bowl |
 | Root | k-p-r |
 | Proto-Semitic | \*kapūr- (#3777) |
 | Language layer | Semitic |

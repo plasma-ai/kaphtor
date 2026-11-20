@@ -56,7 +56,6 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/P/PI_KE\|PI-KE]] | bikē | SPECULATIVE |
 | [[wiki/linear-a/words/P/PI_TA_KE_SI\|PI-TA-KE-SI]] | Bīt-kissi | SPECULATIVE |
 | [[wiki/linear-a/words/R/RO_KE\|RO-KE]] | rōqēaḥ | SPECULATIVE |
-| [[wiki/linear-a/words/T/TA_NA_SU_TE_KE\|TA-NA-SU-TE-KE]] | tanašutē-kī | CANDIDATE |
 | [[wiki/linear-a/words/T/TA_TE_I_KE_ZA_RE\|TA-TE-I-KE-ZA-RE]] | ṯāt ʾikezzer | SPECULATIVE |
 | [[wiki/linear-a/words/T/TE_KE\|TE-KE]] | Tegi | SPECULATIVE |
 | [[wiki/linear-a/words/T/TE_SU_DE_SE_KE_I\|TE-SU-DE-SE-KE-I]] | tesʾad šeqī | SPECULATIVE |

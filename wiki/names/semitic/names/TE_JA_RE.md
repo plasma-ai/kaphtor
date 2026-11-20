@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/TE_JA_RE
 title: "TE-JA-RE"
-desc: "Teyar: personal name, 'Merciful (god)'; rival tayyār 'trader'. Semitic, CANDIDATE."
+desc: "Teyar: personal name, 'Merciful (god)'. Semitic, CANDIDATE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "TE-JA-RE"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Teyar** · personal name, 'Merciful (god)'; rival tayyār 'trader'
+**Teyar** · personal name, 'Merciful (god)'
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Teyar |
-| Meaning | personal name, 'Merciful (god)'; rival tayyār 'trader' |
+| Meaning | personal name, 'Merciful (god)' |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/t-w-r\|t-w-r]] |
 | Proto-Semitic | \*tVwVr- (#1420) |

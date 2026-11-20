@@ -50,7 +50,7 @@ Transliteration, line by line:
 8. \]PA 5
 9. TA-MA-PI
 10. 3
-11. A
+11. A\[
 12. \]-\*118-MI-\[ 2
 
 Unicode (Linear A block):

@@ -36,11 +36,11 @@ updated: 2026-11-11T23:39:03Z
 
 ## Note
 
-HT Wc 3008 face b, four signs whole with no divider, opposite WA · DI-NI (GORILA II 74): Ruya, the Ugaritic PN rwy (DULAT 738), with dādī 'my beloved' (TA-DI), TA writing d as in ta-di-e for ddy (DULAT 264). Ruya stands alone on the roundel KN Wc 26, face a, with NI-PI on face b (GORILA II 85). Ruya is \|r-w-y\| 'to be well watered', with Amorite ia-ar-wi-um and ru₂-ya \|rôya / rūya\| in an Egyptian place name (GlOS 2, 178). Rival: two names, RU-JA and TA-DI.
+HT Wc 3008 face b, four signs whole with no divider, opposite WA-DI-NI (GORILA II 74): Ruya, the Ugaritic PN rwy (DULAT 738), with dādī 'my beloved' (TA-DI), TA writing d as in ta-di-e for ddy (DULAT 264). Ruya stands alone on the roundel KN Wc 26, face a, with NI-PI on face b (GORILA II 85). Ruya is \|r-w-y\| 'to be well watered', with Amorite ia-ar-wi-um and ru₂-ya \|rôya / rūya\| in an Egyptian place name (GlOS 2, 178). Rival: two names, RU-JA and TA-DI.
 
 ## As a name
 
-HT Wc 3008 face b, opposite WA · DI-NI (GORILA II 74): Ruya, the Ugaritic PN rwy (DULAT 738), with dādī 'my beloved', TA writing d as in ta-di-e for ddy (DULAT 264). Ruya stands alone on KN Wc 26. See the lexicon entries RU-JA-TA-DI and TA-DI.
+HT Wc 3008 face b, opposite WA-DI-NI (GORILA II 74): Ruya, the Ugaritic PN rwy (DULAT 738), with dādī 'my beloved', TA writing d as in ta-di-e for ddy (DULAT 264). Ruya stands alone on KN Wc 26. See the lexicon entries RU-JA-TA-DI and TA-DI.
 
 ## Cognates
 

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/star
 desc: "Words that open with a sign known by its number, such as *306."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-19T22:42:09Z
+updated: 2026-11-21T04:44:28Z
 ---
 
 # wiki/linear-a/words/star
@@ -47,7 +47,7 @@ updated: 2026-11-19T22:42:09Z
 
 [[wiki/linear-a/words/star/star21F_TU_q_broken_end|star21F_TU_q_broken_end]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/star/star21F_star118|star21F_star118]]: ḥiṭṭa: wheat; rivals ḫaṭṭu 'sceptre', ḥaṯ 'unleavened bread'. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/star/star21F_star118|star21F_star118]]: ḥiṭṭa: wheat. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/star/star21M|star21M]]: (logogram): ram (livestock logogram). Lexicon, PROBABLE (tier 3).
 
@@ -99,7 +99,7 @@ updated: 2026-11-19T22:42:09Z
 
 [[wiki/linear-a/words/star/star306_TA_JE|star306_TA_JE]]: ʿaṭāye: gift, offering (votive label). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/star/star306_TI_KA_A_RE|star306_TI_KA_A_RE]]: ʿatīq+are: the ancient, the noble (heading); rival 'became fertile'. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/star/star306_TI_KA_A_RE|star306_TI_KA_A_RE]]: ʿatīq+are: the ancient, the noble (heading). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/star/star306_TU|star306_TU]]: ʿAttu: personal name (cf. Hebrew ʿAttay). Lexicon, CANDIDATE (tier 2).
 
@@ -139,17 +139,17 @@ updated: 2026-11-19T22:42:09Z
 
 [[wiki/linear-a/words/star/star312|star312]]: bitt(u): a length of cloth; in the name list of HT 49a, the daughter (the sign BI, short for bitt, alone before a quantity). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/star/star312_TA|star312_TA]]: bīta: the house, the household (an institution drawing emmer); rivals bitta 'lengths of cloth' and the name zo-ta. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/star/star312_TA|star312_TA]]: bīta: the house, the household (an institution drawing emmer). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/star/star312_TA2|star312_TA2]]: bīta: the house, the household: the Zakros spelling of *312-TA. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/star/star312_TE_TE|star312_TE_TE]]: bittīt: of the cloth lengths (feminine nisbe of bitt, the word of *312), heading a textile account; rival bītīt 'of the house'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/star/star312_TE_TE|star312_TE_TE]]: bittīt: of the cloth lengths (feminine nisbe of bitt, the word of *312), heading a textile account. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/star/star314|star314]]: Unread sign (sign, unread); 1 occurrence(s).
 
 [[wiki/linear-a/words/star/star314_TA_MA|star314_TA_MA]]: ḥatam(a): seal, signet. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/star/star315|star315]]: Unread sign (sign, unread); 1 occurrence(s).
+[[wiki/linear-a/words/star/star315|star315]]: Unread sign (sign, unread); 0 occurrence(s), whole beside a break on 1 document(s).
 
 [[wiki/linear-a/words/star/star316|star316]]: kiššanu: bean or legume; food commodity in ration allocations. Lexicon, CANDIDATE (tier 2).
 
@@ -169,7 +169,7 @@ updated: 2026-11-19T22:42:09Z
 
 [[wiki/linear-a/words/star/star320_NA|star320_NA]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/star/star320_star320_MA|star320_star320_MA]]: ṯiṯṯīma: sixty (numeral); rival a personal name. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/star/star320_star320_MA|star320_star320_MA]]: ṯiṯṯīma: sixty (numeral). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/star/star322_RI|star322_RI]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -203,9 +203,9 @@ updated: 2026-11-19T22:42:09Z
 
 [[wiki/linear-a/words/star/star334|star334]]: Unread sign (sign, unread); 2 occurrence(s).
 
-[[wiki/linear-a/words/star/star335|star335]]: Unread sign (sign, unread); 2 occurrence(s).
+[[wiki/linear-a/words/star/star335|star335]]: Unread sign (sign, unread); 0 occurrence(s), whole beside a break on 2 document(s).
 
-[[wiki/linear-a/words/star/star336|star336]]: Unread sign (sign, unread); 2 occurrence(s).
+[[wiki/linear-a/words/star/star336|star336]]: Unread sign (sign, unread); 1 occurrence(s).
 
 [[wiki/linear-a/words/star/star337_plus_star188|star337_plus_star188]]: buṭnu: terebinth carried by ship, the ship drawn with an upright and a spar (a variant of *86+*188). Lexicon, SPECULATIVE (tier 1).
 
@@ -219,7 +219,7 @@ updated: 2026-11-19T22:42:09Z
 
 [[wiki/linear-a/words/star/star346|star346]]: Unread sign (sign, unread); 1 occurrence(s).
 
-[[wiki/linear-a/words/star/star347|star347]]: Unread sign (sign, unread); 1 occurrence(s).
+[[wiki/linear-a/words/star/star347|star347]]: Unread sign (sign, unread); 0 occurrence(s), whole beside a break on 1 document(s).
 
 [[wiki/linear-a/words/star/star348|star348]]: Unread sign (sign, unread); 1 occurrence(s).
 
@@ -257,7 +257,9 @@ updated: 2026-11-19T22:42:09Z
 
 [[wiki/linear-a/words/star/star401|star401]]: ruqqû: aromatic preparation, compounded ointment—commodity ideogram for perfumed/refined oil products. Lexicon, PROBABLE (tier 3).
 
-[[wiki/linear-a/words/star/star401_plus_RO|star401_plus_RO]]: Unread sign (ligature, component read); 3 occurrence(s).
+[[wiki/linear-a/words/star/star401_plus_RA|star401_plus_RA]]: Unread sign (ligature, component read); 1 occurrence(s).
+
+[[wiki/linear-a/words/star/star401_plus_RO|star401_plus_RO]]: Unread sign (ligature, component read); 2 occurrence(s).
 
 [[wiki/linear-a/words/star/star401_plus_RU|star401_plus_RU]]: ruqqû-ru 'aromatic preparation (with phonetic complement RU confirming /ru-/ onset)'. Lexicon, CANDIDATE (tier 2).
 
@@ -265,9 +267,7 @@ updated: 2026-11-19T22:42:09Z
 
 [[wiki/linear-a/words/star/star402_VS|star402_VS]]: Unread sign (vessel, unread); 1 occurrence(s).
 
-[[wiki/linear-a/words/star/star402_plus_A|star402_plus_A]]: Unread sign (ligature, unread); 1 occurrence(s).
-
-[[wiki/linear-a/words/star/star404_VS|star404_VS]]: Unread sign (vessel, unread); 1 occurrence(s).
+[[wiki/linear-a/words/star/star404_plus_A|star404_plus_A]]: Unread sign (ligature, unread); 1 occurrence(s).
 
 [[wiki/linear-a/words/star/star405_VS_star906|star405_VS_star906]]: Unread sign (compound, unread); 1 occurrence(s).
 
@@ -277,11 +277,13 @@ updated: 2026-11-19T22:42:09Z
 
 [[wiki/linear-a/words/star/star406_VS|star406_VS]]: Unread sign (vessel, unread); 1 occurrence(s).
 
+[[wiki/linear-a/words/star/star407_plus_A|star407_plus_A]]: Unread sign (ligature, unread); 1 occurrence(s).
+
 [[wiki/linear-a/words/star/star408_VS|star408_VS]]: (logogram): handled vessel on three legs with a tapering body (vessel logogram). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/star/star409_VS|star409_VS]]: (logogram): tripod vessel without handles (vessel logogram). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/star/star410_VS|star410_VS]]: Unread sign (vessel, unread); 1 occurrence(s).
+[[wiki/linear-a/words/star/star410_VS|star410_VS]]: Unread sign (vessel, unread); 2 occurrence(s).
 
 [[wiki/linear-a/words/star/star411_VS|star411_VS]]: (logogram): tripod cauldron (vessel logogram). Lexicon, CANDIDATE (tier 2).
 
@@ -291,25 +293,25 @@ updated: 2026-11-19T22:42:09Z
 
 [[wiki/linear-a/words/star/star412_plus_E|star412_plus_E]]: Unread sign (ligature, component read); 3 occurrence(s).
 
+[[wiki/linear-a/words/star/star412_plus_F|star412_plus_F]]: Unread sign (ligature, component read); 2 occurrence(s).
+
 [[wiki/linear-a/words/star/star413_plus_SU|star413_plus_SU]]: Unread sign (ligature, component read); 1 occurrence(s).
 
-[[wiki/linear-a/words/star/star414_plus_A|star414_plus_A]]: Unread sign (ligature, unread); 1 occurrence(s).
+[[wiki/linear-a/words/star/star414_VS|star414_VS]]: Unread sign (vessel, unread); 0 occurrence(s), whole beside a break on 1 document(s).
 
 [[wiki/linear-a/words/star/star414_plus_F|star414_plus_F]]: Unread sign (ligature, unread); 1 occurrence(s).
 
-[[wiki/linear-a/words/star/star416_plus_L2|star416_plus_L2]]: Unread sign (ligature, unread); 1 occurrence(s).
-
 [[wiki/linear-a/words/star/star417_VS|star417_VS]]: (logogram): basket (vessel logogram). Lexicon, SPECULATIVE (tier 1).
+
+[[wiki/linear-a/words/star/star417_plus_L2|star417_plus_L2]]: Unread sign (ligature, component read); 1 occurrence(s).
 
 [[wiki/linear-a/words/star/star418_plus_L2|star418_plus_L2]]: (logogram): animal-head rhyton, with the measure sign L2 beneath (vessel logogram). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/star/star47|star47]]: Unread sign (sign, unread); 2 occurrence(s).
+[[wiki/linear-a/words/star/star47|star47]]: šū: he of, that of (determinative pronoun). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/star/star47_KU_NA|star47_KU_NA]]: sōkuna: prefect, steward (heading of a wine issue). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/star/star47_NU_RA_JA|star47_NU_RA_JA]]: Šū-nūraya: personal name, 'He is light'; rival mənōrāya 'lampstand (man)'. Lexicon, SPECULATIVE (tier 1).
-
-[[wiki/linear-a/words/star/star505|star505]]: Unread sign (sign, unread); 1 occurrence(s).
+[[wiki/linear-a/words/star/star47_NU_RA_JA|star47_NU_RA_JA]]: Šū-nūraya: personal name, 'He is light'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/star/star516|star516]]: šipru: account, register (šipru), a transaction logogram. Lexicon, CANDIDATE (tier 2).
 
@@ -328,8 +330,6 @@ updated: 2026-11-19T22:42:09Z
 [[wiki/linear-a/words/star/star614|star614]]: Unread sign (sign, unread); 1 occurrence(s).
 
 [[wiki/linear-a/words/star/star648|star648]]: Unread sign (sign, unread); 1 occurrence(s).
-
-[[wiki/linear-a/words/star/star659|star659]]: Unread sign (sign, unread); 2 occurrence(s).
 
 [[wiki/linear-a/words/star/star800|star800]]: Unread sign (sign, unread); 1 occurrence(s).
 
@@ -356,8 +356,6 @@ updated: 2026-11-19T22:42:09Z
 [[wiki/linear-a/words/star/star86_SI_star118_KA|star86_SI_star118_KA]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/star/star86_plus_star188|star86_plus_star188]]: buṭnu: terebinth carried by ship (the terebinth sign *188 set on the ship *86). Lexicon, CANDIDATE (tier 2).
-
-[[wiki/linear-a/words/star/star903_I_DU_WI|star903_I_DU_WI]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/star/starOLIV_plus_TU|starOLIV_plus_TU]]: TU-qualified olive product: olive product qualified by TU (cf. OLE+TU ṭuhūru 'purified'). Lexicon, CANDIDATE (tier 2).
 

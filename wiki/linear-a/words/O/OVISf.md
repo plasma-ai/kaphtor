@@ -31,4 +31,6 @@ updated: 2026-11-12T00:26:03Z
 
 A logogram. Status **unread** (nothing on file).
 
+THE 7a, Akrotiri Δ18: before 46 stands a sign with a curved head, three strokes descending from it and a baseline beneath, the sheep sign; SigLA codes it AB 21f, the ewe, and Younger reads OVIS with no mark of sex. The sign before the first numeral survives as two upright remnants, which SigLA leaves unread and Younger reads OVIS again. The photograph and drawing held do not settle the mark of sex.
+
 <!-- END kaphtor:record -->

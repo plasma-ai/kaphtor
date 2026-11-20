@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/W/WBQY
 title: "WBQY"
-desc: "wa-baqq-: rot, the disease addressed (wa- + baqq-); rival bōhaq. Lexicon, SPECULATIVE (tier 1)."
+desc: "wa-baqq-: rot, the disease addressed (wa- + baqq-). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "compound", "hapax", "noun", "ritual"]
 kind: "word"
 form: "WBQY"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | wa-baqq- |
-| Meaning | rot, the disease addressed (wa- + baqq-); rival bōhaq |
+| Meaning | rot, the disease addressed (wa- + baqq-) |
 | Root | √b-q-q |
 | Proto-Semitic | \*wV-- (#K0425) + \*bVḳ- (#1635) |
 | Language layer | Semitic |

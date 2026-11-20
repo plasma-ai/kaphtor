@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/P/PA3
 title: "PA₃"
-desc: "bi=: in, with, by (proclitic b-); rival on HT 103 bād(i) 'in the charge of'. Lexicon, CANDIDATE (tier 2)."
+desc: "bi=: in, with, by (proclitic b-). Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "preposition"]
 kind: "word"
 form: "PA₃"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | bi= |
-| Meaning | in, with, by (proclitic b-); rival on HT 103 bād(i) 'in the charge of' |
+| Meaning | in, with, by (proclitic b-) |
 | Root | b |
 | Proto-Semitic | \*bV-- (#K0007) |
 | Language layer | Semitic |

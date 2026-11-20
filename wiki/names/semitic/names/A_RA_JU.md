@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/A_RA_JU
 title: "A-RA-JU"
-desc: "ʾArāyu: a town of the kingdom of Ugarit, on the Ugarit–Alalakh border (toponym); rival Aralu. Semitic, SPECULATIVE."
+desc: "ʾArāyu: a town of the kingdom of Ugarit, on the Ugarit–Alalakh border (toponym). Semitic, SPECULATIVE."
 tags: ["names", "place-name", "semitic"]
 kind: "name"
 form: "A-RA-JU"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**ʾArāyu** · a town of the kingdom of Ugarit, on the Ugarit–Alalakh border (toponym); rival Aralu
+**ʾArāyu** · a town of the kingdom of Ugarit, on the Ugarit–Alalakh border (toponym)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/places\|Place name]] |
 | Reading | ʾArāyu |
-| Meaning | a town of the kingdom of Ugarit, on the Ugarit–Alalakh border (toponym); rival Aralu |
+| Meaning | a town of the kingdom of Ugarit, on the Ugarit–Alalakh border (toponym) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/alefarayu\|ʾArāyu]] |
 | Reading's standing | SPECULATIVE |

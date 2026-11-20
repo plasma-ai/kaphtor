@@ -27,8 +27,8 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/MA_RE\|MA-RE]] | mārē | lord, master (title, an entry in a KI-RO roster); rival a personal name | 1 |
-| [[wiki/names/semitic/names/MA_RU\|MA-RU]] | Maruʾ | Fattened (personal name), the bare stem of the Amorite MARUʾ- names; rival Maru 'Wool' | 1 |
-| [[wiki/names/semitic/names/MI_RU_TA_RA_RE\|MI-RU-TA-RA-RE]] | Mīru-darār | Free-running Bull, a bull that roams free (personal name); rival Murr-darār 'Flowing Myrrh' | 1 |
+| [[wiki/names/semitic/names/MA_RE\|MA-RE]] | mārē | lord, master (title, an entry in a KI-RO roster) | 1 |
+| [[wiki/names/semitic/names/MA_RU\|MA-RU]] | Maruʾ | Fattened (personal name), the bare stem of the Amorite MARUʾ- names | 1 |
+| [[wiki/names/semitic/names/MI_RU_TA_RA_RE\|MI-RU-TA-RA-RE]] | Mīru-darār | Free-running Bull, a bull that roams free (personal name) | 1 |
 
 <!-- END kaphtor:record -->

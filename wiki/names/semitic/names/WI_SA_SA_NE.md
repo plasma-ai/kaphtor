@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/WI_SA_SA_NE
 title: "WI-SA-SA-NE"
-desc: "Wiššān: Sleepy (personal name); rival √y-š-š 'aged'. Semitic, SPECULATIVE."
+desc: "Wiššān: Sleepy (personal name). Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "WI-SA-SA-NE"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Wiššān** · Sleepy (personal name); rival √y-š-š 'aged'
+**Wiššān** · Sleepy (personal name)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Wiššān |
-| Meaning | Sleepy (personal name); rival √y-š-š 'aged' |
+| Meaning | Sleepy (personal name) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/w-sh-n\|w-š-n]] |
 | Proto-Semitic | \*wVšVn- (#1167) |

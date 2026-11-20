@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/ZU_star301_SE_DE_star21F_star118
 title: "ZU-*301-SE-DE-*21F-*118"
-desc: "ṯannān ṣēd ḥiṭṭa: the chariot soldiers: provision of wheat; rival a name ZU-*301-SE-DE. Semitic, SPECULATIVE."
+desc: "ṯannān ṣēd ḥiṭṭa: the chariot soldiers: provision of wheat. Semitic, SPECULATIVE."
 tags: ["names", "title", "semitic"]
 kind: "name"
 form: "ZU-*301-SE-DE-*21F-*118"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**ṯannān ṣēd ḥiṭṭa** · the chariot soldiers: provision of wheat; rival a name ZU-\*301-SE-DE
+**ṯannān ṣēd ḥiṭṭa** · the chariot soldiers: provision of wheat
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/titles\|Title]] |
 | Reading | ṯannān ṣēd ḥiṭṭa |
-| Meaning | the chariot soldiers: provision of wheat; rival a name ZU-\*301-SE-DE |
+| Meaning | the chariot soldiers: provision of wheat |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/th-n-n\|ṯ-n-n]] |
 | Proto-Semitic | \*ṯanann- (#4113) |

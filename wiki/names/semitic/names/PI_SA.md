@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/PI_SA
 title: "PI-SA"
-desc: "Pīsa: personal name, '(a bird)', Akk. būṣu; rival an institution; a recipient. Semitic, SPECULATIVE."
+desc: "Pīsa: personal name, '(a bird)', Akk. būṣu. Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "PI-SA"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Pīsa** · personal name, '(a bird)', Akk. būṣu; rival an institution; a recipient
+**Pīsa** · personal name, '(a bird)', Akk. būṣu
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Pīsa |
-| Meaning | personal name, '(a bird)', Akk. būṣu; rival an institution; a recipient |
+| Meaning | personal name, '(a bird)', Akk. būṣu |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/b-ss\|b-ṣ]] |
 | Proto-Semitic | \*bVṣ- (#4413) |

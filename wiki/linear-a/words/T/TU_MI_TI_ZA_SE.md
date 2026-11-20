@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/T/TU_MI_TI_ZA_SE
 title: "TU-MI-TI-ZA-SE"
-desc: "tumtiṣa-se: for the fighting men (terminative -SE), a troop of 45 on rations; rival tmtt 'team, crew'. Lexicon, SPECULATIVE (tier 1)."
+desc: "tumtiṣa-se: for the fighting men (terminative -SE), a troop of 45 on rations. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "noun", "personnel"]
 kind: "word"
 form: "TU-MI-TI-ZA-SE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | tumtiṣa-se |
-| Meaning | for the fighting men (terminative -SE), a troop of 45 on rations; rival tmtt 'team, crew' |
+| Meaning | for the fighting men (terminative -SE), a troop of 45 on rations |
 | Root | m-ḫ-ṣ |
 | Proto-Semitic | \*mḫṣ (#2620) |
 | Language layer | Semitic |

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/W/WI_SA_SA_NE
 title: "WI-SA-SA-NE"
-desc: "Wiššān: Sleepy (personal name); rival √y-š-š 'aged'. Lexicon, SPECULATIVE (tier 1)."
+desc: "Wiššān: Sleepy (personal name). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "WI-SA-SA-NE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Wiššān |
-| Meaning | Sleepy (personal name); rival √y-š-š 'aged' |
+| Meaning | Sleepy (personal name) |
 | Root | w-š-n |
 | Proto-Semitic | \*wVšVn- (#1167) |
 | Language layer | Semitic |

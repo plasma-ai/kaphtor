@@ -27,6 +27,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/KA_RE_RO\|KA-RE-RO]] | Kariru | Kariru (personal name, Nuzi Qa-ri-ru, Ka-ri-ru); rival karr- 'ram' | 1 |
+| [[wiki/names/semitic/names/KA_RE_RO\|KA-RE-RO]] | Kariru | Kariru (personal name, Nuzi Qa-ri-ru, Ka-ri-ru) | 1 |
 
 <!-- END kaphtor:record -->

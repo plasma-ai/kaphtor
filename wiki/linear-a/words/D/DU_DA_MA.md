@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/D/DU_DA_MA
 title: "DU-DA-MA"
-desc: "Dūdāma: Beloved (personal name, √d-w-d + -ma); rival the Aegean name of the Keftiu board and Linear B di-du-me. Lexicon, CANDIDATE (tier 2)."
+desc: "Dūdāma: Beloved (personal name, √d-w-d + -ma). Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "hapax", "personal_name"]
 kind: "word"
 form: "DU-DA-MA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Dūdāma |
-| Meaning | Beloved (personal name, √d-w-d + -ma); rival the Aegean name of the Keftiu board and Linear B di-du-me |
+| Meaning | Beloved (personal name, √d-w-d + -ma) |
 | Root | d-w-d |
 | Proto-Semitic | \*dawid- (#19) |
 | Language layer | Semitic |
@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 6b .4 DU-DA-MA 66, the largest entry in a list of names, on a face written over an erasure; DU-DA-MA itself shows no undertext (GORILA I 13). dū-dā-ma, the vowels of Heb. dûdāʾîm 'love-apples', √d-w-d 'beloved', + -ma as in the Amorite name DA-DU-MA, Dawdu-ma (Gelb 1980, no. 1433). One attestation. See TA-DI.
+HT 6b .4 DU-DA-MA 66, the largest entry in a list of names, on a face written over an erasure; DU-DA-MA itself shows no undertext (GORILA I 13). dū-dā-ma, the vowels of Heb. dûdāʾîm 'love-apples', √d-w-d 'beloved', + -ma as in the Amorite name DA-DU-MA, Dawdu-ma (Gelb 1980, no. 1433). One attestation. See TA-DI. Rival: the Aegean name of the Keftiu board and Linear B di-du-me.
 
 ### Cognates
 
@@ -82,7 +82,7 @@ di Mino; Dautais & Gabolde 2025, 14–15; Gelb 1980
 
 ### Note
 
-Dūdāma 'Beloved', √d-w-d + -ma, as the Amorite DA-DU-MA (Gelb 1980, no. 1433); the d-d-m name of the Keftiu board and Linear B di-du-me.
+Dūdāma 'Beloved', √d-w-d + -ma, as the Amorite DA-DU-MA (Gelb 1980, no. 1433); the d-d-m name of the Keftiu board and Linear B di-du-me. Rival: the Aegean name of the Keftiu board and Linear B di-du-me.
 
 ### Co-occurring lexicon words
 

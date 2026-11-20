@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/M/MA_KA_I_SE
 title: "MA-KA-I-SE"
-desc: "Makī-se: personal name: Makī with the Zakros -SE; Amorite maqīm 'Established'; rival the Egyptian name mkj. Lexicon, SPECULATIVE (tier 1)."
+desc: "Makī-se: personal name: Makī with the Zakros -SE; Amorite maqīm 'Established'. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "MA-KA-I-SE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Makī-se |
-| Meaning | personal name: Makī with the Zakros -SE; Amorite maqīm 'Established'; rival the Egyptian name mkj |
+| Meaning | personal name: Makī with the Zakros -SE; Amorite maqīm 'Established' |
 | Root | q-w-m |
 | Proto-Semitic | \*ḳVwVm- (#1134) |
 | Language layer | Semitic |

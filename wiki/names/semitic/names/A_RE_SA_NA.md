@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/A_RE_SA_NA
 title: "A-RE-SA-NA"
-desc: "ʾAriš-ān: 'The Requested One', personal name from √ʾ-r-š 'to request, desire' with -ān; rival Ḥarišān 'craftsman'. Semitic, CANDIDATE."
+desc: "ʾAriš-ān: 'The Requested One', personal name from √ʾ-r-š 'to request, desire' with -ān. Semitic, CANDIDATE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "A-RE-SA-NA"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**ʾAriš-ān** · 'The Requested One', personal name from √ʾ-r-š 'to request, desire' with -ān; rival Ḥarišān 'craftsman'
+**ʾAriš-ān** · 'The Requested One', personal name from √ʾ-r-š 'to request, desire' with -ān
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | ʾAriš-ān |
-| Meaning | 'The Requested One', personal name from √ʾ-r-š 'to request, desire' with -ān; rival Ḥarišān 'craftsman' |
+| Meaning | 'The Requested One', personal name from √ʾ-r-š 'to request, desire' with -ān |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/alef-r-sh\|ʾ-r-š]] |
 | Proto-Semitic | \*ʾVrVš- (#K0596) |
@@ -42,7 +42,7 @@ Rival: Ḥarišān 'craftsman', Huffmon's reading of the Mari name (1965, 205), 
 
 ## As a name
 
-THE Zb 2, the sole word on an Akrotiri clay vessel, in the owner's or dedicant's slot. ʾAriš-ān 'the requested one', √ʾ-r-š 'to request' with hypocoristic -ān; the Amorite name ʾARIŚ-AN, ḪA-RI-ŠA-AN (Gelb, AS 21, no. 2190), -NA writing its closing n. RE writes ri, as KI-RE-TA₂ beside KI-RI-TA₂. One attestation.
+THE Zb 2, the sole word on an Akrotiri clay vessel, in the owner's or dedicant's slot. ʾAriš-ān 'the requested one', √ʾ-r-š 'to request' with hypocoristic -ān; the Amorite name ʾARIŚ-AN, ḪA-RI-ŠA-AN (Gelb, AS 21, no. 2190), -NA writing its closing n. RE writes ri, as KI-RE-TA₂ beside KI-RI-TA₂. One attestation. Rival: Ḥarišān 'craftsman'.
 
 ## Cognates
 

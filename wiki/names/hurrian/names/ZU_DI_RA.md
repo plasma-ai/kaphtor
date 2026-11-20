@@ -1,7 +1,7 @@
 ---
 name: wiki/names/hurrian/names/ZU_DI_RA
 title: "ZU-DI-RA"
-desc: "ṯudira: waitress, girl (Ug. ṯdr, a Hurro-Hittite loan from šiduri); rival the name Šituri. Hurrian, CANDIDATE."
+desc: "ṯudira: waitress, girl (Ug. ṯdr, a Hurro-Hittite loan from šiduri). Hurrian, CANDIDATE."
 tags: ["names", "title", "hurrian"]
 kind: "name"
 form: "ZU-DI-RA"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**ṯudira** · waitress, girl (Ug. ṯdr, a Hurro-Hittite loan from šiduri); rival the name Šituri
+**ṯudira** · waitress, girl (Ug. ṯdr, a Hurro-Hittite loan from šiduri)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/titles\|Title]] |
 | Reading | ṯudira |
-| Meaning | waitress, girl (Ug. ṯdr, a Hurro-Hittite loan from šiduri); rival the name Šituri |
+| Meaning | waitress, girl (Ug. ṯdr, a Hurro-Hittite loan from šiduri) |
 | Language layer | [[wiki/names/hurrian/_index\|Hurrian]] |
 | Root | [[wiki/names/hurrian/roots/th-d-r\|ṯ-d-r]] |
 | Proto-Semitic | \*ṯdr (#4421) |

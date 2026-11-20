@@ -1,7 +1,7 @@
 ---
 name: wiki/names/hurrian/names/A_RU
 title: "A-RU"
-desc: "Ḫaru: Ḫaru (Hurrian personal name); rival the Semitic name Ḫayru 'Excellent'. Hurrian, SPECULATIVE."
+desc: "Ḫaru: Ḫaru (Hurrian personal name). Hurrian, SPECULATIVE."
 tags: ["names", "personal-name", "hurrian"]
 kind: "name"
 form: "A-RU"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Ḫaru** · Ḫaru (Hurrian personal name); rival the Semitic name Ḫayru 'Excellent'
+**Ḫaru** · Ḫaru (Hurrian personal name)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Ḫaru |
-| Meaning | Ḫaru (Hurrian personal name); rival the Semitic name Ḫayru 'Excellent' |
+| Meaning | Ḫaru (Hurrian personal name) |
 | Language layer | [[wiki/names/hurrian/_index\|Hurrian]] |
 | Reading's standing | SPECULATIVE |
 | Standing as a personal name | SPECULATIVE |

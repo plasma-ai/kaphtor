@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/S/SI_TE
 title: "SI-TE"
-desc: "Ṣīt: the East, lit. 'the going-out (of the sun)', a name for eastern Crete; rival ṣīt 'issue, outlay'. Lexicon, CANDIDATE (tier 2)."
+desc: "Ṣīt: the East, lit. 'the going-out (of the sun)', a name for eastern Crete. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "toponym"]
 kind: "word"
 form: "SI-TE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Ṣīt |
-| Meaning | the East, lit. 'the going-out (of the sun)', a name for eastern Crete; rival ṣīt 'issue, outlay' |
+| Meaning | the East, lit. 'the going-out (of the sun)', a name for eastern Crete |
 | Root | y-ṣ-ʾ |
 | Proto-Semitic | \*wVṣ̂Vʾ- (#K0448) |
 | Language layer | Semitic |
@@ -47,9 +47,9 @@ ZA 26a .1 SI-TE · DI-DI-\[, heading the tablet before \*21F 13, intact and undo
 
 | Language | Comparison |
 |---|---|
-| Akkadian | ṣītum 'rise, rising (of sun), east; emergence, birth, origin; produce, product; lease; expenditure, loss' (Huehnergard 1997, glossary); NIM read ṣīti 'east' (ORACC CAMS/GKAB, P348764); Tâmtu ša ṣīt Šamši 'the Sea of the Rising Sun' (RGTC 7/3, s.v.) |
+| Akkadian | ṣītum 'rise, rising (of sun), east', written ṣi-it šam-ši (CAD Ṣ 215), and 'emergence, birth, origin; produce, product; lease; expenditure, loss' (Huehnergard 1997, glossary); NIM read ṣīti 'east' (ORACC CAMS/GKAB, P348764); Tâmtu ša ṣīt Šamši 'the Sea of the Rising Sun' (RGTC 7/3, s.v.) |
 | Hebrew | môṣāʾ (מוֹצָא) 'going out; east', against maʿărāb 'west' (Ps 75:7); ṣēʾt (צֵאת) 'going out', kə-ṣēʾt ha-šemeš 'as the going-out of the sun' (Judg 5:31) |
-| Ugaritic | yṣʾ 'go out, appear' (DULAT 969) |
+| Ugaritic | yṣả 'go out, appear' (DULAT 969) |
 
 ### Source
 
@@ -83,7 +83,7 @@ di Mino; DULAT
 
 ### Note
 
-ZA 26a .1 SI-TE · DI-DI-\[, the first group of the tablet, intact and undotted (GORILA III 202–203). MIL Zb 3, the second witness, is unpublished (Younger, Linear A Texts). Ṣīt 'the East', √y-ṣ-ʾ (K0448), a name for eastern Crete; the Kom el-Hetan list's damaged \[sȝ\]-i-tȝ-\[y\], tentatively Siteia (Cline & Stannish 2011, 10), compares.
+ZA 26a .1 SI-TE · DI-DI-\[, the first group of the tablet, intact and undotted (GORILA III 202–203). MIL Zb 3, the second witness, is unpublished (Younger, Linear A Texts). Ṣīt 'the East', √y-ṣ-ʾ (K0448), a name for eastern Crete; the Kom el-Hetan list's damaged \[sȝ\]-i-tȝ-\[y\], tentatively Siteia (Cline & Stannish 2011, 10), compares. Rival: ṣīt 'issue, outlay'.
 
 ### Co-occurring lexicon words
 

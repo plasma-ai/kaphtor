@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/K/KI_RI_SI
 title: "KI-RI-SI"
-desc: "Kiriš: Kiriš, the god of the Amorite names, as oil recipient; rivals Hurrian Kiriš and a personal name. Lexicon, SPECULATIVE (tier 1)."
+desc: "Kiriš: Kiriš, the god of the Amorite names, as oil recipient. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "loanword", "ritual", "theonym"]
 kind: "word"
 form: "KI-RI-SI"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Kiriš |
-| Meaning | Kiriš, the god of the Amorite names, as oil recipient; rivals Hurrian Kiriš and a personal name |
+| Meaning | Kiriš, the god of the Amorite names, as oil recipient |
 | Root | Kiriš (Pre-Greek) |
 | Language layer | Semitic |
 | Tags | hapax, loanword, ritual, theonym |

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/S/SA_DI
 title: "SA-DI"
-desc: "šadī: field worker, Ug. šdy 'land labourer' or 'weaver, spinner'; rival the personal name Šadī 'Country man'. Lexicon, SPECULATIVE (tier 1)."
+desc: "šadī: field worker, Ug. šdy 'land labourer' or 'weaver, spinner'. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "agriculture", "hapax", "noun", "occupation", "personnel"]
 kind: "word"
 form: "SA-DI"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | šadī |
-| Meaning | field worker, Ug. šdy 'land labourer' or 'weaver, spinner'; rival the personal name Šadī 'Country man' |
+| Meaning | field worker, Ug. šdy 'land labourer' or 'weaver, spinner' |
 | Root | ś-d-w |
 | Proto-Semitic | \*ŝady- (#1804) |
 | Language layer | Semitic |
@@ -80,6 +80,6 @@ di Mino; DULAT; Watson 2018b; Watson 1995; Gelb 1980
 
 ### Note
 
-HT 111b .1 SA-DI 4\[, the numeral broken after (GORILA I 181). Ugaritic šdy 'land labourer' (KTU 4.868:4; DULAT 799). See the lexicon entry.
+HT 111b .1 SA-DI 4\[, the numeral broken after (GORILA I 181). Ugaritic šdy 'land labourer' (KTU 4.868:4; DULAT 799). See the lexicon entry. Rival: the personal name Šadī 'Country man'.
 
 <!-- END kaphtor:record -->

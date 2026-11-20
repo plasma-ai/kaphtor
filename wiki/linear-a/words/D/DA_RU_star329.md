@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/D/DA_RU_star329
 title: "DA-RU-*329"
-desc: "Dārum: personal name, 'Eternal'; rival Arabic Dārim. Lexicon, SPECULATIVE (tier 1)."
+desc: "Dārum: personal name, 'Eternal'. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "DA-RU-*329"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Dārum |
-| Meaning | personal name, 'Eternal'; rival Arabic Dārim |
+| Meaning | personal name, 'Eternal' |
 | Root | d-w-r |
 | Proto-Semitic | \*dawr- (#40) |
 | Language layer | Semitic |
@@ -81,6 +81,6 @@ di Mino; Montecchi 2024; Gelb 1980; Pagan 1998; GlOS 1; CAD D; Harding 1971
 
 ### Note
 
-Second line of HT 7b, after \*21F-TU-NE 1, on a roster of men; \*329 read mo (Montecchi 2024, 173). Amorite dārum 'eternity, eternal' (Gelb 1980, §0.7); DA-RU- recurs in DA-RU-NE-TE (HT 98b). See the lexicon entry.
+Second line of HT 7b, after \*21F-TU-NE 1, on a roster of men; \*329 read mo (Montecchi 2024, 173). Amorite dārum 'eternity, eternal' (Gelb 1980, §0.7); DA-RU- recurs in DA-RU-NE-TE (HT 98b). See the lexicon entry. Rival: Arabic Dārim.
 
 <!-- END kaphtor:record -->

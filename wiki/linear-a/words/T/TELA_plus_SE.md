@@ -33,6 +33,6 @@ A ligature. Status **component read** (a combined sign with a component the lexi
 
 The lexicon reads [[wiki/linear-a/words/S/SE|SE]].
 
-The cloth sign AB 54 with SE inscribed, 200 counted (Boulotis 2008, 77, 80).
+The cloth sign AB 54 with SE inscribed, 200 counted (Boulotis 2008, 77, 80). Linear B \*168+SE stands only in the latest Knossos archive and 'might be a textile' (Nosch 2024, 333); Davaras 1986 and Firth 2016, 235 'do not interpret \*168 as a textile' (in Nosch 2024, 333 n. 72). Melena's weaver's vessel, the kalathiskos, Duhoux rejects: \*168 lies on its long side, the kalathiskoi stand on the short one (Melena 1975, 118–134, in Duhoux 1977, 658).
 
 <!-- END kaphtor:record -->

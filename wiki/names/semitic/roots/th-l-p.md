@@ -27,6 +27,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/ZU_JU_PU2\|ZU-JU-PU₂]] | ṯulpu | flute; here the flute-player, the trade of TU-QE-NU Tuqnu; rival Hurrian Tulbiya | 1 |
+| [[wiki/names/semitic/names/ZU_JU_PU2\|ZU-JU-PU₂]] | ṯulpu | flute; here the flute-player, the trade of TU-QE-NU Tuqnu | 1 |
 
 <!-- END kaphtor:record -->

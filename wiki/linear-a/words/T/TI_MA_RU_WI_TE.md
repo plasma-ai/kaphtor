@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/T/TI_MA_RU_WI_TE
 title: "TI-MA-RU-WI-TE"
-desc: "Tīmar-luwwīt: Timar the Levite (f.), priestess (woman's name and title); rival Tamar + WI-TE. Lexicon, SPECULATIVE (tier 1)."
+desc: "Tīmar-luwwīt: Timar the Levite (f.), priestess (woman's name and title). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "compound", "gentilic", "hapax", "personal_name", "ritual", "title"]
 kind: "word"
 form: "TI-MA-RU-WI-TE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Tīmar-luwwīt |
-| Meaning | Timar the Levite (f.), priestess (woman's name and title); rival Tamar + WI-TE |
+| Meaning | Timar the Levite (f.), priestess (woman's name and title) |
 | Root | t-m-r + l-w-y |
 | Proto-Semitic | \*tam(V)r- (#737) + \*lVwVy- (#398) |
 | Language layer | Semitic |

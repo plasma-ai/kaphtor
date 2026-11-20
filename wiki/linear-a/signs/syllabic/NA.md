@@ -104,7 +104,6 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/T/TA_NA_I_star301_U_TI_NU\|TA-NA-I-\*301-U-TI-NU]] | tan-ʿinā-u-tī-n(u) | PROBABLE |
 | [[wiki/linear-a/words/T/TA_NA_MA_JE\|TA-NA-MA-JE]] | Tanʿamay | SPECULATIVE |
 | [[wiki/linear-a/words/T/TA_NA_RA_TE_U_TI_NU\|TA-NA-RA-TE-U-TI-NU]] | tan-raṣē-u-tī-n(u) | PROBABLE |
-| [[wiki/linear-a/words/T/TA_NA_SU_TE_KE\|TA-NA-SU-TE-KE]] | tanašutē-kī | CANDIDATE |
 | [[wiki/linear-a/words/T/TA_NA_TE\|TA-NA-TE]] | Tanāt | CANDIDATE |
 | [[wiki/linear-a/words/T/TA_NA_TI\|TA-NA-TI]] | Tanāti | CANDIDATE |
 | [[wiki/linear-a/words/T/TA_NU_NI_KI_NA\|TA-NU-NI-KI-NA]] | tanūḥūn qīna | CANDIDATE |

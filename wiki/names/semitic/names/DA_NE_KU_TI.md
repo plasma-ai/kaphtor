@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/DA_NE_KU_TI
 title: "DA-NE-KU-TI"
-desc: "Ḏā-naquddi: He of the speckled (flock) (personal name); rival 'He of the head shepherd'. Semitic, SPECULATIVE."
+desc: "Ḏā-naquddi: He of the speckled (flock) (personal name). Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "DA-NE-KU-TI"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Ḏā-naquddi** · He of the speckled (flock) (personal name); rival 'He of the head shepherd'
+**Ḏā-naquddi** · He of the speckled (flock) (personal name)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Ḏā-naquddi |
-| Meaning | He of the speckled (flock) (personal name); rival 'He of the head shepherd' |
+| Meaning | He of the speckled (flock) (personal name) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/dh\|ḏ]] + [[wiki/names/semitic/roots/n-q-d\|n-q-d]] |
 | Proto-Semitic | \*ḏī- (#K0877), \*naḳid-, \*naḳad- (#2577) |
@@ -65,7 +65,7 @@ Read words on the same documents.
 
 | Word | Reading | Meaning |
 |---|---|---|
-| [[wiki/names/semitic/names/MA_KA_RI_TE\|MA-KA-RI-TE]] | makkārītu | merchants (heading of a roster of men); rival 'red (wool)' |
+| [[wiki/names/semitic/names/MA_KA_RI_TE\|MA-KA-RI-TE]] | makkārītu | merchants (heading of a roster of men) |
 | KI-RO | kilʾu | owed, outstanding balance (deficit)—transaction term heading deficit sections |
 | [[wiki/names/semitic/names/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | devotee of Kubaba (Kubaba + -ān-), personal name or title |
 | KU-RO | kull | total, sum (accounting term) |

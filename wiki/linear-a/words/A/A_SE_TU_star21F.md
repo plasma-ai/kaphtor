@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/A/A_SE_TU_star21F
 title: "A-SE-TU-*21F"
-desc: "Aštuḫḫa: Female (Hurrian personal name); rival the line as a heading, 'female (ones)'. Lexicon, SPECULATIVE (tier 1)."
+desc: "Aštuḫḫa: Female (Hurrian personal name). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "A-SE-TU-*21F"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Aštuḫḫa |
-| Meaning | Female (Hurrian personal name); rival the line as a heading, 'female (ones)' |
+| Meaning | Female (Hurrian personal name) |
 | Language layer | Hurrian |
 | Tags | hapax, personal_name |
 | Semantic field | personal_name |
@@ -77,6 +77,6 @@ di Mino; Laroche GLH; NPN; Younger, Linear A Texts
 
 ### Note
 
-Aštuḫḫa 'Female', the Nuzi woman's name ᶠAš-du-uḫ-ḫa-a-a (NPN 37); Hurrian aštuḫḫi 'feminine' (Laroche GLH 62).
+Aštuḫḫa 'Female', the Nuzi woman's name ᶠAš-du-uḫ-ḫa-a-a (NPN 37); Hurrian aštuḫḫi 'feminine' (Laroche GLH 62). Rival: the line as a heading, 'female (ones)'.
 
 <!-- END kaphtor:record -->

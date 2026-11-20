@@ -27,6 +27,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/PA_NU_QE\|PA-NU-QE]] | Panūq | personal name, 'Pampered'; rival Amorite Banuq | 1 |
+| [[wiki/names/semitic/names/PA_NU_QE\|PA-NU-QE]] | Panūq | personal name, 'Pampered' | 1 |
 
 <!-- END kaphtor:record -->

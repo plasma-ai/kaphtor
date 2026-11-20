@@ -69,7 +69,7 @@ Read words on the same documents.
 | Word | Reading | Meaning |
 |---|---|---|
 | [[wiki/names/semitic/names/RI_TA_MA\|RI-TA-MA]] | Ritmā | personal name, 'broom (bush)' |
-| [[wiki/names/semitic/names/TI_NU_JA\|TI-NU-JA]] | Ṯinuya | personal name, 'Second(-born)'; rival Dīnuya |
+| [[wiki/names/semitic/names/TI_NU_JA\|TI-NU-JA]] | Ṯinuya | personal name, 'Second(-born)' |
 | GRA+BOSm |  |  |
 | GRA |  | dagān 'grain, cereal' |
 

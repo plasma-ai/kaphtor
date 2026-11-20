@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/Q/QA_TI_DA_TE
 title: "QA-TI-DA-TE"
-desc: "Kati-tati: Kati-tati (Hurrian personal name); rival katītat 'beaten (oil)'. Lexicon, SPECULATIVE (tier 1)."
+desc: "Kati-tati: Kati-tati (Hurrian personal name). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "QA-TI-DA-TE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Kati-tati |
-| Meaning | Kati-tati (Hurrian personal name); rival katītat 'beaten (oil)' |
+| Meaning | Kati-tati (Hurrian personal name) |
 | Language layer | Hurrian |
 | Tags | hapax, personal_name |
 | Semantic field | personal_name |

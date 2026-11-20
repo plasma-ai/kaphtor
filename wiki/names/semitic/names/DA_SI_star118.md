@@ -70,7 +70,7 @@ Read words on the same documents.
 | KU-RO | kull | total, sum (accounting term) |
 | [[wiki/names/semitic/names/A_DU\|A-DU]] | adû | work assignment; the ration allotted to it (heading of personnel and ration lists) |
 | [[wiki/names/semitic/names/PA3_NI\|PA₃-NI]] | bānī | builder (a personnel class) |
-| DA-RE | dār | estate, household (a unit receiving men and grain); rival 'kin group, clan' |
+| DA-RE | dār | estate, household (a unit receiving men and grain) |
 | [[wiki/names/semitic/names/QA_star310_I\|QA-\*310-I]] | qaynī | smith or cultic administrator; occupational title |
 | [[wiki/names/egyptian/names/JA_MI_DA_RE\|JA-MI-DA-RE]] | Yamidare | He-from-the-hand-of-Re (Egyptian theophoric) |
 | [[wiki/names/semitic/names/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | devotee of Kubaba (Kubaba + -ān-), personal name or title |

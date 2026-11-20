@@ -27,7 +27,7 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/TA_NA_TE\|TA-NA-TE]] | Tanāt | Tanāt, a variant of Tinit, the goddess TNT, feminine of √t-n-n 'sea-dragon'; rival a form of A-TA-NA-TE ʾAtanat | 1 |
+| [[wiki/names/semitic/names/TA_NA_TE\|TA-NA-TE]] | Tanāt | Tanāt, a variant of Tinit, the goddess TNT, feminine of √t-n-n 'sea-dragon' | 1 |
 | [[wiki/names/semitic/names/TA_NA_TI\|TA-NA-TI]] | Tanāti | the goddess TNT (Tinnit), feminine of √t-n-n 'sea-dragon' | 4 |
 | [[wiki/names/semitic/names/TI_NI_TA\|TI-NI-TA]] | Tinit | Tinit (goddess, = Phoenician Tanit) | 1 |
 

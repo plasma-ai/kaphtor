@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/DI_RE_DI_NA
 title: "DI-RE-DI-NA"
-desc: "ʾaddīr-dīnā: mighty is the verdict (compound sentence name); rival a simplex recipient name. Semitic, CANDIDATE."
+desc: "ʾaddīr-dīnā: mighty is the verdict (compound sentence name). Semitic, CANDIDATE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "DI-RE-DI-NA"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**ʾaddīr-dīnā** · mighty is the verdict (compound sentence name); rival a simplex recipient name
+**ʾaddīr-dīnā** · mighty is the verdict (compound sentence name)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | ʾaddīr-dīnā |
-| Meaning | mighty is the verdict (compound sentence name); rival a simplex recipient name |
+| Meaning | mighty is the verdict (compound sentence name) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/alef-d-r\|ʾ-d-r]] + [[wiki/names/semitic/roots/d-y-n\|d-y-n]] |
 | Proto-Semitic | \*ʾaddīr- (#1340), \*dyn- (#S36) |
@@ -40,7 +40,7 @@ HT 98a DI-RE-DI-NA ½, a recipient between TA-NA-TI ¾ and TE-\*301 ¾. ʾaddīr
 
 ## As a name
 
-Sentence name: DI-RE \*ʾaddīr (√ʾ-d-r, as in DI-DE-RU) + DI-NA \*dīnā (√d-y-n, as in DI-NA-U, DI-NA-RO). Cf. Adriel (1 Sam 18:19), Abidan (Num 1:11), Daniel; Ugaritic ʾadr + dn (Danel, KTU 1.17); Punic ʾDR-BʿL (Benz 1972).
+Sentence name: DI-RE \*ʾaddīr (√ʾ-d-r, as in DI-DE-RU) + DI-NA \*dīnā (√d-y-n, as in DI-NA-U, DI-NA-RO). Cf. Adriel (1 Sam 18:19), Abidan (Num 1:11), Daniel; Ugaritic ʾadr + dn (Danel, KTU 1.17); Punic ʾDR-BʿL (Benz 1972). Rival: a simplex recipient name.
 
 ## Cognates
 

@@ -2,20 +2,20 @@
 name: wiki/linear-a/words/S
 desc: "Words whose first sign begins with S."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-20T13:43:07Z
+updated: 2026-11-20T23:19:23Z
 ---
 
 # wiki/linear-a/words/S
 
 [[wiki/linear-a/words/_index|..]]
 
-[[wiki/linear-a/words/S/S3T|S3T]]: śṭ-: turn aside! (imperative, command to the disease); rival śĕʾēt. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/S/S3T|S3T]]: śṭ-: turn aside! (imperative, command to the disease). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/S/S3_BW|S3_BW]]: ṯūb-: turn back! (imperative, command to the disease). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/S/SA|SA]]: śakaru: beer, strong drink—logographic abbreviation of *śakaru/*šikaru; commodity logogram, compounded with VIN. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/S/SA_DI|SA_DI]]: šadī: field worker, Ug. šdy 'land labourer' or 'weaver, spinner'; rival the personal name Šadī 'Country man'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/S/SA_DI|SA_DI]]: šadī: field worker, Ug. šdy 'land labourer' or 'weaver, spinner'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/S/SA_JA_MA|SA_JA_MA]]: śaymā: setting, arrangement; a set/group (of vessels)—deverbal noun from √ś-y-m 'to place, set'. Lexicon, SPECULATIVE (tier 1).
 
@@ -35,15 +35,13 @@ updated: 2026-11-20T13:43:07Z
 
 [[wiki/linear-a/words/S/SA_QE_RI|SA_QE_RI]]: Šaqeli: personal name, from √š-q-l 'to weigh'. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/S/SA_RA|SA_RA]]: šarra: queen, princess (feminine of šarru). Lexicon, CANDIDATE (tier 2).
-
 [[wiki/linear-a/words/S/SA_RA2|SA_RA2]]: šarra: queen/princess; by metonymy the queen's or royal establishment (recipient/institutional heading). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/S/SA_RA_DI|SA_RA_DI]]: šalardi: group of daughters (Hurrian collective). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/S/SA_RA_RA|SA_RA_RA]]: ṣarār-: bundle, bag (commodity or container). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/S/SA_RE_JU|SA_RE_JU]]: Šarr-ēlu: personal name, 'El is king'; rival Hurrian Šar-elli. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/S/SA_RE_JU|SA_RE_JU]]: Šarr-ēlu: personal name, 'El is king'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/S/SA_RI|SA_RI]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -57,7 +55,7 @@ updated: 2026-11-20T13:43:07Z
 
 [[wiki/linear-a/words/S/SA_SA_RA_MI_broken_start|SA_SA_RA_MI_broken_start]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/S/SA_TA|SA_TA]]: Šata: Šata (personal name, heading the second section); rival śadā '(those of) the field'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/S/SA_TA|SA_TA]]: Šata: Šata (personal name, heading the second section). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/S/SA_VIN|SA_VIN]]: Unread sign (compound, component read); 2 occurrence(s).
 
@@ -73,15 +71,15 @@ updated: 2026-11-20T13:43:07Z
 
 [[wiki/linear-a/words/S/SE_I_broken_both|SE_I_broken_both]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/S/SE_KU_TU|SE_KU_TU]]: Šakūtu: personal name, 'Calm, at rest'; rival Zakūtu 'pure, innocent'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/S/SE_KU_TU|SE_KU_TU]]: Šakūtu: personal name, 'Calm, at rest'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/S/SE_SA_PA3|SE_SA_PA3]]: Zizapa: Zizapa (Hurrian personal name), ziz- 'chest'; rival Amorite ʿIziz-ab. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/S/SE_SA_PA3|SE_SA_PA3]]: Zizapa: Zizapa (Hurrian personal name), ziz- 'chest'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/S/SE_SI|SE_SI]]: Unread (role only): personal name; 1 occurrence(s).
 
 [[wiki/linear-a/words/S/SE_SI_TA|SE_SI_TA]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/S/SE_TO_I_JA|SE_TO_I_JA]]: Ṣētiya: the Eastern (place), a central Cretan toponym; rivals the epithet 'she of the East' and a pre-Greek toponym Setoiya. Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/S/SE_TO_I_JA|SE_TO_I_JA]]: Ṣētiya: the Eastern (place), a central Cretan toponym. Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/S/SE_WA_AU_DE|SE_WA_AU_DE]]: šiwwâ hawd-: set the ornament (a maker's line after the name). Lexicon, SPECULATIVE (tier 1).
 
@@ -101,7 +99,7 @@ updated: 2026-11-20T13:43:07Z
 
 [[wiki/linear-a/words/S/SI_DI_JA|SI_DI_JA]]: Šidiya: personal name, Ugaritic Šidiya (ši-di-ia). Lexicon, PROBABLE (tier 3).
 
-[[wiki/linear-a/words/S/SI_DI_star301|SI_DI_star301]]: Ṣidna: Sidon (place name); rival Ṣīd-nā 'our Ṣid'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/S/SI_DI_star301|SI_DI_star301]]: Ṣidna: Sidon (place name). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/S/SI_DU|SI_DU]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -113,17 +111,17 @@ updated: 2026-11-20T13:43:07Z
 
 [[wiki/linear-a/words/S/SI_JA_SE|SI_JA_SE]]: šī-yāṣē: which goes out (disbursement marker)—relative particle šī + 3ms imperfect √y-ṣ-ʾ "to go out". Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/S/SI_KA|SI_KA]]: šikā: office of the steward or prefect (√s-k-n); rival sukkā 'booth' (√s-k-k). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/S/SI_KA|SI_KA]]: šikā: office of the steward or prefect (√s-k-n). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/S/SI_KA_IOZa6|SI_KA_IOZa6]]: šiqā: Who Gives Drink (proposed second member of a divine epithet; participial/verbal noun of √š-q-y). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/S/SI_KI_NE|SI_KI_NE]]: Sikinet: stewardess, female administrator. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/S/SI_KI_RA|SI_KI_RA]]: Śikira: personal name, 'Hired' (√ś-k-r 'to hire'); rival šēkār 'strong drink'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/S/SI_KI_RA|SI_KI_RA]]: Śikira: personal name, 'Hired' (√ś-k-r 'to hire'). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/S/SI_MA|SI_MA]]: šima: name, renown, progeny; also the personal name Šima, Shem. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/S/SI_MI_TA|SI_MI_TA]]: Śīmat: personal name (f.), on √ś-y-m 'to place, fix'; rival Šimʿat. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/S/SI_MI_TA|SI_MI_TA]]: Śīmat: personal name (f.), on √ś-y-m 'to place, fix'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/S/SI_NA|SI_NA]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -141,9 +139,9 @@ updated: 2026-11-20T13:43:07Z
 
 [[wiki/linear-a/words/S/SI_RU_TE|SI_RU_TE]]: šīrūt: sacred song, hymnody (abstract in -ūt of √š-y-r "sing"). Lexicon, PROBABLE (tier 3).
 
-[[wiki/linear-a/words/S/SI_TE|SI_TE]]: Ṣīt: the East, lit. 'the going-out (of the sun)', a name for eastern Crete; rival ṣīt 'issue, outlay'. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/S/SI_TE|SI_TE]]: Ṣīt: the East, lit. 'the going-out (of the sun)', a name for eastern Crete. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/S/SI_TE_TU|SI_TE_TU]]: šetātu: woven (cloth), a textile entry; rival šittātu 'remainder'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/S/SI_TE_TU|SI_TE_TU]]: šetātu: woven (cloth), a textile entry. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/S/SI_TU|SI_TU]]: šītu: garment, textile. Lexicon, CANDIDATE (tier 2).
 
@@ -153,7 +151,7 @@ updated: 2026-11-20T13:43:07Z
 
 [[wiki/linear-a/words/S/SI_plus_ME|SI_plus_ME]]: Unread sign (ligature, component read); 1 occurrence(s).
 
-[[wiki/linear-a/words/S/SI_plus_SE|SI_plus_SE]]: ṣiṣe: the salt-works (Ug. ṣṣ, WSem. ṣēṣūma 'salt marsh'), an establishment drawing grain, oil and figs; rival Šipšu, the Sun-deity. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/S/SI_plus_SE|SI_plus_SE]]: ṣiṣe: the salt-works (Ug. ṣṣ, WSem. ṣēṣūma 'salt marsh'), an establishment drawing grain, oil and figs. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/S/SI_plus_SE_NI|SI_plus_SE_NI]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -189,7 +187,7 @@ updated: 2026-11-20T13:43:07Z
 
 [[wiki/linear-a/words/S/SU_PU|SU_PU]]: suppu: bowl, basin (the vessel named on HT31). Lexicon, CONFIRMED (tier 4).
 
-[[wiki/linear-a/words/S/SU_PU2|SU_PU2]]: Ṣubʾu: Ṣubʾu (personal name); rival ṣābu 'workers, troop'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/S/SU_PU2|SU_PU2]]: Ṣubʾu: Ṣubʾu (personal name). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/S/SU_PU2_star188|SU_PU2_star188]]: suppu buṭni: bowl of terebinth (pistachio) nuts (commodity measured in bowl-units). Lexicon, CANDIDATE (tier 2).
 

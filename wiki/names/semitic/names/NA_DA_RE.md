@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/NA_DA_RE
 title: "NA-DA-RE"
-desc: "Nadr: personal name, 'Vow' (√n-d-r); rival Egyptian PN 'of-the-hand-of-Re'. Semitic, PROBABLE."
+desc: "Nadr: personal name, 'Vow' (√n-d-r). Semitic, PROBABLE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "NA-DA-RE"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Nadr** · personal name, 'Vow' (√n-d-r); rival Egyptian PN 'of-the-hand-of-Re'
+**Nadr** · personal name, 'Vow' (√n-d-r)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Nadr |
-| Meaning | personal name, 'Vow' (√n-d-r); rival Egyptian PN 'of-the-hand-of-Re' |
+| Meaning | personal name, 'Vow' (√n-d-r) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/n-d-r\|n-d-r]] |
 | Proto-Semitic | \*nVḏr- (#2709) |

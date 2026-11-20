@@ -41,19 +41,23 @@ updated: 2026-10-24T16:17:50Z
 Transliteration, line by line:
 
 1. \*412+E 2
-2. \*659 3
-3. \*404-VS
+2. \*412+F 3
+3. \*414-VS\[
 
 Unicode (Linear A block):
 
 ```text
 𐝫𐜰𐄈
 𐜱𐄉
-𐚤𐝫
+𐚮𐝫
 ```
 
 ## Lexicon words citing this document
 
 [[wiki/linear-a/words/star/star412|\*412]].
+
+## Corpus note
+
+GORILA V 51, 314: the last sign is 414VAS\[ \], a handle and the left of a rounded body at the right-hand break.
 
 <!-- END kaphtor:record -->

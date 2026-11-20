@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/star/star21F_star118
 title: "*21F-*118"
-desc: "ḥiṭṭa: wheat; rivals ḫaṭṭu 'sceptre', ḥaṯ 'unleavened bread'. Lexicon, CANDIDATE (tier 2)."
+desc: "ḥiṭṭa: wheat. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "commodity", "foodstuff", "grain", "noun"]
 kind: "word"
 form: "*21F-*118"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ḥiṭṭa |
-| Meaning | wheat; rivals ḫaṭṭu 'sceptre', ḥaṯ 'unleavened bread' |
+| Meaning | wheat |
 | Root | ḥ-n-ṭ |
 | Proto-Semitic | \*ḥiṭṭ-at- (#2691) |
 | Language layer | Semitic |

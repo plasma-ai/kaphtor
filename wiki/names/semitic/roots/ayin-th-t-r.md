@@ -27,7 +27,7 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/A_TA_RE\|A-TA-RE]] | ʿAṯtar | ʿAṯtar (the god), receiving figs; rival Hathor | 1 |
-| [[wiki/names/semitic/names/A_TI_RU\|A-TI-RU]] | ʿAttiru | ʿAttiru, personal name, the nisbe 'man of ʿAṯtar'; rival ʿatīru 'entreated' | 1 |
+| [[wiki/names/semitic/names/A_TA_RE\|A-TA-RE]] | ʿAṯtar | ʿAṯtar (the god), receiving figs | 1 |
+| [[wiki/names/semitic/names/A_TI_RU\|A-TI-RU]] | ʿAttiru | ʿAttiru, personal name, the nisbe 'man of ʿAṯtar' | 1 |
 
 <!-- END kaphtor:record -->

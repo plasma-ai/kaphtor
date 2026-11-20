@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/MA_I_MI
 title: "MA-I-MI"
-desc: "mayimi: water(-men), water-drawers of the sanctuary; rival Anatolian 'grown-ups'. Semitic, SPECULATIVE."
+desc: "mayimi: water(-men), water-drawers of the sanctuary. Semitic, SPECULATIVE."
 tags: ["names", "title", "semitic"]
 kind: "name"
 form: "MA-I-MI"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**mayimi** · water(-men), water-drawers of the sanctuary; rival Anatolian 'grown-ups'
+**mayimi** · water(-men), water-drawers of the sanctuary
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/titles\|Title]] |
 | Reading | mayimi |
-| Meaning | water(-men), water-drawers of the sanctuary; rival Anatolian 'grown-ups' |
+| Meaning | water(-men), water-drawers of the sanctuary |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/may-water\|\*may- 'water']] |
 | Proto-Semitic | \*maʾ-/\*may- (#711) |

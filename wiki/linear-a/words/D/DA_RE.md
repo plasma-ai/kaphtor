@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/D/DA_RE
 title: "DA-RE"
-desc: "dār: estate, household (a unit receiving men and grain); rival 'kin group, clan'. Lexicon, CANDIDATE (tier 2)."
+desc: "dār: estate, household (a unit receiving men and grain). Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "administrative", "noun"]
 kind: "word"
 form: "DA-RE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | dār |
-| Meaning | estate, household (a unit receiving men and grain); rival 'kin group, clan' |
+| Meaning | estate, household (a unit receiving men and grain) |
 | Root | d-w-r |
 | Proto-Semitic | \*dār- (#657) |
 | Language layer | Semitic |

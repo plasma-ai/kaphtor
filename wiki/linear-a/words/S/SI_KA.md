@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/S/SI_KA
 title: "SI-KA"
-desc: "šikā: office of the steward or prefect (√s-k-n); rival sukkā 'booth' (√s-k-k). Lexicon, CANDIDATE (tier 2)."
+desc: "šikā: office of the steward or prefect (√s-k-n). Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "administrative", "noun"]
 kind: "word"
 form: "SI-KA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | šikā |
-| Meaning | office of the steward or prefect (√s-k-n); rival sukkā 'booth' (√s-k-k) |
+| Meaning | office of the steward or prefect (√s-k-n) |
 | Root | š-k-n |
 | Proto-Semitic | \*šakVn- (#2776) |
 | Language layer | Semitic |

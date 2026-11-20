@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/D/DA_NE_KU_TI
 title: "DA-NE-KU-TI"
-desc: "Ḏā-naquddi: He of the speckled (flock) (personal name); rival 'He of the head shepherd'. Lexicon, SPECULATIVE (tier 1)."
+desc: "Ḏā-naquddi: He of the speckled (flock) (personal name). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "compound", "hapax", "personal_name"]
 kind: "word"
 form: "DA-NE-KU-TI"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Ḏā-naquddi |
-| Meaning | He of the speckled (flock) (personal name); rival 'He of the head shepherd' |
+| Meaning | He of the speckled (flock) (personal name) |
 | Root | ḏ + n-q-d |
 | Proto-Semitic | \*ḏī- (#K0877) + \*naḳid-, \*naḳad- (#2577) |
 | Language layer | Semitic |

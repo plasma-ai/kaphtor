@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/D/DI
 title: "DI"
-desc: "dibšu: honey, fruit syrup—commodity abbreviation of *dibšu; rival dblt 'fig cake'. In personnel lists a separate single-sign abbreviation. Lexicon, CANDIDATE (tier 2)."
+desc: "dibšu: honey, fruit syrup—commodity abbreviation of *dibšu. In personnel lists a separate single-sign abbreviation. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "abbreviation", "commodity", "foodstuff", "logogram"]
 kind: "word"
 form: "DI"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | dibšu |
-| Meaning | honey, fruit syrup—commodity abbreviation of \*dibšu; rival dblt 'fig cake'. In personnel lists a separate single-sign abbreviation |
+| Meaning | honey, fruit syrup—commodity abbreviation of \*dibšu. In personnel lists a separate single-sign abbreviation |
 | Root | d-b-š |
 | Proto-Semitic | \*dVbš- (#2737) |
 | Language layer | Semitic |

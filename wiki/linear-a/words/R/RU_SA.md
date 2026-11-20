@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/R/RU_SA
 title: "RU-SA"
-desc: "Rusa: personal name; compare Egyptian rw-sȝ, one of the 'names of Crete' on BM EA 5647; rival Egyptian Rs 'he who is awake'. Lexicon, SPECULATIVE (tier 1)."
+desc: "Rusa: personal name; compare Egyptian rw-sȝ, one of the 'names of Crete' on BM EA 5647. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "RU-SA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Rusa |
-| Meaning | personal name; compare Egyptian rw-sȝ, one of the 'names of Crete' on BM EA 5647; rival Egyptian Rs 'he who is awake' |
+| Meaning | personal name; compare Egyptian rw-sȝ, one of the 'names of Crete' on BM EA 5647 |
 | Language layer | Aegean |
 | Tags | hapax, personal_name |
 | Semantic field | personal_name |

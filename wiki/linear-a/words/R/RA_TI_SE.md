@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/R/RA_TI_SE
 title: "RA-TI-SE"
-desc: "Ratis: Ratis (Egyptian personal name rdj⸗s, the name RE-DI-SE), 'the one she has given'; rival Safaitic RDS 'Breaker'. Lexicon, SPECULATIVE (tier 1)."
+desc: "Ratis: Ratis (Egyptian personal name rdj⸗s, the name RE-DI-SE), 'the one she has given'. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "RA-TI-SE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Ratis |
-| Meaning | Ratis (Egyptian personal name rdj⸗s, the name RE-DI-SE), 'the one she has given'; rival Safaitic RDS 'Breaker' |
+| Meaning | Ratis (Egyptian personal name rdj⸗s, the name RE-DI-SE), 'the one she has given' |
 | Root | rdj |
 | Language layer | Middle Egyptian |
 | Tags | hapax, personal_name |

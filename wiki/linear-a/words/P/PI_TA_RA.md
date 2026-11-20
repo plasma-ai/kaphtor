@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/P/PI_TA_RA
 title: "PI-TA-RA"
-desc: "bitra: a portion, share (accounting term); rivals bidāla 'trade agents' and the names Paṭir, Batūl. Lexicon, SPECULATIVE (tier 1)."
+desc: "bitra: a portion, share (accounting term). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "administrative", "hapax", "noun"]
 kind: "word"
 form: "PI-TA-RA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | bitra |
-| Meaning | a portion, share (accounting term); rivals bidāla 'trade agents' and the names Paṭir, Batūl |
+| Meaning | a portion, share (accounting term) |
 | Root | b-t-r |
 | Proto-Semitic | \*butur- (#K0026) |
 | Language layer | Semitic |

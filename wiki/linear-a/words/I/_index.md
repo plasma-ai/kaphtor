@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/I
 desc: "Words whose first sign begins with I."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-14T19:56:36Z
+updated: 2026-11-21T04:44:22Z
 ---
 
 # wiki/linear-a/words/I
@@ -13,7 +13,7 @@ updated: 2026-11-14T19:56:36Z
 
 [[wiki/linear-a/words/I/I_DA|I_DA]]: ʾIda: Ida, 'the Hand' (sacred mountain—toponym/theonym). Lexicon, PROBABLE (tier 3).
 
-[[wiki/linear-a/words/I/I_DA_A|I_DA_A]]: ʾIda: of Ida (diptotic genitive after DU-*314-RE); rival 'toward Ida'. Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/I/I_DA_A|I_DA_A]]: ʾIda: of Ida (diptotic genitive after DU-*314-RE). Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/I/I_DA_DA|I_DA_DA]]: dādā: O Beloved!—vocative of the reduplicative divine epithet (with i- prosthesis). Lexicon, SPECULATIVE (tier 1).
 
@@ -27,15 +27,17 @@ updated: 2026-11-14T19:56:36Z
 
 [[wiki/linear-a/words/I/I_DI|I_DI]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/I/I_DU_NE_SI|I_DU_NE_SI]]: Yidu-naḥši: Strength is alive, the arm thrives (personal name); rival Yidu-nešše, Hurrian 'prosperity'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/I/I_DU_NE_SI|I_DU_NE_SI]]: Yidu-naḥši: Strength is alive, the arm thrives (personal name). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/I/I_DU_TI|I_DU_TI]]: Yidu-ti: entity name: yidu 'strength' with TI. Lexicon, SPECULATIVE (tier 1).
+
+[[wiki/linear-a/words/I/I_DU_WI|I_DU_WI]]: Yaduwi: personal name, the Ugarit name Yaduwa. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/I/I_JA|I_JA]]: ʾiya: island. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/I/I_JA_PA|I_JA_PA]]: Unread (edge overlap): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/I/I_JA_PA_ME|I_JA_PA_ME]]: yabame: brother-in-law (kin title); I-JA-PA-ME · TA-TA 'the brother-in-law of Tatta'; rival ybmt 'sister-in-law', Anat's epithet. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/I/I_JA_PA_ME|I_JA_PA_ME]]: yabame: brother-in-law (kin title); I-JA-PA-ME · TA-TA 'the brother-in-law of Tatta'. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/I/I_JA_RE_DI_JA|I_JA_RE_DI_JA]]: Unread (edge overlap): personal name; 1 occurrence(s).
 
@@ -55,7 +57,7 @@ updated: 2026-11-14T19:56:36Z
 
 [[wiki/linear-a/words/I/I_KU_RI_NA|I_KU_RI_NA]]: ʾiqurna: at the horn, the promontory (place name). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/I/I_KU_TA|I_KU_TA]]: Ḥikuptaḥ: place name: Memphis, the seat of Kothar (Ug. Ḥkpt), a recipient of cyperus; rival 'the Memphite'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/I/I_KU_TA|I_KU_TA]]: Ḥikuptaḥ: place name: Memphis, the seat of Kothar (Ug. Ḥkpt), a recipient of cyperus. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/I/I_MA|I_MA]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -85,7 +87,7 @@ updated: 2026-11-14T19:56:36Z
 
 [[wiki/linear-a/words/I/I_QA_star118|I_QA_star118]]: iqṭaʿ: divide! (imperative of √q-ṭ-ʿ), heading over mixed commodities. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/I/I_RA2|I_RA2]]: ʾilā(t): goddess; rival ʾila 'god'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/I/I_RA2|I_RA2]]: ʾilā(t): goddess. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/I/I_RU_JA|I_RU_JA]]: ʾIlūya: personal name, 'My god'. Lexicon, SPECULATIVE (tier 1).
 
@@ -101,9 +103,9 @@ updated: 2026-11-14T19:56:36Z
 
 [[wiki/linear-a/words/I/I_TI|I_TI]]: ʾitti: with, at (comitative preposition); on IO Za 12 ʾittī 'with me'. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/I/I_TI_NI_SA|I_TI_NI_SA]]: ʾItniša: ʾItniša (personal name), the Mari name IT-NU-ŠA; rival ʾitnī-ša 'her gift (portion)'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/I/I_TI_NI_SA|I_TI_NI_SA]]: ʾItniša: ʾItniša (personal name), the Mari name IT-NU-ŠA. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/I/I_TI_TI_KU_NI|I_TI_TI_KU_NI]]: (y)ittatkūni: which have been poured out—disbursed (derived-stem header); rival a heading name. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/I/I_TI_TI_KU_NI|I_TI_TI_KU_NI]]: (y)ittatkūni: which have been poured out—disbursed (derived-stem header). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/I/I_ZU_RI_NI_TA|I_ZU_RI_NI_TA]]: ʾi-ṯawrīnīta: She-of-the-Bull (feminine personal/divine name). Lexicon, CANDIDATE (tier 2).
 

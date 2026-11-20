@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/MA_RE
 title: "MA-RE"
-desc: "mārē: lord, master (title, an entry in a KI-RO roster); rival a personal name. Semitic, SPECULATIVE."
+desc: "mārē: lord, master (title, an entry in a KI-RO roster). Semitic, SPECULATIVE."
 tags: ["names", "title", "semitic"]
 kind: "name"
 form: "MA-RE"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**mārē** · lord, master (title, an entry in a KI-RO roster); rival a personal name
+**mārē** · lord, master (title, an entry in a KI-RO roster)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/titles\|Title]] |
 | Reading | mārē |
-| Meaning | lord, master (title, an entry in a KI-RO roster); rival a personal name |
+| Meaning | lord, master (title, an entry in a KI-RO roster) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/m-r-alef\|m-r-ʾ]] |
 | Proto-Semitic | \*marʾ- (#53) |

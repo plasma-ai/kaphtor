@@ -27,6 +27,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/RA2_RO_RE\|RA₂-RO-RE]] | Lallor | personal name, 'Mourner' (Akk. lallaru); rival Amorite Li-lu-ri | 1 |
+| [[wiki/names/semitic/names/RA2_RO_RE\|RA₂-RO-RE]] | Lallor | personal name, 'Mourner' (Akk. lallaru) | 1 |
 
 <!-- END kaphtor:record -->

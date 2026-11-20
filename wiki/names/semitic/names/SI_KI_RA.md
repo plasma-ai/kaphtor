@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/SI_KI_RA
 title: "SI-KI-RA"
-desc: "Śikira: personal name, 'Hired' (√ś-k-r 'to hire'); rival šēkār 'strong drink'. Semitic, SPECULATIVE."
+desc: "Śikira: personal name, 'Hired' (√ś-k-r 'to hire'). Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "SI-KI-RA"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Śikira** · personal name, 'Hired' (√ś-k-r 'to hire'); rival šēkār 'strong drink'
+**Śikira** · personal name, 'Hired' (√ś-k-r 'to hire')
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Śikira |
-| Meaning | personal name, 'Hired' (√ś-k-r 'to hire'); rival šēkār 'strong drink' |
+| Meaning | personal name, 'Hired' (√ś-k-r 'to hire') |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/sl-k-r\|ś-k-r]] |
 | Proto-Semitic | \*śVkVr- (#K0481) |

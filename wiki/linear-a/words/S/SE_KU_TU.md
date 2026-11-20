@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/S/SE_KU_TU
 title: "SE-KU-TU"
-desc: "Šakūtu: personal name, 'Calm, at rest'; rival Zakūtu 'pure, innocent'. Lexicon, SPECULATIVE (tier 1)."
+desc: "Šakūtu: personal name, 'Calm, at rest'. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "SE-KU-TU"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Šakūtu |
-| Meaning | personal name, 'Calm, at rest'; rival Zakūtu 'pure, innocent' |
+| Meaning | personal name, 'Calm, at rest' |
 | Root | š-k-t |
 | Proto-Semitic | \*škt (#3250) |
 | Language layer | Semitic |

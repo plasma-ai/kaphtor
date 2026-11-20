@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/S/SU_PU2
 title: "SU-PU₂"
-desc: "Ṣubʾu: Ṣubʾu (personal name); rival ṣābu 'workers, troop'. Lexicon, SPECULATIVE (tier 1)."
+desc: "Ṣubʾu: Ṣubʾu (personal name). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "SU-PU₂"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Ṣubʾu |
-| Meaning | Ṣubʾu (personal name); rival ṣābu 'workers, troop' |
+| Meaning | Ṣubʾu (personal name) |
 | Root | ṣ-b-w |
 | Proto-Semitic | \*ṣbw (#3456) |
 | Language layer | Semitic |

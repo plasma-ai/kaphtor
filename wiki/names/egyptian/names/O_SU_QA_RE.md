@@ -64,7 +64,7 @@ Read words on the same documents.
 | Word | Reading | Meaning |
 |---|---|---|
 | A-TA-I-\*301-WA-JA | ʾatainawaya | I make myself a dwelling (1cs tG-stem middle-reflexive denominative of √NWY) |
-| JA-SA-SA-RA-ME | yaššaram | in righteousness (adverbial accusative in -am of √y-š-r; also 'righteously'); rival: substantivized "the upright/proper \[thing\]" in an object slot. Polysemic layer: masculine divine name Yasharam (Akk. Mīšarum, Phoen. Misor) |
+| JA-SA-SA-RA-ME | yaššaram | in righteousness (adverbial accusative in -am of √y-š-r; also 'righteously') |
 | I-PI-NA-MA | ʾippina=ma | in the presence of |
 | SI-RU-TE | šīrūt | sacred song, hymnody (abstract in -ūt of √š-y-r "sing") |
 

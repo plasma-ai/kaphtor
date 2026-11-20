@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/A/A_star325_ZA
 title: "A-*325-ZA"
-desc: "ʾabūs(a): the stall, storehouse; rival the same word as a place name. Lexicon, CANDIDATE (tier 2)."
+desc: "ʾabūs(a): the stall, storehouse. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "administrative", "hapax", "noun"]
 kind: "word"
 form: "A-*325-ZA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʾabūs(a) |
-| Meaning | the stall, storehouse; rival the same word as a place name |
+| Meaning | the stall, storehouse |
 | Root | ʾ-b-s |
 | Proto-Semitic | \*ʾabūs- (#1336) |
 | Language layer | Semitic |

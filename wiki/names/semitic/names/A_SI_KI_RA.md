@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/A_SI_KI_RA
 title: "A-SI-KI-RA"
-desc: "ha-Śikira: personal name, 'the Hired' (article ha- + SI-KI-RA); rival haśkira 'he rewarded'. Semitic, SPECULATIVE."
+desc: "ha-Śikira: personal name, 'the Hired' (article ha- + SI-KI-RA). Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "A-SI-KI-RA"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**ha-Śikira** · personal name, 'the Hired' (article ha- + SI-KI-RA); rival haśkira 'he rewarded'
+**ha-Śikira** · personal name, 'the Hired' (article ha- + SI-KI-RA)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | ha-Śikira |
-| Meaning | personal name, 'the Hired' (article ha- + SI-KI-RA); rival haśkira 'he rewarded' |
+| Meaning | personal name, 'the Hired' (article ha- + SI-KI-RA) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/sl-k-r\|ś-k-r]] |
 | Proto-Semitic | \*śVkVr- (#K0481) |

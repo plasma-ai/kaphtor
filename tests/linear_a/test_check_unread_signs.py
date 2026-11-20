@@ -120,6 +120,42 @@ def test_a_named_word_part_the_corpus_no_longer_holds_is_reported():
     assert "word_parts" in found[0][2] and "D9" in found[0][2]
 
 
+def broken_issues(entries, corpus=CORPUS):
+    document = doc(entries)
+    return s.check(document, s.occurrences(corpus, lex_hit, document["excluded"]), lex_hit, s.broken_tokens(corpus))
+
+
+def test_a_broken_token_is_one_sign_beside_a_break():
+    # D4 ]TA is TA whole with the break before it; D5 PA-[?] has lost a sign of its own and is no token of PA
+    edge = CORPUS | {"D7": {"site": "Khania", "transliteratedWords": ["*347[", "]*336[", "]-I", "I-[", "KU-RO[", "𐝫"]}}
+    assert s.broken_tokens(edge) == {"TA": {"D4"}, "*347": {"D7"}, "*336": {"D7"}, "I": {"D7"}}
+
+
+def test_a_sign_whose_only_token_stands_beside_a_break_stays_listed_once_the_entry_names_it():
+    bare = entry("TA", "syllabogram", "unread", 0, [], [])
+    assert ("not_in_corpus", "TA") in {(kind, sign) for kind, sign, _ in broken_issues([*GOOD, bare])}
+    assert broken_issues([*GOOD, bare | {"at_break": ["D4"]}]) == []
+
+
+def test_a_named_break_the_corpus_does_not_hold_is_reported():
+    stale = entry("TA", "syllabogram", "unread", 0, [], []) | {"at_break": ["D4", "D9"]}
+    found = broken_issues([*GOOD, stale])
+    assert [(kind, sign) for kind, sign, _ in found] == [("field", "TA")]
+    assert "at_break" in found[0][2] and "D9" in found[0][2]
+    # with no break left to name, the sign is absent from the corpus as before
+    gone = entry("TA", "syllabogram", "unread", 0, [], []) | {"at_break": ["D9"]}
+    assert ("not_in_corpus", "TA") in {(kind, sign) for kind, sign, _ in broken_issues([*GOOD, gone])}
+
+
+def test_a_sign_named_beside_a_break_is_still_counted_by_its_whole_tokens():
+    # I stands whole on D1 and D2; naming a break does not change what is counted
+    edge = CORPUS | {"D7": {"site": "Khania", "transliteratedWords": ["I["]}}
+    named = [GOOD[0] | {"at_break": ["D7"]}, *GOOD[1:]]
+    assert broken_issues(named, edge) == []
+    wrong = [GOOD[0] | {"at_break": ["D7"], "frequency": 3}, *GOOD[1:]]
+    assert ("field", "I") in {(kind, sign) for kind, sign, _ in broken_issues(wrong, edge)}
+
+
 def test_the_ranking_counts_only_records_where_the_sign_is_the_last_thing_unread():
     listed = {e["sign"]: e for e in GOOD}
     blocked = s.sole_blockers(CORPUS, translated={"D2"}, listed=listed, lex_hit=lex_hit, named={"KU-RO"})

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/N/NA_DA_RE
 title: "NA-DA-RE"
-desc: "Nadr: personal name, 'Vow' (√n-d-r); rival Egyptian PN 'of-the-hand-of-Re'. Lexicon, PROBABLE (tier 3)."
+desc: "Nadr: personal name, 'Vow' (√n-d-r). Lexicon, PROBABLE (tier 3)."
 tags: ["linear-a", "word", "tier-3", "hapax", "personal_name"]
 kind: "word"
 form: "NA-DA-RE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Nadr |
-| Meaning | personal name, 'Vow' (√n-d-r); rival Egyptian PN 'of-the-hand-of-Re' |
+| Meaning | personal name, 'Vow' (√n-d-r) |
 | Root | n-d-r |
 | Proto-Semitic | \*nVḏr- (#2709) |
 | Language layer | Semitic |

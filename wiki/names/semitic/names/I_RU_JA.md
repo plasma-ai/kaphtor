@@ -69,6 +69,6 @@ Read words on the same documents.
 
 | Word | Reading | Meaning |
 |---|---|---|
-| DA-RE | dār | estate, household (a unit receiving men and grain); rival 'kin group, clan' |
+| DA-RE | dār | estate, household (a unit receiving men and grain) |
 
 <!-- END kaphtor:record -->

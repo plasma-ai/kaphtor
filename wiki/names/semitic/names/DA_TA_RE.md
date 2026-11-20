@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/DA_TA_RE
 title: "DA-TA-RE"
-desc: "Daṯar: Old (man's name); rival 'He of the gate'. Semitic, SPECULATIVE."
+desc: "Daṯar: Old (man's name). Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "DA-TA-RE"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Daṯar** · Old (man's name); rival 'He of the gate'
+**Daṯar** · Old (man's name)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Daṯar |
-| Meaning | Old (man's name); rival 'He of the gate' |
+| Meaning | Old (man's name) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/d-th-r\|d-ṯ-r]] |
 | Proto-Semitic | \*dṯr (#3774) |

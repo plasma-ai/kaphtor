@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/A/A_NA_NU
 title: "A-NA-NU"
-desc: "Ḥanānu: personal name Ḥanānu 'gracious'; rival ʿAnānu 'cloud'. Lexicon, SPECULATIVE (tier 1)."
+desc: "Ḥanānu: personal name Ḥanānu 'gracious'. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "A-NA-NU"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Ḥanānu |
-| Meaning | personal name Ḥanānu 'gracious'; rival ʿAnānu 'cloud' |
+| Meaning | personal name Ḥanānu 'gracious' |
 | Root | ḥ-n-n |
 | Proto-Semitic | \*ḥanan- (#K0736) |
 | Language layer | Semitic |

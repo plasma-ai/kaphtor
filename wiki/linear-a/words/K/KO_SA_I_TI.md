@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/K/KO_SA_I_TI
 title: "KO-SA-I-TI"
-desc: "Kōšayīt: the Kushite woman (origin label); rival kusītu 'robe'. Lexicon, SPECULATIVE (tier 1)."
+desc: "Kōšayīt: the Kushite woman (origin label). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "gentilic", "hapax", "loanblend", "personal_name"]
 kind: "word"
 form: "KO-SA-I-TI"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Kōšayīt |
-| Meaning | the Kushite woman (origin label); rival kusītu 'robe' |
+| Meaning | the Kushite woman (origin label) |
 | Root | Kꜣš 'Kush' (AED lemma 163680, after Wb 5, 109.1) + -ay- + -īt (feminine nisbe) |
 | Language layer | Semitic |
 | Tags | gentilic, hapax, loanblend, personal_name |

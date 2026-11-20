@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/U/U_star34_SI
 title: "U-*34-SI"
-desc: "u-qīš: and the gift (heading over oil and grain amounts); rivals uqīš 'he bestowed', a name. Lexicon, SPECULATIVE (tier 1)."
+desc: "u-qīš: and the gift (heading over oil and grain amounts). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "administrative", "heading", "noun"]
 kind: "word"
 form: "U-*34-SI"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | u-qīš |
-| Meaning | and the gift (heading over oil and grain amounts); rivals uqīš 'he bestowed', a name |
+| Meaning | and the gift (heading over oil and grain amounts) |
 | Root | q-y-š |
 | Proto-Semitic | \*ḳyš (#3843) |
 | Language layer | Semitic |

@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/MA_RU
 title: "MA-RU"
-desc: "Maruʾ: Fattened (personal name), the bare stem of the Amorite MARUʾ- names; rival Maru 'Wool'. Semitic, SPECULATIVE."
+desc: "Maruʾ: Fattened (personal name), the bare stem of the Amorite MARUʾ- names. Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "MA-RU"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Maruʾ** · Fattened (personal name), the bare stem of the Amorite MARUʾ- names; rival Maru 'Wool'
+**Maruʾ** · Fattened (personal name), the bare stem of the Amorite MARUʾ- names
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Maruʾ |
-| Meaning | Fattened (personal name), the bare stem of the Amorite MARUʾ- names; rival Maru 'Wool' |
+| Meaning | Fattened (personal name), the bare stem of the Amorite MARUʾ- names |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/m-r-alef\|m-r-ʾ]] |
 | Proto-Semitic | \*mrʾ ~ \*mariʾ- (#1084) |

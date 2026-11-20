@@ -27,6 +27,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/KA_I_RO\|KA-I-RO]] | kāʾil | Measurer (professional-title PN), of grain; rival a name on g-y-l 'to rejoice' | 1 |
+| [[wiki/names/semitic/names/KA_I_RO\|KA-I-RO]] | kāʾil | Measurer (professional-title PN), of grain | 1 |
 
 <!-- END kaphtor:record -->

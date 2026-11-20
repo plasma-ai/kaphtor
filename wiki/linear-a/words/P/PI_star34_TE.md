@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/P/PI_star34_TE
 title: "PI-*34-TE"
-desc: "piqitti: provisions, provisioning (allocation entry); rivals bayti 'house', a recipient name. Lexicon, SPECULATIVE (tier 1)."
+desc: "piqitti: provisions, provisioning (allocation entry). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "administrative", "hapax", "noun"]
 kind: "word"
 form: "PI-*34-TE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | piqitti |
-| Meaning | provisions, provisioning (allocation entry); rivals bayti 'house', a recipient name |
+| Meaning | provisions, provisioning (allocation entry) |
 | Root | p-q-d |
 | Proto-Semitic | \*paqād- (#K0256) |
 | Language layer | Semitic |

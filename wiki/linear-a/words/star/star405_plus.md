@@ -31,4 +31,6 @@ updated: 2026-11-12T00:26:03Z
 
 A ligature. Status **unread** (nothing on file).
 
+GORILA A 655, 405VAS+Ω (GORILA V 312): MA 10b .1, a tapering cup with a loop handle at each side and a sign inside it. Nearest among the Linear B vessels is \*212, u-do-ro, 'a conical bucket-shaped bowl with two horizontal (?) handles' (Ventris and Chadwick 1956, 324, 328).
+
 <!-- END kaphtor:record -->

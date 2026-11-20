@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/P/PI_TA_KA_SE
 title: "PI-TA-KA-SE"
-desc: "Bīt-kissē: House of the Throne, the crown estate (institution heading); rival the Hurrian name of PI-TA-KE-SI. Lexicon, SPECULATIVE (tier 1)."
+desc: "Bīt-kissē: House of the Throne, the crown estate (institution heading). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "administrative", "compound", "hapax", "noun"]
 kind: "word"
 form: "PI-TA-KA-SE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Bīt-kissē |
-| Meaning | House of the Throne, the crown estate (institution heading); rival the Hurrian name of PI-TA-KE-SI |
+| Meaning | House of the Throne, the crown estate (institution heading) |
 | Root | b-y-t + k-s-ʾ |
 | Proto-Semitic | \*bayt- (#652) + \*kVsVʾ- (#K0105) |
 | Language layer | Semitic |

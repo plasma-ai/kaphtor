@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/K/KA_PA_QE
 title: "KA-PA-QE"
-desc: "kapar qē(pu): the village's commissioner, a recipient of figs; rival kappar qê 'vessels by the qê-measure'. Lexicon, SPECULATIVE (tier 1)."
+desc: "kapar qē(pu): the village's commissioner, a recipient of figs. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "compound", "hapax", "title"]
 kind: "word"
 form: "KA-PA-QE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | kapar qē(pu) |
-| Meaning | the village's commissioner, a recipient of figs; rival kappar qê 'vessels by the qê-measure' |
+| Meaning | the village's commissioner, a recipient of figs |
 | Root | k-p-r + q-y-p |
 | Proto-Semitic | \*kapār- (#K0100) + \*ḳīp- (#3850) |
 | Language layer | Semitic |
@@ -81,7 +81,7 @@ di Mino; CAD Q; GlOS 1
 
 ### Note
 
-HT 6a .4–5 KA-PA-QE 5¾, whole (GORILA I 13), the last fig entry under KA-PA. KA-PA 'village' with QE for QE-PU qēpu 'commissioner' (CAD Q 264). See the lexicon entry.
+HT 6a .4–5 KA-PA-QE 5¾, whole (GORILA I 13), the last fig entry under KA-PA. KA-PA 'village' with QE for QE-PU qēpu 'commissioner' (CAD Q 264). See the lexicon entry. Rival: 'the village: measures (qê)'.
 
 ### Co-occurring lexicon words
 

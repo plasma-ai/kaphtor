@@ -44,7 +44,7 @@ Transliteration, line by line:
 2. 7
 3. A-DA-RO GRA 40
 4. \*131B 6
-5. A
+5. A-\[
 6. 𐝫
 
 Unicode (Linear A block):

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/N/NA_TU_star301_NE
 title: "NA-TU-*301-NE"
-desc: "natūnān: the dedicated one (qatūl passive participle of √n-t-n + -ān); rival nātānān 'the giver'. Lexicon, PROBABLE (tier 3)."
+desc: "natūnān: the dedicated one (qatūl passive participle of √n-t-n + -ān). Lexicon, PROBABLE (tier 3)."
 tags: ["linear-a", "word", "tier-3", "fragmentary", "hapax", "participle", "ritual", "title", "votive"]
 kind: "word"
 form: "NA-TU-*301-NE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | natūnān |
-| Meaning | the dedicated one (qatūl passive participle of √n-t-n + -ān); rival nātānān 'the giver' |
+| Meaning | the dedicated one (qatūl passive participle of √n-t-n + -ān) |
 | Root | n-t-n |
 | Proto-Semitic | \*ytn ~ \*ntn (#2608) |
 | Language layer | Semitic |
@@ -81,5 +81,9 @@ di Mino; Gelb 1980; Huehnergard 2012
 | Occurrences | 1 in 1 documents |
 | Sites | Skoteino Cave |
 | Supports | Inked inscription 1 |
+
+### Note
+
+Rival: nātānān 'the giver'.
 
 <!-- END kaphtor:record -->

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/I/I_DA_A
 title: "I-DA-A"
-desc: "ʾIda: of Ida (diptotic genitive after DU-*314-RE); rival 'toward Ida'. Lexicon, PROBABLE (tier 3)."
+desc: "ʾIda: of Ida (diptotic genitive after DU-*314-RE). Lexicon, PROBABLE (tier 3)."
 tags: ["linear-a", "word", "tier-3", "hapax", "libation_formula", "ritual", "toponym"]
 kind: "word"
 form: "I-DA-A"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʾIda |
-| Meaning | of Ida (diptotic genitive after DU-\*314-RE); rival 'toward Ida' |
+| Meaning | of Ida (diptotic genitive after DU-\*314-RE) |
 | Root | y-d |
 | Proto-Semitic | \*yad- ~ \*ʾid- (#2046) |
 | Language layer | Semitic |
@@ -82,7 +82,7 @@ di Mino; GlOS 2; Huehnergard 2012; Duhoux 1992; Davis 2026b
 
 ### Note
 
-Reading from the lexicon (di Mino).
+Reading from the lexicon (di Mino). Rival: 'toward Ida'.
 
 ### Co-occurring lexicon words
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/I_RA2
 title: "I-RA₂"
-desc: "ʾilā(t): goddess; rival ʾila 'god'. Semitic, SPECULATIVE."
+desc: "ʾilā(t): goddess. Semitic, SPECULATIVE."
 tags: ["names", "divine-name", "semitic"]
 kind: "name"
 form: "I-RA₂"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**ʾilā(t)** · goddess; rival ʾila 'god'
+**ʾilā(t)** · goddess
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/gods\|Divine name]] |
 | Reading | ʾilā(t) |
-| Meaning | goddess; rival ʾila 'god' |
+| Meaning | goddess |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/alef-l\|ʾ-l]] |
 | Proto-Semitic | \*ʾil- (#2719) |

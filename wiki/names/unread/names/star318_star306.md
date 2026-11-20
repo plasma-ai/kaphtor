@@ -48,7 +48,7 @@ Read words on the same documents.
 
 | Word | Reading | Meaning |
 |---|---|---|
-| [[wiki/names/semitic/names/KA_PA\|KA-PA]] | kapa(r) | village, settlement (kapar); rival an institution |
+| [[wiki/names/semitic/names/KA_PA\|KA-PA]] | kapa(r) | village, settlement (kapar) |
 | KU-RO | kull | total, sum (accounting term) |
 | [[wiki/names/semitic/names/SA_RA2\|SA-RA₂]] | šarra | queen/princess; by metonymy the queen's or royal establishment (recipient/institutional heading) |
 

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/T
 desc: "Words whose first sign begins with T."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-19T03:56:49Z
+updated: 2026-11-21T04:16:10Z
 ---
 
 # wiki/linear-a/words/T
@@ -45,15 +45,15 @@ updated: 2026-11-19T03:56:49Z
 
 [[wiki/linear-a/words/T/TA_NA_RA_TE_U_TI_NU|TA_NA_RA_TE_U_TI_NU]]: tan-raṣē-u-tī-n(u): may you (f.) be favorable toward us (2fs N-stem of √r-ṣ-y). Lexicon, PROBABLE (tier 3).
 
-[[wiki/linear-a/words/T/TA_NA_SU_TE_KE|TA_NA_SU_TE_KE]]: tanašutē-kī: may [it] be drunk for you (f.)—N-stem 3fs imperfective of √š-t-y 'to drink' + 2fs pronominal suffix -kī. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/T/TA_NA_SU_TE_q_KE|TA_NA_SU_TE_q_KE]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/T/TA_NA_TE|TA_NA_TE]]: Tanāt: Tanāt, a variant of Tinit, the goddess TNT, feminine of √t-n-n 'sea-dragon'; rival a form of A-TA-NA-TE ʾAtanat. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/T/TA_NA_TE|TA_NA_TE]]: Tanāt: Tanāt, a variant of Tinit, the goddess TNT, feminine of √t-n-n 'sea-dragon'. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/T/TA_NA_TI|TA_NA_TI]]: Tanāti: the goddess TNT (Tinnit), feminine of √t-n-n 'sea-dragon'. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/T/TA_NE|TA_NE]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/T/TA_NI_KA|TA_NI_KA]]: Taʿnaku: Taanach (place name); rival a personal name. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/T/TA_NI_KA|TA_NI_KA]]: Taʿnaku: Taanach (place name). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/T/TA_NU_MU_TI|TA_NU_MU_TI]]: ta-nʿum-u-tī: may you (f.) be gracious, favourable. Lexicon, CANDIDATE (tier 2).
 
@@ -65,17 +65,17 @@ updated: 2026-11-19T03:56:49Z
 
 [[wiki/linear-a/words/T/TA_PI_SI_DI|TA_PI_SI_DI]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/T/TA_RA|TA_RA]]: ṯa(ġ)ra: gatekeepers (of the sanctuary); rival Akkadian tārû 'child-minder'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/T/TA_RA|TA_RA]]: ṯa(ġ)ra: gatekeepers (of the sanctuary). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/T/TA_RI_NA|TA_RI_NA]]: Tarinna: Tarinna (Hurrian personal name), stem tarinn-; rivals trn 'mast' and the name trn 'Bearded'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/T/TA_RI_NA|TA_RI_NA]]: Tarinna: Tarinna (Hurrian personal name), stem tarinn-. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/T/TA_SA_ZA|TA_SA_ZA]]: taḫsaz: she remembers. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/T/TA_TA|TA_TA]]: Tatta: Tatta (Hurrian personal name), stem tatt-; rival the Anatolian name Tata. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/T/TA_TA|TA_TA]]: Tatta: Tatta (Hurrian personal name), stem tatt-. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/T/TA_TE_I_KE_ZA_RE|TA_TE_I_KE_ZA_RE]]: ṯāt ʾikezzer: with which one curls (the hair). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/T/TA_TI|TA_TI]]: Tati: personal name; rival tati 'father' (Luwian tati-). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/T/TA_TI|TA_TI]]: Tati: personal name. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/T/TA_U|TA_U]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -85,7 +85,7 @@ updated: 2026-11-19T03:56:49Z
 
 [[wiki/linear-a/words/T/TELA_plus_SE|TELA_plus_SE]]: Unread sign (ligature, component read); 1 occurrence(s).
 
-[[wiki/linear-a/words/T/TELA_plus_TE|TELA_plus_TE]]: Unread sign (ligature, component read); 1 occurrence(s).
+[[wiki/linear-a/words/T/TELA_plus_TE|TELA_plus_TE]]: (logogram): a cloth contribution: the cloth sign with TE, short for terûmā 'contribution'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/T/TELA_plus_star312|TELA_plus_star312]]: (logogram): a kind of cloth: the cloth sign with *312 (BI), short for bitt 'a length of cloth'. Lexicon, CANDIDATE (tier 2).
 
@@ -95,7 +95,7 @@ updated: 2026-11-19T03:56:49Z
 
 [[wiki/linear-a/words/T/TE_JA|TE_JA]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/T/TE_JA_RE|TE_JA_RE]]: Teyar: personal name, 'Merciful (god)'; rival tayyār 'trader'. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/T/TE_JA_RE|TE_JA_RE]]: Teyar: personal name, 'Merciful (god)'. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/T/TE_KE|TE_KE]]: Tegi: Tegi (personal name; spelling of TE-KI). Lexicon, SPECULATIVE (tier 1).
 
@@ -117,13 +117,15 @@ updated: 2026-11-19T03:56:49Z
 
 [[wiki/linear-a/words/T/TE_ZU|TE_ZU]]: Unread (role only): personal name; 1 occurrence(s).
 
+[[wiki/linear-a/words/T/TE_plus_RO|TE_plus_RO]]: Unread sign (ligature, component read); 1 occurrence(s).
+
 [[wiki/linear-a/words/T/TE_star301|TE_star301]]: Tēnā: Fig (personal name); a recipient in allocation lists. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/T/TI|TI]]: tiʾin: figs (logographic abbreviation of tiʾin). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/T/TI_DA_TA|TI_DA_TA]]: ṯidṯīta: sixth, the sixth section. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/T/TI_DI_TE_QA_TI|TI_DI_TE_QA_TI]]: tidī teqaʿti: 'fix it, you have fastened it' (of the pin); rival Tidiʿ-Teqaʿt, personal name 'Teqaʿt knows', after one of the Kotharat. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/T/TI_DI_TE_QA_TI|TI_DI_TE_QA_TI]]: tidī teqaʿti: 'fix it, you have fastened it' (of the pin). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/T/TI_DU|TI_DU]]: ṭiṭṭu: malt, a jar's contents beside honey. Lexicon, SPECULATIVE (tier 1).
 
@@ -133,7 +135,7 @@ updated: 2026-11-19T03:56:49Z
 
 [[wiki/linear-a/words/T/TI_MA|TI_MA]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/T/TI_MA_RU_WI_TE|TI_MA_RU_WI_TE]]: Tīmar-luwwīt: Timar the Levite (f.), priestess (woman's name and title); rival Tamar + WI-TE. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/T/TI_MA_RU_WI_TE|TI_MA_RU_WI_TE]]: Tīmar-luwwīt: Timar the Levite (f.), priestess (woman's name and title). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/T/TI_NI_TA|TI_NI_TA]]: Tinit: Tinit (goddess, = Phoenician Tanit). Lexicon, CONFIRMED (tier 4).
 
@@ -141,7 +143,7 @@ updated: 2026-11-19T03:56:49Z
 
 [[wiki/linear-a/words/T/TI_NI_broken_end|TI_NI_broken_end]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/T/TI_NU_JA|TI_NU_JA]]: Ṯinuya: personal name, 'Second(-born)'; rival Dīnuya. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/T/TI_NU_JA|TI_NU_JA]]: Ṯinuya: personal name, 'Second(-born)'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/T/TI_TI_KU|TI_TI_KU]]: tittuk(u) / tittōk: outpouring, pouring-out—(header) disbursed; (libation) may it be poured. Lexicon, CANDIDATE (tier 2).
 
@@ -159,7 +161,7 @@ updated: 2026-11-19T03:56:49Z
 
 [[wiki/linear-a/words/T/TU|TU]]: ṯawr: bull, cattle (logographic abbreviation of ṯawr; administrative commodity category for bovine livestock/products). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/T/TU_JU_MA|TU_JU_MA]]: Tuʿluma: personal name, 'hidden one'; rival Hurrian talm- 'great' (Talimmu, a merchant's name at Ugarit). Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/T/TU_JU_MA|TU_JU_MA]]: Tuʿluma: personal name, 'hidden one'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/T/TU_MA|TU_MA]]: tūma: twin—birth-circumstance personal name from √t-ʾ-m. Lexicon, CANDIDATE (tier 2).
 
@@ -169,7 +171,7 @@ updated: 2026-11-19T03:56:49Z
 
 [[wiki/linear-a/words/T/TU_ME_PA_JA|TU_ME_PA_JA]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/T/TU_MI_TI_ZA_SE|TU_MI_TI_ZA_SE]]: tumtiṣa-se: for the fighting men (terminative -SE), a troop of 45 on rations; rival tmtt 'team, crew'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/T/TU_MI_TI_ZA_SE|TU_MI_TI_ZA_SE]]: tumtiṣa-se: for the fighting men (terminative -SE), a troop of 45 on rations. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/T/TU_NU|TU_NU]]: Tunu: Tunu (Hurrian personal name, owner's name on a double axe). Lexicon, SPECULATIVE (tier 1).
 

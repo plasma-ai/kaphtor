@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/S/SI_MI_TA
 title: "SI-MI-TA"
-desc: "Śīmat: personal name (f.), on √ś-y-m 'to place, fix'; rival Šimʿat. Lexicon, SPECULATIVE (tier 1)."
+desc: "Śīmat: personal name (f.), on √ś-y-m 'to place, fix'. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "SI-MI-TA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Śīmat |
-| Meaning | personal name (f.), on √ś-y-m 'to place, fix'; rival Šimʿat |
+| Meaning | personal name (f.), on √ś-y-m 'to place, fix' |
 | Root | ś-y-m |
 | Proto-Semitic | \*śVyVm- (#K0500) |
 | Language layer | Semitic |

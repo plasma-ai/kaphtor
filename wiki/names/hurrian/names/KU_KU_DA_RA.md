@@ -1,7 +1,7 @@
 ---
 name: wiki/names/hurrian/names/KU_KU_DA_RA
 title: "KU-KU-DA-RA"
-desc: "Kukkadal: Kukkadal (Hurrian personal name), kukk- + adal 'strong'; rival ḳdr 'dark'. Hurrian, SPECULATIVE."
+desc: "Kukkadal: Kukkadal (Hurrian personal name), kukk- + adal 'strong'. Hurrian, SPECULATIVE."
 tags: ["names", "personal-name", "hurrian"]
 kind: "name"
 form: "KU-KU-DA-RA"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Kukkadal** · Kukkadal (Hurrian personal name), kukk- + adal 'strong'; rival ḳdr 'dark'
+**Kukkadal** · Kukkadal (Hurrian personal name), kukk- + adal 'strong'
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Kukkadal |
-| Meaning | Kukkadal (Hurrian personal name), kukk- + adal 'strong'; rival ḳdr 'dark' |
+| Meaning | Kukkadal (Hurrian personal name), kukk- + adal 'strong' |
 | Language layer | [[wiki/names/hurrian/_index\|Hurrian]] |
 | Reading's standing | SPECULATIVE |
 | Standing as a personal name | SPECULATIVE |
@@ -67,7 +67,7 @@ Read words on the same documents.
 
 | Word | Reading | Meaning |
 |---|---|---|
-| [[wiki/names/semitic/names/MA_KA_RI_TE\|MA-KA-RI-TE]] | makkārītu | merchants (heading of a roster of men); rival 'red (wool)' |
+| [[wiki/names/semitic/names/MA_KA_RI_TE\|MA-KA-RI-TE]] | makkārītu | merchants (heading of a roster of men) |
 | KI-RO | kilʾu | owed, outstanding balance (deficit)—transaction term heading deficit sections |
 | [[wiki/names/semitic/names/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | devotee of Kubaba (Kubaba + -ān-), personal name or title |
 | KU-RO | kull | total, sum (accounting term) |

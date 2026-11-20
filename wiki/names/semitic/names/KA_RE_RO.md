@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/KA_RE_RO
 title: "KA-RE-RO"
-desc: "Kariru: Kariru (personal name, Nuzi Qa-ri-ru, Ka-ri-ru); rival karr- 'ram'. Semitic, SPECULATIVE."
+desc: "Kariru: Kariru (personal name, Nuzi Qa-ri-ru, Ka-ri-ru). Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "KA-RE-RO"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Kariru** · Kariru (personal name, Nuzi Qa-ri-ru, Ka-ri-ru); rival karr- 'ram'
+**Kariru** · Kariru (personal name, Nuzi Qa-ri-ru, Ka-ri-ru)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Kariru |
-| Meaning | Kariru (personal name, Nuzi Qa-ri-ru, Ka-ri-ru); rival karr- 'ram' |
+| Meaning | Kariru (personal name, Nuzi Qa-ri-ru, Ka-ri-ru) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/kariru\|Kariru]] |
 | Reading's standing | SPECULATIVE |

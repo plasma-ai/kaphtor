@@ -27,6 +27,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/A_DE\|A-DE]] | ʾAddē | Father (hypocoristic personal name, ʾAdday); rival the kin title ʾad 'father' | 1 |
+| [[wiki/names/semitic/names/A_DE\|A-DE]] | ʾAddē | Father (hypocoristic personal name, ʾAdday) | 1 |
 
 <!-- END kaphtor:record -->

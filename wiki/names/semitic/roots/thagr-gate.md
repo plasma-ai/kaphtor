@@ -27,6 +27,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/TA_RA\|TA-RA]] | ṯa(ġ)ra | gatekeepers (of the sanctuary); rival Akkadian tārû 'child-minder' | 1 |
+| [[wiki/names/semitic/names/TA_RA\|TA-RA]] | ṯa(ġ)ra | gatekeepers (of the sanctuary) | 1 |
 
 <!-- END kaphtor:record -->

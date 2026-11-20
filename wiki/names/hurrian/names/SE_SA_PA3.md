@@ -1,7 +1,7 @@
 ---
 name: wiki/names/hurrian/names/SE_SA_PA3
 title: "SE-SA-PA₃"
-desc: "Zizapa: Zizapa (Hurrian personal name), ziz- 'chest'; rival Amorite ʿIziz-ab. Hurrian, SPECULATIVE."
+desc: "Zizapa: Zizapa (Hurrian personal name), ziz- 'chest'. Hurrian, SPECULATIVE."
 tags: ["names", "personal-name", "hurrian"]
 kind: "name"
 form: "SE-SA-PA₃"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Zizapa** · Zizapa (Hurrian personal name), ziz- 'chest'; rival Amorite ʿIziz-ab
+**Zizapa** · Zizapa (Hurrian personal name), ziz- 'chest'
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Zizapa |
-| Meaning | Zizapa (Hurrian personal name), ziz- 'chest'; rival Amorite ʿIziz-ab |
+| Meaning | Zizapa (Hurrian personal name), ziz- 'chest' |
 | Language layer | [[wiki/names/hurrian/_index\|Hurrian]] |
 | Reading's standing | SPECULATIVE |
 | Standing as a personal name | SPECULATIVE |

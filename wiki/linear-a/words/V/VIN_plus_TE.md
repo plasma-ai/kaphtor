@@ -34,4 +34,6 @@ A ligature. Status **component read** (a combined sign with a component the lexi
 
 The lexicon reads [[wiki/linear-a/words/V/VIN|VIN]], [[wiki/linear-a/words/T/TE|TE]].
 
+GORILA's A 588, the wine sign with TE inside it, cut on the pithos KN Zb 34 (Pierini 2022, 46–47, fig. 3.8a) and on the pithos rim THE Zb 13.
+
 <!-- END kaphtor:record -->

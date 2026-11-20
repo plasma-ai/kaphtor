@@ -102,7 +102,6 @@ Petrakis and Salgarella (2026, 32, after Docs, 43, 67–70) ask, with 'the highe
 | [[wiki/linear-a/words/R/RA_NA_TU_SU\|RA-NA-TU-SU]] | Rannatušu | SPECULATIVE |
 | [[wiki/linear-a/words/R/RA_O_DI_KI\|RA-O-DI-KI]] | rāʿû diqqi | SPECULATIVE |
 | [[wiki/linear-a/words/R/RA_TI_SE\|RA-TI-SE]] | Ratis | SPECULATIVE |
-| [[wiki/linear-a/words/S/SA_RA\|SA-RA]] | šarra | CANDIDATE |
 | [[wiki/linear-a/words/S/SA_RA_DI\|SA-RA-DI]] | šalardi | CANDIDATE |
 | [[wiki/linear-a/words/S/SA_RA_RA\|SA-RA-RA]] | ṣarār- | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_plus_SE_RA_plus_KA\|SI+SE-RA+KA]] | šeraka | SPECULATIVE |

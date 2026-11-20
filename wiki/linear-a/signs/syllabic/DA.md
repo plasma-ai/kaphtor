@@ -105,6 +105,7 @@ Rival for the d-series: a dental fricative /θ/, said \[θ\] or \[ð\], from DU-
 | [[wiki/linear-a/words/M/MI_DA_NI\|MI-DA-NI]] | mitāni | SPECULATIVE |
 | [[wiki/linear-a/words/M/MI_DA_RU_RA\|MI-DA-RU-RA]] | midrara | CANDIDATE |
 | [[wiki/linear-a/words/N/NA_DA_RE\|NA-DA-RE]] | Nadr | PROBABLE |
+| [[wiki/linear-a/words/P/PA_DA_SU_TI\|PA-DA-SU-TI]] | Parʿōš-ti | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_TA_DA\|PA-TA-DA]] | Patada | CANDIDATE |
 | [[wiki/linear-a/words/Q/QA_QA_DA\|QA-QA-DA]] | qaqqadu | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_TI_DA_TE\|QA-TI-DA-TE]] | Kati-tati | SPECULATIVE |

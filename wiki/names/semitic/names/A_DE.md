@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/A_DE
 title: "A-DE"
-desc: "ʾAddē: Father (hypocoristic personal name, ʾAdday); rival the kin title ʾad 'father'. Semitic, SPECULATIVE."
+desc: "ʾAddē: Father (hypocoristic personal name, ʾAdday). Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "A-DE"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**ʾAddē** · Father (hypocoristic personal name, ʾAdday); rival the kin title ʾad 'father'
+**ʾAddē** · Father (hypocoristic personal name, ʾAdday)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | ʾAddē |
-| Meaning | Father (hypocoristic personal name, ʾAdday); rival the kin title ʾad 'father' |
+| Meaning | Father (hypocoristic personal name, ʾAdday) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/alef-d\|ʾ-d]] |
 | Proto-Semitic | \*ʾad- (#2567) |
@@ -40,7 +40,7 @@ ZA 10b .4 A-DE 4, whole, between SA-MA 5 and A-MI-TA ʾamita 'handmaid' 3, in a 
 
 ## As a name
 
-ʾAddē 'Father', the Ugaritic name ʾady, syll. a-da-a-a (DULAT 23), with -ay contracted to -ē. ZA 10b also counts U-\*49 ʾummi 'mother'.
+ʾAddē 'Father', the Ugaritic name ʾady, syll. a-da-a-a (DULAT 23), with -ay contracted to -ē. ZA 10b also counts U-\*49 ʾummi 'mother'. Rival: the kin title ʾad 'father'.
 
 ## Cognates
 

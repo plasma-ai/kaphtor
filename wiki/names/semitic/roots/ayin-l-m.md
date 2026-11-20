@@ -27,6 +27,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/TU_JU_MA\|TU-JU-MA]] | Tuʿluma | personal name, 'hidden one'; rival Hurrian talm- 'great' (Talimmu, a merchant's name at Ugarit) | 1 |
+| [[wiki/names/semitic/names/TU_JU_MA\|TU-JU-MA]] | Tuʿluma | personal name, 'hidden one' | 1 |
 
 <!-- END kaphtor:record -->

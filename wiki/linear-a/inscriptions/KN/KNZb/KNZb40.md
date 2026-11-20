@@ -75,6 +75,6 @@ Popham 1976; Owens 1998–99, 147–48; Tropper §81.11a; ORACC P273162, P338383
 
 ## Corpus note
 
-Two complete three-sign groups are incised on separate lines: A-PA-KI / U-NA-A. A-PA-KI is tentatively read /ʾabkī/ 'I weep', the G prefix form; the Akkadian G present a-bak-ki, /ʾabakki/, is the rival. U-NA-A is compared speculatively with Ugaritic hnh 'hither' (perhaps hn plus terminative -h; Tropper §81.11a). On that analysis the final A may write the vowel after an unrepresented /h/, rather than vowel length. The complete translation remains speculative. Datable to LM II (Popham 1976, apud Salgarella 2020, 43).
+Two complete three-sign groups are incised on separate lines: A-PA-KI / U-NA-A. A-PA-KI is tentatively read /ʾabkī/ 'I weep', the G prefix form; the Akkadian G present a-bak-ki, /ʾabakki/, is the rival. U-NA-A is compared speculatively with Ugaritic hnh 'hither' (perhaps hn plus terminative -h; Tropper §81.11a). On that analysis the final A may write the vowel after an unrepresented /h/, rather than vowel length. The complete translation remains speculative. Datable to LM II (Popham 1976, apud Salgarella 2020, 43): the jar lay in the LM II destruction of the Unexplored Mansion; by its style it is LM I, and Owens holds it 'most likely' inscribed in LM IB (1999, 147–148).
 
 <!-- END kaphtor:record -->

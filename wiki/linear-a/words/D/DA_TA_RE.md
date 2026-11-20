@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/D/DA_TA_RE
 title: "DA-TA-RE"
-desc: "Daṯar: Old (man's name); rival 'He of the gate'. Onomasticon personal name; lexicon entry DA-TA-RA."
+desc: "Daṯar: Old (man's name). Onomasticon personal name; lexicon entry DA-TA-RA."
 tags: ["linear-a", "word"]
 kind: "word"
 form: "DA-TA-RE"
@@ -39,7 +39,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Daṯar |
-| Meaning | Old (man's name); rival 'He of the gate' |
+| Meaning | Old (man's name) |
 | Type | personal name (SPECULATIVE) |
 | Affiliation | semitic (SPECULATIVE) |
 | Evidence | lexicon_reading |

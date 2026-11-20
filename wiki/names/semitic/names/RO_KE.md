@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/RO_KE
 title: "RO-KE"
-desc: "rōqēaḥ: perfumer (title); rival rōkēl 'trader, merchant'. Semitic, SPECULATIVE."
+desc: "rōqēaḥ: perfumer (title). Semitic, SPECULATIVE."
 tags: ["names", "title", "semitic"]
 kind: "name"
 form: "RO-KE"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**rōqēaḥ** · perfumer (title); rival rōkēl 'trader, merchant'
+**rōqēaḥ** · perfumer (title)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/titles\|Title]] |
 | Reading | rōqēaḥ |
-| Meaning | perfumer (title); rival rōkēl 'trader, merchant' |
+| Meaning | perfumer (title) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/r-q-hh\|r-q-ḥ]] |
 | Proto-Semitic | \*rVḳVḥ- (#S15) |
@@ -40,7 +40,7 @@ HT 98a .4 RO-KE ½, whole and undotted, between TE-\*301 ¾ and KA-RI-\*310-I ¼
 
 ## As a name
 
-HT 98a .4 RO-KE ½, in a list of fractional issues (GORILA I 161). Ugarit rqḥ 'perfumer' (DULAT 734). See the lexicon entry.
+HT 98a .4 RO-KE ½, in a list of fractional issues (GORILA I 161). Ugarit rqḥ 'perfumer' (DULAT 734). See the lexicon entry. Rival: rōkēl 'trader, merchant'.
 
 ## Cognates
 

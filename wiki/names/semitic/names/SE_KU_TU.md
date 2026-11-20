@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/SE_KU_TU
 title: "SE-KU-TU"
-desc: "Šakūtu: personal name, 'Calm, at rest'; rival Zakūtu 'pure, innocent'. Semitic, SPECULATIVE."
+desc: "Šakūtu: personal name, 'Calm, at rest'. Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "SE-KU-TU"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Šakūtu** · personal name, 'Calm, at rest'; rival Zakūtu 'pure, innocent'
+**Šakūtu** · personal name, 'Calm, at rest'
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Šakūtu |
-| Meaning | personal name, 'Calm, at rest'; rival Zakūtu 'pure, innocent' |
+| Meaning | personal name, 'Calm, at rest' |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/sh-k-t\|š-k-t]] |
 | Proto-Semitic | \*škt (#3250) |

@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/MA_KA_I_SE
 title: "MA-KA-I-SE"
-desc: "Makī-se: personal name: Makī with the Zakros -SE; Amorite maqīm 'Established'; rival the Egyptian name mkj. Semitic, SPECULATIVE."
+desc: "Makī-se: personal name: Makī with the Zakros -SE; Amorite maqīm 'Established'. Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "MA-KA-I-SE"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Makī-se** · personal name: Makī with the Zakros -SE; Amorite maqīm 'Established'; rival the Egyptian name mkj
+**Makī-se** · personal name: Makī with the Zakros -SE; Amorite maqīm 'Established'
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Makī-se |
-| Meaning | personal name: Makī with the Zakros -SE; Amorite maqīm 'Established'; rival the Egyptian name mkj |
+| Meaning | personal name: Makī with the Zakros -SE; Amorite maqīm 'Established' |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/q-w-m\|q-w-m]] |
 | Proto-Semitic | \*ḳVwVm- (#1134) |

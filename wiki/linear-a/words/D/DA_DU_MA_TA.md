@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/D/DA_DU_MA_TA
 title: "DA-DU-MA-TA"
-desc: "dadmatu: settlement(s), district (heading of a grain list); rival 'beloved land'. Lexicon, CANDIDATE (tier 2)."
+desc: "dadmatu: settlement(s), district (heading of a grain list). Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "administrative", "hapax", "noun"]
 kind: "word"
 form: "DA-DU-MA-TA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | dadmatu |
-| Meaning | settlement(s), district (heading of a grain list); rival 'beloved land' |
+| Meaning | settlement(s), district (heading of a grain list) |
 | Root | d-d-m (PS \*damdam-) |
 | Proto-Semitic | \*daym(-ūm)- ~ \*damdam- ~ \*ʾadam(-at)- (#1845) |
 | Language layer | Semitic |

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/A/A_SU_PU_WA
 title: "A-SU-PU-WA"
-desc: "ʾasuppūa: store(house), an entry under SI-DA-TE 'provisions'; rival a personal designation in -uwa. Lexicon, SPECULATIVE (tier 1)."
+desc: "ʾasuppūa: store(house), an entry under SI-DA-TE 'provisions'. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "administrative", "hapax", "noun"]
 kind: "word"
 form: "A-SU-PU-WA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʾasuppūa |
-| Meaning | store(house), an entry under SI-DA-TE 'provisions'; rival a personal designation in -uwa |
+| Meaning | store(house), an entry under SI-DA-TE 'provisions' |
 | Root | ʾ-s-p |
 | Proto-Semitic | \*ʾasupp- (#3870) |
 | Language layer | Semitic |

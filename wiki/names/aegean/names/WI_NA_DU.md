@@ -66,7 +66,7 @@ Read words on the same documents.
 
 | Word | Reading | Meaning |
 |---|---|---|
-| [[wiki/names/semitic/names/A_RA_U_DA\|A-RA-U-DA]] | ʾArwada | Arwad (island city of the Phoenician coast), the home of the man named before it; rival a personal name, Ugaritic ảrwd(n) |
-| [[wiki/names/hurrian/names/KU_PA_ZU\|KU-PA-ZU]] | Kapizzi | Kapizzi (Hurrian personal name), 'kapizzi-jewel'; rival kupṯu 'headdress' |
+| [[wiki/names/semitic/names/A_RA_U_DA\|A-RA-U-DA]] | ʾArwada | Arwad (island city of the Phoenician coast), the home of the man named before it |
+| [[wiki/names/hurrian/names/KU_PA_ZU\|KU-PA-ZU]] | Kapizzi | Kapizzi (Hurrian personal name), 'kapizzi-jewel' |
 
 <!-- END kaphtor:record -->

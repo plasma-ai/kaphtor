@@ -31,4 +31,6 @@ updated: 2026-11-12T00:26:03Z
 
 A logogram. Status **unread** (nothing on file).
 
+THE 12, a fragment from Akrotiri Δ18: SigLA codes its one sign AB 22f, the she-goat; Younger reads \]OLE\[. The drawing has a short bar, a diagonal under it and a long stem bowed to the left, three strokes that do not join; the photograph held shows no more. Neither reading is confirmed.
+
 <!-- END kaphtor:record -->

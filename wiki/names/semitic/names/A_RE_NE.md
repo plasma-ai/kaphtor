@@ -66,7 +66,7 @@ Read words on the same documents.
 
 | Word | Reading | Meaning |
 |---|---|---|
-| [[wiki/names/semitic/names/SI_DI_star301\|SI-DI-\*301]] | Ṣidna | Sidon (place name); rival Ṣīd-nā 'our Ṣid' |
+| [[wiki/names/semitic/names/SI_DI_star301\|SI-DI-\*301]] | Ṣidna | Sidon (place name) |
 | [[wiki/names/semitic/names/A_JA_KU\|A-JA-KU]] | ʾAyaku | personal name ('Where are you?') |
 
 <!-- END kaphtor:record -->

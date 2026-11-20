@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/A/A_RO_TE
 title: "A-RO-TE"
-desc: "Ḫaluti: Ḫaluti (woman's name, seal owner); rival ʾālôt 'oaths, curses'. Lexicon, SPECULATIVE (tier 1)."
+desc: "Ḫaluti: Ḫaluti (woman's name, seal owner). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "A-RO-TE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Ḫaluti |
-| Meaning | Ḫaluti (woman's name, seal owner); rival ʾālôt 'oaths, curses' |
+| Meaning | Ḫaluti (woman's name, seal owner) |
 | Language layer | Hurrian |
 | Tags | hapax, personal_name |
 | Semantic field | personal_name |

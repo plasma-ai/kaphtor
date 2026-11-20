@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/U/U_star49
 title: "U-*49"
-desc: "ʾummi: mother; rivals Akk. ummu 'capital', u- 'and' + PALM/TREE. Lexicon, SPECULATIVE (tier 1)."
+desc: "ʾummi: mother. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "kinship", "noun"]
 kind: "word"
 form: "U-*49"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʾummi |
-| Meaning | mother; rivals Akk. ummu 'capital', u- 'and' + PALM/TREE |
+| Meaning | mother |
 | Root | ʾ-m-m |
 | Proto-Semitic | \*ʾu/imm- (#1839) |
 | Language layer | Semitic |

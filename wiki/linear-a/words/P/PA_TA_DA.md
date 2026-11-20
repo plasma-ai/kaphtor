@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/P/PA_TA_DA
 title: "PA-TA-DA"
-desc: "Patada: personal name; Egyptian Ptḥ-dj(⸗f) 'Ptah gives'; rival Hurrian pṭḏ (Ugarit). Lexicon, CANDIDATE (tier 2)."
+desc: "Patada: personal name; Egyptian Ptḥ-dj(⸗f) 'Ptah gives'. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "compound", "personal_name"]
 kind: "word"
 form: "PA-TA-DA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Patada |
-| Meaning | personal name; Egyptian Ptḥ-dj(⸗f) 'Ptah gives'; rival Hurrian pṭḏ (Ugarit) |
+| Meaning | personal name; Egyptian Ptḥ-dj(⸗f) 'Ptah gives' |
 | Language layer | Middle Egyptian |
 | Tags | compound, personal_name |
 | Semantic field | personal_name |

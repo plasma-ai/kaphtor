@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/K/KU_PA_RI
 title: "KU-PA-RI"
-desc: "kuparī: the villages, a group of men drawing grain; rival kaparrī 'junior shepherds'. Lexicon, SPECULATIVE (tier 1)."
+desc: "kuparī: the villages, a group of men drawing grain. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "noun", "personnel"]
 kind: "word"
 form: "KU-PA-RI"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | kuparī |
-| Meaning | the villages, a group of men drawing grain; rival kaparrī 'junior shepherds' |
+| Meaning | the villages, a group of men drawing grain |
 | Root | k-p-r |
 | Proto-Semitic | \*kapār- (#K0100) |
 | Language layer | Semitic |

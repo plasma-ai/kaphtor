@@ -1,7 +1,7 @@
 ---
 name: wiki/names/hurrian/names/SA_TA
 title: "SA-TA"
-desc: "Šata: Šata (personal name, heading the second section); rival śadā '(those of) the field'. Hurrian, SPECULATIVE."
+desc: "Šata: Šata (personal name, heading the second section). Hurrian, SPECULATIVE."
 tags: ["names", "personal-name", "hurrian"]
 kind: "name"
 form: "SA-TA"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Šata** · Šata (personal name, heading the second section); rival śadā '(those of) the field'
+**Šata** · Šata (personal name, heading the second section)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Šata |
-| Meaning | Šata (personal name, heading the second section); rival śadā '(those of) the field' |
+| Meaning | Šata (personal name, heading the second section) |
 | Language layer | [[wiki/names/hurrian/_index\|Hurrian]] |
 | Reading's standing | SPECULATIVE |
 | Standing as a personal name | SPECULATIVE |
@@ -63,7 +63,7 @@ Read words on the same documents.
 
 | Word | Reading | Meaning |
 |---|---|---|
-| [[wiki/names/semitic/names/MA_KA_RI_TE\|MA-KA-RI-TE]] | makkārītu | merchants (heading of a roster of men); rival 'red (wool)' |
+| [[wiki/names/semitic/names/MA_KA_RI_TE\|MA-KA-RI-TE]] | makkārītu | merchants (heading of a roster of men) |
 | KI-RO | kilʾu | owed, outstanding balance (deficit)—transaction term heading deficit sections |
 | [[wiki/names/semitic/names/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | devotee of Kubaba (Kubaba + -ān-), personal name or title |
 | KU-RO | kull | total, sum (accounting term) |

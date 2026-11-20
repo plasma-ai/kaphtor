@@ -26,6 +26,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/SA_RE_JU\|SA-RE-JU]] | Šarr-ēlu | personal name, 'El is king'; rival Hurrian Šar-elli | 1 |
+| [[wiki/names/semitic/names/SA_RE_JU\|SA-RE-JU]] | Šarr-ēlu | personal name, 'El is king' | 1 |
 
 <!-- END kaphtor:record -->

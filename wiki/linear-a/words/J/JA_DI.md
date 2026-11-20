@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/J/JA_DI
 title: "JA-DI"
-desc: "Yadi: Hand (personal name); rivals Yadīn 'he judges', Yadiʿ 'he knows', Ugarit ydy 'may (the god) establish'. Lexicon, SPECULATIVE (tier 1)."
+desc: "Yadi: Hand (personal name). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "JA-DI"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Yadi |
-| Meaning | Hand (personal name); rivals Yadīn 'he judges', Yadiʿ 'he knows', Ugarit ydy 'may (the god) establish' |
+| Meaning | Hand (personal name) |
 | Root | y-d |
 | Proto-Semitic | \*yad- ~ \*ʾid- (#2046) |
 | Language layer | Semitic |
@@ -80,6 +80,6 @@ di Mino; Gelb 1980; Watson 1996b; Kinlaw 1967
 
 ### Note
 
-Yadi 'Hand', the Amorite name IA-DI-IM (Gelb 1980, no. 3205), on a roundel with RO rōš.
+Yadi 'Hand', the Amorite name IA-DI-IM (Gelb 1980, no. 3205), on a roundel with RO rōš. Rivals: Yadīn 'he judges', Yadiʿ 'he knows', Ugarit ydy 'may (the god) establish'.
 
 <!-- END kaphtor:record -->

@@ -2,14 +2,16 @@
 name: wiki/linear-a/words/W
 desc: "Words whose first sign begins with W."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-18T22:43:41Z
+updated: 2026-11-20T18:45:39Z
 ---
 
 # wiki/linear-a/words/W
 
 [[wiki/linear-a/words/_index|..]]
 
-[[wiki/linear-a/words/W/WA|WA]]: (logogram): cloth (logogram, standing alone before a quantity); rival wayn 'wine'. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/W/WA|WA]]: (logogram): cloth (logogram, standing alone before a quantity). Lexicon, CANDIDATE (tier 2).
+
+[[wiki/linear-a/words/W/WA_DI_NI|WA_DI_NI]]: Waḏnī: personal name, as Ugaritic wḏny. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/W/WA_DU_NI_MI|WA_DU_NI_MI]]: ʾadunim / ʾadunīm: (to) the lord / lords—recipient entry; written only as WA-DU-NI-MI 'and (to) the lord(s)'. Onomasticon title; lexicon entry DU-NI-MI.
 
@@ -23,7 +25,7 @@ updated: 2026-11-18T22:43:41Z
 
 [[wiki/linear-a/words/W/WA_star362|WA_star362]]: waynu: wine, spelled out before the must on a Zakros wine tablet. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/W/WBQY|WBQY]]: wa-baqq-: rot, the disease addressed (wa- + baqq-); rival bōhaq. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/W/WBQY|WBQY]]: wa-baqq-: rot, the disease addressed (wa- + baqq-). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/W/WI|WI]]: Unread sign (syllabogram, value on file); 3 occurrence(s).
 
@@ -43,7 +45,7 @@ updated: 2026-11-18T22:43:41Z
 
 [[wiki/linear-a/words/W/WI_SA|WI_SA]]: Wisa: Wisa (personal name). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/W/WI_SA_SA_NE|WI_SA_SA_NE]]: Wiššān: Sleepy (personal name); rival √y-š-š 'aged'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/W/WI_SA_SA_NE|WI_SA_SA_NE]]: Wiššān: Sleepy (personal name). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/W/WI_TE_JA_MU|WI_TE_JA_MU]]: Widd-tiyāmu: Beloved of the Deep (title or name). Lexicon, SPECULATIVE (tier 1).
 

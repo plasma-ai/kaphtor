@@ -1,7 +1,7 @@
 ---
 name: wiki/names/egyptian/names/I_KU_TA
 title: "I-KU-TA"
-desc: "Ḥikuptaḥ: place name: Memphis, the seat of Kothar (Ug. Ḥkpt), a recipient of cyperus; rival 'the Memphite'. Egyptian, SPECULATIVE."
+desc: "Ḥikuptaḥ: place name: Memphis, the seat of Kothar (Ug. Ḥkpt), a recipient of cyperus. Egyptian, SPECULATIVE."
 tags: ["names", "place-name", "egyptian"]
 kind: "name"
 form: "I-KU-TA"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Ḥikuptaḥ** · place name: Memphis, the seat of Kothar (Ug. Ḥkpt), a recipient of cyperus; rival 'the Memphite'
+**Ḥikuptaḥ** · place name: Memphis, the seat of Kothar (Ug. Ḥkpt), a recipient of cyperus
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/places\|Place name]] |
 | Reading | Ḥikuptaḥ |
-| Meaning | place name: Memphis, the seat of Kothar (Ug. Ḥkpt), a recipient of cyperus; rival 'the Memphite' |
+| Meaning | place name: Memphis, the seat of Kothar (Ug. Ḥkpt), a recipient of cyperus |
 | Language layer | [[wiki/names/egyptian/_index\|Egyptian]] |
 | Reading's standing | SPECULATIVE |
 | Standing as a place name | SPECULATIVE |
@@ -34,11 +34,11 @@ updated: 2026-11-11T23:39:03Z
 
 ## Note
 
-HT 35 .1 I-KU-TA at the end of the line after TI-TI-KU · \*326 ·, its entry CYP 1 at the head of .2 (GORILA I 67); all three signs whole and undotted. ḥi-ku(p)-ta(ḥ): I writes ḥi with the guttural dropped, the coda p and the final ḥ unwritten. The Byblos letter EA 139:8 also leaves the p unwritten, ḫi-ku-ta-aḫ, where EA 84:37 has ḫi-ku-up-ta-aḫ (Belmonte, RGTC 12/2, 105). Ugaritic Ḥkpt is the seat of Kothar, Egyptian ḥwt-kꜣ-ptḥ (DULAT 353). Linear B i-ku-to is a man in the dative at Mycenae (MY Oi 705.1). One witness.
+HT 35 .1 I-KU-TA at the end of the line after TI-TI-KU · \*326 ·, its entry CYP 1 at the head of .2 (GORILA I 67); all three signs whole and undotted. ḥi-ku(p)-ta(ḥ): I writes ḥi with the guttural dropped, the coda p and the final ḥ unwritten. The Byblos letter EA 139:8 also leaves the p unwritten, ḫi-ku-ta-aḫ, where EA 84:37 has ḫi-ku-up-ta-aḫ (Belmonte, RGTC 12/2, 105). Ugaritic Ḥkpt is the seat of Kothar, Egyptian ḥwt-kꜣ-ptḥ (DULAT 353). Linear B i-ku-to is a man in the dative at Mycenae (MY Oi 705.1). One witness. Rival: 'the Memphite'.
 
 ## As a name
 
-HT 35 .1 I-KU-TA CYP 1 (GORILA I 67). ḥi-ku(p)-ta(ḥ), with the coda p and final ḥ unwritten; the Byblos letter EA 139:8 also writes hi-ku-ta-ah (Belmonte, RGTC 12/2, 105). Ugaritic Ḥkpt, the seat of Kothar, Egyptian ḥwt-kꜣ-ptḥ (DULAT 353); Linear B i-ku-to (MY Oi 705.1). One witness.
+HT 35 .1 I-KU-TA CYP 1 (GORILA I 67). ḥi-ku(p)-ta(ḥ), with the coda p and final ḥ unwritten; the Byblos letter EA 139:8 also writes hi-ku-ta-ah (Belmonte, RGTC 12/2, 105). Ugaritic Ḥkpt, the seat of Kothar, Egyptian ḥwt-kꜣ-ptḥ (DULAT 353); Linear B i-ku-to (MY Oi 705.1). One witness. Rival: 'the Memphite'.
 
 ## Cognates
 

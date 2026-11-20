@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/PI_RU_E_JU
 title: "PI-RU-E-JU"
-desc: "Pirʾu-ʾēlu: personal name, 'Offspring of El'; rival 'Fruit of El'. Semitic, SPECULATIVE."
+desc: "Pirʾu-ʾēlu: personal name, 'Offspring of El'. Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "PI-RU-E-JU"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Pirʾu-ʾēlu** · personal name, 'Offspring of El'; rival 'Fruit of El'
+**Pirʾu-ʾēlu** · personal name, 'Offspring of El'
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Pirʾu-ʾēlu |
-| Meaning | personal name, 'Offspring of El'; rival 'Fruit of El' |
+| Meaning | personal name, 'Offspring of El' |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/p-r-gh\|p-r-ɣ]] + [[wiki/names/semitic/roots/alef-l\|ʾ-l]] |
 | Proto-Semitic | \*pirɣ- (#3194), \*ʾil- (#2719) |

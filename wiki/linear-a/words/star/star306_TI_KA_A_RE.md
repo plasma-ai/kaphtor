@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/star/star306_TI_KA_A_RE
 title: "*306-TI-KA-A-RE"
-desc: "ʿatīq+are: the ancient, the noble (heading); rival 'became fertile'. Lexicon, CANDIDATE (tier 2)."
+desc: "ʿatīq+are: the ancient, the noble (heading). Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "adjective", "administrative", "hapax"]
 kind: "word"
 form: "*306-TI-KA-A-RE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʿatīq+are |
-| Meaning | the ancient, the noble (heading); rival 'became fertile' |
+| Meaning | the ancient, the noble (heading) |
 | Root | ʿ-t-q |
 | Proto-Semitic | \*ʕatVq- (#2658) |
 | Language layer | Semitic |

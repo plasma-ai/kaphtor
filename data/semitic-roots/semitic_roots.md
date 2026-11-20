@@ -52,8 +52,10 @@ by headword), Ricks 1982 (*A Lexicon of Epigraphic Qatabanian*, by headword; not
 Rubin 2018 (*Omani Mehri*, CC BY-NC-ND 4.0, by page), Al-Jallad 2026 (*Dictionary of the Inscriptions of Ancient
 North Arabia I: Safaitic*, CC BY-NC-ND 4.0, by page), Al-Jallad 2026b (*Dictionary of the Inscriptions of Ancient
 North Arabia II: Taymanitic*, CC BY-NC 4.0, by page) and Tāj or TA (*Tāj al-ʿArūs*, by volume:page). Sabaweb is
-the Sabaic dictionary of the Universität Jena (N. Nebes, 2012–2024, © Friedrich-Schiller-Universität Jena), cited by
-lemma number, its glosses withheld. Dillmann's *Lexicon linguae aethiopicae* (1865, public domain) was read in the
+the Sabaic dictionary of the Universität Jena (N. Nebes, 2012–2024), cited by lemma number. The project's final
+report to the DFG (NE 371/10, §3.6) puts the data published on the site under CC BY-SA 4.0; the site's own pages
+state no licence and carry © Friedrich-Schiller-Universität Jena. Its reflexes are classed `closed` and their glosses
+withheld, so that this file takes on no share-alike term. Dillmann's *Lexicon linguae aethiopicae* (1865, public domain) was read in the
 TraCES digitization (github.com/BetaMasaheft/DillmannData, CC BY-NC-SA 4.0) and is cited by that edition's entry
 number; the glosses beside those forms are our English.
 

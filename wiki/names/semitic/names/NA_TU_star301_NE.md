@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/NA_TU_star301_NE
 title: "NA-TU-*301-NE"
-desc: "natūnān: the dedicated one (qatūl passive participle of √n-t-n + -ān); rival nātānān 'the giver'. Semitic, PROBABLE."
+desc: "natūnān: the dedicated one (qatūl passive participle of √n-t-n + -ān). Semitic, PROBABLE."
 tags: ["names", "title", "semitic"]
 kind: "name"
 form: "NA-TU-*301-NE"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**natūnān** · the dedicated one (qatūl passive participle of √n-t-n + -ān); rival nātānān 'the giver'
+**natūnān** · the dedicated one (qatūl passive participle of √n-t-n + -ān)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/titles\|Title]] |
 | Reading | natūnān |
-| Meaning | the dedicated one (qatūl passive participle of √n-t-n + -ān); rival nātānān 'the giver' |
+| Meaning | the dedicated one (qatūl passive participle of √n-t-n + -ān) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/n-t-n\|n-t-n]] |
 | Proto-Semitic | \*ytn ~ \*ntn (#2608) |
@@ -37,6 +37,10 @@ updated: 2026-11-11T23:39:03Z
 ## Note
 
 SKO Zc 1, an inked inscription from the Skoteino cave, broken on both sides: NA-TU-\*301-NE, with \*301 = na (288 occurrences at 16 sites), so na-tū-nā-n(e), the final E dead. natūnān 'the dedicated one', the qatūl passive participle of √n-t-n 'to give' with -ān, TU for the ū. Compare Heb. nĕtūnīm 'given ones', the Levites given to sanctuary service (Num 3:9), and the post-exilic Nĕtīnīm, temple servants (Ezra 2:43; 8:20; 1 Chr 9:2), an institution traced to the Gibeonites (Josh 9:27). Ugarit has the class: spr ytnm 'register of the ytnm' (KTU 4.93:1; DULAT 977). Ug. ntn, ttn /tatinū/ 'to give', BH nātan (Huehnergard 2012, 52; App. C, 6–7). Rival: nātānān 'the giver', the qātāl active participle with -ān, a title of the Goddess at a cave sanctuary, beside A-TA-NA-TE ʾAtanat 'She-who-gives' (√y-t-n). One attestation. See MA-TI-TI.
+
+## As a name
+
+Rival: nātānān 'the giver'.
 
 ## Cognates
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/T/TA_NI_KA
 title: "TA-NI-KA"
-desc: "Taʿnaku: Taanach (place name); rival a personal name. Lexicon, SPECULATIVE (tier 1)."
+desc: "Taʿnaku: Taanach (place name). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "toponym", "toponym_foreign"]
 kind: "word"
 form: "TA-NI-KA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Taʿnaku |
-| Meaning | Taanach (place name); rival a personal name |
+| Meaning | Taanach (place name) |
 | Root | ʿ-n-k (taqtal) |
 | Proto-Semitic | \*ʕnk (#4414) |
 | Language layer | Semitic |
@@ -83,6 +83,6 @@ Moran 1992, EA 248:14; di Mino; HALOT
 
 ### Note
 
-Roundel label at Haghia Triada (HT Wc 3004, 3005). Amarna URU Taḫnaka, EA 248:14 (Moran 1992); Hebrew תַּעְנַךְ Taʿnak, t-ʿ-n-k with ʿ unwritten; NI against the a of Taʿnak. Place-name function on roundels unproved.
+Roundel label at Haghia Triada (HT Wc 3004, 3005). Amarna URU Taḫnaka, EA 248:14 (Moran 1992); Hebrew תַּעְנַךְ Taʿnak, t-ʿ-n-k with ʿ unwritten; NI against the a of Taʿnak. Place-name function on roundels unproved. Rival: a personal name.
 
 <!-- END kaphtor:record -->

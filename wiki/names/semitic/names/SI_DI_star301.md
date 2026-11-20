@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/SI_DI_star301
 title: "SI-DI-*301"
-desc: "Ṣidna: Sidon (place name); rival Ṣīd-nā 'our Ṣid'. Semitic, SPECULATIVE."
+desc: "Ṣidna: Sidon (place name). Semitic, SPECULATIVE."
 tags: ["names", "place-name", "semitic"]
 kind: "name"
 form: "SI-DI-*301"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Ṣidna** · Sidon (place name); rival Ṣīd-nā 'our Ṣid'
+**Ṣidna** · Sidon (place name)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/places\|Place name]] |
 | Reading | Ṣidna |
-| Meaning | Sidon (place name); rival Ṣīd-nā 'our Ṣid' |
+| Meaning | Sidon (place name) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/ss-d-n\|ṣ-d-n]] |
 | Reading's standing | SPECULATIVE |
@@ -39,7 +39,7 @@ KN Zf 13, signs 4–6, after A-RE-NE ʾAren, the owner's name: 'Aren of Sidon'. 
 
 ## As a name
 
-KN Zf 13, signs 4–6 of the gold ring's spiral, after A-RE-NE ʾAren: 'Aren of Sidon'; rival 'Ark of Sidon'. DI a dead vowel, Ṣidn-a; the -a is Sidon's own spelling, ᵘʳᵘṢi₂-du-na (EA 144:5, 11; RGTC 12/2, 248); Ugaritic ṣdyn /Ṣidyān/ (DULAT 769). See the lexicon entry.
+KN Zf 13, signs 4–6 of the gold ring's spiral, after A-RE-NE ʾAren: 'Aren of Sidon'; rival 'Ark of Sidon'. DI a dead vowel, Ṣidn-a; the -a is Sidon's own spelling, ᵘʳᵘṢi₂-du-na (EA 144:5, 11; RGTC 12/2, 248); Ugaritic ṣdyn /Ṣidyān/ (DULAT 769). See the lexicon entry. Rival: Ṣīd-nā 'our Ṣid'.
 
 ## Cognates
 

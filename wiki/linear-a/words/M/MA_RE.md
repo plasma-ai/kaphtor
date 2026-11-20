@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/M/MA_RE
 title: "MA-RE"
-desc: "mārē: lord, master (title, an entry in a KI-RO roster); rival a personal name. Lexicon, SPECULATIVE (tier 1)."
+desc: "mārē: lord, master (title, an entry in a KI-RO roster). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "noun", "title"]
 kind: "word"
 form: "MA-RE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | mārē |
-| Meaning | lord, master (title, an entry in a KI-RO roster); rival a personal name |
+| Meaning | lord, master (title, an entry in a KI-RO roster) |
 | Root | m-r-ʾ |
 | Proto-Semitic | \*marʾ- (#53) |
 | Language layer | Semitic |

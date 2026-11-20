@@ -54,6 +54,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/J/JA_SU_MA_TU\|JA-SU-MA-TU]] | yā Šumāt | CANDIDATE |
 | [[wiki/linear-a/words/K/KU_NI_SU\|KU-NI-SU]] | kunīšu | PROBABLE |
 | [[wiki/linear-a/words/O/O_SU_QA_RE\|O-SU-QA-RE]] | ʾō Sōkar | CANDIDATE |
+| [[wiki/linear-a/words/P/PA_DA_SU_TI\|PA-DA-SU-TI]] | Parʿōš-ti | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_RO_SU\|PA-RO-SU]] | Parʿōš | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QE_SU_PU\|QE-SU-PU]] | qaššāpu | CANDIDATE |
 | [[wiki/linear-a/words/R/RA_NA_TU_SU\|RA-NA-TU-SU]] | Rannatušu | SPECULATIVE |
@@ -66,7 +67,6 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/S/SU_PU\|SU-PU]] | suppu | CONFIRMED |
 | [[wiki/linear-a/words/S/SU_PU2\|SU-PU₂]] | Ṣubʾu | SPECULATIVE |
 | [[wiki/linear-a/words/S/SU_PU2_star188\|SU-PU₂-\*188]] | suppu buṭni | CANDIDATE |
-| [[wiki/linear-a/words/T/TA_NA_SU_TE_KE\|TA-NA-SU-TE-KE]] | tanašutē-kī | CANDIDATE |
 | [[wiki/linear-a/words/T/TE_SU_DE_SE_KE_I\|TE-SU-DE-SE-KE-I]] | tesʾad šeqī | SPECULATIVE |
 | [[wiki/linear-a/words/T/TU_SU_PU2\|TU-SU-PU₂]] | Tešub | CANDIDATE |
 | [[wiki/linear-a/words/U/U_SU\|U-SU]] | ʾUšu | CANDIDATE |

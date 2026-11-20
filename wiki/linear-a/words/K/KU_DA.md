@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/K/KU_DA
 title: "KU-DA"
-desc: "Gūda: Gūda 'luck' (personal name), Amorite Guʾuda; rivals Kutta, qāʾid 'chief'. Lexicon, SPECULATIVE (tier 1)."
+desc: "Gūda: Gūda 'luck' (personal name), Amorite Guʾuda. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "KU-DA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Gūda |
-| Meaning | Gūda 'luck' (personal name), Amorite Guʾuda; rivals Kutta, qāʾid 'chief' |
+| Meaning | Gūda 'luck' (personal name), Amorite Guʾuda |
 | Root | g-d |
 | Proto-Semitic | \*gd (#3243) |
 | Language layer | Semitic |

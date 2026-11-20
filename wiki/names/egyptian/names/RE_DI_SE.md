@@ -1,7 +1,7 @@
 ---
 name: wiki/names/egyptian/names/RE_DI_SE
 title: "RE-DI-SE"
-desc: "Redis: Redis (Egyptian personal name rdj⸗s), 'the one she has given'; rival Safaitic RDS 'Breaker'. Egyptian, SPECULATIVE."
+desc: "Redis: Redis (Egyptian personal name rdj⸗s), 'the one she has given'. Egyptian, SPECULATIVE."
 tags: ["names", "personal-name", "egyptian"]
 kind: "name"
 form: "RE-DI-SE"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Redis** · Redis (Egyptian personal name rdj⸗s), 'the one she has given'; rival Safaitic RDS 'Breaker'
+**Redis** · Redis (Egyptian personal name rdj⸗s), 'the one she has given'
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Redis |
-| Meaning | Redis (Egyptian personal name rdj⸗s), 'the one she has given'; rival Safaitic RDS 'Breaker' |
+| Meaning | Redis (Egyptian personal name rdj⸗s), 'the one she has given' |
 | Language layer | [[wiki/names/egyptian/_index\|Egyptian]] |
 | Root | [[wiki/names/egyptian/roots/rdj\|rdj]] |
 | Reading's standing | SPECULATIVE |

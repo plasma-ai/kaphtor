@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/N/NI_JA_NU
 title: "NI-JA-NU"
-desc: "niyāḥ-nu: our soothing (offering), of the incense; rivals a personal name, NI 'figs' with JA-NU 'wine'. Lexicon, SPECULATIVE (tier 1)."
+desc: "niyāḥ-nu: our soothing (offering), of the incense. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "noun", "ritual"]
 kind: "word"
 form: "NI-JA-NU"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | niyāḥ-nu |
-| Meaning | our soothing (offering), of the incense; rivals a personal name, NI 'figs' with JA-NU 'wine' |
+| Meaning | our soothing (offering), of the incense |
 | Root | n-w-ḥ |
 | Proto-Semitic | \*nVwVḫ- (#1723) |
 | Language layer | Semitic |

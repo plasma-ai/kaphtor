@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/KO_A_DU_WA
 title: "KO-A-DU-WA"
-desc: "Qō-Addua: personal name, 'Hope in Addu' (Amorite Quwi-Haddu); rival an Anatolian name in Kuwa-. Semitic, SPECULATIVE."
+desc: "Qō-Addua: personal name, 'Hope in Addu' (Amorite Quwi-Haddu). Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "KO-A-DU-WA"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Qō-Addua** · personal name, 'Hope in Addu' (Amorite Quwi-Haddu); rival an Anatolian name in Kuwa-
+**Qō-Addua** · personal name, 'Hope in Addu' (Amorite Quwi-Haddu)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Qō-Addua |
-| Meaning | personal name, 'Hope in Addu' (Amorite Quwi-Haddu); rival an Anatolian name in Kuwa- |
+| Meaning | personal name, 'Hope in Addu' (Amorite Quwi-Haddu) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/q-w-y\|q-w-y]] + [[wiki/names/semitic/roots/alef-d-d\|ʾ-d-d]] |
 | Proto-Semitic | \*ḳVw- (#1678), \*hadad- (#3186) |
@@ -40,7 +40,7 @@ TY 3a .6 KO-A-DU-WA \[OLE\] 7⅕, the four signs whole at the head of the line, 
 
 ## As a name
 
-TY 3a .6 KO-A-DU-WA \[OLE\] 7⅕, under Ạ-DA OLE+U 21 (GORILA I 327). Qō-Addu 'Hope in Addu', as Amorite Quwi-Haddu (Gelb AS 21, no. 4146, Mari) and Quwum-Haddu (no. 4162, Ugarit); Ugaritic qwy 'Awaited' (Watson 2012, 336). The final -a: Hadda, the god's other name, or a feminine -a(t). See the lexicon entry.
+TY 3a .6 KO-A-DU-WA \[OLE\] 7⅕, under Ạ-DA OLE+U 21 (GORILA I 327). Qō-Addu 'Hope in Addu', as Amorite Quwi-Haddu (Gelb AS 21, no. 4146, Mari) and Quwum-Haddu (no. 4162, Ugarit); Ugaritic qwy 'Awaited' (Watson 2012, 336). The final -a: Hadda, the god's other name, or a feminine -a(t). See the lexicon entry. Rival: an Anatolian name in Kuwa-.
 
 ## Cognates
 

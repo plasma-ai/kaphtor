@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/S/S3T
 title: "S3T"
-desc: "śṭ-: turn aside! (imperative, command to the disease); rival śĕʾēt. Lexicon, SPECULATIVE (tier 1)."
+desc: "śṭ-: turn aside! (imperative, command to the disease). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "ritual", "verb"]
 kind: "word"
 form: "S3T"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | śṭ- |
-| Meaning | turn aside! (imperative, command to the disease); rival śĕʾēt |
+| Meaning | turn aside! (imperative, command to the disease) |
 | Root | √ś-ṭ-y |
 | Proto-Semitic | \*śVṭVy- (#K0494) |
 | Language layer | Semitic |

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/A/A_TI_RU
 title: "A-TI-RU"
-desc: "ʿAttiru: ʿAttiru, personal name, the nisbe 'man of ʿAṯtar'; rival ʿatīru 'entreated'. Lexicon, SPECULATIVE (tier 1)."
+desc: "ʿAttiru: ʿAttiru, personal name, the nisbe 'man of ʿAṯtar'. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "A-TI-RU"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʿAttiru |
-| Meaning | ʿAttiru, personal name, the nisbe 'man of ʿAṯtar'; rival ʿatīru 'entreated' |
+| Meaning | ʿAttiru, personal name, the nisbe 'man of ʿAṯtar' |
 | Root | ʿ-ṯ-t-r |
 | Proto-Semitic | \*ʕaṯtar- (#3775) |
 | Language layer | Semitic |

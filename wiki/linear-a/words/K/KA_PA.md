@@ -96,7 +96,7 @@ di Mino; GlOS 1; Montecchi 2010; Uchitel 2016a
 
 ### Note
 
-Reading from the lexicon (di Mino).
+Reading from the lexicon (di Mino). Rival: an institution.
 
 ### Co-occurring lexicon words
 

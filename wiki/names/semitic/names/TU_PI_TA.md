@@ -32,11 +32,11 @@ updated: 2026-11-11T23:39:03Z
 | Reading's standing | CANDIDATE |
 | Standing as a title | CANDIDATE |
 | Standing of the layer | CANDIDATE (lexicon_reading) |
-| Source | di Mino; Dimopoulou and Olivier 2022; DULAT; GlOS 2; HALOT; Krahmalkov 2000 |
+| Source | di Mino; Dimopoulou and Olivier 2022; DULAT; GlOS 2; HALOT; Krahmalkov 2000; Tugendhaft 2018 |
 
 ## Note
 
-PO Zf 2 (Poros Herakleiou): a gold ring from a tomb, Middle Minoan III, with one word engraved on the bezel, which its editors take as a personal name (Dimopoulou and Olivier 2022). Ṯūpiṭa 'Judge' is both: the title, Ugaritic ṯpṭ in ṯpṭ nhr 'Judge River' (DULAT 913) and Mari ša-pí-ṭum, ša-pí-ṭa 'judge, ruler' (GlOS 2, 327), and a man's name, ša-pí-ṭa-na at Ugarit (GlOS 2, 327), Hebrew Šāpāṭ (HALOT 1627) and Punic ŠPṬ, short for ŠPṬBʿL (Krahmalkov 2000, 478). PI-TA writes the -pí-ṭa of Mari and Ugarit. TU writes ṯū (di Mino, Ya Diktu 16–17 n. 27) where the cuneiform has ša, the vowel of the Punic office, Latin sufes (Krahmalkov 2000, 477). One attestation.
+PO Zf 2 (Poros Herakleiou): a gold ring from a tomb, Middle Minoan III, with one word engraved on the bezel, which its editors take as a personal name (Dimopoulou and Olivier 2022). Ṯūpiṭa 'Judge' is both: the title, Ugaritic ṯpṭ in ṯpṭ nhr 'Judge River' (DULAT 913), Yamm's title beside 'your lord' and 'your master', which Tugendhaft renders 'Ruler Nahar' (2018, 82–84), and Mari ša-pí-ṭum, ša-pí-ṭa 'judge, ruler' (GlOS 2, 327), and a man's name, ša-pí-ṭa-na at Ugarit (GlOS 2, 327), Hebrew Šāpāṭ (HALOT 1627) and Punic ŠPṬ, short for ŠPṬBʿL (Krahmalkov 2000, 478). PI-TA writes the -pí-ṭa of Mari and Ugarit. TU writes ṯū (di Mino, Ya Diktu 16–17 n. 27) where the cuneiform has ša, the vowel of the Punic office, Latin sufes (Krahmalkov 2000, 477). One attestation.
 
 ## Cognates
 

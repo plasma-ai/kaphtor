@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/D/DU_MA_I_NA
 title: "DU-MA-I-NA"
-desc: "ḏū-maʿīna: He of the Spring (personal name; ḏū 'he of' + maʿīn 'spring, flowing water'); rival a product, '(the drink) of the spring'. Lexicon, SPECULATIVE (tier 1)."
+desc: "ḏū-maʿīna: He of the Spring (personal name; ḏū 'he of' + maʿīn 'spring, flowing water'). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "compound", "hapax", "personal_name"]
 kind: "word"
 form: "DU-MA-I-NA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ḏū-maʿīna |
-| Meaning | He of the Spring (personal name; ḏū 'he of' + maʿīn 'spring, flowing water'); rival a product, '(the drink) of the spring' |
+| Meaning | He of the Spring (personal name; ḏū 'he of' + maʿīn 'spring, flowing water') |
 | Root | ḏ + ʿ-y-n |
 | Proto-Semitic | \*ḏī- (#K0877) + \*maʕyān- (#2758) |
 | Language layer | Semitic |

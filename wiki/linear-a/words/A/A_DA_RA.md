@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/A/A_DA_RA
 title: "A-DA-RA"
-desc: "ʾadra: the fibula, the pin; rivals ʾAdara 'the Strong One' (epithet), ʾaddart- 'mantle'. Lexicon, SPECULATIVE (tier 1)."
+desc: "ʾadra: the fibula, the pin. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "noun"]
 kind: "word"
 form: "A-DA-RA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʾadra |
-| Meaning | the fibula, the pin; rivals ʾAdara 'the Strong One' (epithet), ʾaddart- 'mantle' |
+| Meaning | the fibula, the pin |
 | Root | ʾ-d-r |
 | Proto-Semitic | \*ʾdr (#3864) |
 | Language layer | Semitic |

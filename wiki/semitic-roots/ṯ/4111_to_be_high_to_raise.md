@@ -35,4 +35,8 @@ updated: 2026-11-04T02:29:02Z
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
+## Notes
+
+Del Olmo Lete (2013, 46 n. 49) calls Ugaritic ṯqy 'a clear East-Semitic loan'.
+
 <!-- END kaphtor:record -->

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/A/A_RA_U_DA
 title: "A-RA-U-DA"
-desc: "ʾArwada: Arwad (island city of the Phoenician coast), the home of the man named before it; rival a personal name, Ugaritic ảrwd(n). Lexicon, SPECULATIVE (tier 1)."
+desc: "ʾArwada: Arwad (island city of the Phoenician coast), the home of the man named before it. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "loanword", "toponym", "toponym_foreign"]
 kind: "word"
 form: "A-RA-U-DA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʾArwada |
-| Meaning | Arwad (island city of the Phoenician coast), the home of the man named before it; rival a personal name, Ugaritic ảrwd(n) |
+| Meaning | Arwad (island city of the Phoenician coast), the home of the man named before it |
 | Root | ʾArwad (Pre-Greek; non-Semitic per Noth, HALOT 85; Semitic per Watson 2001, 111) |
 | Language layer | Semitic |
 | Tags | hapax, loanword, toponym, toponym_foreign |
@@ -81,5 +81,9 @@ di Mino; HALOT; DULAT; RGTC 12/2; Watson 2001
 | Occurrences | 1 in 1 documents |
 | Sites | Khania |
 | Supports | Tablet 1 |
+
+### Note
+
+Rival: a personal name, Ugaritic ảrwd(n).
 
 <!-- END kaphtor:record -->

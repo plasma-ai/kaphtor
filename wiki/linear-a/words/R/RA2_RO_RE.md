@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/R/RA2_RO_RE
 title: "RA₂-RO-RE"
-desc: "Lallor: personal name, 'Mourner' (Akk. lallaru); rival Amorite Li-lu-ri. Lexicon, SPECULATIVE (tier 1)."
+desc: "Lallor: personal name, 'Mourner' (Akk. lallaru). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "RA₂-RO-RE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Lallor |
-| Meaning | personal name, 'Mourner' (Akk. lallaru); rival Amorite Li-lu-ri |
+| Meaning | personal name, 'Mourner' (Akk. lallaru) |
 | Root | l-l-r |
 | Proto-Semitic | \*lallār- (#3851) |
 | Language layer | Semitic |

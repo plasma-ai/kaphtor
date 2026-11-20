@@ -52,6 +52,7 @@ SPECULATIVE. Ten tokens; two stand alone on MA 1 (a, b) without a numeral. \*47-
 
 | Word | Reading | Confidence |
 |---|---|---|
+| [[wiki/linear-a/words/star/star47\|\*47]] | šū | SPECULATIVE |
 | [[wiki/linear-a/words/star/star47_KU_NA\|\*47-KU-NA]] | sōkuna | SPECULATIVE |
 | [[wiki/linear-a/words/star/star47_NU_RA_JA\|\*47-NU-RA-JA]] | Šū-nūraya | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA3_SI_star47\|PA₃-SI-\*47]] | basīsa | CANDIDATE |

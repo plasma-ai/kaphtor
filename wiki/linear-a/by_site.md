@@ -20,13 +20,13 @@ Every number on this page is computed from the data files.
 
 | Site | Records | Documents | Translated (complete) | Lexicon words attested |
 |---|---|---|---|---|
-| Haghia Triada | 1,111 | 1,053 | 367 | 402 |
-| Khania | 226 | 223 | 43 | 86 |
+| Haghia Triada | 1,111 | 1,053 | 367 | 403 |
+| Khania | 226 | 223 | 43 | 87 |
 | Phaistos | 66 | 48 | 13 | 47 |
 | Knossos | 57 | 51 | 19 | 58 |
 | Zakros | 53 | 40 | 8 | 99 |
 | Palaikastro | 25 | 25 | 10 | 40 |
-| Malia | 22 | 11 | 4 | 10 |
+| Malia | 22 | 11 | 5 | 12 |
 | Thera | 19 | 18 | 3 | 3 |
 | Iouktas | 16 | 16 | 11 | 17 |
 | Arkhanes | 12 | 9 | 3 | 25 |
@@ -70,12 +70,12 @@ Every number on this page is computed from the data files.
 | Nerokurou | 1 | 1 | 1 | 1 |
 | Papourou | 1 | 1 | 1 | 1 |
 | Platanos | 1 | 1 | 1 | 4 |
-| Prassa | 1 | 1 | 1 | 3 |
+| Prassa | 1 | 1 | 1 | 2 |
 | Psykhro | 1 | 1 | 1 | 2 |
 | Selakanos | 1 | 1 | 0 | 0 |
 | Sitia | 1 | 1 | 0 | 0 |
 | Skhinia | 1 | 1 | 0 | 0 |
-| Tel Haror | 1 | 1 | 1 | 2 |
+| Tel Haror | 1 | 1 | 1 | 3 |
 | Tiryns | 1 | 1 | 0 | 0 |
 | Traostalos | 1 | 1 | 0 | 0 |
 | Troullos | 1 | 1 | 1 | 7 |

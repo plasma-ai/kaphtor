@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/RA_NA_TU_SU
 title: "RA-NA-TU-SU"
-desc: "Rannatušu: personal name, 'his shout of joy'; rival two names, RA-NA and TU-SU. Semitic, SPECULATIVE."
+desc: "Rannatušu: personal name, 'his shout of joy'. Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "RA-NA-TU-SU"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Rannatušu** · personal name, 'his shout of joy'; rival two names, RA-NA and TU-SU
+**Rannatušu** · personal name, 'his shout of joy'
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Rannatušu |
-| Meaning | personal name, 'his shout of joy'; rival two names, RA-NA and TU-SU |
+| Meaning | personal name, 'his shout of joy' |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/r-n-n\|r-n-n]] |
 | Proto-Semitic | \*rVnVn- (#K0351) |

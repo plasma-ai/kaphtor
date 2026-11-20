@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/P/PI_TA_KE_SI
 title: "PI-TA-KE-SI"
-desc: "Bīt-kissi: (Man) of the throne-house, crown dependant (title); rival Hurrian PN Pidi-kešḫi. Lexicon, SPECULATIVE (tier 1)."
+desc: "Bīt-kissi: (Man) of the throne-house, crown dependant (title). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "compound", "hapax", "noun", "title"]
 kind: "word"
 form: "PI-TA-KE-SI"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Bīt-kissi |
-| Meaning | (Man) of the throne-house, crown dependant (title); rival Hurrian PN Pidi-kešḫi |
+| Meaning | (Man) of the throne-house, crown dependant (title) |
 | Root | b-y-t + k-s-ʾ |
 | Proto-Semitic | \*bayt- (#652) + \*kVsVʾ- (#K0105) |
 | Language layer | Semitic |

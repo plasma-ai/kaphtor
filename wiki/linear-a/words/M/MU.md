@@ -41,7 +41,7 @@ updated: 2026-11-12T00:26:03Z
 
 ### Note
 
-KH 6 MU 1, the entry after \*21M 1, in a list of cyperus allotments; the Tel Haror sherd TEL Zb 1 sets it before the cloth sign and the fig sign, three logograms. The sign of \*23M without the mark of sex, as \*21 stands to \*21M. See \*23M for mūru. HT 23b bears MU alone on its line.
+KH 6 MU 1, the entry after \*22M 1, in a list of cyperus allotments; the Tel Haror sherd TEL Zb 1 sets it before the cloth sign and the fig sign, three logograms. The sign of \*23M without the mark of sex, as \*21 stands to \*21M. See \*23M for mūru. HT 23b bears MU alone on its line.
 
 ### Cognates
 

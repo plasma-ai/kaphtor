@@ -27,6 +27,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/hurrian/names/ZU_DI_RA\|ZU-DI-RA]] | ṯudira | waitress, girl (Ug. ṯdr, a Hurro-Hittite loan from šiduri); rival the name Šituri | 2 |
+| [[wiki/names/hurrian/names/ZU_DI_RA\|ZU-DI-RA]] | ṯudira | waitress, girl (Ug. ṯdr, a Hurro-Hittite loan from šiduri) | 2 |
 
 <!-- END kaphtor:record -->

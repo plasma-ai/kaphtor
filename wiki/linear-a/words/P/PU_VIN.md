@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/P/PU_VIN
 title: "PU-VIN"
-desc: "pūra: the (wine-)vat, a pressing unit (allocation heading); rival 'madder'. Lexicon, SPECULATIVE (tier 1)."
+desc: "pūra: the (wine-)vat, a pressing unit (allocation heading). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "abbreviation", "administrative", "logogram"]
 kind: "word"
 form: "PU-VIN"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | pūra |
-| Meaning | the (wine-)vat, a pressing unit (allocation heading); rival 'madder' |
+| Meaning | the (wine-)vat, a pressing unit (allocation heading) |
 | Root | p-w-r |
 | Proto-Semitic | \*pVwVr- (#846) |
 | Language layer | Semitic |

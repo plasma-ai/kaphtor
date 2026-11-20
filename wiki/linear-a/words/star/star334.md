@@ -38,4 +38,6 @@ updated: 2026-11-12T00:26:03Z
 
 A sign. Status **unread** (nothing on file).
 
+A logogram counted in whole numbers, twice in one slot of KH Scribe 2: KH 6 .6 \]-RE · \*334 1 and KH 7a .1 \]NE-\[·\]-KI \*334 4, dotted there, each before a cyperus fraction (GORILA III 27, 29). In that slot the same hand counts \*21M, MU and \*306 on KH 6 and VIR+\*313b on KH 7a. Salgarella has A 334 as 'logogram?', sign alone (Salgarella 2020, 316).
+
 <!-- END kaphtor:record -->

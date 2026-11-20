@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/PI_TA_KE_SI
 title: "PI-TA-KE-SI"
-desc: "Bīt-kissi: (Man) of the throne-house, crown dependant (title); rival Hurrian PN Pidi-kešḫi. Semitic, SPECULATIVE."
+desc: "Bīt-kissi: (Man) of the throne-house, crown dependant (title). Semitic, SPECULATIVE."
 tags: ["names", "title", "semitic"]
 kind: "name"
 form: "PI-TA-KE-SI"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Bīt-kissi** · (Man) of the throne-house, crown dependant (title); rival Hurrian PN Pidi-kešḫi
+**Bīt-kissi** · (Man) of the throne-house, crown dependant (title)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/titles\|Title]] |
 | Reading | Bīt-kissi |
-| Meaning | (Man) of the throne-house, crown dependant (title); rival Hurrian PN Pidi-kešḫi |
+| Meaning | (Man) of the throne-house, crown dependant (title) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/b-y-t\|b-y-t]] + [[wiki/names/semitic/roots/k-s-alef\|k-s-ʾ]] |
 | Proto-Semitic | \*bayt- (#652), \*kVsVʾ- (#K0105) |
@@ -66,6 +66,6 @@ Read words on the same documents.
 
 | Word | Reading | Meaning |
 |---|---|---|
-| [[wiki/names/semitic/names/MA_KA_RI_TE\|MA-KA-RI-TE]] | makkārītu | merchants (heading of a roster of men); rival 'red (wool)' |
+| [[wiki/names/semitic/names/MA_KA_RI_TE\|MA-KA-RI-TE]] | makkārītu | merchants (heading of a roster of men) |
 
 <!-- END kaphtor:record -->

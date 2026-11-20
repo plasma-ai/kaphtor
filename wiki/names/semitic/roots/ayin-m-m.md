@@ -27,8 +27,8 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/A_MA_JA\|A-MA-JA]] | ʿAmmaya | (Little) kinsman (personal name, hypocoristic); rival ʾAmaya 'maidservant' | 1 |
-| [[wiki/names/semitic/names/A_MA_WA_SI\|A-MA-WA-SI]] | ʿAmma-wāṣiʾ | the Kinsman who comes forth (El epithet); rival 'Strong One' | 1 |
+| [[wiki/names/semitic/names/A_MA_JA\|A-MA-JA]] | ʿAmmaya | (Little) kinsman (personal name, hypocoristic) | 1 |
+| [[wiki/names/semitic/names/A_MA_WA_SI\|A-MA-WA-SI]] | ʿAmma-wāṣiʾ | the Kinsman who comes forth (El epithet) | 1 |
 | [[wiki/names/semitic/names/A_MI_DA_U\|A-MI-DA-U]] | ʿAmmī-dāʿ(u) | My kinsman knows (sentence name) | 1 |
 | [[wiki/names/semitic/names/A_MI_JA_RU\|A-MI-JA-RU]] | ʿAmmī-yarūm | personal name, 'My kinsman is exalted' | 1 |
 | [[wiki/names/semitic/names/star306_plus_MI\|\*306+MI]] | ʿAmmī | personal name: 'my kinsman / my (paternal) uncle' | 1 |

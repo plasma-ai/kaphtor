@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/T/TA_RI_NA
 title: "TA-RI-NA"
-desc: "Tarinna: Tarinna (Hurrian personal name), stem tarinn-; rivals trn 'mast' and the name trn 'Bearded'. Lexicon, SPECULATIVE (tier 1)."
+desc: "Tarinna: Tarinna (Hurrian personal name), stem tarinn-. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "TA-RI-NA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Tarinna |
-| Meaning | Tarinna (Hurrian personal name), stem tarinn-; rivals trn 'mast' and the name trn 'Bearded' |
+| Meaning | Tarinna (Hurrian personal name), stem tarinn- |
 | Language layer | Hurrian |
 | Tags | hapax, personal_name |
 | Semantic field | personal_name |
@@ -78,7 +78,7 @@ di Mino; Monti 2017; Watson 1990
 
 ### Note
 
-Tarinna: Tarinnam, ta-ri-nam, tarinn(i)=a=m(e/a) (VHN 299; Monti 2017, 351); Tarinam at Šemšara (Monti 2017, 413); Tarinze (Monti 2017, 301). Rival: Ugaritic trn 'mast' (semitic_roots no. 2979).
+Tarinna: Tarinnam, ta-ri-nam, tarinn(i)=a=m(e/a) (VHN 299; Monti 2017, 351); Tarinam at Šemšara (Monti 2017, 413); Tarinze (Monti 2017, 301). Rival: Ugaritic trn 'mast' (semitic_roots no. 2979). Rival: the name trn 'Bearded'.
 
 ### Co-occurring lexicon words
 

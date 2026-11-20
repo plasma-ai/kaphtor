@@ -26,6 +26,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/DA_MI_NU\|DA-MI-NU]] | Ḏā-Mīnu | personal name, 'He of the Portion' (ḏā + √m-n-y); rival √m-n-n 'He of the Favor' | 1 |
+| [[wiki/names/semitic/names/DA_MI_NU\|DA-MI-NU]] | Ḏā-Mīnu | personal name, 'He of the Portion' (ḏā + √m-n-y) | 1 |
 
 <!-- END kaphtor:record -->

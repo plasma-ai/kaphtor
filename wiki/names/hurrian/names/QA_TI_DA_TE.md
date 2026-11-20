@@ -1,7 +1,7 @@
 ---
 name: wiki/names/hurrian/names/QA_TI_DA_TE
 title: "QA-TI-DA-TE"
-desc: "Kati-tati: Kati-tati (Hurrian personal name); rival katītat 'beaten (oil)'. Hurrian, SPECULATIVE."
+desc: "Kati-tati: Kati-tati (Hurrian personal name). Hurrian, SPECULATIVE."
 tags: ["names", "personal-name", "hurrian"]
 kind: "name"
 form: "QA-TI-DA-TE"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Kati-tati** · Kati-tati (Hurrian personal name); rival katītat 'beaten (oil)'
+**Kati-tati** · Kati-tati (Hurrian personal name)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Kati-tati |
-| Meaning | Kati-tati (Hurrian personal name); rival katītat 'beaten (oil)' |
+| Meaning | Kati-tati (Hurrian personal name) |
 | Language layer | [[wiki/names/hurrian/_index\|Hurrian]] |
 | Reading's standing | SPECULATIVE |
 | Standing as a personal name | SPECULATIVE |

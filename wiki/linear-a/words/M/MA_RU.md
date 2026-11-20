@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/M/MA_RU
 title: "MA-RU"
-desc: "Maruʾ: Fattened (personal name), the bare stem of the Amorite MARUʾ- names; rival Maru 'Wool'. Lexicon, SPECULATIVE (tier 1)."
+desc: "Maruʾ: Fattened (personal name), the bare stem of the Amorite MARUʾ- names. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "MA-RU"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Maruʾ |
-| Meaning | Fattened (personal name), the bare stem of the Amorite MARUʾ- names; rival Maru 'Wool' |
+| Meaning | Fattened (personal name), the bare stem of the Amorite MARUʾ- names |
 | Root | m-r-ʾ |
 | Proto-Semitic | \*mrʾ ~ \*mariʾ- (#1084) |
 | Language layer | Semitic |

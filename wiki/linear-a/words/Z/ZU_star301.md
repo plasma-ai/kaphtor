@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/Z/ZU_star301
 title: "ZU-*301"
-desc: "ṯannān: chariot soldiers, archers (a troop drawing rations); rival a name ZU-*301-SE-DE. Lexicon, SPECULATIVE (tier 1)."
+desc: "ṯannān: chariot soldiers, archers (a troop drawing rations). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "noun", "occupation", "personnel"]
 kind: "word"
 form: "ZU-*301"
@@ -32,7 +32,7 @@ updated: 2026-10-27T03:07:18Z
 | Field | Value |
 |---|---|
 | Reading | ṯannān |
-| Meaning | chariot soldiers, archers (a troop drawing rations); rival a name ZU-\*301-SE-DE |
+| Meaning | chariot soldiers, archers (a troop drawing rations) |
 | Root | ṯ-n-n |
 | Proto-Semitic | \*ṯanann- (#4113) |
 | Language layer | Semitic |

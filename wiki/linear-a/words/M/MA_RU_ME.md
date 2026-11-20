@@ -47,7 +47,7 @@ HT 24a, under the heading KU-PA₃-RI-JA · KI-MA+RU-\[, writes the word with th
 | Language | Comparison |
 |---|---|
 | Greek | μαλλός (mallos) 'flock of wool' &lt; Minoan /maru/ (Salgarella 2022; Nosch & Weilhartner 2026) |
-| Linear A | A559 = MA+RU composite wool logogram (\*146 Raison-Pope) |
+| Linear A | A559 = MA+RU composite wool logogram |
 
 ### Source
 

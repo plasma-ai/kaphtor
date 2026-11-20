@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/RU_NI
 title: "RU-NI"
-desc: "Runni: personal name, 'Jubilation'; rival 'the crier', Dīnāyu's trade. Semitic, SPECULATIVE."
+desc: "Runni: personal name, 'Jubilation'. Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "RU-NI"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Runni** · personal name, 'Jubilation'; rival 'the crier', Dīnāyu's trade
+**Runni** · personal name, 'Jubilation'
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Runni |
-| Meaning | personal name, 'Jubilation'; rival 'the crier', Dīnāyu's trade |
+| Meaning | personal name, 'Jubilation' |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/r-n-n\|r-n-n]] |
 | Proto-Semitic | \*rVnVn- (#K0351) |

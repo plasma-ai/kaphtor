@@ -68,7 +68,7 @@ Read words on the same documents.
 
 | Word | Reading | Meaning |
 |---|---|---|
-| A-KA-RU | Agaru | field, estate (heading); rival the Ugaritic god Ugaru |
+| A-KA-RU | Agaru | field, estate (heading) |
 | PA₃-KA-RA-TI | baqarāti | cattle, heifers (fem.pl.) |
 | [[wiki/names/semitic/names/TE_star301\|TE-\*301]] | Tēnā | Fig (personal name); a recipient in allocation lists |
 | [[wiki/names/semitic/names/QA_star310_I\|QA-\*310-I]] | qaynī | smith or cultic administrator; occupational title |

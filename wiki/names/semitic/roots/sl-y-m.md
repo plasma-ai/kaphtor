@@ -27,6 +27,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/SI_MI_TA\|SI-MI-TA]] | Śīmat | personal name (f.), on √ś-y-m 'to place, fix'; rival Šimʿat | 1 |
+| [[wiki/names/semitic/names/SI_MI_TA\|SI-MI-TA]] | Śīmat | personal name (f.), on √ś-y-m 'to place, fix' | 1 |
 
 <!-- END kaphtor:record -->

@@ -27,6 +27,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/RU_ZU_NA\|RU-ZU-NA]] | rāzin(a) | dignitary, prince (title of a recipient); rival a personal name | 1 |
+| [[wiki/names/semitic/names/RU_ZU_NA\|RU-ZU-NA]] | rāzin(a) | dignitary, prince (title of a recipient) | 1 |
 
 <!-- END kaphtor:record -->

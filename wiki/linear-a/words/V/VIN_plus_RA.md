@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/V/VIN_plus_RA
 title: "VIN+RA"
-desc: "raqḥ: spiced wine (Hebrew yayin hāreqaḥ); rival raḥṣu 'washed wine'. Lexicon, CANDIDATE (tier 2)."
+desc: "raqḥ: spiced wine (Hebrew yayin hāreqaḥ). Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "abbreviation", "aromatic", "beverage", "commodity", "foodstuff", "ligature", "logogram"]
 kind: "word"
 form: "VIN+RA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | raqḥ |
-| Meaning | spiced wine (Hebrew yayin hāreqaḥ); rival raḥṣu 'washed wine' |
+| Meaning | spiced wine (Hebrew yayin hāreqaḥ) |
 | Root | r-q-ḥ |
 | Proto-Semitic | \*rVḳVḥ- (#S15) |
 | Language layer | Semitic |

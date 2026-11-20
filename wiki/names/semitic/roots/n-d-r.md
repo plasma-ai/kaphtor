@@ -27,6 +27,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/NA_DA_RE\|NA-DA-RE]] | Nadr | personal name, 'Vow' (√n-d-r); rival Egyptian PN 'of-the-hand-of-Re' | 1 |
+| [[wiki/names/semitic/names/NA_DA_RE\|NA-DA-RE]] | Nadr | personal name, 'Vow' (√n-d-r) | 1 |
 
 <!-- END kaphtor:record -->

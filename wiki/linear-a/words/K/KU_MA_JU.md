@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/K/KU_MA_JU
 title: "KU-MA-JU"
-desc: "Qumalu: Qumalu 'Louse' (personal name); rival kumru 'priest'. Lexicon, SPECULATIVE (tier 1)."
+desc: "Qumalu: Qumalu 'Louse' (personal name). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "KU-MA-JU"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Qumalu |
-| Meaning | Qumalu 'Louse' (personal name); rival kumru 'priest' |
+| Meaning | Qumalu 'Louse' (personal name) |
 | Root | q-m-l |
 | Proto-Semitic | \*ḳaml- ~ \*ḳalm- (#2229) |
 | Language layer | Semitic |
@@ -80,6 +80,6 @@ di Mino; Leslau 1987; Harding 1971; Gelb 1980; DMic I; Davis 2026b
 
 ### Note
 
-Qumalu: \*ḳaml- 'louse' (semitic_roots no. 2229), Gurage ḳumal; Safaitic personal name QML 'louse' (Harding 1971, 488). First entry under PA-RO-SU Parʿōš 'Flea' on HT 20.
+Qumalu: \*ḳaml- 'louse' (semitic_roots no. 2229), Gurage ḳumal; Safaitic personal name QML 'louse' (Harding 1971, 488). First entry under PA-RO-SU Parʿōš 'Flea' on HT 20. Rival: kumru 'priest'.
 
 <!-- END kaphtor:record -->

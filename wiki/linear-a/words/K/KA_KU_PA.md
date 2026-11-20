@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/K/KA_KU_PA
 title: "KA-KU-PA"
-desc: "kakkub: flask, a small container for perfumed oil, heading what goes into it; rival Kawkab 'Star', a place name. Lexicon, CANDIDATE (tier 2)."
+desc: "kakkub: flask, a small container for perfumed oil, heading what goes into it. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "noun", "vessel"]
 kind: "word"
 form: "KA-KU-PA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | kakkub |
-| Meaning | flask, a small container for perfumed oil, heading what goes into it; rival Kawkab 'Star', a place name |
+| Meaning | flask, a small container for perfumed oil, heading what goes into it |
 | Root | k-k-b |
 | Language layer | Semitic |
 | Tags | noun, vessel |

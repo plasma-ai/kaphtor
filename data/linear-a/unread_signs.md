@@ -24,6 +24,7 @@ leaves this file.
 | `on_file` | where a value stands: the file, the translation record where there is one, the value, and its standing where the file gives one |
 | `frequency`, `attestations`, `sites`, `cross_site` | undamaged occurrences, inscription ids (always a list), site names, and whether it crosses sites |
 | `word_parts` | on three entries: a document and the word the sign belongs to there, where a line or face end splits that word in the corpus record (`A` of A-SA-SA-RA-ME on PK Za 11); such a token is not counted |
+| `at_break` | on four entries: the documents where the sign stands whole beside a break (`*347[` on KH 6, `]*336[` on KH 82); such a token is damaged and not counted, and a sign with no other token stays listed at frequency 0 |
 | `note` | the sign's contexts in the corpus and what the files hold for it, most ending "No reading." or "No lexicon entry."; written for the signs that hold back the most records and for the ligatures with an unnamed component, empty on the rest |
 
 A token counts only when it is undamaged and yields no run of two or more syllabic signs. `on_file` leaves out a

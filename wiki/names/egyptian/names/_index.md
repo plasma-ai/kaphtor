@@ -3,7 +3,7 @@ name: wiki/names/egyptian/names
 title: "Egyptian names"
 desc: "The Egyptian names, one page each."
 created: 2026-11-11T23:39:03Z
-updated: 2026-11-16T19:24:13Z
+updated: 2026-11-20T14:16:50Z
 ---
 
 # Egyptian names
@@ -14,7 +14,7 @@ updated: 2026-11-16T19:24:13Z
 
 [[wiki/names/egyptian/names/DI_DI_KO_RA_ME_TA2|DI_DI_KO_RA_ME_TA2]]: Djed-ka-Re meti: personal name, 'The ka of Re endures, the reliable one' (Egyptian). Egyptian, SPECULATIVE.
 
-[[wiki/names/egyptian/names/I_KU_TA|I_KU_TA]]: Ḥikuptaḥ: place name: Memphis, the seat of Kothar (Ug. Ḥkpt), a recipient of cyperus; rival 'the Memphite'. Egyptian, SPECULATIVE.
+[[wiki/names/egyptian/names/I_KU_TA|I_KU_TA]]: Ḥikuptaḥ: place name: Memphis, the seat of Kothar (Ug. Ḥkpt), a recipient of cyperus. Egyptian, SPECULATIVE.
 
 [[wiki/names/egyptian/names/JA_MI_DA_RE|JA_MI_DA_RE]]: Yamidare: He-from-the-hand-of-Re (Egyptian theophoric). Egyptian, SPECULATIVE.
 
@@ -24,11 +24,11 @@ updated: 2026-11-16T19:24:13Z
 
 [[wiki/names/egyptian/names/PA_JA_RE|PA_JA_RE]]: Payare: He (of) Re: Egyptian personal name Pꜣ-Rꜥ (Gordon's Pꜣy-Rꜥ); Linear B pa-ja-ro. Egyptian, PROBABLE.
 
-[[wiki/names/egyptian/names/PA_TA_DA|PA_TA_DA]]: Patada: personal name; Egyptian Ptḥ-dj(⸗f) 'Ptah gives'; rival Hurrian pṭḏ (Ugarit). Egyptian, CANDIDATE.
+[[wiki/names/egyptian/names/PA_TA_DA|PA_TA_DA]]: Patada: personal name; Egyptian Ptḥ-dj(⸗f) 'Ptah gives'. Egyptian, CANDIDATE.
 
-[[wiki/names/egyptian/names/RA_TI_SE|RA_TI_SE]]: Ratis: Ratis (Egyptian personal name rdj⸗s, the name RE-DI-SE), 'the one she has given'; rival Safaitic RDS 'Breaker'. Egyptian, SPECULATIVE.
+[[wiki/names/egyptian/names/RA_TI_SE|RA_TI_SE]]: Ratis: Ratis (Egyptian personal name rdj⸗s, the name RE-DI-SE), 'the one she has given'. Egyptian, SPECULATIVE.
 
-[[wiki/names/egyptian/names/RE_DI_SE|RE_DI_SE]]: Redis: Redis (Egyptian personal name rdj⸗s), 'the one she has given'; rival Safaitic RDS 'Breaker'. Egyptian, SPECULATIVE.
+[[wiki/names/egyptian/names/RE_DI_SE|RE_DI_SE]]: Redis: Redis (Egyptian personal name rdj⸗s), 'the one she has given'. Egyptian, SPECULATIVE.
 
 [[wiki/names/egyptian/names/TA_I_NU_MA_PA|TA_I_NU_MA_PA]]: Tainumapa: She of Memphis: Egyptian woman's name Tꜣ-n.t-Mn-nfr. Egyptian, SPECULATIVE.
 

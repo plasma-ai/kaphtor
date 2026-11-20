@@ -39,7 +39,7 @@ updated: 2026-10-24T16:17:50Z
 
 Transliteration, line by line:
 
-1. \*401+RO \*401+RO \*401+\*304 \*401+RU \*418+L2 𐝫 𐝫 𐝫 𐝫 NI 𐝫 𐝫 𐝫 𐝫 VAS 𐝫 𐝫
+1. \*401+RO \*401+RO \*401+\*304 \*401+RU \*418+L2 𐝫 𐝫 𐝫 𐝫 NI 𐝫 𐝫 𐝫 𐝫 \*410-VS 𐝫 𐝫
 
 Unicode (Linear A block):
 
@@ -60,7 +60,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/star/star401_plus_RU\|\*401+RU]] | ruqqû | perfumed-oil vessel (lexicon \*401+RU; first Knossos attestation—all six prior at Khania) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/star/star418_plus_L2\|\*418+L2]] | \*418+L2 | vessel ideogram + 1/20 fraction | CANDIDATE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/N/NI\|NI]] | NI | figs (CONFIRMED ideogram) | CONFIRMED | CONFIRMED (lexicon) |
-| [[wiki/linear-a/words/V/VAS\|VAS]] | VAS | vessel ideogram | CONFIRMED |  |
+| VAS | VAS | vessel ideogram | CONFIRMED |  |
 
 ### Notes
 

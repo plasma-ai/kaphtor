@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/K/KU_RA
 title: "KU-RA"
-desc: "kulla: in all, total (accounting term), the -a form of KU-RO kull; rival a recipient. Lexicon, CANDIDATE (tier 2)."
+desc: "kulla: in all, total (accounting term), the -a form of KU-RO kull. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "accounting", "administrative", "noun"]
 kind: "word"
 form: "KU-RA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | kulla |
-| Meaning | in all, total (accounting term), the -a form of KU-RO kull; rival a recipient |
+| Meaning | in all, total (accounting term), the -a form of KU-RO kull |
 | Root | k-l-l |
 | Proto-Semitic | \*kʷall- (#2418) |
 | Language layer | Semitic |

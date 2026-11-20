@@ -27,6 +27,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/KU_MA_JU\|KU-MA-JU]] | Qumalu | Qumalu 'Louse' (personal name); rival kumru 'priest' | 1 |
+| [[wiki/names/semitic/names/KU_MA_JU\|KU-MA-JU]] | Qumalu | Qumalu 'Louse' (personal name) | 1 |
 
 <!-- END kaphtor:record -->

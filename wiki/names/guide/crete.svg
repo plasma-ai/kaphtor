@@ -446,7 +446,7 @@
 <text x="511.0" y="344.5" fill="#ffffff" fill-opacity="0.66" stroke="#0f1012" stroke-width="3" stroke-opacity="0.85" paint-order="stroke" stroke-linejoin="round" font-size="12.5" font-weight="400" text-anchor="start">Kophinas <tspan fill-opacity="0.55">3</tspan></text>
 <text x="781.1" y="232.1" fill="#ffffff" fill-opacity="0.66" stroke="#0f1012" stroke-width="3" stroke-opacity="0.85" paint-order="stroke" stroke-linejoin="round" font-size="12.5" font-weight="400" text-anchor="end">Petras <tspan fill-opacity="0.55">3</tspan></text>
 <circle cx="30" cy="432" r="4" fill="#e8e4dc"/>
-<text x="40" y="436" fill="#ffffff" fill-opacity="0.8" font-size="13">Semitic 312</text>
+<text x="40" y="436" fill="#ffffff" fill-opacity="0.8" font-size="13">Semitic 311</text>
 <circle cx="134.3" cy="432" r="4" fill="#87bfab"/>
 <text x="144.3" y="436" fill="#ffffff" fill-opacity="0.8" font-size="13">Hurrian 38</text>
 <circle cx="231.3" cy="432" r="4" fill="#d69897"/>

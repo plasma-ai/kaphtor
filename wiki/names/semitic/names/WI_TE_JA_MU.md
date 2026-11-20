@@ -68,6 +68,6 @@ Read words on the same documents.
 
 | Word | Reading | Meaning |
 |---|---|---|
-| JA-SA-SA-RA-ME | yaššaram | in righteousness (adverbial accusative in -am of √y-š-r; also 'righteously'); rival: substantivized "the upright/proper \[thing\]" in an object slot. Polysemic layer: masculine divine name Yasharam (Akk. Mīšarum, Phoen. Misor) |
+| JA-SA-SA-RA-ME | yaššaram | in righteousness (adverbial accusative in -am of √y-š-r; also 'righteously') |
 
 <!-- END kaphtor:record -->

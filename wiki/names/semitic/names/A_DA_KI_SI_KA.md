@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/A_DA_KI_SI_KA
 title: "A-DA-KI-SI-KA"
-desc: "Ḫadki-šiqā: Ḫadki gives drink (personal name; Ḫadki, a Mari-area name of Adad, + šiqā 'who gives drink'); rival 'Ḫadki is (my) dwelling'. Semitic, SPECULATIVE."
+desc: "Ḫadki-šiqā: Ḫadki gives drink (personal name; Ḫadki, a Mari-area name of Adad, + šiqā 'who gives drink'). Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "A-DA-KI-SI-KA"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Ḫadki-šiqā** · Ḫadki gives drink (personal name; Ḫadki, a Mari-area name of Adad, + šiqā 'who gives drink'); rival 'Ḫadki is (my) dwelling'
+**Ḫadki-šiqā** · Ḫadki gives drink (personal name; Ḫadki, a Mari-area name of Adad, + šiqā 'who gives drink')
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Ḫadki-šiqā |
-| Meaning | Ḫadki gives drink (personal name; Ḫadki, a Mari-area name of Adad, + šiqā 'who gives drink'); rival 'Ḫadki is (my) dwelling' |
+| Meaning | Ḫadki gives drink (personal name; Ḫadki, a Mari-area name of Adad, + šiqā 'who gives drink') |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/kh-d-k\|ḫ-d-k]] + [[wiki/names/semitic/roots/sh-q-y\|š-q-y]] |
 | Proto-Semitic | \*šVḳ- (#1389) |

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/S/SI_DI_star301
 title: "SI-DI-*301"
-desc: "Ṣidna: Sidon (place name); rival Ṣīd-nā 'our Ṣid'. Lexicon, SPECULATIVE (tier 1)."
+desc: "Ṣidna: Sidon (place name). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "toponym", "toponym_foreign"]
 kind: "word"
 form: "SI-DI-*301"
@@ -32,7 +32,7 @@ updated: 2026-11-08T17:23:00Z
 | Field | Value |
 |---|---|
 | Reading | Ṣidna |
-| Meaning | Sidon (place name); rival Ṣīd-nā 'our Ṣid' |
+| Meaning | Sidon (place name) |
 | Root | ṣ-d-n |
 | Language layer | Semitic |
 | Tags | hapax, toponym, toponym_foreign |
@@ -82,7 +82,7 @@ di Mino; RGTC 12/2; DULAT; Krahmalkov
 
 ### Note
 
-KN Zf 13, signs 4–6 of the gold ring's spiral, after A-RE-NE ʾAren: 'Aren of Sidon'; rival 'Ark of Sidon'. DI a dead vowel, Ṣidn-a; the -a is Sidon's own spelling, ᵘʳᵘṢi₂-du-na (EA 144:5, 11; RGTC 12/2, 248); Ugaritic ṣdyn /Ṣidyān/ (DULAT 769). See the lexicon entry.
+KN Zf 13, signs 4–6 of the gold ring's spiral, after A-RE-NE ʾAren: 'Aren of Sidon'; rival 'Ark of Sidon'. DI a dead vowel, Ṣidn-a; the -a is Sidon's own spelling, ᵘʳᵘṢi₂-du-na (EA 144:5, 11; RGTC 12/2, 248); Ugaritic ṣdyn /Ṣidyān/ (DULAT 769). See the lexicon entry. Rival: Ṣīd-nā 'our Ṣid'.
 
 ### Co-occurring lexicon words
 

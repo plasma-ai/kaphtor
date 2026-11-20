@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/DI_DE_RU
 title: "DI-DE-RU"
-desc: "ʾaddīru: nobles, notables; rival ʾadr 'granary'. Semitic, PROBABLE."
+desc: "ʾaddīru: nobles, notables. Semitic, PROBABLE."
 tags: ["names", "title", "semitic"]
 kind: "name"
 form: "DI-DE-RU"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**ʾaddīru** · nobles, notables; rival ʾadr 'granary'
+**ʾaddīru** · nobles, notables
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/titles\|Title]] |
 | Reading | ʾaddīru |
-| Meaning | nobles, notables; rival ʾadr 'granary' |
+| Meaning | nobles, notables |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/alef-d-r\|ʾ-d-r]] |
 | Proto-Semitic | \*ʾaddīr- (#1340) |
@@ -40,7 +40,7 @@ HT 95a DI-DE-RU 10, HT 95b and HT 86a, in the Haghia Triada allocation set, alwa
 
 ## As a name
 
-Reading from the lexicon (di Mino).
+Reading from the lexicon (di Mino). Rival: ʾadr 'granary'.
 
 ## Cognates
 
@@ -65,7 +65,7 @@ Read words on the same documents.
 
 | Word | Reading | Meaning |
 |---|---|---|
-| A-KA-RU | Agaru | field, estate (heading); rival the Ugaritic god Ugaru |
+| A-KA-RU | Agaru | field, estate (heading) |
 | KU-NI-SU | kunīšu | emmer (Akkadian loan) |
 | [[wiki/names/semitic/names/A_DU\|A-DU]] | adû | work assignment; the ration allotted to it (heading of personnel and ration lists) |
 

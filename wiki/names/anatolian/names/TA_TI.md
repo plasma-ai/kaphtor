@@ -1,7 +1,7 @@
 ---
 name: wiki/names/anatolian/names/TA_TI
 title: "TA-TI"
-desc: "Tati: personal name; rival tati 'father' (Luwian tati-). Anatolian, CANDIDATE."
+desc: "Tati: personal name. Anatolian, CANDIDATE."
 tags: ["names", "personal-name", "anatolian"]
 kind: "name"
 form: "TA-TI"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Tati** · personal name; rival tati 'father' (Luwian tati-)
+**Tati** · personal name
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Tati |
-| Meaning | personal name; rival tati 'father' (Luwian tati-) |
+| Meaning | personal name |
 | Language layer | [[wiki/names/anatolian/_index\|Anatolian]] |
 | Reading's standing | CANDIDATE |
 | Standing as a personal name | CANDIDATE |

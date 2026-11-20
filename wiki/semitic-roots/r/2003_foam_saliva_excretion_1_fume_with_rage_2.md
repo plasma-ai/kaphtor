@@ -31,7 +31,7 @@ updated: 2026-11-03T12:43:04Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Ugaritic | rġ 2 (DULAT 723) | DULAT 723 | gloss withheld |
-| Arabic | raɣwat-, riɣwat-, ruɣwat- 'scum/froth on the milk' \[BK 1 891\] | BK 1 891 |  |
+| Arabic | raɣwat-, riɣwat-, ruɣwat- 'scum/froth on the milk' \[BK 1 891\]; raġā 'to be covered with foam' 1, II 'to enrage' 2 \[BK 1 891\] | BK 1 891 |  |
 | Akkadian | ruʔtu (rūtu) OAkk on \[AHw 997\] | AHw 997 | gloss withheld |
 | Hebrew | PB rǝʕī, rēʕī 'secretion, excrements' \[Ja 1487\] | Ja 1487 |  |
 | Judaic Aramaic | rēʕī (det. raʕăyā, rēʕā) \[ibid.\] |  |  |

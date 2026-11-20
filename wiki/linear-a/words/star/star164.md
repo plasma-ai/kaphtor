@@ -42,6 +42,6 @@ updated: 2026-11-12T00:26:03Z
 
 A sign. Status **unread** (nothing on file).
 
-Alone on 12 Khania roundels in the corpus (KH Wc 2036–2045, 2095, 2111). Inside a word at Haghia Triada: RA-\*164-TI (HT 17, HT 19). Nosch and Weilhartner take it as a syllabogram at Haghia Triada and a logogram at Khania, possibly for textiles, because a similar sign is a textile logogram in Linear B, \*164, known only at Knossos (2026). No reading.
+Alone on 12 Khania roundels in the corpus (KH Wc 2036–2045, 2095, 2111). Inside a word at Haghia Triada: RA-\*164-TI (HT 17, HT 19). Nosch and Weilhartner take it as a syllabogram at Haghia Triada and a logogram at Khania, possibly for textiles, because a similar sign is a textile logogram in Linear B, \*164, known only at Knossos (2026), one of the cloths Nosch says 'may be Minoan textile types' (2024, 341). No reading.
 
 <!-- END kaphtor:record -->

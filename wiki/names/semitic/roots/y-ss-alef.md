@@ -27,7 +27,7 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/SE_TO_I_JA\|SE-TO-I-JA]] | Ṣētiya | the Eastern (place), a central Cretan toponym; rivals the epithet 'she of the East' and a pre-Greek toponym Setoiya | 1 |
-| [[wiki/names/semitic/names/SI_TE\|SI-TE]] | Ṣīt | the East, lit. 'the going-out (of the sun)', a name for eastern Crete; rival ṣīt 'issue, outlay' | 2 |
+| [[wiki/names/semitic/names/SE_TO_I_JA\|SE-TO-I-JA]] | Ṣētiya | the Eastern (place), a central Cretan toponym | 1 |
+| [[wiki/names/semitic/names/SI_TE\|SI-TE]] | Ṣīt | the East, lit. 'the going-out (of the sun)', a name for eastern Crete | 2 |
 
 <!-- END kaphtor:record -->

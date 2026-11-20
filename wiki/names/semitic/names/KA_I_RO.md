@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/KA_I_RO
 title: "KA-I-RO"
-desc: "kāʾil: Measurer (professional-title PN), of grain; rival a name on g-y-l 'to rejoice'. Semitic, SPECULATIVE."
+desc: "kāʾil: Measurer (professional-title PN), of grain. Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "KA-I-RO"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**kāʾil** · Measurer (professional-title PN), of grain; rival a name on g-y-l 'to rejoice'
+**kāʾil** · Measurer (professional-title PN), of grain
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | kāʾil |
-| Meaning | Measurer (professional-title PN), of grain; rival a name on g-y-l 'to rejoice' |
+| Meaning | Measurer (professional-title PN), of grain |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/k-y-l\|k-y-l]] |
 | Proto-Semitic | \*kalVy- ~ \*kayl- (#298) |

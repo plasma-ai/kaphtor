@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/D/DA_RU_NE_TE
 title: "DA-RU-NE-TE"
-desc: "Dāru-ʿAnēt: Anat is everlasting (theophoric personal name); rivals Dūr-ʿAnat 'Wall of Anat', and Egyptian Neith as the second element. Lexicon, SPECULATIVE (tier 1)."
+desc: "Dāru-ʿAnēt: Anat is everlasting (theophoric personal name). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "compound", "hapax", "personal_name"]
 kind: "word"
 form: "DA-RU-NE-TE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Dāru-ʿAnēt |
-| Meaning | Anat is everlasting (theophoric personal name); rivals Dūr-ʿAnat 'Wall of Anat', and Egyptian Neith as the second element |
+| Meaning | Anat is everlasting (theophoric personal name) |
 | Root | d-w-r + ʿ-n-t |
 | Proto-Semitic | \*dawr- (#40) + \*ʕanat- (#2771) |
 | Language layer | Semitic |

@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 Transliteration, line by line:
 
 1. 𐝫
-2. \*416+L2 7
+2. \*417+L2 7
 3. —
 4. VIR+\[?\] 11
 5. \*304 2

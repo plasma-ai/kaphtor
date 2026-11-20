@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/A/A_TA_RE
 title: "A-TA-RE"
-desc: "ʿAṯtar: ʿAṯtar (the god), receiving figs; rival Hathor. Lexicon, SPECULATIVE (tier 1)."
+desc: "ʿAṯtar: ʿAṯtar (the god), receiving figs. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "ritual", "theonym"]
 kind: "word"
 form: "A-TA-RE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʿAṯtar |
-| Meaning | ʿAṯtar (the god), receiving figs; rival Hathor |
+| Meaning | ʿAṯtar (the god), receiving figs |
 | Root | ʿ-ṯ-t-r |
 | Proto-Semitic | \*ʕaṯtar- (#3775) |
 | Language layer | Semitic |

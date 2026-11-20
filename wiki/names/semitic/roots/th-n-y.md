@@ -27,6 +27,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/TI_NU_JA\|TI-NU-JA]] | Ṯinuya | personal name, 'Second(-born)'; rival Dīnuya | 1 |
+| [[wiki/names/semitic/names/TI_NU_JA\|TI-NU-JA]] | Ṯinuya | personal name, 'Second(-born)' | 1 |
 
 <!-- END kaphtor:record -->

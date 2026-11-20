@@ -75,6 +75,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/M/MA_TI_TI\|MA-TI-TI]] | mattitt(u) | CANDIDATE |
 | [[wiki/linear-a/words/M/MA_TI_ZA_I_TE\|MA-TI-ZA-I-TE]] | Matiʿ-zayti | SPECULATIVE |
 | [[wiki/linear-a/words/N/NA_TI\|NA-TI]] | naṭʿ | SPECULATIVE |
+| [[wiki/linear-a/words/P/PA_DA_SU_TI\|PA-DA-SU-TI]] | Parʿōš-ti | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA3_KA_RA_TI\|PA₃-KA-RA-TI]] | baqarāti | CANDIDATE |
 | [[wiki/linear-a/words/Q/QA_KI_SE_NU_TI\|QA-KI-SE-NU-TI]] | Kaki-šenni-ti | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_TI_DA_TE\|QA-TI-DA-TE]] | Kati-tati | SPECULATIVE |

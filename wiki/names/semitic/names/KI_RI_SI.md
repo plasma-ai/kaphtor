@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/KI_RI_SI
 title: "KI-RI-SI"
-desc: "Kiriš: Kiriš, the god of the Amorite names, as oil recipient; rivals Hurrian Kiriš and a personal name. Semitic, SPECULATIVE."
+desc: "Kiriš: Kiriš, the god of the Amorite names, as oil recipient. Semitic, SPECULATIVE."
 tags: ["names", "divine-name", "semitic"]
 kind: "name"
 form: "KI-RI-SI"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Kiriš** · Kiriš, the god of the Amorite names, as oil recipient; rivals Hurrian Kiriš and a personal name
+**Kiriš** · Kiriš, the god of the Amorite names, as oil recipient
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/gods\|Divine name]] |
 | Reading | Kiriš |
-| Meaning | Kiriš, the god of the Amorite names, as oil recipient; rivals Hurrian Kiriš and a personal name |
+| Meaning | Kiriš, the god of the Amorite names, as oil recipient |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/kirish\|Kiriš]] |
 | Reading's standing | SPECULATIVE |

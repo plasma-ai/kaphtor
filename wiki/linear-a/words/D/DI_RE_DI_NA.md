@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/D/DI_RE_DI_NA
 title: "DI-RE-DI-NA"
-desc: "ʾaddīr-dīnā: mighty is the verdict (compound sentence name); rival a simplex recipient name. Lexicon, CANDIDATE (tier 2)."
+desc: "ʾaddīr-dīnā: mighty is the verdict (compound sentence name). Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "compound", "hapax", "personal_name"]
 kind: "word"
 form: "DI-RE-DI-NA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʾaddīr-dīnā |
-| Meaning | mighty is the verdict (compound sentence name); rival a simplex recipient name |
+| Meaning | mighty is the verdict (compound sentence name) |
 | Root | ʾ-d-r + d-y-n |
 | Proto-Semitic | \*ʾaddīr- (#1340) + \*dyn- (#S36) |
 | Language layer | Semitic |
@@ -82,7 +82,7 @@ di Mino; Pagan 1998; Benz 1972; GlOS 1; DULAT; Watson 1996b; HALOT
 
 ### Note
 
-Sentence name: DI-RE \*ʾaddīr (√ʾ-d-r, as in DI-DE-RU) + DI-NA \*dīnā (√d-y-n, as in DI-NA-U, DI-NA-RO). Cf. Adriel (1 Sam 18:19), Abidan (Num 1:11), Daniel; Ugaritic ʾadr + dn (Danel, KTU 1.17); Punic ʾDR-BʿL (Benz 1972).
+Sentence name: DI-RE \*ʾaddīr (√ʾ-d-r, as in DI-DE-RU) + DI-NA \*dīnā (√d-y-n, as in DI-NA-U, DI-NA-RO). Cf. Adriel (1 Sam 18:19), Abidan (Num 1:11), Daniel; Ugaritic ʾadr + dn (Danel, KTU 1.17); Punic ʾDR-BʿL (Benz 1972). Rival: a simplex recipient name.
 
 ### Co-occurring lexicon words
 

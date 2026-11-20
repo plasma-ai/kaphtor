@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/star47_NU_RA_JA
 title: "*47-NU-RA-JA"
-desc: "Šū-nūraya: personal name, 'He is light'; rival mənōrāya 'lampstand (man)'. Semitic, SPECULATIVE."
+desc: "Šū-nūraya: personal name, 'He is light'. Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "*47-NU-RA-JA"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Šū-nūraya** · personal name, 'He is light'; rival mənōrāya 'lampstand (man)'
+**Šū-nūraya** · personal name, 'He is light'
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Šū-nūraya |
-| Meaning | personal name, 'He is light'; rival mənōrāya 'lampstand (man)' |
+| Meaning | personal name, 'He is light' |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/n-w-r\|n-w-r]] |
 | Proto-Semitic | \*nūr- (#1196) |
@@ -40,7 +40,7 @@ HT 115a .1 \*47-NU-RA-JA · I · GRA+BOSm, whole and undotted, the first entry o
 
 ## As a name
 
-Šū-nūraya 'He is light', as Ebla su-nu-ri₂ šū-nūrī (Pagan 1998, row 4282) and Ugaritic nu-ri-ia (DULAT 634); on the same palimpsest as \*301-U-RA naura.
+Šū-nūraya 'He is light', as Ebla su-nu-ri₂ šū-nūrī (Pagan 1998, row 4282) and Ugaritic nu-ri-ia (DULAT 634); on the same palimpsest as \*301-U-RA naura. Rival: mənōrāya 'lampstand (man)'.
 
 ## Cognates
 

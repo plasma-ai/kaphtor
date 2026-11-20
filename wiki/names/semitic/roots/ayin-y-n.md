@@ -26,6 +26,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/DU_MA_I_NA\|DU-MA-I-NA]] | ḏū-maʿīna | He of the Spring (personal name; ḏū 'he of' + maʿīn 'spring, flowing water'); rival a product, '(the drink) of the spring' | 1 |
+| [[wiki/names/semitic/names/DU_MA_I_NA\|DU-MA-I-NA]] | ḏū-maʿīna | He of the Spring (personal name; ḏū 'he of' + maʿīn 'spring, flowing water') | 1 |
 
 <!-- END kaphtor:record -->

@@ -58,7 +58,6 @@ Each name stands where its inscriptions were found. A dot is one name at one sit
 | Lachish | 1 | [[wiki/names/semitic/names/RI_DA_U\|RI-DA-U]] |
 | Miletos | 1 | [[wiki/names/semitic/names/SI_TE\|SI-TE]] |
 | Milos | 1 | [[wiki/names/semitic/names/KI_RU\|KI-RU]] |
-| Samothrace | 1 | [[wiki/names/semitic/names/SA_RA\|SA-RA]] |
 | Thera | 2 | [[wiki/names/semitic/names/A_RE_SA_NA\|A-RE-SA-NA]], [[wiki/names/semitic/names/A_TA_NA_JE\|A-TA-NA-JE]] |
 | Troy | 1 | [[wiki/names/unread/names/PI_MI_TI_TA_RA2\|PI-MI-TI-TA-RA₂]] |
 
