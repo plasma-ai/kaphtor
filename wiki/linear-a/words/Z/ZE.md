@@ -52,6 +52,8 @@ HT 16, under KA-KU-PA: SA-PO ZE ¹⁄₁₆, the smallest quantity on the tablet
 | Hebrew | zeraʿ 'seed, offspring' (HALOT 282) |
 | Phoenician | zrʿ 'seed, offspring' (Krahmalkov 174) |
 | Amorite | ḎRʿ 'sow, seed': jaḏraʿ, ḏarʿum (Gelb AS 21, 18) |
+| Linear B | seed is written by its first sign: GRA+PE, pe-ma /sperma/ (Melena 2014, 137) |
+| Cuneiform | (ŠE.)NUMUN for zēru (CAD Z 89); NUMUN in Ugarit Akkadian beside ḏrʿ (DULAT 278); ŠE.NUMUN in Ebla names (GlOS 1, 167) |
 
 ### Source
 

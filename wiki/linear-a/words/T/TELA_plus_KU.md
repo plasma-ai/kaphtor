@@ -39,7 +39,7 @@ updated: 2026-11-12T00:26:03Z
 
 ### Note
 
-HT 38 TELA+KU 2, before TELA+\*312 1, in an inventory of a vessel, a pig, three sheep and a weighed item. The cloth sign with KU written inside it, as Linear B TELA+KU at Knossos. KU names the kind. Cf. Akk. kusītu. One tablet. See WA.
+HT 38 TELA+KU 2, before TELA+\*312 1, in an inventory of a vessel, a pig, three sheep and a weighed item. GORILA's A 535: the cloth sign with KU written inside it, as Linear B TELA+KU at Knossos, booked there in the latest archive alone and after TELA+PU on the same tablets (Nosch 2024, 338), as HT 38 sets it before TELA+\*312. KU names the kind; Duhoux has KU and TE as 'doubtless abbreviations of Pre-Hellenic words for particular fabrics' (in Killen 2024, 724). Cf. Akk. kusītu. One tablet. See WA.
 
 ### Cognates
 
@@ -49,7 +49,7 @@ HT 38 TELA+KU 2, before TELA+\*312 1, in an inventory of a vessel, a pig, three 
 
 ### Source
 
-di Mino; CAD K
+di Mino; CAD K; Nosch 2024; Killen 2024
 
 ## Attestations
 

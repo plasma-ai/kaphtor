@@ -78,6 +78,7 @@ di Mino
 | Occurrences | 1 in 1 documents |
 | Sites | Knossos |
 | Supports | Metal object 1 |
+| Contact reference | am_gelb_n_00320 |
 
 ### Note
 

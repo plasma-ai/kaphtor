@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/KA_SA_RU
 title: "KA-SA-RU"
-desc: "Qaṣṣāru: Qaṣṣāru 'Fuller' (personal name); compare Linear B ka-sa-ro; rival Kaṣṣāru 'donkey driver'. Semitic, CANDIDATE."
+desc: "Qaṣṣāru: Qaṣṣāru 'Fuller' (personal name); compare Linear B ka-sa-ro. Semitic, CANDIDATE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "KA-SA-RU"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Qaṣṣāru** · Qaṣṣāru 'Fuller' (personal name); compare Linear B ka-sa-ro; rival Kaṣṣāru 'donkey driver'
+**Qaṣṣāru** · Qaṣṣāru 'Fuller' (personal name); compare Linear B ka-sa-ro
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Qaṣṣāru |
-| Meaning | Qaṣṣāru 'Fuller' (personal name); compare Linear B ka-sa-ro; rival Kaṣṣāru 'donkey driver' |
+| Meaning | Qaṣṣāru 'Fuller' (personal name); compare Linear B ka-sa-ro |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/q-ss-r\|q-ṣ-r]] |
 | Proto-Semitic | \*ḳaṣṣār- (#3782) |
@@ -40,7 +40,7 @@ HT 10b .3 KA-SA-RU 6, a personnel entry on a face written over an erasure; the t
 
 ## As a name
 
-Qaṣṣāru: Ebla ga-za-ru₁₂, /qaṣṣāru/ 'fuller' or /kaṣṣāru/ 'donkey driver' (Pagan 1998, rows 1979–1980); Linear B ka-sa-ro (KN C(2) 912.8); Ugarit DUMU ka-ša₂-ri.
+Qaṣṣāru: Ebla ga-za-ru₁₂, /qaṣṣāru/ 'fuller' or /kaṣṣāru/ 'donkey driver' (Pagan 1998, rows 1979–1980); Linear B ka-sa-ro (KN C(2) 912.8); Ugarit DUMU ka-ša₂-ri. Rival: Kaṣṣāru 'donkey driver'.
 
 ## Cognates
 
@@ -67,6 +67,6 @@ Read words on the same documents.
 
 | Word | Reading | Meaning |
 |---|---|---|
-| DA-RE | dār | estate, household (a unit receiving men and grain); rival 'kin group, clan' |
+| DA-RE | dār | estate, household (a unit receiving men and grain) |
 
 <!-- END kaphtor:record -->

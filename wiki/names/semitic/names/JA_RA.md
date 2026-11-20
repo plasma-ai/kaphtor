@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/JA_RA
 title: "JA-RA"
-desc: "Yaraḫ: Moon (personal name, after the moon god); rival yarē 'he instructs'. Semitic, SPECULATIVE."
+desc: "Yaraḫ: Moon (personal name, after the moon god). Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "JA-RA"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Yaraḫ** · Moon (personal name, after the moon god); rival yarē 'he instructs'
+**Yaraḫ** · Moon (personal name, after the moon god)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Yaraḫ |
-| Meaning | Moon (personal name, after the moon god); rival yarē 'he instructs' |
+| Meaning | Moon (personal name, after the moon god) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/y-r-kh\|y-r-ḫ]] |
 | Proto-Semitic | \*warḫ- (#2511) |
@@ -40,7 +40,7 @@ KN Wc 30, an MM IIIB roundel, JA-RA its only word. Yaraḫ with ḫ unwritten: t
 
 ## As a name
 
-Reading from the lexicon (di Mino). Amorite JARAḪ-T-UM, IA-RA-AḪ-TUM (Gelb 1980, no. 3419).
+Reading from the lexicon (di Mino). Amorite JARAḪ-T-UM, IA-RA-AḪ-TUM (Gelb 1980, no. 3419). Rival: yarē 'he instructs'.
 
 ## Cognates
 

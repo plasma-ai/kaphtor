@@ -36,7 +36,7 @@ updated: 2026-11-11T23:39:03Z
 
 ## Note
 
-HT 104 .1 TA-PA · \*505 ·, heading three entries, DA-KU-SE-NE-TI 45½, I-DU-TI 20½ and PA-DA-SU-TI 29, whose sum is KU-RO 95 (GORILA I 170–171). ta-pa(ʾu) on primary values, the geminate and final ʾu unwritten: the partners in a divided account, as Akk. tappû 'business partner' (CAD T 184). Rival: ṭap 'children' (#66), TA writing ṭ. One witness.
+HT 104 .1 TA-PA · TE+RO ·, heading three entries, DA-KU-SE-NE-TI 45½, I-DU-TI 20½ and PA-RO-SU-TI 29, whose sum is KU-RO 95 (GORILA I 170–171). ta-pa(ʾu) on primary values, the geminate and final ʾu unwritten: the partners in a divided account, as Akk. tappû 'business partner' (CAD T 184). Rival: ṭap 'children' (#66), TA writing ṭ. One witness.
 
 ## As a name
 
@@ -65,7 +65,7 @@ Read words on the same documents.
 
 | Word | Reading | Meaning |
 |---|---|---|
-| [[wiki/names/semitic/names/I_DU_TI\|I-DU-TI]] | Yidu-ti | entity name: yidu 'strength' with TI |
+| [[wiki/names/semitic/names/I_DU_TI\|I-DU-TI]] | Yidu-ti | the name Yidu 'strength' with TI: a partner's share of 20½ |
 | KU-RO | kull | total, sum (accounting term) |
 
 <!-- END kaphtor:record -->

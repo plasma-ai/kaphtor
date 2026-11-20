@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/star/star301
 title: "*301"
-desc: "nawā: pastureland, pastoral product (commodity logogram: nawum in administrative register, nawā in ritual/general). Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "agriculture", "commodity", "livestock", "logogram"]
+desc: "nawā: abode, encampment: the pastoral camp as a unit of people, counted and supplied; perhaps the peak sanctuary shrines. Lexicon, PROBABLE (tier 3)."
+tags: ["linear-a", "word", "tier-3", "administrative", "logogram", "personnel"]
 kind: "word"
 form: "*301"
 datasets: ["lexicon"]
@@ -32,16 +32,20 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | nawā |
-| Meaning | pastureland, pastoral product (commodity logogram: nawum in administrative register, nawā in ritual/general) |
+| Meaning | abode, encampment: the pastoral camp as a unit of people, counted and supplied; perhaps the peak sanctuary shrines |
 | Root | n-w-y |
 | Proto-Semitic | \*nwy (#3654) |
 | Language layer | Semitic |
-| Tags | agriculture, commodity, livestock, logogram |
-| Semantic field | commodity |
+| Tags | administrative, logogram, personnel |
+| Semantic field | personnel |
 
 ### Note
 
-A commodity logogram: 236 standalone occurrences on 236 documents, 87% of its 272 uses, concentrated at Haghia Triada on nodules and tablets, 225 of them on HT nodules. It takes the commodity-label slot of GRA (dagān), OLE (šamnu), VIN (wayn) and CYP (cyperus) and names the pastoral class: nawum, with mimation (Mari na-wu-um, GlOS 2, 116), the land-use term for uncultivated pastureland and its goods, livestock, wool and dairy, against cultivated cereals (GRA) and orchard products (OLE, OLIV, VIN). In ritual use the same root gives nawā 'dwelling, abode', compared with Greek ναός 'temple'. The syllabic value na is acrophonic, the first syllable of nawā(n), as cuneiform É bītu 'house' gives bi; the formula verb A-TA-I-\*301-WA-JA, from the same √n-w-y, writes \*301 where NA would serve.
+Stands alone 240 times, 83% of its 288 uses, 229 of them on Haghia Triada hanging nodules, where its fellows are single syllabograms (KU, KA, SI, RO, ZE, TE, I, TA) and no commodity sign; the nodules hung from documents, not goods (Schoep 2002, 194). On the tablets it is an entry counted or supplied: a class among classes of men on HT 127b, a recipient on HT 10a and HT 55a, and on HT 110b of a fraction Schoep refers to the figs above; Schoep takes it as a single sign 'designating people' (2002, 138). It is measured by fractions, ¾ on HT 110b and ½ on another face of the nodule HT Wa 1025. Three ligatures set a word for a share before it: MI+\*301 'portion', I+\*301 'ration' and DA+\*301 'due'. \*307 'sanctuary' joins it on KH 42 and is totalled beside it on HT 127b.
+
+The word is nawûm 'steppe; encampment (man and beast)' (Huffmon, APNM 237; Mari na-wu-um, GlOS 2, 116), the pastoral camp as a unit. Greek ναός 'temple, house of a god, sanctuary' (Beekes, EDG 995) likely descends from nawā, so the sense here may be the peak sanctuary shrines. At Khania it follows a name where CYP and VIN stand (KH 11) and is listed beside CYP (KH 84), perhaps as the camp's goods.
+
+The syllabic value na is acrophonic, the first syllable of nawā(n), as cuneiform É bītu 'house' gives bi; the formula verb A-TA-I-\*301-WA-JA, from the same √n-w-y, writes \*301 where NA would serve.
 
 The sign stands at the head of the prayer: A-TA-I-\*301-WA-JA is its first word, 'toujours en début d'inscription, et seulement là' (Karetsou, Godart and Olivier 1985, 128), cut on vessels left at the peak sanctuaries. Head, peak and beginning are one Semitic word: Hebrew rōš 'head; height, peak; beginning; leader' (HALOT 1164), Ugaritic rỉš 'head; top' (DULAT 713–714). YHWH comes down on the rōš of the mountain (Exod 19:20), and nāweh is his holy abode, nəwēh qodšekā (Exod 15:13; HALOT 678). In shape, a stem with a curve at its upper left, \*301 resembles Phoenician resh, the letter named 'head'; what the sign itself depicts is unknown. See NU-WI.
 
@@ -56,7 +60,7 @@ The sign stands at the head of the prayer: A-TA-I-\*301-WA-JA is its first word,
 
 ### Source
 
-di Mino; Karetsou, Godart and Olivier 1985; HALOT; DULAT; GlOS 2
+di Mino; Karetsou, Godart and Olivier 1985; HALOT; DULAT; GlOS 2; Schoep 2002; Huffmon 1965; Beekes 2010
 
 ## Attestations
 

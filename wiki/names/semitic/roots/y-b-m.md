@@ -27,6 +27,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/I_JA_PA_ME\|I-JA-PA-ME]] | yabame | brother-in-law (kin title); I-JA-PA-ME · TA-TA 'the brother-in-law of Tatta'; rival ybmt 'sister-in-law', Anat's epithet | 1 |
+| [[wiki/names/semitic/names/I_JA_PA_ME\|I-JA-PA-ME]] | yabame | brother-in-law (kin title); I-JA-PA-ME · TA-TA 'the brother-in-law of Tatta' | 1 |
 
 <!-- END kaphtor:record -->

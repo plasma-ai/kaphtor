@@ -80,6 +80,7 @@ di Mino; Gelb 1980; GlOS 2; DMic I; Uchitel 2016a
 | Occurrences | 2 in 2 documents |
 | Sites | Zakros |
 | Supports | Tablet 2 |
+| Contact reference | am_gelb_n_01409 |
 
 ### Note
 

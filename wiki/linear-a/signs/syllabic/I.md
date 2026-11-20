@@ -55,6 +55,8 @@ GORILA's chart of AB 28 "may" conflate two signs, one drawn from a hand, the oth
 | [[wiki/linear-a/words/D/DA_I_PI_TA\|DA-I-PI-TA]] | Ṭayyibat | SPECULATIVE |
 | [[wiki/linear-a/words/D/DI_JA_I\|DI-JA-I]] | Diʾyay | SPECULATIVE |
 | [[wiki/linear-a/words/D/DU_MA_I_NA\|DU-MA-I-NA]] | ḏū-maʿīna | SPECULATIVE |
+| [[wiki/linear-a/words/I/I\|I]] | ḥipru | CANDIDATE |
+| [[wiki/linear-a/words/I/I_plus_star301\|I+\*301]] | ḥipru nawā | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_DA\|I-DA]] | ʾIda | PROBABLE |
 | [[wiki/linear-a/words/I/I_DA_A\|I-DA-A]] | ʾIda | PROBABLE |
 | [[wiki/linear-a/words/I/I_DA_DA\|I-DA-DA]] | dādā | SPECULATIVE |
@@ -63,6 +65,7 @@ GORILA's chart of AB 28 "may" conflate two signs, one drawn from a hand, the oth
 | [[wiki/linear-a/words/I/I_DA_PA3_I_SA_RI\|I-DA-PA₃-I-SA-RI]] | ʾIdā bi-ʾišarī | CANDIDATE |
 | [[wiki/linear-a/words/I/I_DU_NE_SI\|I-DU-NE-SI]] | Yidu-naḥši | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_DU_TI\|I-DU-TI]] | Yidu-ti | SPECULATIVE |
+| [[wiki/linear-a/words/I/I_DU_WI\|I-DU-WI]] | Yaduwi | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_JA\|I-JA]] | ʾiya | CANDIDATE |
 | [[wiki/linear-a/words/I/I_JA_PA_ME\|I-JA-PA-ME]] | yabame | CANDIDATE |
 | [[wiki/linear-a/words/I/I_JA_TE\|I-JA-TE]] | ʾiyyate | CANDIDATE |

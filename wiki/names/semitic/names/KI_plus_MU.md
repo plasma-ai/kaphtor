@@ -68,6 +68,6 @@ Read words on the same documents.
 | Word | Reading | Meaning |
 |---|---|---|
 | KU-RO | kull | total, sum (accounting term) |
-| [[wiki/names/hurrian/names/KA_U_ZU_NI\|KA-U-ZU-NI]] | Kawṯuni | Kawṯuni (Hurrian personal name Kaw-šuni); rival Kawṯān, Heb. Kûšān |
+| [[wiki/names/hurrian/names/KA_U_ZU_NI\|KA-U-ZU-NI]] | Kawṯuni | Kawṯuni (Hurrian personal name Kaw-šuni) |
 
 <!-- END kaphtor:record -->

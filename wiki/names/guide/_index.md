@@ -3,7 +3,7 @@ name: wiki/names/guide
 title: "Guide"
 desc: "Ways across the whole record: how to read a page, the kinds of name, and every name in one ledger."
 created: 2026-11-11T23:39:03Z
-updated: 2026-11-19T13:55:37Z
+updated: 2026-11-21T15:34:41Z
 ---
 
 # Guide
@@ -18,6 +18,6 @@ updated: 2026-11-19T13:55:37Z
 
 [[wiki/names/guide/ledger|ledger]]: Every name in one table: reading, layer, kind, root, standing and documents.
 
-[[wiki/names/guide/map|map]]: A map of Crete with the 384 dots of the names, one for each name at each of 26 find sites, coloured by language layer.
+[[wiki/names/guide/map|map]]: A map of Crete with the 387 dots of the names, one for each name at each of 26 find sites, coloured by language layer.
 
 ***

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/I/I_DU_NE_SI
 title: "I-DU-NE-SI"
-desc: "Yidu-naḥši: Strength is alive, the arm thrives (personal name); rival Yidu-nešše, Hurrian 'prosperity'. Lexicon, SPECULATIVE (tier 1)."
+desc: "Yidu-naḥši: Strength is alive, the arm thrives (personal name). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "compound", "hapax", "personal_name"]
 kind: "word"
 form: "I-DU-NE-SI"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Yidu-naḥši |
-| Meaning | Strength is alive, the arm thrives (personal name); rival Yidu-nešše, Hurrian 'prosperity' |
+| Meaning | Strength is alive, the arm thrives (personal name) |
 | Root | y-d + n-ḥ-š |
 | Proto-Semitic | \*yad- ~ \*ʾid- (#2046) + \*nḥš (#4690) |
 | Language layer | Semitic |
@@ -78,6 +78,7 @@ di Mino; Pagan 1998; Gelb 1980
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |
+| Contact reference | am_gelb_n_01599 |
 
 ### Note
 

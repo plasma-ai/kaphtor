@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/E
 desc: "Words whose first sign begins with E, and words that open with an illegible sign."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-12T00:26:03Z
+updated: 2026-11-20T14:16:36Z
 ---
 
 # wiki/linear-a/words/E
@@ -17,7 +17,7 @@ updated: 2026-11-12T00:26:03Z
 
 [[wiki/linear-a/words/E/E_MI|E_MI]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/E/E_NA_SI|E_NA_SI]]: ʾenāš: men, people (section heading); rival copper, bronze. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/E/E_NA_SI|E_NA_SI]]: ʾenāš: men, people (section heading). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/E/E_TA2_QE|E_TA2_QE]]: Unread (role only): personal name; 1 occurrence(s).
 

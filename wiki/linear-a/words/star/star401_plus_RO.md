@@ -1,12 +1,12 @@
 ---
 name: wiki/linear-a/words/star/star401_plus_RO
 title: "*401+RO"
-desc: "Unread sign (ligature, component read); 3 occurrence(s)."
+desc: "Unread sign (ligature, component read); 2 occurrence(s)."
 tags: ["linear-a", "word", "unread"]
 kind: "word"
 form: "*401+RO"
 datasets: ["unread_signs"]
-attestations: ["KH31", "KNZg57a"]
+attestations: ["KNZg57a"]
 created: 2026-11-12T00:26:03Z
 updated: 2026-11-12T00:26:03Z
 ---
@@ -25,7 +25,6 @@ updated: 2026-11-12T00:26:03Z
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/KH/KH/KH31\|KH31]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KN/KNZg/KNZg57a\|KNZg57a]] | Knossos | ivory object | incomplete |
 
 ## In translations

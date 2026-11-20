@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-TE stands with VIN in the heading of every HT wine tablet and with the large barley entries of HT 40, 52 and 133 (Montecchi 2010, 17, 19). It marks commodity-number entries on 54 documents, and 25 HT nodules carry it alone (HT Wa 1122–1146). On the tablets that list several commodities, a section carries either TE or the heading SA-RA₂, never both, and there olives are booked under TE, never under SA-RA₂ (Schoep 2002, 165). The two mark different transactions: TE a contribution paid in, SA-RA₂ goods for the queen's establishment. terûmā 'contribution, offering' (HALOT 1788), Ug. trmt 'offering', trmt lbš w ktn 'an offering: a garment and a tunic' (KTU 1.43:3; DULAT 866); TE abbreviates it, and VIN+TE is a wine-offering. Weak point: KU stands beside the full KU-RO kull, where no TE-RU-MA stands beside TE. See RU-MA.
+TE stands with VIN in the heading of every HT wine tablet and with the large barley entries of HT 40, 52 and 133 (Montecchi 2010, 17, 19). It marks commodity-number entries on 54 documents, and 25 HT nodules carry it alone (HT Wa 1122–1146). On the tablets that list several commodities, a section carries either TE or the heading SA-RA₂, never both, and there olives are booked under TE, never under SA-RA₂ (Schoep 2002, 165). The two mark different transactions: TE a contribution paid in, SA-RA₂ goods for the queen's establishment. terûmā 'contribution, offering' (HALOT 1788), Ug. trmt 'offering', trmt lbš w ktn 'an offering: a garment and a tunic' (KTU 1.43:3; DULAT 866); TE abbreviates it, and VIN+TE, GORILA's A 588, is a wine-offering, cut on the pithos KN Zb 34 (Pierini 2022, 46–47) and on the pithos rim THE Zb 13. Weak point: KU stands beside the full KU-RO kull, where no TE-RU-MA stands beside TE. See RU-MA.
 
 ### Cognates
 
@@ -50,10 +50,13 @@ TE stands with VIN in the heading of every HT wine tablet and with the large bar
 | Hebrew | terûmā (תְּרוּמָה) 'contribution, sacred donation' (Exod 25:2), from √r-w-m |
 | Ugaritic | trmt 'offering' (KTU 1.43:3; 1.6 VI:44; Copenhagen Ugaritic Corpus lexicon) |
 | Akkadian | cf. tāmartu 'gift, present (to temple or king)' |
+| Linear B | o for o-pe-ro 'debt, due', the abbreviation set beside the Linear A transactional signs (Melena 2014, 170) |
+| Cuneiform | the logograms write other words: MU.(UN.)DU šūrubtu 'receipts, income, receivables' (CAD Š/3 370), IGI.DUḪ.A tāmartu (CAD T 111) |
+| Hebrew (abbreviation) | t for tr(w)mh 'heave-offering, contribution for the sanctuary', on wine and oil amphoras from Masada (DNWSI 1201) |
 
 ### Source
 
-di Mino; Montecchi 2010; Schoep 2002; HALOT; DULAT
+di Mino; Montecchi 2010; Schoep 2002; HALOT; DULAT; Pierini 2022
 
 ## Attestations
 
@@ -81,7 +84,7 @@ di Mino; Montecchi 2010; Schoep 2002; HALOT; DULAT
 | [[wiki/linear-a/inscriptions/HT/HT/HT133\|HT133]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/KN/KN/KN28b\|KN28b]] | Knossos | Tablet | none |
 | [[wiki/linear-a/inscriptions/KN/KN/KN32b\|KN32b]] | Knossos | Tablet | none |
-| [[wiki/linear-a/inscriptions/PH/PH/PH27\|PH27]] | Phaistos | Tablet | none |
+| [[wiki/linear-a/inscriptions/PH/PH/PH27\|PH27]] | Phaistos | Tablet | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/SAM/SAMWa/SAMWa1\|SAMWa1]] | Samothrace | Nodule | complete |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA29\|ZA29]] | Zakros | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1122\|HTWa1122]] | Haghia Triada | Nodule | complete |

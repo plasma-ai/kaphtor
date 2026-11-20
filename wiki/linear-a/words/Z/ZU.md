@@ -51,6 +51,7 @@ KH 91, a ration list: GRA 1, VIN\[, \*316 1 13/20, ZU\[ \]≈ ⅙, TU ¹⁄₁�
 | Hebrew | šûmîm 'garlic', among the foods of Egypt, Num 11:5 (HALOT 1443) |
 | Arabic | ṯūm 'garlic, Allium sativum' (Lane 365) |
 | Aramaic | tūmā 'garlic' (HALOT 1443) |
+| Cuneiform | SUM.SAR for šūmū (CAD Š/3 298) |
 
 ### Source
 

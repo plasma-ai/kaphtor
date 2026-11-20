@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/PH/PH/PH13b
 title: "PH13b"
-desc: "Lames (short thin tablet), Phaistos, MMIIB. Translation: none."
+desc: "Lames (short thin tablet), Phaistos, MMIIB. GORILA I 303: ]*356, a blank stretch, then [; the one sign of the face stands between two breaks.. Translation: none."
 tags: ["linear-a", "inscription", "translation-none", "lames-(short-thin-tablet)"]
 kind: "inscription"
 id: "PH13b"
 site: "Phaistos"
 support: "Lames (short thin tablet)"
-period: "MMIIB"
+period: "MMIIB. GORILA I 303: ]*356, a blank stretch, then [; the one sign of the face stands between two breaks."
 translation: "none"
 words: []
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Phaistos |
 | Findspot |  |
 | Support | Lames (short thin tablet) |
-| Period | MMIIB |
+| Period | MMIIB. GORILA I 303: \]\*356, a blank stretch, then \[; the one sign of the face stands between two breaks. |
 | Scribe |  |
 | Edition | GORILA 1 |
 | Series | PH |
@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 Transliteration, line by line:
 
-1. \*356
+1. \]\*356\[
 
 Unicode (Linear A block):
 

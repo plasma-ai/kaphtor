@@ -67,7 +67,7 @@ di Mino
 | [[wiki/linear-a/inscriptions/KH/KH/KH84\|KH84]] | Khania | Tablet | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/KH/KH/KH85\|KH85]] | Khania | Tablet | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/KH/KH/KH91\|KH91]] | Khania | Tablet | complete; form not in transliteration |
-| [[wiki/linear-a/inscriptions/KH/KH/KH18\|KH18]] | Khania | Tablet | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/KH/KH/KH18\|KH18]] | Khania | Tablet | complete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/KH/KH/KH68_plus_71\|KH68+71]] | Khania | Tablet | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HT/HT33\|HT33]] | Haghia Triada | Tablet | incomplete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/MI/MI/MI2\|MI2]] | Milos | Tablet | none; form not in transliteration |

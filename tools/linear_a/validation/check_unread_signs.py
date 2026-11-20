@@ -18,6 +18,9 @@ Curated fields (kind, status, components, read_components, on_file, note) are ne
 An entry's `word_parts` maps a document to the word its token belongs to there, where a line or face end
 splits that word in the corpus record: one token on each named document is left out of the count, and a
 named document with no such token is reported under `field`.
+An entry's `at_break` lists the documents where the sign stands whole beside a break (`*347[`, `]*336[`).
+Those tokens are damaged and never counted; a sign with no undamaged token stays listed, at frequency 0,
+while one named document holds such a token, and a named document that holds none is reported under `field`.
 Exit status 1 when anything is reported, 2 when a file it reads is not in the checkout.
 
 `--rank` prints instead, for each listed sign, the records with no translation on which it is the only
@@ -76,9 +79,25 @@ def occurrences(corpus: dict, lex_hit, excluded=()) -> dict[str, list[tuple[str,
     return dict(out)
 
 
-def check(doc: dict, occ: dict, lex_hit) -> list[tuple[str, str, str]]:
-    """Compare the hand file with the corpus. Returns a list of (kind, sign, detail)."""
+def broken_tokens(corpus: dict) -> dict[str, set[str]]:
+    """Sign -> the documents that hold it whole beside a break: a damaged token that is one sign token once
+    the brackets and hyphens at its ends are taken off (`*347[`, `]*336[`, `]-RE`)."""
+    out = defaultdict(set)
+    for key, record in corpus.items():
+        for token in record.get('transliteratedWords') or []:
+            if is_counted(token) or not words.damaged(token := token.strip()):
+                continue
+            core = token.strip('[]-')
+            if core and not (is_counted(core) or words.damaged(core) or words.syllabic_runs(core)):
+                out[core].add(key)
+    return dict(out)
+
+
+def check(doc: dict, occ: dict, lex_hit, broken: dict | None = None) -> list[tuple[str, str, str]]:
+    """Compare the hand file with the corpus. Returns a list of (kind, sign, detail).
+    `broken` is `broken_tokens` of the corpus; without it no entry's `at_break` can hold."""
     issues = []
+    broken = broken or {}
     listed = {e['sign']: e for e in doc['entries']}
     excluded = doc.get('excluded', {})
     for sign, hits in occ.items():
@@ -88,10 +107,15 @@ def check(doc: dict, occ: dict, lex_hit) -> list[tuple[str, str, str]]:
         if (hit := lex_hit(sign)):
             issues.append(('now_read', sign, f"lexicon: {hit['word']} {hit.get('reading')!r}"))
             continue
-        hits = occ.get(sign)
-        if not hits:
+        hits = occ.get(sign) or []
+        at_break = entry.get('at_break') or []
+        held = [document for document in at_break if document in broken.get(sign, ())]
+        if not hits and not held:
             issues.append(('not_in_corpus', sign, 'no undamaged corpus token yields this sign'))
             continue
+        for document in at_break:
+            if document not in held:
+                issues.append(('field', sign, f'at_break: {document} holds no token of this sign beside a break'))
         for document in entry.get('word_parts') or {}:
             part = next((hit for hit in hits if hit[0] == document), None)
             if part is None:
@@ -162,7 +186,7 @@ def main():
                           + (' …' if len(records) > 6 else ''))
                 print(f'{sum(len(r) for _, r in rows)} record(s) wait on one sign each')
             return 0
-        issues = check(doc, occurrences(corpus, lex_hit, doc.get('excluded', {})), lex_hit)
+        issues = check(doc, occurrences(corpus, lex_hit, doc.get('excluded', {})), lex_hit, broken_tokens(corpus))
     except NotInCheckout as e:
         print(f'stopped: {e}', file=sys.stderr)
         return 2

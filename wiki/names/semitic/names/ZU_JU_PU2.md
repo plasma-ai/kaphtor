@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/ZU_JU_PU2
 title: "ZU-JU-PU₂"
-desc: "ṯulpu: flute; here the flute-player, the trade of TU-QE-NU Tuqnu; rival Hurrian Tulbiya. Semitic, CANDIDATE."
+desc: "ṯulpu: flute; here the flute-player, the trade of TU-QE-NU Tuqnu. Semitic, CANDIDATE."
 tags: ["names", "title", "semitic"]
 kind: "name"
 form: "ZU-JU-PU₂"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**ṯulpu** · flute; here the flute-player, the trade of TU-QE-NU Tuqnu; rival Hurrian Tulbiya
+**ṯulpu** · flute; here the flute-player, the trade of TU-QE-NU Tuqnu
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/titles\|Title]] |
 | Reading | ṯulpu |
-| Meaning | flute; here the flute-player, the trade of TU-QE-NU Tuqnu; rival Hurrian Tulbiya |
+| Meaning | flute; here the flute-player, the trade of TU-QE-NU Tuqnu |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/th-l-p\|ṯ-l-p]] |
 | Proto-Semitic | \*ṯulp- (#3787) |

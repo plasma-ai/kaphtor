@@ -31,4 +31,6 @@ updated: 2026-11-12T00:26:03Z
 
 A sign. Status **unread** (nothing on file).
 
+GORILA A 648: the footed cup 400VAS with a sign above its rim, read 400VAS+RI with the RI dotted, or 400VAS+E with the fraction sign (GORILA V 311, 318). HT 110b .1, counted 3.
+
 <!-- END kaphtor:record -->

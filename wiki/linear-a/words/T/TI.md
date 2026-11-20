@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-A sign of two functions: the syllabogram ti (AB 37), and, standalone with quantities, the fig logogram, the onset of tiʾin. Eleven standalone occurrences at six sites, most followed by numerals, with quantities from ¼ to 100. Pan-Semitic \*tiʔin- 'fig', one of the seven species of Deut 8:8. Weak points: NI is the confirmed fig logogram, and TI never shares a tablet with it: TI stands alone at Malia, Palaikastro and Pyrgos, NI alone at Khania and Knossos; no spelled-out TI-NI survives (HT 51a .2 TI-NI\[ is broken after NI); on HT 119, TI 7 stands among names inside a personnel total (KU-RO 160 with VIR 68). See TE-\*301.
+A sign of two functions: the syllabogram ti (AB 37), and, standalone with quantities, the fig logogram, the onset of tiʾin. Eleven standalone occurrences at six sites, most followed by numerals, with quantities from ¼ to 100. Pan-Semitic \*tiʔin- 'fig', one of the seven species of Deut 8:8. Weak points: NI is the confirmed fig logogram, and TI never shares a tablet with it: TI stands alone at Malia, Palaikastro and Pyrgos, NI alone at Khania and Knossos; no spelled-out TI-NI survives (HT 51a .2 TI-NI\[ is broken after NI); on HT 119, TI 7 stands among names inside a personnel total (KU-RO 160 with VIR 68). On HT 104 TI follows each of the three partners' names, written on with the name; the editors allow it as an ideogram there (GORILA I 171), and what it counts is not named. See TE-\*301 and PA-RO-SU-TI.
 
 ### Cognates
 
@@ -51,7 +51,9 @@ A sign of two functions: the syllabogram ti (AB 37), and, standalone with quanti
 | Ugaritic | tʾn |
 | Akkadian | tittu / tiʔittu / tīnātu |
 | Arabic | tīn (تين) |
-| Phoenician | unvocalized |
+| Ammonite | tʾn 'figs', a collective (AUSS xiv 145; DNWSI 1201) |
+| Linear B | figs are NI, taken over from Linear A (Killen 2024, 993) |
+| Cuneiform | GIŠ.PÈŠ for tittu (CAD T 435); Ebla GIŠ.PÈŠ = ti-ì-tum; Ugarit polyglot PÈŠ = tittu = ti-\[n\]a-tu₄ (GlOS 2, 290) |
 
 ### Source
 

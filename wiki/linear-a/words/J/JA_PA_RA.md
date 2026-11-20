@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/J/JA_PA_RA
 title: "JA-PA-RA"
-desc: "yapra: may it bear fruit (3ms volitive √p-r-y); rival yapʾara 'may it glorify'. Lexicon, CANDIDATE (tier 2)."
+desc: "yapra: may it bear fruit (3ms volitive √p-r-y). Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "hapax", "libation_formula", "ritual", "verb"]
 kind: "word"
 form: "JA-PA-RA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | yapra |
-| Meaning | may it bear fruit (3ms volitive √p-r-y); rival yapʾara 'may it glorify' |
+| Meaning | may it bear fruit (3ms volitive √p-r-y) |
 | Root | p-r-y |
 | Proto-Semitic | \*pir- (#756) |
 | Language layer | Semitic |

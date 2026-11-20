@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/U_TA_I_SE
 title: "U-TA-I-SE"
-desc: "ʿUtay-se: personal name: ʿUtay with the -SE suffix, a recipient of cyperus; rival a Cretan name of another language (LB u-ta-jo). Semitic, SPECULATIVE."
+desc: "ʿUtay-se: personal name: ʿUtay with the -SE suffix, a recipient of cyperus. Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "U-TA-I-SE"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**ʿUtay-se** · personal name: ʿUtay with the -SE suffix, a recipient of cyperus; rival a Cretan name of another language (LB u-ta-jo)
+**ʿUtay-se** · personal name: ʿUtay with the -SE suffix, a recipient of cyperus
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | ʿUtay-se |
-| Meaning | personal name: ʿUtay with the -SE suffix, a recipient of cyperus; rival a Cretan name of another language (LB u-ta-jo) |
+| Meaning | personal name: ʿUtay with the -SE suffix, a recipient of cyperus |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/ayin-t-w\|ʿ-t-w]] |
 | Proto-Semitic | \*ʕtw (#4412) |

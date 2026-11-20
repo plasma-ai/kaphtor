@@ -78,6 +78,7 @@ di Mino; DULAT; GlOS 1; Huffmon 1965; Gelb 1980; CAD E
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |
+| Contact reference | am_gelb_n_00377 |
 
 ### Note
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/names/hurrian/names/TA_RI_NA
 title: "TA-RI-NA"
-desc: "Tarinna: Tarinna (Hurrian personal name), stem tarinn-; rivals trn 'mast' and the name trn 'Bearded'. Hurrian, SPECULATIVE."
+desc: "Tarinna: Tarinna (Hurrian personal name), stem tarinn-. Hurrian, SPECULATIVE."
 tags: ["names", "personal-name", "hurrian"]
 kind: "name"
 form: "TA-RI-NA"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Tarinna** · Tarinna (Hurrian personal name), stem tarinn-; rivals trn 'mast' and the name trn 'Bearded'
+**Tarinna** · Tarinna (Hurrian personal name), stem tarinn-
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Tarinna |
-| Meaning | Tarinna (Hurrian personal name), stem tarinn-; rivals trn 'mast' and the name trn 'Bearded' |
+| Meaning | Tarinna (Hurrian personal name), stem tarinn- |
 | Language layer | [[wiki/names/hurrian/_index\|Hurrian]] |
 | Reading's standing | SPECULATIVE |
 | Standing as a personal name | SPECULATIVE |
@@ -38,7 +38,7 @@ HT 10b .1–2 TA-RI-NA 15, TA closing .1 and RI-NA opening .2, whole and undotte
 
 ## As a name
 
-Tarinna: Tarinnam, ta-ri-nam, tarinn(i)=a=m(e/a) (VHN 299; Monti 2017, 351); Tarinam at Šemšara (Monti 2017, 413); Tarinze (Monti 2017, 301). Rival: Ugaritic trn 'mast' (semitic_roots no. 2979).
+Tarinna: Tarinnam, ta-ri-nam, tarinn(i)=a=m(e/a) (VHN 299; Monti 2017, 351); Tarinam at Šemšara (Monti 2017, 413); Tarinze (Monti 2017, 301). Rival: Ugaritic trn 'mast' (semitic_roots no. 2979). Rival: the name trn 'Bearded'.
 
 ## Cognates
 
@@ -63,6 +63,6 @@ Read words on the same documents.
 
 | Word | Reading | Meaning |
 |---|---|---|
-| DA-RE | dār | estate, household (a unit receiving men and grain); rival 'kin group, clan' |
+| DA-RE | dār | estate, household (a unit receiving men and grain) |
 
 <!-- END kaphtor:record -->

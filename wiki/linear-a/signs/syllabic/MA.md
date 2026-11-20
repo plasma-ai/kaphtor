@@ -64,6 +64,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/K/KI_NI_MA\|KI-NI-MA]] | kihinīma | CANDIDATE |
 | [[wiki/linear-a/words/K/KU_MA_JU\|KU-MA-JU]] | Qumalu | SPECULATIVE |
 | [[wiki/linear-a/words/K/KU_RU_MA\|KU-RU-MA]] | kurma / gurma | PROBABLE |
+| [[wiki/linear-a/words/M/MA\|MA]] | maru | SPECULATIVE |
 | [[wiki/linear-a/words/M/MA_plus_RU\|MA+RU]] | maru | PROBABLE |
 | [[wiki/linear-a/words/M/MA_DI\|MA-DI]] | Maʾdi | SPECULATIVE |
 | [[wiki/linear-a/words/M/MA_I_MI\|MA-I-MI]] | mayimi | SPECULATIVE |

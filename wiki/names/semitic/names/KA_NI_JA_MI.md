@@ -32,11 +32,11 @@ updated: 2026-11-11T23:39:03Z
 | Reading's standing | SPECULATIVE |
 | Standing as a divine name | SPECULATIVE |
 | Standing of the layer | SPECULATIVE (lexicon_reading) |
-| Source | di Mino; HALOT; Olyan 1988; Gelb 1980; Krahmalkov 2000; Biella 1982 |
+| Source | di Mino; HALOT; Olyan 1988; Gelb 1980; Krahmalkov 2000; Biella 1982; Tugendhaft 2018 |
 
 ## Note
 
-CR Zf 1, a gold pin of unknown findspot: A-MA-WA-SI · KA-NI-JA-MI. qāniy-yammi 'Creator of the Sea': the masculine construct participle qāniy (Amorite qanijum) with the genitive yammi 'of the Sea'; KA writes q. √q-n-y is a Bronze Age divine epithet: Ugaritic qnyt ʾilm of Athirat (KTU 1.4 III 26); the Hittite divine name Elkunirša, ʾil qōnē ʾarṣ 'El, creator of the earth' (HALOT 1112), whose wife is Ašertu, Athirat (Olyan 1988, 41–42); Karatepe ʾl qn ʾrṣ (KAI 26 A III 18); Gen 14:19. El's Ugaritic creation epithet is bny bnwt (KTU 1.4 II 11). Rival: -MI as mimation, qny-m 'possession, dedicated property', the pin named as an offering: Sabaic qnym, entrusted to ʾAlmaqah in his temple at Maʾrib (Ja 841), beside hqny 'dedicate an offering to a god' (Biella 1982, 459).
+CR Zf 1, a gold pin of unknown findspot: A-MA-WA-SI · KA-NI-JA-MI. qāniy-yammi 'Creator of the Sea': the masculine construct participle qāniy (Amorite qanijum) with the genitive yammi 'of the Sea'; KA writes q. Ugarit writes the genitive in the name ʿbdym, ÌR-A.AB.BA 'to be read yammi' (Tugendhaft 2018, 68), and Yamm is a god of cult and of names: dIa-a-mi receives sacrifice at Emar (76 n. 36), Yamm offerings at Ugarit beside El, Baal and Athirat, with the names ymʾil 'Yamm Is God', ʾilym and mlkym (69–70); Mari had a king Sumu-Yamam (61 n. 45), while Akkadian tâmtu stands in a few Ur III names only (77 n. 46). √q-n-y is a Bronze Age divine epithet: Ugaritic qnyt ʾilm of Athirat (KTU 1.4 III 26); the Hittite divine name Elkunirša, ʾil qōnē ʾarṣ 'El, creator of the earth' (HALOT 1112), whose wife is Ašertu, Athirat (Olyan 1988, 41–42); Karatepe ʾl qn ʾrṣ (KAI 26 A III 18); Gen 14:19. El's Ugaritic creation epithet is bny bnwt (KTU 1.4 II 11). Rival: -MI as mimation, qny-m 'possession, dedicated property', the pin named as an offering: Sabaic qnym, entrusted to ʾAlmaqah in his temple at Maʾrib (Ja 841), beside hqny 'dedicate an offering to a god' (Biella 1982, 459).
 
 ## As a name
 
@@ -69,7 +69,7 @@ Read words on the same documents.
 
 | Word | Reading | Meaning |
 |---|---|---|
-| [[wiki/names/semitic/names/A_MA_WA_SI\|A-MA-WA-SI]] | ʿAmma-wāṣiʾ | the Kinsman who comes forth (El epithet); rival 'Strong One' |
+| [[wiki/names/semitic/names/A_MA_WA_SI\|A-MA-WA-SI]] | ʿAmma-wāṣiʾ | the Kinsman who comes forth (El epithet) |
 | I-JA | ʾiya | island |
 | [[wiki/names/hurrian/names/QA_KI_SE_NU_TI\|QA-KI-SE-NU-TI]] | Kaki-šenni-ti | personal name, Hurrian type in -šenni 'brother' |
 

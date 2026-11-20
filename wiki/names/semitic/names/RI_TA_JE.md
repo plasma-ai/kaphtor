@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/RI_TA_JE
 title: "RI-TA-JE"
-desc: "Lītāy: (My) Might (personal name; lītu 'might, victory' + hypocoristic -āy); rival Rašiyya. Semitic, SPECULATIVE."
+desc: "Lītāy: (My) Might (personal name; lītu 'might, victory' + hypocoristic -āy). Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "RI-TA-JE"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Lītāy** · (My) Might (personal name; lītu 'might, victory' + hypocoristic -āy); rival Rašiyya
+**Lītāy** · (My) Might (personal name; lītu 'might, victory' + hypocoristic -āy)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Lītāy |
-| Meaning | (My) Might (personal name; lītu 'might, victory' + hypocoristic -āy); rival Rašiyya |
+| Meaning | (My) Might (personal name; lītu 'might, victory' + hypocoristic -āy) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/l-alef-y\|l-ʾ-y]] |
 | Proto-Semitic | \*lVHVt- (#1228), \*lVʾVy- (#K0134) |
@@ -66,7 +66,7 @@ Read words on the same documents.
 
 | Word | Reading | Meaning |
 |---|---|---|
-| [[wiki/names/semitic/names/PI_SA\|PI-SA]] | Pīsa | personal name, '(a bird)', Akk. būṣu; rival an institution; a recipient |
+| [[wiki/names/semitic/names/PI_SA\|PI-SA]] | Pīsa | personal name, '(a bird)', Akk. būṣu |
 | [[wiki/names/semitic/names/AU_RE_TE\|AU-RE-TE]] | ʾawrēt | luminous one (feminine) |
 
 <!-- END kaphtor:record -->

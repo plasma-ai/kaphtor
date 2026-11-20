@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "complete"
-words: ["DE-DI", "KE-KI-RU", "KI-RO", "KU-RO", "PA-TA-NE", "SA-RU", "TU-MA"]
+words: ["*86", "DE-DI", "KE-KI-RU", "KI-RO", "KU-RO", "PA-TA-NE", "SA-RU", "TU-MA"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -71,7 +71,7 @@ Unicode (Linear A block):
 
 **SPECULATIVE**, complete (status: complete).
 
-> Owed: Tūma 1, Patne 1, Dedī 1, Kikkaru 1, šarru 1. Total: 5. \[Section 2:\] RA-\[?\]-DE-ME-TE (unread) 1, \*21F-TU-\[?\] (unread) 1.
+> Owed: Tūma 1, Patne 1, Dedī 1, Kikkaru 1, šarru 1. Total: 5. \[Section 2, the ship (\*86):\] RA-\[?\]-DE-ME-TE (unread) 1, \*21F-TU-\[?\] (unread) 1.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ Unicode (Linear A block):
 | 1 | 1 | 1 | CONFIRMED |  |
 | [[wiki/linear-a/words/K/KU_RO\|KU-RO]] | kull | total | CONFIRMED | CONFIRMED (lexicon) |
 | 5 | 5 | 5 | CONFIRMED |  |
-| [[wiki/linear-a/words/star/star86\|\*86]] | NA | section heading (standalone use) | SPECULATIVE |  |
+| [[wiki/linear-a/words/star/star86\|\*86]] | (logogram) | ship, heading two names counted 1 each | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/R/RA_q_DE_ME_TE\|RA-&#91;?&#93;-DE-ME-TE]] | unread | \[recipient, unread: a sign lost, DE dotted\] | SPECULATIVE | unread |
 | 1 | 1 | 1 | CONFIRMED |  |
 | [[wiki/linear-a/words/star/star21F_TU_q_broken_end\|\*21F-TU-&#91;?&#93;]] | unread | \[recipient, unread: a sign lost after TU\] | SPECULATIVE | unread |
@@ -100,7 +100,7 @@ Context: Debt register—KI-RO header with 5 one-unit entries, names or titles, 
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/D/DE_DI|DE-DI]], [[wiki/linear-a/words/K/KE_KI_RU|KE-KI-RU]], [[wiki/linear-a/words/K/KI_RO|KI-RO]], [[wiki/linear-a/words/K/KU_RO|KU-RO]], [[wiki/linear-a/words/P/PA_TA_NE|PA-TA-NE]], [[wiki/linear-a/words/S/SA_RU|SA-RU]], [[wiki/linear-a/words/T/TU_MA|TU-MA]].
+[[wiki/linear-a/words/star/star86|\*86]], [[wiki/linear-a/words/D/DE_DI|DE-DI]], [[wiki/linear-a/words/K/KE_KI_RU|KE-KI-RU]], [[wiki/linear-a/words/K/KI_RO|KI-RO]], [[wiki/linear-a/words/K/KU_RO|KU-RO]], [[wiki/linear-a/words/P/PA_TA_NE|PA-TA-NE]], [[wiki/linear-a/words/S/SA_RU|SA-RU]], [[wiki/linear-a/words/T/TU_MA|TU-MA]].
 
 ## Corpus note
 

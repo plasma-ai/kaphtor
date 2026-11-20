@@ -26,6 +26,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/DU_ZU_WA\|DU-ZU-WA]] | ḏū-ṯuwāʕ | He of the Lord (personal name; ḏū 'he of' + ṯuwāʕ 'lord'); rival 'the noble one' | 1 |
+| [[wiki/names/semitic/names/DU_ZU_WA\|DU-ZU-WA]] | ḏū-ṯuwāʕ | He of the Lord (personal name; ḏū 'he of' + ṯuwāʕ 'lord') | 1 |
 
 <!-- END kaphtor:record -->

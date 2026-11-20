@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/A/A_RU
 title: "A-RU"
-desc: "Ḫaru: Ḫaru (Hurrian personal name); rival the Semitic name Ḫayru 'Excellent'. Lexicon, SPECULATIVE (tier 1)."
+desc: "Ḫaru: Ḫaru (Hurrian personal name). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "personal_name"]
 kind: "word"
 form: "A-RU"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Ḫaru |
-| Meaning | Ḫaru (Hurrian personal name); rival the Semitic name Ḫayru 'Excellent' |
+| Meaning | Ḫaru (Hurrian personal name) |
 | Language layer | Hurrian |
 | Tags | personal_name |
 | Semantic field | personal_name |

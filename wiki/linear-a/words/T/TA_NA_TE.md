@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/T/TA_NA_TE
 title: "TA-NA-TE"
-desc: "Tanāt: Tanāt, a variant of Tinit, the goddess TNT, feminine of √t-n-n 'sea-dragon'; rival a form of A-TA-NA-TE ʾAtanat. Lexicon, CANDIDATE (tier 2)."
+desc: "Tanāt: Tanāt, a variant of Tinit, the goddess TNT, feminine of √t-n-n 'sea-dragon'. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "hapax", "ritual", "theonym"]
 kind: "word"
 form: "TA-NA-TE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Tanāt |
-| Meaning | Tanāt, a variant of Tinit, the goddess TNT, feminine of √t-n-n 'sea-dragon'; rival a form of A-TA-NA-TE ʾAtanat |
+| Meaning | Tanāt, a variant of Tinit, the goddess TNT, feminine of √t-n-n 'sea-dragon' |
 | Root | t-n-n |
 | Proto-Semitic | \*tinnīt- (#2967) + \*tVnnVn- (#238) |
 | Language layer | Semitic |
@@ -82,6 +82,6 @@ di Mino; DULAT; Krahmalkov 2000
 
 ### Note
 
-Tanāt (√t-n-n), a variant of Tinit (TI-NI-TA), the goddess TNT; ZA 10a lists A-TA-NA-TE ʾAtanat as a separate entry.
+Tanāt (√t-n-n), a variant of Tinit (TI-NI-TA), the goddess TNT; ZA 10a lists A-TA-NA-TE ʾAtanat as a separate entry. Rival: a form of A-TA-NA-TE ʾAtanat.
 
 <!-- END kaphtor:record -->

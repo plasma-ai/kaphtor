@@ -65,6 +65,6 @@ Gordon 1966 §115; di Mino; Duhoux 2002; HALOT; CAD Q; GlOS 1; DULAT; cf. Stiegl
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT31\|HT31]] | qubaʿ | goblet, cup | PROBABLE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT31\|HT31]] | qab | qab, measuring cup | PROBABLE |
 
 <!-- END kaphtor:record -->

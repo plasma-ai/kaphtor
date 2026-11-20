@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/KA_KU_NE_TE
 title: "KA-KU-NE-TE"
-desc: "Kakku-ʿAnēt: Weapon of Anat (theophoric personal name); rival Egyptian Neith as the second element. Semitic, SPECULATIVE."
+desc: "Kakku-ʿAnēt: Weapon of Anat (theophoric personal name). Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "KA-KU-NE-TE"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Kakku-ʿAnēt** · Weapon of Anat (theophoric personal name); rival Egyptian Neith as the second element
+**Kakku-ʿAnēt** · Weapon of Anat (theophoric personal name)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Kakku-ʿAnēt |
-| Meaning | Weapon of Anat (theophoric personal name); rival Egyptian Neith as the second element |
+| Meaning | Weapon of Anat (theophoric personal name) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/k-k-k\|k-k-k]] + [[wiki/names/semitic/roots/ayin-n-t\|ʿ-n-t]] |
 | Proto-Semitic | \*kakk- (#3844), \*ʕanat- (#2771) |

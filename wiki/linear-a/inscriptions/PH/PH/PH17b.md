@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/PH/PH/PH17b
 title: "PH17b"
-desc: "Lames (short thin tablet), Phaistos, MMIIB. Translation: none."
+desc: "Lames (short thin tablet), Phaistos, MMIIB. GORILA I 307: ]*360[, broken on both sides.. Translation: none."
 tags: ["linear-a", "inscription", "translation-none", "lames-(short-thin-tablet)"]
 kind: "inscription"
 id: "PH17b"
 site: "Phaistos"
 support: "Lames (short thin tablet)"
-period: "MMIIB"
+period: "MMIIB. GORILA I 307: ]*360[, broken on both sides."
 translation: "none"
 words: []
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Phaistos |
 | Findspot |  |
 | Support | Lames (short thin tablet) |
-| Period | MMIIB |
+| Period | MMIIB. GORILA I 307: \]\*360\[, broken on both sides. |
 | Scribe |  |
 | Edition | GORILA 1 |
 | Series | PH |
@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 Transliteration, line by line:
 
-1. \*360
+1. \]\*360\[
 
 Unicode (Linear A block):
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/A/A_SA_RA2
 title: "A-SA-RA₂"
-desc: "ʾasāra: locked house, work-house (of the sanctuary), heading its personnel classes; rivals ʾasīr- 'captives', aššum šarra 'concerning the queen'. Lexicon, CANDIDATE (tier 2)."
+desc: "ʾasāra: locked house, work-house (of the sanctuary), heading its personnel classes. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "administrative", "hapax", "noun"]
 kind: "word"
 form: "A-SA-RA₂"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʾasāra |
-| Meaning | locked house, work-house (of the sanctuary), heading its personnel classes; rivals ʾasīr- 'captives', aššum šarra 'concerning the queen' |
+| Meaning | locked house, work-house (of the sanctuary), heading its personnel classes |
 | Root | ʾ-s-r |
 | Proto-Semitic | \*ʾVsir- (#408) |
 | Language layer | Semitic |
@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT89 A-SA-RA₂ · \*307 (dubur 'sanctuary') heads five personnel classes, KU-RO 87, then rations of cyperus, figs and wine. Written as one group, with no divider or space between A and SA (GORILA I 141). A-SA-RA₂ writes ʾasāra with the vowels of Ebla ʔa₅-za-ru₁₂ ʔas(ā)r 'locked house' (GlOS 1, 46): the sanctuary's work-house, named over the classes it holds, as VIR+\*307 names sanctuary personnel. Its staff are of the kind of the asirū of Alalakh VII, bonded household staff in grain-delivery lists (Niedorf 2008, 80 n. 305), and DULAT reads a goddess of captives in Ugarit's cult, ỉlt ảsrm, who receives a ram (KTU 1.39:11; DULAT 111); Pardee leaves asrm unexplained (2000, 66, 967); cf. the Gibeonites made hewers of wood and drawers of water for the house of God (Josh 9:23, 27) and the captives given to the Levites (Num 31:47); compare MA-I-MI, TA-RA. Rivals: ʾasīr- 'captives' (Ug. åsr, Akk. asīru), which wants SI for /sī/; the name Ug. ảsr(n), Linear B a-sa-ro (DULAT 111); A + SA-RA₂ 'concerning the queen', A as abbreviated Akkadian aššum (EA 287:34; Huehnergard 2008: 285, 399), a cut the tablet does not mark. One witness.
+HT89 A-SA-RA₂ · \*307 (dubur 'sanctuary') heads five personnel classes, KU-RO 87, then rations of cyperus, figs and wine. Written as one group, with no divider or space between A and SA (GORILA I 141). A-SA-RA₂ writes ʾasāra with the vowels of Ebla ʔa₅-za-ru₁₂ ʔas(ā)r 'locked house' (GlOS 1, 46): the sanctuary's work-house, named over the classes it holds, as VIR+\*307 names sanctuary personnel. Its staff are of the kind of the asirū of Alalakh VII, bonded household staff in grain-delivery lists (Niedorf 2008, 80 n. 305), and DULAT reads a goddess of captives in Ugarit's cult, ỉlt ảsrm, who receives a ram (KTU 1.39:11; DULAT 111); Pardee leaves asrm unexplained (2000, 66, 967); cf. the Gibeonites made hewers of wood and drawers of water for the house of God (Josh 9:23, 27) and the captives given to the Levites (Num 31:47); compare MA-I-MI, TA-RA. Rivals: ʾasīr- 'captives' (Ug. åsr, said of Baal as Yamm's 'prisoner', KTU 1.2 I 37, Tugendhaft 2018, 97 n. 26; Akk. asīru), which wants SI for /sī/; the name Ug. ảsr(n), Linear B a-sa-ro (DULAT 111); A + SA-RA₂ 'concerning the queen', A as abbreviated Akkadian aššum (EA 287:34; Huehnergard 2008: 285, 399), a cut the tablet does not mark. One witness.
 
 ### Cognates
 
@@ -56,7 +56,7 @@ HT89 A-SA-RA₂ · \*307 (dubur 'sanctuary') heads five personnel classes, KU-RO
 
 ### Source
 
-HT89; GORILA I 141; GlOS 1; Niedorf 2008; DULAT 111; CAD A/2 331–32; Josh 9:23, 27; Num 31:47; Montecchi 2008, 321; Huehnergard 2008: 285, 399; Pardee 2000, 967; Zeeb 2001
+HT89; GORILA I 141; GlOS 1; Niedorf 2008; DULAT 111; CAD A/2 331–32; Josh 9:23, 27; Num 31:47; Montecchi 2008, 321; Huehnergard 2008: 285, 399; Pardee 2000, 967; Zeeb 2001; Tugendhaft 2018
 
 ## Attestations
 

@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-ARKH 3a: KI-NU heads a commodity allocation section. Kīnu 'the True One', kīn- in Eblaite, Amorite and Akkadian alike, both a name element and the quality adjective 'true, standard': the heading admits 'Kīnu: grain 13' and 'standard grade: grain 13', as KA-NE qanē on the same tablet has two senses. A second attestation, with a quantity in a list or heading an OLE section, would decide between them. Standalone KI is an administrative sign of open value. One attestation. See OLE+KI.
+ARKH 3a: KI-NU heads a commodity allocation section. Kīnu 'the True One', kīn- in Eblaite, Amorite and Akkadian alike, both a name element and the quality adjective 'true, standard', as in Akkadian šarrum kīnum 'a legitimate king', whose kingship is 'solid or fixed in place' (Tugendhaft 2018, 70): the heading admits 'Kīnu: grain 13' and 'standard grade: grain 13', as KA-NE qanē on the same tablet has two senses. A second attestation, with a quantity in a list or heading an OLE section, would decide between them. Standalone KI is an administrative sign of open value. One attestation. See OLE+KI.
 
 ### Cognates
 
@@ -55,7 +55,7 @@ ARKH 3a: KI-NU heads a commodity allocation section. Kīnu 'the True One', kīn-
 
 ### Source
 
-di Mino; Pagan 1998; Gelb 1980; GlOS 1
+di Mino; Pagan 1998; Gelb 1980; GlOS 1; Tugendhaft 2018
 
 ## Attestations
 

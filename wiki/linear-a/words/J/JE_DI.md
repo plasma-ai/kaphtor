@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/J/JE_DI
 title: "JE-DI"
-desc: "yedī: gentilic 'the Idaean' (of Mount Ida); rivals the personal name 'He knows' and the gentilic 'Judean'. Lexicon, CANDIDATE (tier 2)."
+desc: "yedī: gentilic 'the Idaean' (of Mount Ida). Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "gentilic"]
 kind: "word"
 form: "JE-DI"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | yedī |
-| Meaning | gentilic 'the Idaean' (of Mount Ida); rivals the personal name 'He knows' and the gentilic 'Judean' |
+| Meaning | gentilic 'the Idaean' (of Mount Ida) |
 | Root | y-d |
 | Proto-Semitic | \*yad- ~ \*ʾid- (#2046) |
 | Language layer | Semitic |

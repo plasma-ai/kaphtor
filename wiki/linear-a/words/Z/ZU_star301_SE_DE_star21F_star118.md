@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/Z/ZU_star301_SE_DE_star21F_star118
 title: "ZU-*301-SE-DE-*21F-*118"
-desc: "ṯannān ṣēd ḥiṭṭa: the chariot soldiers: provision of wheat; rival a name ZU-*301-SE-DE. Onomasticon title; lexicon entry ZU-*301."
+desc: "ṯannān ṣēd ḥiṭṭa: the chariot soldiers: provision of wheat. Onomasticon title; lexicon entry ZU-*301."
 tags: ["linear-a", "word"]
 kind: "word"
 form: "ZU-*301-SE-DE-*21F-*118"
@@ -39,7 +39,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ṯannān ṣēd ḥiṭṭa |
-| Meaning | the chariot soldiers: provision of wheat; rival a name ZU-\*301-SE-DE |
+| Meaning | the chariot soldiers: provision of wheat |
 | Type | title (SPECULATIVE) |
 | Affiliation | semitic (SPECULATIVE) |
 | Evidence | lexicon_reading |

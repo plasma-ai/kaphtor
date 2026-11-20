@@ -26,6 +26,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/DA_NE_KU_TI\|DA-NE-KU-TI]] | Ḏā-naquddi | He of the speckled (flock) (personal name); rival 'He of the head shepherd' | 1 |
+| [[wiki/names/semitic/names/DA_NE_KU_TI\|DA-NE-KU-TI]] | Ḏā-naquddi | He of the speckled (flock) (personal name) | 1 |
 
 <!-- END kaphtor:record -->

@@ -5,7 +5,7 @@ desc: "yā Diqqitet: O Diktaean (f.), the feminine nisbe of Dikte, the vocative 
 tags: ["linear-a", "word", "tier-3", "compound", "libation_formula", "ritual", "theonym"]
 kind: "word"
 form: "JA-DI-KI-TE-TE"
-datasets: ["lexicon"]
+datasets: ["lexicon", "onomasticon"]
 tier: 3
 confidence: "PROBABLE"
 confidence_score: 0.65
@@ -59,5 +59,25 @@ di Mino; GORILA IV; Davis 2026
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/PK/PKZa/PKZa8\|PKZa8]] | Palaikastro | Stone vessel | incomplete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/PK/PKZa/PKZa15\|PKZa15]] | Palaikastro | Stone vessel | complete; form not in transliteration |
+
+## Onomasticon
+
+| Field | Value |
+|---|---|
+| Type | theonym (PROBABLE) |
+| Affiliation | semitic (PROBABLE) |
+| Evidence | lexicon_reading |
+| Entry | manual |
+| Occurrences | 2 in 2 documents |
+| Sites | Palaikastro |
+| Supports | Stone vessel 2 |
+
+### Note
+
+PK Za 8 JA-DI-KI-TE-TE-\*307-PU₂-RE and PK Za 15 JA-DI-KI-TE-TE-DU-PU₂-RE, one group with dubur each time (GORILA IV 41). JA- and A- spell the one vocative yā: Palaikastro writes JA-DI-KI-TE-TE on PK Za 8 and PK Za 15 and A-DI-KI-TE-TE on PK Za 11 and PK Za 12, the same name before the same dubur, and PK Za 11 writes A-SA-SA-RA-ME for JA-SA-SA-RA-ME as well. See the lexicon entry. Two witnesses.
+
+### Co-occurring lexicon words
+
+Readings from the lexicon as it stands: [[wiki/linear-a/words/D/DU_PU2_RE|DU-PU₂-RE]] dubur, [[wiki/linear-a/words/P/PA3_E|PA₃-E]] bē, [[wiki/linear-a/words/T/TU_ME_I|TU-ME-I]] tummī, [[wiki/linear-a/words/U/U_NA_KA_NA_SI|U-NA-KA-NA-SI]] wannā kanāsī / winnā kanāsī.
 
 <!-- END kaphtor:record -->

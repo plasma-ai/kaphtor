@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/K/KU_PA_ZU
 title: "KU-PA-ZU"
-desc: "Kapizzi: Kapizzi (Hurrian personal name), 'kapizzi-jewel'; rival kupṯu 'headdress'. Lexicon, SPECULATIVE (tier 1)."
+desc: "Kapizzi: Kapizzi (Hurrian personal name), 'kapizzi-jewel'. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "KU-PA-ZU"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Kapizzi |
-| Meaning | Kapizzi (Hurrian personal name), 'kapizzi-jewel'; rival kupṯu 'headdress' |
+| Meaning | Kapizzi (Hurrian personal name), 'kapizzi-jewel' |
 | Language layer | Hurrian |
 | Tags | hapax, personal_name |
 | Semantic field | personal_name |

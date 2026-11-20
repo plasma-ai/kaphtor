@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/A/A_MA_WA_SI
 title: "A-MA-WA-SI"
-desc: "ʿAmma-wāṣiʾ: the Kinsman who comes forth (El epithet); rival 'Strong One'. Lexicon, CANDIDATE (tier 2)."
+desc: "ʿAmma-wāṣiʾ: the Kinsman who comes forth (El epithet). Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "compound", "epithet", "hapax", "ritual"]
 kind: "word"
 form: "A-MA-WA-SI"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʿAmma-wāṣiʾ |
-| Meaning | the Kinsman who comes forth (El epithet); rival 'Strong One' |
+| Meaning | the Kinsman who comes forth (El epithet) |
 | Root | ʿ-m-m + w-ṣ-ʾ |
 | Proto-Semitic | \*ʕamm- (#44) + \*wVṣ̂Vʾ- (#K0448) |
 | Language layer | Semitic |
@@ -48,7 +48,7 @@ CR(?) Zf 1, a gold pin: A-MA-WA-SI · KA-NI-JA-MI · I-JA · QA-KI-SE-NU-TI · A
 | Language | Comparison |
 |---|---|
 | Amorite | ʿammum 'paternal uncle' (Gelb AS 21, 15); ʿAmmī-yašar (no. 1893); Yawṣiʾ-ʾIl 'El has come forth' (nos. 3574, 3581–3582) and Muwṣiʾ-ya (no. 4882), with the first radical w |
-| Ugaritic | yṣʾ 'to go out, appear' (DULAT 969) |
+| Ugaritic | yṣả 'to go out, appear' (DULAT 969) |
 | Akkadian | āṣû, OB wāṣiu 'going out, departing' (CAD A/2 383) |
 
 ### Source
@@ -78,5 +78,9 @@ di Mino; Gelb 1980; DULAT; HALOT; CAD A/2; Trémouille 2014
 | Occurrences | 1 in 1 documents |
 | Sites | Crete |
 | Supports | Metal object 1 |
+
+### Note
+
+Rival: 'Strong One'.
 
 <!-- END kaphtor:record -->

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/S/SE_SA_PA3
 title: "SE-SA-PA₃"
-desc: "Zizapa: Zizapa (Hurrian personal name), ziz- 'chest'; rival Amorite ʿIziz-ab. Lexicon, SPECULATIVE (tier 1)."
+desc: "Zizapa: Zizapa (Hurrian personal name), ziz- 'chest'. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "SE-SA-PA₃"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Zizapa |
-| Meaning | Zizapa (Hurrian personal name), ziz- 'chest'; rival Amorite ʿIziz-ab |
+| Meaning | Zizapa (Hurrian personal name), ziz- 'chest' |
 | Language layer | Hurrian |
 | Tags | hapax, personal_name |
 | Semantic field | personal_name |

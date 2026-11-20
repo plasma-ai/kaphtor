@@ -48,7 +48,7 @@ SY Za 9, inside JA-PA-RA-JA-SE yapra yāṣē on a Syme stone vessel: yāṣē '
 | Language | Comparison |
 |---|---|
 | Hebrew | יָצָא (yāṣāʾ) "go out", participle יֹצֵא (yōṣē) |
-| Ugaritic | √yṣʾ "go out, appear" |
+| Ugaritic | yṣả "go out, appear" (DULAT 969) |
 | Akkadian | (w)aṣû "go out", ṣītu "expenditure, outflow" |
 | Amorite | names with the 3ms imperfect: ʾAWIJ+JA-JṢIʾ (A-WI-IA-ZI), JI-JṢIʾ+ʾAŠAR (I-ṢI-A-ŠAR) (Gelb 1980, nos. 561, 2602) |
 | Old Syrian | Euphratian ia-zi-e, Alalakh ia-ṣí, Ugarit syll. i-ṣa-ʔa (GlOS 2, 361) |

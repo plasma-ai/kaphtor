@@ -2,18 +2,18 @@
 name: wiki/linear-a/words/R
 desc: "Words whose first sign begins with R."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-19T22:42:09Z
+updated: 2026-11-21T23:22:54Z
 ---
 
 # wiki/linear-a/words/R
 
 [[wiki/linear-a/words/_index|..]]
 
-[[wiki/linear-a/words/R/RA|RA]]: Unread sign (syllabogram, unread); 7 occurrence(s).
+[[wiki/linear-a/words/R/RA|RA]]: rabbat: the Lady: rabbat written by its first sign. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/R/RA2|RA2]]: Unread sign (syllabogram, unread); 1 occurrence(s).
 
-[[wiki/linear-a/words/R/RA2_RO_RE|RA2_RO_RE]]: Lallor: personal name, 'Mourner' (Akk. lallaru); rival Amorite Li-lu-ri. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/R/RA2_RO_RE|RA2_RO_RE]]: Lallor: personal name, 'Mourner' (Akk. lallaru). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/R/RA_KI_TA_NA_SI|RA_KI_TA_NA_SI]]: Unread (edge overlap): toponym; 1 occurrence(s).
 
@@ -23,9 +23,9 @@ updated: 2026-11-19T22:42:09Z
 
 [[wiki/linear-a/words/R/RA_NA_RE|RA_NA_RE]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/R/RA_NA_TU_SU|RA_NA_TU_SU]]: Rannatušu: personal name, 'his shout of joy'; rival two names, RA-NA and TU-SU. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/R/RA_NA_TU_SU|RA_NA_TU_SU]]: Rannatušu: personal name, 'his shout of joy'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/R/RA_O_DI_KI|RA_O_DI_KI]]: rāʿû diqqi: herdsman of the small cattle (title, over a flock of 60); rival a personal name. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/R/RA_O_DI_KI|RA_O_DI_KI]]: rāʿû diqqi: herdsman of the small cattle (title, over a flock of 60). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/R/RA_RI|RA_RI]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -33,17 +33,17 @@ updated: 2026-11-19T22:42:09Z
 
 [[wiki/linear-a/words/R/RA_TE_broken_end|RA_TE_broken_end]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/R/RA_TI_SE|RA_TI_SE]]: Ratis: Ratis (Egyptian personal name rdj⸗s, the name RE-DI-SE), 'the one she has given'; rival Safaitic RDS 'Breaker'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/R/RA_TI_SE|RA_TI_SE]]: Ratis: Ratis (Egyptian personal name rdj⸗s, the name RE-DI-SE), 'the one she has given'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/R/RA_q_DE_ME_TE|RA_q_DE_ME_TE]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/R/RA_star164_TI|RA_star164_TI]]: rāšōt: the choicest, first-fruits (heading of a wine contribution); rival Rāmōt 'the Heights', a place. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/R/RA_star164_TI|RA_star164_TI]]: rāšōt: the choicest, first-fruits (heading of a wine contribution). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/R/RA_star314_RA|RA_star314_RA]]: Raḥal: personal name, 'Ewe' (√r-ḥ-l), as Hebrew Rāḥēl. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/R/RE|RE]]: le-: to, for, as (preposition). Lexicon, CONFIRMED (tier 4).
 
-[[wiki/linear-a/words/R/RE_DI_SE|RE_DI_SE]]: Redis: Redis (Egyptian personal name rdj⸗s), 'the one she has given'; rival Safaitic RDS 'Breaker'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/R/RE_DI_SE|RE_DI_SE]]: Redis: Redis (Egyptian personal name rdj⸗s), 'the one she has given'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/R/RE_I_KE_broken_start|RE_I_KE_broken_start]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -59,7 +59,7 @@ updated: 2026-11-19T22:42:09Z
 
 [[wiki/linear-a/words/R/RE_TU_broken_start|RE_TU_broken_start]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/R/RE_ZA|RE_ZA]]: (ʾa)raz: cedar (wood, resin or oil; commodity); rival Luwian aruza, a measure. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/R/RE_ZA|RE_ZA]]: (ʾa)raz: cedar (wood, resin or oil; commodity). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/R/RE_plus_SE|RE_plus_SE]]: Unread sign (ligature, component read); 1 occurrence(s).
 
@@ -73,7 +73,7 @@ updated: 2026-11-19T22:42:09Z
 
 [[wiki/linear-a/words/R/RI_MI_SI|RI_MI_SI]]: Rimši: Rimši; a personnel group named with the Amorite element rimši (Ugaritic DN rmš). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/R/RI_QE_TI|RI_QE_TI]]: riqitt-: dance (√r-q-d); rival raqqitt- 'female dancer'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/R/RI_QE_TI|RI_QE_TI]]: riqitt-: dance (√r-q-d). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/R/RI_RU_MA|RI_RU_MA]]: Lirumā: personal name, 'Pomegranate' (Ug. lrmn); recipient of pigs. Lexicon, SPECULATIVE (tier 1).
 
@@ -81,7 +81,7 @@ updated: 2026-11-19T22:42:09Z
 
 [[wiki/linear-a/words/R/RI_SU_MA|RI_SU_MA]]: rīšum(a): head, chief quality; first quality. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/R/RI_TA_JE|RI_TA_JE]]: Lītāy: (My) Might (personal name; lītu 'might, victory' + hypocoristic -āy); rival Rašiyya. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/R/RI_TA_JE|RI_TA_JE]]: Lītāy: (My) Might (personal name; lītu 'might, victory' + hypocoristic -āy). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/R/RI_TA_MA|RI_TA_MA]]: Ritmā: personal name, 'broom (bush)'. Lexicon, SPECULATIVE (tier 1).
 
@@ -91,7 +91,7 @@ updated: 2026-11-19T22:42:09Z
 
 [[wiki/linear-a/words/R/RO_E|RO_E]]: rōʿē: herdsman, shepherd (title on a label). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/R/RO_KE|RO_KE]]: rōqēaḥ: perfumer (title); rival rōkēl 'trader, merchant'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/R/RO_KE|RO_KE]]: rōqēaḥ: perfumer (title). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/R/RO_NI|RO_NI]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -123,14 +123,14 @@ updated: 2026-11-19T22:42:09Z
 
 [[wiki/linear-a/words/R/RU_NA|RU_NA]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/R/RU_NI|RU_NI]]: Runni: personal name, 'Jubilation'; rival 'the crier', Dīnāyu's trade. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/R/RU_NI|RU_NI]]: Runni: personal name, 'Jubilation'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/R/RU_PI_q_star305_MI|RU_PI_q_star305_MI]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/R/RU_RA2|RU_RA2]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/R/RU_SA|RU_SA]]: Rusa: personal name; compare Egyptian rw-sȝ, one of the 'names of Crete' on BM EA 5647; rival Egyptian Rs 'he who is awake'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/R/RU_SA|RU_SA]]: Rusa: personal name; compare Egyptian rw-sȝ, one of the 'names of Crete' on BM EA 5647. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/R/RU_ZU_NA|RU_ZU_NA]]: rāzin(a): dignitary, prince (title of a recipient); rival a personal name. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/R/RU_ZU_NA|RU_ZU_NA]]: rāzin(a): dignitary, prince (title of a recipient). Lexicon, SPECULATIVE (tier 1).
 
 ***

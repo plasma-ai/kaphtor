@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/A_MA_JA
 title: "A-MA-JA"
-desc: "ʿAmmaya: (Little) kinsman (personal name, hypocoristic); rival ʾAmaya 'maidservant'. Semitic, CANDIDATE."
+desc: "ʿAmmaya: (Little) kinsman (personal name, hypocoristic). Semitic, CANDIDATE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "A-MA-JA"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**ʿAmmaya** · (Little) kinsman (personal name, hypocoristic); rival ʾAmaya 'maidservant'
+**ʿAmmaya** · (Little) kinsman (personal name, hypocoristic)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | ʿAmmaya |
-| Meaning | (Little) kinsman (personal name, hypocoristic); rival ʾAmaya 'maidservant' |
+| Meaning | (Little) kinsman (personal name, hypocoristic) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/ayin-m-m\|ʿ-m-m]] |
 | Proto-Semitic | \*ʕamm- (#44) |

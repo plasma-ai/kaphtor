@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/Q/QE_SI_ZU_E
 title: "QE-SI-ZU-E"
-desc: "qīši ṯuʿē: gift for the Heroes (construct: Amorite qīšum 'gift' + ṯuʿ 'Hero, Noble'), a recipient of wine; rival 'the noble's gift'. Lexicon, SPECULATIVE (tier 1)."
+desc: "qīši ṯuʿē: gift for the Heroes (construct: Amorite qīšum 'gift' + ṯuʿ 'Hero, Noble'), a recipient of wine. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "compound", "noun", "ritual"]
 kind: "word"
 form: "QE-SI-ZU-E"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | qīši ṯuʿē |
-| Meaning | gift for the Heroes (construct: Amorite qīšum 'gift' + ṯuʿ 'Hero, Noble'), a recipient of wine; rival 'the noble's gift' |
+| Meaning | gift for the Heroes (construct: Amorite qīšum 'gift' + ṯuʿ 'Hero, Noble'), a recipient of wine |
 | Root | q-y-š + ṯ-w-ʕ |
 | Proto-Semitic | \*ḳyš (#3843) + \*ṯVwVʕ- (#3807) |
 | Language layer | Semitic |

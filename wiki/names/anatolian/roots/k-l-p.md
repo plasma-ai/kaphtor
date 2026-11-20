@@ -26,6 +26,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/anatolian/names/A_KU_JU_PA_star118\|A-KU-JU-PA-\*118]] | ʾakulpa | axe(s); rival: a personal name | 1 |
+| [[wiki/names/anatolian/names/A_KU_JU_PA_star118\|A-KU-JU-PA-\*118]] | ʾakulpa | axe(s) | 1 |
 
 <!-- END kaphtor:record -->

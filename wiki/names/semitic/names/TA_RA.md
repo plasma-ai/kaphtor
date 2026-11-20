@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/TA_RA
 title: "TA-RA"
-desc: "ṯa(ġ)ra: gatekeepers (of the sanctuary); rival Akkadian tārû 'child-minder'. Semitic, SPECULATIVE."
+desc: "ṯa(ġ)ra: gatekeepers (of the sanctuary). Semitic, SPECULATIVE."
 tags: ["names", "title", "semitic"]
 kind: "name"
 form: "TA-RA"
@@ -19,24 +19,24 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**ṯa(ġ)ra** · gatekeepers (of the sanctuary); rival Akkadian tārû 'child-minder'
+**ṯa(ġ)ra** · gatekeepers (of the sanctuary)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/titles\|Title]] |
 | Reading | ṯa(ġ)ra |
-| Meaning | gatekeepers (of the sanctuary); rival Akkadian tārû 'child-minder' |
+| Meaning | gatekeepers (of the sanctuary) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/thagr-gate\|\*ṯaġr- 'gate']] |
 | Proto-Semitic | \*ŝₓaʕar- (#677) |
 | Reading's standing | SPECULATIVE |
 | Standing as a title | SPECULATIVE |
 | Standing of the layer | SPECULATIVE (lexicon_reading) |
-| Source | di Mino; DULAT; Uchitel 2006; SED II; CAD T |
+| Source | di Mino; DULAT; Uchitel 2006; SED II; CAD T; Killen 2024 |
 
 ## Note
 
-HT 89 TA-RA 5, last of five classes under A-SA-RA₂ · \*307 (dubur 'sanctuary'), KU-RO 87. /ṯa(ġ)ra/ from \*ṯaġr- 'gate', ṯ written in the T-series before a and ġ unwritten: Ug. ṯġr 'gatekeeper', a personnel class with grain rations (DULAT 888); the gatekeepers of the house of God beside MA-I-MI's water-drawers (Ezra 7:24). Cf. TA 4, last entry before KU-RO on HT 94a (entries 111 against KU-RO 110), and \]TA 4 before \]KU-RO 129 on HT 109, broken on the left. Rival: Akkadian tārû 'male nursemaid' (CAD T 250), which predicts TA-RU. One witness.
+HT 89 TA-RA 5, last of five classes under A-SA-RA₂ · \*307 (dubur 'sanctuary'), KU-RO 87. /ṯa(ġ)ra/ from \*ṯaġr- 'gate', ṯ written in the T-series before a and ġ unwritten: Ug. ṯġr 'gatekeeper', a personnel class with grain rations (DULAT 888); the gatekeepers of the house of God beside MA-I-MI's water-drawers (Ezra 7:24). TA 4 holds the same place on HT 94a, one to each of its four groups, and on HT 109, broken on the left; Linear B ends its personnel tablets with TA and DA, the groups' supervisors (Killen 2024, 437). See TA. Rival: Akkadian tārû 'male nursemaid' (CAD T 250), which predicts TA-RU. One witness.
 
 ## As a name
 

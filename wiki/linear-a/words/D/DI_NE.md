@@ -41,14 +41,14 @@ updated: 2026-10-28T13:27:44Z
 
 ### Note
 
-Attested only within O-RA₂-DI-NE ʾŌl-dīn (HT 6a .4): dī-n, the final vowel dead. The same element as DI-NI Dīnī and DI-RE-DI-NA ʾaddīr-dīnā. One witness.
+Attested only within O-RA₂-DI-NE ʾŌl-dīn (HT 6a .4): dī-n, the final vowel dead. The same element as in DI-RE-DI-NA ʾaddīr-dīnā. One witness.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Ugaritic | dn 'judgment, case, sentence' (DULAT 273); the last element of ảwldn, ỉldn, bʕldn (DULAT 128, 52, 207) |
-| Linear A | DI-NI Dīnī, DI-RE-DI-NA ʾaddīr-dīnā |
+| Linear A | DI-RE-DI-NA ʾaddīr-dīnā |
 
 ### Source
 

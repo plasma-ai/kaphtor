@@ -31,6 +31,6 @@ updated: 2026-11-12T00:26:03Z
 
 A compound. Status **unread** (nothing on file).
 
-HT 128b .2, before GRA+KU 1; a fracture crosses the first sign (GORILA I 221).
+HT 128b .1, two signs before GRA+KU 1, the vessel bracketed and dotted; a fracture crosses the first sign (GORILA I 221). GORILA's sign index files the pair as 21f-329 (V 176) and has no HT 128b under the man sign (V 272); SigLA reads AB100-A329. On the edition's own drawing the first sign has two lower strokes ending in bent feet, as the man sign has.
 
 <!-- END kaphtor:record -->

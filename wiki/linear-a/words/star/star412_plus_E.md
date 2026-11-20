@@ -35,4 +35,6 @@ A ligature. Status **component read** (a combined sign with a component the lexi
 
 The lexicon reads [[wiki/linear-a/words/star/star412|\*412]], [[wiki/linear-a/words/E/E|E]].
 
+GORILA A 658, 412VAS+E: the jar of \*412 with the fraction sign E written inside it, listed again under the fraction (GORILA V 314, 318). Counted 4, 3 and 2 on MA 10. The jar has one handle high at the left, a narrow neck and swelling shoulders, the outline of Linear B \*205, a-te-we, 'a straight-sided ewer' (Ventris and Chadwick 1956, 324, 327).
+
 <!-- END kaphtor:record -->

@@ -39,7 +39,7 @@ updated: 2026-11-12T00:26:03Z
 
 ### Note
 
-HT 38 TELA+\*312 1, after TELA+KU 2. The cloth sign with \*312 written inside it. With \*312 = BI the sign names bitt, the cut length: Ug. bt '"length, piece" (?)' of cloth (DULAT 247–248), as KU names the kind in TELA+KU. Rival: Linear B TELA+ZO, which Nosch and Weilhartner compare (2026, 126). One tablet. See \*312 and \*312-TA.
+HT 38 TELA+\*312 1, after TELA+KU 2. GORILA's A 536: the cloth sign with \*312 written inside it. With \*312 = BI the sign names bitt, the cut length: Ug. bt '"length, piece" (?)' of cloth (DULAT 247–248), as KU names the kind in TELA+KU. Rival: Linear B TELA+ZO, on KN L 433, erased on Lc 5612 and perhaps on L 2127 (Nosch 2024, 326–327 n. 14), which Nosch and Weilhartner compare (2026, 126). One tablet. See \*312 and \*312-TA.
 
 ### Cognates
 
@@ -49,7 +49,7 @@ HT 38 TELA+\*312 1, after TELA+KU 2. The cloth sign with \*312 written inside it
 
 ### Source
 
-di Mino; DULAT; Nosch and Weilhartner 2026; Killen 2024; Del Freo 2020
+di Mino; DULAT; Nosch and Weilhartner 2026; Nosch 2024; Killen 2024; Del Freo 2020
 
 ## Attestations
 

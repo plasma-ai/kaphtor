@@ -81,6 +81,7 @@ di Mino; Buck 2018; DULAT; Kinlaw 1967; HALOT; Gelb, Purves, and MacRae 1943
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |
+| Contact reference | buck2018:p338-08 |
 
 ### Note
 

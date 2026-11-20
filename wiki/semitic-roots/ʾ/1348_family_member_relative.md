@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ʔarā- |  |  |
 | Akkadian | āru OAkk |  | gloss withheld |
-| Ugaritic | ʔary |  |  |
+| Ugaritic | ʔary; km ʾaryk (KTU 1.4 V 29; Tugendhaft 2018, 101) | KTU 1.4 V 29; Tugendhaft 2018 101 | gloss withheld |
 | Eblaitic | /ʔayyar/: names ʔa₅-a-ru₁₂, a-a-ra (Sanmartín GlOS 1, 57) | Sanmartín GlOS 1, 57 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/Z
 desc: "Words whose first sign begins with Z."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-20T13:43:09Z
+updated: 2026-11-20T14:16:48Z
 ---
 
 # wiki/linear-a/words/Z
@@ -25,13 +25,13 @@ updated: 2026-11-20T13:43:09Z
 
 [[wiki/linear-a/words/Z/ZU_DI|ZU_DI]]: ṯudī: breast; the first member of ZU-DI SI-KA ṯudī-šiqā 'Breast-Who-Gives-Drink'. Lexicon, PROBABLE (tier 3).
 
-[[wiki/linear-a/words/Z/ZU_DI_RA|ZU_DI_RA]]: ṯudira: waitress, girl (Ug. ṯdr, a Hurro-Hittite loan from šiduri); rival the name Šituri. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/Z/ZU_DI_RA|ZU_DI_RA]]: ṯudira: waitress, girl (Ug. ṯdr, a Hurro-Hittite loan from šiduri). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/Z/ZU_DU|ZU_DU]]: ṯudu: breast (woman's). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/Z/ZU_DU_broken_start|ZU_DU_broken_start]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/Z/ZU_JU_PU2|ZU_JU_PU2]]: ṯulpu: flute; here the flute-player, the trade of TU-QE-NU Tuqnu; rival Hurrian Tulbiya. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/Z/ZU_JU_PU2|ZU_JU_PU2]]: ṯulpu: flute; here the flute-player, the trade of TU-QE-NU Tuqnu. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/Z/ZU_RI_NI_MA|ZU_RI_NI_MA]]: Ṯūrinima: He-of-the-Bull (personal name). Lexicon, SPECULATIVE (tier 1).
 
@@ -39,8 +39,8 @@ updated: 2026-11-20T13:43:09Z
 
 [[wiki/linear-a/words/Z/ZU_star22F_DI|ZU_star22F_DI]]: Onomasticon personal name, no reading.
 
-[[wiki/linear-a/words/Z/ZU_star301|ZU_star301]]: ṯannān: chariot soldiers, archers (a troop drawing rations); rival a name ZU-*301-SE-DE. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/Z/ZU_star301|ZU_star301]]: ṯannān: chariot soldiers, archers (a troop drawing rations). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/Z/ZU_star301_SE_DE_star21F_star118|ZU_star301_SE_DE_star21F_star118]]: ṯannān ṣēd ḥiṭṭa: the chariot soldiers: provision of wheat; rival a name ZU-*301-SE-DE. Onomasticon title; lexicon entry ZU-*301.
+[[wiki/linear-a/words/Z/ZU_star301_SE_DE_star21F_star118|ZU_star301_SE_DE_star21F_star118]]: ṯannān ṣēd ḥiṭṭa: the chariot soldiers: provision of wheat. Onomasticon title; lexicon entry ZU-*301.
 
 ***

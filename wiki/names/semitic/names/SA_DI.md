@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/SA_DI
 title: "SA-DI"
-desc: "šadī: field worker, Ug. šdy 'land labourer' or 'weaver, spinner'; rival the personal name Šadī 'Country man'. Semitic, SPECULATIVE."
+desc: "šadī: field worker, Ug. šdy 'land labourer' or 'weaver, spinner'. Semitic, SPECULATIVE."
 tags: ["names", "title", "semitic"]
 kind: "name"
 form: "SA-DI"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**šadī** · field worker, Ug. šdy 'land labourer' or 'weaver, spinner'; rival the personal name Šadī 'Country man'
+**šadī** · field worker, Ug. šdy 'land labourer' or 'weaver, spinner'
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/titles\|Title]] |
 | Reading | šadī |
-| Meaning | field worker, Ug. šdy 'land labourer' or 'weaver, spinner'; rival the personal name Šadī 'Country man' |
+| Meaning | field worker, Ug. šdy 'land labourer' or 'weaver, spinner' |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/sl-d-w\|ś-d-w]] |
 | Proto-Semitic | \*ŝady- (#1804) |
@@ -40,7 +40,7 @@ HT 111b .1 SA-DI 4\[, whole and undotted, the numeral broken after (GORILA I 181
 
 ## As a name
 
-HT 111b .1 SA-DI 4\[, the numeral broken after (GORILA I 181). Ugaritic šdy 'land labourer' (KTU 4.868:4; DULAT 799). See the lexicon entry.
+HT 111b .1 SA-DI 4\[, the numeral broken after (GORILA I 181). Ugaritic šdy 'land labourer' (KTU 4.868:4; DULAT 799). See the lexicon entry. Rival: the personal name Šadī 'Country man'.
 
 ## Cognates
 

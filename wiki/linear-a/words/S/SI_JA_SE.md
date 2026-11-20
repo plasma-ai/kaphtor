@@ -49,7 +49,7 @@ A suffix on pithos labels: A-NA-NU-SI-JA-SE (HT Zb 159), KI-TA-NA-SI-JA-SE (PE Z
 |---|---|
 | Hebrew | אֲשֶׁר־יֵצֵא ʾašer-yēṣē "that which goes out" (2 Kgs 12:13, Temple expenditure) |
 | Akkadian | ṣītu "expenditure, disbursement"; wāṣītu "outgoing goods" (OB/MB palace archives) |
-| Ugaritic | √yṣʾ "to go out, appear" |
+| Ugaritic | yṣả "to go out, appear" (DULAT 969) |
 | Phoenician | š- relative particle (&lt; PS \*ḏū)—diagnostic Canaanite feature |
 
 ### Source

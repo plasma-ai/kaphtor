@@ -46,7 +46,7 @@ Evidence: \*301 fills the NA slot of A-TA-I-\*301-WA-JA at five peak sanctuaries
 
 ### Note
 
-Allograph of NA (AB06). Second sign writing /na/. 272 corpus occurrences (236 standalone across 4 sites: 229 HT, 5 KH, 1 KN, 1 ZA; predominantly HT nodules). 24 written forms. Identified from peak sanctuary libation formula evidence: \*301 always fills the NA slot in A-TA-I-\*301-WA-JA and its variants. Cretan Hieroglyphic CH 046 is its likely forerunner (Docs², 33, fig. 6, apud Davis 2026b, 342 n. 824; Younger; Salgarella 2020, 341).
+Allograph of NA (AB06). Second sign writing /na/. 288 corpus occurrences (240 standalone across 4 sites: 233 HT, 5 KH, 1 KN, 1 ZA; 229 on HT nodules). 29 written forms, broken ones included. Identified from peak sanctuary libation formula evidence: \*301 always fills the NA slot in A-TA-I-\*301-WA-JA and its variants. Two signs for one syllable are known from Maya, a deciphered logosyllabic script, which has 'signs with the same reading (homophones)' and in which 'different signs of equal phonetic value might be used variably throughout a text' (Kettunen and Helmke 2020, 8, 17). Grube (1994, 8–9) traces how they arose. A logogram lends its syllable once a weak final consonant is dropped, so that the female head NAʾ 'woman' becomes a second syllabic na, as deer chih gives chi and torch tah gives ta. \*301 does the same, the logogram nawā 'dwelling' lending na. Cretan Hieroglyphic CH 046 is its likely forerunner (Docs², 33, fig. 6, apud Davis 2026b, 342 n. 824; Younger; Salgarella 2020, 341).
 
 ## Also in logograms
 
@@ -58,11 +58,14 @@ Allograph of NA (AB06). Second sign writing /na/. 272 corpus occurrences (236 st
 |---|---|---|
 | [[wiki/linear-a/words/star/star301\|\*301]] | nawā | PROBABLE |
 | [[wiki/linear-a/words/star/star301_U_RA\|\*301-U-RA]] | naura | CANDIDATE |
+| [[wiki/linear-a/words/star/star307_plus_star301\|\*307+\*301]] | dubur nawā | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | ʾAren Ṣidna bikē bayta rēšī tarīmu ʾAyaku | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_TA_I_star301_DE_KA\|A-TA-I-\*301-DE-KA]] | ʾataʿinā dēka | CANDIDATE |
 | [[wiki/linear-a/words/A/A_TA_I_star301_WA_E\|A-TA-I-\*301-WA-E]] | ʾatainawē | CONFIRMED |
 | [[wiki/linear-a/words/A/A_TA_I_star301_WA_JA\|A-TA-I-\*301-WA-JA]] | ʾatainawaya | CONFIRMED |
+| [[wiki/linear-a/words/D/DA_plus_star301\|DA+\*301]] | damʿ nawā | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_DU_star301\|DA-DU-\*301]] | dādu-nā-… | SPECULATIVE |
+| [[wiki/linear-a/words/I/I_plus_star301\|I+\*301]] | ḥipru nawā | SPECULATIVE |
 | [[wiki/linear-a/words/J/JA_TA_I_star301_U_JA\|JA-TA-I-\*301-U-JA]] | yatainawuya | CANDIDATE |
 | [[wiki/linear-a/words/M/MI_plus_star301\|MI+\*301]] | minā | PROBABLE |
 | [[wiki/linear-a/words/N/NA_TU_star301_NE\|NA-TU-\*301-NE]] | natūnān | PROBABLE |

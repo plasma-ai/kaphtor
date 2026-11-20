@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/PA_NU_QE
 title: "PA-NU-QE"
-desc: "Panūq: personal name, 'Pampered'; rival Amorite Banuq. Semitic, SPECULATIVE."
+desc: "Panūq: personal name, 'Pampered'. Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "PA-NU-QE"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Panūq** · personal name, 'Pampered'; rival Amorite Banuq
+**Panūq** · personal name, 'Pampered'
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Panūq |
-| Meaning | personal name, 'Pampered'; rival Amorite Banuq |
+| Meaning | personal name, 'Pampered' |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/p-n-q\|p-n-q]] |
 | Proto-Semitic | \*panaq- (#K0254) |

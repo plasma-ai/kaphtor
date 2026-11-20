@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/DU_MA_I_NA
 title: "DU-MA-I-NA"
-desc: "ḏū-maʿīna: He of the Spring (personal name; ḏū 'he of' + maʿīn 'spring, flowing water'); rival a product, '(the drink) of the spring'. Semitic, SPECULATIVE."
+desc: "ḏū-maʿīna: He of the Spring (personal name; ḏū 'he of' + maʿīn 'spring, flowing water'). Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "DU-MA-I-NA"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**ḏū-maʿīna** · He of the Spring (personal name; ḏū 'he of' + maʿīn 'spring, flowing water'); rival a product, '(the drink) of the spring'
+**ḏū-maʿīna** · He of the Spring (personal name; ḏū 'he of' + maʿīn 'spring, flowing water')
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | ḏū-maʿīna |
-| Meaning | He of the Spring (personal name; ḏū 'he of' + maʿīn 'spring, flowing water'); rival a product, '(the drink) of the spring' |
+| Meaning | He of the Spring (personal name; ḏū 'he of' + maʿīn 'spring, flowing water') |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/dh\|ḏ]] + [[wiki/names/semitic/roots/ayin-y-n\|ʿ-y-n]] |
 | Proto-Semitic | \*ḏī- (#K0877), \*maʕyān- (#2758) |
@@ -66,7 +66,7 @@ Read words on the same documents.
 
 | Word | Reading | Meaning |
 |---|---|---|
-| [[wiki/names/semitic/names/PI_SA\|PI-SA]] | Pīsa | personal name, '(a bird)', Akk. būṣu; rival an institution; a recipient |
+| [[wiki/names/semitic/names/PI_SA\|PI-SA]] | Pīsa | personal name, '(a bird)', Akk. būṣu |
 | TU-PA-DI-DA | ṭūb-dida | the best of beer (compound; ṭūb 'the best of' + dida 'beer extract') |
 
 <!-- END kaphtor:record -->

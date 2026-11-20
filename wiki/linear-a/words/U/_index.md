@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/U
 desc: "Words whose first sign begins with U."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-20T13:43:08Z
+updated: 2026-11-20T14:16:45Z
 ---
 
 # wiki/linear-a/words/U
@@ -19,7 +19,7 @@ updated: 2026-11-20T13:43:08Z
 
 [[wiki/linear-a/words/U/U_JU|U_JU]]: ʿūlū: burnt offering. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/U/U_KA_RE|U_KA_RE]]: ʾugār: the field (of), meadowland (heading of a grain-ration list); rivals ʾikkār 'ploughman', the personal name Ugār. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/U/U_KA_RE|U_KA_RE]]: ʾugār: the field (of), meadowland (heading of a grain-ration list). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/U/U_KI|U_KI]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -49,7 +49,7 @@ updated: 2026-11-20T13:43:08Z
 
 [[wiki/linear-a/words/U/U_TA2|U_TA2]]: ʿŪta: personal name, 'Help', heading the fig (NI) entry on HT 103. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/U/U_TA_I_SE|U_TA_I_SE]]: ʿUtay-se: personal name: ʿUtay with the -SE suffix, a recipient of cyperus; rival a Cretan name of another language (LB u-ta-jo). Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/U/U_TA_I_SE|U_TA_I_SE]]: ʿUtay-se: personal name: ʿUtay with the -SE suffix, a recipient of cyperus. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/U/U_TA_I_SI|U_TA_I_SI]]: Unread (edge overlap): no role; 1 occurrence(s).
 
@@ -57,7 +57,7 @@ updated: 2026-11-20T13:43:08Z
 
 [[wiki/linear-a/words/U/U_TE|U_TE]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/U/U_TI|U_TI]]: Utti: Utti (Hurrian personal name), stem utt-; rival the Anatolian name Utti. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/U/U_TI|U_TI]]: Utti: Utti (Hurrian personal name), stem utt-. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/U/U_TI_NU|U_TI_NU]]: -u-tī-n(u): verbal ending: indicative -u + 2fs -tī + -n(u) 'us'. Lexicon, CANDIDATE (tier 2).
 
@@ -65,8 +65,8 @@ updated: 2026-11-20T13:43:08Z
 
 [[wiki/linear-a/words/U/U_star325_ZA|U_star325_ZA]]: ʾubūs(a): the stall, storehouse. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/U/U_star34_SI|U_star34_SI]]: u-qīš: and the gift (heading over oil and grain amounts); rivals uqīš 'he bestowed', a name. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/U/U_star34_SI|U_star34_SI]]: u-qīš: and the gift (heading over oil and grain amounts). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/U/U_star49|U_star49]]: ʾummi: mother; rivals Akk. ummu 'capital', u- 'and' + PALM/TREE. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/U/U_star49|U_star49]]: ʾummi: mother. Lexicon, SPECULATIVE (tier 1).
 
 ***

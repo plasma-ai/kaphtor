@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/A/A_DA_KI_SI_KA
 title: "A-DA-KI-SI-KA"
-desc: "Ḫadki-šiqā: Ḫadki gives drink (personal name; Ḫadki, a Mari-area name of Adad, + šiqā 'who gives drink'); rival 'Ḫadki is (my) dwelling'. Lexicon, SPECULATIVE (tier 1)."
+desc: "Ḫadki-šiqā: Ḫadki gives drink (personal name; Ḫadki, a Mari-area name of Adad, + šiqā 'who gives drink'). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "compound", "hapax", "personal_name"]
 kind: "word"
 form: "A-DA-KI-SI-KA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Ḫadki-šiqā |
-| Meaning | Ḫadki gives drink (personal name; Ḫadki, a Mari-area name of Adad, + šiqā 'who gives drink'); rival 'Ḫadki is (my) dwelling' |
+| Meaning | Ḫadki gives drink (personal name; Ḫadki, a Mari-area name of Adad, + šiqā 'who gives drink') |
 | Root | ḫ-d-k + š-q-y |
 | Proto-Semitic | \*šVḳ- (#1389) |
 | Language layer | Semitic |

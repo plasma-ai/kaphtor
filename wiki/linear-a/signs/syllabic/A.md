@@ -101,6 +101,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_RU\|A-RU]] | Ḫaru | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RU_DA_RA\|A-RU-DA-RA]] | Arum-adal | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RU_RA\|A-RU-RA]] | ʾArura | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_SA\|A-SA]] | ʾašša- | CANDIDATE |
 | [[wiki/linear-a/words/A/A_SA_DA_KA\|A-SA-DA-KA]] | ʾaṣdaqa | CANDIDATE |
 | [[wiki/linear-a/words/A/A_SA_MU_NE\|A-SA-MU-NE]] | ʾAšmūn | PROBABLE |
 | [[wiki/linear-a/words/A/A_SA_RA2\|A-SA-RA₂]] | ʾasāra | CANDIDATE |

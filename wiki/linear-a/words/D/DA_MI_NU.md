@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/D/DA_MI_NU
 title: "DA-MI-NU"
-desc: "Ḏā-Mīnu: personal name, 'He of the Portion' (ḏā + √m-n-y); rival √m-n-n 'He of the Favor'. Lexicon, SPECULATIVE (tier 1)."
+desc: "Ḏā-Mīnu: personal name, 'He of the Portion' (ḏā + √m-n-y). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "DA-MI-NU"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Ḏā-Mīnu |
-| Meaning | personal name, 'He of the Portion' (ḏā + √m-n-y); rival √m-n-n 'He of the Favor' |
+| Meaning | personal name, 'He of the Portion' (ḏā + √m-n-y) |
 | Root | ḏ + m-n-y |
 | Proto-Semitic | \*mVnVw- (#643) + \*mVnn- (#3776) |
 | Language layer | Semitic |
@@ -74,7 +74,7 @@ di Mino; DULAT; Fischer 2002
 
 ### Note
 
-HT 117a .8 DA-MI-NU 1, whole and undotted, in the second list headed SA-TA, before DA-NE-KU-TI 1 (GORILA I 197). Ḏā-Mīnu: ḏā 'the one of' + MI-NU (√m-n-y 'allot', √m-n-n 'favor'), 'He of the Portion', a 'he of X' name like Amorite Zu-i-la 'He of God' (Gelb 1980, no. 6596); rival Ḏimenu, the Ugaritic personal name ḏmn, syll. ZI-me-nu (DULAT 283). Compare Dushara, Nabataean dwšrʾ 'He of the Šarā' (Al-Jallad 2022, 95–96). Linear B da-mi-ni-jo, a shepherd at Knossos in the D series (DMic I); Woudhuizen 2016, 217 no. 11.
+HT 117a .8 DA-MI-NU 1, whole and undotted, in the second list headed SA-TA, before DA-NE-KU-TI 1 (GORILA I 197). Ḏā-Mīnu: ḏā 'the one of' + MI-NU (√m-n-y 'allot', √m-n-n 'favor'), 'He of the Portion', a 'he of X' name like Amorite Zu-i-la 'He of God' (Gelb 1980, no. 6596); rival Ḏimenu, the Ugaritic personal name ḏmn, syll. ZI-me-nu (DULAT 283). Compare Dushara, Nabataean dwšrʾ 'He of the Šarā' (Al-Jallad 2022, 95–96). Linear B da-mi-ni-jo, a shepherd at Knossos in the D series (DMic I); Woudhuizen 2016, 217 no. 11. Rival: √m-n-n 'He of the Favor'.
 
 ### Co-occurring lexicon words
 

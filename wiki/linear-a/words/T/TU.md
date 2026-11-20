@@ -51,6 +51,8 @@ Two complete witnesses: HT 49a .8 TU 4 (GORILA I 93) and KH 91 .3 TU ¹⁄₁₆
 | Ugaritic | ṯr 'bull' (KTU 1.10 iii:35, 1.12 i:30); epithet of El: ṯr ʾil 'Bull El' |
 | Akkadian | šūru 'bull' (CAD Š/3 370) |
 | Arabic | ṯawr (ثَوْر) 'bull' |
+| Linear B | the bull is ta before OX, tauros (KN C 901; Killen 2024, 1033) |
+| Cuneiform | Ebla GU₄.TUR = šu-lum /ṯōrum/ (GlOS 2, 330; DULAT 916); Akkadian alpu 'bull, ox' is GUD (CAD A/1 364) |
 
 ### Source
 

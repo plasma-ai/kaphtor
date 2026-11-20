@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/star/star312_TE_TE
 title: "*312-TE-TE"
-desc: "bittīt: of the cloth lengths (feminine nisbe of bitt, the word of *312), heading a textile account; rival bītīt 'of the house'. Lexicon, SPECULATIVE (tier 1)."
+desc: "bittīt: of the cloth lengths (feminine nisbe of bitt, the word of *312), heading a textile account. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "commodity", "hapax", "heading", "textile"]
 kind: "word"
 form: "*312-TE-TE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | bittīt |
-| Meaning | of the cloth lengths (feminine nisbe of bitt, the word of \*312), heading a textile account; rival bītīt 'of the house' |
+| Meaning | of the cloth lengths (feminine nisbe of bitt, the word of \*312), heading a textile account |
 | Root | b-t-t |
 | Proto-Semitic | \*bVt- (#3295) |
 | Language layer | Semitic |

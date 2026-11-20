@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/P/PU_NI_KA
 title: "PU-NI-KA"
-desc: "punniga: a kind of bread, counted by the loaf (*363); rival: a personal name. Lexicon, SPECULATIVE (tier 1)."
+desc: "punniga: a kind of bread, counted by the loaf (*363). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "administrative", "commodity", "food", "hapax", "loanword", "noun"]
 kind: "word"
 form: "PU-NI-KA"
@@ -32,7 +32,7 @@ updated: 2026-11-08T14:07:12Z
 | Field | Value |
 |---|---|
 | Reading | punniga |
-| Meaning | a kind of bread, counted by the loaf (\*363); rival: a personal name |
+| Meaning | a kind of bread, counted by the loaf (\*363) |
 | Root | p-n-g |
 | Language layer | Semitic |
 | Tags | administrative, commodity, food, hapax, loanword, noun |

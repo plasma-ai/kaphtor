@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/QE_PU
 title: "QE-PU"
-desc: "qēpu: official, commissioner (title); rival: the personal name Qīpu. Semitic, SPECULATIVE."
+desc: "qēpu: official, commissioner (title). Semitic, SPECULATIVE."
 tags: ["names", "title", "semitic"]
 kind: "name"
 form: "QE-PU"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**qēpu** · official, commissioner (title); rival: the personal name Qīpu
+**qēpu** · official, commissioner (title)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/titles\|Title]] |
 | Reading | qēpu |
-| Meaning | official, commissioner (title); rival: the personal name Qīpu |
+| Meaning | official, commissioner (title) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/q-y-p\|q-y-p]] |
 | Proto-Semitic | \*ḳīp- (#3850) |
@@ -40,7 +40,7 @@ HT 9a and 9b, the wine roster: QE-PU 2 on both faces, one of two entries unchang
 
 ## As a name
 
-Roster +numeral.
+Roster +numeral. Rival: the personal name Qīpu.
 
 ## Cognates
 

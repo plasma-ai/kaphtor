@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/A_DU_ZA
 title: "A-DU-ZA"
-desc: "ʾAddu-ʿazz: ʾAddu-ʿazz (personal name), 'Addu is strong'; rival Hadas 'Myrtle'. Semitic, SPECULATIVE."
+desc: "ʾAddu-ʿazz: ʾAddu-ʿazz (personal name), 'Addu is strong'. Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "A-DU-ZA"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**ʾAddu-ʿazz** · ʾAddu-ʿazz (personal name), 'Addu is strong'; rival Hadas 'Myrtle'
+**ʾAddu-ʿazz** · ʾAddu-ʿazz (personal name), 'Addu is strong'
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | ʾAddu-ʿazz |
-| Meaning | ʾAddu-ʿazz (personal name), 'Addu is strong'; rival Hadas 'Myrtle' |
+| Meaning | ʾAddu-ʿazz (personal name), 'Addu is strong' |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/ayin-z-z\|ʕ-z-z]] |
 | Proto-Semitic | \*ʕazVz- (#2769) |

@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/KA_PA_QE
 title: "KA-PA-QE"
-desc: "kapar qē(pu): the village's commissioner, a recipient of figs; rival 'the village: measures (qê)'. Semitic, SPECULATIVE."
+desc: "kapar qē(pu): the village's commissioner, a recipient of figs. Semitic, SPECULATIVE."
 tags: ["names", "title", "semitic"]
 kind: "name"
 form: "KA-PA-QE"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**kapar qē(pu)** · the village's commissioner, a recipient of figs; rival 'the village: measures (qê)'
+**kapar qē(pu)** · the village's commissioner, a recipient of figs
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/titles\|Title]] |
 | Reading | kapar qē(pu) |
-| Meaning | the village's commissioner, a recipient of figs; rival 'the village: measures (qê)' |
+| Meaning | the village's commissioner, a recipient of figs |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/k-p-r\|k-p-r]] + [[wiki/names/semitic/roots/q-y-p\|q-y-p]] |
 | Proto-Semitic | \*kapār- (#K0100), \*ḳīp- (#3850) |
@@ -40,7 +40,7 @@ HT 6a .4–5 KA-PA-QE 5¾, KA ending .4 and PA-QE heading .5, all three signs wh
 
 ## As a name
 
-HT 6a .4–5 KA-PA-QE 5¾, whole (GORILA I 13), the last fig entry under KA-PA. KA-PA 'village' with QE for QE-PU qēpu 'commissioner' (CAD Q 264). See the lexicon entry.
+HT 6a .4–5 KA-PA-QE 5¾, whole (GORILA I 13), the last fig entry under KA-PA. KA-PA 'village' with QE for QE-PU qēpu 'commissioner' (CAD Q 264). See the lexicon entry. Rival: 'the village: measures (qê)'.
 
 ## Cognates
 
@@ -66,6 +66,6 @@ Read words on the same documents.
 
 | Word | Reading | Meaning |
 |---|---|---|
-| [[wiki/names/semitic/names/KA_PA\|KA-PA]] | kapa(r) | village, settlement (kapar); rival an institution |
+| [[wiki/names/semitic/names/KA_PA\|KA-PA]] | kapa(r) | village, settlement (kapar) |
 
 <!-- END kaphtor:record -->

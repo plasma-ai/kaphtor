@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/KU_DA
 title: "KU-DA"
-desc: "Gūda: Gūda 'luck' (personal name), Amorite Guʾuda; rivals Kutta, qāʾid 'chief'. Semitic, SPECULATIVE."
+desc: "Gūda: Gūda 'luck' (personal name), Amorite Guʾuda. Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "KU-DA"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Gūda** · Gūda 'luck' (personal name), Amorite Guʾuda; rivals Kutta, qāʾid 'chief'
+**Gūda** · Gūda 'luck' (personal name), Amorite Guʾuda
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Gūda |
-| Meaning | Gūda 'luck' (personal name), Amorite Guʾuda; rivals Kutta, qāʾid 'chief' |
+| Meaning | Gūda 'luck' (personal name), Amorite Guʾuda |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/g-d\|g-d]] |
 | Proto-Semitic | \*gd (#3243) |

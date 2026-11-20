@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/Q/QA_TI_JU
 title: "QA-TI-JU"
-desc: "Qātilu: Qātilu (personal name), 'killer'; rival Hurrian Katiya 'He/She said'. Lexicon, SPECULATIVE (tier 1)."
+desc: "Qātilu: Qātilu (personal name), 'killer'. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "QA-TI-JU"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Qātilu |
-| Meaning | Qātilu (personal name), 'killer'; rival Hurrian Katiya 'He/She said' |
+| Meaning | Qātilu (personal name), 'killer' |
 | Root | q-t-l |
 | Proto-Semitic | \*ḳtl (#2498) |
 | Language layer | Semitic |

@@ -78,6 +78,7 @@ di Mino; Gelb 1980; DULAT; GlOS 2; de Boer 2014
 | Occurrences | 1 in 1 documents |
 | Sites | Khania |
 | Supports | Tablet 1 |
+| Contact reference | am_gelb_n_02430 |
 
 ### Note
 

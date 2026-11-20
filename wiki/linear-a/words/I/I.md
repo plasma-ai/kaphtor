@@ -1,12 +1,16 @@
 ---
 name: wiki/linear-a/words/I/I
 title: "I"
-desc: "Unread sign (syllabogram, unread); 34 occurrence(s)."
-tags: ["linear-a", "word", "unread"]
+desc: "ḥipru: ration: ḥipru written by its first sign. Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "abbreviation", "accounting", "administrative"]
 kind: "word"
 form: "I"
-datasets: ["unread_signs"]
-attestations: ["HT115a", "HT115b", "HT43", "HT93a", "HTWa1150", "HTWa1151", "HTWa1152", "HTWa1153", "HTWa1154", "HTWa1155", "HTWa1156", "HTWa1157", "HTWa1158", "HTWa1159", "HTWa1160", "HTWa1161", "HTWa1162", "HTWa1163", "HTWa1164", "HTWa1165", "HTWa1166", "HTWa1167", "HTWa1168", "HTWa1169", "HTWa1170", "HTWa1171", "HTWa1172", "HTWa1173", "HTWa1174", "HTZf165", "KANZa1", "KNZg57b", "ZA11b"]
+datasets: ["lexicon"]
+attestations: ["HT43", "HT93a", "HT115a", "HT115b", "HT120", "ZA11b"]
+tier: 2
+confidence: "CANDIDATE"
+confidence_score: 0.45
+reading: "ḥipru"
 created: 2026-11-12T00:26:03Z
 updated: 2026-11-12T00:26:03Z
 ---
@@ -21,56 +25,55 @@ updated: 2026-11-12T00:26:03Z
 
 **Signs.** [[wiki/linear-a/signs/syllabic/I|I]]
 
+## Lexicon
+
+**CANDIDATE**, tier 2 of 4, score 0.45
+
+| Field | Value |
+|---|---|
+| Reading | ḥipru |
+| Meaning | ration: ḥipru written by its first sign |
+| Root | ḥ-p-r |
+| Proto-Semitic | \*ḥipr- (#4060) |
+| Language layer | Semitic |
+| Tags | abbreviation, accounting, administrative |
+| Semantic field | administrative |
+
+### Note
+
+I stands between a recipient and the commodity: HT 93a A-SE · I GRA+PA 26¾ and QA-QA-RU · I GRA+PA 5, HT 43 MA-SI-DU · PA-\*342-I · I · GRA+PA 5, HT 120 DA-U-\*49 · I GRA+PA 20, HT 115a \*47-NU-RA-JA · I · GRA+BOSm. HT 93a's next entry sets the man sign in the recipient's place, VIR+\[?\]-I 6, as HT 11a has VIR+\[?\]-I 3, GORILA's 100/102-28 (V 272). GORILA numbers I with GRA+PA as one complex sign, A 517, on HT 43, HT 93a and HT 120 (V xxiv, 148). It stands before OLIV 1\[ on ZA 11b and takes its own quantity on HT 115b, KU-RU-MA · I ½. ḥipru 'ration', ḥ unwritten: Akk. ipru heads ration lists before a name, ŠE.BA PN, and is specified for goods other than barley (CAD I/J 166–67); Ug. ḥpr is the ration of the temple, the servants and the king's men (DULAT 362). Weak points: no I-PI-RI is spelled out, and I enters no KU-RO. Rival: the first sign of a recipient's title, I-KI-RA 'farmer'; on HT 93a the recipient is already titled, A-SE. Alone on 25 Haghia Triada nodules (HT Wa 1150–1174) and on HT Zf 165; A · I on KAN Za 1.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Akkadian | ipru 'barley ration (distributed by the administration of a temple, palace, etc.)', written ŠE.BA (CAD I/J 166–67) |
+| Ugaritic | ḥpr 'ration(s), supplies': spr ḥpr bt 'record of the rations of the temple' (KTU 4.269:1; DULAT 362) |
+| Eblaite | ḥapar 'ration, supply' (GlOS 1, 247) |
+| Linear B | the month's ration is the logogram \*173 LUNA, or me-ni-jo in full (PY Wa 114; Killen 2024, 126, 987) |
+| Cuneiform | ŠE.BA for ipru (CAD I/J 166); PAD for kurummatu 'food portion' (CAD K 573) |
+
+### Source
+
+di Mino; CAD I/J; DULAT
+
 ## Attestations
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT115a\|HT115a]] | Haghia Triada | Tablet | incomplete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT115b\|HT115b]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT43\|HT43]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT93a\|HT93a]] | Haghia Triada | Tablet | incomplete |
-| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1150\|HTWa1150]] | Haghia Triada | Nodule | none |
-| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1151\|HTWa1151]] | Haghia Triada | Nodule | none |
-| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1152\|HTWa1152]] | Haghia Triada | Nodule | none |
-| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1153\|HTWa1153]] | Haghia Triada | Nodule | none |
-| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1154\|HTWa1154]] | Haghia Triada | Nodule | none |
-| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1155\|HTWa1155]] | Haghia Triada | Nodule | none |
-| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1156\|HTWa1156]] | Haghia Triada | Nodule | none |
-| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1157\|HTWa1157]] | Haghia Triada | Nodule | none |
-| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1158\|HTWa1158]] | Haghia Triada | Nodule | none |
-| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1159\|HTWa1159]] | Haghia Triada | Nodule | none |
-| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1160\|HTWa1160]] | Haghia Triada | Nodule | none |
-| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1161\|HTWa1161]] | Haghia Triada | Nodule | none |
-| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1162\|HTWa1162]] | Haghia Triada | Nodule | none |
-| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1163\|HTWa1163]] | Haghia Triada | Nodule | none |
-| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1164\|HTWa1164]] | Haghia Triada | Nodule | none |
-| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1165\|HTWa1165]] | Haghia Triada | Nodule | none |
-| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1166\|HTWa1166]] | Haghia Triada | Nodule | none |
-| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1167\|HTWa1167]] | Haghia Triada | Nodule | none |
-| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1168\|HTWa1168]] | Haghia Triada | Nodule | none |
-| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1169\|HTWa1169]] | Haghia Triada | Nodule | none |
-| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1170\|HTWa1170]] | Haghia Triada | Nodule | none |
-| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1171\|HTWa1171]] | Haghia Triada | Nodule | none |
-| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1172\|HTWa1172]] | Haghia Triada | Nodule | none |
-| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1173\|HTWa1173]] | Haghia Triada | Nodule | none |
-| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1174\|HTWa1174]] | Haghia Triada | Nodule | none |
-| [[wiki/linear-a/inscriptions/HT/HTZf/HTZf165\|HTZf165]] | Haghia Triada | Metal object | none |
-| [[wiki/linear-a/inscriptions/KAN/KANZa/KANZa1\|KANZa1]] | Kannia | Stone vessel | none |
-| [[wiki/linear-a/inscriptions/KN/KNZg/KNZg57b\|KNZg57b]] | Knossos | ivory object | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT115a\|HT115a]] | Haghia Triada | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/HT/HT/HT115b\|HT115b]] | Haghia Triada | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/HT/HT/HT120\|HT120]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA11b\|ZA11b]] | Zakros | Tablet | incomplete |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT93a\|HT93a]] |  | sign before GRA+PA (unread) |  |
-| [[wiki/linear-a/inscriptions/HT/HT/HT115a\|HT115a]] |  | single sign after \*47-NU-RA-JA |  |
-| [[wiki/linear-a/inscriptions/HT/HT/HT115b\|HT115b]] |  | single sign after KU-RU-MA, ½ |  |
-
-## Unread sign
-
-A syllabogram. Status **unread** (nothing on file).
-
-Alone on 25 Haghia Triada nodules (HT Wa 1150–1174) and on the metal object HT Zf 165. On tablets it stands as an entry between dividers before a grain logogram: HT 115a \*47-NU-RA-JA · I · GRA+BOSm, HT 43 MA-SI-DU · PA-\*342-I · I · GRA+PA 5; before OLIV 1 on ZA 11b. No reading.
+| [[wiki/linear-a/inscriptions/HT/HT/HT93a\|HT93a]] | ḥipru | ration, written by its first sign |  |
+| [[wiki/linear-a/inscriptions/HT/HT/HT115a\|HT115a]] | ḥipru | ration, written by its first sign | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT115b\|HT115b]] | ḥipru | ration, written by its first sign | CANDIDATE |
 
 <!-- END kaphtor:record -->

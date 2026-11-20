@@ -51,6 +51,8 @@ ZA 1b \]RO GRA 47 and KH 100 RO VIN\[, before the commodity: 'principal grain', 
 | Hebrew | rōʾš 'head; first, best'; bəśāmîm rōʾš 'the finest spices', Exod 30:23 (HALOT 1164) |
 | Ugaritic | riš 'head; authority; top; firstfruits' (DULAT 713) |
 | Phoenician | rʾš 'head, leader, capital' (Krahmalkov 436) |
+| Linear B | RO, a quarter of the preceding weight on the Knossos saffron tablets (KN Np 267; Killen 2024, 141) |
+| Cuneiform | SAG for rēšu and for rēštû 'first quality, choice' (CAD R 274, 277); Ebla SAG.KI.TÚM = rí-še₆ KI.TÚM (GlOS 2, 149) |
 
 ### Source
 

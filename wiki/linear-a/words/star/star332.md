@@ -31,4 +31,6 @@ updated: 2026-11-12T00:26:03Z
 
 A sign. Status **unread** (nothing on file).
 
+HT 107 .3 TE 86, \*332 7, the line whole and unbracketed: a slanting stem with two short strokes at its upper left (GORILA I 175). TE stands with no divider beside it, and Younger takes it for a logogram there.
+
 <!-- END kaphtor:record -->

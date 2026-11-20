@@ -39,7 +39,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 103 lists DA-KU-SE-NE twice, on .2–3 as PA₃-DA-KU-SE-NE\[ \]6½, broken after NE, with a possible divider after PA₃ (GORILA I 171), and again with 1, beside DA-KU-NA 1; HT 104 has DA-KU-SE-NE-TI 45½ with I-DU-TI 20½ and PA-DA-SU-TI 29, KU-RO 95: a name.
+HT 103 lists DA-KU-SE-NE twice, on .2–3 as PA₃-DA-KU-SE-NE\[ \]6½, broken after NE, with a possible divider after PA₃ (GORILA I 171), and again with 1, beside DA-KU-NA 1; HT 104 has DA-KU-SE-NE-TI 45½ with I-DU-TI 20½ and PA-RO-SU-TI 29, KU-RO 95: a name.
 
 DA-KU writes taku under stop neutralization, with the u of tagu-. Boğazköy Tagu(b)-šini (KBo XXII 114, 7), under the themes tagi- and tagu- (Laroche 1980, 250); Ugaritic tgḏn, syllabic ta-gi₅-ŠA-na, Hurrian Taki-šenni (NPN 262, printed Tgz̄n; Tropper 2000, 119, §32.144.35); Nuzi Aku-šenni, Takku and Takuja (NPN s.vv.). Hurrian šēna 'brother' with the individualizing -ni, šen=ni, gives the element -šenni (Giorgieri 2000, 199, 202; Wilhelm, Hurrian, 103; Laroche 1980, 225–26, s.v. šeni).
 

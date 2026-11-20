@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Graffito"
 period: "LMIB"
 translation: "incomplete"
-words: ["MA-TI-TI"]
+words: ["*319", "MA-TI-TI"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -61,12 +61,12 @@ Unicode (Linear A block):
 
 **CANDIDATE**, incomplete (status: incomplete).
 
-> HT Zd 157: WI-JA-SU \[recipient's name\] · MA-TI-TI 'gift' · A319 \[unidentified commodity\]. HT Zd 156: A319 1 · A319 1½ · A319 2¼ · A319 3⅜ · TA-JA ¹⁄₁₆: a reckoning of interest, each sum the last and half of it again.
+> HT Zd 157: WI-JA-SU \[recipient's name\] · MA-TI-TI 'gift' · silver. HT Zd 156: silver 1 · silver 1½ · silver 2¼ · silver 3⅜ · TA-JA ¹⁄₁₆: a reckoning of interest, each sum the last and half of it again.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | WI-JA-SU-MA-TI-TI |  | WI-JA-SU \| MA-TI-TI. WI-JA-SU, the recipient's name, unread. MA-TI-TI mattitt(u) 'gift' (Heb. mattat, HALOT 656) |  |  |
-| A319 |  | unidentified logogram, no sound value; seven tokens in three documents. On HT Zd 156 it stands before each of the four counts; the edition reads the first two as NE, each dotted (GORILA IV 133) |  |  |
+| A319 |  | silver (logogram, no sound value), the good reckoned at interest; seven tokens in three documents. On HT Zd 156 it stands before each of the four counts; the edition reads the first two as NE, each dotted (GORILA IV 133) |  |  |
 | [[wiki/linear-a/words/T/TA_JA\|TA-JA]] |  | unread; the fifth term of the series, 5¹⁄₁₆, if it is the word for five (Olivier apud Schoep 2002, 32) |  | unread |
 
 ### Notes
@@ -79,7 +79,7 @@ The series 1, 1½, 2¼, 3⅜ is a sum of 1 growing by half each term with the in
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/M/MA_TI_TI|MA-TI-TI]].
+[[wiki/linear-a/words/star/star319|\*319]], [[wiki/linear-a/words/M/MA_TI_TI|MA-TI-TI]].
 
 ## Edition differences
 

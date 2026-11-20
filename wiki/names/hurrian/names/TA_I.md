@@ -65,6 +65,6 @@ Read words on the same documents.
 | Word | Reading | Meaning |
 |---|---|---|
 | KU-RO | kull | total, sum (accounting term) |
-| [[wiki/names/hurrian/names/A_RU\|A-RU]] | Ḫaru | Ḫaru (Hurrian personal name); rival the Semitic name Ḫayru 'Excellent' |
+| [[wiki/names/hurrian/names/A_RU\|A-RU]] | Ḫaru | Ḫaru (Hurrian personal name) |
 
 <!-- END kaphtor:record -->

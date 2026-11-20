@@ -25,13 +25,7 @@ updated: 2026-10-31T14:13:39Z
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/SKO/SKOZc/SKOZc1\|SKOZc1]] | Skoteino Cave | Clay chalice rim (two nonjoining fragments); painted inscription | incomplete |
-
-## In translations
-
-| Document | Reading there | Gloss there | Confidence |
-|---|---|---|---|
-| [[wiki/linear-a/inscriptions/SKO/SKOZc/SKOZc1\|SKOZc1]] |  | unread |  |
+| [[wiki/linear-a/inscriptions/SKO/SKOZc/SKOZc1\|SKOZc1]] | Skoteino Cave | Clay chalice rim (two nonjoining fragments); painted inscription | complete; form not in transliteration |
 
 ## Unread
 

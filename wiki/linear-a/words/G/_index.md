@@ -2,14 +2,14 @@
 name: wiki/linear-a/words/G
 desc: "Words whose first sign begins with G."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-12T00:26:03Z
+updated: 2026-11-20T22:12:42Z
 ---
 
 # wiki/linear-a/words/G
 
 [[wiki/linear-a/words/_index|..]]
 
-[[wiki/linear-a/words/G/GAL|GAL]]: Unread sign (logogram, unread); 1 occurrence(s).
+[[wiki/linear-a/words/G/GAL|GAL]]: (logogram): helmet (logogram, AB 191). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/G/GRA|GRA]]: dagān 'grain, cereal'. Lexicon, PROBABLE (tier 3).
 

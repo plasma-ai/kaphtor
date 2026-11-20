@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/DA_QE_RA
 title: "DA-QE-RA"
-desc: "ḏā-Qīra: the (district) of Qīr, the walled town; heading opposite KA-PA 'village'; rival diqāru 'bowl'. Semitic, CANDIDATE."
+desc: "ḏā-Qīra: the (district) of Qīr, the walled town; heading opposite KA-PA 'village'. Semitic, CANDIDATE."
 tags: ["names", "place-name", "semitic"]
 kind: "name"
 form: "DA-QE-RA"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**ḏā-Qīra** · the (district) of Qīr, the walled town; heading opposite KA-PA 'village'; rival diqāru 'bowl'
+**ḏā-Qīra** · the (district) of Qīr, the walled town; heading opposite KA-PA 'village'
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/places\|Place name]] |
 | Reading | ḏā-Qīra |
-| Meaning | the (district) of Qīr, the walled town; heading opposite KA-PA 'village'; rival diqāru 'bowl' |
+| Meaning | the (district) of Qīr, the walled town; heading opposite KA-PA 'village' |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/dh\|ḏ]] + [[wiki/names/semitic/roots/q-y-r\|q-y-r]] |
 | Proto-Semitic | \*ḏī- (#K0877), \*qiyr- (#K0319) |

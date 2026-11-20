@@ -29,6 +29,6 @@ updated: 2026-11-11T23:39:03Z
 |---|---|---|---|
 | [[wiki/names/semitic/names/A_DU\|A-DU]] | ʾAddu | Addu (Haddu), the storm god, as recipient of a contribution | 2 |
 | [[wiki/names/semitic/names/A_DU_NI_TA_NA\|A-DU-NI-TA-NA]] | ʾAddu-nittāna | given by Addu (compound theophoric PN) | 1 |
-| [[wiki/names/semitic/names/KO_A_DU_WA\|KO-A-DU-WA]] | Qō-Addua | personal name, 'Hope in Addu' (Amorite Quwi-Haddu); rival an Anatolian name in Kuwa- | 1 |
+| [[wiki/names/semitic/names/KO_A_DU_WA\|KO-A-DU-WA]] | Qō-Addua | personal name, 'Hope in Addu' (Amorite Quwi-Haddu) | 1 |
 
 <!-- END kaphtor:record -->

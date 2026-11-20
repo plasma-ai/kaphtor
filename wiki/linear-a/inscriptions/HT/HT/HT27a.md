@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "incomplete"
-words: ["CYP", "I-MI-SA-RA", "KU-RO", "NI", "SA-RA-DI", "TI-NI-TA", "TI-NI-TA *307", "VIR+[?]"]
+words: ["*86", "CYP", "I-MI-SA-RA", "KU-RO", "NI", "SA-RA-DI", "TI-NI-TA", "TI-NI-TA *307", "VIR+[?]"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -80,14 +80,14 @@ Unicode (Linear A block):
 
 **CANDIDATE**, incomplete (status: incomplete).
 
-> Tinit of the Sanctuary (TI-NI-TA · \*307): men 90. 50. \*86 51. RE 20\[. Il-Mīšar, god of justice 43\[. QE 21. KI-DA-\[…\]. \[…\]KI-\*310 · KU-\*305\[…\]. \[…\] group of daughters (\]SA-RA-DI) 5. Men 42. Total 335 (or 355). CYP 9 J E B, figs 10 B, wine 7.
+> Tinit of the Sanctuary (TI-NI-TA · \*307): men 90. 50. The ship's crew (\*86) 51. RE 20\[. Il-Mīšar, god of justice 43\[. QE 21. KI-DA-\[…\]. \[…\]KI-\*310 · KU-\*305\[…\]. \[…\] group of daughters (\]SA-RA-DI) 5. Men 42. Total 335 (or 355). CYP 9 J E B, figs 10 B, wine 7.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | [[wiki/linear-a/words/T/TI_NI_TA\|TI-NI-TA]] | Tinit | Tinit (goddess), heading | CONFIRMED | CONFIRMED (lexicon) |
 | [[wiki/linear-a/words/star/star307\|\*307]] | dubur | sanctuary | CONFIRMED | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/V/VIR_plus_q_broken_end\|VIR+&#91;?&#93;]] |  | men | PROBABLE | PROBABLE (lexicon) |
-| [[wiki/linear-a/words/star/star86\|\*86]] |  | counted class after VIR, as HT94a |  |  |
+| [[wiki/linear-a/words/star/star86\|\*86]] | (logogram) | ship: its crew, counted after the men, as on HT 94a | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/R/RE\|RE]] |  | counted entry |  | CONFIRMED (lexicon) |
 | [[wiki/linear-a/words/I/I_MI_SA_RA\|I-MI-SA-RA]] | Il-Mīšar | Il-Mīšar, god of justice, heads 43\[ | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/Q/QE\|QE]] |  | entry, 21 |  | SPECULATIVE (lexicon) |
@@ -113,7 +113,7 @@ Personnel account with a ration triad after the total, the format of HT89; Monte
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/C/CYP|CYP]], [[wiki/linear-a/words/I/I_MI_SA_RA|I-MI-SA-RA]], [[wiki/linear-a/words/K/KU_RO|KU-RO]], [[wiki/linear-a/words/N/NI|NI]], [[wiki/linear-a/words/S/SA_RA_DI|SA-RA-DI]], [[wiki/linear-a/words/T/TI_NI_TA|TI-NI-TA]], [[wiki/linear-a/words/T/TI_NI_TA_star307|TI-NI-TA \*307]], [[wiki/linear-a/words/V/VIR_plus_q_broken_end|VIR+&#91;?&#93;]].
+[[wiki/linear-a/words/star/star86|\*86]], [[wiki/linear-a/words/C/CYP|CYP]], [[wiki/linear-a/words/I/I_MI_SA_RA|I-MI-SA-RA]], [[wiki/linear-a/words/K/KU_RO|KU-RO]], [[wiki/linear-a/words/N/NI|NI]], [[wiki/linear-a/words/S/SA_RA_DI|SA-RA-DI]], [[wiki/linear-a/words/T/TI_NI_TA|TI-NI-TA]], [[wiki/linear-a/words/T/TI_NI_TA_star307|TI-NI-TA \*307]], [[wiki/linear-a/words/V/VIR_plus_q_broken_end|VIR+&#91;?&#93;]].
 
 ## Corpus note
 

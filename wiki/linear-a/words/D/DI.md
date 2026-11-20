@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/D/DI
 title: "DI"
-desc: "dibšu: honey, fruit syrup—commodity abbreviation of *dibšu; rival dblt 'fig cake'. In personnel lists a separate single-sign abbreviation. Lexicon, CANDIDATE (tier 2)."
+desc: "dibšu: honey, fruit syrup—commodity abbreviation of *dibšu. In personnel lists a separate single-sign abbreviation. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "abbreviation", "commodity", "foodstuff", "logogram"]
 kind: "word"
 form: "DI"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | dibšu |
-| Meaning | honey, fruit syrup—commodity abbreviation of \*dibšu; rival dblt 'fig cake'. In personnel lists a separate single-sign abbreviation |
+| Meaning | honey, fruit syrup—commodity abbreviation of \*dibšu. In personnel lists a separate single-sign abbreviation |
 | Root | d-b-š |
 | Proto-Semitic | \*dVbš- (#2737) |
 | Language layer | Semitic |
@@ -51,6 +51,8 @@ Two uses, all at Haghia Triada (GORILA I 7, 37, 61, 121, 123, 133, 159, 181, 209
 | Hebrew | דְּבַשׁ dǝbaš 'honey'; Deut 32:13–14 beside חֶמְאַת בָּקָר (cf. DI and E on HT12) |
 | Arabic | dibs 'grape molasses' |
 | Ugaritic (rival) | dblt 'dried fig, fig cake' (DULAT 261), in commodity lists by the quarter (KTU 4.751:10; 4.60:5) beside nbt 'honey' (DULAT 610; 4.14, 4.751); Hebrew dǝbēlâ |
+| Linear B | honey is me-ri and the monogram ME+RI (KN Gg 702, Fs 11; Killen 2024, 988) |
+| Cuneiform | LÀL for dišpu (CAD D 161); at Ugarit DUG LÀL beside nbt (PRU 6 159:5; DULAT 610) |
 
 ### Source
 

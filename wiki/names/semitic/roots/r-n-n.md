@@ -28,7 +28,7 @@ updated: 2026-11-11T23:39:03Z
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
 | [[wiki/names/semitic/names/A_RE_PI_RE_NA\|A-RE-PI-RE-NA]] | ʾa-repiʾ-rennā | Healer of Jubilation (Eshmun epithet) | 1 |
-| [[wiki/names/semitic/names/RA_NA_TU_SU\|RA-NA-TU-SU]] | Rannatušu | personal name, 'his shout of joy'; rival two names, RA-NA and TU-SU | 1 |
-| [[wiki/names/semitic/names/RU_NI\|RU-NI]] | Runni | personal name, 'Jubilation'; rival 'the crier', Dīnāyu's trade | 1 |
+| [[wiki/names/semitic/names/RA_NA_TU_SU\|RA-NA-TU-SU]] | Rannatušu | personal name, 'his shout of joy' | 1 |
+| [[wiki/names/semitic/names/RU_NI\|RU-NI]] | Runni | personal name, 'Jubilation' | 1 |
 
 <!-- END kaphtor:record -->

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/T/TU_JU_MA
 title: "TU-JU-MA"
-desc: "Tuʿluma: personal name, 'hidden one'; rival Hurrian talm- 'great' (Talimmu, a merchant's name at Ugarit). Lexicon, SPECULATIVE (tier 1)."
+desc: "Tuʿluma: personal name, 'hidden one'. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "TU-JU-MA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Tuʿluma |
-| Meaning | personal name, 'hidden one'; rival Hurrian talm- 'great' (Talimmu, a merchant's name at Ugarit) |
+| Meaning | personal name, 'hidden one' |
 | Root | ʿ-l-m |
 | Proto-Semitic | \*ɣlm (#3633) |
 | Language layer | Semitic |
@@ -79,6 +79,10 @@ di Mino; HALOT; Kinlaw 1967; Watson 2016
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |
 | Contact reference | heb:tbesh:H5956 |
+
+### Note
+
+Rival: Hurrian talm- 'great' (Talimmu, a merchant's name at Ugarit).
 
 ### Co-occurring lexicon words
 

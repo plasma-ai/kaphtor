@@ -56,9 +56,15 @@ di Mino; HALOT; DULAT
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/KH/KH/KH18\|KH18]] | Khania | Tablet | none |
+| [[wiki/linear-a/inscriptions/KH/KH/KH18\|KH18]] | Khania | Tablet | complete |
 | [[wiki/linear-a/inscriptions/KH/KH/KH60\|KH60]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH85\|KH85]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KN/KN/KN54\|KN54]] | Knossos | Tablet | none |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/KH/KH/KH18\|KH18]] |  | vinegar | CANDIDATE |
 
 <!-- END kaphtor:record -->

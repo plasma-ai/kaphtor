@@ -77,6 +77,7 @@ di Mino; Gelb 1980
 | Occurrences | 1 in 1 documents |
 | Sites | Knossos |
 | Supports | Tablet 1 |
+| Contact reference | am_gelb_n_03314 |
 
 ### Note
 

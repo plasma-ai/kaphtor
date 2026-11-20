@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/Z/ZU_JU_PU2
 title: "ZU-JU-PU₂"
-desc: "ṯulpu: flute; here the flute-player, the trade of TU-QE-NU Tuqnu; rival Hurrian Tulbiya. Lexicon, CANDIDATE (tier 2)."
+desc: "ṯulpu: flute; here the flute-player, the trade of TU-QE-NU Tuqnu. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "hapax", "noun", "occupation"]
 kind: "word"
 form: "ZU-JU-PU₂"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ṯulpu |
-| Meaning | flute; here the flute-player, the trade of TU-QE-NU Tuqnu; rival Hurrian Tulbiya |
+| Meaning | flute; here the flute-player, the trade of TU-QE-NU Tuqnu |
 | Root | ṯ-l-p |
 | Proto-Semitic | \*ṯulp- (#3787) |
 | Language layer | Semitic |

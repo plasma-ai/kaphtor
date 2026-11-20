@@ -9,7 +9,7 @@ site: "Malia"
 support: "3-sided bar"
 period: "MMIIIB"
 translation: "complete"
-words: ["A-MA", "QE-DE-MI-NU"]
+words: ["*47", "A-MA", "QE-DE-MI-NU"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -40,13 +40,13 @@ updated: 2026-10-24T16:17:50Z
 
 Transliteration, line by line:
 
-1. A-MA 𐄁 \*47
+1. A-MA 𐄁 \*47 𐄁
 2. QE-DE-MI-NU
 
 Unicode (Linear A block):
 
 ```text
-𐘇𐙁𐄁𐘨
+𐘇𐙁𐄁𐘨𐄁
 𐘿𐘦𐘻𐘯
 ```
 
@@ -54,24 +54,25 @@ Unicode (Linear A block):
 
 **SPECULATIVE**, complete.
 
-> The people · \*47 · Qēdmīnu.
+> The people of Qēdmīnu.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | [[wiki/linear-a/words/A/A_MA\|A-MA]] | ʿamma | people, kinfolk—social/kinship term | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/star/star47\|\*47]] | šū | he of, that of (determinative pronoun) | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/Q/QE_DE_MI_NU\|QE-DE-MI-NU]] | Qēdmīnu | personal name, 'Easterner, Ancient one' | SPECULATIVE | SPECULATIVE (lexicon) |
 
 ### Notes
 
-One face of the bar, whole end to end. A divider also follows \*47 (photograph and drawing); the surface is pitted between DE and MI.
+One face of the bar, whole end to end. A divider stands on each side of \*47 (GORILA I 269); the surface is pitted between DE and MI.
 
 ### Source
 
-- di Mino: A-MA, QE-DE-MI-NU
+- di Mino: A-MA, \*47, QE-DE-MI-NU
 - GORILA: MA1b
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/A/A_MA|A-MA]], [[wiki/linear-a/words/Q/QE_DE_MI_NU|QE-DE-MI-NU]].
+[[wiki/linear-a/words/star/star47|\*47]], [[wiki/linear-a/words/A/A_MA|A-MA]], [[wiki/linear-a/words/Q/QE_DE_MI_NU|QE-DE-MI-NU]].
 
 <!-- END kaphtor:record -->

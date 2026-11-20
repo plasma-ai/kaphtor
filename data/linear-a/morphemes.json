@@ -96,7 +96,7 @@
       "confidence": "CANDIDATE",
       "evidence": [
         "DA-KU-SE-NE on HT103 beside DA-KU-SE-NE-TI on HT104 favors suffixation",
-        "DA-KU-SE-NE-TI, I-DU-TI, and PA-DA-SU-TI share the same pre-quantity position on HT104",
+        "DA-KU-SE-NE-TI, I-DU-TI, and PA-RO-SU-TI share the same pre-quantity position on HT104",
         "GORILA I 171 allows final TI to be an ideogram or classifier"
       ],
       "strips_to": false,

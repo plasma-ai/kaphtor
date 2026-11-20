@@ -43,6 +43,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-HALOT 854 sets III ʿnh 'to be busy' apart. Kogan 2025, 9 n. 22 (after Arkhipov–Kogan 2025, 6–7) reads i-na-a in ARET 13, 1 as /hinnay/ 'here'.
+HALOT 854 sets III ʿnh 'to be busy' apart. Kogan 2025, 9 n. 22 (after Arkhipov–Kogan 2025, 6–7) reads i-na-a in ARET 13, 1 as /hinnay/ 'here'. Malamat sets Hebrew ʿānâ 'answer' of divine revelation (1 Sam 9:17) beside the Mari prophet's title āpilum 'answerer, respondent', from Akkadian apālum, a counterpart in sense and no cognate (1998, 67–68).
 
 <!-- END kaphtor:record -->

@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "none"
-words: ["CYP", "KA-PA", "KU-RO", "NI", "SA-RA₂", "VIR+*313", "VIR+[?]"]
+words: ["*86", "*306", "*318", "CYP", "KA-PA", "KU-RO", "NI", "SA-RA₂", "TA", "VIR+*313", "VIR+[?]"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -77,6 +77,6 @@ Unicode (Linear A block):
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/C/CYP|CYP]], [[wiki/linear-a/words/K/KA_PA|KA-PA]], [[wiki/linear-a/words/K/KU_RO|KU-RO]], [[wiki/linear-a/words/N/NI|NI]], [[wiki/linear-a/words/S/SA_RA2|SA-RA₂]], [[wiki/linear-a/words/V/VIR_plus_star313|VIR+\*313]], [[wiki/linear-a/words/V/VIR_plus_q_broken_end|VIR+&#91;?&#93;]].
+[[wiki/linear-a/words/star/star86|\*86]], [[wiki/linear-a/words/star/star306|\*306]], [[wiki/linear-a/words/star/star318|\*318]], [[wiki/linear-a/words/C/CYP|CYP]], [[wiki/linear-a/words/K/KA_PA|KA-PA]], [[wiki/linear-a/words/K/KU_RO|KU-RO]], [[wiki/linear-a/words/N/NI|NI]], [[wiki/linear-a/words/S/SA_RA2|SA-RA₂]], [[wiki/linear-a/words/T/TA|TA]], [[wiki/linear-a/words/V/VIR_plus_star313|VIR+\*313]], [[wiki/linear-a/words/V/VIR_plus_q_broken_end|VIR+&#91;?&#93;]].
 
 <!-- END kaphtor:record -->

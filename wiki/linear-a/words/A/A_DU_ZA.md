@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/A/A_DU_ZA
 title: "A-DU-ZA"
-desc: "ʾAddu-ʿazz: ʾAddu-ʿazz (personal name), 'Addu is strong'; rival Hadas 'Myrtle'. Lexicon, SPECULATIVE (tier 1)."
+desc: "ʾAddu-ʿazz: ʾAddu-ʿazz (personal name), 'Addu is strong'. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "compound", "hapax", "personal_name"]
 kind: "word"
 form: "A-DU-ZA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʾAddu-ʿazz |
-| Meaning | ʾAddu-ʿazz (personal name), 'Addu is strong'; rival Hadas 'Myrtle' |
+| Meaning | ʾAddu-ʿazz (personal name), 'Addu is strong' |
 | Root | ʕ-z-z |
 | Proto-Semitic | \*ʕazVz- (#2769) |
 | Language layer | Semitic |

@@ -38,7 +38,7 @@ Evidence: its own readings, with no support from another script. Alone and insid
 
 | Value | Confidence | Evidence |
 |---|---|---|
-| /zo/ |  | Rival: ZO, as Montecchi takes it (2010, 31 n. 38). TELA+\*312 (HT38) beside Linear B TELA+ZO (KN L 433; Del Freo 2020, 58; Killen 2024, 724), which Nosch and Weilhartner compare (2026, 126); Shape: a pointed head over a crossbar on a stem, closest among the Linear B signs to zo; Melena finds A 312 as the ancestor of zo "suggestive" (2014, 46 n. 50); KH8 \*312 1 in a list with CYP ¼ ~ KH57 ZO 1 before CYP ¼ |
+| /zo/ |  | Rival: ZO, as Montecchi takes it (2010, 31 n. 38). TELA+\*312 (HT38) beside Linear B TELA+ZO (KN L 433, erased on Lc 5612 and perhaps on L 2127: Nosch 2024, 326–327 n. 14; Del Freo 2020, 58; Killen 2024, 724), which Nosch and Weilhartner compare (2026, 126); Shape: a pointed head over a crossbar on a stem, closest among the Linear B signs to zo; Melena finds A 312 as the ancestor of zo "suggestive" (2014, 46 n. 50); Knossos also has \*178, which 'may represent a textile with the pointed item on top resembling sign zo' (Nosch 2024, 327); KH8 \*312 1 in a list with CYP ¼ ~ KH57 ZO 1 before CYP ¼ |
 
 ### Forms cited for the value
 

@@ -27,7 +27,7 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/KA_PA\|KA-PA]] | kapa(r) | village, settlement (kapar); rival an institution | 6 |
-| [[wiki/names/semitic/names/KA_PA_QE\|KA-PA-QE]] | kapar qē(pu) | the village's commissioner, a recipient of figs; rival 'the village: measures (qê)' | 1 |
+| [[wiki/names/semitic/names/KA_PA\|KA-PA]] | kapa(r) | village, settlement (kapar) | 6 |
+| [[wiki/names/semitic/names/KA_PA_QE\|KA-PA-QE]] | kapar qē(pu) | the village's commissioner, a recipient of figs | 1 |
 
 <!-- END kaphtor:record -->

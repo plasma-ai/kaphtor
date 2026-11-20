@@ -7,30 +7,29 @@
     "edge_overlap": "a lexicon word sits at one edge; often a chance 2-sign overlap"
   },
   "stats": {
-    "corpus_words": 720,
-    "read": 557,
-    "unread_listed": 362,
+    "corpus_words": 719,
+    "read": 559,
+    "unread_listed": 361,
     "by_status": {
       "edge_overlap": 18,
       "unread": 150,
-      "role_only": 194
+      "role_only": 193
     },
-    "hapax": 352,
+    "hapax": 351,
     "repeated": 10,
     "cross_site": 4,
-    "surface_damaged": 275,
+    "surface_damaged": 276,
     "excluded_tokens": {
-      "single-sign": 1394,
-      "numeral/punct": 1552,
-      "logogram": 341,
-      "damaged": 1133,
-      "ligature/logogram": 421
+      "single-sign": 1379,
+      "numeral/punct": 1545,
+      "logogram": 340,
+      "damaged": 1151,
+      "ligature/logogram": 424
     }
   },
   "excluded": {
     "NU-MA-RE": "corpus splits *28B-NU-MA-RE (ZA4a, ZA5b, ZA15a); the word is lexicon JI-NU-MA-RE",
     "JA-SA-SA-RA-MA": "corpus breaks the line after MA on KNZa10; the word is lexicon JA-SA-SA-RA-MA-NA",
-    "WA-DI-NI": "corpus runs WA-DI-NI as one word on HTWc3007, HTWc3008; GORILA prints WA · DI-NI on 3008a; the word is lexicon DI-NI",
     "A-NA-TI-*301-WA-JA": "broken at both ends on IOZa8; translations read ]A-NA-TI-*301-WA-JA[ as ʿAnatī nawaya",
     "SA-SA-RA-ME": "corpus splits · A, then SA-SA-RA-ME on the next line, on PKZa11; the word is lexicon A-SA-SA-RA-ME",
     "NA-MA-MA-TI-TI-*319": "corpus runs NA-MA-MA-TI-TI-*319 as one word on HTZd155; translations read NA-MA + MA-TI-TI + A319, the words lexicon NA-MA and MA-TI-TI"
@@ -570,20 +569,6 @@
       ],
       "cross_site": false,
       "note": "HT 140 .1 *86-SỊ-NI · 1̣[ ], SI dotted, the numeral dotted and broken after it, after U-*34-SI : (GORILA I 237). The apparatus allows NI to be the logogram, and Uchitel divides *86 SI, the ship sign and SI, from NI 'figs' 1[ (2016b, 12–13). Sole attestation. Not readable."
-    },
-    {
-      "word": "*903-I-DU-WI",
-      "signs": 4,
-      "status": "unread",
-      "frequency": 1,
-      "attestations": [
-        "MA1a"
-      ],
-      "sites": [
-        "Malia"
-      ],
-      "cross_site": false,
-      "note": "MA 1a, a three-sided bar from the Malia palace: X, then I-DU-WI · *47 · QE-DE-MI-NU · (GORILA I 268–269). The copie normalisée sets X apart from I-DU-WI, Younger prints X as the mark that opens the bar, and face b opens directly with A-MA · *47 · QE-DE-MI-NU (Younger, Linear A Texts). The word is I-DU-WI, and the listed form fuses the opening mark with it. Not a word."
     },
     {
       "word": "A-*301",
@@ -3132,21 +3117,6 @@
       "note": "TY 2 .2–3: PA ends line 2 and DA opens line 3, then *309 with RU written above it, JU, KI and 100; the tabular copy sets the six signs as one entry with no divider (GORILA I 325). Every other syllabic entry on the tablet opens with *309, so PA-DA stands before a *309 entry and is not set off as a word. Linear B pa-da[ (DMic II) is broken after. Not a word."
     },
     {
-      "word": "PA-DA-SU-TI",
-      "signs": 4,
-      "status": "role_only",
-      "role": "personal_name",
-      "frequency": 1,
-      "attestations": [
-        "HT104"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "note": "HT104 .3–.4 PẠ-DẠ-SỤ-TỊ 29, PA and DA dotted at the end of .3, SU and TI dotted at the head of .4. GORILA's note does not exclude PA-RO for PA-DA (GORILA I 171); Schoep reads PA-RO-SU-TI (Schoep 2002, 47). With PA-RO it is the PA-RO-SU of HT 20 .1 with the -TI of DA-KU-SE-NE-TI and I-DU-TI. Sole attestation. Not readable."
-    },
-    {
       "word": "PA-I-KI[",
       "signs": 3,
       "status": "role_only",
@@ -4319,6 +4289,25 @@
       ],
       "cross_site": false,
       "note": "PS Za 2 .2 TA-NA-I-*301-TI · [, the first group of the line (GORILA IV 52–55). The listed form drops the last sign of the edition's group, which belongs to the TA-NA-I-*301-U-TI-NU paradigm. Not a word."
+    },
+    {
+      "word": "TA-NA-SU-TE-[?]-KE",
+      "signs": 6,
+      "status": "unread",
+      "frequency": 1,
+      "attestations": [
+        "PRZa1"
+      ],
+      "sites": [
+        "Prassa"
+      ],
+      "cross_site": false,
+      "surface_damage": {
+        "PRZa1": [
+          "interior"
+        ]
+      },
+      "note": "PR Za 1 .a TA-NA-SU-TE[ ]-KE, TE and KE dotted (GORILA IV 48): the facsimile stipples a stretch one narrow sign wide between them, with an upright trace at its top and foot. Davis suggests DA or RO for the lost sign (2011, 476, apud Younger). The group opens the text, before SE-TO-I-JA and A-SA-SA-RA-ME. Not readable."
     },
     {
       "word": "TA-NE",

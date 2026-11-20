@@ -50,6 +50,8 @@ HT 56a: SA 11½ under the heading \*188 (buṭnu). Compound forms: VIN+SA (HT 13
 | Akkadian | šikaru 'beer; fermented alcoholic beverage' (CAD Š/2 420) |
 | Hebrew | šēkār 'intoxicating drink, beer' (HALOT 1501) |
 | Ugaritic | /š-k-r/ (II) 'to become intoxicated' (DULAT 804) |
+| Linear B | SA alone, ri-no 'flax, linen' (Killen 2024, 1029), 'the first syllable of a foreign –possibly Minoan– word for flax' (Nosch and Weilhartner 2026, 124) |
+| Cuneiform | KAŠ for šikaru (CAD Š/2 420); Ebla ŠE+TIN = sa/ʔà(?)-x-lum, 'rdg unc.' (GlOS 2, 244) |
 
 ### Source
 

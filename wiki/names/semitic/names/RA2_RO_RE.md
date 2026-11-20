@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/RA2_RO_RE
 title: "RA₂-RO-RE"
-desc: "Lallor: personal name, 'Mourner' (Akk. lallaru); rival Amorite Li-lu-ri. Semitic, SPECULATIVE."
+desc: "Lallor: personal name, 'Mourner' (Akk. lallaru). Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "RA₂-RO-RE"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Lallor** · personal name, 'Mourner' (Akk. lallaru); rival Amorite Li-lu-ri
+**Lallor** · personal name, 'Mourner' (Akk. lallaru)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Lallor |
-| Meaning | personal name, 'Mourner' (Akk. lallaru); rival Amorite Li-lu-ri |
+| Meaning | personal name, 'Mourner' (Akk. lallaru) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/l-l-r\|l-l-r]] |
 | Proto-Semitic | \*lallār- (#3851) |

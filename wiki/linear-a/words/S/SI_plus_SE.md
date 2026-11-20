@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/S/SI_plus_SE
 title: "SI+SE"
-desc: "ṣiṣe: the salt-works (Ug. ṣṣ, WSem. ṣēṣūma 'salt marsh'), an establishment drawing grain, oil and figs; rival Šipšu, the Sun-deity. Lexicon, SPECULATIVE (tier 1)."
+desc: "ṣiṣe: the salt-works (Ug. ṣṣ, WSem. ṣēṣūma 'salt marsh'), an establishment drawing grain, oil and figs. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "administrative", "ligature"]
 kind: "word"
 form: "SI+SE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ṣiṣe |
-| Meaning | the salt-works (Ug. ṣṣ, WSem. ṣēṣūma 'salt marsh'), an establishment drawing grain, oil and figs; rival Šipšu, the Sun-deity |
+| Meaning | the salt-works (Ug. ṣṣ, WSem. ṣēṣūma 'salt marsh'), an establishment drawing grain, oil and figs |
 | Root | ṣ-ṣ |
 | Proto-Semitic | \*ṣVṣ- (#3987) |
 | Language layer | Semitic |

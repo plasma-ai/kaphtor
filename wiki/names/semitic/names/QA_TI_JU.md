@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/QA_TI_JU
 title: "QA-TI-JU"
-desc: "Qātilu: Qātilu (personal name), 'killer'; rival Hurrian Katiya 'He/She said'. Semitic, SPECULATIVE."
+desc: "Qātilu: Qātilu (personal name), 'killer'. Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "QA-TI-JU"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Qātilu** · Qātilu (personal name), 'killer'; rival Hurrian Katiya 'He/She said'
+**Qātilu** · Qātilu (personal name), 'killer'
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Qātilu |
-| Meaning | Qātilu (personal name), 'killer'; rival Hurrian Katiya 'He/She said' |
+| Meaning | Qātilu (personal name), 'killer' |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/q-t-l\|q-t-l]] |
 | Proto-Semitic | \*ḳtl (#2498) |

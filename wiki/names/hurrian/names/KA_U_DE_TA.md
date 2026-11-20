@@ -1,7 +1,7 @@
 ---
 name: wiki/names/hurrian/names/KA_U_DE_TA
 title: "KA-U-DE-TA"
-desc: "Kaw-tatta: Kaw-tatta (Hurrian personal name), kaw- + tatt- 'love'; rival Ugaritic PN kwt. Hurrian, SPECULATIVE."
+desc: "Kaw-tatta: Kaw-tatta (Hurrian personal name), kaw- + tatt- 'love'. Hurrian, SPECULATIVE."
 tags: ["names", "personal-name", "hurrian"]
 kind: "name"
 form: "KA-U-DE-TA"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Kaw-tatta** · Kaw-tatta (Hurrian personal name), kaw- + tatt- 'love'; rival Ugaritic PN kwt
+**Kaw-tatta** · Kaw-tatta (Hurrian personal name), kaw- + tatt- 'love'
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Kaw-tatta |
-| Meaning | Kaw-tatta (Hurrian personal name), kaw- + tatt- 'love'; rival Ugaritic PN kwt |
+| Meaning | Kaw-tatta (Hurrian personal name), kaw- + tatt- 'love' |
 | Language layer | [[wiki/names/hurrian/_index\|Hurrian]] |
 | Reading's standing | SPECULATIVE |
 | Standing as a personal name | SPECULATIVE |

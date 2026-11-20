@@ -31,7 +31,7 @@ updated: 2026-10-28T06:21:26Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | (VIII) wqy; waqāhu, ittaqāhu 'he was cautious of it' 1; waqāhu llāhu s-sūʾa 'God preserved him from evil' 2 (Lane 3059) | Lane 3059 |  |
-| Ugaritic | wqy |  |  |
+| Ugaritic | wqy; d tqh, a vassal's obedience (KTU 1.2 I 18; Tugendhaft 2018, 82, 96 n. 8) | KTU 1.2 I 18; Tugendhaft 2018 82, 96 n. 8 | gloss withheld |
 | Geez | waqaya II (yəwaqqi) 2 (LGz. 616) | LGz. 616 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic wqy, qyt, twqy, wqyt 2 (Al-Jallad–Jaworska 140, 112, 134, 141); qt; Dhofari qyt 2 (Al-Jallad 2026, 168) | Al-Jallad–Jaworska 140, 112, 134, 141; Al-Jallad 2026 168 | gloss withheld |
 | Amorite | w-ḳ-y 2: name ú-qe-e-ra-aḫ (Babylonia) (Sanmartín GlOS 2, 350) | Sanmartín GlOS 2, 350 | gloss withheld |

@@ -72,7 +72,7 @@ Unicode (Linear A block):
 |---|---|---|---|---|
 | NU-TI |  | broken word, \]-NU-TI ·, heading |  |  |
 | [[wiki/linear-a/words/Z/ZA\|ZA]] |  | broken word, ZA-\[ |  |  |
-| [[wiki/linear-a/words/R/RA\|RA]] |  | broken word, \]-RA; QI+SI 5 |  |  |
+| [[wiki/linear-a/words/R/RA\|RA]] |  | broken word, \]-RA; QI+SI 5 |  | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/R/RO_SI_RA\|RO-SI-RA]] |  | broken word, \]RỌ-SI-RA; QI+SI 4̣ |  | unread |
 | A-TA-NA |  | broken word, A-TA-NA-\[·\]; QI+SI 2̣ |  |  |
 | [[wiki/linear-a/words/M/MA_JU\|MA-JU]] |  | broken word, \[·\]-MA-JU; ewes 2 |  | unread |

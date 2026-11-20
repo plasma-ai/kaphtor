@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/DA_RU_star329
 title: "DA-RU-*329"
-desc: "Dārum: personal name, 'Eternal'; rival Arabic Dārim. Semitic, SPECULATIVE."
+desc: "Dārum: personal name, 'Eternal'. Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "DA-RU-*329"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Dārum** · personal name, 'Eternal'; rival Arabic Dārim
+**Dārum** · personal name, 'Eternal'
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Dārum |
-| Meaning | personal name, 'Eternal'; rival Arabic Dārim |
+| Meaning | personal name, 'Eternal' |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/d-w-r\|d-w-r]] |
 | Proto-Semitic | \*dawr- (#40) |
@@ -40,7 +40,7 @@ HT 7b .2 DA-RU-\*329 2, after \*21F-TU-NE 1, both over an erasure (GORILA I 15);
 
 ## As a name
 
-Second line of HT 7b, after \*21F-TU-NE 1, on a roster of men; \*329 read mo (Montecchi 2024, 173). Amorite dārum 'eternity, eternal' (Gelb 1980, §0.7); DA-RU- recurs in DA-RU-NE-TE (HT 98b). See the lexicon entry.
+Second line of HT 7b, after \*21F-TU-NE 1, on a roster of men; \*329 read mo (Montecchi 2024, 173). Amorite dārum 'eternity, eternal' (Gelb 1980, §0.7); DA-RU- recurs in DA-RU-NE-TE (HT 98b). See the lexicon entry. Rival: Arabic Dārim.
 
 ## Cognates
 

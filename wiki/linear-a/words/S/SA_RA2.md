@@ -43,7 +43,7 @@ updated: 2026-10-24T16:17:50Z
 
 Twenty Haghia Triada accounting tablets; on HT 125a \]SA-RA₂ stands at a broken edge. HT 105 sets KA-PA and SA-RA₂ in parallel before VIR 234 and 235; HT 100 and HT 94a put SA-RA₂ after a closed KU-RO and before a new commodity; HT 97b has SA-RA₂ alone, a docket or recipient label.
 
-šarra 'queen, princess', the queen's establishment as recipient: Akk. šarratu 'queen' (CAD Š/2 72), Heb. śārâ 'woman of rank, princess' (HALOT 1354), Amorite šarra without -t, as the Mari name Nanni-šarra beside Nanni-šarrat (Ziegler 1999, 278; see SA-RA). RA₂ writes the geminate, as Linear B ra₂ writes rra, lla beside plain ra (Judson 2020, 74).
+šarra 'queen, princess', the queen's establishment as recipient: Akk. šarratu 'queen' (CAD Š/2 72), Heb. śārâ 'woman of rank, princess' (HALOT 1354), Amorite šarra without -t, as the Mari name Nanni-šarra beside Nanni-šarrat (Ziegler 1999, 278). RA₂ writes the geminate, as Linear B ra₂ writes rra, lla beside plain ra (Judson 2020, 74).
 
 Montecchi takes it as a sender, recipient or name and excludes a transactional sense (Montecchi 2008, 321). Schoep takes it for a transactional term: it never opens a tablet, never heads olives, and excludes TE on the mixed-commodity tablets, where its sections hold whole numbers and TE's fractions; on other tablets it takes fractions too (Schoep 2002, 164–65). On HT 34 it heads SA+MU+KU 100, of which KI-RO books 30 as owed: SA-RA₂ is the account due. Rivals: Šar-ra, a man's name at Alalakh (Niedorf 2008, 490); šeʾārā 'remainder' (√š-ʾ-r), where HT 30 and HT 34 write the deficit KI-RO; 'personnel', the 100 of HT 94a (Schrijver 2014, 26–29); 'rations' (Pope 1958, 16), against HT 105 SA-RA₂ VIR 235; the name of the palace at Phaistos, the town being PA-I-TO, a place Haghia Triada sent goods to, 'great (place)' vel sim., perhaps an Anatolian loan beside Hittite šalli- 'big, great' (EDHIL 709–11), Davis's candidate (2026b, 104 n. 409). HT 11b .1 RU-RA₂ heads KA 40, 30, 50, 30, 30 in SA-RA₂'s slot, and Younger (Linear A Texts) and Uchitel (2016b, 16) read SA-RA₂ there, a reading GORILA calls practically impossible (I 23).
 
@@ -54,7 +54,7 @@ Montecchi takes it as a sender, recipient or name and excludes a transactional s
 | Akkadian | šarratu (construct šarrat-) 'queen' |
 | Amorite | šarra 'queen' (Gelb 1980, glossary); Nanni-šarra(t), a woman of Zimri-Lim's palace at Mari, written both ᵈna-an-ni-šar-ra and na-an-ni-šar-ra-at (Ziegler 1999, 278) |
 | Hebrew | śārâ 'princess' (Gen 17:15) |
-| Linear A | SA-RU /šarru/ 'king/prince' and SA-RA /šarra/ 'queen/princess', the same title family |
+| Linear A | SA-RU /šarru/ 'king/prince', the same title family |
 
 ### Source
 
@@ -119,6 +119,7 @@ di Mino; Montecchi 2008; Schoep 2002; CAD Š/2; HALOT; Gelb 1980; Ziegler 1999; 
 | Occurrences | 20 in 20 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 20 |
+| Contact reference | am_gelb_n_05848 |
 
 ### Note
 

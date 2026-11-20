@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/JA_DI
 title: "JA-DI"
-desc: "Yadi: Hand (personal name); rivals Yadīn 'he judges', Yadiʿ 'he knows', Ugarit ydy 'may (the god) establish'. Semitic, SPECULATIVE."
+desc: "Yadi: Hand (personal name). Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "JA-DI"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Yadi** · Hand (personal name); rivals Yadīn 'he judges', Yadiʿ 'he knows', Ugarit ydy 'may (the god) establish'
+**Yadi** · Hand (personal name)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Yadi |
-| Meaning | Hand (personal name); rivals Yadīn 'he judges', Yadiʿ 'he knows', Ugarit ydy 'may (the god) establish' |
+| Meaning | Hand (personal name) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/y-d\|y-d]] |
 | Proto-Semitic | \*yad- ~ \*ʾid- (#2046) |
@@ -40,7 +40,7 @@ PH Wc 39, an MM II roundel from Vano LI, JA-DI on face a, RO rōš on face b, wh
 
 ## As a name
 
-Yadi 'Hand', the Amorite name IA-DI-IM (Gelb 1980, no. 3205), on a roundel with RO rōš.
+Yadi 'Hand', the Amorite name IA-DI-IM (Gelb 1980, no. 3205), on a roundel with RO rōš. Rivals: Yadīn 'he judges', Yadiʿ 'he knows', Ugarit ydy 'may (the god) establish'.
 
 ## Cognates
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/Q/QA_star118
 title: "QA-*118"
-desc: "qaṭṭ(u): flax, linseed—field-crop commodity; rival the place Qṭ. Lexicon, SPECULATIVE (tier 1)."
+desc: "qaṭṭ(u): flax, linseed—field-crop commodity. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "agriculture", "commodity", "hapax", "noun", "textile"]
 kind: "word"
 form: "QA-*118"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | qaṭṭ(u) |
-| Meaning | flax, linseed—field-crop commodity; rival the place Qṭ |
+| Meaning | flax, linseed—field-crop commodity |
 | Root | q-ṭ |
 | Proto-Semitic | \*ḳVṭ(Vw)- (#3781) |
 | Language layer | Semitic |

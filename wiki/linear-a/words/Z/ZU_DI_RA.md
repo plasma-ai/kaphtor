@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/Z/ZU_DI_RA
 title: "ZU-DI-RA"
-desc: "ṯudira: waitress, girl (Ug. ṯdr, a Hurro-Hittite loan from šiduri); rival the name Šituri. Lexicon, CANDIDATE (tier 2)."
+desc: "ṯudira: waitress, girl (Ug. ṯdr, a Hurro-Hittite loan from šiduri). Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "noun", "personnel"]
 kind: "word"
 form: "ZU-DI-RA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ṯudira |
-| Meaning | waitress, girl (Ug. ṯdr, a Hurro-Hittite loan from šiduri); rival the name Šituri |
+| Meaning | waitress, girl (Ug. ṯdr, a Hurro-Hittite loan from šiduri) |
 | Root | ṯ-d-r |
 | Proto-Semitic | \*ṯdr (#4421) |
 | Language layer | Hurrian |

@@ -44,7 +44,7 @@ Transliteration, line by line:
 Unicode (Linear A block):
 
 ```text
-𐘭𐘿𐘠𐘇𐘞𐘞𐘴𐙱𐄁
+𐘭𐘿𐘠𐘇𐘞𐘞𐘴𐝫𐄁
 ```
 
 ## Translation
@@ -66,7 +66,7 @@ A votive naming the dance of the goddess — epigraphic counterpart to Minoan ec
 
 ### Source
 
-- di Mino: RI-QE-TI, A-SA-SA-RA-\*325
+- di Mino: RI-QE-TI, A-SA-SA-RA-\[·\]
 
 ## Lexicon words citing this document
 

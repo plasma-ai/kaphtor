@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/DE_DI
 title: "DE-DI"
-desc: "Dedī: personal name, 'my beloved'; rival the Hurrian name dḏy. Semitic, SPECULATIVE."
+desc: "Dedī: personal name, 'my beloved'. Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "DE-DI"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Dedī** · personal name, 'my beloved'; rival the Hurrian name dḏy
+**Dedī** · personal name, 'my beloved'
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Dedī |
-| Meaning | personal name, 'my beloved'; rival the Hurrian name dḏy |
+| Meaning | personal name, 'my beloved' |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/d-w-d\|d-w-d]] |
 | Proto-Semitic | \*dawid- (#19) |

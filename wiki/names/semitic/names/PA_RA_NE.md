@@ -71,7 +71,7 @@ Read words on the same documents.
 
 | Word | Reading | Meaning |
 |---|---|---|
-| [[wiki/names/semitic/names/star301_U_RA\|\*301-U-RA]] | naura | light, radiance (personal name or epithet) |
+| [[wiki/names/semitic/names/star301_U_RA\|\*301-U-RA]] | naura | Bright (personal name) |
 | KU-RU-MA | kurma / gurma | vineyard / mountain with vineyard |
 
 <!-- END kaphtor:record -->

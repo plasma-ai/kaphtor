@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Mehri | wesōr |  |  |
 | Akkadian | esēru B 1 (CAD E 334); asīru (CAD A/2 331); asīrūtu (CAD A/2 332); Amarna: {lu₂-meš}a-si-ri (ORACC aemw/amarna qca; 4 instances) | CAD E 334; CAD A/2 331; CAD A/2 332; ORACC aemw/amarna qca | gloss withheld |
 | Harsusi | wesōr |  |  |
-| Ugaritic | ʔsr 1 |  |  |
+| Ugaritic | ʔsr 1; ʾasr (KTU 1.2 I 37; Tugendhaft 2018, 97 n. 26) | KTU 1.2 I 37; Tugendhaft 2018 97 n. 26 | gloss withheld |
 | Jibbali | ʔesɔr 2 |  |  |
 | Hebrew | ʔsr 1; ʔēsūr, bēt hāʔēsūr (HALOT 73) | HALOT 73 | gloss withheld |
 | Aramaic | ʔsr \[-i-\] 1 (DNWSI 90) | DNWSI 90 |  |

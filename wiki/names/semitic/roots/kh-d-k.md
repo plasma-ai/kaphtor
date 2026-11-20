@@ -26,6 +26,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/A_DA_KI_SI_KA\|A-DA-KI-SI-KA]] | Ḫadki-šiqā | Ḫadki gives drink (personal name; Ḫadki, a Mari-area name of Adad, + šiqā 'who gives drink'); rival 'Ḫadki is (my) dwelling' | 1 |
+| [[wiki/names/semitic/names/A_DA_KI_SI_KA\|A-DA-KI-SI-KA]] | Ḫadki-šiqā | Ḫadki gives drink (personal name; Ḫadki, a Mari-area name of Adad, + šiqā 'who gives drink') | 1 |
 
 <!-- END kaphtor:record -->

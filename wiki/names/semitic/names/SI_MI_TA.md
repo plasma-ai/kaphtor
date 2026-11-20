@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/SI_MI_TA
 title: "SI-MI-TA"
-desc: "Śīmat: personal name (f.), on √ś-y-m 'to place, fix'; rival Šimʿat. Semitic, SPECULATIVE."
+desc: "Śīmat: personal name (f.), on √ś-y-m 'to place, fix'. Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "SI-MI-TA"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Śīmat** · personal name (f.), on √ś-y-m 'to place, fix'; rival Šimʿat
+**Śīmat** · personal name (f.), on √ś-y-m 'to place, fix'
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Śīmat |
-| Meaning | personal name (f.), on √ś-y-m 'to place, fix'; rival Šimʿat |
+| Meaning | personal name (f.), on √ś-y-m 'to place, fix' |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/sl-y-m\|ś-y-m]] |
 | Proto-Semitic | \*śVyVm- (#K0500) |

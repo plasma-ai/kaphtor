@@ -32,11 +32,11 @@ updated: 2026-11-11T23:39:03Z
 | Reading's standing | SPECULATIVE |
 | Standing as a personal name | SPECULATIVE |
 | Standing of the layer | SPECULATIVE (lexicon_reading) |
-| Source | di Mino; GORILA III; Buck 2018; Gelb 1980; DULAT; Kinlaw 1967 |
+| Source | di Mino; GORILA III; Buck 2018; Gelb 1980; DULAT; Kinlaw 1967; Tugendhaft 2018 |
 
 ## Note
 
-ZA 4a .3–4 JA-PẠ 1̣\[, PA dotted, the numeral dotted and broken after (GORILA III 149), the only JA-PA standing alone: JA-PA-QA, I-NA-JA-PA-QA and JA-PA-RA-JA-SE are other words. Yapaʿ, √y-p-ʿ with ʿ unwritten: Amarna writes the ʿ with -ḫ- in Yapaḫu, ruler of Gezer (EA 297–300), Hebrew keeps the name as Yāpîaʿ (Josh 10:3), Ugarit has the bare name ypʿ, three bearers, one from Riqdi (DULAT 958; Kinlaw 1967, 131), Alalakh has bare ia-pa yapaʿ (Buck 2018, 334), and Gelb files JA-JPAʿ at Mari and Alalakh (Gelb 1980, nos. 2792, 3395). ARKH 3b \[…\]-JA-PI is a damaged ending. One witness. See A-WA-PI.
+ZA 4a .3–4 JA-PẠ 1̣\[, PA dotted, the numeral dotted and broken after (GORILA III 149), the only JA-PA standing alone: JA-PA-QA, I-NA-JA-PA-QA and JA-PA-RA-JA-SE are other words. Yapaʿ, √y-p-ʿ with ʿ unwritten: Amarna writes the ʿ with -ḫ- in Yapaḫu, ruler of Gezer (EA 297–300), Hebrew keeps the name as Yāpîaʿ (Josh 10:3), Ugarit has the bare name ypʿ, three bearers, one from Riqdi (DULAT 958; Kinlaw 1967, 131), Alalakh has bare ia-pa yapaʿ (Buck 2018, 334), and Gelb files JA-JPAʿ at Mari and Alalakh (Gelb 1980, nos. 2792, 3395). The Baal Cycle has the verb, ypʿ l 'rise against' (KTU 1.3 III 37; Tugendhaft 2018, 96 n. 16). ARKH 3b \[…\]-JA-PI is a damaged ending. One witness. See A-WA-PI.
 
 ## As a name
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/names/hurrian/names/A_RO_TE
 title: "A-RO-TE"
-desc: "Ḫaluti: Ḫaluti (woman's name, seal owner); rival ʾālôt 'oaths, curses'. Hurrian, SPECULATIVE."
+desc: "Ḫaluti: Ḫaluti (woman's name, seal owner). Hurrian, SPECULATIVE."
 tags: ["names", "personal-name", "hurrian"]
 kind: "name"
 form: "A-RO-TE"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Ḫaluti** · Ḫaluti (woman's name, seal owner); rival ʾālôt 'oaths, curses'
+**Ḫaluti** · Ḫaluti (woman's name, seal owner)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Ḫaluti |
-| Meaning | Ḫaluti (woman's name, seal owner); rival ʾālôt 'oaths, curses' |
+| Meaning | Ḫaluti (woman's name, seal owner) |
 | Language layer | [[wiki/names/hurrian/_index\|Hurrian]] |
 | Reading's standing | SPECULATIVE |
 | Standing as a personal name | SPECULATIVE |

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/Q/QA_star118_SA
 title: "QA-*118-SA"
-desc: "qaṭʿ-ša: its portion (a measured share); rival qadaša 'holy portion'. Lexicon, SPECULATIVE (tier 1)."
+desc: "qaṭʿ-ša: its portion (a measured share). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "administrative", "fragmentary", "hapax", "noun"]
 kind: "word"
 form: "QA-*118-SA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | qaṭʿ-ša |
-| Meaning | its portion (a measured share); rival qadaša 'holy portion' |
+| Meaning | its portion (a measured share) |
 | Root | q-ṭ-ʕ |
 | Proto-Semitic | \*qVṭVʿ- (#K0337) |
 | Language layer | Semitic |

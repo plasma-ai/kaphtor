@@ -27,6 +27,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/TE_JA_RE\|TE-JA-RE]] | Teyar | personal name, 'Merciful (god)'; rival tayyār 'trader' | 1 |
+| [[wiki/names/semitic/names/TE_JA_RE\|TE-JA-RE]] | Teyar | personal name, 'Merciful (god)' | 1 |
 
 <!-- END kaphtor:record -->

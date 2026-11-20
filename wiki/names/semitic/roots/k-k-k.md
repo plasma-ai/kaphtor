@@ -28,6 +28,6 @@ updated: 2026-11-11T23:39:03Z
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
 | [[wiki/names/semitic/names/KA_KU\|KA-KU]] | Kakku | personal name, 'Weapon' (Amorite Kakku) | 1 |
-| [[wiki/names/semitic/names/KA_KU_NE_TE\|KA-KU-NE-TE]] | Kakku-ʿAnēt | Weapon of Anat (theophoric personal name); rival Egyptian Neith as the second element | 1 |
+| [[wiki/names/semitic/names/KA_KU_NE_TE\|KA-KU-NE-TE]] | Kakku-ʿAnēt | Weapon of Anat (theophoric personal name) | 1 |
 
 <!-- END kaphtor:record -->

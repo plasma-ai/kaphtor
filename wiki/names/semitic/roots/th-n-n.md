@@ -27,6 +27,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/ZU_star301_SE_DE_star21F_star118\|ZU-\*301-SE-DE-\*21F-\*118]] | ṯannān ṣēd ḥiṭṭa | the chariot soldiers: provision of wheat; rival a name ZU-\*301-SE-DE | 1 |
+| [[wiki/names/semitic/names/ZU_star301_SE_DE_star21F_star118\|ZU-\*301-SE-DE-\*21F-\*118]] | ṯannān ṣēd ḥiṭṭa | the chariot soldiers: provision of wheat | 1 |
 
 <!-- END kaphtor:record -->

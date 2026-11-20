@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/A/A_RI_PA
 title: "A-RI-PA"
-desc: "ʾaripāʾ: healer, of the Rephaim (√r-p-ʾ); rival ʿarpa 'clouds' (√ʿ-r-p). Lexicon, CANDIDATE (tier 2)."
+desc: "ʾaripāʾ: healer, of the Rephaim (√r-p-ʾ). Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "epithet", "ritual"]
 kind: "word"
 form: "A-RI-PA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʾaripāʾ |
-| Meaning | healer, of the Rephaim (√r-p-ʾ); rival ʿarpa 'clouds' (√ʿ-r-p) |
+| Meaning | healer, of the Rephaim (√r-p-ʾ) |
 | Root | r-p-ʾ |
 | Proto-Semitic | \*rVpVʾ- (#K0355) |
 | Language layer | Semitic |

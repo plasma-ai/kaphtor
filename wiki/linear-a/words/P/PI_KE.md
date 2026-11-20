@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/P/PI_KE
 title: "PI-KE"
-desc: "bikē: weeping, lament; rival pīka 'your mouth'. Lexicon, SPECULATIVE (tier 1)."
+desc: "bikē: weeping, lament. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "noun", "ritual"]
 kind: "word"
 form: "PI-KE"
@@ -32,7 +32,7 @@ updated: 2026-11-08T17:23:00Z
 | Field | Value |
 |---|---|
 | Reading | bikē |
-| Meaning | weeping, lament; rival pīka 'your mouth' |
+| Meaning | weeping, lament |
 | Root | b-k-y |
 | Proto-Semitic | \*bky- (#S44) |
 | Language layer | Semitic |

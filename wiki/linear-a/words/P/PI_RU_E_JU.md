@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/P/PI_RU_E_JU
 title: "PI-RU-E-JU"
-desc: "Pirʾu-ʾēlu: personal name, 'Offspring of El'; rival 'Fruit of El'. Lexicon, SPECULATIVE (tier 1)."
+desc: "Pirʾu-ʾēlu: personal name, 'Offspring of El'. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "compound", "hapax", "personal_name"]
 kind: "word"
 form: "PI-RU-E-JU"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Pirʾu-ʾēlu |
-| Meaning | personal name, 'Offspring of El'; rival 'Fruit of El' |
+| Meaning | personal name, 'Offspring of El' |
 | Root | p-r-ɣ + ʾ-l |
 | Proto-Semitic | \*pirɣ- (#3194) + \*ʾil- (#2719) |
 | Language layer | Semitic |

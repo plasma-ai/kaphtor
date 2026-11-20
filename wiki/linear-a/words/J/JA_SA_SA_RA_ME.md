@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/J/JA_SA_SA_RA_ME
 title: "JA-SA-SA-RA-ME"
-desc: "yaššaram: in righteousness (adverbial accusative in -am of √y-š-r; also 'righteously'); rival: substantivized \"the upright/proper [thing]\" in an object slot. Polysemic layer: masculine divine name Yasharam (Akk. Mīšarum, Phoen. Misor). Lexicon, CONFIRMED (tier 4)."
+desc: "yaššaram: in righteousness (adverbial accusative in -am of √y-š-r; also 'righteously'). Polysemic layer: masculine divine name Yasharam (Akk. Mīšarum, Phoen. Misor). Lexicon, CONFIRMED (tier 4)."
 tags: ["linear-a", "word", "tier-4", "adverb", "libation_formula", "ritual"]
 kind: "word"
 form: "JA-SA-SA-RA-ME"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | yaššaram |
-| Meaning | in righteousness (adverbial accusative in -am of √y-š-r; also 'righteously'); rival: substantivized "the upright/proper \[thing\]" in an object slot. Polysemic layer: masculine divine name Yasharam (Akk. Mīšarum, Phoen. Misor) |
+| Meaning | in righteousness (adverbial accusative in -am of √y-š-r; also 'righteously'). Polysemic layer: masculine divine name Yasharam (Akk. Mīšarum, Phoen. Misor) |
 | Root | y-š-r |
 | Proto-Semitic | \*yašar- (#1446) |
 | Language layer | Semitic |
@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-√y-š-r 'to be straight, upright, righteous.' SA writes š (cf. SA-SA-ME sesame on HT 23a: LB sa-sa-ma, Ug. ššmn); SA-SA writes the geminate šš (di Mino, Ya Diktu); the same root takes one SA, with no gemination written, in JA-SA-RA (KN Zc 7) and I-MI-SA-RA (HT 27a). RA writes the accusative -am, against RU for nominative -um, and ME the mimation: yaššaram 'in righteousness', as Amorite JAŚAR-AM, IA-SA-RA-AM, classed accusative (Gelb 1980, no. 3448). Rival: the object of the verb, 'an offering, a gift, a dedication' (Davis 2026, 55; Thomas 2020). Whole on IO Za 6 (GORILA V 25), PS Za 2 (IV 54), TL Za 1 (IV 59) and IO Za 12, one line, second SA and ME dotted (Karetsou, Godart and Olivier, Kadmos 24, 1985, 143); IO Za 2 has JA-SA-SA-RA-\[, ME restored by GORILA (V 19), IO Za 9 \]JA-SA-SA-, RA-ME restored (V 33), and PK Za 14 JA-SA-SA-\[ at the broken edge (IV 40). Cf. PL Zf 1 JA-SA-SA-RA-\[ME?\], a damaged vertical trace after RA; SAM Wa 1 (Samothrace) JA-SA SA-RA, without -ME, on a nodule with TE 10 ¹⁄₁₆; and KH Zc 106 \]-SA-SA-RA-MI (RILA-S1), broken before SA, the formula in LM IIIA1 with MI for ME.
+√y-š-r 'to be straight, upright, righteous.' SA writes š (cf. SA-SA-ME sesame on HT 23a: LB sa-sa-ma, Ug. ššmn); SA-SA writes the geminate šš (di Mino, Ya Diktu); the same root takes one SA, with no gemination written, in JA-SA-RA (KN Zc 7) and I-MI-SA-RA (HT 27a). RA writes the accusative -am, against RU for nominative -um, and ME the mimation: yaššaram 'in righteousness', as Amorite JAŚAR-AM, IA-SA-RA-AM, classed accusative (Gelb 1980, no. 3448). Rival: the object of the verb, 'an offering, a gift, a dedication' (Davis 2026, 55; Thomas 2020). Whole on IO Za 6 (GORILA V 25), PS Za 2 (IV 54), TL Za 1 (IV 59) and IO Za 12, one line, second SA and ME dotted (Karetsou, Godart and Olivier, Kadmos 24, 1985, 143); IO Za 2 has JA-SA-SA-RA-\[, ME restored by GORILA (V 19), IO Za 9 \]JA-SA-SA-, RA-ME restored (V 33), and PK Za 14 JA-SA-SA-\[ at the broken edge (IV 40). Cf. PL Zf 1 JA-SA-SA-RA-\[ME?\], a damaged vertical trace after RA; SAM Wa 1 (Samothrace), a seal impression with A-SA alone, the formula's opening, on a nodule with TE 10 ¹⁄₁₆; and KH Zc 106 \]-SA-SA-RA-MI (RILA-S1), broken before SA, the formula in LM IIIA1 with MI for ME. Rival: substantivized "the upright/proper \[thing\]" in an object slot.
 
 ### Cognates
 

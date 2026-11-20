@@ -66,7 +66,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/A/A_RI\|A-RI]] | harrī | mountain of (construct genitive; PS \*har(r)-, h- carried by plain vowel sign) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/I/I_ZU_RI_NI_TA\|I-ZU-RI-NI-TA]] | ṯawrīnīta | She-of-the-Bull (feminine divine name; sister form A-RI-NI-TA 'She-of-the-Lion', HT25a/ZA8) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/A/A_RI\|A-RI]] | harrī | mountain of (repeated frame) | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/I/I_DA_PA3_I_SA_RI\|I-DA-PA₃-I-SA-RI]] | ʾIdā bi-ʾišarī | Ida, in righteousness (toponym + b= prepositional phrase written as one word) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/I/I_DA_PA3_I_SA_RI\|I-DA-PA₃-I-SA-RI]] | ʾIdā bi-ʾišarī | Ida, in righteousness (toponym + b= prepositional phrase written as one word; b- with the a of the Megiddo gloss ba-di-ú, EA 245) | CANDIDATE | CANDIDATE (lexicon) |
 
 ### Notes
 

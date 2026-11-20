@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/M/MA_TI_ZA_I_TE
 title: "MA-TI-ZA-I-TE"
-desc: "Matiʿ-zayti: Protector of the olive trees (personal name; matiʿ 'protector' + zayt 'olive tree'); rival Hurrian mat-. Lexicon, SPECULATIVE (tier 1)."
+desc: "Matiʿ-zayti: Protector of the olive trees (personal name; matiʿ 'protector' + zayt 'olive tree'). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "compound", "hapax", "personal_name"]
 kind: "word"
 form: "MA-TI-ZA-I-TE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Matiʿ-zayti |
-| Meaning | Protector of the olive trees (personal name; matiʿ 'protector' + zayt 'olive tree'); rival Hurrian mat- |
+| Meaning | Protector of the olive trees (personal name; matiʿ 'protector' + zayt 'olive tree') |
 | Root | m-t-ʿ + z-y-t |
 | Proto-Semitic | \*mutaʕ- (#854) + \*zayt- (#2694) |
 | Language layer | Semitic |

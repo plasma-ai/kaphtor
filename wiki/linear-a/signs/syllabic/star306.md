@@ -50,6 +50,7 @@ Voiced pharyngeal fricative. Fills the highest-priority gap in the phonemic inve
 
 | Word | Reading | Confidence |
 |---|---|---|
+| [[wiki/linear-a/words/star/star306\|\*306]] | ʿabdu | CANDIDATE |
 | [[wiki/linear-a/words/star/star306_plus_MI\|\*306+MI]] | ʿAmmī | SPECULATIVE |
 | [[wiki/linear-a/words/star/star306_KI_TA2\|\*306-KI-TA₂]] | ʿAkkīta | SPECULATIVE |
 | [[wiki/linear-a/words/star/star306_TA_JE\|\*306-TA-JE]] | ʿaṭāye | CANDIDATE |

@@ -73,6 +73,7 @@ di Mino; Gelb 1980; GlOS 2; Watson 1995; Watson 1996b; Huehnergard 2008
 | Occurrences | 1 in 1 documents |
 | Sites | Kophinas (?) |
 | Supports | Metal object 1 |
+| Contact reference | am_gelb_n_06027 |
 
 ### Note
 

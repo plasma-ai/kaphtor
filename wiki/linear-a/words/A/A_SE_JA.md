@@ -78,6 +78,7 @@ di Mino
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |
+| Contact reference | am_gelb_n_02196 |
 
 ### Note
 

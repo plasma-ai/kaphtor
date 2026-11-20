@@ -34,7 +34,7 @@ updated: 2026-11-11T23:39:03Z
 
 ## Note
 
-HT 103 lists DA-KU-SE-NE twice, on .2–3 as PA₃-DA-KU-SE-NE\[ \]6½, broken after NE, with a possible divider after PA₃ (GORILA I 171), and again with 1, beside DA-KU-NA 1; HT 104 has DA-KU-SE-NE-TI 45½ with I-DU-TI 20½ and PA-DA-SU-TI 29, KU-RO 95: a name.
+HT 103 lists DA-KU-SE-NE twice, on .2–3 as PA₃-DA-KU-SE-NE\[ \]6½, broken after NE, with a possible divider after PA₃ (GORILA I 171), and again with 1, beside DA-KU-NA 1; HT 104 has DA-KU-SE-NE-TI 45½ with I-DU-TI 20½ and PA-RO-SU-TI 29, KU-RO 95: a name.
 
 DA-KU writes taku under stop neutralization, with the u of tagu-. Boğazköy Tagu(b)-šini (KBo XXII 114, 7), under the themes tagi- and tagu- (Laroche 1980, 250); Ugaritic tgḏn, syllabic ta-gi₅-ŠA-na, Hurrian Taki-šenni (NPN 262, printed Tgz̄n; Tropper 2000, 119, §32.144.35); Nuzi Aku-šenni, Takku and Takuja (NPN s.vv.). Hurrian šēna 'brother' with the individualizing -ni, šen=ni, gives the element -šenni (Giorgieri 2000, 199, 202; Wilhelm, Hurrian, 103; Laroche 1980, 225–26, s.v. šeni).
 
@@ -42,7 +42,7 @@ GORILA I 171 allows the final TI of HT 104 to be an ideogram or classifier. tagi
 
 ## As a name
 
-Base DA-KU-SE-NE occurs twice on HT103; the extended form occurs on HT104. The comparisons with Boğazköy Tagu(b)-šini and Ugaritic Taki-šenni support the name analysis, but neither the exact vocalization nor the function of TI is settled. The pair favors suffixation; GORILA I 171 allows TI to be an ideogram or classifier.
+Base DA-KU-SE-NE occurs twice on HT103; the extended form occurs on HT104. The comparisons with Boğazköy Tagu(b)-šini and Ugaritic Taki-šenni support the name. TI is a sign apart after each of the three partners, which GORILA I 171 allows as an ideogram. Rival: Gordon's feminine ending -TI.
 
 ## Cognates
 

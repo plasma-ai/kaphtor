@@ -57,12 +57,13 @@ di Mino; Bartoněk 2003; Killen 2024; Del Freo 2020; HALOT; DULAT
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT12\|HT12]] | Haghia Triada | Tablet | incomplete |
-| [[wiki/linear-a/inscriptions/KN/KN/KN2\|KN2]] | Knossos | Tablet | none |
+| [[wiki/linear-a/inscriptions/KN/KN/KN2\|KN2]] | Knossos | Tablet | complete |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT12\|HT12]] | (logogram) | talent (weight unit) | PROBABLE |
+| [[wiki/linear-a/inscriptions/KN/KN/KN2\|KN2]] |  | talent, the largest weight unit | PROBABLE |
 
 <!-- END kaphtor:record -->

@@ -31,4 +31,6 @@ updated: 2026-11-12T00:26:03Z
 
 A sign. Status **unread** (nothing on file).
 
+PH 28b .3, after \]6: the sign stands in double brackets, each dotted, and the editors ask whether it is a graffito cut when the clay was dry (GORILA I 315). Younger prints it as a graffito with no sign. The label \*811 is the record's.
+
 <!-- END kaphtor:record -->

@@ -41,7 +41,7 @@ updated: 2026-11-17T14:06:48Z
 
 ### Note
 
-ZA Zb 3, a clay pithos: VIN 32 over DI-DI-KA-SE A-SA-MU-NE A-SE, then .2 A-TA-I-\*301-DE-KA · A-RE-PI-RE-NA · TI-TI-KU, the formula's A-TA-I-\*301- frame with -DE-KA. A- is the 1cs prefix, -TA- the t-stem, I-\*301 (\*301 = na) the root √ʿ-n-w 'to be humbled', its ʿ unwritten, and -DE-KA dēka 'for you', the relative dē + 2ms -ka (di Mino, Ya Diktu). Hebrew keeps this t-stem, hitʿannâ 'to submit' (Gen 16:9) and 'to bow humbly' before God (Dan 10:12, Ezra 8:21; HALOT 852–54); Ugaritic ʿnw 'to be humbled' (DULAT 168–69), Arabic ʿanati l-wujūhu 'faces are humbled' (Q 20:111). Rival: √ʿ-n-y 'to answer', the root of TA-NA-I-\*301-U-TI-NU, 'I answer for you'; it has no t-stem in Hebrew or Ugaritic (HALOT 851–52; DULAT 169). The family: A-TA-I-\*301-WA-JA (√n-w-y) and TA-NA-I-\*301-U-TI-NU (√ʿ-n-y).
+ZA Zb 3, a clay pithos: VIN 32 over DI-DI-KA-SE A-SA-MU-NE A-SE, then .2 A-TA-I-\*301-DE-KA · A-RE-PI-RE-NA · TI-TI-KU, the formula's A-TA-I-\*301- frame with -DE-KA. A- is the 1cs prefix, -TA- the t-stem, I-\*301 (\*301 = na) the root √ʿ-n-w 'to be humbled', its ʿ unwritten, and -DE-KA dēka 'for you', the relative dē + 2ms -ka (di Mino, Ya Diktu). Hebrew keeps this t-stem, hitʿannâ 'to submit' (Gen 16:9) and 'to bow humbly' before God (Dan 10:12, Ezra 8:21; HALOT 852–54); Ugaritic ʿnw 'to be humbled' (DULAT 168–69), as Yamm demands Baal wʿnnh 'so I may humble him' (KTU 1.2 I 18; Tugendhaft 2018, 95), Arabic ʿanati l-wujūhu 'faces are humbled' (Q 20:111). The family: A-TA-I-\*301-WA-JA (√n-w-y) and TA-NA-I-\*301-U-TI-NU (√ʿ-n-y).
 
 ### Cognates
 
@@ -53,7 +53,7 @@ ZA Zb 3, a clay pithos: VIN 32 over DI-DI-KA-SE A-SA-MU-NE A-SE, then .2 A-TA-I-
 
 ### Source
 
-di Mino; HALOT; DULAT
+di Mino; HALOT; DULAT; Tugendhaft 2018
 
 ## Attestations
 

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/N
 desc: "Words whose first sign begins with N."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-20T13:43:04Z
+updated: 2026-11-20T14:16:40Z
 ---
 
 # wiki/linear-a/words/N
@@ -13,7 +13,7 @@ updated: 2026-11-20T13:43:04Z
 
 [[wiki/linear-a/words/N/NA_A_PA3|NA_A_PA3]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/N/NA_DA_RE|NA_DA_RE]]: Nadr: personal name, 'Vow' (√n-d-r); rival Egyptian PN 'of-the-hand-of-Re'. Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/N/NA_DA_RE|NA_DA_RE]]: Nadr: personal name, 'Vow' (√n-d-r). Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/N/NA_KI_broken_start|NA_KI_broken_start]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -23,11 +23,11 @@ updated: 2026-11-20T13:43:04Z
 
 [[wiki/linear-a/words/N/NA_TI|NA_TI]]: naṭʿ: the Plantation (place name). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/N/NA_TU_star301_NE|NA_TU_star301_NE]]: natūnān: the dedicated one (qatūl passive participle of √n-t-n + -ān); rival nātānān 'the giver'. Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/N/NA_TU_star301_NE|NA_TU_star301_NE]]: natūnān: the dedicated one (qatūl passive participle of √n-t-n + -ān). Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/N/NA_q_DA_DA|NA_q_DA_DA]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/N/NA_star21F_NE_MI_NA|NA_star21F_NE_MI_NA]]: naḫnemina: nẖnm-oil, one of the seven sacred oils (Egyptian loanword); rival a personal name. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/N/NA_star21F_NE_MI_NA|NA_star21F_NE_MI_NA]]: naḫnemina: nẖnm-oil, one of the seven sacred oils (Egyptian loanword). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/N/NA_star21F_NE_broken_end|NA_star21F_NE_broken_end]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -45,7 +45,7 @@ updated: 2026-11-20T13:43:04Z
 
 [[wiki/linear-a/words/N/NI|NI]]: figs—commodity ideogram (FIC). Lexicon, CONFIRMED (tier 4).
 
-[[wiki/linear-a/words/N/NI_JA_NU|NI_JA_NU]]: niyāḥ-nu: our soothing (offering), of the incense; rivals a personal name, NI 'figs' with JA-NU 'wine'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/N/NI_JA_NU|NI_JA_NU]]: niyāḥ-nu: our soothing (offering), of the incense. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/N/NI_MI|NI_MI]]: Unread (unread): no role; 1 occurrence(s).
 

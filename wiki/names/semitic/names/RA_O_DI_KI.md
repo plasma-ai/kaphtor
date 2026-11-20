@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/RA_O_DI_KI
 title: "RA-O-DI-KI"
-desc: "rāʿû diqqi: herdsman of the small cattle (title, over a flock of 60); rival a personal name. Semitic, SPECULATIVE."
+desc: "rāʿû diqqi: herdsman of the small cattle (title, over a flock of 60). Semitic, SPECULATIVE."
 tags: ["names", "title", "semitic"]
 kind: "name"
 form: "RA-O-DI-KI"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**rāʿû diqqi** · herdsman of the small cattle (title, over a flock of 60); rival a personal name
+**rāʿû diqqi** · herdsman of the small cattle (title, over a flock of 60)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/titles\|Title]] |
 | Reading | rāʿû diqqi |
-| Meaning | herdsman of the small cattle (title, over a flock of 60); rival a personal name |
+| Meaning | herdsman of the small cattle (title, over a flock of 60) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/r-ayin-y\|r-ʿ-y]] + [[wiki/names/semitic/roots/d-q-q\|d-q-q]] |
 | Proto-Semitic | \*rVʕVy-, \*rāʕ- (#454), \*diḳ(ḳ)- (#1654) |

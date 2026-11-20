@@ -49,6 +49,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Arabic skn IV 'render or be poor', miskīn 'poor' and Sabaic mhsknm 'wretched persons' (Biella 333) belong to miskīn, a loan from Akkadian muškēnu, root šukēnu (HALOT 605).
+Arabic skn IV 'render or be poor', miskīn 'poor' and Sabaic mhsknm 'wretched persons' (Biella 333) belong to miskīn, a loan from Akkadian muškēnu, root šukēnu (HALOT 605). Malamat reads maškānum in the Mari letter A. 1121 in the sense of Hebrew miškān, 'tent-shrine', over which an āpilum of Adad stands guard (1998, 110–111).
 
 <!-- END kaphtor:record -->

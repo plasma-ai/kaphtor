@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/DA_RU_NE_TE
 title: "DA-RU-NE-TE"
-desc: "Dāru-ʿAnēt: Anat is everlasting (theophoric personal name); rivals Dūr-ʿAnat 'Wall of Anat', and Egyptian Neith as the second element. Semitic, SPECULATIVE."
+desc: "Dāru-ʿAnēt: Anat is everlasting (theophoric personal name). Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "DA-RU-NE-TE"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Dāru-ʿAnēt** · Anat is everlasting (theophoric personal name); rivals Dūr-ʿAnat 'Wall of Anat', and Egyptian Neith as the second element
+**Dāru-ʿAnēt** · Anat is everlasting (theophoric personal name)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Dāru-ʿAnēt |
-| Meaning | Anat is everlasting (theophoric personal name); rivals Dūr-ʿAnat 'Wall of Anat', and Egyptian Neith as the second element |
+| Meaning | Anat is everlasting (theophoric personal name) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/d-w-r\|d-w-r]] + [[wiki/names/semitic/roots/ayin-n-t\|ʿ-n-t]] |
 | Proto-Semitic | \*dawr- (#40), \*ʕanat- (#2771) |

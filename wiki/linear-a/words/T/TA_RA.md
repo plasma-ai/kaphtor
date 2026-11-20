@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/T/TA_RA
 title: "TA-RA"
-desc: "ṯa(ġ)ra: gatekeepers (of the sanctuary); rival Akkadian tārû 'child-minder'. Lexicon, SPECULATIVE (tier 1)."
+desc: "ṯa(ġ)ra: wardens of the sanctuary's work groups, its gatekeepers. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "noun", "occupation", "personnel", "ritual"]
 kind: "word"
 form: "TA-RA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ṯa(ġ)ra |
-| Meaning | gatekeepers (of the sanctuary); rival Akkadian tārû 'child-minder' |
+| Meaning | wardens of the sanctuary's work groups, its gatekeepers |
 | Root | \*ṯaġr- 'gate' |
 | Proto-Semitic | \*ŝₓaʕar- (#677) |
 | Language layer | Semitic |
@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 89 TA-RA 5, last of five classes under A-SA-RA₂ · \*307 (dubur 'sanctuary'), KU-RO 87. /ṯa(ġ)ra/ from \*ṯaġr- 'gate', ṯ written in the T-series before a and ġ unwritten: Ug. ṯġr 'gatekeeper', a personnel class with grain rations (DULAT 888); the gatekeepers of the house of God beside MA-I-MI's water-drawers (Ezra 7:24). Cf. TA 4, last entry before KU-RO on HT 94a (entries 111 against KU-RO 110), and \]TA 4 before \]KU-RO 129 on HT 109, broken on the left. Rival: Akkadian tārû 'male nursemaid' (CAD T 250), which predicts TA-RU. One witness.
+HT 89 TA-RA 5, last of five classes under A-SA-RA₂ · \*307 (dubur 'sanctuary'), KU-RO 87. /ṯa(ġ)ra/ from \*ṯaġr- 'gate', ṯ written in the T-series before a and ġ unwritten: Ug. ṯġr 'gatekeeper', a personnel class with grain rations (DULAT 888); the gatekeepers of the house of God beside MA-I-MI's water-drawers (Ezra 7:24). TA 4 holds the same place on HT 94a, one to each of its four groups, and on HT 109, broken on the left; Linear B ends its personnel tablets with TA and DA, the groups' supervisors (Killen 2024, 437). See TA. Rival: Akkadian tārû 'male nursemaid' (CAD T 250), which predicts TA-RU. One witness.
 
 ### Cognates
 
@@ -55,7 +55,7 @@ HT 89 TA-RA 5, last of five classes under A-SA-RA₂ · \*307 (dubur 'sanctuary'
 
 ### Source
 
-di Mino; DULAT; Uchitel 2006; SED II; CAD T
+di Mino; DULAT; Uchitel 2006; SED II; CAD T; Killen 2024
 
 ## Attestations
 

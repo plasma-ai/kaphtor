@@ -1,7 +1,7 @@
 ---
 name: wiki/names/egyptian/names/PA_TA_DA
 title: "PA-TA-DA"
-desc: "Patada: personal name; Egyptian Ptḥ-dj(⸗f) 'Ptah gives'; rival Hurrian pṭḏ (Ugarit). Egyptian, CANDIDATE."
+desc: "Patada: personal name; Egyptian Ptḥ-dj(⸗f) 'Ptah gives'. Egyptian, CANDIDATE."
 tags: ["names", "personal-name", "egyptian"]
 kind: "name"
 form: "PA-TA-DA"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Patada** · personal name; Egyptian Ptḥ-dj(⸗f) 'Ptah gives'; rival Hurrian pṭḏ (Ugarit)
+**Patada** · personal name; Egyptian Ptḥ-dj(⸗f) 'Ptah gives'
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Patada |
-| Meaning | personal name; Egyptian Ptḥ-dj(⸗f) 'Ptah gives'; rival Hurrian pṭḏ (Ugarit) |
+| Meaning | personal name; Egyptian Ptḥ-dj(⸗f) 'Ptah gives' |
 | Language layer | [[wiki/names/egyptian/_index\|Egyptian]] |
 | Reading's standing | CANDIDATE |
 | Standing as a personal name | CANDIDATE |

@@ -27,6 +27,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/I_DU_TI\|I-DU-TI]] | Yidu-ti | entity name: yidu 'strength' with TI | 1 |
+| [[wiki/names/semitic/names/I_DU_TI\|I-DU-TI]] | Yidu-ti | the name Yidu 'strength' with TI: a partner's share of 20½ | 1 |
 
 <!-- END kaphtor:record -->

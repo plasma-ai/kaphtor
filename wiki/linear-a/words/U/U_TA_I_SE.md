@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/U/U_TA_I_SE
 title: "U-TA-I-SE"
-desc: "ʿUtay-se: personal name: ʿUtay with the -SE suffix, a recipient of cyperus; rival a Cretan name of another language (LB u-ta-jo). Lexicon, SPECULATIVE (tier 1)."
+desc: "ʿUtay-se: personal name: ʿUtay with the -SE suffix, a recipient of cyperus. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "U-TA-I-SE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʿUtay-se |
-| Meaning | personal name: ʿUtay with the -SE suffix, a recipient of cyperus; rival a Cretan name of another language (LB u-ta-jo) |
+| Meaning | personal name: ʿUtay with the -SE suffix, a recipient of cyperus |
 | Root | ʿ-t-w |
 | Proto-Semitic | \*ʕtw (#4412) |
 | Language layer | Semitic |

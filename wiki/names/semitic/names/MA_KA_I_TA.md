@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/MA_KA_I_TA
 title: "MA-KA-I-TA"
-desc: "Makīt: personal name (f.), the feminine of Makī (MA-KA-I-SE); rival the Egyptian name mkj·t. Semitic, SPECULATIVE."
+desc: "Makīt: personal name (f.), the feminine of Makī (MA-KA-I-SE). Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "MA-KA-I-TA"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Makīt** · personal name (f.), the feminine of Makī (MA-KA-I-SE); rival the Egyptian name mkj·t
+**Makīt** · personal name (f.), the feminine of Makī (MA-KA-I-SE)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Makīt |
-| Meaning | personal name (f.), the feminine of Makī (MA-KA-I-SE); rival the Egyptian name mkj·t |
+| Meaning | personal name (f.), the feminine of Makī (MA-KA-I-SE) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/q-w-m\|q-w-m]] |
 | Proto-Semitic | \*ḳVwVm- (#1134) |

@@ -44,6 +44,6 @@ Transliteration, line by line:
 
 ## Corpus note
 
-Boulotis reads the cloth ideogram with SE inscribed, TELA+SE (AB 54+AB 09), then 200, perhaps once a higher number, since its two circles stand on the broken edge; traces of other signs survive above and below the ideogram (2008, 77, 80). Nosch and Weilhartner print it AB 54+09, the 09 dotted as uncertain, and say it 'may be linked' to \*168+SE at Knossos, probably a textile (2026, 126, 131). SigLA codes the signs RO, A559 and A534c, but its drawing of the third shows a frame with SE inside.
+Boulotis reads the cloth ideogram with SE inscribed, TELA+SE (AB 54+AB 09), then 200, perhaps once a higher number, since its two circles stand on the broken edge; traces of other signs survive above and below the ideogram (2008, 77, 80). Nosch and Weilhartner print it AB 54+09, the 09 dotted as uncertain, and say it 'may be linked' to \*168+SE at Knossos, probably a textile (2026, 126, 131). Pierini queries the 09 as well (2022, 48 n. 23). SigLA codes the signs RO, A559 and A534c, but its drawing of the third shows a frame with SE inside.
 
 <!-- END kaphtor:record -->

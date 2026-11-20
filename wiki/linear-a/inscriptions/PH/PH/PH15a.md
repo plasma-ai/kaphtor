@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/PH/PH/PH15a
 title: "PH15a"
-desc: "Lames (short thin tablet), Phaistos, MMIIB. Translation: none."
+desc: "Lames (short thin tablet), Phaistos, MMIIB. GORILA I 305: ]MA-TE-RE *339 11[, broken before MA and after the numeral, whose last stroke is dotted; the tabular copy dots *339; TE is written over an erasure.. Translation: none."
 tags: ["linear-a", "inscription", "translation-none", "lames-(short-thin-tablet)"]
 kind: "inscription"
 id: "PH15a"
 site: "Phaistos"
 support: "Lames (short thin tablet)"
-period: "MMIIB"
+period: "MMIIB. GORILA I 305: ]MA-TE-RE *339 11[, broken before MA and after the numeral, whose last stroke is dotted; the tabular copy dots *339; TE is written over an erasure."
 translation: "none"
 words: []
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Phaistos |
 | Findspot |  |
 | Support | Lames (short thin tablet) |
-| Period | MMIIB |
+| Period | MMIIB. GORILA I 305: \]MA-TE-RE \*339 11\[, broken before MA and after the numeral, whose last stroke is dotted; the tabular copy dots \*339; TE is written over an erasure. |
 | Scribe |  |
 | Edition | GORILA 1 |
 | Series | PH |

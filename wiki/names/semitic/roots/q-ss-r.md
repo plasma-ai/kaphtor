@@ -27,6 +27,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/KA_SA_RU\|KA-SA-RU]] | Qaṣṣāru | Qaṣṣāru 'Fuller' (personal name); compare Linear B ka-sa-ro; rival Kaṣṣāru 'donkey driver' | 1 |
+| [[wiki/names/semitic/names/KA_SA_RU\|KA-SA-RU]] | Qaṣṣāru | Qaṣṣāru 'Fuller' (personal name); compare Linear B ka-sa-ro | 1 |
 
 <!-- END kaphtor:record -->

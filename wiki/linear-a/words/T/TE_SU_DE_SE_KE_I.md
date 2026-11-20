@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-KN Zf 31, a silver pin from a Mavro Spelio tomb, last word of the first line, before A-DA-RA; legible, dividers both sides (GORILA IV 155). TE-SU-DE tesʾad 'she serves', 3fs G prefix of √s-ʾ-d. No sign of its own writes the ʾ: the U of SU stands in its place, where Ugaritic writes ʾ only with a vowel-bearing aleph, ả in tsảd (Huehnergard 2012, 21). SE-KE-I šeqī 'give drink!', 2fs G imperative of √š-q-y; KE writes q as in RO-KE, final I the 2fs -ī as in TI-DI tidī. Ugaritic pairs the verbs when Kothar-wa-Ḫasis brings the bow: Danel orders šlḥm ššqy ỉlm, sảd kbd hmt 'feed and give drink to the god, serve and honor him' (KTU 1.17 V 19–20), and Danatiya serves (V 29–30). Ugaritic gives drink with Š ššqy. One attestation. See TA-SA-ZA, TA-NA-SU-TE-KE and SI-KA (IO Za 6).
+KN Zf 31, a silver pin from a Mavro Spelio tomb, last word of the first line, before A-DA-RA; legible, dividers both sides (GORILA IV 155). TE-SU-DE tesʾad 'she serves', 3fs G prefix of √s-ʾ-d. No sign of its own writes the ʾ: the U of SU stands in its place, where Ugaritic writes ʾ only with a vowel-bearing aleph, ả in tsảd (Huehnergard 2012, 21). SE-KE-I šeqī 'give drink!', 2fs G imperative of √š-q-y; KE writes q as in RO-KE, final I the 2fs -ī as in TI-DI tidī. Ugaritic pairs the verbs when Kothar-wa-Ḫasis brings the bow: Danel orders šlḥm ššqy ỉlm, sảd kbd hmt 'feed and give drink to the god, serve and honor him' (KTU 1.17 V 19–20), and Danatiya serves (V 29–30). Ugaritic gives drink with Š ššqy. One attestation. See TA-SA-ZA and SI-KA (IO Za 6).
 
 ### Cognates
 

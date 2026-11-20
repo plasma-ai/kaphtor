@@ -48,6 +48,9 @@ HT Wc 3014, a roundel: side a KU-MI-NA, side b QE · CAP (GORILA II 76), QE befo
 | Language | Comparison |
 |---|---|
 | Akkadian | qû B 'measuring vessel; a measure of capacity', gen. qê (CAD Q 288) |
+| Linear B | QE in TUN+QE, qe-ro2 'corslet' (KN Sc; Melena 2014, 144) |
+| Cuneiform | SÌLA for qû B (CAD Q 288); LÚ.TIL.(LA.)GÍD.DA for qīpu 'official; administrator' (CAD Q 264) |
+| Aramaic (abbreviation) | q for qb 'qab', a measure of capacity, a sixth of a seah, on the Arad and Beersheba ostraca: another word than qû (DNWSI 977) |
 
 ### Source
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/D/DU_star314_RE
 title: "DU-*314-RE"
-desc: "ḏū har: the One of the mountain (divine title before I-DA-A 'of Ida'); rival dubur 'sanctuary', a variant spelling of DU-PU₂-RE. Lexicon, CANDIDATE (tier 2)."
+desc: "ḏū har: the One of the mountain (divine title before I-DA-A 'of Ida'). Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "hapax", "libation_formula", "noun", "ritual"]
 kind: "word"
 form: "DU-*314-RE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ḏū har |
-| Meaning | the One of the mountain (divine title before I-DA-A 'of Ida'); rival dubur 'sanctuary', a variant spelling of DU-PU₂-RE |
+| Meaning | the One of the mountain (divine title before I-DA-A 'of Ida') |
 | Root | ḏ + h-r-r |
 | Proto-Semitic | \*har- (#K0084) |
 | Language layer | Semitic |

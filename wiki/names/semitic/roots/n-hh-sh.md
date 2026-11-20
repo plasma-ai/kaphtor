@@ -26,6 +26,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/I_DU_NE_SI\|I-DU-NE-SI]] | Yidu-naḥši | Strength is alive, the arm thrives (personal name); rival Yidu-nešše, Hurrian 'prosperity' | 1 |
+| [[wiki/names/semitic/names/I_DU_NE_SI\|I-DU-NE-SI]] | Yidu-naḥši | Strength is alive, the arm thrives (personal name) | 1 |
 
 <!-- END kaphtor:record -->

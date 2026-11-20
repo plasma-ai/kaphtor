@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/I_JA_PA_ME
 title: "I-JA-PA-ME"
-desc: "yabame: brother-in-law (kin title); I-JA-PA-ME · TA-TA 'the brother-in-law of Tatta'; rival ybmt 'sister-in-law', Anat's epithet. Semitic, CANDIDATE."
+desc: "yabame: brother-in-law (kin title); I-JA-PA-ME · TA-TA 'the brother-in-law of Tatta'. Semitic, CANDIDATE."
 tags: ["names", "title", "semitic"]
 kind: "name"
 form: "I-JA-PA-ME"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**yabame** · brother-in-law (kin title); I-JA-PA-ME · TA-TA 'the brother-in-law of Tatta'; rival ybmt 'sister-in-law', Anat's epithet
+**yabame** · brother-in-law (kin title); I-JA-PA-ME · TA-TA 'the brother-in-law of Tatta'
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/titles\|Title]] |
 | Reading | yabame |
-| Meaning | brother-in-law (kin title); I-JA-PA-ME · TA-TA 'the brother-in-law of Tatta'; rival ybmt 'sister-in-law', Anat's epithet |
+| Meaning | brother-in-law (kin title); I-JA-PA-ME · TA-TA 'the brother-in-law of Tatta' |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/y-b-m\|y-b-m]] |
 | Proto-Semitic | \*wa-bām- (#13) |
@@ -40,7 +40,7 @@ KH 7a: sections under E-NA-SI 'men', I-JA-PA-ME · TA-TA and SE-\*305 'provision
 
 ## As a name
 
-Reading from the lexicon (di Mino). Tell Rimah ia-ba-mi-ša 'her brother-in-law', Ugaritic ybm (GlOS 2, 341; DULAT 937).
+Reading from the lexicon (di Mino). Tell Rimah ia-ba-mi-ša 'her brother-in-law', Ugaritic ybm (GlOS 2, 341; DULAT 937). Rival: ybmt 'sister-in-law', Anat's epithet.
 
 ## Cognates
 

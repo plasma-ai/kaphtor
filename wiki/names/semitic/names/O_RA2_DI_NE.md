@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/O_RA2_DI_NE
 title: "O-RA₂-DI-NE"
-desc: "ʾŌl-dīn: personal name, 'the Foremost is judge' (Ugaritic PN ảwldn); rival ʾIl-dīn 'El is judge'. Semitic, SPECULATIVE."
+desc: "ʾŌl-dīn: personal name, 'the Foremost is judge' (Ugaritic PN ảwldn). Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "O-RA₂-DI-NE"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**ʾŌl-dīn** · personal name, 'the Foremost is judge' (Ugaritic PN ảwldn); rival ʾIl-dīn 'El is judge'
+**ʾŌl-dīn** · personal name, 'the Foremost is judge' (Ugaritic PN ảwldn)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | ʾŌl-dīn |
-| Meaning | personal name, 'the Foremost is judge' (Ugaritic PN ảwldn); rival ʾIl-dīn 'El is judge' |
+| Meaning | personal name, 'the Foremost is judge' (Ugaritic PN ảwldn) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/alef-w-l\|ʾ-w-l]] + [[wiki/names/semitic/roots/d-y-n\|d-y-n]] |
 | Proto-Semitic | \*ʾawl- (#3783), \*dyn- (#S36) |
@@ -48,7 +48,7 @@ HT 6a .4 O-RA₂-DI-NE 2, in a list of NI (GORILA I 13). ʾŌl-dīn, sign for si
 |---|---|
 | Ugaritic | ảwldn PN, etym. unc. (DULAT 128; 4.54:9, 4.129:5); ảwl 'priority, supremacy' (DULAT 128); bʕldn PN, syll. ba-aʔ-la-da/dá-ni (DULAT 207); dn 'judgment, case, sentence' (DULAT 273) |
 | Arabic | ʾāla, ʾawila 'to precede, to be first' (Lane 126) |
-| Linear A | O-RA₂ ʾŌl, DI-NE dīn; DI-RE-DI-NA ʾaddīr-dīnā, DI-NI Dīnī |
+| Linear A | O-RA₂ ʾŌl, DI-NE dīn; DI-RE-DI-NA ʾaddīr-dīnā |
 
 ## Attestations
 
@@ -66,6 +66,6 @@ Read words on the same documents.
 
 | Word | Reading | Meaning |
 |---|---|---|
-| [[wiki/names/semitic/names/KA_PA\|KA-PA]] | kapa(r) | village, settlement (kapar); rival an institution |
+| [[wiki/names/semitic/names/KA_PA\|KA-PA]] | kapa(r) | village, settlement (kapar) |
 
 <!-- END kaphtor:record -->

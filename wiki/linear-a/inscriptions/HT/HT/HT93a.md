@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "incomplete"
-words: ["A-SE", "DA-RI-DA", "DE-JU-KU", "DI-RI-NA", "GRA+PA", "KA", "KI-DI-NI", "PA₃-NI-NA", "QA-QA-RU", "SA-RA₂", "VIR+[?]"]
+words: ["A-SE", "DA-RI-DA", "DE-JU-KU", "DI-RI-NA", "GRA+PA", "I", "KA", "KI-DI-NI", "PA₃-NI-NA", "QA-QA-RU", "SA-RA₂", "VIR+[?]"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -81,7 +81,7 @@ Unicode (Linear A block):
 
 **SPECULATIVE**, incomplete (status: incomplete).
 
-> Our builder (PA₃-NI-NA) · grain PA₃ · RE+SE 12. Households (DI-RI-NA) · DA+RE+SE 43½. Kidinni 5 J H. Physician (A-SE) · I GRA+PA 26¾. The queen's establishment 20. Qaqqaru · I GRA+PA 5. Men-I 6. Dalqu 1½. O-TI-\[…\] 3. Dardaʿ vessel 2, \*343 2. Our builder (PA₃-NI-NA) · \[…\]PA-SE-JA 20. Men 10 F\[…\] \[…\]KA 4.
+> Our builder (PA₃-NI-NA) · grain PA₃ · RE+SE 12. Households (DI-RI-NA) · DA+RE+SE 43½. Kidinni 5 J H. Physician (A-SE) · ration: GRA+PA 26¾. The queen's establishment 20. Qaqqaru · ration: GRA+PA 5. Men-I 6. Dalqu 1½. O-TI-\[…\] 3. Dardaʿ vessel 2, \*343 2. Our builder (PA₃-NI-NA) · \[…\]PA-SE-JA 20. Men 10 F\[…\] \[…\]KA 4.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/D/DA_plus_RE_plus_SE\|DA+RE+SE]] |  | ligature (unread) |  |  |
 | [[wiki/linear-a/words/K/KI_DI_NI\|KI-DI-NI]] | Kidinni | personal name, 'protection' (Akk. kidinnu) | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/A/A_SE\|A-SE]] | ʾāsē | physician (recipient) | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/I/I\|I]] |  | sign before GRA+PA (unread) |  |  |
+| [[wiki/linear-a/words/I/I\|I]] | ḥipru | ration, written by its first sign |  | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/G/GRA_plus_PA\|GRA+PA]] |  | grain composite (unread) |  | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/S/SA_RA2\|SA-RA₂]] | šarra | queen/princess or royal establishment | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/Q/QA_QA_RU\|QA-QA-RU]] | Qaqqaru | personal name, 'Ground'; recipient of I GRA+PA | CANDIDATE | CANDIDATE (lexicon) |
@@ -114,7 +114,7 @@ GORILA
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/A/A_SE|A-SE]], [[wiki/linear-a/words/D/DA_RI_DA|DA-RI-DA]], [[wiki/linear-a/words/D/DE_JU_KU|DE-JU-KU]], [[wiki/linear-a/words/D/DI_RI_NA|DI-RI-NA]], [[wiki/linear-a/words/G/GRA_plus_PA|GRA+PA]], [[wiki/linear-a/words/K/KA|KA]], [[wiki/linear-a/words/K/KI_DI_NI|KI-DI-NI]], [[wiki/linear-a/words/P/PA3_NI_NA|PA₃-NI-NA]], [[wiki/linear-a/words/Q/QA_QA_RU|QA-QA-RU]], [[wiki/linear-a/words/S/SA_RA2|SA-RA₂]], [[wiki/linear-a/words/V/VIR_plus_q_broken_end|VIR+&#91;?&#93;]].
+[[wiki/linear-a/words/A/A_SE|A-SE]], [[wiki/linear-a/words/D/DA_RI_DA|DA-RI-DA]], [[wiki/linear-a/words/D/DE_JU_KU|DE-JU-KU]], [[wiki/linear-a/words/D/DI_RI_NA|DI-RI-NA]], [[wiki/linear-a/words/G/GRA_plus_PA|GRA+PA]], [[wiki/linear-a/words/I/I|I]], [[wiki/linear-a/words/K/KA|KA]], [[wiki/linear-a/words/K/KI_DI_NI|KI-DI-NI]], [[wiki/linear-a/words/P/PA3_NI_NA|PA₃-NI-NA]], [[wiki/linear-a/words/Q/QA_QA_RU|QA-QA-RU]], [[wiki/linear-a/words/S/SA_RA2|SA-RA₂]], [[wiki/linear-a/words/V/VIR_plus_q_broken_end|VIR+&#91;?&#93;]].
 
 ## Corpus note
 

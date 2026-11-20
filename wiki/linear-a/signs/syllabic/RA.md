@@ -97,12 +97,12 @@ Petrakis and Salgarella (2026, 32, after Docs, 43, 67–70) ask, with 'the highe
 | [[wiki/linear-a/words/P/PI_TA_RA\|PI-TA-RA]] | bitra | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_star118_RA_RE\|QA-\*118-RA-RE]] | qaṭara(re) | PROBABLE |
 | [[wiki/linear-a/words/Q/QA_MI_star47_NA_RA\|QA-MI-\*47-NA-RA]] | qāmī šū-nāra | SPECULATIVE |
+| [[wiki/linear-a/words/R/RA\|RA]] | rabbat | SPECULATIVE |
 | [[wiki/linear-a/words/R/RA_star164_TI\|RA-\*164-TI]] | rāšōt | SPECULATIVE |
 | [[wiki/linear-a/words/R/RA_star314_RA\|RA-\*314-RA]] | Raḥal | SPECULATIVE |
 | [[wiki/linear-a/words/R/RA_NA_TU_SU\|RA-NA-TU-SU]] | Rannatušu | SPECULATIVE |
 | [[wiki/linear-a/words/R/RA_O_DI_KI\|RA-O-DI-KI]] | rāʿû diqqi | SPECULATIVE |
 | [[wiki/linear-a/words/R/RA_TI_SE\|RA-TI-SE]] | Ratis | SPECULATIVE |
-| [[wiki/linear-a/words/S/SA_RA\|SA-RA]] | šarra | CANDIDATE |
 | [[wiki/linear-a/words/S/SA_RA_DI\|SA-RA-DI]] | šalardi | CANDIDATE |
 | [[wiki/linear-a/words/S/SA_RA_RA\|SA-RA-RA]] | ṣarār- | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_plus_SE_RA_plus_KA\|SI+SE-RA+KA]] | šeraka | SPECULATIVE |

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/M/MA_SI_DU
 title: "MA-SI-DU"
-desc: "maṣīdu: provisions (list heading); rivals a place name, 'Fortress', and a personal name, cf. Linear B ma-si-dwo. Lexicon, SPECULATIVE (tier 1)."
+desc: "maṣīdu: provisions (list heading). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "administrative", "foodstuff", "hapax", "noun"]
 kind: "word"
 form: "MA-SI-DU"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | maṣīdu |
-| Meaning | provisions (list heading); rivals a place name, 'Fortress', and a personal name, cf. Linear B ma-si-dwo |
+| Meaning | provisions (list heading) |
 | Root | ṣ-w-d |
 | Proto-Semitic | \*ṣyd ~ \*zwd (#3505) |
 | Language layer | Semitic |

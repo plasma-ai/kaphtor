@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/K/KU_KU_DA_RA
 title: "KU-KU-DA-RA"
-desc: "Kukkadal: Kukkadal (Hurrian personal name), kukk- + adal 'strong'; rival ḳdr 'dark'. Lexicon, SPECULATIVE (tier 1)."
+desc: "Kukkadal: Kukkadal (Hurrian personal name), kukk- + adal 'strong'. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "compound", "hapax", "personal_name"]
 kind: "word"
 form: "KU-KU-DA-RA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Kukkadal |
-| Meaning | Kukkadal (Hurrian personal name), kukk- + adal 'strong'; rival ḳdr 'dark' |
+| Meaning | Kukkadal (Hurrian personal name), kukk- + adal 'strong' |
 | Language layer | Hurrian |
 | Tags | compound, hapax, personal_name |
 | Semantic field | personal_name |

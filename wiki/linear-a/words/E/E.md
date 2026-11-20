@@ -51,6 +51,8 @@ E stands before a numeral in eight of nine occurrences, at HT and KN: HT 12 E 30
 | Ugaritic | ḥmʾt (KTU 1.4 III) |
 | Akkadian | ḫimētu (palace ration lists, Ur III–NB) |
 | Eblaite | ḫi-ma-ad ḥimʾat 'butter, curd', a commodity in the administrative texts (ARET 13; GlOS 1, 272) |
+| Linear B | E alone on KN U 5717, '(= e-po q.v.?)' (Killen 2024, 950); Lane's e-po 'butter, ghee' is reported and declined (Melena 2014, 64 n. 79) |
+| Cuneiform | Ì.NUN.(NA) for ḫimētu (CAD Ḫ 189); on the Middle Euphrates Ì.NUN.NA-at, the logogram with the ending of ḥimʾat (GlOS 1, 272) |
 
 ### Source
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/MI_RU_TA_RA_RE
 title: "MI-RU-TA-RA-RE"
-desc: "Mīru-darār: Free-running Bull, a bull that roams free (personal name); rival Murr-darār 'Flowing Myrrh'. Semitic, SPECULATIVE."
+desc: "Mīru-darār: Free-running Bull, a bull that roams free (personal name). Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "MI-RU-TA-RA-RE"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Mīru-darār** · Free-running Bull, a bull that roams free (personal name); rival Murr-darār 'Flowing Myrrh'
+**Mīru-darār** · Free-running Bull, a bull that roams free (personal name)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Mīru-darār |
-| Meaning | Free-running Bull, a bull that roams free (personal name); rival Murr-darār 'Flowing Myrrh' |
+| Meaning | Free-running Bull, a bull that roams free (personal name) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/m-r-alef\|m-r-ʾ]] + [[wiki/names/semitic/roots/d-r-r\|d-r-r]] |
 | Proto-Semitic | \*mir(Vʾ)- (#2245), \*dVr- (#503) |
@@ -66,7 +66,7 @@ Read words on the same documents.
 
 | Word | Reading | Meaning |
 |---|---|---|
-| [[wiki/names/semitic/names/MA_KA_RI_TE\|MA-KA-RI-TE]] | makkārītu | merchants (heading of a roster of men); rival 'red (wool)' |
+| [[wiki/names/semitic/names/MA_KA_RI_TE\|MA-KA-RI-TE]] | makkārītu | merchants (heading of a roster of men) |
 | KI-RO | kilʾu | owed, outstanding balance (deficit)—transaction term heading deficit sections |
 | [[wiki/names/semitic/names/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | devotee of Kubaba (Kubaba + -ān-), personal name or title |
 | KU-RO | kull | total, sum (accounting term) |

@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-OLE with the complement MI, 19 tokens on 14 documents from Haghia Triada and Tylissos; it stands with OLE+U and OLE+KI on the allocation tablets HT 42+59, HT 91 and TY 3a, and with PA as PA-OLE+MI on TY 3b. MI writes mišḥ-, Northwest Semitic √m-š-ḥ 'to anoint': Ug. mšḥ 'to anoint, oil' (DULAT 582), Heb. māšaḥ. Biblical cult inventories name שֶׁמֶן הַמִּשְׁחָה šemen ham-mišḥā 'the anointing oil' (Exod 25:6; 29:7; 31:11; HALOT 644) and שֶׁמֶן מִשְׁחַת קֹדֶשׁ šemen mišḥat qōdeš 'holy anointing oil' (Exod 30:25, 31), a commodity named by its m-š-ḥ noun, as OLE is by MI. Ebla has the verb, ma-zi-ʔà (ARET 11 160), and Akkadian muššuʔu 'to rub', muššuʔtu 'ointment' (GlOS 2, 55). Weak point: the single sign MI carries the whole reading.
+OLE with the complement MI, 19 tokens on 14 documents from Haghia Triada and Tylissos; it stands with OLE+U and OLE+KI on the allocation tablets HT 42+59, HT 91 and TY 3a, and with PA as PA-OLE+MI on TY 3b. MI writes mišḥ-, Northwest Semitic √m-š-ḥ 'to anoint': Ug. mšḥ 'to anoint, oil' (DULAT 582), Heb. māšaḥ. Biblical cult inventories name שֶׁמֶן הַמִּשְׁחָה šemen ham-mišḥā 'the anointing oil' (Exod 25:6; 29:7; 31:11; HALOT 644) and שֶׁמֶן מִשְׁחַת קֹדֶשׁ šemen mišḥat qōdeš 'holy anointing oil' (Exod 30:25, 31), a commodity named by its m-š-ḥ noun, as OLE is by MI. Ebla has the verb, ma-zi-ʔà (ARET 11 160), and Akkadian muššuʔu 'to rub', muššuʔtu 'ointment' (GlOS 2, 55). At Mari Adad of Aleppo tells Zimri-Lim 'I have anointed you with the oil of my luminosity' (A. 1968; Malamat 1998, 152). Weak point: the single sign MI carries the whole reading.
 
 ### Cognates
 
@@ -54,7 +54,7 @@ OLE with the complement MI, 19 tokens on 14 documents from Haghia Triada and Tyl
 
 ### Source
 
-Hebrew Bible, Exod 25:6; 29:7; 30:25, 31; 31:11; DULAT 582; GlOS 2; corpus distribution
+Hebrew Bible, Exod 25:6; 29:7; 30:25, 31; 31:11; DULAT 582; GlOS 2; Malamat 1998; corpus distribution
 
 ## Attestations
 

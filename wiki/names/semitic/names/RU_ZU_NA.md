@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/RU_ZU_NA
 title: "RU-ZU-NA"
-desc: "rāzin(a): dignitary, prince (title of a recipient); rival a personal name. Semitic, SPECULATIVE."
+desc: "rāzin(a): dignitary, prince (title of a recipient). Semitic, SPECULATIVE."
 tags: ["names", "title", "semitic"]
 kind: "name"
 form: "RU-ZU-NA"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**rāzin(a)** · dignitary, prince (title of a recipient); rival a personal name
+**rāzin(a)** · dignitary, prince (title of a recipient)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/titles\|Title]] |
 | Reading | rāzin(a) |
-| Meaning | dignitary, prince (title of a recipient); rival a personal name |
+| Meaning | dignitary, prince (title of a recipient) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/r-z-n\|r-z-n]] |
 | Proto-Semitic | \*rVzan- (#S1) |

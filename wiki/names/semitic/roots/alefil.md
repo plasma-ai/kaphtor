@@ -1,15 +1,15 @@
 ---
-name: wiki/names/semitic/roots/alefel
-title: "ʾēl"
+name: wiki/names/semitic/roots/alefil
+title: "ʾil"
 desc: "1 name: DI-NA-RO."
 tags: ["names", "root", "semitic"]
 kind: "name_root"
-id: "semitic:ʾēl"
-created: 2026-11-11T23:39:03Z
-updated: 2026-11-11T23:39:03Z
+id: "semitic:ʾil"
+created: 2026-11-21T15:34:41Z
+updated: 2026-11-21T15:34:41Z
 ---
 
-# ʾēl
+# ʾil
 
 [[wiki/names/semitic/roots/_index|..]]
 
@@ -26,6 +26,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/DI_NA_RO\|DI-NA-RO]] | Dānīlo / Dānīlu | personal name ("El judges"—Ugaritic hero-king Dāniʾēlu) | 1 |
+| [[wiki/names/semitic/names/DI_NA_RO\|DI-NA-RO]] | Dīnalu | personal name, 'El is judgment' | 1 |
 
 <!-- END kaphtor:record -->

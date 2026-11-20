@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/A/A_KU_JU_PA_star118
 title: "A-KU-JU-PA-*118"
-desc: "ʾakulpa: axe(s); rival: a personal name. Onomasticon personal name; lexicon entry A-KU-JU-PA."
+desc: "ʾakulpa: axe(s). Onomasticon personal name; lexicon entry A-KU-JU-PA."
 tags: ["linear-a", "word"]
 kind: "word"
 form: "A-KU-JU-PA-*118"
@@ -39,7 +39,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʾakulpa |
-| Meaning | axe(s); rival: a personal name |
+| Meaning | axe(s) |
 | Type | personal name (SPECULATIVE) |
 | Affiliation | anatolian (SPECULATIVE) |
 | Evidence | lexicon_reading |

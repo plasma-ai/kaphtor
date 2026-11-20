@@ -1,7 +1,7 @@
 ---
 name: wiki/names/aegean/names/RU_SA
 title: "RU-SA"
-desc: "Rusa: personal name; compare Egyptian rw-sȝ, one of the 'names of Crete' on BM EA 5647; rival Egyptian Rs 'he who is awake'. Aegean, SPECULATIVE."
+desc: "Rusa: personal name; compare Egyptian rw-sȝ, one of the 'names of Crete' on BM EA 5647. Aegean, SPECULATIVE."
 tags: ["names", "personal-name", "aegean"]
 kind: "name"
 form: "RU-SA"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Rusa** · personal name; compare Egyptian rw-sȝ, one of the 'names of Crete' on BM EA 5647; rival Egyptian Rs 'he who is awake'
+**Rusa** · personal name; compare Egyptian rw-sȝ, one of the 'names of Crete' on BM EA 5647
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Rusa |
-| Meaning | personal name; compare Egyptian rw-sȝ, one of the 'names of Crete' on BM EA 5647; rival Egyptian Rs 'he who is awake' |
+| Meaning | personal name; compare Egyptian rw-sȝ, one of the 'names of Crete' on BM EA 5647 |
 | Language layer | [[wiki/names/aegean/_index\|Aegean]] |
 | Reading's standing | SPECULATIVE |
 | Standing as a personal name | SPECULATIVE |

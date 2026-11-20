@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/R/RU_NI
 title: "RU-NI"
-desc: "Runni: personal name, 'Jubilation'; rival 'the crier', Dīnāyu's trade. Lexicon, SPECULATIVE (tier 1)."
+desc: "Runni: personal name, 'Jubilation'. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "RU-NI"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Runni |
-| Meaning | personal name, 'Jubilation'; rival 'the crier', Dīnāyu's trade |
+| Meaning | personal name, 'Jubilation' |
 | Root | r-n-n |
 | Proto-Semitic | \*rVnVn- (#K0351) |
 | Language layer | Semitic |

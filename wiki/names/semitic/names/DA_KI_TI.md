@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/DA_KI_TI
 title: "DA-KI-TI"
-desc: "Daqqiti: of Daqqitu, the goddess to whom the incense is offered; rival daqqati 'fine (powder)'. Semitic, SPECULATIVE."
+desc: "Daqqiti: of Daqqitu, the goddess to whom the incense is offered. Semitic, SPECULATIVE."
 tags: ["names", "divine-name", "semitic"]
 kind: "name"
 form: "DA-KI-TI"
@@ -19,13 +19,13 @@ updated: 2026-11-14T20:14:15Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Daqqiti** · of Daqqitu, the goddess to whom the incense is offered; rival daqqati 'fine (powder)'
+**Daqqiti** · of Daqqitu, the goddess to whom the incense is offered
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/gods\|Divine name]] |
 | Reading | Daqqiti |
-| Meaning | of Daqqitu, the goddess to whom the incense is offered; rival daqqati 'fine (powder)' |
+| Meaning | of Daqqitu, the goddess to whom the incense is offered |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/d-q-q\|d-q-q]] |
 | Proto-Semitic | \*diḳ(ḳ)- (#1654) |
@@ -70,8 +70,8 @@ Read words on the same documents.
 | Word | Reading | Meaning |
 |---|---|---|
 | QI-TI-RI | qiṭrī | my incense (ritual term) |
-| A-DI | ʿadi | unto, as far as (preposition); rival 'until' |
+| A-DI | ʿadi | unto, as far as (preposition) |
 | PA-KU | pak | flask, vial (small libation/oil vessel) |
-| NI-JA-NU | niyāḥ-nu | our soothing (offering), of the incense; rivals a personal name, NI 'figs' with JA-NU 'wine' |
+| NI-JA-NU | niyāḥ-nu | our soothing (offering), of the incense |
 
 <!-- END kaphtor:record -->

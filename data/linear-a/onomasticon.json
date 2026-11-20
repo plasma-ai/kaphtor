@@ -24,12 +24,12 @@
     "auto"
   ],
   "stats": {
-    "total": 380,
+    "total": 382,
     "by_type": {
       "gentilic": 11,
-      "personal_name": 255,
-      "theonym": 30,
-      "title": 51,
+      "personal_name": 257,
+      "theonym": 31,
+      "title": 50,
       "toponym": 29,
       "toponym_gentilic": 4
     },
@@ -39,7 +39,7 @@
       "egyptian": 11,
       "hurrian": 38,
       "indo_european": 1,
-      "semitic": 312,
+      "semitic": 314,
       "sumerian": 1,
       "unknown": {
         "total": 9,
@@ -54,17 +54,17 @@
       "Egyptian": 11,
       "Hurro-Urartian": 38,
       "Indo-European": 2,
-      "Semitic": 313,
+      "Semitic": 315,
       "Sumerian": 1,
       "unassigned": 15
     },
     "by_provenance": {
       "auto": 0,
-      "manual": 380
+      "manual": 382
     },
-    "manual_count": 380,
+    "manual_count": 382,
     "auto_count": 0,
-    "total_entries": 380
+    "total_entries": 382
   },
   "entries": [
     {
@@ -208,7 +208,7 @@
         {
           "word": "MA-KA-RI-TE",
           "reading": "makkārītu",
-          "meaning": "merchants (heading of a roster of men); rival 'red (wool)'",
+          "meaning": "merchants (heading of a roster of men)",
           "category": "personnel"
         },
         {
@@ -286,7 +286,7 @@
       "contact_ref": null,
       "lexicon_ref": "KA-PA",
       "reading": "kapa(r)",
-      "meaning": "village, settlement (kapar); rival an institution",
+      "meaning": "village, settlement (kapar)",
       "frequency": 6,
       "attestations": [
         "HT6a",
@@ -314,7 +314,7 @@
         {
           "word": "KA-PA",
           "reading": "kapa(r)",
-          "meaning": "village, settlement (kapar); rival an institution",
+          "meaning": "village, settlement (kapar)",
           "category": "place_name"
         },
         {
@@ -351,7 +351,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "Reading from the lexicon (di Mino).",
+      "note": "Reading from the lexicon (di Mino). Rival: an institution.",
       "linear_b_comparanda": "Exact Linear B homograph: ka-pa, KN F(1) 71 (oil/food) + PY Ua 9, in agricultural-commodity context. Screening caveat: both attestations may be a common noun (cf. LA KA-PA kapa(r) 'village/settlement') rather than a shared name—homograph risk is real here; retained as comparandum, not continuity."
     },
     {
@@ -394,7 +394,7 @@
         {
           "word": "A-KA-RU",
           "reading": "Agaru",
-          "meaning": "field, estate (heading); rival the Ugaritic god Ugaru",
+          "meaning": "field, estate (heading)",
           "category": "administrative"
         },
         {
@@ -627,7 +627,7 @@
         {
           "word": "DA-RE",
           "reading": "dār",
-          "meaning": "estate, household (a unit receiving men and grain); rival 'kin group, clan'",
+          "meaning": "estate, household (a unit receiving men and grain)",
           "category": "administrative"
         },
         {
@@ -755,7 +755,7 @@
         {
           "word": "DA-RE",
           "reading": "dār",
-          "meaning": "estate, household (a unit receiving men and grain); rival 'kin group, clan'",
+          "meaning": "estate, household (a unit receiving men and grain)",
           "category": "administrative"
         },
         {
@@ -800,7 +800,7 @@
       "contact_ref": null,
       "lexicon_ref": "JE-DI",
       "reading": "yedī",
-      "meaning": "gentilic 'the Idaean' (of Mount Ida); rivals the personal name 'He knows' and the gentilic 'Judean'",
+      "meaning": "gentilic 'the Idaean' (of Mount Ida)",
       "frequency": 4,
       "attestations": [
         "HT8a",
@@ -849,7 +849,7 @@
         {
           "word": "DA-RE",
           "reading": "dār",
-          "meaning": "estate, household (a unit receiving men and grain); rival 'kin group, clan'",
+          "meaning": "estate, household (a unit receiving men and grain)",
           "category": "administrative"
         },
         {
@@ -867,7 +867,7 @@
         {
           "word": "KA-PA",
           "reading": "kapa(r)",
-          "meaning": "village, settlement (kapar); rival an institution",
+          "meaning": "village, settlement (kapar)",
           "category": "place_name"
         }
       ],
@@ -914,7 +914,7 @@
         {
           "word": "A-KA-RU",
           "reading": "Agaru",
-          "meaning": "field, estate (heading); rival the Ugaritic god Ugaru",
+          "meaning": "field, estate (heading)",
           "category": "administrative"
         },
         {
@@ -997,7 +997,7 @@
         {
           "word": "KA-PA",
           "reading": "kapa(r)",
-          "meaning": "village, settlement (kapar); rival an institution",
+          "meaning": "village, settlement (kapar)",
           "category": "place_name"
         },
         {
@@ -1092,7 +1092,7 @@
         {
           "word": "DA-RE",
           "reading": "dār",
-          "meaning": "estate, household (a unit receiving men and grain); rival 'kin group, clan'",
+          "meaning": "estate, household (a unit receiving men and grain)",
           "category": "administrative"
         },
         {
@@ -1271,7 +1271,7 @@
       "contact_ref": null,
       "lexicon_ref": "DI-DE-RU",
       "reading": "ʾaddīru",
-      "meaning": "nobles, notables; rival ʾadr 'granary'",
+      "meaning": "nobles, notables",
       "frequency": 3,
       "attestations": [
         "HT86a",
@@ -1295,7 +1295,7 @@
         {
           "word": "A-KA-RU",
           "reading": "Agaru",
-          "meaning": "field, estate (heading); rival the Ugaritic god Ugaru",
+          "meaning": "field, estate (heading)",
           "category": "administrative"
         },
         {
@@ -1314,7 +1314,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "Reading from the lexicon (di Mino)."
+      "note": "Reading from the lexicon (di Mino). Rival: ʾadr 'granary'."
     },
     {
       "token": "PA-DE",
@@ -1641,7 +1641,7 @@
         {
           "word": "DA-RE",
           "reading": "dār",
-          "meaning": "estate, household (a unit receiving men and grain); rival 'kin group, clan'",
+          "meaning": "estate, household (a unit receiving men and grain)",
           "category": "administrative"
         },
         {
@@ -1687,7 +1687,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "CANDIDATE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_00863",
       "lexicon_ref": "A-PA-RA-NE",
       "reading": "ʿAbrān",
       "meaning": "personal name, 'the crosser, the one from beyond' (√ʿ-b-r), Alalakh Ap-ra-an",
@@ -1740,7 +1740,7 @@
       "contact_ref": null,
       "lexicon_ref": "A-RU",
       "reading": "Ḫaru",
-      "meaning": "Ḫaru (Hurrian personal name); rival the Semitic name Ḫayru 'Excellent'",
+      "meaning": "Ḫaru (Hurrian personal name)",
       "frequency": 2,
       "attestations": [
         "HT9a",
@@ -1826,7 +1826,7 @@
         {
           "word": "A-RU",
           "reading": "Ḫaru",
-          "meaning": "Ḫaru (Hurrian personal name); rival the Semitic name Ḫayru 'Excellent'",
+          "meaning": "Ḫaru (Hurrian personal name)",
           "category": "personal_name"
         }
       ],
@@ -2066,7 +2066,7 @@
         {
           "word": "MA-KA-RI-TE",
           "reading": "makkārītu",
-          "meaning": "merchants (heading of a roster of men); rival 'red (wool)'",
+          "meaning": "merchants (heading of a roster of men)",
           "category": "personnel"
         }
       ],
@@ -2111,7 +2111,7 @@
         {
           "word": "KA-PA",
           "reading": "kapa(r)",
-          "meaning": "village, settlement (kapar); rival an institution",
+          "meaning": "village, settlement (kapar)",
           "category": "place_name"
         },
         {
@@ -2231,10 +2231,10 @@
       "language_family": "Semitic",
       "affiliation_confidence": "CANDIDATE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_04114",
       "lexicon_ref": "KU-RE-JU",
-      "reading": "Kulēlu",
-      "meaning": "Kulēlu (personal name), 'little perfect one', the diminutive of kull 'all, whole'",
+      "reading": "Kull-ēlu",
+      "meaning": "Kull-ēlu (personal name), 'El is all' (kull + ʾēlu)",
       "frequency": 2,
       "attestations": [
         "HT39",
@@ -2264,7 +2264,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "The HT117b roster fixes the personal-name slot. The Middle Assyrian Kulilu parallel is formally close but does not establish the Linear A name's etymology; Amorite k-l-l names remain secondary comparisons. Kulilu is written ki-li-lu at Tell Sabi Abyad."
+      "note": "The HT 117b roster fixes the personal-name slot. kull + ʾēlu, with -RE-JU writing -l-ēlu as in SA-RE-JU Šarr-ēlu; Amorite KU-LA-IL-E has the same two elements (Gelb 1980, no. 4114): see lexicon KU-RE-JU."
     },
     {
       "token": "MA-KA-RI-TE",
@@ -2278,7 +2278,7 @@
       "contact_ref": null,
       "lexicon_ref": "MA-KA-RI-TE",
       "reading": "makkārītu",
-      "meaning": "merchants (heading of a roster of men); rival 'red (wool)'",
+      "meaning": "merchants (heading of a roster of men)",
       "frequency": 2,
       "attestations": [
         "HT87",
@@ -2301,7 +2301,7 @@
         {
           "word": "MA-KA-RI-TE",
           "reading": "makkārītu",
-          "meaning": "merchants (heading of a roster of men); rival 'red (wool)'",
+          "meaning": "merchants (heading of a roster of men)",
           "category": "personnel"
         },
         {
@@ -2375,7 +2375,7 @@
         {
           "word": "DA-RE",
           "reading": "dār",
-          "meaning": "estate, household (a unit receiving men and grain); rival 'kin group, clan'",
+          "meaning": "estate, household (a unit receiving men and grain)",
           "category": "administrative"
         },
         {
@@ -2549,7 +2549,7 @@
         {
           "word": "*301-U-RA",
           "reading": "naura",
-          "meaning": "light, radiance (personal name or epithet)",
+          "meaning": "Bright (personal name)",
           "category": "personal_name"
         },
         {
@@ -2674,7 +2674,7 @@
       "contact_ref": null,
       "lexicon_ref": "QE-PU",
       "reading": "qēpu",
-      "meaning": "official, commissioner (title); rival: the personal name Qīpu",
+      "meaning": "official, commissioner (title)",
       "frequency": 2,
       "attestations": [
         "HT9a",
@@ -2720,7 +2720,7 @@
           "distance": 0.4
         }
       ],
-      "note": "Roster +numeral."
+      "note": "Roster +numeral. Rival: the personal name Qīpu."
     },
     {
       "token": "RU-MA-TA",
@@ -2771,67 +2771,6 @@
       "bucket": "onomastic",
       "weak_cognates": [],
       "note": "A toponym, as in the lexicon. √r-w-m \"to be high\". Distributional proof: bare at HT (×2), suffixed RU-MA-TA-SE at ZA20 = gentilic signature. Cf. Hebrew rāmā (רָמָה), rāmōt (רָמוֹת). On HT29 it is the first entry (qty 2) of a list with PA-JA-RE and KA-DU-MA-NE."
-    },
-    {
-      "token": "SA-RA",
-      "normalized": "sara",
-      "type": "title",
-      "type_confidence": "CANDIDATE",
-      "affiliation": "semitic",
-      "language_family": "Semitic",
-      "affiliation_confidence": "CANDIDATE",
-      "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
-      "lexicon_ref": "SA-RA",
-      "reading": "šarra",
-      "meaning": "queen, princess (feminine of šarru)",
-      "frequency": 1,
-      "attestations": [
-        "SAMWa1"
-      ],
-      "sites": [
-        "Samothrace"
-      ],
-      "cross_site": false,
-      "genre_supports": {
-        "Nodule": 1
-      },
-      "position_summary": {
-        "follows": {
-          "word": 1
-        }
-      },
-      "co_occurring_known": [
-        {
-          "word": "TE",
-          "reading": "terûmā",
-          "meaning": "contribution, offering (terûmā), a transaction marker",
-          "category": "vocabulary"
-        }
-      ],
-      "provenance": "manual",
-      "bucket": "onomastic",
-      "weak_cognates": [
-        {
-          "root": "*šarr-",
-          "language": "Proto-Semitic",
-          "meaning": "king/queen",
-          "distance": 0.0
-        },
-        {
-          "root": "šarratu",
-          "language": "Akkadian",
-          "meaning": "queen",
-          "distance": 0.0
-        },
-        {
-          "root": "śārā",
-          "language": "Hebrew",
-          "meaning": "princess/noble woman (Gen 17:15)",
-          "distance": 0.05
-        }
-      ],
-      "note": "SAM Wa 1, JA-SA SA-RA TE 10 ¹⁄₁₆, whose edition is untraced; it may be JA-SA-SA-RA across a line break, as IO Za 12 writes JA-SA / SA-RA-ME. HT 62 .1 has [·-·]-SA-RA, broken before (GORILA I 117). Feminine of SA-RU šarru 'king', as Hebrew Sarah 'princess'. SA-RA₂ may write the same title; RA₂ and the missing final -t leave its form open."
     },
     {
       "token": "SI-DA-RE",
@@ -2913,7 +2852,7 @@
       "contact_ref": null,
       "lexicon_ref": "SI-TE",
       "reading": "Ṣīt",
-      "meaning": "the East, lit. 'the going-out (of the sun)', a name for eastern Crete; rival ṣīt 'issue, outlay'",
+      "meaning": "the East, lit. 'the going-out (of the sun)', a name for eastern Crete",
       "frequency": 2,
       "attestations": [
         "ZA26a",
@@ -2962,7 +2901,7 @@
           "distance": 1.0
         }
       ],
-      "note": "ZA 26a .1 SI-TE · DI-DI-[, the first group of the tablet, intact and undotted (GORILA III 202–203). MIL Zb 3, the second witness, is unpublished (Younger, Linear A Texts). Ṣīt 'the East', √y-ṣ-ʾ (K0448), a name for eastern Crete; the Kom el-Hetan list's damaged [sȝ]-i-tȝ-[y], tentatively Siteia (Cline & Stannish 2011, 10), compares."
+      "note": "ZA 26a .1 SI-TE · DI-DI-[, the first group of the tablet, intact and undotted (GORILA III 202–203). MIL Zb 3, the second witness, is unpublished (Younger, Linear A Texts). Ṣīt 'the East', √y-ṣ-ʾ (K0448), a name for eastern Crete; the Kom el-Hetan list's damaged [sȝ]-i-tȝ-[y], tentatively Siteia (Cline & Stannish 2011, 10), compares. Rival: ṣīt 'issue, outlay'."
     },
     {
       "token": "TA-TI",
@@ -2976,7 +2915,7 @@
       "contact_ref": null,
       "lexicon_ref": "TA-TI",
       "reading": "Tati",
-      "meaning": "personal name; rival tati 'father' (Luwian tati-)",
+      "meaning": "personal name",
       "frequency": 2,
       "attestations": [
         "HT26a",
@@ -3161,7 +3100,7 @@
         {
           "word": "MA-KA-RI-TE",
           "reading": "makkārītu",
-          "meaning": "merchants (heading of a roster of men); rival 'red (wool)'",
+          "meaning": "merchants (heading of a roster of men)",
           "category": "personnel"
         },
         {
@@ -3206,7 +3145,7 @@
       "contact_ref": null,
       "lexicon_ref": "*301-U-RA",
       "reading": "naura",
-      "meaning": "light, radiance (personal name or epithet)",
+      "meaning": "Bright (personal name)",
       "frequency": 1,
       "attestations": [
         "HT115a"
@@ -3228,7 +3167,7 @@
         {
           "word": "*301-U-RA",
           "reading": "naura",
-          "meaning": "light, radiance (personal name or epithet)",
+          "meaning": "Bright (personal name)",
           "category": "personal_name"
         }
       ],
@@ -3246,7 +3185,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_00735",
       "lexicon_ref": "*306+MI",
       "reading": "ʿAmmī",
       "meaning": "personal name: 'my kinsman / my (paternal) uncle'",
@@ -3307,7 +3246,7 @@
         {
           "word": "DA-RE",
           "reading": "dār",
-          "meaning": "estate, household (a unit receiving men and grain); rival 'kin group, clan'",
+          "meaning": "estate, household (a unit receiving men and grain)",
           "category": "administrative"
         },
         {
@@ -3421,7 +3360,7 @@
         {
           "word": "KA-PA",
           "reading": "kapa(r)",
-          "meaning": "village, settlement (kapar); rival an institution",
+          "meaning": "village, settlement (kapar)",
           "category": "place_name"
         },
         {
@@ -3646,7 +3585,7 @@
       "contact_ref": null,
       "lexicon_ref": "*47-NU-RA-JA",
       "reading": "Šū-nūraya",
-      "meaning": "personal name, 'He is light'; rival mənōrāya 'lampstand (man)'",
+      "meaning": "personal name, 'He is light'",
       "frequency": 1,
       "attestations": [
         "HT115a"
@@ -3668,14 +3607,14 @@
         {
           "word": "*301-U-RA",
           "reading": "naura",
-          "meaning": "light, radiance (personal name or epithet)",
+          "meaning": "Bright (personal name)",
           "category": "personal_name"
         }
       ],
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "Šū-nūraya 'He is light', as Ebla su-nu-ri₂ šū-nūrī (Pagan 1998, row 4282) and Ugaritic nu-ri-ia (DULAT 634); on the same palimpsest as *301-U-RA naura."
+      "note": "Šū-nūraya 'He is light', as Ebla su-nu-ri₂ šū-nūrī (Pagan 1998, row 4282) and Ugaritic nu-ri-ia (DULAT 634); on the same palimpsest as *301-U-RA naura. Rival: mənōrāya 'lampstand (man)'."
     },
     {
       "token": "A-DA-*21F-RI",
@@ -3741,7 +3680,7 @@
       "contact_ref": null,
       "lexicon_ref": "A-DA-KI-SI-KA",
       "reading": "Ḫadki-šiqā",
-      "meaning": "Ḫadki gives drink (personal name; Ḫadki, a Mari-area name of Adad, + šiqā 'who gives drink'); rival 'Ḫadki is (my) dwelling'",
+      "meaning": "Ḫadki gives drink (personal name; Ḫadki, a Mari-area name of Adad, + šiqā 'who gives drink')",
       "frequency": 1,
       "attestations": [
         "KH5"
@@ -3777,7 +3716,7 @@
       "contact_ref": null,
       "lexicon_ref": "A-DE",
       "reading": "ʾAddē",
-      "meaning": "Father (hypocoristic personal name, ʾAdday); rival the kin title ʾad 'father'",
+      "meaning": "Father (hypocoristic personal name, ʾAdday)",
       "frequency": 1,
       "attestations": [
         "ZA10b"
@@ -3812,7 +3751,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "ʾAddē 'Father', the Ugaritic name ʾady, syll. a-da-a-a (DULAT 23), with -ay contracted to -ē. ZA 10b also counts U-*49 ʾummi 'mother'."
+      "note": "ʾAddē 'Father', the Ugaritic name ʾady, syll. a-da-a-a (DULAT 23), with -ay contracted to -ē. ZA 10b also counts U-*49 ʾummi 'mother'. Rival: the kin title ʾad 'father'."
     },
     {
       "token": "A-DU-ZA",
@@ -3826,7 +3765,7 @@
       "contact_ref": null,
       "lexicon_ref": "A-DU-ZA",
       "reading": "ʾAddu-ʿazz",
-      "meaning": "ʾAddu-ʿazz (personal name), 'Addu is strong'; rival Hadas 'Myrtle'",
+      "meaning": "ʾAddu-ʿazz (personal name), 'Addu is strong'",
       "frequency": 1,
       "attestations": [
         "PK1"
@@ -3875,7 +3814,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_00320",
       "lexicon_ref": "A-JA-KU",
       "reading": "ʾAyaku",
       "meaning": "personal name ('Where are you?')",
@@ -3909,7 +3848,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_02044",
       "lexicon_ref": "A-JU",
       "reading": "Ḥayyu",
       "meaning": "Ḥayyu 'Living' (personal name)",
@@ -4089,7 +4028,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_00329",
       "lexicon_ref": "A-KA-TA",
       "reading": "ʾAkkata",
       "meaning": "personal name; compare Amorite ʾAkkatum",
@@ -4177,7 +4116,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_00340",
       "lexicon_ref": "A-KI-RO",
       "reading": "ʾAkiru",
       "meaning": "ʾAkiru (personal name; Amorite ʾAkir-, cf. ʾikkār 'plowman')",
@@ -4245,7 +4184,7 @@
       "contact_ref": null,
       "lexicon_ref": "A-KU-JU-PA",
       "reading": "ʾakulpa",
-      "meaning": "axe(s); rival: a personal name",
+      "meaning": "axe(s)",
       "frequency": 1,
       "attestations": [
         "PA1"
@@ -4333,7 +4272,7 @@
       "contact_ref": null,
       "lexicon_ref": "A-MA-WA-SI",
       "reading": "ʿAmma-wāṣiʾ",
-      "meaning": "the Kinsman who comes forth (El epithet); rival 'Strong One'",
+      "meaning": "the Kinsman who comes forth (El epithet)",
       "frequency": 1,
       "attestations": [
         "CRZf1"
@@ -4366,7 +4305,7 @@
           "distance": 1.0
         }
       ],
-      "note": ""
+      "note": "Rival: 'Strong One'."
     },
     {
       "token": "A-MI-DA-U",
@@ -4531,7 +4470,7 @@
       "contact_ref": null,
       "lexicon_ref": "A-RA-JU",
       "reading": "ʾArāyu",
-      "meaning": "a town of the kingdom of Ugarit, on the Ugarit–Alalakh border (toponym); rival Aralu",
+      "meaning": "a town of the kingdom of Ugarit, on the Ugarit–Alalakh border (toponym)",
       "frequency": 1,
       "attestations": [
         "HT109"
@@ -4622,7 +4561,7 @@
       "contact_ref": null,
       "lexicon_ref": "A-RA-U-DA",
       "reading": "ʾArwada",
-      "meaning": "Arwad (island city of the Phoenician coast), the home of the man named before it; rival a personal name, Ugaritic ảrwd(n)",
+      "meaning": "Arwad (island city of the Phoenician coast), the home of the man named before it",
       "frequency": 1,
       "attestations": [
         "KH5"
@@ -4660,7 +4599,7 @@
           "distance": 1.0
         }
       ],
-      "note": ""
+      "note": "Rival: a personal name, Ugaritic ảrwd(n)."
     },
     {
       "token": "A-RE-DA-I",
@@ -4782,7 +4721,7 @@
       "contact_ref": "am_gelb_n_02190",
       "lexicon_ref": "A-RE-SA-NA",
       "reading": "ʾAriš-ān",
-      "meaning": "'The Requested One', personal name from √ʾ-r-š 'to request, desire' with -ān; rival Ḥarišān 'craftsman'",
+      "meaning": "'The Requested One', personal name from √ʾ-r-š 'to request, desire' with -ān",
       "frequency": 1,
       "attestations": [
         "THEZb2"
@@ -4829,7 +4768,7 @@
           "source": "ʾărešet 'request' (Ps 21:3, hapax); naming-motif parallel Šāʾûl 'Asked-For', Samuel etymology 1 Sam 1:20"
         }
       ],
-      "note": "THE Zb 2, the sole word on an Akrotiri clay vessel, in the owner's or dedicant's slot. ʾAriš-ān 'the requested one', √ʾ-r-š 'to request' with hypocoristic -ān; the Amorite name ʾARIŚ-AN, ḪA-RI-ŠA-AN (Gelb, AS 21, no. 2190), -NA writing its closing n. RE writes ri, as KI-RE-TA₂ beside KI-RI-TA₂. One attestation."
+      "note": "THE Zb 2, the sole word on an Akrotiri clay vessel, in the owner's or dedicant's slot. ʾAriš-ān 'the requested one', √ʾ-r-š 'to request' with hypocoristic -ān; the Amorite name ʾARIŚ-AN, ḪA-RI-ŠA-AN (Gelb, AS 21, no. 2190), -NA writing its closing n. RE writes ri, as KI-RE-TA₂ beside KI-RI-TA₂. One attestation. Rival: Ḥarišān 'craftsman'."
     },
     {
       "token": "A-RE-TU-MI",
@@ -4879,7 +4818,7 @@
       "contact_ref": null,
       "lexicon_ref": "A-RO-TE",
       "reading": "Ḫaluti",
-      "meaning": "Ḫaluti (woman's name, seal owner); rival ʾālôt 'oaths, curses'",
+      "meaning": "Ḫaluti (woman's name, seal owner)",
       "frequency": 1,
       "attestations": [
         "CRZg4"
@@ -4916,7 +4855,7 @@
       "contact_ref": null,
       "lexicon_ref": "A-SE-TU-*21F",
       "reading": "Aštuḫḫa",
-      "meaning": "Female (Hurrian personal name); rival the line as a heading, 'female (ones)'",
+      "meaning": "Female (Hurrian personal name)",
       "frequency": 1,
       "attestations": [
         "PH2"
@@ -4938,7 +4877,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "Aštuḫḫa 'Female', the Nuzi woman's name ᶠAš-du-uḫ-ḫa-a-a (NPN 37); Hurrian aštuḫḫi 'feminine' (Laroche GLH 62)."
+      "note": "Aštuḫḫa 'Female', the Nuzi woman's name ᶠAš-du-uḫ-ḫa-a-a (NPN 37); Hurrian aštuḫḫi 'feminine' (Laroche GLH 62). Rival: the line as a heading, 'female (ones)'."
     },
     {
       "token": "A-SI-DA-TO-I",
@@ -5151,7 +5090,7 @@
       "contact_ref": null,
       "lexicon_ref": "A-TA-RE",
       "reading": "ʿAṯtar",
-      "meaning": "ʿAṯtar (the god), receiving figs; rival Hathor",
+      "meaning": "ʿAṯtar (the god), receiving figs",
       "frequency": 1,
       "attestations": [
         "ZA8"
@@ -5173,7 +5112,7 @@
         {
           "word": "KI-RA",
           "reading": "kirû",
-          "meaning": "garden, orchard; rival qīru 'hot bitumen'",
+          "meaning": "garden, orchard",
           "category": "vocabulary"
         },
         {
@@ -5200,7 +5139,7 @@
       "contact_ref": "ug_dulat_0229",
       "lexicon_ref": "A-TI-RU",
       "reading": "ʿAttiru",
-      "meaning": "ʿAttiru, personal name, the nisbe 'man of ʿAṯtar'; rival ʿatīru 'entreated'",
+      "meaning": "ʿAttiru, personal name, the nisbe 'man of ʿAṯtar'",
       "frequency": 1,
       "attestations": [
         "ZA4a"
@@ -5542,7 +5481,7 @@
           "distance": 0.0
         }
       ],
-      "note": "Base DA-KU-SE-NE occurs twice on HT103; the extended form occurs on HT104. The comparisons with Boğazköy Tagu(b)-šini and Ugaritic Taki-šenni support the name analysis, but neither the exact vocalization nor the function of TI is settled. The pair favors suffixation; GORILA I 171 allows TI to be an ideogram or classifier."
+      "note": "Base DA-KU-SE-NE occurs twice on HT103; the extended form occurs on HT104. The comparisons with Boğazköy Tagu(b)-šini and Ugaritic Taki-šenni support the name. TI is a sign apart after each of the three partners, which GORILA I 171 allows as an ideogram. Rival: Gordon's feminine ending -TI."
     },
     {
       "token": "DA-MI-NU",
@@ -5556,7 +5495,7 @@
       "contact_ref": null,
       "lexicon_ref": "DA-MI-NU",
       "reading": "Ḏā-Mīnu",
-      "meaning": "personal name, 'He of the Portion' (ḏā + √m-n-y); rival √m-n-n 'He of the Favor'",
+      "meaning": "personal name, 'He of the Portion' (ḏā + √m-n-y)",
       "frequency": 1,
       "attestations": [
         "HT117a"
@@ -5578,7 +5517,7 @@
         {
           "word": "MA-KA-RI-TE",
           "reading": "makkārītu",
-          "meaning": "merchants (heading of a roster of men); rival 'red (wool)'",
+          "meaning": "merchants (heading of a roster of men)",
           "category": "personnel"
         },
         {
@@ -5625,7 +5564,7 @@
           "distance": 1.0
         }
       ],
-      "note": "HT 117a .8 DA-MI-NU 1, whole and undotted, in the second list headed SA-TA, before DA-NE-KU-TI 1 (GORILA I 197). Ḏā-Mīnu: ḏā 'the one of' + MI-NU (√m-n-y 'allot', √m-n-n 'favor'), 'He of the Portion', a 'he of X' name like Amorite Zu-i-la 'He of God' (Gelb 1980, no. 6596); rival Ḏimenu, the Ugaritic personal name ḏmn, syll. ZI-me-nu (DULAT 283). Compare Dushara, Nabataean dwšrʾ 'He of the Šarā' (Al-Jallad 2022, 95–96). Linear B da-mi-ni-jo, a shepherd at Knossos in the D series (DMic I); Woudhuizen 2016, 217 no. 11."
+      "note": "HT 117a .8 DA-MI-NU 1, whole and undotted, in the second list headed SA-TA, before DA-NE-KU-TI 1 (GORILA I 197). Ḏā-Mīnu: ḏā 'the one of' + MI-NU (√m-n-y 'allot', √m-n-n 'favor'), 'He of the Portion', a 'he of X' name like Amorite Zu-i-la 'He of God' (Gelb 1980, no. 6596); rival Ḏimenu, the Ugaritic personal name ḏmn, syll. ZI-me-nu (DULAT 283). Compare Dushara, Nabataean dwšrʾ 'He of the Šarā' (Al-Jallad 2022, 95–96). Linear B da-mi-ni-jo, a shepherd at Knossos in the D series (DMic I); Woudhuizen 2016, 217 no. 11. Rival: √m-n-n 'He of the Favor'."
     },
     {
       "token": "DA-NA-TU",
@@ -5675,7 +5614,7 @@
       "contact_ref": null,
       "lexicon_ref": "DA-NE-KU-TI",
       "reading": "Ḏā-naquddi",
-      "meaning": "He of the speckled (flock) (personal name); rival 'He of the head shepherd'",
+      "meaning": "He of the speckled (flock) (personal name)",
       "frequency": 1,
       "attestations": [
         "HT117a"
@@ -5697,7 +5636,7 @@
         {
           "word": "MA-KA-RI-TE",
           "reading": "makkārītu",
-          "meaning": "merchants (heading of a roster of men); rival 'red (wool)'",
+          "meaning": "merchants (heading of a roster of men)",
           "category": "personnel"
         },
         {
@@ -5742,7 +5681,7 @@
       "contact_ref": null,
       "lexicon_ref": "DA-RU-*329",
       "reading": "Dārum",
-      "meaning": "personal name, 'Eternal'; rival Arabic Dārim",
+      "meaning": "personal name, 'Eternal'",
       "frequency": 1,
       "attestations": [
         "HT7b"
@@ -5780,7 +5719,7 @@
           "distance": 0.1
         }
       ],
-      "note": "Second line of HT 7b, after *21F-TU-NE 1, on a roster of men; *329 read mo (Montecchi 2024, 173). Amorite dārum 'eternity, eternal' (Gelb 1980, §0.7); DA-RU- recurs in DA-RU-NE-TE (HT 98b). See the lexicon entry."
+      "note": "Second line of HT 7b, after *21F-TU-NE 1, on a roster of men; *329 read mo (Montecchi 2024, 173). Amorite dārum 'eternity, eternal' (Gelb 1980, §0.7); DA-RU- recurs in DA-RU-NE-TE (HT 98b). See the lexicon entry. Rival: Arabic Dārim."
     },
     {
       "token": "DA-RU-NE-TE",
@@ -5794,7 +5733,7 @@
       "contact_ref": null,
       "lexicon_ref": "DA-RU-NE-TE",
       "reading": "Dāru-ʿAnēt",
-      "meaning": "Anat is everlasting (theophoric personal name); rivals Dūr-ʿAnat 'Wall of Anat', and Egyptian Neith as the second element",
+      "meaning": "Anat is everlasting (theophoric personal name)",
       "frequency": 1,
       "attestations": [
         "HT98b"
@@ -5834,7 +5773,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_01489",
       "lexicon_ref": "DA-SE-RA-TE",
       "reading": "Dašurat",
       "meaning": "Dašurat 'Old (f.)' (woman's name; Amorite dašuratum 'old')",
@@ -5870,10 +5809,10 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_01490",
       "lexicon_ref": "DA-TA-RA",
       "reading": "Daṯar",
-      "meaning": "Old (man's name); rival 'He of the gate'",
+      "meaning": "Old (man's name)",
       "frequency": 1,
       "attestations": [
         "HT6a"
@@ -5895,7 +5834,7 @@
         {
           "word": "KA-PA",
           "reading": "kapa(r)",
-          "meaning": "village, settlement (kapar); rival an institution",
+          "meaning": "village, settlement (kapar)",
           "category": "place_name"
         }
       ],
@@ -5929,10 +5868,10 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_01490",
       "lexicon_ref": "DA-TA-RA",
       "reading": "Daṯar",
-      "meaning": "Old (man's name); rival 'He of the gate'",
+      "meaning": "Old (man's name)",
       "frequency": 1,
       "attestations": [
         "HT88"
@@ -6021,7 +5960,7 @@
       "contact_ref": null,
       "lexicon_ref": "DE-DI",
       "reading": "Dedī",
-      "meaning": "personal name, 'my beloved'; rival the Hurrian name dḏy",
+      "meaning": "personal name, 'my beloved'",
       "frequency": 1,
       "attestations": [
         "HT94b"
@@ -6095,7 +6034,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_01396",
       "lexicon_ref": "DE-JU-KU",
       "reading": "Dalqu",
       "meaning": "personal name, 'burning, kindled'",
@@ -6331,8 +6270,8 @@
       "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
       "lexicon_ref": "DI-NA-RO",
-      "reading": "Dānīlo / Dānīlu",
-      "meaning": "personal name (\"El judges\"—Ugaritic hero-king Dāniʾēlu)",
+      "reading": "Dīnalu",
+      "meaning": "personal name, 'El is judgment'",
       "frequency": 1,
       "attestations": [
         "HT108"
@@ -6375,7 +6314,7 @@
       "contact_ref": null,
       "lexicon_ref": "DI-RE-DI-NA",
       "reading": "ʾaddīr-dīnā",
-      "meaning": "mighty is the verdict (compound sentence name); rival a simplex recipient name",
+      "meaning": "mighty is the verdict (compound sentence name)",
       "frequency": 1,
       "attestations": [
         "HT98a"
@@ -6404,7 +6343,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "Sentence name: DI-RE *ʾaddīr (√ʾ-d-r, as in DI-DE-RU) + DI-NA *dīnā (√d-y-n, as in DI-NA-U, DI-NA-RO). Cf. Adriel (1 Sam 18:19), Abidan (Num 1:11), Daniel; Ugaritic ʾadr + dn (Danel, KTU 1.17); Punic ʾDR-BʿL (Benz 1972)."
+      "note": "Sentence name: DI-RE *ʾaddīr (√ʾ-d-r, as in DI-DE-RU) + DI-NA *dīnā (√d-y-n, as in DI-NA-U, DI-NA-RO). Cf. Adriel (1 Sam 18:19), Abidan (Num 1:11), Daniel; Ugaritic ʾadr + dn (Danel, KTU 1.17); Punic ʾDR-BʿL (Benz 1972). Rival: a simplex recipient name."
     },
     {
       "token": "DU-DA-MA",
@@ -6415,10 +6354,10 @@
       "language_family": "Semitic",
       "affiliation_confidence": "CANDIDATE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_01433",
       "lexicon_ref": "DU-DA-MA",
       "reading": "Dūdāma",
-      "meaning": "Beloved (personal name, √d-w-d + -ma); rival the Aegean name of the Keftiu board and Linear B di-du-me",
+      "meaning": "Beloved (personal name, √d-w-d + -ma)",
       "frequency": 1,
       "attestations": [
         "HT6b"
@@ -6447,7 +6386,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "Dūdāma 'Beloved', √d-w-d + -ma, as the Amorite DA-DU-MA (Gelb 1980, no. 1433); the d-d-m name of the Keftiu board and Linear B di-du-me."
+      "note": "Dūdāma 'Beloved', √d-w-d + -ma, as the Amorite DA-DU-MA (Gelb 1980, no. 1433); the d-d-m name of the Keftiu board and Linear B di-du-me. Rival: the Aegean name of the Keftiu board and Linear B di-du-me."
     },
     {
       "token": "DU-JA",
@@ -6483,7 +6422,7 @@
         {
           "word": "DA-RE",
           "reading": "dār",
-          "meaning": "estate, household (a unit receiving men and grain); rival 'kin group, clan'",
+          "meaning": "estate, household (a unit receiving men and grain)",
           "category": "administrative"
         }
       ],
@@ -6553,7 +6492,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_01411",
       "lexicon_ref": "DU-PA₃-NA",
       "reading": "Dubbān",
       "meaning": "personal name, 'bear' with -ān",
@@ -6667,7 +6606,7 @@
       "contact_ref": null,
       "lexicon_ref": "DU-ZU-WA",
       "reading": "ḏū-ṯuwāʕ",
-      "meaning": "He of the Lord (personal name; ḏū 'he of' + ṯuwāʕ 'lord'); rival 'the noble one'",
+      "meaning": "He of the Lord (personal name; ḏū 'he of' + ṯuwāʕ 'lord')",
       "frequency": 1,
       "attestations": [
         "HT36"
@@ -6689,7 +6628,7 @@
         {
           "word": "JE-DI",
           "reading": "yedī",
-          "meaning": "gentilic 'the Idaean' (of Mount Ida); rivals the personal name 'He knows' and the gentilic 'Judean'",
+          "meaning": "gentilic 'the Idaean' (of Mount Ida)",
           "category": "gentilic"
         }
       ],
@@ -6726,7 +6665,7 @@
       "contact_ref": null,
       "lexicon_ref": "DU-MA-I-NA",
       "reading": "ḏū-maʿīna",
-      "meaning": "He of the Spring (personal name; ḏū 'he of' + maʿīn 'spring, flowing water'); rival a product, '(the drink) of the spring'",
+      "meaning": "He of the Spring (personal name; ḏū 'he of' + maʿīn 'spring, flowing water')",
       "frequency": 1,
       "attestations": [
         "HT123+124b"
@@ -6748,7 +6687,7 @@
         {
           "word": "PI-SA",
           "reading": "Pīsa",
-          "meaning": "personal name, '(a bird)', Akk. būṣu; rival an institution; a recipient",
+          "meaning": "personal name, '(a bird)', Akk. būṣu",
           "category": "personal_name"
         },
         {
@@ -6809,7 +6748,7 @@
       "contact_ref": null,
       "lexicon_ref": "DA-TU",
       "reading": "ḏātu",
-      "meaning": "She of (…), a woman named by her house (personal name; feminine of ḏū 'he of'); rival daṯʾu 'spring pasture'",
+      "meaning": "She of (…), a woman named by her house (personal name; feminine of ḏū 'he of')",
       "frequency": 1,
       "attestations": [
         "HT123+124a"
@@ -6858,7 +6797,7 @@
       "contact_ref": null,
       "lexicon_ref": "I-DA-A",
       "reading": "ʾIda",
-      "meaning": "of Ida (diptotic genitive after DU-*314-RE); rival 'toward Ida'",
+      "meaning": "of Ida (diptotic genitive after DU-*314-RE)",
       "frequency": 1,
       "attestations": [
         "KOZa1"
@@ -6886,7 +6825,7 @@
         {
           "word": "I-DA-A",
           "reading": "ʾIda",
-          "meaning": "of Ida (diptotic genitive after DU-*314-RE); rival 'toward Ida'",
+          "meaning": "of Ida (diptotic genitive after DU-*314-RE)",
           "category": "place_name"
         },
         {
@@ -6911,7 +6850,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "Reading from the lexicon (di Mino)."
+      "note": "Reading from the lexicon (di Mino). Rival: 'toward Ida'."
     },
     {
       "token": "I-DA-DA",
@@ -6922,7 +6861,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_02425",
       "lexicon_ref": "I-DA-DA",
       "reading": "dādā",
       "meaning": "O Beloved!—vocative of the reduplicative divine epithet (with i- prosthesis)",
@@ -7010,10 +6949,10 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_01599",
       "lexicon_ref": "I-DU-NE-SI",
       "reading": "Yidu-naḥši",
-      "meaning": "Strength is alive, the arm thrives (personal name); rival Yidu-nešše, Hurrian 'prosperity'",
+      "meaning": "Strength is alive, the arm thrives (personal name)",
       "frequency": 1,
       "attestations": [
         "HT13"
@@ -7056,7 +6995,7 @@
       "contact_ref": null,
       "lexicon_ref": "I-DU-TI",
       "reading": "Yidu-ti",
-      "meaning": "entity name: yidu 'strength' with TI",
+      "meaning": "the name Yidu 'strength' with TI: a partner's share of 20½",
       "frequency": 1,
       "attestations": [
         "HT104"
@@ -7091,7 +7030,7 @@
           "distance": 0.0
         }
       ],
-      "note": "HT104 row entity, I-DU-TI 20½. Yidu-ti, on the Eblaite name element yidu 'strength'; TI is unexplained. Rivals: I-DU followed by TI as an ideogram; Ida, written I-DA-A at KOZa1."
+      "note": "HT104 row entity, I-DU-TI 20½. Yidu-ti, on the Eblaite name element yidu 'strength', i-du a name by itself at Ebla; TI is a sign apart after each of the three partners, which the editors allow as an ideogram (GORILA I 171). Rival: Ida, written I-DA-A at KOZa1."
     },
     {
       "token": "I-JA-PA-ME",
@@ -7105,7 +7044,7 @@
       "contact_ref": null,
       "lexicon_ref": "I-JA-PA-ME",
       "reading": "yabame",
-      "meaning": "brother-in-law (kin title); I-JA-PA-ME · TA-TA 'the brother-in-law of Tatta'; rival ybmt 'sister-in-law', Anat's epithet",
+      "meaning": "brother-in-law (kin title); I-JA-PA-ME · TA-TA 'the brother-in-law of Tatta'",
       "frequency": 1,
       "attestations": [
         "KH7a"
@@ -7134,7 +7073,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "Reading from the lexicon (di Mino). Tell Rimah ia-ba-mi-ša 'her brother-in-law', Ugaritic ybm (GlOS 2, 341; DULAT 937)."
+      "note": "Reading from the lexicon (di Mino). Tell Rimah ia-ba-mi-ša 'her brother-in-law', Ugaritic ybm (GlOS 2, 341; DULAT 937). Rival: ybmt 'sister-in-law', Anat's epithet."
     },
     {
       "token": "I-KI-RA",
@@ -7200,7 +7139,7 @@
       "contact_ref": null,
       "lexicon_ref": "I-KU-TA",
       "reading": "Ḥikuptaḥ",
-      "meaning": "place name: Memphis, the seat of Kothar (Ug. Ḥkpt), a recipient of cyperus; rival 'the Memphite'",
+      "meaning": "place name: Memphis, the seat of Kothar (Ug. Ḥkpt), a recipient of cyperus",
       "frequency": 1,
       "attestations": [
         "HT35"
@@ -7222,7 +7161,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "HT 35 .1 I-KU-TA CYP 1 (GORILA I 67). ḥi-ku(p)-ta(ḥ), with the coda p and final ḥ unwritten; the Byblos letter EA 139:8 also writes hi-ku-ta-ah (Belmonte, RGTC 12/2, 105). Ugaritic Ḥkpt, the seat of Kothar, Egyptian ḥwt-kꜣ-ptḥ (DULAT 353); Linear B i-ku-to (MY Oi 705.1). One witness."
+      "note": "HT 35 .1 I-KU-TA CYP 1 (GORILA I 67). ḥi-ku(p)-ta(ḥ), with the coda p and final ḥ unwritten; the Byblos letter EA 139:8 also writes hi-ku-ta-ah (Belmonte, RGTC 12/2, 105). Ugaritic Ḥkpt, the seat of Kothar, Egyptian ḥwt-kꜣ-ptḥ (DULAT 353); Linear B i-ku-to (MY Oi 705.1). One witness. Rival: 'the Memphite'."
     },
     {
       "token": "I-KU-RI-NA",
@@ -7372,7 +7311,7 @@
         {
           "word": "QA-*118",
           "reading": "qaṭṭ(u)",
-          "meaning": "flax, linseed—field-crop commodity; rival the place Qṭ",
+          "meaning": "flax, linseed—field-crop commodity",
           "category": "vocabulary"
         }
       ],
@@ -7390,7 +7329,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "buck2018:p338-08",
       "lexicon_ref": "I-RU-JA",
       "reading": "ʾIlūya",
       "meaning": "personal name, 'My god'",
@@ -7415,7 +7354,7 @@
         {
           "word": "DA-RE",
           "reading": "dār",
-          "meaning": "estate, household (a unit receiving men and grain); rival 'kin group, clan'",
+          "meaning": "estate, household (a unit receiving men and grain)",
           "category": "administrative"
         }
       ],
@@ -7514,7 +7453,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_02430",
       "lexicon_ref": "JA-DA-SU",
       "reading": "Yadaʿ-Šum",
       "meaning": "personal name, 'Šum knew'",
@@ -7550,10 +7489,10 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_03205",
       "lexicon_ref": "JA-DI",
       "reading": "Yadi",
-      "meaning": "Hand (personal name); rivals Yadīn 'he judges', Yadiʿ 'he knows', Ugarit ydy 'may (the god) establish'",
+      "meaning": "Hand (personal name)",
       "frequency": 1,
       "attestations": [
         "PHWc39"
@@ -7575,7 +7514,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "Yadi 'Hand', the Amorite name IA-DI-IM (Gelb 1980, no. 3205), on a roundel with RO rōš."
+      "note": "Yadi 'Hand', the Amorite name IA-DI-IM (Gelb 1980, no. 3205), on a roundel with RO rōš. Rivals: Yadīn 'he judges', Yadiʿ 'he knows', Ugarit ydy 'may (the god) establish'."
     },
     {
       "token": "JA-DU-RA-TI",
@@ -7622,7 +7561,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_03314",
       "lexicon_ref": "JA-KU",
       "reading": "Yaqū",
       "meaning": "personal name, Amorite type (yaqtul of QWJ)",
@@ -7674,7 +7613,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_03314",
       "lexicon_ref": "JA-KU-TI",
       "reading": "Yaqūti",
       "meaning": "personal name, Amorite type: base JA-KU with -TI",
@@ -7813,7 +7752,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_03395",
       "lexicon_ref": "JA-PA",
       "reading": "Yapaʿ(u)",
       "meaning": "personal name (\"he shines\"—Amarna Yapaḫu)",
@@ -7865,10 +7804,10 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_03419",
       "lexicon_ref": "JA-RA",
       "reading": "Yaraḫ",
-      "meaning": "Moon (personal name, after the moon god); rival yarē 'he instructs'",
+      "meaning": "Moon (personal name, after the moon god)",
       "frequency": 1,
       "attestations": [
         "KNWc30"
@@ -7888,7 +7827,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "Reading from the lexicon (di Mino). Amorite JARAḪ-T-UM, IA-RA-AḪ-TUM (Gelb 1980, no. 3419)."
+      "note": "Reading from the lexicon (di Mino). Amorite JARAḪ-T-UM, IA-RA-AḪ-TUM (Gelb 1980, no. 3419). Rival: yarē 'he instructs'."
     },
     {
       "token": "JA-RE-MI",
@@ -7924,7 +7863,7 @@
         {
           "word": "MA-KA-RI-TE",
           "reading": "makkārītu",
-          "meaning": "merchants (heading of a roster of men); rival 'red (wool)'",
+          "meaning": "merchants (heading of a roster of men)",
           "category": "personnel"
         }
       ],
@@ -7985,7 +7924,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_03768",
       "lexicon_ref": "JA-SA-JA",
       "reading": "Yašʿaya",
       "meaning": "personal name '(DN) has helped', hypocoristic",
@@ -8046,7 +7985,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "CANDIDATE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_03113",
       "lexicon_ref": "JA-SA-MU",
       "reading": "yaśmaʿū",
       "meaning": "'He hears'—yaqtal hypocoristic personal name with frozen nominative -ū",
@@ -8154,7 +8093,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "CONFIRMED",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_01704",
       "lexicon_ref": "KA-DU-MA-NE",
       "reading": "Qadmān",
       "meaning": "the Easterner, √q-d-m + -ān (Gordon: Cadmos + -ān)",
@@ -8206,7 +8145,7 @@
       "contact_ref": null,
       "lexicon_ref": "KA-I-RO",
       "reading": "kāʾil",
-      "meaning": "Measurer (professional-title PN), of grain; rival a name on g-y-l 'to rejoice'",
+      "meaning": "Measurer (professional-title PN), of grain",
       "frequency": 1,
       "attestations": [
         "ZA8"
@@ -8344,7 +8283,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_03913",
       "lexicon_ref": "KA-KU",
       "reading": "Kakku",
       "meaning": "personal name, 'Weapon' (Amorite Kakku)",
@@ -8399,7 +8338,7 @@
       "contact_ref": null,
       "lexicon_ref": "KA-KU-NE-TE",
       "reading": "Kakku-ʿAnēt",
-      "meaning": "Weapon of Anat (theophoric personal name); rival Egyptian Neith as the second element",
+      "meaning": "Weapon of Anat (theophoric personal name)",
       "frequency": 1,
       "attestations": [
         "ZA10b"
@@ -8518,7 +8457,7 @@
       "contact_ref": null,
       "lexicon_ref": "KA-PA-QE",
       "reading": "kapar qē(pu)",
-      "meaning": "the village's commissioner, a recipient of figs; rival 'the village: measures (qê)'",
+      "meaning": "the village's commissioner, a recipient of figs",
       "frequency": 1,
       "attestations": [
         "HT6a"
@@ -8540,14 +8479,14 @@
         {
           "word": "KA-PA",
           "reading": "kapa(r)",
-          "meaning": "village, settlement (kapar); rival an institution",
+          "meaning": "village, settlement (kapar)",
           "category": "place_name"
         }
       ],
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "HT 6a .4–5 KA-PA-QE 5¾, whole (GORILA I 13), the last fig entry under KA-PA. KA-PA 'village' with QE for QE-PU qēpu 'commissioner' (CAD Q 264). See the lexicon entry."
+      "note": "HT 6a .4–5 KA-PA-QE 5¾, whole (GORILA I 13), the last fig entry under KA-PA. KA-PA 'village' with QE for QE-PU qēpu 'commissioner' (CAD Q 264). See the lexicon entry. Rival: 'the village: measures (qê)'."
     },
     {
       "token": "KA-QA",
@@ -8613,7 +8552,7 @@
       "contact_ref": null,
       "lexicon_ref": "KA-RE-RO",
       "reading": "Kariru",
-      "meaning": "Kariru (personal name, Nuzi Qa-ri-ru, Ka-ri-ru); rival karr- 'ram'",
+      "meaning": "Kariru (personal name, Nuzi Qa-ri-ru, Ka-ri-ru)",
       "frequency": 1,
       "attestations": [
         "HTWc3003"
@@ -8701,7 +8640,7 @@
       "contact_ref": null,
       "lexicon_ref": "KA-SA-RU",
       "reading": "Qaṣṣāru",
-      "meaning": "Qaṣṣāru 'Fuller' (personal name); compare Linear B ka-sa-ro; rival Kaṣṣāru 'donkey driver'",
+      "meaning": "Qaṣṣāru 'Fuller' (personal name); compare Linear B ka-sa-ro",
       "frequency": 1,
       "attestations": [
         "HT10b"
@@ -8723,7 +8662,7 @@
         {
           "word": "DA-RE",
           "reading": "dār",
-          "meaning": "estate, household (a unit receiving men and grain); rival 'kin group, clan'",
+          "meaning": "estate, household (a unit receiving men and grain)",
           "category": "administrative"
         }
       ],
@@ -8746,7 +8685,7 @@
           "distance": 1.0
         }
       ],
-      "note": "Qaṣṣāru: Ebla ga-za-ru₁₂, /qaṣṣāru/ 'fuller' or /kaṣṣāru/ 'donkey driver' (Pagan 1998, rows 1979–1980); Linear B ka-sa-ro (KN C(2) 912.8); Ugarit DUMU ka-ša₂-ri."
+      "note": "Qaṣṣāru: Ebla ga-za-ru₁₂, /qaṣṣāru/ 'fuller' or /kaṣṣāru/ 'donkey driver' (Pagan 1998, rows 1979–1980); Linear B ka-sa-ro (KN C(2) 912.8); Ugarit DUMU ka-ša₂-ri. Rival: Kaṣṣāru 'donkey driver'."
     },
     {
       "token": "KA-TA-RE",
@@ -8796,7 +8735,7 @@
       "contact_ref": null,
       "lexicon_ref": "KA-TI",
       "reading": "Qāti",
-      "meaning": "personal name Qāti 'Hand'; rivals Gattī 'the man of the press, the Gittite', Qəhātî 'Kohathite', Kittî 'Kittian'",
+      "meaning": "personal name Qāti 'Hand'",
       "frequency": 1,
       "attestations": [
         "HT63"
@@ -8881,7 +8820,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "CANDIDATE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_04036",
       "lexicon_ref": "KI-KI-NA",
       "reading": "Kikkina",
       "meaning": "Kikkina, recipient or named administrative entity",
@@ -8997,10 +8936,10 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": "amorite_names:KU-IA-UM",
+      "contact_ref": "am_gelb_n_04109",
       "lexicon_ref": "KO-JA",
       "reading": "Qōya",
-      "meaning": "personal name, Amorite type (quwy- 'wait for, hope'); rival 'be strong'",
+      "meaning": "personal name, Amorite type (quwy- 'wait for, hope')",
       "frequency": 1,
       "attestations": [
         "HT119"
@@ -9035,7 +8974,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "HT 119 .2 KO-JA 10, the second named entry of a personnel list. A hypocoristic on Amorite QWJ, 'wait for, hope' or 'be strong' (Gelb, AS 21: KU-IA-UM no. 4109, KU-WU-UM no. 4188, KU-IA-TUM no. 4108, KU-U₂-D-DA-GAN no. 4145, KU-U₂-D-IM no. 4146). KO for /qō/: cuneiform cannot show o. Weak points: two signs, the vowel. One attestation."
+      "note": "HT 119 .2 KO-JA 10, the second named entry of a personnel list. A hypocoristic on Amorite QWJ, 'wait for, hope' or 'be strong' (Gelb, AS 21: KU-IA-UM no. 4109, KU-WU-UM no. 4188, KU-IA-TUM no. 4108, KU-U₂-D-DA-GAN no. 4145, KU-U₂-D-IM no. 4146). KO for /qō/: cuneiform cannot show o. Weak points: two signs, the vowel. One attestation. Rival: 'be strong'."
     },
     {
       "token": "KO-A-DU-WA",
@@ -9046,10 +8985,10 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": "amorite_names:KU-U₂-D-IM",
+      "contact_ref": "am_gelb_n_04146",
       "lexicon_ref": "KO-A-DU-WA",
       "reading": "Qō-Addua",
-      "meaning": "personal name, 'Hope in Addu' (Amorite Quwi-Haddu); rival an Anatolian name in Kuwa-",
+      "meaning": "personal name, 'Hope in Addu' (Amorite Quwi-Haddu)",
       "frequency": 1,
       "attestations": [
         "TY3a"
@@ -9071,7 +9010,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "TY 3a .6 KO-A-DU-WA [OLE] 7⅕, under Ạ-DA OLE+U 21 (GORILA I 327). Qō-Addu 'Hope in Addu', as Amorite Quwi-Haddu (Gelb AS 21, no. 4146, Mari) and Quwum-Haddu (no. 4162, Ugarit); Ugaritic qwy 'Awaited' (Watson 2012, 336). The final -a: Hadda, the god's other name, or a feminine -a(t). See the lexicon entry."
+      "note": "TY 3a .6 KO-A-DU-WA [OLE] 7⅕, under Ạ-DA OLE+U 21 (GORILA I 327). Qō-Addu 'Hope in Addu', as Amorite Quwi-Haddu (Gelb AS 21, no. 4146, Mari) and Quwum-Haddu (no. 4162, Ugarit); Ugaritic qwy 'Awaited' (Watson 2012, 336). The final -a: Hadda, the god's other name, or a feminine -a(t). See the lexicon entry. Rival: an Anatolian name in Kuwa-."
     },
     {
       "token": "KU-DA",
@@ -9082,10 +9021,10 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_01791",
       "lexicon_ref": "KU-DA",
       "reading": "Gūda",
-      "meaning": "Gūda 'luck' (personal name), Amorite Guʾuda; rivals Kutta, qāʾid 'chief'",
+      "meaning": "Gūda 'luck' (personal name), Amorite Guʾuda",
       "frequency": 1,
       "attestations": [
         "HT122a"
@@ -9168,7 +9107,7 @@
       "contact_ref": null,
       "lexicon_ref": "KU-KU-DA-RA",
       "reading": "Kukkadal",
-      "meaning": "Kukkadal (Hurrian personal name), kukk- + adal 'strong'; rival ḳdr 'dark'",
+      "meaning": "Kukkadal (Hurrian personal name), kukk- + adal 'strong'",
       "frequency": 1,
       "attestations": [
         "HT117a"
@@ -9190,7 +9129,7 @@
         {
           "word": "MA-KA-RI-TE",
           "reading": "makkārītu",
-          "meaning": "merchants (heading of a roster of men); rival 'red (wool)'",
+          "meaning": "merchants (heading of a roster of men)",
           "category": "personnel"
         },
         {
@@ -9236,7 +9175,7 @@
       "contact_ref": null,
       "lexicon_ref": "KU-MA-JU",
       "reading": "Qumalu",
-      "meaning": "Qumalu 'Louse' (personal name); rival kumru 'priest'",
+      "meaning": "Qumalu 'Louse' (personal name)",
       "frequency": 1,
       "attestations": [
         "HT20"
@@ -9274,7 +9213,7 @@
           "distance": 0.1
         }
       ],
-      "note": "Qumalu: *ḳaml- 'louse' (semitic_roots no. 2229), Gurage ḳumal; Safaitic personal name QML 'louse' (Harding 1971, 488). First entry under PA-RO-SU Parʿōš 'Flea' on HT 20."
+      "note": "Qumalu: *ḳaml- 'louse' (semitic_roots no. 2229), Gurage ḳumal; Safaitic personal name QML 'louse' (Harding 1971, 488). First entry under PA-RO-SU Parʿōš 'Flea' on HT 20. Rival: kumru 'priest'."
     },
     {
       "token": "KU-PA₃-RI-JA",
@@ -9288,7 +9227,7 @@
       "contact_ref": null,
       "lexicon_ref": "KU-PA₃-RI-JA",
       "reading": "Kubariya",
-      "meaning": "Kubariya, a town of Ugarit, (wool) of Kubariya: a section heading; rival Gubliya 'the Byblian'",
+      "meaning": "Kubariya, a town of Ugarit, (wool) of Kubariya: a section heading",
       "frequency": 1,
       "attestations": [
         "HT24a"
@@ -9353,7 +9292,7 @@
         {
           "word": "MA-KA-RI-TE",
           "reading": "makkārītu",
-          "meaning": "merchants (heading of a roster of men); rival 'red (wool)'",
+          "meaning": "merchants (heading of a roster of men)",
           "category": "personnel"
         }
       ],
@@ -9451,7 +9390,7 @@
         {
           "word": "KA-PA",
           "reading": "kapa(r)",
-          "meaning": "village, settlement (kapar); rival an institution",
+          "meaning": "village, settlement (kapar)",
           "category": "place_name"
         }
       ],
@@ -9485,10 +9424,10 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_04453",
       "lexicon_ref": "MA-DI",
       "reading": "Maʾdi",
-      "meaning": "place name: a unit of men and livestock in the HT rosters; rival the Hurrian personal name Madi 'wisdom'",
+      "meaning": "place name: a unit of men and livestock in the HT rosters",
       "frequency": 6,
       "attestations": [
         "HT118",
@@ -9528,10 +9467,10 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_04648",
       "lexicon_ref": "MA-KA-I-SE",
       "reading": "Makī-se",
-      "meaning": "personal name: Makī with the Zakros -SE; Amorite maqīm 'Established'; rival the Egyptian name mkj",
+      "meaning": "personal name: Makī with the Zakros -SE; Amorite maqīm 'Established'",
       "frequency": 1,
       "attestations": [
         "ZA8"
@@ -9567,7 +9506,7 @@
       "contact_ref": null,
       "lexicon_ref": "MA-KA-I-TA",
       "reading": "Makīt",
-      "meaning": "personal name (f.), the feminine of Makī (MA-KA-I-SE); rival the Egyptian name mkj·t",
+      "meaning": "personal name (f.), the feminine of Makī (MA-KA-I-SE)",
       "frequency": 2,
       "attestations": [
         "PK1",
@@ -9605,7 +9544,7 @@
       "contact_ref": null,
       "lexicon_ref": "MA-TI-ZA-I-TE",
       "reading": "Matiʿ-zayti",
-      "meaning": "Protector of the olive trees (personal name; matiʿ 'protector' + zayt 'olive tree'); rival Hurrian mat-",
+      "meaning": "Protector of the olive trees (personal name; matiʿ 'protector' + zayt 'olive tree')",
       "frequency": 1,
       "attestations": [
         "PK1"
@@ -9627,13 +9566,13 @@
         {
           "word": "MA-KA-I-TA",
           "reading": "Makīt",
-          "meaning": "personal name (f.), the feminine of Makī (MA-KA-I-SE); rival the Egyptian name mkj·t",
+          "meaning": "personal name (f.), the feminine of Makī (MA-KA-I-SE)",
           "category": "personal_name"
         },
         {
           "word": "A-DU-ZA",
           "reading": "ʾAddu-ʿazz",
-          "meaning": "ʾAddu-ʿazz (personal name), 'Addu is strong'; rival Hadas 'Myrtle'",
+          "meaning": "ʾAddu-ʿazz (personal name), 'Addu is strong'",
           "category": "personal_name"
         }
       ],
@@ -9703,7 +9642,7 @@
       "contact_ref": null,
       "lexicon_ref": "MA-RE",
       "reading": "mārē",
-      "meaning": "lord, master (title, an entry in a KI-RO roster); rival a personal name",
+      "meaning": "lord, master (title, an entry in a KI-RO roster)",
       "frequency": 1,
       "attestations": [
         "HT55a"
@@ -9768,7 +9707,7 @@
       "contact_ref": null,
       "lexicon_ref": "MA-RI",
       "reading": "Mari",
-      "meaning": "Mari (place name; Linear B ma-ri); rival Mari on the Euphrates",
+      "meaning": "Mari (place name; Linear B ma-ri)",
       "frequency": 1,
       "attestations": [
         "HT128a"
@@ -9921,7 +9860,7 @@
       "contact_ref": null,
       "lexicon_ref": "MI-RU-TA-RA-RE",
       "reading": "Mīru-darār",
-      "meaning": "Free-running Bull, a bull that roams free (personal name); rival Murr-darār 'Flowing Myrrh'",
+      "meaning": "Free-running Bull, a bull that roams free (personal name)",
       "frequency": 1,
       "attestations": [
         "HT117a"
@@ -9943,7 +9882,7 @@
         {
           "word": "MA-KA-RI-TE",
           "reading": "makkārītu",
-          "meaning": "merchants (heading of a roster of men); rival 'red (wool)'",
+          "meaning": "merchants (heading of a roster of men)",
           "category": "personnel"
         },
         {
@@ -10095,7 +10034,7 @@
       "contact_ref": null,
       "lexicon_ref": "NA-TU-*301-NE",
       "reading": "natūnān",
-      "meaning": "the dedicated one (qatūl passive participle of √n-t-n + -ān); rival nātānān 'the giver'",
+      "meaning": "the dedicated one (qatūl passive participle of √n-t-n + -ān)",
       "frequency": 1,
       "attestations": [
         "SKOZc1"
@@ -10117,7 +10056,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": ""
+      "note": "Rival: nātānān 'the giver'."
     },
     {
       "token": "NU-DU-*331",
@@ -10262,7 +10201,7 @@
       "contact_ref": null,
       "lexicon_ref": "O-RA₂-DI-NE",
       "reading": "ʾŌl-dīn",
-      "meaning": "personal name, 'the Foremost is judge' (Ugaritic PN ảwldn); rival ʾIl-dīn 'El is judge'",
+      "meaning": "personal name, 'the Foremost is judge' (Ugaritic PN ảwldn)",
       "frequency": 1,
       "attestations": [
         "HT6a"
@@ -10284,7 +10223,7 @@
         {
           "word": "KA-PA",
           "reading": "kapa(r)",
-          "meaning": "village, settlement (kapar); rival an institution",
+          "meaning": "village, settlement (kapar)",
           "category": "place_name"
         }
       ],
@@ -10333,7 +10272,7 @@
         {
           "word": "JA-SA-SA-RA-ME",
           "reading": "yaššaram",
-          "meaning": "in righteousness (adverbial accusative in -am of √y-š-r; also 'righteously'); rival: substantivized \"the upright/proper [thing]\" in an object slot. Polysemic layer: masculine divine name Yasharam (Akk. Mīšarum, Phoen. Misor)",
+          "meaning": "in righteousness (adverbial accusative in -am of √y-š-r; also 'righteously')",
           "category": "ritual"
         },
         {
@@ -10477,7 +10416,7 @@
       "contact_ref": null,
       "lexicon_ref": "PA-NU-QE",
       "reading": "Panūq",
-      "meaning": "personal name, 'Pampered'; rival Amorite Banuq",
+      "meaning": "personal name, 'Pampered'",
       "frequency": 1,
       "attestations": [
         "ZA14"
@@ -10521,7 +10460,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_01119",
       "lexicon_ref": "PA-RO-SU",
       "reading": "Parʿōš",
       "meaning": "personal or clan name, 'Flea'",
@@ -10619,7 +10558,7 @@
       "contact_ref": null,
       "lexicon_ref": "PA-TA-DA",
       "reading": "Patada",
-      "meaning": "personal name; Egyptian Ptḥ-dj(⸗f) 'Ptah gives'; rival Hurrian pṭḏ (Ugarit)",
+      "meaning": "personal name; Egyptian Ptḥ-dj(⸗f) 'Ptah gives'",
       "frequency": 2,
       "attestations": [
         "PH(?)31a",
@@ -10798,7 +10737,7 @@
       "contact_ref": null,
       "lexicon_ref": "PI-RU-E-JU",
       "reading": "Pirʾu-ʾēlu",
-      "meaning": "personal name, 'Offspring of El'; rival 'Fruit of El'",
+      "meaning": "personal name, 'Offspring of El'",
       "frequency": 1,
       "attestations": [
         "PH2"
@@ -10856,7 +10795,7 @@
         {
           "word": "KA-PA",
           "reading": "kapa(r)",
-          "meaning": "village, settlement (kapar); rival an institution",
+          "meaning": "village, settlement (kapar)",
           "category": "place_name"
         }
       ],
@@ -10877,7 +10816,7 @@
       "contact_ref": null,
       "lexicon_ref": "PI-TA-KA-SE",
       "reading": "Bīt-kissē",
-      "meaning": "House of the Throne, the crown estate (institution heading); rival the Hurrian name of PI-TA-KE-SI",
+      "meaning": "House of the Throne, the crown estate (institution heading)",
       "frequency": 1,
       "attestations": [
         "HT21"
@@ -10913,7 +10852,7 @@
       "contact_ref": null,
       "lexicon_ref": "PI-TA-KE-SI",
       "reading": "Bīt-kissi",
-      "meaning": "(Man) of the throne-house, crown dependant (title); rival Hurrian PN Pidi-kešḫi",
+      "meaning": "(Man) of the throne-house, crown dependant (title)",
       "frequency": 1,
       "attestations": [
         "HT87"
@@ -10935,7 +10874,7 @@
         {
           "word": "MA-KA-RI-TE",
           "reading": "makkārītu",
-          "meaning": "merchants (heading of a roster of men); rival 'red (wool)'",
+          "meaning": "merchants (heading of a roster of men)",
           "category": "personnel"
         }
       ],
@@ -11187,7 +11126,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_04149",
       "lexicon_ref": "KU-PA-JA",
       "reading": "Kubbaya",
       "meaning": "personal name, hypocoristic of Kubaba in -aya, cf. Amorite Kubbiya",
@@ -11226,7 +11165,7 @@
       "contact_ref": null,
       "lexicon_ref": "KU-PA-ZU",
       "reading": "Kapizzi",
-      "meaning": "Kapizzi (Hurrian personal name), 'kapizzi-jewel'; rival kupṯu 'headdress'",
+      "meaning": "Kapizzi (Hurrian personal name), 'kapizzi-jewel'",
       "frequency": 1,
       "attestations": [
         "KH5"
@@ -11259,7 +11198,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_06398",
       "lexicon_ref": "SA-MA-TI",
       "reading": "Ṣamidi",
       "meaning": "personal name, 'Harnessed'; cf. Amorite Ṣamidum",
@@ -11298,7 +11237,7 @@
       "contact_ref": null,
       "lexicon_ref": "QA-TI-KI",
       "reading": "Kattike",
-      "meaning": "Kattike (Hurrian personal name), on kad- 'to say'; rival katki 'utterance'",
+      "meaning": "Kattike (Hurrian personal name), on kad- 'to say'",
       "frequency": 1,
       "attestations": [
         "KH7a"
@@ -11334,7 +11273,7 @@
       "contact_ref": null,
       "lexicon_ref": "QA-TI-JU",
       "reading": "Qātilu",
-      "meaning": "Qātilu (personal name), 'killer'; rival Hurrian Katiya 'He/She said'",
+      "meaning": "Qātilu (personal name), 'killer'",
       "frequency": 1,
       "attestations": [
         "ZA14"
@@ -11408,7 +11347,7 @@
         {
           "word": "MA-KA-RI-TE",
           "reading": "makkārītu",
-          "meaning": "merchants (heading of a roster of men); rival 'red (wool)'",
+          "meaning": "merchants (heading of a roster of men)",
           "category": "personnel"
         }
       ],
@@ -11476,7 +11415,7 @@
       "contact_ref": null,
       "lexicon_ref": "RA-NA-TU-SU",
       "reading": "Rannatušu",
-      "meaning": "personal name, 'his shout of joy'; rival two names, RA-NA and TU-SU",
+      "meaning": "personal name, 'his shout of joy'",
       "frequency": 1,
       "attestations": [
         "PK1"
@@ -11512,7 +11451,7 @@
       "contact_ref": null,
       "lexicon_ref": "RA-O-DI-KI",
       "reading": "rāʿû diqqi",
-      "meaning": "herdsman of the small cattle (title, over a flock of 60); rival a personal name",
+      "meaning": "herdsman of the small cattle (title, over a flock of 60)",
       "frequency": 1,
       "attestations": [
         "PH2"
@@ -11548,7 +11487,7 @@
       "contact_ref": null,
       "lexicon_ref": "RA-TI-SE",
       "reading": "Ratis",
-      "meaning": "Ratis (Egyptian personal name rdj⸗s, the name RE-DI-SE), 'the one she has given'; rival Safaitic RDS 'Breaker'",
+      "meaning": "Ratis (Egyptian personal name rdj⸗s, the name RE-DI-SE), 'the one she has given'",
       "frequency": 1,
       "attestations": [
         "HT6b"
@@ -11607,7 +11546,7 @@
       "contact_ref": null,
       "lexicon_ref": "RA₂-RO-RE",
       "reading": "Lallor",
-      "meaning": "personal name, 'Mourner' (Akk. lallaru); rival Amorite Li-lu-ri",
+      "meaning": "personal name, 'Mourner' (Akk. lallaru)",
       "frequency": 1,
       "attestations": [
         "ZA10b"
@@ -11672,7 +11611,7 @@
       "contact_ref": null,
       "lexicon_ref": "RE-DI-SE",
       "reading": "Redis",
-      "meaning": "Redis (Egyptian personal name rdj⸗s), 'the one she has given'; rival Safaitic RDS 'Breaker'",
+      "meaning": "Redis (Egyptian personal name rdj⸗s), 'the one she has given'",
       "frequency": 1,
       "attestations": [
         "HT85b"
@@ -11960,7 +11899,7 @@
       "contact_ref": null,
       "lexicon_ref": "RI-TA-JE",
       "reading": "Lītāy",
-      "meaning": "(My) Might (personal name; lītu 'might, victory' + hypocoristic -āy); rival Rašiyya",
+      "meaning": "(My) Might (personal name; lītu 'might, victory' + hypocoristic -āy)",
       "frequency": 1,
       "attestations": [
         "KH6"
@@ -11982,7 +11921,7 @@
         {
           "word": "PI-SA",
           "reading": "Pīsa",
-          "meaning": "personal name, '(a bird)', Akk. būṣu; rival an institution; a recipient",
+          "meaning": "personal name, '(a bird)', Akk. būṣu",
           "category": "personal_name"
         },
         {
@@ -12089,7 +12028,7 @@
       "contact_ref": null,
       "lexicon_ref": "RO-KE",
       "reading": "rōqēaḥ",
-      "meaning": "perfumer (title); rival rōkēl 'trader, merchant'",
+      "meaning": "perfumer (title)",
       "frequency": 1,
       "attestations": [
         "HT98a"
@@ -12134,7 +12073,7 @@
           "distance": 0.1
         }
       ],
-      "note": "HT 98a .4 RO-KE ½, in a list of fractional issues (GORILA I 161). Ugarit rqḥ 'perfumer' (DULAT 734). See the lexicon entry."
+      "note": "HT 98a .4 RO-KE ½, in a list of fractional issues (GORILA I 161). Ugarit rqḥ 'perfumer' (DULAT 734). See the lexicon entry. Rival: rōkēl 'trader, merchant'."
     },
     {
       "token": "RU-JA-TA-DI",
@@ -12170,7 +12109,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "HT Wc 3008 face b, opposite WA · DI-NI (GORILA II 74): Ruya, the Ugaritic PN rwy (DULAT 738), with dādī 'my beloved', TA writing d as in ta-di-e for ddy (DULAT 264). Ruya stands alone on KN Wc 26. See the lexicon entries RU-JA-TA-DI and TA-DI."
+      "note": "HT Wc 3008 face b, opposite WA-DI-NI (GORILA II 74): Ruya, the Ugaritic PN rwy (DULAT 738), with dādī 'my beloved', TA writing d as in ta-di-e for ddy (DULAT 264). Ruya stands alone on KN Wc 26. See the lexicon entries RU-JA-TA-DI and TA-DI."
     },
     {
       "token": "RU-MA",
@@ -12272,7 +12211,7 @@
       "contact_ref": null,
       "lexicon_ref": "RU-SA",
       "reading": "Rusa",
-      "meaning": "personal name; compare Egyptian rw-sȝ, one of the 'names of Crete' on BM EA 5647; rival Egyptian Rs 'he who is awake'",
+      "meaning": "personal name; compare Egyptian rw-sȝ, one of the 'names of Crete' on BM EA 5647",
       "frequency": 1,
       "attestations": [
         "HT96a"
@@ -12331,7 +12270,7 @@
       "contact_ref": null,
       "lexicon_ref": "RU-ZU-NA",
       "reading": "rāzin(a)",
-      "meaning": "dignitary, prince (title of a recipient); rival a personal name",
+      "meaning": "dignitary, prince (title of a recipient)",
       "frequency": 1,
       "attestations": [
         "HT11b"
@@ -12439,7 +12378,7 @@
       "contact_ref": null,
       "lexicon_ref": "SA-DI",
       "reading": "šadī",
-      "meaning": "field worker, Ug. šdy 'land labourer' or 'weaver, spinner'; rival the personal name Šadī 'Country man'",
+      "meaning": "field worker, Ug. šdy 'land labourer' or 'weaver, spinner'",
       "frequency": 1,
       "attestations": [
         "HT111b"
@@ -12477,7 +12416,7 @@
           "distance": 1.0
         }
       ],
-      "note": "HT 111b .1 SA-DI 4[, the numeral broken after (GORILA I 181). Ugaritic šdy 'land labourer' (KTU 4.868:4; DULAT 799). See the lexicon entry."
+      "note": "HT 111b .1 SA-DI 4[, the numeral broken after (GORILA I 181). Ugaritic šdy 'land labourer' (KTU 4.868:4; DULAT 799). See the lexicon entry. Rival: the personal name Šadī 'Country man'."
     },
     {
       "token": "SA-QE-RI",
@@ -12550,7 +12489,7 @@
       "contact_ref": null,
       "lexicon_ref": "SA-RE-JU",
       "reading": "Šarr-ēlu",
-      "meaning": "personal name, 'El is king'; rival Hurrian Šar-elli",
+      "meaning": "personal name, 'El is king'",
       "frequency": 1,
       "attestations": [
         "HT20"
@@ -12586,7 +12525,7 @@
       "contact_ref": null,
       "lexicon_ref": "SA-TA",
       "reading": "Šata",
-      "meaning": "Šata (personal name, heading the second section); rival śadā '(those of) the field'",
+      "meaning": "Šata (personal name, heading the second section)",
       "frequency": 1,
       "attestations": [
         "HT117a"
@@ -12608,7 +12547,7 @@
         {
           "word": "MA-KA-RI-TE",
           "reading": "makkārītu",
-          "meaning": "merchants (heading of a roster of men); rival 'red (wool)'",
+          "meaning": "merchants (heading of a roster of men)",
           "category": "personnel"
         },
         {
@@ -12653,7 +12592,7 @@
       "contact_ref": null,
       "lexicon_ref": "SE-KU-TU",
       "reading": "Šakūtu",
-      "meaning": "personal name, 'Calm, at rest'; rival Zakūtu 'pure, innocent'",
+      "meaning": "personal name, 'Calm, at rest'",
       "frequency": 1,
       "attestations": [
         "HT115a"
@@ -12675,7 +12614,7 @@
         {
           "word": "*301-U-RA",
           "reading": "naura",
-          "meaning": "light, radiance (personal name or epithet)",
+          "meaning": "Bright (personal name)",
           "category": "personal_name"
         }
       ],
@@ -12712,7 +12651,7 @@
       "contact_ref": null,
       "lexicon_ref": "SE-SA-PA₃",
       "reading": "Zizapa",
-      "meaning": "Zizapa (Hurrian personal name), ziz- 'chest'; rival Amorite ʿIziz-ab",
+      "meaning": "Zizapa (Hurrian personal name), ziz- 'chest'",
       "frequency": 1,
       "attestations": [
         "PH2"
@@ -12748,7 +12687,7 @@
       "contact_ref": null,
       "lexicon_ref": "SE-TO-I-JA",
       "reading": "Ṣētiya",
-      "meaning": "the Eastern (place), a central Cretan toponym; rivals the epithet 'she of the East' and a pre-Greek toponym Setoiya",
+      "meaning": "the Eastern (place), a central Cretan toponym",
       "frequency": 1,
       "attestations": [
         "PRZa1"
@@ -12781,7 +12720,7 @@
           "distance": 1.0
         }
       ],
-      "note": "Ṣētiya 'the Eastern (one)', √y-ṣ-ʾ (K0448): ṣēt 'the East' with the gentilic -iya; cf. SI-TE Ṣīt.",
+      "note": "Ṣētiya 'the Eastern (one)', √y-ṣ-ʾ (K0448): ṣēt 'the East' with the gentilic -iya; cf. SI-TE Ṣīt. Rivals: the epithet 'she of the East' and a pre-Greek toponym Setoiya.",
       "linear_b_comparanda": "Exact Linear B continuity: se-to-i-ja, 17 KN documents (livestock, military equipment)—a major LB Cretan toponym with no Greek etymology."
     },
     {
@@ -12868,7 +12807,7 @@
       "contact_ref": null,
       "lexicon_ref": "SI-DI-*301",
       "reading": "Ṣidna",
-      "meaning": "Sidon (place name); rival Ṣīd-nā 'our Ṣid'",
+      "meaning": "Sidon (place name)",
       "frequency": 1,
       "attestations": [
         "KNZf13"
@@ -12893,7 +12832,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "KN Zf 13, signs 4–6 of the gold ring's spiral, after A-RE-NE ʾAren: 'Aren of Sidon'; rival 'Ark of Sidon'. DI a dead vowel, Ṣidn-a; the -a is Sidon's own spelling, ᵘʳᵘṢi₂-du-na (EA 144:5, 11; RGTC 12/2, 248); Ugaritic ṣdyn /Ṣidyān/ (DULAT 769). See the lexicon entry."
+      "note": "KN Zf 13, signs 4–6 of the gold ring's spiral, after A-RE-NE ʾAren: 'Aren of Sidon'; rival 'Ark of Sidon'. DI a dead vowel, Ṣidn-a; the -a is Sidon's own spelling, ᵘʳᵘṢi₂-du-na (EA 144:5, 11; RGTC 12/2, 248); Ugaritic ṣdyn /Ṣidyān/ (DULAT 769). See the lexicon entry. Rival: Ṣīd-nā 'our Ṣid'."
     },
     {
       "token": "SI-KI-NE",
@@ -13049,10 +12988,10 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_06581",
       "lexicon_ref": "SU-PU₂",
       "reading": "Ṣubʾu",
-      "meaning": "Ṣubʾu (personal name); rival ṣābu 'workers, troop'",
+      "meaning": "Ṣubʾu (personal name)",
       "frequency": 1,
       "attestations": [
         "HT63"
@@ -13160,7 +13099,7 @@
       "contact_ref": null,
       "lexicon_ref": "TA-NA-TE",
       "reading": "Tanāt",
-      "meaning": "Tanāt, a variant of Tinit, the goddess TNT, feminine of √t-n-n 'sea-dragon'; rival a form of A-TA-NA-TE ʾAtanat",
+      "meaning": "Tanāt, a variant of Tinit, the goddess TNT, feminine of √t-n-n 'sea-dragon'",
       "frequency": 1,
       "attestations": [
         "ZA10a"
@@ -13182,7 +13121,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "Tanāt (√t-n-n), a variant of Tinit (TI-NI-TA), the goddess TNT; ZA 10a lists A-TA-NA-TE ʾAtanat as a separate entry."
+      "note": "Tanāt (√t-n-n), a variant of Tinit (TI-NI-TA), the goddess TNT; ZA 10a lists A-TA-NA-TE ʾAtanat as a separate entry. Rival: a form of A-TA-NA-TE ʾAtanat."
     },
     {
       "token": "TA-RI-NA",
@@ -13196,7 +13135,7 @@
       "contact_ref": null,
       "lexicon_ref": "TA-RI-NA",
       "reading": "Tarinna",
-      "meaning": "Tarinna (Hurrian personal name), stem tarinn-; rivals trn 'mast' and the name trn 'Bearded'",
+      "meaning": "Tarinna (Hurrian personal name), stem tarinn-",
       "frequency": 1,
       "attestations": [
         "HT10b"
@@ -13218,7 +13157,7 @@
         {
           "word": "DA-RE",
           "reading": "dār",
-          "meaning": "estate, household (a unit receiving men and grain); rival 'kin group, clan'",
+          "meaning": "estate, household (a unit receiving men and grain)",
           "category": "administrative"
         }
       ],
@@ -13241,7 +13180,7 @@
           "distance": 1.0
         }
       ],
-      "note": "Tarinna: Tarinnam, ta-ri-nam, tarinn(i)=a=m(e/a) (VHN 299; Monti 2017, 351); Tarinam at Šemšara (Monti 2017, 413); Tarinze (Monti 2017, 301). Rival: Ugaritic trn 'mast' (semitic_roots no. 2979)."
+      "note": "Tarinna: Tarinnam, ta-ri-nam, tarinn(i)=a=m(e/a) (VHN 299; Monti 2017, 351); Tarinam at Šemšara (Monti 2017, 413); Tarinze (Monti 2017, 301). Rival: Ugaritic trn 'mast' (semitic_roots no. 2979). Rival: the name trn 'Bearded'."
     },
     {
       "token": "TA-TA",
@@ -13255,7 +13194,7 @@
       "contact_ref": null,
       "lexicon_ref": "TA-TA",
       "reading": "Tatta",
-      "meaning": "Tatta (Hurrian personal name), stem tatt-; rival the Anatolian name Tata",
+      "meaning": "Tatta (Hurrian personal name), stem tatt-",
       "frequency": 1,
       "attestations": [
         "KH7a"
@@ -13436,7 +13375,7 @@
         {
           "word": "DA-RE",
           "reading": "dār",
-          "meaning": "estate, household (a unit receiving men and grain); rival 'kin group, clan'",
+          "meaning": "estate, household (a unit receiving men and grain)",
           "category": "administrative"
         },
         {
@@ -13534,7 +13473,7 @@
       "contact_ref": null,
       "lexicon_ref": "TI-NU-JA",
       "reading": "Ṯinuya",
-      "meaning": "personal name, 'Second(-born)'; rival Dīnuya",
+      "meaning": "personal name, 'Second(-born)'",
       "frequency": 1,
       "attestations": [
         "HT115b"
@@ -13593,7 +13532,7 @@
       "contact_ref": null,
       "lexicon_ref": "A-PA₃-DI",
       "reading": "ʿAbdī",
-      "meaning": "personal name, ʿAbdī 'my servant'; rival the head of an ʿAbdi-DN name",
+      "meaning": "personal name, ʿAbdī 'my servant'",
       "frequency": 1,
       "attestations": [
         "PKZb26"
@@ -13615,7 +13554,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "PK Zb 26, a pithos sherd written retrograde, A-PA₃-DI[ broken after DI (Younger, Linear A Texts). ʿAbdī, as the Ugaritic PN ʕbdy (DULAT 141), or the head of an ʿAbdi-DN name. See the lexicon entry A-PA₃-DI."
+      "note": "PK Zb 26, a pithos sherd written retrograde, A-PA₃-DI[ broken after DI (Younger, Linear A Texts). ʿAbdī, as the Ugaritic PN ʕbdy (DULAT 141), or the head of an ʿAbdi-DN name. See the lexicon entry A-PA₃-DI. Rival: the head of an ʿAbdi-DN name."
     },
     {
       "token": "TU-JU-MA",
@@ -13629,7 +13568,7 @@
       "contact_ref": "heb:tbesh:H5956",
       "lexicon_ref": "TU-JU-MA",
       "reading": "Tuʿluma",
-      "meaning": "personal name, 'hidden one'; rival Hurrian talm- 'great' (Talimmu, a merchant's name at Ugarit)",
+      "meaning": "personal name, 'hidden one'",
       "frequency": 1,
       "attestations": [
         "HT117a"
@@ -13651,7 +13590,7 @@
         {
           "word": "MA-KA-RI-TE",
           "reading": "makkārītu",
-          "meaning": "merchants (heading of a roster of men); rival 'red (wool)'",
+          "meaning": "merchants (heading of a roster of men)",
           "category": "personnel"
         },
         {
@@ -13698,7 +13637,7 @@
           "distance": 0.1
         }
       ],
-      "note": ""
+      "note": "Rival: Hurrian talm- 'great' (Talimmu, a merchant's name at Ugarit)."
     },
     {
       "token": "TU-MA",
@@ -13709,7 +13648,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "CANDIDATE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_06114",
       "lexicon_ref": "TU-MA",
       "reading": "tūma",
       "meaning": "twin—birth-circumstance personal name from √t-ʾ-m",
@@ -14084,7 +14023,7 @@
         {
           "word": "MA-KA-RI-TE",
           "reading": "makkārītu",
-          "meaning": "merchants (heading of a roster of men); rival 'red (wool)'",
+          "meaning": "merchants (heading of a roster of men)",
           "category": "personnel"
         },
         {
@@ -14219,7 +14158,7 @@
         {
           "word": "JA-SA-SA-RA-ME",
           "reading": "yaššaram",
-          "meaning": "in righteousness (adverbial accusative in -am of √y-š-r; also 'righteously'); rival: substantivized \"the upright/proper [thing]\" in an object slot. Polysemic layer: masculine divine name Yasharam (Akk. Mīšarum, Phoen. Misor)",
+          "meaning": "in righteousness (adverbial accusative in -am of √y-š-r; also 'righteously')",
           "category": "ritual"
         }
       ],
@@ -14314,7 +14253,7 @@
         {
           "word": "MA-KA-RI-TE",
           "reading": "makkārītu",
-          "meaning": "merchants (heading of a roster of men); rival 'red (wool)'",
+          "meaning": "merchants (heading of a roster of men)",
           "category": "personnel"
         },
         {
@@ -14359,7 +14298,7 @@
       "contact_ref": null,
       "lexicon_ref": "U-TA-I-SE",
       "reading": "ʿUtay-se",
-      "meaning": "personal name: ʿUtay with the -SE suffix, a recipient of cyperus; rival a Cretan name of another language (LB u-ta-jo)",
+      "meaning": "personal name: ʿUtay with the -SE suffix, a recipient of cyperus",
       "frequency": 1,
       "attestations": [
         "KH7b"
@@ -14395,7 +14334,7 @@
       "contact_ref": null,
       "lexicon_ref": "U-TI",
       "reading": "Utti",
-      "meaning": "Utti (Hurrian personal name), stem utt-; rival the Anatolian name Utti",
+      "meaning": "Utti (Hurrian personal name), stem utt-",
       "frequency": 1,
       "attestations": [
         "HT10b"
@@ -14417,7 +14356,7 @@
         {
           "word": "DA-RE",
           "reading": "dār",
-          "meaning": "estate, household (a unit receiving men and grain); rival 'kin group, clan'",
+          "meaning": "estate, household (a unit receiving men and grain)",
           "category": "administrative"
         }
       ],
@@ -14440,7 +14379,7 @@
           "distance": 0.1
         }
       ],
-      "note": "HT 10b .1 U-TI 1, first entry, before DA-RE 2 and TA-RI-NA 15 (GORILA I 21). Utti, as Alalakh Ú-ti (AlT 414.7,17; Niedorf 2008, 309) and Nuzi Uttija, var. Ú-ti-ia (NPN 169). See the lexicon entry U-TI."
+      "note": "HT 10b .1 U-TI 1, first entry, before DA-RE 2 and TA-RI-NA 15 (GORILA I 21). Utti, as Alalakh Ú-ti (AlT 414.7,17; Niedorf 2008, 309) and Nuzi Uttija, var. Ú-ti-ia (NPN 169). See the lexicon entry U-TI. Rival: the Anatolian name Utti."
     },
     {
       "token": "WA-O-MI",
@@ -14580,13 +14519,13 @@
         {
           "word": "A-RA-U-DA",
           "reading": "ʾArwada",
-          "meaning": "Arwad (island city of the Phoenician coast), the home of the man named before it; rival a personal name, Ugaritic ảrwd(n)",
+          "meaning": "Arwad (island city of the Phoenician coast), the home of the man named before it",
           "category": "toponym"
         },
         {
           "word": "KU-PA-ZU",
           "reading": "Kapizzi",
-          "meaning": "Kapizzi (Hurrian personal name), 'kapizzi-jewel'; rival kupṯu 'headdress'",
+          "meaning": "Kapizzi (Hurrian personal name), 'kapizzi-jewel'",
           "category": "personal_name"
         }
       ],
@@ -14636,7 +14575,7 @@
         {
           "word": "JA-SA-SA-RA-ME",
           "reading": "yaššaram",
-          "meaning": "in righteousness (adverbial accusative in -am of √y-š-r; also 'righteously'); rival: substantivized \"the upright/proper [thing]\" in an object slot. Polysemic layer: masculine divine name Yasharam (Akk. Mīšarum, Phoen. Misor)",
+          "meaning": "in righteousness (adverbial accusative in -am of √y-š-r; also 'righteously')",
           "category": "ritual"
         }
       ],
@@ -14693,7 +14632,7 @@
       "contact_ref": null,
       "lexicon_ref": "ZU-*301",
       "reading": "ṯannān ṣēd ḥiṭṭa",
-      "meaning": "the chariot soldiers: provision of wheat; rival a name ZU-*301-SE-DE",
+      "meaning": "the chariot soldiers: provision of wheat",
       "frequency": 1,
       "attestations": [
         "ARKH2"
@@ -14745,7 +14684,7 @@
       "contact_ref": null,
       "lexicon_ref": "ZU-JU-PU₂",
       "reading": "ṯulpu",
-      "meaning": "flute; here the flute-player, the trade of TU-QE-NU Tuqnu; rival Hurrian Tulbiya",
+      "meaning": "flute; here the flute-player, the trade of TU-QE-NU Tuqnu",
       "frequency": 1,
       "attestations": [
         "HT25a"
@@ -14972,7 +14911,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "CANDIDATE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_05848",
       "lexicon_ref": "SA-RA₂",
       "reading": "šarra",
       "meaning": "queen/princess; by metonymy the queen's or royal establishment (recipient/institutional heading)",
@@ -15113,7 +15052,7 @@
       "contact_ref": null,
       "lexicon_ref": "DA-KI-TI",
       "reading": "Daqqiti",
-      "meaning": "of Daqqitu, the goddess to whom the incense is offered; rival daqqati 'fine (powder)'",
+      "meaning": "of Daqqitu, the goddess to whom the incense is offered",
       "frequency": 1,
       "attestations": [
         "KNZc6"
@@ -15141,7 +15080,7 @@
         {
           "word": "A-DI",
           "reading": "ʿadi",
-          "meaning": "unto, as far as (preposition); rival 'until'",
+          "meaning": "unto, as far as (preposition)",
           "category": "particle"
         },
         {
@@ -15153,7 +15092,7 @@
         {
           "word": "NI-JA-NU",
           "reading": "niyāḥ-nu",
-          "meaning": "our soothing (offering), of the incense; rivals a personal name, NI 'figs' with JA-NU 'wine'",
+          "meaning": "our soothing (offering), of the incense",
           "category": "noun"
         }
       ],
@@ -15249,7 +15188,7 @@
       "contact_ref": null,
       "lexicon_ref": "NA-DA-RE",
       "reading": "Nadr",
-      "meaning": "personal name, 'Vow' (√n-d-r); rival Egyptian PN 'of-the-hand-of-Re'",
+      "meaning": "personal name, 'Vow' (√n-d-r)",
       "frequency": 1,
       "attestations": [
         "HT117a"
@@ -15319,7 +15258,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "CANDIDATE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_05123",
       "lexicon_ref": "PA-NA-TU",
       "reading": "banātu / panātu / (Ku)bānatu",
       "meaning": "daughters (fem. pl.)",
@@ -15358,7 +15297,7 @@
       "contact_ref": null,
       "lexicon_ref": "I-RA₂",
       "reading": "ʾilā(t)",
-      "meaning": "goddess; rival ʾila 'god'",
+      "meaning": "goddess",
       "frequency": 8,
       "attestations": [
         "HTWa1006",
@@ -15757,7 +15696,7 @@
       "contact_ref": null,
       "lexicon_ref": "TA-NI-KA",
       "reading": "Taʿnaku",
-      "meaning": "Taanach (place name); rival a personal name",
+      "meaning": "Taanach (place name)",
       "frequency": 2,
       "attestations": [
         "HTWc3004",
@@ -15775,11 +15714,11 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "Roundel label at Haghia Triada (HT Wc 3004, 3005). Amarna URU Taḫnaka, EA 248:14 (Moran 1992); Hebrew תַּעְנַךְ Taʿnak, t-ʿ-n-k with ʿ unwritten; NI against the a of Taʿnak. Place-name function on roundels unproved."
+      "note": "Roundel label at Haghia Triada (HT Wc 3004, 3005). Amarna URU Taḫnaka, EA 248:14 (Moran 1992); Hebrew תַּעְנַךְ Taʿnak, t-ʿ-n-k with ʿ unwritten; NI against the a of Taʿnak. Place-name function on roundels unproved. Rival: a personal name."
     },
     {
-      "token": "DI-NI",
-      "normalized": "dini",
+      "token": "WA-DI-NI",
+      "normalized": "wadini",
       "type": "personal_name",
       "type_confidence": "SPECULATIVE",
       "affiliation": "semitic",
@@ -15787,9 +15726,9 @@
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
-      "lexicon_ref": "DI-NI",
-      "reading": "Dīnī",
-      "meaning": "personal name, 'My judgment' (short form of a √d-y-n name)",
+      "lexicon_ref": "WA-DI-NI",
+      "reading": "Waḏnī",
+      "meaning": "personal name, as Ugaritic wḏny",
       "frequency": 2,
       "attestations": [
         "HTWc3007",
@@ -15807,7 +15746,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "Dīnī 'My judgment', as Alalakh Dīnī-Haddu (Gelb no. 1513); after the cloth sign WA on two roundels (GORILA II 74 prints WA · DI-NI)."
+      "note": "Waḏnī, as the Ugarit name wḏny, of unknown meaning (KTU 4.763:10; Watson 1990, 118); one word on two roundels, WA drawn square as inside a word (GORILA II 74). Rival: WA · DI-NI, cloth and Dīnī 'My judgment', after the point GORILA's transcription prints on HT Wc 3008."
     },
     {
       "token": "JE-TA-NA",
@@ -15994,7 +15933,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "CANDIDATE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_05941",
       "lexicon_ref": "SI-MA",
       "reading": "Šima",
       "meaning": "šima 'name of' (common noun in construct); also the personal name Šima, Shem, 'Name, Renown'",
@@ -16141,7 +16080,7 @@
       "contact_ref": null,
       "lexicon_ref": "QA-TI-DA-TE",
       "reading": "Kati-tati",
-      "meaning": "Kati-tati (Hurrian personal name); rival katītat 'beaten (oil)'",
+      "meaning": "Kati-tati (Hurrian personal name)",
       "frequency": 1,
       "attestations": [
         "HT12"
@@ -16213,7 +16152,7 @@
       "contact_ref": null,
       "lexicon_ref": "KA-U-DE-TA",
       "reading": "Kaw-tatta",
-      "meaning": "Kaw-tatta (Hurrian personal name), kaw- + tatt- 'love'; rival Ugaritic PN kwt",
+      "meaning": "Kaw-tatta (Hurrian personal name), kaw- + tatt- 'love'",
       "frequency": 1,
       "attestations": [
         "HT13"
@@ -16249,7 +16188,7 @@
       "contact_ref": null,
       "lexicon_ref": "KA-U-ZU-NI",
       "reading": "Kawṯuni",
-      "meaning": "Kawṯuni (Hurrian personal name Kaw-šuni); rival Kawṯān, Heb. Kûšān",
+      "meaning": "Kawṯuni (Hurrian personal name Kaw-šuni)",
       "frequency": 1,
       "attestations": [
         "HT26b"
@@ -16285,7 +16224,7 @@
       "contact_ref": null,
       "lexicon_ref": "TI-MA-RU-WI-TE",
       "reading": "Tīmar-luwwīt",
-      "meaning": "Timar the Levite (f.), priestess (woman's name and title); rival Tamar + WI-TE",
+      "meaning": "Timar the Levite (f.), priestess (woman's name and title)",
       "frequency": 1,
       "attestations": [
         "PYR1"
@@ -16321,7 +16260,7 @@
       "contact_ref": "am_gelb_g_00704",
       "lexicon_ref": "KI-RI-SI",
       "reading": "Kiriš",
-      "meaning": "Kiriš, the god of the Amorite names, as oil recipient; rivals Hurrian Kiriš and a personal name",
+      "meaning": "Kiriš, the god of the Amorite names, as oil recipient",
       "frequency": 1,
       "attestations": [
         "TY3b"
@@ -16502,7 +16441,7 @@
       "contact_ref": null,
       "lexicon_ref": "WI-SA-SA-NE",
       "reading": "Wiššān",
-      "meaning": "Sleepy (personal name); rival √y-š-š 'aged'",
+      "meaning": "Sleepy (personal name)",
       "frequency": 1,
       "attestations": [
         "KH5"
@@ -16538,7 +16477,7 @@
       "contact_ref": null,
       "lexicon_ref": "A-MA-JA",
       "reading": "ʿAmmaya",
-      "meaning": "(Little) kinsman (personal name, hypocoristic); rival ʾAmaya 'maidservant'",
+      "meaning": "(Little) kinsman (personal name, hypocoristic)",
       "frequency": 1,
       "attestations": [
         "KH14"
@@ -16605,7 +16544,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_01409",
       "lexicon_ref": "DA-I-PI-TA",
       "reading": "Ṭayyibat",
       "meaning": "Good (f.) (personal name)",
@@ -16790,10 +16729,10 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_03828",
       "lexicon_ref": "I-TI-NI-SA",
       "reading": "ʾItniša",
-      "meaning": "ʾItniša (personal name), the Mari name IT-NU-ŠA; rival ʾitnī-ša 'her gift (portion)'",
+      "meaning": "ʾItniša (personal name), the Mari name IT-NU-ŠA",
       "frequency": 1,
       "attestations": [
         "ZA15a"
@@ -16899,10 +16838,10 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_05893",
       "lexicon_ref": "SI-MI-TA",
       "reading": "Śīmat",
-      "meaning": "personal name (f.), on √ś-y-m 'to place, fix'; rival Šimʿat",
+      "meaning": "personal name (f.), on √ś-y-m 'to place, fix'",
       "frequency": 1,
       "attestations": [
         "HT96a"
@@ -16991,7 +16930,7 @@
       "contact_ref": "ug_dulat_0842",
       "lexicon_ref": "ZU-DI-RA",
       "reading": "ṯudira",
-      "meaning": "waitress, girl (Ug. ṯdr, a Hurro-Hittite loan from šiduri); rival the name Šituri",
+      "meaning": "waitress, girl (Ug. ṯdr, a Hurro-Hittite loan from šiduri)",
       "frequency": 2,
       "attestations": [
         "HTWc3011",
@@ -17028,7 +16967,7 @@
       "contact_ref": null,
       "lexicon_ref": "A-SI-KI-RA",
       "reading": "ha-Śikira",
-      "meaning": "personal name, 'the Hired' (article ha- + SI-KI-RA); rival haśkira 'he rewarded'",
+      "meaning": "personal name, 'the Hired' (article ha- + SI-KI-RA)",
       "frequency": 1,
       "attestations": [
         "KH20"
@@ -17062,7 +17001,7 @@
       "contact_ref": null,
       "lexicon_ref": "PI-SA",
       "reading": "Pīsa",
-      "meaning": "personal name, '(a bird)', Akk. būṣu; rival an institution; a recipient",
+      "meaning": "personal name, '(a bird)', Akk. būṣu",
       "frequency": 2,
       "attestations": [
         "HT123+124b",
@@ -17255,10 +17194,10 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_05400",
       "lexicon_ref": "SI-KI-RA",
       "reading": "Śikira",
-      "meaning": "personal name, 'Hired' (√ś-k-r 'to hire'); rival šēkār 'strong drink'",
+      "meaning": "personal name, 'Hired' (√ś-k-r 'to hire')",
       "frequency": 1,
       "attestations": [
         "HT8a"
@@ -17330,7 +17269,7 @@
       "contact_ref": null,
       "lexicon_ref": "MA-RU",
       "reading": "Maruʾ",
-      "meaning": "Fattened (personal name), the bare stem of the Amorite MARUʾ- names; rival Maru 'Wool'",
+      "meaning": "Fattened (personal name), the bare stem of the Amorite MARUʾ- names",
       "frequency": 1,
       "attestations": [
         "HT117a"
@@ -17366,7 +17305,7 @@
       "contact_ref": null,
       "lexicon_ref": "TE-JA-RE",
       "reading": "Teyar",
-      "meaning": "personal name, 'Merciful (god)'; rival tayyār 'trader'",
+      "meaning": "personal name, 'Merciful (god)'",
       "frequency": 1,
       "attestations": [
         "HT117a"
@@ -17402,7 +17341,7 @@
       "contact_ref": null,
       "lexicon_ref": "KO-SA-I-TI",
       "reading": "Kōšayīt",
-      "meaning": "the Kushite woman (origin label); rival kusītu 'robe'",
+      "meaning": "the Kushite woman (origin label)",
       "frequency": 1,
       "attestations": [
         "HT117a"
@@ -17435,7 +17374,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "CANDIDATE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_06027",
       "lexicon_ref": "TO-MA-RO",
       "reading": "Tōmar",
       "meaning": "personal name, 'palm'",
@@ -17469,7 +17408,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_02196",
       "lexicon_ref": "A-SE-JA",
       "reading": "Āsīya",
       "meaning": "Asīya, personal name, '(DN is) my physician'",
@@ -17794,7 +17733,7 @@
         {
           "word": "A-MA-WA-SI",
           "reading": "ʿAmma-wāṣiʾ",
-          "meaning": "the Kinsman who comes forth (El epithet); rival 'Strong One'",
+          "meaning": "the Kinsman who comes forth (El epithet)",
           "category": "divine"
         },
         {
@@ -17974,7 +17913,7 @@
         {
           "word": "DI-RI-NA",
           "reading": "dīr-īna",
-          "meaning": "households, granaries (grain recipient); rivals the Amorite place name Dīr, a personal name",
+          "meaning": "households, granaries (grain recipient)",
           "category": "administrative"
         }
       ],
@@ -18077,7 +18016,7 @@
         {
           "word": "KA-U-ZU-NI",
           "reading": "Kawṯuni",
-          "meaning": "Kawṯuni (Hurrian personal name Kaw-šuni); rival Kawṯān, Heb. Kûšān",
+          "meaning": "Kawṯuni (Hurrian personal name Kaw-šuni)",
           "category": "personal_name"
         }
       ],
@@ -18118,7 +18057,7 @@
         {
           "word": "I-DU-TI",
           "reading": "Yidu-ti",
-          "meaning": "entity name: yidu 'strength' with TI",
+          "meaning": "the name Yidu 'strength' with TI: a partner's share of 20½",
           "category": "personal_name"
         },
         {
@@ -18142,7 +18081,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "CANDIDATE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_00377",
       "lexicon_ref": "A-RI-SU",
       "reading": "ḥārišu",
       "meaning": "the craftsman, artisan (title)",
@@ -18167,7 +18106,7 @@
         {
           "word": "MA-DI",
           "reading": "Maʾdi",
-          "meaning": "place name: a unit of men and livestock in the HT rosters; rival the Hurrian personal name Madi 'wisdom'",
+          "meaning": "place name: a unit of men and livestock in the HT rosters",
           "category": "toponym"
         },
         {
@@ -18223,7 +18162,7 @@
         {
           "word": "RA-TI-SE",
           "reading": "Ratis",
-          "meaning": "Ratis (Egyptian personal name rdj⸗s, the name RE-DI-SE), 'the one she has given'; rival Safaitic RDS 'Breaker'",
+          "meaning": "Ratis (Egyptian personal name rdj⸗s, the name RE-DI-SE), 'the one she has given'",
           "category": "personal_name"
         },
         {
@@ -18235,7 +18174,7 @@
         {
           "word": "DU-DA-MA",
           "reading": "Dūdāma",
-          "meaning": "Beloved (personal name, √d-w-d + -ma); rival the Aegean name of the Keftiu board and Linear B di-du-me",
+          "meaning": "Beloved (personal name, √d-w-d + -ma)",
           "category": "personal_name"
         }
       ],
@@ -18288,7 +18227,7 @@
         {
           "word": "KI-RA",
           "reading": "kirû",
-          "meaning": "garden, orchard; rival qīru 'hot bitumen'",
+          "meaning": "garden, orchard",
           "category": "administrative"
         }
       ],
@@ -18309,7 +18248,7 @@
       "contact_ref": null,
       "lexicon_ref": "TA-RA",
       "reading": "ṯa(ġ)ra",
-      "meaning": "gatekeepers (of the sanctuary); rival Akkadian tārû 'child-minder'",
+      "meaning": "gatekeepers (of the sanctuary)",
       "frequency": 1,
       "attestations": [
         "HT89"
@@ -18345,7 +18284,7 @@
       "contact_ref": null,
       "lexicon_ref": "MA-I-MI",
       "reading": "mayimi",
-      "meaning": "water(-men), water-drawers of the sanctuary; rival Anatolian 'grown-ups'",
+      "meaning": "water(-men), water-drawers of the sanctuary",
       "frequency": 1,
       "attestations": [
         "HT89"
@@ -18381,7 +18320,7 @@
       "contact_ref": null,
       "lexicon_ref": "DA-QE-RA",
       "reading": "ḏā-Qīra",
-      "meaning": "the (district) of Qīr, the walled town; heading opposite KA-PA 'village'; rival diqāru 'bowl'",
+      "meaning": "the (district) of Qīr, the walled town; heading opposite KA-PA 'village'",
       "frequency": 3,
       "attestations": [
         "HT6a",
@@ -18419,7 +18358,7 @@
       "contact_ref": null,
       "lexicon_ref": "RU-NI",
       "reading": "Runni",
-      "meaning": "personal name, 'Jubilation'; rival 'the crier', Dīnāyu's trade",
+      "meaning": "personal name, 'Jubilation'",
       "frequency": 1,
       "attestations": [
         "HT25a"
@@ -18513,6 +18452,152 @@
       "bucket": "onomastic",
       "weak_cognates": [],
       "note": "MI Zb 1, the one word incised on the base of a clay vase from Melos (GORILA IV 91). Kirru: Ugaritic krr, a man's name, ki-ri-ri (DULAT 452). Weak point: three syllables there against two here. Rivals: Akkadian kirru 'large vessel', Hebrew kiyyôr 'basin'. See the lexicon entry."
+    },
+    {
+      "token": "I-DU-WI",
+      "normalized": "iduwi",
+      "type": "personal_name",
+      "type_confidence": "SPECULATIVE",
+      "affiliation": "semitic",
+      "language_family": "Semitic",
+      "affiliation_confidence": "SPECULATIVE",
+      "affiliation_evidence": "lexicon_reading",
+      "contact_ref": null,
+      "lexicon_ref": "I-DU-WI",
+      "reading": "Yaduwi",
+      "meaning": "personal name, the Ugarit name Yaduwa",
+      "frequency": 1,
+      "attestations": [
+        "MA1a"
+      ],
+      "sites": [
+        "Malia"
+      ],
+      "cross_site": false,
+      "genre_supports": {
+        "3-sided bar": 1
+      },
+      "position_summary": {
+        "follows": {},
+        "heads_document": 1
+      },
+      "co_occurring_known": [
+        {
+          "word": "QE-DE-MI-NU",
+          "reading": "Qēdmīnu",
+          "meaning": "personal name",
+          "category": "personal_name"
+        }
+      ],
+      "provenance": "manual",
+      "bucket": "onomastic",
+      "weak_cognates": [],
+      "note": "MA 1a I-DU-WI · *47 · QE-DE-MI-NU, 'Yaduwi, he of Qēdmīnu' (GORILA I 268–269). Ugarit writes the name ia-du-PI and ydy (DULAT 945; Kinlaw 1967, 128; Watson 1996, 99). Rival: yidu 'strength' with WI an ending. One witness. See the lexicon entry."
+    },
+    {
+      "token": "PA-RO-SU-TI",
+      "normalized": "parosuti",
+      "type": "personal_name",
+      "type_confidence": "SPECULATIVE",
+      "affiliation": "semitic",
+      "language_family": "Semitic",
+      "affiliation_confidence": "SPECULATIVE",
+      "affiliation_evidence": "lexicon_reading",
+      "contact_ref": null,
+      "lexicon_ref": "PA-RO-SU-TI",
+      "reading": "Parʿōš-ti",
+      "meaning": "the name Parʿōš 'Flea' with TI: a partner's share of 29",
+      "frequency": 1,
+      "attestations": [
+        "HT104"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "genre_supports": {
+        "Tablet": 1
+      },
+      "position_summary": {
+        "follows": {
+          "numeral": 1
+        },
+        "heads_document": 0
+      },
+      "co_occurring_known": [
+        {
+          "word": "KU-RO",
+          "reading": "kull",
+          "meaning": "total, sum (accounting term)",
+          "category": "vocabulary"
+        }
+      ],
+      "provenance": "manual",
+      "bucket": "onomastic",
+      "weak_cognates": [],
+      "note": "HT 104 PA-RO-SU-TI 29, the third partner under TA-PA, the corrected reading of GORILA's PA-DA-SU-TI, all four signs dotted and PA-RO not excluded (I 171); Schoep reads PA-RO-SU-TI (2002, 47). The name is the PA-RO-SU of HT 20, Parʿōš, with TI after it as after the other two partners. See PA-RO-SU."
+    },
+    {
+      "token": "JA-DI-KI-TE-TE",
+      "normalized": "jadikitete",
+      "type": "theonym",
+      "type_confidence": "PROBABLE",
+      "affiliation": "semitic",
+      "language_family": "Semitic",
+      "affiliation_confidence": "PROBABLE",
+      "affiliation_evidence": "lexicon_reading",
+      "contact_ref": null,
+      "lexicon_ref": "JA-DI-KI-TE-TE",
+      "reading": "yā Diqqitet",
+      "meaning": "O Diktaean (f.), the feminine nisbe of Dikte",
+      "frequency": 2,
+      "attestations": [
+        "PKZa8",
+        "PKZa15"
+      ],
+      "sites": [
+        "Palaikastro"
+      ],
+      "cross_site": false,
+      "genre_supports": {
+        "Stone vessel": 2
+      },
+      "position_summary": {
+        "follows": {
+          "separator": 2
+        },
+        "heads_document": 0
+      },
+      "co_occurring_known": [
+        {
+          "word": "DU-PU₂-RE",
+          "reading": "dubur",
+          "meaning": "sanctuary, inner sanctum (dubur)",
+          "category": "ritual"
+        },
+        {
+          "word": "PA₃-E",
+          "reading": "bē",
+          "meaning": "in, at (preposition)",
+          "category": "particle"
+        },
+        {
+          "word": "TU-ME-I",
+          "reading": "tummī",
+          "meaning": "my wholeness, my completeness (noun *tumm- + 1cs -ī)",
+          "category": "ritual"
+        },
+        {
+          "word": "U-NA-KA-NA-SI",
+          "reading": "wannā kanāsī / winnā kanāsī",
+          "meaning": "So, behold my gathering! (conjunction + presentative + G verbal noun kanāsī + 1cs -ī)",
+          "category": "ritual"
+        }
+      ],
+      "provenance": "manual",
+      "bucket": "onomastic",
+      "weak_cognates": [],
+      "note": "PK Za 8 JA-DI-KI-TE-TE-*307-PU₂-RE and PK Za 15 JA-DI-KI-TE-TE-DU-PU₂-RE, one group with dubur each time (GORILA IV 41). JA- and A- spell the one vocative yā: Palaikastro writes JA-DI-KI-TE-TE on PK Za 8 and PK Za 15 and A-DI-KI-TE-TE on PK Za 11 and PK Za 12, the same name before the same dubur, and PK Za 11 writes A-SA-SA-RA-ME for JA-SA-SA-RA-ME as well. See the lexicon entry. Two witnesses."
     }
   ]
 }

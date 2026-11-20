@@ -31,4 +31,6 @@ updated: 2026-11-12T00:26:03Z
 
 A sign. Status **unread** (nothing on file).
 
+KN 28a .3 \*310 9 \[, the numeral whole: a thick crescent open to the right with cross-strokes inside, counted between a goat 1\[ and GRA+\[·\] 5\[ (GORILA I 263). The tabular copy sets \] before the sign of every line and the line transcription none; Younger prints \]\*310 9\[.
+
 <!-- END kaphtor:record -->

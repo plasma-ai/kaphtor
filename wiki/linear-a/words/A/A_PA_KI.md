@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/A/A_PA_KI
 title: "A-PA-KI"
-desc: "ʾabkī: I weep (G prefix form, 1cs); rival ʾabakki (G present). Lexicon, SPECULATIVE (tier 1)."
+desc: "ʾabkī: I weep (G prefix form, 1cs). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "verb"]
 kind: "word"
 form: "A-PA-KI"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʾabkī |
-| Meaning | I weep (G prefix form, 1cs); rival ʾabakki (G present) |
+| Meaning | I weep (G prefix form, 1cs) |
 | Root | b-k-y |
 | Proto-Semitic | \*bky- (#S44) |
 | Language layer | Semitic |

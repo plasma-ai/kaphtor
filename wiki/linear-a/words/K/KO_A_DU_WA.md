@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/K/KO_A_DU_WA
 title: "KO-A-DU-WA"
-desc: "Qō-Addua: personal name, 'Hope in Addu' (Amorite Quwi-Haddu); rival an Anatolian name in Kuwa-. Lexicon, SPECULATIVE (tier 1)."
+desc: "Qō-Addua: personal name, 'Hope in Addu' (Amorite Quwi-Haddu). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "compound", "hapax", "personal_name"]
 kind: "word"
 form: "KO-A-DU-WA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Qō-Addua |
-| Meaning | personal name, 'Hope in Addu' (Amorite Quwi-Haddu); rival an Anatolian name in Kuwa- |
+| Meaning | personal name, 'Hope in Addu' (Amorite Quwi-Haddu) |
 | Root | q-w-y + ʾ-d-d |
 | Proto-Semitic | \*ḳVw- (#1678) + \*hadad- (#3186) |
 | Language layer | Semitic |
@@ -73,10 +73,10 @@ di Mino; Gelb 1980; HALOT; DULAT; Watson 2012; CAD Q
 | Occurrences | 1 in 1 documents |
 | Sites | Tylissos |
 | Supports | Tablet 1 |
-| Contact reference | amorite_names:KU-U₂-D-IM |
+| Contact reference | am_gelb_n_04146 |
 
 ### Note
 
-TY 3a .6 KO-A-DU-WA \[OLE\] 7⅕, under Ạ-DA OLE+U 21 (GORILA I 327). Qō-Addu 'Hope in Addu', as Amorite Quwi-Haddu (Gelb AS 21, no. 4146, Mari) and Quwum-Haddu (no. 4162, Ugarit); Ugaritic qwy 'Awaited' (Watson 2012, 336). The final -a: Hadda, the god's other name, or a feminine -a(t). See the lexicon entry.
+TY 3a .6 KO-A-DU-WA \[OLE\] 7⅕, under Ạ-DA OLE+U 21 (GORILA I 327). Qō-Addu 'Hope in Addu', as Amorite Quwi-Haddu (Gelb AS 21, no. 4146, Mari) and Quwum-Haddu (no. 4162, Ugarit); Ugaritic qwy 'Awaited' (Watson 2012, 336). The final -a: Hadda, the god's other name, or a feminine -a(t). See the lexicon entry. Rival: an Anatolian name in Kuwa-.
 
 <!-- END kaphtor:record -->

@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/A_TI_RU
 title: "A-TI-RU"
-desc: "ʿAttiru: ʿAttiru, personal name, the nisbe 'man of ʿAṯtar'; rival ʿatīru 'entreated'. Semitic, SPECULATIVE."
+desc: "ʿAttiru: ʿAttiru, personal name, the nisbe 'man of ʿAṯtar'. Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "A-TI-RU"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**ʿAttiru** · ʿAttiru, personal name, the nisbe 'man of ʿAṯtar'; rival ʿatīru 'entreated'
+**ʿAttiru** · ʿAttiru, personal name, the nisbe 'man of ʿAṯtar'
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | ʿAttiru |
-| Meaning | ʿAttiru, personal name, the nisbe 'man of ʿAṯtar'; rival ʿatīru 'entreated' |
+| Meaning | ʿAttiru, personal name, the nisbe 'man of ʿAṯtar' |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/ayin-th-t-r\|ʿ-ṯ-t-r]] |
 | Proto-Semitic | \*ʕaṯtar- (#3775) |

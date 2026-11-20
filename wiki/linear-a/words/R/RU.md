@@ -52,6 +52,8 @@ ZA 12, both faces, RU whole each time: a \]PA 64, TI 13, RU 28; b PA 40\[, TI 13
 | Hebrew | rimmôn 'pomegranate' (HALOT 1241–1242) |
 | Aramaic | Syriac rummānā; Jewish Aramaic rummānā beside rimmônā (HALOT 1241) |
 | Arabic | rummān (HALOT 1242) |
+| Linear B | the pomegranate is written in full: ro-a rho(h)ai? 'Granatapfel' (KN Xd 148; Bartoněk 2003, 173), which Killen leaves as 'Context obscure' (2024, 1027) |
+| Cuneiform | (GIŠ.)NU.ÚR.MA stands under nurmû (CAD N/2 345); the heading lurmû has no logogram (CAD L 255) |
 
 ### Source
 

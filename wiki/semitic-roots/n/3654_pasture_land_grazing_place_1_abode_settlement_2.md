@@ -42,6 +42,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-HALOT 678 traces nāweh from 'destination point (of semi-nomadic tribes)', Arabic nawan, niyyat 'destination', to 'pasture' and 'settlement'. Streck 2000, 108 leaves open whether Mari nawū is Akkadian or an Amorite loan; Sanmartín GlOS 2, 116 calls \|n-w-y\| a culture word. Targum Onqelos renders nāweh by dyrʾ (Exod 15:13) and wəʾanwēhû (Exod 15:2) by wəʾebnē leh maqdəšāʾ 'and I will build Him a sanctuary'; the Palestinian Targums and the Peshitta read 'praise'. At Mari the Simʾalites swore by the gods of the nawûm (Streck 2004, 424).
+HALOT 678 traces nāweh from 'destination point (of semi-nomadic tribes)', Arabic nawan, niyyat 'destination', to 'pasture' and 'settlement'. Streck 2000, 108 leaves open whether Mari nawū is Akkadian or an Amorite loan; Sanmartín GlOS 2, 116 calls \|n-w-y\| a culture word. Targum Onqelos renders nāweh by dyrʾ (Exod 15:13) and wəʾanwēhû (Exod 15:2) by wəʾebnē leh maqdəšāʾ 'and I will build Him a sanctuary'; the Palestinian Targums and the Peshitta read 'praise'. Albright set wəʾanwēhû and nāweh under one root 'to aim at', whence 'to look or gaze ardently at' and 'to reach or settle', and Cross and Freedman render the verb 'I will admire him' (1997, 40). At Mari the Simʾalites swore by the gods of the nawûm (Streck 2004, 424).
 
 <!-- END kaphtor:record -->

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/T/TA_TI
 title: "TA-TI"
-desc: "Tati: personal name; rival tati 'father' (Luwian tati-). Lexicon, CANDIDATE (tier 2)."
+desc: "Tati: personal name. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "personal_name"]
 kind: "word"
 form: "TA-TI"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Tati |
-| Meaning | personal name; rival tati 'father' (Luwian tati-) |
+| Meaning | personal name |
 | Language layer | Anatolian |
 | Tags | personal_name |
 | Semantic field | personal_name |

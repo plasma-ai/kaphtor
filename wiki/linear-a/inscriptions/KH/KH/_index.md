@@ -2,7 +2,7 @@
 name: wiki/linear-a/inscriptions/KH/KH
 desc: "Inscriptions from Khania, series KH."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-19T03:56:49Z
+updated: 2026-11-23T03:42:58Z
 ---
 
 # wiki/linear-a/inscriptions/KH/KH
@@ -39,7 +39,7 @@ updated: 2026-11-19T03:56:49Z
 
 [[wiki/linear-a/inscriptions/KH/KH/KH17|KH17]]: Tablet, Khania, LMIB. Translation: none.
 
-[[wiki/linear-a/inscriptions/KH/KH/KH18|KH18]]: Tablet, Khania, LMIB. Translation: none.
+[[wiki/linear-a/inscriptions/KH/KH/KH18|KH18]]: Tablet, Khania, LMIB. Translation: complete (SPECULATIVE).
 
 [[wiki/linear-a/inscriptions/KH/KH/KH19|KH19]]: Tablet, Khania, LMIB. Translation: none.
 

@@ -30,7 +30,7 @@ updated: 2026-11-18T01:30:46Z
 | Value | /so/ |
 | Alternates | /mo/ |
 | Linear B | B 164, value cloth (logogram) |
-| Linear B note | A cloth logogram known at Knossos only (Nosch and Weilhartner 2026, 126, 130–131); KN L 520 pe-re-ke \*164, KN L 698 pe-ko-to \*164; no syllabic value |
+| Linear B note | A cloth logogram known at Knossos only (Nosch and Weilhartner 2026, 126, 130–131), one of those Nosch says 'may be Minoan textile types' (2024, 341); KN L 520 pe-re-ke \*164, KN L 698 pe-ko-to \*164; L 520 gives 54 units of wool for nine of them (Nosch 2012, 344); no syllabic value |
 | Neutralization class | S |
 
 ### Alternate values
@@ -51,6 +51,7 @@ SPECULATIVE (0.30). SO, the one syllable of the S-series with no sign: RA-\*164-
 
 | Word | Reading | Confidence |
 |---|---|---|
+| [[wiki/linear-a/words/star/star164\|\*164]] | (logogram) | CANDIDATE |
 | [[wiki/linear-a/words/R/RA_star164_TI\|RA-\*164-TI]] | rāšōt | SPECULATIVE |
 
 <!-- END kaphtor:record -->

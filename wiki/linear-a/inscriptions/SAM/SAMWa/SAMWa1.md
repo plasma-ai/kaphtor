@@ -9,7 +9,7 @@ site: "Samothrace"
 support: "Nodule"
 period: "MMII"
 translation: "complete"
-words: ["SA-RA", "TE"]
+words: ["A-SA", "TE"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -39,12 +39,12 @@ updated: 2026-10-24T16:17:50Z
 
 Transliteration, line by line:
 
-1. JA-SA SA-RA TE 10 ¹⁄₁₆
+1. A-SA TE 10 ¹⁄₁₆
 
 Unicode (Linear A block):
 
 ```text
-𐘱𐘞𐝫𐘞𐘴𐝫𐘃𐄐𐝇
+𐘇𐘞𐝫𐘃𐄐𐝇
 ```
 
 ## Translation
@@ -55,23 +55,27 @@ Unicode (Linear A block):
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| JA-SA / SA-RA | yasara(m) | in righteousness (√y-š-r, libation formula without terminal -ME) | PROBABLE |  |
+| [[wiki/linear-a/words/A/A_SA\|A-SA]] | ʾašša- | in righteousness (the formula's opening) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/T/TE\|TE]] | terûmā | contribution, sacred offering | CANDIDATE | CANDIDATE (lexicon) |
 | 10 |  | numeral |  |  |
 | ¹⁄₁₆ |  | fraction |  |  |
 
 ### Notes
 
-Context: Northernmost Linear A inscription—clay nodule with libation formula vocabulary
+Context: the northernmost document of the record, a clay nodule of MM II (CMS V Suppl. 1B no. 327).
 
-Clay nodule sealing a shipment of 10 ¹⁄₁₆ units of unnamed commodity. Syllable sequence JA-SA SA-RA reads as JA-SA-SA-RA, the libation formula (CONFIRMED) without terminal -ME mimation. The formula on an administrative nodule labels the sealed goods as ritually consecrated. Compare IOZa12 where the same formula splits across a line break as JA-SA / SA-RA-ME. Parsing JA-SA and SA-RA as separate words (yašar 'upright' + šarra 'queen') is less economical and breaks the cross-site pattern. Northernmost Linear A inscription—Minoan ritual-administrative vocabulary extending to Samothrace.
+A cushion seal stamped the nodule with two signs in a frame, the double axe and the forked sign, A-SA, the opening of the formula ʾaššaram; another face has TE 10 ¹⁄₁₆ incised, an offering of 10 ¹⁄₁₆ units of an unnamed commodity. The formula's opening on a sealed lot marks the goods as dedicated. Whether the signs of a seal spell a word or stand as emblems is disputed.
 
 ### Source
 
-- di Mino: JA-SA-SA-RA, TE
+- di Mino: A-SA, TE
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/S/SA_RA|SA-RA]], [[wiki/linear-a/words/T/TE|TE]].
+[[wiki/linear-a/words/A/A_SA|A-SA]], [[wiki/linear-a/words/T/TE|TE]].
+
+## Corpus note
+
+CMS V Suppl. 1B no. 327, CHIC #137: the seal impression holds the double axe and the forked sign, Cretan Hieroglyphic 042-019, A-SA; Younger prints JA-SA &lt;-SA-RA&gt;, the second element of the Archanes formula supplied. TE 10 ¹⁄₁₆ is incised on another face.
 
 <!-- END kaphtor:record -->

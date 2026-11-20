@@ -63,6 +63,7 @@ Rival for the d-series: a dental fricative /θ/, said \[θ\] or \[ð\], from DU-
 | [[wiki/linear-a/words/A/A_SA_DA_KA\|A-SA-DA-KA]] | ʾaṣdaqa | CANDIDATE |
 | [[wiki/linear-a/words/A/A_SI_DA_TO_I\|A-SI-DA-TO-I]] | ʾAšdōdī | CANDIDATE |
 | [[wiki/linear-a/words/D/DA\|DA]] | damʿu | SPECULATIVE |
+| [[wiki/linear-a/words/D/DA_plus_star301\|DA+\*301]] | damʿ nawā | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_DU_star301\|DA-DU-\*301]] | dādu-nā-… | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_DU_MA_TA\|DA-DU-MA-TA]] | dadmatu | CANDIDATE |
 | [[wiki/linear-a/words/D/DA_DU_MI_NE\|DA-DU-MI-NE]] | dādu-Mīnō | SPECULATIVE |
@@ -73,6 +74,7 @@ Rival for the d-series: a dental fricative /θ/, said \[θ\] or \[ð\], from DU-
 | [[wiki/linear-a/words/D/DA_KI_TI\|DA-KI-TI]] | Daqqiti | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_KU_NA\|DA-KU-NA]] | Daguna | PROBABLE |
 | [[wiki/linear-a/words/D/DA_KU_SE_NE\|DA-KU-SE-NE]] | Takušenni | PROBABLE |
+| [[wiki/linear-a/words/D/DA_KU_SE_NE_TI\|DA-KU-SE-NE-TI]] | Takušenni-ti | CANDIDATE |
 | [[wiki/linear-a/words/D/DA_MA_TE\|DA-MA-TE]] | damat | CANDIDATE |
 | [[wiki/linear-a/words/D/DA_ME\|DA-ME]] | damʿu | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_MI_NU\|DA-MI-NU]] | Ḏā-Mīnu | SPECULATIVE |

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/P/PI_MI_NA_TE
 title: "PI-MI-NA-TE"
-desc: "bi-mināti: by the portions (broken before PI); rivals 'by the recitation', minḥâ 'offering'. Lexicon, SPECULATIVE (tier 1)."
+desc: "bi-mināti: by the portions (broken before PI). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "fragmentary", "hapax"]
 kind: "word"
 form: "PI-MI-NA-TE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | bi-mināti |
-| Meaning | by the portions (broken before PI); rivals 'by the recitation', minḥâ 'offering' |
+| Meaning | by the portions (broken before PI) |
 | Root | m-n-y |
 | Proto-Semitic | \*bV-- (#K0007) + \*mVnVw- (#643) |
 | Language layer | Semitic |

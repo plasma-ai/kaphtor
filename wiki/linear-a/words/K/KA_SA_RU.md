@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/K/KA_SA_RU
 title: "KA-SA-RU"
-desc: "Qaṣṣāru: Qaṣṣāru 'Fuller' (personal name); compare Linear B ka-sa-ro; rival Kaṣṣāru 'donkey driver'. Lexicon, CANDIDATE (tier 2)."
+desc: "Qaṣṣāru: Qaṣṣāru 'Fuller' (personal name); compare Linear B ka-sa-ro. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "hapax", "personal_name"]
 kind: "word"
 form: "KA-SA-RU"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Qaṣṣāru |
-| Meaning | Qaṣṣāru 'Fuller' (personal name); compare Linear B ka-sa-ro; rival Kaṣṣāru 'donkey driver' |
+| Meaning | Qaṣṣāru 'Fuller' (personal name); compare Linear B ka-sa-ro |
 | Root | q-ṣ-r |
 | Proto-Semitic | \*ḳaṣṣār- (#3782) |
 | Language layer | Semitic |
@@ -82,7 +82,7 @@ di Mino; Pagan 1998; GlOS 1; Gelb 1980
 
 ### Note
 
-Qaṣṣāru: Ebla ga-za-ru₁₂, /qaṣṣāru/ 'fuller' or /kaṣṣāru/ 'donkey driver' (Pagan 1998, rows 1979–1980); Linear B ka-sa-ro (KN C(2) 912.8); Ugarit DUMU ka-ša₂-ri.
+Qaṣṣāru: Ebla ga-za-ru₁₂, /qaṣṣāru/ 'fuller' or /kaṣṣāru/ 'donkey driver' (Pagan 1998, rows 1979–1980); Linear B ka-sa-ro (KN C(2) 912.8); Ugarit DUMU ka-ša₂-ri. Rival: Kaṣṣāru 'donkey driver'.
 
 ### Co-occurring lexicon words
 

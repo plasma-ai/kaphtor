@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 117a: MI-TU 1, a recipient in the roster under MA-KA-RI-TE · KI-RO, with U-SU, KU-PA₃-NU and TE-JA-RE. mītu 'dead one', a name of the substitute type: Ug. mt, the verbal adjective /mītu/ 'dead (person)', pl. /mītūma/ (McAffee 2019, 164). HT 135a \]-MI-TU is the end of a longer word. Weak point: two signs. Rival: \*mi/ut- 'man' (semitic_roots 56), with i in Tigre mit and Heb. mətīm. One attestation. See JA-MA-U-TI.
+HT 117a: MI-TU 1, a recipient in the roster under MA-KA-RI-TE · KI-RO, with U-SU, KU-PA₃-NU and TE-JA-RE. mītu 'dead one', a name of the substitute type: Ug. mt, the verbal adjective /mītu/ 'dead (person)', pl. /mītūma/ (McAffee 2019, 164), the predicate of ym l mt, Pardee's 'Yammu is certainly dead' (KTU 1.2 IV 32, 34; Tugendhaft 2018, 86). HT 135a \]-MI-TU is the end of a longer word. Weak point: two signs. Rival: \*mi/ut- 'man' (semitic_roots 56), with i in Tigre mit and Heb. mətīm. One attestation. See JA-MA-U-TI.
 
 ### Cognates
 
@@ -54,7 +54,7 @@ HT 117a: MI-TU 1, a recipient in the roster under MA-KA-RI-TE · KI-RO, with U-S
 
 ### Source
 
-di Mino; McAffee 2019
+di Mino; McAffee 2019; Tugendhaft 2018
 
 ## Attestations
 

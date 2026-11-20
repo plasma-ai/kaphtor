@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/A_TA_RE
 title: "A-TA-RE"
-desc: "ʿAṯtar: ʿAṯtar (the god), receiving figs; rival Hathor. Semitic, SPECULATIVE."
+desc: "ʿAṯtar: ʿAṯtar (the god), receiving figs. Semitic, SPECULATIVE."
 tags: ["names", "divine-name", "semitic"]
 kind: "name"
 form: "A-TA-RE"
@@ -19,13 +19,13 @@ updated: 2026-11-16T19:24:13Z
 
 <!-- BEGIN kaphtor:record -->
 
-**ʿAṯtar** · ʿAṯtar (the god), receiving figs; rival Hathor
+**ʿAṯtar** · ʿAṯtar (the god), receiving figs
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/gods\|Divine name]] |
 | Reading | ʿAṯtar |
-| Meaning | ʿAṯtar (the god), receiving figs; rival Hathor |
+| Meaning | ʿAṯtar (the god), receiving figs |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/ayin-th-t-r\|ʿ-ṯ-t-r]] |
 | Proto-Semitic | \*ʕaṯtar- (#3775) |
@@ -66,7 +66,7 @@ Read words on the same documents.
 
 | Word | Reading | Meaning |
 |---|---|---|
-| KI-RA | kirû | garden, orchard; rival qīru 'hot bitumen' |
+| KI-RA | kirû | garden, orchard |
 | [[wiki/names/egyptian/names/TA_I_NU_MA_PA\|TA-I-NU-MA-PA]] | Tainumapa | She of Memphis: Egyptian woman's name Tꜣ-n.t-Mn-nfr |
 
 <!-- END kaphtor:record -->

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/A/A_DE
 title: "A-DE"
-desc: "ʾAddē: Father (hypocoristic personal name, ʾAdday); rival the kin title ʾad 'father'. Lexicon, SPECULATIVE (tier 1)."
+desc: "ʾAddē: Father (hypocoristic personal name, ʾAdday). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "A-DE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʾAddē |
-| Meaning | Father (hypocoristic personal name, ʾAdday); rival the kin title ʾad 'father' |
+| Meaning | Father (hypocoristic personal name, ʾAdday) |
 | Root | ʾ-d |
 | Proto-Semitic | \*ʾad- (#2567) |
 | Language layer | Semitic |
@@ -80,7 +80,7 @@ di Mino; DULAT
 
 ### Note
 
-ʾAddē 'Father', the Ugaritic name ʾady, syll. a-da-a-a (DULAT 23), with -ay contracted to -ē. ZA 10b also counts U-\*49 ʾummi 'mother'.
+ʾAddē 'Father', the Ugaritic name ʾady, syll. a-da-a-a (DULAT 23), with -ay contracted to -ē. ZA 10b also counts U-\*49 ʾummi 'mother'. Rival: the kin title ʾad 'father'.
 
 ### Co-occurring lexicon words
 

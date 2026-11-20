@@ -50,6 +50,9 @@ HT 11b: \*86 KA 40, KA 30, KA 50, RU-ZU-NA KA 30, SA-QE-RI · KA 30, KU-RO 180: 
 | Akkadian | kappu B 'bowl' (CAD K 188); kappu '(palm of the) hand; (small) bowl' (GlOS 1, 314) |
 | Hebrew | kap (כַּף) 'the hollow of the hand; metal bowl' (HALOT 491; GlOS 1, 314) |
 | Ugaritic | kp 'palm (of the hand); pan' (DULAT 447; GlOS 1, 314) |
+| Linear B | KA in SUS+KA, kapros 'boar' (PY Un 6), and on the stirrup jar, \*ka-ra-re-u (KN K 700; Killen 2024, 965) |
+| Cuneiform | PA writes kappu A 'wing, arm, hand' (CAD K 185); kappu B 'bowl' is spelled out (CAD K 188) |
+| Aramaic (abbreviation) | k in the Kraeling papyri, possibly kp 'handbreadth', a linear measure, or Egyptian kyd of that sense (DNWSI 528) |
 
 ### Source
 

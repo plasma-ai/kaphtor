@@ -51,7 +51,7 @@ Unicode (Linear A block):
 
 **CONFIRMED**, complete.
 
-> rectitude
+> In righteousness
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|

@@ -1,7 +1,7 @@
 ---
 name: wiki/names/hurrian/names/QA_TI_KI
 title: "QA-TI-KI"
-desc: "Kattike: Kattike (Hurrian personal name), on kad- 'to say'; rival katki 'utterance'. Hurrian, SPECULATIVE."
+desc: "Kattike: Kattike (Hurrian personal name), on kad- 'to say'. Hurrian, SPECULATIVE."
 tags: ["names", "personal-name", "hurrian"]
 kind: "name"
 form: "QA-TI-KI"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Kattike** · Kattike (Hurrian personal name), on kad- 'to say'; rival katki 'utterance'
+**Kattike** · Kattike (Hurrian personal name), on kad- 'to say'
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Kattike |
-| Meaning | Kattike (Hurrian personal name), on kad- 'to say'; rival katki 'utterance' |
+| Meaning | Kattike (Hurrian personal name), on kad- 'to say' |
 | Language layer | [[wiki/names/hurrian/_index\|Hurrian]] |
 | Reading's standing | SPECULATIVE |
 | Standing as a personal name | SPECULATIVE |

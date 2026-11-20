@@ -27,6 +27,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/KU_DA\|KU-DA]] | Gūda | Gūda 'luck' (personal name), Amorite Guʾuda; rivals Kutta, qāʾid 'chief' | 1 |
+| [[wiki/names/semitic/names/KU_DA\|KU-DA]] | Gūda | Gūda 'luck' (personal name), Amorite Guʾuda | 1 |
 
 <!-- END kaphtor:record -->

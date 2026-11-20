@@ -27,9 +27,9 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/I_RA2\|I-RA₂]] | ʾilā(t) | goddess; rival ʾila 'god' | 8 |
+| [[wiki/names/semitic/names/I_RA2\|I-RA₂]] | ʾilā(t) | goddess | 8 |
 | [[wiki/names/semitic/names/I_RU_JA\|I-RU-JA]] | ʾIlūya | personal name, 'My god' | 1 |
-| [[wiki/names/semitic/names/PI_RU_E_JU\|PI-RU-E-JU]] | Pirʾu-ʾēlu | personal name, 'Offspring of El'; rival 'Fruit of El' | 1 |
-| [[wiki/names/semitic/names/SA_RE_JU\|SA-RE-JU]] | Šarr-ēlu | personal name, 'El is king'; rival Hurrian Šar-elli | 1 |
+| [[wiki/names/semitic/names/PI_RU_E_JU\|PI-RU-E-JU]] | Pirʾu-ʾēlu | personal name, 'Offspring of El' | 1 |
+| [[wiki/names/semitic/names/SA_RE_JU\|SA-RE-JU]] | Šarr-ēlu | personal name, 'El is king' | 1 |
 
 <!-- END kaphtor:record -->

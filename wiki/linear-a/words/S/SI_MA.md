@@ -80,6 +80,7 @@ di Mino; Gelb 1980; Pagan 1998
 | Occurrences | 1 in 1 documents |
 | Sites | Phaistos |
 | Supports | Clay vessel 1 |
+| Contact reference | am_gelb_n_05941 |
 
 ### Note
 

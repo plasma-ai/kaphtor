@@ -83,6 +83,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/P/PA_RA\|PA-RA]] | barr | CANDIDATE |
 | [[wiki/linear-a/words/P/PA_RA_NE\|PA-RA-NE]] | Barān | CANDIDATE |
 | [[wiki/linear-a/words/P/PA_RO_SU\|PA-RO-SU]] | Parʿōš | SPECULATIVE |
+| [[wiki/linear-a/words/P/PA_RO_SU_TI\|PA-RO-SU-TI]] | Parʿōš-ti | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_SA_RI_JA\|PA-SA-RI-JA]] | Baṣriya | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_SE\|PA-SE]] | Pašše | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_SE_JA\|PA-SE-JA]] | Paššiya | SPECULATIVE |

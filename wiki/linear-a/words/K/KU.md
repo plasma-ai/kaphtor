@@ -50,6 +50,8 @@ HT 127b: KU-RO \*307 156, KU 72, VIR+\*313c 24, KI+MU 15, \*301 11 and the erase
 | Akkadian | kalu (kulu) 'whole, entirety, all'; Old Assyrian nominative kulu (CAD K 87) |
 | Hebrew | kōl (כֹּל) 'the whole, all, every' (HALOT 474–475) |
 | Ugaritic | kl 'totality (of)' (DULAT 432–433), vocalized /kull-/ (Tropper 2000, 244) |
+| Linear B | totals are written in full, to-so and ku-su-to-ro-qa; KU alone is ku-mi-no 'cumin' (MY Ge 603; Killen 2024, 981, 984, 1042) |
+| Cuneiform | DÙ and DÙ.A.BI for kalu (CAD K 87); ŠU.NIGIN and PAP for napḫaru 'total' (CAD N/1 292) |
 
 ### Source
 
@@ -66,7 +68,7 @@ di Mino; GORILA I; Huehnergard 2012; HALOT; DULAT; CAD K
 | [[wiki/linear-a/inscriptions/HT/HT/HT40\|HT40]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT49b\|HT49b]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT154a\|HT154a]] | Haghia Triada | Tablet | none |
-| [[wiki/linear-a/inscriptions/KH/KH/KH18\|KH18]] | Khania | Tablet | none |
+| [[wiki/linear-a/inscriptions/KH/KH/KH18\|KH18]] | Khania | Tablet | complete |
 | [[wiki/linear-a/inscriptions/PK/PK/PK3\|PK3]] | Palaikastro | 4-sided bar | none |
 | [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH6\|ARKH6]] | Arkhanes | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/TY/TYWc/TYWc5\|TYWc5]] | Tylissos | Roundel | none |
@@ -78,5 +80,6 @@ di Mino; GORILA I; Huehnergard 2012; HALOT; DULAT; CAD K
 | [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH6\|ARKH6]] | kull | all, totality, everything (administrative category: miscellaneous/general allocation; section subtotal) | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT127b\|HT127b]] |  | counted class, 72 |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT131a\|HT131a]] | kull | all, totality (subtotal marker) |  |
+| [[wiki/linear-a/inscriptions/KH/KH/KH18\|KH18]] | kull | subtotal | CANDIDATE |
 
 <!-- END kaphtor:record -->

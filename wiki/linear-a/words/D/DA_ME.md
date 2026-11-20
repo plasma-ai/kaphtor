@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/D/DA_ME
 title: "DA-ME"
-desc: "damʿu: the sanctuary's share of the produce (a due on grain); rival damu 'blood'. Lexicon, SPECULATIVE (tier 1)."
+desc: "damʿu: the sanctuary's share of the produce (a due on grain). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "administrative", "noun", "ritual"]
 kind: "word"
 form: "DA-ME"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | damʿu |
-| Meaning | the sanctuary's share of the produce (a due on grain); rival damu 'blood' |
+| Meaning | the sanctuary's share of the produce (a due on grain) |
 | Root | d-m-ʿ |
 | Proto-Semitic | \*dimʕ-at-/\*damʕ- (#1882) |
 | Language layer | Semitic |

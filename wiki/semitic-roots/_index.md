@@ -80,9 +80,9 @@ into words. The Kaphtor Semitic Roots give a page to each of 5,189 roots reconst
 family's common ancestor, filed by first consonant. Each page sets the root and its meaning above the words descended
 from it, language by language: 26,459 forms in 43 languages, led by Arabic (3,373), Hebrew (2,511),
 Akkadian (1,723), Syriac (1,590), Geʿez (1,340) and Ugaritic (1,286), every form cited to the page that
-prints it, 33,764 citations to 259 works. 2,647 rest on Militarev and Kogan's Semitic Etymological Dictionary
+prints it, 33,778 citations to 260 works. 2,647 rest on Militarev and Kogan's Semitic Etymological Dictionary
 and its online continuation, and the other 2,542 were built for kaphtor from the dictionaries the Kaphtor
-Dictionary Distillation records. They are the comparanda of the Linear A readings: 588 words of the lexicon
+Dictionary Distillation records. They are the comparanda of the Linear A readings: 595 words of the lexicon
 name their root here.
 <!-- END kaphtor:summary -->
 

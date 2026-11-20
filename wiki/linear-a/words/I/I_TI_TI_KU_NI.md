@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/I/I_TI_TI_KU_NI
 title: "I-TI-TI-KU-NI"
-desc: "(y)ittatkūni: which have been poured out—disbursed (derived-stem header); rival a heading name. Lexicon, SPECULATIVE (tier 1)."
+desc: "(y)ittatkūni: which have been poured out—disbursed (derived-stem header). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "accounting", "administrative", "hapax", "verb"]
 kind: "word"
 form: "I-TI-TI-KU-NI"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | (y)ittatkūni |
-| Meaning | which have been poured out—disbursed (derived-stem header); rival a heading name |
+| Meaning | which have been poured out—disbursed (derived-stem header) |
 | Root | n-t-k |
 | Proto-Semitic | \*natāk- (#K0210) |
 | Language layer | Semitic |

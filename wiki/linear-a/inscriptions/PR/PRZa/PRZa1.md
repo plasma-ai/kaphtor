@@ -9,7 +9,7 @@ site: "Prassa"
 support: "Stone vessel"
 period: "LMIA"
 translation: "complete"
-words: ["A-SA-SA-RA-ME", "SE-TO-I-JA", "TA-NA-SU-TE-KE"]
+words: ["A-SA-SA-RA-ME", "SE-TO-I-JA"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -39,7 +39,7 @@ updated: 2026-10-24T16:17:50Z
 
 Transliteration, line by line:
 
-1. TA-NA-SU-TE-KE
+1. TA-NA-SU-TE-\[?\]-KE
 2. SE-TO-I-JA
 3. A-SA-SA-RA-ME
 
@@ -55,28 +55,28 @@ Unicode (Linear A block):
 
 **CANDIDATE**, complete.
 
-> May \[the offering\] be drunk for you (O Goddess)—Ṣētiya, the Eastern one—in righteousness
+> \[…\] at Ṣētiya, the Eastern place, in righteousness
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/T/TA_NA_SU_TE_KE\|TA-NA-SU-TE-KE]] | tanašutē-kī | may \[it\] be drunk for you (f.) | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/S/SE_TO_I_JA\|SE-TO-I-JA]] | Ṣētiya | the Eastern (one), of the East | PROBABLE | PROBABLE (lexicon) |
+| [[wiki/linear-a/words/T/TA_NA_SU_TE_q_KE\|TA-NA-SU-TE-&#91;?&#93;-KE]] |  | \[the verb of the formula, a sign lost\] |  | unread |
+| [[wiki/linear-a/words/S/SE_TO_I_JA\|SE-TO-I-JA]] | Ṣētiya | the Eastern (place) | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/A/A_SA_SA_RA_ME\|A-SA-SA-RA-ME]] | ʾaššaram | in righteousness (variant of yaššaram, ʾa- for ya-) | CONFIRMED | CONFIRMED (lexicon) |
 
 ### Notes
 
 Context: Peak sanctuary libation formula variant.
 
-Formula structure parallels IOZa2 but with a unique verb form (TA-NA-SU-TE-KE instead of A-TA-I-\*301-WA-JA) and ʾaššaram for yaššaram, as on IOZb10.
+The formula's structure is that of IOZa2, with another word in the verb slot, TA-NA-SU-TE-\[?\]-KE, broken by one sign, where IOZa2 has A-TA-I-\*301-WA-JA, and with ʾaššaram for yaššaram, as on IOZb10.
 
 ### Source
 
-- scholarly_sources: {'di Mino': \['TA-NA-SU-TE-KE'\]}
+- scholarly_sources: {'di Mino': \['SE-TO-I-JA', 'A-SA-SA-RA-ME'\]}
 - translator: di Mino
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/A/A_SA_SA_RA_ME|A-SA-SA-RA-ME]], [[wiki/linear-a/words/S/SE_TO_I_JA|SE-TO-I-JA]], [[wiki/linear-a/words/T/TA_NA_SU_TE_KE|TA-NA-SU-TE-KE]].
+[[wiki/linear-a/words/A/A_SA_SA_RA_ME|A-SA-SA-RA-ME]], [[wiki/linear-a/words/S/SE_TO_I_JA|SE-TO-I-JA]].
 
 ## Corpus note
 

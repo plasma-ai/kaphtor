@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/R/RI_TA_JE
 title: "RI-TA-JE"
-desc: "Lītāy: (My) Might (personal name; lītu 'might, victory' + hypocoristic -āy); rival Rašiyya. Lexicon, SPECULATIVE (tier 1)."
+desc: "Lītāy: (My) Might (personal name; lītu 'might, victory' + hypocoristic -āy). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "RI-TA-JE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Lītāy |
-| Meaning | (My) Might (personal name; lītu 'might, victory' + hypocoristic -āy); rival Rašiyya |
+| Meaning | (My) Might (personal name; lītu 'might, victory' + hypocoristic -āy) |
 | Root | l-ʾ-y |
 | Proto-Semitic | \*lVHVt- (#1228) + \*lVʾVy- (#K0134) |
 | Language layer | Semitic |

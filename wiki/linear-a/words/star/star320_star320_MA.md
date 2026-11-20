@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/star/star320_star320_MA
 title: "*320-*320-MA"
-desc: "ṯiṯṯīma: sixty (numeral); rival a personal name. Lexicon, SPECULATIVE (tier 1)."
+desc: "ṯiṯṯīma: sixty (numeral). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "administrative", "hapax", "numeral_or_measure"]
 kind: "word"
 form: "*320-*320-MA"
@@ -32,7 +32,7 @@ updated: 2026-11-17T22:47:56Z
 | Field | Value |
 |---|---|
 | Reading | ṯiṯṯīma |
-| Meaning | sixty (numeral); rival a personal name |
+| Meaning | sixty (numeral) |
 | Root | ṯ-d-ṯ |
 | Proto-Semitic | \*šidṯ- (#S98) |
 | Language layer | Semitic |

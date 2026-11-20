@@ -23,7 +23,7 @@ updated: 2026-10-24T16:17:50Z
 
 **Status: proposed.** A proposed value.
 
-Evidence: \*412+E beside \*659 = \*412VAS+F (MA10a/c): the slot takes a fraction sign
+Evidence: \*412+E beside \*412+F (MA10a/c): the slot takes a fraction sign
 
 ## Logogram
 
@@ -36,7 +36,7 @@ Evidence: \*412+E beside \*659 = \*412VAS+F (MA10a/c): the slot takes a fraction
 
 ### Note
 
-Commodity ideogram on MA10 4-sided bar (all 4 faces) alongside \*413+SU, \*405+Ω, \*402+A, \*414+F—a catalog of complemented ideograms. PS \*ʔigān- 'cup, bowl': Arabic preserves /i/-class vowel (ʔiggānat-); NWS /i/→/ē/ lowering yields /ʔēgān/; aleph drops → complement E = /ʔē-/. Hebrew shifted to /a/ (ʔaggān, Exod 24:6, Song 7:3, Isa 22:24). PH9b \*412-VS-VIN = wine bowl. Distinct from \*406VAS=KĀS (cup)—ʔaggān is larger basin type. TI+\*412VAS = subtype (TI prefix, cf. Linear B variety marking).
+Commodity ideogram on MA10 4-sided bar (all 4 faces) alongside \*413+SU, \*405+Ω, \*404+A, \*414+F—a catalog of complemented ideograms. PS \*ʔigān- 'cup, bowl': Arabic preserves /i/-class vowel (ʔiggānat-); NWS /i/→/ē/ lowering yields /ʔēgān/; aleph drops → complement E = /ʔē-/. Hebrew shifted to /a/ (ʔaggān, Exod 24:6, Song 7:3, Isa 22:24). PH9b \*412-VS-VIN = wine bowl. Distinct from \*406VAS=KĀS (cup)—ʔaggān is larger basin type. TI+\*412VAS = subtype (TI prefix, cf. Linear B variety marking).
 
 ## Lexicon words written with this sign
 

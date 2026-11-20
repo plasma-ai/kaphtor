@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/SA_RE_JU
 title: "SA-RE-JU"
-desc: "Šarr-ēlu: personal name, 'El is king'; rival Hurrian Šar-elli. Semitic, SPECULATIVE."
+desc: "Šarr-ēlu: personal name, 'El is king'. Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "SA-RE-JU"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Šarr-ēlu** · personal name, 'El is king'; rival Hurrian Šar-elli
+**Šarr-ēlu** · personal name, 'El is king'
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Šarr-ēlu |
-| Meaning | personal name, 'El is king'; rival Hurrian Šar-elli |
+| Meaning | personal name, 'El is king' |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/sl-r-r\|ŝ-r-r]] + [[wiki/names/semitic/roots/alef-l\|ʾ-l]] |
 | Proto-Semitic | \*ŝarr- (#3463), \*ʾil- (#2719) |

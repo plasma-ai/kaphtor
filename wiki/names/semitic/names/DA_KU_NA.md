@@ -36,7 +36,7 @@ updated: 2026-11-11T23:39:03Z
 
 ## Note
 
-HT 103: DA-KU-NA 1, after \*188 13 and before DA-KU-SE-NE 1, in a counted list under U-TA₂ · NI 40. DA-KU-NA writes Da-gu-na, Linear A marking no voicing. Daguna is an Old Akkadian personal name in lists (JCS 35, 211, 2; SANTAG 7, 062), and Babylonian Daguna, beside Dagana, is the god Dagan, frequent in personal names (HALOT 213). Gordon reads da-gu-na 'Dagon' at Haghia Triada (Gordon 1966, 24). On a counted list the bearer is a person or recipient, the name formed on Dagan. One attestation. See GRA.
+HT 103: DA-KU-NA 1, after \*188 13 and before DA-KU-SE-NE 1, in a counted list under U-TA₂ · NI 40. DA-KU-NA writes Da-gu-na, Linear A marking no voicing. Daguna is an Old Akkadian personal name in lists (JCS 35, 211, 2; SANTAG 7, 062), and Babylonian Daguna, beside Dagana, is the god Dagan, frequent in personal names (HALOT 213). Gordon finds it 'hard to tell whether da-ku-na is a personal or divine name' and compares West Semitic Dagon (Gordon 1966 §131). On a counted list the bearer is a person or recipient, the name formed on Dagan. One attestation. See GRA.
 
 ## As a name
 

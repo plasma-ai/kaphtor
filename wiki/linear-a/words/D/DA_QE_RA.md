@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/D/DA_QE_RA
 title: "DA-QE-RA"
-desc: "ḏā-Qīra: the (district) of Qīr, the walled town; heading opposite KA-PA 'village'; rival diqāru 'bowl'. Lexicon, CANDIDATE (tier 2)."
+desc: "ḏā-Qīra: the (district) of Qīr, the walled town; heading opposite KA-PA 'village'. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "administrative", "compound", "noun"]
 kind: "word"
 form: "DA-QE-RA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ḏā-Qīra |
-| Meaning | the (district) of Qīr, the walled town; heading opposite KA-PA 'village'; rival diqāru 'bowl' |
+| Meaning | the (district) of Qīr, the walled town; heading opposite KA-PA 'village' |
 | Root | ḏ + q-y-r |
 | Proto-Semitic | \*ḏī- (#K0877) + \*qiyr- (#K0319) |
 | Language layer | Semitic |

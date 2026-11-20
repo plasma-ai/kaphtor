@@ -72,6 +72,7 @@ di Mino; Gelb 1980
 | Occurrences | 1 in 1 documents |
 | Sites | Arkhanes |
 | Supports | Tablet 1 |
+| Contact reference | am_gelb_n_00340 |
 
 ### Note
 

@@ -66,7 +66,7 @@ Read words on the same documents.
 | Word | Reading | Meaning |
 |---|---|---|
 | KU-NI-SU | kunīšu | emmer (Akkadian loan) |
-| DA-RE | dār | estate, household (a unit receiving men and grain); rival 'kin group, clan' |
+| DA-RE | dār | estate, household (a unit receiving men and grain) |
 | \*301 | nawā | pastureland, pastoral product (commodity logogram: nawum in administrative register, nawā in ritual/general) |
 | [[wiki/names/semitic/names/A_DU\|A-DU]] | adû | work assignment; the ration allotted to it (heading of personnel and ration lists) |
 | [[wiki/names/semitic/names/PA3_NI\|PA₃-NI]] | bānī | builder (a personnel class) |

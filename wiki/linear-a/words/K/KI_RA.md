@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/K/KI_RA
 title: "KI-RA"
-desc: "kirû: garden, orchard; rival qīru 'hot bitumen'. Lexicon, CANDIDATE (tier 2)."
+desc: "kirû: garden, orchard. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "administrative", "agriculture", "noun"]
 kind: "word"
 form: "KI-RA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | kirû |
-| Meaning | garden, orchard; rival qīru 'hot bitumen' |
+| Meaning | garden, orchard |
 | Root | k-r-y |
 | Proto-Semitic | \*kiry- (#2312) |
 | Language layer | Semitic |

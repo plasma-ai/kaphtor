@@ -27,6 +27,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/SA_DI\|SA-DI]] | šadī | field worker, Ug. šdy 'land labourer' or 'weaver, spinner'; rival the personal name Šadī 'Country man' | 1 |
+| [[wiki/names/semitic/names/SA_DI\|SA-DI]] | šadī | field worker, Ug. šdy 'land labourer' or 'weaver, spinner' | 1 |
 
 <!-- END kaphtor:record -->

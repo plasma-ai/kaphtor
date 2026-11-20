@@ -79,6 +79,7 @@ di Mino; Pagan 1998; Buck 2018
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |
+| Contact reference | am_gelb_n_00735 |
 
 ### Note
 

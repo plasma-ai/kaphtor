@@ -27,7 +27,7 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/A_SI_KI_RA\|A-SI-KI-RA]] | ha-Śikira | personal name, 'the Hired' (article ha- + SI-KI-RA); rival haśkira 'he rewarded' | 1 |
-| [[wiki/names/semitic/names/SI_KI_RA\|SI-KI-RA]] | Śikira | personal name, 'Hired' (√ś-k-r 'to hire'); rival šēkār 'strong drink' | 1 |
+| [[wiki/names/semitic/names/A_SI_KI_RA\|A-SI-KI-RA]] | ha-Śikira | personal name, 'the Hired' (article ha- + SI-KI-RA) | 1 |
+| [[wiki/names/semitic/names/SI_KI_RA\|SI-KI-RA]] | Śikira | personal name, 'Hired' (√ś-k-r 'to hire') | 1 |
 
 <!-- END kaphtor:record -->

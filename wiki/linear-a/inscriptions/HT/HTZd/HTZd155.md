@@ -52,12 +52,12 @@ Unicode (Linear A block):
 
 **CANDIDATE**, complete.
 
-> Ḥayyu · Naʿma: gift · A319 \[unidentified commodity\]
+> Ḥayyu · Naʿma: gift · silver
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | [[wiki/linear-a/words/A/A_JU\|A-JU]] | Ḥayyu | Ḥayyu 'Living' (personal name), before the divider, where HT Zd 157 has a single stroke | SPECULATIVE | SPECULATIVE (lexicon) |
-| NA-MA-MA-TI-TI-A319 | Naʿma \| mattitt(u) \| A319 | NA-MA \| MA-TI-TI \| A319, cut by the MA-TI-TI-A319 that closes HT Zd 157. NA-MA Naʿma 'Grace' (personal name, √n-ʿ-m), in WI-JA-SU's slot on HT Zd 157; MA-TI-TI 'gift' (Heb. mattat &lt; \*mattant, HALOT 656); A319 an unidentified commodity logogram with no sound value | CANDIDATE |  |
+| NA-MA-MA-TI-TI-A319 | Naʿma \| mattitt(u) \| A319 | NA-MA \| MA-TI-TI \| A319, cut by the MA-TI-TI-A319 that closes HT Zd 157. NA-MA Naʿma 'Grace' (personal name, √n-ʿ-m), in WI-JA-SU's slot on HT Zd 157; MA-TI-TI 'gift' (Heb. mattat &lt; \*mattant, HALOT 656); A319 the logogram read as silver, with no sound value | CANDIDATE |  |
 
 ### Notes
 

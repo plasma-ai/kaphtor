@@ -87,6 +87,7 @@ di Mino; Wiseman 1953; Gelb 1980; Huffmon 1965
 | Occurrences | 2 in 2 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 2 |
+| Contact reference | am_gelb_n_00863 |
 
 ### Co-occurring lexicon words
 

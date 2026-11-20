@@ -27,6 +27,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/PI_SA\|PI-SA]] | Pīsa | personal name, '(a bird)', Akk. būṣu; rival an institution; a recipient | 2 |
+| [[wiki/names/semitic/names/PI_SA\|PI-SA]] | Pīsa | personal name, '(a bird)', Akk. būṣu | 2 |
 
 <!-- END kaphtor:record -->

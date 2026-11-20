@@ -42,6 +42,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Tomback (T 6) compares J.Aram. ʾadiraʾ.
+Tomback (T 6) compares J.Aram. ʾadiraʾ. Cross and Freedman take neʾdārî (Exod 15:6) in an archaic sense, 'the One-to-be-feared', 'the Awesome One', comparing Ugaritic ʾadr and Akkadian adāru 'to fear', with 'majestic one' a later meaning of ʾaddîr (1997, 42); cf. 3313 \*hdr.
 
 <!-- END kaphtor:record -->

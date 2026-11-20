@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/D/DU_ZU_WA
 title: "DU-ZU-WA"
-desc: "ḏū-ṯuwāʕ: He of the Lord (personal name; ḏū 'he of' + ṯuwāʕ 'lord'); rival 'the noble one'. Lexicon, SPECULATIVE (tier 1)."
+desc: "ḏū-ṯuwāʕ: He of the Lord (personal name; ḏū 'he of' + ṯuwāʕ 'lord'). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "compound", "hapax", "personal_name"]
 kind: "word"
 form: "DU-ZU-WA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ḏū-ṯuwāʕ |
-| Meaning | He of the Lord (personal name; ḏū 'he of' + ṯuwāʕ 'lord'); rival 'the noble one' |
+| Meaning | He of the Lord (personal name; ḏū 'he of' + ṯuwāʕ 'lord') |
 | Root | ḏ + ṯ-w-ʕ |
 | Proto-Semitic | \*ḏī- (#K0877) + \*ṯVwVʕ- (#3807) |
 | Language layer | Semitic |

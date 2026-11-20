@@ -30,10 +30,14 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | argamannu (CAD A/2 253) | CAD A/2 253 | gloss withheld |
-| Ugaritic | argmn (DULAT 96–97) (Dijkstra UF 21 apud DULAT 97) | DULAT 96–97; DULAT 97 | gloss withheld |
+| Ugaritic | argmn (DULAT 96–97) (Dijkstra UF 21 apud DULAT 97); ybl argmn (KTU 1.2 I 37, KTU 3.1:24–26) | DULAT 96–97; DULAT 97; KTU 1.2 I 37, KTU 3.1:24–26 | gloss withheld |
 | Hebrew | ʔargāmān (HALOT 84) | HALOT 84 | gloss withheld |
 | Syrian Aramaic | ʔargwān 'purple dye; purple garment' (Payne Smith 27) | Payne Smith 27 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Hittite argamman-, argama- 'tribute' is 'identical to the Ugaritic word' (Tugendhaft 2018, 98 n. 56, after Tischler 1983, 1.59–60).
 
 <!-- END kaphtor:record -->

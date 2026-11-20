@@ -9,7 +9,7 @@ site: "Khania"
 support: "Tablet"
 period: "LMIB"
 translation: "incomplete"
-words: ["*21M", "AU-RE-TE", "CYP", "MU", "PI-SA", "RI-TA-JE"]
+words: ["*22M", "*306", "AU-RE-TE", "CYP", "MU", "PI-SA", "RI-TA-JE"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -44,10 +44,10 @@ Transliteration, line by line:
 2. DI-SI-\[
 3. \]-TE-NU-RE\[
 4. \]-KI-SA-NE CYP+D ¹⁄₂
-5. \*347
+5. \*347\[
 6. CYP ¹⁄₂
 7. RI-TA-JE CYP+D
-8. \*21M 1
+8. \*22M 1
 9. CYP+D ¹⁄₂
 10. MU 1
 11. PA\[
@@ -69,7 +69,7 @@ Unicode (Linear A block):
 𐚇𐝫
 𐝫𐙗𐝫𐝆
 𐘭𐘳𐘧𐜙𐝫
-𐝫𐘑𐄇
+𐝫𐘔𐄇
 𐜙𐝆
 𐘕𐄇
 𐘂𐝫
@@ -86,7 +86,7 @@ Unicode (Linear A block):
 
 **SPECULATIVE**, incomplete (status: incomplete).
 
-> \[…\] cyperus ½; DI-SI-\[…\] — \[…\]-TE-NU-RE\[…\] — \[…\]-KI-SA-NE: cyperus ½; \*347\[…\] — \[…\] cyperus \[…\] ½; Lītāy: cyperus ½\[…\] — \[…\] \*21M 1; cyperus ½; MU 1; PA\[…\] — \[…\]-RE · \*334 1; cyperus ½; Pīsa\[…\] — \[…\] cyperus ½; ʾAwrēt · \*306 1 — \[…\] 8; cyperus 2 J+\[…\].
+> \[…\] cyperus ½; DI-SI-\[…\] — \[…\]-TE-NU-RE\[…\] — \[…\]-KI-SA-NE: cyperus ½; \*347\[…\] — \[…\] cyperus \[…\] ½; Lītāy: cyperus ½\[…\] — \[…\] he-goat 1; cyperus ½; MU 1; PA\[…\] — \[…\]-RE · \*334 1; cyperus ½; Pīsa\[…\] — \[…\] cyperus ½; ʾAwrēt · servant 1 —\[…\] 8; cyperus 2 J+\[…\].
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ GORILA III 26–27 (KH Scribe 2): cyperus allotments of ½ (CYP+D J) to recipien
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/star/star21M|\*21M]], [[wiki/linear-a/words/A/AU_RE_TE|AU-RE-TE]], [[wiki/linear-a/words/C/CYP|CYP]], [[wiki/linear-a/words/M/MU|MU]], [[wiki/linear-a/words/P/PI_SA|PI-SA]], [[wiki/linear-a/words/R/RI_TA_JE|RI-TA-JE]].
+[[wiki/linear-a/words/star/star22M|\*22M]], [[wiki/linear-a/words/star/star306|\*306]], [[wiki/linear-a/words/A/AU_RE_TE|AU-RE-TE]], [[wiki/linear-a/words/C/CYP|CYP]], [[wiki/linear-a/words/M/MU|MU]], [[wiki/linear-a/words/P/PI_SA|PI-SA]], [[wiki/linear-a/words/R/RI_TA_JE|RI-TA-JE]].
 
 ## Corpus note
 

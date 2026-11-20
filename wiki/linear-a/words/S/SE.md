@@ -52,6 +52,8 @@ Rival: the seah, Heb. sĕʾâ (HALOT 737–738), Akk. sūtu (CAD S 420), a measu
 | Hebrew | ṣayid (II) 'food, provisions for a journey' (HALOT 1020–1021) |
 | Ugaritic | ṣd /ṣēdu/ 'provisions, sustenance' (KTU 1.14 II 25–26; Huehnergard 2012, 130) |
 | Akkadian | ṣidītu 'travel provisions', issued in grain: 'five seahs of barley, given as travel provisions' (HSS 13 221:61; CAD Ṣ 172–173) |
+| Linear B | SE alone, se-ri-no 'celery' (Killen 2024, 130) |
+| Cuneiform | NINDA.KASKAL for ṣidītu (CAD Ṣ 172) |
 
 ### Source
 

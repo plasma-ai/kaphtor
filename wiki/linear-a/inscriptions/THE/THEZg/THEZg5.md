@@ -9,7 +9,7 @@ site: "Thera"
 support: "Ostracon"
 period: ""
 translation: "none"
-words: []
+words: ["MA", "TE (THEZg5)"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -48,6 +48,10 @@ Unicode (Linear A block):
 𐙁𐄓𐘫𐄋
 𐘃𐄍𐘎𐄏𐘳𐄊
 ```
+
+## Lexicon words citing this document
+
+[[wiki/linear-a/words/M/MA|MA]], [[wiki/linear-a/words/T/TE_THEZg5|TE (THEZg5)]].
 
 ## Corpus note
 

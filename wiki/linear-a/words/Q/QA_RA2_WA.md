@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/Q/QA_RA2_WA
 title: "QA-RA₂-WA"
-desc: "qalwa: parched (roasted) grain; rival Ugaritic qrwn 'offering'. Lexicon, CANDIDATE (tier 2)."
+desc: "qalwa: parched (roasted) grain. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "commodity", "foodstuff", "grain", "hapax", "noun"]
 kind: "word"
 form: "QA-RA₂-WA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | qalwa |
-| Meaning | parched (roasted) grain; rival Ugaritic qrwn 'offering' |
+| Meaning | parched (roasted) grain |
 | Root | q-l-w |
 | Proto-Semitic | \*ḳVlVw- (#798) |
 | Language layer | Semitic |

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/P/PI_SA
 title: "PI-SA"
-desc: "Pīsa: personal name, '(a bird)', Akk. būṣu; rival an institution; a recipient. Lexicon, SPECULATIVE (tier 1)."
+desc: "Pīsa: personal name, '(a bird)', Akk. būṣu. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "personal_name"]
 kind: "word"
 form: "PI-SA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Pīsa |
-| Meaning | personal name, '(a bird)', Akk. būṣu; rival an institution; a recipient |
+| Meaning | personal name, '(a bird)', Akk. būṣu |
 | Root | b-ṣ |
 | Proto-Semitic | \*bVṣ- (#4413) |
 | Language layer | Semitic |

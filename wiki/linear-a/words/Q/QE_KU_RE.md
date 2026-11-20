@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/Q/QE_KU_RE
 title: "QE-KU-RE"
-desc: "kikkᵊrē: rounds, round cakes of (a commodity); talent; rival the personal name Qaqqaru. Lexicon, SPECULATIVE (tier 1)."
+desc: "kikkᵊrē: rounds, round cakes of (a commodity); talent. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "commodity", "hapax", "noun", "numeral_or_measure"]
 kind: "word"
 form: "QE-KU-RE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | kikkᵊrē |
-| Meaning | rounds, round cakes of (a commodity); talent; rival the personal name Qaqqaru |
+| Meaning | rounds, round cakes of (a commodity); talent |
 | Root | k-k-r |
 | Proto-Semitic | \*kakkar-/\*kikkar- (#1097) |
 | Language layer | Semitic |

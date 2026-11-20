@@ -71,6 +71,6 @@ Read words on the same documents.
 |---|---|---|
 | [[wiki/names/hurrian/names/DA_KU_SE_NE\|DA-KU-SE-NE]] | Takušenni | Hurrian personal name, 'the brother is beautiful'; cf. Boğazköy Tagu(b)-šini, Ugaritic Taki-šenni |
 | [[wiki/names/semitic/names/DA_KU_NA\|DA-KU-NA]] | Daguna | personal name on Dagan, Daguna |
-| KI-RA | kirû | garden, orchard; rival qīru 'hot bitumen' |
+| KI-RA | kirû | garden, orchard |
 
 <!-- END kaphtor:record -->

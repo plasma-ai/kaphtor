@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/I/I_JA_PA_ME
 title: "I-JA-PA-ME"
-desc: "yabame: brother-in-law (kin title); I-JA-PA-ME · TA-TA 'the brother-in-law of Tatta'; rival ybmt 'sister-in-law', Anat's epithet. Lexicon, CANDIDATE (tier 2)."
+desc: "yabame: brother-in-law (kin title); I-JA-PA-ME · TA-TA 'the brother-in-law of Tatta'. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "hapax", "kinship", "noun"]
 kind: "word"
 form: "I-JA-PA-ME"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | yabame |
-| Meaning | brother-in-law (kin title); I-JA-PA-ME · TA-TA 'the brother-in-law of Tatta'; rival ybmt 'sister-in-law', Anat's epithet |
+| Meaning | brother-in-law (kin title); I-JA-PA-ME · TA-TA 'the brother-in-law of Tatta' |
 | Root | y-b-m |
 | Proto-Semitic | \*wa-bām- (#13) |
 | Language layer | Semitic |
@@ -81,7 +81,7 @@ di Mino; GlOS 2; DULAT; Huehnergard 2012; Monti 2017
 
 ### Note
 
-Reading from the lexicon (di Mino). Tell Rimah ia-ba-mi-ša 'her brother-in-law', Ugaritic ybm (GlOS 2, 341; DULAT 937).
+Reading from the lexicon (di Mino). Tell Rimah ia-ba-mi-ša 'her brother-in-law', Ugaritic ybm (GlOS 2, 341; DULAT 937). Rival: ybmt 'sister-in-law', Anat's epithet.
 
 ### Co-occurring lexicon words
 

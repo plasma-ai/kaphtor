@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/R/RO_KE
 title: "RO-KE"
-desc: "rōqēaḥ: perfumer (title); rival rōkēl 'trader, merchant'. Lexicon, SPECULATIVE (tier 1)."
+desc: "rōqēaḥ: perfumer (title). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "aromatic", "hapax", "noun", "occupation"]
 kind: "word"
 form: "RO-KE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | rōqēaḥ |
-| Meaning | perfumer (title); rival rōkēl 'trader, merchant' |
+| Meaning | perfumer (title) |
 | Root | r-q-ḥ |
 | Proto-Semitic | \*rVḳVḥ- (#S15) |
 | Language layer | Semitic |
@@ -81,7 +81,7 @@ di Mino; DULAT; GlOS 2
 
 ### Note
 
-HT 98a .4 RO-KE ½, in a list of fractional issues (GORILA I 161). Ugarit rqḥ 'perfumer' (DULAT 734). See the lexicon entry.
+HT 98a .4 RO-KE ½, in a list of fractional issues (GORILA I 161). Ugarit rqḥ 'perfumer' (DULAT 734). See the lexicon entry. Rival: rōkēl 'trader, merchant'.
 
 ### Co-occurring lexicon words
 

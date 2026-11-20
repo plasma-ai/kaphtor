@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-OLE with the complement NE, on HT 23a, HT 32, HT 100 and TY 3b, at Haghia Triada and Tylissos, always in small quantities (¾, ≈⅙, 2 units), measured ritual portions. neseku 'libation': Akk. nasāku 'to pour a libation' (CAD N/2 26), Heb. נֶסֶךְ nesek 'libation, drink offering' (Num 15:5; Isa 48:5), √n-s-k, NE its first syllable. HT 32 issues it under a \*307 dubur 'sanctuary' heading; on HT 23a OLE+NE, OLE+TU, OLE+RI and \*308 stand at the same ≈⅙, a recipe of four oils; on TY 3b it is a minor entry (2 units) beside large quantities of OLE+MI, anointing oil. Rival: nēru 'lamp' (√n-w-r), lamp oil, against which tell the small quantities and the sanctuary contexts.
+OLE with the complement NE, on HT 23a, HT 32, HT 100 and TY 3b, at Haghia Triada and Tylissos, always in small quantities (¾, ≈⅙, 2 units), measured ritual portions. neseku 'libation': Ug. /n-s-k/ 'to pour (out), spill' (DULAT 635), Heb. נֶסֶךְ nesek 'libation, drink offering' (Num 15:5; Isa 48:5), √n-s-k, NE its first syllable. HT 32 issues it under a \*307 dubur 'sanctuary' heading; on HT 23a OLE+NE, OLE+TU, OLE+RI and \*308 stand at the same ≈⅙, a recipe of four oils; on TY 3b it is a minor entry (2 units) beside large quantities of OLE+MI, anointing oil. Rival: nēru 'lamp' (√n-w-r), lamp oil, against which tell the small quantities and the sanctuary contexts.
 
 ### Cognates
 

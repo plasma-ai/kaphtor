@@ -82,7 +82,7 @@ Unicode (Linear A block):
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/M/MA\|MA]] |  | unread |  |  |
+| [[wiki/linear-a/words/M/MA\|MA]] |  | unread |  | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/D/DI_NA_broken_both\|&#93;-DI-NA-&#91;]] |  | unread |  | unread |
 | QE-RA₂-JA |  | unread |  |  |
 | [[wiki/linear-a/words/D/DI\|DI]] |  |  |  | CANDIDATE (lexicon) |

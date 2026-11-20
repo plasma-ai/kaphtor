@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/S/SI_KI_RA
 title: "SI-KI-RA"
-desc: "Śikira: personal name, 'Hired' (√ś-k-r 'to hire'); rival šēkār 'strong drink'. Lexicon, SPECULATIVE (tier 1)."
+desc: "Śikira: personal name, 'Hired' (√ś-k-r 'to hire'). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "SI-KI-RA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Śikira |
-| Meaning | personal name, 'Hired' (√ś-k-r 'to hire'); rival šēkār 'strong drink' |
+| Meaning | personal name, 'Hired' (√ś-k-r 'to hire') |
 | Root | ś-k-r |
 | Proto-Semitic | \*śVkVr- (#K0481) |
 | Language layer | Semitic |
@@ -78,6 +78,7 @@ di Mino
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |
+| Contact reference | am_gelb_n_05400 |
 
 ### Note
 

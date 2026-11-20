@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "incomplete"
-words: ["KA", "KU-RO", "RU-ZU-NA", "SA-QE-RI"]
+words: ["*86", "KA", "KU-RO", "RU-ZU-NA", "SA-QE-RI"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -66,13 +66,13 @@ Unicode (Linear A block):
 
 **SPECULATIVE**, incomplete (status: incomplete).
 
-> \[…\]DE-NU, RU-RA₂: \*86, KA 40. KA 30. KA 50. The dignitary(?), KA 30. Šaqeli(?), KA 30. Total 180.
+> \[…\]DE-NU, RU-RA₂: the ship (\*86), KA 40. KA 30. KA 50. The dignitary(?), KA 30. Šaqeli(?), KA 30. Total 180.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | [[wiki/linear-a/words/D/DE_NU\|DE-NU]] |  | heading (unread) |  | unread |
 | [[wiki/linear-a/words/R/RU_RA2\|RU-RA₂]] |  | sub-heading (unread) |  | unread |
-| [[wiki/linear-a/words/star/star86\|\*86]] |  | entry head before KA 40 |  |  |
+| [[wiki/linear-a/words/star/star86\|\*86]] | (logogram) | ship, heading the KA entries | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/K/KA\|KA]] | kapp | palm-measure, bowl (unit) | CANDIDATE | CANDIDATE (lexicon) |
 | 40 | 40 | 40 | CONFIRMED |  |
 | [[wiki/linear-a/words/K/KA\|KA]] | kapp | palm-measure, bowl (unit) | CANDIDATE | CANDIDATE (lexicon) |
@@ -94,7 +94,7 @@ Five entries of KA, the first under \*86 and two with no name, summing exactly t
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/K/KA|KA]], [[wiki/linear-a/words/K/KU_RO|KU-RO]], [[wiki/linear-a/words/R/RU_ZU_NA|RU-ZU-NA]], [[wiki/linear-a/words/S/SA_QE_RI|SA-QE-RI]].
+[[wiki/linear-a/words/star/star86|\*86]], [[wiki/linear-a/words/K/KA|KA]], [[wiki/linear-a/words/K/KU_RO|KU-RO]], [[wiki/linear-a/words/R/RU_ZU_NA|RU-ZU-NA]], [[wiki/linear-a/words/S/SA_QE_RI|SA-QE-RI]].
 
 ## Corpus note
 

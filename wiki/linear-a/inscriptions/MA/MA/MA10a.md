@@ -42,7 +42,7 @@ Transliteration, line by line:
 
 1. RU 𐄁 \*413+SU 2
 2. \*412+E 4
-3. \*659 4
+3. \*412+F 4
 
 Unicode (Linear A block):
 

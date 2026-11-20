@@ -26,6 +26,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/SI_DI_star301\|SI-DI-\*301]] | Ṣidna | Sidon (place name); rival Ṣīd-nā 'our Ṣid' | 1 |
+| [[wiki/names/semitic/names/SI_DI_star301\|SI-DI-\*301]] | Ṣidna | Sidon (place name) | 1 |
 
 <!-- END kaphtor:record -->

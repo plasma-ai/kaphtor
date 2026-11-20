@@ -1,7 +1,7 @@
 ---
 name: wiki/names/hurrian/names/TA_TA
 title: "TA-TA"
-desc: "Tatta: Tatta (Hurrian personal name), stem tatt-; rival the Anatolian name Tata. Hurrian, SPECULATIVE."
+desc: "Tatta: Tatta (Hurrian personal name), stem tatt-. Hurrian, SPECULATIVE."
 tags: ["names", "personal-name", "hurrian"]
 kind: "name"
 form: "TA-TA"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Tatta** · Tatta (Hurrian personal name), stem tatt-; rival the Anatolian name Tata
+**Tatta** · Tatta (Hurrian personal name), stem tatt-
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Tatta |
-| Meaning | Tatta (Hurrian personal name), stem tatt-; rival the Anatolian name Tata |
+| Meaning | Tatta (Hurrian personal name), stem tatt- |
 | Language layer | [[wiki/names/hurrian/_index\|Hurrian]] |
 | Reading's standing | SPECULATIVE |
 | Standing as a personal name | SPECULATIVE |

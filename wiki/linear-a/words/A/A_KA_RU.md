@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/A/A_KA_RU
 title: "A-KA-RU"
-desc: "Agaru: field, estate (heading); rival the Ugaritic god Ugaru. Lexicon, PROBABLE (tier 3)."
+desc: "Agaru: field, estate (heading). Lexicon, PROBABLE (tier 3)."
 tags: ["linear-a", "word", "tier-3", "administrative", "agriculture", "noun"]
 kind: "word"
 form: "A-KA-RU"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Agaru |
-| Meaning | field, estate (heading); rival the Ugaritic god Ugaru |
+| Meaning | field, estate (heading) |
 | Root | ʾ-g-r |
 | Proto-Semitic | \*(ʾV-)g(w)ar- (or \*hugar-)/\*garh- (#1807) |
 | Language layer | Semitic |

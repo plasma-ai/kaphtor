@@ -52,6 +52,8 @@ HT 118, the pig account SUS · \*516 ·: KI 10, KI 4 and KI 1 follow the first t
 | Akkadian | kalû 'to withhold goods, merchandise, deliveries' (CAD K 99) |
 | Aramaic | klʾ 'withhold': \[p\]rskn zy kly 'your salary which has been withheld' (DNWSI 508) |
 | Arabic | kāliʾ (كالئ) 'a debt of which the payment is deferred' (Lane 2624) |
+| Linear B | o for o-pe-ro, ophelos 'debt, shortfall': the amount owed, written by its first sign (KN Dl 943, PY Ma 123; Killen 2024, 130, 994) |
+| Cuneiform | the arrears logograms write other words: LÁL ribbatu 'arrears, remainder' (CAD R 315), ÍB.TAK₄ rīḫtu 'remainder' (CAD R 337); kalû is written GUL once, CT 12 7 iv 44 (CAD K 95) |
 
 ### Source
 

@@ -46,6 +46,7 @@ Speculative. A mostly standalone sign (16 of 24 tokens) whose syllabic value is 
 
 | Word | Reading | Confidence |
 |---|---|---|
+| [[wiki/linear-a/words/star/star86\|\*86]] | (logogram) | CANDIDATE |
 | [[wiki/linear-a/words/star/star86_plus_star188\|\*86+\*188]] | buṭnu | CANDIDATE |
 
 <!-- END kaphtor:record -->

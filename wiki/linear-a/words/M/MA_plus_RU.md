@@ -40,7 +40,7 @@ updated: 2026-11-12T00:26:03Z
 
 ### Note
 
-HT 12 MA+RU · \*118 5, wool weighed in talents. The ligature A 559 is the wool logogram (Nosch and Weilhartner 2026, 122–123, 131), and its two signs spell the wool word maru that Greek keeps as μαλλός. HT 24a writes it with -ME, MA+RU-ME 10 and 6; HT 24b totals 4½ against a recto wool total restored as 45, the Linear B ratio of 10 wool units to the talent (Del Freo 2020, 56). See MA-RU-ME, \*118.
+HT 12 MA+RU · \*118 5, wool weighed in talents. The ligature A 559 is the wool logogram (Nosch and Weilhartner 2026, 122–123, 131), and its two signs spell the wool word maru that Greek keeps as μαλλός. HT 24a writes it with -ME, MA+RU-ME 10 and 6; HT 24b totals 4½ against a recto wool total restored as 45, the Linear B ratio of 10 wool units to the talent (Del Freo 2020, 56). Linear B's wool sign descends from the monogram (Duhoux in Killen 2024, 722), and Knossos turns its unit of about 3 kg into cloth at fixed rates: 1.67 units to a pa-we-a, 3 to a tu-na-no, 7 to a te-pa, 10 to a combed te-pa (Luján 2010, 380; Nosch 2024, 333, 335). See MA-RU-ME, \*118.
 
 ### Cognates
 
@@ -50,7 +50,7 @@ HT 12 MA+RU · \*118 5, wool weighed in talents. The ligature A 559 is the wool 
 
 ### Source
 
-di Mino; Nosch and Weilhartner 2026; Salgarella 2022; Del Freo 2020
+di Mino; Nosch and Weilhartner 2026; Salgarella 2022; Del Freo 2020; Killen 2024; Luján 2010; Nosch 2024
 
 ## Attestations
 

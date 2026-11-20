@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/N/NA_star21F_NE_MI_NA
 title: "NA-*21F-NE-MI-NA"
-desc: "naḫnemina: nẖnm-oil, one of the seven sacred oils (Egyptian loanword); rival a personal name. Lexicon, SPECULATIVE (tier 1)."
+desc: "naḫnemina: nẖnm-oil, one of the seven sacred oils (Egyptian loanword). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "commodity", "hapax", "noun", "oil", "ritual"]
 kind: "word"
 form: "NA-*21F-NE-MI-NA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | naḫnemina |
-| Meaning | nẖnm-oil, one of the seven sacred oils (Egyptian loanword); rival a personal name |
+| Meaning | nẖnm-oil, one of the seven sacred oils (Egyptian loanword) |
 | Root | nẖnm |
 | Language layer | Middle Egyptian |
 | Tags | commodity, hapax, noun, oil, ritual |

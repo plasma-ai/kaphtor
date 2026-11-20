@@ -1,7 +1,7 @@
 ---
 name: wiki/names/hurrian/names/U_TI
 title: "U-TI"
-desc: "Utti: Utti (Hurrian personal name), stem utt-; rival the Anatolian name Utti. Hurrian, SPECULATIVE."
+desc: "Utti: Utti (Hurrian personal name), stem utt-. Hurrian, SPECULATIVE."
 tags: ["names", "personal-name", "hurrian"]
 kind: "name"
 form: "U-TI"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Utti** · Utti (Hurrian personal name), stem utt-; rival the Anatolian name Utti
+**Utti** · Utti (Hurrian personal name), stem utt-
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Utti |
-| Meaning | Utti (Hurrian personal name), stem utt-; rival the Anatolian name Utti |
+| Meaning | Utti (Hurrian personal name), stem utt- |
 | Language layer | [[wiki/names/hurrian/_index\|Hurrian]] |
 | Reading's standing | SPECULATIVE |
 | Standing as a personal name | SPECULATIVE |
@@ -38,7 +38,7 @@ HT 10b .1 U-TI 1, whole; the stroke inside TI is a palimpsest trace (GORILA I 21
 
 ## As a name
 
-HT 10b .1 U-TI 1, first entry, before DA-RE 2 and TA-RI-NA 15 (GORILA I 21). Utti, as Alalakh Ú-ti (AlT 414.7,17; Niedorf 2008, 309) and Nuzi Uttija, var. Ú-ti-ia (NPN 169). See the lexicon entry U-TI.
+HT 10b .1 U-TI 1, first entry, before DA-RE 2 and TA-RI-NA 15 (GORILA I 21). Utti, as Alalakh Ú-ti (AlT 414.7,17; Niedorf 2008, 309) and Nuzi Uttija, var. Ú-ti-ia (NPN 169). See the lexicon entry U-TI. Rival: the Anatolian name Utti.
 
 ## Cognates
 
@@ -65,6 +65,6 @@ Read words on the same documents.
 
 | Word | Reading | Meaning |
 |---|---|---|
-| DA-RE | dār | estate, household (a unit receiving men and grain); rival 'kin group, clan' |
+| DA-RE | dār | estate, household (a unit receiving men and grain) |
 
 <!-- END kaphtor:record -->

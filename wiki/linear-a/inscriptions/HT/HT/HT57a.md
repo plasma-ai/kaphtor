@@ -42,9 +42,9 @@ updated: 2026-10-24T16:17:50Z
 Transliteration, line by line:
 
 1. DA-QE-RA
-2. 1
-3. A
-4. ¹⁄₈
+2. \]1
+3. A\[
+4. \]¹⁄₈\[
 5. 𐝫
 
 Unicode (Linear A block):
@@ -61,7 +61,7 @@ Unicode (Linear A block):
 
 **CANDIDATE**, incomplete (status: incomplete).
 
-> The district of Qīr: 1. A ⅛ \[…\]
+> The district of Qīr \[…\] \[…\]1, A\[…\] \[…\]⅛\[…\]
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ Unicode (Linear A block):
 
 ### Notes
 
-Broken at the right and below; the fraction's foot meets the lower fracture.
+Broken at the right and below, and written over an erasure; .2 \]1 A\[ and .3 the fraction between two breaks (GORILA I 111), its foot meeting the lower fracture.
 
 ### Source
 

@@ -30,7 +30,7 @@ updated: 2026-10-25T05:11:48Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | ḫalāḳu (CAD Ḫ 36, AHw. 310 apud SEDonline 794) | CAD Ḫ 36, AHw. 310; SEDonline 794 | gloss withheld |
-| Ugaritic | ḫlḳ (DULAT 388–389; SEDonline 794) | DULAT 388–389; SEDonline 794 | gloss withheld |
+| Ugaritic | ḫlḳ (DULAT 388–389; SEDonline 794), of Baal and of Aqhat (KTU 1.18 IV 40–41; Tugendhaft 2018, 41 n. 11) | DULAT 388–389; SEDonline 794; KTU 1.18 IV 40–41; Tugendhaft 2018 41 n. 11 | gloss withheld |
 | Hebrew | ḥlḳ (HALOT 322 apud SEDonline 794) | HALOT 322; SEDonline 794 | gloss withheld |
 | Arabic | ḫlq (Lane 800 apud SEDonline 794) | Lane 800; SEDonline 794 | gloss withheld |
 | Geez | ḫalḳa (CDG 261 apud SEDonline 794) | CDG 261; SEDonline 794 | gloss withheld |

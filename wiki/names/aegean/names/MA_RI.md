@@ -1,7 +1,7 @@
 ---
 name: wiki/names/aegean/names/MA_RI
 title: "MA-RI"
-desc: "Mari: Mari (place name; Linear B ma-ri); rival Mari on the Euphrates. Aegean, SPECULATIVE."
+desc: "Mari: Mari (place name; Linear B ma-ri). Aegean, SPECULATIVE."
 tags: ["names", "place-name", "aegean"]
 kind: "name"
 form: "MA-RI"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Mari** · Mari (place name; Linear B ma-ri); rival Mari on the Euphrates
+**Mari** · Mari (place name; Linear B ma-ri)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/places\|Place name]] |
 | Reading | Mari |
-| Meaning | Mari (place name; Linear B ma-ri); rival Mari on the Euphrates |
+| Meaning | Mari (place name; Linear B ma-ri) |
 | Language layer | [[wiki/names/aegean/_index\|Aegean]] |
 | Reading's standing | SPECULATIVE |
 | Standing as a place name | SPECULATIVE |

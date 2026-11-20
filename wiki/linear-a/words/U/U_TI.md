@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/U/U_TI
 title: "U-TI"
-desc: "Utti: Utti (Hurrian personal name), stem utt-; rival the Anatolian name Utti. Lexicon, SPECULATIVE (tier 1)."
+desc: "Utti: Utti (Hurrian personal name), stem utt-. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "U-TI"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Utti |
-| Meaning | Utti (Hurrian personal name), stem utt-; rival the Anatolian name Utti |
+| Meaning | Utti (Hurrian personal name), stem utt- |
 | Language layer | Hurrian |
 | Tags | hapax, personal_name |
 | Semantic field | personal_name |
@@ -79,7 +79,7 @@ di Mino; Niedorf 2008; NPN
 
 ### Note
 
-HT 10b .1 U-TI 1, first entry, before DA-RE 2 and TA-RI-NA 15 (GORILA I 21). Utti, as Alalakh Ú-ti (AlT 414.7,17; Niedorf 2008, 309) and Nuzi Uttija, var. Ú-ti-ia (NPN 169). See the lexicon entry U-TI.
+HT 10b .1 U-TI 1, first entry, before DA-RE 2 and TA-RI-NA 15 (GORILA I 21). Utti, as Alalakh Ú-ti (AlT 414.7,17; Niedorf 2008, 309) and Nuzi Uttija, var. Ú-ti-ia (NPN 169). See the lexicon entry U-TI. Rival: the Anatolian name Utti.
 
 ### Co-occurring lexicon words
 

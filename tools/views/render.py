@@ -120,8 +120,10 @@ def word_page(model: Model, form: str) -> tuple[str, str]:
         desc = (f"Unread ({_words(u['status'])}): {_words(u.get('role') or 'no role')}; "
                 f"{u.get('frequency', 0)} occurrence(s).")
     elif o is None:
+        broken = "" if s.get("frequency") or not s.get("at_break") else (
+            f", whole beside a break on {len(s['at_break'])} document(s)")
         desc = (f"Unread sign ({_words(s['kind'])}, {_words(s['status'])}); "
-                f"{s.get('frequency', 0)} occurrence(s).")
+                f"{s.get('frequency', 0)} occurrence(s){broken}.")
     elif o.get("reading"):
         ref = o.get("lexicon_ref")
         desc = (f"{o['reading']}: {o.get('meaning') or _words(o.get('type') or 'name')}. "
@@ -248,6 +250,11 @@ def word_page(model: Model, form: str) -> tuple[str, str]:
             body += table(["On file in", "Record", "Value", "Standing"], [
                 [esc(v.get("file") or ""), esc(v.get("record") or ""), esc(v.get("value") or ""),
                  esc(v.get("standing") or "")] for v in s["on_file"]]) + [""]
+        if s.get("at_break"):
+            docs = [link(doc_path(d), esc(d)) for d in s["at_break"]]
+            named = docs[0] if len(docs) == 1 else ", ".join(docs[:-1]) + " and " + docs[-1]
+            body += [("The sign also stands whole beside a break on " if s.get("frequency") else
+                      "No token stands clear of a break. The sign is whole beside one on ") + named + ".", ""]
         if s.get("note"):
             body += [paragraphs(s["note"]), ""]
     return _page(word_path(form), fields, body)

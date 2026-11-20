@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/TI_MA_RU_WI_TE
 title: "TI-MA-RU-WI-TE"
-desc: "Tīmar-luwwīt: Timar the Levite (f.), priestess (woman's name and title); rival Tamar + WI-TE. Semitic, SPECULATIVE."
+desc: "Tīmar-luwwīt: Timar the Levite (f.), priestess (woman's name and title). Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "TI-MA-RU-WI-TE"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Tīmar-luwwīt** · Timar the Levite (f.), priestess (woman's name and title); rival Tamar + WI-TE
+**Tīmar-luwwīt** · Timar the Levite (f.), priestess (woman's name and title)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Tīmar-luwwīt |
-| Meaning | Timar the Levite (f.), priestess (woman's name and title); rival Tamar + WI-TE |
+| Meaning | Timar the Levite (f.), priestess (woman's name and title) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/t-m-r\|t-m-r]] + [[wiki/names/semitic/roots/l-w-y\|l-w-y]] |
 | Proto-Semitic | \*tam(V)r- (#737), \*lVwVy- (#398) |

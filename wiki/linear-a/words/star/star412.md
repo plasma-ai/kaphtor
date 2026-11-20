@@ -41,7 +41,9 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Commodity logogram: \*412+E three times on MA 10, TI+\*412VAS once (MA 10b), \*412-VS-VIN once (PH 9b); VIN on PH 9b marks a wine vessel. Akk. agannu 'basin', Heb. ʔaggān (Exod 24:6, Song 7:3, Isa 22:24), Arb. ʔiggānat-, syllabic a-ga-nu at Qatna and Amarna (GlOS 1, 12): a larger basin than \*406VAS kās 'cup'. The complement E writes /ʔē-/: Arabic keeps the i-class vowel, Northwest Semitic lowers it to ē, ʔēgān, and the aleph is unwritten. TI+\*412VAS is a subtype, TI for ṭīn- 'clay bowl'. At Malia the sign is an upright, necked jar with the complement written inside it; on PH 9b the sign before VIN is an animal's head in profile. See A-KA-NU.
+Commodity logogram: \*412+E three times on MA 10, TI+\*412VAS once (MA 10b), \*412-VS-VIN once (PH 9b); VIN on PH 9b marks a wine vessel. Akk. agannu 'basin', Heb. ʔaggān (Exod 24:6, Song 7:3, Isa 22:24), Arb. ʔiggānat-, syllabic a-ga-nu at Qatna and Amarna (GlOS 1, 12): a larger basin than \*406VAS kās 'cup'. The complement E writes /ʔē-/: Arabic keeps the i-class vowel, Northwest Semitic lowers it to ē, ʔēgān, and the aleph is unwritten. TI+\*412VAS is a subtype, TI for ṭīn- 'clay bowl'. At Malia the sign is an upright, necked jar with the complement written inside it; on PH 9b the sign before VIN is an animal's head in profile.
+
+Rival: the E is a measure. MA 10a and MA 10c write the same jar with F inside it, counted after \*412+E each time, and GORILA's sign index lists 412VAS+E again under the fraction E and 412VAS+F under F (V 314, 318, 319). Weak point: the jar has one handle high at the left, a narrow neck and swelling shoulders, the outline of the Linear B ewer \*205, a-te-we (Ventris and Chadwick 1956, 324, 327), and no open bowl. See A-KA-NU.
 
 ### Cognates
 

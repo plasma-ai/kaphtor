@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/T/TE_JA_RE
 title: "TE-JA-RE"
-desc: "Teyar: personal name, 'Merciful (god)'; rival tayyār 'trader'. Lexicon, CANDIDATE (tier 2)."
+desc: "Teyar: personal name, 'Merciful (god)'. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "hapax", "personal_name"]
 kind: "word"
 form: "TE-JA-RE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Teyar |
-| Meaning | personal name, 'Merciful (god)'; rival tayyār 'trader' |
+| Meaning | personal name, 'Merciful (god)' |
 | Root | t-w-r |
 | Proto-Semitic | \*tVwVr- (#1420) |
 | Language layer | Semitic |

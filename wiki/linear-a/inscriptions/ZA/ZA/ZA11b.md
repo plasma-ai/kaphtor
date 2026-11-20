@@ -9,7 +9,7 @@ site: "Zakros"
 support: "Tablet"
 period: "LMIB"
 translation: "incomplete"
-words: ["*516", "GRA+PA", "KU-PA", "OLIV", "SA-*301-RI"]
+words: ["*516", "GRA+PA", "I", "KU-PA", "OLIV", "SA-*301-RI"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -64,7 +64,7 @@ Unicode (Linear A block):
 
 **SPECULATIVE**, incomplete (status: incomplete).
 
-> E-TO-RI-\[?\], account: Šannāri: parīsu-measure 1; I: olives 1\[…\] \]I-DE\[…\] RA 2; box: parīsu-measure 3 \[…\]
+> E-TO-RI-\[?\], account: Šannāri: parīsu-measure 1; ration: olives 1\[…\] \]I-DE\[…\] RA 2; box: parīsu-measure 3 \[…\]
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ Traces follow the 1 after OLIV, at the break. The lower part is lost.
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/star/star516|\*516]], [[wiki/linear-a/words/G/GRA_plus_PA|GRA+PA]], [[wiki/linear-a/words/K/KU_PA|KU-PA]], [[wiki/linear-a/words/O/OLIV|OLIV]], [[wiki/linear-a/words/S/SA_star301_RI|SA-\*301-RI]].
+[[wiki/linear-a/words/star/star516|\*516]], [[wiki/linear-a/words/G/GRA_plus_PA|GRA+PA]], [[wiki/linear-a/words/I/I|I]], [[wiki/linear-a/words/K/KU_PA|KU-PA]], [[wiki/linear-a/words/O/OLIV|OLIV]], [[wiki/linear-a/words/S/SA_star301_RI|SA-\*301-RI]].
 
 ## Corpus note
 

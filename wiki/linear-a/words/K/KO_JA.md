@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/K/KO_JA
 title: "KO-JA"
-desc: "Qōya: personal name, Amorite type (quwy- 'wait for, hope'); rival 'be strong'. Lexicon, SPECULATIVE (tier 1)."
+desc: "Qōya: personal name, Amorite type (quwy- 'wait for, hope'). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "KO-JA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Qōya |
-| Meaning | personal name, Amorite type (quwy- 'wait for, hope'); rival 'be strong' |
+| Meaning | personal name, Amorite type (quwy- 'wait for, hope') |
 | Root | q-w-y (Amorite QWJ, unglossed) |
 | Proto-Semitic | \*ḳVw- (#1678) |
 | Language layer | Semitic |
@@ -79,11 +79,11 @@ di Mino; Gelb 1980; HALOT; CAD Q; Lane
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |
-| Contact reference | amorite_names:KU-IA-UM |
+| Contact reference | am_gelb_n_04109 |
 
 ### Note
 
-HT 119 .2 KO-JA 10, the second named entry of a personnel list. A hypocoristic on Amorite QWJ, 'wait for, hope' or 'be strong' (Gelb, AS 21: KU-IA-UM no. 4109, KU-WU-UM no. 4188, KU-IA-TUM no. 4108, KU-U₂-D-DA-GAN no. 4145, KU-U₂-D-IM no. 4146). KO for /qō/: cuneiform cannot show o. Weak points: two signs, the vowel. One attestation.
+HT 119 .2 KO-JA 10, the second named entry of a personnel list. A hypocoristic on Amorite QWJ, 'wait for, hope' or 'be strong' (Gelb, AS 21: KU-IA-UM no. 4109, KU-WU-UM no. 4188, KU-IA-TUM no. 4108, KU-U₂-D-DA-GAN no. 4145, KU-U₂-D-IM no. 4146). KO for /qō/: cuneiform cannot show o. Weak points: two signs, the vowel. One attestation. Rival: 'be strong'.
 
 ### Co-occurring lexicon words
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/E/E_NA_SI
 title: "E-NA-SI"
-desc: "ʾenāš: men, people (section heading); rival copper, bronze. Lexicon, CANDIDATE (tier 2)."
+desc: "ʾenāš: men, people (section heading). Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "hapax", "noun", "personnel"]
 kind: "word"
 form: "E-NA-SI"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʾenāš |
-| Meaning | men, people (section heading); rival copper, bronze |
+| Meaning | men, people (section heading) |
 | Root | ʾ-n-š (PS \*(ʾi-)nVš-) |
 | Proto-Semitic | \*(ʾi-)nVš- (#4) |
 | Language layer | Semitic |

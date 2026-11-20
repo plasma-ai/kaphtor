@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/R/RA_O_DI_KI
 title: "RA-O-DI-KI"
-desc: "rāʿû diqqi: herdsman of the small cattle (title, over a flock of 60); rival a personal name. Lexicon, SPECULATIVE (tier 1)."
+desc: "rāʿû diqqi: herdsman of the small cattle (title, over a flock of 60). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "compound", "hapax", "livestock", "noun", "occupation"]
 kind: "word"
 form: "RA-O-DI-KI"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | rāʿû diqqi |
-| Meaning | herdsman of the small cattle (title, over a flock of 60); rival a personal name |
+| Meaning | herdsman of the small cattle (title, over a flock of 60) |
 | Root | r-ʿ-y + d-q-q |
 | Proto-Semitic | \*rVʕVy-, \*rāʕ- (#454) + \*diḳ(ḳ)- (#1654) |
 | Language layer | Semitic |

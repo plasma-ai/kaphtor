@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/A/A_RA_JU
 title: "A-RA-JU"
-desc: "ʾArāyu: a town of the kingdom of Ugarit, on the Ugarit–Alalakh border (toponym); rival Aralu. Lexicon, SPECULATIVE (tier 1)."
+desc: "ʾArāyu: a town of the kingdom of Ugarit, on the Ugarit–Alalakh border (toponym). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "loanword", "toponym", "toponym_foreign"]
 kind: "word"
 form: "A-RA-JU"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʾArāyu |
-| Meaning | a town of the kingdom of Ugarit, on the Ugarit–Alalakh border (toponym); rival Aralu |
+| Meaning | a town of the kingdom of Ugarit, on the Ugarit–Alalakh border (toponym) |
 | Root | ʾArāyu (Pre-Greek) |
 | Language layer | Semitic |
 | Tags | loanword, toponym, toponym_foreign |

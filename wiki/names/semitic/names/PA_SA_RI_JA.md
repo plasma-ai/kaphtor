@@ -36,7 +36,7 @@ updated: 2026-11-11T23:39:03Z
 
 ## Note
 
-HT 24a .4 PA-SA-RI-JA ·, all four signs whole, heads the second wool section as KU-PA₃-RI-JA Kubariya heads the first (GORILA I 43). Baṣīru, a town of Ugarit: alphabetic bṣr, gentilic bṣry, syllabic URU ba-ṣi-ri (DULAT 240; RGTC 12/2, 53). Astour sets Baṣiri in the mountain district, at Wādi Bāṣūr (Astour 1995, 65); Watson adds 'observation post', if from Ug. bṣr 'to watch, spy' (Watson 2001, 113). Both towns stand in the same lists: RS 25.455A+ I 4 and I 10, KTU 4.800 II 18 and II 29. PA for b; SA echoes PA's vowel and closes the syllable, baṣ-riya, on the base \*Baṣr-, the shape of Hebrew Boṣrâ and Beṣer (HALOT 149), where Ugarit writes ba-ṣi-ri; -JA the gentilic -iya, as bṣry. One document.
+HT 24a .4 PA-SA-RI-JA ·, all four signs whole, heads the second wool section as KU-PA₃-RI-JA Kubariya heads the first (GORILA I 43). Baṣīru, a town of Ugarit: alphabetic bṣr, gentilic bṣry, syllabic URU ba-ṣi-ri (DULAT 240; RGTC 12/2, 53). Astour sets Baṣiri in the mountain district, at Wādi Bāṣūr (Astour 1995, 65); Watson adds 'observation post', if from Ug. bṣr 'to watch, spy' (Watson 2001, 113). Both towns stand in the same lists: RS 25.455A+ I 4 and I 10, KTU 4.800 II 18 and II 29. PA for b; SA echoes PA's vowel and closes the syllable, baṣ-riya, on the base \*Baṣr-, the shape of Hebrew Boṣrâ and Beṣer (HALOT 149), where Ugarit writes ba-ṣi-ri; -JA the gentilic -iya, as bṣry. Weak point: the Knossos pattern set out under KU-PA₃-RI-JA. One document.
 
 ## As a name
 

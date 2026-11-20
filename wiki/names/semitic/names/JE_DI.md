@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/JE_DI
 title: "JE-DI"
-desc: "yedī: gentilic 'the Idaean' (of Mount Ida); rivals the personal name 'He knows' and the gentilic 'Judean'. Semitic, CANDIDATE."
+desc: "yedī: gentilic 'the Idaean' (of Mount Ida). Semitic, CANDIDATE."
 tags: ["names", "gentilic", "semitic"]
 kind: "name"
 form: "JE-DI"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**yedī** · gentilic 'the Idaean' (of Mount Ida); rivals the personal name 'He knows' and the gentilic 'Judean'
+**yedī** · gentilic 'the Idaean' (of Mount Ida)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/peoples\|Gentilic]] |
 | Reading | yedī |
-| Meaning | gentilic 'the Idaean' (of Mount Ida); rivals the personal name 'He knows' and the gentilic 'Judean' |
+| Meaning | gentilic 'the Idaean' (of Mount Ida) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/y-d\|y-d]] |
 | Proto-Semitic | \*yad- ~ \*ʾid- (#2046) |
@@ -71,9 +71,9 @@ Read words on the same documents.
 | [[wiki/names/semitic/names/TE_star301\|TE-\*301]] | Tēnā | Fig (personal name); a recipient in allocation lists |
 | [[wiki/names/semitic/names/QA_star310_I\|QA-\*310-I]] | qaynī | smith or cultic administrator; occupational title |
 | [[wiki/names/semitic/names/KI_RE_TA_NA\|KI-RE-TA-NA]] | Kretan | Cretan (gentilic: 'of Crete') |
-| DA-RE | dār | estate, household (a unit receiving men and grain); rival 'kin group, clan' |
+| DA-RE | dār | estate, household (a unit receiving men and grain) |
 | KU-RO | kull | total, sum (accounting term) |
 | PO-TO-KU-RO | pūt kull | grand total (lit. 'the full extent of the total') |
-| [[wiki/names/semitic/names/KA_PA\|KA-PA]] | kapa(r) | village, settlement (kapar); rival an institution |
+| [[wiki/names/semitic/names/KA_PA\|KA-PA]] | kapa(r) | village, settlement (kapar) |
 
 <!-- END kaphtor:record -->

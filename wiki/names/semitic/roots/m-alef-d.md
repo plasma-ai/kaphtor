@@ -27,6 +27,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/MA_DI\|MA-DI]] | Maʾdi | place name: a unit of men and livestock in the HT rosters; rival the Hurrian personal name Madi 'wisdom' | 6 |
+| [[wiki/names/semitic/names/MA_DI\|MA-DI]] | Maʾdi | place name: a unit of men and livestock in the HT rosters | 6 |
 
 <!-- END kaphtor:record -->

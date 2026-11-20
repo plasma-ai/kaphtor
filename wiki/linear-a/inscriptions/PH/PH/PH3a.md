@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/PH/PH/PH3a
 title: "PH3a"
-desc: "Tablet, Phaistos, MMIIIB. Translation: incomplete (SPECULATIVE)."
+desc: "Tablet, Phaistos, MMIIIB. GORILA I 291: .1 ]*556̣ 1̣ · TẠ[, .2 ]*557 1 · *563 𐝓, .3 ]MA+RU 𐝓 · PẠ-RẠ 𐝓, .4 ]PẠ[ … ]1̣. MA+RU is the wool ligature in its *558 form; *556, *557 and *563 are further MA ligatures, MA+[•], MA+A and MA+MA (Younger).. Translation: incomplete (SPECULATIVE)."
 tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
 kind: "inscription"
 id: "PH3a"
 site: "Phaistos"
 support: "Tablet"
-period: "MMIIIB"
+period: "MMIIIB. GORILA I 291: .1 ]*556̣ 1̣ · TẠ[, .2 ]*557 1 · *563 𐝓, .3 ]MA+RU 𐝓 · PẠ-RẠ 𐝓, .4 ]PẠ[ … ]1̣. MA+RU is the wool ligature in its *558 form; *556, *557 and *563 are further MA ligatures, MA+[•], MA+A and MA+MA (Younger)."
 translation: "incomplete"
 words: ["PA-RA"]
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Phaistos |
 | Findspot |  |
 | Support | Tablet |
-| Period | MMIIIB |
+| Period | MMIIIB. GORILA I 291: .1 \]\*556̣ 1̣ · TẠ\[, .2 \]\*557 1 · \*563 𐝓, .3 \]MA+RU 𐝓 · PẠ-RẠ 𐝓, .4 \]PẠ\[ … \]1̣. MA+RU is the wool ligature in its \*558 form; \*556, \*557 and \*563 are further MA ligatures, MA+\[•\], MA+A and MA+MA (Younger). |
 | Scribe |  |
 | Edition | GORILA 1 |
 | Series | PH |
@@ -40,10 +40,10 @@ updated: 2026-10-24T16:17:50Z
 
 Transliteration, line by line:
 
-1. \]\*556 1
+1. \]MA+\[?\] 1
 2. TA\[
-3. \]\*557 1
-4. \*563 𐝓
+3. \]MA+A 1
+4. MA+MA 𐝓
 5. \]MA+RU 𐝓
 6. PA-RA 𐝓
 7. \]PA\[
@@ -66,7 +66,7 @@ Unicode (Linear A block):
 
 **SPECULATIVE**, incomplete (status: incomplete).
 
-> \]\*556 1; TA\[…\] \]\*557 1; \*563, a fraction; \]wool (MA+RU), a fraction; lye (PA-RA), a fraction; \]PA\[…\] \]1.
+> \]MA+\[…\] 1; TA\[…\] \]MA+A 1; MA+MA, a fraction; \]wool (MA+RU), a fraction; lye (PA-RA), a fraction; \]PA\[…\] \]1.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|

@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/MA_KA_RI_TE
 title: "MA-KA-RI-TE"
-desc: "makkārītu: merchants (heading of a roster of men); rival 'red (wool)'. Semitic, CANDIDATE."
+desc: "makkārītu: merchants (heading of a roster of men). Semitic, CANDIDATE."
 tags: ["names", "title", "semitic"]
 kind: "name"
 form: "MA-KA-RI-TE"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**makkārītu** · merchants (heading of a roster of men); rival 'red (wool)'
+**makkārītu** · merchants (heading of a roster of men)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/titles\|Title]] |
 | Reading | makkārītu |
-| Meaning | merchants (heading of a roster of men); rival 'red (wool)' |
+| Meaning | merchants (heading of a roster of men) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/m-k-r\|m-k-r]] |
 | Proto-Semitic | \*makir- (#S22) |

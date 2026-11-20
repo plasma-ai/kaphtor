@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/inscriptions/PH/PH/PH17a
 title: "PH17a"
-desc: "Lames (short thin tablet), Phaistos, MMIIB. Translation: none."
+desc: "Lames (short thin tablet), Phaistos, MMIIB. GORILA I 307: ]*359-[, 'Traces à gauche'; the hyphen joins *359 to a lost sign.. Translation: none."
 tags: ["linear-a", "inscription", "translation-none", "lames-(short-thin-tablet)"]
 kind: "inscription"
 id: "PH17a"
 site: "Phaistos"
 support: "Lames (short thin tablet)"
-period: "MMIIB"
+period: "MMIIB. GORILA I 307: ]*359-[, 'Traces à gauche'; the hyphen joins *359 to a lost sign."
 translation: "none"
 words: []
 created: 2026-10-24T16:17:50Z
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 | Site | Phaistos |
 | Findspot |  |
 | Support | Lames (short thin tablet) |
-| Period | MMIIB |
+| Period | MMIIB. GORILA I 307: \]\*359-\[, 'Traces à gauche'; the hyphen joins \*359 to a lost sign. |
 | Scribe |  |
 | Edition | GORILA 1 |
 | Series | PH |
@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 Transliteration, line by line:
 
-1. \*359
+1. \]\*359-\[
 
 Unicode (Linear A block):
 

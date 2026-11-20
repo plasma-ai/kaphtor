@@ -5,9 +5,9 @@
 
 <p align="center">
   <a href="wiki/linear-a/inscriptions/_index.md"><img alt="corpus: 1,719 records" src="https://img.shields.io/badge/corpus-1,719%20records-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
-  <a href="wiki/linear-a/inscriptions/_index.md"><img alt="translations: 527" src="https://img.shields.io/badge/translations-527-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
-  <a href="wiki/linear-a/words/_index.md"><img alt="lexicon: 718 entries" src="https://img.shields.io/badge/lexicon-718%20entries-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
-  <a href="wiki/linear-a/words/_index.md"><img alt="names: 380" src="https://img.shields.io/badge/names-380-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <a href="wiki/linear-a/inscriptions/_index.md"><img alt="translations: 531" src="https://img.shields.io/badge/translations-531-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <a href="wiki/linear-a/words/_index.md"><img alt="lexicon: 736 entries" src="https://img.shields.io/badge/lexicon-736%20entries-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <a href="wiki/linear-a/words/_index.md"><img alt="names: 382" src="https://img.shields.io/badge/names-382-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
   <a href="wiki/semitic-roots/_index.md"><img alt="Semitic roots: 5,189" src="https://img.shields.io/badge/Semitic%20roots-5,189-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
   <a href="wiki/linear-a/signs/_index.md"><img alt="sign values: 42" src="https://img.shields.io/badge/sign%20values-42-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
   <br>
@@ -37,7 +37,7 @@ The case for the readings is set out in [Opening Linear A](https://plasma.ai/res
 sanctuary libation formula.
 
 > I opened this record so that anyone can test the decipherment, inscription by inscription and root by root. Every
-> reading stands beside its evidence, its tier and its rivals. Break one, and the falsification goes on the record.
+> reading stands beside its evidence, its tier and its rivals.
 >
 > —Tom di Mino
 

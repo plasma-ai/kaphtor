@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/S/SI
 title: "SI"
-desc: "šay: tribute, gift—logographic abbreviation of šay(u); administrative category marker for goods designated as tribute/gift offerings. Lexicon, PROBABLE (tier 3)."
+desc: "šay: tribute, gift: šay written by one sign; administrative category marker for goods designated as tribute or gift offerings. Lexicon, PROBABLE (tier 3)."
 tags: ["linear-a", "word", "tier-3", "abbreviation", "accounting", "administrative", "logogram", "transaction_sign"]
 kind: "word"
 form: "SI"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | šay |
-| Meaning | tribute, gift—logographic abbreviation of šay(u); administrative category marker for goods designated as tribute/gift offerings |
+| Meaning | tribute, gift: šay written by one sign; administrative category marker for goods designated as tribute or gift offerings |
 | Root | š-y |
 | Proto-Semitic | \*ṯay- (#3780) |
 | Language layer | Semitic |
@@ -41,7 +41,9 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-One sign in three uses, the pair of TE terûmā. In entries of the form SI · n, ten times at HT, KH, PH and GO, it marks part of a quantity as tribute: HT 106 MI-NU-TE · CYP · 6 · SI · 5½ · SI · 1 · DA · 8 · SI · 3, sub-quantities within a CYP reckoning; on HT 30, SI · 4 opens a summary of several commodities. Alone, it stamps 92 HT nodules, one of the single-sign nodule categories: \*301 231, KU 152, KA 150, SI 92, RO 91, ZE 46, TE 27, I 25. In ligatures it appears as SI+SE (3 tablets), QI+SI (ZA 9), SI+ME and SI-CYP (HT 130), 'tribute-cypress', on the model of VIN+TE 'wine-offering'. Heb. šay (שַׁי) 'tribute' is brought to a temple or a divine authority at all three of its attestations (Isa 18:7; Ps 68:30; 76:12). SI šay, the owed or diplomatic gift, stands beside TE terûmā, the free donation to the sanctuary.
+One sign in three uses, the pair of TE terûmā. In entries of the form SI · n, ten times at HT, KH, PH and GO, it marks part of a quantity as tribute: HT 106 MI-NU-TE · CYP · 6 · SI · 5½ · SI · 1 · DA · 8 · SI · 3, sub-quantities within a CYP reckoning; on HT 30, SI · 4 opens a summary of several commodities. Alone, it stamps 92 HT nodules, one of the single-sign nodule categories: \*301 231, KU 152, KA 150, SI 92, RO 91, ZE 46, TE 27, I 25. In ligatures it appears as SI+SE (3 tablets), QI+SI (ZA 9), SI+ME and SI-CYP (HT 130), 'tribute-cypress', on the model of VIN+TE 'wine-offering'. Heb. šay (שַׁי) 'tribute' is brought to a temple or a divine authority at all three of its attestations (Isa 18:7; Ps 68:30; 76:12). SI šay, the owed or diplomatic gift, stands beside TE terûmā, the free donation to the sanctuary. Gibson reads Old Aramaic šy \[šay/ē\] (HALOT 1476).
+
+Rival: Akkadian šibšu, an agricultural tax assessed on barley crops and due to the palace, spelled si-ib-šum in Old Akkadian (CAD Š/2 383), which suits the part-quantities of HT 106; the word is known from Akkadian alone.
 
 ### Cognates
 
@@ -50,10 +52,15 @@ One sign in three uses, the pair of TE terûmā. In entries of the form SI · n,
 | Hebrew | šay (שַׁי) tribute, gift, present. Ps 68:30—tribute brought to the Temple; Ps 76:12—tribute brought to the Awesome One; Isa 18:7—tribute brought to YHWH Ṣebaʾôt. √š-y biconsonantal root |
 | Akkadian | šūtu / šâtu gift, present—functional parallel |
 | Phoenician | šy 'gift' (Tomback 1978, 316) |
+| Old Aramaic | šy (Zincirli, Panammu, KAI 214:18), read \[šay/ē\] by Gibson (HALOT 1476) |
+| Ugaritic | ṯy 'tribute, present', originally \*ṯayu according to Sivan (HALOT 1476) |
+| Soqotri | śe 'to give' (Leslau apud HALOT 1476) |
+| Linear B | tribute is written in full, do-so-mo and do-ra; SI in SUS+SI is si-a2-ro 'hog, fatted pig' (PY Cn 608; Killen 2024, 130, 948–49) |
+| Cuneiform | the gift logograms write other words: NÍG.BA qīštu 'gift' (CAD Q 275), IGI.DUḪ.A tāmartu 'gift, contribution, tribute' (CAD T 111) |
 
 ### Source
 
-di Mino; Tomback 1978
+di Mino; Tomback 1978; HALOT; CAD
 
 ## Attestations
 
@@ -173,6 +180,7 @@ di Mino; Tomback 1978
 | [[wiki/linear-a/inscriptions/HT/HT/HT106\|HT106]] | šay | tribute, gift (×3 — sub-quantities: 5½, 1, 3) | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT130\|HT130]] | šay | tribute, gift—logographic abbreviation of šay(u) | PROBABLE |
 | [[wiki/linear-a/inscriptions/KH/KH/KH7b\|KH7b]] |  | logogram SI, 14 |  |
+| [[wiki/linear-a/inscriptions/KH/KH/KH18\|KH18]] | šay | tribute | PROBABLE |
 | [[wiki/linear-a/inscriptions/KH/KH/KH47\|KH47]] | šay | tribute, gift—logographic abbreviation of šay(u) | PROBABLE |
 | [[wiki/linear-a/inscriptions/KN/KNZb/KNZb4\|KNZb4]] | šay | tribute (abbreviation) | PROBABLE |
 

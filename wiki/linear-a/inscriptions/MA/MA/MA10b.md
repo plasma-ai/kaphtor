@@ -43,7 +43,7 @@ Transliteration, line by line:
 1. DU-PI-TE-WA 𐄁 \*405+Ω 1
 2. \*412+E 3\[
 3. \]4
-4. \*402+A 2
+4. \*404+A 2
 5. TI+\*412VAS 2
 
 Unicode (Linear A block):

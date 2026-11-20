@@ -165,7 +165,7 @@
         },
         {
           "entry": "*412=ʔIGĀN",
-          "evidence": "*412+E beside *659 = *412VAS+F (MA10a/c): the slot takes a fraction sign"
+          "evidence": "*412+E beside *412+F (MA10a/c): the slot takes a fraction sign"
         },
         {
           "entry": "TI=TIʔIN",
@@ -2288,7 +2288,7 @@
       "linear_b": {
         "sign_number": "B 164",
         "value": "cloth (logogram)",
-        "note": "A cloth logogram known at Knossos only (Nosch and Weilhartner 2026, 126, 130–131); KN L 520 pe-re-ke *164, KN L 698 pe-ko-to *164; no syllabic value"
+        "note": "A cloth logogram known at Knossos only (Nosch and Weilhartner 2026, 126, 130–131), one of those Nosch says 'may be Minoan textile types' (2024, 341); KN L 520 pe-re-ke *164, KN L 698 pe-ko-to *164; L 520 gives 54 units of wool for nine of them (Nosch 2012, 344); no syllabic value"
       },
       "sign_number": "AB164"
     },
@@ -2304,8 +2304,8 @@
           "consonant": "z",
           "vowel": "o",
           "evidence": [
-            "Rival: ZO, as Montecchi takes it (2010, 31 n. 38). TELA+*312 (HT38) beside Linear B TELA+ZO (KN L 433; Del Freo 2020, 58; Killen 2024, 724), which Nosch and Weilhartner compare (2026, 126)",
-            "Shape: a pointed head over a crossbar on a stem, closest among the Linear B signs to zo; Melena finds A 312 as the ancestor of zo \"suggestive\" (2014, 46 n. 50)",
+            "Rival: ZO, as Montecchi takes it (2010, 31 n. 38). TELA+*312 (HT38) beside Linear B TELA+ZO (KN L 433, erased on Lc 5612 and perhaps on L 2127: Nosch 2024, 326–327 n. 14; Del Freo 2020, 58; Killen 2024, 724), which Nosch and Weilhartner compare (2026, 126)",
+            "Shape: a pointed head over a crossbar on a stem, closest among the Linear B signs to zo; Melena finds A 312 as the ancestor of zo \"suggestive\" (2014, 46 n. 50); Knossos also has *178, which 'may represent a textile with the pointed item on top resembling sign zo' (Nosch 2024, 327)",
             "KH8 *312 1 in a list with CYP ¼ ~ KH57 ZO 1 before CYP ¼"
           ]
         }
@@ -3064,7 +3064,7 @@
         "*301 consistently occupies the NA position in the libation formula word across all site-specific variants",
         "PK Za 8 ]-NU · PA₃-E beside PK Za 11 A-TA-I-*301-WA-E sets NU where *301 stands: Davis suggests the syllable of *301 might begin with n (2026b, 129)"
       ],
-      "note": "Allograph of NA (AB06). Second sign writing /na/. 272 corpus occurrences (236 standalone across 4 sites: 229 HT, 5 KH, 1 KN, 1 ZA; predominantly HT nodules). 24 written forms. Identified from peak sanctuary libation formula evidence: *301 always fills the NA slot in A-TA-I-*301-WA-JA and its variants. Cretan Hieroglyphic CH 046 is its likely forerunner (Docs², 33, fig. 6, apud Davis 2026b, 342 n. 824; Younger; Salgarella 2020, 341).",
+      "note": "Allograph of NA (AB06). Second sign writing /na/. 288 corpus occurrences (240 standalone across 4 sites: 233 HT, 5 KH, 1 KN, 1 ZA; 229 on HT nodules). 29 written forms, broken ones included. Identified from peak sanctuary libation formula evidence: *301 always fills the NA slot in A-TA-I-*301-WA-JA and its variants. Two signs for one syllable are known from Maya, a deciphered logosyllabic script, which has 'signs with the same reading (homophones)' and in which 'different signs of equal phonetic value might be used variably throughout a text' (Kettunen and Helmke 2020, 8, 17). Grube (1994, 8–9) traces how they arose. A logogram lends its syllable once a weak final consonant is dropped, so that the female head NAʾ 'woman' becomes a second syllabic na, as deer chih gives chi and torch tah gives ta. *301 does the same, the logogram nawā 'dwelling' lending na. Cretan Hieroglyphic CH 046 is its likely forerunner (Docs², 33, fig. 6, apud Davis 2026b, 342 n. 824; Younger; Salgarella 2020, 341).",
       "linear_b": null,
       "sign_number": "A301"
     },
@@ -3706,7 +3706,7 @@
       "confidence": 0.45,
       "tier": 2,
       "status": "CANDIDATE",
-      "note": "Commodity ideogram on MA10 4-sided bar (all 4 faces) alongside *413+SU, *405+Ω, *402+A, *414+F—a catalog of complemented ideograms. PS *ʔigān- 'cup, bowl': Arabic preserves /i/-class vowel (ʔiggānat-); NWS /i/→/ē/ lowering yields /ʔēgān/; aleph drops → complement E = /ʔē-/. Hebrew shifted to /a/ (ʔaggān, Exod 24:6, Song 7:3, Isa 22:24). PH9b *412-VS-VIN = wine bowl. Distinct from *406VAS=KĀS (cup)—ʔaggān is larger basin type. TI+*412VAS = subtype (TI prefix, cf. Linear B variety marking).",
+      "note": "Commodity ideogram on MA10 4-sided bar (all 4 faces) alongside *413+SU, *405+Ω, *404+A, *414+F—a catalog of complemented ideograms. PS *ʔigān- 'cup, bowl': Arabic preserves /i/-class vowel (ʔiggānat-); NWS /i/→/ē/ lowering yields /ʔēgān/; aleph drops → complement E = /ʔē-/. Hebrew shifted to /a/ (ʔaggān, Exod 24:6, Song 7:3, Isa 22:24). PH9b *412-VS-VIN = wine bowl. Distinct from *406VAS=KĀS (cup)—ʔaggān is larger basin type. TI+*412VAS = subtype (TI prefix, cf. Linear B variety marking).",
       "sign_number": "*412"
     },
     "*316": {

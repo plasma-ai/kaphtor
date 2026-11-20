@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/Q/QA_TI_KI
 title: "QA-TI-KI"
-desc: "Kattike: Kattike (Hurrian personal name), on kad- 'to say'; rival katki 'utterance'. Lexicon, SPECULATIVE (tier 1)."
+desc: "Kattike: Kattike (Hurrian personal name), on kad- 'to say'. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "QA-TI-KI"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Kattike |
-| Meaning | Kattike (Hurrian personal name), on kad- 'to say'; rival katki 'utterance' |
+| Meaning | Kattike (Hurrian personal name), on kad- 'to say' |
 | Language layer | Hurrian |
 | Tags | hapax, personal_name |
 | Semantic field | personal_name |

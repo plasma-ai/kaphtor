@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/DU_ZU_WA
 title: "DU-ZU-WA"
-desc: "ḏū-ṯuwāʕ: He of the Lord (personal name; ḏū 'he of' + ṯuwāʕ 'lord'); rival 'the noble one'. Semitic, SPECULATIVE."
+desc: "ḏū-ṯuwāʕ: He of the Lord (personal name; ḏū 'he of' + ṯuwāʕ 'lord'). Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "DU-ZU-WA"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**ḏū-ṯuwāʕ** · He of the Lord (personal name; ḏū 'he of' + ṯuwāʕ 'lord'); rival 'the noble one'
+**ḏū-ṯuwāʕ** · He of the Lord (personal name; ḏū 'he of' + ṯuwāʕ 'lord')
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | ḏū-ṯuwāʕ |
-| Meaning | He of the Lord (personal name; ḏū 'he of' + ṯuwāʕ 'lord'); rival 'the noble one' |
+| Meaning | He of the Lord (personal name; ḏū 'he of' + ṯuwāʕ 'lord') |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/dh\|ḏ]] + [[wiki/names/semitic/roots/th-w-ayin\|ṯ-w-ʕ]] |
 | Proto-Semitic | \*ḏī- (#K0877), \*ṯVwVʕ- (#3807) |
@@ -67,6 +67,6 @@ Read words on the same documents.
 
 | Word | Reading | Meaning |
 |---|---|---|
-| [[wiki/names/semitic/names/JE_DI\|JE-DI]] | yedī | gentilic 'the Idaean' (of Mount Ida); rivals the personal name 'He knows' and the gentilic 'Judean' |
+| [[wiki/names/semitic/names/JE_DI\|JE-DI]] | yedī | gentilic 'the Idaean' (of Mount Ida) |
 
 <!-- END kaphtor:record -->

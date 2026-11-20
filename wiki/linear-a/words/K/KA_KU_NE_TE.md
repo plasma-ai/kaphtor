@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/K/KA_KU_NE_TE
 title: "KA-KU-NE-TE"
-desc: "Kakku-ʿAnēt: Weapon of Anat (theophoric personal name); rival Egyptian Neith as the second element. Lexicon, SPECULATIVE (tier 1)."
+desc: "Kakku-ʿAnēt: Weapon of Anat (theophoric personal name). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "compound", "hapax", "personal_name"]
 kind: "word"
 form: "KA-KU-NE-TE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Kakku-ʿAnēt |
-| Meaning | Weapon of Anat (theophoric personal name); rival Egyptian Neith as the second element |
+| Meaning | Weapon of Anat (theophoric personal name) |
 | Root | k-k-k + ʿ-n-t |
 | Proto-Semitic | \*kakk- (#3844) + \*ʕanat- (#2771) |
 | Language layer | Semitic |

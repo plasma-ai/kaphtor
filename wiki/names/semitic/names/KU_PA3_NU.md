@@ -71,7 +71,7 @@ Read words on the same documents.
 | [[wiki/names/sumerian/names/KU_PA3_PA3\|KU-PA₃-PA₃]] | Kubaba | Kubaba, Sumerian Kug-Baba 'Pure is Baba' (divine or personal name) |
 | [[wiki/names/egyptian/names/PA_JA_RE\|PA-JA-RE]] | Payare | He (of) Re: Egyptian personal name Pꜣ-Rꜥ (Gordon's Pꜣy-Rꜥ); Linear B pa-ja-ro |
 | KU-RO | kull | total, sum (accounting term) |
-| [[wiki/names/semitic/names/MA_KA_RI_TE\|MA-KA-RI-TE]] | makkārītu | merchants (heading of a roster of men); rival 'red (wool)' |
+| [[wiki/names/semitic/names/MA_KA_RI_TE\|MA-KA-RI-TE]] | makkārītu | merchants (heading of a roster of men) |
 | [[wiki/names/semitic/names/KI_DA_RO\|KI-DA-RO]] | Qidaru | personal name, 'Dark' (√ḳ-d-r 'be dark'; cf. Hebrew Qēdār) |
 
 <!-- END kaphtor:record -->

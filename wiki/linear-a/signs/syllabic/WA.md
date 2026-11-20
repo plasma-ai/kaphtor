@@ -56,5 +56,6 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/S/SE_WA_AU_DE\|SE-WA-AU-DE]] | šiwwâ hawd- | SPECULATIVE |
 | [[wiki/linear-a/words/W/WA\|WA]] | (logogram) | CANDIDATE |
 | [[wiki/linear-a/words/W/WA_star362\|WA-\*362]] | waynu | SPECULATIVE |
+| [[wiki/linear-a/words/W/WA_DI_NI\|WA-DI-NI]] | Waḏnī | SPECULATIVE |
 
 <!-- END kaphtor:record -->

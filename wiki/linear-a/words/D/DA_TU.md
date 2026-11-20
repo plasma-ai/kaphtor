@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/D/DA_TU
 title: "DA-TU"
-desc: "ḏātu: She of (…), a woman named by her house (personal name; feminine of ḏū 'he of'); rival daṯʾu 'spring pasture'. Lexicon, SPECULATIVE (tier 1)."
+desc: "ḏātu: She of (…), a woman named by her house (personal name; feminine of ḏū 'he of'). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "DA-TU"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ḏātu |
-| Meaning | She of (…), a woman named by her house (personal name; feminine of ḏū 'he of'); rival daṯʾu 'spring pasture' |
+| Meaning | She of (…), a woman named by her house (personal name; feminine of ḏū 'he of') |
 | Root | ḏ |
 | Proto-Semitic | \*ḏāt- (#K0876) |
 | Language layer | Semitic |

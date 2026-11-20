@@ -50,6 +50,8 @@ A logogram, the first syllable of šaḫū 'pig'; the pictographic ancestor of A
 | Hebrew | ḥazīr (different root—NWS replaced Akk. term) |
 | Arabic | ḫinzīr (different root—PS \*ḫinzīr-) |
 | Ugaritic | polyglot list \[ŠA\]Ḫ = še-ḫu-ú = ú-ḫi = ḫu-zi-rù: Akk. šaḫû beside local ḫuzīr (GlOS 1, 277) |
+| Linear B | the pig is \*108 SUS, identical to the syllabogram \*85 au (Melena 2014, 136) |
+| Cuneiform | ŠAḪ for šaḫû (CAD Š/1 102) |
 
 ### Source
 

@@ -43,6 +43,7 @@ Value from a spelling variant: JA-DI-KI-TE-TE-\*307-PU₂-RE (PK Za 8) and JA-DI
 | Word | Reading | Confidence |
 |---|---|---|
 | [[wiki/linear-a/words/star/star307\|\*307]] | dubur | PROBABLE |
+| [[wiki/linear-a/words/star/star307_plus_star301\|\*307+\*301]] | dubur nawā | SPECULATIVE |
 | [[wiki/linear-a/words/star/star307_plus_star307\|\*307+\*307]] |  | CANDIDATE |
 | [[wiki/linear-a/words/A/A_DU_star307_plus_star307\|A-DU \*307+\*307]] | adû dubur-dubur | CANDIDATE |
 | [[wiki/linear-a/words/O/OLE_star307\|OLE-\*307]] | OLE-dubur | PROBABLE |

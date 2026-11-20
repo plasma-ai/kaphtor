@@ -78,6 +78,7 @@ di Mino; Gelb 1980; GlOS 2; Younger, Linear A Texts
 | Occurrences | 1 in 1 documents |
 | Sites | Knossos |
 | Supports | Stone object 1 |
+| Contact reference | am_gelb_n_03768 |
 
 ### Note
 

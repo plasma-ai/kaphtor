@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/M/MA_RI
 title: "MA-RI"
-desc: "Mari: Mari (place name; Linear B ma-ri); rival Mari on the Euphrates. Lexicon, SPECULATIVE (tier 1)."
+desc: "Mari: Mari (place name; Linear B ma-ri). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "toponym"]
 kind: "word"
 form: "MA-RI"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Mari |
-| Meaning | Mari (place name; Linear B ma-ri); rival Mari on the Euphrates |
+| Meaning | Mari (place name; Linear B ma-ri) |
 | Language layer | Aegean |
 | Tags | hapax, toponym |
 | Semantic field | toponym |

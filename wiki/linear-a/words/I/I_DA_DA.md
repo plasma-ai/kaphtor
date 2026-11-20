@@ -81,5 +81,6 @@ di Mino; DULAT; Huffmon 1965; Pagan 1998; Gelb 1980; ARM 26/1; Kinlaw 1967
 | Occurrences | 1 in 1 documents |
 | Sites | Crete |
 | Supports | Stone object 1 |
+| Contact reference | am_gelb_n_02425 |
 
 <!-- END kaphtor:record -->

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/A/A_DI
 title: "A-DI"
-desc: "ʿadi: unto, as far as (preposition); rival 'until'. Lexicon, SPECULATIVE (tier 1)."
+desc: "ʿadi: unto, as far as (preposition). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "preposition"]
 kind: "word"
 form: "A-DI"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʿadi |
-| Meaning | unto, as far as (preposition); rival 'until' |
+| Meaning | unto, as far as (preposition) |
 | Root | ʿ-d |
 | Proto-Semitic | \*ʿadi/\*qadu(m) (#S72) |
 | Language layer | Semitic |

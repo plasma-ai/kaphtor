@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/M/MA_KA_RI_TE
 title: "MA-KA-RI-TE"
-desc: "makkārītu: merchants (heading of a roster of men); rival 'red (wool)'. Lexicon, CANDIDATE (tier 2)."
+desc: "makkārītu: merchants (heading of a roster of men). Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "noun", "occupation", "personnel"]
 kind: "word"
 form: "MA-KA-RI-TE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | makkārītu |
-| Meaning | merchants (heading of a roster of men); rival 'red (wool)' |
+| Meaning | merchants (heading of a roster of men) |
 | Root | m-k-r |
 | Proto-Semitic | \*makir- (#S22) |
 | Language layer | Semitic |

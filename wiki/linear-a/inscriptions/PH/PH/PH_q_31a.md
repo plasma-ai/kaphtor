@@ -50,7 +50,7 @@ Transliteration, line by line:
 9. \]1
 10. KU-RO CAPm+KU 1
 11. \*21M 5
-12. \*21F 3
+12. \*21F 3\[
 
 Unicode (Linear A block):
 

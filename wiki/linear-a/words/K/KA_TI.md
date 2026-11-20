@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/K/KA_TI
 title: "KA-TI"
-desc: "Qāti: personal name Qāti 'Hand'; rivals Gattī 'the man of the press, the Gittite', Qəhātî 'Kohathite', Kittî 'Kittian'. Lexicon, SPECULATIVE (tier 1)."
+desc: "Qāti: personal name Qāti 'Hand'. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "KA-TI"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Qāti |
-| Meaning | personal name Qāti 'Hand'; rivals Gattī 'the man of the press, the Gittite', Qəhātî 'Kohathite', Kittî 'Kittian' |
+| Meaning | personal name Qāti 'Hand' |
 | Root | q-t |
 | Proto-Semitic | \*qāt- (#S87) |
 | Language layer | Semitic |

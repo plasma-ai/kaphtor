@@ -78,6 +78,7 @@ di Mino; Gelb 1980; de Boer 2014; Lane
 | Occurrences | 1 in 1 documents |
 | Sites | Syme |
 | Supports | Stone vessel 1 |
+| Contact reference | am_gelb_n_01489 |
 
 ### Note
 

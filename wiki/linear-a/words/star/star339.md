@@ -31,4 +31,6 @@ updated: 2026-11-12T00:26:03Z
 
 A sign. Status **unread** (nothing on file).
 
+PH 15a \]MA-TE-RE \*339 11\[: whole between the word and its numeral, dotted in the tabular copy; the tablet breaks before MA and after the 11, whose last stroke is dotted (GORILA I 305).
+
 <!-- END kaphtor:record -->

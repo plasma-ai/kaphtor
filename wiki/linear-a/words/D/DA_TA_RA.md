@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/D/DA_TA_RA
 title: "DA-TA-RA"
-desc: "Daṯar: Old (man's name); rival 'He of the gate'. Lexicon, SPECULATIVE (tier 1)."
+desc: "Daṯar: Old (man's name). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "personal_name"]
 kind: "word"
 form: "DA-TA-RA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Daṯar |
-| Meaning | Old (man's name); rival 'He of the gate' |
+| Meaning | Old (man's name) |
 | Root | d-ṯ-r |
 | Proto-Semitic | \*dṯr (#3774) |
 | Language layer | Semitic |
@@ -75,6 +75,7 @@ di Mino; Gelb 1980
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |
+| Contact reference | am_gelb_n_01490 |
 
 ### Note
 

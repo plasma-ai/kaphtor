@@ -50,6 +50,9 @@ Single-sign commodity logogram: PA writes the ba- of barr- 'wheat, threshed grai
 | Hebrew | bār 'clean, threshed grain', Gen 41:35–49 (HALOT 153) |
 | Arabic | burr 'wheat' (HALOT 153) |
 | Epigraphic South Arabian | br 'wheat' (HALOT 153) |
+| Linear B | wheat is the logogram \*120 GRA (Melena 2014, 137) |
+| Cuneiform | Mari burru, 'always written as a logogram bu-rum' (CAD B 330); wheat is otherwise (ŠE.)GIG kibtu (CAD K 340) |
+| Aramaic (abbreviation) | ḥ for ḥṭh 'wheat', another word, on the Arad and Beersheba ostraca (DNWSI 363) |
 
 ### Source
 

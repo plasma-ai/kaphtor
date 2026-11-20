@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/KA_TI
 title: "KA-TI"
-desc: "Qāti: personal name Qāti 'Hand'; rivals Gattī 'the man of the press, the Gittite', Qəhātî 'Kohathite', Kittî 'Kittian'. Semitic, SPECULATIVE."
+desc: "Qāti: personal name Qāti 'Hand'. Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "KA-TI"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Qāti** · personal name Qāti 'Hand'; rivals Gattī 'the man of the press, the Gittite', Qəhātî 'Kohathite', Kittî 'Kittian'
+**Qāti** · personal name Qāti 'Hand'
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Qāti |
-| Meaning | personal name Qāti 'Hand'; rivals Gattī 'the man of the press, the Gittite', Qəhātî 'Kohathite', Kittî 'Kittian' |
+| Meaning | personal name Qāti 'Hand' |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/q-t\|q-t]] |
 | Proto-Semitic | \*qāt- (#S87) |

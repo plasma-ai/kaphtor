@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/KA_PA
 title: "KA-PA"
-desc: "kapa(r): village, settlement (kapar); rival an institution. Semitic, CANDIDATE."
+desc: "kapa(r): village, settlement (kapar). Semitic, CANDIDATE."
 tags: ["names", "place-name", "semitic"]
 kind: "name"
 form: "KA-PA"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**kapa(r)** · village, settlement (kapar); rival an institution
+**kapa(r)** · village, settlement (kapar)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/places\|Place name]] |
 | Reading | kapa(r) |
-| Meaning | village, settlement (kapar); rival an institution |
+| Meaning | village, settlement (kapar) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/k-p-r\|k-p-r]] |
 | Proto-Semitic | \*kapār- (#K0100) |
@@ -44,7 +44,7 @@ KA-PA, with SA-RA₂ and I-KA, goes with grain and shipment, DA-QE-RA with olive
 
 ## As a name
 
-Reading from the lexicon (di Mino).
+Reading from the lexicon (di Mino). Rival: an institution.
 
 ## Cognates
 

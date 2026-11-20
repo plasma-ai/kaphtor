@@ -37,6 +37,6 @@ updated: 2026-11-12T00:26:03Z
 
 A syllabogram. Status **unread** (nothing on file).
 
-ZA 1a ZA 5, after NI 42½. On KH 22 .1 \]-ZA ends a lost word, with \]SI-ZA possible (GORILA III 55).
+ZA 1a .2 ZA 5, after NI 42½: whole, the sign dotted, the lines below vacant (GORILA I 333). On KH 22 .1 \]-ZA ends a lost word, with \]SI-ZA possible (GORILA III 55).
 
 <!-- END kaphtor:record -->

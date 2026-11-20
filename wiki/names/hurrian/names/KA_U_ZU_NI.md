@@ -1,7 +1,7 @@
 ---
 name: wiki/names/hurrian/names/KA_U_ZU_NI
 title: "KA-U-ZU-NI"
-desc: "Kawṯuni: Kawṯuni (Hurrian personal name Kaw-šuni); rival Kawṯān, Heb. Kûšān. Hurrian, SPECULATIVE."
+desc: "Kawṯuni: Kawṯuni (Hurrian personal name Kaw-šuni). Hurrian, SPECULATIVE."
 tags: ["names", "personal-name", "hurrian"]
 kind: "name"
 form: "KA-U-ZU-NI"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Kawṯuni** · Kawṯuni (Hurrian personal name Kaw-šuni); rival Kawṯān, Heb. Kûšān
+**Kawṯuni** · Kawṯuni (Hurrian personal name Kaw-šuni)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Kawṯuni |
-| Meaning | Kawṯuni (Hurrian personal name Kaw-šuni); rival Kawṯān, Heb. Kûšān |
+| Meaning | Kawṯuni (Hurrian personal name Kaw-šuni) |
 | Language layer | [[wiki/names/hurrian/_index\|Hurrian]] |
 | Reading's standing | SPECULATIVE |
 | Standing as a personal name | SPECULATIVE |

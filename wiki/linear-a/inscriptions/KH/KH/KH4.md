@@ -9,7 +9,7 @@ site: "Khania"
 support: "Tablet"
 period: "LMIB"
 translation: "none"
-words: ["CYP"]
+words: ["*306", "CYP"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -58,6 +58,6 @@ Unicode (Linear A block):
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/C/CYP|CYP]].
+[[wiki/linear-a/words/star/star306|\*306]], [[wiki/linear-a/words/C/CYP|CYP]].
 
 <!-- END kaphtor:record -->

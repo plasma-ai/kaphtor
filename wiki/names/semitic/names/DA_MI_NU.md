@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/DA_MI_NU
 title: "DA-MI-NU"
-desc: "Ḏā-Mīnu: personal name, 'He of the Portion' (ḏā + √m-n-y); rival √m-n-n 'He of the Favor'. Semitic, SPECULATIVE."
+desc: "Ḏā-Mīnu: personal name, 'He of the Portion' (ḏā + √m-n-y). Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "DA-MI-NU"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Ḏā-Mīnu** · personal name, 'He of the Portion' (ḏā + √m-n-y); rival √m-n-n 'He of the Favor'
+**Ḏā-Mīnu** · personal name, 'He of the Portion' (ḏā + √m-n-y)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Ḏā-Mīnu |
-| Meaning | personal name, 'He of the Portion' (ḏā + √m-n-y); rival √m-n-n 'He of the Favor' |
+| Meaning | personal name, 'He of the Portion' (ḏā + √m-n-y) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/dh\|ḏ]] + [[wiki/names/semitic/roots/m-n-y\|m-n-y]] |
 | Proto-Semitic | \*mVnVw- (#643), \*mVnn- (#3776) |
@@ -40,7 +40,7 @@ HT 117a .8 DA-MI-NU 1, whole and undotted, in the second list headed SA-TA, befo
 
 ## As a name
 
-HT 117a .8 DA-MI-NU 1, whole and undotted, in the second list headed SA-TA, before DA-NE-KU-TI 1 (GORILA I 197). Ḏā-Mīnu: ḏā 'the one of' + MI-NU (√m-n-y 'allot', √m-n-n 'favor'), 'He of the Portion', a 'he of X' name like Amorite Zu-i-la 'He of God' (Gelb 1980, no. 6596); rival Ḏimenu, the Ugaritic personal name ḏmn, syll. ZI-me-nu (DULAT 283). Compare Dushara, Nabataean dwšrʾ 'He of the Šarā' (Al-Jallad 2022, 95–96). Linear B da-mi-ni-jo, a shepherd at Knossos in the D series (DMic I); Woudhuizen 2016, 217 no. 11.
+HT 117a .8 DA-MI-NU 1, whole and undotted, in the second list headed SA-TA, before DA-NE-KU-TI 1 (GORILA I 197). Ḏā-Mīnu: ḏā 'the one of' + MI-NU (√m-n-y 'allot', √m-n-n 'favor'), 'He of the Portion', a 'he of X' name like Amorite Zu-i-la 'He of God' (Gelb 1980, no. 6596); rival Ḏimenu, the Ugaritic personal name ḏmn, syll. ZI-me-nu (DULAT 283). Compare Dushara, Nabataean dwšrʾ 'He of the Šarā' (Al-Jallad 2022, 95–96). Linear B da-mi-ni-jo, a shepherd at Knossos in the D series (DMic I); Woudhuizen 2016, 217 no. 11. Rival: √m-n-n 'He of the Favor'.
 
 ## Cognates
 
@@ -65,7 +65,7 @@ Read words on the same documents.
 
 | Word | Reading | Meaning |
 |---|---|---|
-| [[wiki/names/semitic/names/MA_KA_RI_TE\|MA-KA-RI-TE]] | makkārītu | merchants (heading of a roster of men); rival 'red (wool)' |
+| [[wiki/names/semitic/names/MA_KA_RI_TE\|MA-KA-RI-TE]] | makkārītu | merchants (heading of a roster of men) |
 | KI-RO | kilʾu | owed, outstanding balance (deficit)—transaction term heading deficit sections |
 | [[wiki/names/semitic/names/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | devotee of Kubaba (Kubaba + -ān-), personal name or title |
 | KU-RO | kull | total, sum (accounting term) |

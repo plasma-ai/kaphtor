@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/I/I_TI_NI_SA
 title: "I-TI-NI-SA"
-desc: "ʾItniša: ʾItniša (personal name), the Mari name IT-NU-ŠA; rival ʾitnī-ša 'her gift (portion)'. Lexicon, SPECULATIVE (tier 1)."
+desc: "ʾItniša: ʾItniša (personal name), the Mari name IT-NU-ŠA. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "I-TI-NI-SA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʾItniša |
-| Meaning | ʾItniša (personal name), the Mari name IT-NU-ŠA; rival ʾitnī-ša 'her gift (portion)' |
+| Meaning | ʾItniša (personal name), the Mari name IT-NU-ŠA |
 | Root | y-t-n |
 | Proto-Semitic | \*ytn ~ \*ntn (#2608) |
 | Language layer | Semitic |
@@ -77,6 +77,7 @@ di Mino; Gelb 1980; DULAT
 | Occurrences | 1 in 1 documents |
 | Sites | Zakros |
 | Supports | Tablet 1 |
+| Contact reference | am_gelb_n_03828 |
 
 ### Note
 

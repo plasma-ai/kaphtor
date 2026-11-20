@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "none"
-words: ["*305"]
+words: ["*86", "*305", "*318"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -58,6 +58,6 @@ Unicode (Linear A block):
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/star/star305|\*305]].
+[[wiki/linear-a/words/star/star86|\*86]], [[wiki/linear-a/words/star/star305|\*305]], [[wiki/linear-a/words/star/star318|\*318]].
 
 <!-- END kaphtor:record -->

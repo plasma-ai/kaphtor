@@ -27,6 +27,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/KU_RE_JU\|KU-RE-JU]] | Kulēlu | Kulēlu (personal name), 'little perfect one', the diminutive of kull 'all, whole' | 2 |
+| [[wiki/names/semitic/names/KU_RE_JU\|KU-RE-JU]] | Kull-ēlu | Kull-ēlu (personal name), 'El is all' (kull + ʾēlu) | 2 |
 
 <!-- END kaphtor:record -->

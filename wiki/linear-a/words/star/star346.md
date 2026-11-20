@@ -37,6 +37,6 @@ updated: 2026-11-12T00:26:03Z
 
 A sign. Status **unread** (nothing on file).
 
-A transaction sign alone on HT 122b.1 (Salgarella 2020, 309–12).
+A transaction sign alone on HT 122b.1 (Salgarella 2020, 309–12): JE-DI · \*346 · and the man sign at the break, the sign a tall upright with a narrow closed foot to its right (GORILA I 209). The sign index has it here alone, as a transaction sign, \[3\] (V 304).
 
 <!-- END kaphtor:record -->

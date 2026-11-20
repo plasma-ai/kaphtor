@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/I_TI_NI_SA
 title: "I-TI-NI-SA"
-desc: "ʾItniša: ʾItniša (personal name), the Mari name IT-NU-ŠA; rival ʾitnī-ša 'her gift (portion)'. Semitic, SPECULATIVE."
+desc: "ʾItniša: ʾItniša (personal name), the Mari name IT-NU-ŠA. Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "I-TI-NI-SA"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**ʾItniša** · ʾItniša (personal name), the Mari name IT-NU-ŠA; rival ʾitnī-ša 'her gift (portion)'
+**ʾItniša** · ʾItniša (personal name), the Mari name IT-NU-ŠA
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | ʾItniša |
-| Meaning | ʾItniša (personal name), the Mari name IT-NU-ŠA; rival ʾitnī-ša 'her gift (portion)' |
+| Meaning | ʾItniša (personal name), the Mari name IT-NU-ŠA |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/y-t-n\|y-t-n]] |
 | Proto-Semitic | \*ytn ~ \*ntn (#2608) |

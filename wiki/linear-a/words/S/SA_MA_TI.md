@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 39 .3 SA-MA-TI 10, then KU-RE\[ (GORILA I 75), complete at the left edge. The list runs TA-I-\*123 10\[, KU-RE-JU 8, KU\[, SA-MA-TI 10, KU-RE\[, then KU-RO \*414+A 100\[. SA-MA-TI takes no commodity sign and stands among names. It writes Ṣamidi, cf. the Amorite woman's name ṢAMID-UM (Gelb 1980, no. 6398) and Amorite ṢMD 'to bind, to harness' (Gelb 1980, 34), Ug. ṣmd 'yoked pair'. Weak point: TI for di. Rival: Akk. samīdu B, a groats (CAD S 115), which needs a commodity slot. One attestation.
+HT 39 .3 SA-MA-TI 10, then KU-RE\[ (GORILA I 75), complete at the left edge. The list runs TA-I-\*123 10\[, KU-RE-JU 8, KU\[, SA-MA-TI 10, KU-RE\[, then KU-RO \*407+A 100\[. SA-MA-TI takes no commodity sign and stands among names. It writes Ṣamidi, cf. the Amorite woman's name ṢAMID-UM (Gelb 1980, no. 6398) and Amorite ṢMD 'to bind, to harness' (Gelb 1980, 34), Ug. ṣmd 'yoked pair'. Weak point: TI for di. Rival: Akk. samīdu B, a groats (CAD S 115), which needs a commodity slot. One attestation.
 
 ### Cognates
 
@@ -72,6 +72,7 @@ di Mino; Gelb 1980; DULAT; CAD S
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |
+| Contact reference | am_gelb_n_06398 |
 
 ### Note
 

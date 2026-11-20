@@ -175,6 +175,9 @@ Corazza, Michele, Silvia Ferrara, Barbara Montecchi, Fabio Tamburini, and Miguel
 **Crellin 2022**
 Crellin, Robert S. D. 2022. *The Semantics of Word Division in Northwest Semitic Writing Systems: Ugaritic, Phoenician, Hebrew, Moabite and Greek*. Contexts of and Relations between Early Writing Systems 4. Oxford and Philadelphia: Oxbow Books.
 
+**Cross and Freedman 1997**
+Cross, Frank Moore, Jr., and David Noel Freedman. 1997. *Studies in Ancient Yahwistic Poetry*. The Biblical Resource Series. William B. Eerdmans (Grand Rapids and Cambridge) and Dove Booksellers (Livonia). First published 1975, Society of Biblical Literature Dissertation Series.
+
 **Dautais & Gabolde 2025**
 Dautais, Louis, and Marc Gabolde. 2025. "“Crossing the Wine-Dark Sea” from Knossos to Memphis: Hellenized Cretans in Egypt in the Mid-Eighteenth Dynasty (BM EA 5647)." *Journal of Ancient Egyptian Interconnections* 47: 7–28.
 
@@ -380,6 +383,9 @@ Gragg, Gene. 1997. "Geʿez (Ethiopic)." In R. Hetzron (ed.), The Semitic Languag
 **Greenfield 2001**
 Greenfield, Jonas C. 2001. "Three Related Roots: KMS, KNS, and KNŠ." In *ʿAl Kanfei Yonah: Collected Studies of Jonas C. Greenfield on Semitic Philology*, edited by Shalom M. Paul, Michael E. Stone and Avital Pinnick, 840–846. Brill. https://doi.org/10.1163/9789004532021_032.
 
+**Grube 1994**
+Grube, Nikolai. 1994. "Observations on the History of Maya Hieroglyphic Writing." In *Seventh Palenque Round Table, 1989*, edited by Virginia M. Fields. Electronic version. Pre-Columbian Art Research Institute, San Francisco. https://www.mesoweb.com/pari/publications/RT09/Observations.pdf.
+
 **Haas 1994**
 Haas, Volkert. 1994. *Geschichte der hethitischen Religion*. E. J. Brill, Leiden (Handbuch der Orientalistik I/15).
 
@@ -538,6 +544,9 @@ Kilani, Marwan. 2019. *Vocalisation in Group Writing: A New Proposal*. Lingua Ae
 
 **Kilani 2020** (cited as ThotBank)
 Kilani, Marwan. 2020. *Madùwwe Project - ThotBank dataset*. GitHub. https://github.com/MKilani/Maduwwe/tree/master/ThotBank.
+
+**Kettunen and Helmke 2020**
+Kettunen, Harri, and Christophe Helmke. 2020. *Introduction to Maya Hieroglyphs*. Seventeenth Revised Edition. Wayeb. https://wayeb.org/download/Kettunen_Helmke_2020_Introduction_to_Maya_Hieroglyphs_17th_ed.pdf.
 
 **Killen 2024**
 Killen, J. T., ed. 2024. *The New Documents in Mycenaean Greek*. 2 vols. Cambridge: Cambridge University Press. https://doi.org/10.1017/9781139029049.

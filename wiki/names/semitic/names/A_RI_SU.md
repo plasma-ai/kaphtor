@@ -66,7 +66,7 @@ Read words on the same documents.
 
 | Word | Reading | Meaning |
 |---|---|---|
-| [[wiki/names/semitic/names/MA_DI\|MA-DI]] | Maʾdi | place name: a unit of men and livestock in the HT rosters; rival the Hurrian personal name Madi 'wisdom' |
+| [[wiki/names/semitic/names/MA_DI\|MA-DI]] | Maʾdi | place name: a unit of men and livestock in the HT rosters |
 | [[wiki/names/semitic/names/QA_QA_RU\|QA-QA-RU]] | Qaqqaru | personal name, 'Ground' (Akkadian qaqqarum) |
 | [[wiki/names/semitic/names/RI_RU_MA\|RI-RU-MA]] | Lirumā | personal name, 'Pomegranate' (Ug. lrmn); recipient of pigs |
 

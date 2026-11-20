@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/J
 desc: "Words whose first sign begins with J."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-20T13:43:03Z
+updated: 2026-11-20T14:16:38Z
 ---
 
 # wiki/linear-a/words/J
@@ -13,7 +13,7 @@ updated: 2026-11-20T13:43:03Z
 
 [[wiki/linear-a/words/J/JA_DA_SU|JA_DA_SU]]: Yadaʿ-Šum: personal name, 'Šum knew'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/J/JA_DI|JA_DI]]: Yadi: Hand (personal name); rivals Yadīn 'he judges', Yadiʿ 'he knows', Ugarit ydy 'may (the god) establish'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/J/JA_DI|JA_DI]]: Yadi: Hand (personal name). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/J/JA_DI_KI_TE_TE|JA_DI_KI_TE_TE]]: yā Diqqitet: O Diktaean (f.), the feminine nisbe of Dikte, the vocative yā written in full. Lexicon, PROBABLE (tier 3).
 
@@ -45,15 +45,15 @@ updated: 2026-11-20T13:43:03Z
 
 [[wiki/linear-a/words/J/JA_PA_QA|JA_PA_QA]]: yapqaḥ: he opens (the eyes). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/J/JA_PA_RA|JA_PA_RA]]: yapra: may it bear fruit (3ms volitive √p-r-y); rival yapʾara 'may it glorify'. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/J/JA_PA_RA|JA_PA_RA]]: yapra: may it bear fruit (3ms volitive √p-r-y). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/J/JA_PA_RA_JA_SE|JA_PA_RA_JA_SE]]: yapra yāṣē: may what comes forth bear fruit—volitive √p-r-y + √y-ṣ-ʾ participle/imperfect; rival yapʾara yāṣē 'may that which goes out glorify'. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/J/JA_PA_RA_JA_SE|JA_PA_RA_JA_SE]]: yapra yāṣē: may what comes forth bear fruit—volitive √p-r-y + √y-ṣ-ʾ participle/imperfect. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/J/JA_PI_broken_start|JA_PI_broken_start]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/J/JA_QE|JA_QE]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/J/JA_RA|JA_RA]]: Yaraḫ: Moon (personal name, after the moon god); rival yarē 'he instructs'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/J/JA_RA|JA_RA]]: Yaraḫ: Moon (personal name, after the moon god). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/J/JA_RE|JA_RE]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -73,7 +73,7 @@ updated: 2026-11-20T13:43:03Z
 
 [[wiki/linear-a/words/J/JA_SA_SA_RA_MA_NA|JA_SA_SA_RA_MA_NA]]: yaššaram=na: in righteousness indeed. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/J/JA_SA_SA_RA_ME|JA_SA_SA_RA_ME]]: yaššaram: in righteousness (adverbial accusative in -am of √y-š-r; also 'righteously'); rival: substantivized "the upright/proper [thing]" in an object slot. Polysemic layer: masculine divine name Yasharam (Akk. Mīšarum, Phoen. Misor). Lexicon, CONFIRMED (tier 4).
+[[wiki/linear-a/words/J/JA_SA_SA_RA_ME|JA_SA_SA_RA_ME]]: yaššaram: in righteousness (adverbial accusative in -am of √y-š-r; also 'righteously'). Polysemic layer: masculine divine name Yasharam (Akk. Mīšarum, Phoen. Misor). Lexicon, CONFIRMED (tier 4).
 
 [[wiki/linear-a/words/J/JA_SA_SA_broken_end|JA_SA_SA_broken_end]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -117,7 +117,7 @@ updated: 2026-11-20T13:43:03Z
 
 [[wiki/linear-a/words/J/JE|JE]]: Unread sign (syllabogram, unread); 1 occurrence(s).
 
-[[wiki/linear-a/words/J/JE_DI|JE_DI]]: yedī: gentilic 'the Idaean' (of Mount Ida); rivals the personal name 'He knows' and the gentilic 'Judean'. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/J/JE_DI|JE_DI]]: yedī: gentilic 'the Idaean' (of Mount Ida). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/J/JE_TA_NA|JE_TA_NA]]: Yatana: he gave (personal name). Lexicon, PROBABLE (tier 3).
 

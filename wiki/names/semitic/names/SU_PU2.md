@@ -1,7 +1,7 @@
 ---
 name: wiki/names/semitic/names/SU_PU2
 title: "SU-PU₂"
-desc: "Ṣubʾu: Ṣubʾu (personal name); rival ṣābu 'workers, troop'. Semitic, SPECULATIVE."
+desc: "Ṣubʾu: Ṣubʾu (personal name). Semitic, SPECULATIVE."
 tags: ["names", "personal-name", "semitic"]
 kind: "name"
 form: "SU-PU₂"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Ṣubʾu** · Ṣubʾu (personal name); rival ṣābu 'workers, troop'
+**Ṣubʾu** · Ṣubʾu (personal name)
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Ṣubʾu |
-| Meaning | Ṣubʾu (personal name); rival ṣābu 'workers, troop' |
+| Meaning | Ṣubʾu (personal name) |
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
 | Root | [[wiki/names/semitic/roots/ss-b-w\|ṣ-b-w]] |
 | Proto-Semitic | \*ṣbw (#3456) |

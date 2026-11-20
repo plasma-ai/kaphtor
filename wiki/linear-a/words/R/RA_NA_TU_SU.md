@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/R/RA_NA_TU_SU
 title: "RA-NA-TU-SU"
-desc: "Rannatušu: personal name, 'his shout of joy'; rival two names, RA-NA and TU-SU. Lexicon, SPECULATIVE (tier 1)."
+desc: "Rannatušu: personal name, 'his shout of joy'. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "RA-NA-TU-SU"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Rannatušu |
-| Meaning | personal name, 'his shout of joy'; rival two names, RA-NA and TU-SU |
+| Meaning | personal name, 'his shout of joy' |
 | Root | r-n-n |
 | Proto-Semitic | \*rVnVn- (#K0351) |
 | Language layer | Semitic |

@@ -27,7 +27,7 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/TI_MA_RU_WI_TE\|TI-MA-RU-WI-TE]] | Tīmar-luwwīt | Timar the Levite (f.), priestess (woman's name and title); rival Tamar + WI-TE | 1 |
+| [[wiki/names/semitic/names/TI_MA_RU_WI_TE\|TI-MA-RU-WI-TE]] | Tīmar-luwwīt | Timar the Levite (f.), priestess (woman's name and title) | 1 |
 | [[wiki/names/semitic/names/TO_MA_RO\|TO-MA-RO]] | Tōmar | personal name, 'palm' | 1 |
 
 <!-- END kaphtor:record -->

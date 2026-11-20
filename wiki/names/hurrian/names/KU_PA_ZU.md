@@ -1,7 +1,7 @@
 ---
 name: wiki/names/hurrian/names/KU_PA_ZU
 title: "KU-PA-ZU"
-desc: "Kapizzi: Kapizzi (Hurrian personal name), 'kapizzi-jewel'; rival kupṯu 'headdress'. Hurrian, SPECULATIVE."
+desc: "Kapizzi: Kapizzi (Hurrian personal name), 'kapizzi-jewel'. Hurrian, SPECULATIVE."
 tags: ["names", "personal-name", "hurrian"]
 kind: "name"
 form: "KU-PA-ZU"
@@ -19,13 +19,13 @@ updated: 2026-11-11T23:39:03Z
 
 <!-- BEGIN kaphtor:record -->
 
-**Kapizzi** · Kapizzi (Hurrian personal name), 'kapizzi-jewel'; rival kupṯu 'headdress'
+**Kapizzi** · Kapizzi (Hurrian personal name), 'kapizzi-jewel'
 
 | Field | Value |
 |---|---|
 | Kind | [[wiki/names/guide/kinds/people\|Personal name]] |
 | Reading | Kapizzi |
-| Meaning | Kapizzi (Hurrian personal name), 'kapizzi-jewel'; rival kupṯu 'headdress' |
+| Meaning | Kapizzi (Hurrian personal name), 'kapizzi-jewel' |
 | Language layer | [[wiki/names/hurrian/_index\|Hurrian]] |
 | Reading's standing | SPECULATIVE |
 | Standing as a personal name | SPECULATIVE |

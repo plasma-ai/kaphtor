@@ -32,7 +32,7 @@ updated: 2026-11-04T14:00:32Z
 |---|---|---|---|
 | Arabic | ḥiṯ̣ār- 'a wall, or wall of enclosure; a barrier, partition, fence' 1 (Lane 595–596), ḥiṣār- 1, ḥaḍr- 'inhabited country, fixed dwelling (of those who are not nomads)' | Lane 595–596 |  |
 | Akkadian | ḫaṣāru 1 |  |  |
-| Ugaritic | ḥẓr |  |  |
+| Ugaritic | ḥẓr; ḥẓr k bn ʾaṯrt (KTU 1.3 IV 48; Tugendhaft 2018, 101) | KTU 1.3 IV 48; Tugendhaft 2018 101 | gloss withheld |
 | Geez | ḥaṣur 1 |  |  |
 | Phoenician | ḥṣr 3 (Krahmalkov 195; T 112) | Krahmalkov 195; T 112 | gloss withheld |
 | Jibbali | ḥoṣor |  | gloss withheld |

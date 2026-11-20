@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/M/MA_KA_I_TA
 title: "MA-KA-I-TA"
-desc: "Makīt: personal name (f.), the feminine of Makī (MA-KA-I-SE); rival the Egyptian name mkj·t. Lexicon, SPECULATIVE (tier 1)."
+desc: "Makīt: personal name (f.), the feminine of Makī (MA-KA-I-SE). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "personal_name"]
 kind: "word"
 form: "MA-KA-I-TA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Makīt |
-| Meaning | personal name (f.), the feminine of Makī (MA-KA-I-SE); rival the Egyptian name mkj·t |
+| Meaning | personal name (f.), the feminine of Makī (MA-KA-I-SE) |
 | Root | q-w-m |
 | Proto-Semitic | \*ḳVwVm- (#1134) |
 | Language layer | Semitic |

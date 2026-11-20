@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/J/JA_RA
 title: "JA-RA"
-desc: "Yaraḫ: Moon (personal name, after the moon god); rival yarē 'he instructs'. Lexicon, SPECULATIVE (tier 1)."
+desc: "Yaraḫ: Moon (personal name, after the moon god). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "JA-RA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Yaraḫ |
-| Meaning | Moon (personal name, after the moon god); rival yarē 'he instructs' |
+| Meaning | Moon (personal name, after the moon god) |
 | Root | y-r-ḫ |
 | Proto-Semitic | \*warḫ- (#2511) |
 | Language layer | Semitic |
@@ -78,9 +78,10 @@ di Mino; Gelb 1980; Huehnergard 2012
 | Occurrences | 1 in 1 documents |
 | Sites | Knossos |
 | Supports | Roundel 1 |
+| Contact reference | am_gelb_n_03419 |
 
 ### Note
 
-Reading from the lexicon (di Mino). Amorite JARAḪ-T-UM, IA-RA-AḪ-TUM (Gelb 1980, no. 3419).
+Reading from the lexicon (di Mino). Amorite JARAḪ-T-UM, IA-RA-AḪ-TUM (Gelb 1980, no. 3419). Rival: yarē 'he instructs'.
 
 <!-- END kaphtor:record -->

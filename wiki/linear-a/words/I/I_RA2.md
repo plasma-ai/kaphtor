@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/I/I_RA2
 title: "I-RA₂"
-desc: "ʾilā(t): goddess; rival ʾila 'god'. Lexicon, SPECULATIVE (tier 1)."
+desc: "ʾilā(t): goddess. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "noun", "ritual"]
 kind: "word"
 form: "I-RA₂"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʾilā(t) |
-| Meaning | goddess; rival ʾila 'god' |
+| Meaning | goddess |
 | Root | ʾ-l |
 | Proto-Semitic | \*ʾil- (#2719) |
 | Language layer | Semitic |

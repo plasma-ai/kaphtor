@@ -10,7 +10,7 @@ tier: 3
 confidence: "PROBABLE"
 confidence_score: 0.65
 reading: "(logogram)"
-attestations: ["HT20", "HT64", "KH6", "KNWc29", "PH(?)31a", "PH(?)31b"]
+attestations: ["PH(?)31a", "PH(?)31b"]
 created: 2026-11-12T00:26:03Z
 updated: 2026-11-12T00:26:03Z
 ---
@@ -39,7 +39,7 @@ updated: 2026-11-12T00:26:03Z
 
 ### Note
 
-The ram, counted in whole numbers and fractions: HT 64 \*21M 6, KH 6 \*21M 1, HT 20 \*21M ⅛. PH(?) 31a counts it after a name (MA-DI \*21M 1) and again after KU-RO (\*21M 5, then \*21F 3), ram and ewe as a pair; the roundel KN Wc 29 bears it alone. Linear B keeps the pair as OVISᵐ and OVISᶠ. Cf. Heb. ʾayil 'ram' (HALOT 40). Weak point: no witness spells the word.
+The ram, on the Phaistos pair alone among whole tokens: PH(?) 31a counts it after a name (MA-DI \*21M 1) and again after KU-RO (\*21M 5, then \*21F 3), ram and ewe as a pair, and PH(?) 31b counts it beside the goats. GORILA lists sign 21m on PH(?) 31a.2.4, b.3.4.5 and ZA 22.2, where it is broken (V 177). The sign of HT 20, HT 64, KH 6 and KN Wc 29 is 22m, the he-goat (V 178). Linear B keeps the pair as OVISᵐ and OVISᶠ. Cf. Heb. ʾayil 'ram' (HALOT 40). Weak point: no witness spells the word.
 
 ### Cognates
 
@@ -55,10 +55,6 @@ di Mino; HALOT
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT20\|HT20]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT64\|HT64]] | Haghia Triada | Tablet | incomplete |
-| [[wiki/linear-a/inscriptions/KH/KH/KH6\|KH6]] | Khania | Tablet | incomplete |
-| [[wiki/linear-a/inscriptions/KN/KNWc/KNWc29\|KNWc29]] | Knossos | Roundel | none |
 | [[wiki/linear-a/inscriptions/PH/PH/PH_q_31a\|PH(?)31a]] | Phaistos | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/PH/PH/PH_q_31b\|PH(?)31b]] | Phaistos | Tablet | incomplete |
 
@@ -66,8 +62,6 @@ di Mino; HALOT
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT20\|HT20]] |  | ram (logogram), ⅛ | PROBABLE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT64\|HT64]] |  | ram (logogram), 6 | PROBABLE |
 | [[wiki/linear-a/inscriptions/PH/PH/PH_q_31a\|PH(?)31a]] |  | ram (livestock logogram) | PROBABLE |
 | [[wiki/linear-a/inscriptions/PH/PH/PH_q_31b\|PH(?)31b]] |  | ram (livestock logogram) | PROBABLE |
 

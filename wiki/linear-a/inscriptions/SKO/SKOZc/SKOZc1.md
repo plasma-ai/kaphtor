@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/inscriptions/SKO/SKOZc/SKOZc1
 title: "SKOZc1"
-desc: "Clay chalice rim (two nonjoining fragments); painted inscription, Skoteino Cave, LMIA–B. Translation: incomplete (CANDIDATE)."
-tags: ["linear-a", "inscription", "translation-incomplete", "clay-chalice-rim-(two-nonjoining-fragments);-painted-inscription"]
+desc: "Clay chalice rim (two nonjoining fragments); painted inscription, Skoteino Cave, LMIA–B. Translation: complete (CANDIDATE)."
+tags: ["linear-a", "inscription", "translation-complete", "clay-chalice-rim-(two-nonjoining-fragments);-painted-inscription"]
 kind: "inscription"
 id: "SKOZc1"
 site: "Skoteino Cave"
 support: "Clay chalice rim (two nonjoining fragments); painted inscription"
 period: "LMIA–B"
-translation: "incomplete"
+translation: "complete"
 words: ["NA-TU-*301-NE"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -40,31 +40,26 @@ updated: 2026-10-24T16:17:50Z
 Transliteration, line by line:
 
 1. 𐄁 NA-TU-\*301-NE
-2. \]QA-KI-TI\[
 
 Unicode (Linear A block):
 
 ```text
 𐝫𐄁𐘅𐘹𐙕𐘗𐝫
-𐝫𐘌𐘸𐘠𐝫
 ```
 
 ## Translation
 
-**CANDIDATE**, incomplete (status: incomplete).
+**CANDIDATE**, complete.
 
-> The dedicated one; \[…\]QA-KI-TI\[…\].—OR: The Giver; \[…\]QA-KI-TI\[…\].
+> \[…\] The dedicated one \[…\]
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/N/NA_TU_star301_NE\|NA-TU-\*301-NE]] | natūnān | the dedicated one (passive) or the giver (active)—from √n-t-n 'to give' + -ān suffix | PROBABLE | PROBABLE (lexicon) |
-| [[wiki/linear-a/words/Q/QA_KI_TI_broken_both\|&#93;QA-KI-TI&#91;]] |  | unread |  | unread |
+| [[wiki/linear-a/words/N/NA_TU_star301_NE\|NA-TU-\*301-NE]] | natūnān | the dedicated one | PROBABLE | PROBABLE (lexicon) |
 
 ### Notes
 
-Context: Cave sanctuary votive—two words painted on a chalice rim, two non-joining fragments, order uncertain. The Skoteino Cave (south of Knossos) is one of the largest cave sanctuaries on Crete.
-
-Two-word cave sanctuary dedication. Dual reading of NA-TU-\*301-NE from √n-t-n: passive natūnān 'the dedicated one' (Nĕtīnīm parallel—temple servant class) or active nātānān 'the giver' (theophanic title paralleling A-TA-NA-TE = Athena). If active, the inscription is a divine epithet rather than a human dedicant's self-identification.
+Painted under the rim of a drinking chalice from the Skoteino cave, fragment Scot. 187; a trace and a probable divider precede NA. The direction of reading is arbitrary (Perna, Kanta and Tyree 2005, 325 n. 6). The second fragment, Scot. 188, is SKO Zc 2.
 
 ### Source
 

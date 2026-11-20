@@ -27,6 +27,6 @@ updated: 2026-11-11T23:39:03Z
 
 | Name | Reading | Meaning | Documents |
 |---|---|---|---|
-| [[wiki/names/semitic/names/JA_RA\|JA-RA]] | Yaraḫ | Moon (personal name, after the moon god); rival yarē 'he instructs' | 1 |
+| [[wiki/names/semitic/names/JA_RA\|JA-RA]] | Yaraḫ | Moon (personal name, after the moon god) | 1 |
 
 <!-- END kaphtor:record -->
