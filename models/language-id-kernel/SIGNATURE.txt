@@ -1,0 +1,17 @@
+SIGNED BY: Tom di Mino (explicit authorization in session, 2026-11-22T17:21:05-05:00)
+PROTOCOL: artifacts/language-id-test-2026-11-22/KERNEL-SPECS.md & PREREGISTRATION-DRAFT.md
+RULINGS:
+  1. Pooled family arms with sign-count parity (S=3700) and theta_95 (strict theta_max reported alongside).
+  2. Primary gating channels: Kernel A (word-shape), Kernel B (unsupervised Kober trios), Kernel D (pre-linguistic anchors). Supporting channel: Kernel C (size-locked liturgical cohesion).
+
+MANIFEST SHA-256:
+  artifacts/language-id-test-2026-11-22/kaphtor_kernel.py: 63a8f3bb42d2c9da0429758743c9c12def981dc39e5f931aeb190bba512cd910
+  artifacts/language-id-test-2026-11-22/lid.py: aa3de052d8b898a9393a19616475e85d4b32f63fb60ec9a3964bc1240f81682e
+  artifacts/language-id-test-2026-11-22/kober_b.py: 06b829669740cbff34d8f61a6267a27411849b29ba3e01860622ed4268710706
+  artifacts/language-id-test-2026-11-22/liturgy_c.py: 892ed5a155aa31ff27c5093df73f06c8582e5abf7147daf60b9f0e248f7ef560
+  artifacts/language-id-test-2026-11-22/anchors_d.py: c8aaff37fb34b4b1828d1821b00808aaa4873497067d4850be70ce42c50d4cca
+  artifacts/language-id-test-2026-11-22/KERNEL-SPECS.md: 8897932e8a2b635a045ae1b2026fd86e23c8321a77e5052fdbebb486ba496e31
+  artifacts/language-id-test-2026-11-22/PREREGISTRATION-DRAFT.md: a4b1a91f7903a796f2c5312353e2b1d09f809424465ab8c953a2cc6020ebd1b9
+  ioza2-adjudication/protocol-c/render/series.json: 29a1e67c543e7f6ba9c23268aa6f2d21ade7036f5bd316258852b6babbd8d331
+  ioza2-adjudication/protocol-c/render/series-a5-proposed.json: ce2d18c429418887abc09deabb98124031e888e3d3caa9c82eab89785ed56ae3
+  ioza2-adjudication/protocol-c/render/signs-a5-proposed.json: ce14a3848b547feebba6ac183b3d2dedce469da4fced650477f5cedb51bf4b87

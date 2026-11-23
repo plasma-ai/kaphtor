@@ -1,0 +1,20 @@
+{
+  "_meta": {
+    "protocol": "PROTOCOL-C §4, primary run; proposed amendment A5",
+    "status": "Proposed 2026-11-21 with phase C2; adopted the same day as amendment A5 under di Mino's delegation (\"If you judge this to be a wise path, proceed.\").",
+    "rule": "A sign with a secure Linear B value of one consonant and one vowel has the key (series, vowel); a vowel sign has the key (no series, vowel). Every other sign name is an opaque symbol: it matches only itself and no morpheme renders to it.",
+    "source": "§4 names the secure list: the core CV grid and the doublets Linear B transliterates without query. The grid below is Linear B's, by sign name; it is not read off the Linear A corpus.",
+    "decided_here": [
+      "A2 (ha) has the key of A, and PU2 (phu) the key of PU: render/series.json sends h to ZERO and ph to P, so a morpheme with those sounds renders to A and PU, and the sign must meet it there.",
+      "The doublets whose value is more than one consonant and one vowel (A3 ai, AU, DWE, DWO, NWA, PTE, RA2 rya, RA3 rai, RO2 ryo, TA2 tya, TWE, TWO) are secure but keep their own names as keys: the renderer writes a diphthong or a cluster as two signs (series.json, vowels), so it never produces them.",
+      "PA3, JU and ZU are opaque in the primary (§15 ruling 3)."
+    ]
+  },
+  "vowels": "aeiou",
+  "series": {
+    "D": "aeiou", "J": "aeo", "K": "aeiou", "M": "aeiou", "N": "aeiou", "P": "aeiou", "Q": "aeio",
+    "R": "aeiou", "S": "aeiou", "T": "aeiou", "W": "aeio", "Z": "aeo"
+  },
+  "single_value_doublets": {"A2": ["", "a"], "PU2": ["P", "u"]},
+  "identity_doublets": ["A3", "AU", "DWE", "DWO", "NWA", "PTE", "RA2", "RA3", "RO2", "TA2", "TWE", "TWO"]
+}

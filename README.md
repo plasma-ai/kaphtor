@@ -201,6 +201,48 @@ the data from another folder.
 
 [AGENTS.md](AGENTS.md) gives the full check sequence and the conventions for agents.
 
+## Probabilistic Language Identification
+
+Using strict Linear B sign values alone, zero LLMs, and zero project-lexicon inputs, the eight-kernel suite
+(`models/language-id-kernel/`) establishes consonant-specific phonetic matches to Semitic across independent
+pre-linguistic channels: standalone arithmetic/vessel/grain anchors at a **~794,000 : 1 Bayes Factor** (`ΔLL = +13.58`,
+`Z_perm = +7.37`, `p = 0.00010`, 0/10,000 consonant-grid permutations—holding across all eight leave-one-out
+ablations, after dropping the three trade-loan suspects at `~1,860 : 1`, and on pure arithmetic `KU-RO`/`KI-RO` alone
+at `p = 0.00640`), commodity ligature acrophony (`Z_perm = +5.53`, `p = 0.00010`), Palaikastro dialectal sound-law
+coherence (`5/5` minimal pairs, `p = 0.00010`), and an automated size-locked (`K = 300`) Biblical Hebrew liturgical
+match on `IO Za 2` (`Z = +2.91` to `+3.05`, `p = 0.027`–`0.032`). The same anchor and ligature instruments first
+identify Linear B as Greek (`Z = +7.97` and `+4.31`) and reject Semitic (`p = 0.11` and `0.36`). Corpus-wide
+word-shape, unsupervised Kober-trio, and votive verbal-frame models likewise rank Semitic first (joint primary
+Stouffer `Z = +3.504`, `p = 0.00023`).
+
+The repository ships two complementary, zero-LLM, deterministic frameworks:
+
+- **`models/language-id-kernel/`** ([index](models/language-id-kernel/_index.md),
+  [reference](models/language-id-kernel/reference.md)): self-contained eight-kernel suite (`Kernels A–H`) under strict
+  Linear B sign values with consonant-grid permutation nulls and known-language calibration gates:
+  - **A (Word-Shape LID)** & **B (Unsupervised Kober Trios):** rank Semitic first across 505 undamaged Linear A types
+    (`M = +0.623` bits/sign; `M = +2.288` bits/transition), capturing `/a, i, u/` vowel-core typology.
+  - **C (Liturgical Cohesion):** size-locked (`K = 300`) Dirichlet log-odds Psalms/Leviticus vocabulary on `IO Za 2`
+    (`Z = +2.91`–`+3.05`, `p = 0.027`–`0.032`).
+  - **D (Pre-Linguistic Anchors):** 8 arithmetic/logogram anchors (`Z = +7.37`, `p = 0.00010`; Linear B gate: Greek
+    `Z = +7.97`).
+  - **E (Verbal Edge-Frames):** Semitic verbs first on 46 votive `>=4`-sign words (`M = +1.056`, `Z = +0.85`; 5/5 dev
+    calibration).
+  - **F (Ligature Acrophony):** 10 `GRA/OLE/VIN` commodity ligatures (`Z = +5.53`, `p = 0.00010`; Linear B gate: Greek
+    `Z = +4.31`).
+  - **G (Dialect Coherence):** 5 Central Crete ↔ Palaikastro minimal pairs match a 4-rule NWS isogloss bundle
+    (`p = 0.00010`).
+  - **H (Roster Onomastics):** 57 structurally-gated `WORD 1` roster names match shared Knossos/Pylos Linear B first
+    and Amorite Semitic second (`Z = +1.30`, ahead of Hurrian and Anatolian).
+- **Shoresh (`tools/core/root_match.py`, `shoresh_cv.py`, `shoresh_kernel_bridge.py`):** the per-word root matcher
+  used by the skill, upgraded with fast O(1) exact-match retrieval, vocalized CV distance and Bayesian marginal
+  log-likelihood (`ΔLL`, Amendment A24), and Kober-cluster / Kernel C–D domain tagging (Amendment A25).
+
+```bash
+PYTHONPATH=models/language-id-kernel pytest -q models/language-id-kernel/tests/
+python3 models/language-id-kernel/kaphtor_kernel.py calibrate --n-perm 10000
+```
+
 ### Repository layout
 
 - `wiki/`: the record, generated from the data. Nothing in it is written by hand.
@@ -230,10 +272,11 @@ the data from another folder.
   - `share-alike/`: CC BY-SA datasets, such as the ORAEC/TLA Egyptian texts, the TLA v18 names, Trismegistos Geo and
     ORACC's editions and translations of the Ugarit, Amarna and Idrimi texts, kept apart
 - `docs/`: the repository's rules and methods, and the corpus guides, starting with [docs/anatomy.md](docs/anatomy.md)
+- `models/`: replicable probabilistic models, starting with [models/language-id-kernel/_index.md](models/language-id-kernel/_index.md)
 - `assets/`: Noto Sans fonts for the Aegean scripts (OFL 1.1) and the README banner
 - `tools/`: the Python package (`import tools`) behind the `kaphtor` command, described in
   [tools/README.md](tools/README.md)
-  - `core/`: skeletons, morphology, phonetics, null models and the Shoresh root matcher
+  - `core/`: skeletons, morphology, phonetics, null models, and the Shoresh root matcher (`root_match.py`, vocalized CV `shoresh_cv.py`, and kernel bridge `shoresh_kernel_bridge.py`)
   - `linear_a/`: the Linear A tools (search, paradigms, accounting, sign tests)
   - `ane/`: query clients for the ancient Near East corpora
   - `views/`: the builder that writes `wiki/` from `data/`

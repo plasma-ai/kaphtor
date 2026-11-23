@@ -60,3 +60,5 @@ and read its output is [docs/shoresh-usage.md](../../docs/shoresh-usage.md).
 |---|---|
 | D14 | Shoresh's k ↔ ḫ at 0.3 (A11), added to each competitor's table on the letters its file writes the velar fricative with: ḫ for Egyptian and Hattic, ḫ and h for Luwian and Hurrian (`competitors.table`) |
 | L6 | The earlier competing-language test (`null_model_audit.py`), whose key extraction, defaults and guttural transparency the competitor null keeps |
+| A24 | Vocalized CV distance (`d_cv*`) and Bayesian marginal log-likelihood (`ΔLL`, log-mean-exp over bounded synsets with consonant-series grid permutation) in `tools/core/shoresh_cv.py`; rescues 2-consonant pre-linguistic anchors (`KU-RO`, `KI-RO`, `SU-PU`, `KA-DI`, `PA-RA`) from `UNINFORMATIVE` without altering consonant-skeleton `d*` |
+| A25 | Kober-cluster coupling and Kernel C/D domain annotations (`tools/core/shoresh_kernel_bridge.py`): unsupervised Kober pair/trio extraction, Stouffer cluster meta-Z, `KERNEL_D_ANCHORED` pre-linguistic anchor tagging, and `KERNEL_C_LITURGICAL` formula tagging |

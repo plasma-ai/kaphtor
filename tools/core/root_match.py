@@ -96,6 +96,10 @@ AKKADIAN_EQUIVALENT_BLOCK = range(2700, 2793)
 
 # A11: Shoresh's own table. SEMITIC_DISTANCES itself is never changed (cognate_search and its golden record).
 SHORESH_DISTANCES: dict[tuple[str, str], float] = {**SEMITIC_DISTANCES, ("k", "ḫ"): 0.3}
+_SUB_MAP: dict[tuple[str, str], float] = {}
+for (_a, _b), _c in SHORESH_DISTANCES.items():
+    _SUB_MAP[(_a, _b)] = _c
+    _SUB_MAP[(_b, _a)] = _c
 
 _A_NUMBER = re.compile(r"A\d{3,}")      # Linear A sign numbers; _lookup_sign would strip them to the vowel A
 _UNATTESTED = frozenset({"PS", "non_semitic"})     # key branches that are no Semitic branch (reconstruction, other family)
@@ -166,24 +170,63 @@ def levenshtein(t1: tuple[str, ...], t2: tuple[str, ...], sub, ins, cutoff: floa
     cost ins(t) and deletion at 1.0. With a cutoff, returns INF as soon as every cell of a row exceeds it (no path
     can come back under it): the result is exact whenever it is ≤ cutoff."""
     m = len(t2)
+    ins_t2 = [ins(b) for b in t2]
     prev = [0.0] * (m + 1)
-    for j in range(1, m + 1):
-        prev[j] = prev[j - 1] + ins(t2[j - 1])
-    for i in range(1, len(t1) + 1):
-        a = t1[i - 1]
-        cur = [prev[0] + 1.0] + [0.0] * m
-        for j in range(1, m + 1):
-            b = t2[j - 1]
-            cur[j] = min(prev[j] + 1.0, cur[j - 1] + ins(b), prev[j - 1] + sub(a, b))
-        if min(cur) > cutoff:
+    for j in range(m):
+        prev[j + 1] = prev[j] + ins_t2[j]
+    cur = [0.0] * (m + 1)
+    for a in t1:
+        c0 = prev[0] + 1.0
+        cur[0] = c0
+        row_min = c0
+        for j in range(m):
+            v1 = prev[j + 1] + 1.0
+            v2 = cur[j] + ins_t2[j]
+            v3 = prev[j] + sub(a, t2[j])
+            best = v1 if v1 <= v2 else v2
+            if v3 < best:
+                best = v3
+            cur[j + 1] = best
+            if best < row_min:
+                row_min = best
+        if row_min > cutoff:
             return INF
-        prev = cur
+        prev, cur = cur, prev
     return prev[m] if prev[m] <= cutoff else INF
 
 
 def distance(t1: tuple[str, ...], t2: tuple[str, ...], cutoff: float = INF) -> float:
     """weighted_levenshtein(s1, s2, SHORESH_DISTANCES, guttural_transparent=True) on token tuples: identical values."""
-    return levenshtein(t1, t2, _sub_cached, _ins, cutoff)
+    if t1 == t2:
+        return 0.0 if 0.0 <= cutoff else INF
+    m = len(t2)
+    gutt = GUTTURAL_PHONEMES
+    g_cost = GUTTURAL_INSERT_COST
+    sub_get = _SUB_MAP.get
+    ins_t2 = [g_cost if b in gutt else 1.0 for b in t2]
+    prev = [0.0] * (m + 1)
+    for j in range(m):
+        prev[j + 1] = prev[j] + ins_t2[j]
+    cur = [0.0] * (m + 1)
+    for a in t1:
+        c0 = prev[0] + 1.0
+        cur[0] = c0
+        row_min = c0
+        for j in range(m):
+            b = t2[j]
+            v1 = prev[j + 1] + 1.0
+            v2 = cur[j] + ins_t2[j]
+            v3 = prev[j] + (0.0 if a == b else sub_get((a, b), 1.0))
+            best = v1 if v1 <= v2 else v2
+            if v3 < best:
+                best = v3
+            cur[j + 1] = best
+            if best < row_min:
+                row_min = best
+        if row_min > cutoff:
+            return INF
+        prev, cur = cur, prev
+    return prev[m] if prev[m] <= cutoff else INF
 
 
 def alignment(t1: tuple[str, ...], t2: tuple[str, ...], sub=_sub_cached, ins=_ins) -> list[tuple[int | None, int | None]]:
@@ -530,6 +573,7 @@ class Result:
     competitor_margin: float | None = None      # lowest competitor p_max minus the Semitic p_max
     semitic_specific: bool | None = None        # Semitic p_max < 0.05 and every competitor p_max ≥ 0.05
     semantic: dict[str, Any] = field(default_factory=dict)   # the gate (§3.1, A10, A18): context, d*_sem, its p
+    vocalic: dict[str, Any] = field(default_factory=dict)    # A24: optional vocalized CV d_cv* and Bayesian ΔLL
 
     def to_json(self) -> dict[str, Any]:
         def hit(h: ClusterHit | None) -> dict[str, Any] | None:
@@ -648,6 +692,7 @@ class Shoresh:
             if meta.get("pos") and not (meta.get("onomastic") and not self.names):
                 for n in joined_clusters(index, lid):
                     self._pos.setdefault(n, set()).add(meta["pos"])
+        self._exact_tokens: dict[tuple[str, ...], _Entry] = entries
         self._shadow_memo: dict[tuple[str, int], list[_Entry]] = {}
         self._min_memo: dict[tuple[str, ...], tuple[float, float]] = {}   # tokens → (value, exact up to)
         self._shapes: dict[tuple[int, int], list[_Entry]] | None = None  # brute force only
@@ -690,6 +735,9 @@ class Shoresh:
                 return value if value <= cutoff else INF
             if exact_to >= cutoff:          # nothing at or under exact_to, so nothing at or under cutoff
                 return INF
+        if toks in self._exact_tokens:
+            self._min_memo[toks] = (0.0, INF)
+            return 0.0 if 0.0 <= cutoff else INF
         n = len(toks)
         best = INF
         for e in sorted(self._retrieve(toks), key=lambda e: _lower_bound(n, len(e.tokens), e.visible)):
@@ -1004,6 +1052,10 @@ class Shoresh:
         def gated(toks: tuple[str, ...], cutoff: float = INF) -> float:
             best = memo.get(toks)
             if best is None:
+                exact = self._exact_tokens.get(toks)
+                if exact is not None and (exact.clusters & fit):
+                    memo[toks] = 0.0
+                    return 0.0
                 n = len(toks)
                 best = INF
                 for e in sorted(self._retrieve(toks), key=lambda e: _lower_bound(n, len(e.tokens), e.visible)):

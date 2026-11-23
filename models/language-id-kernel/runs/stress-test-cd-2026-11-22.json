@@ -1,0 +1,257 @@
+{
+  "seconds": 630.6,
+  "kernel_d_stress": {
+    "FULL_8": {
+      "n_anchors": 8,
+      "winner": "semitic",
+      "sem_ll": -19.0718,
+      "runner_up": "hurrian",
+      "dLL": 13.585,
+      "sem_z": 7.369,
+      "sem_p": 0.0001
+    },
+    "DROP_KU-RO": {
+      "n_anchors": 7,
+      "winner": "semitic",
+      "sem_ll": -16.9073,
+      "runner_up": "hurrian",
+      "dLL": 11.161,
+      "sem_z": 7.553,
+      "sem_p": 0.0001
+    },
+    "DROP_KI-RO": {
+      "n_anchors": 7,
+      "winner": "semitic",
+      "sem_ll": -16.9478,
+      "runner_up": "greek",
+      "dLL": 13.035,
+      "sem_z": 7.647,
+      "sem_p": 0.0001
+    },
+    "DROP_A-KA-NU": {
+      "n_anchors": 7,
+      "winner": "semitic",
+      "sem_ll": -17.4087,
+      "runner_up": "hurrian",
+      "dLL": 10.875,
+      "sem_z": 7.481,
+      "sem_p": 0.0001
+    },
+    "DROP_SU-PU": {
+      "n_anchors": 7,
+      "winner": "semitic",
+      "sem_ll": -17.3619,
+      "runner_up": "hurrian",
+      "dLL": 10.527,
+      "sem_z": 6.451,
+      "sem_p": 0.0001
+    },
+    "DROP_PA-TA-QE": {
+      "n_anchors": 7,
+      "winner": "semitic",
+      "sem_ll": -14.3101,
+      "runner_up": "hurrian",
+      "dLL": 13.232,
+      "sem_z": 7.398,
+      "sem_p": 0.0001
+    },
+    "DROP_KA-DI": {
+      "n_anchors": 7,
+      "winner": "semitic",
+      "sem_ll": -16.6113,
+      "runner_up": "hurrian",
+      "dLL": 12.242,
+      "sem_z": 7.666,
+      "sem_p": 0.0001
+    },
+    "DROP_KU-NI-SU": {
+      "n_anchors": 7,
+      "winner": "semitic",
+      "sem_ll": -17.4886,
+      "runner_up": "hurrian",
+      "dLL": 11.587,
+      "sem_z": 6.587,
+      "sem_p": 0.0001
+    },
+    "DROP_PA-RA": {
+      "n_anchors": 7,
+      "winner": "semitic",
+      "sem_ll": -16.4666,
+      "runner_up": "hurrian",
+      "dLL": 12.07,
+      "sem_z": 6.88,
+      "sem_p": 0.0001
+    },
+    "DROP_3_TRADE_LOANS": {
+      "n_anchors": 5,
+      "winner": "semitic",
+      "sem_ll": -13.3651,
+      "runner_up": "hurrian",
+      "dLL": 7.534,
+      "sem_z": 6.216,
+      "sem_p": 0.0001
+    },
+    "ARITHMETIC_ONLY_2": {
+      "n_anchors": 2,
+      "winner": "semitic",
+      "sem_ll": -4.2884,
+      "runner_up": "hurrian",
+      "dLL": 2.61,
+      "sem_z": 4.588,
+      "sem_p": 0.0064
+    }
+  },
+  "kernel_c_stress": {
+    "IO_ZA_2_7": {
+      "n_types": 7,
+      "winner": "hebrew_lit",
+      "arms": {
+        "hebrew_lit": {
+          "score": 0.102,
+          "perm_mean": 0.019,
+          "z_perm": 2.908,
+          "p_perm": 0.03248
+        },
+        "syriac_lit": {
+          "score": 0.017,
+          "perm_mean": 0.0284,
+          "z_perm": -0.354,
+          "p_perm": 0.53723
+        },
+        "anatolian_lit": {
+          "score": 0.0136,
+          "perm_mean": 0.0232,
+          "z_perm": -0.318,
+          "p_perm": 0.47826
+        },
+        "hurrian_lit": {
+          "score": 0.0612,
+          "perm_mean": 0.0285,
+          "z_perm": 1.009,
+          "p_perm": 0.18041
+        },
+        "greek_lit": {
+          "score": 0.0,
+          "perm_mean": 0.0157,
+          "z_perm": -0.65,
+          "p_perm": 1.0
+        }
+      }
+    },
+    "FORMULA_FAMILY_ALL": {
+      "n_types": 41,
+      "winner": "hebrew_lit",
+      "arms": {
+        "hebrew_lit": {
+          "score": 0.0665,
+          "perm_mean": 0.05,
+          "z_perm": 0.728,
+          "p_perm": 0.23138
+        },
+        "syriac_lit": {
+          "score": 0.113,
+          "perm_mean": 0.0976,
+          "z_perm": 0.556,
+          "p_perm": 0.29335
+        },
+        "anatolian_lit": {
+          "score": 0.0543,
+          "perm_mean": 0.0609,
+          "z_perm": -0.243,
+          "p_perm": 0.55872
+        },
+        "hurrian_lit": {
+          "score": 0.0575,
+          "perm_mean": 0.0604,
+          "z_perm": -0.12,
+          "p_perm": 0.49575
+        },
+        "greek_lit": {
+          "score": 0.0491,
+          "perm_mean": 0.0446,
+          "z_perm": 0.192,
+          "p_perm": 0.35632
+        }
+      }
+    },
+    "FORMULA_FAMILY_EXCL_IOZA2": {
+      "n_types": 34,
+      "winner": "syriac_lit",
+      "arms": {
+        "hebrew_lit": {
+          "score": 0.0592,
+          "perm_mean": 0.0564,
+          "z_perm": 0.105,
+          "p_perm": 0.41129
+        },
+        "syriac_lit": {
+          "score": 0.1327,
+          "perm_mean": 0.1118,
+          "z_perm": 0.649,
+          "p_perm": 0.25337
+        },
+        "anatolian_lit": {
+          "score": 0.0627,
+          "perm_mean": 0.0687,
+          "z_perm": -0.187,
+          "p_perm": 0.53423
+        },
+        "hurrian_lit": {
+          "score": 0.0567,
+          "perm_mean": 0.067,
+          "z_perm": -0.366,
+          "p_perm": 0.61119
+        },
+        "greek_lit": {
+          "score": 0.0592,
+          "perm_mean": 0.0506,
+          "z_perm": 0.317,
+          "p_perm": 0.31934
+        }
+      }
+    }
+  },
+  "formula_family_types": [
+    "A-TA-I-*301-WA-JA",
+    "JA-DI-KI-TU",
+    "SI-RU-TE",
+    "TA-NA-RA-TE-U-TI-NU",
+    "A-TA-I-*301-WA-E",
+    "PI-TE-RI",
+    "A-KO-A-NE",
+    "SA-SA-RA-ME",
+    "U-NA-RU-KA-NA-TI",
+    "I-NA-JA-PA-QA",
+    "O-SU-QA-RE",
+    "JA-SA-SA-RA-ME",
+    "TU-RU-SA",
+    "DU-*314-RE",
+    "I-DA-A",
+    "U-NA-KA-NA-SI",
+    "I-PI-NA-MA",
+    "JA-PA-QA",
+    "JA-SA-SA-RA",
+    "TA-NA-I-*301-U-TI-NU",
+    "I-NA-TA-I-ZU-DI-SI-KA",
+    "I-DA-MI",
+    "JA-TA-I-*301-U-JA",
+    "I-PI-NA-MI-NA",
+    "I-DA",
+    "PA₃-E",
+    "JA-DI-KI-TE-TE-*307-PU₂-RE",
+    "TU-ME-I",
+    "WI-TE-JA-MU",
+    "U-QE-TI",
+    "TA-NU-NI-KI-NA",
+    "NI-NU-NI",
+    "TA-NA-I-*301-TI",
+    "JA-SU-MA-TU-OLIV",
+    "U-NA-KA-NA-SI-OLE",
+    "A-JA",
+    "JA-I-NWA-ZA",
+    "PA₃-NI-WI",
+    "JA-SA",
+    "SA-RA-ME",
+    "JA-SA-SA-RA-MA"
+  ]
+}

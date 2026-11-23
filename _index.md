@@ -29,3 +29,5 @@ material keeps its own terms, recorded in each datasheet and set out in `NOTICE`
 SigLA's CC BY-NC-SA 4.0 data, and `data/share-alike/` is CC BY-SA 4.0. Cite as in `CITATION.cff`.
 `.github/` holds the issue and pull-request templates and the gate workflow; `.gitignore` keeps caches, a user's own
 downloads and the indexes built from restricted sources out of the tree.
+
+[[models/_index|models/]]: Replicable multi-kernel probabilistic models for Linear A language identification.

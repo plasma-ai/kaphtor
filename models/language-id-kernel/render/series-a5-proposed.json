@@ -1,0 +1,37 @@
+{
+  "_meta": {
+    "protocol": "PROTOCOL-C §5.5 item 1; proposed amendment A5",
+    "status": "Proposed 2026-11-21 with phase C2; adopted the same day as amendment A5 under di Mino's delegation (\"If you judge this to be a wise path, proceed.\"), before the own-language selftest and before any pseudo-corpus or Linear A form is rendered.",
+    "why": "render/series.json was fixed at C0, before the six C1 inventories were built. The builders wrote their grammars' own symbols, as the schema asks, and 30 of those symbols are not keys of the C0 map. Each row below maps one of them by the C0 table's own stated rules (place and manner; long vowel to short vowel; ə to e). None was chosen by looking at a Linear A form, and none was tried on one.",
+    "found_by": "listing every segment of builds/<arm>/inventory.filled.json that render/series.json does not map (2026-11-21)",
+    "rules": [
+      "IPA glottal stop ʔ and pharyngeal ʕ (cs) → ZERO: the C0 rule for laryngeals and pharyngeals; ʔ and ʕ are the IPA letters for ʾ and ʿ.",
+      "IPA ʃ (cs) → S: a sibilant. IPA ʦ (cs) → Z: the C0 map has ts → Z.",
+      "IPA ejective t’ (cs) → T: an emphatic dental.",
+      "Hurrian v → P: the C0 table sends the labial fricative f to P; v is its voiced partner.",
+      "Hurrian h, hh → K, for the hurrian arm only: the builder printed Wegner's ḫ as h (-aḫḫ-, -uḫ/-oḫ), and the C0 table sends Hurrian ḫ to K. Without this row the default h → ZERO would delete it.",
+      "Capital S (yd) → S: the grammar's cover symbol for a sibilant of undetermined series, as C0 treats Yakubovich's capital T.",
+      "Capitals N, E, A (hurrian) → n, e, a: Wegner's small capitals in -NE-, -NA-, which the builder kept as capitals.",
+      "Greek dz, dž, tš → Z: Bartoněk's phonetic readings of the z-series; the C0 table has Greek z → Z.",
+      "Syllabic m̥, n̥ (Greek pre-forms) → M, N: nasals, with no vowel.",
+      "Vowels: length marks ː and : are dropped (C0: long vowels map to their short vowel); ǝ (U+01DD) and ɨ → e (both print the Geʿez sixth-order vowel that C0's ə → e names); ɛ → e; ä → a (the Geʿez first-order vowel, a low vowel); Greek letter α → a; ō̆ (macron and breve) → o.",
+      "Cover symbol V (cs, hurrian), a vowel the grammar leaves unspecified: the entry renders once with each of a, e, i, o, u. Null L keeps each morpheme's slot pattern, so a random inventory's V expands the same way."
+    ]
+  },
+  "map": {
+    "ʔ": "ZERO", "ʕ": "ZERO",
+    "ʃ": "S", "ʦ": "Z", "t’": "T",
+    "v": "P",
+    "S": "S", "N": "N",
+    "dz": "Z", "dž": "Z", "tš": "Z",
+    "m̥": "M", "n̥": "N"
+  },
+  "arm_overrides": {
+    "hurrian": {"h": "K", "hh": "K"}
+  },
+  "vowels": {
+    "ǝ": "e", "ɨ": "e", "ɛ": "e", "ä": "a", "α": "a", "ō̆": "o", "A": "a", "E": "e"
+  },
+  "length_marks": ["ː", ":"],
+  "any_vowel": "V"
+}

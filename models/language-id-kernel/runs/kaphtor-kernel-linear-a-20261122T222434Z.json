@@ -1,0 +1,325 @@
+{
+  "timestamp_utc": "20261122T222434Z",
+  "seconds": 164.9,
+  "manifest_sha256": {
+    "artifacts/language-id-test-2026-11-22/kaphtor_kernel.py": "63a8f3bb42d2c9da0429758743c9c12def981dc39e5f931aeb190bba512cd910",
+    "artifacts/language-id-test-2026-11-22/lid.py": "aa3de052d8b898a9393a19616475e85d4b32f63fb60ec9a3964bc1240f81682e",
+    "artifacts/language-id-test-2026-11-22/kober_b.py": "06b829669740cbff34d8f61a6267a27411849b29ba3e01860622ed4268710706",
+    "artifacts/language-id-test-2026-11-22/liturgy_c.py": "892ed5a155aa31ff27c5093df73f06c8582e5abf7147daf60b9f0e248f7ef560",
+    "artifacts/language-id-test-2026-11-22/anchors_d.py": "c8aaff37fb34b4b1828d1821b00808aaa4873497067d4850be70ce42c50d4cca",
+    "artifacts/language-id-test-2026-11-22/KERNEL-SPECS.md": "8897932e8a2b635a045ae1b2026fd86e23c8321a77e5052fdbebb486ba496e31",
+    "artifacts/language-id-test-2026-11-22/PREREGISTRATION-DRAFT.md": "a4b1a91f7903a796f2c5312353e2b1d09f809424465ab8c953a2cc6020ebd1b9",
+    "ioza2-adjudication/protocol-c/render/series.json": "29a1e67c543e7f6ba9c23268aa6f2d21ade7036f5bd316258852b6babbd8d331",
+    "ioza2-adjudication/protocol-c/render/series-a5-proposed.json": "ce2d18c429418887abc09deabb98124031e888e3d3caa9c82eab89785ed56ae3",
+    "ioza2-adjudication/protocol-c/render/signs-a5-proposed.json": "ce14a3848b547feebba6ac183b3d2dedce469da4fced650477f5cedb51bf4b87"
+  },
+  "linear_a_pool": {
+    "documents": 340,
+    "total_tokens": 8491,
+    "kept_tokens": 728,
+    "distinct_types": 505
+  },
+  "primary_channels": {
+    "A_word_shape": {
+      "bits": {
+        "semitic": 5.4902,
+        "anatolian": 6.6671,
+        "greek": 6.4638,
+        "hurrian": 6.1133,
+        "hattic": 6.6468,
+        "latin": 6.4822
+      },
+      "winner": "semitic",
+      "margin": 0.623,
+      "perm_mean": 0.643,
+      "z_perm": -0.213,
+      "p_perm": 0.58706
+    },
+    "B_kober_trios": {
+      "bits": {
+        "semitic": 22.3622,
+        "anatolian": 25.8817,
+        "greek": 26.7289,
+        "hurrian": 24.6502,
+        "hattic": 27.0365,
+        "latin": 27.4343
+      },
+      "winner": "semitic",
+      "margin": 2.288,
+      "perm_mean": 2.7696,
+      "z_perm": -1.087,
+      "p_perm": 0.84577
+    },
+    "D_anchors": {
+      "winner": "semitic",
+      "n_perm": 10000,
+      "seed": 20261122,
+      "beta": 6.0,
+      "languages": {
+        "semitic": {
+          "ll": -19.0718,
+          "perm_mean": -37.0745,
+          "perm_sd": 2.443,
+          "z_perm": 7.369,
+          "p_perm": 0.0001,
+          "details": [
+            {
+              "concept": "TOTAL",
+              "best_match": "kullu",
+              "best_dist": 0.175,
+              "ll": -2.164
+            },
+            {
+              "concept": "DEFICIT",
+              "best_match": "kilu",
+              "best_dist": 0.175,
+              "ll": -2.124
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "aganu",
+              "best_dist": 0.0,
+              "ll": -1.663
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "suppu",
+              "best_dist": 0.0,
+              "ll": -1.71
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "karpatu",
+              "best_dist": 0.617,
+              "ll": -4.762
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "kadu",
+              "best_dist": 0.175,
+              "ll": -2.46
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "kunišu",
+              "best_dist": 0.0,
+              "ll": -1.583
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "barru",
+              "best_dist": 0.175,
+              "ll": -2.605
+            }
+          ]
+        },
+        "greek": {
+          "ll": -34.2855,
+          "perm_mean": -36.4132,
+          "perm_sd": 1.63,
+          "z_perm": 1.305,
+          "p_perm": 0.10699,
+          "details": [
+            {
+              "concept": "TOTAL",
+              "best_match": "holos",
+              "best_dist": 0.5,
+              "ll": -4.088
+            },
+            {
+              "concept": "DEFICIT",
+              "best_match": "ophelos",
+              "best_dist": 0.583,
+              "ll": -4.303
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "amphoreus",
+              "best_dist": 0.65,
+              "ll": -4.686
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "depas",
+              "best_dist": 0.675,
+              "ll": -4.546
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "phiale",
+              "best_dist": 0.683,
+              "ll": -4.583
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "krater",
+              "best_dist": 0.583,
+              "ll": -4.281
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "karpos",
+              "best_dist": 0.613,
+              "ll": -4.385
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "puros",
+              "best_dist": 0.35,
+              "ll": -3.414
+            }
+          ]
+        },
+        "anatolian": {
+          "ll": -35.2274,
+          "perm_mean": -36.7529,
+          "perm_sd": 1.3793,
+          "z_perm": 1.106,
+          "p_perm": 0.12939,
+          "details": [
+            {
+              "concept": "TOTAL",
+              "best_match": "humant",
+              "best_dist": 0.838,
+              "ll": -5.23
+            },
+            {
+              "concept": "DEFICIT",
+              "best_match": "karus",
+              "best_dist": 0.35,
+              "ll": -3.216
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "huppar",
+              "best_dist": 0.65,
+              "ll": -4.396
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "ishuzzi",
+              "best_dist": 0.583,
+              "ll": -4.073
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "palhi",
+              "best_dist": 0.583,
+              "ll": -4.542
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "kukup",
+              "best_dist": 0.65,
+              "ll": -4.714
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "kant",
+              "best_dist": 0.567,
+              "ll": -4.528
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "halki",
+              "best_dist": 0.65,
+              "ll": -4.528
+            }
+          ]
+        },
+        "hurrian": {
+          "ll": -32.6563,
+          "perm_mean": -38.118,
+          "perm_sd": 1.8038,
+          "z_perm": 3.028,
+          "p_perm": 0.0038,
+          "details": [
+            {
+              "concept": "TOTAL",
+              "best_match": "heiarunna",
+              "best_dist": 0.59,
+              "ll": -4.588
+            },
+            {
+              "concept": "DEFICIT",
+              "best_match": "kiri",
+              "best_dist": 0.175,
+              "ll": -2.31
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "kazi",
+              "best_dist": 0.583,
+              "ll": -4.373
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "hupri",
+              "best_dist": 0.65,
+              "ll": -4.768
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "turi",
+              "best_dist": 0.7,
+              "ll": -5.114
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "kazi",
+              "best_dist": 0.425,
+              "ll": -3.803
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "hini",
+              "best_dist": 0.367,
+              "ll": -3.58
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "šari",
+              "best_dist": 0.6,
+              "ll": -4.12
+            }
+          ]
+        }
+      }
+    }
+  },
+  "supporting_channel": {
+    "C_liturgy_ioza2": {
+      "hebrew_lit": {
+        "score": 0.102,
+        "perm_mean": 0.0181,
+        "z_perm": 3.045,
+        "p_perm": 0.02697
+      },
+      "syriac_lit": {
+        "score": 0.017,
+        "perm_mean": 0.027,
+        "z_perm": -0.322,
+        "p_perm": 0.52148
+      },
+      "anatolian_lit": {
+        "score": 0.0136,
+        "perm_mean": 0.0227,
+        "z_perm": -0.309,
+        "p_perm": 0.48052
+      },
+      "hurrian_lit": {
+        "score": 0.0612,
+        "perm_mean": 0.0282,
+        "z_perm": 1.035,
+        "p_perm": 0.17882
+      },
+      "greek_lit": {
+        "score": 0.0,
+        "perm_mean": 0.016,
+        "z_perm": -0.659,
+        "p_perm": 1.0
+      }
+    }
+  },
+  "joint_stouffer_z_semitic_ABD": 3.504
+}
