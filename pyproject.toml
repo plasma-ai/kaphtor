@@ -1,6 +1,6 @@
 [project]
 name = "kaphtor"
-version = "1.1.0"
+version = "1.2.1"
 description = "Tools and data for Linear A research and comparative Semitics"
 readme = "README.md"
 requires-python = ">=3.11,<3.15"

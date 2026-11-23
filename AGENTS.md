@@ -18,6 +18,9 @@ Run from the repository root.
 - Check the headline counts file: `uv run --no-sync python -m tools.views.stats --data data/linear-a` (`--write`
   rewrites `data/linear-a/stats.json` after any change to the counts)
 - Lint the wiki: `uv run --no-sync wiki lint`
+- Refresh an index after changing any page's `desc` or adding a file: `uv run --no-sync wiki update <folder>`, for
+  the folder and each parent up to the root. Never write an `_index.md` link line by hand: the line is the child
+  page's `desc`, and wiki lint fails on any other wording.
 - Query an ANE corpus: `python3 tools/ane/<client>.py --help` (the clients are listed in `tools/ane/README.md`)
 
 ## Structure
@@ -65,6 +68,13 @@ To find names in `data/linear-a/onomasticon.json` that split like DA-MI-NU (·∏èƒ
 
 - **Always:** run the gate before opening a pull request; start a bug fix with a test that reproduces it, and show a
   new test failing before the change that makes it pass.
+- **Always gate the tree you commit:** stage new files first (the hooks see only tracked files), and run the gate
+  in the checkout the commit comes from. In a worktree, give it its own `.venv` (`uv sync --all-groups`): a `.venv`
+  linked from another checkout gates that checkout instead.
+- **Never tag or publish a release before CI passes on that commit:** push, wait for the `gate` run on the exact
+  sha, then tag it.
+- **A folder's datasheet describes every file in it:** when a dataset joins a folder, its `title`, `desc` and body
+  change in the same commit.
 - **Ask the maintainer first:** before adding a dataset or a dependency, changing a reading's tier, changing an
   expected count or generated page in a test (name the cause), or touching `tools/core/frozen/` (pinned by sha256).
 - **Never edit `wiki/` by hand:** change the data or the builder, and rebuild.

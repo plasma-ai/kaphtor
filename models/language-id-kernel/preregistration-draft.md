@@ -1,7 +1,7 @@
 ---
 name: models/language-id-kernel/preregistration-draft
 title: "Language identification by forward spelling: a test of what language Linear A's sign sequences fit"
-desc: ...
+desc: "Pre-registration draft for language identification by forward spelling: hypothesis, corpora, statistic, null and decision rule."
 status: "DRAFT, unsigned. Controls on the development split only. No Linear A word is read or scored."
 date: 2026-11-22
 author: di Mino

@@ -282,8 +282,9 @@ python3 models/language-id-kernel/kaphtor_kernel.py calibrate --n-perm 10000
     Semitic inscriptions, the public inscriptions of Palmyra
     (catalogue rows and names), Marcato's Hatra names and Al-Jallad's DIANA, Safaitic and Taymanitic
     (non-commercial)
-  - `share-alike/`: CC BY-SA datasets, such as the ORAEC/TLA Egyptian texts, the TLA v18 names, Trismegistos Geo and
-    ORACC's editions and translations of the Ugarit, Amarna and Idrimi texts, kept apart
+  - `share-alike/`: CC BY-SA datasets, such as the ORAEC/TLA Egyptian texts, the TLA v18 names, Trismegistos Geo,
+    the LSJ headwords and ORACC's editions and translations of the Ugarit, Amarna and Idrimi texts, kept apart, with
+    the Linear B tokens of Pylos and Knossos (CC BY-NC-SA, non-commercial)
 - `docs/`: the repository's rules and methods, and the corpus guides, starting with [docs/anatomy.md](docs/anatomy.md)
 - `models/`: replicable probabilistic models, starting with [models/language-id-kernel/_index.md](models/language-id-kernel/_index.md)
 - `assets/`: Noto Sans fonts for the Aegean scripts (OFL 1.1) and the README banner
@@ -346,7 +347,8 @@ out below and in the `license` key of each datasheet:
   `sigla/corpus_key_overrides.json`, which are CC BY 4.0. The screenshots in `docs/human-review/` show SigLA's
   drawings and sign crops and carry its CC BY-NC-SA 4.0 terms.
 - **Share-alike data.** The files in `data/share-alike/` remain under CC BY-SA 4.0 (`oracc-levant/` under CC BY-SA
-  3.0), and anything derived from them carries the same terms. Four more files under CC BY-SA 4.0 sit outside that folder, where the tools read them:
+  3.0, and `linear-b/` under CC BY-NC-SA 4.0, for non-commercial use), and anything derived from them carries the
+  same terms. Four more files under CC BY-SA 4.0 sit outside that folder, where the tools read them:
   `data/linear-a/egyptian_roots.json` and `luwian_roots.json`, which hold entries from Wiktionary,
   `data/contact/syriac_lexicon.jsonl`, drawn from Wiktionary's Classical Syriac entries, and
   `data/pre-greek/pregreek_wiktionary_glosses.json`, short glosses from Wiktionary's Pre-Greek category. A Pre-Greek

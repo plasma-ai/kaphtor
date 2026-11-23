@@ -4,7 +4,7 @@ title: "Linear A Multi-Kernel Probabilistic Language Identification Suite"
 desc: "Replicable, zero-LLM ten-kernel probabilistic framework (Kernels A–J: word-shape LID, Kober trios, liturgical cohesion, pre-linguistic anchors, verbal frames, ligature acrophony, dialect coherence, roster onomastics, bound-affix morphology, and zero-curation dictionary audit) with consonant-grid and concept-label permutation controls."
 tags: [linear-a, probabilistic-model, language-identification, preregistration]
 created: 2026-11-22T00:00:00Z
-updated: 2026-11-23T12:52:46Z
+updated: 2026-11-23T15:27:47Z
 ---
 
 # Linear A Multi-Kernel Probabilistic Language Identification Suite
@@ -19,11 +19,13 @@ updated: 2026-11-23T12:52:46Z
 
 [[models/language-id-kernel/auto_anchors_j.py|auto_anchors_j.py]]: ...
 
+[[models/language-id-kernel/build_shipped_inputs.py|build_shipped_inputs.py]]: ...
+
 [[models/language-id-kernel/dialect_g.py|dialect_g.py]]: ...
 
 [[models/language-id-kernel/kaphtor_kernel.py|kaphtor_kernel.py]]: ...
 
-[[models/language-id-kernel/kernel-specs|kernel-specs]]: ...
+[[models/language-id-kernel/kernel-specs|kernel-specs]]: Design specification for the multi-kernel suite: each kernel's inputs, statistic, null and calibration gate.
 
 [[models/language-id-kernel/kober_b.py|kober_b.py]]: ...
 
@@ -39,13 +41,13 @@ updated: 2026-11-23T12:52:46Z
 
 [[models/language-id-kernel/pilot_fix1.py|pilot_fix1.py]]: ...
 
-[[models/language-id-kernel/preregistration-draft|preregistration-draft]]: ...
+[[models/language-id-kernel/preregistration-draft|preregistration-draft]]: Pre-registration draft for language identification by forward spelling: hypothesis, corpora, statistic, null and decision rule.
 
 [[models/language-id-kernel/reference|reference]]: Complete mathematical specification, calibration gates, signed Linear A results, stress-test ablations, and methodological limits.
 
-[[models/language-id-kernel/replication-guide|replication-guide]]: Master 10-kernel scoreboard (A–J), objectivity audit, external-corpus environment variables, and zero-dependency reproduction instructions.
-
 [[models/language-id-kernel/render/_index|render/]]: Frozen Linear B syllabary tables and the forward-spelling and alignment helpers the kernels read.
+
+[[models/language-id-kernel/replication-guide|replication-guide]]: Master scoreboard, objectivity audit, external-corpus environment variables, and zero-dependency reproduction instructions for all ten probabilistic language-identification kernels.
 
 [[models/language-id-kernel/runs/_index|runs/]]: Timestamped JSON ledgers of the signed Linear A multi-kernel run and of the Kernel C and D stress-test ablations.
 

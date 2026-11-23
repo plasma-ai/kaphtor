@@ -1,10 +1,10 @@
 ---
 name: models/language-id-kernel/reference
-title: "Reference Documentation: Four-Kernel Probabilistic Language Identification of Linear A"
+title: "Reference Documentation: Ten-Kernel Probabilistic Language Identification of Linear A"
 desc: "Complete mathematical specification, calibration gates, signed Linear A results, stress-test ablations, and methodological limits."
 tags: [linear-a, reference, statistics, preregistration]
 created: 2026-11-22T00:00:00Z
-updated: 2026-11-23T12:52:46Z
+updated: 2026-11-23T15:13:53Z
 ---
 
 # Reference Documentation: Ten-Kernel Probabilistic Language Identification of Linear A

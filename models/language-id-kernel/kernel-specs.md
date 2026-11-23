@@ -1,7 +1,7 @@
 ---
 name: models/language-id-kernel/kernel-specs
 title: "Replicable Multi-Kernel Probabilistic Architecture for Linear A Language Identification"
-desc: ...
+desc: "Design specification for the multi-kernel suite: each kernel's inputs, statistic, null and calibration gate."
 status: "SPECIFICATION DRAFT (grounded in 2026-11-22 development-split experiments; no gate or Linear A data touched)"
 date: 2026-11-22
 author: di Mino

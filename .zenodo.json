@@ -1,7 +1,7 @@
 {
   "upload_type": "software",
   "title": "kaphtor: tools and data for Linear A research and comparative Semitics",
-  "version": "1.1.0",
+  "version": "1.2.1",
   "creators": [
     {
       "name": "di Mino, Tom",
@@ -9,7 +9,7 @@
     }
   ],
   "description": "<p>An open record of Linear A, and a toolkit for comparative Semitics: a reconciled record of the Linear A inscriptions, proposed readings for their words and signs with their evidence and confidence tiers, tools for testing those readings against the corpus, a database of Semitic roots, and query tools for the corpora of the ancient Near East.</p><p>The record is browsable at <a href=\"https://linear-a.ai/\">linear-a.ai</a>. The grammar of the libation formula it supports is <em>Ya Diktu</em>, doi:10.5281/zenodo.21903481.</p>",
-  "notes": "Licences. The code is licensed under Apache-2.0, and the original data and writing under CC BY 4.0. Third-party material keeps its own terms, set out in NOTICE and in each dataset's datasheet or manifest: CC BY-NC-SA 4.0 (SigLA), CC BY-NC 4.0 (DIANA II), CC BY-NC-ND 4.0 (DIANA I), CC BY-SA 4.0 (Wiktionary-derived keys, ORAEC and TLA records, Trismegistos Geo), CC BY-SA 3.0 (the ORACC editions of the Late Bronze Age Levant), CC BY 3.0 (Pleiades), CC0 1.0 (ORACC CAMS/GKAB and the Amarna glossary), ODC-By 1.0 (Prosopographia Memphitica), the SIL Open Font License 1.1 (the Noto fonts), and public-domain works. The lineara.xyz text underlying the Linear A corpus states no licence. The Hattic keys take only head forms and page numbers from Soysal (Brill 2004, all rights reserved), and none of its text ships. Material under non-commercial terms is for non-commercial use.",
+  "notes": "Licences. The code is licensed under Apache-2.0, and the original data and writing under CC BY 4.0. Third-party material keeps its own terms, set out in NOTICE and in each dataset's datasheet or manifest: CC BY-NC-SA 4.0 (SigLA, and the Linear B tokens checked against DAMOS), CC BY-NC 4.0 (DIANA II), CC BY-NC-ND 4.0 (DIANA I), CC BY-SA 4.0 (Wiktionary-derived keys, ORAEC and TLA records, Trismegistos Geo, the LSJ headwords), CC BY-SA 3.0 (the ORACC editions of the Late Bronze Age Levant), CC BY 3.0 (Pleiades), CC0 1.0 (ORACC CAMS/GKAB and the Amarna glossary), ODC-By 1.0 (Prosopographia Memphitica), the SIL Open Font License 1.1 (the Noto fonts), and public-domain works. The lineara.xyz text underlying the Linear A corpus states no licence. The Hattic keys take only head forms and page numbers from Soysal (Brill 2004, all rights reserved), and none of its text ships. Material under non-commercial terms is for non-commercial use.",
   "access_right": "open",
   "license": "apache-2.0",
   "language": "eng",

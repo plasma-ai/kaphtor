@@ -129,5 +129,30 @@ TLA v18 names (data/share-alike/tla-v18-names/)
 Trismegistos Geo places (data/share-alike/trismegistos/)
   Trismegistos Geo, CC BY-SA 4.0. Anything derived from these files carries the same terms.
 
+LSJ headwords & Diodorus Siculus Books 1-5 (data/share-alike/greek/)
+  Liddell, Scott and Jones, A Greek-English Lexicon, 9th edition (1940), in the text edited for Logeion at the
+  University of Chicago by Helma Dik (https://github.com/helmadik/LSJLogeion), on the Perseus Digital Library's
+  digitization (Tufts University), CC BY-SA 4.0. Diodorus Siculus, Bibliotheca Historica Books 1-5
+  (tlg0060.tlg001.perseus-grc5), Perseus Digital Library (https://www.perseus.tufts.edu/), CC BY-SA 4.0.
+  Anything derived from these files carries the same terms.
+
+Open Scriptures Hebrew Bible words (data/share-alike/hebrew/)
+  Open Scriptures Hebrew Bible (https://github.com/openscriptures/morphhb), based on the Westminster Leningrad
+  Codex (public domain), CC BY 4.0.
+
+LiLa LatInfLexi Latin forms (data/share-alike/latin/)
+  LiLa: Linking Latin (ERC Consolidator Grant 769994), LatInfLexi, CC BY-SA 4.0. Anything derived from this
+  file carries the same terms.
+
+EUPT Ugaritic vocalized tokens (data/share-alike/ugaritic/)
+  Electronic Ugaritic Poetic Texts (EUPT), CC BY-SA 4.0. Anything derived from this file carries the same terms.
+
+Linear B tokens of Pylos and Knossos (data/share-alike/linear-b/)
+  DAMOS, the Database of Mycenaean at Oslo (https://damos.hf.uio.no), by Federico Aurora, University of Oslo,
+  CC BY-NC-SA 4.0. The transliterations were taken from LiBER, Linear B Electronic Resources
+  (https://liber.cnr.it), by Maurizio Del Freo and Francesco Di Filippo, CNR, which states no licence, and
+  checked tablet by tablet against DAMOS. For non-commercial use; anything derived from this file carries the
+  same terms.
+
 Noto Sans Linear A, Noto Sans Linear B and Noto Sans Cypro-Minoan (assets/fonts/)
   SIL Open Font License 1.1 (assets/fonts/OFL.txt).

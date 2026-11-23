@@ -41,14 +41,18 @@ import os
 ANE = Path(
     os.environ.get("KAPHTOR_ANE_DIR", str(Path.home() / ".claude/skills/ancient-near-east-research/data"))
 )
-OSHB = ANE / "ingest/hebrew/derived/oshb_words.jsonl"
-EUPT = ANE / "ingest/open-semitic/eupt-production/derived/tokens.jsonl"
+OSHB = Path(
+    os.environ.get("KAPHTOR_OSHB_JSONL", str(HERE.parents[3] / "data/share-alike/hebrew/oshb_words.jsonl"))
+)
+EUPT = Path(
+    os.environ.get("KAPHTOR_EUPT_JSONL", str(HERE.parents[3] / "data/share-alike/ugaritic/eupt_tokens.jsonl"))
+)
 TLHDIG = ANE / "ingest/anatolian/tlhdig-0.3/derived/words.jsonl"
 ORAEC = ANE / "egyptian_sentences.jsonl"
 LINEAR_B = Path(
     os.environ.get(
         "KAPHTOR_LINEAR_B_JSONL",
-        str(Path.home() / ".claude/skills/linear-a-decipherment/data/linear_b_token_occurrences.jsonl"),
+        str(HERE.parents[3] / "data/share-alike/linear-b/linear_b_tokens.jsonl"),
     )
 )
 ACLT = HERE.parents[3] / "artifacts/jss-rejection-research-2026-10-09/acquisitions/A1-luwian/texts"

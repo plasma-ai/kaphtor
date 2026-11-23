@@ -33,14 +33,16 @@ QURAN = ct.ANE / "ingest/quran/quran-uthmani-numbered.txt"
 LSJ = Path(
     os.environ.get(
         "KAPHTOR_LSJ_JSONL",
-        str(Path.home() / ".claude/skills/linear-a-decipherment/data/contact/greek_lexicon.jsonl"),
+        str(HERE.parents[1] / "data/share-alike/greek/lsj_lb_keys.jsonl"),
     )
 )
 END, BOS = "<end>", "<bos>"
 VOWELS = "aeiou"
 TRACES = ct.ANE / "ingest/open-semitic/derived/traces-geez/tokens.jsonl"
 ORACC_DIR = ct.ANE / "ingest/cuneiform/derived"
-LATIN = Path(os.environ.get("KAPHTOR_LATIN_CSV", "LatInfLexi-forms.csv"))
+LATIN = Path(
+    os.environ.get("KAPHTOR_LATIN_CSV", str(HERE.parents[1] / "data/share-alike/latin/latinf_forms.jsonl"))
+)
 # Akkadian in the Semitic arm comes from ORACC's normalised Old and Standard Babylonian, outside Boğazköy. The
 # Boğazköy Akkadian of TLHdig is a test text only ("akkadian_bo"): it shows what a source's writing does.
 TLH = {"akkadian_bo": ("Akk",), "hittite": ("Hit",), "hurrian": ("Hur",), "hattic": ("Hat", "Hattian"),
@@ -50,8 +52,10 @@ ORACC = {"akkadian": ("oracc_documents.jsonl", ("akk-x-oldbab", "akk-x-stdbab"))
          "urartian": ("oracc_documents_supplement_ckst_csik_ecut.jsonl", ("xur",))}
 ARAMAIC = ct.ANE / "aramaic_texts.jsonl"
 SYRIAC_CORPORA = ("ephrem_nisibis", "ephrem_works")
-# Perseus's Greek text of Diodorus (tlg0060.tlg001.perseus-grc5.xml): not shipped; name its path in KAPHTOR_DIODORUS_XML
-DIODORUS = Path(os.environ.get("KAPHTOR_DIODORUS_XML", "tlg0060.tlg001.perseus-grc5.xml"))
+# Perseus's Greek text of Diodorus (Books 1-5): shipped as JSONL; override with KAPHTOR_DIODORUS_XML (.xml or .jsonl)
+DIODORUS = Path(
+    os.environ.get("KAPHTOR_DIODORUS_XML", str(HERE.parents[1] / "data/share-alike/greek/diodorus_1_5.jsonl"))
+)
 ARMS = {"semitic": ("hebrew", "akkadian", "arabic", "aramaic", "syriac", "geez", "ugaritic"),
         "anatolian": ("hittite", "luwian"), "greek": ("lsj", "diodorus"), "hurrian": ("hurrian", "urartian"),
         "hattic": ("hattic",), "sumerian": ("sumerian",), "latin": ("latin",)}
@@ -281,10 +285,10 @@ def greek_translit(word: str) -> str | None:
 
 
 def greek_keys(word: str, signs: set) -> Word | None:
-    """An alphabetic Greek word as sign keys, by the skill's Greek-to-Linear-B speller (the one that made LSJ's
+    """An alphabetic Greek word as sign keys, by the Greek-to-Linear-B speller of tools/core (the one that made LSJ's
     `lb_key`) and the glide rule; None when it is no valid word."""
-    sys.path.append(str(LSJ.parents[2] / "lib"))
-    import greek_spelling                                     # the skill's speller; read, never edited
+    sys.path.append(str(HERE.parents[1] / "tools/core"))
+    import greek_spelling                                     # tools/core's speller; read, never edited
     translit = greek_translit(word)
     keys = lsj_keys(greek_spelling.greek_to_lb(translit)) if translit else None
     keys = glide(keys, signs) if keys else None
@@ -292,9 +296,17 @@ def greek_keys(word: str, signs: set) -> Word | None:
 
 
 def diodorus_docs(signs: set) -> tuple[list, dict]:
-    """Diodorus 1 to 5 (Perseus TEI), a section as the document: inflected Greek spelled by rule."""
-    import xml.etree.ElementTree as ET
+    """Diodorus 1 to 5 (Perseus TEI or shipped JSONL), a section as the document: inflected Greek spelled by rule."""
     out, left = [], 0
+    if DIODORUS.suffix == ".jsonl":
+        for row in ct._rows(DIODORUS):
+            words = [greek_keys(token, signs) for token in row["text"].split()]
+            left += sum(w is None for w in words)
+            words = [w for w in words if w]
+            if words:
+                out.append((row["doc_id"], words))
+        return out, {"documents": len(out), "words": sum(len(w) for _, w in out), "left_out": left}
+    import xml.etree.ElementTree as ET
     for div in ET.parse(DIODORUS).getroot().iter():
         if div.tag.endswith("div") and div.get("subtype") == "section":
             base = div.get("{http://www.w3.org/XML/1998/namespace}base", "").rsplit(":", 1)[-1]
@@ -345,10 +357,14 @@ def segment_docs(language: str) -> list[tuple[str, list]]:
                 for token in row["form_original"].split():
                     docs.setdefault(f"{row['corpus_id']}:{row['reference']}", []).append(syriac_segments(token))
     elif language == "latin":                                # paradigm forms: the lexeme is the document
-        import csv
-        with open(LATIN, encoding="utf-8", newline="") as fh:
-            for row in csv.DictReader(fh):
+        if LATIN.suffix == ".jsonl":
+            for row in ct._rows(LATIN):
                 docs.setdefault(row["lexeme"], []).append(latin_segments(row["orth_form"]))
+        else:
+            import csv
+            with open(LATIN, encoding="utf-8", newline="") as fh:
+                for row in csv.DictReader(fh):
+                    docs.setdefault(row["lexeme"], []).append(latin_segments(row["orth_form"]))
     elif language == "arabic":
         with open(QURAN, encoding="utf-8") as fh:
             for line in fh:

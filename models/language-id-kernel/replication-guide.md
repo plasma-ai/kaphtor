@@ -65,9 +65,11 @@ PYTHONPATH=models/language-id-kernel python3 models/language-id-kernel/dialect_g
 |---|---|---|---|
 | `KAPHTOR_CORPUS_JSON` | `data/linear-a/corpus.json` *(shipped)* | `kaphtor_kernel.py`, `verbs_e.py`, `onomastics_h.py` | GORILA/SigLA Linear A corpus |
 | `KAPHTOR_CONTACT_DIR` | `data/contact` *(shipped subset)* | `auto_anchors_j.py` | Glossed contact JSONL lexica (Akkadian, Ugaritic, Hebrew, Greek LSJ, Anatolian, Hurrian, Egyptian) |
-| `KAPHTOR_DIODORUS_XML` | `tlg0060.tlg001.perseus-grc5.xml` | `lid.py`, `morphology_i.py` | Perseus inflected running Greek text (Diodorus Siculus) |
-| `KAPHTOR_ANE_DIR` | `~/.claude/skills/ancient-near-east-research/data` | `render/c_texts.py`, `lid.py`, `kober_b.py`, `liturgy_c.py`, `verbs_e.py`, `morphology_i.py` | OSHB Hebrew, EUPT Ugaritic, TLHdig Anatolian/Hurrian/Hattic, ORACC Akkadian/Sumerian, Quran, TraCES Geʿez, Ephrem Syriac |
-| `KAPHTOR_LSJ_JSONL` | `~/.claude/skills/linear-a-decipherment/data/contact/greek_lexicon.jsonl` | `lid.py` | LSJ Greek headword lexicon |
-| `KAPHTOR_LINEAR_B_JSONL` | `~/.claude/skills/linear-a-decipherment/data/linear_b_token_occurrences.jsonl` | `render/c_texts.py` | DAMOS Linear B tablet corpus |
+| `KAPHTOR_DIODORUS_XML` | `data/share-alike/greek/diodorus_1_5.jsonl` *(shipped, CC BY-SA 4.0)* | `lid.py`, `morphology_i.py` | Perseus inflected running Greek text (Diodorus Siculus Books 1–5; `.jsonl` or `.xml`) |
+| `KAPHTOR_OSHB_JSONL` | `data/share-alike/hebrew/oshb_words.jsonl` *(shipped, CC BY 4.0)* | `render/c_texts.py`, `lid.py`, `liturgy_c.py`, `verbs_e.py` | Open Scriptures Hebrew Bible pointed Hebrew/Aramaic words |
+| `KAPHTOR_EUPT_JSONL` | `data/share-alike/ugaritic/eupt_tokens.jsonl` *(shipped, CC BY-SA 4.0)* | `render/c_texts.py`, `lid.py` | EUPT vocalized Ugaritic tokens |
+| `KAPHTOR_LATIN_CSV` | `data/share-alike/latin/latinf_forms.jsonl` *(shipped, CC BY-SA 4.0)* | `lid.py` | LiLa LatInfLexi inflected Latin control (`.jsonl` or `.csv`) |
+| `KAPHTOR_ANE_DIR` | *(not shipped: set the variable)* | `render/c_texts.py`, `lid.py`, `kober_b.py`, `liturgy_c.py`, `verbs_e.py`, `morphology_i.py` | OSHB Hebrew, EUPT Ugaritic, TLHdig Anatolian/Hurrian/Hattic, ORACC Akkadian/Sumerian, Quran, TraCES Geʿez, Ephrem Syriac |
+| `KAPHTOR_LSJ_JSONL` | `data/share-alike/greek/lsj_lb_keys.jsonl` *(shipped)* | `lid.py` | LSJ Greek headwords in Linear B spelling |
+| `KAPHTOR_LINEAR_B_JSONL` | `data/share-alike/linear-b/linear_b_tokens.jsonl` *(shipped)* | `render/c_texts.py`, `lid.py` | Syllabic tokens of the Pylos and Knossos tablets, taken from LiBER and checked against DAMOS |
 | `KAPHTOR_AMORITE_ONOMASTICON` | `amorite_onomasticon.jsonl` | `onomastics_h.py` | Gelb/Huffmon Amorite personal names |
-| `KAPHTOR_LATIN_CSV` | `LatInfLexi-forms.csv` | `lid.py` | LiLa LatInfLexi inflected Latin control |
