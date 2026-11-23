@@ -1,12 +1,16 @@
 ---
+name: models/language-id-kernel/preregistration-draft
 title: "Language identification by forward spelling: a test of what language Linear A's sign sequences fit"
+desc: ...
 status: "DRAFT, unsigned. Controls on the development split only. No Linear A word is read or scored."
 date: 2026-11-22
 author: di Mino
 replaces: every test archived in artifacts/probabilistic-model-exchange-2026-11-21/RESULTS-LEDGER.md (archive note of 2026-11-22)
+created: 2026-11-23T12:52:46Z
+updated: 2026-11-23T12:52:46Z
 ---
 
-# Language identification by forward spelling
+# Language identification by forward spelling: a test of what language Linear A's sign sequences fit
 
 ## 1. Question
 

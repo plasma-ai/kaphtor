@@ -15,6 +15,7 @@ from __future__ import annotations
 import argparse
 import json
 import math
+import os
 import random
 import sys
 import time
@@ -29,7 +30,8 @@ import lid              # noqa: E402
 
 SIGNATURE = HERE / "SIGNATURE.txt"
 CORPUS_PATH = Path.home() / ".claude/skills/linear-a-decipherment/data/corpus.json"
-AMORITE_PATH = Path("/Users/tomdimino/Desktop/thera-knossos-minos-paper/linear-a-model/amorite_onomasticon.jsonl")
+# the Amorite name list (amorite_onomasticon.jsonl): not shipped; name its path in KAPHTOR_AMORITE_ONOMASTICON
+AMORITE_PATH = Path(os.environ.get("KAPHTOR_AMORITE_ONOMASTICON", "amorite_onomasticon.jsonl"))
 Word = tuple[tuple[str, str], ...]
 
 

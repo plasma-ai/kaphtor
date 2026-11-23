@@ -16,6 +16,7 @@ import collections
 import hashlib
 import json
 import math
+import os
 import random
 import sys
 import unicodedata
@@ -44,7 +45,8 @@ ORACC = {"akkadian": ("oracc_documents.jsonl", ("akk-x-oldbab", "akk-x-stdbab"))
          "urartian": ("oracc_documents_supplement_ckst_csik_ecut.jsonl", ("xur",))}
 ARAMAIC = ct.ANE / "aramaic_texts.jsonl"
 SYRIAC_CORPORA = ("ephrem_nisibis", "ephrem_works")
-DIODORUS = Path("/Users/tomdimino/Desktop/thera-knossos-minos-paper/sources/diodorus/perseus-grc/tlg0060.tlg001.perseus-grc5.xml")
+# Perseus's Greek text of Diodorus (tlg0060.tlg001.perseus-grc5.xml): not shipped; name its path in KAPHTOR_DIODORUS_XML
+DIODORUS = Path(os.environ.get("KAPHTOR_DIODORUS_XML", "tlg0060.tlg001.perseus-grc5.xml"))
 ARMS = {"semitic": ("hebrew", "akkadian", "arabic", "aramaic", "syriac", "geez", "ugaritic"),
         "anatolian": ("hittite", "luwian"), "greek": ("lsj", "diodorus"), "hurrian": ("hurrian", "urartian"),
         "hattic": ("hattic",), "sumerian": ("sumerian",), "latin": ("latin",)}

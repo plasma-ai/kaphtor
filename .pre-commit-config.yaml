@@ -29,7 +29,7 @@ repos:
         language: fail
         exclude: |
           (?x)
-          ^(\.claude-plugin|\.github|\.wiki|assets|data|docs|skills|tests|tools|wiki)/
+          ^(\.claude-plugin|\.github|\.wiki|assets|data|docs|models|skills|tests|tools|wiki)/
           |^(_index\.md|\.gitattributes|\.gitignore|\.lfsconfig|\.pre-commit-config\.yaml|\.python-version|\.zenodo\.json)$
           |^(AGENTS\.md|CITATION\.cff|CLAUDE\.md|CONTRIBUTING\.md|LICENSE|LICENSE-CC-BY-4\.0|NOTICE)$
           |^(README\.md|SECURITY\.md|codemeta\.json|llms\.txt|pyproject\.toml|uv\.lock)$

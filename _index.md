@@ -4,7 +4,7 @@ title: kaphtor
 desc: Tools and data for Linear A research and comparative Semitics.
 tags: [root]
 created: 2026-10-22T18:14:10Z
-updated: 2026-11-06T23:18:54Z
+updated: 2026-11-23T12:53:04Z
 ---
 
 # kaphtor
@@ -18,6 +18,8 @@ updated: 2026-11-06T23:18:54Z
 [[docs/_index|docs/]]: The repository's rules and methods, and the guides to its corpora.
 
 [[llms.txt|llms.txt]]: A map of the repository for language-model readers.
+
+[[models/_index|models/]]: Replicable computational and probabilistic models for Linear A language identification.
 
 [[wiki/_index|wiki/]]: The record, generated from the data: Linear A, the Semitic roots, the Pre-Greek lexicon and the Aegean scripts.
 

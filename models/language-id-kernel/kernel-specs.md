@@ -1,12 +1,16 @@
 ---
+name: models/language-id-kernel/kernel-specs
 title: "Replicable Multi-Kernel Probabilistic Architecture for Linear A Language Identification"
+desc: ...
 status: "SPECIFICATION DRAFT (grounded in 2026-11-22 development-split experiments; no gate or Linear A data touched)"
 date: 2026-11-22
 author: di Mino
 companion_to: PREREGISTRATION-DRAFT.md
+created: 2026-11-23T12:52:46Z
+updated: 2026-11-23T12:52:46Z
 ---
 
-# Replicable Multi-Kernel Probabilistic Architecture (`kaphtor-kernel`)
+# Replicable Multi-Kernel Probabilistic Architecture for Linear A Language Identification
 
 ## 0. Executive Summary & Empirical Starting Point
 

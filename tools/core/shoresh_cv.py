@@ -89,8 +89,8 @@ def cv_distance(x: WordCV, y: WordCV) -> float:
             v1 = prev[j] + 0.75
             v2 = cur[j - 1] + 0.75
             v3 = prev[j - 1] + sub
-            best = v1 if v1 <= v2 else v2
-            if v3 < best:
+            best = v1 if v1 <= v2 else v2  # noqa: FURB136
+            if v3 < best:  # noqa: PLR1730
                 best = v3
             cur[j] = best
         prev, cur = cur, prev

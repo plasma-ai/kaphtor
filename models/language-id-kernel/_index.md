@@ -1,13 +1,55 @@
 ---
-name: language-id-kernel
+name: models/language-id-kernel
 title: "Linear A Multi-Kernel Probabilistic Language Identification Suite"
 desc: "Replicable, zero-LLM eight-kernel probabilistic framework (Kernels A–H: word-shape LID, Kober trios, liturgical cohesion, pre-linguistic anchors, verbal frames, ligature acrophony, dialect coherence, and roster onomastics) with consonant-grid permutation controls."
 tags: [linear-a, probabilistic-model, language-identification, preregistration]
-created: 2026-11-22
-updated: 2026-11-22
+created: 2026-11-22T00:00:00Z
+updated: 2026-11-23T12:52:46Z
 ---
 
-# Linear A Multi-Kernel Probabilistic Suite (`language-id-kernel`)
+# Linear A Multi-Kernel Probabilistic Language Identification Suite
+
+[[models/_index|..]]
+
+[[models/language-id-kernel/SIGNATURE.txt|SIGNATURE.txt]]: ...
+
+[[models/language-id-kernel/acrophony_f.py|acrophony_f.py]]: ...
+
+[[models/language-id-kernel/anchors_d.py|anchors_d.py]]: ...
+
+[[models/language-id-kernel/dialect_g.py|dialect_g.py]]: ...
+
+[[models/language-id-kernel/kaphtor_kernel.py|kaphtor_kernel.py]]: ...
+
+[[models/language-id-kernel/kernel-specs|kernel-specs]]: ...
+
+[[models/language-id-kernel/kober_b.py|kober_b.py]]: ...
+
+[[models/language-id-kernel/lid.py|lid.py]]: ...
+
+[[models/language-id-kernel/liturgy_c.py|liturgy_c.py]]: ...
+
+[[models/language-id-kernel/onomastics_h.py|onomastics_h.py]]: ...
+
+[[models/language-id-kernel/pilot.py|pilot.py]]: ...
+
+[[models/language-id-kernel/pilot_fix1.py|pilot_fix1.py]]: ...
+
+[[models/language-id-kernel/preregistration-draft|preregistration-draft]]: ...
+
+[[models/language-id-kernel/reference|reference]]: Complete mathematical specification, calibration gates, signed Linear A results, stress-test ablations, and methodological limits.
+
+[[models/language-id-kernel/render/_index|render/]]: Frozen Linear B syllabary tables and the forward-spelling and alignment helpers the kernels read.
+
+[[models/language-id-kernel/runs/_index|runs/]]: Timestamped JSON ledgers of the signed Linear A multi-kernel run and of the Kernel C and D stress-test ablations.
+
+[[models/language-id-kernel/stress_test_cd.py|stress_test_cd.py]]: ...
+
+[[models/language-id-kernel/tests/_index|tests/]]: Unit tests for Kernels B, C and D and for the unified kaphtor_kernel.py command line.
+
+[[models/language-id-kernel/verbs_e.py|verbs_e.py]]: ...
+
+***
 
 ## 1. How This Was Developed (Lineage)
 

@@ -183,11 +183,11 @@ def levenshtein(t1: tuple[str, ...], t2: tuple[str, ...], sub, ins, cutoff: floa
             v1 = prev[j + 1] + 1.0
             v2 = cur[j] + ins_t2[j]
             v3 = prev[j] + sub(a, t2[j])
-            best = v1 if v1 <= v2 else v2
-            if v3 < best:
+            best = v1 if v1 <= v2 else v2  # noqa: FURB136
+            if v3 < best:  # noqa: PLR1730
                 best = v3
             cur[j + 1] = best
-            if best < row_min:
+            if best < row_min:  # noqa: PLR1730
                 row_min = best
         if row_min > cutoff:
             return INF
@@ -217,11 +217,11 @@ def distance(t1: tuple[str, ...], t2: tuple[str, ...], cutoff: float = INF) -> f
             v1 = prev[j + 1] + 1.0
             v2 = cur[j] + ins_t2[j]
             v3 = prev[j] + (0.0 if a == b else sub_get((a, b), 1.0))
-            best = v1 if v1 <= v2 else v2
-            if v3 < best:
+            best = v1 if v1 <= v2 else v2  # noqa: FURB136
+            if v3 < best:  # noqa: PLR1730
                 best = v3
             cur[j + 1] = best
-            if best < row_min:
+            if best < row_min:  # noqa: PLR1730
                 row_min = best
         if row_min > cutoff:
             return INF

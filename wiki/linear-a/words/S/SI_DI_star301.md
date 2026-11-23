@@ -40,7 +40,13 @@ updated: 2026-11-08T17:23:00Z
 
 ### Note
 
-KN Zf 13, signs 4–6, after A-RE-NE ʾAren, the owner's name: 'Aren of Sidon'. DI is a dead vowel copying SI's i, as KA-SA-PU writes kasp-: Ṣidn-a. The final -a is Sidon's own spelling, ᵘʳᵘṢi₂-du-na in Zimredda's letters (EA 144:5, 11), where Ugarit inflects a-na ᵘʳᵘṢi₂-du-ni (RGTC 12/2, 248). The middle vowel varies: ū (Ṣidūna), ā (ṣi-da-ni-yu), y (ṣdyn). Rival: Ṣīd-nā 'our Ṣid', the god of Sidon with -nā, as DA-DU-\*301 dādu-nā. One attestation.
+KN Zf 13, signs 4–6, after A-RE-NE ʾAren, the owner's name: 'Aren of Sidon'. DI is a dead vowel copying SI's i, as KA-SA-PU writes kasp-: Ṣidn-a.
+
+The final -a is Sidon's own spelling, ᵘʳᵘṢi₂-du-na in Zimredda's letters (EA 144:5, 11), and Tyre, Byblos and the Egyptian court write it too (EA 148:25; 85:71; 162:12), where Ugarit inflects a-na ᵘʳᵘṢi₂-du-ni (RGTC 12/2, 248). Egyptian group-writing ends the name the same way, Gauthier's zddouna (DNG 6, 113, 138). The middle vowel varies: ū (Ṣidūna), ā (ṣi-da-ni-yu), y (ṣdyn); a letter from Sidon doubles the n, Ṣi-du-un-ni (RS 25.430:2; DULAT 769).
+
+A scribe on the Middle Euphrates names a man by the city alone, LÚ KUR Ṣi-du-ni 'man of the land of Sidon' (TBR 94:16, 18; RGTC 12/2, 248).
+
+Weak point: every cuneiform spelling sets a vowel between d and n, u or a, and SI-DI-\*301 offers only DI's i. Rival: Ṣīd-nā 'our Ṣid', the god of Sidon with -nā, as DA-DU-\*301 dādu-nā. One attestation.
 
 ### Cognates
 
@@ -54,7 +60,7 @@ KN Zf 13, signs 4–6, after A-RE-NE ʾAren, the owner's name: 'Aren of Sidon'. 
 
 ### Source
 
-di Mino; RGTC 12/2; DULAT; Krahmalkov
+di Mino; RGTC 12/2; DULAT; Krahmalkov; Gauthier DNG
 
 ## Attestations
 

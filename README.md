@@ -135,7 +135,7 @@ arithmetic, or a spelling variant of the same word. Every other value is listed 
 given. The record holds 42 sign values: 5 resolved (2 phonemic, 3 logograms) and 37 proposed (16 phonemic, 21
 logograms). The fraction signs are counted apart: 3 resolved and 11 proposed.
 
-Linear A has no proof kernel. Counts, distributions, arithmetic and reproducibility are checked mechanically.
+Linear A has no deductive proof kernel, though [`models/language-id-kernel/`](#probabilistic-language-identification) provides a deterministic probabilistic language-identification suite. Counts, distributions, arithmetic and reproducibility are checked mechanically.
 Segmentation, sound correspondence and meaning stay graded and open to revision. When the four rival-language files
 (the Luwian, Egyptian, Hurrian and Hattic roots) are in the checkout, every Semitic match is rescored against them and,
 where each rival gives a p-value, the margin is reported. Without them `root_match.py` stops and names the first
