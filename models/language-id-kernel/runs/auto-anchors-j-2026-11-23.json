@@ -1,0 +1,328 @@
+{
+  "cap": 40,
+  "beta": 6.0,
+  "n_perm": 10000,
+  "synset_raw_counts": {
+    "TOTAL": {
+      "semitic": 8,
+      "greek": 1129,
+      "anatolian": 0,
+      "hurrian": 2,
+      "egyptian": 0
+    },
+    "DEFICIT": {
+      "semitic": 18,
+      "greek": 390,
+      "anatolian": 1,
+      "hurrian": 0,
+      "egyptian": 1
+    },
+    "BOWL": {
+      "semitic": 10,
+      "greek": 206,
+      "anatolian": 0,
+      "hurrian": 1,
+      "egyptian": 0
+    },
+    "JAR": {
+      "semitic": 5,
+      "greek": 262,
+      "anatolian": 6,
+      "hurrian": 3,
+      "egyptian": 0
+    },
+    "WHEAT": {
+      "semitic": 23,
+      "greek": 674,
+      "anatolian": 1,
+      "hurrian": 2,
+      "egyptian": 2
+    },
+    "TRIPOD": {
+      "semitic": 0,
+      "greek": 23,
+      "anatolian": 0,
+      "hurrian": 0,
+      "egyptian": 0
+    },
+    "SWORD": {
+      "semitic": 2,
+      "greek": 88,
+      "anatolian": 1,
+      "hurrian": 1,
+      "egyptian": 0
+    }
+  },
+  "calibration_linear_b": {
+    "n_anchors": 6,
+    "winner": "greek",
+    "runner_up": "semitic",
+    "delta_ll": 6.5929,
+    "languages": {
+      "semitic": {
+        "ll": -28.6835,
+        "null_mean": -29.2849,
+        "null_sd": 0.8276,
+        "z_perm": 0.727,
+        "p_perm": 0.23148,
+        "n_concept_perms": 720,
+        "concept_null_mean": -28.3007,
+        "concept_null_sd": 0.6604,
+        "z_concept": -0.58,
+        "p_concept": 0.69306
+      },
+      "greek": {
+        "ll": -22.0906,
+        "null_mean": -27.0306,
+        "null_sd": 0.998,
+        "z_perm": 4.95,
+        "p_perm": 0.0001,
+        "n_concept_perms": 720,
+        "concept_null_mean": -24.4052,
+        "concept_null_sd": 0.8731,
+        "z_concept": 2.651,
+        "p_concept": 0.0125
+      },
+      "anatolian": {
+        "ll": -30.7465,
+        "null_mean": -31.2694,
+        "null_sd": 1.1504,
+        "z_perm": 0.455,
+        "p_perm": 0.30007,
+        "n_concept_perms": 720,
+        "concept_null_mean": -30.2958,
+        "concept_null_sd": 1.0479,
+        "z_concept": -0.43,
+        "p_concept": 0.63611
+      },
+      "hurrian": {
+        "ll": -30.9097,
+        "null_mean": -31.9885,
+        "null_sd": 1.2046,
+        "z_perm": 0.896,
+        "p_perm": 0.19248,
+        "n_concept_perms": 720,
+        "concept_null_mean": -31.1457,
+        "concept_null_sd": 1.3309,
+        "z_concept": 0.177,
+        "p_concept": 0.45833
+      },
+      "egyptian": {
+        "ll": -33.6776,
+        "null_mean": -34.304,
+        "null_sd": 0.56,
+        "z_perm": 1.119,
+        "p_perm": 0.26297,
+        "n_concept_perms": 720,
+        "concept_null_mean": -33.5586,
+        "concept_null_sd": 1.0351,
+        "z_concept": -0.115,
+        "p_concept": 0.43333
+      }
+    }
+  },
+  "linear_a_full_8": {
+    "n_anchors": 8,
+    "winner": "semitic",
+    "runner_up": "hurrian",
+    "delta_ll": 2.34,
+    "languages": {
+      "semitic": {
+        "ll": -27.4466,
+        "null_mean": -37.3721,
+        "null_sd": 2.045,
+        "z_perm": 4.854,
+        "p_perm": 0.0001,
+        "n_concept_perms": 5040,
+        "concept_null_mean": -30.9449,
+        "concept_null_sd": 1.3933,
+        "z_concept": 2.511,
+        "p_concept": 0.00893
+      },
+      "greek": {
+        "ll": -33.2751,
+        "null_mean": -36.8155,
+        "null_sd": 1.4076,
+        "z_perm": 2.515,
+        "p_perm": 0.0088,
+        "n_concept_perms": 5040,
+        "concept_null_mean": -33.2141,
+        "concept_null_sd": 0.4313,
+        "z_concept": -0.142,
+        "p_concept": 0.54841
+      },
+      "anatolian": {
+        "ll": -41.176,
+        "null_mean": -42.7395,
+        "null_sd": 0.9949,
+        "z_perm": 1.572,
+        "p_perm": 0.07699,
+        "n_concept_perms": 5040,
+        "concept_null_mean": -40.6923,
+        "concept_null_sd": 1.3137,
+        "z_concept": -0.368,
+        "p_concept": 0.63452
+      },
+      "hurrian": {
+        "ll": -29.7866,
+        "null_mean": -38.1383,
+        "null_sd": 2.351,
+        "z_perm": 3.552,
+        "p_perm": 0.0019,
+        "n_concept_perms": 5040,
+        "concept_null_mean": -32.9581,
+        "concept_null_sd": 2.1675,
+        "z_concept": 1.463,
+        "p_concept": 0.10337
+      },
+      "egyptian": {
+        "ll": -47.072,
+        "null_mean": -47.1851,
+        "null_sd": 0.6825,
+        "z_perm": 0.166,
+        "p_perm": 0.38636,
+        "n_concept_perms": 5040,
+        "concept_null_mean": -45.8848,
+        "concept_null_sd": 1.0928,
+        "z_concept": -1.086,
+        "p_concept": 0.91071
+      }
+    }
+  },
+  "linear_a_no_loans_5": {
+    "n_anchors": 5,
+    "winner": "semitic",
+    "runner_up": "greek",
+    "delta_ll": 2.074,
+    "languages": {
+      "semitic": {
+        "ll": -18.0345,
+        "null_mean": -23.6147,
+        "null_sd": 1.3266,
+        "z_perm": 4.206,
+        "p_perm": 0.0003,
+        "n_concept_perms": 60,
+        "concept_null_mean": -19.2525,
+        "concept_null_sd": 1.1468,
+        "z_concept": 1.062,
+        "p_concept": 0.18333
+      },
+      "greek": {
+        "ll": -20.1085,
+        "null_mean": -23.0518,
+        "null_sd": 1.0004,
+        "z_perm": 2.942,
+        "p_perm": 0.0038,
+        "n_concept_perms": 60,
+        "concept_null_mean": -20.1354,
+        "concept_null_sd": 0.314,
+        "z_concept": 0.085,
+        "p_concept": 0.46667
+      },
+      "anatolian": {
+        "ll": -25.6876,
+        "null_mean": -27.0677,
+        "null_sd": 0.6395,
+        "z_perm": 2.158,
+        "p_perm": 0.0309,
+        "n_concept_perms": 60,
+        "concept_null_mean": -25.8327,
+        "concept_null_sd": 1.0146,
+        "z_concept": 0.143,
+        "p_concept": 0.45
+      },
+      "hurrian": {
+        "ll": -21.2675,
+        "null_mean": -25.0565,
+        "null_sd": 1.5212,
+        "z_perm": 2.491,
+        "p_perm": 0.0116,
+        "n_concept_perms": 60,
+        "concept_null_mean": -22.088,
+        "concept_null_sd": 0.6772,
+        "z_concept": 1.212,
+        "p_concept": 0.15
+      },
+      "egyptian": {
+        "ll": -29.55,
+        "null_mean": -29.8003,
+        "null_sd": 0.5435,
+        "z_perm": 0.46,
+        "p_perm": 0.16428,
+        "n_concept_perms": 60,
+        "concept_null_mean": -29.445,
+        "concept_null_sd": 0.3537,
+        "z_concept": -0.297,
+        "p_concept": 0.8
+      }
+    }
+  },
+  "linear_a_arith_2": {
+    "n_anchors": 2,
+    "winner": "semitic",
+    "runner_up": "greek",
+    "delta_ll": 0.5608,
+    "languages": {
+      "semitic": {
+        "ll": -7.4355,
+        "null_mean": -9.649,
+        "null_sd": 0.7116,
+        "z_perm": 3.111,
+        "p_perm": 0.0082,
+        "n_concept_perms": 2,
+        "concept_null_mean": null,
+        "concept_null_sd": null,
+        "z_concept": null,
+        "p_concept": null
+      },
+      "greek": {
+        "ll": -7.9963,
+        "null_mean": -8.9688,
+        "null_sd": 0.5487,
+        "z_perm": 1.772,
+        "p_perm": 0.05579,
+        "n_concept_perms": 2,
+        "concept_null_mean": null,
+        "concept_null_sd": null,
+        "z_concept": null,
+        "p_concept": null
+      },
+      "anatolian": {
+        "ll": -9.3,
+        "null_mean": -10.5857,
+        "null_sd": 0.5426,
+        "z_perm": 2.37,
+        "p_perm": 0.0466,
+        "n_concept_perms": 2,
+        "concept_null_mean": null,
+        "concept_null_sd": null,
+        "z_concept": null,
+        "p_concept": null
+      },
+      "hurrian": {
+        "ll": -9.4467,
+        "null_mean": -10.9334,
+        "null_sd": 0.6568,
+        "z_perm": 2.264,
+        "p_perm": 0.09209,
+        "n_concept_perms": 2,
+        "concept_null_mean": null,
+        "concept_null_sd": null,
+        "z_concept": null,
+        "p_concept": null
+      },
+      "egyptian": {
+        "ll": -11.55,
+        "null_mean": -11.8003,
+        "null_sd": 0.5435,
+        "z_perm": 0.46,
+        "p_perm": 0.16428,
+        "n_concept_perms": 2,
+        "concept_null_mean": null,
+        "concept_null_sd": null,
+        "z_concept": null,
+        "p_concept": null
+      }
+    }
+  }
+}

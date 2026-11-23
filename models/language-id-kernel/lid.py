@@ -30,12 +30,17 @@ import c_texts as ct  # noqa: E402  (Protocol C's readers of the held editions)
 
 SIGNATURE = HERE / "SIGNATURE.txt"
 QURAN = ct.ANE / "ingest/quran/quran-uthmani-numbered.txt"
-LSJ = Path.home() / ".claude/skills/linear-a-decipherment/data/contact/greek_lexicon.jsonl"
+LSJ = Path(
+    os.environ.get(
+        "KAPHTOR_LSJ_JSONL",
+        str(Path.home() / ".claude/skills/linear-a-decipherment/data/contact/greek_lexicon.jsonl"),
+    )
+)
 END, BOS = "<end>", "<bos>"
 VOWELS = "aeiou"
 TRACES = ct.ANE / "ingest/open-semitic/derived/traces-geez/tokens.jsonl"
 ORACC_DIR = ct.ANE / "ingest/cuneiform/derived"
-LATIN = Path.home() / "Desktop/Programming/plasma/lila/resources/LatInfLexi/LatInfLexi-forms.csv"
+LATIN = Path(os.environ.get("KAPHTOR_LATIN_CSV", "LatInfLexi-forms.csv"))
 # Akkadian in the Semitic arm comes from ORACC's normalised Old and Standard Babylonian, outside Boğazköy. The
 # Boğazköy Akkadian of TLHdig is a test text only ("akkadian_bo"): it shows what a source's writing does.
 TLH = {"akkadian_bo": ("Akk",), "hittite": ("Hit",), "hurrian": ("Hur",), "hattic": ("Hat", "Hattian"),

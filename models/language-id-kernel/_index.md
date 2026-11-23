@@ -1,7 +1,7 @@
 ---
 name: models/language-id-kernel
 title: "Linear A Multi-Kernel Probabilistic Language Identification Suite"
-desc: "Replicable, zero-LLM eight-kernel probabilistic framework (Kernels A–H: word-shape LID, Kober trios, liturgical cohesion, pre-linguistic anchors, verbal frames, ligature acrophony, dialect coherence, and roster onomastics) with consonant-grid permutation controls."
+desc: "Replicable, zero-LLM ten-kernel probabilistic framework (Kernels A–J: word-shape LID, Kober trios, liturgical cohesion, pre-linguistic anchors, verbal frames, ligature acrophony, dialect coherence, roster onomastics, bound-affix morphology, and zero-curation dictionary audit) with consonant-grid and concept-label permutation controls."
 tags: [linear-a, probabilistic-model, language-identification, preregistration]
 created: 2026-11-22T00:00:00Z
 updated: 2026-11-23T12:52:46Z
@@ -17,6 +17,8 @@ updated: 2026-11-23T12:52:46Z
 
 [[models/language-id-kernel/anchors_d.py|anchors_d.py]]: ...
 
+[[models/language-id-kernel/auto_anchors_j.py|auto_anchors_j.py]]: ...
+
 [[models/language-id-kernel/dialect_g.py|dialect_g.py]]: ...
 
 [[models/language-id-kernel/kaphtor_kernel.py|kaphtor_kernel.py]]: ...
@@ -29,6 +31,8 @@ updated: 2026-11-23T12:52:46Z
 
 [[models/language-id-kernel/liturgy_c.py|liturgy_c.py]]: ...
 
+[[models/language-id-kernel/morphology_i.py|morphology_i.py]]: ...
+
 [[models/language-id-kernel/onomastics_h.py|onomastics_h.py]]: ...
 
 [[models/language-id-kernel/pilot.py|pilot.py]]: ...
@@ -38,6 +42,8 @@ updated: 2026-11-23T12:52:46Z
 [[models/language-id-kernel/preregistration-draft|preregistration-draft]]: ...
 
 [[models/language-id-kernel/reference|reference]]: Complete mathematical specification, calibration gates, signed Linear A results, stress-test ablations, and methodological limits.
+
+[[models/language-id-kernel/replication-guide|replication-guide]]: Master 10-kernel scoreboard (A–J), objectivity audit, external-corpus environment variables, and zero-dependency reproduction instructions.
 
 [[models/language-id-kernel/render/_index|render/]]: Frozen Linear B syllabary tables and the forward-spelling and alignment helpers the kernels read.
 
@@ -59,7 +65,7 @@ Two empirical findings drove this redesign:
 1. **The open-dictionary freedom wall (`D0-INFORMATION-BUDGET.md`):** Working *backward* from a Linear A word to a 62,201-entry Semitic dictionary gives ~43 bits of reader freedom against ~1 bit of evidence, and ~90% of arbitrary consonant skeletons find a match.
 2. **LLM cost & pretraining contamination (Protocols D–E):** Language-model readers are expensive, non-deterministic, and retain prior exposure to published Linear A proposals.
 
-In response, we built a **100% deterministic, zero-LLM, forward-spelled eight-kernel suite (Kernels A–H)** that anyone can run locally, calibrated first on known ancient languages (including real Linear B tablets) before touching Linear A, and paired with a **consonant-series grid-permutation null** on every channel.
+In response, we built a **100% deterministic, zero-LLM, forward-spelled ten-kernel suite (Kernels A–J)** that anyone can run locally, calibrated first on known ancient languages (including real Linear B tablets) before touching Linear A, and paired with **consonant-series grid-permutation** and **exact concept-label shuffle** nulls.
 
 ## 2. Architecture: What Each Module Calls Upon and Tests
 
@@ -74,6 +80,8 @@ In response, we built a **100% deterministic, zero-LLM, forward-spelled eight-ke
 | `acrophony_f.py` | **Kernel F** — Commodity ligature acrophony ($B=10{,}000$ perms) | Bounded commodity-qualifier synsets (`OIL`, `GRAIN`, `WINE`, `TEXTILE`); calibrated on Linear B ligatures (`OLE+PA/WE/A`, `GRA+PE`, `TELA+TE/PU`) | Whether Linear A commodity adjuncts (`GRA+KU/PA/QE`, `OLE+KI/MI/DI/TA/NE/RI`, `VIN+RA`) match initial CV acrophones of Semitic qualifiers |
 | `dialect_g.py` | **Kernel G** — Palaikastro dialect sound-law coherence ($B=10{,}000$) | 5 Central Crete ↔ Palaikastro minimal pairs (`GORILA`); 4-rule NWS phonological bundle | Whether Eastern Crete formula shifts match attested NWS sound laws (`y- > ʾ-`, `*-aya > -ē`, `*ṯ > š/t`) vs. random 4-rule bundles |
 | `onomastics_h.py` | **Kernel H** — Structurally-gated roster onomastics ($B=500$) | Linear A `>=3`-sign words followed by `1` on admin tablets (`n=57`); Amorite (Gelb), Mycenaean LB, Hurrian, Anatolian | Cultural/onomastic milieu of structurally-identified personal-name slots without dictionary peeking |
+| `morphology_i.py` | **Kernel I** — Unsupervised bound-affix morphology & margin-permutation null ($B=5{,}000$) | Strict one-sided stem-containment affixes (`S` vs `p+S`/`S+s`) trained on inflected corpora (`KAPHTOR_DIODORUS_XML` for Greek) | Tests bound prefix/suffix polarity (`p_pre`) and CV-sign affix identity under a discriminative margin-permutation null ($M_L(\pi) = \text{LL}_L - \max_{R \neq L}\text{LL}_R$): 7/7 dev PASS; Linear B picks Greek (`M=+480.6`, `p_M=0.048`, only pass); Linear A picks Semitic (`M=+27.1`, `p_M=0.0436`, `p_cv=0.0192`, only pass) |
+| `auto_anchors_j.py` | **Kernel J** — Zero-curation automated dictionary audit ($B=10{,}000$ grid perms + exact concept shuffle) | Open contact JSONL lexica (`KAPHTOR_CONTACT_DIR`: Akkadian, Ugaritic, Hebrew, Greek LSJ, Anatolian, Hurrian, Egyptian); fixed English concept regexes | Tests Kernel D's pre-linguistic anchors with zero hand-picked synsets under dual phonetic + semantic nulls: calibrates Linear B as Greek (`p_perm=0.00010`, `p_concept=0.01250`) and identifies Linear A as Semitic (`p_perm=0.00010`, `p_concept=0.00893`, only language passing both nulls) |
 | `stress_test_cd.py` | Ablation & sensitivity runner | `anchors_d.py`, `liturgy_c.py`, `formula_family.json` | 11-way Kernel D leave-one-anchor-out + trade-loanword drop (110,000 perms) and Kernel C full-formula-family test |
 | `reference.md` | Full technical reference | All calibration and signed Linear A run records | Equations, calibration gates, complete results ledger, permutation diagnostics, and scope/limits |
 | `SIGNATURE.txt` | Freeze & authorization record | SHA-256 manifest of all 10 core files | Gates execution on Linear A (`kaphtor_kernel.py run` refuses without it) |
@@ -109,6 +117,8 @@ See `reference.md` for full methodology, calibration tables, signed results, and
 [[models/_index|..]]
 
 [[models/language-id-kernel/reference|reference]]: Complete mathematical specification, calibration gates, signed Linear A results, stress-test ablations, and methodological limits.
+
+[[models/language-id-kernel/replication-guide|replication-guide]]: Master 10-kernel scoreboard (A–J), objectivity audit, external-corpus environment variables, and zero-dependency reproduction instructions.
 
 [[models/language-id-kernel/kernel-specs|kernel-specs]]: Design specification for the four-kernel suite.
 

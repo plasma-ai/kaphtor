@@ -7,7 +7,7 @@ created: 2026-11-22T00:00:00Z
 updated: 2026-11-23T12:52:46Z
 ---
 
-# Reference Documentation: Four-Kernel Probabilistic Language Identification of Linear A
+# Reference Documentation: Ten-Kernel Probabilistic Language Identification of Linear A
 
 ## 1. Design Principles & Anti-Circularity Guarantees
 
@@ -91,10 +91,19 @@ Run record: `runs/kaphtor-kernel-linear-a-20261122T222434Z.json` (505 distinct u
 
 *Notes on E–H:* Kernel F's Semitic commodity synsets were compiled from *Ya Diktu* App. C.5 alongside standard rival qualifiers (so an independent blind-builder synset audit remains the gold standard). Kernel H reflects shared Bronze Age Cretan personal names carried over from Linear A into Knossos Linear B, with Amorite Semitic placing second ahead of Hurrian and Anatolian.
 
+### 4.4 Kernels I–J (`2026-11-23`, Bound Morphology & Zero-Curation Dictionary Audit)
+
+| Kernel | Calibration Gate | Linear A Target | Winner | Margin / $\Delta\text{LL}$ | Null #1 | Null #2 |
+|---|---|---|---|---|---|---|
+| **I. Bound Affix Morphology** (`morphology_i.py`, `runs/morphology-i-2026-11-23.json`) | **PASS** (7/7 dev `p_cv=0.00050`; Linear B → Greek 5/5 seeds, `p_M=0.0015–0.0485`; Semitic `p_M=0.919`) | 505 strict Linear A types (`p_pre=0.419` vs Semitic `0.404`) | **Semitic** *(5/5 seeds `omission`)* | **`mean M = +32.35`** (`+27.11` seed 0) | `Z_cv = +1.92, p_cv = 0.01920` | Margin null: **`mean p_M = 0.0385`** *(admin `p_M=0.049`, votive `M=+5.04`)* |
+| **J. Zero-Curation Dict Audit** (`auto_anchors_j.py`, `runs/auto-anchors-j-2026-11-23.json`) | **PASS** (Linear B → Greek `ΔLL=+6.59, p_perm=0.00010, p_concept=0.01250`; Semitic `0.231` / `0.693`) | Linear A `FULL_8` (`cap=40` & uncapped) | **Semitic** | **`ΔLL = +2.34`** (`+5.83` vs Greek) | **`Z_perm = +4.85, p_perm = 0.00010`** | Concept shuffle (`5,040` perms): **`Z_concept = +2.51, p_concept = 0.00893`** *(only pass; Greek `0.548`)* |
+
+See [replication-guide.md](replication-guide.md) for the complete 10-kernel master scoreboard and external-corpus environment variables.
+
 ---
 
 ## 5. Honest Scope & Methodological Limits
 
-1. **Consonant-specific phonetic proof resides in Kernels D and C (`IO Za 2`), not A and B:** While Kernels A (`+0.623`) and B (`+2.288`) both rank Semitic #1 in raw bits across the 505-type corpus, their lead persists under random consonant permutation (`perm_mean = +0.643` and `+2.770`, yielding `Z_perm = -0.21` and `-1.09`). Thus A and B reflect **vowel-core and syllabic macro-typology** (`/a, i, u/` dominance), whereas **Kernel D (`Z = +7.37, p = 0.00010`)** and **Kernel C on `IO Za 2` (`Z = +2.91–3.05, p = 0.027–0.032`)** are genuinely consonant-specific phonetic signals that collapse when consonants are scrambled.
+1. **Consonant-specific phonetic proof resides in Kernels D, J, F, G, I, and C (`IO Za 2`), not A and B:** While Kernels A (`+0.623`) and B (`+2.288`) both rank Semitic #1 in raw bits across the 505-type corpus, their lead persists under random consonant permutation (`perm_mean = +0.643` and `+2.770`, yielding `Z_perm = -0.21` and `-1.09`). Thus A and B reflect **vowel-core and syllabic macro-typology** (`/a, i, u/` dominance), whereas **Kernel D (`Z = +7.37, p = 0.00010`)**, **Kernel J (`p_perm = 0.00010, p_concept = 0.00893`)**, **Kernel F (`Z = +5.53, p = 0.00010`)**, **Kernel G (`5/5, p = 0.00010`)**, **Kernel I (`M = +27.11, p_M = 0.0436`)**, and **Kernel C on `IO Za 2` (`Z = +2.91–3.05, p = 0.027–0.032`)** carry consonant-specific signal that survives consonant-grid permutation.
 2. **Pre-linguistic anchors (`Kernel D`) survive trade-loanword removal:** Dropping `A-KA-NU`, `KU-NI-SU`, and `KA-DI` still leaves a ~1,860 : 1 Bayes Factor (`Z = +6.22, p = 0.00010`), and pure arithmetic (`KU-RO`, `KI-RO`) alone yields `Z = +4.59, p = 0.00640`.
 3. **What remains untested:** An unmodeled extinct language family (outside Semitic, Greek, Anatolian, Hurrian, Hattic, and Latin) is bounded only by the consonant-grid permutation null and the Sumerian isolate control, not by a direct language model.

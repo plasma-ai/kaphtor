@@ -203,7 +203,7 @@ the data from another folder.
 
 ## Probabilistic Language Identification
 
-Using strict Linear B sign values alone, zero LLMs, and zero project-lexicon inputs, the eight-kernel suite
+Using strict Linear B sign values alone, zero LLMs, and zero project-lexicon inputs, the ten-kernel suite
 (`models/language-id-kernel/`) establishes consonant-specific phonetic matches to Semitic across independent
 pre-linguistic channels: standalone arithmetic/vessel/grain anchors at a **~794,000 : 1 Bayes Factor** (`ΔLL = +13.58`,
 `Z_perm = +7.37`, `p = 0.00010`, 0/10,000 consonant-grid permutations—holding across all eight leave-one-out
@@ -218,8 +218,10 @@ Stouffer `Z = +3.504`, `p = 0.00023`).
 The repository ships two complementary, zero-LLM, deterministic frameworks:
 
 - **`models/language-id-kernel/`** ([index](models/language-id-kernel/_index.md),
-  [reference](models/language-id-kernel/reference.md)): self-contained eight-kernel suite (`Kernels A–H`) under strict
-  Linear B sign values with consonant-grid permutation nulls and known-language calibration gates:
+  [reference](models/language-id-kernel/reference.md),
+  [replication guide](models/language-id-kernel/replication-guide.md)): self-contained ten-kernel suite (`Kernels A–J`)
+  under strict Linear B sign values with consonant-grid and concept-label permutation nulls and known-language
+  calibration gates:
   - **A (Word-Shape LID)** & **B (Unsupervised Kober Trios):** rank Semitic first across 505 undamaged Linear A types
     (`M = +0.623` bits/sign; `M = +2.288` bits/transition), capturing `/a, i, u/` vowel-core typology.
   - **C (Liturgical Cohesion):** size-locked (`K = 300`) Dirichlet log-odds Psalms/Leviticus vocabulary on `IO Za 2`
@@ -234,6 +236,17 @@ The repository ships two complementary, zero-LLM, deterministic frameworks:
     (`p = 0.00010`).
   - **H (Roster Onomastics):** 57 structurally-gated `WORD 1` roster names match shared Knossos/Pylos Linear B first
     and Amorite Semitic second (`Z = +1.30`, ahead of Hurrian and Anatolian).
+  - **I (Bound Affix Morphology):** unsupervised strict stem-containment affixes (`S` vs `p+S`/`S+s`) scored under a
+    discriminative margin-permutation null ($B = 5{,}000$) that cancels universal suffix consonants; 7/7 dev pass;
+    Linear B picks Greek (`M = +480.6`, `p_M = 0.048`, only pass; Semitic `0.919`) and Linear A picks Semitic
+    (`M = +27.1`, `p_M = 0.0436`, `p_cv = 0.0192`, only pass; `p_pre = 0.419` vs Semitic `0.404`, Linear B `0.349` vs
+    Greek `0.355`).
+  - **J (Zero-Curation Dictionary Audit):** replaces hand-curated anchor synsets with automated regex extraction over
+    independent open dictionaries (`cap = 40` and uncapped) under two orthogonal nulls—10,000 consonant-grid swaps and
+    exact concept-label shuffling; calibrates Linear B as Greek (`p_perm = 0.00010`, `p_concept = 0.01250`; Semitic
+    rejected at `0.231` / `0.693`) and identifies Linear A as Semitic on `FULL_8` (`Z_perm = +4.85`, `p_perm = 0.00010`;
+    `Z_concept = +2.51`, `p_concept = 0.00893` over all 5,040 concept assignments—the only language passing both nulls,
+    with Greek at `p_concept = 0.548`).
 - **Shoresh (`tools/core/root_match.py`, `shoresh_cv.py`, `shoresh_kernel_bridge.py`):** the per-word root matcher
   used by the skill, upgraded with fast O(1) exact-match retrieval, vocalized CV distance and Bayesian marginal
   log-likelihood (`ΔLL`, Amendment A24), and Kober-cluster / Kernel C–D domain tagging (Amendment A25).

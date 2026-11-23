@@ -32,8 +32,11 @@ import c_render as r    # noqa: E402
 import c_texts as ct    # noqa: E402
 import lid              # noqa: E402
 
+import os
 SIGNATURE = HERE / "SIGNATURE.txt"
-CORPUS_PATH = Path.home() / ".claude/skills/linear-a-decipherment/data/corpus.json"
+CORPUS_PATH = Path(
+    os.environ.get("KAPHTOR_CORPUS_JSON", str(HERE.parents[1] / "data/linear-a/corpus.json"))
+)
 Word = tuple[tuple[str, str], ...]
 
 

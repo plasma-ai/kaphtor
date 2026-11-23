@@ -1,0 +1,198 @@
+{
+  "omission": {
+    "linear_b_seeds": [
+      {
+        "seed": 20261123,
+        "winner": "greek",
+        "greek_M": 480.589,
+        "greek_p_M": 0.04848,
+        "semitic_p_M": 0.91404
+      },
+      {
+        "seed": 20261124,
+        "winner": "greek",
+        "greek_M": 714.05,
+        "greek_p_M": 0.0015,
+        "semitic_p_M": 0.9995
+      },
+      {
+        "seed": 20261125,
+        "winner": "greek",
+        "greek_M": 565.542,
+        "greek_p_M": 0.01099,
+        "semitic_p_M": 0.95752
+      },
+      {
+        "seed": 20261126,
+        "winner": "greek",
+        "greek_M": 490.138,
+        "greek_p_M": 0.03848,
+        "semitic_p_M": 0.93503
+      },
+      {
+        "seed": 20261127,
+        "winner": "greek",
+        "greek_M": 424.318,
+        "greek_p_M": 0.04098,
+        "semitic_p_M": 0.93903
+      }
+    ],
+    "linear_b_greek_wins": 5,
+    "linear_a_seeds": [
+      {
+        "seed": 20261123,
+        "winner": "semitic",
+        "semitic_M": 27.112,
+        "semitic_p_M": 0.05097,
+        "semitic_p_cv": 0.02099
+      },
+      {
+        "seed": 20261124,
+        "winner": "semitic",
+        "semitic_M": 27.716,
+        "semitic_p_M": 0.03998,
+        "semitic_p_cv": 0.01199
+      },
+      {
+        "seed": 20261125,
+        "winner": "semitic",
+        "semitic_M": 41.745,
+        "semitic_p_M": 0.01199,
+        "semitic_p_cv": 0.007
+      },
+      {
+        "seed": 20261126,
+        "winner": "semitic",
+        "semitic_M": 36.695,
+        "semitic_p_M": 0.01249,
+        "semitic_p_cv": 0.006
+      },
+      {
+        "seed": 20261127,
+        "winner": "semitic",
+        "semitic_M": 28.48,
+        "semitic_p_M": 0.07696,
+        "semitic_p_cv": 0.01999
+      }
+    ],
+    "linear_a_semitic_wins": 5,
+    "linear_a_mean_M": 32.35,
+    "linear_a_mean_p_M": 0.03848,
+    "linear_a_votive": {
+      "n_types": 110,
+      "pre_rate": 0.3182,
+      "n_pre": 7,
+      "n_suf": 15,
+      "winner": "semitic",
+      "semitic_M": 5.044,
+      "semitic_p_M": 0.31184
+    },
+    "linear_a_admin": {
+      "n_types": 404,
+      "pre_rate": 0.4854,
+      "n_pre": 50,
+      "n_suf": 53,
+      "winner": "semitic",
+      "semitic_M": 13.556,
+      "semitic_p_M": 0.04898
+    }
+  },
+  "plene": {
+    "linear_b_seeds": [
+      {
+        "seed": 20261123,
+        "winner": "greek",
+        "greek_M": 175.364,
+        "greek_p_M": 0.13443,
+        "semitic_p_M": 0.15692
+      },
+      {
+        "seed": 20261124,
+        "winner": "greek",
+        "greek_M": 671.951,
+        "greek_p_M": 0.0065,
+        "semitic_p_M": 0.997
+      },
+      {
+        "seed": 20261125,
+        "winner": "greek",
+        "greek_M": 577.202,
+        "greek_p_M": 0.009,
+        "semitic_p_M": 0.93503
+      },
+      {
+        "seed": 20261126,
+        "winner": "greek",
+        "greek_M": 256.119,
+        "greek_p_M": 0.08796,
+        "semitic_p_M": 0.85557
+      },
+      {
+        "seed": 20261127,
+        "winner": "greek",
+        "greek_M": 442.572,
+        "greek_p_M": 0.07896,
+        "semitic_p_M": 0.83958
+      }
+    ],
+    "linear_b_greek_wins": 5,
+    "linear_a_seeds": [
+      {
+        "seed": 20261123,
+        "winner": "semitic",
+        "semitic_M": 9.312,
+        "semitic_p_M": 0.58021,
+        "semitic_p_cv": 0.0005
+      },
+      {
+        "seed": 20261124,
+        "winner": "semitic",
+        "semitic_M": 7.717,
+        "semitic_p_M": 0.76412,
+        "semitic_p_cv": 0.02599
+      },
+      {
+        "seed": 20261125,
+        "winner": "semitic",
+        "semitic_M": 44.493,
+        "semitic_p_M": 0.04098,
+        "semitic_p_cv": 0.001
+      },
+      {
+        "seed": 20261126,
+        "winner": "semitic",
+        "semitic_M": 10.201,
+        "semitic_p_M": 0.75512,
+        "semitic_p_cv": 0.006
+      },
+      {
+        "seed": 20261127,
+        "winner": "latin",
+        "semitic_M": -2.112,
+        "semitic_p_M": 0.85357,
+        "semitic_p_cv": 0.03448
+      }
+    ],
+    "linear_a_semitic_wins": 4,
+    "linear_a_mean_M": 13.92,
+    "linear_a_mean_p_M": 0.5988,
+    "linear_a_votive": {
+      "n_types": 110,
+      "pre_rate": 0.3182,
+      "n_pre": 7,
+      "n_suf": 15,
+      "winner": "latin",
+      "semitic_M": -2.265,
+      "semitic_p_M": 0.57471
+    },
+    "linear_a_admin": {
+      "n_types": 404,
+      "pre_rate": 0.4854,
+      "n_pre": 50,
+      "n_suf": 53,
+      "winner": "semitic",
+      "semitic_M": 11.755,
+      "semitic_p_M": 0.41479
+    }
+  }
+}

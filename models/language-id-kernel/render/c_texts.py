@@ -37,12 +37,20 @@ HERE = Path(__file__).resolve()
 sys.path.insert(0, str(HERE.parents[2] / "protocol-d" / "scripts"))
 import pointed  # noqa: E402  (Protocol D's reader of pointed Hebrew; read, never edited)
 
-ANE = Path.home() / ".claude/skills/ancient-near-east-research/data"
+import os
+ANE = Path(
+    os.environ.get("KAPHTOR_ANE_DIR", str(Path.home() / ".claude/skills/ancient-near-east-research/data"))
+)
 OSHB = ANE / "ingest/hebrew/derived/oshb_words.jsonl"
 EUPT = ANE / "ingest/open-semitic/eupt-production/derived/tokens.jsonl"
 TLHDIG = ANE / "ingest/anatolian/tlhdig-0.3/derived/words.jsonl"
 ORAEC = ANE / "egyptian_sentences.jsonl"
-LINEAR_B = Path.home() / ".claude/skills/linear-a-decipherment/data/linear_b_token_occurrences.jsonl"
+LINEAR_B = Path(
+    os.environ.get(
+        "KAPHTOR_LINEAR_B_JSONL",
+        str(Path.home() / ".claude/skills/linear-a-decipherment/data/linear_b_token_occurrences.jsonl"),
+    )
+)
 ACLT = HERE.parents[3] / "artifacts/jss-rejection-research-2026-10-09/acquisitions/A1-luwian/texts"
 ACLT_TEXTS = ("KARATEPE1", "KARKAMIS_A11A", "KARKAMIS_A11BC", "KARKAMIS_A6", "SULTANHAN", "TOPADA")
 LANGUAGES = ("ugaritic", "hebrew", "greek", "luwian", "egyptian", "hurrian")

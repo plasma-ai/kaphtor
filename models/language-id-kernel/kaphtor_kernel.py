@@ -43,8 +43,11 @@ import liturgy_c as lc  # noqa: E402
 import pilot            # noqa: E402
 import pilot_fix1 as pf1  # noqa: E402
 
+import os
 SIGNATURE = HERE / "SIGNATURE.txt"
-CORPUS_PATH = Path.home() / ".claude/skills/linear-a-decipherment/data/corpus.json"
+CORPUS_PATH = Path(
+    os.environ.get("KAPHTOR_CORPUS_JSON", str(HERE.parents[1] / "data/linear-a/corpus.json"))
+)
 CORE_FILES = [
     HERE / "kaphtor_kernel.py",
     HERE / "lid.py",
