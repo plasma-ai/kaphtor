@@ -39,7 +39,9 @@ LSJ = Path(
 END, BOS = "<end>", "<bos>"
 VOWELS = "aeiou"
 TRACES = ct.ANE / "ingest/open-semitic/derived/traces-geez/tokens.jsonl"
-ORACC_DIR = ct.ANE / "ingest/cuneiform/derived"
+ORACC_DIR = Path(
+    os.environ.get("KAPHTOR_ORACC_DIR", str(HERE.parents[1] / "data/share-alike/cuneiform"))
+)
 LATIN = Path(
     os.environ.get("KAPHTOR_LATIN_CSV", str(HERE.parents[1] / "data/share-alike/latin/latinf_forms.jsonl"))
 )
@@ -47,9 +49,9 @@ LATIN = Path(
 # Boğazköy Akkadian of TLHdig is a test text only ("akkadian_bo"): it shows what a source's writing does.
 TLH = {"akkadian_bo": ("Akk",), "hittite": ("Hit",), "hurrian": ("Hur",), "hattic": ("Hat", "Hattian"),
        "luwian": ("Luw",)}
-ORACC = {"akkadian": ("oracc_documents.jsonl", ("akk-x-oldbab", "akk-x-stdbab")),
-         "sumerian": ("oracc_documents_supplement_sumerian_epsd2_etcsri.jsonl", ("sux",)),
-         "urartian": ("oracc_documents_supplement_ckst_csik_ecut.jsonl", ("xur",))}
+ORACC = {"akkadian": (("oracc_akkadian.jsonl", "oracc_documents.jsonl"), ("akk-x-oldbab", "akk-x-stdbab")),
+         "sumerian": (("oracc_sumerian.jsonl", "oracc_documents_supplement_sumerian_epsd2_etcsri.jsonl"), ("sux",)),
+         "urartian": (("oracc_documents_supplement_ckst_csik_ecut.jsonl",), ("xur",))}
 ARAMAIC = ct.ANE / "aramaic_texts.jsonl"
 SYRIAC_CORPORA = ("ephrem_nisibis", "ephrem_works")
 # Perseus's Greek text of Diodorus (Books 1-5): shipped as JSONL; override with KAPHTOR_DIODORUS_XML (.xml or .jsonl)
@@ -341,21 +343,28 @@ def segment_docs(language: str) -> list[tuple[str, list]]:
             column = str((row.get("locations") or [""])[0]).split(" ")[0]
             docs.setdefault(f"{row['document']} {column}", []).append(ct.ugaritic_segments(row["surface"]))
     elif language == "geez":                                 # 23 works: a run of twenty passages is the document
-        for row in ct._rows(TRACES):
-            block = int(row["passage"]) // 20 if str(row.get("passage", "")).isdigit() else 0
-            docs.setdefault(f"{row['document_source_id']}:{block}", []).append(geez_segments(row["transliteration"]))
+        if TRACES.is_file():
+            for row in ct._rows(TRACES):
+                block = int(row["passage"]) // 20 if str(row.get("passage", "")).isdigit() else 0
+                docs.setdefault(f"{row['document_source_id']}:{block}", []).append(geez_segments(row["transliteration"]))
     elif language in ORACC:
-        name, codes = ORACC[language]
-        for row in ct._rows(ORACC_DIR / name):
-            for token in row.get("tokens") or []:
-                if token.get("lang") in codes:
-                    seg = None if token.get("damaged") or not token.get("norm") else norm_segments(token["norm"])
-                    docs.setdefault(str(row["canonical_id"]), []).append(seg)
+        names, codes = ORACC[language]
+        src = next((ORACC_DIR / n for n in names if (ORACC_DIR / n).is_file()), None)
+        if src is None:
+            src = next((ct.ANE / "ingest/cuneiform/derived" / n for n in names
+                        if (ct.ANE / "ingest/cuneiform/derived" / n).is_file()), None)
+        if src is not None:
+            for row in ct._rows(src):
+                for token in row.get("tokens") or []:
+                    if token.get("lang") in codes:
+                        seg = None if token.get("damaged") or not token.get("norm") else norm_segments(token["norm"])
+                        docs.setdefault(str(row["canonical_id"]), []).append(seg)
     elif language == "syriac":                               # Ephrem, pointed in the West Syriac way; a stanza
-        for row in ct._rows(ARAMAIC):
-            if row.get("corpus_id") in SYRIAC_CORPORA:
-                for token in row["form_original"].split():
-                    docs.setdefault(f"{row['corpus_id']}:{row['reference']}", []).append(syriac_segments(token))
+        if ARAMAIC.is_file():
+            for row in ct._rows(ARAMAIC):
+                if row.get("corpus_id") in SYRIAC_CORPORA:
+                    for token in row["form_original"].split():
+                        docs.setdefault(f"{row['corpus_id']}:{row['reference']}", []).append(syriac_segments(token))
     elif language == "latin":                                # paradigm forms: the lexeme is the document
         if LATIN.suffix == ".jsonl":
             for row in ct._rows(LATIN):
@@ -366,17 +375,24 @@ def segment_docs(language: str) -> list[tuple[str, list]]:
                 for row in csv.DictReader(fh):
                     docs.setdefault(row["lexeme"], []).append(latin_segments(row["orth_form"]))
     elif language == "arabic":
-        with open(QURAN, encoding="utf-8") as fh:
-            for line in fh:
-                sura, _, text = line.rstrip("\n").split("|", 2) if line.count("|") >= 2 else ("", "", "")
-                for token in text.split():
-                    docs.setdefault(f"quran:{sura}", []).append(arabic_segments(token))
+        if QURAN.is_file():
+            with open(QURAN, encoding="utf-8") as fh:
+                for line in fh:
+                    sura, _, text = line.rstrip("\n").split("|", 2) if line.count("|") >= 2 else ("", "", "")
+                    for token in text.split():
+                        docs.setdefault(f"quran:{sura}", []).append(arabic_segments(token))
     elif language in TLH:
         if not _TLH_CACHE:                                   # one pass over the file serves all five languages
             code = {c: name for name, codes in TLH.items() for c in codes}
             for row in ct._rows(ct.TLHDIG):
                 name = code.get(row.get("language"))
-                if name:
+                if not name:
+                    continue
+                if "words" in row:
+                    target = _TLH_CACHE.setdefault(name, collections.OrderedDict()).setdefault(row["document_id"], [])
+                    for tok in row["words"]:
+                        target.append(ct.cuneiform_segments(tok))
+                else:
                     seg = ct.cuneiform_segments(row["trans"]) if row.get("preserved") and row.get("trans") else None
                     _TLH_CACHE.setdefault(name, collections.OrderedDict()).setdefault(row["document_id"], []).append(seg)
         docs = _TLH_CACHE.get(language, docs)

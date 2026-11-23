@@ -129,12 +129,19 @@ TLA v18 names (data/share-alike/tla-v18-names/)
 Trismegistos Geo places (data/share-alike/trismegistos/)
   Trismegistos Geo, CC BY-SA 4.0. Anything derived from these files carries the same terms.
 
-LSJ headwords & Diodorus Siculus Books 1-5 (data/share-alike/greek/)
+LSJ headwords, glosses & Diodorus Siculus Books 1-5 (data/share-alike/greek/)
   Liddell, Scott and Jones, A Greek-English Lexicon, 9th edition (1940), in the text edited for Logeion at the
   University of Chicago by Helma Dik (https://github.com/helmadik/LSJLogeion), on the Perseus Digital Library's
   digitization (Tufts University), CC BY-SA 4.0. Diodorus Siculus, Bibliotheca Historica Books 1-5
   (tlg0060.tlg001.perseus-grc5), Perseus Digital Library (https://www.perseus.tufts.edu/), CC BY-SA 4.0.
   Anything derived from these files carries the same terms.
+
+TLHdig Anatolian, Hurrian, Hattic & Boğazköy Akkadian documents (data/share-alike/anatolian/)
+  Thesaurus Linguarum Hethaeorum digitalis (TLHdig), release 0.3, Zenodo, doi:10.5281/zenodo.20328284, CC BY 4.0.
+
+ORACC CC0 Akkadian & Sumerian documents and ePSD2 Sumerian lexicon (data/share-alike/cuneiform/)
+  Open Richly Annotated Cuneiform Corpus (ORACC, https://oracc.museum.upenn.edu/), including ePSD2 and ETCSRI
+  documents marked CC0 1.0 in their open-data releases.
 
 Open Scriptures Hebrew Bible words (data/share-alike/hebrew/)
   Open Scriptures Hebrew Bible (https://github.com/openscriptures/morphhb), based on the Westminster Leningrad

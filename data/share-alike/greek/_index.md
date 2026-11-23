@@ -1,18 +1,20 @@
 ---
 name: data/share-alike/greek
-title: LSJ headwords and Diodorus Siculus, Books 1–5
-desc: The 117,130 headwords of Liddell, Scott and Jones's Greek lexicon, each with its spelling in Linear B signs, and the 2,465 sections of Diodorus Siculus, Books 1–5, in the Perseus text, CC BY-SA 4.0.
+title: LSJ headwords, glosses and Diodorus Siculus, Books 1–5
+desc: The 117,130 headwords and 101,410 glossed Linear B keys of Liddell, Scott and Jones's Greek lexicon, and the 2,465 sections of Diodorus Siculus, Books 1–5, in the Perseus text, CC BY-SA 4.0.
 tags: [data, greek, linear-b]
 license: CC BY-SA 4.0
 created: 2026-11-23T15:30:00Z
-updated: 2026-11-23T15:30:00Z
+updated: 2026-11-23T16:35:00Z
 ---
 
-# LSJ headwords and Diodorus Siculus, Books 1–5
+# LSJ headwords, glosses and Diodorus Siculus, Books 1–5
 
 [[data/share-alike/_index|..]]
 
 [[data/share-alike/greek/diodorus_1_5.jsonl|diodorus_1_5.jsonl]]: One row per Perseus TEI section of Diodorus Siculus, *Bibliotheca Historica* Books 1–5 (2,465 sections; 81,026 clean Linear-B-spelled Greek words), CC BY-SA 4.0.
+
+[[data/share-alike/greek/lsj_glosses.jsonl|lsj_glosses.jsonl]]: One row per glossed LSJ entry: its Linear B spelling (`lb_key`) and primary English meaning (101,410), CC BY-SA 4.0.
 
 [[data/share-alike/greek/lsj_lb_keys.jsonl|lsj_lb_keys.jsonl]]: One row per LSJ entry: its id, its headword and the headword spelled in Linear B signs (117,130).
 
@@ -47,5 +49,6 @@ the text. The suite reads it as running Greek prose.
 **Source.** Diodorus Siculus, *Bibliotheca Historica*, Books 1–5, in the Perseus Digital Library's TEI edition
 `tlg0060.tlg001.perseus-grc5` (https://www.perseus.tufts.edu/), CC BY-SA 4.0.
 
-**Build.** `models/language-id-kernel/build_shipped_inputs.py --lsj` cuts the lexicon file from the full lexicon
-and `--diodorus` cuts the sections from the Perseus XML; with `--check` each compares the two and writes nothing.
+`lsj_glosses.jsonl` holds 101,410 rows, pairing each LSJ entry's `lb_key` with its primary English meaning (up to 120 characters) for the zero-curation automated dictionary audit in `models/language-id-kernel/auto_anchors_j.py` (Kernel J), under the same Logeion/Perseus CC BY-SA 4.0 terms.
+
+**Build.** `models/language-id-kernel/build_shipped_inputs.py --lsj`, `--lsj-glosses` and `--diodorus` cut these files from the full sources; with `--check` each compares the two and writes nothing.

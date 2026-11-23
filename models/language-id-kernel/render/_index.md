@@ -3,7 +3,7 @@ name: models/language-id-kernel/render
 title: render
 desc: Frozen Linear B syllabary tables and the forward-spelling and alignment helpers the kernels read.
 created: 2026-11-22T00:00:00Z
-updated: 2026-11-23T12:52:46Z
+updated: 2026-11-23T16:56:39Z
 ---
 
 # render

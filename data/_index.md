@@ -4,7 +4,7 @@ title: Data
 desc: The datasets, each with a datasheet or manifest naming its licence, grouped by licence and subject.
 tags: [data]
 created: 2026-10-22T18:14:10Z
-updated: 2026-11-23T15:27:47Z
+updated: 2026-11-23T16:56:37Z
 ---
 
 # Data
@@ -21,7 +21,7 @@ updated: 2026-11-23T15:27:47Z
 
 [[data/semitic-roots/_index|semitic-roots/]]: The comparative Semitic root database and the consonant correspondence table, with a datasheet.
 
-[[data/share-alike/_index|share-alike/]]: The ORAEC/TLA Egyptian documents, the TLA v18 names, the Trismegistos places and the LSJ headwords, under CC BY-SA 4.0, the ORACC editions of the Late Bronze Age Levant, under CC BY-SA 3.0, and the Linear B tokens of Pylos and Knossos, under CC BY-NC-SA 4.0.
+[[data/share-alike/_index|share-alike/]]: Open-licensed reference corpora for the suite (ORAEC/TLA Egyptian, TLA v18 names, Trismegistos places, LSJ headwords and glosses, Diodorus Books 1–5, OSHB Hebrew, EUPT Ugaritic, LiLa LatInfLexi Latin, TLHdig Anatolian/Hurrian/Hattic, ORACC CC0 Akkadian/Sumerian and ePSD2 lexicon, ORACC Levant LBA and DAMOS-verified Linear B tokens).
 
 ***
 

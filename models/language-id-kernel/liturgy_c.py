@@ -19,6 +19,7 @@ import argparse
 import collections
 import json
 import math
+import os
 import random
 import sys
 import time
@@ -32,7 +33,12 @@ import c_render as r    # noqa: E402
 import lid              # noqa: E402
 
 SIGNATURE = HERE / "SIGNATURE.txt"
-CONTROLS_V3 = HERE.parents[1] / "ioza2-adjudication/protocol-d/controls/controls_v3.jsonl"
+CONTROLS_V3 = Path(
+    os.environ.get(
+        "KAPHTOR_CONTROLS_V3",
+        str(HERE.parents[1] / "ioza2-adjudication/protocol-d/controls/controls_v3.jsonl"),
+    )
+)
 Word = tuple[tuple[str, str], ...]
 
 HEB_LIT_BOOKS = ("Ps", "Lev", "Lam", "Joel", "Hab", "Song")
@@ -249,11 +255,20 @@ def build_size_locked_lexicons(
     ranked_heb = sorted(z_heb.items(), key=lambda kv: (-kv[1], kv[0]))
     lexicons["hebrew_lit"] = [w for w, _ in ranked_heb[:k_top]]
 
-    # 2. Syriac (Ephrem hymns, train split, top-K by frequency)
+    # 2. Akkadian (ORACC CC0 Old/Standard Babylonian, train split, top-K by frequency)
+    akk_seg = lid.segment_docs("akkadian")
+    akk_docs, _ = lid.written_docs(akk_seg, "akkadian", conv, tables, signs)
+    c_akk = collections.Counter(w for _, ws in lid.select(akk_docs, "train") for w in ws)
+    if len(c_akk) >= k_top:
+        lexicons["akkadian_lit"] = [w for w, _ in c_akk.most_common(k_top)]
+
+    # 2b. Syriac (optional Ephrem hymns when KAPHTOR_ANE_DIR holds aramaic_texts.jsonl)
     syr_seg = lid.segment_docs("syriac")
-    syr_docs, _ = lid.written_docs(syr_seg, "syriac", conv, tables, signs)
-    c_syr = collections.Counter(w for _, ws in lid.select(syr_docs, "train") for w in ws)
-    lexicons["syriac_lit"] = [w for w, _ in c_syr.most_common(k_top)]
+    if syr_seg:
+        syr_docs, _ = lid.written_docs(syr_seg, "syriac", conv, tables, signs)
+        c_syr = collections.Counter(w for _, ws in lid.select(syr_docs, "train") for w in ws)
+        if len(c_syr) >= k_top:
+            lexicons["syriac_lit"] = [w for w, _ in c_syr.most_common(k_top)]
 
     # 3. Anatolian (Hittite + Luwian CTH rituals/texts, train split, top-K)
     c_ana = collections.Counter()
@@ -329,16 +344,20 @@ def main() -> int:
     ap.add_argument("--conv", choices=("plene", "omission"), default="plene")
     args = ap.parse_args()
 
-    res = run_calibration(k_top=args.k_top, n_perm=args.n_perm, conv=args.conv)
-    out_path = HERE / "runs" / f"pilot-liturgy-c-{args.conv}.json"
-    out_path.parent.mkdir(exist_ok=True)
-    out_path.write_text(json.dumps(res, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"=== Kernel C Calibration (K={args.k_top}, {args.conv}, B={args.n_perm}) in {res['seconds']}s ===")
-    for cls, s in res["summary"].items():
-        print(
-            f"  {cls:22s} | n={s['n']:2d} | mean_Z(heb_lit)={s['mean_z_hebrew_lit']:+6.2f} "
-            f"| heb_wins={s['hebrew_lit_wins']:2d}/{s['n']:2d} | p<=0.05: {s['p_le_05_hebrew_lit']:2d}/{s['n']:2d}"
-        )
+    if args.calibrate or (not args.run_linear_a and CONTROLS_V3.is_file()):
+        if not CONTROLS_V3.is_file():
+            print(f"MISSING: {CONTROLS_V3} (set KAPHTOR_CONTROLS_V3 to run Protocol D calibration).", file=sys.stderr)
+            return 2
+        res = run_calibration(k_top=args.k_top, n_perm=args.n_perm, conv=args.conv)
+        out_path = HERE / "runs" / f"pilot-liturgy-c-{args.conv}.json"
+        out_path.parent.mkdir(exist_ok=True)
+        out_path.write_text(json.dumps(res, ensure_ascii=False, indent=2), encoding="utf-8")
+        print(f"=== Kernel C Calibration (K={args.k_top}, {args.conv}, B={args.n_perm}) in {res['seconds']}s ===")
+        for cls, s in res["summary"].items():
+            print(
+                f"  {cls:22s} | n={s['n']:2d} | mean_Z(heb_lit)={s['mean_z_hebrew_lit']:+6.2f} "
+                f"| heb_wins={s['hebrew_lit_wins']:2d}/{s['n']:2d} | p<=0.05: {s['p_le_05_hebrew_lit']:2d}/{s['n']:2d}"
+            )
 
     if args.run_linear_a:
         if not SIGNATURE.is_file():

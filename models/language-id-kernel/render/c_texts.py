@@ -38,16 +38,16 @@ sys.path.insert(0, str(HERE.parents[2] / "protocol-d" / "scripts"))
 import pointed  # noqa: E402  (Protocol D's reader of pointed Hebrew; read, never edited)
 
 import os
-ANE = Path(
-    os.environ.get("KAPHTOR_ANE_DIR", str(Path.home() / ".claude/skills/ancient-near-east-research/data"))
-)
+ANE = Path(os.environ.get("KAPHTOR_ANE_DIR", ""))
 OSHB = Path(
     os.environ.get("KAPHTOR_OSHB_JSONL", str(HERE.parents[3] / "data/share-alike/hebrew/oshb_words.jsonl"))
 )
 EUPT = Path(
     os.environ.get("KAPHTOR_EUPT_JSONL", str(HERE.parents[3] / "data/share-alike/ugaritic/eupt_tokens.jsonl"))
 )
-TLHDIG = ANE / "ingest/anatolian/tlhdig-0.3/derived/words.jsonl"
+TLHDIG = Path(
+    os.environ.get("KAPHTOR_TLHDIG_JSONL", str(HERE.parents[3] / "data/share-alike/anatolian/tlhdig_docs.jsonl"))
+)
 ORAEC = ANE / "egyptian_sentences.jsonl"
 LINEAR_B = Path(
     os.environ.get(
@@ -123,18 +123,28 @@ def segments(language: str) -> tuple[list[list[str]], int]:
         out = [ugaritic_segments(row["surface"]) for row in _rows(EUPT)]
     elif language in ("luwian", "hurrian"):
         code = {"luwian": "Luw", "hurrian": "Hur"}[language]
-        out = [cuneiform_segments(row["trans"]) if row.get("preserved") and row.get("trans") else None
-               for row in _rows(TLHDIG) if row.get("language") == code]
-        if language == "luwian":
+        for row in _rows(TLHDIG):
+            if row.get("language") != code:
+                continue
+            if "words" in row:
+                for tok in row["words"]:
+                    out.append(cuneiform_segments(tok))
+            else:
+                out.append(cuneiform_segments(row["trans"]) if row.get("preserved") and row.get("trans") else None)
+        if language == "luwian" and ACLT.is_dir():
             for name in ACLT_TEXTS:
-                for unit in json.loads((ACLT / f"{name}.json").read_text(encoding="utf-8"))["units"]:
+                p = ACLT / f"{name}.json"
+                if not p.is_file():
+                    continue
+                for unit in json.loads(p.read_text(encoding="utf-8"))["units"]:
                     for token in unit["tokens"]:
                         found = _TRANSCRIPTION.search(token.get("gloss") or "")
                         out.append(None if token.get("damaged") or not found
                                    else cuneiform_segments(found.group(1).strip().lower().replace("=", "")))
     elif language == "egyptian":
-        out = [egyptian_segments(part) for row in _rows(ORAEC) for token in row["transliteration"].split()
-               for part in token.split("-")]                       # a hyphen joins the words of a compound
+        if ORAEC.is_file():
+            out = [egyptian_segments(part) for row in _rows(ORAEC) for token in row["transliteration"].split()
+                   for part in token.split("-")]                       # a hyphen joins the words of a compound
     else:
         raise ValueError(language)
     kept = [w for w in out if w]

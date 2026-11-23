@@ -34,6 +34,15 @@ SIGNATURE = HERE / "SIGNATURE.txt"
 CONTACT_DIR = Path(
     os.environ.get("KAPHTOR_CONTACT_DIR", str(HERE.parents[1] / "data/contact"))
 )
+LSJ_GLOSSES = Path(
+    os.environ.get("KAPHTOR_LSJ_GLOSSES_JSONL", str(HERE.parents[1] / "data/share-alike/greek/lsj_glosses.jsonl"))
+)
+SUMERIAN_LEX = Path(
+    os.environ.get(
+        "KAPHTOR_SUMERIAN_LEXICON_JSONL",
+        str(HERE.parents[1] / "data/share-alike/cuneiform/sumerian_epsd2_lexicon.jsonl"),
+    )
+)
 CONSONANT_SERIES = ("D", "J", "K", "M", "N", "P", "Q", "R", "S", "T", "W", "Z")
 Word = tuple[tuple[str, str], ...]
 
@@ -166,24 +175,35 @@ def extract_auto_synsets(
 ) -> tuple[dict[str, dict[str, list[Word]]], dict[str, dict[str, int]]]:
     """Automatically extract concept synsets from independent JSONL lexica with zero human selection."""
     pats = patterns or CONCEPT_PATTERNS
-    sources: dict[str, list[str]] = {
-        "semitic": ["akkadian_lexicon.jsonl", "ugaritic_lexicon.jsonl", "hebrew_lexicon.jsonl"],
-        "greek": ["greek_lexicon.jsonl"],
-        "anatolian": ["anatolian_lexicon.jsonl"],
-        "hurrian": ["hurrian_lexicon.jsonl"],
-        "egyptian": ["egyptian_lexicon.jsonl"],
+    greek_path = CONTACT_DIR / "greek_lexicon.jsonl"
+    if not greek_path.is_file():
+        greek_path = LSJ_GLOSSES
+    sources: dict[str, list[Path]] = {
+        "semitic": [
+            CONTACT_DIR / "akkadian_lexicon.jsonl",
+            CONTACT_DIR / "ugaritic_lexicon.jsonl",
+            CONTACT_DIR / "hebrew_lexicon.jsonl",
+        ],
+        "greek": [greek_path],
+        "sumerian": [SUMERIAN_LEX],
+        "anatolian": [CONTACT_DIR / "anatolian_lexicon.jsonl"],
+        "hurrian": [CONTACT_DIR / "hurrian_lexicon.jsonl"],
+        "egyptian": [CONTACT_DIR / "egyptian_lexicon.jsonl"],
     }
+    # Keep only languages that have at least one present lexicon file
+    active_sources = {
+        lang: [p for p in paths if p.is_file()]
+        for lang, paths in sources.items()
+    }
+    active_sources = {lang: paths for lang, paths in active_sources.items() if paths}
 
     # Collect (specificity_key, cv_word) per (concept, lang)
     raw_hits: dict[str, dict[str, dict[Word, tuple[int, int]]]] = {
-        c: {l: {} for l in sources} for c in pats
+        c: {l: {} for l in active_sources} for c in pats
     }
 
-    for lang, files in sources.items():
-        for fn in files:
-            p = CONTACT_DIR / fn
-            if not p.is_file():
-                continue
+    for lang, paths in active_sources.items():
+        for p in paths:
             with p.open("r", encoding="utf-8") as fh:
                 for line in fh:
                     line = line.strip()
@@ -211,7 +231,7 @@ def extract_auto_synsets(
     for c in pats:
         synsets[c] = {}
         counts[c] = {}
-        for lang in sources:
+        for lang in active_sources:
             ordered = sorted(raw_hits[c][lang].items(), key=lambda kv: (kv[1], kv[0]))
             words = [w for w, _ in ordered]
             counts[c][lang] = len(words)
@@ -287,7 +307,11 @@ def run_battery(
     beta: float = 6.0,
 ) -> dict:
     parsed = [(tuple(a.keys(w, sign_table)), c) for w, c in raw_anchors]
-    langs = ("semitic", "greek", "anatolian", "hurrian", "egyptian")
+    first_c = next(iter(synsets))
+    langs = tuple(
+        l for l in ("semitic", "greek", "sumerian", "anatolian", "hurrian", "egyptian")
+        if l in synsets[first_c]
+    )
     rng = random.Random(seed)
     perms: list[dict[str, str]] = []
     for _ in range(n_perm):

@@ -27,13 +27,20 @@ import c_pseudo  # noqa: E402  (Protocol C's cut into pseudo-corpora; read, neve
 
 PC = lid.HERE.parents[1] / "ioza2-adjudication/protocol-c"
 POOL = PC / "controls/pool-shape.json"
-SKILLS = {"linear-a-decipherment": Path.home() / ".claude/skills/linear-a-decipherment",
-          "ancient-near-east-research": Path.home() / ".claude/skills/ancient-near-east-research"}
-INPUTS = [ct.OSHB, lid.QURAN, ct.TLHDIG, ct.LINEAR_B, lid.LSJ, ct.EUPT, lid.TRACES, lid.LATIN, lid.ARAMAIC,
-          lid.DIODORUS, POOL,
-          *sorted({lid.ORACC_DIR / name for name, _ in lid.ORACC.values()}), lid.HERE / "render/series.json",
-          lid.HERE / "render/series-a5-proposed.json", lid.HERE / "render/signs-a5-proposed.json",
-          lid.HERE / "lid.py", lid.HERE / "pilot.py", lid.HERE / "PREREGISTRATION-DRAFT.md"]
+SKILLS: dict[str, Path] = {}
+def _oracc_inputs() -> list[Path]:
+    out = []
+    for names, _ in lid.ORACC.values():
+        p = next((lid.ORACC_DIR / n for n in names if (lid.ORACC_DIR / n).is_file()), None)
+        if p is not None:
+            out.append(p)
+    return sorted(set(out))
+
+
+INPUTS = [p for p in [ct.OSHB, lid.QURAN, ct.TLHDIG, ct.LINEAR_B, lid.LSJ, ct.EUPT, lid.TRACES, lid.LATIN, lid.ARAMAIC,
+                      lid.DIODORUS, POOL, *_oracc_inputs(), lid.HERE / "render/series.json",
+                      lid.HERE / "render/series-a5-proposed.json", lid.HERE / "render/signs-a5-proposed.json",
+                      lid.HERE / "lid.py", lid.HERE / "pilot.py", lid.HERE / "PREREGISTRATION-DRAFT.md"] if p.is_file()]
 # Every member of an arm is a test language; the Boğazköy Akkadian is a test text and trains nothing.
 TEST_LANGUAGES = tuple(m for members in lid.ARMS.values() for m in members if m != "lsj") + ("akkadian_bo",)
 # The sister condition: the text's own language is taken out of its family arm, where the arm has another member.

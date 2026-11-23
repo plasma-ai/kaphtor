@@ -1,9 +1,9 @@
 ---
 name: models/language-id-kernel/runs
 title: runs
-desc: Timestamped JSON ledgers of the signed Linear A multi-kernel run and of the Kernel C and D stress-test ablations.
+desc: Timestamped JSON ledgers of the signed Linear A multi-kernel run, Kernel C and D stress-test ablations, and Kernels I and J runs.
 created: 2026-11-22T00:00:00Z
-updated: 2026-11-23T12:52:46Z
+updated: 2026-11-23T16:56:37Z
 ---
 
 # runs
@@ -11,6 +11,8 @@ updated: 2026-11-23T12:52:46Z
 [[models/language-id-kernel/_index|..]]
 
 [[models/language-id-kernel/runs/auto-anchors-j-2026-11-23.json|auto-anchors-j-2026-11-23.json]]: ...
+
+[[models/language-id-kernel/runs/auto-anchors-j-standalone-2026-11-23.json|auto-anchors-j-standalone-2026-11-23.json]]: ...
 
 [[models/language-id-kernel/runs/kaphtor-kernel-linear-a-20261122T222434Z.json|kaphtor-kernel-linear-a-20261122T222434Z.json]]: ...
 

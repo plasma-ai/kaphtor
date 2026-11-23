@@ -4,7 +4,7 @@ title: "Linear A Multi-Kernel Probabilistic Language Identification Suite"
 desc: "Replicable, zero-LLM ten-kernel probabilistic framework (Kernels A–J: word-shape LID, Kober trios, liturgical cohesion, pre-linguistic anchors, verbal frames, ligature acrophony, dialect coherence, roster onomastics, bound-affix morphology, and zero-curation dictionary audit) with consonant-grid and concept-label permutation controls."
 tags: [linear-a, probabilistic-model, language-identification, preregistration]
 created: 2026-11-22T00:00:00Z
-updated: 2026-11-23T15:27:47Z
+updated: 2026-11-23T16:56:39Z
 ---
 
 # Linear A Multi-Kernel Probabilistic Language Identification Suite
@@ -47,13 +47,13 @@ updated: 2026-11-23T15:27:47Z
 
 [[models/language-id-kernel/render/_index|render/]]: Frozen Linear B syllabary tables and the forward-spelling and alignment helpers the kernels read.
 
-[[models/language-id-kernel/replication-guide|replication-guide]]: Master scoreboard, objectivity audit, external-corpus environment variables, and zero-dependency reproduction instructions for all ten probabilistic language-identification kernels.
+[[models/language-id-kernel/replication-guide|replication-guide]]: Master scoreboard, objectivity audit, shipped reference inputs, and fresh-clone reproduction instructions for all ten probabilistic language-identification kernels.
 
-[[models/language-id-kernel/runs/_index|runs/]]: Timestamped JSON ledgers of the signed Linear A multi-kernel run and of the Kernel C and D stress-test ablations.
+[[models/language-id-kernel/runs/_index|runs/]]: Timestamped JSON ledgers of the signed Linear A multi-kernel run, Kernel C and D stress-test ablations, and Kernels I and J runs.
 
 [[models/language-id-kernel/stress_test_cd.py|stress_test_cd.py]]: ...
 
-[[models/language-id-kernel/tests/_index|tests/]]: Unit tests for Kernels B, C and D and for the unified kaphtor_kernel.py command line.
+[[models/language-id-kernel/tests/_index|tests/]]: Unit tests for Kernels B, C, D, F, G, H, I and J and for the unified kaphtor_kernel.py command line.
 
 [[models/language-id-kernel/verbs_e.py|verbs_e.py]]: ...
 

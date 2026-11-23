@@ -1,19 +1,23 @@
 ---
 name: data/share-alike
 title: Share-alike data
-desc: The ORAEC/TLA Egyptian documents, the TLA v18 names, the Trismegistos places and the LSJ headwords, under CC BY-SA 4.0, the ORACC editions of the Late Bronze Age Levant, under CC BY-SA 3.0, and the Linear B tokens of Pylos and Knossos, under CC BY-NC-SA 4.0.
+desc: Open-licensed reference corpora for the suite (ORAEC/TLA Egyptian, TLA v18 names, Trismegistos places, LSJ headwords and glosses, Diodorus Books 1–5, OSHB Hebrew, EUPT Ugaritic, LiLa LatInfLexi Latin, TLHdig Anatolian/Hurrian/Hattic, ORACC CC0 Akkadian/Sumerian and ePSD2 lexicon, ORACC Levant LBA and DAMOS-verified Linear B tokens).
 tags: [data, share-alike]
 created: 2026-10-22T18:14:10Z
-updated: 2026-11-23T16:03:41Z
+updated: 2026-11-23T16:56:36Z
 ---
 
 # Share-alike data
 
 [[data/_index|..]]
 
+[[data/share-alike/anatolian/_index|anatolian/]]: The 19,725 preserved-word document records of TLHdig 0.3 covering Hittite, Luwian, Hurrian, Hattic and Boğazköy Akkadian, CC BY 4.0.
+
+[[data/share-alike/cuneiform/_index|cuneiform/]]: The 1,420 CC0 ORACC Old/Standard Babylonian Akkadian documents, 1,855 CC0 ORACC Sumerian documents and 3,589 clean vocalized ePSD2 Sumerian glossed lemmas, CC0 1.0.
+
 [[data/share-alike/egyptian/_index|egyptian/]]: The 13,026 ORAEC/TLA Egyptian document records (open TLA republication), CC BY-SA 4.0.
 
-[[data/share-alike/greek/_index|greek/]]: The 117,130 headwords of Liddell, Scott and Jones's Greek lexicon, each with its spelling in Linear B signs, and the 2,465 sections of Diodorus Siculus, Books 1–5, in the Perseus text, CC BY-SA 4.0.
+[[data/share-alike/greek/_index|greek/]]: The 117,130 headwords and 101,410 glossed Linear B keys of Liddell, Scott and Jones's Greek lexicon, and the 2,465 sections of Diodorus Siculus, Books 1–5, in the Perseus text, CC BY-SA 4.0.
 
 [[data/share-alike/hebrew/_index|hebrew/]]: The 306,785 pointed words of the Open Scriptures Hebrew Bible (Westminster Leningrad Codex), CC BY 4.0.
 
