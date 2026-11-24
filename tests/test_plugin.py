@@ -27,7 +27,11 @@ def frontmatter(path: Path) -> dict[str, str]:
 def test_the_marketplace_lists_the_kaphtor_plugin_at_the_root():
     market = manifest("marketplace.json")
     assert market["name"] == "plasma"
-    assert [(p["name"], p["source"]) for p in market["plugins"]] == [("kaphtor", "./")]
+    assert [(p["name"], p["source"]) for p in market["plugins"]] == [
+        ("kaphtor", "./"),
+        # the connector to the public server lives in its own small repository, which the plugin directories read
+        ("linear-a-lexicon", {"source": "git-subdir", "path": "linear-a-lexicon",
+                              "url": "https://github.com/plasma-ai/linear-a-lexicon-plugin.git"})]
 
 
 def test_the_plugin_version_is_the_project_version():

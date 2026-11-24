@@ -9,6 +9,15 @@
       "name": "kaphtor",
       "source": "./",
       "description": "Linear A research and ancient Near East research: two agent skills over the kaphtor record and its query tools."
+    },
+    {
+      "name": "linear-a-lexicon",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/plasma-ai/linear-a-lexicon-plugin.git",
+        "path": "linear-a-lexicon"
+      },
+      "description": "Proposed readings of Linear A words, names and documents from the Linear A Lexicon's public MCP server, each with its confidence tier, its evidence and any rival reading on record."
     }
   ]
 }
