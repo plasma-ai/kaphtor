@@ -79,6 +79,7 @@ di Mino; Pagan 1998; GlOS 1; Gelb 1980
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |
+| Contact reference | oracc-qpn:d8564082c9cbed45c2f1 |
 
 ### Note
 

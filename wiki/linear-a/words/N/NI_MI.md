@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/N/NI_MI
 title: "NI-MI"
-desc: "Unread (unread): no role; 1 occurrence(s)."
+desc: "Unread (role only): personal name; 1 occurrence(s)."
 tags: ["linear-a", "word", "unread"]
 kind: "word"
 form: "NI-MI"
@@ -35,7 +35,7 @@ updated: 2026-10-24T16:17:50Z
 
 ## Unread
 
-Status **unread** (nothing known).
+Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
 
 PK 1 .6 NI-MỊ 1, MI dotted, between RA-NA-TU-SU 1 and TỤ-SU 1 (GORILA I 281). Younger marks MI as doubtful (Younger, Linear A Texts). Sole attestation. Not readable.
 

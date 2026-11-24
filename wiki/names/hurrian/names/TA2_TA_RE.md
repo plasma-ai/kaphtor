@@ -48,6 +48,10 @@ Tatare: Linear B ta-ta-ro (KN As(1) 607.2); Mari ᶠTatara, ta-da-ra, Hurrian wi
 | Akkadian | (f) Tadara, ta-da-ra, a musician at Mari (FM IV, 284) |
 | Linear B | ta-ta-ro, a man on the Knossos roster KN As(1) 607, also KN Pp 498, PY Eb 874, Eo 224, Ep 301 |
 
+## Linear B
+
+ta-ta-ro, at Knossos (KN As(1) 607.2; damaged on Pp 498 and Xd 8605) and at Pylos (PY Eb 874\[+\]902, Eo 224, Ep 301).
+
 ## Attestations
 
 | Field | Value |

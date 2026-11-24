@@ -49,6 +49,10 @@ HT 117a .8 DA-MI-NU 1, whole and undotted, in the second list headed SA-TA, befo
 | Ugaritic | ḏmn PN (etym. unc.), syll. ZI-me-ni, ZI-me-nu (RS 34.169:2) (DULAT 283); tmn (II) PN (etym. unc.), syll. ta-me-nu (RS 34.169:5) (DULAT 858) |
 | Hebrew | mānāh 'share, portion' (HALOT 599) |
 
+## Linear B
+
+da-mi-ni-jo, a shepherd at Knossos in the D series (DMic I), on 17 Knossos tablets and PY An 610: a derived form in -jo.
+
 ## Attestations
 
 | Field | Value |

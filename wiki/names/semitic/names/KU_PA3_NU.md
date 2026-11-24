@@ -48,6 +48,10 @@ Kubānu 'devotee of Kubaba', masculine of KU-PA₃-NA-TU Kubānatu, the counted 
 | Anatolian/North Syrian | Kubaba, divine name (Laroche 1980, 150; DULAT 419); base of Kubānu |
 | Amorite | Kubb-ān-um (Gelb, AS 21, no. 4148) |
 
+## Linear B
+
+Rival: ka-\*56-no, a man at Knossos (KN Df 1219.B), which Davis sets beside KU-PA₃-NU (2026b, 161–63).
+
 ## Attestations
 
 | Field | Value |

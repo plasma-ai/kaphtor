@@ -31,7 +31,7 @@ Every number on this page is computed from the data files.
 | Resolved signs (syllabic + logogram) | 5 (2 + 3) |
 | Fraction values resolved | 3 |
 | Onomasticon entries | 384 |
-| Unread words listed | 359 |
+| Unread words listed | 358 |
 
 ## Documents against the published census
 
@@ -82,8 +82,8 @@ GORILA 1,427 and RILA-S1 107 documents are published to the end of 2023 (1,534 i
 | Status | Words | Meaning |
 |---|---|---|
 | edge overlap | 18 | a lexicon word sits at one edge; often a chance 2-sign overlap |
-| role only | 191 | classed by role only (onomasticon type or translation label), no reading |
-| unread | 150 | nothing known |
+| role only | 192 | classed by role only (onomasticon type or translation label), no reading |
+| unread | 148 | nothing known |
 
 ## By site
 

@@ -17,9 +17,9 @@
     "corpus_sha256": "bba272210dbfc193451389783e0c6a0d6d9f0a01d3214cd6136f673e0b0dd4c8",
     "manifest_sha256": "87e9cccc678227082c087f48f193b9a0edc8f4957b7d9b9dfa505643af7bf561",
     "translations_description": "di Mino's Cypro-Minoan translations layer and the values its readings take",
-    "translations_sha256": "6710ec5b66bad94318db06e23454b87bd5e4ad52888547ca7be8ca4a1e63ded5",
+    "translations_sha256": "41a313e98aca98c2e167531085cb960b6cb14036cd4823058a913db58ff087cd",
     "sign_values_sha256": "37fb7eafa2c2bc34175bd64798286265b1d54f886191f15176751da5166e2032",
-    "translations_manifest_sha256": "34a450d480d23851661ad72fd102baf84f00d2e46f311d73f8263c086015e074"
+    "translations_manifest_sha256": "0653466f79e4c272541da2d49414f51f25a89e49485298f7938815c5a9f12098"
   },
   "works": {
     "Astour 1995": "Astour, Michael C., La topographie du royaume d'Ougarit, in Yon, Marguerite; Sznycer, Maurice; Bordreuil, Pierre (eds.), Le pays d'Ougarit autour de 1200 av. J.-C.: Histoire et archéologie. Actes du Colloque International, Paris, 28 juin–1er juillet 1993, Éditions Recherche sur les Civilisations, Paris (Ras Shamra-Ougarit XI), 1995, 55–71",
@@ -33,6 +33,7 @@
     "Egetmeyer 2024": "Egetmeyer, Markus, 2016-2020 report on the Cypriot syllabic inscriptions, in Bennet, J.; Karnava, A.; Meißner, T. (eds.), KO-RO-NO-WE-SA: Proceedings of the 15th International Colloquium on Mycenaean Studies, September 2021, Ariadne Supplement Series 5, The Faculty of Philosophy of the University of Crete, 2024, 125–136",
     "Faucounau 1977": "Faucounau, Jean, Études chypro-minoennes, Syria 54, fasc. 3-4, pp. 209-249, 1977, doi:10.3406/syria.1977.6604",
     "Faucounau 1980": "Faucounau, Jean, Études chypro-minoennes, Syria 57, fasc. 2-4, pp. 375-410, 1980, doi:10.3406/syria.1980.6701",
+    "Gelb 1980": "Gelb, Ignace J., Computer-aided Analysis of Amorite, Assyriological Studies 21, The Oriental Institute of the University of Chicago, 1980",
     "Kinlaw 1967": "Kinlaw, Dennis F., A Study of the Personal Names in the Akkadian Texts from Ugarit, Brandeis University, Department of Mediterranean Studies (Ph.D. dissertation), 1967",
     "McAffee 2019": "McAffee, Matthew, Life and Mortality in Ugaritic: A Lexical and Literary Study, Explorations in Ancient Near Eastern Civilizations 7, Eisenbrauns, 2019",
     "Monti 2017": "Monti, Luciano Esteban, A Systematic Approach to the Hurrian Pantheon: The Onomastic Evidence, PhD dissertation, Università degli Studi di Udine (XXVIII cycle), 2017",
@@ -117,8 +118,8 @@
       "bytes": 989616
     },
     "translations.json": {
-      "sha256": "e0fb0c96b981e382e50af963df5b60eeabd3acb8be255d1c890e8de210be76e3",
-      "bytes": 335388
+      "sha256": "7ccf8c0dea1242e6eef35a8c0e50c3e5cb280ae933c9745fed72c29c75016f9d",
+      "bytes": 336905
     }
   }
 }

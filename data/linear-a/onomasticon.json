@@ -220,7 +220,8 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "Kubānu 'devotee of Kubaba', masculine of KU-PA₃-NA-TU Kubānatu, the counted personnel group of HT119 (di Mino, Ya Diktu). HT88 sets it beside KU-PA₃-PA₃ Kubaba. Amorite has the short base with this ending, Kubb-ān-um (Gelb, AS 21, no. 4148). Eight occurrences across seven inscriptions make name or title status probable. Rival: a man's name, Linear B ka-*56-no at Knossos (KN Df 1219.B), which Davis sets beside KU-PA₃-NU (2026b, 161–63)."
+      "note": "Kubānu 'devotee of Kubaba', masculine of KU-PA₃-NA-TU Kubānatu, the counted personnel group of HT119 (di Mino, Ya Diktu). HT88 sets it beside KU-PA₃-PA₃ Kubaba. Amorite has the short base with this ending, Kubb-ān-um (Gelb, AS 21, no. 4148). Eight occurrences across seven inscriptions make name or title status probable. Rival: a man's name, Linear B ka-*56-no at Knossos (KN Df 1219.B), which Davis sets beside KU-PA₃-NU (2026b, 161–63).",
+      "linear_b_comparanda": "Rival: ka-*56-no, a man at Knossos (KN Df 1219.B), which Davis sets beside KU-PA₃-NU (2026b, 161–63)."
     },
     {
       "token": "DI-NA-U",
@@ -2163,7 +2164,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "CANDIDATE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_04148",
       "lexicon_ref": "KU-PA₃-NA-TU",
       "reading": "Kubānatu",
       "meaning": "devotee(s) of Kubaba (Kubaba + -ān- + feminine -atu), a counted personnel group",
@@ -3926,7 +3927,8 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "ZA 6a .1 *305-WA-NA *171 19, the first entry (GORILA III 157). Linear B da-wa-no, a man's name at Knossos, written da-wa-no *150 29 on KN Mc 4454.A (DMic I 159); language unknown. See the lexicon entry."
+      "note": "ZA 6a .1 *305-WA-NA *171 19, the first entry (GORILA III 157). Linear B da-wa-no, a man's name at Knossos, written da-wa-no *150 29 on KN Mc 4454.A (DMic I 159); language unknown. See the lexicon entry.",
+      "linear_b_comparanda": "da-wa-no, a man's name at Knossos (KN Mc 4454.A; DMic I 159), also on KN As 1517, Ga(2) 423+7366 and Mc 4461+5781+fr.[+]5118; the match holds only if *305 writes da."
     },
     {
       "token": "RI-DA-U",
@@ -4014,7 +4016,8 @@
           "distance": 0.1
         }
       ],
-      "note": "KN 32a .2 A-KA-TA, whole at the left (GORILA I 264–65). ʾAkkata, sign for sign Amorite ʾAKK-AT-UM, A-KA-TUM (Gelb no. 329). Linear B a-ka-ta-jo, a man's name (DMic I 34). One witness."
+      "note": "KN 32a .2 A-KA-TA, whole at the left (GORILA I 264–65). ʾAkkata, sign for sign Amorite ʾAKK-AT-UM, A-KA-TUM (Gelb no. 329). Linear B a-ka-ta-jo, a man's name (DMic I 34). One witness.",
+      "linear_b_comparanda": "a-ka-ta-jo, a man's name (DMic I 34), at Pylos (PY Eo 269) and, damaged, at Knossos (KN Db 1086, Dv 1331): a derived form in -jo."
     },
     {
       "token": "A-KI-PI-E-TE",
@@ -4378,7 +4381,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_00475",
       "lexicon_ref": "A-NA-NU",
       "reading": "Ḥanānu",
       "meaning": "gracious (personal name), in the vessel-label form -SI-JA-SE",
@@ -4492,7 +4495,8 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "Ugaritic ålnr, a Hurrian personal name set beside Linear B a-ra-na-ro, the man on KN As 1516.11 (DULAT 57); first element allai 'the Lady' (Laroche, GLH 42–43). Rival: Gordon's Egyptian ꜥꜣ-rn-Rꜥ 'Great-is-the-name-of-Re' (Gordon 1966 §127)."
+      "note": "Ugaritic ålnr, a Hurrian personal name set beside Linear B a-ra-na-ro, the man on KN As 1516.11 (DULAT 57); first element allai 'the Lady' (Laroche, GLH 42–43). Rival: Gordon's Egyptian ꜥꜣ-rn-Rꜥ 'Great-is-the-name-of-Re' (Gordon 1966 §127).",
+      "linear_b_comparanda": "a-ra-na-ro, the man on KN As 1516.11, set beside Ugaritic ålnr (DULAT 57)."
     },
     {
       "token": "A-RA-U-DA",
@@ -4833,7 +4837,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "CANDIDATE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "oracc-qpn:a7c1eb6cfc050f54e37a",
       "lexicon_ref": "A-SI-DA-TO-I",
       "reading": "ʾAšdōdī",
       "meaning": "the Ashdodite, a man of Ashdod (gentilic)",
@@ -5070,7 +5074,8 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "ZA 8, the first entry under KI-RA, with figs: ʿAṯtar, Ugaritic ʿṯtr (Pardee 2000, 1093). Rivals: Hathor, Lady of the Sycomore; a man's name, Linear B a-ta-ro at Pylos (PY An 35.5). See the lexicon entry."
+      "note": "ZA 8, the first entry under KI-RA, with figs: ʿAṯtar, Ugaritic ʿṯtr (Pardee 2000, 1093). Rivals: Hathor, Lady of the Sycomore; a man's name, Linear B a-ta-ro at Pylos (PY An 35.5). See the lexicon entry.",
+      "linear_b_comparanda": "Rival: a-ta-ro, a man's name at Pylos (PY An 35.5; damaged on An 39)."
     },
     {
       "token": "A-TI-RU",
@@ -5509,7 +5514,8 @@
           "distance": 1.0
         }
       ],
-      "note": "HT 117a .8 DA-MI-NU 1, whole and undotted, in the second list headed SA-TA, before DA-NE-KU-TI 1 (GORILA I 197). Ḏā-Mīnu: ḏā 'the one of' + MI-NU (√m-n-y 'allot', √m-n-n 'favor'), 'He of the Portion', a 'he of X' name like Amorite Zu-i-la 'He of God' (Gelb 1980, no. 6596); rival Ḏimenu, the Ugaritic personal name ḏmn, syll. ZI-me-nu (DULAT 283). Compare Dushara, Nabataean dwšrʾ 'He of the Šarā' (Al-Jallad 2022, 95–96). Linear B da-mi-ni-jo, a shepherd at Knossos in the D series (DMic I); Woudhuizen 2016, 217 no. 11. Rival: √m-n-n 'He of the Favor'."
+      "note": "HT 117a .8 DA-MI-NU 1, whole and undotted, in the second list headed SA-TA, before DA-NE-KU-TI 1 (GORILA I 197). Ḏā-Mīnu: ḏā 'the one of' + MI-NU (√m-n-y 'allot', √m-n-n 'favor'), 'He of the Portion', a 'he of X' name like Amorite Zu-i-la 'He of God' (Gelb 1980, no. 6596); rival Ḏimenu, the Ugaritic personal name ḏmn, syll. ZI-me-nu (DULAT 283). Compare Dushara, Nabataean dwšrʾ 'He of the Šarā' (Al-Jallad 2022, 95–96). Linear B da-mi-ni-jo, a shepherd at Knossos in the D series (DMic I); Woudhuizen 2016, 217 no. 11. Rival: √m-n-n 'He of the Favor'.",
+      "linear_b_comparanda": "da-mi-ni-jo, a shepherd at Knossos in the D series (DMic I), on 17 Knossos tablets and PY An 610: a derived form in -jo."
     },
     {
       "token": "DA-NA-TU",
@@ -6331,7 +6337,8 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "Dūdāma 'Beloved', √d-w-d + -ma, as the Amorite DA-DU-MA (Gelb 1980, no. 1433); the d-d-m name of the Keftiu board and Linear B di-du-me. Rival: the Aegean name of the Keftiu board and Linear B di-du-me."
+      "note": "Dūdāma 'Beloved', √d-w-d + -ma, as the Amorite DA-DU-MA (Gelb 1980, no. 1433); the d-d-m name of the Keftiu board and Linear B di-du-me. Rival: the Aegean name of the Keftiu board and Linear B di-du-me.",
+      "linear_b_comparanda": "di-du-me (KN L 588+644+5777+fr.), with the d-d-m of DU-DA-MA and of the Keftiu board under other vowels."
     },
     {
       "token": "DU-JA",
@@ -8583,7 +8590,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "CANDIDATE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "oracc-qpn:d8564082c9cbed45c2f1",
       "lexicon_ref": "KA-SA-RU",
       "reading": "Qaṣṣāru",
       "meaning": "Qaṣṣāru 'Fuller' (personal name); compare Linear B ka-sa-ro",
@@ -8631,7 +8638,8 @@
           "distance": 1.0
         }
       ],
-      "note": "Qaṣṣāru: Ebla ga-za-ru₁₂, /qaṣṣāru/ 'fuller' or /kaṣṣāru/ 'donkey driver' (Pagan 1998, rows 1979–1980); Linear B ka-sa-ro (KN C(2) 912.8); Ugarit DUMU ka-ša₂-ri. Rival: Kaṣṣāru 'donkey driver'."
+      "note": "Qaṣṣāru: Ebla ga-za-ru₁₂, /qaṣṣāru/ 'fuller' or /kaṣṣāru/ 'donkey driver' (Pagan 1998, rows 1979–1980); Linear B ka-sa-ro (KN C(2) 912.8); Ugarit DUMU ka-ša₂-ri. Rival: Kaṣṣāru 'donkey driver'.",
+      "linear_b_comparanda": "ka-sa-ro, a man at Knossos (KN C(2) 912.8; KN Dv 1450+7270+frr.)."
     },
     {
       "token": "KA-TA-RE",
@@ -8667,7 +8675,8 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "KH 41, from Khania. Linear B ka-ta-ra-i heads KN Co 906 as ku-do-ni-ja heads Co 904. See the lexicon entry."
+      "note": "KH 41, from Khania. Linear B ka-ta-ra-i heads KN Co 906 as ku-do-ni-ja heads Co 904. See the lexicon entry.",
+      "linear_b_comparanda": "ka-ta-ra-i heads KN Co 906 as ku-do-ni-ja heads Co 904."
     },
     {
       "token": "KA-TI",
@@ -11040,7 +11049,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_03957",
       "lexicon_ref": "KE-KI-RU",
       "reading": "Kikkaru",
       "meaning": "personal name, 'Disk, Round loaf'",
@@ -12206,7 +12215,8 @@
           "distance": 0.4
         }
       ],
-      "note": "Egyptian rw-sȝ, one of seven 'names of Crete' on BM EA 5647 (Dautais & Gabolde 2025, 14–15); Linear B ru-si (KN Ak 634, L 588.1). Rival: Egyptian Rs 'he who is awake' (Vercoutter 1956, 45, 48)."
+      "note": "Egyptian rw-sȝ, one of seven 'names of Crete' on BM EA 5647 (Dautais & Gabolde 2025, 14–15); Linear B ru-si (KN Ak 634, L 588.1). Rival: Egyptian Rs 'he who is awake' (Vercoutter 1956, 45, 48).",
+      "linear_b_comparanda": "ru-si, damaged on KN Ak 634 and Xf 8214, and ru-si-qe on KN L 588.1."
     },
     {
       "token": "RU-ZU-NA",
@@ -12436,7 +12446,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_05846",
       "lexicon_ref": "SA-RE-JU",
       "reading": "Šarr-ēlu",
       "meaning": "personal name, 'El is king'",
@@ -12754,7 +12764,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "oracc-qpn:bd49974ed0e6c370b4cb",
       "lexicon_ref": "SI-DI-*301",
       "reading": "Ṣidna",
       "meaning": "Sidon (place name)",
@@ -13241,7 +13251,8 @@
           "distance": 1.0
         }
       ],
-      "note": "Tatare: Linear B ta-ta-ro (KN As(1) 607.2); Mari ᶠTatara, ta-da-ra, Hurrian with a query (Sasson 1974, 370; ARM XVI/1, 201; Monti 2017, 302)."
+      "note": "Tatare: Linear B ta-ta-ro (KN As(1) 607.2); Mari ᶠTatara, ta-da-ra, Hurrian with a query (Sasson 1974, 370; ARM XVI/1, 201; Monti 2017, 302).",
+      "linear_b_comparanda": "ta-ta-ro, at Knossos (KN As(1) 607.2; damaged on Pp 498 and Xd 8605) and at Pylos (PY Eb 874[+]902, Eo 224, Ep 301)."
     },
     {
       "token": "TA₂-TI-TE",
@@ -14434,7 +14445,8 @@
           "distance": 1.0
         }
       ],
-      "note": "HT 113 .2 WI-SA ·, a recipient entry (GORILA I 184–185). Linear B wi-so, a woman's name at Knossos, KN Ap 639.4, and wi-sa[, PY Cn 328.12 (DMic II 436); language unknown. Cf. Safaitic WS (Harding 1971, 641). See the lexicon entry."
+      "note": "HT 113 .2 WI-SA ·, a recipient entry (GORILA I 184–185). Linear B wi-so, a woman's name at Knossos, KN Ap 639.4, and wi-sa[, PY Cn 328.12 (DMic II 436); language unknown. Cf. Safaitic WS (Harding 1971, 641). See the lexicon entry.",
+      "linear_b_comparanda": "wi-so, a woman's name at Knossos (KN Ap 639.4), and wi-sa[ (PY Cn 328.12; DMic II 436)."
     },
     {
       "token": "WI-NA-DU",
@@ -15644,7 +15656,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "oracc-qpn:6a5c5d5314642af5af1f",
       "lexicon_ref": "TA-NI-KA",
       "reading": "Taʿnaku",
       "meaning": "Taanach (place name)",
@@ -16463,7 +16475,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "am_gelb_n_03436",
       "lexicon_ref": "A-MI-JA-RU",
       "reading": "ʿAmmī-yarūm",
       "meaning": "personal name, 'My kinsman is exalted'",
@@ -17255,7 +17267,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "CANDIDATE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "oracc-qpn:575e9f2ca44687122026",
       "lexicon_ref": "TE-JA-RE",
       "reading": "Teyar",
       "meaning": "personal name, 'Merciful (god)'",
@@ -17291,7 +17303,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "oracc-qpn:8e1129c08fcbcd2487fc",
       "lexicon_ref": "KO-SA-I-TI",
       "reading": "Kōšayīt",
       "meaning": "the Kushite woman (origin label)",

@@ -80,6 +80,7 @@ Moran 1992, EA 248:14; di Mino; HALOT
 | Occurrences | 2 in 2 documents |
 | Sites | Haghia Triada |
 | Supports | Roundel 2 |
+| Contact reference | oracc-qpn:6a5c5d5314642af5af1f |
 
 ### Note
 

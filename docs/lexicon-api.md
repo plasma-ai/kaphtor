@@ -112,5 +112,5 @@ custom agent) at:
 ## Provenance, Standing & Licences
 
 - **Source of truth:** All API and MCP data is exported deterministically from committed `kaphtor` snapshots (`data/linear-a/` and `data/semitic-roots/`). Check `GET /v1/health` to inspect the exact `kaphtor_commit` and `input_sha256` served by a deployment. Note that `linear-a.ai` omits entries attested exclusively in the London Medical Papyrus (`LMP-…`), so `kaphtor`'s total word count is slightly higher.
-- **Epistemic standing:** No decipherment of Linear A has scholarly consensus. Every reading returned by the API or MCP server is Tom di Mino's proposal (unless an earlier proposer is cited) carrying its confidence tier (`Confirmed`, `Probable`, `Candidate`, `Speculative`) and recorded rival readings; `Confirmed` fixes corpus function, not etymology. See [`docs/confidence.md`](confidence.md).
+- **Epistemic standing:** Every reading returned by the API or MCP server is Tom di Mino's proposal (unless an earlier proposer is cited) carrying its confidence tier (`Confirmed`, `Probable`, `Candidate`, `Speculative`) and recorded rival readings; `Confirmed` fixes corpus function, not etymology. See [`docs/confidence.md`](confidence.md).
 - **Licences:** Lexicon, names, translations, commentary, and Proto-Semitic roots are **CC BY 4.0**; underlying SigLA corpus transcriptions retain **CC BY-NC-SA 4.0**.

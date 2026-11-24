@@ -43,7 +43,7 @@ di Mino's reading, CANDIDATE, incomplete; 2 words.
 
 | Line | Page | Group | Values | Reading | Gloss | Tier | Rivals | Note |
 |---|---|---|---|---|---|---|---|---|
-|  | 460 | 027-050-012 | si-pi-po | si-pi-po |  | CANDIDATE |  | Phonetic reading on the ruled grid (corpus text). |
+|  | 460 | 027-050-012 | si-pi-po | Ḏibibu | personal name | SPECULATIVE |  | si-pi-po on the ruled grid (corpus text): the Amorite name Ḏibibu (Gelb 1980, no. 5518), its last vowel written o. |
 |  | 460 | 050 | pi | pi |  | CANDIDATE |  | Single-sign notation (050 = pi) after divider. |
 
 Short CM 1 inscription read in full on the ruled grid (si-pi-po \| pi).

@@ -9,22 +9,22 @@
   "stats": {
     "corpus_words": 719,
     "read": 560,
-    "unread_listed": 359,
+    "unread_listed": 358,
     "by_status": {
       "edge_overlap": 18,
-      "unread": 150,
-      "role_only": 191
+      "unread": 148,
+      "role_only": 192
     },
-    "hapax": 349,
+    "hapax": 348,
     "repeated": 10,
     "cross_site": 4,
-    "surface_damaged": 276,
+    "surface_damaged": 275,
     "excluded_tokens": {
-      "single-sign": 1379,
+      "single-sign": 1369,
       "numeral/punct": 1545,
       "logogram": 340,
-      "damaged": 1151,
-      "ligature/logogram": 424
+      "damaged": 1157,
+      "ligature/logogram": 428
     }
   },
   "excluded": {
@@ -2852,7 +2852,8 @@
     {
       "word": "NI-MI",
       "signs": 2,
-      "status": "unread",
+      "status": "role_only",
+      "role": "personal_name",
       "frequency": 1,
       "attestations": [
         "PK1"
@@ -3384,26 +3385,6 @@
         ]
       },
       "note": "Incomplete: QA-*305-[?], QA and *305 dotted, a further sign lost (GORILA IV 95). Not readable."
-    },
-    {
-      "word": "]QA-KI-TI[",
-      "signs": 3,
-      "status": "unread",
-      "frequency": 1,
-      "attestations": [
-        "SKOZc1"
-      ],
-      "sites": [
-        "Skoteino Cave"
-      ],
-      "cross_site": false,
-      "surface_damage": {
-        "SKOZc1": [
-          "start",
-          "end"
-        ]
-      },
-      "note": "SKO Zc 1 fragment 2, painted on a chalice rim: ]QA-KI-TI[, broken at both ends, all three signs uncertain and only their upper parts kept (Younger, Linear A Texts, Other Texts). Akkadian qaqqadu 'head' was the proposed reading. Not readable."
     },
     {
       "word": "]QA-QA-RU",

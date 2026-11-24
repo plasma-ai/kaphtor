@@ -43,7 +43,7 @@ di Mino's reading, CANDIDATE, incomplete; 1 words.
 
 | Line | Page | Group | Values | Reading | Gloss | Tier | Rivals | Note |
 |---|---|---|---|---|---|---|---|---|
-|  | 452 | 082-050-009 | sa-pi-li | sa-pi-li |  | CANDIDATE |  | Phonetic reading on the ruled grid (corpus text). |
+|  | 452 | 082-050-009 | sa-pi-li | Ša-pī-ili | personal name | CANDIDATE |  | sa-pi-li on the ruled grid (corpus text): the name written ša-pí-ilu and ša-pí-ilim in the Akkadian texts of Ugarit (Kinlaw 1967, 106).  Rival: the Anatolian name Šabili (LAMAN). |
 
 Short CM 1 inscription read in full on the ruled grid (sa-pi-li).
 

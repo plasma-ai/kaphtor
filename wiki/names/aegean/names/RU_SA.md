@@ -46,6 +46,10 @@ Egyptian rw-sȝ, one of seven 'names of Crete' on BM EA 5647 (Dautais & Gabolde 
 |---|---|
 | Egyptian | rw-sȝ, the seventh of the 'names of Crete' on the writing board BM EA 5647, r. I 7 (Dautais and Gabolde 2025, 14–15); rs '(he) who is awake', late 12th–18th Dynasty (PNM v6, personal_names_id 142607501; Ranke I, 226.18; II, 303.1) |
 
+## Linear B
+
+ru-si, damaged on KN Ak 634 and Xf 8214, and ru-si-qe on KN L 588.1.
+
 ## Attestations
 
 | Field | Value |

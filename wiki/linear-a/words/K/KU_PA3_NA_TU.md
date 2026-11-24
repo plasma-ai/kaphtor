@@ -79,6 +79,7 @@ di Mino, Ya Diktu; Gelb 1980, AS 21, nos. 708, 2094, 4099–4100, 4148; Laroche 
 | Occurrences | 2 in 2 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 2 |
+| Contact reference | am_gelb_n_04148 |
 
 ### Note
 

@@ -49,6 +49,10 @@ KN 32a .2 A-KA-TA, whole at the left (GORILA I 264–65). ʾAkkata, sign for sig
 | Mari | a-ka-tum, a woman musician (FM IV, 261) |
 | Linear B | a-ka-ta-jo, a man's name (PY Eo 269, KN Dv 1331; DMic I 34) |
 
+## Linear B
+
+a-ka-ta-jo, a man's name (DMic I 34), at Pylos (PY Eo 269) and, damaged, at Knossos (KN Db 1086, Dv 1331): a derived form in -jo.
+
 ## Attestations
 
 | Field | Value |

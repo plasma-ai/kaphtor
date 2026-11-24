@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 9a SA-RO · TE · VIN · PA-DE · 5¾, the first entry of the wine roster; HT 9b PẠ-DẸ 3, both signs dotted (GORILA I 18–19); HT 122a PA-DE 1. HT 122a recopies the HT 9 roster, so the three are one context. Ugaritic pdy (II) is a personal name, spelled syllabically pa-di/dì-ya, etym. unc. (DULAT 653); Padi is also the king of Ekron in Sennacherib's annals (RINAP 3, Sennacherib 4). DE writes the final ī. Rival: pa-de, a divine recipient at Knossos (KN Fp 1, Fp 48; DMic II 65–66), which Landau compares with PA-DE (Landau, Namen 94, apud DMic II 66).
+HT 9a SA-RO · TE · VIN · PA-DE · 5¾, the first entry of the wine roster; HT 9b PẠ-DẸ 3, both signs dotted (GORILA I 18–19); HT 122a PA-DE 1. HT 122a recopies the HT 9 roster, so the three are one context. Ugaritic pdy (II) is a personal name, spelled syllabically pa-di/dì-ya, etym. unc. (DULAT 653); Padi is also the king of Ekron in Sennacherib's annals (RINAP 3, Sennacherib 4). Gordon reads pa-de as Padi, the name of the king of Ekron, Ugaritic pd and pdy (Gordon 1966, §133). DE writes the final ī. Rival: pa-de, a divine recipient at Knossos (KN Fp 1, Fp 48; DMic II 65–66), which Landau compares with PA-DE (Landau, Namen 94, apud DMic II 66).
 
 ### Cognates
 
@@ -53,7 +53,7 @@ HT 9a SA-RO · TE · VIN · PA-DE · 5¾, the first entry of the wine roster; HT
 
 ### Source
 
-di Mino; DULAT; DMic II; RINAP 3; Pagan 1998; GlOS 2
+di Mino; Gordon 1966; DULAT; DMic II; RINAP 3; Pagan 1998; GlOS 2
 
 ## Attestations
 

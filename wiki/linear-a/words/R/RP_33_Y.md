@@ -57,6 +57,7 @@ di Mino; Steiner 1992; GlOS 2
 ### Review
 
 - **Reviewer:** di Mino
+- **Published by:** Richard C. Steiner, *Northwest Semitic Incantations in an Egyptian Medical Papyrus of the Fourteenth Century B.C.E.* (1992), pp. 198–199
 
 ## Attestations
 

@@ -46,6 +46,10 @@ HT 113 .2 WI-SA ·, a recipient entry (GORILA I 184–185). Linear B wi-so, a wo
 |---|---|
 | Linear B | wi-so, a woman's name at Knossos, KN Ap 639.4 wi-so MUL 1, in a catalogue of women; wi-sa\[, the start of a man's name, PY Cn 328.12, cf. wi-sa-to (DMic II 436) |
 
+## Linear B
+
+wi-so, a woman's name at Knossos (KN Ap 639.4), and wi-sa\[ (PY Cn 328.12; DMic II 436).
+
 ## Attestations
 
 | Field | Value |

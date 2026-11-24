@@ -48,6 +48,10 @@ Ugaritic ålnr, a Hurrian personal name set beside Linear B a-ra-na-ro, the man 
 | Hurrian | Allanšeridanu, {1}al-la-an-še-ri-da-ni, a man at Ugarit, RS 16.251:5 (Kinlaw 1967, 19) |
 | Linear B | a-ra-na-ro, a man on the Knossos roster KN As(2) 1516 |
 
+## Linear B
+
+a-ra-na-ro, the man on KN As 1516.11, set beside Ugaritic ålnr (DULAT 57).
+
 ## Attestations
 
 | Field | Value |

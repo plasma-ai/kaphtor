@@ -43,7 +43,7 @@ di Mino's reading, CANDIDATE, incomplete; 2 words.
 
 | Line | Page | Group | Values | Reading | Gloss | Tier | Rivals | Note |
 |---|---|---|---|---|---|---|---|---|
-|  | 462 | 027-008-097 | si-na-ro | si-na-ro |  | CANDIDATE, emended text |  | Phonetic reading on the ruled grid (emended text). |
+|  | 462 | 027-008-097 | si-na-ro | Sinaru | personal name | CANDIDATE, emended text |  | si-na-ro on the ruled grid (emended text): the name written sí-na-ru and si-na-ri in the Akkadian texts of Ugarit (Kinlaw 1967, 101). |
 |  | 462 | 082 | sa | sa |  | CANDIDATE, emended text |  | Single-sign notation (082 = sa) after divider. |
 
 Form si-na-ro \| sa; shares stem si-na- with ENKO Atab 002 si-na-ko.

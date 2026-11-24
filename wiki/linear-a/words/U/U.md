@@ -54,7 +54,7 @@ GORILA has U after a number on ARKH 4b (RE 10 U̥\[, .2; GORILA III 15) and HT 5
 
 ### Source
 
-Gordon 1966 §163
+Gordon 1966 §§121, 162
 
 ## Attestations
 

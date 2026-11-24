@@ -45,7 +45,7 @@ are PROBABLE, 278 CANDIDATE and 360 SPECULATIVE, and a reading rises one tier at
 evidence. The words are filed by field: personal names (251), commodities (121), administrative
 terms (79), personnel (64), ritual (70), toponyms (44) and divine names
 (35). Beside them stand one page for every inscription, 530 of 655 translations, the
-384 names of the onomasticon, the signs with their 42 resolved and proposed values, and the 359
+384 names of the onomasticon, the signs with their 42 resolved and proposed values, and the 358
 legible words that have no reading yet, each with its witnesses. 83 of them are undamaged in every
 witness.
 <!-- END kaphtor:summary -->

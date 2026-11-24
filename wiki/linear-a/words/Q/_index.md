@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/Q
 desc: "Words whose first sign begins with Q, and words that open with an illegible sign."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-20T14:16:42Z
+updated: 2026-11-24T19:55:05Z
 ---
 
 # wiki/linear-a/words/Q
@@ -14,8 +14,6 @@ updated: 2026-11-20T14:16:42Z
 [[wiki/linear-a/words/Q/QA2_plus_q_plus_RE|QA2_plus_q_plus_RE]]: qab of RE: QA written inside the *402 cup, the measuring cup QA-PA₃ qab, with RE attached for the measured commodity, unread. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/Q/QA_KI_SE_NU_TI|QA_KI_SE_NU_TI]]: Kaki-šenni-ti: personal name, Hurrian type in -šenni 'brother'. Lexicon, SPECULATIVE (tier 1).
-
-[[wiki/linear-a/words/Q/QA_KI_TI_broken_both|QA_KI_TI_broken_both]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/Q/QA_KI_broken_end|QA_KI_broken_end]]: Unread (unread): no role; 1 occurrence(s).
 

@@ -278,11 +278,11 @@ Facchetti, Giulio M. 2003. "On Some Recent Attempts to Identify Linear A Minoan 
 **Faris 1952**
 Ibn al-Kalbi, Hisham, and Nabih Amin Faris, tr. 1952. *The Book of Idols: Being a Translation from the Arabic of the Kitāb al-Aṣnām*. Princeton: Princeton University Press.
 
-**Ferrara, Montecchi and Valério 2022**
+**Ferrara, Montecchi, and Valério 2022** (also Ferrara, Montecchi and Valério 2022; Ferrara, Montecchi & Valério 2022; Ferrara 2022)
 Ferrara, Silvia, Barbara Montecchi, and Miguel Valério. 2022. "The Relationship between Cretan Hieroglyphic and Linear A: A Palaeographic and Structural Approach." *Pasiphae* 16: 81–109. https://doi.org/10.19272/202233301006.
 
-**Ferrara, Montecchi, and Valério 2022** (also Ferrara 2022)
-Ferrara, Silvia, Barbara Montecchi, and Miguel Valério. 2022. "The Relationship between Cretan Hieroglyphic and Linear A: A Palaeographic and Structural Approach." *Pasiphae* 16: 81–109. https://doi.org/10.19272/202233301006.
+**Ferrara, Weingarten and Cadogan 2016**
+Ferrara, Silvia, Judith Weingarten, and Gerald Cadogan. 2016. "Cretan Hieroglyphic at Myrtos-Pyrgos." *Studi Micenei ed Egeo-Anatolici, Nuova Serie* 2: 81–99.
 
 **Finkelberg 1990**
 Finkelberg, Margalit. 1990. "Minoan Inscriptions on Libation Vessels." *Minos* 25: 43–85.
@@ -892,6 +892,9 @@ Salgarella, Ester. 2022. "Mix and Match: A Combinatory (Re-)Classification of Li
 
 **Salgarella 2023**
 Salgarella, Ester. 2023. "Reconstructing a Prehistoric Writing System." In *The Cambridge Handbook of Historical Orthography*, edited by Marco Condorelli and Hanna Rutkowska, 395–418. Cambridge University Press.
+
+**Salgarella and Castellan 2021** (also Salgarella & Castellan 2021; cited as SigLA)
+Salgarella, Ester, and Simon Castellan. 2021. "SigLA: The Signs of Linear A. A Palæographical Database." In *Grapholinguistics in the 21st Century 2020, Part II*, edited by Yannis Haralambous, 945–962. Grapholinguistics and Its Applications 5. Fluxus Editions. https://doi.org/10.36824/2020-graf-salg.
 
 **Salgarella et al. 2025**
 Salgarella, Ester, Laura Bellinato, and Silvia Ferrara. 2025. "On Aegean spices: decipherment prospects on Linear A and B spice-related signs." *Kadmos* 64/1–2: 29–44. https://doi.org/10.1515/kadmos-2025-0002.
@@ -1733,7 +1736,7 @@ Roots cells counts the roots’ cite cells (`reflexes[].cite`, `sed`) that carry
 | SED II | Militarev, *Semitic Etymological Dictionary, Vol. II: Animal Names* (2005) | 178 | 1 |
 | SEDonline | Kogan, *SEDonline: Semitic Etymological Database (beta)* (2026) | 4223 |  |
 | SEDRA | Kiraz, *Sedra: data release 2026-10-25* (2026) | 8 |  |
-| SigLA | SigLA (sigla.phis.me), Ester Salgarella and Simon Castellan, palaeographic database of Linear A (data/linear-a/sigla_db.md); no record |  | 23 |
+| SigLA | SigLA (sigla.phis.me), Ester Salgarella and Simon Castellan, palaeographic database of Linear A (data/linear-a/sigla_db.md); Salgarella and Castellan 2021 |  | 23 |
 | Sima | Sima, *Tiere, Pflanzen, Steine und Metalle in den altsüdarabischen Inschriften: Eine lexikalische und realienkundliche Untersuchung* (2000) | 6 |  |
 | Sima 2000 | author–year key Sima 2000 | 1 |  |
 | SL | M. Sokoloff. A Syriac Lexicon. Winona Lake, 2009. | 13 |  |

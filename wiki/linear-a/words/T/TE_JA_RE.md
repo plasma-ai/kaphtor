@@ -79,6 +79,7 @@ di Mino; AHw 1304; CAD T 59–60; ORACC aemw/ugarit; HALOT 1708; DULAT 862
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |
+| Contact reference | oracc-qpn:575e9f2ca44687122026 |
 
 ### Note
 

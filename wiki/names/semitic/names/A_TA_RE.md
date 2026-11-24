@@ -50,6 +50,10 @@ ZA 8, the first entry under KI-RA, with figs: ʿAṯtar, Ugaritic ʿṯtr (Parde
 | Safaitic | ḏ-ʿṯr, a month, 'that of ʿAṯtar' (Al-Jallad 2026, 19) |
 | Egyptian (rival) | Ḥw.t-Ḥr.w 'Hathor' (AED lemma 99960; Wb 3, 5.11) |
 
+## Linear B
+
+Rival: a-ta-ro, a man's name at Pylos (PY An 35.5; damaged on An 39).
+
 ## Attestations
 
 | Field | Value |

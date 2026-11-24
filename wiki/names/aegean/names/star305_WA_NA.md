@@ -47,6 +47,10 @@ ZA 6a .1 \*305-WA-NA \*171 19, the first entry (GORILA III 157). Linear B da-wa-
 | Linear B | da-wa-no, a man's name at Knossos, KN As 1517.4, Ga 423 v., Mc 4454.A, Mc 4461.B (DMic I 159) |
 | Ugaritic | PN dwn, meaning unknown, syll. de₄-wa-an-na, preferred to tu-a-nu (KTU 4.309:5; 4.354:7; RS 17.319:17; Watson 2016, 340) |
 
+## Linear B
+
+da-wa-no, a man's name at Knossos (KN Mc 4454.A; DMic I 159), also on KN As 1517, Ga(2) 423+7366 and Mc 4461+5781+fr.\[+\]5118; the match holds only if \*305 writes da.
+
 ## Attestations
 
 | Field | Value |

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/N
 desc: "Words whose first sign begins with N."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-20T14:16:40Z
+updated: 2026-11-24T19:55:11Z
 ---
 
 # wiki/linear-a/words/N
@@ -47,7 +47,7 @@ updated: 2026-11-20T14:16:40Z
 
 [[wiki/linear-a/words/N/NI_JA_NU|NI_JA_NU]]: niyāḥ-nu: our soothing (offering), of the incense. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/N/NI_MI|NI_MI]]: Unread (unread): no role; 1 occurrence(s).
+[[wiki/linear-a/words/N/NI_MI|NI_MI]]: Unread (role only): personal name; 1 occurrence(s).
 
 [[wiki/linear-a/words/N/NI_NU_NI|NI_NU_NI]]: nīnūn: offspring, descendants, posterity. Lexicon, SPECULATIVE (tier 1).
 

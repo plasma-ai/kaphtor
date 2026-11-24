@@ -51,6 +51,10 @@ Qaṣṣāru: Ebla ga-za-ru₁₂, /qaṣṣāru/ 'fuller' or /kaṣṣāru/ 'do
 | Syriac | qāṣrā 'fuller' (HALOT 819, s.v. ʿên rōgēl 'spring of the fuller') |
 | Linear B | ka-sa-ro, a man at Knossos, KN C(2) 912, Dv 1450 |
 
+## Linear B
+
+ka-sa-ro, a man at Knossos (KN C(2) 912.8; KN Dv 1450+7270+frr.).
+
 ## Attestations
 
 | Field | Value |

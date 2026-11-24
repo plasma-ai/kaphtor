@@ -51,6 +51,10 @@ KH 41, from Khania. Linear B ka-ta-ra-i heads KN Co 906 as ku-do-ni-ja heads Co 
 | Tigre | kätra 'surround, make a hedge' (LGz. 298) |
 | Tigrinya | kättärä 'make a dam, make a fenced-in place' (LGz. 298) |
 
+## Linear B
+
+ka-ta-ra-i heads KN Co 906 as ku-do-ni-ja heads Co 904.
+
 ## Attestations
 
 | Field | Value |

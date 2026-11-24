@@ -43,7 +43,7 @@ di Mino's reading, CANDIDATE, incomplete; 1 words.
 
 | Line | Page | Group | Values | Reading | Gloss | Tier | Rivals | Note |
 |---|---|---|---|---|---|---|---|---|
-|  | 487 | 070-114-023 | ki-ri-ti | ki-ri-ti |  | CANDIDATE, emended text |  | Phonetic reading on the ruled grid (emended text). |
+|  | 487 | 070-114-023 | ki-ri-ti | Kirīti | 'Cherethite, Cretan' | CANDIDATE, emended text |  | ki-ri-ti on the ruled grid (emended text): Hebrew kərētî 'Cretan' (HALOT 501), the ethnic name in -ī; compare the royal name krt of Ugarit (DULAT 453). The label is the vase's one word.  Rival: a Cypriot word in -ti, the ending of ko-no-ti (ENKO Mins 001). |
 
 Short CM 1 inscription read in full on the ruled grid (ki-ri-ti).
 

@@ -77,6 +77,7 @@ di Mino; Kilani 2020; GlOS 1; AED; Watson 2018b; Vycichl 1983
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |
+| Contact reference | oracc-qpn:8e1129c08fcbcd2487fc |
 
 ### Note
 

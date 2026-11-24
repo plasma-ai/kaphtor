@@ -51,6 +51,10 @@ Dūdāma 'Beloved', √d-w-d + -ma, as the Amorite DA-DU-MA (Gelb 1980, no. 1433
 | Egyptian | {d-j}-d-ȝ-d-ȝ-m{a}, an 'Aegean' beneficiary of a wine account, BM EA 5647 v. I 3a (Dautais & Gabolde 2025, 14–15); Schneider reads it Semitic \*Mudādum 'Beloved' (apud Dautais & Gabolde 2025, 14) |
 | Linear B | di-du-me (KN L 588), di-du-mo (KN X 5751, MY Oe 129) (Dautais & Gabolde 2025, Table 1) |
 
+## Linear B
+
+di-du-me (KN L 588+644+5777+fr.), with the d-d-m of DU-DA-MA and of the Keftiu board under other vowels.
+
 ## Attestations
 
 | Field | Value |

@@ -78,6 +78,7 @@ di Mino; Gelb 1980; Kinlaw 1967; Benz 1972
 | Occurrences | 1 in 1 documents |
 | Sites | Zakros |
 | Supports | Label 1 |
+| Contact reference | am_gelb_n_03436 |
 
 ### Note
 

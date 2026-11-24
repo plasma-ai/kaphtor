@@ -85,6 +85,7 @@ di Mino; RGTC 12/2; DULAT; Krahmalkov; Gauthier DNG
 | Occurrences | 1 in 1 documents |
 | Sites | Knossos |
 | Supports | Metal object 1 |
+| Contact reference | oracc-qpn:bd49974ed0e6c370b4cb |
 
 ### Note
 

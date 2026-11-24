@@ -42,6 +42,7 @@ updated: 2026-10-31T14:24:36Z
 | Sites | Haghia Triada |
 | Supports | Clay vessel 1 |
 | Lexicon entry | [[wiki/linear-a/words/A/A_NA_NU\|A-NA-NU]] |
+| Contact reference | am_gelb_n_00475 |
 
 ### Note
 
