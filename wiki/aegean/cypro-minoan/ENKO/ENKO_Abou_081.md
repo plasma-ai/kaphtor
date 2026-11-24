@@ -35,6 +35,19 @@ updated: 2026-11-18T19:49:10Z
 
 Not checked against HoChyMin, which is not held.
 
+## Translation
+
+
+
+di Mino's reading, CANDIDATE, incomplete; 2 words.
+
+| Line | Page | Group | Values | Reading | Gloss | Tier | Rivals | Note |
+|---|---|---|---|---|---|---|---|---|
+|  | 469 | 102-009-082-085 | a-li-sa-ri | a-li-sa-ri |  | CANDIDATE |  | Phonetic reading on the ruled grid (corpus text). |
+|  | 469 | 110 | ku | ku |  | CANDIDATE |  | Single-sign notation (110 = ku) after divider. |
+
+Bare stem a-li-sa-ri (cf. ENKO Abou 051 a-li-sa-ri-ko) plus single sign ku.
+
 ## Metadata
 
 ### Editions
@@ -70,6 +83,6 @@ Not checked against HoChyMin, which is not held.
 
 No held source states its identity, museum number, object, hand, visual evidence.
 
-No transcription is reproduced here: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
+No transcription is reproduced here beyond the sign groups of the words read: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
 
 <!-- END kaphtor:record -->

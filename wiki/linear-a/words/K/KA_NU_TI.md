@@ -33,7 +33,7 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | Ganuti |
 | Meaning | place name |
-| Root | Ganuti (Pre-Greek) |
+| Root | Ganuti |
 | Language layer | Semitic |
 | Tags | hapax, loanword, toponym |
 | Semantic field | toponym |

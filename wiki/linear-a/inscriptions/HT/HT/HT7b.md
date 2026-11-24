@@ -59,7 +59,7 @@ Unicode (Linear A block):
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/star/star21F_TU_NE\|\*21F-TU-NE]] | hatune | bridegroom, son-in-law, 1 | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/star/star21F_TU_NE\|\*21F-TU-NE]] | ḫatun | bridegroom, son-in-law, 1 | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/D/DA_RU_star329\|DA-RU-\*329]] | Dārum | personal name, 'Eternal', 2; rival Arabic Dārim | SPECULATIVE | SPECULATIVE (lexicon) |
 
 ### Notes

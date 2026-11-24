@@ -5,7 +5,7 @@ desc: "Kidata: a party receiving grain (name or place). Lexicon, SPECULATIVE (ti
 tags: ["linear-a", "word", "tier-1", "administrative", "hapax", "loanword"]
 kind: "word"
 form: "KI-DA-TA"
-datasets: ["lexicon"]
+datasets: ["lexicon", "onomasticon"]
 tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.25
@@ -34,7 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Kidata |
 | Meaning | a party receiving grain (name or place) |
 | Root | Kidata (Pre-Greek) |
-| Language layer | Semitic |
+| Language layer | Aegean |
 | Tags | administrative, hapax, loanword |
 | Semantic field | administrative |
 
@@ -58,6 +58,32 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT40\|HT40]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT40\|HT40]] | Haghia Triada | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT40\|HT40]] | Kidata | Kidata (party receiving grain) | SPECULATIVE |
+
+## Onomasticon
+
+| Field | Value |
+|---|---|
+| Type | personal name (SPECULATIVE) |
+| Affiliation | aegean (SPECULATIVE) |
+| Evidence | lexicon_reading |
+| Entry | manual |
+| Occurrences | 1 in 1 documents |
+| Sites | Haghia Triada |
+| Supports | Tablet 1 |
+
+### Note
+
+HT 40 KI-DA-TA · GRA 134, in the slot NU-DU-\*331 holds with GRA 207.
+
+### Co-occurring lexicon words
+
+Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull, [[wiki/linear-a/words/T/TE|TE]] terûmā.
 
 <!-- END kaphtor:record -->

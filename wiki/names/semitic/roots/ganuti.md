@@ -20,7 +20,6 @@ updated: 2026-11-11T23:39:03Z
 | Field | Value |
 |---|---|
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
-| Remark | Pre-Greek |
 | Names | 1 |
 
 ## Names from this root

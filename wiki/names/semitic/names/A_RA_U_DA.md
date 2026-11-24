@@ -41,7 +41,7 @@ Watson takes the name as Semitic, 'Desirable Place', from Ar. rāda IV 'to wish,
 
 ## As a name
 
-Rival: a personal name, Ugaritic ảrwd(n).
+Amarna toponym {uru}ar-wa-da (EA 149 r 059, from Tyre; eight times in the Amarna letters). Rival: a personal name, Ugaritic ảrwd(n).
 
 ## Cognates
 

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A
 desc: "Words whose first sign begins with A."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-21T00:14:56Z
+updated: 2026-11-24T16:33:50Z
 ---
 
 # wiki/linear-a/words/A

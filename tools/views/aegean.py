@@ -196,7 +196,7 @@ def _cm_reading(rec: dict) -> list[str]:
     for w in words:
         kind = ", ".join(filter(None, (w["reading_type"] and w["reading_type"].lower(), w["confidence"],
                                        "emended text" if w["text"] == "emended" else None)))
-        rows.append([esc(w["line"]), esc(w["page"]), esc(w["cypro_minoan"]) if w["cypro_minoan"] else "*not reproduced*",
+        rows.append([esc(w["line"] or ""), esc(w["page"]), esc(w["cypro_minoan"]) if w["cypro_minoan"] else "*not reproduced*",
                      esc("-".join(v or "?" for v in w["values"])), esc(w["reading"] or ""), esc(w["gloss"] or ""),
                      esc(kind), esc("; ".join(_cm_rival(v) for v in w["rivals"])), esc(w["note"] or "")])
     state = f"{rec['source']}'s reading, {rec['confidence']}, {rec['status'] or 'complete'}; {len(words)} words."

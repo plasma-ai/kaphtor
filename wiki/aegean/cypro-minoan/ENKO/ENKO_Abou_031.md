@@ -35,6 +35,19 @@ updated: 2026-11-18T19:49:10Z
 
 Not checked against HoChyMin, which is not held.
 
+## Translation
+
+
+
+di Mino's reading, CANDIDATE, incomplete; 2 words.
+
+| Line | Page | Group | Values | Reading | Gloss | Tier | Rivals | Note |
+|---|---|---|---|---|---|---|---|---|
+|  | 459 | 082-096-088 | sa-ri-jo | sa-ri-jo |  | CANDIDATE, emended text |  | Phonetic reading on the ruled grid (emended text). |
+|  | 459 | 025 | ka | ka |  | CANDIDATE, emended text |  | Single-sign notation (025 = ka) after divider. |
+
+Bare stem sa-ri-jo (exact base of ENKO Arou 001.02, .09, .26 sa-ri-jo-ti) plus single sign ka.
+
 ## Metadata
 
 ### Editions
@@ -71,6 +84,6 @@ Not checked against HoChyMin, which is not held.
 
 No held source states its identity, museum number, object, hand, visual evidence.
 
-No transcription is reproduced here: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
+No transcription is reproduced here beyond the sign groups of the words read: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
 
 <!-- END kaphtor:record -->

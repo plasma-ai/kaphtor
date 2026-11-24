@@ -60,7 +60,7 @@ di Mino; DULAT; CAD B; GlOS 1; Gelb 1980
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT85a\|HT85a]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT102\|HT102]] | Haghia Triada | Tablet | complete |
+| [[wiki/linear-a/inscriptions/HT/HT/HT102\|HT102]] | Haghia Triada | Tablet | incomplete |
 
 ## In translations
 

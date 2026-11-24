@@ -33,7 +33,7 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | Kikkina |
 | Meaning | Kikkina, recipient or named administrative entity |
-| Root | Kikkina (Pre-Greek) |
+| Root | Kikkina |
 | Language layer | Semitic |
 | Tags | hapax, loanword, personal_name |
 | Semantic field | personal_name |

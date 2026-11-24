@@ -68,7 +68,7 @@ Read words on the same documents.
 | Word | Reading | Meaning |
 |---|---|---|
 | [[wiki/names/semitic/names/KA_NU_TI\|KA-NU-TI]] | Ganuti | place name |
-| [[wiki/names/semitic/names/PA_I_TO\|PA-I-TO]] | Paito | Phaistos (place name) |
+| [[wiki/names/aegean/names/PA_I_TO\|PA-I-TO]] | Paito | Phaistos (place name) |
 | KI | ki | so that, because |
 
 <!-- END kaphtor:record -->

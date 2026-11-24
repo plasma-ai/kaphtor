@@ -35,6 +35,19 @@ updated: 2026-11-18T19:49:10Z
 
 Not checked against HoChyMin, which is not held.
 
+## Translation
+
+
+
+di Mino's reading, CANDIDATE, incomplete; 2 words.
+
+| Line | Page | Group | Values | Reading | Gloss | Tier | Rivals | Note |
+|---|---|---|---|---|---|---|---|---|
+|  | 467 | 064-005-024 | o-lo-le | o-lo-le |  | CANDIDATE |  | Phonetic reading on the ruled grid (corpus text). |
+|  | 467 | 046 | su | su |  | CANDIDATE |  | Single-sign notation (046 = su) after divider. |
+
+Recurring o-lo-le (identical to ENKO Abou 067 and HALA Abou 002) plus single sign su.
+
 ## Metadata
 
 ### Editions
@@ -70,6 +83,6 @@ Not checked against HoChyMin, which is not held.
 
 No held source states its identity, museum number, object, hand, visual evidence.
 
-No transcription is reproduced here: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
+No transcription is reproduced here beyond the sign groups of the words read: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
 
 <!-- END kaphtor:record -->

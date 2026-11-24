@@ -35,6 +35,19 @@ updated: 2026-11-18T19:49:10Z
 
 Not checked against HoChyMin, which is not held.
 
+## Translation
+
+
+
+di Mino's reading, CANDIDATE, incomplete; 2 words.
+
+| Line | Page | Group | Values | Reading | Gloss | Tier | Rivals | Note |
+|---|---|---|---|---|---|---|---|---|
+|  | 462 | 044-061-097 | se-pu-ro | se-pu-ro |  | CANDIDATE |  | Phonetic reading on the ruled grid (corpus text). |
+|  | 462 | 015 | ko | ko |  | CANDIDATE |  | Single-sign notation (015 = ko) after divider. |
+
+Stem se-pu-ro plus single sign ko (cf. ENKO Abou 044 se-pu-ro-u-ku).
+
 ## Metadata
 
 ### Editions
@@ -77,6 +90,6 @@ Not checked against HoChyMin, which is not held.
 
 No held source states its identity, museum number, object, visual evidence.
 
-No transcription is reproduced here: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
+No transcription is reproduced here beyond the sign groups of the words read: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
 
 <!-- END kaphtor:record -->

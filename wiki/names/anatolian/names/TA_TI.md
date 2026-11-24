@@ -38,7 +38,7 @@ An entry in two lists of quantities: HT 26a TA-TI 21, before MI-KI-SE-NA 15 and 
 
 ## As a name
 
-HT 26a and HT 97a, in lists of quantities: the name Tati, as at Ugarit (RS 15.0109 + RS 16.0296 o 24). Rival: CL Luwian tati- 'father' (Melchert 1993, 209). See the lexicon entry.
+HT 26a and HT 97a, in lists of quantities: the name Tati, as at Ugarit, {m}ta\]-ti with the first sign restored (RS 15.0109 + RS 16.0296 o 24). Rival: CL Luwian tati- 'father' (Melchert 1993, 209). See the lexicon entry.
 
 ## Cognates
 
@@ -65,7 +65,7 @@ Read words on the same documents.
 | Word | Reading | Meaning |
 |---|---|---|
 | [[wiki/names/semitic/names/KA_NU_TI\|KA-NU-TI]] | Ganuti | place name |
-| [[wiki/names/semitic/names/PA_I_TO\|PA-I-TO]] | Paito | Phaistos (place name) |
+| [[wiki/names/aegean/names/PA_I_TO\|PA-I-TO]] | Paito | Phaistos (place name) |
 | KI | ki | so that, because |
 
 <!-- END kaphtor:record -->

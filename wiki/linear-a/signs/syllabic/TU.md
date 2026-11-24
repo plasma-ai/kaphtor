@@ -49,7 +49,7 @@ updated: 2026-10-24T16:17:50Z
 | Word | Reading | Confidence |
 |---|---|---|
 | [[wiki/linear-a/words/star/star21F_RI_TU_QA\|\*21F-RI-TU-QA]] | ha-ritūqa | SPECULATIVE |
-| [[wiki/linear-a/words/star/star21F_TU_NE\|\*21F-TU-NE]] | hatune | CANDIDATE |
+| [[wiki/linear-a/words/star/star21F_TU_NE\|\*21F-TU-NE]] | ḫatun | CANDIDATE |
 | [[wiki/linear-a/words/star/star306_TU\|\*306-TU]] | ʿAttu | CANDIDATE |
 | [[wiki/linear-a/words/star/star306_TU_JA\|\*306-TU-JA]] | ʿAttuya | SPECULATIVE |
 | [[wiki/linear-a/words/star/starOLIV_plus_TU\|\*OLIV+TU]] | TU-qualified olive product | CANDIDATE |

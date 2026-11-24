@@ -54,6 +54,7 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/semitic/names/A_RE_SA_NA\|A-RE-SA-NA]] | ʾAriš-ān: 'The Requested One', personal name from √ʾ-r-š 'to request, desire' with -ān | Semitic personal name | [[wiki/names/semitic/roots/alef-r-sh\|ʾ-r-š]] | CANDIDATE | 1 |
 | [[wiki/names/semitic/names/A_RE_TU_MI\|A-RE-TU-MI]] | ʾarṣ̂-ummī: Earth is my mother (NWS theophoric compound PN; pre-Greek Artemis) | Semitic personal name | [[wiki/names/semitic/roots/alef-r-dd\|ʾ-r-ṣ̂]] + [[wiki/names/semitic/roots/alef-m-m\|ʾ-m-m]] | CANDIDATE | 1 |
 | [[wiki/names/semitic/names/A_RI_NI_TA\|A-RI-NI-TA]] | ʾarīnīt: She-of-the-Lion (feminine gentilic; a priestess or cult title) | Semitic personal name | [[wiki/names/semitic/roots/alef-r-y\|ʾ-r-y]] | CANDIDATE | 2 |
+| [[wiki/names/semitic/names/A_RI_PA\|A-RI-PA]] | ʾaripāʾ: healer, of the Rephaim (√r-p-ʾ) | Semitic divine name | [[wiki/names/semitic/roots/r-p-alef\|r-p-ʾ]] | CANDIDATE | 1 |
 | [[wiki/names/semitic/names/A_RI_SU\|A-RI-SU]] | ḥārišu: the craftsman, artisan (title) | Semitic title | [[wiki/names/semitic/roots/hh-r-sh\|ḥ-r-š]] | CANDIDATE | 1 |
 | [[wiki/names/hurrian/names/A_RO_TE\|A-RO-TE]] | Ḫaluti: Ḫaluti (woman's name, seal owner) | Hurrian personal name |  | SPECULATIVE | 1 |
 | [[wiki/names/hurrian/names/A_RU\|A-RU]] | Ḫaru: Ḫaru (Hurrian personal name) | Hurrian personal name |  | SPECULATIVE | 2 |
@@ -181,6 +182,7 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/hurrian/names/KA_U_ZU_NI\|KA-U-ZU-NI]] | Kawṯuni: Kawṯuni (Hurrian personal name Kaw-šuni) | Hurrian personal name |  | SPECULATIVE | 1 |
 | [[wiki/names/semitic/names/KE_KI_RU\|KE-KI-RU]] | Kikkaru: personal name, 'Disk, Round loaf' | Semitic personal name | [[wiki/names/semitic/roots/k-k-r\|k-k-r]] | SPECULATIVE | 1 |
 | [[wiki/names/semitic/names/KI_DA_RO\|KI-DA-RO]] | Qidaru: personal name, 'Dark' (√ḳ-d-r 'be dark'; cf. Hebrew Qēdār) | Semitic personal name | [[wiki/names/semitic/roots/q-d-r\|ḳ-d-r]] | PROBABLE | 1 |
+| [[wiki/names/aegean/names/KI_DA_TA\|KI-DA-TA]] | Kidata: a party receiving grain (name or place) | Aegean personal name | [[wiki/names/aegean/roots/kidata\|Kidata]] | SPECULATIVE | 1 |
 | [[wiki/names/semitic/names/KI_DI_NI\|KI-DI-NI]] | Kidinni: personal name, 'protection (of the god)' (Akk. kidinnu) | Semitic personal name | [[wiki/names/semitic/roots/k-d-n\|k-d-n]] | SPECULATIVE | 1 |
 | [[wiki/names/semitic/names/KI_KI_NA\|KI-KI-NA]] | Kikkina: Kikkina, recipient or named administrative entity | Semitic personal name | [[wiki/names/semitic/roots/kikkina\|Kikkina]] | CANDIDATE | 1 |
 | [[wiki/names/semitic/names/KI_KI_RA_JA\|KI-KI-RA-JA]] | kikkarāya: (men) of the Kikkar, 'round district' (gentilic heading of a head-count roster) | Semitic gentilic | [[wiki/names/semitic/roots/k-k-r\|k-k-r]] | SPECULATIVE | 1 |
@@ -243,7 +245,7 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/semitic/names/PA3_NI_NA\|PA₃-NI-NA]] | banīna: our builder | Semitic title | [[wiki/names/semitic/roots/b-n-y\|b-n-y]] | PROBABLE | 2 |
 | [[wiki/names/semitic/names/PA3_NI_WI\|PA₃-NI-WI]] | bānīy: the builder (nisba/gentilic) | Semitic title | [[wiki/names/semitic/roots/b-n-y\|b-n-y]] | CANDIDATE | 1 |
 | [[wiki/names/semitic/names/PA_DE\|PA-DE]] | Padī: personal name 'redeemer' (p-d-y); recipient of wine | Semitic personal name | [[wiki/names/semitic/roots/p-d-y\|p-d-y]] | SPECULATIVE | 3 |
-| [[wiki/names/semitic/names/PA_I_TO\|PA-I-TO]] | Paito: Phaistos (place name) | Semitic place name | [[wiki/names/semitic/roots/root\|Φαιστός]] | CONFIRMED | 2 |
+| [[wiki/names/aegean/names/PA_I_TO\|PA-I-TO]] | Paito: Phaistos (place name) | Aegean place name | [[wiki/names/aegean/roots/root\|Φαιστός]] | CONFIRMED | 2 |
 | [[wiki/names/egyptian/names/PA_JA\|PA-JA]] | Pay: personal name; Egyptian pꜣ.jj, the first element of PA-JA-RE | Egyptian personal name |  | SPECULATIVE | 1 |
 | [[wiki/names/egyptian/names/PA_JA_RE\|PA-JA-RE]] | Payare: He (of) Re: Egyptian personal name Pꜣ-Rꜥ (Gordon's Pꜣy-Rꜥ); Linear B pa-ja-ro | Egyptian personal name |  | PROBABLE | 4 |
 | [[wiki/names/semitic/names/PA_NA_TU\|PA-NA-TU]] | banātu / panātu / (Ku)bānatu: daughters (fem. pl.) | Semitic title | [[wiki/names/semitic/roots/b-n-t\|b-n-t]] | CANDIDATE | 1 |
@@ -277,6 +279,7 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/semitic/names/QE_KA\|QE-KA]] | Qēqa: personal name | Semitic personal name |  | SPECULATIVE | 2 |
 | [[wiki/names/semitic/names/QE_PU\|QE-PU]] | qēpu: official, commissioner (title) | Semitic title | [[wiki/names/semitic/roots/q-y-p\|q-y-p]] | SPECULATIVE | 2 |
 | [[wiki/names/semitic/names/QE_SU_PU\|QE-SU-PU]] | qaššāpu: sorcerer, diviner (occupational title or PN) | Semitic title | [[wiki/names/semitic/roots/q-sh-p\|q-š-p]] | CANDIDATE | 1 |
+| [[wiki/names/semitic/names/RA\|RA]] | rabbat: the Lady: rabbat written by its first sign | Semitic title | [[wiki/names/semitic/roots/rabb-great\|\*rabb- 'great']] | SPECULATIVE | 1 |
 | [[wiki/names/semitic/names/RA2_RO_RE\|RA₂-RO-RE]] | Lallor: personal name, 'Mourner' (Akk. lallaru) | Semitic personal name | [[wiki/names/semitic/roots/l-l-r\|l-l-r]] | SPECULATIVE | 1 |
 | [[wiki/names/semitic/names/RA_NA_TU_SU\|RA-NA-TU-SU]] | Rannatušu: personal name, 'his shout of joy' | Semitic personal name | [[wiki/names/semitic/roots/r-n-n\|r-n-n]] | SPECULATIVE | 1 |
 | [[wiki/names/semitic/names/RA_O_DI_KI\|RA-O-DI-KI]] | rāʿû diqqi: herdsman of the small cattle (title, over a flock of 60) | Semitic title | [[wiki/names/semitic/roots/r-ayin-y\|r-ʿ-y]] + [[wiki/names/semitic/roots/d-q-q\|d-q-q]] | SPECULATIVE | 1 |
@@ -394,7 +397,6 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/semitic/names/star306_TU\|\*306-TU]] | ʿAttu: personal name (cf. Hebrew ʿAttay) | Semitic personal name | [[wiki/names/semitic/roots/ayin-t-w\|ʿ-t-w]] | CANDIDATE | 4 |
 | [[wiki/names/semitic/names/star306_TU_JA\|\*306-TU-JA]] | ʿAttuya: personal name, ʿAttu with -ya (Hebrew ʿĂtāyāh) | Semitic personal name | [[wiki/names/semitic/roots/ayin-t-w\|ʿ-t-w]] | SPECULATIVE | 1 |
 | [[wiki/names/semitic/names/star306_plus_MI\|\*306+MI]] | ʿAmmī: personal name: 'my kinsman / my (paternal) uncle' | Semitic personal name | [[wiki/names/semitic/roots/ayin-m-m\|ʿ-m-m]] | SPECULATIVE | 1 |
-| [[wiki/names/unread/names/star318_star306\|\*318-\*306]] | no reading | Unread personal name |  |  | 1 |
 | [[wiki/names/semitic/names/star324_DI_RA\|\*324-DI-RA]] | ṯadira: waitress, serving-girl (title) | Semitic title | [[wiki/names/semitic/roots/th-d-r\|ṯ-d-r]] | SPECULATIVE | 3 |
 | [[wiki/names/semitic/names/star333_DI_NA_SU_KA\|\*333-DI-NA-SU-KA]] | bīdi Našūka: In the charge of Našūka ('the Bitten one')—custody formula + personal name on a sealed receipt | Semitic personal name | [[wiki/names/semitic/roots/b-y-d\|b-y-d]] + [[wiki/names/semitic/roots/n-sh-k\|n-š-k]] | SPECULATIVE | 1 |
 | [[wiki/names/semitic/names/star333_DI_SU_KA\|\*333-DI-SU-KA]] | bīdi Sūka: In the charge of Sūka—custody formula + personal name on a sealed receipt | Semitic personal name | [[wiki/names/semitic/roots/b-y-d\|b-y-d]] | SPECULATIVE | 1 |

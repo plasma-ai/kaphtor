@@ -34,7 +34,7 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/semitic/names/MA_DI\|MA-DI]] | Maʾdi | place name: a unit of men and livestock in the HT rosters | [[wiki/names/semitic/_index\|Semitic]] | 6 |
 | [[wiki/names/aegean/names/MA_RI\|MA-RI]] | Mari | Mari (place name; Linear B ma-ri) | [[wiki/names/aegean/_index\|Aegean]] | 1 |
 | [[wiki/names/semitic/names/NA_TI\|NA-TI]] | naṭʿ | the Plantation (place name) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
-| [[wiki/names/semitic/names/PA_I_TO\|PA-I-TO]] | Paito | Phaistos (place name) | [[wiki/names/semitic/_index\|Semitic]] | 2 |
+| [[wiki/names/aegean/names/PA_I_TO\|PA-I-TO]] | Paito | Phaistos (place name) | [[wiki/names/aegean/_index\|Aegean]] | 2 |
 | [[wiki/names/semitic/names/PI_TA_KA_SE\|PI-TA-KA-SE]] | Bīt-kissē | House of the Throne, the crown estate (institution heading) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/aegean/names/RI_KA_TA\|RI-KA-TA]] | Likata | Lyktos (place name); compare Egyptian Ri-ka-ta | [[wiki/names/aegean/_index\|Aegean]] | 1 |
 | [[wiki/names/semitic/names/RU_MA\|RU-MA]] | Rūma | Height (toponym), the bare form of RU-MA-TA rūmatā | [[wiki/names/semitic/_index\|Semitic]] | 1 |

@@ -33,7 +33,7 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | Kubariya |
 | Meaning | Kubariya, a town of Ugarit, (wool) of Kubariya: a section heading |
-| Root | Kubariya (Pre-Greek) |
+| Root | Kubariya |
 | Language layer | Semitic |
 | Tags | administrative, hapax, loanword, toponym, toponym_foreign |
 | Semantic field | toponym |

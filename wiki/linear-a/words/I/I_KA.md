@@ -60,7 +60,7 @@ di Mino; CAD I/J; HALOT; Uchitel 2016b
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT91\|HT91]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT102\|HT102]] | Haghia Triada | Tablet | complete |
+| [[wiki/linear-a/inscriptions/HT/HT/HT102\|HT102]] | Haghia Triada | Tablet | incomplete |
 
 ## In translations
 

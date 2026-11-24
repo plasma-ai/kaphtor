@@ -103,7 +103,7 @@
         },
         {
           "entry": "*34=QI",
-          "evidence": "qi reads *34-TI-RI qiṭrī, PI-*34-TE piqitti and U-*34-SI u-qīš; ai reads only PI-*34-TE bayte, ʿi only *34-TI-RI ʿiṭrī; AB21 QI never stands inside a word. Against: U-*34-SI and PI-*34-TE share their slots with U-MI-NA-SI and ]PI-MI-NA-TE, though *34 is no MI+NA monogram"
+          "evidence": "qi reads *34-TI-RI qiṭrī, PI-*34-TE piqitti and U-*34-SI u-qīš; ai reads only PI-*34-TE bayte, ʿi only *34-TI-RI ʿiṭrī; AB 21 stands inside a word only in its female form, *21F, read here as an H-sign. Against: U-*34-SI and PI-*34-TE share their slots with U-MI-NA-SI and ]PI-MI-NA-TE, though *34 is no MI+NA monogram"
         },
         {
           "entry": "*28B=JI",
@@ -2519,7 +2519,7 @@
       "alternates": [
         {
           "consonant": "ḥ",
-          "vowel": "a",
+          "vowel": "i",
           "evidence": [
             "Second value of the same sign, not a rival: *21F-*118 ḥiṭṭa 'wheat' (KH 88, ZA 5a)"
           ]
@@ -2534,13 +2534,13 @@
       ],
       "neutralization_class": null,
       "confirmed_by": [
-        "TU-*21F-RI-NA = ṭuhārīna \"the pure ones\" (√ṭ-h-r)—unique to /h/, no other C fits ṭ-X-r",
-        "*21F-TU-NE = ḥātān \"bridegroom\" (HT 7b, 87, 117b)",
+        "TU-*21F-RI-NA = ṭuhārīna \"the pure ones\" (√ṭ-h-r): of the gutturals only h gives a recipient",
+        "*21F-TU-NE = ḫatun \"bridegroom, son-in-law\" (HT 7b, 87, 117b), √ḫ-t-n",
         "JA-*21F = Yāh, beside PU-RA₂ on HT 28b",
-        "*21F-*118 = ḥṭt \"wheat\" (KH 88 before figs; ZA 5a with wine), if *118 = ṭa",
+        "*21F-*118 = ḥiṭṭa \"wheat\" (KH 88 before figs; ZA 5a with wine), if *118 = ṭa",
         "A-SE-TU-*21F = Aštuḫḫa \"Female\" (PH 2), Hurrian ḫ: Nuzi ᶠAš-du-uḫ-ḫa-a-a (NPN 37)"
       ],
-      "note": "An optional H-sign covering h, ḥ and ḫ, as cuneiform's Ḫ-series writes West Semitic ḥ and ḫ alike. H is ordinarily unwritten, as in Linear B, where a₂ (ha) is optional: pa-we-a 88 times, pa-we-a₂ 9. Linear B keeps *21 as the syllable qi and as the sheep ideograms. Salgarella suggests that the qi of Minoan-looking men's names, drawn with three strokes in a-qi-ru (KN Ce 50.1a) and qi-ta-ro (KN Dk(1) 936), and with two in a-qi-ro (KN Da 1123), the same name adapted to Greek, may be a remnant of the female sign's syllabic use in Linear A (Salgarella 2020, 214, 244, 265–66, 279). Standing alone with a numeral, *21F is the logogram OVISf (ewe): HT 132, ZA 9, ZA 26a. No word is yet attested both with and without *21F. Rival: qi, the Linear B value, as Davis transcribes the sign inside words: qi-*118 (KH 88, ZA 5, ZA 14), here *21F-*118, and qi-ja-du[ (HT 84), which he sets beside the Linear B man's name qi-ja-to (KN Db 1140.B) and Βίαθθος, a man at Polyrrhenia, an example he calls rather weak (Davis 2026b, 77 n. 282, 117 and n. 445, 155, the Greek after Hitchman 2006, 83).",
+      "note": "An optional H-sign covering h, ḥ and ḫ, as cuneiform's Ḫ-series writes West Semitic ḥ and ḫ alike. Its vowel follows the word: ḥi in *21F-*118 ḥiṭṭa, as Egyptian group writing spells that word with an a-sign (Hoch 1994, 85, no. 104), and none in NA-*21F-NE-MI-NA naḫnemina. H is ordinarily unwritten, as in Linear B, where a₂ (ha) is optional: pa-we-a 33 times, pa-we-a₂ 5. Linear B keeps *21 as the syllable qi and as the sheep ideograms. Salgarella suggests that the qi of Minoan-looking men's names, drawn with three strokes in a-qi-ru (KN Ce 50.1a) and qi-ta-ro (KN Dk(1) 936), and with two in a-qi-ro (KN Da 1123), the same name adapted to Greek, may be a remnant of the female sign's syllabic use in Linear A (Salgarella 2020, 214, 244, 265–66, 279). Standing alone with a numeral, *21F is the logogram OVISf (ewe): HT 132, ZA 9, ZA 26a. No word is yet attested both with and without *21F. Scribes appear to have begun writing it inside words in Late Minoan I. Every dated document that does so belongs to that period, at Haghia Triada, Khania, Zakros and Arkhanes. PH 2, from Phaistos, is of unknown context and carries no date. Rival: qi, the Linear B value, as Davis transcribes the sign inside words: qi-*118 (KH 88, ZA 5, ZA 14), here *21F-*118, and qi-ja-du[ (HT 84), which he sets beside the Linear B man's name qi-ja-to (KN Db 1140.B) and Βίαθθος, a man at Polyrrhenia, an example he calls rather weak (Davis 2026b, 77 n. 282, 117 and n. 445, 155, the Greek after Hitchman 2006, 83).",
       "linear_b": {
         "sign_number": "B 21",
         "value": "qi",
@@ -2867,7 +2867,7 @@
         "PI-*34-TE = piqitti 'provisions' (HT116a; CAD P 388)",
         "U-*34-SI = u-qīš 'and the gift' (HT140 ×2, HT15; √q-y-š, #3843; CAD Q 156)"
       ],
-      "note": "CANDIDATE (0.60). Seven tokens on six documents, one shape: an open bow, sometimes with a bar or dot inside; not a monogram of MI+NA. qi reads *34-TI-RI qiṭrī, PI-*34-TE piqitti and U-*34-SI, the heading of both oil sections of HT 140 and of the grain account HT 15, √q-y-š 'give as a gift' (Akk. qāšu, CAD Q 156; Amorite QJŠ, Gelb AS 21, 29). ai reads only PI-*34-TE bayte; ʿi only *34-TI-RI ʿiṭrī. *34-JU-TE-MI[ (ZA 6a) is broken. AB21 QI never stands inside a word. In Linear B, Melena reads it /ˈai/ with a glottal onset (Untransliterated Syllabograms, 21–22), Bibee and Wilson-Wright 2017 a laryngeal before i (Aegean Scripts II, 713–18), the reflex a uvular q would leave in Greek. Against: no spelling variant checks qi.",
+      "note": "CANDIDATE (0.60). Seven tokens on six documents, one shape: an open bow, sometimes with a bar or dot inside; not a monogram of MI+NA. qi reads *34-TI-RI qiṭrī, PI-*34-TE piqitti and U-*34-SI, the heading of both oil sections of HT 140 and of the grain account HT 15, √q-y-š 'give as a gift' (Akk. qāšu, CAD Q 156; Amorite QJŠ, Gelb AS 21, 29). ai reads only PI-*34-TE bayte; ʿi only *34-TI-RI ʿiṭrī. *34-JU-TE-MI[ (ZA 6a) is broken. AB 21 stands inside a word only in its female form, *21F, read here as an H-sign. In Linear B, Melena reads it /ˈai/ with a glottal onset (Untransliterated Syllabograms, 21–22), Bibee and Wilson-Wright 2017 a laryngeal before i (Aegean Scripts II, 713–18), the reflex a uvular q would leave in Greek. Against: no spelling variant checks qi.",
       "linear_b": {
         "sign_number": "B 34",
         "value": null,
@@ -3376,7 +3376,7 @@
       "gloss": "ram",
       "standalone_count": "multiple",
       "embedded_count": 0,
-      "note": "Male sheep logogram. Part of gendered livestock pair (*21F=ewe/OVISf, *21M=ram/OVISm). WARNING: *21F in the 'signs' section is the /ha/ syllabogram—different physical sign, AB number collision.",
+      "note": "Male sheep logogram. Part of gendered livestock pair (*21F=ewe/OVISf, *21M=ram/OVISm). The female form, *21F, is the one sign of the three also written inside words, with three upright strokes (Salgarella 2020, 214); its syllabic value is recorded under signs.",
       "sites": [
         "Haghia Triada",
         "Knossos"

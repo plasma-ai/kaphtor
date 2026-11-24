@@ -60,7 +60,13 @@ di Mino; HALOT; CAD L; DULAT; GlOS 2; DNWSI; Lane
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3006\|HTWc3006]] | Haghia Triada | Roundel | none |
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3006\|HTWc3006]] | Haghia Triada | Roundel | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3006\|HTWc3006]] | Raḥal | Raḥal (personal name, 'Ewe') | SPECULATIVE |
 
 ## Onomasticon
 

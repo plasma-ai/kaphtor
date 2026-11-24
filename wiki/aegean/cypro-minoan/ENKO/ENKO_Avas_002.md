@@ -35,6 +35,20 @@ updated: 2026-11-18T19:49:10Z
 
 Not checked against HoChyMin, which is not held.
 
+## Translation
+
+
+
+di Mino's reading, CANDIDATE, incomplete; 3 words.
+
+| Line | Page | Group | Values | Reading | Gloss | Tier | Rivals | Note |
+|---|---|---|---|---|---|---|---|---|
+|  | 482 | 087-015-082 | la-ko-sa | la-ko-sa |  | CANDIDATE, emended text |  | Reads la-ko-sa with newly ruled 015 = ko (grapheme 21/15). |
+|  | 482 | 102-073-004-097 | a-mo-ta-ro | a-mo-ta-ro |  | CANDIDATE, emended text |  | Bare stem a-mo-ta-ro, recurring on ENKO Abou 015, 045 and taking -ti in KITI Ipla 001.v a-mo-ta-ro-ti. |
+|  | 482 | *not reproduced* |  |  |  | unresolved, SPECULATIVE, emended text |  | Contains one or more signs without a ruled grid value. No reading. |
+
+Enkomi clay vessel preserving bare stem a-mo-ta-ro (counterpart to KITI Ipla 001.v a-mo-ta-ro-ti) alongside la-ko-sa and \[107\]-ro.
+
 ## Metadata
 
 ### Editions
@@ -65,6 +79,6 @@ Not checked against HoChyMin, which is not held.
 
 No held source states its identity, museum number, dimensions, document form, hand, visual evidence.
 
-No transcription is reproduced here: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
+No transcription is reproduced here beyond the sign groups of the words read: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
 
 <!-- END kaphtor:record -->

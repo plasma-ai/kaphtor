@@ -5,7 +5,7 @@ desc: "rabbat: the Lady: rabbat written by its first sign. Lexicon, SPECULATIVE 
 tags: ["linear-a", "word", "tier-1", "abbreviation", "epithet", "title"]
 kind: "word"
 form: "RA"
-datasets: ["lexicon"]
+datasets: ["lexicon", "onomasticon"]
 attestations: ["KH47"]
 tier: 1
 confidence: "SPECULATIVE"
@@ -70,5 +70,21 @@ di Mino; DULAT; Krahmalkov
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/KH/KH/KH47\|KH47]] | rabbat | the Lady: rabbat written by its first sign | SPECULATIVE |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA9\|ZA9]] |  | broken word, \]-RA; QI+SI 5 |  |
+
+## Onomasticon
+
+| Field | Value |
+|---|---|
+| Type | title (SPECULATIVE) |
+| Affiliation | semitic (SPECULATIVE) |
+| Evidence | lexicon_reading |
+| Entry | manual |
+| Occurrences | 1 in 1 documents |
+| Sites | Khania |
+| Supports | Tablet 1 |
+
+### Note
+
+KH 47 .3 RA · \*306\[, whole at the preserved left edge (GORILA III 72–73), after QA-NE 6 and SI.
 
 <!-- END kaphtor:record -->

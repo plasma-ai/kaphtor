@@ -33,7 +33,7 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | Kariru |
 | Meaning | Kariru (personal name, Nuzi Qa-ri-ru, Ka-ri-ru) |
-| Root | Kariru (Pre-Greek) |
+| Root | Kariru |
 | Language layer | Semitic |
 | Tags | hapax, loanword, personal_name |
 | Semantic field | personal_name |

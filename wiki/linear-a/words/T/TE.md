@@ -69,7 +69,7 @@ di Mino; Montecchi 2010; Schoep 2002; HALOT; DULAT; Pierini 2022
 | [[wiki/linear-a/inscriptions/HT/HT/HT17\|HT17]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT19\|HT19]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT21\|HT21]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT40\|HT40]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT40\|HT40]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT42_plus_59\|HT42+59]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT51a\|HT51a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT52a\|HT52a]] | Haghia Triada | Tablet | none |
@@ -129,6 +129,7 @@ di Mino; Montecchi 2010; Schoep 2002; HALOT; DULAT; Pierini 2022
 | [[wiki/linear-a/inscriptions/HT/HT/HT17\|HT17]] | terûmā | offering, contribution | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT19\|HT19]] | terûmā | offering, contribution | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT21\|HT21]] | terûmā | contribution, offering (terûmā), a transaction marker | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT40\|HT40]] | terûmā | contribution, offering | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT42_plus_59\|HT42+59]] | terûmā | offering, contribution | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT51a\|HT51a]] |  | transaction sign | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT62_plus_73\|HT62+73]] | terûmā | contribution, offering (terûmā), a transaction marker | CANDIDATE |

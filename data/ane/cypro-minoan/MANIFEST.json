@@ -17,9 +17,9 @@
     "corpus_sha256": "bba272210dbfc193451389783e0c6a0d6d9f0a01d3214cd6136f673e0b0dd4c8",
     "manifest_sha256": "87e9cccc678227082c087f48f193b9a0edc8f4957b7d9b9dfa505643af7bf561",
     "translations_description": "di Mino's Cypro-Minoan translations layer and the values its readings take",
-    "translations_sha256": "8392d8ffeb62884848025ca2cb09b01907bee51b8201da126e743420abcb1b20",
-    "sign_values_sha256": "a328be7e3f774076fea3e0d55c3ea83d13c174e83fa02661446d59ff12c009f5",
-    "translations_manifest_sha256": "d23ca81159237c7daa36e26a81f112ca8279f38468797aedc4888331afd93643"
+    "translations_sha256": "6710ec5b66bad94318db06e23454b87bd5e4ad52888547ca7be8ca4a1e63ded5",
+    "sign_values_sha256": "37fb7eafa2c2bc34175bd64798286265b1d54f886191f15176751da5166e2032",
+    "translations_manifest_sha256": "34a450d480d23851661ad72fd102baf84f00d2e46f311d73f8263c086015e074"
   },
   "works": {
     "Astour 1995": "Astour, Michael C., La topographie du royaume d'Ougarit, in Yon, Marguerite; Sznycer, Maurice; Bordreuil, Pierre (eds.), Le pays d'Ougarit autour de 1200 av. J.-C.: Histoire et archéologie. Actes du Colloque International, Paris, 28 juin–1er juillet 1993, Éditions Recherche sur les Civilisations, Paris (Ras Shamra-Ougarit XI), 1995, 55–71",
@@ -35,10 +35,12 @@
     "Faucounau 1980": "Faucounau, Jean, Études chypro-minoennes, Syria 57, fasc. 2-4, pp. 375-410, 1980, doi:10.3406/syria.1980.6701",
     "Kinlaw 1967": "Kinlaw, Dennis F., A Study of the Personal Names in the Akkadian Texts from Ugarit, Brandeis University, Department of Mediterranean Studies (Ph.D. dissertation), 1967",
     "McAffee 2019": "McAffee, Matthew, Life and Mortality in Ugaritic: A Lexical and Literary Study, Explorations in Ancient Near Eastern Civilizations 7, Eisenbrauns, 2019",
+    "Monti 2017": "Monti, Luciano Esteban, A Systematic Approach to the Hurrian Pantheon: The Onomastic Evidence, PhD dissertation, Università degli Studi di Udine (XXVIII cycle), 2017",
     "O. Masson 1969": "Masson, Olivier, Documents chypro-minoens de Ras Shamra III. La tablette RS 20.25 de 1956, in Schaeffer, Claude F. A. (ed.), Ugaritica VI: publié à l'occasion de la XXXe campagne de fouilles à Ras Shamra (1968), Mission archéologique de Ras Shamra, Collège de France; Librairie orientaliste Paul Geuthner, Paris (Mission de Ras Shamra XVII; Bibliothèque archéologique et historique LXXXI), 1969, 379–392",
     "Palaima 1989a": "Palaima, Thomas G., Cypro-Minoan Scripts: Problems of Historical Context, in Duhoux, Y.; Palaima, T. G.; Bennet, J. (eds.), Problems in Decipherment, Bibliothèque des Cahiers de l'Institut de Linguistique de Louvain 49, 1989, 121–187",
     "Perna 2020": "Perna, Massimo, A proposito del corpus delle scritture cipro-minoiche. Vecchi documenti e nuove letture, Cahiers du Centre d'Études Chypriotes 50, 2020, 79–90, doi:10.4000/cchyp.479",
     "Perna 2024": "Perna, Massimo, Rapporto sulla preparazione del corpus della scrittura cipro-minoica, in Bennet, J.; Karnava, A.; Meißner, T. (eds.), KO-RO-NO-WE-SA: Proceedings of the 15th International Colloquium on Mycenaean Studies, September 2021, Ariadne Supplement Series 5, The Faculty of Philosophy of the University of Crete, 2024, 137–142",
+    "Schaeffer et al. 1968": "Nougayrol, Jean; Laroche, Emmanuel; Virolleaud, Charles; Schaeffer, Claude F. A., Ugaritica V: Nouveaux textes accadiens, hourrites et ugaritiques des archives et bibliothèques privées d'Ugarit; commentaires des textes historiques (première partie), Imprimerie Nationale; Librairie orientaliste Paul Geuthner, Paris (Mission de Ras Shamra XVI; Bibliothèque archéologique et historique LXXX), 1968",
     "Steele (ed.) 2013": "Steele, Philippa M. (ed.), Syllabic Writing on Cyprus and its Context, Cambridge Classical Studies, Cambridge University Press, 2013",
     "Steele 2013": "Steele, Philippa M., A Linguistic History of Ancient Cyprus: The Non-Greek Languages, and their Relations with Greek, c. 1600–300 BC, Cambridge Classical Studies, Cambridge University Press, 2013",
     "Steele 2018": "Steele, Philippa M., Writing and Society in Ancient Cyprus, Cambridge Classical Studies, Cambridge University Press, 2018, doi:10.1017/9781316729977",
@@ -103,11 +105,11 @@
     }
   },
   "translations": {
-    "texts": 1,
+    "texts": 88,
     "complete": 0,
-    "incomplete": 1,
-    "words": 50,
-    "sign_values": 35
+    "incomplete": 88,
+    "words": 584,
+    "sign_values": 72
   },
   "files": {
     "catalogue.json": {
@@ -115,8 +117,8 @@
       "bytes": 989616
     },
     "translations.json": {
-      "sha256": "f526bfa68d78e5e589d59cb3b5de2f74d36db31ed93497a7255d86350f6e88c8",
-      "bytes": 51139
+      "sha256": "e0fb0c96b981e382e50af963df5b60eeabd3acb8be255d1c890e8de210be76e3",
+      "bytes": 335388
     }
   }
 }

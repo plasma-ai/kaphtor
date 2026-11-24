@@ -75,6 +75,7 @@ di Mino; Ilin-Tomich 2025 (PNM v6); Prosopographia Memphitica; Allen 2014; Peust
 | Occurrences | 1 in 1 documents |
 | Sites | Zakros |
 | Supports | Tablet 1 |
+| Contact reference | pnm:142613640 |
 
 ### Note
 

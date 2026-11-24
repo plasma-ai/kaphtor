@@ -78,6 +78,7 @@ di Mino; Pagan 1998; FM V
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |
+| Contact reference | oracc-qpn:aa9a8288b88c77c19c2a |
 
 ### Note
 

@@ -68,7 +68,7 @@ di Mino; Kamm 1963; Uchitel 2016b
 | [[wiki/linear-a/inscriptions/HT/HT/HT30\|HT30]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT35\|HT35]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT89\|HT89]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT94a\|HT94a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT94a\|HT94a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT99a\|HT99a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1021bis\|HTWa1021bis]] | Haghia Triada | Nodule | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HTWb/HTWb229\|HTWb229]] | Haghia Triada | Sealing | none; form not in transliteration |
@@ -123,6 +123,8 @@ di Mino; Kamm 1963; Uchitel 2016b
 | [[wiki/linear-a/inscriptions/HT/HT/HT27a\|HT27a]] |  | cyperus | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT30\|HT30]] |  | cyperus, aromatic sedge (commodity logogram) | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT35\|HT35]] |  | cyperus, aromatic sedge (commodity logogram) | PROBABLE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT94a\|HT94a]] | \[ideogram\] | cyperus, aromatic sedge | PROBABLE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT94a\|HT94a]] | \[ideogram\] | cyperus, aromatic sedge (double mina) | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT99a\|HT99a]] | \[ideogram\] | cyperus, aromatic sedge |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT100\|HT100]] | \[ideogram\] | cyperus, aromatic sedge |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT106\|HT106]] | CYP | cyperus (commodity logogram) |  |

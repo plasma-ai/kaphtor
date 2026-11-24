@@ -86,7 +86,7 @@ LB_ANCHORS: list[tuple[str, str]] = [
     ("SI-TO", "WHEAT"),
 ]
 
-# Linear A pre-linguistic anchors (same 8 standalone anchors as Kernel D)
+# Linear A pre-linguistic anchors (6 shared with Kernel D plus PO-TO-KU-RO and KA-PA under finer BOWL/JAR/WHEAT concepts)
 LA_ANCHORS: list[tuple[str, str]] = [
     ("KU-RO", "TOTAL"),
     ("KI-RO", "DEFICIT"),

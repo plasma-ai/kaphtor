@@ -35,6 +35,18 @@ updated: 2026-11-18T19:49:10Z
 
 Not checked against HoChyMin, which is not held.
 
+## Translation
+
+
+
+di Mino's reading, CANDIDATE, incomplete; 1 words.
+
+| Line | Page | Group | Values | Reading | Gloss | Tier | Rivals | Note |
+|---|---|---|---|---|---|---|---|---|
+|  | 463 | 102-006-067-091-072 | a-pa-ni-mi-ja | a-pa-ni-mi-ja |  | CANDIDATE |  | Five-syllable form a-pa-ni-mi-ja using CM 1 allograph 067 = ni (grapheme 65/67/99/100) and -i-ja glide. |
+
+Single-word five-syllable Enkomi clay ball a-pa-ni-mi-ja, read in full with CM 1 allograph 067 = ni.
+
 ## Metadata
 
 ### Editions
@@ -71,6 +83,6 @@ Not checked against HoChyMin, which is not held.
 
 No held source states its identity, museum number, object, hand, visual evidence.
 
-No transcription is reproduced here: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
+No transcription is reproduced here beyond the sign groups of the words read: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
 
 <!-- END kaphtor:record -->

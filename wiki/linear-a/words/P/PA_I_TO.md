@@ -34,7 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Paito |
 | Meaning | Phaistos (place name) |
 | Root | Φαιστός (Pre-Greek, suffix -ιστ-; Beekes 2014, 39, 164) |
-| Language layer | Semitic |
+| Language layer | Aegean |
 | Tags | loanword, toponym |
 | Semantic field | toponym |
 
@@ -77,7 +77,7 @@ di Mino; Gordon 1966; DMic II; Cline and Stannish 2011; Beekes 2014; Schoep 1999
 | Field | Value |
 |---|---|
 | Type | toponym (CONFIRMED) |
-| Affiliation | semitic (CONFIRMED) |
+| Affiliation | aegean (CONFIRMED) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 2 in 2 documents |

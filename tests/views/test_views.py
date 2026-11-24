@@ -1232,6 +1232,24 @@ def test_a_translated_cypro_minoan_page_holds_its_reading_word_by_word(data):
     assert "## Translation" not in plain and "beyond the sign groups" not in plain
 
 
+def test_a_single_line_cypro_minoan_translation_renders_blank_line_cell(data):
+    single = {
+        "translations": {
+            "KITI Avas 001": {
+                **CM_TRANSLATIONS["translations"]["KITI Avas 001"],
+                "words": [{**CM_TRANSLATIONS["translations"]["KITI Avas 001"]["words"][0], "line": None}],
+            }
+        },
+        "sign_values": CM_TRANSLATIONS["sign_values"],
+    }
+    cypro_minoan_data(data)
+    (data.parent / "ane" / "cypro-minoan" / "translations.json").write_text(
+        json.dumps(single, ensure_ascii=False), encoding="utf-8")
+    text = views("aegean").pages(data)["wiki/aegean/cypro-minoan/KITI/KITI_Avas_001"]
+    assert "|  | 547 | 021-082-075-051 |" in text
+    assert "None" not in text
+
+
 def test_the_translated_index_lists_each_text_read_only_with_the_file(data):
     pages = views("aegean").pages(cypro_minoan_translated(data))
     index = pages["wiki/aegean/cypro-minoan/translated"]

@@ -33,7 +33,7 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | Kuṯinu |
 | Meaning | personal name, as Ugaritic Kušinu (kṯn) |
-| Root | Kuṯinu (Pre-Greek) |
+| Root | Kuṯinu |
 | Language layer | Semitic |
 | Tags | loanword, personal_name |
 | Semantic field | personal_name |

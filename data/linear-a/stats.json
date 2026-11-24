@@ -15,8 +15,8 @@
     }
   },
   "translations": {
-    "complete": 531,
-    "incomplete": 119
+    "complete": 530,
+    "incomplete": 125
   },
   "sign_values": {
     "total": 42,
@@ -24,6 +24,6 @@
     "phonemic": 18,
     "logographic": 24
   },
-  "names": 382,
+  "names": 384,
   "semitic_roots": 5189
 }

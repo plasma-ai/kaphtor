@@ -37,6 +37,18 @@ Not checked against HoChyMin, which is not held.
 
 Siglum: Appendix A prints CYPR? Psce 003 (501), as do the discussions (418, 570, 590). Valério's lists of sigla (21, 22) and Appendix C (648) print CYPR Psce 003. Donnelly 2024 gives CYPR? Psce 001 (68). (Valério 2016, 501; Valério 2016, 21; Valério 2016, 648; Donnelly 2024, 68)
 
+## Translation
+
+
+
+di Mino's reading, CANDIDATE, incomplete; 1 words.
+
+| Line | Page | Group | Values | Reading | Gloss | Tier | Rivals | Note |
+|---|---|---|---|---|---|---|---|---|
+|  | 501 | 102-004 | a-ta | a-ta |  | CANDIDATE |  | Phonetic reading on the ruled grid (corpus text). |
+
+Short CM 1 inscription read in full on the ruled grid (a-ta).
+
 ## Metadata
 
 ### Editions
@@ -79,6 +91,6 @@ Siglum: Appendix A prints CYPR? Psce 003 (501), as do the discussions (418, 570,
 
 No held source states its identity, museum number, findspot, hand.
 
-No transcription is reproduced here: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
+No transcription is reproduced here beyond the sign groups of the words read: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
 
 <!-- END kaphtor:record -->

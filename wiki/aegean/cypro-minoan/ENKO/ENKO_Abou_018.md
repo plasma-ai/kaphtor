@@ -35,6 +35,19 @@ updated: 2026-11-18T19:49:10Z
 
 Not checked against HoChyMin, which is not held.
 
+## Translation
+
+
+
+di Mino's reading, CANDIDATE, incomplete; 2 words.
+
+| Line | Page | Group | Values | Reading | Gloss | Tier | Rivals | Note |
+|---|---|---|---|---|---|---|---|---|
+|  | 456 | 110-039-097 | ku-mu-ro | ku-mu-ro |  | CANDIDATE |  | Phonetic reading on the ruled grid (corpus text). |
+|  | 456 | 006-073-110-027-005 | pa-mo-ku-si-lo | pa-mo-ku-si-lo |  | CANDIDATE |  | Phonetic reading on the ruled grid (corpus text). |
+
+Complete two-word clay ball ku-mu-ro \| pa-mo-ku-si-lo unlocked by 110=ku; ku-mu- shares stem with ENKO Atab 003 ku-mu-ko.
+
 ## Metadata
 
 ### Editions
@@ -78,6 +91,6 @@ Not checked against HoChyMin, which is not held.
 
 No held source states its identity, museum number, object, hand.
 
-No transcription is reproduced here: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
+No transcription is reproduced here beyond the sign groups of the words read: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
 
 <!-- END kaphtor:record -->

@@ -49,7 +49,7 @@ Unicode (Linear A block):
 
 ## Translation
 
-**PROBABLE**, complete (status: partial).
+**PROBABLE**, complete (status: fragmentary).
 
 > Sacred song—\[?\]
 

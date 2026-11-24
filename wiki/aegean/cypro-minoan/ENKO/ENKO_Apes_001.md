@@ -35,6 +35,19 @@ updated: 2026-11-18T19:49:10Z
 
 Not checked against HoChyMin, which is not held.
 
+## Translation
+
+
+
+di Mino's reading, CANDIDATE, incomplete; 2 words.
+
+| Line | Page | Group | Values | Reading | Gloss | Tier | Rivals | Note |
+|---|---|---|---|---|---|---|---|---|
+|  | 472 | 097-082-011 | ro-sa-pe | ro-sa-pe |  | CANDIDATE, emended text |  | Intact three-syllable word ro-sa-pe from one of the earliest dated CM 1 objects (LC IA–IB). |
+|  | 472 | *not reproduced* |  |  |  | unresolved, SPECULATIVE, emended text |  | Contains one or more signs without a ruled grid value. No reading. |
+
+Early LC IA–IB Enkomi clay weight: ro-sa-pe \| lo-\[108\]-\[037\].
+
 ## Metadata
 
 ### Editions
@@ -86,6 +99,6 @@ Not checked against HoChyMin, which is not held.
 
 No held source states its identity, museum number, hand.
 
-No transcription is reproduced here: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
+No transcription is reproduced here beyond the sign groups of the words read: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
 
 <!-- END kaphtor:record -->

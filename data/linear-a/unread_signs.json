@@ -15,23 +15,23 @@
     "compound": "a logogram or sign joined to others by a hyphen"
   },
   "stats": {
-    "listed": 153,
+    "listed": 151,
     "by_status": {
+      "component_read": 80,
       "unread": 67,
-      "value_on_file": 4,
-      "component_read": 82
+      "value_on_file": 4
     },
     "by_kind": {
-      "syllabogram": 21,
-      "sign": 34,
-      "ligature": 65,
-      "vessel": 4,
+      "compound": 26,
+      "ligature": 63,
       "logogram": 3,
-      "compound": 26
+      "sign": 34,
+      "syllabogram": 21,
+      "vessel": 4
     },
-    "occurrences": 239,
-    "hapax": 99,
-    "cross_site": 19
+    "occurrences": 236,
+    "hapax": 98,
+    "cross_site": 18
   },
   "excluded": {
     "None": "a placeholder in the corpus record, not a sign",
@@ -868,29 +868,6 @@
         "Malia"
       ],
       "cross_site": false,
-      "note": ""
-    },
-    {
-      "sign": "I+*301",
-      "kind": "ligature",
-      "status": "component_read",
-      "components": [
-        "I",
-        "*301"
-      ],
-      "read_components": [
-        "*301"
-      ],
-      "frequency": 2,
-      "attestations": [
-        "HTWa1022",
-        "KN2"
-      ],
-      "sites": [
-        "Haghia Triada",
-        "Knossos"
-      ],
-      "cross_site": true,
       "note": ""
     },
     {
@@ -1989,27 +1966,6 @@
       "frequency": 1,
       "attestations": [
         "KH7b"
-      ],
-      "sites": [
-        "Khania"
-      ],
-      "cross_site": false,
-      "note": ""
-    },
-    {
-      "sign": "DA+*301",
-      "kind": "ligature",
-      "status": "component_read",
-      "components": [
-        "DA",
-        "*301"
-      ],
-      "read_components": [
-        "*301"
-      ],
-      "frequency": 1,
-      "attestations": [
-        "KH18"
       ],
       "sites": [
         "Khania"

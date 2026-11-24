@@ -42,10 +42,11 @@ Four tests decide a reading's tier. They are judgments recorded on the reading's
 4. **Structural fit:** the value fits the CV grid and the Proto-Semitic consonant inventory.
 
 Tests 1 and 4 assume a Semitic language: they rank readings within that hypothesis and do not test it. The tests of
-the hypothesis itself are pre-registered: `paradigm-b-preregistration.md` (run, with its result in
-`paradigm-b-result.md`), `shoresh-preregistration.md`, `meaning-shuffle-preregistration.md`,
-`protocol-c-preregistration.md` (phases C0 and C1 built; no form scored) and `d7-structural-preregistration.md`
-(S3 run, with its result in `d7-structural-result.md`; S1 failed its gate on the controls and did not run on Linear A).
+the hypothesis itself are `shoresh-preregistration.md` (with Amendments A24–A25) and the deterministic, zero-LLM
+ten-kernel probabilistic suite in `models/language-id-kernel/` (`preregistration-draft.md`, `kernel-specs.md`,
+`reference.md` and `replication-guide.md`), which runs under strict Linear B sign values alone and supersedes the
+earlier standalone pre-registrations preserved in git history (`paradigm-b`, `meaning-shuffle`, `protocol-c` and
+`d7-structural`).
 
 The competitor null rescores every Semitic match against the Luwian, Egyptian, Hurrian and Hattic keys
 (`shoresh-usage.md`, The competitor null).

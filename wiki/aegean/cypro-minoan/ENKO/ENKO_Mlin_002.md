@@ -35,6 +35,19 @@ updated: 2026-11-18T19:49:10Z
 
 Not checked against HoChyMin, which is not held.
 
+## Translation
+
+
+
+di Mino's reading, CANDIDATE, incomplete; 2 words.
+
+| Line | Page | Group | Values | Reading | Gloss | Tier | Rivals | Note |
+|---|---|---|---|---|---|---|---|---|
+| .01 | 497 | 102-023 | a-ti | a-ti |  | CANDIDATE |  | Intact two-sign word a-ti, recurring on RASH Atab 004 and RASH Aéti 001. |
+| .02 | 497 | *not reproduced* |  |  |  | unresolved, SPECULATIVE |  | Contains one or more signs without a ruled grid value. No reading. |
+
+Two-line Enkomi bronze ingot: a-ti (exact match to RASH Aéti 001) and a-\[036\]-ti-ri-ti (using rare CM 1 allograph 114 = ri).
+
 ## Metadata
 
 ### Editions
@@ -64,6 +77,6 @@ Not checked against HoChyMin, which is not held.
 
 No held source states its identity, museum number, findspot, dimensions, object, hand.
 
-No transcription is reproduced here: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
+No transcription is reproduced here beyond the sign groups of the words read: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
 
 <!-- END kaphtor:record -->

@@ -35,6 +35,19 @@ updated: 2026-11-18T19:49:10Z
 
 Not checked against HoChyMin, which is not held.
 
+## Translation
+
+
+
+di Mino's reading, CANDIDATE, incomplete; 2 words.
+
+| Line | Page | Group | Values | Reading | Gloss | Tier | Rivals | Note |
+|---|---|---|---|---|---|---|---|---|
+|  | 463 | 006-025-082-097 | pa-ka-sa-ro | pa-ka-sa-ro |  | CANDIDATE, emended text |  | Phonetic reading on the ruled grid (emended text). |
+|  | 463 | 046 | su | su |  | CANDIDATE, emended text |  | Single-sign notation (046 = su) after divider. |
+
+Short CM 1 inscription read in full on the ruled grid (pa-ka-sa-ro \| su).
+
 ## Metadata
 
 ### Editions
@@ -71,6 +84,6 @@ Not checked against HoChyMin, which is not held.
 
 No held source states its identity, museum number, object, hand, visual evidence.
 
-No transcription is reproduced here: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
+No transcription is reproduced here beyond the sign groups of the words read: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
 
 <!-- END kaphtor:record -->

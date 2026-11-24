@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/S
 desc: "Words whose first sign begins with S."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-22T02:43:24Z
+updated: 2026-11-24T16:33:50Z
 ---
 
 # wiki/linear-a/words/S
@@ -154,8 +154,6 @@ updated: 2026-11-22T02:43:24Z
 [[wiki/linear-a/words/S/SI_plus_ME|SI_plus_ME]]: Unread sign (ligature, component read); 1 occurrence(s).
 
 [[wiki/linear-a/words/S/SI_plus_SE|SI_plus_SE]]: ṣiṣe: the salt-works (Ug. ṣṣ, WSem. ṣēṣūma 'salt marsh'), an establishment drawing grain, oil and figs. Lexicon, SPECULATIVE (tier 1).
-
-[[wiki/linear-a/words/S/SI_plus_SE_NI|SI_plus_SE_NI]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/S/SI_plus_SE_RA_plus_KA|SI_plus_SE_RA_plus_KA]]: šeraka: levy, gift—fiscal category on a commodity nodule. Lexicon, SPECULATIVE (tier 1).
 

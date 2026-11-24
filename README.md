@@ -5,9 +5,9 @@
 
 <p align="center">
   <a href="wiki/linear-a/inscriptions/_index.md"><img alt="corpus: 1,719 records" src="https://img.shields.io/badge/corpus-1,719%20records-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
-  <a href="wiki/linear-a/inscriptions/_index.md"><img alt="translations: 531" src="https://img.shields.io/badge/translations-531-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <a href="wiki/linear-a/inscriptions/_index.md"><img alt="translations: 530" src="https://img.shields.io/badge/translations-530-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
   <a href="wiki/linear-a/words/_index.md"><img alt="lexicon: 736 entries" src="https://img.shields.io/badge/lexicon-736%20entries-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
-  <a href="wiki/linear-a/words/_index.md"><img alt="names: 382" src="https://img.shields.io/badge/names-382-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <a href="wiki/linear-a/words/_index.md"><img alt="names: 384" src="https://img.shields.io/badge/names-384-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
   <a href="wiki/semitic-roots/_index.md"><img alt="Semitic roots: 5,189" src="https://img.shields.io/badge/Semitic%20roots-5,189-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
   <a href="wiki/linear-a/signs/_index.md"><img alt="sign values: 42" src="https://img.shields.io/badge/sign%20values-42-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
   <br>
@@ -30,7 +30,9 @@ The datasets and tools work independently of the proposed decipherment.
 **Explore it live at [linear-a.ai](https://linear-a.ai/):** the Linear A Lexicon, an interactive dictionary of Minoan
 built from this repository, where every word, name and Semitic root opens with its cognates, citations, and commentary.
 Design by [Maxim Kuznetsov](https://github.com/mkuznetsov_plasma) and
-[Vittorio Retrivi](https://github.com/vretrivi_plasma).
+[Vittorio Retrivi](https://github.com/vretrivi_plasma). Programmatic read-only access—18 REST endpoints at
+`api.linear-a.ai/v1`, an MCP server at `mcp.linear-a.ai/mcp`, and live probabilistic kernel endpoints—is documented in
+[docs/lexicon-api.md](docs/lexicon-api.md).
 
 The case for the readings is set out in [Opening Linear A](https://plasma.ai/research/linear-a) and in
 [*Ya Diktu*](https://www.minoanmystery.org/linear-a/ya-diktu-grammar-tom-di-mino.pdf), the grammar of the peak
@@ -130,17 +132,22 @@ No reading skips a tier. A rejected reading leaves the record for the archive, w
 > These tiers describe support under this project's evaluation criteria. They do not imply scholarly consensus on the
 > decipherment.
 
-A sign value counts as resolved only on support that does not depend on a Semitic match: a Linear B value, a scribe's
-arithmetic, or a spelling variant of the same word. Every other value is listed as proposed, with its evidence where
-given. The record holds 42 sign values: 5 resolved (2 phonemic, 3 logograms) and 37 proposed (16 phonemic, 21
-logograms). The fraction signs are counted apart: 3 resolved and 11 proposed.
+A sign value counts as resolved only on support independent of a Semitic match: a Linear B value, balancing arithmetic,
+or a spelling variant of the same word. All other `CANDIDATE`-and-above readings are listed as proposed with their
+evidence where given, while speculative values remain in their individual sign records. The summary holds 42 sign
+values: 5 resolved (2 phonemic, 3 logograms) and 37 proposed (16 phonemic, 21 logograms). The 14 metrological fraction
+signs are counted apart: 3 resolved (`J`, `E`, `F`) and 11 proposed. The probabilistic language-identification suite
+below never reads these 37 proposed sign values and scores Linear A strictly on agreed Linear B values.
 
-Linear A has no deductive proof kernel, though [`models/language-id-kernel/`](#probabilistic-language-identification) provides a deterministic probabilistic language-identification suite. Counts, distributions, arithmetic and reproducibility are checked mechanically.
-Segmentation, sound correspondence and meaning stay graded and open to revision. When the four rival-language files
-(the Luwian, Egyptian, Hurrian and Hattic roots) are in the checkout, every Semitic match is rescored against them and,
-where each rival gives a p-value, the margin is reported. Without them `root_match.py` stops and names the first
-missing file, and under `--no-competitors` no word can reach `CONVERGENT`. [Confidence](docs/confidence.md) gives
-the tiers and the rule for a resolved sign value.
+Linear A has no deductive proof kernel. Instead, [`models/language-id-kernel/`](#probabilistic-language-identification)
+ships a deterministic, zero-LLM ten-kernel probabilistic suite (`Kernels A–J`) that runs end-to-end from a fresh clone
+under strict Linear B values, Linear B Greek calibration gates, and consonant-grid and concept-label permutation nulls.
+Counts, distributions, arithmetic and reproducibility are checked mechanically, while individual segmentations, sound
+correspondences and meanings stay graded and open to revision. Every Semitic match in `root_match.py` is rescored
+against the four shipped rival-language files (Luwian, Egyptian, Hurrian and Hattic roots) with margins reported where
+each rival gives a p-value. Without them `root_match.py` stops and names the first missing file, and under
+`--no-competitors` no word can reach `CONVERGENT`. [Confidence](docs/confidence.md) gives the tiers and the rule for a
+resolved sign value.
 
 ## Using the skills
 
@@ -217,7 +224,9 @@ Stouffer `Z = +3.504`, `p = 0.00023`).
 
 The repository ships two complementary, zero-LLM, deterministic frameworks:
 
-- **`models/language-id-kernel/`** ([index](models/language-id-kernel/_index.md),
+- **`models/language-id-kernel/`** ([executive summary](models/language-id-kernel/README.md),
+  [2026-11-23 significance report](models/language-id-kernel/results-significance-2026-11-23.md),
+  [per-kernel specs](models/language-id-kernel/kernels/_index.md),
   [reference](models/language-id-kernel/reference.md),
   [replication guide](models/language-id-kernel/replication-guide.md)): self-contained ten-kernel suite (`Kernels A–J`)
   under strict Linear B sign values with consonant-grid and concept-label permutation nulls and known-language
@@ -235,18 +244,20 @@ The repository ships two complementary, zero-LLM, deterministic frameworks:
   - **G (Dialect Coherence):** 5 Central Crete ↔ Palaikastro minimal pairs match a 4-rule NWS isogloss bundle
     (`p = 0.00010`).
   - **H (Roster Onomastics):** 57 structurally-gated `WORD 1` roster names match shared Knossos/Pylos Linear B first
-    and Amorite Semitic second (`Z = +1.30`, ahead of Hurrian and Anatolian).
+    (`5.88`) and shipped ORACC Levant LBA Semitic second (`6.14`, `Z = +1.56`, ahead of Kassite `6.93`, Hurrian `7.19`
+    and Anatolian `7.43`).
   - **I (Bound Affix Morphology):** unsupervised strict stem-containment affixes (`S` vs `p+S`/`S+s`) scored under a
     discriminative margin-permutation null ($B = 5{,}000$) that cancels universal suffix consonants; 7/7 dev pass;
-    Linear B picks Greek (`M = +480.6`, `p_M = 0.048`, only pass; Semitic `0.919`) and Linear A picks Semitic
-    (`M = +27.1`, `p_M = 0.0436`, `p_cv = 0.0192`, only pass; `p_pre = 0.419` vs Semitic `0.404`, Linear B `0.349` vs
-    Greek `0.355`).
+    Linear B picks Greek (`M = +472.95`, `p_M = 0.02679`, only pass; Semitic `0.875`) and Linear A picks Semitic
+    (`M = +40.03`, `Z_M = +2.63`, `p_M = 0.00360`, `p_cv = 0.00040` on shipped ANE Semitic; `mean p_M = 0.0385` across
+    5 seeds on the full 7-member arm).
   - **J (Zero-Curation Dictionary Audit):** replaces hand-curated anchor synsets with automated regex extraction over
-    independent open dictionaries (`cap = 40` and uncapped) under two orthogonal nulls—10,000 consonant-grid swaps and
-    exact concept-label shuffling; calibrates Linear B as Greek (`p_perm = 0.00010`, `p_concept = 0.01250`; Semitic
-    rejected at `0.231` / `0.693`) and identifies Linear A as Semitic on `FULL_8` (`Z_perm = +4.85`, `p_perm = 0.00010`;
-    `Z_concept = +2.51`, `p_concept = 0.00893` over all 5,040 concept assignments—the only language passing both nulls,
-    with Greek at `p_concept = 0.548`).
+    shipped open dictionaries (Akkadian/Hebrew, LSJ Greek, and CC0 ePSD2 Sumerian as a non-Semitic Bronze Age isolate
+    control) under 10,000 consonant-grid swaps and exact concept-label shuffling; calibrates Linear B as Greek
+    (`p_perm = 0.00010`, `p_concept = 0.01389`; Sumerian `p_perm = 0.061`; Semitic `0.170` / `0.775`) and identifies
+    Linear A as Semitic on `FULL_8` (`ΔLL = +4.05`, `p_perm = 0.00010`, `p_concept = 0.02520` standalone; `0.00893` on
+    the pre-Sumerian 5-language full set—the only language passing both nulls, with Sumerian at `0.637` and Greek at
+    `0.588`).
 - **Shoresh (`tools/core/root_match.py`, `shoresh_cv.py`, `shoresh_kernel_bridge.py`):** the per-word root matcher
   used by the skill, upgraded with fast O(1) exact-match retrieval, vocalized CV distance and Bayesian marginal
   log-likelihood (`ΔLL`, Amendment A24), and Kober-cluster / Kernel C–D domain tagging (Amendment A25).
@@ -282,9 +293,11 @@ python3 models/language-id-kernel/kaphtor_kernel.py calibrate --n-perm 10000
     Semitic inscriptions, the public inscriptions of Palmyra
     (catalogue rows and names), Marcato's Hatra names and Al-Jallad's DIANA, Safaitic and Taymanitic
     (non-commercial)
-  - `share-alike/`: CC BY-SA datasets, such as the ORAEC/TLA Egyptian texts, the TLA v18 names, Trismegistos Geo,
-    the LSJ headwords and ORACC's editions and translations of the Ugarit, Amarna and Idrimi texts, kept apart, with
-    the Linear B tokens of Pylos and Knossos (CC BY-NC-SA, non-commercial)
+  - `share-alike/`: open-licensed reference datasets kept apart by terms—ORAEC/TLA Egyptian, TLA v18 names,
+    Trismegistos Geo, LSJ headwords and glosses, Perseus Diodorus Books 1–5, EUPT Ugaritic and LiLa LatInfLexi Latin
+    (CC BY-SA 4.0); ORACC Ugarit, Amarna and Idrimi editions (CC BY-SA 3.0); OSHB Hebrew and TLHdig 0.3
+    Anatolian/Hurrian/Hattic (CC BY 4.0); ORACC Akkadian/Sumerian and ePSD2 Sumerian lexicon (CC0 1.0); and
+    Pylos/Knossos Linear B tokens (CC BY-NC-SA 4.0, non-commercial)
 - `docs/`: the repository's rules and methods, and the corpus guides, starting with [docs/anatomy.md](docs/anatomy.md)
 - `models/`: replicable probabilistic models, starting with [models/language-id-kernel/_index.md](models/language-id-kernel/_index.md)
 - `assets/`: Noto Sans fonts for the Aegean scripts (OFL 1.1) and the README banner
@@ -346,9 +359,9 @@ out below and in the `license` key of each datasheet:
   it; both stay under CC BY-NC-SA 4.0, apart from the `corpus_key` and `corpus_match` fields and
   `sigla/corpus_key_overrides.json`, which are CC BY 4.0. The screenshots in `docs/human-review/` show SigLA's
   drawings and sign crops and carry its CC BY-NC-SA 4.0 terms.
-- **Share-alike data.** The files in `data/share-alike/` remain under CC BY-SA 4.0 (`oracc-levant/` under CC BY-SA
-  3.0, and `linear-b/` under CC BY-NC-SA 4.0, for non-commercial use), and anything derived from them carries the
-  same terms. Four more files under CC BY-SA 4.0 sit outside that folder, where the tools read them:
+- **Share-alike and open reference data.** Most files in `data/share-alike/` remain under CC BY-SA 4.0 (`oracc-levant/`
+  under CC BY-SA 3.0, and `linear-b/` under CC BY-NC-SA 4.0, for non-commercial use), and anything derived from them
+  carries the same terms; alongside them sit `hebrew/` and `anatolian/` under CC BY 4.0 and `cuneiform/` under CC0 1.0. Four more files under CC BY-SA 4.0 sit outside that folder, where the tools read them:
   `data/linear-a/egyptian_roots.json` and `luwian_roots.json`, which hold entries from Wiktionary,
   `data/contact/syriac_lexicon.jsonl`, drawn from Wiktionary's Classical Syriac entries, and
   `data/pre-greek/pregreek_wiktionary_glosses.json`, short glosses from Wiktionary's Pre-Greek category. A Pre-Greek

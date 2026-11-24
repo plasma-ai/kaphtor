@@ -40,7 +40,7 @@ PK Zb 26, a pithos sherd written retrograde, A-PA₃-DI\[ broken after DI (Young
 
 ## As a name
 
-PK Zb 26, a pithos sherd written retrograde, A-PA₃-DI\[ broken after DI (Younger, Linear A Texts). ʿAbdī, as the Ugaritic PN ʕbdy (DULAT 141), or the head of an ʿAbdi-DN name. See the lexicon entry A-PA₃-DI. Rival: the head of an ʿAbdi-DN name.
+PK Zb 26, a pithos sherd written retrograde, A-PA₃-DI\[ broken after DI (Younger, Linear A Texts). ʿAbdī, as the Ugaritic PN ʕbdy (DULAT 141) written with the logogram, {m}IR₃{+di₃} (RS 16.0143 o 6), and syllabically in ab-di-ḫa-ma-ni (RS 16.0200 o 3), or the head of an ʿAbdi-DN name. See the lexicon entry A-PA₃-DI. Rival: the head of an ʿAbdi-DN name.
 
 ## Cognates
 

@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Male sheep logogram. Part of gendered livestock pair (\*21F=ewe/OVISf, \*21M=ram/OVISm). WARNING: \*21F in the 'signs' section is the /ha/ syllabogram—different physical sign, AB number collision.
+Male sheep logogram. Part of gendered livestock pair (\*21F=ewe/OVISf, \*21M=ram/OVISm). The female form, \*21F, is the one sign of the three also written inside words, with three upright strokes (Salgarella 2020, 214); its syllabic value is recorded under signs.
 
 ## Lexicon words written with this sign
 

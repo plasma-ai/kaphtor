@@ -25,7 +25,7 @@ updated: 2026-11-12T00:26:03Z
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT102\|HT102]] | Haghia Triada | Tablet | complete |
+| [[wiki/linear-a/inscriptions/HT/HT/HT102\|HT102]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/KH/KH/KH37\|KH37]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KN/KNZg/KNZg57b\|KNZg57b]] | Knossos | ivory object | none |
 

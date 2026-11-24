@@ -71,9 +71,10 @@ GORILA I 217; ORACC aemw/ugarit P521356.17.3 (BAH 214, 7, o 14); P503354.14.2 (R
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |
+| Contact reference | oracc-qpn:a70c2d9a0aad2b2edfa6 |
 
 ### Note
 
-HT 126a, SI-DI-JA 1 in a damaged list. Ugaritic PN śdy (šmbʿl bn śdy, BAH 214, 7, o 14) and syllabic {m}ša-di-ia (RS 15.0173, r. 2′), the first vowel differing. Rival: the Semitic field root √ś-d-y.
+HT 126a, SI-DI-JA 1 in a damaged list. Ugaritic PN śdy (šmbʿl bn śdy, BAH 214, 7, o 14), exact syllabic {m}ši-di-ia (RS 19.0041 o 4, ORACC P503766), and variant {m}ša-di-ia (RS 15.0173, r. 2′). Rival: the Semitic field root √ś-d-y.
 
 <!-- END kaphtor:record -->

@@ -19,11 +19,11 @@ updated: 2026-11-11T23:49:15Z
 <!-- BEGIN kaphtor:summary -->
 | Field | Value |
 |---|---|
-| Names | 314 |
-| Kinds | personal names 196, titles 49, divine names 29, place names 25, gentilics 11, place names or gentilics 4 |
+| Names | 315 |
+| Kinds | personal names 196, titles 50, divine names 30, place names 24, gentilics 11, place names or gentilics 4 |
 | Roots | 236 |
-| Sites | Haghia Triada 183, Zakros 42, Knossos 17, Khania 16, Palaikastro 11, Phaistos 11, Arkhanes 8, Syme 6, Malia 5, Petras 3, Crete 3, Thera 2, Kophinas 2, Iouktas 2, Tylissos 2, Platanos 2, Nerokurou 1, Milos 1, Skoteino Cave 1, Inatos 1, Kamilari 1, Lachish 1, Prassa 1, Gournia 1, Miletos 1, Pyrgos 1, Kophinas (?) 1, Poros Herakleiou 1, Mokhlos 1 |
-| Standing | SPECULATIVE 191, CANDIDATE 96, PROBABLE 23, CONFIRMED 4 |
+| Sites | Haghia Triada 182, Zakros 42, Khania 17, Knossos 17, Palaikastro 11, Phaistos 11, Arkhanes 8, Syme 6, Malia 5, Petras 4, Crete 3, Thera 2, Kophinas 2, Iouktas 2, Tylissos 2, Platanos 2, Nerokurou 1, Milos 1, Skoteino Cave 1, Inatos 1, Kamilari 1, Lachish 1, Prassa 1, Gournia 1, Miletos 1, Pyrgos 1, Kophinas (?) 1, Poros Herakleiou 1, Mokhlos 1 |
+| Standing | SPECULATIVE 192, CANDIDATE 97, PROBABLE 23, CONFIRMED 3 |
 
 ## Roots that carry more than one name
 
@@ -76,6 +76,7 @@ updated: 2026-11-11T23:49:15Z
 | [[wiki/names/semitic/roots/p-r-ayin-sh\|p-r-ʿ-š]] | [[wiki/names/semitic/names/PA_RO_SU\|PA-RO-SU]], [[wiki/names/semitic/names/PA_RO_SU_TI\|PA-RO-SU-TI]] |
 | [[wiki/names/semitic/roots/q-d-m\|q-d-m]] | [[wiki/names/semitic/names/KA_DU_MA_NE\|KA-DU-MA-NE]], [[wiki/names/semitic/names/QE_DE_MI_NU\|QE-DE-MI-NU]] |
 | [[wiki/names/semitic/roots/q-y-p\|q-y-p]] | [[wiki/names/semitic/names/KA_PA_QE\|KA-PA-QE]], [[wiki/names/semitic/names/QE_PU\|QE-PU]] |
+| [[wiki/names/semitic/roots/r-p-alef\|r-p-ʾ]] | [[wiki/names/semitic/names/A_RE_PI_RE_NA\|A-RE-PI-RE-NA]], [[wiki/names/semitic/names/A_RI_PA\|A-RI-PA]] |
 | [[wiki/names/semitic/roots/r-ayin-y\|r-ʿ-y]] | [[wiki/names/semitic/names/RA_O_DI_KI\|RA-O-DI-KI]], [[wiki/names/semitic/names/RO_E\|RO-E]] |
 | [[wiki/names/semitic/roots/s-d-r\|s-d-r]] | [[wiki/names/semitic/names/SI_DA_RE\|SI-DA-RE]], [[wiki/names/semitic/names/SI_DA_RO\|SI-DA-RO]] |
 | [[wiki/names/semitic/roots/s-g-r\|s-g-r]] | [[wiki/names/semitic/names/SU_KI_RI_TA\|SU-KI-RI-TA]], [[wiki/names/semitic/names/SU_KI_RI_TE_I_JA\|SU-KI-RI-TE-I-JA]] |

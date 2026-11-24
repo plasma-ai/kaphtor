@@ -3,7 +3,7 @@ name: wiki/names/unread/names
 title: "Unread names"
 desc: "The Unread names, one page each."
 created: 2026-11-11T23:39:03Z
-updated: 2026-11-19T13:55:37Z
+updated: 2026-11-24T16:36:59Z
 ---
 
 # Unread names
@@ -25,7 +25,5 @@ updated: 2026-11-19T13:55:37Z
 [[wiki/names/unread/names/WA_O_MI|WA_O_MI]]: no reading. Unread.
 
 [[wiki/names/unread/names/ZU_star22F_DI|ZU_star22F_DI]]: no reading. Unread.
-
-[[wiki/names/unread/names/star318_star306|star318_star306]]: no reading. Unread.
 
 ***

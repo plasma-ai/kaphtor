@@ -65,7 +65,7 @@ di Mino; HALOT; Schoep 2002
 | [[wiki/linear-a/inscriptions/HT/HT/HT91\|HT91]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT92\|HT92]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT100\|HT100]] | Haghia Triada | Tablet | complete; form not in transliteration |
-| [[wiki/linear-a/inscriptions/HT/HT/HT101\|HT101]] | Haghia Triada | Tablet | complete |
+| [[wiki/linear-a/inscriptions/HT/HT/HT101\|HT101]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT116a\|HT116a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT116b\|HT116b]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT125b\|HT125b]] | Haghia Triada | Tablet | complete |

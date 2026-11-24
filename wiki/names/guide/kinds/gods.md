@@ -23,6 +23,7 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/semitic/names/A_JA\|A-JA]] | ḥayyā | 'the Living One', title of the Goddess (√ḥ-y-y) | [[wiki/names/semitic/_index\|Semitic]] | 2 |
 | [[wiki/names/semitic/names/A_MA_WA_SI\|A-MA-WA-SI]] | ʿAmma-wāṣiʾ | the Kinsman who comes forth (El epithet) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/A_RE_PI_RE_NA\|A-RE-PI-RE-NA]] | ʾa-repiʾ-rennā | Healer of Jubilation (Eshmun epithet) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
+| [[wiki/names/semitic/names/A_RI_PA\|A-RI-PA]] | ʾaripāʾ | healer, of the Rephaim (√r-p-ʾ) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/A_SA_MU_NE\|A-SA-MU-NE]] | ʾAšmūn | Eshmun (healing deity) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/A_TA_NA_JE\|A-TA-NA-JE]] | ʾatanāya | My Giver / My Athena—1cs possessive on divine epithet (√y-t-n 'to give' + -ya 'my') | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/A_TA_NA_TE\|A-TA-NA-TE]] | ʾAtanat | She who gives (divine name), the etymon of Greek Ἀθάνα, Ἀθήνη | [[wiki/names/semitic/_index\|Semitic]] | 1 |

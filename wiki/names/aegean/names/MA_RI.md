@@ -47,6 +47,10 @@ HT 128a .4, a recipient in a barley list, its GRA+KU 6 carried to face b (GORILA
 | Linear B | ma-ri, a place in the Knossos sheep tablets, KN Dl 947.B (si-da-jo / ma-ri), 948.B (pa-za-ti / ma-ri); ethnic ma-ri-jo, KN X 1581 (DMic I 425–426) |
 | Akkadian (Ugarit, rival) | Mari, ša KUR ma-ri, spelled as Linear A spells it (RSO 7, 47:4; ORACC aemw/ugarit) |
 
+## Linear B
+
+Exact Linear B continuity: ma-ri, 5 KN documents—clean in KN Dl(1a) 947+7626.2 and Dl(1a) 948+977.2 (livestock toponym), damaged in KN Ga(1) 7594.1, X 5970.3, and X 7828.1 (DMic I 425). Non-Greek Cretan place name carried from Linear A into Linear B.
+
 ## Attestations
 
 | Field | Value |

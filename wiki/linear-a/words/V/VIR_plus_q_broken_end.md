@@ -63,7 +63,7 @@ di Mino
 | [[wiki/linear-a/inscriptions/HT/HT/HT84\|HT84]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT85a\|HT85a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT93a\|HT93a]] | Haghia Triada | Tablet | incomplete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT94a\|HT94a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT94a\|HT94a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3022_q\|HTWc3022(?)]] | Haghia Triada | Roundel | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH25\|KH25]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH26\|KH26]] | Khania | Tablet | none |
@@ -82,6 +82,7 @@ di Mino
 | [[wiki/linear-a/inscriptions/HT/HT/HT27a\|HT27a]] |  | men | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT62_plus_73\|HT62+73]] |  | men, a counted personnel class (the person sign with an unnamed element) | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT85a\|HT85a]] |  | men (personnel logogram) | PROBABLE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT94a\|HT94a]] | \[ideogram\] | men (personnel class) | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT105\|HT105]] |  | men, a counted personnel class (the person sign with an unnamed element) | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT119\|HT119]] |  | men; the second element of the ligature is unread |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT122b\|HT122b]] |  | men (personnel logogram) |  |

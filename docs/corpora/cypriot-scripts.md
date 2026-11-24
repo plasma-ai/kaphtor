@@ -318,14 +318,15 @@ Semitic; those readings are kept with its control record in this repository (see
   site and type codes and list the texts that match (KITI Avas: Kition's vessels). `--format json` prints either as
   JSON.
 
-- **Translations** (`data/ane/cypro-minoan/translations.json`): di Mino's readings of whole texts, keyed by siglum.
-  Each word read gives its sign group in Olivier's numbers, its line and the Appendix A page that prints it, as
-  scholarship quotes the groups it discusses, with one value per sign, a gloss, a tier and the published readings it
-  rivals, each credited to its proposer with work and page; a word left unread shows no group. The values the readings
-  take follow, each with its tier and evidence. Never counted with Linear A and never evidence for a Linear A value.
-  `--doc "RASH Atab 004"` (RS 20.25) prints the reading under the record, `--format json` carries it as
-  `translation`, and `--stats` counts the texts and words; the wiki gives each translated text a Translation section
-  and lists them in `wiki/aegean/cypro-minoan/translated.md`.
+- **Translations** (`data/ane/cypro-minoan/translations.json`): di Mino's readings of whole texts across CM 1–3, keyed
+  by siglum. Each word read gives its sign group in Olivier's numbers, its line (where the text has numbered lines) and
+  the Appendix A page that prints it, as scholarship quotes the groups it discusses, with one value per sign, a gloss, a
+  tier and the published readings it rivals, each credited to its proposer with work and page; a word left unread shows
+  no group. The values the readings take follow, each with its tier and evidence. Never counted with Linear A and never
+  evidence for a Linear A value. `--doc "RASH Atab 004"` (RS 20.25), `--doc "ENKO Arou 001"`, `--doc "ENKO Atab 003"`,
+  or `--doc "KALA Arou 001"` prints each reading under its record, `--format json` carries it as `translation`, and
+  `--stats` counts the texts and words; the wiki gives each translated text a Translation section and lists them in
+  `wiki/aegean/cypro-minoan/translated.md`.
 
 - **IG XV 1** (`data/ane/ig-xv-1-cypriot/`, CC BY 4.0): the Cypriot syllabic inscriptions of *Inscriptiones Graecae*
   XV 1, Cypriot Greek and Eteocypriot, with their editions, places and dates.

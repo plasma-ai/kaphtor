@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/star/star21F_TU_q_broken_end
 title: "*21F-TU-[?]"
-desc: "Unread (role only): personal name; 1 occurrence(s)."
+desc: "Unread (unread): no role; 1 occurrence(s)."
 tags: ["linear-a", "word", "unread"]
 kind: "word"
 form: "*21F-TU-[?]"
@@ -35,7 +35,7 @@ updated: 2026-10-24T16:17:50Z
 
 ## Unread
 
-Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
+Status **unread** (nothing known).
 
 HT 94b .6 \*21F-TU-\[·\] 1\[, a sign lost after TU and a trace after the numeral (GORILA I 153). GORILA's note offers \*21F-TU-NẸ. Not readable.
 

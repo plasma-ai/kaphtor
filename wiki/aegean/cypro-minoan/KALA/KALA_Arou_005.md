@@ -35,6 +35,22 @@ updated: 2026-11-18T19:49:10Z
 
 Not checked against HoChyMin, which is not held.
 
+## Translation
+
+
+
+di Mino's reading, CANDIDATE, incomplete; 5 words.
+
+| Line | Page | Group | Values | Reading | Gloss | Tier | Rivals | Note |
+|---|---|---|---|---|---|---|---|---|
+| .01 | 481 | 024-091 | le-mi | le-mi |  | CANDIDATE, emended text |  | Fragmentary end of first group \[...\]-le-mi (cf. KALA Arou 001 -le-mi). |
+| .02 | 481 | 046-096-068-072 | su-ri-nu₂-ja | su-ri-nu₂-ja |  | CANDIDATE, emended text |  | Fragmentary sequence \[...\]-su-ri-nu₂-ja. |
+| .03 | 481 | 033-064 | re-o | re-o |  | CANDIDATE, emended text |  | Fragmentary end \[...\]-re-o using CM 1 vowel 064 = o. |
+| .04 | 481 | 099-009 | ni-li | ni-li |  | CANDIDATE, emended text |  | Intact legible group ni-li. |
+| .04 | 481 | 013-069 | to-ja | to-ja |  | CANDIDATE, emended text |  | Intact legible group to-ja (Valério emends corpus 008 to 013 = to; corpus na-ja; cf. Anatolian Tuya, cost 0.00, short form). |
+
+Fragmentary Kalavasos clay cylinder; both intact legible groups on .04 read in full (ni-li \| to-ja), with partial readings across fragmentary lines .01–.06.
+
 ## Metadata
 
 ### Editions
@@ -66,6 +82,6 @@ Not checked against HoChyMin, which is not held.
 
 No held source states its identity, museum number, dimensions, object, hand, visual evidence.
 
-No transcription is reproduced here: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
+No transcription is reproduced here beyond the sign groups of the words read: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
 
 <!-- END kaphtor:record -->

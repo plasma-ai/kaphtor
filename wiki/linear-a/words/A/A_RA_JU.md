@@ -33,7 +33,7 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | ʾArāyu |
 | Meaning | a town of the kingdom of Ugarit, on the Ugarit–Alalakh border (toponym) |
-| Root | ʾArāyu (Pre-Greek) |
+| Root | ʾArāyu |
 | Language layer | Semitic |
 | Tags | loanword, toponym, toponym_foreign |
 | Semantic field | toponym |
@@ -78,6 +78,7 @@ di Mino; RGTC 12/2; DULAT; Astour 1995; Watson 2001; Melena 2014; van Soldt 1994
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |
+| Contact reference | oracc-qpn:b2ecb5b3356d9a023688 |
 
 ### Note
 

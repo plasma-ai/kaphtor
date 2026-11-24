@@ -77,6 +77,7 @@ di Mino; DULAT; Watson 2016; Gelb 1980; Burlingame 2020
 | Occurrences | 1 in 1 documents |
 | Sites | Khania |
 | Supports | Tablet 1 |
+| Contact reference | oracc-qpn:9379cdfc227d0ef24a08 |
 
 ### Note
 

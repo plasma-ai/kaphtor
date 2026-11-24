@@ -58,7 +58,7 @@ di Mino; Uchitel 2016b; DULAT
 | [[wiki/linear-a/inscriptions/HT/HT/HT11b\|HT11b]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT27a\|HT27a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT45a\|HT45a]] | Haghia Triada | Tablet | none |
-| [[wiki/linear-a/inscriptions/HT/HT/HT94a\|HT94a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT94a\|HT94a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT94b\|HT94b]] | Haghia Triada | Tablet | complete |
 
 ## In translations
@@ -67,6 +67,7 @@ di Mino; Uchitel 2016b; DULAT
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT11b\|HT11b]] | (logogram) | ship, heading the KA entries | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT27a\|HT27a]] | (logogram) | ship: its crew, counted after the men, as on HT 94a | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT94a\|HT94a]] | \[logogram\] | ship: its crew, counted after the men | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT94b\|HT94b]] | (logogram) | ship, heading two names counted 1 each | CANDIDATE |
 
 <!-- END kaphtor:record -->

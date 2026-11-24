@@ -35,6 +35,19 @@ updated: 2026-11-18T19:49:10Z
 
 Not checked against HoChyMin, which is not held.
 
+## Translation
+
+
+
+di Mino's reading, CANDIDATE, incomplete; 2 words.
+
+| Line | Page | Group | Values | Reading | Gloss | Tier | Rivals | Note |
+|---|---|---|---|---|---|---|---|---|
+|  | 498 | 027-069-009-088-023 | si-ja-li-jo-ti | si-ja-li-jo-ti |  | CANDIDATE |  | Five-sign -o-ti form si-ja-li-jo-ti with -i-jo- palatal glide sequence. |
+|  | 498 | 015-017 | ko-no | ko-no |  | CANDIDATE |  | Bare stem ko-no (015 = ko, 017 = no), taking -ti on ENKO Mins 001 (ko-no-ti) and -to on ENKO Abou 027 (ko-no-to). |
+
+Complete two-word bronze vessel inscription pairing an -o-ti form (si-ja-li-jo-ti) with bare stem ko-no (counterpart to ENKO Mins 001 ko-no-ti and ENKO Abou 027 ko-no-to).
+
 ## Metadata
 
 ### Editions
@@ -58,6 +71,6 @@ Not checked against HoChyMin, which is not held.
 
 No held source states its identity, museum number, findspot, dimensions, object, hand, visual evidence.
 
-No transcription is reproduced here: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
+No transcription is reproduced here beyond the sign groups of the words read: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
 
 <!-- END kaphtor:record -->

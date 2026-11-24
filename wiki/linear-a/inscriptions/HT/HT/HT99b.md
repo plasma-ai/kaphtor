@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/inscriptions/HT/HT/HT99b
 title: "HT99b"
-desc: "Tablet, Haghia Triada, LMIB. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "tablet"]
+desc: "Tablet, Haghia Triada, LMIB. Translation: complete (CANDIDATE)."
+tags: ["linear-a", "inscription", "translation-complete", "tablet"]
 kind: "inscription"
 id: "HT99b"
 site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
-translation: "none"
+translation: "complete"
 words: ["DA-SI-*118", "RU-MA-TA", "SI+SE", "ZU-DU"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -54,6 +54,27 @@ Unicode (Linear A block):
 𐙀𐘬𐄇
 𐘘𐙁𐘳𐄇
 ```
+
+## Translation
+
+**CANDIDATE**, complete (status: complete).
+
+> Salt-works (SI+SE): figs 6; those of Acacia (Ḏā-šiṭṭa) 2; breast (ṯudu) 1; the Height (Rūmatā) 1.
+
+| Word | Reading | Gloss | Confidence | Lexicon |
+|---|---|---|---|---|
+| SI+SE-NI | ṣiṣe | the salt-works, with the fig sign NI: figs | SPECULATIVE |  |
+| [[wiki/linear-a/words/D/DA_SI_star118\|DA-SI-\*118]] | Ḏā-šiṭṭa | those of Acacia (gentilic / roster unit) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/Z/ZU_DU\|ZU-DU]] | ṯudu | breast | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/R/RU_MA_TA\|RU-MA-TA]] | rūmatā | the Height (toponym) | CANDIDATE | CANDIDATE (lexicon) |
+
+### Notes
+
+Verso of HT 99a. Four counted entries. SI+SE stands before the fig sign as it stands before grain, oil and olives on HT 116a.
+
+### Source
+
+GORILA
 
 ## Lexicon words citing this document
 

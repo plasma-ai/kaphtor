@@ -82,9 +82,10 @@ di Mino; Haas 1994; CAD E, Ṣ
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |
+| Contact reference | oracc-qpn:058667f4d773258a6e9b |
 
 ### Note
 
-Conditional on PA₃=/ba/, the spelling matches Kubaba. Since Kubaba occurs as a goddess and in personal names, HT88's one-unit roster does not alone decide whether this is the deity, a woman, or a cult institution. The name and the PA₃ value must not circularly confirm one another.
+Conditional on PA₃=/ba/, the spelling matches Kubaba (at Ugarit ku-ba-ba, RS 17.0146 r 23, and {d}ku-ba-ba). Since Kubaba occurs as a goddess and in personal names, HT88's one-unit roster does not alone decide whether this is the deity, a woman, or a cult institution. The name and the PA₃ value must not circularly confirm one another.
 
 <!-- END kaphtor:record -->

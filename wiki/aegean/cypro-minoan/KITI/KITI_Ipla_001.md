@@ -41,6 +41,20 @@ Set against the lead statement:
 
 Not checked against HoChyMin, which is not held.
 
+## Translation
+
+
+
+di Mino's reading, CANDIDATE, incomplete; 3 words.
+
+| Line | Page | Group | Values | Reading | Gloss | Tier | Rivals | Note |
+|---|---|---|---|---|---|---|---|---|
+| .r | 494 | *not reproduced* |  |  |  | unresolved, SPECULATIVE, emended text |  | Contains one or more signs without a ruled grid value. No reading. |
+| .v | 494 | 102-085 | a-ri | a-ri |  | CANDIDATE, emended text |  | Two-sign sequence with newly ruled 085 = ri (grapheme 85/96/114); cf. Hurrian Ari- element (cost 0.00, short form). |
+| .v | 494 | 102-073-004-097-023 | a-mo-ta-ro-ti | a-mo-ta-ro-ti |  | CANDIDATE, emended text |  | Inflected -o-ti counterpart of bare stem a-mo-ta-ro on ENKO Avas 002 and ENKO Abou 015, 045 (Valério 2016, §4.2). |
+
+Kition ivory plaque (.r and .v). On .v, a-ri \| a-mo-ta-ro-ti gives the exact -o-ti inflected form of ENKO Avas 002 / ENKO Abou 015, 045 bare stem a-mo-ta-ro (Valério 2016, §4.2).
+
 ## Metadata
 
 ### Editions
@@ -79,6 +93,6 @@ Not checked against HoChyMin, which is not held.
 
 No held source states its identity, museum number, dimensions, hand, visual evidence.
 
-No transcription is reproduced here: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
+No transcription is reproduced here beyond the sign groups of the words read: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
 
 <!-- END kaphtor:record -->

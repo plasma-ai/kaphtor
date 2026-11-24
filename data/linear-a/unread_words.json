@@ -8,14 +8,14 @@
   },
   "stats": {
     "corpus_words": 719,
-    "read": 559,
-    "unread_listed": 361,
+    "read": 560,
+    "unread_listed": 359,
     "by_status": {
       "edge_overlap": 18,
       "unread": 150,
-      "role_only": 193
+      "role_only": 191
     },
-    "hapax": 351,
+    "hapax": 349,
     "repeated": 10,
     "cross_site": 4,
     "surface_damaged": 276,
@@ -230,9 +230,7 @@
     {
       "word": "*21F-TU-[?]",
       "signs": 3,
-      "status": "role_only",
-      "role": "personal_name",
-      "translation_label": "recipient (unread)",
+      "status": "unread",
       "frequency": 1,
       "attestations": [
         "HT94b"
@@ -369,21 +367,6 @@
       ],
       "cross_site": false,
       "note": "PH 9a, a pierced MM II tablet from Vano 25: *317, its axis drawn on into a dotted QE, then *353 and, set apart at the right, a fraction (GORILA I 298); the other face carries a vessel logogram and numerals. HT 89 writes *317 and QE as one ligature, JU+*317+QE 22, and ARKH 3a has *317 alone with numerals twice: a logogram with its QE rider. *353 occurs only here. Not a word."
-    },
-    {
-      "word": "*318-*306",
-      "signs": 2,
-      "status": "role_only",
-      "role": "personal_name",
-      "frequency": 1,
-      "attestations": [
-        "HT94a"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "note": "HT 94a .4 *318-*306 11, whole and undotted, after a numeral at the broken left edge and before the CYP and NI entries (GORILA I 151). *318 has no value. No reading."
     },
     {
       "word": "*322-RI",
@@ -6091,20 +6074,6 @@
         ]
       },
       "note": "ARKH 3b .1 ]-JA-PI GRA 6[, a sign lost before JA, its traces not incompatible with *306 (note .1), the numeral broken after (GORILA III 11). JA-PI also stands in WA-JA-PI-[ (HT 9b). Not readable."
-    },
-    {
-      "word": "SI+SE-NI",
-      "signs": 2,
-      "status": "unread",
-      "frequency": 1,
-      "attestations": [
-        "HT99b"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "note": "HT 99b .1 SI+SE-NI 6, the ligature SI+SE with NI after it, the first of four entries before DA-SI-*118 2, ZU-DU 1 and RU-MA-TA 1. SI+SE stands as an entry of its own: HT 42+59 ]-TA · SI+SE · TE ·, HT 116a SI+SE GRA 16. NI is the fig logogram, so the entry is SI+SE, figs 6. Not a word."
     },
     {
       "word": "]-SE-I[",

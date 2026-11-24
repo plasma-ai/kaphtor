@@ -132,6 +132,7 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/hurrian/names/KA_U_ZU_NI\|KA-U-ZU-NI]] | Kawṯuni | Kawṯuni (Hurrian personal name Kaw-šuni) | [[wiki/names/hurrian/_index\|Hurrian]] | 1 |
 | [[wiki/names/semitic/names/KE_KI_RU\|KE-KI-RU]] | Kikkaru | personal name, 'Disk, Round loaf' | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/KI_DA_RO\|KI-DA-RO]] | Qidaru | personal name, 'Dark' (√ḳ-d-r 'be dark'; cf. Hebrew Qēdār) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
+| [[wiki/names/aegean/names/KI_DA_TA\|KI-DA-TA]] | Kidata | a party receiving grain (name or place) | [[wiki/names/aegean/_index\|Aegean]] | 1 |
 | [[wiki/names/semitic/names/KI_DI_NI\|KI-DI-NI]] | Kidinni | personal name, 'protection (of the god)' (Akk. kidinnu) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/KI_KI_NA\|KI-KI-NA]] | Kikkina | Kikkina, recipient or named administrative entity | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/KI_NU\|KI-NU]] | Kīnu | personal name, 'the True One' (kīnu 'true, reliable') | [[wiki/names/semitic/_index\|Semitic]] | 1 |
@@ -271,7 +272,6 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/semitic/names/star306_TU\|\*306-TU]] | ʿAttu | personal name (cf. Hebrew ʿAttay) | [[wiki/names/semitic/_index\|Semitic]] | 4 |
 | [[wiki/names/semitic/names/star306_TU_JA\|\*306-TU-JA]] | ʿAttuya | personal name, ʿAttu with -ya (Hebrew ʿĂtāyāh) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/star306_plus_MI\|\*306+MI]] | ʿAmmī | personal name: 'my kinsman / my (paternal) uncle' | [[wiki/names/semitic/_index\|Semitic]] | 1 |
-| [[wiki/names/unread/names/star318_star306\|\*318-\*306]] |  |  | [[wiki/names/unread/_index\|Unread]] | 1 |
 | [[wiki/names/semitic/names/star333_DI_NA_SU_KA\|\*333-DI-NA-SU-KA]] | bīdi Našūka | In the charge of Našūka ('the Bitten one')—custody formula + personal name on a sealed receipt | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/star333_DI_SU_KA\|\*333-DI-SU-KA]] | bīdi Sūka | In the charge of Sūka—custody formula + personal name on a sealed receipt | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/star333_SA_MU\|\*333-SA-MU]] | biśāmu | Balsam, perfume—aromatic personal name (cf. Basemath) on a lead weight | [[wiki/names/semitic/_index\|Semitic]] | 1 |

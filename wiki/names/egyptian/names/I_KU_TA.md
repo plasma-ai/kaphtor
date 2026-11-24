@@ -49,6 +49,10 @@ HT 35 .1 I-KU-TA CYP 1 (GORILA I 67). ḥi-ku(p)-ta(ḥ), with the coda p and fi
 | Amarna | ḫi-ku-up-ta-aḫ (EA 84:37); ḫi-ku-ta-aḫ, the p unwritten (EA 139:8) (Belmonte, RGTC 12/2, 105) |
 | Linear B | i-ku-to, a man in the dative (MY Oi 705.1) |
 
+## Linear B
+
+Linear B comparandum: i-ku-to, MY Oi 705.1 (Mycenae personnel/offering tablet; -o thematicization beside LA I-KU-TA).
+
 ## Attestations
 
 | Field | Value |

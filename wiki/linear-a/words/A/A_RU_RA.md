@@ -33,7 +33,7 @@ updated: 2026-11-04T01:52:28Z
 |---|---|
 | Reading | ʾArura |
 | Meaning | place name, heading the HT 11a list under KU-RO 10 |
-| Root | ʾArura (Pre-Greek) |
+| Root | ʾArura |
 | Language layer | Semitic |
 | Tags | hapax, loanword, toponym |
 | Semantic field | toponym |

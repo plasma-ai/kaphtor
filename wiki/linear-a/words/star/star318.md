@@ -58,7 +58,7 @@ di Mino; Uchitel 2016b; Schoep 2002; DULAT
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT45a\|HT45a]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT45b\|HT45b]] | Haghia Triada | Tablet | none |
-| [[wiki/linear-a/inscriptions/HT/HT/HT94a\|HT94a]] | Haghia Triada | Tablet | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/HT/HT/HT94a\|HT94a]] | Haghia Triada | Tablet | incomplete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HT/HT126a\|HT126a]] | Haghia Triada | Tablet | complete |
 
 ## In translations

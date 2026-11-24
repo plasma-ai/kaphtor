@@ -2,10 +2,10 @@
 name: wiki/linear-a/words/I/I_plus_star301
 title: "I+*301"
 desc: "ḥipru nawā: ration of the camp. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "administrative", "ligature", "logogram", "unread"]
+tags: ["linear-a", "word", "tier-1", "administrative", "ligature", "logogram"]
 kind: "word"
 form: "I+*301"
-datasets: ["lexicon", "unread_signs"]
+datasets: ["lexicon"]
 attestations: ["HTWa1022", "KN2"]
 tier: 1
 confidence: "SPECULATIVE"
@@ -67,11 +67,5 @@ di Mino; CAD I/J; DULAT
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/KN/KN/KN2\|KN2]] | ḥipru nawā | ration of the camp | SPECULATIVE |
-
-## Unread sign
-
-A ligature. Status **component read** (a combined sign with a component the lexicon reads).
-
-The lexicon reads [[wiki/linear-a/words/star/star301|\*301]].
 
 <!-- END kaphtor:record -->

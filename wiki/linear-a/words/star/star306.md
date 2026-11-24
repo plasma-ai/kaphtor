@@ -67,7 +67,7 @@ di Mino; Uchitel 2003; Schoep 2002; DULAT; Bartoněk 2003; DNWSI; Salgarella 202
 | [[wiki/linear-a/inscriptions/KH/KH/KH47\|KH47]] | Khania | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/KH/KH/KH84\|KH84]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH87\|KH87]] | Khania | Tablet | none |
-| [[wiki/linear-a/inscriptions/HT/HT/HT94a\|HT94a]] | Haghia Triada | Tablet | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/HT/HT/HT94a\|HT94a]] | Haghia Triada | Tablet | incomplete; form not in transliteration |
 
 ## In translations
 

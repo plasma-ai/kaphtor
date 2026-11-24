@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/star/star21F_TU_NE
 title: "*21F-TU-NE"
-desc: "hatune: bridegroom, son-in-law. Lexicon, CANDIDATE (tier 2)."
+desc: "ḫatun: bridegroom, son-in-law. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "kinship", "noun"]
 kind: "word"
 form: "*21F-TU-NE"
@@ -9,7 +9,7 @@ datasets: ["lexicon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.5
-reading: "hatune"
+reading: "ḫatun"
 attestations: ["HT7b", "HT87", "HT117b"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,7 +31,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | hatune |
+| Reading | ḫatun |
 | Meaning | bridegroom, son-in-law |
 | Root | ḫ-t-n |
 | Proto-Semitic | \*ḫatān- (#S16) |
@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 87: \*21F-TU-NE · MA-KA-RI-TE · heads six men at one unit each (PI-TA-KE-SI 1 … KU-RU-KU 1, A-RA-\[?\]-A-TU 1); HT 117b: \*21F-TU-NE · over KU-RE-JU 1, DI-KI-SE 1; HT 7b: \*21F-TU-NE 1 before DA-RU-\*329 2. A rubric or personnel category in all three. √ḫ-t-n 'bridegroom, son-in-law' is pan-Semitic: Akkadian ḫatānu (CAD Ḫ 148), Ugaritic ḫtn (DULAT 408–409), Hebrew ḥātān (HALOT 364–365) and Arabic ḫatan (Lane 703–704). Syllabic controls are Ugaritic {LU₂}ḫa-ta-nu and Neo-Assyrian ḫa-tu₂-nu /ḫatunu/ (WVDOG 152, P514187.11.1), the latter the closest spelling to the Linear A, though much later. ḫa-tu-ne writes /ḫatun-/, final E a dead vowel. Three attestations.
+HT 87: \*21F-TU-NE · MA-KA-RI-TE · heads six men at one unit each (PI-TA-KE-SI 1 … KU-RU-KU 1, A-RA-\[?\]-A-TU 1); HT 117b: \*21F-TU-NE · over KU-RE-JU 1, DI-KI-SE 1; HT 7b: \*21F-TU-NE 1 before DA-RU-\*329 2. A rubric or personnel category in all three. √ḫ-t-n 'bridegroom, son-in-law' is pan-Semitic: Akkadian ḫatānu (CAD Ḫ 148), Ugaritic ḫtn (DULAT 408–409), Hebrew ḥātān (HALOT 364–365) and Arabic ḫatan (Lane 703–704). Syllabic controls are Ugaritic {LU₂}ḫa-ta-nu (RSO 7, 7, P347845.31.1) and Neo-Assyrian ḫa-tu₂-nu /ḫatunu/ (WVDOG 152, P514187.11.1), genitive ḫa-ti-ni (CTN 2 001, P224527.12.5), ḫatunu the closest spelling to the Linear A, though much later. At Ugarit the word stands behind a gloss mark in an Akkadian deed, ḫa-at-ni (RS 16.136:4–5; Tropper 2000, § 55.22), and Amorite names are built on it: ʾAbī-ḫatan, Ḫatan-pî-ʾIl (Gelb 1980, nos. 81, 2200). ḫa-tu-ne writes /ḫatun-/, final E a dead vowel. Three attestations.
 
 ### Cognates
 
@@ -69,8 +69,8 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT7b\|HT7b]] | hatune | bridegroom, son-in-law, 1 | CANDIDATE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT87\|HT87]] | hatune | bridegroom/in-law category | CANDIDATE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT117b\|HT117b]] | hatune | bridegroom/in-law category (heading) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT7b\|HT7b]] | ḫatun | bridegroom, son-in-law, 1 | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT87\|HT87]] | ḫatun | bridegroom/in-law category | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT117b\|HT117b]] | ḫatun | bridegroom/in-law category (heading) | CANDIDATE |
 
 <!-- END kaphtor:record -->

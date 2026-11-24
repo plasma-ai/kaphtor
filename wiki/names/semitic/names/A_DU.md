@@ -42,7 +42,7 @@ Alalakh kept god and ration apart by the determinative, ᵈIŠKUR beside a-du (R
 
 ## As a name
 
-The god Addu as recipient of the grain booked with TE on HT 92 and HT 133 (Gordon 1966 §129): see lexicon A-DU (HT92, HT133). On HT 85a, 86a, 88, 95b and 99a the same spelling heads personnel and ration lists as the word adû 'work assignment, ration' (lexicon A-DU); KH 23 A-DU\[ breaks after DU and stays unread.
+The god Addu as recipient of the grain booked with TE on HT 92 and HT 133 (Gordon 1966 §129): see lexicon A-DU (HT92, HT133). At Alalakh IV sixteen personal names carry Addu/a against three with Teššup (Niedorf 2008, 44). On HT 85a, 86a, 88, 95b and 99a the same spelling heads personnel and ration lists as the word adû 'work assignment, ration' (lexicon A-DU); KH 23 A-DU\[ breaks after DU and stays unread.
 
 ## Cognates
 

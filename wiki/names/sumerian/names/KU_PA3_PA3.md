@@ -39,7 +39,7 @@ HT 88, under KI-RO ·: KU-PA₃-PA₃ 1, then KA-JU 1 and KU-PA₃-NU 1, in a li
 
 ## As a name
 
-Conditional on PA₃=/ba/, the spelling matches Kubaba. Since Kubaba occurs as a goddess and in personal names, HT88's one-unit roster does not alone decide whether this is the deity, a woman, or a cult institution. The name and the PA₃ value must not circularly confirm one another.
+Conditional on PA₃=/ba/, the spelling matches Kubaba (at Ugarit ku-ba-ba, RS 17.0146 r 23, and {d}ku-ba-ba). Since Kubaba occurs as a goddess and in personal names, HT88's one-unit roster does not alone decide whether this is the deity, a woman, or a cult institution. The name and the PA₃ value must not circularly confirm one another.
 
 ## Cognates
 

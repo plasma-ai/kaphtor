@@ -35,6 +35,19 @@ updated: 2026-11-18T19:49:10Z
 
 Not checked against HoChyMin, which is not held.
 
+## Translation
+
+
+
+di Mino's reading, CANDIDATE, incomplete; 2 words.
+
+| Line | Page | Group | Values | Reading | Gloss | Tier | Rivals | Note |
+|---|---|---|---|---|---|---|---|---|
+|  | 457 | 027-082-013 | si-sa-to | si-sa-to |  | CANDIDATE |  | Reads si-sa-to with CM 1 013 = to (cf. Anatolian Zizzatta, cost 0.10, exploratory). |
+|  | 457 | 023-072-012-009-072 | ti-ja-po-li-ja | ti-ja-po-li-ja |  | CANDIDATE |  | Five-syllable form ti-ja-po-li-ja with double -i-ja- palatal glide. |
+
+Complete two-word Enkomi clay ball: si-sa-to \| ti-ja-po-li-ja.
+
 ## Metadata
 
 ### Editions
@@ -71,6 +84,6 @@ Not checked against HoChyMin, which is not held.
 
 No held source states its identity, museum number, object, hand, visual evidence.
 
-No transcription is reproduced here: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
+No transcription is reproduced here beyond the sign groups of the words read: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
 
 <!-- END kaphtor:record -->

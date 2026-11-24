@@ -36,17 +36,17 @@ updated: 2026-11-13T15:03:19Z
 The Kaphtor Lexicon sets out the Linear A record as read in kaphtor: 736 words drawn from 1,719 corpus records
 at 60 sites, each with its reading, the evidence for it, its tier and its rivals. The readings follow the Semitic
 decipherment of Cyrus Gordon and Tom di Mino, in which Minoan is Tinitic, an archaic branch of Central Semitic written
-in the syllabary whose values Linear B inherited. 633 words read as Semitic, 40 as Hurrian, 13 as
-Egyptian and 12 as Aegean loans or names, and 595 derive their Proto-Semitic root from its associated
+in the syllabary whose values Linear B inherited. 631 words read as Semitic, 40 as Hurrian, 13 as
+Egyptian and 14 as Aegean loans or names, and 595 derive their Proto-Semitic root from its associated
 database, so a reading runs from the tablet to its cognates.
 
 The tier carries the doubt. 19 readings are CONFIRMED, where logogram, sound and arithmetic agree; 79
 are PROBABLE, 278 CANDIDATE and 360 SPECULATIVE, and a reading rises one tier at a time, on new
 evidence. The words are filed by field: personal names (251), commodities (121), administrative
 terms (79), personnel (64), ritual (70), toponyms (44) and divine names
-(35). Beside them stand one page for every inscription, 531 of 650 translations, the
-382 names of the onomasticon, the signs with their 42 resolved and proposed values, and the 361
-legible words that have no reading yet, each with its witnesses. 85 of them are undamaged in every
+(35). Beside them stand one page for every inscription, 530 of 655 translations, the
+384 names of the onomasticon, the signs with their 42 resolved and proposed values, and the 359
+legible words that have no reading yet, each with its witnesses. 83 of them are undamaged in every
 witness.
 <!-- END kaphtor:summary -->
 

@@ -35,6 +35,19 @@ updated: 2026-11-18T19:49:10Z
 
 Not checked against HoChyMin, which is not held.
 
+## Translation
+
+
+
+di Mino's reading, CANDIDATE, incomplete; 2 words.
+
+| Line | Page | Group | Values | Reading | Gloss | Tier | Rivals | Note |
+|---|---|---|---|---|---|---|---|---|
+|  | 455 | 102-073-004-097 | a-mo-ta-ro | a-mo-ta-ro |  | CANDIDATE, emended text |  | Phonetic reading on the ruled grid (emended text). |
+|  | 455 | 053 | ma | ma |  | CANDIDATE, emended text |  | Single-sign notation (053 = ma) after divider. |
+
+Bare stem a-mo-ta-ro (cf. ENKO Avas 002, ENKO Abou 045, and inflected KITI Ipla 001.v a-mo-ta-ro-ti) plus single sign ma.
+
 ## Metadata
 
 ### Editions
@@ -71,6 +84,6 @@ Not checked against HoChyMin, which is not held.
 
 No held source states its identity, museum number, object, hand, visual evidence.
 
-No transcription is reproduced here: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
+No transcription is reproduced here beyond the sign groups of the words read: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
 
 <!-- END kaphtor:record -->

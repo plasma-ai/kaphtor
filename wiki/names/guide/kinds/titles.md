@@ -48,6 +48,7 @@ updated: 2026-11-11T23:39:03Z
 | [[wiki/names/semitic/names/QA_star310_I\|QA-\*310-I]] | qaynī | smith or cultic administrator; occupational title | [[wiki/names/semitic/_index\|Semitic]] | 4 |
 | [[wiki/names/semitic/names/QE_PU\|QE-PU]] | qēpu | official, commissioner (title) | [[wiki/names/semitic/_index\|Semitic]] | 2 |
 | [[wiki/names/semitic/names/QE_SU_PU\|QE-SU-PU]] | qaššāpu | sorcerer, diviner (occupational title or PN) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
+| [[wiki/names/semitic/names/RA\|RA]] | rabbat | the Lady: rabbat written by its first sign | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/RA_O_DI_KI\|RA-O-DI-KI]] | rāʿû diqqi | herdsman of the small cattle (title, over a flock of 60) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/RO_E\|RO-E]] | rōʿē | herdsman, shepherd (title on a label) | [[wiki/names/semitic/_index\|Semitic]] | 1 |
 | [[wiki/names/semitic/names/RO_KE\|RO-KE]] | rōqēaḥ | perfumer (title) | [[wiki/names/semitic/_index\|Semitic]] | 1 |

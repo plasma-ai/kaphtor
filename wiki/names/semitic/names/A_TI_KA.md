@@ -50,6 +50,10 @@ First word on the roundel, before A-DU-KO 2, the numeral read by Perna and Anast
 | Ugaritic | ʿtq 'durable', syllabic at-qá (DULAT 189) |
 | Safaitic | ʿtq, a personal name (Harding 1971, 405) |
 
+## Linear B
+
+Exact Linear B match: a-ti-ka, KN V(4) 831.4 (clean, in a Knossos personal-name list; DMic I 119). Single document on each side (LA: ZA Wc 2); strong comparandum / possible continuity.
+
 ## Attestations
 
 | Field | Value |

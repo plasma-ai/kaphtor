@@ -3,14 +3,18 @@ name: wiki/names/aegean/names
 title: "Aegean names"
 desc: "The Aegean names, one page each."
 created: 2026-11-11T23:39:03Z
-updated: 2026-11-20T14:16:49Z
+updated: 2026-11-24T16:36:59Z
 ---
 
 # Aegean names
 
 [[wiki/names/aegean/_index|..]]
 
+[[wiki/names/aegean/names/KI_DA_TA|KI_DA_TA]]: Kidata: a party receiving grain (name or place). Aegean, SPECULATIVE.
+
 [[wiki/names/aegean/names/MA_RI|MA_RI]]: Mari: Mari (place name; Linear B ma-ri). Aegean, SPECULATIVE.
+
+[[wiki/names/aegean/names/PA_I_TO|PA_I_TO]]: Paito: Phaistos (place name). Aegean, CONFIRMED.
 
 [[wiki/names/aegean/names/RI_KA_TA|RI_KA_TA]]: Likata: Lyktos (place name); compare Egyptian Ri-ka-ta. Aegean, SPECULATIVE.
 

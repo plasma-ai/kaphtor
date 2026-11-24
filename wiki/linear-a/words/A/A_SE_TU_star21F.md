@@ -39,7 +39,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-PH 2 .1 A-SE-TU-\*21F 1, the first entry, above RA-O-DI-KI 60, PI-RU-E-JU 60 and SE-SA-PA₃ 60, whole and undotted (GORILA I 288–289). aš-tu-ḫa with \*21F = ḫa, SE writing š with the e of ašte: the Nuzi woman's name ᶠAš-du-uḫ-ḫa-a-a (NPN 37), Hurrian aštuḫḫi 'feminine' (Laroche GLH 62). Rivals: the line as a heading, 'female (ones)', reading GORILA's 1 as the first stroke of RA (Younger, Linear A Texts); A-SE ʾaššē + an unread TU-\*21F. One witness.
+PH 2 .1 A-SE-TU-\*21F 1, the first entry, above RA-O-DI-KI 60, PI-RU-E-JU 60 and SE-SA-PA₃ 60, whole and undotted (GORILA I 288–289). aš-tu-ḫa with \*21F = ḫa, SE writing š with the e of ašte: the woman Aštuḫa at Sippar, aš-tu-ḫa, the same three syllables (TCL 1, 109:14; Monti 2017, 502), and the Nuzi woman's name ᶠAš-du-uḫ-ḫa-a-a (NPN 37), Hurrian aštuḫḫi 'feminine' (Laroche GLH 62). Women's names on the same base: ᶠAš-du-a-an-ti and ᶠAš-du-a-sar at Nuzi, ᶠAš-tu-a-ta-na at Chagar Bazar (NPN). SE-SA-PA₃ Zizapa on line 4 is Hurrian too. Rivals: the line as a heading, 'female (ones)', reading GORILA's 1 as the first stroke of RA (Younger, Linear A Texts); A-SE ʾaššē + an unread TU-\*21F; \*21F as the ewe logogram before the numeral, A-SE-TU, ewe 1. One witness.
 
 ### Cognates
 

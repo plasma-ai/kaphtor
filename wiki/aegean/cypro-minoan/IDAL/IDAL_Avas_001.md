@@ -35,6 +35,18 @@ updated: 2026-11-18T19:49:10Z
 
 Not checked against HoChyMin, which is not held.
 
+## Translation
+
+
+
+di Mino's reading, SPECULATIVE, incomplete; 1 words.
+
+| Line | Page | Group | Values | Reading | Gloss | Tier | Rivals | Note |
+|---|---|---|---|---|---|---|---|---|
+|  | 486 | 041-041-097 | zi-zi-ro | zi-zi-ro |  | SPECULATIVE, emended text |  | Phonetic reading on the ruled grid (emended text). |
+
+Reduplicated zi-zi-ro (041=zi, SPECULATIVE), identical to ENKO Arou 001.10 and TIRY Abou 001.
+
 ## Metadata
 
 ### Editions
@@ -65,6 +77,6 @@ Not checked against HoChyMin, which is not held.
 
 No held source states its identity, museum number, dimensions, document form, hand, visual evidence.
 
-No transcription is reproduced here: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
+No transcription is reproduced here beyond the sign groups of the words read: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
 
 <!-- END kaphtor:record -->

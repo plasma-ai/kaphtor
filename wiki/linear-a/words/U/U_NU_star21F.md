@@ -33,7 +33,7 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | Unuḫu |
 | Meaning | (the men of) Unuḫu, a town named in a text from Ugarit (RS 17.251), location unknown |
-| Root | Unuḫu (Pre-Greek) |
+| Root | Unuḫu |
 | Language layer | Semitic |
 | Tags | hapax, loanword, toponym, toponym_foreign |
 | Semantic field | toponym |
@@ -75,6 +75,7 @@ di Mino
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |
+| Contact reference | oracc-qpn:3973bafa5f51959641e4 |
 
 ### Note
 

@@ -35,6 +35,19 @@ updated: 2026-11-18T19:49:10Z
 
 Not checked against HoChyMin, which is not held.
 
+## Translation
+
+
+
+di Mino's reading, CANDIDATE, incomplete; 2 words.
+
+| Line | Page | Group | Values | Reading | Gloss | Tier | Rivals | Note |
+|---|---|---|---|---|---|---|---|---|
+|  | 465 | 102-097 | a-ro | a-ro |  | CANDIDATE, emended text |  | Two-syllable form a-ro. |
+|  | 465 | 013-072-004 | to-ja-ta | to-ja-ta |  | CANDIDATE, emended text |  | Valério emends corpus 008 to 013 = to, yielding to-ja-ta (corpus: na-ja-ta). |
+
+Complete two-word Enkomi clay ball: a-ro \| to-ja-ta (corpus reads na-ja-ta).
+
 ## Metadata
 
 ### Editions
@@ -71,6 +84,6 @@ Not checked against HoChyMin, which is not held.
 
 No held source states its identity, museum number, object, hand, visual evidence.
 
-No transcription is reproduced here: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
+No transcription is reproduced here beyond the sign groups of the words read: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
 
 <!-- END kaphtor:record -->

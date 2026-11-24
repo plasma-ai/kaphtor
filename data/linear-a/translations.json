@@ -2124,7 +2124,7 @@
       ],
       "translation": "Partners, contribution of capital: Takušenni-ti 45½; Yidu-ti 20½; Parʿōš-ti 29. Total: 95.",
       "confidence": "CANDIDATE",
-      "status": "partially translated",
+      "status": "complete",
       "notes": "A partnership account: three partners' shares and their total. The arithmetic is exact: 45½ + 20½ + 29 = 95. TI follows each name, and each name stands without it elsewhere (DA-KU-SE-NE on HT 103, PA-RO-SU on HT 20, i-du at Ebla); GORILA I 171 allows TI to be an ideogram, and what it counts is not named.",
       "source": {
         "GORILA I": [
@@ -3368,7 +3368,7 @@
       ],
       "translation": "ZU-*22F-DI: grain-QE 40; oil-U 8, oil-MI 8, oil-KI 2. The queen/royal establishment(?): grain 41, oil 10, DI+QE 3. KU-PA₃-[…]: oil-U 2. — [Damaged commodity] 20; *304 3; oil-KI 2[; ]3 [commodity lost]; olives 1¼; olives-TU 1.",
       "confidence": "CANDIDATE",
-      "status": "partially translated",
+      "status": "incomplete",
       "notes": "Context: mixed-commodity administrative account, Haghia Triada Casa Room 7, LM IB, HT Scribe 2. GORILA I 166–167 and Younger preserve six lines. A horizontal rule after line 4 separates the lower account. The tablet is substantially abraded and fractured; the lacunae after KU-PA₃-, before 20, and across OLE+KI 2[ / ]3 are grammatically and administratively significant. Younger treats the three upper headings as parallel entities or toponyms; Hogan (2026, 80–81) classifies HT101 among mixed-commodity transfer lists. No KU-RO total is written.",
       "source": {
         "GORILA I": [
@@ -3459,7 +3459,7 @@
       ],
       "translation": "Village (KA-PA) account: the queen/royal establishment(?)—grain 976; builder/personnel group(?)—GRA+PA grain 33; ]VIR—GRA+PA grain 33; households (DI-RI-NA) 10; infants (MA-ZU) 3; WI 10; farmer(s) (I-KA) 5. Total: 1,060[.",
       "confidence": "CANDIDATE",
-      "status": "partially translated",
+      "status": "incomplete",
       "notes": "Damaged administrative grain ledger, Casa Room 7, LM IB, HT Scribe 5. A broad diagonal lacuna crosses lines 2–3. KA-PA is read kapa(r) 'village', MA-ZU maṯu 'infants', I-KA ʾikkār 'farmer'. DI-RI-NA remains untranslated. WI 10 stands in the list like the other entries. The entries sum to 1,070; KU-RO shows 1,060, six tens in three pairs beside broken and abraded surface with room for a seventh.",
       "source": {
         "GORILA I": [
@@ -4517,7 +4517,7 @@
       "words": [
         {
           "linear_a": "*21F-TU-NE",
-          "reading": "hatune",
+          "reading": "ḫatun",
           "gloss": "bridegroom/in-law category",
           "confidence": "CANDIDATE",
           "note": "√ḫ-t-n; cf. Akkadian ḫatānu, Ugaritic ḫtn, Hebrew ḥātān, Arabic ḫatan, and cuneiform ha-tu₂-nu /hatunu/. Heading category; also HT117b and HT7b."
@@ -5025,7 +5025,7 @@
         }
       ],
       "translation": "…in righteousness—with (me)…",
-      "status": "partial",
+      "status": "fragmentary",
       "coverage": "100% (2/2 words read; I-TI CANDIDATE)",
       "notes": "Context: Peak sanctuary libation formula.\n\n][··] · JA-SA-SA-RA-ME · I-TI[ on one line (Karetsou, Godart & Olivier, Kadmos 24, 1985, 143), two unreadable signs before the formula word. The closing I-TI = ʾitti 'with (me)' (CANDIDATE) reads the fragment as formula word + comitative; the lacuna immediately after I-TI keeps bare vs suffixed open.",
       "source": {
@@ -5058,7 +5058,7 @@
         }
       ],
       "translation": "Sacred song—[?]",
-      "status": "partial",
+      "status": "fragmentary",
       "coverage": "50% (1/2 words known)",
       "notes": "Context: Peak sanctuary — minimal liturgical inscription\n\nMinimal two-word inscription at Iouktas peak sanctuary. SI-RU-TE confirms liturgical function of the vessel.",
       "source": {
@@ -13761,7 +13761,7 @@
       "words": [
         {
           "linear_a": "*21F-TU-NE",
-          "reading": "hatune",
+          "reading": "ḫatun",
           "gloss": "bridegroom/in-law category (heading)",
           "confidence": "CANDIDATE",
           "note": "√ḫ-t-n, pan-Semitic: Akkadian ḫatānu, Ugaritic ḫtn, Hebrew ḥātān, and Arabic ḫatan. Cuneiform ha-tu₂-nu /hatunu/ supplies a close, though much later, spelling parallel. Three attestations at Haghia Triada (HT7b, HT87, HT117b)."
@@ -14189,7 +14189,7 @@
         }
       ],
       "translation": "Wine (?) — figs (?) — RA-type wine (?).",
-      "status": "doubtful",
+      "status": "complete",
       "notes": "Conditional sign identification on an amygdaloid seal whose classification as Linear A is disputed. RILA-S1 lists D 23 CR (?) Zg 3 as doubtful; Decorte (2018, 55) calls it possible but uncertain, and Civitillo (2024) includes it among the problematic Linear A seals and notes that no date has been proposed. If the signs are correctly identified, VIN and NI denote wine and figs. VIN+RA is independently attested as a distinct wine category, but raḥṣu ‘washed/filtered wine’ remains only an acrophonic candidate and is not translated here.",
       "source": "RILA-S1 D 23; Decorte 2018, 55; Civitillo 2024"
     },
@@ -14273,7 +14273,7 @@
       ],
       "translation": "I weep—and here.",
       "confidence": "SPECULATIVE",
-      "status": "speculative",
+      "status": "complete",
       "notes": "Two complete three-sign groups are incised on separate lines of a pithoid jar. Findspot: Unexplored Mansion, Knossos; LM II destruction deposit, jar typologically LM I, inscription probably LM IB (Popham 1976, Kadmos 15; Owens 1998–99, Talanta 30–31, 147–48). The Mansion's upper floor held a domestic shrine with a goddess figurine (Owens). Both lexical identifications and the composite translation remain speculative.",
       "source": "Popham 1976; Owens 1998–99, 147–48; Tropper §81.11a; ORACC P273162, P338383; di Mino, Ya Diktu"
     },
@@ -15646,7 +15646,7 @@
       "words": [
         {
           "linear_a": "*21F-TU-NE",
-          "reading": "hatune",
+          "reading": "ḫatun",
           "gloss": "bridegroom, son-in-law, 1",
           "confidence": "CANDIDATE"
         },
@@ -20783,6 +20783,296 @@
       },
       "confidence": "SPECULATIVE",
       "status": "incomplete"
+    },
+    "HT40": {
+      "site": "Haghia Triada",
+      "support": "Clay tablet",
+      "findspot": "Villa Magazine",
+      "scribe": "HT Scribe 2",
+      "status": "incomplete",
+      "confidence": "SPECULATIVE",
+      "words": [
+        {
+          "linear_a": "NU-DU-*331",
+          "reading": null,
+          "reading_type": "UNKNOWN",
+          "gloss": "personal name (unread)",
+          "confidence": null,
+          "note": "*331 has no resolved value. No reading."
+        },
+        {
+          "linear_a": "TE",
+          "reading": "terûmā",
+          "gloss": "contribution, offering",
+          "root": "r-w-m",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "GRA",
+          "reading": "[ideogram]",
+          "reading_type": "IDEOGRAM",
+          "gloss": "grain (dagān)",
+          "quantity": 207,
+          "confidence": "PROBABLE"
+        },
+        {
+          "linear_a": "KI-DA-TA",
+          "reading": "Kidata",
+          "gloss": "Kidata (party receiving grain)",
+          "confidence": "SPECULATIVE"
+        },
+        {
+          "linear_a": "GRA",
+          "reading": "[ideogram]",
+          "reading_type": "IDEOGRAM",
+          "gloss": "grain (dagān)",
+          "quantity": 134,
+          "confidence": "PROBABLE"
+        },
+        {
+          "linear_a": "KU-RO",
+          "reading": "kull",
+          "gloss": "total",
+          "root": "k-l-l",
+          "confidence": "CONFIRMED"
+        },
+        {
+          "linear_a": "KU",
+          "reading": "kull",
+          "gloss": "all / miscellaneous category",
+          "root": "k-l-l",
+          "confidence": "CANDIDATE"
+        }
+      ],
+      "translation": "NU-DU-*331, contribution: grain 207; Kidata: grain 134. Total [lost]; KU [lost].",
+      "notes": "Two grain entries, 207 + 134 = 341. KU-RO and KU each stand alone on a line with no numeral preserved; the tablet is damaged below. NU-DU-*331 holds the slot KI-DA-TA holds on line 2.",
+      "source": "GORILA"
+    },
+    "HT43": {
+      "site": "Haghia Triada",
+      "support": "Clay tablet",
+      "findspot": "Villa Magazine",
+      "status": "incomplete",
+      "confidence": "SPECULATIVE",
+      "words": [
+        {
+          "linear_a": "MA-SI-DU",
+          "reading": "maṣīdu",
+          "gloss": "provisions (list heading)",
+          "root": "ṣ-w-d",
+          "confidence": "SPECULATIVE"
+        },
+        {
+          "linear_a": "PA-*342-I",
+          "reading": null,
+          "reading_type": "UNKNOWN",
+          "gloss": "personal name (unread)",
+          "confidence": null,
+          "note": "*342 has no resolved value. No reading."
+        },
+        {
+          "linear_a": "I",
+          "reading": "ḥipru",
+          "gloss": "ration (abbreviation of ḥipru)",
+          "root": "ḥ-p-r",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "GRA+PA",
+          "reading": "parīsu",
+          "gloss": "parīsu grain measure",
+          "root": "p-r-s",
+          "quantity": 5,
+          "confidence": "CANDIDATE"
+        }
+      ],
+      "translation": "Provisions: PA-*342-I, ration—parīsu-measure grain 5 […].",
+      "notes": "Short grain-ration record from the Villa Magazine. PA-*342-I occupies the recipient personal-name slot and remains unread.",
+      "source": "GORILA"
+    },
+    "HT94a": {
+      "site": "Haghia Triada",
+      "support": "Clay tablet",
+      "findspot": "Casa Room 7",
+      "scribe": "HT Scribe 9",
+      "status": "incomplete",
+      "confidence": "CANDIDATE",
+      "words": [
+        {
+          "linear_a": "KA-PA",
+          "reading": "kapa(r)",
+          "gloss": "village, settlement",
+          "root": "k-p-r",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "VIR+[?]",
+          "reading": "[ideogram]",
+          "reading_type": "IDEOGRAM",
+          "gloss": "men (personnel class)",
+          "quantity": 62,
+          "confidence": "PROBABLE"
+        },
+        {
+          "linear_a": "*86",
+          "reading": "[logogram]",
+          "reading_type": "LOGOGRAM",
+          "gloss": "ship: its crew, counted after the men",
+          "quantity": 20,
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "TI+A",
+          "reading": null,
+          "reading_type": "UNKNOWN",
+          "gloss": "unidentified (unread)",
+          "quantity": 7,
+          "confidence": null,
+          "note": "Unread ligature of TI and A in personnel count. No reading."
+        },
+        {
+          "linear_a": "VIR+*313b",
+          "reading": "[ideogram]",
+          "reading_type": "IDEOGRAM",
+          "gloss": "a counted class of men, VIR qualified by *313",
+          "quantity": 18,
+          "confidence": "CONFIRMED"
+        },
+        {
+          "linear_a": "TA",
+          "reading": "ṯa(ġ)ra",
+          "gloss": "wardens, work-group supervisors",
+          "root": "*ṯaġr- 'gate'",
+          "quantity": 4,
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "KU-RO",
+          "reading": "kull",
+          "gloss": "total",
+          "root": "k-l-l",
+          "quantity": 110,
+          "confidence": "CONFIRMED",
+          "note": "Sum of entries is 62 + 20 + 7 + 18 + 4 = 111; scribe wrote 110 (off by 1, Schoep 2002, 160 n. 242)."
+        },
+        {
+          "linear_a": "SA-RA₂",
+          "reading": "šarra",
+          "gloss": "queen / royal establishment",
+          "root": "š-r-r",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "CYP",
+          "reading": "[ideogram]",
+          "reading_type": "IDEOGRAM",
+          "gloss": "cyperus, aromatic sedge",
+          "quantity": 5,
+          "confidence": "PROBABLE"
+        },
+        {
+          "linear_a": "NI",
+          "reading": "[ideogram]",
+          "reading_type": "IDEOGRAM",
+          "gloss": "figs",
+          "quantity": "3 1/6",
+          "confidence": "CONFIRMED"
+        },
+        {
+          "linear_a": "*318-*306",
+          "reading": "ʿabdu",
+          "gloss": "servants of the table: *318 the table, *306 ʿabdu 'servants'",
+          "quantity": 11,
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "CYP",
+          "reading": "[ideogram]",
+          "reading_type": "IDEOGRAM",
+          "gloss": "cyperus, aromatic sedge (double mina)",
+          "confidence": "PROBABLE"
+        },
+        {
+          "linear_a": "NI",
+          "reading": "[ideogram]",
+          "reading_type": "IDEOGRAM",
+          "gloss": "figs (double mina; 14½; ⅕)",
+          "confidence": "CONFIRMED"
+        }
+      ],
+      "translation": "Village (KA-PA): men 62; the ship's crew (*86) 20; TI+A 7; men of the class VIR+*313b 18; wardens 4. Total: 110. Royal establishment (SA-RA₂): cyperus 5, figs 3⅙, 2; servants of the table (*318-*306) 11: cyperus (double mina), figs (double mina) 14½, figs ⅕.",
+      "notes": "Recto of HT 94b. The five personnel lines sum to 111 against the inscribed KU-RO 110 (Schoep 2002, 160 n. 242). A numeral 2 follows the fig entry on its own line. TI+A is unread.",
+      "source": "GORILA"
+    },
+    "HT99b": {
+      "site": "Haghia Triada",
+      "support": "Clay tablet",
+      "findspot": "Casa Room 7",
+      "scribe": "HT Scribe 2",
+      "status": "complete",
+      "confidence": "CANDIDATE",
+      "words": [
+        {
+          "linear_a": "SI+SE-NI",
+          "reading": "ṣiṣe",
+          "gloss": "the salt-works, with the fig sign NI: figs",
+          "quantity": 6,
+          "confidence": "SPECULATIVE"
+        },
+        {
+          "linear_a": "DA-SI-*118",
+          "reading": "Ḏā-šiṭṭa",
+          "gloss": "those of Acacia (gentilic / roster unit)",
+          "root": "ḏ + š-n-ṭ",
+          "quantity": 2,
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "ZU-DU",
+          "reading": "ṯudu",
+          "gloss": "breast",
+          "root": "*ṯa/ud- (PS #2036)",
+          "quantity": 1,
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "RU-MA-TA",
+          "reading": "rūmatā",
+          "gloss": "the Height (toponym)",
+          "root": "r-w-m",
+          "quantity": 1,
+          "confidence": "CANDIDATE"
+        }
+      ],
+      "translation": "Salt-works (SI+SE): figs 6; those of Acacia (Ḏā-šiṭṭa) 2; breast (ṯudu) 1; the Height (Rūmatā) 1.",
+      "notes": "Verso of HT 99a. Four counted entries. SI+SE stands before the fig sign as it stands before grain, oil and olives on HT 116a.",
+      "source": "GORILA"
+    },
+    "HTWc3006": {
+      "site": "Haghia Triada",
+      "support": "Roundel",
+      "status": "incomplete",
+      "confidence": "SPECULATIVE",
+      "words": [
+        {
+          "linear_a": "WA-O-MI",
+          "reading": null,
+          "reading_type": "UNKNOWN",
+          "gloss": "personal name (unread)",
+          "confidence": null,
+          "note": "No reading."
+        },
+        {
+          "linear_a": "RA-*314-RA",
+          "reading": "Raḥal",
+          "gloss": "Raḥal (personal name, 'Ewe')",
+          "root": "r-ḥ-l",
+          "confidence": "SPECULATIVE"
+        }
+      ],
+      "translation": "WA-O-MI · Raḥal.",
+      "notes": "A roundel with a word on each side, WA-O-MI on side a and RA-*314-RA on side b (GORILA II 73), and no logogram. WA-O-MI is unread.",
+      "source": "GORILA"
     }
   }
 }

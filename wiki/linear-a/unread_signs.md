@@ -18,13 +18,13 @@ updated: 2026-11-12T00:26:03Z
 
 Every number on this page is computed from the data files.
 
-153 single and combined signs stand as entries in the corpus without a lexicon entry. 86 records with no translation wait on one of them alone: every other token there is a numeral, a lexicon entry or a name with a reading.
+151 single and combined signs stand as entries in the corpus without a lexicon entry. 86 records with no translation wait on one of them alone: every other token there is a numeral, a lexicon entry or a name with a reading.
 
 ## By status
 
 | Status | Signs | Meaning |
 |---|---|---|
-| component read | 82 | a combined sign with a component the lexicon reads |
+| component read | 80 | a combined sign with a component the lexicon reads |
 | unread | 67 | nothing on file |
 | value on file | 4 | sign_values.json or a translation gives it a value; it has no lexicon entry |
 
@@ -102,7 +102,6 @@ Ordered by the records each one alone leaves unread, then by occurrences.
 | [[wiki/linear-a/words/E/E_plus_KA\|E+KA]] | ligature | component read | 2 | 0 |  | reads E, KA |
 | [[wiki/linear-a/words/G/GRA_plus_B\|GRA+B]] | ligature | component read | 2 | 0 |  | reads GRA |
 | [[wiki/linear-a/words/H/HIDE_plus_B\|HIDE+B]] | ligature | component read | 2 | 0 |  | reads HIDE |
-| [[wiki/linear-a/words/I/I_plus_star301\|I+\*301]] | ligature | component read | 2 | 0 |  | reads \*301 |
 | [[wiki/linear-a/words/J/JU\|JU]] | syllabogram | value on file | 2 | 0 |  | to/for (dedicatory preposition) or asseverative lū |
 | [[wiki/linear-a/words/O/OLE_plus_A\|OLE+A]] | ligature | component read | 2 | 0 |  | reads OLE |
 | [[wiki/linear-a/words/O/OLE_plus_QIf\|OLE+QIf]] | ligature | component read | 2 | 0 |  | reads OLE |
@@ -134,7 +133,6 @@ Ordered by the records each one alone leaves unread, then by occurrences.
 | [[wiki/linear-a/words/star/star414_plus_F\|\*414+F]] | ligature | unread | 1 | 0 |  |  |
 | [[wiki/linear-a/words/star/star806_VIN\|\*806-VIN]] | compound | component read | 1 | 0 |  | reads VIN |
 | [[wiki/linear-a/words/C/CYP_plus_K\|CYP+K]] | ligature | component read | 1 | 0 |  | reads CYP |
-| [[wiki/linear-a/words/D/DA_plus_star301\|DA+\*301]] | ligature | component read | 1 | 0 |  | reads \*301 |
 | [[wiki/linear-a/words/D/DA_plus_RE_plus_SE\|DA+RE+SE]] | ligature | component read | 1 | 0 |  | reads RE |
 | [[wiki/linear-a/words/D/DI_plus_QE\|DI+QE]] | ligature | component read | 1 | 0 |  | reads DI, QE |
 | [[wiki/linear-a/words/D/DU_AROM_A\|DU-AROM-A]] | compound | component read | 1 | 0 |  | reads DU |

@@ -49,7 +49,7 @@ Unicode (Linear A block):
 
 ## Translation
 
-**CANDIDATE**, complete (status: doubtful).
+**CANDIDATE**, complete (status: complete).
 
 > Wine (?) — figs (?) — RA-type wine (?).
 

@@ -69,6 +69,7 @@ Ilin-Tomich 2025 (PNM v6), s.v. pꜣjj; di Mino
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |
+| Contact reference | pnm:142610149 |
 
 ### Note
 

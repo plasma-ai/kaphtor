@@ -37,6 +37,19 @@ Not checked against HoChyMin, which is not held.
 
 Siglum: Donnelly 2024's caption to Fig. 23 labels ##024 'ENKO Abou 029' (70). (Donnelly 2024, 70)
 
+## Translation
+
+
+
+di Mino's reading, CANDIDATE, incomplete; 2 words.
+
+| Line | Page | Group | Values | Reading | Gloss | Tier | Rivals | Note |
+|---|---|---|---|---|---|---|---|---|
+|  | 457 | 102-073-004-097-110-073 | a-mo-ta-ro-ku-mo | a-mo-ta-ro-ku-mo |  | CANDIDATE |  | Phonetic reading on the ruled grid (corpus text). |
+|  | 457 | 096 | ri | ri |  | CANDIDATE |  | Single-sign notation (096 = ri) after divider. |
+
+Extended form a-mo-ta-ro-ku-mo \| ri on bare stem a-mo-ta-ro (Valério 2016, §4.2).
+
 ## Metadata
 
 ### Editions
@@ -73,6 +86,6 @@ Siglum: Donnelly 2024's caption to Fig. 23 labels ##024 'ENKO Abou 029' (70). (D
 
 No held source states its identity, museum number, object, hand, visual evidence.
 
-No transcription is reproduced here: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
+No transcription is reproduced here beyond the sign groups of the words read: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
 
 <!-- END kaphtor:record -->

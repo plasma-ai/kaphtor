@@ -50,6 +50,10 @@ HT 97a .4 MA-DI 5 in the KA-RU list of men by place, after PA-I-TO 6 (GORILA I 1
 | Linear B | ma-di (KN As 603.2, Db 1168); ma-di-qo (KN Bk 806, Db 1460, Dl 930); \]ma-di-jo\[ (KH Z 3); ma-di-je (TH Av 101, Fq 214, 254, 258, 263) |
 | Hurrian | Madi PN, madi 'wisdom' (de Martino 2011, 68), rival |
 
+## Linear B
+
+Exact Linear B continuity: ma-di, 2 KN documents, both clean—KN As(1) 603+8157+fr., line 2 (personnel roster) and KN Db 1168+7168+fr., line 2 (herder at e-ko-so), beside derived ma-di-qo / ma-di-je (DMic I 422). In Linear B a man's name at Knossos; the Linear A word is a place.
+
 ## Attestations
 
 | Field | Value |

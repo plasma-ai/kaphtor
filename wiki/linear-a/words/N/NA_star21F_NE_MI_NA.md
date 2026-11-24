@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 115a .2–.3 NA-\*21F-NE-MI-NA 1, NA-\*21F at the end of .2 after the erased ⟦\*301-Ụ-RA⟧, NE-MI-NA at the head of .3, all five signs whole and undotted, on a palimpsest (GORILA I 189). Egyptian nẖnm, one of the seven sacred oils of the offering lists (AED lemma 87760; Wb 2, 319.1–3): \*21F writes ẖ as it writes Hurrian ḫ in A-SE-TU-\*21F, NE and MI the n and m. NA is the noun ending in -n that Semitic adds to Egyptian loans: Hebrew ʾēṭûn 'linen' &lt; jdm.j (HALOT 37), qîqāyôn 'castor-oil plant' &lt; kꜣkꜣ (HALOT 1099), Akkadian kukkānītu (CAD K 498). HT 135a has \]NẸ-MI-NA 10 (.1) and NA-\*21F-NE\[ (.3), each matching one end of this word. Rival: a personal name, as Ritmā, Šakūtu and Barāne stand beside it. One whole witness.
+HT 115a .2–.3 NA-\*21F-NE-MI-NA 1, NA-\*21F at the end of .2 after the erased ⟦\*301-Ụ-RA⟧, NE-MI-NA at the head of .3, all five signs whole and undotted, on a palimpsest (GORILA I 189). Egyptian nẖnm, one of the seven sacred oils of the offering lists (AED lemma 87760; Wb 2, 319.1–3), spelled nḫnm, with ḫ, on the stela of Mery (Louvre C 3, B.4): \*21F writes ẖ as it writes Hurrian ḫ in A-SE-TU-\*21F, NE and MI the n and m. NA is the noun ending in -n that Semitic adds to Egyptian loans: Hebrew ʾēṭûn 'linen' &lt; jdm.j (HALOT 37), qîqāyôn 'castor-oil plant' &lt; kꜣkꜣ (HALOT 1099), Akkadian kukkānītu (CAD K 498). HT 135a has \]NẸ-MI-NA 10 (.1) and NA-\*21F-NE\[ (.3), each matching one end of this word. Rival: a personal name, as Ritmā, Šakūtu and Barāne stand beside it. One whole witness.
 
 ### Cognates
 

@@ -47,6 +47,10 @@ Egyptian Pꜣjj, the first element of PA-JA-RE, a common name under Thutmose III
 | Egyptian | pꜣ.jj, a name borne by men and women, late 12th–18th Dynasty before Amenhotep IV (PNM v6, personal_names_id 142610149; Ranke I, 129.4) |
 | Hurrian (rival) | Paya, pa-a-ya, Alalaḫ VII (Draffkorn 1959, 46, apud Monti 2017, 481, marked ?) |
 
+## Linear B
+
+Exact Linear B match (damaged): pa-ja, KN Uf(1) 111+134+fr., line 2 (landholding) and KN V(3) 503.2 (personnel list). Both Knossos attestations are damaged readings; retained as comparandum rather than firm continuity.
+
 ## Attestations
 
 | Field | Value |

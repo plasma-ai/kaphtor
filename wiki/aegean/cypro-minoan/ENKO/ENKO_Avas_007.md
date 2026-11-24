@@ -41,6 +41,18 @@ Set against the lead statement:
 
 Not checked against HoChyMin, which is not held.
 
+## Translation
+
+
+
+di Mino's reading, CANDIDATE, incomplete; 1 words.
+
+| Line | Page | Group | Values | Reading | Gloss | Tier | Rivals | Note |
+|---|---|---|---|---|---|---|---|---|
+|  | 484 | 023-002 | ti-ne | ti-ne |  | CANDIDATE |  | Phonetic reading on the ruled grid (corpus text). |
+
+Short CM 1 inscription read in full on the ruled grid (ti-ne).
+
 ## Metadata
 
 ### Editions
@@ -71,6 +83,6 @@ Not checked against HoChyMin, which is not held.
 
 No held source states its identity, museum number, dimensions, document form, hand, visual evidence.
 
-No transcription is reproduced here: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
+No transcription is reproduced here beyond the sign groups of the words read: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
 
 <!-- END kaphtor:record -->

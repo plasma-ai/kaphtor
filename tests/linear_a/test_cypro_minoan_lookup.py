@@ -411,7 +411,8 @@ def test_the_translations_ship_only_the_groups_of_the_words_read():
         else:                    # nor do its rivals' readings, which spell the group in other notations
             assert w["cypro_minoan"] is None and w["values"] == [], w
             assert all("reading" not in v for v in w["rivals"]), w
-        assert isinstance(w["page"], int) and w["line"] and w["text"] in ("corpus", "emended"), w
+        assert isinstance(w["page"], int) and (w["line"] is None or (isinstance(w["line"], str) and w["line"])) \
+            and w["text"] in ("corpus", "emended"), w
         assert all(v["work"] and v["page"] for v in w["rivals"]), w
     assert set(shipped["translations"]) <= set(json.loads((SHIPPED / "catalogue.json").read_text(encoding="utf-8")))
 

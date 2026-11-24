@@ -23,7 +23,7 @@ updated: 2026-10-24T16:17:50Z
 
 **Status: proposed.** A proposed value.
 
-Evidence: qi reads \*34-TI-RI qiṭrī, PI-\*34-TE piqitti and U-\*34-SI u-qīš; ai reads only PI-\*34-TE bayte, ʿi only \*34-TI-RI ʿiṭrī; AB21 QI never stands inside a word. Against: U-\*34-SI and PI-\*34-TE share their slots with U-MI-NA-SI and \]PI-MI-NA-TE, though \*34 is no MI+NA monogram
+Evidence: qi reads \*34-TI-RI qiṭrī, PI-\*34-TE piqitti and U-\*34-SI u-qīš; ai reads only PI-\*34-TE bayte, ʿi only \*34-TI-RI ʿiṭrī; AB 21 stands inside a word only in its female form, \*21F, read here as an H-sign. Against: U-\*34-SI and PI-\*34-TE share their slots with U-MI-NA-SI and \]PI-MI-NA-TE, though \*34 is no MI+NA monogram
 
 ## Phonetic value
 
@@ -51,7 +51,7 @@ Evidence: qi reads \*34-TI-RI qiṭrī, PI-\*34-TE piqitti and U-\*34-SI u-qīš
 
 ### Note
 
-CANDIDATE (0.60). Seven tokens on six documents, one shape: an open bow, sometimes with a bar or dot inside; not a monogram of MI+NA. qi reads \*34-TI-RI qiṭrī, PI-\*34-TE piqitti and U-\*34-SI, the heading of both oil sections of HT 140 and of the grain account HT 15, √q-y-š 'give as a gift' (Akk. qāšu, CAD Q 156; Amorite QJŠ, Gelb AS 21, 29). ai reads only PI-\*34-TE bayte; ʿi only \*34-TI-RI ʿiṭrī. \*34-JU-TE-MI\[ (ZA 6a) is broken. AB21 QI never stands inside a word. In Linear B, Melena reads it /ˈai/ with a glottal onset (Untransliterated Syllabograms, 21–22), Bibee and Wilson-Wright 2017 a laryngeal before i (Aegean Scripts II, 713–18), the reflex a uvular q would leave in Greek. Against: no spelling variant checks qi.
+CANDIDATE (0.60). Seven tokens on six documents, one shape: an open bow, sometimes with a bar or dot inside; not a monogram of MI+NA. qi reads \*34-TI-RI qiṭrī, PI-\*34-TE piqitti and U-\*34-SI, the heading of both oil sections of HT 140 and of the grain account HT 15, √q-y-š 'give as a gift' (Akk. qāšu, CAD Q 156; Amorite QJŠ, Gelb AS 21, 29). ai reads only PI-\*34-TE bayte; ʿi only \*34-TI-RI ʿiṭrī. \*34-JU-TE-MI\[ (ZA 6a) is broken. AB 21 stands inside a word only in its female form, \*21F, read here as an H-sign. In Linear B, Melena reads it /ˈai/ with a glottal onset (Untransliterated Syllabograms, 21–22), Bibee and Wilson-Wright 2017 a laryngeal before i (Aegean Scripts II, 713–18), the reflex a uvular q would leave in Greek. Against: no spelling variant checks qi.
 
 ## Lexicon words written with this sign
 

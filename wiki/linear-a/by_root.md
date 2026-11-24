@@ -78,7 +78,7 @@ Entries grouped by a consonantal key of their `root` field. The key is lossy: it
 | dʔy | d-ʾ-y | [[wiki/linear-a/words/D/DI_JA_I\|DI-JA-I]] |
 | dṯr | d-ṯ-r | [[wiki/linear-a/words/D/DA_SE_RA_TE\|DA-SE-RA-TE]], [[wiki/linear-a/words/D/DA_TA_RA\|DA-TA-RA]] |
 | gd | g-d | [[wiki/linear-a/words/K/KU_DA\|KU-DA]] |
-| gntprgrk | Ganuti (Pre-Greek) | [[wiki/linear-a/words/K/KA_NU_TI\|KA-NU-TI]] |
+| gnt | Ganuti | [[wiki/linear-a/words/K/KA_NU_TI\|KA-NU-TI]] |
 | gt | g-t | [[wiki/linear-a/words/K/KI_TA_I\|KI-TA-I]] |
 | hddkmm | h-d-d + k-m-m | [[wiki/linear-a/words/A/A_DU_KU_MI_NA\|A-DU-KU-MI-NA]] |
 | hnn | h-n-n | [[wiki/linear-a/words/I/I_NA\|I-NA]] |
@@ -90,7 +90,7 @@ Entries grouped by a consonantal key of their `root` field. The key is lossy: it
 | kbbsmrnkgbbhsn | Kubaba (Sumerian Kug-Baba, Haas 1994, 406) + -ān- | [[wiki/linear-a/words/K/KU_PA3_NU\|KU-PA₃-NU]] |
 | kbbsmrnkgbbhsnt | Kubaba (Sumerian Kug-Baba, Haas 1994, 406) + -ān- + -at- | [[wiki/linear-a/words/K/KU_PA3_NA_TU\|KU-PA₃-NA-TU]] |
 | kbbsmrnkgbbprbbhskgllprcd | Kubaba (Sumerian Kug-Baba 'pure Baba', Haas 1994, 406; kug = ellu 'pure', CAD E 102) | [[wiki/linear-a/words/K/KU_PA3_PA3\|KU-PA₃-PA₃]] |
-| kbryprgrk | Kubariya (Pre-Greek) | [[wiki/linear-a/words/K/KU_PA3_RI_JA\|KU-PA₃-RI-JA]] |
+| kbry | Kubariya | [[wiki/linear-a/words/K/KU_PA3_RI_JA\|KU-PA₃-RI-JA]] |
 | kdd | k-d-d | [[wiki/linear-a/words/K/KA_DI\|KA-DI]] |
 | kdn | k-d-n | [[wiki/linear-a/words/K/KI_DI_NI\|KI-DI-NI]] |
 | kdtprgrk | Kidata (Pre-Greek) | [[wiki/linear-a/words/K/KI_DA_TA\|KI-DA-TA]] |
@@ -98,7 +98,7 @@ Entries grouped by a consonantal key of their `root` field. The key is lossy: it
 | khnt | k-h-n-t | [[wiki/linear-a/words/K/KU_NI_TE\|KU-NI-TE]] |
 | kkb | k-k-b | [[wiki/linear-a/words/K/KA_KU_PA\|KA-KU-PA]] |
 | kkk | k-k-k | [[wiki/linear-a/words/K/KA_KU\|KA-KU]] |
-| kkknprgrk | Kikkina (Pre-Greek) | [[wiki/linear-a/words/K/KI_KI_NA\|KI-KI-NA]] |
+| kkkn | Kikkina | [[wiki/linear-a/words/K/KI_KI_NA\|KI-KI-NA]] |
 | kkkʕnt | k-k-k + ʿ-n-t | [[wiki/linear-a/words/K/KA_KU_NE_TE\|KA-KU-NE-TE]] |
 | kkr | ikkaru; k-k-r | [[wiki/linear-a/words/I/I_KI_RA\|I-KI-RA]], [[wiki/linear-a/words/K/KE_KI_RU\|KE-KI-RU]], [[wiki/linear-a/words/K/KI_KI_RA_JA\|KI-KI-RA-JA]], [[wiki/linear-a/words/Q/QA_KU_RE\|QA-KU-RE]], [[wiki/linear-a/words/Q/QE_KU_RE\|QE-KU-RE]] |
 | kll | k-l-l | [[wiki/linear-a/words/K/KU\|KU]], [[wiki/linear-a/words/K/KU_RA\|KU-RA]], [[wiki/linear-a/words/K/KU_RE_JU\|KU-RE-JU]], [[wiki/linear-a/words/K/KU_RO\|KU-RO]] |
@@ -120,11 +120,10 @@ Entries grouped by a consonantal key of their `root` field. The key is lossy: it
 | krm | k-r-m | [[wiki/linear-a/words/K/KU_RU_MA\|KU-RU-MA]] |
 | krmpskrm | k-r-m (PS \*karm-) | [[wiki/linear-a/words/K/KU_RA_MU\|KU-RA-MU]] |
 | krp | k-r-p | [[wiki/linear-a/words/K/KA_RO_PA3\|KA-RO-PA₃]] |
-| krr | k-r(-r); k-r-r | [[wiki/linear-a/words/K/KA_RU\|KA-RU]], [[wiki/linear-a/words/K/KI_RU\|KI-RU]], [[wiki/linear-a/words/K/KO_RU\|KO-RU]] |
-| krrprgrk | Kariru (Pre-Greek) | [[wiki/linear-a/words/K/KA_RE_RO\|KA-RE-RO]] |
+| krr | Kariru; k-r(-r); k-r-r | [[wiki/linear-a/words/K/KA_RE_RO\|KA-RE-RO]], [[wiki/linear-a/words/K/KA_RU\|KA-RU]], [[wiki/linear-a/words/K/KI_RU\|KI-RU]], [[wiki/linear-a/words/K/KO_RU\|KO-RU]] |
 | krt | k-r-t | [[wiki/linear-a/words/K/KI_RE_TA_NA\|KI-RE-TA-NA]], [[wiki/linear-a/words/K/KI_RE_TA2\|KI-RE-TA₂]], [[wiki/linear-a/words/K/KI_RI_TA2\|KI-RI-TA₂]] |
 | kry | k-r-y | [[wiki/linear-a/words/K/KI_RA\|KI-RA]] |
-| kršprgrk | Kiriš (Pre-Greek) | [[wiki/linear-a/words/K/KI_RI_SI\|KI-RI-SI]] |
+| krš | Kiriš | [[wiki/linear-a/words/K/KI_RI_SI\|KI-RI-SI]] |
 | ksy | k-s-y | [[wiki/linear-a/words/J/JA_KI_SI_KI_NU\|JA-KI-SI-KI-NU]] |
 | ksymqtlmksy | k-s-y (miqtal \*miksay-) | [[wiki/linear-a/words/M/MI_KI_SE_NA\|MI-KI-SE-NA]] |
 | ktn | k-t-n | [[wiki/linear-a/words/K/KI_TA_NA\|KI-TA-NA]] |
@@ -136,7 +135,7 @@ Entries grouped by a consonantal key of their `root` field. The key is lossy: it
 | kʔs | k-ʾ-s | [[wiki/linear-a/words/star/star406VAS_plus_KE\|\*406VAS+KE]] |
 | kḏ | k + ḏ | [[wiki/linear-a/words/K/KA_star305\|KA-\*305]] |
 | kḥṯ | k-ḥ-ṯ | [[wiki/linear-a/words/K/KA_star314_SI\|KA-\*314-SI]] |
-| kṯnprgrk | Kuṯinu (Pre-Greek) | [[wiki/linear-a/words/K/KU_ZU_NI\|KU-ZU-NI]] |
+| kṯn | Kuṯinu | [[wiki/linear-a/words/K/KU_ZU_NI\|KU-ZU-NI]] |
 | kꜣškshdlmmftrwbytfmnnnsb | Kꜣš 'Kush' (AED lemma 163680, after Wb 5, 109.1) + -ay- + -īt (feminine nisbe) | [[wiki/linear-a/words/K/KO_SA_I_TI\|KO-SA-I-TI]] |
 | l | l | [[wiki/linear-a/words/R/RE\|RE]] |
 | llr | l-l-r | [[wiki/linear-a/words/R/RA2_RO_RE\|RA₂-RO-RE]] |
@@ -176,7 +175,7 @@ Entries grouped by a consonantal key of their `root` field. The key is lossy: it
 | nyn | n-y-n | [[wiki/linear-a/words/N/NI_NU_NI\|NI-NU-NI]] |
 | nśʔ | n-ś-ʾ | [[wiki/linear-a/words/N/NA_SI\|NA-SI]] |
 | nʕm | n-ʿ-m | [[wiki/linear-a/words/N/NA_MA\|NA-MA]], [[wiki/linear-a/words/T/TA_NA_MA_JE\|TA-NA-MA-JE]], [[wiki/linear-a/words/T/TA_NU_MU_TI\|TA-NU-MU-TI]] |
-| nḫprgrk | Unuḫu (Pre-Greek) | [[wiki/linear-a/words/U/U_NU_star21F\|U-NU-\*21F]] |
+| nḫ | Unuḫu | [[wiki/linear-a/words/U/U_NU_star21F\|U-NU-\*21F]] |
 | nṭʕ | n-ṭ-ʿ | [[wiki/linear-a/words/N/NA_TI\|NA-TI]] |
 | nẖnm | nẖnm | [[wiki/linear-a/words/N/NA_star21F_NE_MI_NA\|NA-\*21F-NE-MI-NA]] |
 | pdr | p-d-r | [[wiki/linear-a/words/star/star304\|\*304]], [[wiki/linear-a/words/star/star304_plus_PA\|\*304+PA]] |
@@ -277,7 +276,7 @@ Entries grouped by a consonantal key of their `root` field. The key is lossy: it
 | trs | t-r-s | [[wiki/linear-a/words/T/TU_RU_SA\|TU-RU-SA]] |
 | trš | t-r-š | [[wiki/linear-a/words/star/star131B\|\*131B]] |
 | trṯ | t-r-ṯ | [[wiki/linear-a/words/D/DU_RE_ZA_SE\|DU-RE-ZA-SE]] |
-| ttprgrk | Tetu (Pre-Greek) | [[wiki/linear-a/words/T/TE_TU\|TE-TU]] |
+| tt | Tetu | [[wiki/linear-a/words/T/TE_TU\|TE-TU]] |
 | twr | t-w-r | [[wiki/linear-a/words/T/TE_JA_RE\|TE-JA-RE]] |
 | tʔm | t-ʾ-m | [[wiki/linear-a/words/T/TU_MA\|TU-MA]] |
 | tʔn | t-ʔ-n; t-ʾ-n | [[wiki/linear-a/words/T/TE_star301\|TE-\*301]], [[wiki/linear-a/words/T/TI\|TI]] |
@@ -348,7 +347,7 @@ Entries grouped by a consonantal key of their `root` field. The key is lossy: it
 | ʔdrdyn | ʾ-d-r + d-y-n | [[wiki/linear-a/words/D/DI_RE_DI_NA\|DI-RE-DI-NA]] |
 | ʔgn | ʔ-g-n; ʾ-g-n | [[wiki/linear-a/words/star/star412\|\*412]], [[wiki/linear-a/words/A/A_KA_NU\|A-KA-NU]] |
 | ʔgr | ʾ-g-r | [[wiki/linear-a/words/A/A_KA_RU\|A-KA-RU]], [[wiki/linear-a/words/U/U_KA_RE\|U-KA-RE]] |
-| ʔkktprgrk | ʾAkkata (Pre-Greek) | [[wiki/linear-a/words/A/A_KA_TA\|A-KA-TA]] |
+| ʔkkt | ʾAkkata | [[wiki/linear-a/words/A/A_KA_TA\|A-KA-TA]] |
 | ʔkl | ʾ-k-l | [[wiki/linear-a/words/I/I_KU_JU_TI\|I-KU-JU-TI]] |
 | ʔkr | ʾ-k-r | [[wiki/linear-a/words/A/A_KI_RO\|A-KI-RO]], [[wiki/linear-a/words/I/I_KA\|I-KA]] |
 | ʔl | ʾ-l | [[wiki/linear-a/words/I/I_RA2\|I-RA₂]], [[wiki/linear-a/words/I/I_RU_JA\|I-RU-JA]] |
@@ -359,10 +358,9 @@ Entries grouped by a consonantal key of their `root` field. The key is lossy: it
 | ʔp | ʾ-p | [[wiki/linear-a/words/A/A_PI\|A-PI]] |
 | ʔrn | ʾ-r-n | [[wiki/linear-a/words/A/A_RE_NE\|A-RE-NE]] |
 | ʔrnṣdnbkybytrʔšrwmʔy | ʾ-r-n · ṣ-d-n · b-k-y · b-y-t · r-ʾ-š · r-w-m · ʾ-y | [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] |
-| ʔrrprgrk | ʾArura (Pre-Greek) | [[wiki/linear-a/words/A/A_RU_RA\|A-RU-RA]] |
-| ʔrwdprgrknnsmtcprnthhltsmtcprwtsn | ʾArwad (Pre-Greek; non-Semitic per Noth, HALOT 85; Semitic per Watson 2001, 111) | [[wiki/linear-a/words/A/A_RA_U_DA\|A-RA-U-DA]] |
-| ʔry | ʾ-r-y | [[wiki/linear-a/words/A/A_RI_NI_TA\|A-RI-NI-TA]] |
-| ʔryprgrk | ʾArāyu (Pre-Greek) | [[wiki/linear-a/words/A/A_RA_JU\|A-RA-JU]] |
+| ʔrr | ʾArura | [[wiki/linear-a/words/A/A_RU_RA\|A-RU-RA]] |
+| ʔrwdnnsmtcprnthhltsmtcprwtsn | ʾArwad (non-Semitic per Noth, HALOT 85; Semitic per Watson 2001, 111) | [[wiki/linear-a/words/A/A_RA_U_DA\|A-RA-U-DA]] |
+| ʔry | ʾ-r-y; ʾArāyu | [[wiki/linear-a/words/A/A_RA_JU\|A-RA-JU]], [[wiki/linear-a/words/A/A_RI_NI_TA\|A-RI-NI-TA]] |
 | ʔrz | ʾ-r-z | [[wiki/linear-a/words/R/RE_ZA\|RE-ZA]] |
 | ʔrš | ʾ-r-š | [[wiki/linear-a/words/A/A_RE_SA_NA\|A-RE-SA-NA]] |
 | ʔrṣ̂ | ʾ-r-ṣ̂ | [[wiki/linear-a/words/A/A_RA_TU\|A-RA-TU]], [[wiki/linear-a/words/A/A_RA_TU_ME\|A-RA-TU-ME]] |
@@ -380,9 +378,9 @@ Entries grouped by a consonantal key of their `root` field. The key is lossy: it
 | ʔwrlwy | ʾ-w-r + l-w-y | [[wiki/linear-a/words/U/U_RE_WI\|U-RE-WI]] |
 | ʔy | ʾ-y | [[wiki/linear-a/words/A/A_JA_KU\|A-JA-KU]] |
 | ʔyslnd | ʾ-y "island" | [[wiki/linear-a/words/A/A_JE\|A-JE]], [[wiki/linear-a/words/I/I_JA\|I-JA]], [[wiki/linear-a/words/I/I_JA_TE\|I-JA-TE]] |
-| ʔšddprgrknsb | ʾAšdōd (Pre-Greek) + -ī (nisbe) | [[wiki/linear-a/words/A/A_SI_DA_TO_I\|A-SI-DA-TO-I]] |
+| ʔš | ʾUšu | [[wiki/linear-a/words/U/U_SU\|U-SU]] |
+| ʔšddnsb | ʾAšdōd + -ī (nisbe) | [[wiki/linear-a/words/A/A_SI_DA_TO_I\|A-SI-DA-TO-I]] |
 | ʔšmn | ʾ-š-m-n | [[wiki/linear-a/words/A/A_SA_MU_NE\|A-SA-MU-NE]] |
-| ʔšprgrk | ʾUšu (Pre-Greek) | [[wiki/linear-a/words/U/U_SU\|U-SU]] |
 | ʔšš | ʾ-š-š | [[wiki/linear-a/words/I/I_SI\|I-SI]] |
 | ʔṯr | ʾ-ṯ-r | [[wiki/linear-a/words/A/A_ZU_RA\|A-ZU-RA]] |
 | ʕbd | ʿ-b-d | [[wiki/linear-a/words/star/star306\|\*306]], [[wiki/linear-a/words/A/A_PA3_DI\|A-PA₃-DI]] |

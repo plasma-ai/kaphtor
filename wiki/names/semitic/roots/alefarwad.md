@@ -20,7 +20,7 @@ updated: 2026-11-11T23:39:03Z
 | Field | Value |
 |---|---|
 | Language layer | [[wiki/names/semitic/_index\|Semitic]] |
-| Remark | Pre-Greek; non-Semitic per Noth, HALOT 85; Semitic per Watson 2001, 111 |
+| Remark | non-Semitic per Noth, HALOT 85; Semitic per Watson 2001, 111 |
 | Names | 1 |
 
 ## Names from this root

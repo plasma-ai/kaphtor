@@ -35,6 +35,19 @@ updated: 2026-11-18T19:49:10Z
 
 Not checked against HoChyMin, which is not held.
 
+## Translation
+
+
+
+di Mino's reading, CANDIDATE, incomplete; 2 words.
+
+| Line | Page | Group | Values | Reading | Gloss | Tier | Rivals | Note |
+|---|---|---|---|---|---|---|---|---|
+|  | 458 | 015-017-013 | ko-no-to | ko-no-to |  | CANDIDATE, emended text |  | Valério emends corpus 008 to 013 = to, giving ko-no-to (identical to ENKO Abou 024), beside ko-no and ko-no-ti. |
+|  | 458 | 050-046-034-097 | pi-su-ne-ro | pi-su-ne-ro |  | CANDIDATE, emended text |  | Four-syllable CM 1 name/noun pi-su-ne-ro ending in -ro (dominant CM 1 nominal ending). |
+
+Complete two-word clay ball pairing ko-no-to (third form of the ko-no / ko-no-ti / ko-no-to paradigm) with four-syllable pi-su-ne-ro.
+
 ## Metadata
 
 ### Editions
@@ -71,6 +84,6 @@ Not checked against HoChyMin, which is not held.
 
 No held source states its identity, museum number, object, hand, visual evidence.
 
-No transcription is reproduced here: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
+No transcription is reproduced here beyond the sign groups of the words read: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
 
 <!-- END kaphtor:record -->

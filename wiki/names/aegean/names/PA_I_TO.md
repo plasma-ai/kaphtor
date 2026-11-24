@@ -1,19 +1,19 @@
 ---
-name: wiki/names/semitic/names/PA_I_TO
+name: wiki/names/aegean/names/PA_I_TO
 title: "PA-I-TO"
-desc: "Paito: Phaistos (place name). Semitic, CONFIRMED."
-tags: ["names", "place-name", "semitic"]
+desc: "Paito: Phaistos (place name). Aegean, CONFIRMED."
+tags: ["names", "place-name", "aegean"]
 kind: "name"
 form: "PA-I-TO"
 reading: "Paito"
 attestations: ["HT97a", "HT120"]
-created: 2026-11-11T23:39:03Z
-updated: 2026-11-11T23:39:03Z
+created: 2026-11-24T16:33:49Z
+updated: 2026-11-24T16:33:49Z
 ---
 
 # PA-I-TO
 
-[[wiki/names/semitic/names/_index|..]]
+[[wiki/names/aegean/names/_index|..]]
 
 ***
 
@@ -26,8 +26,8 @@ updated: 2026-11-11T23:39:03Z
 | Kind | [[wiki/names/guide/kinds/places\|Place name]] |
 | Reading | Paito |
 | Meaning | Phaistos (place name) |
-| Language layer | [[wiki/names/semitic/_index\|Semitic]] |
-| Root | [[wiki/names/semitic/roots/root\|Φαιστός]] |
+| Language layer | [[wiki/names/aegean/_index\|Aegean]] |
+| Root | [[wiki/names/aegean/roots/root\|Φαιστός]] |
 | Reading's standing | CONFIRMED |
 | Standing as a place name | CONFIRMED |
 | Standing of the layer | CONFIRMED (lexicon_reading) |

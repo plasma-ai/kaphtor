@@ -77,6 +77,7 @@ Ilin-Tomich 2025 (PNM v6), s.v. ptḥ-dj⸗f; DULAT 676; di Mino
 | Occurrences | 2 in 2 documents |
 | Sites | Phaistos, Haghia Triada |
 | Supports | Tablet 1, Clay vessel 1 |
+| Contact reference | pnm:142614558 |
 
 ### Note
 

@@ -3,7 +3,7 @@ name: wiki/names/semitic/names
 title: "Semitic names"
 desc: "The Semitic names, one page each."
 created: 2026-11-11T23:39:03Z
-updated: 2026-11-23T03:48:11Z
+updated: 2026-11-24T16:33:49Z
 ---
 
 # Semitic names
@@ -73,6 +73,8 @@ updated: 2026-11-23T03:48:11Z
 [[wiki/names/semitic/names/A_RE_TU_MI|A_RE_TU_MI]]: ʾarṣ̂-ummī: Earth is my mother (NWS theophoric compound PN; pre-Greek Artemis). Semitic, CANDIDATE.
 
 [[wiki/names/semitic/names/A_RI_NI_TA|A_RI_NI_TA]]: ʾarīnīt: She-of-the-Lion (feminine gentilic; a priestess or cult title). Semitic, CANDIDATE.
+
+[[wiki/names/semitic/names/A_RI_PA|A_RI_PA]]: ʾaripāʾ: healer, of the Rephaim (√r-p-ʾ). Semitic, CANDIDATE.
 
 [[wiki/names/semitic/names/A_RI_SU|A_RI_SU]]: ḥārišu: the craftsman, artisan (title). Semitic, CANDIDATE.
 
@@ -398,8 +400,6 @@ updated: 2026-11-23T03:48:11Z
 
 [[wiki/names/semitic/names/PA_DE|PA_DE]]: Padī: personal name 'redeemer' (p-d-y); recipient of wine. Semitic, SPECULATIVE.
 
-[[wiki/names/semitic/names/PA_I_TO|PA_I_TO]]: Paito: Phaistos (place name). Semitic, CONFIRMED.
-
 [[wiki/names/semitic/names/PA_NA_TU|PA_NA_TU]]: banātu / panātu / (Ku)bānatu: daughters (fem. pl.). Semitic, CANDIDATE.
 
 [[wiki/names/semitic/names/PA_NU_QE|PA_NU_QE]]: Panūq: personal name, 'Pampered'. Semitic, SPECULATIVE.
@@ -445,6 +445,8 @@ updated: 2026-11-23T03:48:11Z
 [[wiki/names/semitic/names/QE_PU|QE_PU]]: qēpu: official, commissioner (title). Semitic, SPECULATIVE.
 
 [[wiki/names/semitic/names/QE_SU_PU|QE_SU_PU]]: qaššāpu: sorcerer, diviner (occupational title or PN). Semitic, CANDIDATE.
+
+[[wiki/names/semitic/names/RA|RA]]: rabbat: the Lady: rabbat written by its first sign. Semitic, SPECULATIVE.
 
 [[wiki/names/semitic/names/RA2_RO_RE|RA2_RO_RE]]: Lallor: personal name, 'Mourner' (Akk. lallaru). Semitic, SPECULATIVE.
 

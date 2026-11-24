@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-KH 88 QA-NU-MA · \*21F-\*118 · NI 10, before figs; ZA 5a heads a ration list, \*21F-\*118 · VIN-SU over KI-NI-MA 7 and O-TA-NI-ZA-SE 6; ZA 14 an entry of 1; ARKH 2 .3–4 ZU-\*301 SE-DE \*21F-\*118 6, ṯannān ṣēd ḥiṭṭa 'the chariot soldiers: provision of wheat', written as one group under SI-DA-TE (GORILA III 6–7). Ug. ḥṭt 'wheat' (DULAT 372), Heb. ḥiṭṭâ (HALOT 306), the final -t unwritten. \*21F writes ḥi, as in A-DA-\*21F-RI dāhiru. Egyptian group writing does the same with this very word: ʿa=di=na, \*ḥiṭṭina 'a variety of wheat', where the a-sign ʿa writes ḥi, not the expected ḥa, and d writes ṭ (P. Anastasi IV 8, 11; Hoch 1994, 85, no. 104). Rivals: ḫṭ 'sceptre, rod' (DULAT 410; Akk. ḫaṭṭu), and ḥṯ 'unleavened bread' (DULAT 373) with \*118 = ṯa.
+KH 88 QA-NU-MA · \*21F-\*118 · NI 10, before figs; ZA 5a heads a ration list, \*21F-\*118 · VIN-SU over KI-NI-MA 7 and O-TA-NI-ZA-SE 6; ZA 14 an entry of 1; ARKH 2 .3–4 ZU-\*301 SE-DE \*21F-\*118 6, ṯannān ṣēd ḥiṭṭa 'the chariot soldiers: provision of wheat', written as one group under SI-DA-TE (GORILA III 6–7). Ug. ḥṭt 'wheat' (DULAT 372), Heb. ḥiṭṭâ (HALOT 306), from √ḥ-n-ṭ with the n assimilated, the final -t unwritten. \*21F writes ḥi. Egyptian group writing does the same with this very word: ʿa=di=na, \*ḥiṭṭina 'a variety of wheat', where the a-sign ʿa writes ḥi, not the expected ḥa, and d writes ṭ (P. Anastasi IV 8, 11; Hoch 1994, 85, no. 104). Rivals: ḫṭ 'sceptre, rod' (DULAT 410; Akk. ḫaṭṭu), and ḥṯ 'unleavened bread' (DULAT 373) with \*118 = ṯa.
 
 ### Cognates
 

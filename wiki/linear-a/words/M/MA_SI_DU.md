@@ -59,6 +59,12 @@ di Mino; Watson 2001; Woudhuizen 2016
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT43\|HT43]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT43\|HT43]] | Haghia Triada | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT43\|HT43]] | maṣīdu | provisions (list heading) | SPECULATIVE |
 
 <!-- END kaphtor:record -->

@@ -33,7 +33,7 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | Kiriš |
 | Meaning | Kiriš, the god of the Amorite names, as oil recipient |
-| Root | Kiriš (Pre-Greek) |
+| Root | Kiriš |
 | Language layer | Semitic |
 | Tags | hapax, loanword, ritual, theonym |
 | Semantic field | divine |

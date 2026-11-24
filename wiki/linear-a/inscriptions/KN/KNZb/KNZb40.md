@@ -52,7 +52,7 @@ Unicode (Linear A block):
 
 ## Translation
 
-**SPECULATIVE**, complete (status: speculative).
+**SPECULATIVE**, complete (status: complete).
 
 > I weep—and here.
 

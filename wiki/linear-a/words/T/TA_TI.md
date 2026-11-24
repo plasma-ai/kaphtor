@@ -77,10 +77,11 @@ di Mino; ORACC aemw/ugarit; Melchert 1993
 | Occurrences | 2 in 2 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 2 |
+| Contact reference | oracc-qpn:9c703bc1f002c9c03522 |
 
 ### Note
 
-HT 26a and HT 97a, in lists of quantities: the name Tati, as at Ugarit (RS 15.0109 + RS 16.0296 o 24). Rival: CL Luwian tati- 'father' (Melchert 1993, 209). See the lexicon entry.
+HT 26a and HT 97a, in lists of quantities: the name Tati, as at Ugarit, {m}ta\]-ti with the first sign restored (RS 15.0109 + RS 16.0296 o 24). Rival: CL Luwian tati- 'father' (Melchert 1993, 209). See the lexicon entry.
 
 ### Co-occurring lexicon words
 

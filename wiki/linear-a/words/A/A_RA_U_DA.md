@@ -33,7 +33,7 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | ʾArwada |
 | Meaning | Arwad (island city of the Phoenician coast), the home of the man named before it |
-| Root | ʾArwad (Pre-Greek; non-Semitic per Noth, HALOT 85; Semitic per Watson 2001, 111) |
+| Root | ʾArwad (non-Semitic per Noth, HALOT 85; Semitic per Watson 2001, 111) |
 | Language layer | Semitic |
 | Tags | hapax, loanword, toponym, toponym_foreign |
 | Semantic field | toponym |
@@ -81,9 +81,10 @@ di Mino; HALOT; DULAT; RGTC 12/2; Watson 2001
 | Occurrences | 1 in 1 documents |
 | Sites | Khania |
 | Supports | Tablet 1 |
+| Contact reference | oracc-qpn:b31b4169c380337f004a |
 
 ### Note
 
-Rival: a personal name, Ugaritic ảrwd(n).
+Amarna toponym {uru}ar-wa-da (EA 149 r 059, from Tyre; eight times in the Amarna letters). Rival: a personal name, Ugaritic ảrwd(n).
 
 <!-- END kaphtor:record -->

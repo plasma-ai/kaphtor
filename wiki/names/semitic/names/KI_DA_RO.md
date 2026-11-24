@@ -50,6 +50,10 @@ HT 117a, counted once in a roster of people. √ḳ-d-r 'be dark'; cf. Hebrew Q�
 | Ugaritic | qdr 'darkening' (DULAT) |
 | Judaic Aramaic | qdr 'to become dark' (HALOT 1072) |
 
+## Linear B
+
+Exact Linear B match: ki-da-ro, KN E 842.4 (clean, in a Knossos grain/offering tablet following di-wo and te-o-i). Single intact document on each side (LA: HT 117a; HT 47a broken); comparandum / possible continuity.
+
 ## Attestations
 
 | Field | Value |

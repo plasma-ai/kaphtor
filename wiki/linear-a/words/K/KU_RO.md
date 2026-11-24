@@ -77,17 +77,17 @@ Corpus-internal arithmetic; Gordon 1966 for the Semitic comparison; Schoep 2002;
 | [[wiki/linear-a/inscriptions/HT/HT/HT25b\|HT25b]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT27a\|HT27a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT39\|HT39]] | Haghia Triada | Tablet | none |
-| [[wiki/linear-a/inscriptions/HT/HT/HT40\|HT40]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT40\|HT40]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT46a\|HT46a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT67\|HT67]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT74\|HT74]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT85a\|HT85a]] | Haghia Triada | Tablet | complete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HT/HT88\|HT88]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT89\|HT89]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT94a\|HT94a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT94a\|HT94a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT94b\|HT94b]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT100\|HT100]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT102\|HT102]] | Haghia Triada | Tablet | complete |
+| [[wiki/linear-a/inscriptions/HT/HT/HT102\|HT102]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT104\|HT104]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT109\|HT109]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT110a\|HT110a]] | Haghia Triada | Tablet | incomplete |
@@ -114,11 +114,13 @@ Corpus-internal arithmetic; Gordon 1966 for the Semitic comparison; Schoep 2002;
 | [[wiki/linear-a/inscriptions/HT/HT/HT11b\|HT11b]] | kull | total | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT13\|HT13]] | kull | total, 130½ | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT27a\|HT27a]] | kull | total | CONFIRMED |
+| [[wiki/linear-a/inscriptions/HT/HT/HT40\|HT40]] | kull | total | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT46a\|HT46a]] | kull | total, sum (accounting term) | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT67\|HT67]] | kull | total, sum (accounting term) | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT74\|HT74]] | kull | total, sum (accounting term) | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT85a\|HT85a]] | kull | total | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT88\|HT88]] | kull | total | CONFIRMED |
+| [[wiki/linear-a/inscriptions/HT/HT/HT94a\|HT94a]] | kull | total | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT94b\|HT94b]] | kull | total | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT100\|HT100]] | kull | total, sum | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT102\|HT102]] | kull | total: 1,060\[, a seventh ten possible in the break (the entries sum to 1,070) | CONFIRMED |

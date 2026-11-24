@@ -52,6 +52,10 @@ PH Zb 4 SI-MA 𐄁 I-JA-TE, on a clay vessel: šima ʾiyyate 'name of the island
 | Phoenician | šm "name" (KAI) |
 | Arabic | ism "name" |
 
+## Linear B
+
+Exact Linear B homograph: si-ma, PY En 609 and PY Eo 211+fr. (a Pylos landholder, te-o-jo do-e-ra 'servant of the god'). Screening caveat: in Linear B si-ma has a transparent Greek etymology (Sīmā 'snub-nosed'), whereas PH Zb 4 SI-MA may be a common noun in construct (šima 'name of'); retained as comparandum, not continuity.
+
 ## Attestations
 
 | Field | Value |

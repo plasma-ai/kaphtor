@@ -35,6 +35,18 @@ updated: 2026-11-18T19:49:10Z
 
 Not checked against its own publication (B. Davis et al. 2014), which is not held.
 
+## Translation
+
+
+
+di Mino's reading, CANDIDATE, incomplete; 1 words.
+
+| Line | Page | Group | Values | Reading | Gloss | Tier | Rivals | Note |
+|---|---|---|---|---|---|---|---|---|
+|  | 561 | 087-051-005 | la-pi-lo | la-pi-lo |  | CANDIDATE |  | Phonetic reading on the ruled grid (corpus text). |
+
+Tiryns vessel handle (LH IIIB Final) reading la-pi-lo.
+
 ## Metadata
 
 ### Editions
@@ -64,6 +76,6 @@ Not checked against its own publication (B. Davis et al. 2014), which is not hel
 
 No held source states its identity, museum number, dimensions, document form, hand, visual evidence.
 
-No transcription is reproduced here: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
+No transcription is reproduced here beyond the sign groups of the words read: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
 
 <!-- END kaphtor:record -->

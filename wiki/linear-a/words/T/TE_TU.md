@@ -33,7 +33,7 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | Tetu |
 | Meaning | personal name; Ugaritic tt, syllabic te-et-te, tu-tu |
-| Root | Tetu (Pre-Greek) |
+| Root | Tetu |
 | Language layer | Semitic |
 | Tags | loanword, personal_name |
 | Semantic field | personal_name |

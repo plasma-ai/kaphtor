@@ -75,6 +75,7 @@ di Mino, Ya Diktu; Peust 1999; Kilani 2019; Gauthier 1907; Hoch 1994; GlOS 2, 19
 | Occurrences | 1 in 1 documents |
 | Sites | Troullos |
 | Supports | Stone vessel 1 |
+| Contact reference | tla:146890 |
 
 ### Note
 

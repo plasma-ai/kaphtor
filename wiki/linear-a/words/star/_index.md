@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/star
 desc: "Words that open with a sign known by its number, such as *306."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-23T03:42:58Z
+updated: 2026-11-24T16:33:50Z
 ---
 
 # wiki/linear-a/words/star
@@ -43,9 +43,9 @@ updated: 2026-11-23T03:42:58Z
 
 [[wiki/linear-a/words/star/star21F_RI_TU_QA|star21F_RI_TU_QA]]: ha-ritūqa: the tied, sealed (packet). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/star/star21F_TU_NE|star21F_TU_NE]]: hatune: bridegroom, son-in-law. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/star/star21F_TU_NE|star21F_TU_NE]]: ḫatun: bridegroom, son-in-law. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/star/star21F_TU_q_broken_end|star21F_TU_q_broken_end]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/star/star21F_TU_q_broken_end|star21F_TU_q_broken_end]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/star/star21F_star118|star21F_star118]]: ḥiṭṭa: wheat. Lexicon, CANDIDATE (tier 2).
 
@@ -162,8 +162,6 @@ updated: 2026-11-23T03:42:58Z
 [[wiki/linear-a/words/star/star317_QE_star353|star317_QE_star353]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/star/star318|star318]]: (logogram): table (logogram): people counted to the table, the household's board. Lexicon, CANDIDATE (tier 2).
-
-[[wiki/linear-a/words/star/star318_star306|star318_star306]]: Unread (role only): personal name; 1 occurrence(s).
 
 [[wiki/linear-a/words/star/star319|star319]]: (logogram): silver (logogram): the good reckoned at interest and paid to the physician. Lexicon, SPECULATIVE (tier 1).
 

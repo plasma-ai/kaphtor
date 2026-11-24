@@ -33,7 +33,7 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | ʾAšdōdī |
 | Meaning | the Ashdodite, a man of Ashdod (gentilic) |
-| Root | ʾAšdōd (Pre-Greek) + -ī (nisbe) |
+| Root | ʾAšdōd + -ī (nisbe) |
 | Language layer | Semitic |
 | Tags | gentilic, hapax, loanblend |
 | Semantic field | toponym |

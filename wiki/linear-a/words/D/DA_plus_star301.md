@@ -2,10 +2,10 @@
 name: wiki/linear-a/words/D/DA_plus_star301
 title: "DA+*301"
 desc: "damʿ nawā: the abode's due. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "administrative", "ligature", "logogram", "unread"]
+tags: ["linear-a", "word", "tier-1", "administrative", "ligature", "logogram"]
 kind: "word"
 form: "DA+*301"
-datasets: ["lexicon", "unread_signs"]
+datasets: ["lexicon"]
 attestations: ["KH18"]
 tier: 1
 confidence: "SPECULATIVE"
@@ -67,11 +67,5 @@ di Mino; HALOT; DULAT; Salgarella 2020
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/KH/KH/KH18\|KH18]] | damʿ nawā | the abode's due | SPECULATIVE |
-
-## Unread sign
-
-A ligature. Status **component read** (a combined sign with a component the lexicon reads).
-
-The lexicon reads [[wiki/linear-a/words/star/star301|\*301]].
 
 <!-- END kaphtor:record -->

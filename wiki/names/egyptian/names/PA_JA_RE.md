@@ -47,6 +47,10 @@ Four Linear A attestations behave as a personal name. Linear B pa-ja-ro is a mas
 | Egyptian | pꜣ-rꜥ 'he (of) Ra', a man's name, Thutmose III–Amenhotep III (PNM v6, personal_names_id 142613047; Ranke I, 114.11) |
 | Linear B | pa-ja-ro, a man on the Knossos roster KN As(2) 1519 |
 
+## Linear B
+
+Linear B continuity: pa-ja-ro, KN As(2) 1519.6 (masculine personal name at Knossos; -o thematicization of LA PA-JA-RE, compared by DMic and Davis 2026).
+
 ## Attestations
 
 | Field | Value |

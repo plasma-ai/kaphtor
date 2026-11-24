@@ -60,6 +60,12 @@ di Mino
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT51b\|HT51b]] | Haghia Triada | Tablet | incomplete; form not in transliteration |
-| [[wiki/linear-a/inscriptions/HT/HT/HT99b\|HT99b]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT99b\|HT99b]] | Haghia Triada | Tablet | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT99b\|HT99b]] | ṯudu | breast | CANDIDATE |
 
 <!-- END kaphtor:record -->

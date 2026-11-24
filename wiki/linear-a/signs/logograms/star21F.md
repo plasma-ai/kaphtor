@@ -45,7 +45,7 @@ Female sheep logogram, the pair of \*21M: standing alone before a numeral. Insid
 | [[wiki/linear-a/words/star/star21F\|\*21F]] | (logogram) | PROBABLE |
 | [[wiki/linear-a/words/star/star21F_star118\|\*21F-\*118]] | ḥiṭṭa | CANDIDATE |
 | [[wiki/linear-a/words/star/star21F_RI_TU_QA\|\*21F-RI-TU-QA]] | ha-ritūqa | SPECULATIVE |
-| [[wiki/linear-a/words/star/star21F_TU_NE\|\*21F-TU-NE]] | hatune | CANDIDATE |
+| [[wiki/linear-a/words/star/star21F_TU_NE\|\*21F-TU-NE]] | ḫatun | CANDIDATE |
 | [[wiki/linear-a/words/A/A_DA_star21F_RI\|A-DA-\*21F-RI]] | ha-dāhari | CANDIDATE |
 | [[wiki/linear-a/words/A/A_SE_TU_star21F\|A-SE-TU-\*21F]] | Aštuḫḫa | SPECULATIVE |
 | [[wiki/linear-a/words/N/NA_star21F_NE_MI_NA\|NA-\*21F-NE-MI-NA]] | naḫnemina | SPECULATIVE |

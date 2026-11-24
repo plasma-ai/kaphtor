@@ -61,7 +61,7 @@ di Mino; CAD I/J; DULAT
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT43\|HT43]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT43\|HT43]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT93a\|HT93a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT115a\|HT115a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT115b\|HT115b]] | Haghia Triada | Tablet | incomplete |
@@ -72,6 +72,7 @@ di Mino; CAD I/J; DULAT
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT43\|HT43]] | ḥipru | ration (abbreviation of ḥipru) | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT93a\|HT93a]] | ḥipru | ration, written by its first sign |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT115a\|HT115a]] | ḥipru | ration, written by its first sign | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT115b\|HT115b]] | ḥipru | ration, written by its first sign | CANDIDATE |

@@ -35,6 +35,19 @@ updated: 2026-11-18T19:49:10Z
 
 Not checked against HoChyMin, which is not held.
 
+## Translation
+
+
+
+di Mino's reading, CANDIDATE, incomplete; 2 words.
+
+| Line | Page | Group | Values | Reading | Gloss | Tier | Rivals | Note |
+|---|---|---|---|---|---|---|---|---|
+|  | 459 | 009-069 | li-ja | li-ja |  | CANDIDATE |  | Intact two-sign word li-ja (-i-ja palatal glide; cf. Anatolian Leya, cost 0.00, short form). |
+|  | 459 | *not reproduced* |  |  |  | unresolved, SPECULATIVE |  | Contains one or more signs without a ruled grid value. No reading. |
+
+Two-word Enkomi clay ball: li-ja \| ta-i-\[037\]-ma.
+
 ## Metadata
 
 ### Editions
@@ -71,6 +84,6 @@ Not checked against HoChyMin, which is not held.
 
 No held source states its identity, museum number, object, hand, visual evidence.
 
-No transcription is reproduced here: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
+No transcription is reproduced here beyond the sign groups of the words read: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
 
 <!-- END kaphtor:record -->

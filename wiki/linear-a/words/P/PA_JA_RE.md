@@ -81,6 +81,7 @@ di Mino; Gordon 1966a; Ilin-Tomich 2025; DMic II; Davis 2026; Hess 1993
 | Occurrences | 4 in 4 documents |
 | Sites | Haghia Triada, Zakros |
 | Supports | Tablet 4 |
+| Contact reference | pnm:142613047 |
 
 ### Note
 

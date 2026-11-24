@@ -24,26 +24,26 @@
     "auto"
   ],
   "stats": {
-    "total": 382,
+    "total": 384,
     "by_type": {
       "gentilic": 11,
       "personal_name": 257,
-      "theonym": 31,
-      "title": 50,
+      "theonym": 32,
+      "title": 51,
       "toponym": 29,
       "toponym_gentilic": 4
     },
     "by_affiliation": {
-      "aegean": 6,
+      "aegean": 8,
       "anatolian": 2,
       "egyptian": 11,
       "hurrian": 38,
       "indo_european": 1,
-      "semitic": 314,
+      "semitic": 315,
       "sumerian": 1,
       "unknown": {
-        "total": 9,
-        "intact": 9,
+        "total": 8,
+        "intact": 8,
         "fragmentary": 0,
         "edge_damaged": 0,
         "no_witness": 0,
@@ -54,17 +54,16 @@
       "Egyptian": 11,
       "Hurro-Urartian": 38,
       "Indo-European": 2,
-      "Semitic": 315,
+      "Semitic": 316,
       "Sumerian": 1,
-      "unassigned": 15
+      "unassigned": 16
     },
     "by_provenance": {
-      "auto": 0,
-      "manual": 382
+      "manual": 384
     },
-    "manual_count": 382,
+    "manual_count": 384,
     "auto_count": 0,
-    "total_entries": 382
+    "total_entries": 384
   },
   "entries": [
     {
@@ -76,7 +75,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "CANDIDATE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "niedorf2008:p494-14",
       "lexicon_ref": "A-DU (HT92, HT133)",
       "reading": "ʾAddu",
       "meaning": "Addu (Haddu), the storm god, as recipient of a contribution",
@@ -116,7 +115,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "The god Addu as recipient of the grain booked with TE on HT 92 and HT 133 (Gordon 1966 §129): see lexicon A-DU (HT92, HT133). On HT 85a, 86a, 88, 95b and 99a the same spelling heads personnel and ration lists as the word adû 'work assignment, ration' (lexicon A-DU); KH 23 A-DU[ breaks after DU and stays unread."
+      "note": "The god Addu as recipient of the grain booked with TE on HT 92 and HT 133 (Gordon 1966 §129): see lexicon A-DU (HT92, HT133). At Alalakh IV sixteen personal names carry Addu/a against three with Teššup (Niedorf 2008, 44). On HT 85a, 86a, 88, 95b and 99a the same spelling heads personnel and ration lists as the word adû 'work assignment, ration' (lexicon A-DU); KH 23 A-DU[ breaks after DU and stays unread."
     },
     {
       "token": "KU-PA₃-NU",
@@ -962,7 +961,7 @@
       "language_family": "Egyptian",
       "affiliation_confidence": "PROBABLE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "pnm:142613047",
       "lexicon_ref": "PA-JA-RE",
       "reading": "Payare",
       "meaning": "He (of) Re: Egyptian personal name Pꜣ-Rꜥ (Gordon's Pꜣy-Rꜥ); Linear B pa-ja-ro",
@@ -1052,7 +1051,8 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "Four Linear A attestations behave as a personal name. Linear B pa-ja-ro is a masculine personal name in KN As(2) 1519.6 and is compared with PA-JA-RE by DMic and Davis 2026. Gordon's Egyptian Pꜣy-Rꜥ 'He-of-Re' (Gordon 1966a, 31) is the man's name pꜣ-rꜥ in PNM v6, used from Thutmose III to Amenhotep III and spelled pꜣjj-rꜥ under Hatshepsut (Ilin-Tomich 2025). See the lexicon entry."
+      "note": "Four Linear A attestations behave as a personal name. Linear B pa-ja-ro is a masculine personal name in KN As(2) 1519.6 and is compared with PA-JA-RE by DMic and Davis 2026. Gordon's Egyptian Pꜣy-Rꜥ 'He-of-Re' (Gordon 1966a, 31) is the man's name pꜣ-rꜥ in PNM v6, used from Thutmose III to Amenhotep III and spelled pꜣjj-rꜥ under Hatshepsut (Ilin-Tomich 2025). See the lexicon entry.",
+      "linear_b_comparanda": "Linear B continuity: pa-ja-ro, KN As(2) 1519.6 (masculine personal name at Knossos; -o thematicization of LA PA-JA-RE, compared by DMic and Davis 2026)."
     },
     {
       "token": "TA-NA-TI",
@@ -2455,8 +2455,8 @@
       "normalized": "paito",
       "type": "toponym",
       "type_confidence": "CONFIRMED",
-      "affiliation": "semitic",
-      "language_family": "Semitic",
+      "affiliation": "aegean",
+      "language_family": null,
       "affiliation_confidence": "CONFIRMED",
       "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
@@ -2912,7 +2912,7 @@
       "language_family": "Indo-European",
       "affiliation_confidence": "CANDIDATE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "oracc-qpn:9c703bc1f002c9c03522",
       "lexicon_ref": "TA-TI",
       "reading": "Tati",
       "meaning": "personal name",
@@ -2973,7 +2973,7 @@
           "distance": 0.2
         }
       ],
-      "note": "HT 26a and HT 97a, in lists of quantities: the name Tati, as at Ugarit (RS 15.0109 + RS 16.0296 o 24). Rival: CL Luwian tati- 'father' (Melchert 1993, 209). See the lexicon entry."
+      "note": "HT 26a and HT 97a, in lists of quantities: the name Tati, as at Ugarit, {m}ta]-ti with the first sign restored (RS 15.0109 + RS 16.0296 o 24). Rival: CL Luwian tati- 'father' (Melchert 1993, 209). See the lexicon entry."
     },
     {
       "token": "TE-KI",
@@ -3325,61 +3325,6 @@
         }
       ],
       "note": "Heb. ʿĂtāyāh (Neh 11:4) beside its short form ʿAttay (1 Chr 2:35); *306 = ʿa a working value."
-    },
-    {
-      "token": "*318-*306",
-      "normalized": "318306",
-      "type": "personal_name",
-      "type_confidence": "SPECULATIVE",
-      "affiliation": "unknown",
-      "language_family": null,
-      "affiliation_confidence": "SPECULATIVE",
-      "affiliation_evidence": "none",
-      "contact_ref": null,
-      "lexicon_ref": null,
-      "reading": null,
-      "meaning": null,
-      "frequency": 1,
-      "attestations": [
-        "HT94a"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "genre_supports": {
-        "Tablet": 1
-      },
-      "position_summary": {
-        "follows": {
-          "numeral": 1
-        },
-        "heads_document": 0
-      },
-      "co_occurring_known": [
-        {
-          "word": "KA-PA",
-          "reading": "kapa(r)",
-          "meaning": "village, settlement (kapar)",
-          "category": "place_name"
-        },
-        {
-          "word": "KU-RO",
-          "reading": "kull",
-          "meaning": "total, sum (accounting term)",
-          "category": "vocabulary"
-        },
-        {
-          "word": "SA-RA₂",
-          "reading": "šarra",
-          "meaning": "queen/princess; by metonymy the queen's or royal establishment (recipient/institutional heading)",
-          "category": "vocabulary"
-        }
-      ],
-      "provenance": "manual",
-      "bucket": "onomastic",
-      "weak_cognates": [],
-      "note": "HT 94a .4 *318-*306 11, before the CYP and NI entries (GORILA I 151). *318 has no value. No reading."
     },
     {
       "token": "*333-DI-NA-SU-KA",
@@ -4467,7 +4412,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "oracc-qpn:b2ecb5b3356d9a023688",
       "lexicon_ref": "A-RA-JU",
       "reading": "ʾArāyu",
       "meaning": "a town of the kingdom of Ugarit, on the Ugarit–Alalakh border (toponym)",
@@ -4558,7 +4503,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "oracc-qpn:b31b4169c380337f004a",
       "lexicon_ref": "A-RA-U-DA",
       "reading": "ʾArwada",
       "meaning": "Arwad (island city of the Phoenician coast), the home of the man named before it",
@@ -4599,7 +4544,7 @@
           "distance": 1.0
         }
       ],
-      "note": "Rival: a personal name, Ugaritic ảrwd(n)."
+      "note": "Amarna toponym {uru}ar-wa-da (EA 149 r 059, from Tyre; eight times in the Amarna letters). Rival: a personal name, Ugaritic ảrwd(n)."
     },
     {
       "token": "A-RE-DA-I",
@@ -7136,7 +7081,7 @@
       "language_family": "Egyptian",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "oracc-qpn:5f4c8885ed1a00479ae3",
       "lexicon_ref": "I-KU-TA",
       "reading": "Ḥikuptaḥ",
       "meaning": "place name: Memphis, the seat of Kothar (Ug. Ḥkpt), a recipient of cyperus",
@@ -7161,7 +7106,8 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "HT 35 .1 I-KU-TA CYP 1 (GORILA I 67). ḥi-ku(p)-ta(ḥ), with the coda p and final ḥ unwritten; the Byblos letter EA 139:8 also writes hi-ku-ta-ah (Belmonte, RGTC 12/2, 105). Ugaritic Ḥkpt, the seat of Kothar, Egyptian ḥwt-kꜣ-ptḥ (DULAT 353); Linear B i-ku-to (MY Oi 705.1). One witness. Rival: 'the Memphite'."
+      "note": "HT 35 .1 I-KU-TA CYP 1 (GORILA I 67). ḥi-ku(p)-ta(ḥ), with the coda p and final ḥ unwritten; the Byblos letter EA 139:8 also writes hi-ku-ta-ah (Belmonte, RGTC 12/2, 105). Ugaritic Ḥkpt, the seat of Kothar, Egyptian ḥwt-kꜣ-ptḥ (DULAT 353); Linear B i-ku-to (MY Oi 705.1). One witness. Rival: 'the Memphite'.",
+      "linear_b_comparanda": "Linear B comparandum: i-ku-to, MY Oi 705.1 (Mycenae personnel/offering tablet; -o thematicization beside LA I-KU-TA)."
     },
     {
       "token": "I-KU-RI-NA",
@@ -8809,7 +8755,8 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "HT 117a, counted once in a roster of people. √ḳ-d-r 'be dark'; cf. Hebrew Qēdār (Gen 25:13). HT 47a KI-DA-RO[ is broken (GORILA I 91)."
+      "note": "HT 117a, counted once in a roster of people. √ḳ-d-r 'be dark'; cf. Hebrew Qēdār (Gen 25:13). HT 47a KI-DA-RO[ is broken (GORILA I 91).",
+      "linear_b_comparanda": "Exact Linear B match: ki-da-ro, KN E 842.4 (clean, in a Knossos grain/offering tablet following di-wo and te-o-i). Single intact document on each side (LA: HT 117a; HT 47a broken); comparandum / possible continuity."
     },
     {
       "token": "KI-KI-NA",
@@ -9456,7 +9403,8 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "HT 97a .4 MA-DI 5 in the KA-RU list of men by place, after PA-I-TO 6 (GORILA I 159); HT 118 MA-DI 15 heads the pig list; HT 85b MA-DI 1 beside KI-RE-TA₂ 1. Maʾdi, √m-ʾ-d 'to be plentiful', the Amorite name MAʾD-IJA, MA-DI-IA (Gelb 1980, no. 4453); Linear B ma-di, ma-di-qo, ]ma-di-jo[, ma-di-je. Rival: the Hurrian personal name Madi 'wisdom' (de Martino 2011, 68)."
+      "note": "HT 97a .4 MA-DI 5 in the KA-RU list of men by place, after PA-I-TO 6 (GORILA I 159); HT 118 MA-DI 15 heads the pig list; HT 85b MA-DI 1 beside KI-RE-TA₂ 1. Maʾdi, √m-ʾ-d 'to be plentiful', the Amorite name MAʾD-IJA, MA-DI-IA (Gelb 1980, no. 4453); Linear B ma-di, ma-di-qo, ]ma-di-jo[, ma-di-je. Rival: the Hurrian personal name Madi 'wisdom' (de Martino 2011, 68).",
+      "linear_b_comparanda": "Exact Linear B continuity: ma-di, 2 KN documents, both clean—KN As(1) 603+8157+fr., line 2 (personnel roster) and KN Db 1168+7168+fr., line 2 (herder at e-ko-so), beside derived ma-di-qo / ma-di-je (DMic I 422). In Linear B a man's name at Knossos; the Linear A word is a place."
     },
     {
       "token": "MA-KA-I-SE",
@@ -9745,7 +9693,8 @@
           "distance": 0.0
         }
       ],
-      "note": "HT 128a .4, a recipient in a barley list, its GRA+KU 6 carried to face b (GORILA I 221). Linear B ma-ri, a place at Knossos, KN Dl 947.B, 948.B (DMic I 425). Rival: Mari on the Euphrates (Cline 2014, 19). See the lexicon entry."
+      "note": "HT 128a .4, a recipient in a barley list, its GRA+KU 6 carried to face b (GORILA I 221). Linear B ma-ri, a place at Knossos, KN Dl 947.B, 948.B (DMic I 425). Rival: Mari on the Euphrates (Cline 2014, 19). See the lexicon entry.",
+      "linear_b_comparanda": "Exact Linear B continuity: ma-ri, 5 KN documents—clean in KN Dl(1a) 947+7626.2 and Dl(1a) 948+977.2 (livestock toponym), damaged in KN Ga(1) 7594.1, X 5970.3, and X 7828.1 (DMic I 425). Non-Greek Cretan place name carried from Linear A into Linear B."
     },
     {
       "token": "MA-ZA",
@@ -10241,7 +10190,7 @@
       "language_family": "Egyptian",
       "affiliation_confidence": "CANDIDATE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "tla:146890",
       "lexicon_ref": "O-SU-QA-RE",
       "reading": "ʾō Sōkar",
       "meaning": "O Sokar (Egyptian Skr 𓊃𓎡𓂋𓅆)",
@@ -10354,7 +10303,7 @@
       "language_family": "Egyptian",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "pnm:142610149",
       "lexicon_ref": "PA-JA",
       "reading": "Pay",
       "meaning": "personal name; Egyptian pꜣ.jj, the first element of PA-JA-RE",
@@ -10402,7 +10351,8 @@
           "distance": 0.1
         }
       ],
-      "note": "Egyptian Pꜣjj, the first element of PA-JA-RE, a common name under Thutmose III and Amenhotep II (PNM v6). Rival: a Semitic hypocoristic. See the lexicon entry."
+      "note": "Egyptian Pꜣjj, the first element of PA-JA-RE, a common name under Thutmose III and Amenhotep II (PNM v6). Rival: a Semitic hypocoristic. See the lexicon entry.",
+      "linear_b_comparanda": "Exact Linear B match (damaged): pa-ja, KN Uf(1) 111+134+fr., line 2 (landholding) and KN V(3) 503.2 (personnel list). Both Knossos attestations are damaged readings; retained as comparandum rather than firm continuity."
     },
     {
       "token": "PA-NU-QE",
@@ -10555,7 +10505,7 @@
       "language_family": "Egyptian",
       "affiliation_confidence": "CANDIDATE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "pnm:142614558",
       "lexicon_ref": "PA-TA-DA",
       "reading": "Patada",
       "meaning": "personal name; Egyptian Ptḥ-dj(⸗f) 'Ptah gives'",
@@ -11484,7 +11434,7 @@
       "language_family": "Egyptian",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "pnm:142607451",
       "lexicon_ref": "RA-TI-SE",
       "reading": "Ratis",
       "meaning": "Ratis (Egyptian personal name rdj⸗s, the name RE-DI-SE), 'the one she has given'",
@@ -11608,7 +11558,7 @@
       "language_family": "Egyptian",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "pnm:142607451",
       "lexicon_ref": "RE-DI-SE",
       "reading": "Redis",
       "meaning": "Redis (Egyptian personal name rdj⸗s), 'the one she has given'",
@@ -12768,7 +12718,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "PROBABLE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "oracc-qpn:a70c2d9a0aad2b2edfa6",
       "lexicon_ref": "SI-DI-JA",
       "reading": "Šidiya",
       "meaning": "personal name, Ugaritic Šidiya (ši-di-ia)",
@@ -12793,7 +12743,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "HT 126a, SI-DI-JA 1 in a damaged list. Ugaritic PN śdy (šmbʿl bn śdy, BAH 214, 7, o 14) and syllabic {m}ša-di-ia (RS 15.0173, r. 2′), the first vowel differing. Rival: the Semitic field root √ś-d-y."
+      "note": "HT 126a, SI-DI-JA 1 in a damaged list. Ugaritic PN śdy (šmbʿl bn śdy, BAH 214, 7, o 14), exact syllabic {m}ši-di-ia (RS 19.0041 o 4, ORACC P503766), and variant {m}ša-di-ia (RS 15.0173, r. 2′). Rival: the Semitic field root √ś-d-y."
     },
     {
       "token": "SI-DI-*301",
@@ -13024,7 +12974,7 @@
       "language_family": "Egyptian",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "pnm:142613640",
       "lexicon_ref": "TA-I-NU-MA-PA",
       "reading": "Tainumapa",
       "meaning": "She of Memphis: Egyptian woman's name Tꜣ-n.t-Mn-nfr",
@@ -13529,7 +13479,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "CANDIDATE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "oracc-qpn:6e2359b3901df0d85e66",
       "lexicon_ref": "A-PA₃-DI",
       "reading": "ʿAbdī",
       "meaning": "personal name, ʿAbdī 'my servant'",
@@ -13554,7 +13504,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "PK Zb 26, a pithos sherd written retrograde, A-PA₃-DI[ broken after DI (Younger, Linear A Texts). ʿAbdī, as the Ugaritic PN ʕbdy (DULAT 141), or the head of an ʿAbdi-DN name. See the lexicon entry A-PA₃-DI. Rival: the head of an ʿAbdi-DN name."
+      "note": "PK Zb 26, a pithos sherd written retrograde, A-PA₃-DI[ broken after DI (Younger, Linear A Texts). ʿAbdī, as the Ugaritic PN ʕbdy (DULAT 141) written with the logogram, {m}IR₃{+di₃} (RS 16.0143 o 6), and syllabically in ab-di-ḫa-ma-ni (RS 16.0200 o 3), or the head of an ʿAbdi-DN name. See the lexicon entry A-PA₃-DI. Rival: the head of an ʿAbdi-DN name."
     },
     {
       "token": "TU-JU-MA",
@@ -14081,7 +14031,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "oracc-qpn:3973bafa5f51959641e4",
       "lexicon_ref": "U-NU-*21F",
       "reading": "Unuḫu",
       "meaning": "(the men of) Unuḫu, a town named in a text from Ugarit (RS 17.251), location unknown",
@@ -14284,7 +14234,8 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "The Amarna toponym usu (EA 121) can name a roster person by origin: HT117b labels personnel by gentilic (DI-KI-SE 'the Diktaian'), and U-DI-MI (ʾUdmī, man of Udum) sits on the same face. A worker from Ušu."
+      "note": "The Amarna toponym usu (EA 121) can name a roster person by origin: HT117b labels personnel by gentilic (DI-KI-SE 'the Diktaian'), and U-DI-MI (ʾUdmī, man of Udum) sits on the same face. A worker from Ušu.",
+      "linear_b_comparanda": "Exact Linear B match: u-su, KN V(3) 7512+7714+7716.1 (clean, heading a Knossos personnel list beside a-mi-ni-si-jo). Single document on each side (LA: HT 117a); short two-syllable match—retained as comparandum."
     },
     {
       "token": "U-TA-I-SE",
@@ -14733,7 +14684,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "oracc-qpn:aa9a8288b88c77c19c2a",
       "lexicon_ref": "ZU-SU",
       "reading": "Ṣūṣu",
       "meaning": "personal name, 'chick'",
@@ -15110,7 +15061,7 @@
       "language_family": "Sumerian",
       "affiliation_confidence": "PROBABLE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "oracc-qpn:058667f4d773258a6e9b",
       "lexicon_ref": "KU-PA₃-PA₃",
       "reading": "Kubaba",
       "meaning": "Kubaba, Sumerian Kug-Baba 'Pure is Baba' (divine or personal name)",
@@ -15135,7 +15086,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "Conditional on PA₃=/ba/, the spelling matches Kubaba. Since Kubaba occurs as a goddess and in personal names, HT88's one-unit roster does not alone decide whether this is the deity, a woman, or a cult institution. The name and the PA₃ value must not circularly confirm one another."
+      "note": "Conditional on PA₃=/ba/, the spelling matches Kubaba (at Ugarit ku-ba-ba, RS 17.0146 r 23, and {d}ku-ba-ba). Since Kubaba occurs as a goddess and in personal names, HT88's one-unit roster does not alone decide whether this is the deity, a woman, or a cult institution. The name and the PA₃ value must not circularly confirm one another."
     },
     {
       "token": "QA-*310-I",
@@ -15963,7 +15914,8 @@
       "provenance": "manual",
       "bucket": "ambiguous",
       "weak_cognates": [],
-      "note": "PH Zb 4 SI-MA 𐄁 I-JA-TE, on a clay vessel: šima ʾiyyate 'name of the island', the common noun in construct. Or the name Šima, Shem, a person named on a commodity vessel as DI-NA-U on KN Zb 27; Amorite ŠU-MU-UM Šumum (Gelb 1980, no. 5941). See the lexicon entry."
+      "note": "PH Zb 4 SI-MA 𐄁 I-JA-TE, on a clay vessel: šima ʾiyyate 'name of the island', the common noun in construct. Or the name Šima, Shem, a person named on a commodity vessel as DI-NA-U on KN Zb 27; Amorite ŠU-MU-UM Šumum (Gelb 1980, no. 5941). See the lexicon entry.",
+      "linear_b_comparanda": "Exact Linear B homograph: si-ma, PY En 609 and PY Eo 211+fr. (a Pylos landholder, te-o-jo do-e-ra 'servant of the god'). Screening caveat: in Linear B si-ma has a transparent Greek etymology (Sīmā 'snub-nosed'), whereas PH Zb 4 SI-MA may be a common noun in construct (šima 'name of'); retained as comparandum, not continuity."
     },
     {
       "token": "SI-RU-MA-RI-TA₂",
@@ -16066,7 +16018,8 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "First word on the roundel, before A-DU-KO 2, the numeral read by Perna and Anastasiadou over GORILA's erased MI (Anastasiadou 2026, 37–39). Ugaritic ʿtq \"durable\" (DULAT 189); Linear B a-ti-ka, a man at Knossos (DMic I 119). See the lexicon entry."
+      "note": "First word on the roundel, before A-DU-KO 2, the numeral read by Perna and Anastasiadou over GORILA's erased MI (Anastasiadou 2026, 37–39). Ugaritic ʿtq \"durable\" (DULAT 189); Linear B a-ti-ka, a man at Knossos (DMic I 119). See the lexicon entry.",
+      "linear_b_comparanda": "Exact Linear B match: a-ti-ka, KN V(4) 831.4 (clean, in a Knossos personal-name list; DMic I 119). Single document on each side (LA: ZA Wc 2); strong comparandum / possible continuity."
     },
     {
       "token": "QA-TI-DA-TE",
@@ -16474,7 +16427,7 @@
       "language_family": "Semitic",
       "affiliation_confidence": "CANDIDATE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
+      "contact_ref": "oracc-qpn:9379cdfc227d0ef24a08",
       "lexicon_ref": "A-MA-JA",
       "reading": "ʿAmmaya",
       "meaning": "(Little) kinsman (personal name, hypocoristic)",
@@ -18598,6 +18551,127 @@
       "bucket": "onomastic",
       "weak_cognates": [],
       "note": "PK Za 8 JA-DI-KI-TE-TE-*307-PU₂-RE and PK Za 15 JA-DI-KI-TE-TE-DU-PU₂-RE, one group with dubur each time (GORILA IV 41). JA- and A- spell the one vocative yā: Palaikastro writes JA-DI-KI-TE-TE on PK Za 8 and PK Za 15 and A-DI-KI-TE-TE on PK Za 11 and PK Za 12, the same name before the same dubur, and PK Za 11 writes A-SA-SA-RA-ME for JA-SA-SA-RA-ME as well. See the lexicon entry. Two witnesses."
+    },
+    {
+      "token": "A-RI-PA",
+      "normalized": "aripa",
+      "type": "theonym",
+      "type_confidence": "CANDIDATE",
+      "affiliation": "semitic",
+      "language_family": "Semitic",
+      "affiliation_confidence": "CANDIDATE",
+      "affiliation_evidence": "lexicon_reading",
+      "contact_ref": null,
+      "lexicon_ref": "A-RI-PA",
+      "reading": "ʾaripāʾ",
+      "meaning": "healer, of the Rephaim (√r-p-ʾ)",
+      "frequency": 1,
+      "attestations": [
+        "PE2"
+      ],
+      "sites": [
+        "Petras"
+      ],
+      "cross_site": false,
+      "genre_supports": {
+        "Tablet": 1
+      },
+      "position_summary": {
+        "follows": {
+          "fraction": 1
+        },
+        "heads_document": 0
+      },
+      "co_occurring_known": [],
+      "provenance": "manual",
+      "bucket": "onomastic",
+      "weak_cognates": [],
+      "note": "PE 2 A-RI-PA ¼, after A-*325-ZA ¼ and before QA-QA-DA ½, in a list of fractional entries."
+    },
+    {
+      "token": "KI-DA-TA",
+      "normalized": "kidata",
+      "type": "personal_name",
+      "type_confidence": "SPECULATIVE",
+      "affiliation": "aegean",
+      "language_family": null,
+      "affiliation_confidence": "SPECULATIVE",
+      "affiliation_evidence": "lexicon_reading",
+      "contact_ref": null,
+      "lexicon_ref": "KI-DA-TA",
+      "reading": "Kidata",
+      "meaning": "a party receiving grain (name or place)",
+      "frequency": 1,
+      "attestations": [
+        "HT40"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "genre_supports": {
+        "Tablet": 1
+      },
+      "position_summary": {
+        "follows": {
+          "numeral": 1
+        },
+        "heads_document": 0
+      },
+      "co_occurring_known": [
+        {
+          "word": "TE",
+          "reading": "terûmā",
+          "meaning": "contribution, offering (terûmā), a transaction marker",
+          "category": "vocabulary"
+        },
+        {
+          "word": "KU-RO",
+          "reading": "kull",
+          "meaning": "total, sum (accounting term)",
+          "category": "vocabulary"
+        }
+      ],
+      "provenance": "manual",
+      "bucket": "onomastic",
+      "weak_cognates": [],
+      "note": "HT 40 KI-DA-TA · GRA 134, in the slot NU-DU-*331 holds with GRA 207."
+    },
+    {
+      "token": "RA",
+      "normalized": "ra",
+      "type": "title",
+      "type_confidence": "SPECULATIVE",
+      "affiliation": "semitic",
+      "language_family": "Semitic",
+      "affiliation_confidence": "SPECULATIVE",
+      "affiliation_evidence": "lexicon_reading",
+      "contact_ref": null,
+      "lexicon_ref": "RA",
+      "reading": "rabbat",
+      "meaning": "the Lady: rabbat written by its first sign",
+      "frequency": 1,
+      "attestations": [
+        "KH47"
+      ],
+      "sites": [
+        "Khania"
+      ],
+      "cross_site": false,
+      "genre_supports": {
+        "Tablet": 1
+      },
+      "position_summary": {
+        "follows": {
+          "word": 1
+        },
+        "heads_document": 0
+      },
+      "co_occurring_known": [],
+      "provenance": "manual",
+      "bucket": "onomastic",
+      "weak_cognates": [],
+      "note": "KH 47 .3 RA · *306[, whole at the preserved left edge (GORILA III 72–73), after QA-NE 6 and SI."
     }
   ]
 }

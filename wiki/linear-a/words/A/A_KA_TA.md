@@ -33,7 +33,7 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | ʾAkkata |
 | Meaning | personal name; compare Amorite ʾAkkatum |
-| Root | ʾAkkata (Pre-Greek) |
+| Root | ʾAkkata |
 | Language layer | Semitic |
 | Tags | fragmentary, hapax, loanword, personal_name |
 | Semantic field | personal_name |

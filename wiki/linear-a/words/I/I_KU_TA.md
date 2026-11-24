@@ -77,6 +77,7 @@ di Mino; DULAT; Belmonte
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |
+| Contact reference | oracc-qpn:5f4c8885ed1a00479ae3 |
 
 ### Note
 

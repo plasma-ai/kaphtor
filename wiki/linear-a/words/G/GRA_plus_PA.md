@@ -59,9 +59,9 @@ di Mino; GlOS 2; Kamm 1963; DNWSI
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT43\|HT43]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT43\|HT43]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT93a\|HT93a]] | Haghia Triada | Tablet | incomplete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT102\|HT102]] | Haghia Triada | Tablet | complete |
+| [[wiki/linear-a/inscriptions/HT/HT/HT102\|HT102]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT120\|HT120]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT125b\|HT125b]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT128a\|HT128a]] | Haghia Triada | Tablet | none |
@@ -78,6 +78,7 @@ di Mino; GlOS 2; Kamm 1963; DNWSI
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT43\|HT43]] | parīsu | parīsu grain measure | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT93a\|HT93a]] |  | grain composite (unread) |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT102\|HT102]] | \[ideogram\] | parīsu, the half-gur grain measure |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT120\|HT120]] | \[ideogram\] | parīsu, the half-gur grain measure |  |

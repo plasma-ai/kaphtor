@@ -61,7 +61,7 @@ di Mino; FM VI; Ziegler 1999; Gelb 1980
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT29\|HT29]] | Haghia Triada | Tablet | incomplete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT99b\|HT99b]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT99b\|HT99b]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA20\|ZA20]] | Zakros | Tablet | incomplete; form not in transliteration |
 
 ## In translations
@@ -69,6 +69,7 @@ di Mino; FM VI; Ziegler 1999; Gelb 1980
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT29\|HT29]] | rūmatā | the Height (place name), 2\[ | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT99b\|HT99b]] | rūmatā | the Height (toponym) | CANDIDATE |
 
 ## Onomasticon
 

@@ -35,6 +35,19 @@ updated: 2026-11-18T19:49:10Z
 
 Not checked against HoChyMin, which is not held.
 
+## Translation
+
+
+
+di Mino's reading, CANDIDATE, incomplete; 2 words.
+
+| Line | Page | Group | Values | Reading | Gloss | Tier | Rivals | Note |
+|---|---|---|---|---|---|---|---|---|
+|  | 551 | 102-002 | a-ne | a-ne |  | CANDIDATE, emended text |  | Phonetic reading on the ruled grid (emended text). |
+|  | 551 | 091 | mi | mi |  | CANDIDATE, emended text |  | Single-sign notation (091 = mi) after divider. |
+
+CM 3 Ugarit silver bowl inscription a-ne \| mi.
+
 ## Metadata
 
 ### Identity
@@ -87,6 +100,6 @@ Not checked against HoChyMin, which is not held.
 
 No held source states its object, document form, hand.
 
-No transcription is reproduced here: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
+No transcription is reproduced here beyond the sign groups of the words read: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
 
 <!-- END kaphtor:record -->

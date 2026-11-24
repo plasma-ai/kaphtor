@@ -61,7 +61,7 @@ di Mino; CAD Ṣ; DULAT; HALOT; Lipiński 1997
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT116a\|HT116a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT42_plus_59\|HT42+59]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT99b\|HT99b]] | Haghia Triada | Tablet | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/HT/HT/HT99b\|HT99b]] | Haghia Triada | Tablet | complete; form not in transliteration |
 
 ## In translations
 

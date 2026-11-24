@@ -137,7 +137,7 @@ Every number on this page is computed from the data files.
 | Word | Reading | Meaning | Score |
 |---|---|---|---|
 | [[wiki/linear-a/words/star/star21F_star118\|\*21F-\*118]] | ḥiṭṭa | wheat | 0.45 |
-| [[wiki/linear-a/words/star/star21F_TU_NE\|\*21F-TU-NE]] | hatune | bridegroom, son-in-law | 0.50 |
+| [[wiki/linear-a/words/star/star21F_TU_NE\|\*21F-TU-NE]] | ḫatun | bridegroom, son-in-law | 0.50 |
 | [[wiki/linear-a/words/star/star22M\|\*22M]] | (logogram) | he-goat (livestock logogram) | 0.45 |
 | [[wiki/linear-a/words/star/star86\|\*86]] | (logogram) | ship (logogram); counted with men, the ship's crew | 0.45 |
 | [[wiki/linear-a/words/star/star86_plus_star188\|\*86+\*188]] | buṭnu | terebinth carried by ship (the terebinth sign \*188 set on the ship \*86) | 0.45 |

@@ -49,7 +49,7 @@ Unicode (Linear A block):
 
 ## Translation
 
-**CANDIDATE**, complete (status: partial).
+**CANDIDATE**, complete (status: fragmentary).
 
 > …in righteousness—with (me)…
 

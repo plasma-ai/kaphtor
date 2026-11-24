@@ -63,7 +63,7 @@ di Mino
 | [[wiki/linear-a/inscriptions/HT/HT/HT86a\|HT86a]] | Haghia Triada | Tablet | complete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HT/HT99a\|HT99a]] | Haghia Triada | Tablet | complete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HT/HT21\|HT21]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT40\|HT40]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT40\|HT40]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH3a\|ARKH3a]] | Arkhanes | Tablet | complete |
 | [[wiki/linear-a/inscriptions/KH/KH/KH104\|KH104]] | Khania | Tablet | complete |
 
@@ -81,6 +81,8 @@ di Mino
 | [[wiki/linear-a/inscriptions/HT/HT/HT27b\|HT27b]] |  | grain | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT28b\|HT28b]] | dagān | grain, cereal |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT34\|HT34]] |  | dagān 'grain, cereal' | PROBABLE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT40\|HT40]] | \[ideogram\] | grain (dagān) | PROBABLE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT40\|HT40]] | \[ideogram\] | grain (dagān) | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT44a\|HT44a]] | \[ideogram\] | grain |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT62_plus_73\|HT62+73]] |  | dagān 'grain, cereal' | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT90\|HT90]] | dagān | grain, cereal |  |

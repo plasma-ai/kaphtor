@@ -73,12 +73,12 @@ di Mino; Montecchi 2008; Schoep 2002; CAD Š/2; HALOT; Gelb 1980; Ziegler 1999; 
 | [[wiki/linear-a/inscriptions/HT/HT/HT33\|HT33]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT90\|HT90]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT93a\|HT93a]] | Haghia Triada | Tablet | incomplete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT94a\|HT94a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT94a\|HT94a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT97b\|HT97b]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT99a\|HT99a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT100\|HT100]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT101\|HT101]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT102\|HT102]] | Haghia Triada | Tablet | complete |
+| [[wiki/linear-a/inscriptions/HT/HT/HT101\|HT101]] | Haghia Triada | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/HT/HT/HT102\|HT102]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT105\|HT105]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT114a\|HT114a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT121\|HT121]] | Haghia Triada | Tablet | complete |
@@ -98,6 +98,7 @@ di Mino; Montecchi 2008; Schoep 2002; CAD Š/2; HALOT; Gelb 1980; Ziegler 1999; 
 | [[wiki/linear-a/inscriptions/HT/HT/HT34\|HT34]] | šarra | queen/princess | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT90\|HT90]] | šarra | queen/princess or royal establishment |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT93a\|HT93a]] | šarra | queen/princess or royal establishment | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT94a\|HT94a]] | šarra | queen / royal establishment | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT97b\|HT97b]] | šarra | queen/princess or royal establishment |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT99a\|HT99a]] | šarra | queen/princess or royal establishment (recipient heading) | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT100\|HT100]] | šarra | queen/princess or royal establishment (recipient heading) | CANDIDATE |

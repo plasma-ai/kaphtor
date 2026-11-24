@@ -73,7 +73,7 @@ di Mino; Neumann 1957, 157–58; Montecchi 2024, 178; Salgarella et al. 2025, 38
 | [[wiki/linear-a/inscriptions/HT/HT/HT89\|HT89]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT90\|HT90]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT91\|HT91]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT94a\|HT94a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT94a\|HT94a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT96a\|HT96a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT96b\|HT96b]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT99a\|HT99a]] | Haghia Triada | Tablet | complete |
@@ -145,6 +145,8 @@ di Mino; Neumann 1957, 157–58; Montecchi 2024, 178; Salgarella et al. 2025, 38
 | [[wiki/linear-a/inscriptions/HT/HT/HT88\|HT88]] | NI | figs | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT90\|HT90]] | \*nikuleon | figs | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT91\|HT91]] | \*nikuleon | figs | CONFIRMED |
+| [[wiki/linear-a/inscriptions/HT/HT/HT94a\|HT94a]] | \[ideogram\] | figs | CONFIRMED |
+| [[wiki/linear-a/inscriptions/HT/HT/HT94a\|HT94a]] | \[ideogram\] | figs (double mina; 14½; ⅕) | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT96a\|HT96a]] | NI | figs (commodity ideogram) | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT96b\|HT96b]] | NI | figs (commodity ideogram) | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT99a\|HT99a]] | \[ideogram\] | figs |  |

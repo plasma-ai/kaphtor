@@ -5,7 +5,7 @@ desc: "ʾaripāʾ: healer, of the Rephaim (√r-p-ʾ). Lexicon, CANDIDATE (tier 
 tags: ["linear-a", "word", "tier-2", "epithet", "ritual"]
 kind: "word"
 form: "A-RI-PA"
-datasets: ["lexicon"]
+datasets: ["lexicon", "onomasticon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.5
@@ -60,5 +60,21 @@ di Mino; McAffee 2019
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/PE/PE/PE2\|PE2]] | Petras | Tablet | none |
+
+## Onomasticon
+
+| Field | Value |
+|---|---|
+| Type | theonym (CANDIDATE) |
+| Affiliation | semitic (CANDIDATE) |
+| Evidence | lexicon_reading |
+| Entry | manual |
+| Occurrences | 1 in 1 documents |
+| Sites | Petras |
+| Supports | Tablet 1 |
+
+### Note
+
+PE 2 A-RI-PA ¼, after A-\*325-ZA ¼ and before QA-QA-DA ½, in a list of fractional entries.
 
 <!-- END kaphtor:record -->

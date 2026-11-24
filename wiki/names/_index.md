@@ -31,25 +31,25 @@ updated: 2026-11-11T23:49:15Z
 ***
 
 <!-- BEGIN kaphtor:summary -->
-The tablets of Minoan Crete carry 382 names: 257 personal names, 29 place names, 31 divine names, 50 titles, 11 gentilics, 4 place names or gentilics. Each name is filed here under the language it is read through, and under each language lie the roots the names are built from. A root page shows every name that grows from it; a name page shows its reading, its root, its cognates, the documents it stands on and the words that keep it company.
+The tablets of Minoan Crete carry 384 names: 257 personal names, 29 place names, 32 divine names, 51 titles, 11 gentilics, 4 place names or gentilics. Each name is filed here under the language it is read through, and under each language lie the roots the names are built from. A root page shows every name that grows from it; a name page shows its reading, its root, its cognates, the documents it stands on and the words that keep it company.
 
 | Layer | Names | Roots | Chief sites |
 |---|---|---|---|
-| [[wiki/names/semitic/_index\|Semitic]] | 314 | 236 | Haghia Triada 183, Zakros 42, Knossos 17 |
+| [[wiki/names/semitic/_index\|Semitic]] | 315 | 236 | Haghia Triada 182, Zakros 42, Khania 17 |
 | [[wiki/names/hurrian/_index\|Hurrian]] | 38 | 1 | Haghia Triada 23, Khania 5, Palaikastro 4 |
 | [[wiki/names/egyptian/_index\|Egyptian]] | 11 | 5 | Haghia Triada 7, Zakros 4, Troullos 1 |
-| [[wiki/names/aegean/_index\|Aegean]] | 6 |  | Haghia Triada 4, Khania 1, Zakros 1 |
+| [[wiki/names/aegean/_index\|Aegean]] | 8 | 2 | Haghia Triada 6, Khania 1, Zakros 1 |
 | [[wiki/names/anatolian/_index\|Anatolian]] | 2 | 1 | Papourou 1, Haghia Triada 1 |
 | [[wiki/names/indo-european/_index\|Indo-European]] | 1 |  | Haghia Triada 1 |
 | [[wiki/names/sumerian/_index\|Sumerian]] | 1 | 1 | Haghia Triada 1 |
-| [[wiki/names/unread/_index\|Unread]] | 9 |  | Haghia Triada 8, Troy 1 |
+| [[wiki/names/unread/_index\|Unread]] | 8 |  | Haghia Triada 7, Troy 1 |
 
 | Kind | Names | Layers |
 |---|---|---|
-| [[wiki/names/guide/kinds/people\|People]] | 257 | Semitic 196, Hurrian 37, Egyptian 9, Unread 9, Aegean 3, Anatolian 2, Indo-European 1 |
-| [[wiki/names/guide/kinds/places\|Places]] | 29 | Semitic 25, Aegean 3, Egyptian 1 |
-| [[wiki/names/guide/kinds/gods\|Gods]] | 31 | Semitic 29, Sumerian 1, Egyptian 1 |
-| [[wiki/names/guide/kinds/titles\|Titles]] | 50 | Semitic 49, Hurrian 1 |
+| [[wiki/names/guide/kinds/people\|People]] | 257 | Semitic 196, Hurrian 37, Egyptian 9, Unread 8, Aegean 4, Anatolian 2, Indo-European 1 |
+| [[wiki/names/guide/kinds/places\|Places]] | 29 | Semitic 24, Aegean 4, Egyptian 1 |
+| [[wiki/names/guide/kinds/gods\|Gods]] | 32 | Semitic 30, Sumerian 1, Egyptian 1 |
+| [[wiki/names/guide/kinds/titles\|Titles]] | 51 | Semitic 50, Hurrian 1 |
 | [[wiki/names/guide/kinds/peoples\|Peoples]] | 11 | Semitic 11 |
 | [[wiki/names/guide/kinds/places_and_peoples\|Places or peoples]] | 4 | Semitic 4 |
 

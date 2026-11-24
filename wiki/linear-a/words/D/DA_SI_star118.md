@@ -62,7 +62,7 @@ di Mino; HALOT; Montecchi 2010
 | [[wiki/linear-a/inscriptions/HT/HT/HT13\|HT13]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT85a\|HT85a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT122a\|HT122a]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT99b\|HT99b]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT99b\|HT99b]] | Haghia Triada | Tablet | complete |
 
 ## In translations
 
@@ -70,6 +70,7 @@ di Mino; HALOT; Montecchi 2010
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT13\|HT13]] | Ḏā-šiṭṭa | those of Acacia (a roster unit), 19 | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT85a\|HT85a]] | Ḏā-šiṭṭa | those of Acacia (a group of 24 men) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT99b\|HT99b]] | Ḏā-šiṭṭa | those of Acacia (gentilic / roster unit) | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT122a\|HT122a]] | Ḏā-šiṭṭa | those of Acacia (gentilic, a roster unit) | CANDIDATE |
 
 ## Onomasticon

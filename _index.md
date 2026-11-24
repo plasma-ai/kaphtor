@@ -9,7 +9,7 @@ updated: 2026-11-23T12:53:04Z
 
 # kaphtor
 
-[[assets/_index|assets/]]: Noto Sans fonts for the Aegean scripts, and the README banner.
+[[assets/_index|assets/]]: Noto Sans fonts for the Aegean scripts, and the README banners.
 
 [[codemeta.json|codemeta.json]]: The software's CodeMeta record, for research-software indexes.
 

@@ -35,6 +35,18 @@ updated: 2026-11-18T19:49:10Z
 
 Not checked against HoChyMin, which is not held.
 
+## Translation
+
+
+
+di Mino's reading, CANDIDATE, incomplete; 1 words.
+
+| Line | Page | Group | Values | Reading | Gloss | Tier | Rivals | Note |
+|---|---|---|---|---|---|---|---|---|
+|  | 499 | 082-006-082-088-023 | sa-pa-sa-jo-ti | sa-pa-sa-jo-ti |  | CANDIDATE |  | Phonetic reading on the ruled grid (corpus text). |
+
+Palaepaphos metal vessel -o-ti form sa-pa-sa-jo-ti.
+
 ## Metadata
 
 ### Editions
@@ -52,6 +64,6 @@ Not checked against HoChyMin, which is not held.
 
 No held source states its identity, museum number, findspot, dimensions, object, document form, hand, visual evidence.
 
-No transcription is reproduced here: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
+No transcription is reproduced here beyond the sign groups of the words read: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
 
 <!-- END kaphtor:record -->
