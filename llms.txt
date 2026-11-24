@@ -26,6 +26,7 @@ The readings follow a Semitic decipherment of Linear A. Each carries a tier (CON
 - [Data](https://github.com/plasma-ai/kaphtor/blob/main/data/_index.md): the datasets, each with a datasheet naming its licence
 - [Probabilistic Language-ID Kernel](https://github.com/plasma-ai/kaphtor/blob/main/models/language-id-kernel/README.md): ten-kernel zero-LLM probabilistic language identification suite (Kernels A–J) under strict Linear B sign values
 - [Linear A Lexicon API & MCP](https://github.com/plasma-ai/kaphtor/blob/main/docs/lexicon-api.md): read-only REST API (`api.linear-a.ai/v1`), MCP server (`mcp.linear-a.ai/mcp`), and live probabilistic kernel endpoints
+- [Linear A Lexicon plugin](https://github.com/plasma-ai/kaphtor/blob/main/docs/lexicon-plugin.md): the plugin that connects Claude and ChatGPT to the MCP server, with one skill for giving a reading as a proposal
 - [Tools](https://github.com/plasma-ai/kaphtor/blob/main/tools/README.md): the Python package behind the `kaphtor` command
 - [Skills](https://github.com/plasma-ai/kaphtor/blob/main/skills/README.md): agent skills for Linear A and ancient Near East research
 

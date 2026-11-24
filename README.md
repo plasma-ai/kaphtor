@@ -32,7 +32,9 @@ built from this repository, where every word, name and Semitic root opens with i
 Design by [Maxim Kuznetsov](https://github.com/mkuznetsov_plasma) and
 [Vittorio Retrivi](https://github.com/vretrivi_plasma). Programmatic read-only access—18 REST endpoints at
 `api.linear-a.ai/v1`, an MCP server at `mcp.linear-a.ai/mcp`, and live probabilistic kernel endpoints—is documented in
-[docs/lexicon-api.md](docs/lexicon-api.md).
+[docs/lexicon-api.md](docs/lexicon-api.md). The plugin that connects Claude and ChatGPT to that server is
+[linear-a-lexicon-plugin](https://github.com/plasma-ai/linear-a-lexicon-plugin)
+([docs/lexicon-plugin.md](docs/lexicon-plugin.md)).
 
 The case for the readings is set out in [Opening Linear A](https://plasma.ai/research/linear-a) and in
 [*Ya Diktu*](https://www.minoanmystery.org/linear-a/ya-diktu-grammar-tom-di-mino.pdf), the grammar of the peak
@@ -165,6 +167,13 @@ The skills load when a request fits them. To call one by name, prefix it with th
 
 ```
 /kaphtor:linear-a-decipherment Read IO Za 2 and list the rival readings of each word.
+```
+
+The same marketplace holds a second plugin, the connector to the Linear A Lexicon's public MCP server, which needs no
+clone ([docs/lexicon-plugin.md](docs/lexicon-plugin.md)):
+
+```
+/plugin install linear-a-lexicon@plasma
 ```
 
 In Codex, link the two skill folders into `~/.agents/skills/` from your clone:

@@ -5,7 +5,7 @@ desc: Reference for the read-only Linear A Lexicon REST API (api.linear-a.ai), M
 tags: [docs, linear-a, api, mcp, probabilistic-model]
 authors: "di Mino"
 created: 2026-11-23T00:00:00Z
-updated: 2026-11-23T00:00:00Z
+updated: 2026-11-24T00:00:00Z
 ---
 
 # Linear A Lexicon API & MCP
@@ -94,12 +94,15 @@ curl -s https://linear-a.ai/lexicon/KU-RO.md
 
 ### MCP Client Configuration
 
-Point any Streamable HTTP MCP client (Claude, Codex, Cursor, or custom agent) at:
+The Linear A Lexicon plugin sets this up for Claude and ChatGPT and adds a skill; see
+[[docs/lexicon-plugin|lexicon-plugin]]. Otherwise, point any Streamable HTTP MCP client (Claude, Codex, Cursor, or
+custom agent) at:
 
 ```json
 {
   "mcpServers": {
     "linear-a-lexicon": {
+      "type": "http",
       "url": "https://mcp.linear-a.ai/mcp"
     }
   }

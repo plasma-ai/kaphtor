@@ -4,7 +4,7 @@ title: Docs
 desc: The repository's rules and methods, and the guides to its corpora.
 tags: [docs]
 created: 2026-10-22T18:14:10Z
-updated: 2026-11-23T00:00:00Z
+updated: 2026-11-24T00:00:00Z
 ---
 
 # Docs
@@ -24,6 +24,8 @@ updated: 2026-11-23T00:00:00Z
 [[docs/human-review/_index|human-review/]]: The kinds of artifact that serve a person making the final call on a Linear A reading, what question each settles, and the two review pages with their templates, worked examples and screenshots.
 
 [[docs/lexicon-api|lexicon-api]]: Reference for the read-only Linear A Lexicon REST API (api.linear-a.ai), MCP server (mcp.linear-a.ai/mcp), and Markdown/llms.txt endpoints exported from kaphtor, including live probabilistic kernel endpoints.
+
+[[docs/lexicon-plugin|lexicon-plugin]]: The plugin that connects Claude and ChatGPT to the Linear A Lexicon's public MCP server, the repository it lives in, how to install it, what it sends, and how it differs from the kaphtor plugin.
 
 [[docs/pre-greek-lexicon|pre-greek-lexicon]]: How the Pre-Greek lexicon is compiled: its sources, the folding of headwords, the identity rule, each work's verdict codes, and what ships and what is withheld.
 
