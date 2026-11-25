@@ -1,13 +1,13 @@
 ---
 name: models/language-id-kernel/kernels
-title: "Individual Kernel Reference Docs (Kernels A–J)"
-desc: "Per-kernel technical specifications covering method, corpora called, calibration gates, verified Linear A ledgers, and honest limits for all ten probabilistic kernels (A–J)."
+title: "Individual Kernel Reference Docs (Kernels A–L)"
+desc: "Per-kernel technical specifications covering method, corpora called, calibration gates, verified Linear A ledgers, and honest limits for all twelve probabilistic kernels (A–L)."
 tags: [linear-a, probabilistic-model, kernels, reference]
 created: 2026-11-23T19:35:00Z
-updated: 2026-11-23T19:36:22Z
+updated: 2026-11-25T02:10:00Z
 ---
 
-# Individual Kernel Reference Docs (Kernels A–J)
+# Individual Kernel Reference Docs (Kernels A–L)
 
 [[models/language-id-kernel/_index|..]]
 
@@ -31,9 +31,13 @@ updated: 2026-11-23T19:36:22Z
 
 [[models/language-id-kernel/kernels/j-auto-anchors|j-auto-anchors]]: Audits pre-linguistic anchors with zero hand-picked synsets over shipped open JSONL lexica (including CC0 ePSD2 Sumerian) under dual phonetic and semantic nulls.
 
+[[models/language-id-kernel/kernels/k-fractions|k-fractions]]: Applies Corazza, Ferrara, Montecchi, Tamburini & Valério (2021) A700 fraction values to raw Unicode glyphs to emit a 3D/RTI conflict ledger, blindly discover KU-RO at rank #1, and score only the accounting triad under Linear B Greek calibration.
+
+[[models/language-id-kernel/kernels/l-homomorph|l-homomorph]]: Operationalizes Steele & Meißner (2017) and Salgarella (2020) backward-projection caution alongside Valério & Ferrara (2020), Ferrara, Montecchi & Valério (2022), and Ottaviano et al. (2026) via homomorph-core ablations, L1SO jackknives, corruption curves, and calibrated negative controls.
+
 ***
 
-Each document below isolates one kernel in `models/language-id-kernel/`, recording its exact script, statistical model, shipped reference corpora, known-language calibration gate, verbatim Linear A run numbers, and methodological limits. All ten kernels run deterministically with zero LLMs, zero project-lexicon inputs, and strict Linear B sign values alone.
+Each document below isolates one kernel in `models/language-id-kernel/`, recording its exact script, statistical model, shipped reference corpora, known-language calibration gate, verbatim Linear A run numbers, and methodological limits. All twelve kernels run deterministically with zero LLMs, zero project-lexicon inputs, and strict Linear B sign values alone.
 
 | Channel Group | Kernel | Script | Role |
 | --- | --- | --- | --- |
@@ -47,3 +51,5 @@ Each document below isolates one kernel in `models/language-id-kernel/`, recordi
 | Onomastics | [[models/language-id-kernel/kernels/h-onomastics|Kernel H: Roster Onomastics]] | `onomastics_h.py` | Cultural/onomastic milieu |
 | Morphology | [[models/language-id-kernel/kernels/i-morphology|Kernel I: Bound Affix Morphology]] | `morphology_i.py` | **Primary grammatical proof** |
 | Lexical Anchors | [[models/language-id-kernel/kernels/j-auto-anchors|Kernel J: Zero-Curation Dict Audit]] | `auto_anchors_j.py` | **Primary anti-bias audit** |
+| Metrology | [[models/language-id-kernel/kernels/k-fractions|Kernel K: Corazza–Ferrara Fractions]] | `fractions_k.py` | **Accounting-only confirmation + 3D ledger** |
+| Robustness | [[models/language-id-kernel/kernels/l-homomorph|Kernel L: Backward-Projection Audit]] | `homomorph_l.py` | **Adversarial stress-test & negative controls** |

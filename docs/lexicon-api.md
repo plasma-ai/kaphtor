@@ -18,7 +18,7 @@ The Linear A Lexicon at [linear-a.ai](https://linear-a.ai/) exposes the committe
 | --- | --- | --- |
 | **REST API index** | `https://api.linear-a.ai/v1` | JSON index of all 18 `GET` routes, `lexicon_version`, `standing`, `/v1/health`, and the MCP address |
 | **Health & edition** | `https://api.linear-a.ai/v1/health` | Returns `lexicon_version`, record count, and deployment provenance (`site_commit`, `kaphtor_commit`, `input_sha256`) |
-| **MCP server** | `https://mcp.linear-a.ai/mcp` | Streamable HTTP JSON-RPC (`linear-a-lexicon`, contract `1.2.0`), 18 read-only idempotent tools |
+| **MCP server** | `https://mcp.linear-a.ai/mcp` | Streamable HTTP JSON-RPC (`linear-a-lexicon`, contract `1.2.2`), 18 read-only idempotent tools |
 | **Web & Markdown** | `https://linear-a.ai/` | Append `.md` or `/index.md` to any page (e.g. `https://linear-a.ai/lexicon/KU-RO.md`) |
 | **LLM discovery** | `https://linear-a.ai/llms.txt` | Concise site guide and Confirmed-tier summary; full catalog at `https://linear-a.ai/llms-full.txt` |
 
@@ -35,11 +35,11 @@ Every REST route maps one-to-one to an MCP tool with identical input and output 
 
 ### 1. Live Probabilistic Language-ID Kernels
 
-Backed by the zero-LLM, deterministic ten-kernel suite in [`models/language-id-kernel/`](../models/language-id-kernel/README.md) under strict Linear B sign values:
+Backed by the zero-LLM, deterministic twelve-kernel suite in [`models/language-id-kernel/`](../models/language-id-kernel/README.md) under strict Linear B sign values:
 
 | REST Route (`GET`) | MCP Tool | Parameters | Purpose |
 | --- | --- | --- | --- |
-| `/v1/kernel/summary` | `kernel_summary` | *(none)* | Signed ten-kernel scoreboard (`Kernels A–J`), calibration gates, Bayes factors, and permutation p-values |
+| `/v1/kernel/summary` | `kernel_summary` | *(none)* | Signed twelve-kernel scoreboard (`Kernels A–L`), calibration gates, Bayes factors, backward-projection stress-tests, and permutation p-values |
 | `/v1/kernel/anchors` | `run_anchor_kernel` | `subset` (`full_8`, `drop_3_trade_loans`, `arithmetic_only_2`, `linear_b_cal`), `drop` (comma-separated words), `perms`, `seed`, `beta` | Runs live **Kernel D** consonant-series grid permutations on Linear A pre-linguistic anchors, custom leave-any-out ablations, or the Mycenaean Linear B Greek calibration control |
 | `/v1/kernel/ligatures` | `run_ligature_kernel` | `target` (`linear_a`, `linear_b_cal`), `perms`, `seed`, `beta` | Runs live **Kernel F** commodity ligature acrophony permutations (`GRA`/`OLE`/`VIN`) or the Linear B Greek calibration control |
 
@@ -79,7 +79,7 @@ curl -s https://api.linear-a.ai/v1 | jq .
 # Look up KU-RO ("total")
 curl -s https://api.linear-a.ai/v1/words/KU-RO | jq '{word, reading, meaning, tier}'
 
-# Read the ten-kernel probabilistic scoreboard
+# Read the twelve-kernel probabilistic scoreboard
 curl -s https://api.linear-a.ai/v1/kernel/summary | jq .
 
 # Run a live Kernel D permutation test dropping trade-loan suspects

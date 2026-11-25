@@ -1,9 +1,9 @@
 ---
 name: models/language-id-kernel/tests
 title: tests
-desc: Unit tests for Kernels B, C, D, F, G, H, I and J and for the unified kaphtor_kernel.py command line.
+desc: Unit tests for Kernels B, C, D, F, G, H, I, J, K, and L and for the unified kaphtor_kernel.py command line.
 created: 2026-11-22T00:00:00Z
-updated: 2026-11-23T16:56:38Z
+updated: 2026-11-25T02:00:18Z
 ---
 
 # tests
@@ -17,6 +17,10 @@ updated: 2026-11-23T16:56:38Z
 [[models/language-id-kernel/tests/test_auto_anchors_j.py|test_auto_anchors_j.py]]: ...
 
 [[models/language-id-kernel/tests/test_dialect_g.py|test_dialect_g.py]]: ...
+
+[[models/language-id-kernel/tests/test_fractions_k.py|test_fractions_k.py]]: ...
+
+[[models/language-id-kernel/tests/test_homomorph_l.py|test_homomorph_l.py]]: ...
 
 [[models/language-id-kernel/tests/test_kaphtor_kernel.py|test_kaphtor_kernel.py]]: ...
 

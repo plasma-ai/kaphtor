@@ -1,0 +1,914 @@
+{
+  "snapshot": "kaphtor v1.3.2 (2026-11-24)",
+  "seed": 20261124,
+  "kernel_k": {
+    "stage_k0_k1_language_free": {
+      "n_records_scanned": 1719,
+      "compound_fraction_properness": {
+        "n_compound_fractions": 55,
+        "corazza_2021_strict_gt1_violations": 0,
+        "bennett_legacy_strict_gt1_violations": 1,
+        "corazza_2021_gt1_witnesses": [],
+        "bennett_legacy_gt1_witnesses": [
+          {
+            "tablet": "HT27a",
+            "glyphs": "\ud801\udf55\ud801\udf41",
+            "value": "13/12"
+          }
+        ],
+        "repeated_unit_eq1_witnesses": [
+          {
+            "tablet": "PH22a",
+            "glyphs": "\ud801\udf46\ud801\udf46",
+            "value": "1"
+          },
+          {
+            "tablet": "PH9b",
+            "glyphs": "\ud801\udf46\ud801\udf46",
+            "value": "1"
+          }
+        ]
+      },
+      "corazza_2021_top_candidates": [
+        {
+          "word": "KU-RO",
+          "exact_sums": 9,
+          "witnesses": [
+            {
+              "tablet": "HT104",
+              "total": 95.0,
+              "total_exact": "95",
+              "n_addends": 3
+            },
+            {
+              "tablet": "HT117a",
+              "total": 10.0,
+              "total_exact": "10",
+              "n_addends": 10
+            },
+            {
+              "tablet": "HT11b",
+              "total": 180.0,
+              "total_exact": "180",
+              "n_addends": 5
+            },
+            {
+              "tablet": "HT127b",
+              "total": 292.0,
+              "total_exact": "292",
+              "n_addends": 6
+            },
+            {
+              "tablet": "HT25b",
+              "total": 52.0,
+              "total_exact": "52",
+              "n_addends": 2
+            },
+            {
+              "tablet": "HT88",
+              "total": 6.0,
+              "total_exact": "6",
+              "n_addends": 6
+            },
+            {
+              "tablet": "HT89",
+              "total": 87.0,
+              "total_exact": "87",
+              "n_addends": 5
+            },
+            {
+              "tablet": "HT94b",
+              "total": 5.0,
+              "total_exact": "5",
+              "n_addends": 5
+            },
+            {
+              "tablet": "HT9b",
+              "total": 24.0,
+              "total_exact": "24",
+              "n_addends": 7
+            }
+          ]
+        },
+        {
+          "word": "*21M",
+          "exact_sums": 1,
+          "witnesses": [
+            {
+              "tablet": "PH(?)31a",
+              "total": 5.0,
+              "total_exact": "5",
+              "n_addends": 5
+            }
+          ]
+        },
+        {
+          "word": "*22F",
+          "exact_sums": 1,
+          "witnesses": [
+            {
+              "tablet": "PH(?)31b",
+              "total": 5.0,
+              "total_exact": "5",
+              "n_addends": 4
+            }
+          ]
+        },
+        {
+          "word": "DI-NA-U",
+          "exact_sums": 1,
+          "witnesses": [
+            {
+              "tablet": "HT9b",
+              "total": 4.0,
+              "total_exact": "4",
+              "n_addends": 2
+            }
+          ]
+        },
+        {
+          "word": "I+*301",
+          "exact_sums": 1,
+          "witnesses": [
+            {
+              "tablet": "KN2",
+              "total": 5.0,
+              "total_exact": "5",
+              "n_addends": 2
+            }
+          ]
+        },
+        {
+          "word": "KU-RO[",
+          "exact_sums": 1,
+          "witnesses": [
+            {
+              "tablet": "HT85a",
+              "total": 66.0,
+              "total_exact": "66",
+              "n_addends": 7
+            }
+          ]
+        },
+        {
+          "word": "NI",
+          "exact_sums": 1,
+          "witnesses": [
+            {
+              "tablet": "HT28b",
+              "total": 6.0,
+              "total_exact": "6",
+              "n_addends": 2
+            }
+          ]
+        },
+        {
+          "word": "OLE+DI",
+          "exact_sums": 1,
+          "witnesses": [
+            {
+              "tablet": "HT28a",
+              "total": 10.0,
+              "total_exact": "10",
+              "n_addends": 3
+            }
+          ]
+        },
+        {
+          "word": "SA-JA-MA",
+          "exact_sums": 1,
+          "witnesses": [
+            {
+              "tablet": "HT31",
+              "total": 30.0,
+              "total_exact": "30",
+              "n_addends": 3
+            }
+          ]
+        },
+        {
+          "word": "SA-RU",
+          "exact_sums": 1,
+          "witnesses": [
+            {
+              "tablet": "HT95a",
+              "total": 20.0,
+              "total_exact": "20",
+              "n_addends": 2
+            }
+          ]
+        }
+      ],
+      "corazza_kuro_exact_sums": 9,
+      "bennett_legacy_kuro_exact_sums": 9,
+      "top_discovered_sum_word": "KU-RO",
+      "runner_up_exact_sums": 1,
+      "autopsy_conflicts": [
+        {
+          "tablet": "HT 123+124a",
+          "column": "*308",
+          "signs": [
+            "A706 (H)",
+            "A701 (A)"
+          ],
+          "corazza_2021": {
+            "H": "1/16",
+            "A": "1/24"
+          },
+          "tablet_constraint": "H = A + 1/4 (incompatible with Corazza top-28 space under current GORILA reading)",
+          "recommended_action": "3D/RTI autopsy of damaged *308-column numerals and fraction traces."
+        },
+        {
+          "tablet": "HT 123+124a",
+          "column": "KI-RO 6",
+          "signs": [
+            "A711 (X)"
+          ],
+          "corazza_2021": {
+            "X": "1/12"
+          },
+          "tablet_constraint": "Fails to balance KI-RO 6 for any X < 1 under current reading.",
+          "recommended_action": "Verify KI-RO column entry damage on original tablet / 3D scan."
+        },
+        {
+          "tablet": "KH 7a (Row 5) & HT 89",
+          "column": "CYP+D 1 JE+L2 / CYP 2 JE",
+          "signs": [
+            "A732 (JE)",
+            "A709-2 (L2)"
+          ],
+          "corazza_2021": {
+            "A732": "3/4 (composite J+E; 31x across 24 docs)",
+            "L2": "1/20"
+          },
+          "tablet_constraint": "KH 7a Row 5 preserves ration 1 + 3/4 + 1/20 = 1.80 against broken worker count [ ]18 (additive decimal -> 18 double-ration or 28/38 with lost trailing fraction); HT 89 pairs CYP 2 JE + NI 2 E = 5.0.",
+          "recommended_action": "3D/RTI autopsy of KH 7a Row 5 fracture margins & ductus check of A732 (J+E ligature) on HT 89."
+        },
+        {
+          "tablet": "MA 10b",
+          "column": "MM IIIB (4-sided bar)",
+          "signs": [
+            "*405+OMEGA (A713)"
+          ],
+          "corazza_2021": null,
+          "tablet_constraint": "Early Neopalatial MM IIIB 4-sided bar vessel-capacity ligature (GORILA V, 50-51; possibly CH 304); 0 intact sum equations.",
+          "recommended_action": "Cross-check against Cretan Hieroglyphic klasmatograms (Ferrara, Montecchi & Val\u00e9rio 2021/2022)."
+        },
+        {
+          "tablet": "KN 49 / PH 7b / KH 96 / PH 10 / PH 12a / ZA 11a",
+          "column": "L-series (8 corpus tokens across 6 docs)",
+          "signs": [
+            "A709 (L)"
+          ],
+          "corazza_2021": {
+            "L": "EXCLUDED (Spearman/chi2; Corazza et al. 2021 fn. 2)"
+          },
+          "tablet_constraint": "Statistically rejected as an independent fraction sign by Corazza et al. 2021 (KN 49 = RILA-S1, 34-35, read L6 by SigLA; PH 7b has 0 L in SigLA).",
+          "recommended_action": "Check whether the 8 corpus A709 tokens are damaged L2-L6 strokes at fracture edges."
+        }
+      ]
+    },
+    "stage_k2_accounting_lid": {
+      "cap": 40,
+      "beta": 6.0,
+      "n_perm": 5000,
+      "seed": 20261124,
+      "synset_counts_accounting": {
+        "TOTAL": {
+          "semitic": 19,
+          "greek": 1047,
+          "sumerian": 9
+        },
+        "DEFICIT": {
+          "semitic": 12,
+          "greek": 366,
+          "sumerian": 1
+        }
+      },
+      "calibration_linear_b": {
+        "n_anchors": 2,
+        "winner": "greek",
+        "runner_up": "sumerian",
+        "delta_ll": 0.2801,
+        "languages": {
+          "semitic": {
+            "ll": -10.2333,
+            "null_mean": -10.3061,
+            "null_sd": 0.5366,
+            "z_perm": 0.136,
+            "p_perm": 0.40132,
+            "n_concept_perms": 2,
+            "concept_null_mean": null,
+            "concept_null_sd": null,
+            "z_concept": null,
+            "p_concept": null
+          },
+          "greek": {
+            "ll": -7.8005,
+            "null_mean": -8.7211,
+            "null_sd": 0.3705,
+            "z_perm": 2.485,
+            "p_perm": 0.0144,
+            "n_concept_perms": 2,
+            "concept_null_mean": null,
+            "concept_null_sd": null,
+            "z_concept": null,
+            "p_concept": null
+          },
+          "sumerian": {
+            "ll": -8.0806,
+            "null_mean": -8.9222,
+            "null_sd": 0.6845,
+            "z_perm": 1.23,
+            "p_perm": 0.10778,
+            "n_concept_perms": 2,
+            "concept_null_mean": null,
+            "concept_null_sd": null,
+            "z_concept": null,
+            "p_concept": null
+          }
+        }
+      },
+      "linear_a_accounting_pair_dedup": {
+        "n_anchors": 2,
+        "winner": "semitic",
+        "runner_up": "greek",
+        "delta_ll": 1.1897,
+        "languages": {
+          "semitic": {
+            "ll": -6.8066,
+            "null_mean": -9.7121,
+            "null_sd": 0.9217,
+            "z_perm": 3.152,
+            "p_perm": 0.0148,
+            "n_concept_perms": 2,
+            "concept_null_mean": null,
+            "concept_null_sd": null,
+            "z_concept": null,
+            "p_concept": null
+          },
+          "greek": {
+            "ll": -7.9963,
+            "null_mean": -8.9612,
+            "null_sd": 0.5507,
+            "z_perm": 1.752,
+            "p_perm": 0.05439,
+            "n_concept_perms": 2,
+            "concept_null_mean": null,
+            "concept_null_sd": null,
+            "z_concept": null,
+            "p_concept": null
+          },
+          "sumerian": {
+            "ll": -8.6982,
+            "null_mean": -10.2155,
+            "null_sd": 0.6615,
+            "z_perm": 2.294,
+            "p_perm": 0.03079,
+            "n_concept_perms": 2,
+            "concept_null_mean": null,
+            "concept_null_sd": null,
+            "z_concept": null,
+            "p_concept": null
+          }
+        }
+      },
+      "linear_a_accounting_triad": {
+        "n_anchors": 3,
+        "winner": "semitic",
+        "runner_up": "greek",
+        "delta_ll": 0.5506,
+        "languages": {
+          "semitic": {
+            "ll": -11.2392,
+            "null_mean": -14.4454,
+            "null_sd": 1.1209,
+            "z_perm": 2.86,
+            "p_perm": 0.0128,
+            "n_concept_perms": 3,
+            "concept_null_mean": null,
+            "concept_null_sd": null,
+            "z_concept": null,
+            "p_concept": null
+          },
+          "greek": {
+            "ll": -11.7898,
+            "null_mean": -13.8882,
+            "null_sd": 0.7486,
+            "z_perm": 2.803,
+            "p_perm": 0.0084,
+            "n_concept_perms": 3,
+            "concept_null_mean": null,
+            "concept_null_sd": null,
+            "z_concept": null,
+            "p_concept": null
+          },
+          "sumerian": {
+            "ll": -12.8423,
+            "null_mean": -15.2044,
+            "null_sd": 0.859,
+            "z_perm": 2.75,
+            "p_perm": 0.0166,
+            "n_concept_perms": 3,
+            "concept_null_mean": null,
+            "concept_null_sd": null,
+            "z_concept": null,
+            "p_concept": null
+          }
+        }
+      }
+    }
+  },
+  "kernel_l": {
+    "run_metadata": {
+      "stage": "all",
+      "seed": 20261124,
+      "n_perm_l1_l4": 500,
+      "n_perm_l2": 1000,
+      "trials_l3": 300
+    },
+    "l1_homomorph_subsets": {
+      "full_strict_lb": {
+        "dropped_series": [],
+        "n_words": 728,
+        "n_types": 505,
+        "winner": "semitic",
+        "semitic_margin": 40.034,
+        "semitic_z_margin": 2.474,
+        "semitic_p_margin": 0.002,
+        "semitic_p_cv": 0.00399
+      },
+      "drop_Q_Z": {
+        "dropped_series": [
+          "Q",
+          "Z"
+        ],
+        "n_words": 664,
+        "n_types": 453,
+        "winner": "semitic",
+        "semitic_margin": 44.329,
+        "semitic_z_margin": 2.474,
+        "semitic_p_margin": 0.002,
+        "semitic_p_cv": 0.002
+      },
+      "drop_Q_Z_W_J": {
+        "dropped_series": [
+          "J",
+          "Q",
+          "W",
+          "Z"
+        ],
+        "n_words": 550,
+        "n_types": 357,
+        "winner": "semitic",
+        "semitic_margin": 27.586,
+        "semitic_z_margin": 2.055,
+        "semitic_p_margin": 0.00798,
+        "semitic_p_cv": 0.002
+      },
+      "all_12_single_series_drops": {
+        "D": {
+          "dropped_series": [
+            "D"
+          ],
+          "n_words": 533,
+          "n_types": 367,
+          "winner": "semitic",
+          "semitic_margin": 27.206,
+          "semitic_z_margin": 2.206,
+          "semitic_p_margin": 0.00399,
+          "semitic_p_cv": 0.002
+        },
+        "J": {
+          "dropped_series": [
+            "J"
+          ],
+          "n_words": 634,
+          "n_types": 426,
+          "winner": "semitic",
+          "semitic_margin": 28.286,
+          "semitic_z_margin": 2.188,
+          "semitic_p_margin": 0.00998,
+          "semitic_p_cv": 0.00399
+        },
+        "K": {
+          "dropped_series": [
+            "K"
+          ],
+          "n_words": 482,
+          "n_types": 356,
+          "winner": "semitic",
+          "semitic_margin": 47.299,
+          "semitic_z_margin": 2.87,
+          "semitic_p_margin": 0.00399,
+          "semitic_p_cv": 0.00998
+        },
+        "M": {
+          "dropped_series": [
+            "M"
+          ],
+          "n_words": 577,
+          "n_types": 391,
+          "winner": "semitic",
+          "semitic_margin": 13.49,
+          "semitic_z_margin": 1.646,
+          "semitic_p_margin": 0.03792,
+          "semitic_p_cv": 0.01597
+        },
+        "N": {
+          "dropped_series": [
+            "N"
+          ],
+          "n_words": 573,
+          "n_types": 388,
+          "winner": "semitic",
+          "semitic_margin": 32.6,
+          "semitic_z_margin": 2.313,
+          "semitic_p_margin": 0.00798,
+          "semitic_p_cv": 0.00998
+        },
+        "P": {
+          "dropped_series": [
+            "P"
+          ],
+          "n_words": 614,
+          "n_types": 425,
+          "winner": "semitic",
+          "semitic_margin": 39.884,
+          "semitic_z_margin": 2.156,
+          "semitic_p_margin": 0.01397,
+          "semitic_p_cv": 0.01198
+        },
+        "Q": {
+          "dropped_series": [
+            "Q"
+          ],
+          "n_words": 684,
+          "n_types": 469,
+          "winner": "semitic",
+          "semitic_margin": 43.529,
+          "semitic_z_margin": 2.503,
+          "semitic_p_margin": 0.002,
+          "semitic_p_cv": 0.002
+        },
+        "R": {
+          "dropped_series": [
+            "R"
+          ],
+          "n_words": 430,
+          "n_types": 320,
+          "winner": "semitic",
+          "semitic_margin": 8.62,
+          "semitic_z_margin": 1.317,
+          "semitic_p_margin": 0.07385,
+          "semitic_p_cv": 0.0998
+        },
+        "S": {
+          "dropped_series": [
+            "S"
+          ],
+          "n_words": 529,
+          "n_types": 358,
+          "winner": "semitic",
+          "semitic_margin": 26.585,
+          "semitic_z_margin": 2.057,
+          "semitic_p_margin": 0.01198,
+          "semitic_p_cv": 0.01397
+        },
+        "T": {
+          "dropped_series": [
+            "T"
+          ],
+          "n_words": 513,
+          "n_types": 324,
+          "winner": "semitic",
+          "semitic_margin": 3.902,
+          "semitic_z_margin": 0.636,
+          "semitic_p_margin": 0.26547,
+          "semitic_p_cv": 0.09381
+        },
+        "W": {
+          "dropped_series": [
+            "W"
+          ],
+          "n_words": 701,
+          "n_types": 481,
+          "winner": "semitic",
+          "semitic_margin": 34.485,
+          "semitic_z_margin": 2.193,
+          "semitic_p_margin": 0.00599,
+          "semitic_p_cv": 0.00599
+        },
+        "Z": {
+          "dropped_series": [
+            "Z"
+          ],
+          "n_words": 708,
+          "n_types": 489,
+          "winner": "semitic",
+          "semitic_margin": 43.9,
+          "semitic_z_margin": 2.572,
+          "semitic_p_margin": 0.002,
+          "semitic_p_cv": 0.00399
+        }
+      },
+      "single_series_pass_rate": "10/12",
+      "sigla_word_division_invariance": {
+        "source": "data/linear-a/sigla_db.json",
+        "n_words": 686,
+        "n_types": 495,
+        "winner": "semitic",
+        "semitic_margin": 35.115,
+        "semitic_z_margin": 2.661,
+        "semitic_p_margin": 0.002,
+        "semitic_p_cv": 0.002,
+        "rival_p_margins": {
+          "anatolian": 0.45509,
+          "greek": 0.2475,
+          "hattic": 0.83633,
+          "hurrian": 0.17166,
+          "latin": 0.21557,
+          "sumerian": 1.0
+        }
+      },
+      "aegean_cypriot_core_11": {
+        "allowed_signs": 11,
+        "n_words": 30,
+        "note": "Ultra-conservative 11-sign Aegean-Cypriot core census (Steele & Mei\u00dfner 2017); evaluated if n_types >= 20."
+      }
+    },
+    "l2_l1so_anchors": {
+      "kernel_d_l1so": [
+        {
+          "dropped": "D",
+          "n_anchors": 7,
+          "winner": "semitic",
+          "semitic_z": 7.846,
+          "semitic_p": 0.001
+        },
+        {
+          "dropped": "K",
+          "n_anchors": 3,
+          "winner": "semitic",
+          "semitic_z": 3.983,
+          "semitic_p": 0.001
+        },
+        {
+          "dropped": "N",
+          "n_anchors": 6,
+          "winner": "semitic",
+          "semitic_z": 6.602,
+          "semitic_p": 0.001
+        },
+        {
+          "dropped": "P",
+          "n_anchors": 5,
+          "winner": "semitic",
+          "semitic_z": 6.162,
+          "semitic_p": 0.001
+        },
+        {
+          "dropped": "Q",
+          "n_anchors": 7,
+          "winner": "semitic",
+          "semitic_z": 7.774,
+          "semitic_p": 0.001
+        },
+        {
+          "dropped": "R",
+          "n_anchors": 5,
+          "winner": "semitic",
+          "semitic_z": 7.112,
+          "semitic_p": 0.001
+        },
+        {
+          "dropped": "S",
+          "n_anchors": 6,
+          "winner": "semitic",
+          "semitic_z": 5.819,
+          "semitic_p": 0.001
+        },
+        {
+          "dropped": "T",
+          "n_anchors": 7,
+          "winner": "semitic",
+          "semitic_z": 7.774,
+          "semitic_p": 0.001
+        }
+      ],
+      "kernel_d_pass_rate": "8/8",
+      "kernel_j_l1so": [
+        {
+          "dropped": "D",
+          "n_anchors": 7,
+          "winner": "semitic",
+          "delta_ll": 4.1321,
+          "semitic_z": 4.047,
+          "semitic_p": 0.001,
+          "semitic_p_concept": 0.01111
+        },
+        {
+          "dropped": "K",
+          "n_anchors": 1,
+          "winner": "semitic",
+          "delta_ll": 1.4332,
+          "semitic_z": 2.682,
+          "semitic_p": 0.03696,
+          "semitic_p_concept": null
+        },
+        {
+          "dropped": "N",
+          "n_anchors": 6,
+          "winner": "semitic",
+          "delta_ll": 2.5,
+          "semitic_z": 3.708,
+          "semitic_p": 0.001,
+          "semitic_p_concept": 0.17222
+        },
+        {
+          "dropped": "P",
+          "n_anchors": 5,
+          "winner": "semitic",
+          "delta_ll": 2.3057,
+          "semitic_z": 3.246,
+          "semitic_p": 0.004,
+          "semitic_p_concept": 0.06667
+        },
+        {
+          "dropped": "R",
+          "n_anchors": 5,
+          "winner": "semitic",
+          "delta_ll": 2.4509,
+          "semitic_z": 3.4,
+          "semitic_p": 0.002,
+          "semitic_p_concept": 0.13333
+        },
+        {
+          "dropped": "S",
+          "n_anchors": 6,
+          "winner": "semitic",
+          "delta_ll": 1.2061,
+          "semitic_z": 2.864,
+          "semitic_p": 0.00899,
+          "semitic_p_concept": 0.28889
+        },
+        {
+          "dropped": "T",
+          "n_anchors": 7,
+          "winner": "semitic",
+          "delta_ll": 4.3424,
+          "semitic_z": 4.018,
+          "semitic_p": 0.001,
+          "semitic_p_concept": 0.01111
+        }
+      ],
+      "kernel_j_pass_rate": "7/7",
+      "kernel_j_dual_null_pass_rate": "2/7"
+    },
+    "l3_corruption_curve": {
+      "linear_b_greek": [
+        {
+          "eps": 0.0,
+          "trials": 1,
+          "target_win_rate": 1.0,
+          "mean_delta_ll": 13.155
+        },
+        {
+          "eps": 0.1,
+          "trials": 300,
+          "target_win_rate": 1.0,
+          "mean_delta_ll": 11.332
+        },
+        {
+          "eps": 0.2,
+          "trials": 300,
+          "target_win_rate": 1.0,
+          "mean_delta_ll": 10.26
+        },
+        {
+          "eps": 0.3,
+          "trials": 300,
+          "target_win_rate": 1.0,
+          "mean_delta_ll": 8.51
+        },
+        {
+          "eps": 0.4,
+          "trials": 300,
+          "target_win_rate": 1.0,
+          "mean_delta_ll": 7.678
+        },
+        {
+          "eps": 0.5,
+          "trials": 300,
+          "target_win_rate": 0.9967,
+          "mean_delta_ll": 6.242
+        }
+      ],
+      "linear_a_semitic": [
+        {
+          "eps": 0.0,
+          "trials": 1,
+          "target_win_rate": 1.0,
+          "mean_delta_ll": 13.585,
+          "p_perm_le_005_rate": 1.0,
+          "p_perm_trials": 1
+        },
+        {
+          "eps": 0.1,
+          "trials": 300,
+          "target_win_rate": 1.0,
+          "mean_delta_ll": 11.497,
+          "p_perm_le_005_rate": 0.99,
+          "p_perm_trials": 100
+        },
+        {
+          "eps": 0.2,
+          "trials": 300,
+          "target_win_rate": 0.9967,
+          "mean_delta_ll": 9.673,
+          "p_perm_le_005_rate": 0.9,
+          "p_perm_trials": 100
+        },
+        {
+          "eps": 0.3,
+          "trials": 300,
+          "target_win_rate": 0.9567,
+          "mean_delta_ll": 7.767,
+          "p_perm_le_005_rate": 0.8,
+          "p_perm_trials": 100
+        },
+        {
+          "eps": 0.4,
+          "trials": 300,
+          "target_win_rate": 0.9267,
+          "mean_delta_ll": 6.256
+        },
+        {
+          "eps": 0.5,
+          "trials": 300,
+          "target_win_rate": 0.8267,
+          "mean_delta_ll": 4.242
+        }
+      ],
+      "linear_a_morphology_kernel_i": [
+        {
+          "eps": 0.0,
+          "trials": 1,
+          "target_win_rate": 1.0,
+          "mean_margin": 40.03
+        },
+        {
+          "eps": 0.1,
+          "trials": 100,
+          "target_win_rate": 0.94,
+          "mean_margin": 30.78
+        },
+        {
+          "eps": 0.2,
+          "trials": 100,
+          "target_win_rate": 0.86,
+          "mean_margin": 26.35
+        },
+        {
+          "eps": 0.3,
+          "trials": 100,
+          "target_win_rate": 0.7,
+          "mean_margin": 18.49
+        },
+        {
+          "eps": 0.4,
+          "trials": 100,
+          "target_win_rate": 0.56,
+          "mean_margin": -4.12
+        },
+        {
+          "eps": 0.5,
+          "trials": 100,
+          "target_win_rate": 0.55,
+          "mean_margin": 1.81
+        }
+      ]
+    },
+    "l4_negative_controls": {
+      "macro_typology_kernels_ab": {
+        "source": "logged_prior_run",
+        "status": "NULL_NON_DIAGNOSTIC",
+        "note": "Kernels A & B (/a,i,u/ token frequency ~81%) yield Z_perm < 0; consistent with Semitic but non-diagnostic alone."
+      },
+      "ch_to_la_pictographic_acrophony": {
+        "source": "logged_prior_run",
+        "status": "NULL_PREREGISTERED",
+        "observed": "3/20 frozen Semitic object names match consonant series (p ~ 0.31)",
+        "alignment": "Consistent with Val\u00e9rio & Ferrara (2020, WSR 11) and Ottaviano et al. (2026, Curr. Anthr. 67.4) against naive phonocentrism."
+      },
+      "single_sign_open_dict_ligature_saturation": {
+        "source": "computed_live",
+        "status": "CALIBRATION_FAIL_BOUNDARY",
+        "linear_b_winner": "greek",
+        "linear_b_greek_z": 0.503,
+        "linear_b_greek_p": 0.39521,
+        "implication": "Single-sign CV open-dict matching saturates a ~60-sign syllabary; Kernel F remains auxiliary only."
+      }
+    }
+  }
+}

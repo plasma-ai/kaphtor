@@ -31,7 +31,7 @@ identifiers:
   - type: doi
     value: "10.5281/zenodo.24375017"
     description: "kaphtor 1.0.0"
-version: "1.3.1"
+version: "1.3.2"
 date-released: "2026-11-24"
 license:
   - Apache-2.0

@@ -142,8 +142,9 @@ signs are counted apart: 3 resolved (`J`, `E`, `F`) and 11 proposed. The probabi
 below never reads these 37 proposed sign values and scores Linear A strictly on agreed Linear B values.
 
 Linear A has no deductive proof kernel. Instead, [`models/language-id-kernel/`](#probabilistic-language-identification)
-ships a deterministic, zero-LLM ten-kernel probabilistic suite (`Kernels A–J`) that runs end-to-end from a fresh clone
-under strict Linear B values, Linear B Greek calibration gates, and consonant-grid and concept-label permutation nulls.
+ships a deterministic, zero-LLM twelve-kernel probabilistic suite (`Kernels A–L`) that runs end-to-end from a fresh clone
+under strict Linear B values, Linear B Greek calibration gates, consonant-grid and concept-label permutation nulls,
+Corazza–Ferrara (2021) fraction arithmetic, and backward-projection corruption stress-tests.
 Counts, distributions, arithmetic and reproducibility are checked mechanically, while individual segmentations, sound
 correspondences and meanings stay graded and open to revision. Every Semitic match in `root_match.py` is rescored
 against the four shipped rival-language files (Luwian, Egyptian, Hurrian and Hattic roots) with margins reported where
@@ -219,27 +220,33 @@ the data from another folder.
 
 ## Probabilistic Language Identification
 
-Using strict Linear B sign values alone, zero LLMs, and zero project-lexicon inputs, the ten-kernel suite
-(`models/language-id-kernel/`) establishes consonant-specific phonetic matches to Semitic across independent
+Using strict Linear B sign values alone, zero LLMs, and zero project-lexicon inputs, the twelve-kernel suite
+(`models/language-id-kernel/`) establishes consonant-specific phonetic and grammatical matches to Semitic across
 pre-linguistic channels: standalone arithmetic/vessel/grain anchors at a **~794,000 : 1 Bayes Factor** (`ΔLL = +13.58`,
 `Z_perm = +7.37`, `p = 0.00010`, 0/10,000 consonant-grid permutations—holding across all eight leave-one-out
 ablations, after dropping the three trade-loan suspects at `~1,860 : 1`, and on pure arithmetic `KU-RO`/`KI-RO` alone
-at `p = 0.00640`), commodity ligature acrophony (`Z_perm = +5.53`, `p = 0.00010`), Palaikastro dialectal sound-law
-coherence (`5/5` minimal pairs, `p = 0.00010`), and an automated size-locked (`K = 300`) Biblical Hebrew liturgical
-match on `IO Za 2` (`Z = +2.91` to `+3.05`, `p = 0.027`–`0.032`). The same anchor and ligature instruments first
-identify Linear B as Greek (`Z = +7.97` and `+4.31`) and reject Semitic (`p = 0.11` and `0.36`). Corpus-wide
-word-shape, unsupervised Kober-trio, and votive verbal-frame models likewise rank Semitic first (joint primary
-Stouffer `Z = +3.504`, `p = 0.00023`).
+at `p = 0.00640`), blind accounting-only discovery from Corazza–Ferrara (2021) fractions (`KU-RO` #1 with `9` exact
+sums; accounting triad ranks Semitic #1 at `Z = +2.86, p = 0.01280`, modest `ΔLL = +0.551` on 3 shared `K–R` words),
+backward-projection stress-testing (`8/8` Kernel D and `7/7` Kernel J leave-one-series-out drops pass `p_perm <= 0.05`;
+`99.67%` Semitic rank-1 win rate at 20% random consonant-series corruption on Kernel D),
+commodity ligature acrophony (`Z_perm = +5.53`, `p = 0.00010`), Palaikastro dialectal sound-law coherence (`5/5` minimal
+pairs, `p = 0.00010`), and an automated size-locked (`K = 300`) Biblical Hebrew liturgical match on `IO Za 2`
+(`Z = +2.91` to `+3.05`, `p = 0.027`–`0.032`). The same anchor, accounting, morphology, and ligature instruments first
+identify Linear B as Greek (`Z = +7.97`, `+2.48`, `p_M = 0.027`, and `+4.31`) and reject Semitic (`p = 0.11`, `0.40`,
+`0.88`, and `0.36`). Corpus-wide word-shape, unsupervised Kober-trio, and votive verbal-frame models likewise rank
+Semitic first (joint primary Stouffer `Z = +3.504`, `p = 0.00023`).
 
 The repository ships two complementary, zero-LLM, deterministic frameworks:
 
 - **`models/language-id-kernel/`** ([executive summary](models/language-id-kernel/README.md),
-  [2026-11-23 significance report](models/language-id-kernel/results-significance-2026-11-23.md),
+  [2026-11-24 findings](models/language-id-kernel/results-significance-2026-11-24.md),
+  [adversarial vetting guide](models/language-id-kernel/ferrara-vetting-guide.md),
+  [2026-11-23 baseline report](models/language-id-kernel/results-significance-2026-11-23.md),
   [per-kernel specs](models/language-id-kernel/kernels/_index.md),
   [reference](models/language-id-kernel/reference.md),
-  [replication guide](models/language-id-kernel/replication-guide.md)): self-contained ten-kernel suite (`Kernels A–J`)
-  under strict Linear B sign values with consonant-grid and concept-label permutation nulls and known-language
-  calibration gates:
+  [replication guide](models/language-id-kernel/replication-guide.md)): self-contained twelve-kernel suite (`Kernels A–L`)
+  under strict Linear B sign values with consonant-grid and concept-label permutation nulls, backward-projection
+  stress-tests, and known-language calibration gates:
   - **A (Word-Shape LID)** & **B (Unsupervised Kober Trios):** rank Semitic first across 505 undamaged Linear A types
     (`M = +0.623` bits/sign; `M = +2.288` bits/transition), capturing `/a, i, u/` vowel-core typology.
   - **C (Liturgical Cohesion):** size-locked (`K = 300`) Dirichlet log-odds Psalms/Leviticus vocabulary on `IO Za 2`
@@ -267,6 +274,25 @@ The repository ships two complementary, zero-LLM, deterministic frameworks:
     Linear A as Semitic on `FULL_8` (`ΔLL = +4.05`, `p_perm = 0.00010`, `p_concept = 0.02520` standalone; `0.00893` on
     the pre-Sumerian 5-language full set—the only language passing both nulls, with Sumerian at `0.637` and Greek at
     `0.588`).
+  - **K (Corazza–Ferrara Fractions & Blind Accounting):** applies Corazza et al. (2021, *JAS* 125: 105214) `A700`
+    fraction values to raw Aegean Unicode numerals (`data/linear-a/corpus.json`): verifies `0` strict `> 1`
+    compound-fraction violations across `55` compound fractions (resolving `HT 27a` `JE+B = 19/20`, vs Bennett legacy
+    `13/12 > 1`), emits a 5-item language-free 3D/RTI epigraphic conflict ledger (including `HT 123+124a` `*308`-column
+    `H = A + 1/4`), blindly discovers `KU-RO` at rank #1 (`9` exact integer sums vs `<= 1` for any other token), and
+    scores *only* accounting words against open dictionaries (Linear B `TO-SO`/`O-PE-RO` → Greek `Z = +2.48, p = 0.01440`;
+    Linear A deduplicated `KU-RO`/`KI-RO` → Semitic #1 `Z = +3.15, p = 0.01480, ΔLL = +1.190`, rejecting LSJ Greek at
+    `p = 0.05439`; full triad `KU-RO`/`PO-TO-KU-RO`/`KI-RO` → Semitic #1 `Z = +2.86, p = 0.01280, ΔLL = +0.551`).
+  - **L (Backward-Projection Stress-Testing & Negative Controls):** operationalizes Steele & Meißner (2017) and
+    Salgarella (2020) alongside Valério & Ferrara (2020) and Ferrara, Montecchi & Valério (2022) on CH↔LA continuity:
+    on Salgarella & Castellan's independent SigLA word segmentation (`sigla_db.json`, `686` words / `495` types),
+    Semitic is the sole pass (`M = +35.12, Z_M = +2.66, p_M = 0.00200`; all 6 rivals `0.172–1.000`); across all 12
+    single-series drops on Kernel I, `10/12` pass `p_M <= 0.05` (`drop T` is the #1 deepest collapse at `p_M = 0.26547`;
+    dropping `Q+Z` strengthens Kernel I to `M = +44.33, p_M = 0.00200`); `8/8` Kernel D and `7/7` Kernel J L1SO drops
+    pass `p_perm <= 0.05` (Kernel J `p_concept` `2/7`; `drop K` leaves `n = 1` in J vs `n = 3` in D and `M = +47.30` in
+    I); under 20% / 30% random consonant-series corruption, Kernel D Semitic holds `99.67%` / `95.67%` rank-1 (`90%` /
+    `80%` `p_perm <= 0.05`) and lexicon-free Kernel I holds `86%` / `70%` rank-1; and Stage L4 explicitly logs
+    calibrated nulls (Kernels A/B `Z_perm < 0`, CH→LA pictographic acrophony `3/20, p ≈ 0.31`, and live Linear B
+    single-sign open-dictionary ligature saturation `p = 0.39521`).
 - **Shoresh (`tools/core/root_match.py`, `shoresh_cv.py`, `shoresh_kernel_bridge.py`):** the per-word root matcher
   used by the skill, upgraded with fast O(1) exact-match retrieval, vocalized CV distance and Bayesian marginal
   log-likelihood (`ΔLL`, Amendment A24), and Kober-cluster / Kernel C–D domain tagging (Amendment A25).
