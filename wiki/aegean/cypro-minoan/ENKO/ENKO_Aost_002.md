@@ -35,6 +35,19 @@ updated: 2026-11-18T19:49:10Z
 
 Not checked against HoChyMin, which is not held.
 
+## Translation
+
+
+
+di Mino's reading, CANDIDATE, incomplete; 2 words.
+
+| Line | Page | Group | Values | Reading | Gloss | Tier | Rivals | Note |
+|---|---|---|---|---|---|---|---|---|
+| .02 | 471 | *not reproduced* |  |  |  | unresolved, SPECULATIVE |  | Contains an unvalued sign. No reading. |
+| .03 | 471 | 027-041 | si-zi | si-zi |  | CANDIDATE |  | Intact two-sign sequence si-zi on line .03 of the fragmentary ostracon. |
+
+Fragmentary Enkomi ostracon (##094; Valério 2016, 471): preserves two intact medial groups between broken edges (reading si-zi on .03 beside one unread two-sign group on .02); six broken edge sequences across lines .01–.05 are omitted.
+
 ## Metadata
 
 ### Editions
@@ -58,6 +71,6 @@ Not checked against HoChyMin, which is not held.
 
 No held source states its identity, museum number, findspot, dimensions, object, hand, visual evidence.
 
-No transcription is reproduced here: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
+No transcription is reproduced here beyond the sign groups of the words read: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
 
 <!-- END kaphtor:record -->

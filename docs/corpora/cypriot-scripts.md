@@ -4,7 +4,7 @@ title: "Cypriot Scripts: Cypro-Minoan, the Cypriot Syllabary and Eteocypriot"
 desc: Cypro-Minoan, the Cypriot syllabary and Eteocypriot as controls for Linear A, with their editions, the signary dispute, the proposed sign values and language proposals, the Eteocypriot corpus, and what this repository ships and how to query it.
 tags: [docs, corpora, cypriot, aegean]
 created: 2026-11-18T19:59:22Z
-updated: 2026-11-18T19:59:22Z
+updated: 2026-11-25T15:00:00Z
 ---
 
 # Cypriot Scripts: Cypro-Minoan, the Cypriot Syllabary and Eteocypriot
@@ -328,6 +328,14 @@ Semitic; those readings are kept with its control record in this repository (see
   `--stats` counts the texts and words; the wiki gives each translated text a Translation section and lists them in
   `wiki/aegean/cypro-minoan/translated.md`.
 
+- **Grammar, lexicon, onomasticon & aggregate grid** (`data/ane/cypro-minoan/{grammar_hypotheses,lexicon,onomasticon,grid}.json`):
+  read-word analytical layers exported exclusively from the 72 ruled signs (`22` hypotheses: `1 CONFIRMED, 13 PROBABLE,
+  7 CANDIDATE, 1 SPECULATIVE` after blind 41-text §7 holdout evaluation; `387` lexicon entries; `95` onomasticon entries; `72` ruled /
+  `28` unvalued aggregate grid; T5 compliant: unvalued-sign hypotheses, `unread_words.json`, and raw unvalued sign
+  contexts remain unshipped). Rendered in the wiki at `wiki/aegean/cypro-minoan/{grammar,lexicon,onomasticon,grid}.md`.
+  Deterministic, zero-LLM statistical tests over the shipped layers live in `models/cypro-minoan-kernel/` (`CM-G`,
+  `CM-E`, `CM-O`, `CM-B`). Never counted with Linear A.
+
 - **IG XV 1** (`data/ane/ig-xv-1-cypriot/`, CC BY 4.0): the Cypriot syllabic inscriptions of *Inscriptiones Graecae*
   XV 1, Cypriot Greek and Eteocypriot, with their editions, places and dates.
   `uv run --no-sync python -m tools.ane.aneq cypriot Amathus` matches designation, title, place and edition, and
@@ -375,6 +383,10 @@ Semitic; those readings are kept with its control record in this repository (see
 - Faucounau, Jean, "Études chypro-minoennes," *Syria* 54 (1977) 209–249: 226, 237.
 - Faucounau, Jean, "Études chypro-minoennes," *Syria* 57 (1980) 375–410: 379–380, 384.
 - Ferrara, Silvia, "Writing in Cypro-Minoan: one script, too many?," in Steele (ed.) 2013, 49–76.
+- Ferrara, Silvia, and Miguel Valério, "Contexts and Repetitions of Cypro-Minoan Inscriptions," *Kadmos* 56 (2017)
+  67–98.
+- Janko, Richard, "Eteocypriot in the Bronze Age? The Cypro-Minoan cylinder from Enkomi as an accounting document,"
+  *Kadmos* 59 (2020) 43–61.
 - Masson, Émilia, *Cyprominoica: répertoires; documents de Ras Shamra; essais d'interprétation*, Studies in
   Mediterranean Archaeology 31:2, Paul Åströms Förlag 1974: 11, 13–16, 26, 33, 38–41, 47–55.
 - Olivier, Jean-Pierre, "The development of Cypriot syllabaries, from Enkomi to Kafizin," in Steele (ed.) 2013, 7–26.
@@ -405,5 +417,4 @@ Semitic; those readings are kept with its control record in this repository (see
     Serra Editore 2007 (*HoChyMin*).
   - Valério, Miguel, "Seven Uncollected Cypro-Minoan Inscriptions," *Kadmos* 53 (2014) 111–127 (2014b).
 - Hermary et al. 1989, through Egetmeyer 2010, I, 18–19.
-- Janko 2020, through Donnelly 2024, 29.
 - O. Masson 2007, 245, through Davis 2026b, 31 n. 130.

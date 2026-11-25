@@ -381,6 +381,9 @@ CITED = re.compile(r"(?:[A-ZÉ]\. )?[A-ZÉ][\w'-]+(?: \(ed\.\))?(?: et al\.)?(?:
 def test_every_cite_anywhere_names_a_manifest_work_and_every_work_is_cited():
     catalogue = json.loads((SHIPPED / "catalogue.json").read_text(encoding="utf-8"))
     translations = json.loads((SHIPPED / "translations.json").read_text(encoding="utf-8"))
+    extra = [json.loads((SHIPPED / name).read_text(encoding="utf-8"))
+             for name in ("grammar_hypotheses.json", "lexicon.json", "onomasticon.json", "grid.json")
+             if (SHIPPED / name).is_file()]
     works = json.loads((SHIPPED / "MANIFEST.json").read_text(encoding="utf-8"))["works"]
 
     def cited(value):
@@ -388,10 +391,48 @@ def test_every_cite_anywhere_names_a_manifest_work_and_every_work_is_cited():
             return ([value["work"]] if isinstance(value.get("work"), str) else []) + [
                 w for v in value.values() for w in cited(v)]
         return [w for v in value for w in cited(v)] if isinstance(value, list) else []
-    named = cited(catalogue) + cited(translations)
+    named = cited(catalogue) + cited(translations) + [w for obj in extra for w in cited(obj)]
     named += [w for k, v in walk(translations) if k in PROSE and isinstance(v, str) for w in CITED.findall(v)]
+    for obj in extra:
+        for _, v in walk(obj):
+            if isinstance(v, str):
+                for w in CITED.findall(v):
+                    if w not in works and " and " in w and w.split(" and ", 1)[1] in works:
+                        w = w.split(" and ", 1)[1]
+                    named.append(w)
     assert set(named) <= set(works), sorted(set(named) - set(works))
     assert set(works) <= set(named), sorted(set(works) - set(named))
+
+
+@pytest.mark.data
+def test_shipped_grammar_lexicon_onomasticon_and_grid_honor_t5_and_manifest_pins():
+    manifest = json.loads((SHIPPED / "MANIFEST.json").read_text(encoding="utf-8"))
+    assert not (SHIPPED / "unread_words.json").exists()
+    bracket_unv = re.compile(r"\[\d{3}b?\]")
+    for name in ("grammar_hypotheses.json", "lexicon.json", "onomasticon.json", "grid.json"):
+        p = SHIPPED / name
+        assert p.is_file(), f"missing shipped {name}"
+        raw = p.read_bytes()
+        assert manifest["files"][name] == {"sha256": hashlib.sha256(raw).hexdigest(), "bytes": len(raw)}
+        obj = json.loads(raw)
+        keys = {k for k, _ in walk(obj)}
+        assert not keys & {"unvalued_index", "quote", "sign2vec", "lines", "sequences"}
+        strings = [v for _, v in walk(obj) if isinstance(v, str)]
+        assert not [s for s in strings if "src_" in s or bracket_unv.search(s) or "| 112" in s], name
+    grammar = json.loads((SHIPPED / "grammar_hypotheses.json").read_text(encoding="utf-8"))
+    lexicon = json.loads((SHIPPED / "lexicon.json").read_text(encoding="utf-8"))
+    onomasticon = json.loads((SHIPPED / "onomasticon.json").read_text(encoding="utf-8"))
+    assert len(grammar["hypotheses"]) == manifest["grammar"]["hypotheses"] >= 20
+    assert all(h["kaphtor_exportable"] is True for h in grammar["hypotheses"])
+    lex_by_id = {e["entry_id"]: e for e in lexicon["entries"]}
+    onom_by_id = {o["onom_id"]: o for o in onomasticon["entries"]}
+    assert len(onom_by_id) == manifest["lexicon"]["onomasticon_entries"]
+    for o in onom_by_id.values():
+        le = lex_by_id[o["lexicon_ref"]]
+        assert le["entry_kind"] == "name_ref" and le["onomasticon_ref"] == o["onom_id"]
+    for le in lex_by_id.values():
+        if le["entry_kind"] == "name_ref":
+            assert le["onomasticon_ref"] in onom_by_id
 
 
 @pytest.mark.data
@@ -402,6 +443,9 @@ def test_the_translations_ship_only_the_groups_of_the_words_read():
                        "lines_sha256", "agrees_with", "against"}
     strings = [v for _, v in walk(shipped) if isinstance(v, str)]
     assert not [v for v in strings if "src_" in v or re.search("[\U00012F90-\U00012FFF]", v)]
+    assert not [v for v in strings if re.search(r"\[\d{3}b?\]", v)]
+    assert not [v for v in strings if "044-002-098-023" in v or "*98" in v or "*26" in v
+                or "še-[x]-98-ti" in v or "e-no-62" in v or "| 112" in v]
     words = [w for r in shipped["translations"].values() for w in r["words"]]
     assert words and all(set(r) >= {"record_id", "source", "translation", "status", "words"}
                          for r in shipped["translations"].values())

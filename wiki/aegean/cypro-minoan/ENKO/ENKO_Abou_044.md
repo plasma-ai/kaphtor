@@ -45,7 +45,7 @@ di Mino's reading, CANDIDATE, incomplete; 1 words.
 |---|---|---|---|---|---|---|---|---|
 |  | 461 | 044-061-097-019-110 | se-pu-ro-u-ku | se-pu-ro-u-ku |  | CANDIDATE |  | Phonetic reading on the ruled grid (corpus text). |
 
-Extended compound se-pu-ro-u-ku on stem se-pu-ro (cf. ENKO Abou 017, 048 se-pu-ro; ENKO Atab 004 se-pu-li).
+Extended compound se-pu-ro-u-ku on stem se-pu-ro (cf. ENKO Abou 048 se-pu-ro; ENKO Atab 004 se-pu-li).
 
 ## Metadata
 

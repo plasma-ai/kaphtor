@@ -7,8 +7,8 @@ kind: "cypro_minoan_text"
 id: "KITI Iins 002"
 site_code: "KITI"
 type_code: "Iins"
-created: 2026-11-18T19:49:10Z
-updated: 2026-11-18T19:49:10Z
+created: 2026-11-25T03:51:15Z
+updated: 2026-11-25T03:51:15Z
 ---
 
 # KITI Iins 002
@@ -40,6 +40,18 @@ Set against the lead statement:
 | *the source's own words, not reproduced* (The date of the destruction that laid the debris in which KITI Iins 001 and Ipla 001 were found; the rod was found in association with them.) | LC IIC, 1320–1190 BCE | chronology | Valério 2016; Valério 2016, 419 |
 
 Not checked against HoChyMin, which is not held.
+
+## Translation
+
+
+
+di Mino's reading, CANDIDATE, incomplete; 1 words.
+
+| Line | Page | Group | Values | Reading | Gloss | Tier | Rivals | Note |
+|---|---|---|---|---|---|---|---|---|
+| .b | 494 | 023-092-097 | ti-sa₂-ro | ti-sa₂-ro |  | CANDIDATE |  | Sole complete legible group on the ivory rod (line .a \]102-04-53-70 and line .b 23\[ are broken at edges; Valério 2016, 494). |
+
+Kition ivory rod (##162, LC IIIA); sole intact word group reads ti-sa₂-ro on the ruled grid (lines .a and .b end are broken).
 
 ## Metadata
 
@@ -77,6 +89,6 @@ Not checked against HoChyMin, which is not held.
 
 No held source states its identity, museum number, dimensions, hand, visual evidence.
 
-No transcription is reproduced here: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
+No transcription is reproduced here beyond the sign groups of the words read: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
 
 <!-- END kaphtor:record -->

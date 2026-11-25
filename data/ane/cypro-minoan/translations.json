@@ -16,7 +16,7 @@
    "value": "ta"
   },
   "005": {
-   "evidence": "lo with Sittig, Saporetti, Faucounau, Nahm, Duhoux, Olivier, Facchetti et al., Steele and Valério (Valério 2016, 652) and Cypriot Syllabary lo / Linear A *02 ro. On ENKO Arou 001 it appears in si-lo-ka-ta-ni-ri-ti (.22) and te-lo (.25), and on RASH Atab 001 it precedes -023 (-ti) in the -o-ti suffixed form a-[037]-pa-lo-ti (A.02–03).",
+   "evidence": "lo with Sittig, Saporetti, Faucounau, Nahm, Duhoux, Olivier, Facchetti et al., Steele and Valério (Valério 2016, 652) and Cypriot Syllabary lo / Linear A *02 ro. On ENKO Arou 001 it appears in si-lo-ka-ta-ni-ri-ti (.22) and te-lo (.25), and on RASH Atab 001 it precedes -023 (-ti) in the -o-ti suffixed form on A.02–03.",
    "tier": "CANDIDATE",
    "value": "lo"
   },
@@ -26,7 +26,7 @@
    "value": "pa"
   },
   "007": {
-   "evidence": "te with Saporetti, Faucounau, Nahm and Valério (Valério 2016, 652) and the homomorph with Linear A/B *04 te. On ENKO Arou 001 it occurs six times, forming the recurring -007-021 (-te-ko) series in e-li-ra-te-ko (.11), ta-li-jo-[013]-te-ko (.13) and ja-te-ko (.21), beside i-te (.02), ka-ta-ni-te (.24) and te-lo (.25).",
+   "evidence": "te with Saporetti, Faucounau, Nahm and Valério (Valério 2016, 652) and the homomorph with Linear A/B *04 te. On ENKO Arou 001 it occurs six times, forming the recurring -007-021 (-te-ko) series in e-li-ra-te-ko (.11), ta-li-jo-to-te-ko (.13) and ja-te-ko (.21), beside i-te (.02), ka-ta-ni-te (.24) and te-lo (.25).",
    "tier": "CANDIDATE",
    "value": "te"
   },
@@ -46,22 +46,22 @@
    "value": "pe"
   },
   "012": {
-   "evidence": "po with Saporetti, Faucounau, Nahm and Valério (Valério 2016, 652) and the homomorph with Linear A *11 po and Cypriot Syllabary po (Davis 2026b, 398); Duhoux and Olivier read it against po. On ENKO Arou 001 it precedes -023 (-ti) three times in the -o-ti case paradigm (ma-li-ki-po-ti .03, i-pe-[024]-pa-po-ti .06, [046]-ma-po-ti .07) and opens po-ka (.08).",
+   "evidence": "po with Saporetti, Faucounau, Nahm and Valério (Valério 2016, 652) and the homomorph with Linear A *11 po and Cypriot Syllabary po (Davis 2026b, 398); Duhoux and Olivier read it against po. On ENKO Arou 001 it precedes -023 (-ti) three times in the -o-ti case paradigm (ma-li-ki-po-ti .03, i-pe-le-pa-po-ti .06, su-ma-po-ti .07) and opens po-ka (.08).",
    "tier": "CANDIDATE",
    "value": "po"
   },
   "013": {
-   "evidence": "to/Do with Faucounau, Nahm, Duhoux, Olivier, Facchetti et al., Steele, and Valério 2016 (10 of 11 proposals on file; 431, 652; grapheme 13/78, complementary CM 1 allograph of already-ruled CM 2 078 = to). Cleanly separated from CM 2 HoChyMin 013 (which Valério emends to 008 = na) because all CM 2 tablets use Valério's emended text. On CM 1 texts it completes the ko-no / ko-no-ti / ko-no-to paradigm (ENKO Abou 027), ENKO Abou 022 si-sa-to, ENKO Abou 065 to-ja-ta, KALA Arou 005 to-ja, and ENKO Arou 001 ta-li-jo-to-te-ko (.13) and ja-ta-la-ka-mu-ko-to (.17); also confirmed on held-out witnesses CYPR Mvas 002 and CYPR Mvas 004 (sa₂-to-ko-ti).",
+   "evidence": "to/Do with Faucounau, Nahm, Duhoux, Olivier, Facchetti et al., Steele, and Valério 2016 (10 of 11 proposals on file; 431, 652; grapheme 13/78, complementary CM 1 allograph of already-ruled CM 2 078 = to). Cleanly separated from CM 2 HoChyMin 013 (which Valério emends to 008 = na) because all CM 2 tablets use Valério's emended text. On CM 1 texts it completes the ko-no / ko-no-ti / ko-no-to paradigm (ENKO Abou 027), ENKO Abou 022 si-sa-to, ENKO Abou 065 to-ja-ta, KALA Arou 005 to-ja, and ENKO Arou 001 ta-li-jo-to-te-ko (.13) and ja-ta-la-ka-mu-ko-to (.17).",
    "tier": "CANDIDATE",
    "value": "to"
   },
   "015": {
-   "evidence": "ko unanimously across all 8 proposals on file (Sittig, Saporetti, Faucounau, Nahm, Facchetti et al., and Valério 2016, 431–432, 653; grapheme 21/15, complementary CM 1 allograph of already-ruled grid 021 = ko, matching Cypriot Syllabary ko). Distributional cosine #1/#2 neighbor is 021 = ko (0.67). Forms the CM 1 ko-no (CYPR Mvas 003) / ko-no-ti (ENKO Mins 001) / ko-no-to (ENKO Abou 027) paradigm, ENKO Avas 002 la-ko-sa, and ENKO Abou 034 ti-ko; confirmed on held-out witness CYPR Mvas 004 (sa₂-to-ko-ti).",
+   "evidence": "ko unanimously across all 8 proposals on file (Sittig, Saporetti, Faucounau, Nahm, Facchetti et al., and Valério 2016, 431–432, 653; grapheme 21/15, complementary CM 1 allograph of already-ruled grid 021 = ko, matching Cypriot Syllabary ko). Distributional cosine #1/#2 neighbor is 021 = ko (0.67). Forms the CM 1 ko-no (CYPR Mvas 003) / ko-no-ti (ENKO Mins 001) / ko-no-to (ENKO Abou 027) paradigm, ENKO Avas 002 la-ko-sa, and ENKO Abou 034 ti-ko.",
    "tier": "PROBABLE",
    "value": "ko"
   },
   "017": {
-   "evidence": "no with Sittig, Nahm, Facchetti et al. and Valério (2016, 431, 653); Faucounau read βe and Saporetti u. Confirmed internally by the -o-ti rule ([030]-ki-no-ti, *ke*-*pu*-ko-no-ti) and the strictly asymmetric CM 2 -097-017 (-ro-no ×4, 0 rev) paradigm. On ENKO Atab 003 it stands in a-wo₂-no-no (A.02), nu-ko-no (A.10), si-ja-no (A.17) and a-li-ma-ja-no (B.16).",
+   "evidence": "no with Sittig, Nahm, Facchetti et al. and Valério (2016, 431, 653); Faucounau read βe and Saporetti u. Confirmed internally by the -o-ti rule (including -ki-no-ti and -ko-no-ti forms) and the strictly asymmetric CM 2 -097-017 (-ro-no ×4, 0 rev) paradigm. On ENKO Atab 003 it stands in a-wo₂-no-no (A.02), nu-ko-no (A.10), si-ja-no (A.17) and a-li-ma-ja-no (B.16).",
    "tier": "CANDIDATE",
    "value": "no"
   },
@@ -201,12 +201,12 @@
    "value": "ši"
   },
   "061": {
-   "evidence": "pu with Nahm, Valério (pu??/tu??, 2016, 435, 654) and Faucounau's βu, matching Cypriot Syllabary pu; Sittig and Saporetti read te. Independently constrained to Cu vocalism by the CM 2 -Cu-wa glide rule (3 forward, 0 reversed: e-sa-pu-wa 002.A.I.38, ki-si-lo-pu-wa 003.A.17, [062]-no-pi-pu-wa 002.A.I.37), ruling out te. Also stands in u-pu-pa-na (002.A.I.29) and u-lo-pu-li (002.A.I.43).",
+   "evidence": "pu with Nahm, Valério (pu??/tu??, 2016, 435, 654) and Faucounau's βu, matching Cypriot Syllabary pu; Sittig and Saporetti read te. Independently constrained to Cu vocalism by the CM 2 -Cu-wa glide rule (3 forward, 0 reversed: e-sa-pu-wa 002.A.I.38, ki-si-lo-pu-wa 003.A.17, and an unruled-initial -no-pi-pu-wa form on 002.A.I.37), ruling out te. Also stands in u-pu-pa-na (002.A.I.29) and u-lo-pu-li (002.A.I.43).",
    "tier": "CANDIDATE",
    "value": "pu"
   },
   "064": {
-   "evidence": "o unanimously across all 5 proposals on file (Nahm, Duhoux, and Valério 2016, 435, 654). Cleanly separated from CM 2 HoChyMin 064 (which Valério §2.3.13 splits into 065 = ni) because all CM 2 tablets use text: emended. On Valério's CM 1 text, 064 is 63.6% word-initial (Rank #6 of all 98 corpus signs, immediately behind ruled vowels u, e, a, i) and its top 5 distributional cosine neighbors are all 5 ruled vowel signs (019 u, 104 i, 038 e, 079 u, 102 a). Opens ENKO Abou 067 o-lo-le (recurring on ENKO Abou 072 and HALA Abou 002) and closes KALA Arou 005.03 [...]-re-o; confirmed on held-out witness ENKO Abou 063 (o-li | o-to-mi-jo).",
+   "evidence": "o unanimously across all 5 proposals on file (Nahm, Duhoux, and Valério 2016, 435, 654). Cleanly separated from CM 2 HoChyMin 064 (which Valério §2.3.13 splits into 065 = ni) because all CM 2 tablets use text: emended. On Valério's CM 1 text, 064 is 63.6% word-initial (Rank #6 of all 98 corpus signs, immediately behind ruled vowels u, e, a, i) and its top 5 distributional cosine neighbors are all 5 ruled vowel signs (019 u, 104 i, 038 e, 079 u, 102 a). Opens ENKO Abou 067 o-lo-le (recurring on ENKO Abou 072 and HALA Abou 002) and closes KALA Arou 005.03 [...]-re-o.",
    "tier": "CANDIDATE",
    "value": "o"
   },
@@ -216,7 +216,7 @@
    "value": "ni"
   },
   "067": {
-   "evidence": "ni with Valério (2016, 435, 654; grapheme 65/67/99/100 = ni?) as the complementary CM 1 allograph of already-ruled grid 065/099/100 = ni (all 3 proposals applying to 067 read ni). Reads CYPR Mvas 001 i-ja-ni and ENKO Abou 057 a-pa-ni-mi-ja; confirmed on held-out witness ENKO Abou 046 (i-ja-na-ni | to).",
+   "evidence": "ni with Valério (2016, 435, 654; grapheme 65/67/99/100 = ni?) as the complementary CM 1 allograph of already-ruled grid 065/099/100 = ni (all 3 proposals applying to 067 read ni). Reads CYPR Mvas 001 i-ja-ni and ENKO Abou 057 a-pa-ni-mi-ja.",
    "tier": "CANDIDATE",
    "value": "ni"
   },
@@ -276,7 +276,7 @@
    "value": "sa"
   },
   "085": {
-   "evidence": "ri with Nahm and Valério (one of Valério's nine triple-confirmed values, unadorned ri in Table 5.27, grapheme 85/96/114, 2016, 438, 656) as the complementary CM 1 allograph of already-ruled grid 096 = ri; É. Masson, Saporetti and Faucounau read ru, Sittig la₂/ra₂. Independently confirmed by two language-agnostic proofs: (1) 100% (4/4) of non-final Valério tokens precede palatal glide 088 = jo (-i-j- rule: pu-ri-jo, su-ko-ri-jo, a-sa-ri-jo-ro-ti), refuting ru; (2) its #1 distributional cosine neighbor among ruled signs is 096 = ri (0.86, +0.12 over #2). Reads KITI Ipla 001.v a-ri and confirmed on held-out witness ENKO Avas 005 (a-sa-ri-jo-ro-ti).",
+   "evidence": "ri with Nahm and Valério (one of Valério's nine triple-confirmed values, unadorned ri in Table 5.27, grapheme 85/96/114, 2016, 438, 656) as the complementary CM 1 allograph of already-ruled grid 096 = ri; É. Masson, Saporetti and Faucounau read ru, Sittig la₂/ra₂. Independently confirmed by two language-agnostic proofs: (1) 100% (4/4) of non-final Valério tokens precede palatal glide 088 = jo (-i-j- rule: pu-ri-jo, su-ko-ri-jo, and related -ri-jo- forms), refuting ru; (2) its #1 distributional cosine neighbor among ruled signs is 096 = ri (0.86, +0.12 over #2). Reads KITI Ipla 001.v a-ri.",
    "tier": "PROBABLE",
    "value": "ri"
   },
@@ -321,7 +321,7 @@
    "value": "ri"
   },
   "097": {
-   "evidence": "ro with Saporetti, Faucounau, Nahm, Facchetti et al. and Valério (one of Valério's nine triple-confirmed values, 2016, 441, 656) and Cypriot Syllabary ro / Linear A *68 ro₂, against Sittig. On ENKO Arou 001 it occurs seven times, forming the -ro-ti (-o-ti) series in ro-ti (.20), se-jo-ro-ti (.23) and si-[013]-[110]-ro-ti (.04 = KOUR Psce 001) beside mo-ro (.20).",
+   "evidence": "ro with Saporetti, Faucounau, Nahm, Facchetti et al. and Valério (one of Valério's nine triple-confirmed values, 2016, 441, 656) and Cypriot Syllabary ro / Linear A *68 ro₂, against Sittig. On ENKO Arou 001 it occurs seven times, forming the -ro-ti (-o-ti) series in ro-ti (.20), se-jo-ro-ti (.23) and si-to-ku-ro-ti (.04) beside mo-ro (.20).",
    "tier": "PROBABLE",
    "value": "ro"
   },
@@ -356,7 +356,7 @@
    "value": "ku"
   },
   "114": {
-   "evidence": "ri with Nahm and Valério (unadorned ri in Table 5.27, grapheme 85/96/114, 2016, 438, 656) as the rare CM 1 allograph of already-ruled grid 096/085 = ri, directly comparable to Cypriot Syllabary ri; É. Masson, Saporetti and Faucounau read ru, Sittig la₂/ra₂. Stands in ENKO Mlin 002.02 a-[036]-ti-ri-ti (and KALA Avas 002 ki-ri-ti).",
+   "evidence": "ri with Nahm and Valério (unadorned ri in Table 5.27, grapheme 85/96/114, 2016, 438, 656) as the rare CM 1 allograph of already-ruled grid 096/085 = ri, directly comparable to Cypriot Syllabary ri; É. Masson, Saporetti and Faucounau read ru, Sittig la₂/ra₂. Stands in ENKO Mlin 002.02 (ending -ti-ri-ti) and KALA Avas 002 ki-ri-ti.",
    "tier": "PROBABLE",
    "value": "ri"
   }
@@ -406,7 +406,7 @@
      "cypro_minoan": "104-072-067",
      "gloss": null,
      "line": null,
-     "note": "Three-syllable form i-ja-ni using CM 1 allograph 067 = ni (cf. held-out ENKO Abou 046 i-ja-na-ni).",
+     "note": "Three-syllable form i-ja-ni using CM 1 allograph 067 = ni.",
      "page": 497,
      "reading": "i-ja-ni",
      "reading_type": null,
@@ -461,6 +461,50 @@
      "values": [
       "ko",
       "no"
+     ]
+    }
+   ]
+  },
+  "CYPR? Psce 001": {
+   "confidence": "CANDIDATE",
+   "notes": "CM 1 cylinder seal (##193; Valério 2016, 501): intact three-sign palindromic seal name sa-ka-sa beside incomplete fragment ki-ja-ti[ (or reversed ]ti-ja-ki depending on seal vs. impression direction).",
+   "record_id": "cm:##193",
+   "source": "di Mino",
+   "status": "incomplete",
+   "translation": "",
+   "words": [
+    {
+     "confidence": "CANDIDATE",
+     "cypro_minoan": "082-025-082",
+     "gloss": null,
+     "line": null,
+     "note": "Intact three-sign palindromic seal sequence sa-ka-sa (reads identically left-to-right or right-to-left on impression vs. seal).",
+     "page": 501,
+     "reading": "sa-ka-sa",
+     "reading_type": null,
+     "rivals": [],
+     "text": "corpus",
+     "values": [
+      "sa",
+      "ka",
+      "sa"
+     ]
+    },
+    {
+     "confidence": "SPECULATIVE",
+     "cypro_minoan": "070-069-023",
+     "gloss": null,
+     "line": null,
+     "note": "Incomplete three-sign sequence (70-69-23[ on impression, or reversed ]23-69-70 ti-ja-ki on seal); right-edge break precludes confirming 023 as word-final.",
+     "page": 501,
+     "reading": "ki-ja-ti",
+     "reading_type": "FRAGMENT",
+     "rivals": [],
+     "text": "corpus",
+     "values": [
+      "ki",
+      "ja",
+      "ti"
      ]
     }
    ]
@@ -603,7 +647,7 @@
   },
   "ENKO Abou 012": {
    "confidence": "CANDIDATE",
-   "notes": "Two-word Enkomi clay ball: mo-si-ma | [107]-si (corpus reads ra-si-ma).",
+   "notes": "Two-word Enkomi clay ball: mo-si-ma (corpus reads ra-si-ma) followed by an unread group.",
    "record_id": "cm:##013",
    "source": "di Mino",
    "status": "incomplete",
@@ -727,7 +771,7 @@
   },
   "ENKO Abou 016": {
    "confidence": "SPECULATIVE",
-   "notes": "Matches ENKO Abou 003 zi-nu-ko (041=zi, SPECULATIVE) plus single sign u.",
+   "notes": "Enkomi clay ball reading zi-nu-ko (041=zi, SPECULATIVE) plus single sign u.",
    "record_id": "cm:##018",
    "source": "di Mino",
    "status": "incomplete",
@@ -917,7 +961,7 @@
      "cypro_minoan": "015-017-013",
      "gloss": null,
      "line": null,
-     "note": "Valério emends corpus 008 to 013 = to, giving ko-no-to (identical to ENKO Abou 024), beside ko-no and ko-no-ti.",
+     "note": "Valério emends corpus 008 to 013 = to, giving ko-no-to beside ko-no and ko-no-ti.",
      "page": 458,
      "reading": "ko-no-to",
      "reading_type": null,
@@ -1020,7 +1064,7 @@
   },
   "ENKO Abou 032": {
    "confidence": "CANDIDATE",
-   "notes": "Two-word Enkomi clay ball: li-ja | ta-i-[037]-ma.",
+   "notes": "Two-word Enkomi clay ball: li-ja followed by an unread four-sign group.",
    "record_id": "cm:##035",
    "source": "di Mino",
    "status": "incomplete",
@@ -1070,7 +1114,7 @@
      "cypro_minoan": "110-046-097",
      "gloss": null,
      "line": null,
-     "note": "Reads ku-su-ro with 110 = ku (cf. Hurrian Kuzzur, cost 0.05, exploratory); otherwise [110]-su-ro.",
+     "note": "Reads ku-su-ro with 110 = ku (cf. Hurrian Kuzzur, exploratory).",
      "page": 459,
      "reading": "ku-su-ro",
      "reading_type": null,
@@ -1213,9 +1257,50 @@
     }
    ]
   },
+  "ENKO Abou 042": {
+   "confidence": "CANDIDATE",
+   "notes": "Two-element Enkomi clay ball (##045, LC IIIA–IIIB; Valério 2016, 460): HoChyMin corpus reads four-sign a-la-i-ro followed by a single-sign mark, while Valério emends the third sign to illegible.",
+   "record_id": "cm:##045",
+   "source": "di Mino",
+   "status": "incomplete",
+   "translation": "",
+   "words": [
+    {
+     "confidence": "SPECULATIVE",
+     "cypro_minoan": "102-087-104-097",
+     "gloss": null,
+     "line": null,
+     "note": "Four-sign clay-ball sequence on HoChyMin corpus text (Valério 2016, 460 emends the third sign to illegible ••).",
+     "page": 460,
+     "reading": "a-la-i-ro",
+     "reading_type": null,
+     "rivals": [],
+     "text": "corpus",
+     "values": [
+      "a",
+      "la",
+      "i",
+      "ro"
+     ]
+    },
+    {
+     "confidence": "SPECULATIVE",
+     "cypro_minoan": null,
+     "gloss": null,
+     "line": null,
+     "note": "Single-sign clay-ball mark after divider; no ruled grid value. No reading.",
+     "page": 460,
+     "reading": null,
+     "reading_type": "UNRESOLVED",
+     "rivals": [],
+     "text": "corpus",
+     "values": []
+    }
+   ]
+  },
   "ENKO Abou 044": {
    "confidence": "CANDIDATE",
-   "notes": "Extended compound se-pu-ro-u-ku on stem se-pu-ro (cf. ENKO Abou 017, 048 se-pu-ro; ENKO Atab 004 se-pu-li).",
+   "notes": "Extended compound se-pu-ro-u-ku on stem se-pu-ro (cf. ENKO Abou 048 se-pu-ro; ENKO Atab 004 se-pu-li).",
    "record_id": "cm:##047",
    "source": "di Mino",
    "status": "incomplete",
@@ -1626,9 +1711,50 @@
     }
    ]
   },
+  "ENKO Abou 066": {
+   "confidence": "CANDIDATE",
+   "notes": "Two-element Enkomi clay ball (##069, LC IIIA–IIIB; Valério 2016, 465): four-sign personal name we-ti-ja-ri (identical to ENKO Abou 040) followed by a single-sign mark.",
+   "record_id": "cm:##069",
+   "source": "di Mino",
+   "status": "incomplete",
+   "translation": "",
+   "words": [
+    {
+     "confidence": "CANDIDATE",
+     "cypro_minoan": "001-023-072-085",
+     "gloss": null,
+     "line": null,
+     "note": "Four-sign Enkomi clay-ball personal name, identical to ENKO Abou 040 we-ti-ja-ri.",
+     "page": 465,
+     "reading": "we-ti-ja-ri",
+     "reading_type": null,
+     "rivals": [],
+     "text": "corpus",
+     "values": [
+      "we",
+      "ti",
+      "ja",
+      "ri"
+     ]
+    },
+    {
+     "confidence": "SPECULATIVE",
+     "cypro_minoan": null,
+     "gloss": null,
+     "line": null,
+     "note": "Single-sign clay-ball mark after divider; no ruled grid value. No reading.",
+     "page": 465,
+     "reading": null,
+     "reading_type": "UNRESOLVED",
+     "rivals": [],
+     "text": "corpus",
+     "values": []
+    }
+   ]
+  },
   "ENKO Abou 067": {
    "confidence": "CANDIDATE",
-   "notes": "Two-word Enkomi clay ball opening with recurring o-lo-le (identical to ENKO Abou 072 and HALA Abou 002) followed by [081]-to-li-ja.",
+   "notes": "Two-word Enkomi clay ball opening with recurring o-lo-le (identical to ENKO Abou 072 and HALA Abou 002) followed by an unread four-sign group.",
    "record_id": "cm:##070",
    "source": "di Mino",
    "status": "incomplete",
@@ -1663,6 +1789,56 @@
      "rivals": [],
      "text": "emended",
      "values": []
+    }
+   ]
+  },
+  "ENKO Abou 068": {
+   "confidence": "CANDIDATE",
+   "notes": "Enkomi clay ball (##071) read on corpus text (pu-ri-jo | pu); Valério (2016, 465) allows alternative readings for the isolated sign after the divider.",
+   "record_id": "cm:##071",
+   "source": "di Mino",
+   "status": "incomplete",
+   "translation": "",
+   "words": [
+    {
+     "confidence": "CANDIDATE",
+     "cypro_minoan": "061-085-088",
+     "gloss": null,
+     "line": null,
+     "note": "Three-syllable CM 1 clay-ball sequence using 085 = ri before palatal glide 088 = jo (-i-j- rule); Ferrara and Valério (2017, 89) read tu??-ri-jo and note possible error for sa-ri-jo.",
+     "page": 465,
+     "reading": "pu-ri-jo",
+     "reading_type": null,
+     "rivals": [
+      {
+       "gloss": "clay ball sequence (cf. sa-ri-jo)",
+       "page": "465",
+       "proposer": "Ferrara and Valério",
+       "reading": "tu??-ri-jo",
+       "work": "Valério 2016"
+      }
+     ],
+     "text": "corpus",
+     "values": [
+      "pu",
+      "ri",
+      "jo"
+     ]
+    },
+    {
+     "confidence": "CANDIDATE",
+     "cypro_minoan": "061",
+     "gloss": null,
+     "line": null,
+     "note": "Isolated single sign after divider (HoChyMin 061 = pu; Valério 2016, 465 allows alternative readings).",
+     "page": 465,
+     "reading": "pu",
+     "reading_type": null,
+     "rivals": [],
+     "text": "corpus",
+     "values": [
+      "pu"
+     ]
     }
    ]
   },
@@ -1876,9 +2052,48 @@
     }
    ]
   },
+  "ENKO Aost 002": {
+   "confidence": "CANDIDATE",
+   "notes": "Fragmentary Enkomi ostracon (##094; Valério 2016, 471): preserves two intact medial groups between broken edges (reading si-zi on .03 beside one unread two-sign group on .02); six broken edge sequences across lines .01–.05 are omitted.",
+   "record_id": "cm:##094",
+   "source": "di Mino",
+   "status": "incomplete",
+   "translation": "",
+   "words": [
+    {
+     "confidence": "SPECULATIVE",
+     "cypro_minoan": null,
+     "gloss": null,
+     "line": ".02",
+     "note": "Contains an unvalued sign. No reading.",
+     "page": 471,
+     "reading": null,
+     "reading_type": "UNRESOLVED",
+     "rivals": [],
+     "text": "corpus",
+     "values": []
+    },
+    {
+     "confidence": "CANDIDATE",
+     "cypro_minoan": "027-041",
+     "gloss": null,
+     "line": ".03",
+     "note": "Intact two-sign sequence si-zi on line .03 of the fragmentary ostracon.",
+     "page": 471,
+     "reading": "si-zi",
+     "reading_type": null,
+     "rivals": [],
+     "text": "corpus",
+     "values": [
+      "si",
+      "zi"
+     ]
+    }
+   ]
+  },
   "ENKO Apes 001": {
    "confidence": "CANDIDATE",
-   "notes": "Early LC IA–IB Enkomi clay weight: ro-sa-pe | lo-[108]-[037].",
+   "notes": "Early LC IA–IB Enkomi clay weight: ro-sa-pe followed by an unread three-sign group.",
    "record_id": "cm:##095",
    "source": "di Mino",
    "status": "incomplete",
@@ -1918,7 +2133,7 @@
   },
   "ENKO Arou 001": {
    "confidence": "SPECULATIVE",
-   "notes": "Enkomi baked clay cylinder (##097, CM 1, 27 lines, 182 tokens, 47 legible groups including single-sign entries; excavated 1967, Schaeffer et al. 1968, 266–269; Valério 2016, 404–407, 420–424). Tripartite structure: Part I heading (.01), Part II entry-marked list (.02–.13) repeatedly using an X | Y-o-ti formula, and Part III continuous script (.13–.27) organized around recurring thematic stems (ta-la-ka, sa-ra-ni, sa-ri-jo-ti) with productive 069- (ja-) prefixing (.17, .27).\n\nThirty-six of 47 legible groups (31 of 42 multi-sign groups) read on the ruled grid. Twelve distinct multi-sign groups end in -023 (-ti), splitting into -po-ti (×3), -ro-ti (×3) and -jo-ti (×3), matching 1st-millennium Eteocypriot genitive/possessive -o-ti (Valério 2016, 398–400, 421–424). Shares exact parallels with CM 3 RASH Atab 001 (019-023 u-ti), KOUR Psce 001 (027-013-110-097-023 si-to-ku-ro-ti) and IDAL Avas 001 / TIRY Abou 001 (041-041-097 zi-zi-ro).",
+   "notes": "Enkomi baked clay cylinder (##097, CM 1, 27 lines, 182 tokens, 47 legible groups including single-sign entries; excavated 1967, Schaeffer et al. 1968, 266–269; Valério 2016, 404–407, 420–424). Tripartite structure: Part I heading (.01), Part II entry-marked list (.02–.13) repeatedly using an X | Y-o-ti formula, and Part III continuous script (.13–.27) organized around recurring thematic stems (ta-la-ka, sa-ra-ni, sa-ri-jo-ti) with productive 069- (ja-) prefixing (.17, .27).\n\nThirty-six of 47 legible groups (31 of 42 multi-sign groups) read on the ruled grid. Twelve distinct multi-sign groups end in -023 (-ti), splitting into -po-ti (×3), -ro-ti (×3) and -jo-ti (×3), matching 1st-millennium Eteocypriot genitive/possessive -o-ti (Valério 2016, 398–400, 421–424). Shares exact parallels with CM 3 RASH Atab 001 (019-023 u-ti) and IDAL Avas 001 / TIRY Abou 001 (041-041-097 zi-zi-ro).",
    "record_id": "cm:##097",
    "source": "di Mino",
    "status": "incomplete",
@@ -1935,7 +2150,7 @@
      "reading_type": "UNRESOLVED",
      "rivals": [
       {
-       "gloss": "Part I heading followed by a unique punkt; shares 038-087-...-069-023 with ATHI Avas 001",
+       "gloss": "Part I heading followed by a unique punkt; shares its opening and closing signs with ATHI Avas 001",
        "page": "405, 407",
        "proposer": "Valério",
        "work": "Valério 2016"
@@ -1973,7 +2188,7 @@
      "cypro_minoan": "082-096-088-023",
      "gloss": "-o-ti inflected form of sa-ri-jo (title, theonym or personal name)",
      "line": ".02",
-     "note": "Occurs three times on the cylinder (.02, .09, and extended in .26); matches bare stem sa-ri-jo on ENKO Abou 031 and KITI Iins 001 and extended (-)sa-ri-jo-ro-ti on ENKO Avas 005 (Valério 2016, 421–422).",
+     "note": "Occurs three times on the cylinder (.02, .09, and extended in .26); matches bare stem sa-ri-jo on ENKO Abou 031 and KITI Iins 001 (Valério 2016, 421–422).",
      "page": 473,
      "reading": "sa-ri-jo-ti",
      "reading_type": null,
@@ -2074,7 +2289,7 @@
      "reading_type": null,
      "rivals": [
       {
-       "gloss": "exact parallel on KOUR Psce 001 (emending 013 to 008 na); tentatively compares Hurro-Akkadian šinaḫilu / Ugaritic ṯnġly 'deputy'",
+       "gloss": "emends 013 to 008 na; tentatively compares Hurro-Akkadian šinaḫilu / Ugaritic ṯnġly 'deputy'",
        "page": 423,
        "proposer": "Valério",
        "reading": "si?-na?-ke??-ro?-ti?",
@@ -2110,7 +2325,7 @@
      "cypro_minoan": "082-075-099",
      "gloss": "recurring three-sign stem (also embedded in .25 and .27)",
      "line": ".05",
-     "note": "Fully valued with 099 = ni (CM 1 allograph of grid 100 = ni); recurs as the second half of .25 ka-[103]-ja-sa-ra-ni and .27 ja-ka-[103]-ja-sa-ra-ni.",
+     "note": "Fully valued with 099 = ni (CM 1 allograph of grid 100 = ni); recurs as the second element of the unread compounds in .25 and .27.",
      "page": 473,
      "reading": "sa-ra-ni",
      "reading_type": null,
@@ -2309,7 +2524,7 @@
      "cypro_minoan": "004-087-025",
      "gloss": "recurring thematic stem of Parts II and III",
      "line": ".10",
-     "note": "Fully valued on the ruled grid; recurs at .23, truncated/unprefixed as la-ka at .15, and prefixed with ja- in .17 ja-ta-la-ka-[039]-ko-[013].\n\nThe series la-ka (.15), ta-la-ka (.10, .23), ja-ta-la-ka- (.17) has the shape of Ugaritic /h-l-k/ 'to go': imperative lk, prefix form tlk, Gt ytlk (DULAT 331–332). The Ugaritic imperative is /lik/, with another vowel, and the comparison is speculative.\n\nRival: the Anatolian name Talakka (LAMAN, s.v. Talakka).",
+     "note": "Fully valued on the ruled grid; recurs at .23, truncated/unprefixed as la-ka at .15, and prefixed with ja- in .17 ja-ta-la-ka-mu-ko-to.\n\nThe series la-ka (.15), ta-la-ka (.10, .23), ja-ta-la-ka- (.17) has the shape of Ugaritic /h-l-k/ 'to go': imperative lk, prefix form tlk, Gt ytlk (DULAT 331–332). The Ugaritic imperative is /lik/, with another vowel, and the comparison is speculative.\n\nRival: the Anatolian name Talakka (LAMAN, s.v. Talakka).",
      "page": 473,
      "reading": "ta-la-ka",
      "reading_type": null,
@@ -2359,7 +2574,7 @@
      "cypro_minoan": "038-009-075-007-021",
      "gloss": "unidentified five-sign word in the -te-ko series",
      "line": ".11",
-     "note": "Fully valued with 007 = te; shares the -007-021 (-te-ko) ending with .13 ta-li-jo-[013]-te-ko and .21 ja-te-ko.",
+     "note": "Fully valued with 007 = te; shares the -007-021 (-te-ko) ending with .13 ta-li-jo-to-te-ko and .21 ja-te-ko.",
      "page": 473,
      "reading": "e-li-ra-te-ko",
      "reading_type": null,
@@ -2448,7 +2663,7 @@
      "reading_type": "UNRESOLVED",
      "rivals": [
       {
-       "gloss": "splits after *26 by comparison with KITI Avas 002",
+       "gloss": "splits internally by comparison with KITI Avas 002",
        "page": "406–407",
        "proposer": "Valério",
        "work": "Valério 2016"
@@ -2644,7 +2859,7 @@
      "cypro_minoan": "069-007-021",
      "gloss": "unidentified three-sign word in the -te-ko series",
      "line": ".21",
-     "note": "Fully valued with 007 = te; third -007-021 (-te-ko) form on the cylinder beside .11 e-li-ra-te-ko and .13 ta-li-jo-[013]-te-ko.",
+     "note": "Fully valued with 007 = te; third -007-021 (-te-ko) form on the cylinder beside .11 e-li-ra-te-ko and .13 ta-li-jo-to-te-ko.",
      "page": 473,
      "reading": "ja-te-ko",
      "reading_type": null,
@@ -2777,7 +2992,7 @@
      "reading_type": "UNRESOLVED",
      "rivals": [
       {
-       "gloss": "contains sa-ra-ni; recurs prefixed with 069- (ja-) on .27",
+       "gloss": "contains sa-ra-ni; recurs with a ja- prefix on .27",
        "page": 407,
        "proposer": "Valério",
        "work": "Valério 2016"
@@ -2833,7 +3048,7 @@
      "reading_type": "UNRESOLVED",
      "rivals": [
       {
-       "gloss": "069- (ja-) prefixed counterpart of .25",
+       "gloss": "ja-prefixed counterpart of .25",
        "page": 407,
        "proposer": "Valério",
        "work": "Valério 2016"
@@ -3389,7 +3604,7 @@
      "cypro_minoan": "038-082-061-095",
      "gloss": "e-sa-pu-wa (demonstrates CM 2 -Cu-wa glide rule)",
      "line": "A.I.38",
-     "note": "Fully valued with 061 = pu; shares the -061-095 (-pu-wa) ending with ENKO Atab 003.A.17 ki-si-lo-pu-wa and A.I.37 [062]-no-pi-pu-wa.",
+     "note": "Fully valued with 061 = pu; shares the -061-095 (-pu-wa) ending with ENKO Atab 003.A.17 ki-si-lo-pu-wa and an unread group on A.I.37.",
      "page": 511,
      "reading": "e-sa-pu-wa",
      "reading_type": null,
@@ -3794,7 +4009,7 @@
      "reading_type": null,
      "rivals": [
       {
-       "gloss": "compared with ENKO Atab 004.B.14–16 e-no, e-no-zo, e-no-62",
+       "gloss": "compared with the ENKO Atab 004.B.14–16 e-no suffixal triad",
        "page": 321,
        "proposer": "Valério",
        "reading": "e?-no??-no??",
@@ -5294,7 +5509,7 @@
      "cypro_minoan": "021-096-069-065",
      "gloss": "four-sign word ending in -ni (065)",
      "line": "A.09",
-     "note": "Valério emends final 064 to 065 (ni) (2016, 521) and compares it with A.08 [062]-ri-ja-sa (321–322).",
+     "note": "Valério emends final 064 to 065 (ni) (2016, 521) and compares it with the unread -ri-ja-sa group on A.08 (321–322).",
      "page": 522,
      "reading": "ko-ri-ja-ni",
      "reading_type": null,
@@ -6418,7 +6633,7 @@
        "work": "Faucounau 1980"
       },
       {
-       "gloss": "emends HoChyMin 82 to 28",
+       "gloss": "emends one sign in this group",
        "page": 525,
        "proposer": "Valério",
        "work": "Valério 2016"
@@ -6716,7 +6931,7 @@
      "reading_type": "UNRESOLVED",
      "rivals": [
       {
-       "gloss": "emends HoChyMin 96 to 76",
+       "gloss": "emends HoChyMin's third sign to an unvalued sign",
        "page": "525–526",
        "proposer": "Valério",
        "work": "Valério 2016"
@@ -7109,7 +7324,7 @@
     {
      "confidence": "CANDIDATE",
      "cypro_minoan": "068-082-028-095",
-     "gloss": "nu₂-sa-nu-wa (pre-refrain word preceding Face A refrain 4×)",
+     "gloss": "nu₂-sa-nu-wa (pre-refrain word preceding Face A refrain 3×)",
      "line": "A.I.2.02",
      "note": "Fully valued with 068 = nu₂; precedes the Face A refrain in A.I.2, A.I.5, A.I.6 and A.II.2.",
      "page": 531,
@@ -7383,7 +7598,7 @@
     {
      "confidence": "CANDIDATE",
      "cypro_minoan": "068-082-028-095",
-     "gloss": "nu₂-sa-nu-wa (pre-refrain word preceding Face A refrain 4×)",
+     "gloss": "nu₂-sa-nu-wa (pre-refrain word preceding Face A refrain 3×)",
      "line": "A.I.5.02",
      "note": "Fully valued with 068 = nu₂; precedes the Face A refrain in A.I.2, A.I.5, A.I.6 and A.II.2.",
      "page": 531,
@@ -7500,7 +7715,7 @@
     {
      "confidence": "CANDIDATE",
      "cypro_minoan": "068-082-028-095",
-     "gloss": "nu₂-sa-nu-wa (pre-refrain word preceding Face A refrain 4×)",
+     "gloss": "nu₂-sa-nu-wa (pre-refrain word preceding Face A refrain 3×)",
      "line": "A.I.6.01",
      "note": "Fully valued with 068 = nu₂; precedes the Face A refrain in A.I.2, A.I.5, A.I.6 and A.II.2.",
      "page": 531,
@@ -8600,7 +8815,7 @@
   },
   "ENKO Avas 002": {
    "confidence": "CANDIDATE",
-   "notes": "Enkomi clay vessel preserving bare stem a-mo-ta-ro (counterpart to KITI Ipla 001.v a-mo-ta-ro-ti) alongside la-ko-sa and [107]-ro.",
+   "notes": "Enkomi clay vessel preserving bare stem a-mo-ta-ro (counterpart to KITI Ipla 001.v a-mo-ta-ro-ti) alongside la-ko-sa and an unread two-sign group.",
    "record_id": "cm:##109",
    "source": "di Mino",
    "status": "incomplete",
@@ -8723,7 +8938,7 @@
      "cypro_minoan": "015-017-023",
      "gloss": null,
      "line": null,
-     "note": "Inflected -o-ti form of ko-no (CYPR Mvas 003), beside ENKO Abou 024, 027 ko-no-to (Valério 2016, §4.2).",
+     "note": "Inflected -o-ti form of ko-no (CYPR Mvas 003), beside ENKO Abou 027 ko-no-to (Valério 2016, §4.2).",
      "page": 496,
      "reading": "ko-no-ti",
      "reading_type": null,
@@ -8782,7 +8997,7 @@
   },
   "ENKO Mlin 002": {
    "confidence": "CANDIDATE",
-   "notes": "Two-line Enkomi bronze ingot: a-ti (exact match to RASH Aéti 001) and a-[036]-ti-ri-ti (using rare CM 1 allograph 114 = ri).",
+   "notes": "Two-line Enkomi bronze ingot: a-ti (exact match to RASH Aéti 001) and an unread five-sign group on line .02 (using rare CM 1 allograph 114 = ri).",
    "record_id": "cm:##175",
    "source": "di Mino",
    "status": "incomplete",
@@ -8981,6 +9196,45 @@
     }
    ]
   },
+  "IDAL Avas 002": {
+   "confidence": "CANDIDATE",
+   "notes": "Two-line Idalion clay vessel inscription (##124; Valério 2016, 486): line .02 reads ti-mi on the ruled grid while line .01 contains an unvalued sign.",
+   "record_id": "cm:##124",
+   "source": "di Mino",
+   "status": "incomplete",
+   "translation": "",
+   "words": [
+    {
+     "confidence": "SPECULATIVE",
+     "cypro_minoan": null,
+     "gloss": null,
+     "line": ".01",
+     "note": "Contains an unvalued sign (Valério 2016, 486 notes a possible divider after the first sign and an alternative reading for the second). No reading.",
+     "page": 486,
+     "reading": null,
+     "reading_type": "UNRESOLVED",
+     "rivals": [],
+     "text": "corpus",
+     "values": []
+    },
+    {
+     "confidence": "CANDIDATE",
+     "cypro_minoan": "023-091",
+     "gloss": null,
+     "line": ".02",
+     "note": "Intact two-sign sequence ti-mi on line .02 (Valério 2016, 486 confirms 023).",
+     "page": 486,
+     "reading": "ti-mi",
+     "reading_type": null,
+     "rivals": [],
+     "text": "corpus",
+     "values": [
+      "ti",
+      "mi"
+     ]
+    }
+   ]
+  },
   "IDAL Pfus 001": {
    "confidence": "CANDIDATE",
    "notes": "Short CM inscription read in full on the ruled grid (lo-te-ti).",
@@ -9010,7 +9264,7 @@
   },
   "KALA Arou 001": {
    "confidence": "SPECULATIVE",
-   "notes": "Kalavasos-Ayios Dhimitrios Building X baked clay cylinder (##098, LC IIC, 1320–1190 BCE; CM 1, palimpsest, 25 corpus / 24 emended legible groups; Valério 2016, 93–94, 404–405). Administrative cylinder from the olive-oil storage complex (Building X), organized around the recurring three-sign section rubric 104-024-091 (i-le-mi, .01, .13, .18; also opening KALA Arou 004).\n\nPalimpsest-concentrated unproposed 086 (×8) and unvalued 036 (×5) remain unruled.",
+   "notes": "Kalavasos-Ayios Dhimitrios Building X baked clay cylinder (##098, LC IIC, 1320–1190 BCE; CM 1, palimpsest, 25 corpus / 24 emended legible groups; Valério 2016, 93–94, 404–405). Administrative cylinder from the olive-oil storage complex (Building X), organized around the recurring three-sign section rubric 104-024-091 (i-le-mi, .01, .13, .18; also opening KALA Arou 004).\n\nSeveral palimpsest-concentrated signs remain unruled.",
    "record_id": "cm:##098",
    "source": "di Mino",
    "status": "incomplete",
@@ -9561,6 +9815,34 @@
     }
    ]
   },
+  "KALA Mbij 002": {
+   "confidence": "CANDIDATE",
+   "notes": "Kalavasos-Ayios Dhimitrios Tomb 11 gold ring (##166, LC IIA:2) read in full on the ruled grid in impression (ri-ku-re-ma; ring face reverses to ma-re-ku-ri).",
+   "record_id": "cm:##166",
+   "source": "di Mino",
+   "status": "incomplete",
+   "translation": "",
+   "words": [
+    {
+     "confidence": "CANDIDATE",
+     "cypro_minoan": "096-110-033-055",
+     "gloss": null,
+     "line": null,
+     "note": "Four-sign gold finger-ring inscription read in impression (on the ring itself the signs run in reverse as 055-033-110-096 = ma-re-ku-ri; Valério 2016, 495).",
+     "page": 495,
+     "reading": "ri-ku-re-ma",
+     "reading_type": null,
+     "rivals": [],
+     "text": "corpus",
+     "values": [
+      "ri",
+      "ku",
+      "re",
+      "ma"
+     ]
+    }
+   ]
+  },
   "KATY Avas 001": {
    "confidence": "CANDIDATE",
    "notes": "Short CM 1 inscription read in full on the ruled grid (e-si-pa).",
@@ -9720,6 +10002,33 @@
      "values": [
       "pa",
       "ti"
+     ]
+    }
+   ]
+  },
+  "KITI Iins 002": {
+   "confidence": "CANDIDATE",
+   "notes": "Kition ivory rod (##162, LC IIIA); sole intact word group reads ti-sa₂-ro on the ruled grid (lines .a and .b end are broken).",
+   "record_id": "cm:##162",
+   "source": "di Mino",
+   "status": "incomplete",
+   "translation": "",
+   "words": [
+    {
+     "confidence": "CANDIDATE",
+     "cypro_minoan": "023-092-097",
+     "gloss": null,
+     "line": ".b",
+     "note": "Sole complete legible group on the ivory rod (line .a ]102-04-53-70 and line .b 23[ are broken at edges; Valério 2016, 494).",
+     "page": 494,
+     "reading": "ti-sa₂-ro",
+     "reading_type": null,
+     "rivals": [],
+     "text": "corpus",
+     "values": [
+      "ti",
+      "sa₂",
+      "ro"
      ]
     }
    ]
@@ -10012,6 +10321,47 @@
     }
    ]
   },
+  "MYRT Mvas 001": {
+   "confidence": "CANDIDATE",
+   "notes": "Myrtou-Pigadhes bronze bowl (##184, LC IIC–IIIA) read in full on the ruled grid (e | i-a; reversible to a-i | e).",
+   "record_id": "cm:##184",
+   "source": "di Mino",
+   "status": "incomplete",
+   "translation": "",
+   "words": [
+    {
+     "confidence": "CANDIDATE",
+     "cypro_minoan": "038",
+     "gloss": null,
+     "line": null,
+     "note": "Single-sign group separated by divider; Valério (2016, 499) allows either reading direction (e | i-a or a-i | e).",
+     "page": 499,
+     "reading": "e",
+     "reading_type": null,
+     "rivals": [],
+     "text": "corpus",
+     "values": [
+      "e"
+     ]
+    },
+    {
+     "confidence": "CANDIDATE",
+     "cypro_minoan": "104-101",
+     "gloss": null,
+     "line": null,
+     "note": "Two-sign group using 101 = a (Valério 2016, 499 allows 101/102, both a, and either direction: i-a or a-i).",
+     "page": 499,
+     "reading": "i-a",
+     "reading_type": null,
+     "rivals": [],
+     "text": "corpus",
+     "values": [
+      "i",
+      "a"
+     ]
+    }
+   ]
+  },
   "PARA Psce 001": {
    "confidence": "CANDIDATE",
    "notes": "Short CM 1 inscription read in full on the ruled grid (se-ta-to-ja).",
@@ -10211,7 +10561,7 @@
     {
      "confidence": "SPECULATIVE",
      "cypro_minoan": "044-002",
-     "gloss": "first half of boustrophedon line-wrapping word 044-002-098-023",
+     "gloss": "first half of boustrophedon line-wrapping word continuing onto A.02",
      "line": "A.01",
      "note": "Cut at the line break; both É. Masson (1974, 27) and Valério (2016, 399, 540) join it across the boustrophedon turn with the following unread group on A.02 as one four-sign word.",
      "page": 540,
@@ -10222,14 +10572,14 @@
        "gloss": "joined across A.01–02 as a -ti suffixed form",
        "page": 399,
        "proposer": "Valério",
-       "reading": "se??-we??-*98-ti?",
+       "reading": "se??-we??-[unvalued]-ti?",
        "work": "Valério 2016"
       },
       {
        "gloss": "Hurrian šeni-wwu-ta 'to my brother' (assuming -ta > -ti)",
        "page": "235–236",
        "proposer": "Faucounau",
-       "reading": "še-[x]-98-ti",
+       "reading": "še-[x]-[unvalued]-ti",
        "work": "Faucounau 1977"
       }
      ],
@@ -10250,7 +10600,7 @@
      "reading_type": "UNRESOLVED",
      "rivals": [
       {
-       "gloss": "second half of 044-002-098-023, ending in -ti",
+       "gloss": "second half of the boustrophedon word opened on A.01, ending in -ti",
        "page": "399, 541",
        "proposer": "Valério",
        "work": "Valério 2016"
@@ -10302,13 +10652,13 @@
      "reading_type": "UNRESOLVED",
      "rivals": [
       {
-       "gloss": "final -23 erased by the scribe; suggests an epistolary verb ('says/writes')",
+       "gloss": "final sign erased by the scribe; suggests an epistolary verb ('says/writes')",
        "page": "25, 27–28",
        "proposer": "É. Masson",
        "work": "É. Masson 1974"
       },
       {
-       "gloss": "Hurrian relative particle iye 'what' (with 036 = e, revised 1980, 377)",
+       "gloss": "Hurrian relative particle iye 'what' (revised Faucounau 1980, 377)",
        "page": 236,
        "proposer": "Faucounau",
        "work": "Faucounau 1977"
@@ -10352,7 +10702,7 @@
      "reading_type": "UNRESOLVED",
      "rivals": [
       {
-       "gloss": "Hurrian tan- 'do/make' (2sg impv.), reading 008 na and 036 e",
+       "gloss": "Hurrian tan- 'do/make' (2sg impv.), reading 008 na and the final unvalued sign as e",
        "page": 236,
        "proposer": "Faucounau",
        "work": "Faucounau 1977"
@@ -10372,7 +10722,7 @@
      "reading_type": "UNRESOLVED",
      "rivals": [
       {
-       "gloss": "middle sign 94 or 35",
+       "gloss": "middle sign uncertain between two alternatives",
        "page": 541,
        "proposer": "Valério",
        "work": "Valério 2016"
@@ -10460,7 +10810,7 @@
      "cypro_minoan": "023-004-091",
      "gloss": "unidentified three-sign word",
      "line": "B.05",
-     "note": "Fully valued on the ruled grid; stands beside ti-mi-[110]-sa₂ on B.05.",
+     "note": "Fully valued on the ruled grid; stands beside ti-mi-ku-sa₂ on B.05.",
      "page": 540,
      "reading": "ti-ta-mi",
      "reading_type": null,
@@ -12018,6 +12368,34 @@
      "text": "emended",
      "values": [
       "mi"
+     ]
+    }
+   ]
+  },
+  "SYRI Psce 001": {
+   "confidence": "CANDIDATE",
+   "notes": "Syrian cylinder seal (##217, CM 3) read in full on the ruled grid (ja-pi-lo-ne; final sign 056/023 in Valério 2016, 552).",
+   "record_id": "cm:##217",
+   "source": "di Mino",
+   "status": "incomplete",
+   "translation": "",
+   "words": [
+    {
+     "confidence": "CANDIDATE",
+     "cypro_minoan": "071-050-005-056",
+     "gloss": null,
+     "line": null,
+     "note": "Four-sign cylinder seal legend from Syria (CM 3; Valério 2016, 552 allows 056/023 for the final sign, giving ja-pi-lo-ne or ja-pi-lo-ti).",
+     "page": 552,
+     "reading": "ja-pi-lo-ne",
+     "reading_type": null,
+     "rivals": [],
+     "text": "corpus",
+     "values": [
+      "ja",
+      "pi",
+      "lo",
+      "ne"
      ]
     }
    ]

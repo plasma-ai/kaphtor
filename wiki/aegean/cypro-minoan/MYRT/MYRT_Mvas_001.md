@@ -7,8 +7,8 @@ kind: "cypro_minoan_text"
 id: "MYRT Mvas 001"
 site_code: "MYRT"
 type_code: "Mvas"
-created: 2026-11-18T19:49:10Z
-updated: 2026-11-18T19:49:10Z
+created: 2026-11-25T03:51:15Z
+updated: 2026-11-25T03:51:15Z
 ---
 
 # MYRT Mvas 001
@@ -35,6 +35,19 @@ updated: 2026-11-18T19:49:10Z
 
 Not checked against HoChyMin, which is not held.
 
+## Translation
+
+
+
+di Mino's reading, CANDIDATE, incomplete; 2 words.
+
+| Line | Page | Group | Values | Reading | Gloss | Tier | Rivals | Note |
+|---|---|---|---|---|---|---|---|---|
+|  | 499 | 038 | e | e |  | CANDIDATE |  | Single-sign group separated by divider; Valério (2016, 499) allows either reading direction (e \| i-a or a-i \| e). |
+|  | 499 | 104-101 | i-a | i-a |  | CANDIDATE |  | Two-sign group using 101 = a (Valério 2016, 499 allows 101/102, both a, and either direction: i-a or a-i). |
+
+Myrtou-Pigadhes bronze bowl (##184, LC IIC–IIIA) read in full on the ruled grid (e \| i-a; reversible to a-i \| e).
+
 ## Metadata
 
 ### Editions
@@ -58,6 +71,6 @@ Not checked against HoChyMin, which is not held.
 
 No held source states its identity, museum number, findspot, dimensions, object, hand, visual evidence.
 
-No transcription is reproduced here: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
+No transcription is reproduced here beyond the sign groups of the words read: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
 
 <!-- END kaphtor:record -->

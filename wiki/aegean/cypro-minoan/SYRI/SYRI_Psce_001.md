@@ -7,8 +7,8 @@ kind: "cypro_minoan_text"
 id: "SYRI Psce 001"
 site_code: "SYRI"
 type_code: "Psce"
-created: 2026-11-18T19:49:10Z
-updated: 2026-11-18T19:49:10Z
+created: 2026-11-25T03:51:15Z
+updated: 2026-11-25T03:51:15Z
 ---
 
 # SYRI Psce 001
@@ -34,6 +34,18 @@ updated: 2026-11-18T19:49:10Z
 | Edition of record | HoChyMin, transcribed in Valério 2016, Appendix A, 552; unverified |
 
 Not checked against HoChyMin, which is not held.
+
+## Translation
+
+
+
+di Mino's reading, CANDIDATE, incomplete; 1 words.
+
+| Line | Page | Group | Values | Reading | Gloss | Tier | Rivals | Note |
+|---|---|---|---|---|---|---|---|---|
+|  | 552 | 071-050-005-056 | ja-pi-lo-ne | ja-pi-lo-ne |  | CANDIDATE |  | Four-sign cylinder seal legend from Syria (CM 3; Valério 2016, 552 allows 056/023 for the final sign, giving ja-pi-lo-ne or ja-pi-lo-ti). |
+
+Syrian cylinder seal (##217, CM 3) read in full on the ruled grid (ja-pi-lo-ne; final sign 056/023 in Valério 2016, 552).
 
 ## Metadata
 
@@ -96,6 +108,6 @@ Not checked against HoChyMin, which is not held.
 
 No held source states its dimensions, hand.
 
-No transcription is reproduced here: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
+No transcription is reproduced here beyond the sign groups of the words read: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
 
 <!-- END kaphtor:record -->

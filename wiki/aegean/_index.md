@@ -3,14 +3,14 @@ name: wiki/aegean
 title: Aegean scripts
 desc: The Eteocretan inscriptions and the Cypro-Minoan catalogue.
 created: 2026-10-22T18:14:10Z
-updated: 2026-11-18T19:49:10Z
+updated: 2026-11-25T04:17:39Z
 ---
 
 # Aegean scripts
 
 [[wiki/_index|..]]
 
-[[wiki/aegean/cypro-minoan/_index|cypro-minoan/]]: The Cypro-Minoan texts, one catalogue page per text with its site, object type, edition of record and the statements of held works with their pages, and the indexes by site and by object type.
+[[wiki/aegean/cypro-minoan/_index|cypro-minoan/]]: The Cypro-Minoan texts, one catalogue page per text with its site, object type, edition of record and the statements of held works with their pages, translated readings word by word, and indexes by site, object type, grammar hypotheses, lexicon, onomasticon, and 72-sign grid.
 
 [[wiki/aegean/eteocretan/_index|eteocretan/]]: The Eteocretan inscriptions with Gordon's readings and the word analyses, and the Eteocypriot control from Amathus.
 

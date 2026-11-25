@@ -72,7 +72,7 @@ di Mino's reading, SPECULATIVE, incomplete; 118 words.
 | A.08 | 522 | 038-033-051 | e-re-pi | e-re-pi | unidentified 3-sign word (Valério re-edition) | SPECULATIVE, emended text |  | Fully valued on the ruled grid under Valério's critical re-edition (2016, 520–526). |
 | A.08 | 522 | 004-025 | ta-ka | ta-ka | bare stem of ta-ka → ta-ka-pi-na / ta-ka-mu-ma / ta-ka-mu-wa | CANDIDATE, emended text | Valério, ta?-ka?, bare stem (Valério 2016, 448) | Bare stem of the four-form ta-ka- paradigm on Side A. |
 | A.09 | 522 | 079-056-049-054 | u-ne-mu-ma | u-ne-mu-ma |  | CANDIDATE, emended text |  | Phonetic reading on the ruled grid (049 = mu). |
-| A.09 | 522 | 021-096-069-065 | ko-ri-ja-ni | ko-ri-ja-ni | four-sign word ending in -ni (065) | CANDIDATE, emended text | Valério, ko?-ri-ja?-ni?, emends HoChyMin 064 to 065 (ni) (Valério 2016, 321, 448, 521) | Valério emends final 064 to 065 (ni) (2016, 521) and compares it with A.08 \[062\]-ri-ja-sa (321–322). |
+| A.09 | 522 | 021-096-069-065 | ko-ri-ja-ni | ko-ri-ja-ni | four-sign word ending in -ni (065) | CANDIDATE, emended text | Valério, ko?-ri-ja?-ni?, emends HoChyMin 064 to 065 (ni) (Valério 2016, 321, 448, 521) | Valério emends final 064 to 065 (ni) (2016, 521) and compares it with the unread -ri-ja-sa group on A.08 (321–322). |
 | A.10 | 522 | 102-075 | a-ra | a-ra | unidentified 2-sign word (Valério re-edition) | SPECULATIVE, emended text |  | Fully valued on the ruled grid under Valério's critical re-edition (2016, 520–526). |
 | A.10 | 522 | 025-009-049-028-095 | ka-li-mu-nu-wa | ka-li-mu-nu-wa |  | CANDIDATE, emended text | Valério, ka?-li-mu??-lu?-wa?, repeated twice on Side A (A.03, A.10), central to the text's subject (Valério 2016, 447–448) | Phonetic reading on the ruled grid (049 = mu). |
 | A.10 | 522 | *not reproduced* |  |  |  | unresolved, emended text |  | Contains one or more signs without a ruled grid value. No reading. |
@@ -135,7 +135,7 @@ di Mino's reading, SPECULATIVE, incomplete; 118 words.
 | B.14 | 526 | 082-090 | sa-jo | sa-jo | unidentified 2-sign word (Valério re-edition) | SPECULATIVE, emended text |  | Fully valued on the ruled grid under Valério's critical re-edition (2016, 520–526). |
 | B.15 | 526 | 021-008 | ko-na | ko-na | unidentified 2-sign word (Valério re-edition) | SPECULATIVE, emended text |  | Fully valued on the ruled grid under Valério's critical re-edition (2016, 520–526). |
 | B.15 | 526 | 096-008 | ri-na | ri-na | unidentified 2-sign word (Valério re-edition) | SPECULATIVE, emended text |  | Fully valued on the ruled grid under Valério's critical re-edition (2016, 520–526). |
-| B.15 | 526 | *not reproduced* |  |  |  | unresolved, emended text | Faucounau, Hurrian PN (reading 82 for 28) (Faucounau 1980, 386); Valério, emends HoChyMin 82 to 28 (Valério 2016, 525) | Contains one or more signs without a ruled grid value. No reading. |
+| B.15 | 526 | *not reproduced* |  |  |  | unresolved, emended text | Faucounau, Hurrian PN (reading 82 for 28) (Faucounau 1980, 386); Valério, emends one sign in this group (Valério 2016, 525) | Contains one or more signs without a ruled grid value. No reading. |
 | B.15 | 526 | 110-078 | ku-to | ku-to |  | CANDIDATE, emended text |  | Phonetic reading on the ruled grid (110 = ku). |
 | B.15 | 526 | 087-023 | la-ti | la-ti | unidentified 2-sign word (Valério re-edition) | SPECULATIVE, emended text |  | Fully valued on the ruled grid under Valério's critical re-edition (2016, 520–526). |
 | B.16 | 526 | 102-009-054-072-017 | a-li-ma-ja-no | a-li-ma-ja-no | unidentified 5-sign word (Valério re-edition) | SPECULATIVE, emended text |  | Fully valued on the ruled grid under Valério's critical re-edition (2016, 520–526). |
@@ -152,7 +152,7 @@ di Mino's reading, SPECULATIVE, incomplete; 118 words.
 | B.18 | 526 | 102-095 | a-wa | a-wa | unidentified 2-sign word (Valério re-edition) | SPECULATIVE, emended text |  | Fully valued on the ruled grid under Valério's critical re-edition (2016, 520–526). |
 | B.19 | 526 | 021-047-070 | ko-su-ki | ko-su-ki | ko-su-ki (shared with ENKO Atab 002.B.I.15; cf. Hurrian moon god Kušuḫ) | CANDIDATE, emended text |  | Fully valued with 047 = su; exact parallel in ENKO Atab 002.B.I.15; compare Hurrian moon god Kušuḫ (0.08). |
 | B.19 | 526 | 021-009-069-023 | ko-li-ja-ti | ko-li-ja-ti | unidentified 4-sign word (Valério re-edition) | SPECULATIVE, emended text |  | Fully valued on the ruled grid under Valério's critical re-edition (2016, 520–526). |
-| B.19 | 526 | *not reproduced* |  |  |  | unresolved, emended text | Valério, emends HoChyMin 96 to 76 (Valério 2016, 525–526) | Contains one or more signs without a ruled grid value. No reading. |
+| B.19 | 526 | *not reproduced* |  |  |  | unresolved, emended text | Valério, emends HoChyMin's third sign to an unvalued sign (Valério 2016, 525–526) | Contains one or more signs without a ruled grid value. No reading. |
 | B.20 | 526 | 110-004 | ku-ta | ku-ta |  | CANDIDATE, emended text |  | Phonetic reading on the ruled grid (110 = ku). |
 | B.20 | 526 | *not reproduced* |  |  |  | unresolved, emended text |  | Contains one or more signs without a ruled grid value. No reading. |
 | B.20 | 526 | *not reproduced* |  |  |  | unresolved, emended text |  | Contains one or more signs without a ruled grid value. No reading. |

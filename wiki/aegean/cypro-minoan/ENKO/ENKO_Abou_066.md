@@ -35,6 +35,19 @@ updated: 2026-11-18T19:49:10Z
 
 Not checked against HoChyMin, which is not held.
 
+## Translation
+
+
+
+di Mino's reading, CANDIDATE, incomplete; 2 words.
+
+| Line | Page | Group | Values | Reading | Gloss | Tier | Rivals | Note |
+|---|---|---|---|---|---|---|---|---|
+|  | 465 | 001-023-072-085 | we-ti-ja-ri | we-ti-ja-ri |  | CANDIDATE |  | Four-sign Enkomi clay-ball personal name, identical to ENKO Abou 040 we-ti-ja-ri. |
+|  | 465 | *not reproduced* |  |  |  | unresolved, SPECULATIVE |  | Single-sign clay-ball mark after divider; no ruled grid value. No reading. |
+
+Two-element Enkomi clay ball (##069, LC IIIA–IIIB; Valério 2016, 465): four-sign personal name we-ti-ja-ri (identical to ENKO Abou 040) followed by a single-sign mark.
+
 ## Metadata
 
 ### Editions
@@ -71,6 +84,6 @@ Not checked against HoChyMin, which is not held.
 
 No held source states its identity, museum number, object, hand, visual evidence.
 
-No transcription is reproduced here: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
+No transcription is reproduced here beyond the sign groups of the words read: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
 
 <!-- END kaphtor:record -->

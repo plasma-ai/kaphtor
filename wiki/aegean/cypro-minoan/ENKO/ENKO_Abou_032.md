@@ -46,7 +46,7 @@ di Mino's reading, CANDIDATE, incomplete; 2 words.
 |  | 459 | 009-069 | li-ja | li-ja |  | CANDIDATE |  | Intact two-sign word li-ja (-i-ja palatal glide; cf. Anatolian Leya, cost 0.00, short form). |
 |  | 459 | *not reproduced* |  |  |  | unresolved, SPECULATIVE |  | Contains one or more signs without a ruled grid value. No reading. |
 
-Two-word Enkomi clay ball: li-ja \| ta-i-\[037\]-ma.
+Two-word Enkomi clay ball: li-ja followed by an unread four-sign group.
 
 ## Metadata
 

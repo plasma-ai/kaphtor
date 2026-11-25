@@ -43,7 +43,7 @@ di Mino's reading, CANDIDATE, incomplete; 1 words.
 
 | Line | Page | Group | Values | Reading | Gloss | Tier | Rivals | Note |
 |---|---|---|---|---|---|---|---|---|
-|  | 497 | 104-072-067 | i-ja-ni | i-ja-ni |  | CANDIDATE |  | Three-syllable form i-ja-ni using CM 1 allograph 067 = ni (cf. held-out ENKO Abou 046 i-ja-na-ni). |
+|  | 497 | 104-072-067 | i-ja-ni | i-ja-ni |  | CANDIDATE |  | Three-syllable form i-ja-ni using CM 1 allograph 067 = ni. |
 
 Single-word metal vessel inscription i-ja-ni, sharing stem i-ja- with ENKO Mins 001 i-ja-ti and ENKO Atab 002 i-ja-pi.
 

@@ -33,7 +33,7 @@ Design by [Maxim Kuznetsov](https://github.com/mkuznetsov_plasma) and
 [Vittorio Retrivi](https://github.com/vretrivi_plasma). Programmatic read-only access—18 REST endpoints at
 `api.linear-a.ai/v1`, an MCP server at `mcp.linear-a.ai/mcp`, and live probabilistic kernel endpoints—is documented in
 [docs/lexicon-api.md](docs/lexicon-api.md). The plugin that connects Claude and ChatGPT to that server is
-[linear-a-lexicon-plugin](https://github.com/plasma-ai/linear-a-lexicon-plugin)
+[linear-a-plugin](https://github.com/plasma-ai/linear-a-plugin)
 ([docs/lexicon-plugin.md](docs/lexicon-plugin.md)).
 
 The case for the readings is set out in [Opening Linear A](https://plasma.ai/research/linear-a) and in
@@ -84,7 +84,7 @@ every inscription where it recurs.
 | Names | Every name on the tablets (people, places, gods, titles, peoples), filed by the language it is read through, with the roots the names are built from and a guide across the layers | [names](wiki/names/_index.md) |
 | Semitic roots | One page per root, with its reconstruction and its reflexes across the Semitic languages, each with its sources | [roots](wiki/semitic-roots/_index.md) |
 | Pre-Greek words | One page per Greek word classed as Pre-Greek or as an early Semitic loan, with the works that treat it, its Pre-Greek features and the Semitic comparisons proposed for it | [Pre-Greek](wiki/pre-greek/_index.md) |
-| Aegean scripts | The Eteocretan inscriptions and the analysis of their words, and one catalogue page per Cypro-Minoan text with its site, object type, date, script, edition of record and sources, and a translated text's reading word by word | [Aegean](wiki/aegean/_index.md) |
+| Aegean scripts | The Eteocretan inscriptions and the analysis of their words, and the Cypro-Minoan catalogue (one page per text with its site, object type, date, script, edition of record and sources, plus translated readings word by word, grammar hypotheses, read-word lexicon, onomasticon, and 72-sign grid) | [Aegean](wiki/aegean/_index.md) |
 | Corpus guides | What each ancient Near East corpus holds, its licence and its gaps, and how to query it | [guides](docs/corpora/_index.md) |
 
 The pages are built from the [data](data/_index.md), where each dataset has a datasheet or manifest naming its
@@ -296,6 +296,10 @@ The repository ships two complementary, zero-LLM, deterministic frameworks:
 - **Shoresh (`tools/core/root_match.py`, `shoresh_cv.py`, `shoresh_kernel_bridge.py`):** the per-word root matcher
   used by the skill, upgraded with fast O(1) exact-match retrieval, vocalized CV distance and Bayesian marginal
   log-likelihood (`ΔLL`, Amendment A24), and Kober-cluster / Kernel C–D domain tagging (Amendment A25).
+- **`models/cypro-minoan-kernel/`** ([executive summary](models/cypro-minoan-kernel/README.md)): strictly Linear A-isolated
+  (T3), T5-compliant four-kernel Cypro-Minoan suite (`CM-G` subcorpus continuity, `CM-E` 3-regime `013`/`008` *IG XV 1*
+  Amathus Eteocypriot alignment with CM 3 and Linear B negative controls, `CM-O` glide/bare-vowel laws, `CM-B`
+  unsupervised stem-extension productivity) running directly on shipped `kaphtor` datasets.
 
 ```bash
 PYTHONPATH=models/language-id-kernel pytest -q models/language-id-kernel/tests/
@@ -312,8 +316,8 @@ python3 models/language-id-kernel/kaphtor_kernel.py calibrate --n-perm 10000
     guide (`guide/ledger.md`, `guide/kinds/`, `guide/how_to.md`, `guide/map.md` with its map of Crete, `guide/crete.svg`)
   - `semitic-roots/`: one page per root, `<radical>/<id>_<slug>.md`
   - `pre-greek/`: one page per word, `<initial>/<key>.md`, with the ledgers `by_feature.md` and `semitic.md`
-  - `aegean/`: `eteocretan/`, and `cypro-minoan/<site code>/<siglum>.md` with `by_site.md`, `by_type.md` and
-    `translated.md`
+  - `aegean/`: `eteocretan/`, and `cypro-minoan/<site code>/<siglum>.md` with `by_site.md`, `by_type.md`,
+    `translated.md`, `grammar.md`, `lexicon.md`, `onomasticon.md` and `grid.md`
 - `data/`: the datasets, each with a datasheet or manifest giving its licence and sources
   - `linear-a/`: the corpus, sign values, lexicon, onomasticon, translations, unread words, the Eteocretan sets and
     the rival-language root keys
@@ -324,7 +328,8 @@ python3 models/language-id-kernel/kaphtor_kernel.py calibrate --n-perm 10000
   - `ane/`: open-licence and public-domain ancient Near East datasets, such as the ORACC Akkadian literary glossary,
     PNM v6, Prosopographia Memphitica, Gauthier's DNG, the Kassite name concordances, the Ugarit Texts Database's
     catalogue, the ELiSiR Eblaite lexicon, the Cypriot syllabic inscriptions of IG XV 1, a catalogue of the
-    Cypro-Minoan texts with di Mino's readings (no transcription beyond the sign groups of the words read), I.Sicily's
+    Cypro-Minoan texts with di Mino's readings and read-word analytical layers—grammar hypotheses, lexicon,
+    onomasticon and 72-sign grid (no transcription beyond the sign groups of the words read), I.Sicily's
     Semitic inscriptions, the public inscriptions of Palmyra
     (catalogue rows and names), Marcato's Hatra names and Al-Jallad's DIANA, Safaitic and Taymanitic
     (non-commercial)
@@ -334,7 +339,7 @@ python3 models/language-id-kernel/kaphtor_kernel.py calibrate --n-perm 10000
     Anatolian/Hurrian/Hattic (CC BY 4.0); ORACC Akkadian/Sumerian and ePSD2 Sumerian lexicon (CC0 1.0); and
     Pylos/Knossos Linear B tokens (CC BY-NC-SA 4.0, non-commercial)
 - `docs/`: the repository's rules and methods, and the corpus guides, starting with [docs/anatomy.md](docs/anatomy.md)
-- `models/`: replicable probabilistic models, starting with [models/language-id-kernel/_index.md](models/language-id-kernel/_index.md)
+- `models/`: replicable probabilistic and statistical models, starting with [models/language-id-kernel/_index.md](models/language-id-kernel/_index.md) and [models/cypro-minoan-kernel/_index.md](models/cypro-minoan-kernel/_index.md)
 - `assets/`: Noto Sans fonts for the Aegean scripts (OFL 1.1) and the README banner
 - `tools/`: the Python package (`import tools`) behind the `kaphtor` command, described in
   [tools/README.md](tools/README.md)

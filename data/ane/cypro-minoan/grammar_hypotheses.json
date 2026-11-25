@@ -1,0 +1,2413 @@
+{
+ "areas": [
+  "suffix_morphology",
+  "prefix_morphology",
+  "stem_paradigm",
+  "syntax_frame",
+  "phonology",
+  "orthography",
+  "allograph_split",
+  "subcorpus_isogloss"
+ ],
+ "description": "Tiered, falsifiable Cypro-Minoan grammatical, morphological, syntactic, phonological, orthographic, and subcorpus-isogloss hypotheses attested exclusively by ruled signs (T5 compliant; unvalued-sign hypotheses stay outside this export). Strictly isolated from Linear A.",
+ "hypotheses": [
+  {
+   "area": "suffix_morphology",
+   "corpus_test": {
+    "contradicts": 0,
+    "holdout_s7_checked": true,
+    "method": "regex over 72-sign ruled translations + corpus; blind §7 holdout (N=5 word-final -ti): corpus 4/5 (80.0%) vs 7/31 (22.6%) non-ti (p_fisher=0.0231, p_perm_o_given_ti=0.0405, p_perm_ti_given_o=0.0253); Valério emended 5/5 tokens (p_fisher=0.00058) / 4/4 types (N=4<5, p_fisher=0.00214, p_perm=0.0157), attested outside Enkomi, 0 bare-stem alternations -> stays PROBABLE",
+    "supports_stems": 12,
+    "supports_tokens": 33
+   },
+   "counter_evidence": [
+    {
+     "note": "Rare in CM 2 (only 2 tokens) and absent from CM 3 RASH Atab 004; functional split between possessive (KITI Ipla 001) and contributor-list subject (ENKO Arou 001) remains open."
+    }
+   ],
+   "eteocypriot_parallels": [
+    {
+     "forms": [
+      "a-li-o-ti",
+      "mu-no-ti",
+      "o-na-sa-ko-ra-no-ti",
+      "pu-ru-wa-no-ti",
+      "ka-i-li-po-ti",
+      "po-te-ro-ti-mu"
+     ],
+     "note": "22/131 (17%) Eteocypriot words end in -o-ti (Steele 2013, 123–124; Janko 2020, 56); 10,000-shuffle suffix cosine test: CM 1 cos=0.616, p=0.0139 vs CM 3 p=0.1950.",
+     "source": "IG XV 1"
+    }
+   ],
+   "falsification_criteria": "Disproved if 023=ti fails holdout validation or if -o-ti word-final enrichment disappears outside Enkomi CM 1.",
+   "formal_pattern": {
+    "regex_values": "-(?:po|jo|ro|ko|to|no|lo|mo)-ti$",
+    "slot": "suffix",
+    "stacking_chain": [
+     "-∅",
+     "-o-ti",
+     "-o-ti-ja-[unvalued]-pi"
+    ]
+   },
+   "id": "cm_gram_suf_oti",
+   "kaphtor_exportable": true,
+   "label": "-o-ti nominal/possessive suffix family (CM 1 pole)",
+   "promotion_criteria": "Confirm >= 2 independent bare-stem vs -o-ti alternations on §7 holdout CM 1 texts and pass CM Kernel I bound-affix margin permutation null (p <= 0.01).",
+   "proposed_function": "Genitive/possessive or nominative/ergative case marking on personal names and list entries (Ferrara and Valério 2017, 90: possessive on KITI Ipla 001; Janko 2020, 55–57: nominative contributor names on ENKO Arou 001).",
+   "rivals": [
+    {
+     "hypothesis": "Nominative/contributor case ending on personal names in accounting entries",
+     "page": "55–57",
+     "proposer": "Janko",
+     "work": "Janko 2020"
+    },
+    {
+     "hypothesis": "Possessive/genitive ending ('This is Amotaro's')",
+     "page": "90",
+     "proposer": "Ferrara and Valério",
+     "work": "Ferrara and Valério 2017"
+    },
+    {
+     "hypothesis": "Inflectional suffix matching Classical Eteocypriot -o-ti",
+     "page": "398–400, 421–424",
+     "proposer": "Valério",
+     "work": "Valério 2016"
+    }
+   ],
+   "sign_dependencies": [
+    "023=ti",
+    "012=po",
+    "088=jo",
+    "097=ro",
+    "013=to",
+    "015=ko",
+    "021=ko"
+   ],
+   "statement": "Productive word-final -Co-ti / -o-ti suffix attaching to bare personal-name or nominal stems (a-mo-ta-ro -> a-mo-ta-ro-ti; sa-ri-jo -> sa-ri-jo-ti; ko-no -> ko-no-ti) and recurring across 7–8 distinct -o-ti groups (within 12 distinct -ti groups) on ENKO Arou 001.",
+   "status": "attested",
+   "structural_evidence": [
+    {
+     "base_stem_attestation": "ENKO Abou 015 a-mo-ta-ro",
+     "cypro_minoan": "102-073-004-097-023",
+     "line": ".v",
+     "shows": "stem a-mo-ta-ro + -ti after a-ri",
+     "siglum": "KITI Ipla 001",
+     "text_basis": "emended",
+     "values": "a-mo-ta-ro-ti"
+    },
+    {
+     "base_stem_attestation": "ENKO Abou 031 sa-ri-jo",
+     "cypro_minoan": "082-096-088-023",
+     "line": ".02",
+     "shows": "stem sa-ri-jo + -ti",
+     "siglum": "ENKO Arou 001",
+     "text_basis": "corpus",
+     "values": "sa-ri-jo-ti"
+    },
+    {
+     "base_stem_attestation": "CYPR Mvas 003 ko-no",
+     "cypro_minoan": "015-017-023",
+     "line": null,
+     "shows": "stem ko-no + -ti",
+     "siglum": "ENKO Mins 001",
+     "text_basis": "corpus",
+     "values": "ko-no-ti"
+    },
+    {
+     "cypro_minoan": "027-013-110-097-023",
+     "line": ".04",
+     "shows": "-ro-ti ending opening entry 3",
+     "siglum": "ENKO Arou 001",
+     "text_basis": "corpus",
+     "values": "si-to-ku-ro-ti"
+    },
+    {
+     "cypro_minoan": "044-088-097-023",
+     "line": ".23",
+     "shows": "-ro-ti ending opening entry 11",
+     "siglum": "ENKO Arou 001",
+     "text_basis": "corpus",
+     "values": "se-jo-ro-ti"
+    }
+   ],
+   "subcorpus_distribution": {
+    "CM 1": 16,
+    "CM 2": 2,
+    "CM 3": 0,
+    "pole": "CM 1 dominant"
+   },
+   "text_basis": "both",
+   "tier": "PROBABLE"
+  },
+  {
+   "area": "suffix_morphology",
+   "corpus_test": {
+    "contradicts": 0,
+    "holdout_s7_checked": true,
+    "method": "exact sequence match on 012-023; blind §7 holdout: UNDERPOWERED (N=1 < 3; 0/1 penultimate 012 before 023)",
+    "supports_stems": 3,
+    "supports_tokens": 4
+   },
+   "counter_evidence": [
+    {
+     "cypro_minoan": "012-023",
+     "line": null,
+     "shows": "standalone 2-sign seal legend in HoChyMin corpus direction 012-023 (Valério emends seal-impression direction to 023-012 ti-po); could be independent lexical stem rather than bound suffix",
+     "siglum": "PARA Psce 002",
+     "text_basis": "corpus",
+     "values": "po-ti"
+    }
+   ],
+   "eteocypriot_parallels": [
+    {
+     "forms": [
+      "ka-i-li-po-ti",
+      "po-ti"
+     ],
+     "note": "po-ti (012-023) is one of Davis's 11 EC-CM shared word-internal bigrams (2026b, 420–422, Tables 11.35 & 11.38); Eteocypriot attests ka-i-li-po-ti (Steele 2013, 123; Janko 2020, 56).",
+     "source": "IG XV 1 / Davis 2026b"
+    }
+   ],
+   "falsification_criteria": "Disproved if 012 proves to be u rather than po, or if -po- belongs to stem-final syllables rather than a morpheme boundary.",
+   "formal_pattern": {
+    "regex_values": "(?:^|-)po-ti$",
+    "slot": "suffix"
+   },
+   "id": "cm_gram_suf_poti",
+   "kaphtor_exportable": true,
+   "label": "-po-ti word-final element (ENKO Arou 001 & PARA Psce 002)",
+   "promotion_criteria": "Find bare stem (ma-li-ki, su-ma, or i-pe-le-pa) alternating with -po-ti in a parallel context, or confirm non-chance suffix status in CM Kernel I.",
+   "proposed_function": "Subtype of -o-ti ending on -po-stems or distinct compound final/suffixal morpheme -poti (cf. Eteocypriot ka-i-li-po-ti).",
+   "rivals": [
+    {
+     "hypothesis": "Reads 012 as Paphian u rather than po, yielding i-pe-le-pa-u-ti",
+     "page": "111",
+     "proposer": "Egetmeyer",
+     "work": "Egetmeyer 2013"
+    },
+    {
+     "hypothesis": "Defends 012=po against Egetmeyer, reading i-pe-le-pa-po-ti inside the -o-ti suffix group",
+     "page": "56 n. 53",
+     "proposer": "Janko",
+     "work": "Janko 2020"
+    }
+   ],
+   "sign_dependencies": [
+    "012=po",
+    "023=ti"
+   ],
+   "statement": "Word-final -po-ti (012-023) closes three long entry-opening forms on ENKO Arou 001 (ma-li-ki-po-ti, i-pe-le-pa-po-ti, su-ma-po-ti) and stands standalone on seal PARA Psce 002 (po-ti).",
+   "status": "attested",
+   "structural_evidence": [
+    {
+     "cypro_minoan": "053-009-070-012-023",
+     "line": ".03",
+     "shows": "-po-ti on 5-sign word (possible Semitic/Levantine stem maliki- + -po-ti)",
+     "siglum": "ENKO Arou 001",
+     "text_basis": "corpus",
+     "values": "ma-li-ki-po-ti"
+    },
+    {
+     "cypro_minoan": "104-011-024-006-012-023",
+     "line": ".06",
+     "shows": "-po-ti opening entry 4 (Janko 2020, 56 n. 53)",
+     "siglum": "ENKO Arou 001",
+     "text_basis": "corpus",
+     "values": "i-pe-le-pa-po-ti"
+    },
+    {
+     "cypro_minoan": "046-053-012-023",
+     "line": ".07",
+     "shows": "-po-ti opening entry 5",
+     "siglum": "ENKO Arou 001",
+     "text_basis": "corpus",
+     "values": "su-ma-po-ti"
+    }
+   ],
+   "subcorpus_distribution": {
+    "CM 1": 4,
+    "CM 2": 0,
+    "CM 3": 0,
+    "pole": "CM 1 only"
+   },
+   "text_basis": "corpus",
+   "tier": "CANDIDATE"
+  },
+  {
+   "area": "suffix_morphology",
+   "corpus_test": {
+    "contradicts": 0,
+    "holdout_s7_checked": false,
+    "method": "cross-basis check on 051-013 (corpus) vs 051-008 (emended)",
+    "supports_stems": 4,
+    "supports_tokens": 4
+   },
+   "counter_evidence": [
+    {
+     "note": "Because HoChyMin prints 013 and Valério emends CM 2 013->008 (while Davis 2026b Table 11.3 assigns 013=na directly without emendation), the phonetic identity of the final syllable (-na vs -to) depends entirely on the 013/008 resolution."
+    }
+   ],
+   "eteocypriot_parallels": [
+    {
+     "forms": [
+      "pi-na",
+      "pi-to",
+      "e-ne-mi-na",
+      "ta-ra-pi"
+     ],
+     "note": "IG XV 1 attests both pi-na and pi-to as well as productive -na and -pi endings; Valério's -pi-na aligns with CM 2's dominant -na/-no/-ni pole (p=0.0135 vs IG XV 1).",
+     "source": "IG XV 1"
+    }
+   ],
+   "falsification_criteria": "Disproved as a two-morpheme chain if e-re / e-re-pi / e-re-pi-na fail to exceed random prefix-substring containment under Kernel I permutation.",
+   "formal_pattern": {
+    "slot": "suffix",
+    "stacking_chain_corpus": [
+     "-∅",
+     "-pi",
+     "-pi-to"
+    ],
+    "stacking_chain_emended": [
+     "-∅",
+     "-pi",
+     "-pi-na"
+    ]
+   },
+   "id": "cm_gram_suf_pito_pina",
+   "kaphtor_exportable": true,
+   "label": "CM 2 stacked suffix -pi -> -pi-to (corpus 013) vs -pi-na (emended 008)",
+   "promotion_criteria": "Autopsy confirmation of Valério's CM 2 013/008 paleographic split (Perna corpus / 3D RTI) and CM Kernel I suffix-stacking significance (p <= 0.01).",
+   "proposed_function": "Two-morpheme agglutinative suffix chain (-pi + -na or -pi + -to); exact grammatical categories unassigned.",
+   "rivals": [
+    {
+     "hypothesis": "Emends CM 2 013 to 008 (na), unifying -pi-na with ka-pa-na / ku-to-na / -ko-na",
+     "page": "115–121, 520–526",
+     "proposer": "Valério",
+     "work": "Valério 2016"
+    },
+    {
+     "hypothesis": "Keeps HoChyMin 013 unemended and assigns CS na to 013 (and to to 008), which also reads 051-013 as -pi-na",
+     "page": "398, 420–422",
+     "proposer": "Davis",
+     "work": "Davis 2026b"
+    },
+    {
+     "hypothesis": "Reads CM 2 Enkomi tablets as Hurrian prose",
+     "page": "384–395",
+     "proposer": "Faucounau",
+     "work": "Faucounau 1980"
+    }
+   ],
+   "sign_dependencies": [
+    "051=pi",
+    "013=to",
+    "008=na"
+   ],
+   "statement": "Three-stage agglutinative stacking in CM 2 (e-re -> e-re-pi -> e-re-pi-X; ta-ka -> ta-ka-pi-X; ku-pi-X; plus an unvalued stem taking -pi-X). Crucially depends on the CM 2 013/008 epigraphic reading: HoChyMin's unsplit corpus text reads 051-013 = -pi-to (4x), whereas Valério's emended re-edition splits CM 2 013 -> 008 = na, yielding 051-008 = -pi-na (4x).",
+   "status": "attested",
+   "structural_evidence": [
+    {
+     "cypro_minoan": "038-033",
+     "line": "A.05",
+     "shows": "stage 1 bare stem e-re",
+     "siglum": "ENKO Atab 003",
+     "text_basis": "emended",
+     "values": "e-re"
+    },
+    {
+     "cypro_minoan": "038-033-051",
+     "line": "A.05",
+     "shows": "stage 2 stem + -pi",
+     "siglum": "ENKO Atab 003",
+     "text_basis": "emended",
+     "values": "e-re-pi"
+    },
+    {
+     "cypro_minoan": "038-033-051-008",
+     "line": "A.19",
+     "shows": "stage 3 stem + -pi-na under Valério's 013->008 emendation",
+     "siglum": "ENKO Atab 003",
+     "text_basis": "emended",
+     "values": "e-re-pi-na"
+    },
+    {
+     "cypro_minoan": "038-033-051-013",
+     "line": "A.19",
+     "shows": "same token reads -pi-to under HoChyMin unsplit 013=to",
+     "siglum": "ENKO Atab 003",
+     "text_basis": "corpus",
+     "values": "e-re-pi-to"
+    },
+    {
+     "cypro_minoan": "004-025",
+     "line": "A.08",
+     "shows": "second stem bare ta-ka",
+     "siglum": "ENKO Atab 003",
+     "text_basis": "emended",
+     "values": "ta-ka"
+    },
+    {
+     "cypro_minoan": "004-025-051-008",
+     "line": "A.05",
+     "shows": "second stem + -pi-na (emended)",
+     "siglum": "ENKO Atab 003",
+     "text_basis": "emended",
+     "values": "ta-ka-pi-na"
+    },
+    {
+     "cypro_minoan": "004-025-051-013",
+     "line": "A.05",
+     "shows": "second stem + -pi-to (corpus)",
+     "siglum": "ENKO Atab 003",
+     "text_basis": "corpus",
+     "values": "ta-ka-pi-to"
+    },
+    {
+     "cypro_minoan": "110-051-013",
+     "line": "A.I.29",
+     "shows": "third stem + -pi-to on ENKO Atab 002 (emended 102/110-051-008)",
+     "siglum": "ENKO Atab 002",
+     "text_basis": "corpus",
+     "values": "ku-pi-to"
+    }
+   ],
+   "subcorpus_distribution": {
+    "CM 1": 0,
+    "CM 2": 4,
+    "CM 3": 0,
+    "pole": "CM 2 only"
+   },
+   "text_basis": "both",
+   "tier": "PROBABLE"
+  },
+  {
+   "area": "suffix_morphology",
+   "corpus_test": {
+    "contradicts": 0,
+    "holdout_s7_checked": true,
+    "method": "stem-extension verification across CM 1 & CM 2; blind §7 holdout: UNDERPOWERED (N=1 < 5; 1 -ko final type, 0 -ko-to/-ko-na extensions)",
+    "supports_stems": 3,
+    "supports_tokens": 5
+   },
+   "counter_evidence": [
+    {
+     "note": "Ferrara and Valério (2017, 89) note the final 015 on ENKO Abou 051 could alternatively be an isolated single sign lacking its divider (a-li-sa-ri | ko)."
+    }
+   ],
+   "eteocypriot_parallels": [
+    {
+     "forms": [
+      "o-na-sa-ko-ra-no-ti",
+      "o-ra-ko-ti"
+     ],
+     "note": "Velar-final stems taking -na/-no/-ti endings.",
+     "source": "IG XV 1"
+    }
+   ],
+   "falsification_criteria": "Disproved if a-li-sa-ri-ko is a missing-divider clay ball and the CM 2 unvalued-stem -ko-na sequence proves to be stem-internal.",
+   "formal_pattern": {
+    "slot": "suffix",
+    "stacking_chain": [
+     "-∅",
+     "-ko",
+     "-ko-na/-ko-to"
+    ]
+   },
+   "id": "cm_gram_suf_kona_koto",
+   "kaphtor_exportable": true,
+   "label": "-ko and stacked -ko-na (emended) / -ko-to (corpus) suffixes",
+   "promotion_criteria": "Confirm at least two additional intact -ko / -ko-na stems without missing-divider ambiguity.",
+   "proposed_function": "Derivational or inflectional suffix -ko taking the same final -na/-to morpheme as -pi.",
+   "rivals": [
+    {
+     "hypothesis": "Allow a-li-sa-ri-ko to be missing a word-divider before isolated 015 (ko)",
+     "page": "89",
+     "proposer": "Ferrara and Valério",
+     "work": "Ferrara and Valério 2017"
+    },
+    {
+     "hypothesis": "Reads ENKO Atab 004 ka-ko-na as Hurrian kab-onna 'hidden things'",
+     "page": "394",
+     "proposer": "Faucounau",
+     "work": "Faucounau 1980"
+    }
+   ],
+   "sign_dependencies": [
+    "021=ko",
+    "015=ko",
+    "008=na",
+    "013=to"
+   ],
+   "statement": "Productive -ko suffixing attested in CM 1 (a-li-sa-ri vs a-li-sa-ri-ko, Ferrara and Valério 2017, 89) and stacked in CM 2 as -ko -> -ko-na (emended) / -ko-to (corpus) beside ka-ko-na (ENKO Atab 004 colophon) and standalone ko-na (ENKO Atab 003).",
+   "status": "attested",
+   "structural_evidence": [
+    {
+     "cypro_minoan": "102-009-082-085",
+     "line": null,
+     "shows": "bare CM 1 stem a-li-sa-ri",
+     "siglum": "ENKO Abou 081",
+     "text_basis": "corpus",
+     "values": "a-li-sa-ri"
+    },
+    {
+     "cypro_minoan": "102-009-082-085-015",
+     "line": null,
+     "shows": "CM 1 stem + 015 (-ko)",
+     "siglum": "ENKO Abou 051",
+     "text_basis": "corpus",
+     "values": "a-li-sa-ri-ko"
+    },
+    {
+     "cypro_minoan": "025-021-008",
+     "line": null,
+     "shows": "CM 2 top-edge colophon opener ka-ko-na",
+     "siglum": "ENKO Atab 004",
+     "text_basis": "emended",
+     "values": "ka-ko-na"
+    },
+    {
+     "cypro_minoan": "021-008",
+     "line": "B.15",
+     "shows": "emended ko-na (corpus 021-013 ko-to)",
+     "siglum": "ENKO Atab 003",
+     "text_basis": "emended",
+     "values": "ko-na"
+    },
+    {
+     "cypro_minoan": "021-013",
+     "line": "B.15",
+     "shows": "HoChyMin corpus reading of same B.15 token",
+     "siglum": "ENKO Atab 003",
+     "text_basis": "corpus",
+     "values": "ko-to"
+    }
+   ],
+   "subcorpus_distribution": {
+    "CM 1": 1,
+    "CM 2": 3,
+    "CM 3": 0,
+    "pole": "CM 2 + CM 1"
+   },
+   "text_basis": "both",
+   "tier": "CANDIDATE"
+  },
+  {
+   "area": "suffix_morphology",
+   "corpus_test": {
+    "contradicts": 0,
+    "holdout_s7_checked": false,
+    "method": "emended CM 2 paradigm check",
+    "supports_stems": 2,
+    "supports_tokens": 8
+   },
+   "counter_evidence": [
+    {
+     "note": "ka-pa- is only 2 signs long, so accidental homophony across unrelated 3-sign words must be tested against CM Kernel B/I permutation nulls."
+    }
+   ],
+   "eteocypriot_parallels": [
+    {
+     "forms": [
+      "a-na",
+      "ma-na",
+      "ta-na",
+      "a-li-ra-ni",
+      "i-mi-ka-ni",
+      "e-ne-mi-na"
+     ],
+     "note": "CM 2 word-final distribution matches IG XV 1 Eteocypriot at cos=0.583, p=0.0135 (10,000 shuffles).",
+     "source": "IG XV 1 / Steele 2013"
+    }
+   ],
+   "falsification_criteria": "Disproved if 2-sign stem ka-pa- fails random bigram-sharing expectation or if Valério's 064->065 and 013->008 splits are overturned.",
+   "formal_pattern": {
+    "paradigm": [
+     "-∅",
+     "-na",
+     "-ni",
+     "-sa",
+     "-ta",
+     "-ti"
+    ],
+    "slot": "suffix"
+   },
+   "id": "cm_gram_suf_cm2_case4",
+   "kaphtor_exportable": true,
+   "label": "CM 2 four-ending paradigm -na / -ni / -sa / -ta (ka-pa- & ku-to-)",
+   "promotion_criteria": "Pass CM Kernel B (unsupervised Kober trios) and Kernel I (margin permutation null p <= 0.01) across CM 2.",
+   "proposed_function": "Core nominal or verbal inflectional paradigm of CM 2; -na/-no/-ni pole statistically matches IG XV 1 Eteocypriot (cos=0.583, p=0.0135).",
+   "rivals": [
+    {
+     "hypothesis": "Identifies 025-006- and 110-078- alternations in CM 2 morphological analysis",
+     "page": "320–332",
+     "proposer": "Valério",
+     "work": "Valério 2016"
+    },
+    {
+     "hypothesis": "Catalogs CM 2 suffixal alternations as distinct from CM 1",
+     "page": "36–41",
+     "proposer": "Duhoux",
+     "work": "Duhoux 2013"
+    }
+   ],
+   "sign_dependencies": [
+    "008=na",
+    "065=ni",
+    "082=sa",
+    "004=ta",
+    "023=ti"
+   ],
+   "statement": "Under Valério's CM 2 re-edition, the stem ka-pa- inflects across all four endings across the three Enkomi tablets (ka-pa-na, ka-pa-ni, ka-pa-sa, ka-pa-ta), paralleled by ku-to / ku-to-na / ku-to-ti.",
+   "status": "attested",
+   "structural_evidence": [
+    {
+     "cypro_minoan": "025-006-008",
+     "line": "A.I.27",
+     "shows": "ka-pa + -na",
+     "siglum": "ENKO Atab 002",
+     "text_basis": "emended",
+     "values": "ka-pa-na"
+    },
+    {
+     "cypro_minoan": "025-006-065",
+     "line": "A.16",
+     "shows": "ka-pa + -ni (Valério 064->065)",
+     "siglum": "ENKO Atab 003",
+     "text_basis": "emended",
+     "values": "ka-pa-ni"
+    },
+    {
+     "cypro_minoan": "025-006-082",
+     "line": "B.I.13",
+     "shows": "ka-pa + -sa",
+     "siglum": "ENKO Atab 002",
+     "text_basis": "emended",
+     "values": "ka-pa-sa"
+    },
+    {
+     "cypro_minoan": "025-006-004",
+     "line": "B.18",
+     "shows": "ka-pa + -ta (repeated B.20)",
+     "siglum": "ENKO Atab 004",
+     "text_basis": "emended",
+     "values": "ka-pa-ta"
+    },
+    {
+     "cypro_minoan": "110-078",
+     "line": "B.15",
+     "shows": "bare stem ku-to",
+     "siglum": "ENKO Atab 003",
+     "text_basis": "emended",
+     "values": "ku-to"
+    },
+    {
+     "cypro_minoan": "110-078-008",
+     "line": "A.11",
+     "shows": "ku-to + -na",
+     "siglum": "ENKO Atab 003",
+     "text_basis": "emended",
+     "values": "ku-to-na"
+    },
+    {
+     "cypro_minoan": "110-078-023",
+     "line": "B.09",
+     "shows": "ku-to + -ti",
+     "siglum": "ENKO Atab 004",
+     "text_basis": "emended",
+     "values": "ku-to-ti"
+    }
+   ],
+   "subcorpus_distribution": {
+    "CM 1": 1,
+    "CM 2": 8,
+    "CM 3": 0,
+    "pole": "CM 2 dominant"
+   },
+   "text_basis": "emended",
+   "tier": "PROBABLE"
+  },
+  {
+   "area": "suffix_morphology",
+   "corpus_test": {
+    "contradicts": 0,
+    "holdout_s7_checked": false,
+    "method": "exact sequence match in CM 2 emended text",
+    "supports_stems": 1,
+    "supports_tokens": 3
+   },
+   "counter_evidence": [
+    {
+     "note": "Single stem pair in CM 2; could be lexical coincidence unless joined by additional -we₂/-wo₂ pairs on currently unvalued stems."
+    }
+   ],
+   "eteocypriot_parallels": [
+    {
+     "forms": [
+      "ta-ra-wi",
+      "ta-ra-wo",
+      "a-so-na"
+     ],
+     "note": "Amathus EC 3 (ICS 194) writes ta-ra-wo (L5) in the same inscription as a-so-na (L2–L3, not adjacent); ICS 193 L4 writes ta-ra-wi (Steele 2013, 132, 136). A third dotted form ta-ṛạ-p̣ị in ICS 195 L5 is epigraphically contested (read ta-?-p̣ị-?-i-na in Steele 2013, 107, 123).",
+     "source": "IG XV 1 / ICS 193–195"
+    }
+   ],
+   "falsification_criteria": "Disproved if 029 or 035 fails labial-glide validation or if ta-ra-wo₂ / a-sa-na proximity proves statistically indistinguishable from random pair matching.",
+   "formal_pattern": {
+    "alternation": [
+     "-we₂",
+     "-wo₂"
+    ],
+    "slot": "suffix"
+   },
+   "id": "cm_gram_suf_we_wo",
+   "kaphtor_exportable": true,
+   "label": "-we₂ / -wo₂ vocalic alternation (ta-ra-we₂ ~ ta-ra-wo₂)",
+   "promotion_criteria": "Resolve the blocking CM 2 sign to test the parallel -we₂ / -wo₂-na alternation and pass the CM Kernel G isogloss permutation test.",
+   "proposed_function": "Inflectional or stem-final vowel alternation on stem ta-ra-w- (possibly verbal or nominal; exact meaning unknown).",
+   "rivals": [
+    {
+     "hypothesis": "Cautious on projecting bronze-age CM stems directly onto 4th c. BCE Amathus Eteocypriot without intermediate links",
+     "page": "103, 121–122",
+     "proposer": "Steele",
+     "work": "Steele 2013"
+    }
+   ],
+   "sign_dependencies": [
+    "035=we₂",
+    "029=wo₂",
+    "004=ta",
+    "075=ra"
+   ],
+   "statement": "CM 2 attests the minimal vowel-alternating pair ta-ra-wo₂ (ENKO Atab 003 B.17, immediately before a-sa-na) and ta-ra-we₂ (ENKO Atab 004 B.18, B.20, closing a verbatim clause), directly paralleling Amathus Eteocypriot ta-ra-wo (ICS 194 L5; a-so-na occurs in L2–L3 of the same inscription) and ta-ra-wi (ICS 193 L4).",
+   "status": "attested",
+   "structural_evidence": [
+    {
+     "cypro_minoan": "004-075-029",
+     "line": "B.17",
+     "shows": "ta-ra-wo₂ immediately before a-sa-na",
+     "siglum": "ENKO Atab 003",
+     "text_basis": "emended",
+     "values": "ta-ra-wo₂"
+    },
+    {
+     "cypro_minoan": "004-075-035",
+     "line": "B.18",
+     "shows": "ta-ra-we₂ closing Face B formula (repeated B.20)",
+     "siglum": "ENKO Atab 004",
+     "text_basis": "emended",
+     "values": "ta-ra-we₂"
+    },
+    {
+     "cypro_minoan": "004-075-035",
+     "line": "B.20",
+     "shows": "verbatim repetition of ka-pa-ta | se-su-wa-ra | ta-ra-we₂",
+     "siglum": "ENKO Atab 004",
+     "text_basis": "emended",
+     "values": "ta-ra-we₂"
+    }
+   ],
+   "subcorpus_distribution": {
+    "CM 1": 0,
+    "CM 2": 3,
+    "CM 3": 0,
+    "pole": "CM 2 only"
+   },
+   "text_basis": "emended",
+   "tier": "CANDIDATE"
+  },
+  {
+   "area": "suffix_morphology",
+   "corpus_test": {
+    "contradicts": 0,
+    "holdout_s7_checked": true,
+    "method": "CM 2 emended sequence audit; blind §7 holdout (CM 1 arm only; 0 CM 2 tablets): UNDERPOWERED (N=0 < 3; 0 word-final 095 tokens)",
+    "supports_stems": 4,
+    "supports_tokens": 8
+   },
+   "counter_evidence": [
+    {
+     "note": "May reflect purely phonological labial glide insertion (-Cu-a spelled -Cu-wa) rather than a dedicated -wa morpheme."
+    }
+   ],
+   "eteocypriot_parallels": [
+    {
+     "forms": [
+      "pu-ru-wa-no-ti"
+     ],
+     "note": "Cypriot Syllabic consistently inserts -w- glide after -u- before -a-.",
+     "source": "IG XV 1"
+    }
+   ],
+   "falsification_criteria": "Collapsed into cm_gram_orth_glide_uw if 100% of -wa endings follow Cu signs and ta-ka-mu-ma/wa reflects m/w lenition.",
+   "formal_pattern": {
+    "regex_values": "-(?:nu|mu|pu|ku)-wa$",
+    "slot": "suffix"
+   },
+   "id": "cm_gram_suf_cuwa",
+   "kaphtor_exportable": true,
+   "label": "-Cu-wa word-final sequence / derivational ending",
+   "promotion_criteria": "Distinguish orthographic /u.a/ from true suffixal -wa by checking whether -wa also attaches after non-u vowels in CM 2.",
+   "proposed_function": "Orthographic glide spelling of -Cu-a or derivational/inflectional suffix -wa alternating with -ma.",
+   "rivals": [
+    {
+     "hypothesis": "Treats -u-wa as automatic labial glide spelling of /u.a/ (phonological/orthographic rule)",
+     "page": "315–318, 439",
+     "proposer": "Valério",
+     "work": "Valério 2016"
+    }
+   ],
+   "sign_dependencies": [
+    "095=wa",
+    "028=nu",
+    "049=mu",
+    "061=pu",
+    "110=ku"
+   ],
+   "statement": "Word-final -Cu-wa recurs across multiple CM 2 stems (nu₂-sa-nu-wa, ka-li-mu-nu-wa, ta-ka-mu-wa, i-ku-wa), alternating directly with -ma on the identical stem ta-ka-mu-ma (A.12) vs ta-ka-mu-wa (A.14) in ENKO Atab 003.",
+   "status": "attested",
+   "structural_evidence": [
+    {
+     "cypro_minoan": "004-025-074-054",
+     "line": "A.12",
+     "shows": "ta-ka-mu- + -ma",
+     "siglum": "ENKO Atab 003",
+     "text_basis": "emended",
+     "values": "ta-ka-mu-ma"
+    },
+    {
+     "cypro_minoan": "004-025-074-095",
+     "line": "A.14",
+     "shows": "minimal pair ta-ka-mu- + -wa on same tablet",
+     "siglum": "ENKO Atab 003",
+     "text_basis": "emended",
+     "values": "ta-ka-mu-wa"
+    },
+    {
+     "cypro_minoan": "025-009-049-028-095",
+     "line": "A.03",
+     "shows": "-nu-wa ending (repeated A.10)",
+     "siglum": "ENKO Atab 003",
+     "text_basis": "emended",
+     "values": "ka-li-mu-nu-wa"
+    },
+    {
+     "cypro_minoan": "068-082-028-095",
+     "line": "A.I.2.02",
+     "shows": "pre-refrain word ending in -nu-wa (3x intact on Face A)",
+     "siglum": "ENKO Atab 004",
+     "text_basis": "emended",
+     "values": "nu₂-sa-nu-wa"
+    },
+    {
+     "cypro_minoan": "104-110-095",
+     "line": "A.I.4.01",
+     "shows": "-ku-wa ending",
+     "siglum": "ENKO Atab 004",
+     "text_basis": "emended",
+     "values": "i-ku-wa"
+    }
+   ],
+   "subcorpus_distribution": {
+    "CM 1": 1,
+    "CM 2": 7,
+    "CM 3": 0,
+    "pole": "CM 2 dominant"
+   },
+   "text_basis": "emended",
+   "tier": "CANDIDATE"
+  },
+  {
+   "area": "suffix_morphology",
+   "corpus_test": {
+    "contradicts": 0,
+    "holdout_s7_checked": false,
+    "method": "cross-tablet CM 2 stem+017 check",
+    "supports_stems": 5,
+    "supports_tokens": 12
+   },
+   "counter_evidence": [
+    {
+     "note": "Rare in CM 1 outside ko-no (where -no is stem-internal rather than suffixal)."
+    }
+   ],
+   "eteocypriot_parallels": [
+    {
+     "forms": [
+      "a-no-ti",
+      "e-ki-ja-no-ti",
+      "mu-no-ti",
+      "o-na-sa-ko-ra-no-ti"
+     ],
+     "note": "Eteocypriot -no / -no-ti is the single most frequent pre-ti syllable in Amathus (Steele 2013, 123–124).",
+     "source": "IG XV 1 / Steele 2013"
+    }
+   ],
+   "falsification_criteria": "Disproved if 017 fails -o vowel harmony tests or fails Kernel I permutation null.",
+   "formal_pattern": {
+    "regex_values": "-(?:ro|lo|wo₂|ja)-no$",
+    "slot": "suffix",
+    "stacking_chain": [
+     "-∅",
+     "-no"
+    ]
+   },
+   "id": "cm_gram_suf_cono_jano",
+   "kaphtor_exportable": true,
+   "label": "-no word-final suffix (-Co-no / -ja-no) in CM 2",
+   "promotion_criteria": "Pass CM Kernel I bound-affix margin permutation null (p <= 0.01) for suffix -017 (-no).",
+   "proposed_function": "Productive nominal or verbal ending -no (unassigned; parallels Eteocypriot -no / -no-ti).",
+   "rivals": [
+    {
+     "hypothesis": "Identifies 017 as high-frequency CM 2 word-final suffix",
+     "page": "322–326, 432",
+     "proposer": "Valério",
+     "work": "Valério 2016"
+    }
+   ],
+   "sign_dependencies": [
+    "017=no",
+    "097=ro",
+    "005=lo",
+    "029=wo₂",
+    "072=ja"
+   ],
+   "statement": "Word-final -no (017) productively extends bare stems in CM 2: e-po-ro (ENKO Atab 004 B.14) -> e-po-ro-no (ENKO Atab 002 B.I.13); nu₂-ka-ro (ENKO Atab 004 B.10) -> nu₂-ka-ro-no (ENKO Atab 003 A.15); plus ku-wo₂-no, ku-we₂-lo-no, a-li-ma-ja-no.",
+   "status": "attested",
+   "structural_evidence": [
+    {
+     "cypro_minoan": "038-012-097",
+     "line": "B.14",
+     "shows": "bare stem e-po-ro",
+     "siglum": "ENKO Atab 004",
+     "text_basis": "emended",
+     "values": "e-po-ro"
+    },
+    {
+     "cypro_minoan": "038-012-097-017",
+     "line": "B.I.13",
+     "shows": "e-po-ro + -no across tablets",
+     "siglum": "ENKO Atab 002",
+     "text_basis": "emended",
+     "values": "e-po-ro-no"
+    },
+    {
+     "cypro_minoan": "068-025-097",
+     "line": "B.10",
+     "shows": "bare stem nu₂-ka-ro",
+     "siglum": "ENKO Atab 004",
+     "text_basis": "emended",
+     "values": "nu₂-ka-ro"
+    },
+    {
+     "cypro_minoan": "068-025-097-017",
+     "line": "A.15",
+     "shows": "nu₂-ka-ro + -no across tablets",
+     "siglum": "ENKO Atab 003",
+     "text_basis": "emended",
+     "values": "nu₂-ka-ro-no"
+    },
+    {
+     "cypro_minoan": "110-029-017",
+     "line": "A.I.37",
+     "shows": "-wo₂-no",
+     "siglum": "ENKO Atab 002",
+     "text_basis": "emended",
+     "values": "ku-wo₂-no"
+    },
+    {
+     "cypro_minoan": "110-035-005-017",
+     "line": "A.18",
+     "shows": "-lo-no",
+     "siglum": "ENKO Atab 003",
+     "text_basis": "emended",
+     "values": "ku-we₂-lo-no"
+    },
+    {
+     "cypro_minoan": "102-009-054-072-017",
+     "line": "B.16",
+     "shows": "-ja-no",
+     "siglum": "ENKO Atab 003",
+     "text_basis": "emended",
+     "values": "a-li-ma-ja-no"
+    }
+   ],
+   "subcorpus_distribution": {
+    "CM 1": 1,
+    "CM 2": 12,
+    "CM 3": 0,
+    "pole": "CM 2 dominant"
+   },
+   "text_basis": "emended",
+   "tier": "PROBABLE"
+  },
+  {
+   "area": "suffix_morphology",
+   "corpus_test": {
+    "contradicts": 0,
+    "holdout_s7_checked": true,
+    "method": "exact sequence check on ENKO Arou 001; blind §7 holdout: UNDERPOWERED (N=0 < 3; 0 word-final 007 or -ri-ti tokens)",
+    "supports_stems": 1,
+    "supports_tokens": 2
+   },
+   "counter_evidence": [
+    {
+     "note": "Currently attested on a single stem pair within one inscription; segmentation of si-lo- before ka-ta-ni-ri-ti is inferred without a printed divider."
+    }
+   ],
+   "eteocypriot_parallels": [
+    {
+     "forms": [
+      "o-i-te",
+      "i-te"
+     ],
+     "note": "Eteocypriot attests -te endings/particles (EC 3 o-i-te 5x, i-te) beside -ti.",
+     "source": "IG XV 1 / Steele 2013"
+    }
+   ],
+   "falsification_criteria": "Disproved if si-lo-ka-ta-ni-ri-ti proves to be an indivisible compound unrelated to ka-ta-ni-te.",
+   "formal_pattern": {
+    "alternation": [
+     "-ri-ti",
+     "-te"
+    ],
+    "slot": "suffix"
+   },
+   "id": "cm_gram_suf_riti_te",
+   "kaphtor_exportable": true,
+   "label": "-ri-ti vs -te alternation on stem ka-ta-ni- (ENKO Arou 001)",
+   "promotion_criteria": "Attest -te / -ti alternation on >= 2 independent CM 1 stems.",
+   "proposed_function": "Morphological case/number/derivational alternation on a shared 3-sign stem (Janko 2020, 54, 58: D-slot element in accounting entries).",
+   "rivals": [
+    {
+     "hypothesis": "Reads 025-004-099-096-023 and 025-004-099-007 as alternating inflected forms of the same D-slot element",
+     "page": "54, 58",
+     "proposer": "Janko",
+     "work": "Janko 2020"
+    }
+   ],
+   "sign_dependencies": [
+    "025=ka",
+    "004=ta",
+    "099=ni",
+    "096=ri",
+    "023=ti",
+    "007=te"
+   ],
+   "statement": "On ENKO Arou 001 (consecutive entries 10b and 11 in Janko 2020), the three-sign stem ka-ta-ni- appears as si-lo-ka-ta-ni-ri-ti (.22) and immediately afterwards as ka-ta-ni-te (.24), establishing a clean suffixal opposition -ri-ti vs -te.",
+   "status": "attested",
+   "structural_evidence": [
+    {
+     "cypro_minoan": "027-005-025-004-099-096-023",
+     "line": ".22",
+     "shows": "stem ka-ta-ni- with -ri-ti ending (Janko segments si-lo | ka-ta-ni-ri-ti)",
+     "siglum": "ENKO Arou 001",
+     "text_basis": "corpus",
+     "values": "si-lo-ka-ta-ni-ri-ti"
+    },
+    {
+     "cypro_minoan": "025-004-099-007",
+     "line": ".24",
+     "shows": "same stem ka-ta-ni- with -te ending in the immediately following entry",
+     "siglum": "ENKO Arou 001",
+     "text_basis": "corpus",
+     "values": "ka-ta-ni-te"
+    }
+   ],
+   "subcorpus_distribution": {
+    "CM 1": 2,
+    "CM 2": 0,
+    "CM 3": 0,
+    "pole": "CM 1 only"
+   },
+   "text_basis": "corpus",
+   "tier": "CANDIDATE"
+  },
+  {
+   "area": "prefix_morphology",
+   "corpus_test": {
+    "contradicts": 0,
+    "holdout_s7_checked": true,
+    "method": "ENKO Arou 001 corpus segmentation check; blind §7 holdout: UNDERPOWERED (N=0 < 3; 0 word-initial 069 in L>=3 CM 1 words)",
+    "supports_stems": 2,
+    "supports_tokens": 3
+   },
+   "counter_evidence": [
+    {
+     "note": "Janko (2020, 53–54, Table 2) argues the scribe omitted spirale word-dividers in lines .13–.27, re-segmenting .16–.17 and .26–.27 so 069 closes the preceding unread words rather than prefixing ta-la-ka or the sa-ra-ni compound."
+    }
+   ],
+   "eteocypriot_parallels": [],
+   "falsification_criteria": "Disproved if Janko's omitted-divider segmentation of ENKO Arou 001 Part III accounts for all three 069- tokens.",
+   "formal_pattern": {
+    "regex_values": "^ja-",
+    "slot": "prefix"
+   },
+   "id": "cm_gram_pre_ja",
+   "kaphtor_exportable": true,
+   "label": "Productive ja- (069-) prefixing on ENKO Arou 001",
+   "promotion_criteria": "Find clear divider-bounded ja- prefixing on a CM 1 inscription other than ENKO Arou 001.",
+   "proposed_function": "Proclitic particle, conjunction, or derivational prefix ja- (or segmentable preceding element in scriptio continua per Janko 2020).",
+   "rivals": [
+    {
+     "hypothesis": "Re-segments omitted dividers in lines .13–.27 so 069 ends the preceding word rather than acting as a ja- prefix",
+     "page": "53–54",
+     "proposer": "Janko",
+     "work": "Janko 2020"
+    },
+    {
+     "hypothesis": "Notes recurring sa-ra-ni and adjacent unread sequences across lines .25–.27",
+     "page": "64",
+     "proposer": "Steele",
+     "work": "Steele 2013"
+    }
+   ],
+   "sign_dependencies": [
+    "069=ja"
+   ],
+   "statement": "On Part III of ENKO Arou 001, 069 (ja-) prefixes onto recurring multi-sign words/stems (ta-la-ka -> ja-ta-la-ka-mu-ko-to; ...-te-ko -> ja-te-ko; plus an unread sa-ra-ni compound), though note Janko (2020) alternatively segments Part III without dividers.",
+   "status": "attested",
+   "structural_evidence": [
+    {
+     "cypro_minoan": "004-087-025",
+     "line": ".10",
+     "shows": "bare recurring stem ta-la-ka (also .23)",
+     "siglum": "ENKO Arou 001",
+     "text_basis": "corpus",
+     "values": "ta-la-ka"
+    },
+    {
+     "cypro_minoan": "069-004-087-025-039-021-013",
+     "line": ".17",
+     "shows": "ja- prefixed onto ta-la-ka- (Janko 2020 alternatively attaches 069 to the preceding unread word)",
+     "siglum": "ENKO Arou 001",
+     "text_basis": "corpus",
+     "values": "ja-ta-la-ka-mu-ko-to"
+    },
+    {
+     "cypro_minoan": "069-007-021",
+     "line": ".21",
+     "shows": "ja- before recurring -te-ko element",
+     "siglum": "ENKO Arou 001",
+     "text_basis": "corpus",
+     "values": "ja-te-ko"
+    }
+   ],
+   "subcorpus_distribution": {
+    "CM 1": 3,
+    "CM 2": 0,
+    "CM 3": 0,
+    "pole": "CM 1 only"
+   },
+   "text_basis": "corpus",
+   "tier": "CANDIDATE"
+  },
+  {
+   "area": "stem_paradigm",
+   "corpus_test": {
+    "contradicts": 0,
+    "holdout_s7_checked": false,
+    "method": "exact 068-025-* scan in CM 2",
+    "supports_stems": 1,
+    "supports_tokens": 6
+   },
+   "counter_evidence": [
+    {
+     "note": "Root meaning remains completely unassigned; Hurrian suḥaru (Faucounau) is incompatible with 068=nu₂."
+    }
+   ],
+   "eteocypriot_parallels": [],
+   "falsification_criteria": "Disproved as a single root if 068=nu₂ is overturned and 033 is shown to have a non-r consonant.",
+   "formal_pattern": {
+    "members": [
+     "nu₂-ka",
+     "nu₂-ka-ri",
+     "nu₂-ka-ro",
+     "nu₂-ka-ra",
+     "nu₂-ka-re-ka",
+     "nu₂-ka-ro-no"
+    ],
+    "stem": "nu₂-ka-"
+   },
+   "id": "cm_gram_stem_nukar",
+   "kaphtor_exportable": true,
+   "label": "CM 2 five-form nu₂-ka-rV paradigm (068-025-rV)",
+   "promotion_criteria": "Pass CM Kernel B (unsupervised Kober trios) and identify functional slots of -ri/-ro/-ra/-re-ka/-ro-no.",
+   "proposed_function": "Unassigned CM 2 verbal or nominal root *nukar- inflecting across -i/-o/-a/-e-ka/-o-no (Valério's key 033=re proof frame).",
+   "rivals": [
+    {
+     "hypothesis": "Uses 068-025-rV (ra/re/ri/ro) as a primary Kober-type frame establishing 033=re",
+     "page": "323, 329",
+     "proposer": "Valério",
+     "work": "Valério 2016"
+    },
+    {
+     "hypothesis": "Reads 068-025-096 as Hurrian su-ḥa-ru 'living(?)'",
+     "page": "394–395",
+     "proposer": "Faucounau",
+     "work": "Faucounau 1980"
+    }
+   ],
+   "sign_dependencies": [
+    "068=nu₂",
+    "025=ka",
+    "096=ri",
+    "097=ro",
+    "075=ra",
+    "033=re",
+    "017=no"
+   ],
+   "statement": "The stem 068-025 (nu₂-ka, attested bare on ENKO Atab 004 B.01) expands through a full r-series vowel paradigm across ENKO Atab 003 and 004: nu₂-ka-ri (colophon), nu₂-ka-ro (B.10), nu₂-ka-ra (B.11), nu₂-ka-re-ka (B.17), and nu₂-ka-ro-no (003 A.15).",
+   "status": "attested",
+   "structural_evidence": [
+    {
+     "cypro_minoan": "068-025",
+     "line": "B.01",
+     "shows": "bare 2-sign stem",
+     "siglum": "ENKO Atab 004",
+     "text_basis": "emended",
+     "values": "nu₂-ka"
+    },
+    {
+     "cypro_minoan": "068-025-096",
+     "line": null,
+     "shows": "top-edge colophon nu₂-ka-ri",
+     "siglum": "ENKO Atab 004",
+     "text_basis": "emended",
+     "values": "nu₂-ka-ri"
+    },
+    {
+     "cypro_minoan": "068-025-097",
+     "line": "B.10",
+     "shows": "nu₂-ka-ro",
+     "siglum": "ENKO Atab 004",
+     "text_basis": "emended",
+     "values": "nu₂-ka-ro"
+    },
+    {
+     "cypro_minoan": "068-025-075",
+     "line": "B.11",
+     "shows": "nu₂-ka-ra",
+     "siglum": "ENKO Atab 004",
+     "text_basis": "emended",
+     "values": "nu₂-ka-ra"
+    },
+    {
+     "cypro_minoan": "068-025-033-025",
+     "line": "B.17",
+     "shows": "nu₂-ka-re-ka (033=re frame)",
+     "siglum": "ENKO Atab 004",
+     "text_basis": "emended",
+     "values": "nu₂-ka-re-ka"
+    },
+    {
+     "cypro_minoan": "068-025-097-017",
+     "line": "A.15",
+     "shows": "nu₂-ka-ro + -no across tablets",
+     "siglum": "ENKO Atab 003",
+     "text_basis": "emended",
+     "values": "nu₂-ka-ro-no"
+    }
+   ],
+   "subcorpus_distribution": {
+    "CM 1": 0,
+    "CM 2": 6,
+    "CM 3": 0,
+    "pole": "CM 2 only"
+   },
+   "text_basis": "emended",
+   "tier": "PROBABLE"
+  },
+  {
+   "area": "stem_paradigm",
+   "corpus_test": {
+    "contradicts": 0,
+    "holdout_s7_checked": true,
+    "method": "cross-object CM 1 015-017-* audit; blind §7 holdout: replicated predicted Group 3 clay-ball parallel cleanly (1/1, 0 contradictions); stays PROBABLE pending semantic resolution",
+    "supports_stems": 1,
+    "supports_tokens": 3
+   },
+   "counter_evidence": [
+    {
+     "note": "ENKO Abou 027's third sign depends on HoChyMin 008 (ko-no-na) vs Valério emended 013 (ko-no-to); the held-out Group 3 clay-ball parallel replicated cleanly in the blind §7 holdout (1/1, 0 contradictions), leaving semantic/functional resolution open."
+    }
+   ],
+   "eteocypriot_parallels": [
+    {
+     "forms": [
+      "o-ra-ko-ti",
+      "mu-no-ti"
+     ],
+     "note": "Matches Eteocypriot -no-ti inflection.",
+     "source": "IG XV 1"
+    }
+   ],
+   "falsification_criteria": "Disproved as a single stem if 015=ko is rejected or if 2-sign ko-no is unrelated to 3-sign ko-no-ti/to.",
+   "formal_pattern": {
+    "members": [
+     "ko-no",
+     "ko-no-ti",
+     "ko-no-to (emended) / ko-no-na (corpus)"
+    ],
+    "stem": "ko-no-"
+   },
+   "id": "cm_gram_stem_kono",
+   "kaphtor_exportable": true,
+   "label": "CM 1 three-form ko-no / ko-no-ti / ko-no-to paradigm",
+   "promotion_criteria": "Determine whether ko-no is a personal name or copper/vessel commodity term (given its attestation on a miniature ingot, bronze bowl, and replicated Group 3 clay ball) and confirm independent morphological context.",
+   "proposed_function": "Cross-object CM 1 nominal/personal-name stem inflecting with -∅, -ti, and -to/-na.",
+   "rivals": [
+    {
+     "hypothesis": "Group 3 repeated clay-ball personal name ko?-no?-to? (attested on ENKO Abou 027 and a parallel clay ball)",
+     "page": "87",
+     "proposer": "Ferrara and Valério",
+     "work": "Ferrara and Valério 2017"
+    }
+   ],
+   "sign_dependencies": [
+    "015=ko",
+    "017=no",
+    "023=ti",
+    "013=to",
+    "008=na"
+   ],
+   "statement": "Across three distinct CM 1 object types (bronze bowl, miniature ingot, clay ball), the stem ko-no (015-017) appears bare (CYPR Mvas 003), with -ti (ENKO Mins 001 ko-no-ti), and with -to/-na (ENKO Abou 027: emended 015-017-013 ko-no-to vs HoChyMin corpus 015-017-008 ko-no-na).",
+   "status": "attested",
+   "structural_evidence": [
+    {
+     "cypro_minoan": "015-017",
+     "line": null,
+     "shows": "bare stem on bronze vessel beside si-ja-li-jo-ti",
+     "siglum": "CYPR Mvas 003",
+     "text_basis": "corpus",
+     "values": "ko-no"
+    },
+    {
+     "cypro_minoan": "015-017-023",
+     "line": null,
+     "shows": "ko-no + -ti on miniature copper ingot",
+     "siglum": "ENKO Mins 001",
+     "text_basis": "corpus",
+     "values": "ko-no-ti"
+    },
+    {
+     "cypro_minoan": "015-017-013",
+     "line": null,
+     "shows": "ko-no + -to on clay ball (Valério emendation; Ferrara and Valério 2017, 87 Group 3)",
+     "siglum": "ENKO Abou 027",
+     "text_basis": "emended",
+     "values": "ko-no-to"
+    },
+    {
+     "cypro_minoan": "015-017-008",
+     "line": null,
+     "shows": "HoChyMin corpus reading of same clay ball",
+     "siglum": "ENKO Abou 027",
+     "text_basis": "corpus",
+     "values": "ko-no-na"
+    }
+   ],
+   "subcorpus_distribution": {
+    "CM 1": 3,
+    "CM 2": 0,
+    "CM 3": 0,
+    "pole": "CM 1 only"
+   },
+   "text_basis": "both",
+   "tier": "PROBABLE"
+  },
+  {
+   "area": "syntax_frame",
+   "corpus_test": {
+    "contradicts": 2,
+    "holdout_s7_checked": true,
+    "method": "structural slot alignment on ENKO Arou 001; blind §7 holdout (0 cylinders, 11 asymmetric clay balls): FAIL on clay-ball commodity-abbreviation sub-prediction—only 1/11 (9.1%) isolated signs falls in {019,006,082,110} vs 11.4% CM 1 baseline (p_binom=0.736), and all 11 isolated signs are distinct; downgraded to SPECULATIVE as a single-text ENKO Arou 001 pattern",
+    "supports_stems": 4,
+    "supports_tokens": 13
+   },
+   "counter_evidence": [
+    {
+     "note": "Janko (2020, 59) acknowledges that the supposed numerals in entries 2–13 do not sum to entry 1's '•' (10), and 7.2 writes '& |' (word-divider before numeral), which violates Linear A/B and Classical CS usage."
+    },
+    {
+     "note": "Blind §7 holdout falsifies the clay-ball commodity-abbreviation sub-prediction: across 11 intact asymmetric held-out clay balls, all 11 isolated single signs are distinct and only 1/11 (9.1%) matches the 4-sign cylinder set {019,006,082,110} (vs 11.4% CM 1 baseline, p_binom=0.736)."
+    }
+   ],
+   "eteocypriot_parallels": [
+    {
+     "forms": [
+      "ta | ta",
+      "pe |||| pe ||"
+     ],
+     "note": "Flanking a numeral on both sides with a single-sign unit abbreviation (Janko 2020, 51).",
+     "source": "Classical CS (Idalion tablet, Egetmeyer 2010 II, 629–635)"
+    }
+   ],
+   "falsification_criteria": "Disproved if '|' in ENKO Arou 001 can be shown to separate non-numerical syntactic constituents (e.g. verb-object or PN-patronymic) across entries.",
+   "formal_pattern": {
+    "slot": "clause",
+    "template": "PN-o-ti & [abbrev] & [item / ta-la-ka / sa-ra-ni] NUMERAL [abbrev]"
+   },
+   "id": "cm_gram_syn_cylinder_accounting",
+   "kaphtor_exportable": true,
+   "label": "ENKO Arou 001 continuous accounting syntax with numerals & Idalion-style abbreviations",
+   "promotion_criteria": "Test whether Kalavasos cylinders (KALA Arou 001–005) and clay balls exhibit matching numeral/abbreviation syntax.",
+   "proposed_function": "Continuous Bronze Age Cypriot administrative ledger syntax directly ancestral to Classical Cypriot accounting conventions (Idalion tablet).",
+   "rivals": [
+    {
+     "hypothesis": "Reads '|' as standard word-divider and '&' as postpositive connective '-and' (like Linear B -qe)",
+     "page": "123",
+     "proposer": "Olivier",
+     "work": "Olivier 2007"
+    },
+    {
+     "hypothesis": "Reads '&' as rubric/section divider and denies numerals on ENKO Arou 001",
+     "page": "210",
+     "proposer": "Ferrara",
+     "work": "Ferrara 2012"
+    },
+    {
+     "hypothesis": "Reads '|' as numeral '1', '&' as word-divider, and isolated signs as commodity/measure abbreviations",
+     "page": "48–60",
+     "proposer": "Janko",
+     "work": "Janko 2020"
+    }
+   ],
+   "sign_dependencies": [
+    "019=u",
+    "006=pa",
+    "082=sa",
+    "110=ku",
+    "004=ta",
+    "087=la",
+    "025=ka",
+    "075=ra",
+    "099=ni"
+   ],
+   "statement": "Janko (2020) reinterprets the vertical bar '|' on ENKO Arou 001 as numeral '1' (with 24.4 '|||' = '3' and 1.6 '•' = '10') and the spirale '&' as the word-divider, turning the cylinder into 13–15 accounting entries opening with -o-ti contributor names, using single-sign commodity/unit abbreviations (u, pa, sa, ku) flanking numerals like the Classical Idalion bronze tablet, and closing with recurring commodity/quantity words ta-la-ka (4x) and sa-ra-ni (3x).",
+   "status": "open",
+   "structural_evidence": [
+    {
+     "cypro_minoan": "019",
+     "line": ".05",
+     "shows": "isolated single-sign abbreviation u before sa-ra-ni |",
+     "siglum": "ENKO Arou 001",
+     "text_basis": "corpus",
+     "values": "u"
+    },
+    {
+     "cypro_minoan": "082-075-099",
+     "line": ".05",
+     "shows": "entry-final recurring word before '|' (entries 3, 12, 13)",
+     "siglum": "ENKO Arou 001",
+     "text_basis": "corpus",
+     "values": "sa-ra-ni"
+    },
+    {
+     "cypro_minoan": "006",
+     "line": ".06",
+     "shows": "isolated single-sign abbreviation pa flanking entry 4 numeral (like Idalion ta | ta)",
+     "siglum": "ENKO Arou 001",
+     "text_basis": "corpus",
+     "values": "pa"
+    },
+    {
+     "cypro_minoan": "004-087-025",
+     "line": ".10",
+     "shows": "entry-final recurring word before '|' (entries 6, 7c, 8, 10b)",
+     "siglum": "ENKO Arou 001",
+     "text_basis": "corpus",
+     "values": "ta-la-ka"
+    }
+   ],
+   "subcorpus_distribution": {
+    "CM 1": 13,
+    "CM 2": 0,
+    "CM 3": 0,
+    "pole": "CM 1 cylinders"
+   },
+   "text_basis": "corpus",
+   "tier": "SPECULATIVE"
+  },
+  {
+   "area": "syntax_frame",
+   "corpus_test": {
+    "contradicts": 1,
+    "holdout_s7_checked": true,
+    "method": "structural count over Ferrara and Valério 2017 clay-ball catalogue; blind §7 holdout (20 intact clay balls, 12 asymmetric): <=2-element cap 20/20 (100%, 0 exceptions), 2-element share 14/20 (70% vs train 61.8%, p=0.594), multi|single ordering 11/12 (91.7%, p_binom=0.00317) with 1 spherical order exception; stays PROBABLE pending Kernel H roster check",
+    "supports_stems": 15,
+    "supports_tokens": 51
+   },
+   "counter_evidence": [
+    {
+     "note": "Single isolated sign varies across balls bearing the SAME first sequence (e.g., o-lo-le | su vs o-lo-le | mo; we-ti-ja-ri | lo vs | o vs an unvalued isolated sign on a third ball), which favors a variable assignment/commodity/task over a fixed patronymic."
+    },
+    {
+     "note": "Blind §7 holdout (20 intact clay balls): 1 spherical clay ball shows 1|3 ordering (11/12 multi|single, p_binom=0.00317), likely an orientation convention around a circular divider; the <=2-element structural cap holds 20/20 (0 exceptions)."
+    }
+   ],
+   "eteocypriot_parallels": [],
+   "falsification_criteria": "Lot-casting/patronymic model weakened if isolated signs systematically match cylinder commodity abbreviations; commodity model weakened if isolated signs match initial signs of 2-sequence ball SEQ_2 words.",
+   "formal_pattern": {
+    "slot": "document",
+    "template": "SEQ_1 (PN) [ | (SINGLE_SIGN | SEQ_2) ]"
+   },
+   "id": "cm_gram_syn_boule_two_element",
+   "kaphtor_exportable": true,
+   "label": "Clay-ball two-element syntax: PN | single-sign vs PN | qualifying word",
+   "promotion_criteria": "Test via CM Kernel H (roster onomastics) whether SEQ_1 matches personal-name distributions significantly better than SEQ_2 and whether isolated signs match initial signs of SEQ_2 words.",
+   "proposed_function": "Personal name + abbreviated title/patronymic/qualifying designation (Ferrara and Valério 2017, 71, 84–86, proposing lot-casting) vs. palm-leaf receipt token PN + numeral 1 + commodity abbreviation (Janko 2020, 59–60).",
+   "rivals": [
+    {
+     "hypothesis": "Isolated sign abbreviates the second qualifying word (title/office/patronymic) on lot-casting name tokens",
+     "page": "71, 73–76, 84–86",
+     "proposer": "Ferrara and Valério",
+     "work": "Ferrara and Valério 2017"
+    },
+    {
+     "hypothesis": "Divider '|' is numeral '1' and isolated sign is an acrophonic commodity abbreviation on individual receipt tokens compiled onto cylinders",
+     "page": "59–60",
+     "proposer": "Janko",
+     "work": "Janko 2020"
+    },
+    {
+     "hypothesis": "Workmen's identity cards bearing personal name + complement",
+     "page": "11–16",
+     "proposer": "É. Masson",
+     "work": "É. Masson 1974"
+    }
+   ],
+   "sign_dependencies": [
+    "015=ko",
+    "017=no",
+    "023=ti",
+    "064=o",
+    "005=lo",
+    "024=le"
+   ],
+   "statement": "Of 74 legible CM 1 clay balls (Ferrara and Valério 2017, 73), 50 carry two elements separated by a divider: either a main sequence + isolated single sign (37 balls, e.g., o-lo-le | su, o-lo-le | mo, sa-ri-jo | ka) or two full sequences (13 balls, e.g., ko-no-to | pi-su-ne-ro), never more than two.",
+   "status": "attested",
+   "structural_evidence": [
+    {
+     "cypro_minoan": "064-005-024",
+     "line": null,
+     "shows": "main sequence o-lo-le followed by isolated sign 046 (su)",
+     "siglum": "ENKO Abou 072",
+     "text_basis": "corpus",
+     "values": "o-lo-le"
+    },
+    {
+     "cypro_minoan": "064-005-024",
+     "line": null,
+     "shows": "same name o-lo-le at Hala Sultan Tekke followed by different isolated sign 073 (mo)",
+     "siglum": "HALA Abou 002",
+     "text_basis": "corpus",
+     "values": "o-lo-le"
+    },
+    {
+     "cypro_minoan": "102-073-004-097",
+     "line": null,
+     "shows": "name a-mo-ta-ro followed by isolated sign 023 (ti)",
+     "siglum": "ENKO Abou 045",
+     "text_basis": "corpus",
+     "values": "a-mo-ta-ro"
+    },
+    {
+     "cypro_minoan": "015-017-008",
+     "line": null,
+     "shows": "two-sequence ball paired with full second word 050-046-034-097 (pi-su-ne-ro)",
+     "siglum": "ENKO Abou 027",
+     "text_basis": "corpus",
+     "values": "ko-no-na"
+    }
+   ],
+   "subcorpus_distribution": {
+    "CM 1": 50,
+    "CM 2": 0,
+    "CM 3": 0,
+    "pole": "CM 1 clay balls"
+   },
+   "text_basis": "corpus",
+   "tier": "PROBABLE"
+  },
+  {
+   "area": "syntax_frame",
+   "corpus_test": {
+    "contradicts": 0,
+    "holdout_s7_checked": false,
+    "method": "verbatim clause verification on ENKO Atab 004",
+    "supports_stems": 5,
+    "supports_tokens": 18
+   },
+   "counter_evidence": [
+    {
+     "note": "Two of the three Face A refrain words contain unvalued signs, leaving the full refrain syntax unglossed."
+    }
+   ],
+   "eteocypriot_parallels": [
+    {
+     "forms": [
+      "ta-ra-wi",
+      "ta-ra-wo"
+     ],
+     "note": "Clause-final ta-ra-we₂ matches Amathus ta-ra-wi/wo.",
+     "source": "IG XV 1 / ICS 193–194"
+    }
+   ],
+   "falsification_criteria": "Structural repetition itself is epigraphically certain; liturgical/Hurrian semantic claims fail if resolved refrain words are non-Hurrian administrative formulas.",
+   "formal_pattern": {
+    "face_a_refrain": "[nu₂-sa-nu-wa] + e-ni + [2 unread refrain groups]",
+    "face_b_clauses": [
+     "pa-pa-sa | X | i-le",
+     "ka-pa-ta | se-su-wa-ra | ta-ra-we₂"
+    ],
+    "slot": "clause"
+   },
+   "id": "cm_gram_syn_atab004_refrain",
+   "kaphtor_exportable": true,
+   "label": "ENKO Atab 004 Face A 11-paragraph refrain & Face B parallel clauses",
+   "promotion_criteria": "Resolve the unvalued refrain signs to read the full Face A binary refrain and identify syntactic roles of pa-pa-sa / i-le / se-su-wa-ra.",
+   "proposed_function": "Liturgical, legal, or incantatory paragraph-closing refrain (Face A) and formulaic parallel clauses (Face B).",
+   "rivals": [
+    {
+     "hypothesis": "Compares e-ni to Hurrian eni 'god' in a liturgical/hymnic refrain",
+     "page": "53",
+     "proposer": "É. Masson",
+     "work": "É. Masson 1974"
+    },
+    {
+     "hypothesis": "Concedes no obvious Hurrian interpretation fits the Face A refrain",
+     "page": "395",
+     "proposer": "Faucounau",
+     "work": "Faucounau 1980"
+    }
+   ],
+   "sign_dependencies": [
+    "038=e",
+    "065=ni",
+    "068=nu₂",
+    "006=pa",
+    "082=sa",
+    "104=i",
+    "024=le",
+    "025=ka",
+    "004=ta",
+    "075=ra",
+    "035=we₂"
+   ],
+   "statement": "ENKO Atab 004 Face A divides into 11 ruled paragraphs closing with an invariant refrain centered on e-ni (6 intact attestations preserved across the 11 Face A paragraphs, preceded 3x intact by nu₂-sa-nu-wa), while Face B preserves two verbatim multi-word clauses: pa-pa-sa | [...] | i-le (B.02, B.03, B.06) and ka-pa-ta | se-su-wa-ra | ta-ra-we₂ (B.18, B.20).",
+   "status": "attested",
+   "structural_evidence": [
+    {
+     "cypro_minoan": "068-082-028-095",
+     "line": "A.I.2.02",
+     "shows": "pre-refrain word preceding Face A refrain (3x intact)",
+     "siglum": "ENKO Atab 004",
+     "text_basis": "emended",
+     "values": "nu₂-sa-nu-wa"
+    },
+    {
+     "cypro_minoan": "038-065",
+     "line": "A.I.2.02",
+     "shows": "Face A refrain core word (11x across paragraphs)",
+     "siglum": "ENKO Atab 004",
+     "text_basis": "emended",
+     "values": "e-ni"
+    },
+    {
+     "cypro_minoan": "006-006-082",
+     "line": "B.02",
+     "shows": "opens Face B formula B.02, B.03, B.06",
+     "siglum": "ENKO Atab 004",
+     "text_basis": "emended",
+     "values": "pa-pa-sa"
+    },
+    {
+     "cypro_minoan": "104-024",
+     "line": "B.02",
+     "shows": "closes Face B formula B.02, B.03, B.06",
+     "siglum": "ENKO Atab 004",
+     "text_basis": "emended",
+     "values": "i-le"
+    },
+    {
+     "cypro_minoan": "044-047-095-075",
+     "line": "B.18",
+     "shows": "medial word of verbatim clause ka-pa-ta | se-su-wa-ra | ta-ra-we₂ (B.18, B.20)",
+     "siglum": "ENKO Atab 004",
+     "text_basis": "emended",
+     "values": "se-su-wa-ra"
+    }
+   ],
+   "subcorpus_distribution": {
+    "CM 1": 0,
+    "CM 2": 18,
+    "CM 3": 0,
+    "pole": "CM 2 prose/liturgy"
+   },
+   "text_basis": "emended",
+   "tier": "PROBABLE"
+  },
+  {
+   "area": "syntax_frame",
+   "corpus_test": {
+    "contradicts": 0,
+    "holdout_s7_checked": false,
+    "method": "Kinlaw 1967 300-decoy calibration (26% match vs 3–10% on Enkomi tablets)",
+    "supports_stems": 14,
+    "supports_tokens": 48
+   },
+   "counter_evidence": [
+    {
+     "note": "É. Masson (1974, 47) and our non-onomastic lexicon test (Ugaritic 0/166 on Cyprus CM 1/2, p=1.000) show RS 20.25 reflects Ugaritic language at Ras Shamra, not the indigenous language of Cyprus."
+    }
+   ],
+   "eteocypriot_parallels": [],
+   "falsification_criteria": "Disproved if 051-028 fails patronymic distribution or if Kinlaw/DULAT onomastic matches fail permutation nulls.",
+   "formal_pattern": {
+    "slot": "entry",
+    "template": "PN | pi-nu | PN₂  OR  PN | TN-ji  [closing: PN | title]"
+   },
+   "id": "cm_gram_syn_cm3_patronymic",
+   "kaphtor_exportable": true,
+   "label": "CM 3 RASH Atab 004 Semitic patronymic & gentilic list syntax (PN | bi-nu | PN₂)",
+   "promotion_criteria": "Test CM 3 texts individually (RS 20.25 vs RS 17.06 vs RS 19.01/02) in CM Kernel H to separate Ugaritic name lists from Cypriot-language letters sent to Ugarit.",
+   "proposed_function": "Northwest Semitic (Ugaritic) administrative name-list grammar written in Cypro-Minoan script at Ugarit.",
+   "rivals": [
+    {
+     "hypothesis": "Identifies 051-028 as Semitic bi-nu 'son' while warning RS 20.25 does not reflect Cypriot languages",
+     "page": "38–39, 47",
+     "proposer": "É. Masson",
+     "work": "É. Masson 1974"
+    },
+    {
+     "hypothesis": "Confirms Semitic language & Ugarit onomasticon on RS 20.25",
+     "page": "353–396",
+     "proposer": "Valério",
+     "work": "Valério 2016"
+    },
+    {
+     "hypothesis": "Finds pooled CM3 syllabotactically aligns with CM2 (z=+2.13σ, p=0.0306), complicating a pure language split",
+     "page": "388, 391",
+     "proposer": "Davis",
+     "work": "Davis 2026b"
+    }
+   ],
+   "sign_dependencies": [
+    "051=pi",
+    "028=nu",
+    "082=sa",
+    "011=pe",
+    "096=ri",
+    "027=si",
+    "069=ja",
+    "092=sa₂"
+   ],
+   "statement": "RASH Atab 004 (RS 20.25) is structured as a Semitic-matrix prosopographic list at Ugarit: 'PN | pi-nu (bn, son of) | PN₂' (10+ times), 'PN | TN-ji' (nisba gentilics), closing with titles si-ja (minister) and sa-pe-ri (scribe). Notably absent from Cyprus CM 1/CM 2 and even from CM 3 letter RASH Atab 001.",
+   "status": "attested",
+   "structural_evidence": [
+    {
+     "cypro_minoan": "051-028",
+     "line": "A.01",
+     "shows": "Semitic bn 'son' joining PN and patronymic",
+     "siglum": "RASH Atab 004",
+     "text_basis": "corpus",
+     "values": "pi-nu"
+    },
+    {
+     "cypro_minoan": "021-082-075-051",
+     "line": "B.13",
+     "shows": "Ugaritic PN Kôṯar-ʾabī (0/300 random decoys as close)",
+     "siglum": "RASH Atab 004",
+     "text_basis": "corpus",
+     "values": "ko-sa-ra-pi"
+    },
+    {
+     "cypro_minoan": "027-069",
+     "line": "B.17",
+     "shows": "administrative title before 'of the king'",
+     "siglum": "RASH Atab 004",
+     "text_basis": "corpus",
+     "values": "si-ja"
+    },
+    {
+     "cypro_minoan": "092-011-096",
+     "line": "B.19",
+     "shows": "Semitic sōpēr / spr 'scribe' closing the tablet",
+     "siglum": "RASH Atab 004",
+     "text_basis": "corpus",
+     "values": "sa₂-pe-ri"
+    }
+   ],
+   "subcorpus_distribution": {
+    "CM 1": 0,
+    "CM 2": 0,
+    "CM 3": 14,
+    "pole": "CM 3 Ugarit only"
+   },
+   "text_basis": "corpus",
+   "tier": "PROBABLE"
+  },
+  {
+   "area": "orthography",
+   "corpus_test": {
+    "contradicts": 1,
+    "holdout_s7_checked": true,
+    "method": "Ci + jV transition audit on 72-sign grid; blind §7 holdout (N=41 texts, seed=20261125): raw HoChyMin corpus returned PARTIAL_CONSISTENT (5/21=23.8% vs 3/71=4.2%, p_fisher=0.0140, p_perm=0.0098 at B=10k / 0.0113 at B=100k, type p_fisher=0.0181), while pre-registered Valério emended passed every Tier 4 gate (6/19=31.6% vs 0/71=0.0%, 6/6=100%, p_fisher=4.4e-5, p_perm=0.0003, type p_fisher=0.000314, 0 exceptions); promoted to Tier 4 CONFIRMED with explicit author sign-off (2026-11-25)",
+    "supports_stems": 15,
+    "supports_tokens": 19
+   },
+   "counter_evidence": [
+    {
+     "note": "Word-initial or post-consonantal ja- (e.g. RASH Atab 004 a-ti-ja, ENKO Arou 001 ja-te-ko) also exists independently of hiatus."
+    },
+    {
+     "note": "Addressed caveats for Tier 4 sign-off: the single training counter-example is a morphological boundary or editorial variant, and all 3 raw-corpus non-Ci->jV holdout transitions stem from 2 contested HoChyMin readings independently emended by Valério 2016 (leaving 0 exceptions in the emended holdout arm)."
+    }
+   ],
+   "eteocypriot_parallels": [
+    {
+     "forms": [
+      "e-ki-ja-no-ti",
+      "a-ja-i-a-..."
+     ],
+     "note": "Standard Classical Cypriot Syllabic orthographic rule.",
+     "source": "IG XV 1 / Egetmeyer 2010"
+    }
+   ],
+   "falsification_criteria": "Disproved if unvalued signs preceding jV turn out predominantly non-i vowels.",
+   "formal_pattern": {
+    "rule": "Ci + V -> Ci-jV (specifically Ci-ja, Ci-jo)"
+   },
+   "id": "cm_gram_orth_glide_ij",
+   "kaphtor_exportable": true,
+   "label": "Palatal glide spelling rule (-Ci-jV-)",
+   "promotion_criteria": "Verify -Ci-jV- transition enrichment on §7 holdout texts (p <= 0.01 against vowel-row shuffle).",
+   "proposed_function": "Automatic orthographic glide insertion after front high vowel /i/ before non-high vowels.",
+   "rivals": [
+    {
+     "hypothesis": "Uses -i-j- glide distribution as a core vowel-series diagnostic for 085=ri and 088/089/090=jo",
+     "page": "315–318, 438–439",
+     "proposer": "Valério",
+     "work": "Valério 2016"
+    }
+   ],
+   "sign_dependencies": [
+    "088=jo",
+    "089=jo",
+    "090=jo",
+    "069=ja",
+    "085=ri",
+    "096=ri",
+    "009=li",
+    "023=ti"
+   ],
+   "statement": "As in Linear A, Linear B, and Classical Cypriot Syllabic, Cypro-Minoan systematically spells intervocalic /i.V/ with a palatal glide sign (jV: 069/072 ja, 088/089/090 jo). This diagnostic independently proves 085=ri (4/4 non-final tokens precede 088=jo, refuting ru) and 089=jo (4/5 tokens follow Ci).",
+   "status": "attested",
+   "structural_evidence": [
+    {
+     "cypro_minoan": "082-096-088-023",
+     "line": ".02",
+     "shows": "096 (ri) + 088 (jo)",
+     "siglum": "ENKO Arou 001",
+     "text_basis": "corpus",
+     "values": "sa-ri-jo-ti"
+    },
+    {
+     "cypro_minoan": "061-085-088",
+     "line": null,
+     "shows": "085 (ri) + 088 (jo)",
+     "siglum": "ENKO Abou 068",
+     "text_basis": "corpus",
+     "values": "pu-ri-jo"
+    },
+    {
+     "cypro_minoan": "021-096-069-065",
+     "line": "A.09",
+     "shows": "096 (ri) + 069 (ja)",
+     "siglum": "ENKO Atab 003",
+     "text_basis": "emended",
+     "values": "ko-ri-ja-ni"
+    },
+    {
+     "cypro_minoan": "104-009-090",
+     "line": "B.09",
+     "shows": "009 (li) + 090 (jo)",
+     "siglum": "ENKO Atab 004",
+     "text_basis": "emended",
+     "values": "i-li-jo"
+    }
+   ],
+   "subcorpus_distribution": {
+    "CM 1": 12,
+    "CM 2": 6,
+    "CM 3": 1,
+    "pole": "Pan-corpus"
+   },
+   "text_basis": "both",
+   "tier": "CONFIRMED"
+  },
+  {
+   "area": "orthography",
+   "corpus_test": {
+    "contradicts": 0,
+    "holdout_s7_checked": true,
+    "method": "Cu + wV transition audit on 72-sign grid; blind §7 holdout: UNDERPOWERED (10 Cu tokens, 0 post-sign wV transitions across the 41 held-out texts since wV is CM 2-dense)",
+    "supports_stems": 12,
+    "supports_tokens": 18
+   },
+   "counter_evidence": [
+    {
+     "note": "Word-initial or post-a w- (e.g., a-we₂-la-ki, a-wo₂-no-no) reflects phonemic /w/, not hiatus glide insertion."
+    }
+   ],
+   "eteocypriot_parallels": [
+    {
+     "forms": [
+      "pu-ru-wa-no-ti"
+     ],
+     "note": "Matches Classical Cypriot Syllabic -u-wV- glide spelling.",
+     "source": "IG XV 1 / Egetmeyer 2010"
+    }
+   ],
+   "falsification_criteria": "Disproved if signs locked by the rule (061, 110) prove to carry non-u vowels.",
+   "formal_pattern": {
+    "rule": "Cu + V -> Cu-wV (specifically Cu-wa, Cu-we₂, Cu-wo₂)"
+   },
+   "id": "cm_gram_orth_glide_uw",
+   "kaphtor_exportable": true,
+   "label": "Labial glide spelling rule (-Cu-wV-)",
+   "promotion_criteria": "Verify -Cu-wV- transition enrichment on §7 holdout texts (p <= 0.01 against vowel-row shuffle).",
+   "proposed_function": "Automatic orthographic glide insertion after back rounded vowel /u/ (and optionally /o/) before non-u vowels.",
+   "rivals": [
+    {
+     "hypothesis": "Applies labial-glide distribution to identify Cu signs in CM",
+     "page": "315–318, 439–440",
+     "proposer": "Valério",
+     "work": "Valério 2016"
+    }
+   ],
+   "sign_dependencies": [
+    "095=wa",
+    "035=we₂",
+    "029=wo₂",
+    "061=pu",
+    "110=ku",
+    "028=nu",
+    "074=mu"
+   ],
+   "statement": "Cypro-Minoan spells intervocalic /u.V/ (and possibly /o.V/) with a labial glide sign (wV: 095 wa, 001/035 we/we₂, 029 wo₂). Independently locks 061=pu (3:0 before wa) and 110=ku (4:0 before wa/we₂/wo₂ vs 0x before j-), and constrains one unvalued CM 2 sign (3:0 before we/we₂/wo₂) to Cu/Co.",
+   "status": "attested",
+   "structural_evidence": [
+    {
+     "cypro_minoan": "110-029-017",
+     "line": "A.I.37",
+     "shows": "110 (ku) + 029 (wo₂)",
+     "siglum": "ENKO Atab 002",
+     "text_basis": "emended",
+     "values": "ku-wo₂-no"
+    },
+    {
+     "cypro_minoan": "110-035-005-017",
+     "line": "A.18",
+     "shows": "110 (ku) + 035 (we₂)",
+     "siglum": "ENKO Atab 003",
+     "text_basis": "emended",
+     "values": "ku-we₂-lo-no"
+    },
+    {
+     "cypro_minoan": "104-110-095",
+     "line": "A.I.4.01",
+     "shows": "110 (ku) + 095 (wa)",
+     "siglum": "ENKO Atab 004",
+     "text_basis": "emended",
+     "values": "i-ku-wa"
+    },
+    {
+     "cypro_minoan": "068-082-028-095",
+     "line": "A.I.2.02",
+     "shows": "028 (nu) + 095 (wa)",
+     "siglum": "ENKO Atab 004",
+     "text_basis": "emended",
+     "values": "nu₂-sa-nu-wa"
+    }
+   ],
+   "subcorpus_distribution": {
+    "CM 1": 2,
+    "CM 2": 14,
+    "CM 3": 2,
+    "pole": "Pan-corpus (CM 2 dense)"
+   },
+   "text_basis": "both",
+   "tier": "PROBABLE"
+  },
+  {
+   "area": "phonology",
+   "corpus_test": {
+    "contradicts": 0,
+    "holdout_s7_checked": false,
+    "method": "RS 20.25 Semitic/Hurrian correspondence audit",
+    "supports_stems": 20,
+    "supports_tokens": 48
+   },
+   "counter_evidence": [
+    {
+     "note": "Davis's /θ/-absence inference depends on his Linear A Hyp. 7 (LA <d> = /θ/), which is debated."
+    }
+   ],
+   "eteocypriot_parallels": [
+    {
+     "forms": [
+      "CS single p/t/k series",
+      "CS sa/se/si/so/su"
+     ],
+     "note": "Inherited intact by Classical CS (Davis 2026b, 121–123, Tables 3.28–3.31).",
+     "source": "Egetmeyer 2010 / Davis 2026b"
+    }
+   ],
+   "falsification_criteria": "Voicing neutralization is falsified only if a consistent voiced-vs-voiceless sign split is proved on RS 20.25 or a new bilingual.",
+   "formal_pattern": {
+    "neutralizations": [
+     "p/b/pʰ -> p",
+     "t/d/tʰ -> t",
+     "k/g/kʰ/q/ḫ -> k",
+     "LA du [θu] -> CM/CS su"
+    ]
+   },
+   "id": "cm_gram_phon_stop_fricative",
+   "kaphtor_exportable": true,
+   "label": "Stop voicing neutralization & absence of dental fricative /θ/ (LA da->ta, du->su)",
+   "promotion_criteria": "Independent phonological confirmation of sibilant vs dental series across CM 1/2.",
+   "proposed_function": "Core phonemic inventory constraint inherited from CM into the Classical Cypriot Syllabary.",
+   "rivals": [
+    {
+     "hypothesis": "Infers absence of /θ/ in CM from LA da->ta and LA du->su adoption",
+     "page": "121–123",
+     "proposer": "Davis",
+     "work": "Davis 2026b"
+    },
+    {
+     "hypothesis": "Documents CM voicing neutralization on RS 20.25 and leaves open whether CM distinguished a second dental/sibilant series",
+     "page": "388–395",
+     "proposer": "Valério",
+     "work": "Valério 2016"
+    }
+   ],
+   "sign_dependencies": [
+    "004=ta",
+    "023=ti",
+    "006=pa",
+    "051=pi",
+    "025=ka",
+    "046=su",
+    "047=su"
+   ],
+   "statement": "Like Classical Cypriot Syllabic, Cypro-Minoan collapses voiced, voiceless, and aspirated stops into single p-, t-, k- series (e.g., RASH Atab 004 uses 051=pi for both /p/ and /b/, 025=ka for /k, g, q, ḫ/, 004=ta for /t, d/). Furthermore, Davis (2026b, 121–123) argues that CM's adoption of LA da as ta and LA du as su (dropping LA su) implies CM's underlying language lacked Minoan's dental fricative /θ/.",
+   "status": "attested",
+   "structural_evidence": [
+    {
+     "cypro_minoan": "051-028",
+     "line": "A.01",
+     "shows": "051 (pi) writes voiced /b/ in Semitic bn",
+     "siglum": "RASH Atab 004",
+     "text_basis": "corpus",
+     "values": "pi-nu"
+    },
+    {
+     "cypro_minoan": "021-082-075-051",
+     "line": "B.13",
+     "shows": "082 (sa) writes interdental /ṯ/ and 051 (pi) writes /b/ in Kôṯar-ʾabī",
+     "siglum": "RASH Atab 004",
+     "text_basis": "corpus",
+     "values": "ko-sa-ra-pi"
+    },
+    {
+     "cypro_minoan": "102-023",
+     "line": "A.02",
+     "shows": "023 (ti) writes voiced /d/ in Semitic PN ʾAdī",
+     "siglum": "RASH Atab 004",
+     "text_basis": "corpus",
+     "values": "a-ti"
+    }
+   ],
+   "subcorpus_distribution": {
+    "CM 1": 100,
+    "CM 2": 100,
+    "CM 3": 50,
+    "pole": "Pan-corpus"
+   },
+   "text_basis": "corpus",
+   "tier": "PROBABLE"
+  },
+  {
+   "area": "allograph_split",
+   "corpus_test": {
+    "contradicts": 0,
+    "holdout_s7_checked": true,
+    "method": "positional & allograph split audit across corpus vs emended; blind §7 holdout: UNDERPOWERED (N<5)—064 is 3/3 (100%) word-initial vs 0/16 CM 2 065 (p_fisher=0.00103); 013 before 023 ties 008 on raw corpus (1/4 vs 1/3) and leads on Valério emended (2/4 vs 0/3)",
+    "supports_stems": 20,
+    "supports_tokens": 122
+   },
+   "counter_evidence": [
+    {
+     "note": "Davis (2026b, 420–422) achieves z=+2.59σ (p=0.0097) between EC and CM using unsplit HoChyMin 013=na and 008=to, because a-na, pa-na, sa-na, ta-na all match EC with 013=na!"
+    }
+   ],
+   "eteocypriot_parallels": [
+    {
+     "forms": [
+      "a-na",
+      "pa-na",
+      "sa-na",
+      "ta-na",
+      "sa-to"
+     ],
+     "note": "Whether 013=na (Davis/HoChyMin) or CM 2 013->008=na (Valério), the CM 2 sequences yield -na matching Eteocypriot!",
+     "source": "Davis 2026b, Tables 11.35 & 11.38"
+    }
+   ],
+   "falsification_criteria": "Valério's 013/008 split is weakened if CM 1 013 performs better as na than to in CM 1 vs Eteocypriot Kernel I/B tests.",
+   "formal_pattern": {
+    "splits": [
+     "HoChyMin 064 -> CM1 064 (o) vs CM2 065 (ni)",
+     "HoChyMin 013 -> CM1 013 (to) vs CM2 008 (na) [Valério] vs unsplit 013=na, 008=to [Davis]"
+    ]
+   },
+   "id": "cm_gram_allo_013_008_064_065",
+   "kaphtor_exportable": true,
+   "label": "CM 1 vs CM 2 epigraphic sign splits: 064 (o) / 065 (ni) and 013 (to) / 008 (na)",
+   "promotion_criteria": "Direct autopsy/3D-scan confirmation of 013 vs 008 and 064 vs 065 in Perna's forthcoming corpus, plus head-to-head CM Kernel I scoring of Valério vs Davis 013/008 assignments.",
+   "proposed_function": "Paleographic/orthographic ductus divergence between Enkomi CM 2 clay tablets and island-wide CM 1 inscriptions.",
+   "rivals": [
+    {
+     "hypothesis": "Splits 064/065 and emends CM 2 013->008 (na) while reading CM 1 013 as to",
+     "page": "115–134, 431, 435",
+     "proposer": "Valério",
+     "work": "Valério 2016"
+    },
+    {
+     "hypothesis": "Retains HoChyMin 013=na and 008=to unsplit across CM 1–3",
+     "page": "398, 420–422",
+     "proposer": "Davis",
+     "work": "Davis 2026b"
+    },
+    {
+     "hypothesis": "Treats 064 and 013 as single graphemes across CM 1 and CM 2",
+     "page": "passim",
+     "proposer": "Olivier",
+     "work": "Olivier 2007"
+    }
+   ],
+   "sign_dependencies": [
+    "064=o",
+    "065=ni",
+    "013=to",
+    "008=na",
+    "078=to"
+   ],
+   "statement": "Two critical HoChyMin sign numbers behave differently in CM 1 vs CM 2: (1) HoChyMin 064 splits into CM 1 064=o (63.6% word-initial, vowel-cluster neighbor) vs CM 2 065=ni (0/16 initial, Valério §2.3.13); (2) Valério emends CM 2 HoChyMin 013->008 (na) while keeping CM 1 013=to (complementary to CM 2 078=to), whereas Davis (2026b, 398 Table 11.3) keeps HoChyMin 013=na and 008=to unsplit.",
+   "status": "attested",
+   "structural_evidence": [
+    {
+     "cypro_minoan": "064-005-024",
+     "line": null,
+     "shows": "CM 1 word-initial 064 = o",
+     "siglum": "ENKO Abou 072",
+     "text_basis": "corpus",
+     "values": "o-lo-le"
+    },
+    {
+     "cypro_minoan": "038-065",
+     "line": "A.I.2.02",
+     "shows": "CM 2 word-final 065 = ni (HoChyMin 038-064)",
+     "siglum": "ENKO Atab 004",
+     "text_basis": "emended",
+     "values": "e-ni"
+    },
+    {
+     "cypro_minoan": "025-006-065",
+     "line": "A.16",
+     "shows": "CM 2 word-final 065 = ni",
+     "siglum": "ENKO Atab 003",
+     "text_basis": "emended",
+     "values": "ka-pa-ni"
+    },
+    {
+     "cypro_minoan": "025-006-008",
+     "line": "A.I.27",
+     "shows": "CM 2 emended 008 = na (corpus 025-006-013)",
+     "siglum": "ENKO Atab 002",
+     "text_basis": "emended",
+     "values": "ka-pa-na"
+    },
+    {
+     "cypro_minoan": "004-009-088-013-007-021",
+     "line": ".13",
+     "shows": "CM 1 013 = to",
+     "siglum": "ENKO Arou 001",
+     "text_basis": "corpus",
+     "values": "ta-li-jo-to-te-ko"
+    }
+   ],
+   "subcorpus_distribution": {
+    "CM 1": 54,
+    "CM 2": 60,
+    "CM 3": 8,
+    "pole": "CM 1 vs CM 2 boundary"
+   },
+   "text_basis": "both",
+   "tier": "PROBABLE"
+  },
+  {
+   "area": "subcorpus_isogloss",
+   "corpus_test": {
+    "contradicts": 0,
+    "holdout_s7_checked": true,
+    "method": "cross-subcorpus suffix permutation + Davis 2026b Ch. 10–11 benchmark; blind §7 holdout (N=32 fully-ruled CM 1 types): word-final suffix cosine vs IG XV 1 Amathus Eteocypriot replicated on HoChyMin corpus (cos=0.5544, p_vcv=0.0291, p_unr=0.0408) but weakened to non-significance on Valério emended (cos=0.4928, p_vcv=0.0774, p_unr=0.0707); stays PROBABLE awaiting Kernel I multi-language controls",
+    "supports_stems": 25,
+    "supports_tokens": 120
+   },
+   "counter_evidence": [
+    {
+     "note": "500+ year chronological gap between LBA CM and 4th c. BCE Amathus Eteocypriot; Eteocypriot itself remains undeciphered (Steele 2013, 103) and its bigram matrix is 88% sparse (LOO 0/15 top-1)."
+    }
+   ],
+   "eteocypriot_parallels": [
+    {
+     "forms": [
+      "-o-ti",
+      "-na",
+      "-no",
+      "ta-ra-wi",
+      "ta-ra-wo",
+      "po-ti"
+     ],
+     "note": "Convergent across Davis 2026b Hyp. 50 (p=0.0097), Janko 2020 (pp. 56–57), and our 10,000-shuffle suffix permutation tests (CM 1 p=0.0139, CM 2 p=0.0135).",
+     "source": "IG XV 1 / Davis 2026b / Janko 2020"
+    }
+   ],
+   "falsification_criteria": "Disproved if CM Kernel I ranks an unrelated control above Amathus Eteocypriot or if CM 1 vs CM 2 diverge significantly under genre-controlled bound-affix scoring.",
+   "formal_pattern": {
+    "subcorpus_poles": {
+     "CM 1": "-o-ti / -po-ti / -ro-ti / -jo-ti",
+     "CM 2": "-na / -no / -ni / -sa / -ta / -we₂/-wo₂",
+     "CM 3": "mixed (Ugaritic name list RS 20.25 vs Cypriot-matrix letter RS 17.06)"
+    }
+   },
+   "id": "cm_gram_iso_cm_ec_unity",
+   "kaphtor_exportable": true,
+   "label": "CM 1 / CM 2 proto-Eteocypriot continuity vs Linear A divergence (with CM 1/CM 2 bimodal suffix poles & Golgoi exclusion)",
+   "promotion_criteria": "Pass CM Kernel I (bound-affix discriminative margin permutation) with site-stratified Amathus-only IG XV 1 arm beating Semitic, Hurrian, Anatolian, Greek, Egyptian, Hattic, and Sumerian isolate controls.",
+   "proposed_function": "Macro-linguistic classification hypothesis: CM 1 and CM 2 encode chronological/genre-differentiated forms of proto-Eteocypriot (distinct from Minoan Linear A), while CM 3 at Ugarit reflects multilingual/contact usage.",
+   "rivals": [
+    {
+     "hypothesis": "Hyp. 44 (CM1/2/3 same language), Hyp. 49 (LA != CM), Hyp. 50 (EC = CM)",
+     "page": "391, 431–433",
+     "proposer": "Davis",
+     "work": "Davis 2026b"
+    },
+    {
+     "hypothesis": "Argues CM 1 and CM 2 represent distinct languages based on sign-frequency & ending contrasts",
+     "page": "27–47",
+     "proposer": "Duhoux",
+     "work": "Duhoux 2013"
+    },
+    {
+     "hypothesis": "Cautious in 2013 (no proven link yet), later allows Eteocypriot may continue a language written in CM",
+     "page": "103",
+     "proposer": "Steele",
+     "work": "Steele 2013"
+    },
+    {
+     "hypothesis": "Proposes CM 1 encodes 'proto-Eteocypriot' while noting Egetmeyer's Golgian caveat",
+     "page": "56–57",
+     "proposer": "Janko",
+     "work": "Janko 2020"
+    }
+   ],
+   "sign_dependencies": [
+    "023=ti",
+    "008=na",
+    "017=no",
+    "065=ni",
+    "075=ra",
+    "012=po",
+    "029=wo₂",
+    "035=we₂"
+   ],
+   "statement": "Convergent statistical and morphological evidence links Cyprus Cypro-Minoan (CM 1 & CM 2) to 1st-millennium Amathus Eteocypriot while separating CM from both Linear A and Greek: (1) Davis (2026b) 10-sign syllabotactic test gives EC↔CM z=+2.59σ (p=0.0097–0.0098, Hyp. 50), LA↔CM null (p=0.28–0.38, Hyp. 49), and CM1↔CM2 z=+2.62σ (p=0.0084, Hyp. 44); (2) our 10,000-shuffle IG XV 1 suffix permutation test finds bimodal alignment—CM 1 matches the -o-ti pole (cos=0.616, p=0.0139) and CM 2 matches the -na/-no/-ni/-ra pole (cos=0.583, p=0.0135), while CM 3 is null (p=0.1950); (3) 4,411-word non-onomastic lexicon tests reject Ugaritic (p=1.000), Hurrian (p=0.710), Anatolian (p=0.085–0.100), and CM 2 Greek (p=0.405). Per Egetmeyer (2017) & Janko (2020, 57 n. 58), Golgoi non-Greek syllabic texts ('Golgian') must be kept separate from Amathus Eteocypriot.",
+   "status": "attested",
+   "structural_evidence": [
+    {
+     "cypro_minoan": "082-096-088-023",
+     "line": ".02",
+     "shows": "CM 1 -o-ti pole",
+     "siglum": "ENKO Arou 001",
+     "text_basis": "corpus",
+     "values": "sa-ri-jo-ti"
+    },
+    {
+     "cypro_minoan": "004-075-029",
+     "line": "B.17",
+     "shows": "CM 2 match to Amathus ICS 194 ta-ra-wo",
+     "siglum": "ENKO Atab 003",
+     "text_basis": "emended",
+     "values": "ta-ra-wo₂"
+    },
+    {
+     "cypro_minoan": "004-075-035",
+     "line": "B.18",
+     "shows": "CM 2 match to Amathus ICS 193 ta-ra-wi",
+     "siglum": "ENKO Atab 004",
+     "text_basis": "emended",
+     "values": "ta-ra-we₂"
+    },
+    {
+     "cypro_minoan": "019-023",
+     "line": "B.07",
+     "shows": "exact lexical parallel shared between CM 3 RASH Atab 001 and CM 1 ENKO Arou 001",
+     "siglum": "RASH Atab 001",
+     "text_basis": "corpus",
+     "values": "u-ti"
+    }
+   ],
+   "subcorpus_distribution": {
+    "CM 1": 71,
+    "CM 2": 3,
+    "CM 3": 4,
+    "pole": "CM 1 & CM 2 align with Amathus Eteocypriot; Linear A rejected"
+   },
+   "text_basis": "both",
+   "tier": "PROBABLE"
+  },
+  {
+   "area": "subcorpus_isogloss",
+   "corpus_test": {
+    "contradicts": 0,
+    "holdout_s7_checked": true,
+    "method": "B=5,000 unrestricted, vowel-preserving & V-vs-CV bijection calibration vs IG XV 1 Amathus (with 3-regime 013/008 sensitivity, CM 3 & 100-draw Linear B controls); blind §7 holdout (CM 1 arm only: N=32 fully-ruled short-inscription types, 0 CM 2 tablets): FAIL on CM 1 (0 exact L>=2 matches, 0 csk_stems, 0 function-word matches; shared_suf2=2 corpus / 1 emended); confirms prose-specific scope",
+    "supports_stems": 10,
+    "supports_tokens": 18
+   },
+   "counter_evidence": [
+    {
+     "note": "Once ta-ra-we₂ and ta-ra-wo₂ are deduplicated to 1 stem (csk_stems=2) and V-vs-CV sign classes are preserved, standalone word-list overlap is suggestive rather than independently significant at alpha=0.05 (csk_stems p_vcv=0.1152 on Confirmed EC, 0.0954 on Undotted EC; exact_L>=2 p_vcv=0.1584; 5.0% of size-matched Linear B draws reach csk_stems=2). Moreover, a-na is line-medial in CM 2 and ta-na is column-initial with lost right context, and all -na matches depend on Valério's 013->008=na or Davis's 013=na assignment (collapsing to null under HoChyMin 013=to). Statistical significance resides primarily in shared_suf2 (Undotted EC p_vcv=0.0224; Davis unsplit p_vcv=0.0088) and Phase D Kernel G."
+    },
+    {
+     "note": "Blind §7 holdout (32 fully-ruled CM 1 types, 0 CM 2 prose tablets): 0 exact matches, 0 consonant-skeleton stem matches, and 0 matches on {a-na, ta-na, ta-ra-wV, a-sa-na, pi-na}, confirming the cluster is prose-specific and does not extend into short CM 1 personal-name tags."
+    }
+   ],
+   "eteocypriot_parallels": [
+    {
+     "forms": [
+      "a-na",
+      "ta-na",
+      "ta-ra-wi",
+      "ta-ra-wo",
+      "a-so-na",
+      "pi-na"
+     ],
+     "note": "All 6 forms verified clean and unbroken on line-wrap-joined IG XV 1 Amathus transcriptions (excluding line-wrap artifacts i-te < o-i-te, broken i-mi-.., lacuna-adjacent fragments, contested ICS 195 ta-ṛạ-p̣ị, and direction-doubtful IG XV 1 8 ta-ra-na / to-ra-na).",
+     "source": "IG XV 1 / Steele 2013, 105–109, 123, 126, 132, 136"
+    }
+   ],
+   "falsification_criteria": "Weakened if CM 2 013->008=na / Davis 013=na fails autopsy verification (reproducing HoChyMin unsplit 013=to null) or if a non-Cypriot syllabic corpus matches strict undotted Amathus EC on shared_suf2 and csk_stems with comparable p_vcv.",
+   "formal_pattern": {
+    "exact_words": [
+     "a-na == EC a-na (ICS 193–196, IG XV 1 18)",
+     "ta-na == EC ta-na (ICS 192 2×)",
+     "ta-ra-wo₂ == EC ta-ra-wo (ICS 194 L5)"
+    ],
+    "paradigm_alignment": "CM 2 ta-ra / ta-ra-we₂ / ta-ra-wo₂ <-> EC ta-ra-wi (ICS 193 L4) / ta-ra-wo (ICS 194 L5) [contested: ICS 195 ta-ṛạ-p̣ị, IG XV 1 8 ta-ra-na / to-ra-na]; CM 2 a-sa-na <-> EC a-so-na (ICS 194 L2–L3); CM 2 -pi-na <-> EC standalone pi-na"
+   },
+   "id": "cm_gram_iso_ec_function_words",
+   "kaphtor_exportable": true,
+   "label": "CM 2 / Amathus Eteocypriot core function words & stem-paradigm alignment (a-na, ta-na, ta-ra-wV, a-sa-na, pi-na)",
+   "promotion_criteria": "Syntactic parallel confirmation (e.g. a-na governing -i/-ti nouns in CM 2 as in Amathus a-na ta-si / a-na ma-to-ri) or recovery of >= 3 distinct L>=3 non-Greek lexical cognates passing V-vs-CV permutation at p <= 0.01 after resolving remaining unvalued CM 2 signs.",
+   "proposed_function": "Documents concrete candidate Proto-Eteocypriot lexical and suffixal correspondences between LBA Enkomi (CM 2) and Classical Amathus (IG XV 1), subordinated statistically to Kernel G suffix/bigram continuity.",
+   "rivals": [
+    {
+     "hypothesis": "Documents a-na (rejecting Petit's demonstrative/article analysis on p. 126), ta-na, pi-na, a-so-na, and the 2-member ta-ra-wi / ta-ra-wo pair (pp. 132, 136) while remaining cautious on Bronze Age continuity",
+     "page": "103, 123, 126, 132, 136",
+     "proposer": "Steele",
+     "work": "Steele 2013"
+    },
+    {
+     "hypothesis": "Demonstrates statistical EC↔CM continuity (Hyp. 50, z=+2.59σ) without splitting HoChyMin 013/008 (reading unsplit 013=na, which yields shared_suf2=11, p_vcv=0.0088 in our alignment test)",
+     "page": "420–422, 432",
+     "proposer": "Davis",
+     "work": "Davis 2026b"
+    }
+   ],
+   "sign_dependencies": [
+    "102=a",
+    "008=na",
+    "004=ta",
+    "075=ra",
+    "029=wo₂",
+    "035=we₂",
+    "082=sa",
+    "051=pi"
+   ],
+   "statement": "Line-wrap-joined, strictly unbroken alignment of attested Cyprus CM 1+2 words (N=299 types L>=2, synthetic paradigm stems and §7 41-text holdout excluded) against Amathus-only IG XV 1 Eteocypriot (Confirmed tier: 92 types, 90 L>=2, 71 L>=3; Strict undotted tier: 66 types, 64 L>=2, 50 L>=3) calibrated across B=5,000 unrestricted (p_unr), vowel-preserving (p_vpres), and V-vs-CV class-preserving (p_vcv) syllable bijections isolates a suggestive lexical/morphological cluster and a statistically significant suffix-bigram signal: (1) distinct L>=3 consonant-skeleton stems (deduplicating ta-ra-we₂ and ta-ra-wo₂ to 1 stem): 2 stems (ta-ra-wV <-> ICS 193 ta-ra-wi / ICS 194 ta-ra-wo; a-sa-na <-> ICS 194 a-so-na) vs Confirmed EC (p_unr=0.0396, p_vpres=0.0842, p_vcv=0.1152; 3 word forms p_vcv=0.0192) and vs Undotted EC (p_unr=0.0242, p_vpres=0.0548, p_vcv=0.0954); (2) exact L>=2 full-word matches: 3 (a-na, ta-na, ta-ra-wo₂; Confirmed p_vcv=0.1584, Undotted p_vcv=0.1130), where a-na (5 Amathus texts incl. bilingual ICS 196 a-na | ma-to-ri; Petit (cited in Steele 2013, 126) proposes demonstrative/article, which Steele rejects on p. 126) is line-medial in CM 2 (ENKO Atab 002 B.I.09, B.I.14) and ta-na is column-initial with lost right context (B.II.01); (3) 9 shared 2-syllable endings (-no-ti, -po-ti, -o-ti, -sa-na, -li-ja, -le-ja, -nu-pi, -ra-wo, -ra-ni) survive V-vs-CV permutation on strict Undotted EC (p_unr=0.0034, p_vpres=0.0108, p_vcv=0.0224; Confirmed p_vcv=0.0656), and CM 2 -pi-na mirrors standalone Amathus pi-na (ICS 194 L2, dotted ICS 193 L4; Steele 2013, 132). Sensitivity across 013/008 regimes: Davis unsplit (013=na) yields identical exact=3, csk_stems=2 (p_vcv=0.1174) and raises shared_suf2 to 11 (p_vcv=0.0088), whereas HoChyMin unsplit (013=to) collapses to null (exact=1 p_vcv=0.8084, csk_stems=1 p_vcv=0.4117). Controls: CM 3 Ugarit (N=48) is null (exact=0, csk_stems=0); 100 size-matched DAMOS Linear B Greek draws (N=299) average 0.65±0.68 exact (>=3 in 1.0%), 0.34±0.57 csk_stems (>=2 in 5.0%, 10-draw median p_vcv=0.7206), 7.10±2.18 shared_suf2 (median p_vcv=0.3238), and null shared_pre2 once V-vs-CV sign classes are preserved (median p_vcv=0.1749).",
+   "status": "attested",
+   "structural_evidence": [
+    {
+     "cypro_minoan": "102-008",
+     "line": "B.I.09",
+     "shows": "CM 2 line-medial a-na (B.I.09 & B.I.14 on ENKO Atab 002) matching Amathus EC a-na (ICS 193–196)",
+     "siglum": "ENKO Atab 002",
+     "text_basis": "emended",
+     "values": "a-na"
+    },
+    {
+     "cypro_minoan": "004-008",
+     "line": "B.II.01",
+     "shows": "CM 2 column-initial ta-na (lost right context) matching Amathus EC medial ta-na (ICS 192 2×)",
+     "siglum": "ENKO Atab 002",
+     "text_basis": "emended",
+     "values": "ta-na"
+    },
+    {
+     "cypro_minoan": "004-075",
+     "line": "A.II.35",
+     "shows": "Bare stem ta-ra (002 A.II.35, 003 B.22 broken right) beside ta-ra-we₂ / ta-ra-wo₂ and Amathus EC ta-ra-wi / ta-ra-wo",
+     "siglum": "ENKO Atab 002",
+     "text_basis": "emended",
+     "values": "ta-ra"
+    },
+    {
+     "cypro_minoan": "004-075-029",
+     "line": "B.17",
+     "shows": "Immediately precedes a-sa-na on ENKO Atab 003 B.17 (ICS 194 has a-so-na in L2–L3 and ta-ra-wo in L5, not adjacent)",
+     "siglum": "ENKO Atab 003",
+     "text_basis": "emended",
+     "values": "ta-ra-wo₂"
+    },
+    {
+     "cypro_minoan": "004-025-051-008",
+     "line": "A.05",
+     "shows": "CM 2 agglutinative -pi-na suffix chain paralleling Amathus EC standalone pi-na (ICS 194 L2, dotted ICS 193 L4)",
+     "siglum": "ENKO Atab 003",
+     "text_basis": "emended",
+     "values": "ta-ka-pi-na"
+    }
+   ],
+   "subcorpus_distribution": {
+    "CM 1": 14,
+    "CM 2": 10,
+    "CM 3": 0,
+    "pole": "Cyprus CM 1+2 vs Amathus IG XV 1 Eteocypriot (CM 3 Ugarit null; Linear B Greek 100-draw control median null under V-vs-CV permutations)"
+   },
+   "text_basis": "emended",
+   "tier": "CANDIDATE"
+  }
+ ],
+ "schema_version": "1.0",
+ "status": "provisional",
+ "tiers": {
+  "CANDIDATE": "Tier 2 — >= 2 independent contexts/stems with clean epigraphic readings",
+  "CONFIRMED": "Tier 4 — survives §7 holdout check + permutation null (p <= 0.01) + zero unaddressed counter-examples + author sign-off",
+  "PROBABLE": "Tier 3 — >= 3 independent stems/minimal pairs across >= 2 texts or internal stacking chains + passes internal control",
+  "SPECULATIVE": "Tier 1 — single-text pattern, unsplit epigraphic dependency, or external-parallel-only hypothesis"
+ }
+}

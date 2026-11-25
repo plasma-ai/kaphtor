@@ -1,0 +1,704 @@
+{
+ "allograph_pairs": [
+  {
+   "cm1_signs": [
+    "102",
+    "101"
+   ],
+   "cm2_signs": [
+    "102"
+   ],
+   "cm3_signs": [
+    "102"
+   ],
+   "split_evidence": "Complementary CM 1/2/3 variants of Linear A *08 / CS a (Valério 2016, 440, 656).",
+   "valerio_grapheme": "102/101",
+   "value": "a"
+  },
+  {
+   "cm1_signs": [
+    "019"
+   ],
+   "cm2_signs": [
+    "079"
+   ],
+   "cm3_signs": [
+    "019"
+   ],
+   "split_evidence": "CM 2 uses 079 where CM 1/CM 3 use 019; both ~65%+ word-initial.",
+   "valerio_grapheme": "19/79",
+   "value": "u"
+  },
+  {
+   "cm1_signs": [
+    "064"
+   ],
+   "cm2_signs": [
+    "065"
+   ],
+   "cm3_signs": [],
+   "split_evidence": "Valério §2.3.13 splits HoChyMin 064 into CM 1 064=o (63.6% initial) vs CM 2 065=ni (0/16 initial).",
+   "valerio_grapheme": "64 vs 65/67/99/100",
+   "value": "o / ni"
+  },
+  {
+   "cm1_signs": [
+    "013"
+   ],
+   "cm2_signs": [
+    "008",
+    "078"
+   ],
+   "cm3_signs": [
+    "008"
+   ],
+   "split_evidence": "Valério emends CM 2 HoChyMin 013→008 (na) while keeping CM 1 013=to (allograph of CM 2 078=to); rival Davis 2026b Table 11.3 keeps HoChyMin 013=na, 008=to.",
+   "valerio_grapheme": "13/78 vs 08",
+   "value": "to / na"
+  },
+  {
+   "cm1_signs": [
+    "053"
+   ],
+   "cm2_signs": [
+    "054"
+   ],
+   "cm3_signs": [
+    "055"
+   ],
+   "split_evidence": "Three subcorpus allographs of ma across CM 1 (053), CM 2 (054), CM 3 (055) (Valério 2016, 434, 654).",
+   "valerio_grapheme": "53/54/55",
+   "value": "ma"
+  },
+  {
+   "cm1_signs": [
+    "067",
+    "099"
+   ],
+   "cm2_signs": [
+    "065"
+   ],
+   "cm3_signs": [
+    "100"
+   ],
+   "split_evidence": "Four subcorpus allographs of ni (Valério 2016, 435, 654).",
+   "valerio_grapheme": "65/67/99/100",
+   "value": "ni"
+  },
+  {
+   "cm1_signs": [
+    "085",
+    "096",
+    "114"
+   ],
+   "cm2_signs": [
+    "096"
+   ],
+   "cm3_signs": [
+    "096"
+   ],
+   "split_evidence": "085=ri confirmed 4/4 before palatal glide 088=jo and #1 cosine neighbor 096=ri (0.86).",
+   "valerio_grapheme": "85/96/114",
+   "value": "ri"
+  },
+  {
+   "cm1_signs": [
+    "015",
+    "021"
+   ],
+   "cm2_signs": [
+    "021"
+   ],
+   "cm3_signs": [
+    "021"
+   ],
+   "split_evidence": "Unanimous across 8 proposals; #1/#2 cosine neighbor of 021=ko (0.67).",
+   "valerio_grapheme": "21/15",
+   "value": "ko"
+  },
+  {
+   "cm1_signs": [
+    "069",
+    "071"
+   ],
+   "cm2_signs": [
+    "069",
+    "072"
+   ],
+   "cm3_signs": [
+    "069"
+   ],
+   "split_evidence": "CM 2 allograph 072=ja beside pan-corpus 069=ja.",
+   "valerio_grapheme": "69/72",
+   "value": "ja"
+  },
+  {
+   "cm1_signs": [
+    "088",
+    "089"
+   ],
+   "cm2_signs": [
+    "090",
+    "089"
+   ],
+   "cm3_signs": [],
+   "split_evidence": "Palatal glide series; 089=jo follows Ci 4/5 times.",
+   "valerio_grapheme": "88/89/90",
+   "value": "jo"
+  },
+  {
+   "cm1_signs": [
+    "034",
+    "056"
+   ],
+   "cm2_signs": [
+    "056"
+   ],
+   "cm3_signs": [
+    "056"
+   ],
+   "split_evidence": "CM 1 allograph 034=ne beside 056=ne.",
+   "valerio_grapheme": "34/56",
+   "value": "ne"
+  },
+  {
+   "cm1_signs": [
+    "046"
+   ],
+   "cm2_signs": [
+    "047"
+   ],
+   "cm3_signs": [],
+   "split_evidence": "CM 1 046=su beside CM 2 047=su (CS su < LA du, Davis 2026b, 123).",
+   "valerio_grapheme": "46/47",
+   "value": "su"
+  },
+  {
+   "cm1_signs": [
+    "050",
+    "051"
+   ],
+   "cm2_signs": [
+    "051"
+   ],
+   "cm3_signs": [
+    "051"
+   ],
+   "split_evidence": "CM 1 allograph 050=pi beside pan-corpus 051=pi.",
+   "valerio_grapheme": "50/51",
+   "value": "pi"
+  },
+  {
+   "cm1_signs": [
+    "039"
+   ],
+   "cm2_signs": [
+    "049",
+    "074"
+   ],
+   "cm3_signs": [
+    "074"
+   ],
+   "split_evidence": "CM 1 039=mu (CS mu), CM 2 049=mu, CM 3/2 074=mu (RASH Atab 004 ʿAmmurapi).",
+   "valerio_grapheme": "39 / 49 / 74",
+   "value": "mu"
+  }
+ ],
+ "description": "Aggregate Cypro-Minoan C x V syllabary grid coverage across CM 1, CM 2, and CM 3, global empty cells, and regional allograph pairs (T5 compliant: excludes unvalued-sign attestation indexes and unread sequences).",
+ "global_empty_cells": [
+  "tu",
+  "ke",
+  "so",
+  "za",
+  "ze",
+  "zo",
+  "zu",
+  "me",
+  "lu",
+  "ru",
+  "wi",
+  "wu",
+  "je",
+  "ju"
+ ],
+ "ruled_sign_count": 72,
+ "schema_version": "1.0",
+ "subcorpus_grids": {
+  "CM 1": {
+   "attested_ruled_signs": 57,
+   "empty_cells": [
+    "tu",
+    "ke",
+    "so",
+    "za",
+    "ze",
+    "zo",
+    "zu",
+    "me",
+    "lu",
+    "ru",
+    "wi",
+    "wo",
+    "wu",
+    "je",
+    "ji",
+    "ju"
+   ],
+   "filled_cells": {
+    "a": [
+     "101",
+     "102"
+    ],
+    "e": [
+     "038"
+    ],
+    "i": [
+     "104"
+    ],
+    "ja": [
+     "069",
+     "072"
+    ],
+    "jo": [
+     "088"
+    ],
+    "ka": [
+     "025"
+    ],
+    "ki": [
+     "070"
+    ],
+    "ko": [
+     "015",
+     "021"
+    ],
+    "ku": [
+     "110"
+    ],
+    "la": [
+     "087"
+    ],
+    "le": [
+     "024"
+    ],
+    "li": [
+     "009"
+    ],
+    "lo": [
+     "005"
+    ],
+    "ma": [
+     "053",
+     "055"
+    ],
+    "mi": [
+     "091"
+    ],
+    "mo": [
+     "073"
+    ],
+    "mu": [
+     "039"
+    ],
+    "na": [
+     "008"
+    ],
+    "ne": [
+     "002",
+     "034",
+     "056"
+    ],
+    "ni": [
+     "067",
+     "099"
+    ],
+    "no": [
+     "017"
+    ],
+    "nu": [
+     "028",
+     "068"
+    ],
+    "o": [
+     "064"
+    ],
+    "pa": [
+     "006"
+    ],
+    "pe": [
+     "011"
+    ],
+    "pi": [
+     "050"
+    ],
+    "po": [
+     "012"
+    ],
+    "pu": [
+     "061"
+    ],
+    "ra": [
+     "075"
+    ],
+    "re": [
+     "033"
+    ],
+    "ri": [
+     "085",
+     "096",
+     "114"
+    ],
+    "ro": [
+     "097"
+    ],
+    "sa": [
+     "082",
+     "092"
+    ],
+    "se": [
+     "044"
+    ],
+    "si": [
+     "027"
+    ],
+    "su": [
+     "046"
+    ],
+    "ta": [
+     "004"
+    ],
+    "te": [
+     "007"
+    ],
+    "ti": [
+     "023"
+    ],
+    "to": [
+     "013",
+     "078"
+    ],
+    "u": [
+     "019"
+    ],
+    "wa": [
+     "095"
+    ],
+    "we": [
+     "001",
+     "035"
+    ],
+    "zi": [
+     "041"
+    ]
+   }
+  },
+  "CM 2": {
+   "attested_ruled_signs": 47,
+   "empty_cells": [
+    "te",
+    "tu",
+    "ke",
+    "so",
+    "za",
+    "ze",
+    "zi",
+    "zo",
+    "zu",
+    "me",
+    "mi",
+    "mo",
+    "lu",
+    "ru",
+    "wi",
+    "wu",
+    "je",
+    "ji",
+    "ju"
+   ],
+   "filled_cells": {
+    "a": [
+     "102"
+    ],
+    "e": [
+     "038"
+    ],
+    "i": [
+     "104"
+    ],
+    "ja": [
+     "069",
+     "072"
+    ],
+    "jo": [
+     "089",
+     "090"
+    ],
+    "ka": [
+     "025"
+    ],
+    "ki": [
+     "070"
+    ],
+    "ko": [
+     "021"
+    ],
+    "ku": [
+     "110"
+    ],
+    "la": [
+     "087"
+    ],
+    "le": [
+     "024"
+    ],
+    "li": [
+     "009"
+    ],
+    "lo": [
+     "005"
+    ],
+    "ma": [
+     "054"
+    ],
+    "mu": [
+     "049",
+     "074"
+    ],
+    "na": [
+     "008"
+    ],
+    "ne": [
+     "056"
+    ],
+    "ni": [
+     "065"
+    ],
+    "no": [
+     "017"
+    ],
+    "nu": [
+     "028",
+     "068"
+    ],
+    "o": [
+     "064"
+    ],
+    "pa": [
+     "006"
+    ],
+    "pe": [
+     "011"
+    ],
+    "pi": [
+     "051"
+    ],
+    "po": [
+     "012"
+    ],
+    "pu": [
+     "061"
+    ],
+    "ra": [
+     "075"
+    ],
+    "re": [
+     "033"
+    ],
+    "ri": [
+     "096"
+    ],
+    "ro": [
+     "097"
+    ],
+    "sa": [
+     "082",
+     "092"
+    ],
+    "se": [
+     "044"
+    ],
+    "si": [
+     "027"
+    ],
+    "su": [
+     "047"
+    ],
+    "ta": [
+     "004"
+    ],
+    "ti": [
+     "023"
+    ],
+    "to": [
+     "078"
+    ],
+    "u": [
+     "079"
+    ],
+    "wa": [
+     "095"
+    ],
+    "we": [
+     "001",
+     "035"
+    ],
+    "wo": [
+     "029"
+    ]
+   }
+  },
+  "CM 3": {
+   "attested_ruled_signs": 47,
+   "empty_cells": [
+    "po",
+    "pu",
+    "tu",
+    "ke",
+    "so",
+    "su",
+    "za",
+    "ze",
+    "zo",
+    "zu",
+    "me",
+    "no",
+    "le",
+    "lu",
+    "re",
+    "ru",
+    "wi",
+    "wo",
+    "wu",
+    "je",
+    "jo",
+    "ju"
+   ],
+   "filled_cells": {
+    "a": [
+     "102"
+    ],
+    "e": [
+     "038"
+    ],
+    "i": [
+     "104"
+    ],
+    "ja": [
+     "069",
+     "071",
+     "072"
+    ],
+    "ji": [
+     "040"
+    ],
+    "ka": [
+     "025"
+    ],
+    "ki": [
+     "070"
+    ],
+    "ko": [
+     "021"
+    ],
+    "ku": [
+     "110"
+    ],
+    "la": [
+     "087"
+    ],
+    "li": [
+     "009"
+    ],
+    "lo": [
+     "005"
+    ],
+    "ma": [
+     "053",
+     "055"
+    ],
+    "mi": [
+     "091"
+    ],
+    "mo": [
+     "073"
+    ],
+    "mu": [
+     "074"
+    ],
+    "na": [
+     "008"
+    ],
+    "ne": [
+     "002",
+     "056"
+    ],
+    "ni": [
+     "099",
+     "100"
+    ],
+    "nu": [
+     "028"
+    ],
+    "o": [
+     "064"
+    ],
+    "pa": [
+     "006"
+    ],
+    "pe": [
+     "011"
+    ],
+    "pi": [
+     "050",
+     "051"
+    ],
+    "ra": [
+     "075"
+    ],
+    "ri": [
+     "096"
+    ],
+    "ro": [
+     "097"
+    ],
+    "sa": [
+     "082",
+     "092"
+    ],
+    "se": [
+     "044"
+    ],
+    "si": [
+     "027",
+     "058"
+    ],
+    "ta": [
+     "004"
+    ],
+    "te": [
+     "007"
+    ],
+    "ti": [
+     "023"
+    ],
+    "to": [
+     "013"
+    ],
+    "u": [
+     "019"
+    ],
+    "wa": [
+     "095"
+    ],
+    "we": [
+     "001",
+     "035"
+    ],
+    "zi": [
+     "037b"
+    ]
+   }
+  }
+ },
+ "unvalued_sign_count": 28
+}

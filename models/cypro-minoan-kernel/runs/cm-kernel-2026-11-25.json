@@ -1,0 +1,814 @@
+{
+  "schema_version": 1,
+  "seed": 20261125,
+  "permutations": 2000,
+  "manifest": {
+    "schema_version": 1,
+    "firewall": "Cypro-Minoan only: reads zero Linear A lexicon/translations/sign_values files.",
+    "t5_compliant": true,
+    "inputs": {
+      "cm_catalogue": {
+        "path": "data/ane/cypro-minoan/catalogue.json",
+        "sha256": "e1ee1d4ffdd2603bb87de7b3fe4a4613ce8c511ea900ea4b73395dbdfcb5cb9d",
+        "bytes": 989616
+      },
+      "cm_translations": {
+        "path": "data/ane/cypro-minoan/translations.json",
+        "sha256": "328ff984f81a47d5b7af1d9517b2e989b50ce21d03ef61ee10253e99ee40ad3a",
+        "bytes": 347168
+      },
+      "cm_lexicon": {
+        "path": "data/ane/cypro-minoan/lexicon.json",
+        "sha256": "d93b0ae321b8d3cbdda4c7ebd80b729aff1f7a29f9dda6d1ad8b73f16e99cbf6",
+        "bytes": 387449
+      },
+      "cm_onomasticon": {
+        "path": "data/ane/cypro-minoan/onomasticon.json",
+        "sha256": "09f7b4ebf9ee27c7a0307580e888ed1b743728cb99762899752f67a107847553",
+        "bytes": 63278
+      },
+      "cm_grammar": {
+        "path": "data/ane/cypro-minoan/grammar_hypotheses.json",
+        "sha256": "b27538ae6d3d072587edf2710875b1e07e6d54cf1fde3db4e601b66470c7f61b",
+        "bytes": 87546
+      },
+      "cm_grid": {
+        "path": "data/ane/cypro-minoan/grid.json",
+        "sha256": "186e3f1fd912cf790efcdcb2d8d8f2b5ce0b75017758f6e37d6e7a0043ba4d78",
+        "bytes": 9158
+      },
+      "ig_xv_1": {
+        "path": "data/ane/ig-xv-1-cypriot/records.jsonl",
+        "sha256": "ac2c5d475e62760bf8cc2881346426393fdad1a1ec5f3c949bdff90d60a78a17",
+        "bytes": 610020
+      },
+      "linear_b_damos": {
+        "path": "data/share-alike/linear-b/linear_b_tokens.jsonl",
+        "sha256": "744c905dfd484c447990e63b83cd660b1a90598cd630898cb728c465fcfcb8f4",
+        "bytes": 2618371
+      }
+    }
+  },
+  "corpora_counts": {
+    "ec_amathus_confirmed_types": 92,
+    "ec_amathus_undotted_types": 66,
+    "cm_valerio_types_l2": {
+      "CM 1": 127,
+      "CM 2": 174,
+      "CM 3": 48,
+      "CM 1+2": 299
+    },
+    "linear_b_clean_types_l2": 2554
+  },
+  "kernel_cm_g_subcorpora": {
+    "CM 1": {
+      "observed": {
+        "n_cm_l2": 127,
+        "n_cm_l3": 86,
+        "exact_l2": 0,
+        "exact_l2_words": [],
+        "csk_stems_l3": 0,
+        "csk_forms_l3": 0,
+        "csk_forms_words": [],
+        "shared_suf2": 5,
+        "shared_suf2_list": [
+          "li-ja",
+          "no-ti",
+          "o-ti",
+          "po-ti",
+          "ra-ni"
+        ],
+        "shared_pre2": 2,
+        "shared_bi": 29,
+        "end1_cos": 0.7297
+      },
+      "p": {
+        "unr": {
+          "exact_l2": 1.0,
+          "csk_stems_l3": 1.0,
+          "csk_forms_l3": 1.0,
+          "shared_suf2": 0.02249,
+          "shared_pre2": 0.61219,
+          "shared_bi": 0.03298,
+          "end1_cos": 0.007
+        },
+        "vcv": {
+          "exact_l2": 1.0,
+          "csk_stems_l3": 1.0,
+          "csk_forms_l3": 1.0,
+          "shared_suf2": 0.13393,
+          "shared_pre2": 0.95902,
+          "shared_bi": 0.34833,
+          "end1_cos": 0.07396
+        }
+      },
+      "z": {
+        "unr": {
+          "exact_l2": -0.61,
+          "csk_stems_l3": -0.34,
+          "csk_forms_l3": -0.34,
+          "shared_suf2": 2.66,
+          "shared_pre2": -0.05,
+          "shared_bi": 2.01,
+          "end1_cos": 4.14
+        },
+        "vcv": {
+          "exact_l2": -0.86,
+          "csk_stems_l3": -0.41,
+          "csk_forms_l3": -0.41,
+          "shared_suf2": 1.42,
+          "shared_pre2": -1.3,
+          "shared_bi": 0.49,
+          "end1_cos": 2.43
+        }
+      }
+    },
+    "CM 2": {
+      "observed": {
+        "n_cm_l2": 174,
+        "n_cm_l3": 120,
+        "exact_l2": 3,
+        "exact_l2_words": [
+          "a-na",
+          "ta-na",
+          "ta-ra-wo"
+        ],
+        "csk_stems_l3": 2,
+        "csk_forms_l3": 3,
+        "csk_forms_words": [
+          "a-sa-na",
+          "ta-ra-we",
+          "ta-ra-wo"
+        ],
+        "shared_suf2": 5,
+        "shared_suf2_list": [
+          "le-ja",
+          "li-ja",
+          "nu-pi",
+          "ra-wo",
+          "sa-na"
+        ],
+        "shared_pre2": 7,
+        "shared_bi": 36,
+        "end1_cos": 0.6043
+      },
+      "p": {
+        "unr": {
+          "exact_l2": 0.01,
+          "csk_stems_l3": 0.01649,
+          "csk_forms_l3": 0.0025,
+          "shared_suf2": 0.04398,
+          "shared_pre2": 0.009,
+          "shared_bi": 0.004,
+          "end1_cos": 0.01099
+        },
+        "vcv": {
+          "exact_l2": 0.05797,
+          "csk_stems_l3": 0.06897,
+          "csk_forms_l3": 0.0065,
+          "shared_suf2": 0.18441,
+          "shared_pre2": 0.2009,
+          "shared_bi": 0.09445,
+          "end1_cos": 0.01249
+        }
+      },
+      "z": {
+        "unr": {
+          "exact_l2": 3.86,
+          "csk_stems_l3": 4.06,
+          "csk_forms_l3": 6.02,
+          "shared_suf2": 2.15,
+          "shared_pre2": 3.0,
+          "shared_bi": 2.89,
+          "end1_cos": 2.62
+        },
+        "vcv": {
+          "exact_l2": 2.23,
+          "csk_stems_l3": 2.48,
+          "csk_forms_l3": 3.93,
+          "shared_suf2": 1.16,
+          "shared_pre2": 1.11,
+          "shared_bi": 1.44,
+          "end1_cos": 2.27
+        }
+      }
+    },
+    "CM 1+2": {
+      "observed": {
+        "n_cm_l2": 299,
+        "n_cm_l3": 206,
+        "exact_l2": 3,
+        "exact_l2_words": [
+          "a-na",
+          "ta-na",
+          "ta-ra-wo"
+        ],
+        "csk_stems_l3": 2,
+        "csk_forms_l3": 3,
+        "csk_forms_words": [
+          "a-sa-na",
+          "ta-ra-we",
+          "ta-ra-wo"
+        ],
+        "shared_suf2": 9,
+        "shared_suf2_list": [
+          "le-ja",
+          "li-ja",
+          "no-ti",
+          "nu-pi",
+          "o-ti",
+          "po-ti",
+          "ra-ni",
+          "ra-wo",
+          "sa-na"
+        ],
+        "shared_pre2": 8,
+        "shared_bi": 58,
+        "end1_cos": 0.7906
+      },
+      "p": {
+        "unr": {
+          "exact_l2": 0.04248,
+          "csk_stems_l3": 0.04498,
+          "csk_forms_l3": 0.0065,
+          "shared_suf2": 0.009,
+          "shared_pre2": 0.05697,
+          "shared_bi": 0.0005,
+          "end1_cos": 0.0005
+        },
+        "vcv": {
+          "exact_l2": 0.15642,
+          "csk_stems_l3": 0.11444,
+          "csk_forms_l3": 0.02549,
+          "shared_suf2": 0.06847,
+          "shared_pre2": 0.64318,
+          "shared_bi": 0.02599,
+          "end1_cos": 0.0005
+        }
+      },
+      "z": {
+        "unr": {
+          "exact_l2": 2.53,
+          "csk_stems_l3": 2.93,
+          "csk_forms_l3": 4.6,
+          "shared_suf2": 2.81,
+          "shared_pre2": 1.98,
+          "shared_bi": 3.69,
+          "end1_cos": 4.56
+        },
+        "vcv": {
+          "exact_l2": 1.45,
+          "csk_stems_l3": 1.85,
+          "csk_forms_l3": 3.1,
+          "shared_suf2": 1.79,
+          "shared_pre2": -0.15,
+          "shared_bi": 2.15,
+          "end1_cos": 3.45
+        }
+      }
+    },
+    "CM 3": {
+      "observed": {
+        "n_cm_l2": 48,
+        "n_cm_l3": 36,
+        "exact_l2": 0,
+        "exact_l2_words": [],
+        "csk_stems_l3": 0,
+        "csk_forms_l3": 0,
+        "csk_forms_words": [],
+        "shared_suf2": 3,
+        "shared_suf2_list": [
+          "mo-ti",
+          "ra-pi",
+          "wa-ni"
+        ],
+        "shared_pre2": 2,
+        "shared_bi": 15,
+        "end1_cos": 0.3655
+      },
+      "p": {
+        "unr": {
+          "exact_l2": 1.0,
+          "csk_stems_l3": 1.0,
+          "csk_forms_l3": 1.0,
+          "shared_suf2": 0.02299,
+          "shared_pre2": 0.22439,
+          "shared_bi": 0.02449,
+          "end1_cos": 0.16492
+        },
+        "vcv": {
+          "exact_l2": 1.0,
+          "csk_stems_l3": 1.0,
+          "csk_forms_l3": 1.0,
+          "shared_suf2": 0.07146,
+          "shared_pre2": 0.64468,
+          "shared_bi": 0.14193,
+          "end1_cos": 0.34983
+        }
+      },
+      "z": {
+        "unr": {
+          "exact_l2": -0.37,
+          "csk_stems_l3": -0.21,
+          "csk_forms_l3": -0.21,
+          "shared_suf2": 3.06,
+          "shared_pre2": 1.18,
+          "shared_bi": 2.3,
+          "end1_cos": 0.98
+        },
+        "vcv": {
+          "exact_l2": -0.41,
+          "csk_stems_l3": -0.33,
+          "csk_forms_l3": -0.33,
+          "shared_suf2": 2.11,
+          "shared_pre2": 0.0,
+          "shared_bi": 1.28,
+          "end1_cos": 0.27
+        }
+      }
+    }
+  },
+  "kernel_cm_e_regimes": {
+    "valerio_vs_confirmed_ec": {
+      "observed": {
+        "n_cm_l2": 299,
+        "n_cm_l3": 206,
+        "exact_l2": 3,
+        "exact_l2_words": [
+          "a-na",
+          "ta-na",
+          "ta-ra-wo"
+        ],
+        "csk_stems_l3": 2,
+        "csk_forms_l3": 3,
+        "csk_forms_words": [
+          "a-sa-na",
+          "ta-ra-we",
+          "ta-ra-wo"
+        ],
+        "shared_suf2": 9,
+        "shared_suf2_list": [
+          "le-ja",
+          "li-ja",
+          "no-ti",
+          "nu-pi",
+          "o-ti",
+          "po-ti",
+          "ra-ni",
+          "ra-wo",
+          "sa-na"
+        ],
+        "shared_pre2": 8,
+        "shared_bi": 58,
+        "end1_cos": 0.7906
+      },
+      "p": {
+        "unr": {
+          "exact_l2": 0.04248,
+          "csk_stems_l3": 0.04498,
+          "csk_forms_l3": 0.0065,
+          "shared_suf2": 0.009,
+          "shared_pre2": 0.05697,
+          "shared_bi": 0.0005,
+          "end1_cos": 0.0005
+        },
+        "vcv": {
+          "exact_l2": 0.15642,
+          "csk_stems_l3": 0.11444,
+          "csk_forms_l3": 0.02549,
+          "shared_suf2": 0.06847,
+          "shared_pre2": 0.64318,
+          "shared_bi": 0.02599,
+          "end1_cos": 0.0005
+        }
+      },
+      "z": {
+        "unr": {
+          "exact_l2": 2.53,
+          "csk_stems_l3": 2.93,
+          "csk_forms_l3": 4.6,
+          "shared_suf2": 2.81,
+          "shared_pre2": 1.98,
+          "shared_bi": 3.69,
+          "end1_cos": 4.56
+        },
+        "vcv": {
+          "exact_l2": 1.45,
+          "csk_stems_l3": 1.85,
+          "csk_forms_l3": 3.1,
+          "shared_suf2": 1.79,
+          "shared_pre2": -0.15,
+          "shared_bi": 2.15,
+          "end1_cos": 3.45
+        }
+      }
+    },
+    "valerio_vs_undotted_ec": {
+      "observed": {
+        "n_cm_l2": 299,
+        "n_cm_l3": 206,
+        "exact_l2": 3,
+        "exact_l2_words": [
+          "a-na",
+          "ta-na",
+          "ta-ra-wo"
+        ],
+        "csk_stems_l3": 2,
+        "csk_forms_l3": 3,
+        "csk_forms_words": [
+          "a-sa-na",
+          "ta-ra-we",
+          "ta-ra-wo"
+        ],
+        "shared_suf2": 9,
+        "shared_suf2_list": [
+          "le-ja",
+          "li-ja",
+          "no-ti",
+          "nu-pi",
+          "o-ti",
+          "po-ti",
+          "ra-ni",
+          "ra-wo",
+          "sa-na"
+        ],
+        "shared_pre2": 6,
+        "shared_bi": 43,
+        "end1_cos": 0.7353
+      },
+      "p": {
+        "unr": {
+          "exact_l2": 0.02299,
+          "csk_stems_l3": 0.02949,
+          "csk_forms_l3": 0.0045,
+          "shared_suf2": 0.004,
+          "shared_pre2": 0.09045,
+          "shared_bi": 0.002,
+          "end1_cos": 0.0005
+        },
+        "vcv": {
+          "exact_l2": 0.11994,
+          "csk_stems_l3": 0.09195,
+          "csk_forms_l3": 0.01349,
+          "shared_suf2": 0.02849,
+          "shared_pre2": 0.62719,
+          "shared_bi": 0.05347,
+          "end1_cos": 0.001
+        }
+      },
+      "z": {
+        "unr": {
+          "exact_l2": 3.1,
+          "csk_stems_l3": 3.51,
+          "csk_forms_l3": 5.46,
+          "shared_suf2": 3.48,
+          "shared_pre2": 1.67,
+          "shared_bi": 3.46,
+          "end1_cos": 4.27
+        },
+        "vcv": {
+          "exact_l2": 1.71,
+          "csk_stems_l3": 2.1,
+          "csk_forms_l3": 3.49,
+          "shared_suf2": 2.35,
+          "shared_pre2": -0.1,
+          "shared_bi": 1.79,
+          "end1_cos": 3.17
+        }
+      }
+    },
+    "davis_unsplit_vs_confirmed_ec": {
+      "observed": {
+        "n_cm_l2": 299,
+        "n_cm_l3": 206,
+        "exact_l2": 3,
+        "exact_l2_words": [
+          "a-na",
+          "ta-na",
+          "ta-ra-wo"
+        ],
+        "csk_stems_l3": 2,
+        "csk_forms_l3": 3,
+        "csk_forms_words": [
+          "a-sa-na",
+          "ta-ra-we",
+          "ta-ra-wo"
+        ],
+        "shared_suf2": 11,
+        "shared_suf2_list": [
+          "le-ja",
+          "li-ja",
+          "no-na",
+          "no-ti",
+          "nu-pi",
+          "o-ti",
+          "po-ti",
+          "ra-ni",
+          "ra-wo",
+          "sa-na",
+          "to-ro"
+        ],
+        "shared_pre2": 8,
+        "shared_bi": 58,
+        "end1_cos": 0.8147
+      },
+      "p": {
+        "unr": {
+          "exact_l2": 0.03898,
+          "csk_stems_l3": 0.04098,
+          "csk_forms_l3": 0.009,
+          "shared_suf2": 0.001,
+          "shared_pre2": 0.05247,
+          "shared_bi": 0.0005,
+          "end1_cos": 0.0005
+        },
+        "vcv": {
+          "exact_l2": 0.15842,
+          "csk_stems_l3": 0.10945,
+          "csk_forms_l3": 0.01949,
+          "shared_suf2": 0.01099,
+          "shared_pre2": 0.65567,
+          "shared_bi": 0.01749,
+          "end1_cos": 0.0005
+        }
+      },
+      "z": {
+        "unr": {
+          "exact_l2": 2.55,
+          "csk_stems_l3": 2.91,
+          "csk_forms_l3": 4.59,
+          "shared_suf2": 3.96,
+          "shared_pre2": 2.07,
+          "shared_bi": 3.67,
+          "end1_cos": 4.88
+        },
+        "vcv": {
+          "exact_l2": 1.47,
+          "csk_stems_l3": 1.95,
+          "csk_forms_l3": 3.26,
+          "shared_suf2": 2.89,
+          "shared_pre2": -0.19,
+          "shared_bi": 2.22,
+          "end1_cos": 3.89
+        }
+      }
+    },
+    "hochymin_unsplit_vs_confirmed_ec": {
+      "observed": {
+        "n_cm_l2": 299,
+        "n_cm_l3": 206,
+        "exact_l2": 1,
+        "exact_l2_words": [
+          "ta-ra-wo"
+        ],
+        "csk_stems_l3": 1,
+        "csk_forms_l3": 2,
+        "csk_forms_words": [
+          "ta-ra-we",
+          "ta-ra-wo"
+        ],
+        "shared_suf2": 8,
+        "shared_suf2_list": [
+          "le-ja",
+          "li-ja",
+          "no-ti",
+          "nu-pi",
+          "o-ti",
+          "po-ti",
+          "ra-ni",
+          "ra-wo"
+        ],
+        "shared_pre2": 8,
+        "shared_bi": 53,
+        "end1_cos": 0.6473
+      },
+      "p": {
+        "unr": {
+          "exact_l2": 0.54973,
+          "csk_stems_l3": 0.27936,
+          "csk_forms_l3": 0.05147,
+          "shared_suf2": 0.02949,
+          "shared_pre2": 0.05347,
+          "shared_bi": 0.0045,
+          "end1_cos": 0.0065
+        },
+        "vcv": {
+          "exact_l2": 0.8086,
+          "csk_stems_l3": 0.4073,
+          "csk_forms_l3": 0.09345,
+          "shared_suf2": 0.12544,
+          "shared_pre2": 0.63818,
+          "shared_bi": 0.10945,
+          "end1_cos": 0.05797
+        }
+      },
+      "z": {
+        "unr": {
+          "exact_l2": 0.25,
+          "csk_stems_l3": 1.12,
+          "csk_forms_l3": 2.77,
+          "shared_suf2": 2.33,
+          "shared_pre2": 1.98,
+          "shared_bi": 2.78,
+          "end1_cos": 3.07
+        },
+        "vcv": {
+          "exact_l2": -0.42,
+          "csk_stems_l3": 0.69,
+          "csk_forms_l3": 2.06,
+          "shared_suf2": 1.35,
+          "shared_pre2": -0.15,
+          "shared_bi": 1.34,
+          "end1_cos": 2.12
+        }
+      }
+    },
+    "cm3_ugarit_control": {
+      "observed": {
+        "n_cm_l2": 48,
+        "n_cm_l3": 36,
+        "exact_l2": 0,
+        "exact_l2_words": [],
+        "csk_stems_l3": 0,
+        "csk_forms_l3": 0,
+        "csk_forms_words": [],
+        "shared_suf2": 3,
+        "shared_suf2_list": [
+          "mo-ti",
+          "ra-pi",
+          "wa-ni"
+        ],
+        "shared_pre2": 2,
+        "shared_bi": 15,
+        "end1_cos": 0.3655
+      },
+      "p": {
+        "unr": {
+          "exact_l2": 1.0,
+          "csk_stems_l3": 1.0,
+          "csk_forms_l3": 1.0,
+          "shared_suf2": 0.02299,
+          "shared_pre2": 0.22439,
+          "shared_bi": 0.02449,
+          "end1_cos": 0.16492
+        },
+        "vcv": {
+          "exact_l2": 1.0,
+          "csk_stems_l3": 1.0,
+          "csk_forms_l3": 1.0,
+          "shared_suf2": 0.07146,
+          "shared_pre2": 0.64468,
+          "shared_bi": 0.14193,
+          "end1_cos": 0.34983
+        }
+      },
+      "z": {
+        "unr": {
+          "exact_l2": -0.37,
+          "csk_stems_l3": -0.21,
+          "csk_forms_l3": -0.21,
+          "shared_suf2": 3.06,
+          "shared_pre2": 1.18,
+          "shared_bi": 2.3,
+          "end1_cos": 0.98
+        },
+        "vcv": {
+          "exact_l2": -0.41,
+          "csk_stems_l3": -0.33,
+          "csk_forms_l3": -0.33,
+          "shared_suf2": 2.11,
+          "shared_pre2": 0.0,
+          "shared_bi": 1.28,
+          "end1_cos": 0.27
+        }
+      }
+    }
+  },
+  "linear_b_negative_control": {
+    "n_draws": 20,
+    "sample_size": 299,
+    "exact_l2_mean": 0.6,
+    "csk_stems_l3_mean": 0.5,
+    "shared_suf2_mean": 7.0,
+    "shared_pre2_mean": 13.55,
+    "end1_cos_mean": 0.37,
+    "calibrated_draws": 5,
+    "median_p_vcv_suf2": 0.507,
+    "median_p_vcv_csk_stems": 1.0,
+    "median_p_vcv_end1_cos": 0.2834
+  },
+  "kernel_cm_o_glides": {
+    "pan_cm": {
+      "by_vowel": {
+        "a": {
+          "non_final": 346,
+          "before_jV": 8,
+          "p_j": 0.0231,
+          "before_wV": 15,
+          "p_w": 0.0434
+        },
+        "e": {
+          "non_final": 109,
+          "before_jV": 5,
+          "p_j": 0.0459,
+          "before_wV": 7,
+          "p_w": 0.0642
+        },
+        "i": {
+          "non_final": 183,
+          "before_jV": 43,
+          "p_j": 0.235,
+          "before_wV": 2,
+          "p_w": 0.0109
+        },
+        "o": {
+          "non_final": 113,
+          "before_jV": 5,
+          "p_j": 0.0442,
+          "before_wV": 2,
+          "p_w": 0.0177
+        },
+        "u": {
+          "non_final": 114,
+          "before_jV": 2,
+          "p_j": 0.0175,
+          "before_wV": 17,
+          "p_w": 0.1491
+        }
+      },
+      "ci_jv_enrichment_p_vs_non_i": 3.1516e-26,
+      "cu_wv_enrichment_p_vs_non_u": 4.4403e-07,
+      "base_j_rate": 0.0728,
+      "base_w_rate": 0.0497,
+      "bare_vowel_final_rate": 0.0247,
+      "cv_final_rate": 0.3676
+    },
+    "cm2_only": {
+      "by_vowel": {
+        "a": {
+          "non_final": 166,
+          "before_jV": 5,
+          "p_j": 0.0301,
+          "before_wV": 14,
+          "p_w": 0.0843
+        },
+        "e": {
+          "non_final": 61,
+          "before_jV": 1,
+          "p_j": 0.0164,
+          "before_wV": 4,
+          "p_w": 0.0656
+        },
+        "i": {
+          "non_final": 60,
+          "before_jV": 16,
+          "p_j": 0.2667,
+          "before_wV": 1,
+          "p_w": 0.0167
+        },
+        "o": {
+          "non_final": 47,
+          "before_jV": 2,
+          "p_j": 0.0426,
+          "before_wV": 2,
+          "p_w": 0.0426
+        },
+        "u": {
+          "non_final": 69,
+          "before_jV": 0,
+          "p_j": 0.0,
+          "before_wV": 16,
+          "p_w": 0.2319
+        }
+      },
+      "ci_jv_enrichment_p_vs_non_i": 4.328e-13,
+      "cu_wv_enrichment_p_vs_non_u": 4.5968e-06,
+      "base_j_rate": 0.0596,
+      "base_w_rate": 0.0918,
+      "bare_vowel_final_rate": 0.0,
+      "cv_final_rate": 0.392
+    }
+  },
+  "kernel_cm_b_stems": {
+    "n_word_types": 299,
+    "null_model": "position_preserving_init_med_fin_shuffle",
+    "suffix_extension_pairs": 27,
+    "null_suffix_mean": 12.08,
+    "p_suffix": 0.001,
+    "prefix_extension_pairs": 10,
+    "null_prefix_mean": 8.37,
+    "p_prefix": 0.31668,
+    "top_productive_suffixes": {
+      "na": 4,
+      "no": 4,
+      "ti": 4,
+      "ta": 2,
+      "to": 2,
+      "jo": 1,
+      "ko": 1,
+      "ma": 1,
+      "mi": 1,
+      "pa": 1
+    }
+  }
+}

@@ -1,0 +1,1942 @@
+{
+ "description": "Non-duplicating Cypro-Minoan onomasticon overlay linked 1-to-1 to lexicon.json via lexicon_ref <-> onomasticon_ref (CM 3 RASH Atab 004 Ugarit prosopography, CM 1 clay balls / vessels / seals / ENKO Arou 001 names, and CM 2 a-ra-si-ja with explicit paradigm caveats).",
+ "entries": [
+  {
+   "attestation_sites": [
+    "RASH"
+   ],
+   "caveats": "Valério (2016, 368) sets Addaru aside because of the doubled 004 (ta-ta), the sole reduplicated sign pair in CM 3 (Duhoux in Steele (ed.) 2013, 40 n. 56).",
+   "cross_site": false,
+   "external_parallels": [],
+   "kaphtor_exportable": true,
+   "language_affiliation": "unknown",
+   "lexicon_ref": "cm_lex_102_004_004_096",
+   "name_type": "personal_name",
+   "normalized_name": "ʾAdattari",
+   "onom_id": "cm_onom_adattari",
+   "syntax_context": "PN | pi-nu | PN₂ (RASH Atab 004 A.05)"
+  },
+  {
+   "attestation_sites": [
+    "RASH"
+   ],
+   "caveats": "Onomastic attribution applies to RASH Atab 004 A.02; short 2-sign a-ti on ENKO Mlin 002 (copper ingot) is likely homographic rather than a cross-site Semitic PN.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "ảdy / a-du-ú, a-da-a-a, ad-di-ya",
+     "note": "Semitic short name in Ugaritic prosopography.",
+     "source": "É. Masson 1974, 43; Valério 2016, 367; DULAT 23",
+     "tradition": "Ugarit"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "nw_semitic",
+   "lexicon_ref": "cm_lex_102_023",
+   "name_type": "personal_name",
+   "normalized_name": "ʾAdī",
+   "onom_id": "cm_onom_adi",
+   "syntax_context": "PN | pi-nu | PN₂ (RASH Atab 004 A.02); standalone on RASH Aéti 001 & ENKO Mlin 002"
+  },
+  {
+   "attestation_sites": [
+    "RASH"
+   ],
+   "caveats": "Hybrid Hurrian-Semitic compound.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "ảglby / a-ga-li-bi",
+     "note": "Valério's /Aɣalˀabī/ (sets aside ảglby for its vowels).",
+     "source": "Valério 2016, 371–372; DULAT 25",
+     "tradition": "Ugarit"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "hybrid",
+   "lexicon_ref": "cm_lex_102_025_087_051",
+   "name_type": "personal_name",
+   "normalized_name": "ʾAġalʾabī",
+   "onom_id": "cm_onom_agalabi",
+   "syntax_context": "PN | pi-nu | ma-ki (RASH Atab 004 B.15)"
+  },
+  {
+   "attestation_sites": [
+    "RASH"
+   ],
+   "caveats": "Attested in Ugarit CM 3 prosopography only; not evidence for indigenous Cypriot.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "ảġli / a-ḫa-la-e",
+     "note": "Valério rates its weight as evidence low (2016, 363).",
+     "source": "Valério 2016, 362–363; DULAT 29",
+     "tradition": "Ugarit / Hurrian"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "hurrian",
+   "lexicon_ref": "cm_lex_102_025_087",
+   "name_type": "personal_name",
+   "normalized_name": "ʾAġlā",
+   "onom_id": "cm_onom_agla",
+   "syntax_context": "PN | pi-nu | PN₂ (RASH Atab 004 A.01)"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "HoChyMin corpus reads 102-087-104-097, but Valério (2016, 460) emends sign 3 to illegible •• (102-87-••-97), making the full reading speculative.",
+   "cross_site": false,
+   "external_parallels": [],
+   "kaphtor_exportable": true,
+   "language_affiliation": "unknown",
+   "lexicon_ref": "cm_lex_102_087_104_097",
+   "name_type": "uncertain_name",
+   "normalized_name": "a-la-i-ro",
+   "onom_id": "cm_onom_alairo",
+   "syntax_context": "PN | single-sign mark on Enkomi clay ball ENKO Abou 042"
+  },
+  {
+   "attestation_sites": [
+    "MYRT"
+   ],
+   "caveats": "Standalone four-sign vessel legend without syntactic framing; ownership name hypothesis rests solely on vessel typology (Donnelly 2021).",
+   "cross_site": false,
+   "external_parallels": [],
+   "kaphtor_exportable": true,
+   "language_affiliation": "unknown",
+   "lexicon_ref": "cm_lex_102_087_028_110",
+   "name_type": "personal_name",
+   "normalized_name": "a-la-nu-ku",
+   "onom_id": "cm_onom_alanuku",
+   "syntax_context": "Single four-sign word on clay vessel MYRT Avas 001"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "Final -ko on ENKO Abou 051 may be suffixal or an undelimited isolated sign.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "a-li-sa-ri-ko (ENKO Abou 051)",
+     "note": "Repeated clay-ball name.",
+     "source": "Ferrara and Valério 2017, 89",
+     "tradition": "Cypro-Minoan internal"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "proto_eteocypriot",
+   "lexicon_ref": "cm_lex_102_009_082_085",
+   "name_type": "personal_name",
+   "normalized_name": "a-li-sa-ri",
+   "onom_id": "cm_onom_alisari",
+   "syntax_context": "PN | isolated sign ku (ENKO Abou 081)"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "Ferrara and Valério (2017, 89) allow final 015 (ko) to be an isolated single sign lacking its word-divider.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "a-li-sa-ri | ku (ENKO Abou 081)",
+     "note": "Directly pairs with ENKO Abou 081 a-li-sa-ri.",
+     "source": "Ferrara and Valério 2017, 89",
+     "tradition": "Cypro-Minoan internal"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "proto_eteocypriot",
+   "lexicon_ref": "cm_lex_102_009_082_085_015",
+   "name_type": "personal_name",
+   "normalized_name": "a-li-sa-ri-ko",
+   "onom_id": "cm_onom_alisariko",
+   "syntax_context": "Standalone clay-ball PN (ENKO Abou 051)"
+  },
+  {
+   "attestation_sites": [
+    "RASH"
+   ],
+   "caveats": "Value 074=mu was chosen on this name (Faucounau 1980, 382); Valério (2016, 382–385) proposes /ʾAbīršap/.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "ʿmrpỉ / a-mu-ra-pí, am-mu-ra-pí",
+     "note": "Faucounau's a-mu-ra-bi; Valério reads 074 differently as /ʾAbīršap/.",
+     "source": "Faucounau 1980, 382; DULAT 162; Kinlaw 1967, 22; Valério 2016, 382–385",
+     "tradition": "Ugarit"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "nw_semitic",
+   "lexicon_ref": "cm_lex_102_074_075_051",
+   "name_type": "personal_name",
+   "normalized_name": "ʿAmmurapiʾ",
+   "onom_id": "cm_onom_ammurapi",
+   "syntax_context": "PN | si-ja | ma-ki (RASH Atab 004 B.17)"
+  },
+  {
+   "attestation_sites": [
+    "RASH"
+   ],
+   "caveats": "No exact Ugaritic match; identification of opening 102-074- rests on B.17 ʿAmmurapiʾ.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "shares 102-074- with B.17 ʿAmmurapiʾ",
+     "note": "No attested Ugaritic name matches it whole.",
+     "source": "Faucounau 1980, 382",
+     "tradition": "Cypro-Minoan internal"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "nw_semitic",
+   "lexicon_ref": "cm_lex_102_074_082_051",
+   "name_type": "patronymic",
+   "normalized_name": "ʿAmmusapi",
+   "onom_id": "cm_onom_ammusapi",
+   "syntax_context": "PN | pi-nu | PN₂ (RASH Atab 004 A.02)"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "Language-neutral proto-Eteocypriot classification; semantic etymology unknown.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "a-mo-ta-ro-ti (KITI Ipla 001.v), a-mo-ta-ro-ku-mo (ENKO Abou 021)",
+     "note": "Cross-site personal name at Enkomi and Kition.",
+     "source": "Ferrara and Valério 2017, 87, 90",
+     "tradition": "Cypro-Minoan internal"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "proto_eteocypriot",
+   "lexicon_ref": "cm_lex_102_073_004_097",
+   "name_type": "personal_name",
+   "normalized_name": "a-mo-ta-ro",
+   "onom_id": "cm_onom_amotaro",
+   "syntax_context": "PN | isolated sign (ENKO Abou 015 | ma, 045 | ti); second word on ENKO Avas 002"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "Function of -ku-mo (compound element vs patronymic/epithet) remains open.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "a-mo-ta-ro (ENKO Abou 015, 045), a-mo-ta-ro-ti (KITI Ipla 001.v)",
+     "note": "Extends the attested personal name a-mo-ta-ro with -ku-mo.",
+     "source": "Ferrara and Valério 2017, 87",
+     "tradition": "Cypro-Minoan internal"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "proto_eteocypriot",
+   "lexicon_ref": "cm_lex_102_073_004_097_110_073",
+   "name_type": "compound_name",
+   "normalized_name": "a-mo-ta-ro-ku-mo",
+   "onom_id": "cm_onom_amotarokumo",
+   "syntax_context": "PN | isolated sign ri (ENKO Abou 021)"
+  },
+  {
+   "attestation_sites": [
+    "KITI"
+   ],
+   "caveats": "Functional interpretation depends on Ferrara & Valério's possessive analysis vs Janko's nominative.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "a-li-o-ti (ICS 195), po-te-ro-ti-mu (IG XV 1, 16)",
+     "note": "Exact -o-ti inflection parallel.",
+     "source": "Ferrara and Valério 2017, 90; Steele 2013, 123",
+     "tradition": "Eteocypriot (IG XV 1)"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "proto_eteocypriot",
+   "lexicon_ref": "cm_lex_102_073_004_097_023",
+   "name_type": "personal_name",
+   "normalized_name": "a-mo-ta-ro-ti",
+   "onom_id": "cm_onom_amotaroti",
+   "syntax_context": "a-ri | a-mo-ta-ro-ti ('This is Amotaro's', KITI Ipla 001.v)"
+  },
+  {
+   "attestation_sites": [
+    "RASH"
+   ],
+   "caveats": "Could reflect either Semitic ảnn or Hurrian aneni.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "ảnn / Emar a-ni-ni",
+     "note": "Valério's /Aneni/.",
+     "source": "Valério 2016, 375; DULAT 78",
+     "tradition": "Ugarit / Emar"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "nw_semitic",
+   "lexicon_ref": "cm_lex_102_002_100",
+   "name_type": "personal_name",
+   "normalized_name": "ʾAneni",
+   "onom_id": "cm_onom_aneni",
+   "syntax_context": "PN | gentilic (RASH Atab 004 A.04)"
+  },
+  {
+   "attestation_sites": [
+    "RASH"
+   ],
+   "caveats": "Confirms 002=ne and 071=ja in CM 3.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "ảnnyn / a-na-an-ia-nu, a-na-ni-ya(-a)-nu",
+     "note": "Hurrian anan- 'rejoice'; CM spells one n-syllable (a-ne-) for cuneiform a-na-n(i)-.",
+     "source": "Valério 2016, 376; DULAT 79",
+     "tradition": "Ugarit / Hurrian"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "hurrian",
+   "lexicon_ref": "cm_lex_102_002_071_100",
+   "name_type": "personal_name",
+   "normalized_name": "ʾAnniyāni",
+   "onom_id": "cm_onom_anniyani",
+   "syntax_context": "PN | pi-nu | PN₂ (RASH Atab 004 A.11)"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "Sole word on an Enkomi clay ball; onomastic classification rests on clay-ball typology (Ferrara 2012; Valério 2016, 463; Donnelly 2024). Language affiliation kept unknown pending diagnostic morphology.",
+   "cross_site": false,
+   "external_parallels": [],
+   "kaphtor_exportable": true,
+   "language_affiliation": "unknown",
+   "lexicon_ref": "cm_lex_102_006_067_091_072",
+   "name_type": "personal_name",
+   "normalized_name": "a-pa-ni-mi-ja",
+   "onom_id": "cm_onom_apanimija",
+   "syntax_context": "Single five-sign word on Enkomi clay ball ENKO Abou 057"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "CRITICAL CAVEAT: CM 2 independently attests a 5-form stem paradigm a-ra / a-ra-ta / a-ra-ma / a-ra-to (ENKO Atab 002–003) AND an identical -si-ja ending in su-ri-si-ja (ENKO Atab 003), so a-ra-si-ja could be an inflected common noun rather than the toponym Alashiya.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "Alašiya / ỉrs3 / a-ra-si-jo",
+     "note": "Exact 4-syllable match to Bronze Age name of Cyprus.",
+     "source": "Valério 2016, 417; Knossos Linear B tablets",
+     "tradition": "Akkadian / Egyptian / Linear B"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "unknown",
+   "lexicon_ref": "cm_lex_102_075_027_069",
+   "name_type": "uncertain_name",
+   "normalized_name": "a-ra-si-ja",
+   "onom_id": "cm_onom_arasija",
+   "syntax_context": "Preceded directly by a-ka-na (ENKO Atab 002 B.I.02)"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "Canonical clay-ball formula (multi-sign name + single-sign mark). Sign 2 depends on Valério's emendation 097 (ro) for HoChyMin 068 (a-nu₂-ku-ni).",
+   "cross_site": false,
+   "external_parallels": [],
+   "kaphtor_exportable": true,
+   "language_affiliation": "unknown",
+   "lexicon_ref": "cm_lex_102_097_110_067",
+   "name_type": "personal_name",
+   "normalized_name": "a-ro-ku-ni",
+   "onom_id": "cm_onom_arokuni",
+   "syntax_context": "PN | single-sign mark on Enkomi clay ball ENKO Abou 049 (a-ro-ku-ni | ti)"
+  },
+  {
+   "attestation_sites": [
+    "RASH"
+   ],
+   "caveats": "Emended reading (Valério 2016, 548 reads 102 for HoChyMin 103); Valério (2016, 385) finds no convincing parallel.",
+   "cross_site": false,
+   "external_parallels": [],
+   "kaphtor_exportable": true,
+   "language_affiliation": "unknown",
+   "lexicon_ref": "cm_lex_102_035_082_051",
+   "name_type": "personal_name",
+   "normalized_name": "ʾAwesapi",
+   "onom_id": "cm_onom_awesapi",
+   "syntax_context": "PN | pi-nu | PN₂ (RASH Atab 004 A.08)"
+  },
+  {
+   "attestation_sites": [
+    "RASH"
+   ],
+   "caveats": "Supports 008=na in CM 3.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "dnn / da-na-nu",
+     "note": "Common Semitic personal name at Ugarit.",
+     "source": "Faucounau 1977, 231; Valério 2016, 375; DULAT 274; Kinlaw 1967, 47",
+     "tradition": "Ugarit"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "nw_semitic",
+   "lexicon_ref": "cm_lex_004_008_100",
+   "name_type": "personal_name",
+   "normalized_name": "Danāni",
+   "onom_id": "cm_onom_danani",
+   "syntax_context": "PN | pi-nu | PN₂ (RASH Atab 004 A.10)"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "Semitic etymology on a CM 1 clay ball reflects cosmopolitan Enkomi onomastics, not a Semitic matrix language.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "Ḏbb / Ḏibibu",
+     "note": "Semitic personal name on an Enkomi clay ball.",
+     "source": "Valério 2016, 403",
+     "tradition": "Ugarit / NW Semitic"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "nw_semitic",
+   "lexicon_ref": "cm_lex_027_050_012",
+   "name_type": "personal_name",
+   "normalized_name": "Ḏibibu",
+   "onom_id": "cm_onom_dibibu",
+   "syntax_context": "PN | isolated sign pi (ENKO Abou 041)"
+  },
+  {
+   "attestation_sites": [
+    "ATHI"
+   ],
+   "caveats": "Long seven-sign vessel inscription ending in -ja-ti; could be a compound personal name, dedicatory phrase, or sentence rather than a single PN.",
+   "cross_site": false,
+   "external_parallels": [],
+   "kaphtor_exportable": true,
+   "language_affiliation": "unknown",
+   "lexicon_ref": "cm_lex_038_087_087_004_009_069_023",
+   "name_type": "uncertain_name",
+   "normalized_name": "e-la-la-ta-li-ja-ti",
+   "onom_id": "cm_onom_elalatalijati",
+   "syntax_context": "Single seven-sign -ti inscription on clay vessel ATHI Avas 001"
+  },
+  {
+   "attestation_sites": [
+    "KATY"
+   ],
+   "caveats": "Standalone three-sign vessel legend without syntactic framing; onomastic role provisional.",
+   "cross_site": false,
+   "external_parallels": [],
+   "kaphtor_exportable": true,
+   "language_affiliation": "unknown",
+   "lexicon_ref": "cm_lex_038_027_006",
+   "name_type": "personal_name",
+   "normalized_name": "e-si-pa",
+   "onom_id": "cm_onom_esipa",
+   "syntax_context": "Single three-sign word on clay vessel KATY Avas 001"
+  },
+  {
+   "attestation_sites": [
+    "MARO"
+   ],
+   "caveats": "Paired with -o-ti personal name se-si-ro-ti on MARO Avas 001; ends in -u-ti rather than diagnostic -o-ti, so language affiliation kept unknown.",
+   "cross_site": false,
+   "external_parallels": [],
+   "kaphtor_exportable": true,
+   "language_affiliation": "unknown",
+   "lexicon_ref": "cm_lex_038_046_023",
+   "name_type": "personal_name",
+   "normalized_name": "e-su-ti",
+   "onom_id": "cm_onom_esuti",
+   "syntax_context": "Two-word -ti vessel inscription MARO Avas 001 (e-su-ti | se-si-ro-ti)"
+  },
+  {
+   "attestation_sites": [
+    "RASH"
+   ],
+   "caveats": "Valério (2016, 386) leaves the group unidentified despite the Mari/Ugarit Hurrian comparison.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "Even(n)i / Ewen(n)i / e-we-en-",
+     "note": "Valério leaves the group formally unidentified (2016, 386).",
+     "source": "Valério 2016, 385–386; Kinlaw 1967, 51",
+     "tradition": "Mari / Ugarit Hurrian"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "hurrian",
+   "lexicon_ref": "cm_lex_038_035_100",
+   "name_type": "patronymic",
+   "normalized_name": "ʾEwenni",
+   "onom_id": "cm_onom_ewenni",
+   "syntax_context": "[...] | pi-nu | PN₂ (RASH Atab 004 A.07)"
+  },
+  {
+   "attestation_sites": [
+    "RASH"
+   ],
+   "caveats": "Five-syllable Hurrian match; confirms 001=we.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "ỉwrtḏl / EN-ta-šal / Enta-šalu",
+     "note": "Nahm's e-we-ta-ša-li and Valério's /Evritazal/ (ri of ewri omitted).",
+     "source": "Valério 2016, 372, 658; DULAT 129; Kinlaw 1967, 50",
+     "tradition": "Ugarit / Hurrian"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "hurrian",
+   "lexicon_ref": "cm_lex_038_001_004_082_009",
+   "name_type": "personal_name",
+   "normalized_name": "ʾEwri-tašal",
+   "onom_id": "cm_onom_ewritasal",
+   "syntax_context": "PN | occupational descriptor ʾArabimasakuli (RASH Atab 004 B.16)"
+  },
+  {
+   "attestation_sites": [
+    "RASH"
+   ],
+   "caveats": "First sign marked erased in Valério 2016, 549–550 and omitted by É. Masson 1974, 32.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "gpn / gup-na",
+     "note": "Valério marks initial 025 erased and sets aside gpny (2016, 381, 391).",
+     "source": "Valério 2016, 381, 391, 549–550; Watson 2001, 114",
+     "tradition": "Ugarit toponymy"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "nw_semitic",
+   "lexicon_ref": "cm_lex_025_006_100_040",
+   "name_type": "gentilic",
+   "normalized_name": "Gapaniyi",
+   "onom_id": "cm_onom_gapaniyi",
+   "syntax_context": "PN | TN-ji gentilic (RASH Atab 004 B.12)"
+  },
+  {
+   "attestation_sites": [
+    "CYPR"
+   ],
+   "caveats": "Uses CM 1 allograph 067=ni; shares stem i-ja- with ENKO Mins 001 i-ja-ti and ENKO Atab 002 i-ja-pi.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "ʾIlyāni / i-ja-ni",
+     "note": "Comparable -ni name formation; indigenous Cypriot i-ja- stem also possible.",
+     "source": "Valério 2016, 435, 497",
+     "tradition": "Ugarit / Hurrian"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "unknown",
+   "lexicon_ref": "cm_lex_104_072_067",
+   "name_type": "personal_name",
+   "normalized_name": "i-ja-ni",
+   "onom_id": "cm_onom_ijani",
+   "syntax_context": "Single three-sign word on bronze vessel CYPR Mvas 001"
+  },
+  {
+   "attestation_sites": [
+    "RASH"
+   ],
+   "caveats": "Five-syllable exact match.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "ỉlmlk / ili-milku, ilim-mu-lik",
+     "note": "Saporetti, Nahm, and Valério's /ʾIlīmalik/.",
+     "source": "Valério 2016, 370–371; DULAT 55–56; Kinlaw 1967, 62–63; McAffee 2019, 238",
+     "tradition": "Ugarit"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "nw_semitic",
+   "lexicon_ref": "cm_lex_104_009_055_009_070",
+   "name_type": "personal_name",
+   "normalized_name": "ʾIlī-maliki",
+   "onom_id": "cm_onom_ilimaliki",
+   "syntax_context": "PN | pi-nu | PN₂ (RASH Atab 004 B.14)"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "Semitic theophoric name at Enkomi reflects cosmopolitan onomastics, not a Semitic matrix language.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "ʾIlī-baʿlī / ỉlbʿl",
+     "note": "Cosmopolitan Levantine theophoric name on an Enkomi clay ball.",
+     "source": "Valério 2016, 403",
+     "tradition": "Ugarit / NW Semitic"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "nw_semitic",
+   "lexicon_ref": "cm_lex_104_009_006_009",
+   "name_type": "personal_name",
+   "normalized_name": "i-li-pa-li",
+   "onom_id": "cm_onom_ilipali",
+   "syntax_context": "Standalone clay-ball PN (ENKO Abou 080)"
+  },
+  {
+   "attestation_sites": [
+    "RASH"
+   ],
+   "caveats": "Five-syllable match; virtually zero chance of coincidence.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "ỉlṯtmr (cf. a-mis-tam-ri)",
+     "note": "Nahm's i-li-ta-ma-ri and Valério's /ʾIlīθtamar/ with cluster ṯ unwritten.",
+     "source": "Valério 2016, 368–369; DULAT 65; Kinlaw 1967, 21",
+     "tradition": "Ugarit"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "nw_semitic",
+   "lexicon_ref": "cm_lex_104_009_004_055_096",
+   "name_type": "patronymic",
+   "normalized_name": "ʾIlī-ṯtamri",
+   "onom_id": "cm_onom_ilittamri",
+   "syntax_context": "PN | pi-nu | PN₂ (RASH Atab 004 A.10)"
+  },
+  {
+   "attestation_sites": [
+    "RASH"
+   ],
+   "caveats": "Followed by gentilic Siyanniyi.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "ỉlyn / DINGIR-ia-nu",
+     "note": "Common Ugaritic personal name in -ānu.",
+     "source": "Faucounau 1977, 231; Valério 2016, 376; DULAT 66; Kinlaw 1967, 64",
+     "tradition": "Ugarit"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "nw_semitic",
+   "lexicon_ref": "cm_lex_104_009_071_100",
+   "name_type": "personal_name",
+   "normalized_name": "ʾIlyāni",
+   "onom_id": "cm_onom_ilyani",
+   "syntax_context": "PN | gentilic (RASH Atab 004 A.09)"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "Canonical clay-ball formula (three-sign name + single-sign mark u).",
+   "cross_site": false,
+   "external_parallels": [],
+   "kaphtor_exportable": true,
+   "language_affiliation": "unknown",
+   "lexicon_ref": "cm_lex_104_099_082",
+   "name_type": "personal_name",
+   "normalized_name": "i-ni-sa",
+   "onom_id": "cm_onom_inisa",
+   "syntax_context": "PN | single-sign mark on Enkomi clay ball ENKO Abou 001 (i-ni-sa | u)"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "Reading of 012 as po vs u is contested (Egetmeyer 2013 vs Janko 2020).",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "ka-i-li-po-ti",
+     "note": "Defends 012=po against Egetmeyer 012=u.",
+     "source": "Janko 2020, 56 n. 53",
+     "tradition": "Eteocypriot (IG XV 1)"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "proto_eteocypriot",
+   "lexicon_ref": "cm_lex_104_011_024_006_012_023",
+   "name_type": "personal_name",
+   "normalized_name": "i-pe-le-pa-po-ti",
+   "onom_id": "cm_onom_ipelepapoti",
+   "syntax_context": "PN-po-ti entry opener (ENKO Arou 001 .06)"
+  },
+  {
+   "attestation_sites": [
+    "RASH"
+   ],
+   "caveats": "Key anchor for 058=ši in CM 3 (Valério 2016, 547–548 instead emends 058 to 025/102 on A.03).",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "ỉšbʿl / i-ši-ᵈU",
+     "note": "Saporetti's i-si-ba-li and Faucounau's Iši-baʿal; ʿ unwritten per É. Masson 1974, 40–41.",
+     "source": "Faucounau 1977, 233; Valério 2016, 386; DULAT 112",
+     "tradition": "Ugarit / NW Semitic"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "nw_semitic",
+   "lexicon_ref": "cm_lex_104_058_006_009",
+   "name_type": "personal_name",
+   "normalized_name": "ʾIšbaʿli",
+   "onom_id": "cm_onom_isbali",
+   "syntax_context": "PN entry opener (RASH Atab 004 A.03)"
+  },
+  {
+   "attestation_sites": [
+    "RASH"
+   ],
+   "caveats": "Tentative identification; linguistic affiliation uncertain.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "compared very tentatively to a name on liver model RS 24.326",
+     "note": "Valério reads i?-ja??-pa??-ti.",
+     "source": "Valério 2016, 379",
+     "tradition": "Ugarit"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "unknown",
+   "lexicon_ref": "cm_lex_104_071_006_023",
+   "name_type": "personal_name",
+   "normalized_name": "ʾIyapati",
+   "onom_id": "cm_onom_iyapati",
+   "syntax_context": "PN | pi-nu | [...] (RASH Atab 004 A.06)"
+  },
+  {
+   "attestation_sites": [
+    "SYRI"
+   ],
+   "caveats": "Seal-owner name inference from object genre; exact linguistic affiliation unknown.",
+   "cross_site": false,
+   "external_parallels": [],
+   "kaphtor_exportable": true,
+   "language_affiliation": "unknown",
+   "lexicon_ref": "cm_lex_071_050_005_056",
+   "name_type": "personal_name",
+   "normalized_name": "ja-pi-lo-ne",
+   "onom_id": "cm_onom_japilone",
+   "syntax_context": "Standalone seal legend (SYRI Psce 001)"
+  },
+  {
+   "attestation_sites": [
+    "RASH"
+   ],
+   "caveats": "Vowel discrepancy (i vs u) noted by Nahm (Valério 2016, 368).",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "kbl / DUMU ka-bu-li",
+     "note": "Saporetti's comparison; DULAT notes Hurrian(?) origin, Nahm objects to vowel.",
+     "source": "Valério 2016, 368; DULAT 423",
+     "tradition": "Ugarit"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "hybrid",
+   "lexicon_ref": "cm_lex_025_051_009",
+   "name_type": "patronymic",
+   "normalized_name": "Kabili",
+   "onom_id": "cm_onom_kabili",
+   "syntax_context": "PN | pi-nu | PN₂ (RASH Atab 004 A.08)"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "Language affiliation kept 'unknown' because 3-sign CV spelling fits multiple Mediterranean stocks.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "cf. Greek Ksanthos / Luwian Kasata?",
+     "note": "3-sign name too short for unique linguistic attribution.",
+     "source": "Valério 2016",
+     "tradition": "Aegean / Near Eastern"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "unknown",
+   "lexicon_ref": "cm_lex_025_082_013",
+   "name_type": "personal_name",
+   "normalized_name": "ka-sa-to",
+   "onom_id": "cm_onom_kasato",
+   "syntax_context": "PN | isolated sign pa (ENKO Abou 054)"
+  },
+  {
+   "attestation_sites": [
+    "RASH"
+   ],
+   "caveats": "RASH Atab 001's matrix language appears Cypriot (sharing u-ti and pa-ka), so ka-se-ji may be a cited Syrian/Hurrian name.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "Kašiya / Ḫašiya / Kasi",
+     "note": "Uses CM 3 nisba/glide sign 040=ji.",
+     "source": "Valério 2016, 412",
+     "tradition": "Ugarit / Hurrian"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "hybrid",
+   "lexicon_ref": "cm_lex_025_044_040",
+   "name_type": "gentilic",
+   "normalized_name": "ka-se-ji",
+   "onom_id": "cm_onom_kaseji",
+   "syntax_context": "Body line of CM 3 letter RASH Atab 001"
+  },
+  {
+   "attestation_sites": [
+    "KALA"
+   ],
+   "caveats": "Rival: a Cypriot word in -ti, the ending of ko-no-ti (ENKO Mins 001).",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "kərētî",
+     "note": "Ethnic name in -ī, 'Cretan'.",
+     "source": "HALOT 501",
+     "tradition": "Hebrew"
+    },
+    {
+     "form": "krt",
+     "note": "Royal name.",
+     "source": "DULAT 453",
+     "tradition": "Ugaritic"
+    },
+    {
+     "form": "Krt / Kərētî",
+     "note": "Three signs, with no syntactic framing.",
+     "source": "Valério 2016, 405",
+     "tradition": "Ugaritic / Hebrew"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "nw_semitic",
+   "lexicon_ref": "cm_lex_070_114_023",
+   "name_type": "gentilic",
+   "normalized_name": "Kirīti",
+   "onom_id": "cm_onom_kiriti",
+   "syntax_context": "Standalone vessel inscription (KALA Avas 002)"
+  },
+  {
+   "attestation_sites": [
+    "CYPR"
+   ],
+   "caveats": "Attestation on both a bronze vessel and a miniature copper ingot leaves open whether ko-no is a personal name or metal/vessel term.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "ko-no-ti (ENKO Mins 001), ko-no-to (ENKO Abou 027)",
+     "note": "Group 3 repeated clay-ball stem.",
+     "source": "Ferrara and Valério 2017, 87",
+     "tradition": "Cypro-Minoan internal"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "proto_eteocypriot",
+   "lexicon_ref": "cm_lex_015_017",
+   "name_type": "uncertain_name",
+   "normalized_name": "ko-no",
+   "onom_id": "cm_onom_kono",
+   "syntax_context": "si-ja-li-jo-ti | ko-no (CYPR Mvas 003)"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "Shares personal-name vs commodity ambiguity with bare ko-no.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "mu-no-ti",
+     "note": "-no-ti inflection.",
+     "source": "Valério 2016, 400",
+     "tradition": "Eteocypriot (IG XV 1)"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "proto_eteocypriot",
+   "lexicon_ref": "cm_lex_015_017_023",
+   "name_type": "uncertain_name",
+   "normalized_name": "ko-no-ti",
+   "onom_id": "cm_onom_konoti",
+   "syntax_context": "ko-no-ti | i-ja-ti (ENKO Mins 001)"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "Third sign depends on Valério emendation 013 (to) vs HoChyMin 008 (na).",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "ENKO Abou 027 (Group 3 repeated clay-ball sequence)",
+     "note": "Paired with a second clay-ball witness in the §7 holdout split.",
+     "source": "Ferrara and Valério 2017, 87",
+     "tradition": "Cypro-Minoan internal"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "proto_eteocypriot",
+   "lexicon_ref": "cm_lex_015_017_013",
+   "name_type": "personal_name",
+   "normalized_name": "ko-no-to",
+   "onom_id": "cm_onom_konoto",
+   "syntax_context": "PN | SEQ_2 pi-su-ne-ro (ENKO Abou 027)"
+  },
+  {
+   "attestation_sites": [
+    "RASH"
+   ],
+   "caveats": "Flagship 4-sign theophoric proof for 021=ko, 082=sa, 075=ra, 051=pi.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "ku-šar-a-bi (RS 16.242:5)",
+     "note": "Saporetti's clear-cut match; 0/300 random decoys match as closely in Kinlaw.",
+     "source": "Valério 2016, 370; Kinlaw 1967, 75",
+     "tradition": "Ugarit"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "nw_semitic",
+   "lexicon_ref": "cm_lex_021_082_075_051",
+   "name_type": "personal_name",
+   "normalized_name": "Kôṯar-ʾabī",
+   "onom_id": "cm_onom_kotarabi",
+   "syntax_context": "PN entry opener (RASH Atab 004 B.13)"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "First element on ENKO Abou 018 (ku-mu-ro | pa-mo-ku-si-lo); could be a personal name paired with a patronymic, title, or second name.",
+   "cross_site": false,
+   "external_parallels": [],
+   "kaphtor_exportable": true,
+   "language_affiliation": "unknown",
+   "lexicon_ref": "cm_lex_110_039_097",
+   "name_type": "personal_name",
+   "normalized_name": "ku-mu-ro",
+   "onom_id": "cm_onom_kumuro",
+   "syntax_context": "First word on two-word clay ball ENKO Abou 018 (ku-mu-ro | pa-mo-ku-si-lo)"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "Sole four-sign word on an Enkomi clay ball; closes in -pi, language affiliation unknown.",
+   "cross_site": false,
+   "external_parallels": [],
+   "kaphtor_exportable": true,
+   "language_affiliation": "unknown",
+   "lexicon_ref": "cm_lex_110_034_073_050",
+   "name_type": "personal_name",
+   "normalized_name": "ku-ne-mo-pi",
+   "onom_id": "cm_onom_kunemopi",
+   "syntax_context": "Single four-sign word on Enkomi clay ball ENKO Abou 047"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "Three-sign Hurrian comparison is suggestive but unproved independently.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "Kuzzur",
+     "note": "Two-sequence clay ball paired with ti-ko (cf. Hurrian Tiku).",
+     "source": "Monti 2017; Valério 2016",
+     "tradition": "Hurrian onomastics"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "hurrian",
+   "lexicon_ref": "cm_lex_110_046_097",
+   "name_type": "personal_name",
+   "normalized_name": "ku-su-ro",
+   "onom_id": "cm_onom_kusuro",
+   "syntax_context": "PN | SEQ_2 ti-ko (ENKO Abou 034)"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "Attested alongside personal name a-mo-ta-ro on ENKO Avas 002; could equally be a vessel/commodity term or title rather than a second personal name.",
+   "cross_site": false,
+   "external_parallels": [],
+   "kaphtor_exportable": true,
+   "language_affiliation": "unknown",
+   "lexicon_ref": "cm_lex_087_015_082",
+   "name_type": "uncertain_name",
+   "normalized_name": "la-ko-sa",
+   "onom_id": "cm_onom_lakosa",
+   "syntax_context": "Three-word clay vessel ENKO Avas 002 beside personal name a-mo-ta-ro"
+  },
+  {
+   "attestation_sites": [
+    "TIRY"
+   ],
+   "caveats": "Standalone three-sign vessel inscription found at Tiryns without syntactic framing; ownership name hypothesis provisional.",
+   "cross_site": false,
+   "external_parallels": [],
+   "kaphtor_exportable": true,
+   "language_affiliation": "unknown",
+   "lexicon_ref": "cm_lex_087_051_005",
+   "name_type": "personal_name",
+   "normalized_name": "la-pi-lo",
+   "onom_id": "cm_onom_lapilo",
+   "syntax_context": "Single three-sign word on clay vessel TIRY Avas 002 (exported Cypriot vessel at Tiryns)"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "Sole three-sign word on an Enkomi clay ball.",
+   "cross_site": false,
+   "external_parallels": [],
+   "kaphtor_exportable": true,
+   "language_affiliation": "unknown",
+   "lexicon_ref": "cm_lex_087_082_024",
+   "name_type": "personal_name",
+   "normalized_name": "la-sa-le",
+   "onom_id": "cm_onom_lasale",
+   "syntax_context": "Single three-sign word on Enkomi clay ball ENKO Abou 030"
+  },
+  {
+   "attestation_sites": [
+    "RASH"
+   ],
+   "caveats": "Two-sign hypocoristic; exact root ambiguous between Semitic and Anatolian/Hurrian.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "mlʿn / Emar Mali",
+     "note": "Short form compared by Valério (ma??-li?).",
+     "source": "Valério 2016, 367",
+     "tradition": "Ugarit / Emar"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "nw_semitic",
+   "lexicon_ref": "cm_lex_055_009",
+   "name_type": "patronymic",
+   "normalized_name": "Mali",
+   "onom_id": "cm_onom_mali",
+   "syntax_context": "PN | pi-nu | PN₂ (RASH Atab 004 A.01)"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "Semantic decomposition into maliki + po-ti is plausible but unproved.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "ka-i-li-po-ti (IG XV 1) + Semitic mlk",
+     "note": "Possible hybrid Semitic-stem name inflected with Cypriot -po-ti.",
+     "source": "Janko 2020, 56; Valério 2016",
+     "tradition": "Eteocypriot / NW Semitic"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "hybrid",
+   "lexicon_ref": "cm_lex_053_009_070_012_023",
+   "name_type": "compound_name",
+   "normalized_name": "ma-li-ki-po-ti",
+   "onom_id": "cm_onom_malikipoti",
+   "syntax_context": "PN-po-ti entry opener (ENKO Arou 001 .03)"
+  },
+  {
+   "attestation_sites": [
+    "RASH"
+   ],
+   "caveats": "Confirms 040=ji as the Ugaritic nisba gentilic marker.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "mʿqby (village mʿqb, modern el-ʿAqabé)",
+     "note": "Nahm's ma-ka-pi-yi, called ingenious and unambiguous by Valério.",
+     "source": "Valério 2016, 380; DULAT 516; Astour 1995, 56, 65; Watson 2001, 117",
+     "tradition": "Ugarit toponymy"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "nw_semitic",
+   "lexicon_ref": "cm_lex_055_025_051_040",
+   "name_type": "gentilic",
+   "normalized_name": "Maʿqabiyi",
+   "onom_id": "cm_onom_maqabiyi",
+   "syntax_context": "PN | TN-ji gentilic (RASH Atab 004 A.04)"
+  },
+  {
+   "attestation_sites": [
+    "RASH"
+   ],
+   "caveats": "Hurrian affiliation follows Nahm (Valério 2016, 378).",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "Hurrian root muš/z- (Nahm's mo-sa-ni)",
+     "note": "Listed as 'son of the king' (pi-nu | ma-ki).",
+     "source": "Valério 2016, 378",
+     "tradition": "Ugarit / Hurrian"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "hurrian",
+   "lexicon_ref": "cm_lex_073_092_100",
+   "name_type": "personal_name",
+   "normalized_name": "Mosani",
+   "onom_id": "cm_onom_mosani",
+   "syntax_context": "PN | pi-nu | ma-ki (RASH Atab 004 B.18)"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "Depends on Valério's emended reading 073 (mo-si-ma) vs. HoChyMin corpus 075 (ra-si-ma) (Valério 2016, 454).",
+   "cross_site": false,
+   "external_parallels": [],
+   "kaphtor_exportable": true,
+   "language_affiliation": "unknown",
+   "lexicon_ref": "cm_lex_073_027_053",
+   "name_type": "personal_name",
+   "normalized_name": "mo-si-ma",
+   "onom_id": "cm_onom_mosima",
+   "syntax_context": "First word on two-word Enkomi clay ball ENKO Abou 012"
+  },
+  {
+   "attestation_sites": [
+    "ENKO",
+    "HALA"
+   ],
+   "caveats": "Varying final isolated sign (∅, su, mo) across 3 balls is a key test case between lot-casting and receipt-token hypotheses.",
+   "cross_site": true,
+   "external_parallels": [
+    {
+     "form": "Group 1 repeated clay-ball name",
+     "note": "Cross-site Enkomi + Hala Sultan Tekke attestation with varying isolated signs.",
+     "source": "Ferrara and Valério 2017, 84–87",
+     "tradition": "Cypro-Minoan internal"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "proto_eteocypriot",
+   "lexicon_ref": "cm_lex_064_005_024",
+   "name_type": "personal_name",
+   "normalized_name": "o-lo-le",
+   "onom_id": "cm_onom_olole",
+   "syntax_context": "PN standalone (ENKO Abou 067); PN | su (ENKO Abou 072); PN | mo (HALA Abou 002)"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "Canonical clay-ball formula (four-sign name + single-sign mark); language affiliation unknown.",
+   "cross_site": false,
+   "external_parallels": [],
+   "kaphtor_exportable": true,
+   "language_affiliation": "unknown",
+   "lexicon_ref": "cm_lex_006_025_082_097",
+   "name_type": "personal_name",
+   "normalized_name": "pa-ka-sa-ro",
+   "onom_id": "cm_onom_pakasaro",
+   "syntax_context": "PN | single-sign mark on Enkomi clay ball ENKO Abou 055 (pa-ka-sa-ro | su)"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "Second element on ENKO Abou 018 (ku-mu-ro | pa-mo-ku-si-lo); exact internal segmentation and language affiliation remain open.",
+   "cross_site": false,
+   "external_parallels": [],
+   "kaphtor_exportable": true,
+   "language_affiliation": "unknown",
+   "lexicon_ref": "cm_lex_006_073_110_027_005",
+   "name_type": "personal_name",
+   "normalized_name": "pa-mo-ku-si-lo",
+   "onom_id": "cm_onom_pamokusilo",
+   "syntax_context": "Second word on two-word clay ball ENKO Abou 018 (ku-mu-ro | pa-mo-ku-si-lo)"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "Sole five-sign word on an Enkomi clay ball; shares reduplicated pa-pa- onset with CM 2 pa-pa-sa, but language affiliation remains unknown.",
+   "cross_site": false,
+   "external_parallels": [],
+   "kaphtor_exportable": true,
+   "language_affiliation": "unknown",
+   "lexicon_ref": "cm_lex_006_006_004_099_046",
+   "name_type": "personal_name",
+   "normalized_name": "pa-pa-ta-ni-su",
+   "onom_id": "cm_onom_papatanisu",
+   "syntax_context": "Single five-sign word on Enkomi clay ball ENKO Abou 082"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "Second element after ko-no-to on ENKO Abou 027; one element is likely a personal name and the other a patronymic or title; language affiliation unknown.",
+   "cross_site": false,
+   "external_parallels": [],
+   "kaphtor_exportable": true,
+   "language_affiliation": "unknown",
+   "lexicon_ref": "cm_lex_050_046_034_097",
+   "name_type": "personal_name",
+   "normalized_name": "pi-su-ne-ro",
+   "onom_id": "cm_onom_pisunero",
+   "syntax_context": "Second word on two-word Enkomi clay ball ENKO Abou 027 (ko-no-to | pi-su-ne-ro)"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "Initial pu matches isolated sign pu (possible abbreviation/echo).",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "085 (ri) + 088 (jo) glide spelling",
+     "note": "Key palatal-glide anchor for 085=ri.",
+     "source": "Valério 2016, 438",
+     "tradition": "Cypro-Minoan internal"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "proto_eteocypriot",
+   "lexicon_ref": "cm_lex_061_085_088",
+   "name_type": "personal_name",
+   "normalized_name": "pu-ri-jo",
+   "onom_id": "cm_onom_purijo",
+   "syntax_context": "PN | isolated sign pu (ENKO Abou 068)"
+  },
+  {
+   "attestation_sites": [
+    "KALA"
+   ],
+   "caveats": "Owner-name classification rests on artifact type (signet/gold ring); language unknown.",
+   "cross_site": false,
+   "external_parallels": [],
+   "kaphtor_exportable": true,
+   "language_affiliation": "unknown",
+   "lexicon_ref": "cm_lex_096_110_033_055",
+   "name_type": "personal_name",
+   "normalized_name": "ri-ku-re-ma",
+   "onom_id": "cm_onom_rikurema",
+   "syntax_context": "Standalone gold-ring legend (KALA Mbij 002)"
+  },
+  {
+   "attestation_sites": [
+    "CYPR"
+   ],
+   "caveats": "Palindromic sequence reads identically on seal and impression; onomastic role rests on cylinder-seal typology (Donnelly 2024).",
+   "cross_site": false,
+   "external_parallels": [],
+   "kaphtor_exportable": true,
+   "language_affiliation": "unknown",
+   "lexicon_ref": "cm_lex_082_025_082",
+   "name_type": "personal_name",
+   "normalized_name": "sa-ka-sa",
+   "onom_id": "cm_onom_sakasa",
+   "syntax_context": "Cylinder seal CYPR? Psce 001 beside broken right-edge fragment ki-ja-ti-["
+  },
+  {
+   "attestation_sites": [
+    "MARO"
+   ],
+   "caveats": "Standalone three-sign vessel inscription ending in -i-ti without syntactic framing; language affiliation unknown.",
+   "cross_site": false,
+   "external_parallels": [],
+   "kaphtor_exportable": true,
+   "language_affiliation": "unknown",
+   "lexicon_ref": "cm_lex_082_091_023",
+   "name_type": "personal_name",
+   "normalized_name": "sa-mi-ti",
+   "onom_id": "cm_onom_samiti",
+   "syntax_context": "Single three-sign -ti word on clay vessel MARO Avas 002"
+  },
+  {
+   "attestation_sites": [
+    "RASH"
+   ],
+   "caveats": "Exact Anatolian vs Hurrian origin open; no exact Ugaritic alphabetic parallel.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "Anatolian ethnic/onomastic ending -wanni-",
+     "note": "Demonstrates -Cu-wa glide spelling.",
+     "source": "É. Masson 1974, 43 and n. 143",
+     "tradition": "Anatolian"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "anatolian",
+   "lexicon_ref": "cm_lex_092_028_095_100",
+   "name_type": "patronymic",
+   "normalized_name": "Sanuwani",
+   "onom_id": "cm_onom_sanuwani",
+   "syntax_context": "PN | pi-nu | PN₂ (RASH Atab 004 A.11)"
+  },
+  {
+   "attestation_sites": [
+    "PPAP"
+   ],
+   "caveats": "Owner-name classification rests on vessel genre + -jo-ti suffix.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "a-li-o-ti",
+     "note": "Palaepaphos -jo-ti vessel inscription.",
+     "source": "Valério 2016, 400",
+     "tradition": "Eteocypriot (IG XV 1)"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "proto_eteocypriot",
+   "lexicon_ref": "cm_lex_082_006_082_088_023",
+   "name_type": "personal_name",
+   "normalized_name": "sa-pa-sa-jo-ti",
+   "onom_id": "cm_onom_sapasajoti",
+   "syntax_context": "Standalone metal-vessel legend (PPAP Mvas 001)"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "Short 3-sign spelling; Semitic identification plausible but unproved independently.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "Ša-pī-ili",
+     "note": "Semitic personal name attested in LBA Syria.",
+     "source": "Valério 2016, 402",
+     "tradition": "Akkadian / Ugarit"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "nw_semitic",
+   "lexicon_ref": "cm_lex_082_050_009",
+   "name_type": "personal_name",
+   "normalized_name": "Ša-pī-ili",
+   "onom_id": "cm_onom_sapiili",
+   "syntax_context": "Standalone clay-ball PN (ENKO Abou 002)"
+  },
+  {
+   "attestation_sites": [
+    "RASH"
+   ],
+   "caveats": "Depends on 058=ši; Valério (2016, 389) sets aside his earlier /Šapšu-malik/ reading.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "špšmlk / ᵈUTU-LUGAL (RS 20.32 colophon)",
+     "note": "Coda -p- unwritten; Valério's earlier /Šapšu-malik/ (set aside in 2016, 389).",
+     "source": "DULAT 825; Valério 2016, 389",
+     "tradition": "Ugarit"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "nw_semitic",
+   "lexicon_ref": "cm_lex_082_058_055_009_070",
+   "name_type": "personal_name",
+   "normalized_name": "Šapši-maliki",
+   "onom_id": "cm_onom_sapsimaliki",
+   "syntax_context": "PN | sa₂-pe-ri | pa (RASH Atab 004 B.19)"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "Could alternatively be a title or theonym on ENKO Arou 001.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "sa-ri-jo-ti (ENKO Arou 001 .02, .09)",
+     "note": "Direct clay-ball to cylinder inflection link.",
+     "source": "Ferrara and Valério 2017, 89; Janko 2020, 55",
+     "tradition": "Cypro-Minoan internal"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "proto_eteocypriot",
+   "lexicon_ref": "cm_lex_082_096_088",
+   "name_type": "personal_name",
+   "normalized_name": "sa-ri-jo",
+   "onom_id": "cm_onom_sarijo",
+   "syntax_context": "PN | isolated sign ka (ENKO Abou 031)"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "Personal name vs official title remains open.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "a-li-o-ti",
+     "note": "Matches Eteocypriot -o-ti personal-name ending.",
+     "source": "Janko 2020, 55–56",
+     "tradition": "Eteocypriot (IG XV 1)"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "proto_eteocypriot",
+   "lexicon_ref": "cm_lex_082_096_088_023",
+   "name_type": "personal_name",
+   "normalized_name": "sa-ri-jo-ti",
+   "onom_id": "cm_onom_sarijoti",
+   "syntax_context": "mo-sa | sa-ri-jo-ti (ENKO Arou 001 .02, .09)"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "Onomastic status follows Janko 2020's accounting-entry template.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "a-li-o-ti (ICS 195), po-te-ro-ti-mu (IG XV 1, 16)",
+     "note": "Contributor name opening entry 11.",
+     "source": "Janko 2020, 55–56",
+     "tradition": "Eteocypriot (IG XV 1)"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "proto_eteocypriot",
+   "lexicon_ref": "cm_lex_044_088_097_023",
+   "name_type": "personal_name",
+   "normalized_name": "se-jo-ro-ti",
+   "onom_id": "cm_onom_sejoroti",
+   "syntax_context": "PN-o-ti entry opener (ENKO Arou 001 .23)"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "Etymological affiliation unassigned beyond CM 1 substrate.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "se-pu-ro-u-ku (ENKO Abou 044)",
+     "note": "Repeated clay-ball stem.",
+     "source": "Ferrara and Valério 2017, 87–88",
+     "tradition": "Cypro-Minoan internal"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "proto_eteocypriot",
+   "lexicon_ref": "cm_lex_044_061_097",
+   "name_type": "personal_name",
+   "normalized_name": "se-pu-ro",
+   "onom_id": "cm_onom_sepuro",
+   "syntax_context": "PN | isolated sign ko (ENKO Abou 048)"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "Exact morphological role of -u-ku remains open.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "se-pu-ro | ko (ENKO Abou 048)",
+     "note": "Directly extends ENKO Abou 048 se-pu-ro.",
+     "source": "Ferrara and Valério 2017, 87–88",
+     "tradition": "Cypro-Minoan internal"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "proto_eteocypriot",
+   "lexicon_ref": "cm_lex_044_061_097_019_110",
+   "name_type": "compound_name",
+   "normalized_name": "se-pu-ro-u-ku",
+   "onom_id": "cm_onom_sepurouku",
+   "syntax_context": "Standalone clay-ball compound PN (ENKO Abou 044)"
+  },
+  {
+   "attestation_sites": [
+    "MARO"
+   ],
+   "caveats": "Two-word vessel legend; owner-name role inferred from -ro-ti ending.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "po-te-ro-ti-mu",
+     "note": "Matches -ro-ti nominal/PN ending.",
+     "source": "Valério 2016, 400",
+     "tradition": "Eteocypriot (IG XV 1)"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "proto_eteocypriot",
+   "lexicon_ref": "cm_lex_044_027_097_023",
+   "name_type": "personal_name",
+   "normalized_name": "se-si-ro-ti",
+   "onom_id": "cm_onom_sesiroti",
+   "syntax_context": "e-su-ti | se-si-ro-ti (MARO Avas 001)"
+  },
+  {
+   "attestation_sites": [
+    "PARA"
+   ],
+   "caveats": "Seal-owner name inference from object genre (parallel to SYRI Psce 001 ja-pi-lo-ne).",
+   "cross_site": false,
+   "external_parallels": [],
+   "kaphtor_exportable": true,
+   "language_affiliation": "unknown",
+   "lexicon_ref": "cm_lex_044_004_013_069",
+   "name_type": "personal_name",
+   "normalized_name": "se-ta-to-ja",
+   "onom_id": "cm_onom_setatoja",
+   "syntax_context": "Standalone seal legend (PARA Psce 001)"
+  },
+  {
+   "attestation_sites": [
+    "CYPR"
+   ],
+   "caveats": "Bare stem si-ja-li-jo not yet independently attested.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "a-li-o-ti",
+     "note": "Classic -jo-ti vessel-owner inscription.",
+     "source": "Valério 2016, 400; Steele 2013, 123",
+     "tradition": "Eteocypriot (IG XV 1)"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "proto_eteocypriot",
+   "lexicon_ref": "cm_lex_027_069_009_088_023",
+   "name_type": "personal_name",
+   "normalized_name": "si-ja-li-jo-ti",
+   "onom_id": "cm_onom_sijalijoti",
+   "syntax_context": "PN-o-ti | ko-no (CYPR Mvas 003 bronze bowl)"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "Bare stem si-mo not yet independently attested.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "a-li-o-ti",
+     "note": "Explicit bare -o-ti vowel sign 064=o before 023=ti.",
+     "source": "Valério 2016, 400",
+     "tradition": "Eteocypriot (IG XV 1)"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "proto_eteocypriot",
+   "lexicon_ref": "cm_lex_027_073_064_023",
+   "name_type": "personal_name",
+   "normalized_name": "si-mo-o-ti",
+   "onom_id": "cm_onom_simooti",
+   "syntax_context": "Standalone ceramic-vessel legend (ENKO Avas 003)"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "Reflects Levantine personal name at Enkomi.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "Sinaru / Šinaru",
+     "note": "Attested Syrian/Ugaritic PN.",
+     "source": "Valério 2016, 403",
+     "tradition": "Ugarit / Near Eastern"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "nw_semitic",
+   "lexicon_ref": "cm_lex_027_008_097",
+   "name_type": "personal_name",
+   "normalized_name": "Sinaru",
+   "onom_id": "cm_onom_sinaru",
+   "syntax_context": "PN | isolated sign sa (ENKO Abou 053)"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "Short 3-sign match; Anatolian affiliation remains provisional.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "Zizzatta",
+     "note": "Two-sequence clay ball at Enkomi.",
+     "source": "Valério 2016",
+     "tradition": "Anatolian onomastics"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "anatolian",
+   "lexicon_ref": "cm_lex_027_082_013",
+   "name_type": "personal_name",
+   "normalized_name": "si-sa-to",
+   "onom_id": "cm_onom_sisato",
+   "syntax_context": "PN | SEQ_2 ti-ja-po-li-ja (ENKO Abou 022)"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "Onomastic status follows Janko 2020's accounting-entry model.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "a-li-o-ti (ICS 195), po-te-ro-ti-mu (IG XV 1, 16)",
+     "note": "Contributor name opening entry 3.",
+     "source": "Janko 2020, 55–56",
+     "tradition": "Eteocypriot (IG XV 1)"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "proto_eteocypriot",
+   "lexicon_ref": "cm_lex_027_013_110_097_023",
+   "name_type": "personal_name",
+   "normalized_name": "si-to-ku-ro-ti",
+   "onom_id": "cm_onom_sitokuroti",
+   "syntax_context": "PN-o-ti entry opener (ENKO Arou 001 .04)"
+  },
+  {
+   "attestation_sites": [
+    "RASH"
+   ],
+   "caveats": "Strong onomastic anchor for both emended 037b=zi and 040=ji.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "syny ('PN syny', kingdom of Siyannu)",
+     "note": "Nahm's si-ya-ni-yi and Valério's /ʦijānnīji/.",
+     "source": "Valério 2016, 380; DULAT 763; Astour 1995, 56; Watson 2001, 119",
+     "tradition": "Ugarit toponymy"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "nw_semitic",
+   "lexicon_ref": "cm_lex_037b_071_100_040",
+   "name_type": "gentilic",
+   "normalized_name": "Siyanniyi",
+   "onom_id": "cm_onom_siyanniyi",
+   "syntax_context": "PN | TN-ji gentilic (RASH Atab 004 A.09)"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "Canonical clay-ball formula (three-sign name in -no + single-sign mark mo); language affiliation kept unknown pending diagnostic morphology.",
+   "cross_site": false,
+   "external_parallels": [],
+   "kaphtor_exportable": true,
+   "language_affiliation": "unknown",
+   "lexicon_ref": "cm_lex_046_070_017",
+   "name_type": "personal_name",
+   "normalized_name": "su-ki-no",
+   "onom_id": "cm_onom_sukino",
+   "syntax_context": "PN | single-sign mark on Enkomi clay ball ENKO Abou 073 (su-ki-no | mo)"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "Sole four-sign word on an Enkomi clay ball; displays the CM -Ci-jV- palatal glide sequence (085=ri + 088=jo); language affiliation unknown.",
+   "cross_site": false,
+   "external_parallels": [],
+   "kaphtor_exportable": true,
+   "language_affiliation": "unknown",
+   "lexicon_ref": "cm_lex_046_015_085_088",
+   "name_type": "personal_name",
+   "normalized_name": "su-ko-ri-jo",
+   "onom_id": "cm_onom_sukorijo",
+   "syntax_context": "Single four-sign word on Enkomi clay ball ENKO Abou 036"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "Bare stem su-ma- not yet independently attested.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "ka-i-li-po-ti",
+     "note": "Third -po-ti opener in ENKO Arou 001 Part II.",
+     "source": "Janko 2020, 56",
+     "tradition": "Eteocypriot (IG XV 1)"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "proto_eteocypriot",
+   "lexicon_ref": "cm_lex_046_053_012_023",
+   "name_type": "personal_name",
+   "normalized_name": "su-ma-po-ti",
+   "onom_id": "cm_onom_sumapoti",
+   "syntax_context": "PN-po-ti entry opener (ENKO Arou 001 .07)"
+  },
+  {
+   "attestation_sites": [
+    "RASH"
+   ],
+   "caveats": "Initial stop 004=ta neutralizes t/d/ṭ.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "tyn / Nuzi Tayanu",
+     "note": "Nahm's ta-ja-ni and Valério's /Tajāni/.",
+     "source": "Valério 2016, 376–377; DULAT 871",
+     "tradition": "Ugarit / Nuzi"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "nw_semitic",
+   "lexicon_ref": "cm_lex_004_071_100",
+   "name_type": "patronymic",
+   "normalized_name": "Tayyāni",
+   "onom_id": "cm_onom_tayyani",
+   "syntax_context": "PN | pi-nu | PN₂ (RASH Atab 004 A.05)"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "Second element after si-sa-to on ENKO Abou 022; exact morphological division open.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "ka-wa-li-ja (ICS 193)",
+     "note": "Shared -li-ja ending.",
+     "source": "IG XV 1, 4",
+     "tradition": "Amathus Eteocypriot"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "proto_eteocypriot",
+   "lexicon_ref": "cm_lex_023_072_012_009_072",
+   "name_type": "personal_name",
+   "normalized_name": "ti-ja-po-li-ja",
+   "onom_id": "cm_onom_tijapolija",
+   "syntax_context": "Second word on two-word Enkomi clay ball ENKO Abou 022 (si-sa-to | ti-ja-po-li-ja)"
+  },
+  {
+   "attestation_sites": [
+    "KITI"
+   ],
+   "caveats": "Owner-name classification rests solely on artifact genre (luxury ivory object).",
+   "cross_site": false,
+   "external_parallels": [],
+   "kaphtor_exportable": true,
+   "language_affiliation": "unknown",
+   "lexicon_ref": "cm_lex_023_092_097",
+   "name_type": "personal_name",
+   "normalized_name": "ti-sa₂-ro",
+   "onom_id": "cm_onom_tisaro",
+   "syntax_context": "Standalone owner inscription on ivory pipe (KITI Iins 002)"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "Second element after a-ro on ENKO Abou 065; sign 1 depends on Valério's emendation 013 (to) for HoChyMin 008 (na-ja-ta); language affiliation unknown.",
+   "cross_site": false,
+   "external_parallels": [],
+   "kaphtor_exportable": true,
+   "language_affiliation": "unknown",
+   "lexicon_ref": "cm_lex_013_072_004",
+   "name_type": "personal_name",
+   "normalized_name": "to-ja-ta",
+   "onom_id": "cm_onom_tojata",
+   "syntax_context": "Second word on two-word Enkomi clay ball ENKO Abou 065 (a-ro | to-ja-ta)"
+  },
+  {
+   "attestation_sites": [
+    "RASH"
+   ],
+   "caveats": "Depends on emended 073 (mo) for HoChyMin 072.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "ul-amurru",
+     "note": "Emended 073 for HoChyMin 072; Nahm's ul-amurru kept plausible by Valério.",
+     "source": "Valério 2016, 369–370, 547 n. 1242; Duhoux 2013, 39 n. 54",
+     "tradition": "Ugarit / Akkadian"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "nw_semitic",
+   "lexicon_ref": "cm_lex_019_087_073_096",
+   "name_type": "personal_name",
+   "normalized_name": "ʾUl-ʾAmurri",
+   "onom_id": "cm_onom_ulamurri",
+   "syntax_context": "PN | gentilic (RASH Atab 004 B.12)"
+  },
+  {
+   "attestation_sites": [
+    "RASH"
+   ],
+   "caveats": "Final -mo-ti is Semitic theonym Môtu + genitive -i, unrelated to Cypriot -o-ti.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "ủmmt ('bn ủmmt')",
+     "note": "Nahm's ummt and Valério's /ʾUmmīmōtu/; -mo-ti is Semitic Môtu + genitive -i, NOT Cypriot -o-ti.",
+     "source": "Valério 2016, 371; DULAT 68; McAffee 2019, 13–14",
+     "tradition": "Ugarit"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "nw_semitic",
+   "lexicon_ref": "cm_lex_019_091_073_023",
+   "name_type": "patronymic",
+   "normalized_name": "ʾUmmī-môti",
+   "onom_id": "cm_onom_ummimoti",
+   "syntax_context": "PN | pi-nu | PN₂ (RASH Atab 004 B.14)"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "Two witnesses (ENKO Abou 040 and ENKO Abou 066) are translated; the third Group 4 clay ball carries an unvalued isolated sign.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "Group 4 repeated clay-ball sequence",
+     "note": "Attested across 3 Enkomi clay balls with 3 different isolated signs.",
+     "source": "Ferrara and Valério 2017, 87",
+     "tradition": "Cypro-Minoan internal"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "proto_eteocypriot",
+   "lexicon_ref": "cm_lex_001_023_072_085",
+   "name_type": "personal_name",
+   "normalized_name": "we-ti-ja-ri",
+   "onom_id": "cm_onom_wetijari",
+   "syntax_context": "PN | isolated sign lo (ENKO Abou 040) & PN | isolated sign o (ENKO Abou 066)"
+  },
+  {
+   "attestation_sites": [
+    "RASH"
+   ],
+   "caveats": "Depends on CM 3 emended sign 037b=zi; Ugaritic štn also fits phonetically.",
+   "cross_site": false,
+   "external_parallels": [
+    {
+     "form": "Luwian Zidanni / Ugarit śdn (also štn / ša-ta?-na)",
+     "note": "Valério's /ʦidanni/.",
+     "source": "Valério 2016, 380–381; DULAT 839",
+     "tradition": "Luwian / Ugarit"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "anatolian",
+   "lexicon_ref": "cm_lex_037b_004_100",
+   "name_type": "personal_name",
+   "normalized_name": "Zidanni",
+   "onom_id": "cm_onom_zidanni",
+   "syntax_context": "PN entry opener (RASH Atab 004 A.09)"
+  },
+  {
+   "attestation_sites": [
+    "ENKO"
+   ],
+   "caveats": "Canonical clay-ball formula (three-sign name + single-sign mark u); language affiliation unknown.",
+   "cross_site": false,
+   "external_parallels": [],
+   "kaphtor_exportable": true,
+   "language_affiliation": "unknown",
+   "lexicon_ref": "cm_lex_041_028_021",
+   "name_type": "personal_name",
+   "normalized_name": "zi-nu-ko",
+   "onom_id": "cm_onom_zinuko",
+   "syntax_context": "PN | single-sign mark on Enkomi clay ball ENKO Abou 016 (zi-nu-ko | u)"
+  },
+  {
+   "attestation_sites": [
+    "ENKO",
+    "IDAL",
+    "TIRY"
+   ],
+   "caveats": "Reduplicated zi-zi- onset; phonetic value of 041=zi ruled via Valério 2016.",
+   "cross_site": true,
+   "external_parallels": [
+    {
+     "form": "IDAL Avas 001 = TIRY Abou 001",
+     "note": "Rare exact match between Cyprus and mainland Greece (Tiryns).",
+     "source": "Ferrara and Valério 2017, 86; Valério 2016",
+     "tradition": "Cypro-Minoan cross-Aegean"
+    }
+   ],
+   "kaphtor_exportable": true,
+   "language_affiliation": "proto_eteocypriot",
+   "lexicon_ref": "cm_lex_041_041_097",
+   "name_type": "personal_name",
+   "normalized_name": "zi-zi-ro",
+   "onom_id": "cm_onom_ziziro",
+   "syntax_context": "Standalone vessel legend (IDAL Avas 001) & Tiryns clay ball (TIRY Abou 001)"
+  }
+ ],
+ "language_affiliations": [
+  "nw_semitic",
+  "hurrian",
+  "proto_eteocypriot",
+  "anatolian",
+  "aegean_greek",
+  "egyptian",
+  "hybrid",
+  "unknown",
+  "unassigned"
+ ],
+ "name_types": [
+  "personal_name",
+  "patronymic",
+  "gentilic",
+  "toponym",
+  "theonym_element",
+  "compound_name",
+  "uncertain_name"
+ ],
+ "schema_version": "1.0",
+ "stats": {
+  "by_language_affiliation": {
+   "anatolian": 3,
+   "hurrian": 6,
+   "hybrid": 4,
+   "nw_semitic": 23,
+   "proto_eteocypriot": 25,
+   "unknown": 34
+  },
+  "by_name_type": {
+   "compound_name": 3,
+   "gentilic": 5,
+   "patronymic": 8,
+   "personal_name": 73,
+   "uncertain_name": 6
+  },
+  "cross_site": 2,
+  "kaphtor_exportable": 95,
+  "total_names": 95
+ },
+ "status": "provisional"
+}

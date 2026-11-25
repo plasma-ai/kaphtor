@@ -46,7 +46,7 @@ di Mino's reading, CANDIDATE, incomplete; 2 words.
 |  | 465 | 064-005-024 | o-lo-le | o-lo-le |  | CANDIDATE, emended text |  | Reads o-lo-le with CM 1 vowel 064 = o; exact match on ENKO Abou 072 and HALA Abou 002. |
 |  | 465 | *not reproduced* |  |  |  | unresolved, SPECULATIVE, emended text |  | Contains one or more signs without a ruled grid value. No reading. |
 
-Two-word Enkomi clay ball opening with recurring o-lo-le (identical to ENKO Abou 072 and HALA Abou 002) followed by \[081\]-to-li-ja.
+Two-word Enkomi clay ball opening with recurring o-lo-le (identical to ENKO Abou 072 and HALA Abou 002) followed by an unread four-sign group.
 
 ## Metadata
 

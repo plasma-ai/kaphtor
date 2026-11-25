@@ -7,8 +7,8 @@ kind: "cypro_minoan_text"
 id: "ENKO Abou 068"
 site_code: "ENKO"
 type_code: "Abou"
-created: 2026-11-18T19:49:10Z
-updated: 2026-11-18T19:49:10Z
+created: 2026-11-25T03:51:15Z
+updated: 2026-11-25T03:51:15Z
 ---
 
 # ENKO Abou 068
@@ -34,6 +34,19 @@ updated: 2026-11-18T19:49:10Z
 | Edition of record | HoChyMin, transcribed in Valério 2016, Appendix A, 465; unverified |
 
 Not checked against HoChyMin, which is not held.
+
+## Translation
+
+
+
+di Mino's reading, CANDIDATE, incomplete; 2 words.
+
+| Line | Page | Group | Values | Reading | Gloss | Tier | Rivals | Note |
+|---|---|---|---|---|---|---|---|---|
+|  | 465 | 061-085-088 | pu-ri-jo | pu-ri-jo |  | CANDIDATE | Ferrara and Valério, tu??-ri-jo, clay ball sequence (cf. sa-ri-jo) (Valério 2016, 465) | Three-syllable CM 1 clay-ball sequence using 085 = ri before palatal glide 088 = jo (-i-j- rule); Ferrara and Valério (2017, 89) read tu??-ri-jo and note possible error for sa-ri-jo. |
+|  | 465 | 061 | pu | pu |  | CANDIDATE |  | Isolated single sign after divider (HoChyMin 061 = pu; Valério 2016, 465 allows alternative readings). |
+
+Enkomi clay ball (##071) read on corpus text (pu-ri-jo \| pu); Valério (2016, 465) allows alternative readings for the isolated sign after the divider.
 
 ## Metadata
 
@@ -71,6 +84,6 @@ Not checked against HoChyMin, which is not held.
 
 No held source states its identity, museum number, object, hand, visual evidence.
 
-No transcription is reproduced here: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
+No transcription is reproduced here beyond the sign groups of the words read: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
 
 <!-- END kaphtor:record -->

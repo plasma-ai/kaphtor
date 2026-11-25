@@ -15,7 +15,7 @@ model how to give a reading: as a proposal, with its confidence tier, beside any
 and its 18 tools are described in [[docs/lexicon-api|lexicon-api]].
 
 The plugin lives in its own repository,
-[plasma-ai/linear-a-lexicon-plugin](https://github.com/plasma-ai/linear-a-lexicon-plugin), and this repository's
+[plasma-ai/linear-a-plugin](https://github.com/plasma-ai/linear-a-plugin), and this repository's
 plugin marketplace lists it. It is kept apart because the plugin directories of Claude and
 ChatGPT read a plugin from a small repository: Claude's refuses one with Git LFS rules or 10,000 files, and this
 repository has both. The plugin holds no data and no site code.
@@ -48,7 +48,7 @@ For ChatGPT, each release of the plugin's repository carries the zip it takes.
 
 | | `linear-a-lexicon` | `kaphtor` |
 |---|---|---|
-| Lives in | `plasma-ai/linear-a-lexicon-plugin` | this repository |
+| Lives in | `plasma-ai/linear-a-plugin` | this repository |
 | Holds | a connector to the public server and one skill | two research skills over this repository |
 | Needs | nothing but the network | a clone, Python and `uv` |
 | Answers from | the published Lexicon at linear-a.ai | the files in `data/` and the `kaphtor` command |

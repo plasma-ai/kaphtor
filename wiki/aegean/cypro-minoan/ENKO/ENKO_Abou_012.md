@@ -46,7 +46,7 @@ di Mino's reading, CANDIDATE, incomplete; 2 words.
 |  | 454 | 073-027-053 | mo-si-ma | mo-si-ma |  | CANDIDATE, emended text |  | Valério emends corpus 075 to 073 = mo, giving mo-si-ma (corpus: ra-si-ma). |
 |  | 454 | *not reproduced* |  |  |  | unresolved, SPECULATIVE, emended text |  | Contains one or more signs without a ruled grid value. No reading. |
 
-Two-word Enkomi clay ball: mo-si-ma \| \[107\]-si (corpus reads ra-si-ma).
+Two-word Enkomi clay ball: mo-si-ma (corpus reads ra-si-ma) followed by an unread group.
 
 ## Metadata
 

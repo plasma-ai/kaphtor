@@ -43,7 +43,7 @@ di Mino's reading, CANDIDATE, incomplete; 2 words.
 
 | Line | Page | Group | Values | Reading | Gloss | Tier | Rivals | Note |
 |---|---|---|---|---|---|---|---|---|
-|  | 496 | 015-017-023 | ko-no-ti | ko-no-ti |  | CANDIDATE |  | Inflected -o-ti form of ko-no (CYPR Mvas 003), beside ENKO Abou 024, 027 ko-no-to (Valério 2016, §4.2). |
+|  | 496 | 015-017-023 | ko-no-ti | ko-no-ti |  | CANDIDATE |  | Inflected -o-ti form of ko-no (CYPR Mvas 003), beside ENKO Abou 027 ko-no-to (Valério 2016, §4.2). |
 |  | 496 | 104-072-023 | i-ja-ti | i-ja-ti |  | CANDIDATE |  | Second -ti form i-ja-ti; shares stem i-ja- with CYPR Mvas 001 i-ja-ni and ENKO Atab 002 i-ja-pi. |
 
 Complete two-word inscription pairing two -ti forms: ko-no-ti (inflected counterpart of CYPR Mvas 003 ko-no) and i-ja-ti.

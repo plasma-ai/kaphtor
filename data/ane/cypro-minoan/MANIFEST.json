@@ -5,8 +5,9 @@
   "policy": {
     "merge_into_linear_a": false,
     "keys": "catalogue.json is a dict keyed by siglum as Valério 2016's Appendix A prints it; a text with no siglum is keyed by the name it is published under, or by an id.",
-    "text": "No Cypro-Minoan text ships beyond the sign groups of the words translations.json reads. Valério 2016, whose Appendix A transcribes the corpus, is a doctoral thesis whose terms allow private research and teaching use only; edition names the edition of record and the Appendix A pages, for a reader with the thesis in hand.",
+    "text": "No Cypro-Minoan text ships beyond the sign groups of the words translations.json reads (and ruled-sign HoChyMin/Valério reading variants of those translated words in grammar_hypotheses.json and lexicon.json). Valério 2016, whose Appendix A transcribes the corpus, is a doctoral thesis whose terms allow private research and teaching use only; edition names the edition of record and the Appendix A pages, for a reader with the thesis in hand.",
     "translations": "translations.json holds di Mino's readings of whole texts, keyed by siglum: each word read with its sign group in Olivier's numbers, its line and the Appendix A page that prints it, as scholarship quotes the groups it discusses, its value for each sign, gloss and tier, and the published readings it rivals, each with proposer, work and page; a word left unread keeps its line, page, kind and note, without its group, and its rivals keep proposer, gloss, work and page, without the readings that would spell it; then the values the readings take, each with its tier and evidence. The readings are never counted with Linear A and never evidence for a Linear A sign value.",
+    "grammar_lexicon_grid": "grammar_hypotheses.json, lexicon.json, onomasticon.json, and grid.json ship read-word analytical layers derived exclusively from ruled signs (T5 compliant: unvalued-sign hypotheses, unread_words.json, and raw unvalued sign contexts stay outside this repository). Never counted with Linear A.",
     "statements": "Every metadata statement names its work and page. Where its text is the source's own words it ships as a pointer: text null, pointer true, the cites kept. A table cell ships as its datum, and a remark in it is restated as a note. No quotation of a closed source ships.",
     "dating": "Every text carries period_code, period_label, date_range_bce, date_midpoint_bce, date_certainty, dating_basis, dating_status and conflicts, derived from its date statements. The lead statement is CMI II's (Ferrara), then HoChyMin's (Vandenabeele), both as Valério's Appendix C relays them, then Donnelly's, then the rest in record order. The years are those of Valério's Table I.1, or Table I.2 for a Minoan period (2016, 39); each source's own years stay in its statement, and a choice of periods takes no single span, its reason giving each alternative's years. dating_status is AGREE, OVERLAP, CONFLICT or UNDATED; conflicts lists each statement set against the lead with its relation: disjoint, unknown, or chronology, the same years named on either side of the LC IIC/IIIA boundary, which Table I.1 sets at 1190 and the Enkomi and Kition excavations c. 1230, counted as an overlap. Two periods overlap when the years of one each names overlap, one end of a range or one alternative sufficing, or when an era holds the other by name. date_certainty is HIGH when every source names the same period; MEDIUM for an overlap, a queried lead, a lead mapped from years, a source that gives no date, or a period one source alone gives; LOW for a conflict, a lead that is unspecified, a terminus ante quem or a choice of periods, or a date out of context. Donnelly 2021's chronology column relays Ferrara's, so where it gives CMI II's period it counts as that source. A lead or conflicting statement ships as its date statement does: a pointer where that is one, with its note. Every null field has its reason in null_reasons.",
     "script": "script is Cypro-Minoan for an Appendix A inscription and for a witness a held source sets among Cypro-Minoan texts, Cypro-Greek for the three texts Valério rejects as Cypro-Greek, and null with its reason for the rest. subcorpus is Masson's CM 1, 2 or 3 as Valério's Appendix A heads the text, or CM 0 for ##001, and null with its reason for a text outside Cypro-Minoan and one no held source assigns. field_sources gives the pages of both, with a note where a held source doubts the writing: Valério on nine texts, Donnelly on the Kalo Chorafi loom weight.",
@@ -17,9 +18,11 @@
     "corpus_sha256": "bba272210dbfc193451389783e0c6a0d6d9f0a01d3214cd6136f673e0b0dd4c8",
     "manifest_sha256": "87e9cccc678227082c087f48f193b9a0edc8f4957b7d9b9dfa505643af7bf561",
     "translations_description": "di Mino's Cypro-Minoan translations layer and the values its readings take",
-    "translations_sha256": "41a313e98aca98c2e167531085cb960b6cb14036cd4823058a913db58ff087cd",
+    "translations_sha256": "10438a99a85db5a89a967de32e6f3601db0c7f24d970e643139da20a517fdad8",
     "sign_values_sha256": "37fb7eafa2c2bc34175bd64798286265b1d54f886191f15176751da5166e2032",
-    "translations_manifest_sha256": "0653466f79e4c272541da2d49414f51f25a89e49485298f7938815c5a9f12098"
+    "translations_manifest_sha256": "83c29e912cd7455659e836b6ce0fd45936624648380c5f9a93e5f8515dbad35c",
+    "grammar_manifest_sha256": "2bac78b1c96702269a95e553bb1172caa7bfecb724c54865c56a47f1c5013460",
+    "lexicon_manifest_sha256": "6004a009c4dbea241275c54a509e489c29cfc3cf31863c9c10cb8f50f3c90330"
   },
   "works": {
     "Astour 1995": "Astour, Michael C., La topographie du royaume d'Ougarit, in Yon, Marguerite; Sznycer, Maurice; Bordreuil, Pierre (eds.), Le pays d'Ougarit autour de 1200 av. J.-C.: Histoire et archéologie. Actes du Colloque International, Paris, 28 juin–1er juillet 1993, Éditions Recherche sur les Civilisations, Paris (Ras Shamra-Ougarit XI), 1995, 55–71",
@@ -30,14 +33,21 @@
     "Donnelly 2021": "Donnelly, Cassandra M., Signs of Writing? Writing and Trade in the Late Bronze Age Eastern Mediterranean, The University of Texas at Austin (PhD dissertation), 2021, doi:10.26153/tsw/59810",
     "Donnelly 2024": "Donnelly, Cassandra M., Cypro-Minoan and Its Writers: At Home and Overseas, Elements in Writing in the Ancient World, Cambridge University Press, 2024, doi:10.1017/9781009381840",
     "Donnelly 2026": "Donnelly, Cassandra, Cycladic Linear A and connections between scripts, In E. Salgarella & V. Petrakis (eds.), The Wor(l)ds of Linear A, AURA Supplement 15, Department of History and Archaeology, NKUA, Athens, pp. 61–76, 2026",
+    "Duhoux 2013": "Duhoux, Yves, Non-Greek languages of ancient Cyprus and their scripts: Cypro-Minoan 1–3, in Steele, P. M. (ed.), Syllabic Writing on Cyprus and its Context, Cambridge Classical Studies, Cambridge University Press, 2013, 27–47",
+    "Egetmeyer 2010": "Egetmeyer, Markus, Le dialecte grec ancien de Chypre. Tome I: Grammaire. Tome II: Répertoire des inscriptions en syllabaire chypro-grec, Walter de Gruyter, 2010",
+    "Egetmeyer 2013": "Egetmeyer, Markus, From the Cypro-Minoan to the Cypro-Greek syllabaries: linguistic remarks on the script reform, in Steele, P. M. (ed.), Syllabic Writing on Cyprus and its Context, Cambridge Classical Studies, Cambridge University Press, 2013, 107–131",
     "Egetmeyer 2024": "Egetmeyer, Markus, 2016-2020 report on the Cypriot syllabic inscriptions, in Bennet, J.; Karnava, A.; Meißner, T. (eds.), KO-RO-NO-WE-SA: Proceedings of the 15th International Colloquium on Mycenaean Studies, September 2021, Ariadne Supplement Series 5, The Faculty of Philosophy of the University of Crete, 2024, 125–136",
     "Faucounau 1977": "Faucounau, Jean, Études chypro-minoennes, Syria 54, fasc. 3-4, pp. 209-249, 1977, doi:10.3406/syria.1977.6604",
     "Faucounau 1980": "Faucounau, Jean, Études chypro-minoennes, Syria 57, fasc. 2-4, pp. 375-410, 1980, doi:10.3406/syria.1980.6701",
+    "Ferrara 2012": "Ferrara, Silvia, Cypro-Minoan Inscriptions, vol. I: Analysis, Oxford University Press, 2012",
+    "Ferrara and Valério 2017": "Ferrara, Silvia; Valério, Miguel, Contexts and Repetitions of Cypro-Minoan Inscriptions: Function and Subject Matter of Clay Balls, Bulletin of the American Schools of Oriental Research 378, 2017, 71–94, doi:10.5615/bullamerschoorie.378.0071",
     "Gelb 1980": "Gelb, Ignace J., Computer-aided Analysis of Amorite, Assyriological Studies 21, The Oriental Institute of the University of Chicago, 1980",
+    "Janko 2020": "Janko, Richard, Eteocypriot in the Bronze Age? The Cypro-Minoan cylinder from Enkomi as an accounting document, Kadmos 59, 2020, 43–61, doi:10.1515/kadmos-2020-0003",
     "Kinlaw 1967": "Kinlaw, Dennis F., A Study of the Personal Names in the Akkadian Texts from Ugarit, Brandeis University, Department of Mediterranean Studies (Ph.D. dissertation), 1967",
     "McAffee 2019": "McAffee, Matthew, Life and Mortality in Ugaritic: A Lexical and Literary Study, Explorations in Ancient Near Eastern Civilizations 7, Eisenbrauns, 2019",
     "Monti 2017": "Monti, Luciano Esteban, A Systematic Approach to the Hurrian Pantheon: The Onomastic Evidence, PhD dissertation, Università degli Studi di Udine (XXVIII cycle), 2017",
     "O. Masson 1969": "Masson, Olivier, Documents chypro-minoens de Ras Shamra III. La tablette RS 20.25 de 1956, in Schaeffer, Claude F. A. (ed.), Ugaritica VI: publié à l'occasion de la XXXe campagne de fouilles à Ras Shamra (1968), Mission archéologique de Ras Shamra, Collège de France; Librairie orientaliste Paul Geuthner, Paris (Mission de Ras Shamra XVII; Bibliothèque archéologique et historique LXXXI), 1969, 379–392",
+    "Olivier 2007": "Olivier, Jean-Pierre, Édition holistique des textes chypro-minoens, Biblioteca di \"Pasiphae\" 6, Fabrizio Serra Editore, 2007",
     "Palaima 1989a": "Palaima, Thomas G., Cypro-Minoan Scripts: Problems of Historical Context, in Duhoux, Y.; Palaima, T. G.; Bennet, J. (eds.), Problems in Decipherment, Bibliothèque des Cahiers de l'Institut de Linguistique de Louvain 49, 1989, 121–187",
     "Perna 2020": "Perna, Massimo, A proposito del corpus delle scritture cipro-minoiche. Vecchi documenti e nuove letture, Cahiers du Centre d'Études Chypriotes 50, 2020, 79–90, doi:10.4000/cchyp.479",
     "Perna 2024": "Perna, Massimo, Rapporto sulla preparazione del corpus della scrittura cipro-minoica, in Bennet, J.; Karnava, A.; Meißner, T. (eds.), KO-RO-NO-WE-SA: Proceedings of the 15th International Colloquium on Mycenaean Studies, September 2021, Ariadne Supplement Series 5, The Faculty of Philosophy of the University of Crete, 2024, 137–142",
@@ -106,11 +116,36 @@
     }
   },
   "translations": {
-    "texts": 88,
+    "texts": 98,
     "complete": 0,
-    "incomplete": 88,
-    "words": 584,
+    "incomplete": 98,
+    "words": 601,
     "sign_values": 72
+  },
+  "grammar": {
+    "hypotheses": 22,
+    "by_tier": {
+      "CANDIDATE": 7,
+      "CONFIRMED": 1,
+      "PROBABLE": 13,
+      "SPECULATIVE": 1
+    }
+  },
+  "lexicon": {
+    "entries": 387,
+    "by_kind": {
+      "lexical": 19,
+      "name_ref": 95,
+      "paradigm_stem": 17,
+      "phonetic_entry": 256
+    },
+    "onomasticon_entries": 95
+  },
+  "grid": {
+    "ruled_signs": 72,
+    "unvalued_signs": 28,
+    "global_empty_cells": 14,
+    "allograph_pairs": 14
   },
   "files": {
     "catalogue.json": {
@@ -118,8 +153,24 @@
       "bytes": 989616
     },
     "translations.json": {
-      "sha256": "7ccf8c0dea1242e6eef35a8c0e50c3e5cb280ae933c9745fed72c29c75016f9d",
-      "bytes": 336905
+      "sha256": "328ff984f81a47d5b7af1d9517b2e989b50ce21d03ef61ee10253e99ee40ad3a",
+      "bytes": 347168
+    },
+    "grammar_hypotheses.json": {
+      "sha256": "b27538ae6d3d072587edf2710875b1e07e6d54cf1fde3db4e601b66470c7f61b",
+      "bytes": 87546
+    },
+    "lexicon.json": {
+      "sha256": "d93b0ae321b8d3cbdda4c7ebd80b729aff1f7a29f9dda6d1ad8b73f16e99cbf6",
+      "bytes": 387449
+    },
+    "onomasticon.json": {
+      "sha256": "09f7b4ebf9ee27c7a0307580e888ed1b743728cb99762899752f67a107847553",
+      "bytes": 63278
+    },
+    "grid.json": {
+      "sha256": "186e3f1fd912cf790efcdcb2d8d8f2b5ce0b75017758f6e37d6e7a0043ba4d78",
+      "bytes": 9158
     }
   }
 }

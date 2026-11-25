@@ -1264,6 +1264,18 @@ def test_without_the_translations_file_no_translated_index_and_no_section(data):
     assert "## Translation" not in pages["wiki/aegean/cypro-minoan/KITI/KITI_Avas_001"]
 
 
+def test_cypro_minoan_analytical_views_render_cleanly():
+    pages = views("aegean").pages(Path(__file__).resolve().parents[2] / "data" / "linear-a")
+    for slug_name in ("grammar", "lexicon", "onomasticon", "grid"):
+        key = f"wiki/aegean/cypro-minoan/{slug_name}"
+        assert key in pages, f"missing {key}"
+        assert views("markdown").parse_frontmatter(pages[key])["kind"] == "cypro_minoan_index"
+    assert "cm_gram_suf_oti" in pages["wiki/aegean/cypro-minoan/grammar"]
+    assert "## Paradigm stems" in pages["wiki/aegean/cypro-minoan/lexicon"]
+    assert "Kôṯar-ʾabī" in pages["wiki/aegean/cypro-minoan/onomasticon"]
+    assert "72 ruled signs" in pages["wiki/aegean/cypro-minoan/grid"]
+
+
 def test_the_build_writes_the_cypro_minoan_folder_descs(data, tmp_path, backups):
     build, markdown = views("build"), views("markdown")
     out = tmp_path / "out"

@@ -46,7 +46,7 @@ di Mino's reading, CANDIDATE, incomplete; 2 words.
 |  | 472 | 097-082-011 | ro-sa-pe | ro-sa-pe |  | CANDIDATE, emended text |  | Intact three-syllable word ro-sa-pe from one of the earliest dated CM 1 objects (LC IA–IB). |
 |  | 472 | *not reproduced* |  |  |  | unresolved, SPECULATIVE, emended text |  | Contains one or more signs without a ruled grid value. No reading. |
 
-Early LC IA–IB Enkomi clay weight: ro-sa-pe \| lo-\[108\]-\[037\].
+Early LC IA–IB Enkomi clay weight: ro-sa-pe followed by an unread three-sign group.
 
 ## Metadata
 

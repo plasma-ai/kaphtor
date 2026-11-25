@@ -70,7 +70,7 @@ di Mino's reading, SPECULATIVE, incomplete; 24 words.
 
 Kalavasos-Ayios Dhimitrios Building X baked clay cylinder (##098, LC IIC, 1320–1190 BCE; CM 1, palimpsest, 25 corpus / 24 emended legible groups; Valério 2016, 93–94, 404–405). Administrative cylinder from the olive-oil storage complex (Building X), organized around the recurring three-sign section rubric 104-024-091 (i-le-mi, .01, .13, .18; also opening KALA Arou 004).
 
-Palimpsest-concentrated unproposed 086 (×8) and unvalued 036 (×5) remain unruled.
+Several palimpsest-concentrated signs remain unruled.
 
 ## Metadata
 

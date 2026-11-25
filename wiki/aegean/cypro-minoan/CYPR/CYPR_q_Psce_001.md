@@ -35,6 +35,19 @@ updated: 2026-11-18T19:49:10Z
 
 Not checked against HoChyMin, which is not held.
 
+## Translation
+
+
+
+di Mino's reading, CANDIDATE, incomplete; 2 words.
+
+| Line | Page | Group | Values | Reading | Gloss | Tier | Rivals | Note |
+|---|---|---|---|---|---|---|---|---|
+|  | 501 | 082-025-082 | sa-ka-sa | sa-ka-sa |  | CANDIDATE |  | Intact three-sign palindromic seal sequence sa-ka-sa (reads identically left-to-right or right-to-left on impression vs. seal). |
+|  | 501 | 070-069-023 | ki-ja-ti | ki-ja-ti |  | fragment, SPECULATIVE |  | Incomplete three-sign sequence (70-69-23\[ on impression, or reversed \]23-69-70 ti-ja-ki on seal); right-edge break precludes confirming 023 as word-final. |
+
+CM 1 cylinder seal (##193; Valério 2016, 501): intact three-sign palindromic seal name sa-ka-sa beside incomplete fragment ki-ja-ti\[ (or reversed \]ti-ja-ki depending on seal vs. impression direction).
+
 ## Metadata
 
 ### Editions
@@ -59,6 +72,6 @@ Not checked against HoChyMin, which is not held.
 
 No held source states its identity, museum number, findspot, dimensions, object, hand, visual evidence.
 
-No transcription is reproduced here: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
+No transcription is reproduced here beyond the sign groups of the words read: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
 
 <!-- END kaphtor:record -->

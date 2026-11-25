@@ -47,7 +47,7 @@ di Mino's reading, CANDIDATE, incomplete; 3 words.
 |  | 482 | 102-073-004-097 | a-mo-ta-ro | a-mo-ta-ro |  | CANDIDATE, emended text |  | Bare stem a-mo-ta-ro, recurring on ENKO Abou 015, 045 and taking -ti in KITI Ipla 001.v a-mo-ta-ro-ti. |
 |  | 482 | *not reproduced* |  |  |  | unresolved, SPECULATIVE, emended text |  | Contains one or more signs without a ruled grid value. No reading. |
 
-Enkomi clay vessel preserving bare stem a-mo-ta-ro (counterpart to KITI Ipla 001.v a-mo-ta-ro-ti) alongside la-ko-sa and \[107\]-ro.
+Enkomi clay vessel preserving bare stem a-mo-ta-ro (counterpart to KITI Ipla 001.v a-mo-ta-ro-ti) alongside la-ko-sa and an unread two-sign group.
 
 ## Metadata
 

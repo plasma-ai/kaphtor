@@ -46,7 +46,7 @@ di Mino's reading, SPECULATIVE, incomplete; 2 words.
 |  | 455 | 041-028-021 | zi-nu-ko | zi-nu-ko |  | SPECULATIVE |  | Phonetic reading on the ruled grid (corpus text). |
 |  | 455 | 019 | u | u |  | CANDIDATE |  | Single-sign notation (019 = u) after divider. |
 
-Matches ENKO Abou 003 zi-nu-ko (041=zi, SPECULATIVE) plus single sign u.
+Enkomi clay ball reading zi-nu-ko (041=zi, SPECULATIVE) plus single sign u.
 
 ## Metadata
 

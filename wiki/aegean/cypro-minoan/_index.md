@@ -1,8 +1,8 @@
 ---
 name: wiki/aegean/cypro-minoan
-desc: "The Cypro-Minoan texts, one catalogue page per text with its site, object type, edition of record and the statements of held works with their pages, and the indexes by site and by object type."
+desc: "The Cypro-Minoan texts, one catalogue page per text with its site, object type, edition of record and the statements of held works with their pages, translated readings word by word, and indexes by site, object type, grammar hypotheses, lexicon, onomasticon, and 72-sign grid."
 created: 2026-11-18T19:49:10Z
-updated: 2026-11-19T00:44:14Z
+updated: 2026-11-25T04:19:05Z
 ---
 
 # wiki/aegean/cypro-minoan
@@ -68,6 +68,14 @@ updated: 2026-11-19T00:44:14Z
 [[wiki/aegean/cypro-minoan/by_site|by_site]]: The Cypro-Minoan texts grouped by the site code of their siglum, with the site it decodes to.
 
 [[wiki/aegean/cypro-minoan/by_type|by_type]]: The Cypro-Minoan texts grouped by the HoChyMin type code of their siglum, with its object and material.
+
+[[wiki/aegean/cypro-minoan/grammar|grammar]]: Tiered, falsifiable Cypro-Minoan morphological, syntactic, phonological, and orthographic hypotheses.
+
+[[wiki/aegean/cypro-minoan/grid|grid]]: Aggregate Cypro-Minoan C x V grid coverage across CM 1–3, global empty cells, and regional allograph pairs.
+
+[[wiki/aegean/cypro-minoan/lexicon|lexicon]]: Language-neutral Cypro-Minoan lexicon covering paradigm stems, curated lexical items, onomastic links, and read word types.
+
+[[wiki/aegean/cypro-minoan/onomasticon|onomasticon]]: Cypro-Minoan personal names, patronymics, gentilics, and toponym candidates linked 1-to-1 to the lexicon.
 
 [[wiki/aegean/cypro-minoan/other/_index|other/]]: The Cypro-Minoan texts with no site code, keyed by find name or by another script's siglum.
 

@@ -35,6 +35,19 @@ updated: 2026-11-18T19:49:10Z
 
 Not checked against HoChyMin, which is not held.
 
+## Translation
+
+
+
+di Mino's reading, CANDIDATE, incomplete; 2 words.
+
+| Line | Page | Group | Values | Reading | Gloss | Tier | Rivals | Note |
+|---|---|---|---|---|---|---|---|---|
+|  | 460 | 102-087-104-097 | a-la-i-ro | a-la-i-ro |  | SPECULATIVE |  | Four-sign clay-ball sequence on HoChyMin corpus text (Valério 2016, 460 emends the third sign to illegible ••). |
+|  | 460 | *not reproduced* |  |  |  | unresolved, SPECULATIVE |  | Single-sign clay-ball mark after divider; no ruled grid value. No reading. |
+
+Two-element Enkomi clay ball (##045, LC IIIA–IIIB; Valério 2016, 460): HoChyMin corpus reads four-sign a-la-i-ro followed by a single-sign mark, while Valério emends the third sign to illegible.
+
 ## Metadata
 
 ### Editions
@@ -77,6 +90,6 @@ Not checked against HoChyMin, which is not held.
 
 No held source states its identity, museum number, object, visual evidence.
 
-No transcription is reproduced here: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
+No transcription is reproduced here beyond the sign groups of the words read: Valério 2016, Appendix A transcribes the corpus under terms that allow private research use only, and the edition row names its pages.
 
 <!-- END kaphtor:record -->

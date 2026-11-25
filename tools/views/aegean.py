@@ -2,7 +2,9 @@
 page per sign, and the Cypro-Minoan catalogue (data/ane/cypro-minoan/) with a page per text and its indexes by site
 and object type; it carries no transcription, and a statement in its source's own words shows as a pointer. A
 translated text's page (translations.json) adds the reading word by word, with the sign group, line and Appendix A
-page of each word read and no group for a word left unread, and an index lists the texts translated.
+page of each word read and no group for a word left unread, and an index lists the texts translated. Analytical
+indexes render the read-word grammar hypotheses (grammar.md), lexicon (lexicon.md), onomasticon (onomasticon.md), and
+72-sign aggregate syllabary grid (grid.md).
 
 Each set is optional: a data folder without its files gets no pages. Transcriptions go in code blocks, since a
 combining dot after `|` would attach to a table pipe. The disc's readings are EXPLORATORY, below the decipherment's
@@ -180,6 +182,155 @@ def _cm_catalogue(folder: Path) -> dict | None:
 def _cm_translations(folder: Path) -> dict:
     """The translated texts beside the catalogue, keyed by siglum; none without the file."""
     return (_read(Path(folder).parent / "ane" / "cypro-minoan", "translations.json") or {}).get("translations") or {}
+
+
+def _cm_file(folder: Path, name: str) -> dict | None:
+    """Read an optional Cypro-Minoan analytical JSON file beside catalogue.json."""
+    return _read(Path(folder).parent / "ane" / "cypro-minoan", name)
+
+
+def _cm_grammar_page(grammar: dict, catalogue: dict) -> tuple[str, str]:
+    hyps = grammar.get("hypotheses") or []
+    rows = []
+    for h in hyps:
+        sigs = []
+        seen: set[str] = set()
+        for ev in h.get("structural_evidence") or []:
+            s = ev.get("siglum")
+            if s and s not in seen:
+                seen.add(s)
+                sigs.append(link(_cm_path(s, catalogue[s]), esc(_cm_name(s, catalogue[s]))) if s in catalogue else esc(s))
+        rows.append([
+            esc(h["id"]),
+            esc(h["area"]),
+            esc(h["tier"]),
+            esc(h["text_basis"]),
+            esc(h["label"]),
+            ", ".join(sigs),
+            esc(h["proposed_function"]),
+        ])
+    body = [
+        (f"{len(hyps)} tiered Cypro-Minoan grammatical, morphological, syntactic, phonological, orthographic, and "
+         "subcorpus-isogloss hypotheses attested exclusively by ruled signs (T5 compliant; unvalued-sign hypotheses "
+         "stay outside this repository). Strictly isolated from Linear A."),
+        "",
+        *table(["ID", "Area", "Tier", "Text basis", "Hypothesis", "Key texts", "Proposed function"], rows),
+        "",
+    ]
+    return _page(f"{CM}/grammar", {
+        "title": "Cypro-Minoan grammar hypotheses",
+        "desc": "Tiered, falsifiable Cypro-Minoan morphological, syntactic, phonological, and orthographic hypotheses.",
+        "tags": ["aegean", "cypro-minoan"], "kind": "cypro_minoan_index"}, body)
+
+
+def _cm_lexicon_page(lexicon: dict, catalogue: dict) -> tuple[str, str]:
+    entries = lexicon.get("entries") or []
+    stems = [e for e in entries if e["entry_kind"] == "paradigm_stem"]
+    lexical = [e for e in entries if e["entry_kind"] == "lexical"]
+    names = [e for e in entries if e["entry_kind"] == "name_ref"]
+    phonetic = [e for e in entries if e["entry_kind"] == "phonetic_entry"]
+
+    def _att_links(atts: list[dict]) -> str:
+        out_s: list[str] = []
+        seen: set[str] = set()
+        for a in atts:
+            s = a.get("siglum")
+            if s and s not in seen:
+                seen.add(s)
+                out_s.append(link(_cm_path(s, catalogue[s]), esc(_cm_name(s, catalogue[s]))) if s in catalogue else esc(s))
+        return ", ".join(out_s[:4]) + (f" (+{len(out_s) - 4})" if len(out_s) > 4 else "")
+
+    body = [
+        (f"Language-neutral Cypro-Minoan lexicon covering {len(entries)} entries built exclusively from ruled signs: "
+         f"{len(stems)} paradigm stems (`gloss: null` permitted), {len(lexical)} curated lexical entries, "
+         f"{len(names)} onomastic references (see {link(f'{CM}/onomasticon', 'Cypro-Minoan onomasticon')}), "
+         f"and {len(phonetic)} phonetic-only word types. Strictly isolated from Linear A."),
+        "",
+        "## Paradigm stems",
+        "",
+        *table(
+            ["Stem", "Values", "Tier", "Affiliation", "Members", "Grammar refs", "Texts"],
+            [[esc(e["reading"]), esc(e["values"]), esc(e["tier"] or ""), esc(e["language_affiliation"]),
+              esc(", ".join(m["reading"] for m in e["paradigm_members"])),
+              esc(", ".join(e["grammar_hypothesis_refs"])), _att_links(e["attestations"])] for e in stems],
+        ),
+        "",
+        "## Curated lexical entries",
+        "",
+        *table(
+            ["Reading", "Group", "Values", "Tier", "Affiliation", "Gloss", "Texts"],
+            [[esc(e["reading"]), esc(e["cypro_minoan"]), esc(e["values"]), esc(e["tier"] or ""),
+              esc(e["language_affiliation"]), esc(e["gloss"] or ""), _att_links(e["attestations"])] for e in lexical],
+        ),
+        "",
+    ]
+    return _page(f"{CM}/lexicon", {
+        "title": "Cypro-Minoan lexicon",
+        "desc": "Language-neutral Cypro-Minoan lexicon covering paradigm stems, curated lexical items, onomastic links, and read word types.",
+        "tags": ["aegean", "cypro-minoan"], "kind": "cypro_minoan_index"}, body)
+
+
+def _cm_onomasticon_page(onom: dict, lexicon: dict) -> tuple[str, str]:
+    lex_by_id = {e["entry_id"]: e for e in (lexicon.get("entries") or [])}
+    entries = onom.get("entries") or []
+    rows = []
+    for o in entries:
+        le = lex_by_id.get(o["lexicon_ref"]) or {}
+        rows.append([
+            esc(o["normalized_name"]),
+            esc(le.get("cypro_minoan") or ""),
+            esc(le.get("values") or ""),
+            esc(o["name_type"]),
+            esc(o["language_affiliation"]),
+            esc(", ".join(o["attestation_sites"])),
+            esc(o["syntax_context"]),
+            esc(o["caveats"]),
+        ])
+    body = [
+        (f"Non-duplicating Cypro-Minoan onomasticon overlay ({len(entries)} names linked 1-to-1 to "
+         f"{link(f'{CM}/lexicon', 'Cypro-Minoan lexicon')}), separating CM 3 Ugarit prosopography (`RASH Atab 004`) "
+         "from Cyprus CM 1 clay balls, vessels, seals, cylinders, and CM 2 candidates."),
+        "",
+        *table(["Name", "Group", "Values", "Type", "Affiliation", "Sites", "Syntax context", "Caveats"], rows),
+        "",
+    ]
+    return _page(f"{CM}/onomasticon", {
+        "title": "Cypro-Minoan onomasticon",
+        "desc": "Cypro-Minoan personal names, patronymics, gentilics, and toponym candidates linked 1-to-1 to the lexicon.",
+        "tags": ["aegean", "cypro-minoan"], "kind": "cypro_minoan_index"}, body)
+
+
+def _cm_grid_page(grid: dict) -> tuple[str, str]:
+    sub_rows = []
+    for sub, info in sorted((grid.get("subcorpus_grids") or {}).items()):
+        filled = info.get("filled_cells") or {}
+        empty = info.get("empty_cells") or []
+        sub_rows.append([esc(sub), str(info.get("attested_ruled_signs", 0)), str(len(filled)),
+                         str(len(empty)), esc(", ".join(empty))])
+    allo_rows = [
+        [esc(a["value"]), esc(", ".join(a["cm1_signs"])), esc(", ".join(a["cm2_signs"])),
+         esc(", ".join(a["cm3_signs"])), esc(a["split_evidence"])]
+        for a in (grid.get("allograph_pairs") or [])
+    ]
+    body = [
+        f"Aggregate Cypro-Minoan syllabary coverage: **{grid['ruled_sign_count']} ruled signs** and "
+        f"**{grid['unvalued_sign_count']} unvalued signs** (`{len(grid.get('global_empty_cells') or [])}` global "
+        "empty `C x V` cells: " + esc(", ".join(grid.get("global_empty_cells") or [])) + "). "
+        "Unvalued sign sequences stay outside this repository under T5.",
+        "",
+        "## Subcorpus grid coverage",
+        "",
+        *table(["Subcorpus", "Ruled signs", "Filled cells", "Empty cells", "Empty cell list"], sub_rows),
+        "",
+        "## Regional allograph splits",
+        "",
+        *table(["Value", "CM 1", "CM 2", "CM 3", "Split evidence"], allo_rows),
+        "",
+    ]
+    return _page(f"{CM}/grid", {
+        "title": "Cypro-Minoan syllabary grid",
+        "desc": "Aggregate Cypro-Minoan C x V grid coverage across CM 1–3, global empty cells, and regional allograph pairs.",
+        "tags": ["aegean", "cypro-minoan"], "kind": "cypro_minoan_index"}, body)
 
 
 def _cm_rival(v: dict) -> str:
@@ -361,6 +512,18 @@ def cypro_minoan(folder: Path) -> dict[str, str]:
             "desc": "The Cypro-Minoan texts with di Mino's reading, each with its tier, state, words and translation.",
             "tags": ["aegean", "cypro-minoan"], "kind": "cypro_minoan_index"},
             table(["Text", "Tier", "State", "Words", "Translation"], rows) + [""]))
+    grammar = _cm_file(folder, "grammar_hypotheses.json")
+    if grammar:
+        out.append(_cm_grammar_page(grammar, catalogue))
+    lexicon = _cm_file(folder, "lexicon.json")
+    if lexicon:
+        out.append(_cm_lexicon_page(lexicon, catalogue))
+    onomasticon = _cm_file(folder, "onomasticon.json")
+    if onomasticon and lexicon:
+        out.append(_cm_onomasticon_page(onomasticon, lexicon))
+    grid = _cm_file(folder, "grid.json")
+    if grid:
+        out.append(_cm_grid_page(grid))
     return collect(out)
 
 
@@ -370,7 +533,8 @@ def descs(folder: Path) -> dict[str, str]:
     if not catalogue:
         return {}
     out = {CM: "The Cypro-Minoan texts, one catalogue page per text with its site, object type, edition of record "
-               "and the statements of held works with their pages, and the indexes by site and by object type."}
+               "and the statements of held works with their pages, translated readings word by word, and indexes by "
+               "site, object type, grammar hypotheses, lexicon, onomasticon, and 72-sign grid."}
     for r in catalogue.values():
         code = r["site_code"]
         if code:

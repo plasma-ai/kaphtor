@@ -1,22 +1,30 @@
 ---
 name: data/ane/cypro-minoan
 title: Cypro-Minoan catalogue
-desc: The 263 Cypro-Minoan texts, the records of Valério's Appendix A and nine witnesses outside it, keyed by siglum where a text has one, each with its site and object type, edition of record, date, script and subcorpus, and the metadata of held works, every statement with its work and page, and di Mino's readings of translated texts with the sign groups of the words read; no other transcription, CC BY 4.0.
+desc: The 263 Cypro-Minoan texts (Valério's Appendix A and 9 outside it), keyed by siglum with site, object type, edition, date, script, subcorpus, and cited metadata, plus di Mino's readings of 98 texts (sign groups of read words only) and read-word grammar, lexicon, onomasticon, and 72-sign grid; CC BY 4.0.
 tags: [data, cypriot, aegean, cypro-minoan, epigraphy]
 license: CC BY 4.0
 created: 2026-11-18T19:45:50Z
-updated: 2026-11-18T19:46:25Z
+updated: 2026-11-25T13:35:00Z
 ---
 
 # Cypro-Minoan catalogue
 
 [[data/ane/_index|..]]
 
-[[data/ane/cypro-minoan/MANIFEST.json|MANIFEST.json]]: The licence, the rules on text and quotation, the works cited with their references, the counts and the checksums of the catalogue and the translations.
+[[data/ane/cypro-minoan/MANIFEST.json|MANIFEST.json]]: The licence, the rules on text and quotation, the works cited with their references, the counts and the checksums of the catalogue, the translations, and the read-word analytical layers.
 
 [[data/ane/cypro-minoan/catalogue.json|catalogue.json]]: One record per text, keyed by siglum, or by the name a text without one is published under: its ## number, site and HoChyMin type, Pleiades and Trismegistos ids, the edition of record with its Appendix A pages, and the statements of held works on its identity, museum number, editions, findspot, date, dimensions, object, document form, hand and visual evidence; then its period with its years on Valério's chronology, the lead statement and those set against it, its script and subcorpus, each null field with its reason.
 
-[[data/ane/cypro-minoan/translations.json|translations.json]]: di Mino's readings of whole texts, keyed by siglum: each word read with its sign group in Olivier's numbers, its line and Appendix A page, its value for each sign, gloss, tier and the published readings it rivals with their work and page; then the values the readings take, each with its tier and evidence.
+[[data/ane/cypro-minoan/grammar_hypotheses.json|grammar_hypotheses.json]]: 22 tiered, falsifiable Cypro-Minoan grammatical, morphological, syntactic, phonological, orthographic, and subcorpus-isogloss hypotheses attested exclusively by ruled signs (1 CONFIRMED, 13 PROBABLE, 7 CANDIDATE, 1 SPECULATIVE after blind 41-text §7 holdout evaluation and author Tier 4 sign-off on cm_gram_orth_glide_ij; unvalued-sign hypotheses stay outside this repository).
+
+[[data/ane/cypro-minoan/grid.json|grid.json]]: Aggregate C × V syllabary grid coverage across CM 1, CM 2, and CM 3 (72 ruled signs, 28 unvalued signs, 14 global empty cells, 14 regional allograph pairs; no unvalued-sign attestation indexes or unread contexts).
+
+[[data/ane/cypro-minoan/lexicon.json|lexicon.json]]: 387 read-word Cypro-Minoan lexicon entries (17 paradigm stems, 19 lexical glosses, 95 name references linking to `onomasticon.json`, and 256 phonetic entries; 40 with decoy-calibrated IG XV 1 Amathus Eteocypriot comparanda) derived from ruled signs only, with attestations, grammar cross-links, and scholarly rivals.
+
+[[data/ane/cypro-minoan/onomasticon.json|onomasticon.json]]: 95 non-duplicating Cypro-Minoan proper-name entries (personal names, toponyms, gentilics, patronymics, and uncertain names) linked bidirectionally to `lexicon.json`, with subcorpus, language affiliation, comparative parallels, and caveats.
+
+[[data/ane/cypro-minoan/translations.json|translations.json]]: di Mino's readings of 98 whole texts (601 words), keyed by siglum: each word read with its sign group in Olivier's numbers, its line and Appendix A page, its value for each sign, gloss, tier and the published readings it rivals with their work and page; then the 72 values the readings take, each with its tier and evidence.
 
 ***
 

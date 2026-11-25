@@ -54,7 +54,7 @@ Unicode (Linear A block):
 
 **CANDIDATE**, complete.
 
-> This bowl, a dove—O Athirat, righteous is (thy) grace …
+> This bowl, a dove—O Athirat, righteous is (thy) grace, \[Radiant One\].
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -64,24 +64,25 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/A/A_ZU_RA\|A-ZU-RA]] | ʾAṯirat | Athirat (the Goddess) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/J/JA_SA_RA\|JA-SA-RA]] | yašara | righteous is | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/A/A_NA_NE\|A-NA-NE]] | ḥanān | favor, grace | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/W/WI_PI_q_broken_end\|WI-PI-&#91;?&#93;]] |  | unread |  | unread |
+| [[wiki/linear-a/words/W/WI_PI_q_broken_end\|WI-PI-&#91;?&#93;]] | wipiya(t) | Radiant One | SPECULATIVE | unread |
 
 ### Notes
 
 Context: ritual text painted inside a mended short conical cup; no numerals.
 
-GORILA IV, 125 begins directly with complete A-KA-NU-ZA-TI and marks no opening lacuna, so there is no positive evidence for a lost word before A-KA-NU. Gordon segments that continuous group as A-KA-NU \| ZA-TI. ZA-TI may be /zāt/ 'this' (historically perhaps /zāʾt/), with TI spelling final /t/ and a nonphonemic support vowel. Hebrew zō(ʾ)t supplies the lexical parallel. Phoenician ʾGN is feminine, and FK D 35 hʾgn hz 'this bowl' supplies the closest structural parallel (Krahmalkov 2000, 31). Its postposed Semitic order is rendered naturally in English as 'this bowl.' The rival /ḏāti/ 'of' fits less well: its final /i/ is a live genitive ending, and the agreement frame it needs is absent. The segmentation remains CANDIDATE: ZA-TI is a hapax, SigLA reads ZE rather than ZA, and final TI = /t/ is not independently established. DU-RA-RE is durār 'dove', Hebrew dərôr, a bird (HALOT, 230), the offering a votary holds out beside the Knossian Dove Goddess (Evans, PoM II 337, 339); the cups lay above the crypt of the dove vase (PoM I 587). The dove is the Goddess's bird: on the Knossian shrine columns doves are "the outward and visible sign of the divine presence" (Evans, PoM I 222); in Syria the dove is her symbol and her messenger, and the dove goddess appears in Crete, Cyprus and Mycenae from the mid-second millennium (Winter in Keel 1977, 52, 74, 76); doves attend Tanit (Dever 2005, 232). The dərôr is also a bird of purification: the leper is cleansed with two clean birds, one slaughtered into an earthenware vessel over living water (Lev 14:4–7), which the Mishnah names ṣippŏrîm dərôr (m. Negaʿim 14:1); doves are the purification offering after childbirth (Lev 12:6–8), as Ugaritic ynt and tr are offered (Milgrom 1991, 758). A Nabataean inscription from Petra begins \[d\]nh ʾgnʾ dy qrb, 'This is the basin which ... offered,' and proceeds to the deity and bšlm šlm, 'in peace, peace' (CIS II 423b; Milik 1972, 109; Alpass 2013, 102 no. 16); it supports the vessel–deity–blessing frame but contains an explicit dedication verb. JA-SA-RA \| A-NA-NE puts the predicate first, as kî-yāšār dəbar-YHWH 'for righteous is the word of YHWH' (Ps 33:4) and kî-yāšār YHWH (Ps 92:16). The final group is WI-PI-\[·\] (GORILA IV, 125), one sign lost after PI. Not readable. For the incantation-bowl parallel (Marinatos 1951, 41; Franceschetti 1990, 40–41), see KN Zc 6.
+GORILA IV, 125 begins directly with complete A-KA-NU-ZA-TI and marks no opening lacuna, so there is no positive evidence for a lost word before A-KA-NU. Gordon segments that continuous group as A-KA-NU \| ZA-TI. ZA-TI may be /zāt/ 'this' (historically perhaps /zāʾt/), with TI spelling final /t/ and a nonphonemic support vowel. Hebrew zō(ʾ)t supplies the lexical parallel. Phoenician ʾGN is feminine, and FK D 35 hʾgn hz 'this bowl' supplies the closest structural parallel (Krahmalkov 2000, 31). Its postposed Semitic order is rendered naturally in English as 'this bowl.' The rival /ḏāti/ 'of' fits less well: its final /i/ is a live genitive ending, and the agreement frame it needs is absent. The segmentation remains CANDIDATE: ZA-TI is a hapax, SigLA reads ZE rather than ZA, and final TI = /t/ is not independently established. DU-RA-RE is durār 'dove', Hebrew dərôr, a bird (HALOT, 230), the offering a votary holds out beside the Knossian Dove Goddess (Evans, PoM II 337, 339); the cups lay above the crypt of the dove vase (PoM I 587). The dove is the Goddess's bird: on the Knossian shrine columns doves are "the outward and visible sign of the divine presence" (Evans, PoM I 222); in Syria the dove is her symbol and her messenger, and the dove goddess appears in Crete, Cyprus and Mycenae from the mid-second millennium (Winter in Keel 1977, 52, 74, 76); doves attend Tanit (Dever 2005, 232). The dərôr is also a bird of purification: the leper is cleansed with two clean birds, one slaughtered into an earthenware vessel over living water (Lev 14:4–7), which the Mishnah names ṣippŏrîm dərôr (m. Negaʿim 14:1); doves are the purification offering after childbirth (Lev 12:6–8), as Ugaritic ynt and tr are offered (Milgrom 1991, 758). A Nabataean inscription from Petra begins \[d\]nh ʾgnʾ dy qrb, 'This is the basin which ... offered,' and proceeds to the deity and bšlm šlm, 'in peace, peace' (CIS II 423b; Milik 1972, 109; Alpass 2013, 102 no. 16); it supports the vessel–deity–blessing frame but contains an explicit dedication verb. JA-SA-RA \| A-NA-NE puts the predicate first, as kî-yāšār dəbar-YHWH 'for righteous is the word of YHWH' (Ps 33:4) and kî-yāšār YHWH (Ps 92:16). The final group is WI-PI-\[·\] (GORILA IV, 125), one sign after PI, written with WI and PI at about twice the height of the other signs, across both lines; its first stroke survives and the surface beyond is blank (GORILA IV, 124). It is restored WI-PI-\[JA\], wipiya(t) 'Radiant One', √w-p-y, the feminine -t unwritten as in A-ZU-RA (Astour 1966, 314–315). For the incantation-bowl parallel (Marinatos 1951, 41; Franceschetti 1990, 40–41), see KN Zc 6.
 
 ### Source
 
 - Gordon 1966: A-KA-NU
-- di Mino: ZA-TI, DU-RA-RE, A-ZU-RA
+- di Mino: ZA-TI, DU-RA-RE, A-ZU-RA, WI-PI-\[?\]
 - Krahmalkov 2000: A-KA-NU, ZA-TI
 - HALOT, 230; DNWSI, 262; Evans, PoM I 222, 587, II 337–339; Dever 2005, 232; Winter in Keel 1977, 52, 74, 76; Milgrom 1991, 758: DU-RA-RE
 - Alpass 2013, 102 no. 16: A-KA-NU, ZA-TI
 - OCIANA AAEK 123 (ASFF 246): A-ZU-RA, JA-SA-RA, A-NA-NE
 - Huehnergard 2023, 46: ZA-TI
 - GORILA IV, 122–125: A-KA-NU-ZA-TI, WI-PI-\[?\]
+- Astour 1966, 314–315; HALOT, 423; Tropper UG §74.36; Sanmartín GlOS 2, 352: WI-PI-\[?\]
 
 ## Lexicon words citing this document
 

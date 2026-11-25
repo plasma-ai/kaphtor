@@ -43,7 +43,7 @@ di Mino's reading, CANDIDATE, incomplete; 2 words.
 
 | Line | Page | Group | Values | Reading | Gloss | Tier | Rivals | Note |
 |---|---|---|---|---|---|---|---|---|
-|  | 459 | 110-046-097 | ku-su-ro | ku-su-ro |  | CANDIDATE |  | Reads ku-su-ro with 110 = ku (cf. Hurrian Kuzzur, cost 0.05, exploratory); otherwise \[110\]-su-ro. |
+|  | 459 | 110-046-097 | ku-su-ro | ku-su-ro |  | CANDIDATE |  | Reads ku-su-ro with 110 = ku (cf. Hurrian Kuzzur, exploratory). |
 |  | 459 | 023-015 | ti-ko | ti-ko |  | CANDIDATE |  | Reads ti-ko with 015 = ko (cf. Hurrian Tiku, cost 0.00, short form). |
 
 Two-word Enkomi clay ball: ku-su-ro \| ti-ko (complete with 110 = ku; 1/2 read without 110).

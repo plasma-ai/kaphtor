@@ -46,7 +46,7 @@ di Mino's reading, CANDIDATE, incomplete; 2 words.
 | .01 | 497 | 102-023 | a-ti | a-ti |  | CANDIDATE |  | Intact two-sign word a-ti, recurring on RASH Atab 004 and RASH Aéti 001. |
 | .02 | 497 | *not reproduced* |  |  |  | unresolved, SPECULATIVE |  | Contains one or more signs without a ruled grid value. No reading. |
 
-Two-line Enkomi bronze ingot: a-ti (exact match to RASH Aéti 001) and a-\[036\]-ti-ri-ti (using rare CM 1 allograph 114 = ri).
+Two-line Enkomi bronze ingot: a-ti (exact match to RASH Aéti 001) and an unread five-sign group on line .02 (using rare CM 1 allograph 114 = ri).
 
 ## Metadata
 
