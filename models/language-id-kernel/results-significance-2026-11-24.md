@@ -4,7 +4,7 @@ title: "Significance & Interpretation of Kernels K & L and the Twelve-Kernel Sui
 desc: "Timestamped analytical report covering Kernel K (Corazza–Ferrara 2021 fraction verification and blind KU-RO discovery), Kernel L (backward-projection stress-testing and calibrated negative controls), and the twelve-kernel synthesis."
 tags: [linear-a, probabilistic-model, analysis, significance, 2026-11-24]
 created: 2026-11-24T21:18:00Z
-updated: 2026-11-24T21:18:00Z
+updated: 2026-11-25T15:35:00Z
 ---
 
 # Significance & Interpretation of Kernels K & L and the Twelve-Kernel Suite (2026-11-24)
@@ -70,4 +70,20 @@ Even when every cult inscription, vessel word, grain word, and commodity ligatur
 
 ## 4. Updated Twelve-Kernel Synthesis (`2026-11-24`)
 
-Across all twelve kernels (`A–L`), **10 of 11 scoring kernels rank Semitic #1** (Kernel H ranks shared Cretan Linear B #1 and LBA Levantine Semitic #2), every calibrated instrument selects Greek and rejects Semitic on real Mycenaean Linear B tablets, and **Kernel L confirms that the core lexical and morphological results do not depend on assuming 100% fidelity of Linear B→Linear A homomorph sign values**. At the same time, Kernels K and L sharpen the suite's honest boundaries: the accounting-only triad (`n = 3`) carries a modest Bayes factor (`ΔLL = +0.551`), Kernel J's concept-shuffle null requires multiple active consonant series (`2/7` under L1SO), the 11-sign Aegean–Cypriot core is too sparse (`30` tokens) for morphological testing, and single-sign open-dictionary ligatures saturate the syllabary.
+Across all twelve kernels (`A–L`), **10 of 11 scoring kernels rank Semitic #1** (Kernel H ranks shared Cretan Linear B #1 and LBA Levantine Semitic #2), every calibrated instrument selects Greek and rejects Semitic on real Mycenaean Linear B tablets, and **Kernel L confirms that the core lexical and morphological results do not depend on assuming 100% fidelity of Linear B→Linear A homomorph sign values**. At the same time, Kernels K and L sharpen the suite's honest boundaries: the accounting-only triad (`n = 3`) carries a modest Bayes factor (`ΔLL = +0.551`), Kernel J's original `FULL_8` concept-shuffle null relies on multiple active consonant series (`2/7` under L1SO), the 11-sign Aegean–Cypriot core is too sparse (`30` tokens) for morphological testing, and single-sign open-dictionary ligatures saturate the syllabary.
+
+---
+
+## 5. Addendum (`2026-11-25`): Kernel J Deduplicated & Expanded Pre-Linguistic Tiers
+
+To close both the `PO-TO-KU-RO` double-counting caveat and the Kernel L `drop K` (`n = 1`) gap without introducing lexicon circularity, `auto_anchors_j.py` was extended (`runs/auto-anchors-j-standalone-2026-11-25.json`, `B = 10,000`, `seed = 20261125`) while keeping signed `FULL_8` intact:
+
+- **Expanded Linear B calibration (`LB_ANCHORS_EXT9`, `+ DI-PA, WO-NO, E-RA-WO`):** Greek strengthens to **`ΔLL = +6.177` (~481 : 1), `Z_perm = +4.95, p_perm = 0.00010`, `p_concept = 0.00020`** (`10,000` concept shuffles); Semitic (`0.115 / 0.293`) and Sumerian (`0.148 / 0.104`) are rejected.
+- **`LA_DEDUP_7` (drops `PO-TO-KU-RO` so `KU-RO` is never double-counted):** Semitic sharpens to **`ΔLL = +4.342` (`76.9 : 1`), `p_perm = 0.00010`, exact `p_concept = 0.01111`** (`1,260` perms; Greek `0.731`, Sumerian `0.578`).
+- **`LA_DEDUP_9` (Tier 1a — purest 100% strict `signs-a5-proposed.json` inventory):** adds `PA-TA-QE` (`HT 31 *402-VS`) and **untranslated `DA-RO-PA` (`HT 38 *403-VS`, included blind and absent from `lexicon.json`)**—excluding `PA₃` doublet folding, `PA-RA` header inference, and the `MA+RU` monogram. Semitic wins cleanly at **`ΔLL = +3.863` (`47.6 : 1`), `Z_perm = +3.89, p_perm = 0.00010`, `Z_concept = +2.42, p_concept = 0.00390`** (`10,000` shuffles; Greek `0.626`, Sumerian `0.663`).
+- **`LA_DEDUP_12` (Tier 2a — sensitivity tier folding GORILA doublet `AB 56` / `PA₃ → PA`, kept opaque in `signs-a5-proposed.json` §15 ruling 3):** adds `HT 31`'s three literal `PA₃` vessel drawings (`QA-PA₃, KA-RO-PA₃, SU-PA₃-RA`) to `LA_DEDUP_9`, sharpening Semitic to **`ΔLL = +4.200` (`66.7 : 1`), `Z_perm = +3.73, p_perm = 0.00010`, `Z_concept = +2.73, p_concept = 0.00180`** (Greek `0.633`, Sumerian `0.856`).
+- **Extended sensitivity tiers (`LA_DEDUP_11`, `LA_DEDUP_14`, and `LA_DROPK_5`):** adding `PA-RA` (`HT 128a` tablet heading above `GRA` entries, header inference rather than direct ligature) and the `MA+RU` (`A558`/`LANA`) wool monogram (distinct from the `HT 117a` syllabic personal name `MA-RU`) yields `LA_DEDUP_11` (`ΔLL = +4.285`, `72.6 : 1`, `p_perm = 0.00010`, `p_concept = 0.01560`; Greek `0.791`, Sumerian `0.620`) and `LA_DEDUP_14` (`+ PA₃` fold: `ΔLL = +4.623`, `101.8 : 1`, `p_perm = 0.00020`, `p_concept = 0.00920`; Greek `0.794`, Sumerian `0.834`). The strictly `K`-free subset **`LA_DROPK_5`** (`SU-PU, PA-TA-QE, DA-RO-PA, PA-RA, MA+RU`) passes consonant-grid permutation (`ΔLL = +1.233, Z_perm = +2.19, p_perm = 0.01640`) while underpowered on concept-shuffle (`p_concept = 0.21667`, `60` exact perms).
+- **Orthogonal 2-channel synthesis (Kernel J `p_concept` + zero-dictionary Kernel I `p_M = 0.00360`):**
+  - **`LA_DEDUP_9` (purest strict-LB) + Kernel I:** Fisher combined null **`p = 0.00017`** (`~1 in 5,850`); pure Sellke–Bayarri–Berger upper bound $\text{SBB}_{\max}(p_{\text{comb}}) = (-e\,p\ln p)^{-1} = \mathbf{248 : 1}$ (1% prior → **71.5%**, 5% → **92.9%**, 10% → **96.5%**; hybrid $e^{\Delta\text{LL}_J}\times\text{SBB}_{\max}(p_{M,I}) = 864 : 1$).
+  - **`LA_DEDUP_12` (`+ PA₃` fold) + Kernel I:** Fisher combined null **`p = 0.000084`** (`~1 in 11,920`); pure $\text{SBB}_{\max}(p_{\text{comb}}) = \mathbf{467 : 1}$ (1% prior → **82.5%**, 5% → **96.1%**, 10% → **98.1%**; hybrid $1{,}211 : 1$).
+  - *(Baseline `FULL_8` + Kernel I: Fisher `p = 0.00094`, pure $\text{SBB}_{\max} = 56.4 : 1$.)*

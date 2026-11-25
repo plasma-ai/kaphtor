@@ -269,11 +269,15 @@ The repository ships two complementary, zero-LLM, deterministic frameworks:
     5 seeds on the full 7-member arm).
   - **J (Zero-Curation Dictionary Audit):** replaces hand-curated anchor synsets with automated regex extraction over
     shipped open dictionaries (Akkadian/Hebrew, LSJ Greek, and CC0 ePSD2 Sumerian as a non-Semitic Bronze Age isolate
-    control) under 10,000 consonant-grid swaps and exact concept-label shuffling; calibrates Linear B as Greek
-    (`p_perm = 0.00010`, `p_concept = 0.01389`; Sumerian `p_perm = 0.061`; Semitic `0.170` / `0.775`) and identifies
-    Linear A as Semitic on `FULL_8` (`ΔLL = +4.05`, `p_perm = 0.00010`, `p_concept = 0.02520` standalone; `0.00893` on
-    the pre-Sumerian 5-language full set—the only language passing both nulls, with Sumerian at `0.637` and Greek at
-    `0.588`).
+    control) under 10,000 consonant-grid swaps and concept-label shuffling; calibrates Linear B as Greek (`n = 6`:
+    `0.00010 / 0.01389`; `EXT9`: `481:1`, `0.00010 / 0.00020`; Semitic rejected `0.115 / 0.293`) and identifies Linear A
+    as Semitic across signed `FULL_8` (`ΔLL = +4.05`, `p_perm = 0.00010`, `p_concept = 0.02520` standalone; `0.00893` on
+    the pre-Sumerian 5-language panel), deduplicated `LA_DEDUP_7` (`76.9:1`, `p_concept = 0.01111`), purest strict-LB
+    `LA_DEDUP_9` including blind untranslated `DA-RO-PA` (`HT 38 *403-VS`: `47.6:1`, `p_perm = 0.00010`,
+    `p_concept = 0.00390`; Greek `0.626`, Sumerian `0.663`), and sensitivity tiers folding `AB 56 / PA₃ → PA`
+    (`LA_DEDUP_12`: `66.7:1`, `p_perm = 0.00010`, `p_concept = 0.00180`; `LA_DEDUP_14` adding `PA-RA` header & `MA+RU`
+    monogram: `101.8:1`, `p_perm = 0.00020`, `p_concept = 0.00920`, with `K`-free `LA_DROPK_5` passing `p_perm = 0.01640`,
+    `p_concept = 0.217`).
   - **K (Corazza–Ferrara Fractions & Blind Accounting):** applies Corazza et al. (2021, *JAS* 125: 105214) `A700`
     fraction values to raw Aegean Unicode numerals (`data/linear-a/corpus.json`): verifies `0` strict `> 1`
     compound-fraction violations across `55` compound fractions (resolving `HT 27a` `JE+B = 19/20`, vs Bennett legacy
@@ -297,9 +301,10 @@ The repository ships two complementary, zero-LLM, deterministic frameworks:
   used by the skill, upgraded with fast O(1) exact-match retrieval, vocalized CV distance and Bayesian marginal
   log-likelihood (`ΔLL`, Amendment A24), and Kober-cluster / Kernel C–D domain tagging (Amendment A25).
 - **`models/cypro-minoan-kernel/`** ([executive summary](models/cypro-minoan-kernel/README.md)): strictly Linear A-isolated
-  (T3), T5-compliant four-kernel Cypro-Minoan suite (`CM-G` subcorpus continuity, `CM-E` 3-regime `013`/`008` *IG XV 1*
-  Amathus Eteocypriot alignment with CM 3 and Linear B negative controls, `CM-O` glide/bare-vowel laws, `CM-B`
-  unsupervised stem-extension productivity) running directly on shipped `kaphtor` datasets.
+  (T3), T5-compliant six-kernel Cypro-Minoan suite (`CM-G` subcorpus continuity, `CM-E` 3-regime `013`/`008` *IG XV 1*
+  Amathus Eteocypriot alignment, `CM-O` glide/bare-vowel laws, `CM-B` position-preserving stem-extension productivity,
+  `CM-I` 7-family bound-affix exclusion & 8-way size-matched Amathus EC discriminative morphology calibrated on *IG XV 1*
+  Cypriot Syllabic Greek, and `CM-H` clay-ball roster onomastics & acrophony) running directly on shipped `kaphtor` datasets.
 
 ```bash
 PYTHONPATH=models/language-id-kernel pytest -q models/language-id-kernel/tests/

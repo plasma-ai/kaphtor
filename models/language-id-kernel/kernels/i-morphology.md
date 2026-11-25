@@ -4,7 +4,7 @@ title: "Kernel I: Unsupervised Bound-Affix Morphology"
 desc: "Strict one-sided stem-containment prefix/suffix polarity and CV-affix identity tested under a discriminative margin-permutation null."
 tags: [linear-a, kernel-i, morphology, primary]
 created: 2026-11-23T19:35:00Z
-updated: 2026-11-23T19:35:00Z
+updated: 2026-11-25T15:47:00Z
 ---
 
 # Kernel I: Unsupervised Bound-Affix Morphology
@@ -59,7 +59,8 @@ Greek is trained **strictly on inflected running prose** (`diodorus_1_5.jsonl`, 
 - **`omission` (5 seeds):** Semitic wins **5 / 5 seeds** (`mean M = +32.35`, `mean p_M = 0.03848`; per-seed `p_M = 0.0510, 0.0400, 0.0120, 0.0125, 0.0770`; seed 0 reaches `p_M = 0.04359` at `B = 5,000`).
 - **Register splits (`omission`, seed 0):** Semitic wins both administrative (`n = 404, pre_rate = 0.485, M = +13.56, p_M = 0.04898`) and votive (`n = 110, pre_rate = 0.318, M = +5.04, p_M = 0.312`).
 - **`plene` mode:** Linear B still selects Greek 5/5 seeds, while Linear A weakens to `mean p_M = 0.599` (consistent with Linear A's coda-omission orthography).
+- **External word-division & single-series ablations ([[models/language-id-kernel/kernels/l-homomorph|Kernel L]]):** On Salgarella & Castellan's independent SigLA segmentation (`data/linear-a/sigla_db.json`, `686` words / `495` types), Semitic remains the **sole pass** (`M = +35.12, Z_M = +2.66, p_M = 0.00200`; all 6 rivals `0.172–1.000`). Across all 12 single-series drops, **`10 / 12`** pass (`drop Q+Z` strengthens to `M = +44.33`; **`drop T`** causes the #1 deepest collapse at `p_M = 0.26547`—Semitic `t-`/`-t`).
 
 ## 6. What It Proves & Honest Limits
 
-Provides lexicon-free, consonant-specific **grammatical** proof that Linear A's bound prefix and suffix consonants match Ancient Near Eastern Semitic rather than Greek, Anatolian, Hurrian, Hattic, Sumerian, or Latin, while honestly recording that the margin null holds under Linear A's `omission` orthography and weakens under `plene`.
+Provides lexicon-free, consonant-specific **grammatical** proof that Linear A's bound prefix and suffix consonants match Ancient Near Eastern Semitic rather than Greek, Anatolian, Hurrian, Hattic, Sumerian, or Latin, while honestly recording that the margin null holds under Linear A's `omission` orthography and weakens under `plene`. Paired with strictly orthogonal [[models/language-id-kernel/kernels/j-auto-anchors|Kernel J]] (`LA_DEDUP_9` pure strict-LB `p_concept = 0.00390`, zero shared words or dictionaries), Fisher's combined null reaches **`p = 0.00017` (`1 in 5,850`)**, pure $\text{SBB}_{\max} = 248 : 1$ (`LA_DEDUP_12` folding `PA₃` + Kernel I: **`p = 0.000084`**, pure $\text{SBB}_{\max} = 467 : 1$).

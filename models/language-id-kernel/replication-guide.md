@@ -1,30 +1,30 @@
 ---
 name: models/language-id-kernel/replication-guide
-title: "Replication & Objectivity Guide (Kernels A–J)"
-desc: "Master scoreboard, objectivity audit, shipped reference inputs, and fresh-clone reproduction instructions for all ten probabilistic language-identification kernels."
+title: "Replication & Objectivity Guide (Kernels A–L)"
+desc: "Master scoreboard, objectivity audit, shipped reference inputs, and fresh-clone reproduction instructions for all twelve probabilistic language-identification kernels."
 tags: [linear-a, probabilistic-model, replication, preregistration]
 created: 2026-11-23T00:00:00Z
-updated: 2026-11-23T16:50:00Z
+updated: 2026-11-25T15:47:00Z
 ---
 
-# Replication & Objectivity Guide (Kernels A–J)
+# Replication & Objectivity Guide (Kernels A–L)
 
 [[models/language-id-kernel/_index|..]]
 
-This guide documents how to replicate every kernel in `models/language-id-kernel/` from a fresh `kaphtor` clone with zero external folders, which optional environment variables override or extend the shipped corpora, and the exact objectivity and calibration boundaries of all ten kernels.
+This guide documents how to replicate every kernel in `models/language-id-kernel/` from a fresh `kaphtor` clone with zero external folders, which optional environment variables override or extend the shipped corpora, and the exact objectivity and calibration boundaries of all twelve kernels.
 
 ---
 
 ## 1. Anti-Circularity & Objectivity Guarantees
 
-1. **Zero project-lexicon leakage:** No script in `models/language-id-kernel/` reads `lexicon.json`, `translations.json`, or `onomasticon.json`. Every Linear A target is read strictly from `data/linear-a/corpus.json` (GORILA/SigLA transliterations) using only agreed Linear B sign values (`render/series.json`).
-2. **Zero LLMs & 100% deterministic:** All ten kernels run in pure Python with fixed PRNG seeds (`seed = 20261122` / `20261123`). Rerunning any command reproduces the JSON ledgers in `runs/` bit-for-bit.
+1. **Zero project-lexicon leakage:** No script in `models/language-id-kernel/` reads `lexicon.json`, `translations.json`, or `onomasticon.json`. Every Linear A target is read strictly from `data/linear-a/corpus.json` (GORILA/SigLA transliterations) using only agreed Linear B sign values (`render/series.json`, `render/signs-a5-proposed.json`; any sensitivity tier folding GORILA doublet `AB 56 / PA₃` is explicitly flagged).
+2. **Zero LLMs & 100% deterministic:** All twelve kernels run in pure Python with fixed PRNG seeds (`seed = 20261122` / `20261123` / `20261124` / `20261125`). Rerunning any command reproduces the JSON ledgers in `runs/` bit-for-bit.
 3. **Mandatory known-language calibration gates:** Every primary or high-impact kernel is first calibrated on known ancient languages (including real Linear B tablets, where **Greek** must win and **Semitic** must be rejected) before scoring Linear A.
 4. **Honest negative/weak reporting:** Kernels whose raw-bit lead is driven by `/a, i, u/` vowel-core macro-typology rather than consonant identity (**A, B**) are explicitly labeled as typological (`Z_perm < 0`), not consonant-specific proof.
 
 ---
 
-## 2. Ten-Kernel Master Scoreboard (Strict Linear B Values Only)
+## 2. Twelve-Kernel Master Scoreboard (Strict Linear B Values Only)
 
 | Kernel | Script | Runs on Fresh Clone? | Calibration Gate | Null Model(s) | Linear A Result | Honest Scope / Caveat |
 |---|---|---|---|---|---|---|
@@ -37,17 +37,19 @@ This guide documents how to replicate every kernel in `models/language-id-kernel
 | **G. Palaikastro Dialect** | `dialect_g.py` | **YES** | 10,000 random 4-rule bundles | Random 4-rule phonological bundles | **5/5 pairs match** NWS isogloss bundle (`p = 0.00010`) | Small sample (`n = 5` minimal pairs) |
 | **H. Roster Onomastics** | `onomastics_h.py` | **YES** | Size-equalized (`1,314`/arm) | Consonant-grid swaps | Mycenaean LB #1 (`5.88`), **ORACC Levant Semitic #2** (`6.14`, `Z = +1.56, p = 0.065`, ahead of Kassite `6.93`, Hurr `7.19`, Anat `7.43`) | Shared Cretan onomastic layer carried into Knossos Linear B |
 | **I. Bound Affix Morphology** | `morphology_i.py` | **YES** | **PASS** (7/7 dev `p = 0.00050`; Linear B → Greek `M = +472.95, p_M = 0.02679`, Semitic `p_M = 0.875`) | 5,000 **discriminative margin** consonant-grid swaps + 5-seed × (`omission`, `plene`) sweep | **Semitic wins** (standalone ANE Semitic: **`M = +40.03, Z_M = +2.63, p_M = 0.00360, p_cv = 0.00040`**; full 7-member Semitic 5/5 seeds `mean p_M = 0.0385`) | Uses inflected Diodorus Greek; `plene` mode weakens `p_M` (consistent with Linear A's coda-omission orthography) |
-| **J. Zero-Curation Dict Audit** | `auto_anchors_j.py` | **YES** | **PASS** (Linear B → Greek `p_perm = 0.00010, p_concept = 0.01389`; Sumerian `p_perm = 0.061`; Semitic `0.170 / 0.775`) | 10,000 consonant-grid swaps **AND** exact concept-label shuffle (`5,040` perms) | **Semitic wins** (standalone Akk+Heb vs LSJ Greek & **ePSD2 Sumerian**: **`ΔLL = +4.05, p_perm = 0.00010, p_concept = 0.02520`**; pre-Sumerian 5-lang `p_concept = 0.00893`; Sumerian `0.637`, Greek `0.588`) | Single-syllable `--ligatures` saturates an open 40-word dictionary (confirming multi-syllable anchors as primary) |
+| **J. Zero-Curation Dict Audit** | `auto_anchors_j.py` | **YES** | **PASS** (LB `n=6`: Greek `0.00010/0.01389`; `EXT9`: `481:1`, `0.00010/0.00020`; Sem `0.115/0.293`) | 10,000 consonant-grid swaps **AND** concept-label shuffle (`5,040` exact / `10k` MC) | **Semitic wins** (`FULL_8` `p_c=0.02520`; `DEDUP_7` `0.01111`; **purest strict-LB `DEDUP_9` incl. blind `DA-RO-PA`: `47.6:1, p_perm=0.00010, p_c=0.00390`**; sensitivity `+PA₃` `DEDUP_12` `66.7:1, p_c=0.00180` & `DEDUP_14` `101.8:1, p_perm=0.00020, p_c=0.00920`; `K`-free `5` `p_perm=0.01640`, `p_c=0.217`; Greek `0.63–0.79`, Sumerian `0.62–0.86`) | `DEDUP_12`/`14` explicitly fold opaque GORILA doublet `AB 56/PA₃`; single-syllable `--ligatures` saturates open dicts |
+| **K. Corazza–Ferrara Fractions** | `fractions_k.py` | **YES** | **PASS** (LB `TO-SO/O-PE-RO` Greek `Z=+2.48, p=0.01440`; Sem `0.401`) | 5,000 consonant-grid swaps + language-free metrology (`1,719` recs) | `0` Corazza `>1` violations (`55` compounds); blind `KU-RO` #1 (`9` sums); **dedup `KU-RO/KI-RO` Semitic #1** (`Z=+3.15, p=0.01480, ΔLL=+1.190`; LSJ Greek rejected `0.0544`) | Targeted `n=2–3` accounting bridge + 5-item 3D/RTI conflict ledger |
+| **L. Backward-Projection Audit** | `homomorph_l.py` | **YES** | **PASS** (LB L3 `100%` at `ε=0.2–0.3`; L4 LB ligatures fail `p=0.395`) | SigLA invariance, 12 single-series drops, D/J L1SO, `ε=0.1–0.5` corruption, L4 nulls | **SigLA sole pass** (`p_M=0.0020`); **`10/12`** I single drops (`drop T` #1 collapse `p=0.265`); `8/8` D & `7/7` J L1SO `p_perm<=0.05`; at `ε=0.2` D `99.67%` (`90% p<=0.05`) & I `86%` | Logs 11-sign core power floor (`30` tokens) & 3 calibrated negative controls |
 
 ---
 
 ## 3. Running Out-of-the-Box on Any Fresh `kaphtor` Clone
 
-All ten kernels run directly from the shipped, open-licensed inputs in `data/` with zero external folders:
+All twelve kernels run directly from the shipped, open-licensed inputs in `data/` with zero external folders:
 
 ```bash
-# 1. Full kernel unit test suite + shipped-input count guards
-PYTHONPATH=models/language-id-kernel uv run --no-sync python -m pytest -q models/language-id-kernel/tests/ tests/test_kernel_shipped_inputs.py
+# 1. Full kernel unit test suite (32) + shipped-input count guards (8) = 40 total
+PYTHONDONTWRITEBYTECODE=1 PYTHONPATH=models/language-id-kernel uv run --no-sync python -m pytest -q models/language-id-kernel/tests/ tests/test_kernel_shipped_inputs.py
 
 # 2. Unified Kernels A + B + C + D (manifest, calibration gate, signed Linear A run)
 uv run --no-sync python models/language-id-kernel/kaphtor_kernel.py manifest
@@ -59,11 +61,13 @@ uv run --no-sync python models/language-id-kernel/anchors_d.py --calibrate --run
 uv run --no-sync python models/language-id-kernel/acrophony_f.py --calibrate --run-linear-a --n-perm 10000
 uv run --no-sync python models/language-id-kernel/dialect_g.py --n-perm 10000
 
-# 4. Kernels E, H, I, J (Verbal Frames, Roster Onomastics, Bound Morphology, Zero-Curation Dictionary Audit)
+# 4. Kernels E, H, I, J, K, L (Verbal Frames, Onomastics, Bound Morphology, Zero-Curation Dicts, Fractions, Stress-Test)
 uv run --no-sync python models/language-id-kernel/verbs_e.py --n-perm 500
 uv run --no-sync python models/language-id-kernel/onomastics_h.py --n-perm 1000
 uv run --no-sync python models/language-id-kernel/morphology_i.py --mode omission --n-perm 5000
-uv run --no-sync python models/language-id-kernel/auto_anchors_j.py --cap 40 --n-perm 10000
+uv run --no-sync python models/language-id-kernel/auto_anchors_j.py --cap 40 --n-perm 10000 --seed 20261125
+uv run --no-sync python models/language-id-kernel/fractions_k.py --n-perm 5000
+uv run --no-sync python models/language-id-kernel/homomorph_l.py --stage all --n-perm 1000 --trials 300
 ```
 
 ### Shipped Inputs & Optional Override Environment Variables

@@ -55,6 +55,9 @@ CONCEPT_PATTERNS: dict[str, re.Pattern] = {
     "WHEAT": re.compile(r"\b(wheat|emmer|grain|barley|corn|cereal|spelt|weizen|gerste|getreide|korn)\b", re.I),
     "TRIPOD": re.compile(r"\b(tripod|three-footed|cauldron|dreifuß|kessel)\b", re.I),
     "SWORD": re.compile(r"\b(sword|dagger|blade|schwert|dolch|klinge)\b", re.I),
+    "WOOL": re.compile(r"\b(wool|fleece|cloth|linen|garment|textile|fabric|weave|wolle|tuch|leinen|gewand)\b", re.I),
+    "OIL": re.compile(r"\b(oil|olive|fat|unguent|salve|grease|anoint|öl|salbe|fett)\b", re.I),
+    "WINE": re.compile(r"\b(wine|must|vineyard|grape|raisin|vine|wein|most|traube)\b", re.I),
 }
 
 # Zero-curation commodity-qualifier regexes for Kernel F ligature acrophony audit
@@ -86,7 +89,14 @@ LB_ANCHORS: list[tuple[str, str]] = [
     ("SI-TO", "WHEAT"),
 ]
 
-# Linear A pre-linguistic anchors (6 shared with Kernel D plus PO-TO-KU-RO and KA-PA under finer BOWL/JAR/WHEAT concepts)
+# Expanded Linear B calibration anchors (n=9: adds DI-PA, WO-NO, E-RA-WO)
+LB_ANCHORS_EXT9: list[tuple[str, str]] = LB_ANCHORS + [
+    ("DI-PA", "BOWL"),
+    ("WO-NO", "WINE"),
+    ("E-RA-WO", "OIL"),
+]
+
+# Linear A pre-linguistic anchors (signed baseline n=8: 6 shared with Kernel D plus PO-TO-KU-RO and KA-PA)
 LA_ANCHORS: list[tuple[str, str]] = [
     ("KU-RO", "TOTAL"),
     ("KI-RO", "DEFICIT"),
@@ -97,6 +107,55 @@ LA_ANCHORS: list[tuple[str, str]] = [
     ("KA-DI", "JAR"),
     ("KU-NI-SU", "WHEAT"),
 ]
+
+# Deduplicated baseline (n=7: drops PO-TO-KU-RO so KU-RO is never double-counted)
+LA_DEDUP_7: list[tuple[str, str]] = [x for x in LA_ANCHORS if x[0] != "PO-TO-KU-RO"]
+
+# Tier 1a — Purest strict-LB pictographic + arithmetic inventory (n=9, deduplicated):
+# 100% strict signs-a5-proposed.json (zero PA3 folding, zero PA-RA header inference, zero MA+RU monogram);
+# adds PA-TA-QE (HT 31 *402-VS drawing) and DA-RO-PA (HT 38 *403-VS drawing, UNTRANSLATED blind inclusion).
+LA_DEDUP_9: list[tuple[str, str]] = LA_DEDUP_7 + [
+    ("PA-TA-QE", "BOWL"),
+    ("DA-RO-PA", "JAR"),
+]
+
+# Tier 1b — Strict-LB extended with Kernel D's PA-RA (HT 128a header) & MA+RU (A558/LANA wool monogram) (n=11):
+# Note: MA+RU is a ligatured wool monogram (distinct from HT 117a syllabic PN MA-RU), and PA-RA is a tablet
+# heading above GRA entries rather than a ligature; all four additions are K-series-free.
+LA_DEDUP_11: list[tuple[str, str]] = LA_DEDUP_9 + [
+    ("PA-RA", "WHEAT"),
+    ("MA-RU", "WOOL"),
+]
+
+# Tier 2a — Full HT 31 + HT 38 literal vessel drawings + arithmetic + KU-NI-SU (n=12, deduplicated):
+# Sensitivity tier folding GORILA doublet AB 56 (PA3 -> PA, kept opaque in signs-a5-proposed.json §15 ruling 3)
+# on HT 31's three literal vessel drawings (QA-PA3, KA-RO-PA3, SU-PA3-RA); excludes PA-RA & MA+RU.
+LA_DEDUP_12: list[tuple[str, str]] = LA_DEDUP_9 + [
+    ("QA-PA₃", "BOWL"),
+    ("KA-RO-PA₃", "JAR"),
+    ("SU-PA₃-RA", "BOWL"),
+]
+
+# Tier 2b — Full extended sensitivity tier (n=14: Tier 1b + HT 31 PA3 doublet vessel drawings).
+LA_DEDUP_14: list[tuple[str, str]] = LA_DEDUP_11 + [
+    ("QA-PA₃", "BOWL"),
+    ("KA-RO-PA₃", "JAR"),
+    ("SU-PA₃-RA", "BOWL"),
+]
+
+# Strictly K-series-free subset of Tier 1b (n=5: tests consonant-grid p_perm survival without K-series signs)
+LA_DROPK_5: list[tuple[str, str]] = [
+    ("SU-PU", "JAR"),
+    ("PA-TA-QE", "BOWL"),
+    ("DA-RO-PA", "JAR"),
+    ("PA-RA", "WHEAT"),
+    ("MA-RU", "WOOL"),
+]
+
+
+def _normalize_doublet(word: str) -> str:
+    """Fold GORILA doublet AB 56 (PA3 -> PA) for Tier 2 sensitivity runs only (opaque in signs-a5-proposed.json)."""
+    return word.replace("₃", "")
 
 
 def _vocalize_egyptian(raw: str) -> list[str] | None:
@@ -263,34 +322,61 @@ def exact_concept_shuffle(
     synsets: dict[str, dict[str, list[Word]]],
     lang: str,
     beta: float = 6.0,
+    n_mc: int = 10000,
+    seed: int = 20261123,
 ) -> dict:
-    """Exact permutation test over all distinct assignments of concept labels to anchor words.
+    """Permutation test over assignments of concept labels to anchor words.
 
     Tests semantic specificity independently of consonant-grid permutations: keeps real sign
-    values fixed and shuffles which concept (TOTAL, DEFICIT, BOWL, JAR, WHEAT, ...) maps to
-    which word. Skips subsets with < 12 distinct labelings (e.g., ARITH_2 where 2! = 2).
+    values fixed and shuffles which concept (TOTAL, DEFICIT, BOWL, JAR, WHEAT, WOOL, ...) maps
+    to which word. Enumerates all distinct labelings exactly when len(parsed) <= 8; uses
+    deterministic Monte Carlo (n_mc draws) when len(parsed) > 8. Skips subsets with < 12
+    distinct labelings (e.g., ARITH_2 where 2! = 2).
     """
     concepts = [c for _, c in parsed]
-    distinct_perms = sorted(set(itertools.permutations(concepts)))
-    n_cp = len(distinct_perms)
-    if n_cp < 12:
-        return {"n_concept_perms": n_cp, "concept_null_mean": None, "concept_null_sd": None, "z_concept": None, "p_concept": None}
-
     uniq_c = sorted(set(concepts))
+    if len(uniq_c) < 2:
+        return {"n_concept_perms": 1, "concept_null_mean": None, "concept_null_sd": None, "z_concept": None, "p_concept": None}
+
     # Pre-compute score matrix M[word_idx][concept]
     mat = [
         {c: _score_one_anchor(w, synsets[c][lang], beta=beta) for c in uniq_c}
         for w, _ in parsed
     ]
     obs = sum(mat[i][concepts[i]] for i in range(len(parsed)))
-    nulls = [sum(mat[i][perm[i]] for i in range(len(parsed))) for perm in distinct_perms]
-    mu = sum(nulls) / n_cp
-    sd = math.sqrt(sum((x - mu) ** 2 for x in nulls) / n_cp)
+
+    if len(parsed) <= 8:
+        distinct_perms = sorted(set(itertools.permutations(concepts)))
+        n_cp = len(distinct_perms)
+        if n_cp < 12:
+            return {"n_concept_perms": n_cp, "concept_null_mean": None, "concept_null_sd": None, "z_concept": None, "p_concept": None}
+        nulls = [sum(mat[i][perm[i]] for i in range(len(parsed))) for perm in distinct_perms]
+        mu = sum(nulls) / n_cp
+        sd = math.sqrt(sum((x - mu) ** 2 for x in nulls) / n_cp)
+        z = (obs - mu) / sd if sd > 0 else 0.0
+        ge = sum(1 for x in nulls if x >= obs - 1e-12)
+        p = ge / n_cp
+        return {
+            "n_concept_perms": n_cp,
+            "concept_null_mean": round(mu, 4),
+            "concept_null_sd": round(sd, 4),
+            "z_concept": round(z, 3),
+            "p_concept": round(p, 5),
+        }
+
+    rng = random.Random(seed)
+    buf = list(concepts)
+    nulls = []
+    for _ in range(n_mc):
+        rng.shuffle(buf)
+        nulls.append(sum(mat[i][buf[i]] for i in range(len(parsed))))
+    mu = sum(nulls) / n_mc
+    sd = math.sqrt(sum((x - mu) ** 2 for x in nulls) / n_mc)
     z = (obs - mu) / sd if sd > 0 else 0.0
     ge = sum(1 for x in nulls if x >= obs - 1e-12)
-    p = ge / n_cp
+    p = (ge + 1) / (n_mc + 1)
     return {
-        "n_concept_perms": n_cp,
+        "n_concept_perms": n_mc,
         "concept_null_mean": round(mu, 4),
         "concept_null_sd": round(sd, 4),
         "z_concept": round(z, 3),
@@ -306,7 +392,7 @@ def run_battery(
     seed: int = 20261123,
     beta: float = 6.0,
 ) -> dict:
-    parsed = [(tuple(a.keys(w, sign_table)), c) for w, c in raw_anchors]
+    parsed = [(tuple(a.keys(_normalize_doublet(w), sign_table)), c) for w, c in raw_anchors]
     first_c = next(iter(synsets))
     langs = tuple(
         l for l in ("semitic", "greek", "sumerian", "anatolian", "hurrian", "egyptian")
@@ -334,7 +420,7 @@ def run_battery(
         z = (obs - mu) / sd if sd > 0 else 0.0
         ge = sum(1 for x in nulls if x >= obs - 1e-12)
         p = (ge + 1) / (n_perm + 1)
-        c_res = exact_concept_shuffle(parsed, synsets, lang, beta=beta)
+        c_res = exact_concept_shuffle(parsed, synsets, lang, beta=beta, n_mc=max(n_perm, 10000), seed=seed)
         res[lang] = {
             "ll": round(obs, 4),
             "null_mean": round(mu, 4),
@@ -407,15 +493,24 @@ def main() -> int:
     synsets, counts = extract_auto_synsets(tables, signs, max_per_concept=cap)
 
     cal_lb = run_battery(LB_ANCHORS, synsets, sign_table, n_perm=args.n_perm, seed=args.seed, beta=args.beta)
+    cal_lb_ext9 = run_battery(LB_ANCHORS_EXT9, synsets, sign_table, n_perm=args.n_perm, seed=args.seed, beta=args.beta)
     out: dict = {
         "cap": cap,
         "beta": args.beta,
         "n_perm": args.n_perm,
+        "seed": args.seed,
         "synset_raw_counts": counts,
         "calibration_linear_b": cal_lb,
+        "calibration_linear_b_ext9": cal_lb_ext9,
     }
     if SIGNATURE.exists():
         out["linear_a_full_8"] = run_battery(LA_ANCHORS, synsets, sign_table, n_perm=args.n_perm, seed=args.seed, beta=args.beta)
+        out["linear_a_dedup_7"] = run_battery(LA_DEDUP_7, synsets, sign_table, n_perm=args.n_perm, seed=args.seed, beta=args.beta)
+        out["linear_a_dedup_9"] = run_battery(LA_DEDUP_9, synsets, sign_table, n_perm=args.n_perm, seed=args.seed, beta=args.beta)
+        out["linear_a_dedup_12"] = run_battery(LA_DEDUP_12, synsets, sign_table, n_perm=args.n_perm, seed=args.seed, beta=args.beta)
+        out["linear_a_dedup_11"] = run_battery(LA_DEDUP_11, synsets, sign_table, n_perm=args.n_perm, seed=args.seed, beta=args.beta)
+        out["linear_a_dedup_14"] = run_battery(LA_DEDUP_14, synsets, sign_table, n_perm=args.n_perm, seed=args.seed, beta=args.beta)
+        out["linear_a_dropk_5"] = run_battery(LA_DROPK_5, synsets, sign_table, n_perm=args.n_perm, seed=args.seed, beta=args.beta)
         no_loans = [x for x in LA_ANCHORS if x[0] not in ("A-KA-NU", "KU-NI-SU", "KA-DI")]
         out["linear_a_no_loans_5"] = run_battery(no_loans, synsets, sign_table, n_perm=args.n_perm, seed=args.seed, beta=args.beta)
         arith = [x for x in LA_ANCHORS if x[0] in ("KU-RO", "KI-RO")]
@@ -429,7 +524,19 @@ def main() -> int:
     print("Raw auto-extracted candidate counts per concept:")
     for c, by_l in counts.items():
         print(f"  {c:<8} " + "  ".join(f"{l}={n}" for l, n in by_l.items()))
-    for label in ("calibration_linear_b", "linear_a_full_8", "linear_a_no_loans_5", "linear_a_arith_2"):
+    for label in (
+        "calibration_linear_b",
+        "calibration_linear_b_ext9",
+        "linear_a_full_8",
+        "linear_a_dedup_7",
+        "linear_a_dedup_9",
+        "linear_a_dedup_12",
+        "linear_a_dedup_11",
+        "linear_a_dedup_14",
+        "linear_a_dropk_5",
+        "linear_a_no_loans_5",
+        "linear_a_arith_2",
+    ):
         if label not in out:
             continue
         b = out[label]

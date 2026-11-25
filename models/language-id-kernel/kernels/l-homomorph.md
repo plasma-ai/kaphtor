@@ -4,7 +4,7 @@ title: "Kernel L: Backward-Projection Stress-Testing & Honest Negative Controls"
 desc: "Operationalizes Steele & Meißner (2017) and Salgarella (2020) backward-projection caution alongside Valério & Ferrara (2020), Ferrara, Montecchi & Valério (2022), and Ottaviano et al. (2026) via homomorph-core ablations, L1SO jackknives, corruption curves, and calibrated negative controls."
 tags: [linear-a, kernel-l, backward-projection, stress-test, negative-controls]
 created: 2026-11-24T00:00:00Z
-updated: 2026-11-24T00:00:00Z
+updated: 2026-11-25T15:47:00Z
 ---
 
 # Kernel L: Backward-Projection Stress-Testing & Honest Negative Controls
@@ -55,7 +55,7 @@ Across **all 12 single-series drops**, **`10 / 12`** pass both `p_M <= 0.05` and
 ### Stage L2 — Leave-One-Consonant-Series-Out Jackknife (`B = 1,000`)
 
 - **Kernel D L1SO:** **`8 / 8` pass** (`winner = semitic`, `p_perm <= 0.05` across every consonant series removed; dropping `K` leaves `n_anchors = 3`, `Z = +3.98, p = 0.001`).
-- **Kernel J L1SO:** **`7 / 7` pass on consonant-grid `p_perm <= 0.05`** (`0.001–0.037`, `winner = semitic` across all 7 series). Under the stricter dual-null `p_concept <= 0.05`, **`2 / 7`** pass (`D` and `T`, both `p_concept = 0.01111`; `N, P, R, S` relax to `0.067–0.289`), and dropping `K` removes 7 of 8 Kernel J anchors, leaving only `n_anchors = 1` (`SU-PU`, `p_concept = null`—complemented by Kernel D `drop K` `p = 0.001` and Kernel I `drop K` `M = +47.30, p_M = 0.00399`).
+- **Kernel J L1SO (`FULL_8`):** **`7 / 7` pass on consonant-grid `p_perm <= 0.05`** (`0.001–0.037`, `winner = semitic` across all 7 series). Under the stricter dual-null `p_concept <= 0.05`, **`2 / 7`** pass (`D` and `T`, both `p_concept = 0.01111`; `N, P, R, S` relax to `0.067–0.289`), and dropping `K` removes 7 of 8 `FULL_8` anchors, leaving only `n_anchors = 1` (`SU-PU`, `p_concept = null`—complemented by Kernel D `drop K` `p = 0.001`, Kernel I `drop K` `M = +47.30, p_M = 0.00399`, and the `2026-11-25` [[models/language-id-kernel/kernels/j-auto-anchors|Kernel J]] `K`-free tier `LA_DROPK_5`, which passes consonant-grid `p_perm = 0.01640`, `p_concept = 0.217` underpowered at `n = 5`).
 
 ### Stage L3 — Steele–Meißner Random Corruption Curve on Kernels D & I (`300` / `100` trials/`ε`)
 

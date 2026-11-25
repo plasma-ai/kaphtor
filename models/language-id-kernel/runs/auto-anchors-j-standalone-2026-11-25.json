@@ -1,0 +1,542 @@
+{
+  "cap": 40,
+  "beta": 6.0,
+  "n_perm": 10000,
+  "seed": 20261125,
+  "synset_raw_counts": {
+    "TOTAL": {
+      "semitic": 19,
+      "greek": 1047,
+      "sumerian": 9
+    },
+    "DEFICIT": {
+      "semitic": 12,
+      "greek": 366,
+      "sumerian": 1
+    },
+    "BOWL": {
+      "semitic": 19,
+      "greek": 193,
+      "sumerian": 12
+    },
+    "JAR": {
+      "semitic": 25,
+      "greek": 248,
+      "sumerian": 33
+    },
+    "WHEAT": {
+      "semitic": 33,
+      "greek": 601,
+      "sumerian": 13
+    },
+    "TRIPOD": {
+      "semitic": 1,
+      "greek": 21,
+      "sumerian": 1
+    },
+    "SWORD": {
+      "semitic": 6,
+      "greek": 80,
+      "sumerian": 4
+    },
+    "WOOL": {
+      "semitic": 46,
+      "greek": 350,
+      "sumerian": 40
+    },
+    "OIL": {
+      "semitic": 16,
+      "greek": 393,
+      "sumerian": 9
+    },
+    "WINE": {
+      "semitic": 3,
+      "greek": 1776,
+      "sumerian": 2
+    }
+  },
+  "calibration_linear_b": {
+    "n_anchors": 6,
+    "winner": "greek",
+    "runner_up": "sumerian",
+    "delta_ll": 3.876,
+    "languages": {
+      "semitic": {
+        "ll": -28.2597,
+        "null_mean": -29.2753,
+        "null_sd": 1.1007,
+        "z_perm": 0.923,
+        "p_perm": 0.18378,
+        "n_concept_perms": 720,
+        "concept_null_mean": -27.7184,
+        "concept_null_sd": 0.7091,
+        "z_concept": -0.763,
+        "p_concept": 0.775
+      },
+      "greek": {
+        "ll": -21.9881,
+        "null_mean": -27.0012,
+        "null_sd": 1.0153,
+        "z_perm": 4.938,
+        "p_perm": 0.0001,
+        "n_concept_perms": 720,
+        "concept_null_mean": -24.4277,
+        "concept_null_sd": 0.9085,
+        "z_concept": 2.686,
+        "p_concept": 0.01389
+      },
+      "sumerian": {
+        "ll": -25.8641,
+        "null_mean": -28.0909,
+        "null_sd": 1.3116,
+        "z_perm": 1.698,
+        "p_perm": 0.06119,
+        "n_concept_perms": 720,
+        "concept_null_mean": -28.1851,
+        "concept_null_sd": 1.0422,
+        "z_concept": 2.227,
+        "p_concept": 0.01389
+      }
+    }
+  },
+  "calibration_linear_b_ext9": {
+    "n_anchors": 9,
+    "winner": "greek",
+    "runner_up": "sumerian",
+    "delta_ll": 6.1768,
+    "languages": {
+      "semitic": {
+        "ll": -41.7029,
+        "null_mean": -43.4774,
+        "null_sd": 1.4304,
+        "z_perm": 1.241,
+        "p_perm": 0.11459,
+        "n_concept_perms": 10000,
+        "concept_null_mean": -42.2831,
+        "concept_null_sd": 1.1226,
+        "z_concept": 0.517,
+        "p_concept": 0.29317
+      },
+      "greek": {
+        "ll": -34.1821,
+        "null_mean": -40.0495,
+        "null_sd": 1.1864,
+        "z_perm": 4.946,
+        "p_perm": 0.0001,
+        "n_concept_perms": 10000,
+        "concept_null_mean": -37.6981,
+        "concept_null_sd": 0.8265,
+        "z_concept": 4.254,
+        "p_concept": 0.0002
+      },
+      "sumerian": {
+        "ll": -40.3589,
+        "null_mean": -41.9518,
+        "null_sd": 1.4997,
+        "z_perm": 1.062,
+        "p_perm": 0.14799,
+        "n_concept_perms": 10000,
+        "concept_null_mean": -42.4246,
+        "concept_null_sd": 1.5735,
+        "z_concept": 1.313,
+        "p_concept": 0.10419
+      }
+    }
+  },
+  "linear_a_full_8": {
+    "n_anchors": 8,
+    "winner": "semitic",
+    "runner_up": "sumerian",
+    "delta_ll": 4.054,
+    "languages": {
+      "semitic": {
+        "ll": -29.1866,
+        "null_mean": -36.8623,
+        "null_sd": 2.0451,
+        "z_perm": 3.753,
+        "p_perm": 0.0001,
+        "n_concept_perms": 5040,
+        "concept_null_mean": -30.9851,
+        "concept_null_sd": 0.934,
+        "z_concept": 1.926,
+        "p_concept": 0.0252
+      },
+      "greek": {
+        "ll": -33.2868,
+        "null_mean": -36.8487,
+        "null_sd": 1.4242,
+        "z_perm": 2.501,
+        "p_perm": 0.0125,
+        "n_concept_perms": 5040,
+        "concept_null_mean": -33.1762,
+        "concept_null_sd": 0.4249,
+        "z_concept": -0.26,
+        "p_concept": 0.58849
+      },
+      "sumerian": {
+        "ll": -33.2406,
+        "null_mean": -38.8108,
+        "null_sd": 1.7047,
+        "z_perm": 3.268,
+        "p_perm": 0.0036,
+        "n_concept_perms": 5040,
+        "concept_null_mean": -32.5476,
+        "concept_null_sd": 1.3846,
+        "z_concept": -0.5,
+        "p_concept": 0.63651
+      }
+    }
+  },
+  "linear_a_dedup_7": {
+    "n_anchors": 7,
+    "winner": "semitic",
+    "runner_up": "sumerian",
+    "delta_ll": 4.3424,
+    "languages": {
+      "semitic": {
+        "ll": -24.754,
+        "null_mean": -32.1258,
+        "null_sd": 1.8915,
+        "z_perm": 3.897,
+        "p_perm": 0.0001,
+        "n_concept_perms": 1260,
+        "concept_null_mean": -26.6325,
+        "concept_null_sd": 0.9123,
+        "z_concept": 2.059,
+        "p_concept": 0.01111
+      },
+      "greek": {
+        "ll": -29.4932,
+        "null_mean": -31.9162,
+        "null_sd": 1.2806,
+        "z_perm": 1.892,
+        "p_perm": 0.0475,
+        "n_concept_perms": 1260,
+        "concept_null_mean": -29.2132,
+        "concept_null_sd": 0.4295,
+        "z_concept": -0.652,
+        "p_concept": 0.73095
+      },
+      "sumerian": {
+        "ll": -29.0964,
+        "null_mean": -33.8236,
+        "null_sd": 1.5289,
+        "z_perm": 3.092,
+        "p_perm": 0.0058,
+        "n_concept_perms": 1260,
+        "concept_null_mean": -28.5674,
+        "concept_null_sd": 1.411,
+        "z_concept": -0.375,
+        "p_concept": 0.57778
+      }
+    }
+  },
+  "linear_a_dedup_9": {
+    "n_anchors": 9,
+    "winner": "semitic",
+    "runner_up": "greek",
+    "delta_ll": 3.8626,
+    "languages": {
+      "semitic": {
+        "ll": -33.8825,
+        "null_mean": -41.5624,
+        "null_sd": 1.9723,
+        "z_perm": 3.894,
+        "p_perm": 0.0001,
+        "n_concept_perms": 10000,
+        "concept_null_mean": -35.9821,
+        "concept_null_sd": 0.8684,
+        "z_concept": 2.418,
+        "p_concept": 0.0039
+      },
+      "greek": {
+        "ll": -37.7451,
+        "null_mean": -41.2486,
+        "null_sd": 1.3486,
+        "z_perm": 2.598,
+        "p_perm": 0.011,
+        "n_concept_perms": 10000,
+        "concept_null_mean": -37.5632,
+        "concept_null_sd": 0.4904,
+        "z_concept": -0.371,
+        "p_concept": 0.62574
+      },
+      "sumerian": {
+        "ll": -38.7218,
+        "null_mean": -43.3492,
+        "null_sd": 1.659,
+        "z_perm": 2.789,
+        "p_perm": 0.0098,
+        "n_concept_perms": 10000,
+        "concept_null_mean": -37.9095,
+        "concept_null_sd": 1.4922,
+        "z_concept": -0.544,
+        "p_concept": 0.66343
+      }
+    }
+  },
+  "linear_a_dedup_12": {
+    "n_anchors": 12,
+    "winner": "semitic",
+    "runner_up": "greek",
+    "delta_ll": 4.2003,
+    "languages": {
+      "semitic": {
+        "ll": -46.1054,
+        "null_mean": -55.4712,
+        "null_sd": 2.5108,
+        "z_perm": 3.73,
+        "p_perm": 0.0001,
+        "n_concept_perms": 10000,
+        "concept_null_mean": -48.3957,
+        "concept_null_sd": 0.8403,
+        "z_concept": 2.725,
+        "p_concept": 0.0018
+      },
+      "greek": {
+        "ll": -50.3057,
+        "null_mean": -55.2467,
+        "null_sd": 1.8233,
+        "z_perm": 2.71,
+        "p_perm": 0.0063,
+        "n_concept_perms": 10000,
+        "concept_null_mean": -50.1104,
+        "concept_null_sd": 0.5147,
+        "z_concept": -0.379,
+        "p_concept": 0.63274
+      },
+      "sumerian": {
+        "ll": -52.5431,
+        "null_mean": -57.3194,
+        "null_sd": 2.1353,
+        "z_perm": 2.237,
+        "p_perm": 0.0207,
+        "n_concept_perms": 10000,
+        "concept_null_mean": -50.6084,
+        "concept_null_sd": 1.585,
+        "z_concept": -1.221,
+        "p_concept": 0.85551
+      }
+    }
+  },
+  "linear_a_dedup_11": {
+    "n_anchors": 11,
+    "winner": "semitic",
+    "runner_up": "greek",
+    "delta_ll": 4.2854,
+    "languages": {
+      "semitic": {
+        "ll": -41.9206,
+        "null_mean": -50.4261,
+        "null_sd": 2.1841,
+        "z_perm": 3.894,
+        "p_perm": 0.0001,
+        "n_concept_perms": 10000,
+        "concept_null_mean": -43.7793,
+        "concept_null_sd": 0.9079,
+        "z_concept": 2.047,
+        "p_concept": 0.0156
+      },
+      "greek": {
+        "ll": -46.206,
+        "null_mean": -50.4511,
+        "null_sd": 1.5094,
+        "z_perm": 2.812,
+        "p_perm": 0.0055,
+        "n_concept_perms": 10000,
+        "concept_null_mean": -45.7474,
+        "concept_null_sd": 0.5504,
+        "z_concept": -0.833,
+        "p_concept": 0.79052
+      },
+      "sumerian": {
+        "ll": -46.8373,
+        "null_mean": -52.5144,
+        "null_sd": 1.8614,
+        "z_perm": 3.05,
+        "p_perm": 0.0022,
+        "n_concept_perms": 10000,
+        "concept_null_mean": -46.2573,
+        "concept_null_sd": 1.5308,
+        "z_concept": -0.379,
+        "p_concept": 0.61954
+      }
+    }
+  },
+  "linear_a_dedup_14": {
+    "n_anchors": 14,
+    "winner": "semitic",
+    "runner_up": "greek",
+    "delta_ll": 4.623,
+    "languages": {
+      "semitic": {
+        "ll": -54.1436,
+        "null_mean": -64.3349,
+        "null_sd": 2.7875,
+        "z_perm": 3.656,
+        "p_perm": 0.0002,
+        "n_concept_perms": 10000,
+        "concept_null_mean": -56.1339,
+        "concept_null_sd": 0.8813,
+        "z_concept": 2.258,
+        "p_concept": 0.0092
+      },
+      "greek": {
+        "ll": -58.7666,
+        "null_mean": -64.4492,
+        "null_sd": 2.0327,
+        "z_perm": 2.796,
+        "p_perm": 0.0053,
+        "n_concept_perms": 10000,
+        "concept_null_mean": -58.2942,
+        "concept_null_sd": 0.5618,
+        "z_concept": -0.841,
+        "p_concept": 0.79352
+      },
+      "sumerian": {
+        "ll": -60.6587,
+        "null_mean": -66.4845,
+        "null_sd": 2.3897,
+        "z_perm": 2.438,
+        "p_perm": 0.0094,
+        "n_concept_perms": 10000,
+        "concept_null_mean": -58.8874,
+        "concept_null_sd": 1.6497,
+        "z_concept": -1.074,
+        "p_concept": 0.83422
+      }
+    }
+  },
+  "linear_a_dropk_5": {
+    "n_anchors": 5,
+    "winner": "semitic",
+    "runner_up": "greek",
+    "delta_ll": 1.2326,
+    "languages": {
+      "semitic": {
+        "ll": -20.1034,
+        "null_mean": -22.6894,
+        "null_sd": 1.1809,
+        "z_perm": 2.19,
+        "p_perm": 0.0164,
+        "n_concept_perms": 60,
+        "concept_null_mean": -20.4603,
+        "concept_null_sd": 0.3679,
+        "z_concept": 0.97,
+        "p_concept": 0.21667
+      },
+      "greek": {
+        "ll": -21.336,
+        "null_mean": -23.1395,
+        "null_sd": 0.877,
+        "z_perm": 2.057,
+        "p_perm": 0.0226,
+        "n_concept_perms": 60,
+        "concept_null_mean": -21.3501,
+        "concept_null_sd": 0.2408,
+        "z_concept": 0.058,
+        "p_concept": 0.41667
+      },
+      "sumerian": {
+        "ll": -22.1108,
+        "null_mean": -23.4823,
+        "null_sd": 1.2008,
+        "z_perm": 1.142,
+        "p_perm": 0.14459,
+        "n_concept_perms": 60,
+        "concept_null_mean": -21.7939,
+        "concept_null_sd": 0.5012,
+        "z_concept": -0.632,
+        "p_concept": 0.66667
+      }
+    }
+  },
+  "linear_a_no_loans_5": {
+    "n_anchors": 5,
+    "winner": "semitic",
+    "runner_up": "greek",
+    "delta_ll": 2.5341,
+    "languages": {
+      "semitic": {
+        "ll": -17.4877,
+        "null_mean": -23.2902,
+        "null_sd": 1.4878,
+        "z_perm": 3.9,
+        "p_perm": 0.0003,
+        "n_concept_perms": 60,
+        "concept_null_mean": -18.6302,
+        "concept_null_sd": 0.7992,
+        "z_concept": 1.43,
+        "p_concept": 0.1
+      },
+      "greek": {
+        "ll": -20.0218,
+        "null_mean": -23.0654,
+        "null_sd": 1.0156,
+        "z_perm": 2.997,
+        "p_perm": 0.0042,
+        "n_concept_perms": 60,
+        "concept_null_mean": -20.0885,
+        "concept_null_sd": 0.3256,
+        "z_concept": 0.205,
+        "p_concept": 0.41667
+      },
+      "sumerian": {
+        "ll": -21.1275,
+        "null_mean": -24.5222,
+        "null_sd": 1.2149,
+        "z_perm": 2.794,
+        "p_perm": 0.0093,
+        "n_concept_perms": 60,
+        "concept_null_mean": -20.1436,
+        "concept_null_sd": 1.5161,
+        "z_concept": -0.649,
+        "p_concept": 0.63333
+      }
+    }
+  },
+  "linear_a_arith_2": {
+    "n_anchors": 2,
+    "winner": "semitic",
+    "runner_up": "greek",
+    "delta_ll": 1.1897,
+    "languages": {
+      "semitic": {
+        "ll": -6.8066,
+        "null_mean": -9.726,
+        "null_sd": 0.9242,
+        "z_perm": 3.159,
+        "p_perm": 0.0135,
+        "n_concept_perms": 2,
+        "concept_null_mean": null,
+        "concept_null_sd": null,
+        "z_concept": null,
+        "p_concept": null
+      },
+      "greek": {
+        "ll": -7.9963,
+        "null_mean": -8.9823,
+        "null_sd": 0.5525,
+        "z_perm": 1.785,
+        "p_perm": 0.05019,
+        "n_concept_perms": 2,
+        "concept_null_mean": null,
+        "concept_null_sd": null,
+        "z_concept": null,
+        "p_concept": null
+      },
+      "sumerian": {
+        "ll": -8.6982,
+        "null_mean": -10.2197,
+        "null_sd": 0.6614,
+        "z_perm": 2.301,
+        "p_perm": 0.0293,
+        "n_concept_perms": 2,
+        "concept_null_mean": null,
+        "concept_null_sd": null,
+        "z_concept": null,
+        "p_concept": null
+      }
+    }
+  }
+}

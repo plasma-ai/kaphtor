@@ -48,10 +48,10 @@ uv run --no-sync python models/language-id-kernel/homomorph_l.py --stage all --n
 ### Challenge 4 — Eliminate Researcher Curation and Add CC0 Sumerian + LSJ Greek (**Kernel J**)
 
 ```bash
-uv run --no-sync python models/language-id-kernel/auto_anchors_j.py --cap 40 --n-perm 10000
+uv run --no-sync python models/language-id-kernel/auto_anchors_j.py --cap 40 --n-perm 10000 --seed 20261125
 ```
 
-- **What to check:** Every headword is auto-extracted by fixed English concept regexes from open JSONL lexica (including ePSD2 Sumerian `3,589` lemmas and LSJ Greek `101,410` glosses) and tested against both consonant-grid swaps (`p_perm`) and exact `8! / (2!·2!·2!) = 5,040` concept shuffles (`p_concept`). Semitic is the sole dual-null pass on Linear A (`0.00010 / 0.02520`); Greek is the sole pass on Linear B (`0.00010 / 0.01389`).
+- **What to check:** Every headword is auto-extracted by fixed English concept regexes from open JSONL lexica (including ePSD2 Sumerian `3,589` lemmas and LSJ Greek `101,410` glosses) and tested against both consonant-grid swaps (`p_perm`) and concept shuffles (`p_concept`). Semitic is the sole dual-null pass across signed `FULL_8` (`0.00010 / 0.02520`), deduplicated `LA_DEDUP_7` (`0.00010 / 0.01111`), purest strict-LB `LA_DEDUP_9` including blind untranslated `DA-RO-PA` (`HT 38 *403-VS`: **`0.00010 / 0.00390`**; Greek `0.626`, Sumerian `0.663`), and sensitivity tier `LA_DEDUP_12` folding `PA₃ → PA` on `HT 31`'s three `PA₃` vessels (**`0.00010 / 0.00180`**); `K`-free `LA_DROPK_5` passes consonant-grid permutation (`p_perm = 0.01640`, `p_concept = 0.217` underpowered at `n = 5`). Greek is the sole pass on Linear B (`n = 6`: `0.00010 / 0.01389`; `EXT9`: `481:1`, `0.00010 / 0.00020`; Semitic rejected `0.115 / 0.293`).
 
 ### Challenge 5 — Verify Our Honest Negative Controls (**Kernel L4**)
 

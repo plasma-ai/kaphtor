@@ -57,7 +57,7 @@ updated: 2026-11-25T02:30:26Z
 
 [[models/language-id-kernel/render/_index|render/]]: Frozen Linear B syllabary tables and the forward-spelling and alignment helpers the kernels read.
 
-[[models/language-id-kernel/replication-guide|replication-guide]]: Master scoreboard, objectivity audit, shipped reference inputs, and fresh-clone reproduction instructions for all ten probabilistic language-identification kernels.
+[[models/language-id-kernel/replication-guide|replication-guide]]: Master scoreboard, objectivity audit, shipped reference inputs, and fresh-clone reproduction instructions for all twelve probabilistic language-identification kernels.
 
 [[models/language-id-kernel/results-significance-2026-11-23|results-significance-2026-11-23]]: Timestamped analytical report explaining what each of the ten probabilistic kernels (A–J) establishes, why its null model matters, how rival languages behaved, and where the honest methodological limits stand.
 
@@ -97,7 +97,7 @@ In response, we built a **100% deterministic, zero-LLM, forward-spelled twelve-k
 | `dialect_g.py` | **Kernel G** — Palaikastro dialect sound-law coherence ($B=10{,}000$) | 5 Central Crete ↔ Palaikastro minimal pairs (`GORILA`); 4-rule NWS phonological bundle (`JA->A`, `JA->E`, `SI->TI`, `MA->MI`) | Whether Eastern Crete formula shifts match attested NWS sound laws vs. random 4-rule bundles (`5/5`, `p=0.00010`) |
 | `onomastics_h.py` | **Kernel H** — Structurally-gated roster onomastics ($B=1{,}000$) | Linear A `>=3`-sign words followed by `1` on admin tablets (`n=57`); shipped ORACC Levant LBA personal names (`1,314`), Kassite personal names (`3,795`), DAMOS Mycenaean LB, TLHdig Hurrian & Hittite | Cultural/onomastic milieu of structurally-identified personal-name slots without dictionary peeking (`mycenaean_lb` #1 `5.88`, `levant_semitic` #2 `6.14, Z=+1.56`) |
 | `morphology_i.py` | **Kernel I** — Unsupervised bound-affix morphology & margin-permutation null ($B=5{,}000$) | Strict one-sided stem-containment affixes (`S` vs `p+S`/`S+s`) trained on shipped inflected corpora (Diodorus Greek, OSHB/EUPT/ORACC ANE Semitic, TLHdig, LatInfLexi) | Tests bound prefix/suffix polarity (`p_pre`) and CV-sign affix identity under a discriminative margin-permutation null ($M_L(\pi) = \text{LL}_L - \max_{R \neq L}\text{LL}_R$): 7/7 dev PASS; Linear B picks Greek (`M=+472.95, p_M=0.02679`); Linear A picks Semitic (`M=+40.03, Z_M=+2.63, p_M=0.00360, p_cv=0.00040` standalone; `5/5` seeds `mean p_M=0.0385` full) |
-| `auto_anchors_j.py` | **Kernel J** — Zero-curation automated dictionary audit ($B=10{,}000$ grid perms + exact concept shuffle) | Shipped open JSONL lexica (`data/contact/{akkadian,hebrew}_lexicon.jsonl`, `lsj_glosses.jsonl` `101,410`, CC0 `sumerian_epsd2_lexicon.jsonl` `3,589`); fixed English concept regexes | Audits pre-linguistic anchors with zero hand-picked synsets under dual phonetic + semantic nulls: calibrates Linear B as Greek (`p_perm=0.00010, p_concept=0.01389`) and identifies Linear A as Semitic (`ΔLL=+4.05, p_perm=0.00010, p_concept=0.02520` standalone vs Sumerian `0.637` & Greek `0.588`; `0.00893` pre-Sumerian 5-lang) |
+| `auto_anchors_j.py` | **Kernel J** — Zero-curation automated dictionary audit ($B=10{,}000$ grid perms + concept shuffle) | Shipped open JSONL lexica (`data/contact/{akkadian,hebrew}_lexicon.jsonl`, `lsj_glosses.jsonl` `101,410`, CC0 `sumerian_epsd2_lexicon.jsonl` `3,589`); fixed English concept regexes | Audits pre-linguistic anchors with zero hand-picked synsets under dual phonetic + semantic nulls: calibrates Linear B as Greek (`n=6`: `0.00010/0.01389`; `EXT9`: `481:1`, `0.00010/0.00020`) and identifies Linear A as Semitic across `FULL_8` (`p_concept=0.02520`), `LA_DEDUP_7` (`0.01111`), purest strict-LB `LA_DEDUP_9` incl. blind `DA-RO-PA` (`47.6:1`, `p_perm=0.00010, p_concept=0.00390`), and sensitivity tiers folding `AB 56/PA₃` (`LA_DEDUP_12`: `66.7:1, p_concept=0.00180`; `LA_DEDUP_14`: `101.8:1, p_perm=0.00020, p_concept=0.00920`; `K`-free `LA_DROPK_5` `p_perm=0.01640`, `p_concept=0.217`) |
 | `fractions_k.py` | **Kernel K** — Corazza–Ferrara (2021) fractions & blind accounting discovery ($B=5{,}000$) | Raw Aegean Unicode numerals & `A700` fraction glyphs in `data/linear-a/corpus.json`; Kernel J shipped open lexica | Language-free Stage K0–K1 emits 5-item 3D/RTI conflict ledger (`HT 123+124a`, `KH 7a`/`HT 89`, `MA 10b`, `A709/L`) and blindly surfaces `KU-RO` #1 (`9` exact integer sums); Stage K2 calibrates Linear B `TO-SO`/`O-PE-RO` as Greek (`p=0.01440`) and ranks Linear A `KU-RO`/`PO-TO-KU-RO`/`KI-RO` Semitic #1 (`Z=+2.86, p=0.01280, ΔLL=+0.551`) |
 | `homomorph_l.py` | **Kernel L** — Backward-projection stress-testing & honest negative controls | `anchors_d.py`, `auto_anchors_j.py`, `morphology_i.py`, `kaphtor_kernel.py` | L1 homomorph-core & contested-series drops (`drop Q+Z M=+44.33 p=0.0020`, `drop T` collapses `p=0.265`), L2 L1SO jackknife (`8/8` D, `7/7` J on `p_perm`, J `p_concept` `2/7`), L3 Steele–Meißner corruption curve (`99.67%` Semitic rank-1 at `ε=0.2`), L4 calibrated nulls (A/B `Z_perm<0`, CH→LA acrophony `3/20`, live LB single-sign open-dict ligature saturation `p=0.395`) |
 | `stress_test_cd.py` | Ablation & sensitivity runner | `anchors_d.py`, `liturgy_c.py`, `formula_family.json` | 11-way Kernel D leave-one-anchor-out + trade-loanword drop (110,000 perms) and Kernel C full-formula-family test |
@@ -113,7 +113,7 @@ In response, we built a **100% deterministic, zero-LLM, forward-spelled twelve-k
 ## 3. Quick Reproduction (Fresh Clone, Zero External Folders)
 
 ```bash
-# 1. Run all kernel unit tests (29) + shipped-input count guards (8)
+# 1. Run all kernel unit tests (32) + shipped-input count guards (8) = 40 total
 PYTHONDONTWRITEBYTECODE=1 PYTHONPATH=models/language-id-kernel uv run --no-sync python -m pytest -q models/language-id-kernel/tests/ tests/test_kernel_shipped_inputs.py
 
 # 2. Verify SHA-256 manifest, Linear B anchor calibration gate, and leave-one-channel-out ablation
@@ -129,7 +129,7 @@ uv run --no-sync python models/language-id-kernel/acrophony_f.py --calibrate --r
 uv run --no-sync python models/language-id-kernel/dialect_g.py --n-perm 10000
 uv run --no-sync python models/language-id-kernel/onomastics_h.py --n-perm 1000
 uv run --no-sync python models/language-id-kernel/morphology_i.py --mode omission --n-perm 5000
-uv run --no-sync python models/language-id-kernel/auto_anchors_j.py --cap 40 --n-perm 10000
+uv run --no-sync python models/language-id-kernel/auto_anchors_j.py --cap 40 --n-perm 10000 --seed 20261125
 uv run --no-sync python models/language-id-kernel/fractions_k.py --n-perm 5000
 uv run --no-sync python models/language-id-kernel/homomorph_l.py --stage all --n-perm 1000 --trials 300
 ```
