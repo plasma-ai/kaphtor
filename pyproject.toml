@@ -36,7 +36,7 @@ Repository = "https://github.com/plasma-ai/kaphtor"
 dev = ["pytest>=9,<10", "pre-commit>=4,<5", "duckdb>=1.5,<3", "numpy>=2.5,<3; python_version >= '3.12'",
        "scipy>=1.18,<2; python_version >= '3.12'", "jsonschema>=4.23,<5"]
 # The version the wiki builder and its toy-wiki trial were checked against.
-lint = ["plasma-wiki==1.2.0"]
+lint = ["plasma-wiki==1.10.0"]
 
 [build-system]
 requires = ["uv_build>=0.9.21,<0.10"]

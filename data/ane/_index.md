@@ -1,10 +1,10 @@
 ---
 name: data/ane
 title: Ancient Near East data
-desc: Open-licence and public-domain ANE datasets: the Akkadian literary glossary, DIANA I and II (Safaitic and Taymanitic), PNM v6, Prosopographia Memphitica, Gauthier's DNG, the Kassite name concordances, place authorities, the Ugarit Texts Database, the ELiSiR Eblaite lexicon, IG XV 1, a catalogue of the Cypro-Minoan texts, I.Sicily's Semitic inscriptions, Palmyra's public inscriptions, Marcato's Hatra names and a table of Palmyrene divine names.
+desc: "Open-licence and public-domain ANE datasets: the Akkadian literary glossary, DIANA I and II (Safaitic and Taymanitic), PNM v6, Prosopographia Memphitica, Gauthier's DNG, the Kassite name concordances, place authorities, the Ugarit Texts Database, the ELiSiR Eblaite lexicon, IG XV 1, a catalogue of the Cypro-Minoan texts, I.Sicily's Semitic inscriptions, Palmyra's public inscriptions, Marcato's Hatra names and a table of Palmyrene divine names."
 tags: [data, ane]
 created: 2026-10-22T18:14:10Z
-updated: 2026-11-25T11:00:00Z
+updated: 2026-11-27T22:39:43Z
 ---
 
 # Ancient Near East data

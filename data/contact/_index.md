@@ -1,10 +1,10 @@
 ---
 name: data/contact
 title: Contact lexica
-desc: The open Semitic contact lexica that the root index links to the Proto-Semitic roots: Hebrew, Aramaic, Amarna Canaanite, Syriac and Akkadian, each with a datasheet.
+desc: "The open Semitic contact lexica that the root index links to the Proto-Semitic roots: Hebrew, Aramaic, Amarna Canaanite, Syriac and Akkadian, each with a datasheet."
 tags: [data, contact]
 created: 2026-10-25T22:00:00Z
-updated: 2026-10-26T00:26:00Z
+updated: 2026-11-27T22:39:43Z
 ---
 
 # Contact lexica

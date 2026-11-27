@@ -1,11 +1,11 @@
 ---
 name: docs/human-review/break-check
 title: Break check
-desc: The break-check page: SigLA's drawing with the word boxed, the measured space at each edge and SigLA's division there, the full SigLA record, and the rulings recorded on the page; how to build it and a worked example.
+desc: "The break-check page: SigLA's drawing with the word boxed, the measured space at each edge and SigLA's division there, the full SigLA record, and the rulings recorded on the page; how to build it and a worked example."
 tags: [docs, linear-a, review, sigla]
 authors: "di Mino"
 created: 2026-11-04T02:00:41Z
-updated: 2026-11-04T02:00:41Z
+updated: 2026-11-27T22:39:43Z
 ---
 
 # Break check

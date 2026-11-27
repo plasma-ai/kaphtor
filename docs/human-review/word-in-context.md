@@ -1,11 +1,11 @@
 ---
 name: docs/human-review/word-in-context
 title: Word in context
-desc: The word-in-context page: a word in every inscription that carries it, the corpus lines as glyphs over transliteration, SigLA's reading and drawing, and each card's tag; how to build it and a worked example.
+desc: "The word-in-context page: a word in every inscription that carries it, the corpus lines as glyphs over transliteration, SigLA's reading and drawing, and each card's tag; how to build it and a worked example."
 tags: [docs, linear-a, review, sigla]
 authors: "di Mino"
 created: 2026-11-04T02:00:41Z
-updated: 2026-11-04T02:00:41Z
+updated: 2026-11-27T22:39:43Z
 ---
 
 # Word in context
