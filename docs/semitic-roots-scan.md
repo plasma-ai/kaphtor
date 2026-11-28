@@ -1,11 +1,11 @@
 ---
 name: docs/semitic-roots-scan
 title: "Semitic Roots: The Dictionary Scan"
-desc: How the Semitic roots grow from the dictionaries they cite, entry by entry: the units and the coverage measure, the seven verdicts, the rules for joining a row or adding one, the cell form, and the gold sets that test a reader before a full scan.
+desc: "How the Semitic roots grow from the dictionaries they cite, entry by entry: the units and the coverage measure, the seven verdicts, the rules for joining a row or adding one, the cell form, and the gold sets that test a reader before a full scan."
 tags: [docs, semitic-roots]
 authors: "di Mino"
 created: 2026-11-02T23:00:00Z
-updated: 2026-11-16T17:30:00Z
+updated: 2026-11-27T22:39:43Z
 ---
 
 # Semitic Roots: The Dictionary Scan

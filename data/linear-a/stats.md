@@ -1,11 +1,11 @@
 ---
 name: data/linear-a/stats
 title: Linear A headline counts
-desc: The headline counts of the Linear A record as one JSON file, for sites that print them: records and documents, lexicon entries by tier, translations, sign values, names and Semitic roots.
+desc: "The headline counts of the Linear A record as one JSON file, for sites that print them: records and documents, lexicon entries by tier, translations, sign values, names and Semitic roots."
 tags: [data, linear-a, counts]
 license: CC BY 4.0
 created: 2026-11-16T18:18:44Z
-updated: 2026-11-16T18:18:44Z
+updated: 2026-11-27T22:39:43Z
 ---
 
 `stats.json` holds `schema_version` (1), `description` and the counts below, computed from the data files by

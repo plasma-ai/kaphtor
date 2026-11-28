@@ -1,9 +1,9 @@
 ---
 name: wiki
 title: Wiki
-desc: The record, generated from the data: Linear A, the Semitic roots, the Pre-Greek lexicon and the Aegean scripts.
+desc: "The record, generated from the data: Linear A, the Semitic roots, the Pre-Greek lexicon and the Aegean scripts."
 created: 2026-10-22T18:14:10Z
-updated: 2026-11-18T19:49:42Z
+updated: 2026-11-27T22:39:43Z
 ---
 
 # Wiki

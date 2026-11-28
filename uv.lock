@@ -1,5 +1,5 @@
 version = 1
-revision = 3
+revision = 5
 requires-python = ">=3.11, <3.15"
 resolution-markers = [
     "python_full_version >= '3.12'",
@@ -253,7 +253,7 @@ dev = [
     { name = "pytest", specifier = ">=9,<10" },
     { name = "scipy", marker = "python_full_version >= '3.12'", specifier = ">=1.18,<2" },
 ]
-lint = [{ name = "plasma-wiki", specifier = "==1.2.0" }]
+lint = [{ name = "plasma-wiki", specifier = "==1.10.0" }]
 
 [[package]]
 name = "markdown-it-py"
@@ -416,14 +416,15 @@ wheels = [
 
 [[package]]
 name = "plasma-wiki"
-version = "1.2.0"
+version = "1.10.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
+    { name = "pyyaml" },
     { name = "typer" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/ad/cc/344293628409b29591005b42948692233b3e0ae0d8f4d086b2da1e49ba1a/plasma_wiki-1.2.0.tar.gz", hash = "sha256:d82fddb6dc11a5f558bfce9965fd013b89d05482f3c16f92c7147c634375730b", size = 109207, upload-time = "2026-07-29T06:01:07.716Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/54/b5/de8918c040e439c148845bad55c6ae3947d59abcfe4e8123d4d3150ad725/plasma_wiki-1.10.0.tar.gz", hash = "sha256:e44a11869a424f8df1eea0cd0f0c942affb38e3897fb73e8a4be542ccf52dbf0", size = 215032, upload-time = "2026-11-27T22:29:31.763Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/7a/4e/509082b210d3dbc7eb0e35e56d9962d3cf72a6118a298f889a72ac648e94/plasma_wiki-1.2.0-py3-none-any.whl", hash = "sha256:a44118a782c41a5a0f58dd4c967614e55b4672682e1a12fb065fd951af87552b", size = 110478, upload-time = "2026-07-29T06:01:06.503Z" },
+    { url = "https://files.pythonhosted.org/packages/d8/c6/ed2c60b02f19bb551de0004cfd63c7f731ff6c6bd7d547cc6b38026460e7/plasma_wiki-1.10.0-py3-none-any.whl", hash = "sha256:1542b54ee5cc2db2e8f558f546199712c307820291a13f03e849d83abdcb11ad", size = 195454, upload-time = "2026-11-27T22:29:30.487Z" },
 ]
 
 [[package]]
@@ -690,7 +691,7 @@ name = "scipy"
 version = "1.18.1"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
-    { name = "numpy", marker = "python_full_version >= '3.12'" },
+    { name = "numpy" },
 ]
 sdist = { url = "https://files.pythonhosted.org/packages/7e/74/66de6258867beb2ef08f35f9f2ac017a52cacd5081714d239ff1a442d458/scipy-1.18.1.tar.gz", hash = "sha256:52c4b7422442aba924d03ad4019852b08a92e64ea187b933135687bfe2747307", size = 30781235, upload-time = "2026-08-21T23:28:50.599Z" }
 wheels = [

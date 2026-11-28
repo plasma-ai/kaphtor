@@ -1,11 +1,11 @@
 ---
 name: docs/pre-greek-lexicon
 title: "The Pre-Greek Lexicon"
-desc: How the Pre-Greek lexicon is compiled: its sources, the folding of headwords, the identity rule, each work's verdict codes, and what ships and what is withheld.
+desc: "How the Pre-Greek lexicon is compiled: its sources, the folding of headwords, the identity rule, each work's verdict codes, and what ships and what is withheld."
 tags: [docs, pre-greek, semitic-roots]
 authors: "di Mino"
 created: 2026-11-06T23:22:00Z
-updated: 2026-11-06T23:22:00Z
+updated: 2026-11-27T22:39:43Z
 ---
 
 # The Pre-Greek Lexicon
