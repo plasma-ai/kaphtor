@@ -4,7 +4,7 @@ title: "Kernel D: Pre-Linguistic Semantic Anchors"
 desc: "Bayesian marginal log-likelihood over eight arithmetic, vessel, and grain anchors fixed before any language is named, with 11-way ablations."
 tags: [linear-a, kernel-d, anchors, primary]
 created: 2026-11-23T19:35:00Z
-updated: 2026-11-23T19:35:00Z
+updated: 2026-11-27T11:08:00Z
 ---
 
 # Kernel D: Pre-Linguistic Semantic Anchors
@@ -57,4 +57,4 @@ Scores **eight Linear A words whose meanings are fixed pre-linguistically** by t
 
 ## 6. What It Proves & Honest Limits
 
-Kernel D provides strong consonant-specific lexical evidence for Semitic on pre-linguistic vocabulary that survives all 8 leave-one-out drops, removal of all three trade-loan suspects (`~1,860 : 1`), and pure arithmetic (`KU-RO`/`KI-RO`) alone. Because its bounded synsets are curated, [[models/language-id-kernel/kernels/j-auto-anchors|Kernel J]] independently audits the anchor class with zero hand-selection over open JSONL dictionaries.
+Kernel D provides strong consonant-specific lexical evidence for Semitic on pre-linguistic vocabulary that survives all 8 leave-one-out drops, removal of all three trade-loan suspects (`~1,860 : 1`), and pure arithmetic (`KU-RO`/`KI-RO`) alone. Because its bounded synsets are curated, [[models/language-id-kernel/kernels/j-auto-anchors|Kernel J]] independently audits the anchor class with zero hand-selection over open JSONL dictionaries. For an exploratory post-registration sensitivity study scaling the same frozen synsets to `n = 8 → 13` zero-`KA-PA` anchors (`~1.58M : 1` strict-LB, `~2.76M–7.97M : 1` with `HT 31 PA₃` vessels) without altering signed Kernel D, see [[models/language-id-kernel/kernel-d-sensitivity-expansion|Hypothetical Kernel D′ (`n = 8 → 13`)]].

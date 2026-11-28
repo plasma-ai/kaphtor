@@ -1433,7 +1433,7 @@
    "corpus_test": {
     "contradicts": 1,
     "holdout_s7_checked": true,
-    "method": "structural count over Ferrara and Valério 2017 clay-ball catalogue; blind §7 holdout (20 intact clay balls, 12 asymmetric): <=2-element cap 20/20 (100%, 0 exceptions), 2-element share 14/20 (70% vs train 61.8%, p=0.594), multi|single ordering 11/12 (91.7%, p_binom=0.00317) with 1 spherical order exception; stays PROBABLE pending Kernel H roster check",
+    "method": "structural count over Ferrara and Valério 2017 clay-ball catalogue; blind §7 holdout (20 intact clay balls, 12 asymmetric): <=2-element cap 20/20 (100%, 0 exceptions), 2-element share 14/20 (70% vs train 61.8%, p=0.594), multi|single ordering 11/12 (91.7%, p_binom=0.00317) with 1 spherical order exception; Track 6 CM-H (7-way size-equalized N=90 onomastics + acrophony): clean polarity reversal vs CM 3 RASH Atab 004 (ANE beats Cypriot/Mycenaean Greek 6.229–6.239 by +0.97 bits/sign, p_M=0.044, vs CM 1 clay-ball SEQ_1 [40 tokens / 36 types] amathus_ec #1 at 5.622, +0.66 bits/sign ahead of Levant Semitic, p_M=0.353 ns; SEQ_2 N=5 underpowered); 19 isolated clay-ball tokens (14 distinct signs) reject a word-final suffix origin (dLL init-fin=+4.696, p_vs_fin=0.0002; p_vs_all=0.237 ns; 4/5 SEQ_2 initial overlap p=0.088) -> stays PROBABLE",
     "supports_stems": 15,
     "supports_tokens": 51
    },
@@ -2043,7 +2043,7 @@
    "corpus_test": {
     "contradicts": 0,
     "holdout_s7_checked": true,
-    "method": "positional & allograph split audit across corpus vs emended; blind §7 holdout: UNDERPOWERED (N<5)—064 is 3/3 (100%) word-initial vs 0/16 CM 2 065 (p_fisher=0.00103); 013 before 023 ties 008 on raw corpus (1/4 vs 1/3) and leads on Valério emended (2/4 vs 0/3)",
+    "method": "positional & allograph split audit across corpus vs emended; blind §7 holdout: UNDERPOWERED (N<5)—064 is 3/3 (100%) word-initial vs 0/16 CM 2 065 (p_fisher=0.00103); 013 before 023 ties 008 on raw corpus (1/4 vs 1/3) and leads on Valério emended (2/4 vs 0/3); Track 6 CM-I2 head-to-head (unbiased mean_200-log): both Valério (013->008=na, p=0.0085 plene / 0.0035 omission) and Davis (013=na, p=0.0070 / 0.0035) pass Amathus EC #1 while HoChyMin unsplit (013=to) collapses (p=0.0845 / 0.1159)",
     "supports_stems": 20,
     "supports_tokens": 122
    },
@@ -2162,7 +2162,7 @@
    "corpus_test": {
     "contradicts": 0,
     "holdout_s7_checked": true,
-    "method": "cross-subcorpus suffix permutation + Davis 2026b Ch. 10–11 benchmark; blind §7 holdout (N=32 fully-ruled CM 1 types): word-final suffix cosine vs IG XV 1 Amathus Eteocypriot replicated on HoChyMin corpus (cos=0.5544, p_vcv=0.0291, p_unr=0.0408) but weakened to non-significance on Valério emended (cos=0.4928, p_vcv=0.0774, p_unr=0.0707); stays PROBABLE awaiting Kernel I multi-language controls",
+    "method": "cross-subcorpus suffix permutation + Davis 2026b Ch. 10–11 benchmark; blind §7 holdout (N=32 fully-ruled CM 1 types): word-final suffix cosine vs IG XV 1 Amathus Eteocypriot replicated on HoChyMin corpus (cos=0.5544, p_vcv=0.0291, p_unr=0.0408) but weakened to non-significance on Valério emended (cos=0.4928, p_vcv=0.0774, p_unr=0.0707); Track 6 CM-I1/CM-I2 (B=2,000, unbiased mean_200-log size-matching, calibrated on 194 IG XV 1 Cypriot Syllabic Greek types as greek p=0.0040 plene / 0.0370 omission in CM-I2 rejecting EC p=0.9255, and 2,545 DAMOS Linear B types as greek p=0.0415 plene / 0.0115 omission in CM-I1): in CM-I1 without EC, 0 of 7 rival families pass cypriot_plene (hurrian p=0.1859, semitic p=0.3278); in 8-way size-matched CM-I2, Amathus EC beats all 7 vocalized ancient families on CM 1+2 across all 4 mode x tier arms (cypriot_plene Valério M=+101.97 p=0.0085, Davis +105.79 p=0.0070, undotted p=0.0365/0.0215; omission Valério +78.55 p=0.0035, Davis +80.76 p=0.0035, undotted p=0.0155/0.0125), hurrian collapses (-101.97, p=0.9920), in cypriot_plene both CM 1 alone (+79.79, p=0.0260) and CM 2 alone (+19.81, p=0.0605) rank Amathus EC #1 (omission CM 2 near-ties hurrian, +0.79, EC p=0.0370), HoChyMin unsplit collapses (p=0.0845/0.1159), and CM 3 Ugarit rejects EC (p=0.7116/0.5617) -> stays PROBABLE pending §7 emended holdout & unvocalized Egyptian boundary",
     "supports_stems": 25,
     "supports_tokens": 120
    },

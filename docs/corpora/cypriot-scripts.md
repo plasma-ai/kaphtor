@@ -334,7 +334,7 @@ Semitic; those readings are kept with its control record in this repository (see
   `28` unvalued aggregate grid; T5 compliant: unvalued-sign hypotheses, `unread_words.json`, and raw unvalued sign
   contexts remain unshipped). Rendered in the wiki at `wiki/aegean/cypro-minoan/{grammar,lexicon,onomasticon,grid}.md`.
   Deterministic, zero-LLM statistical tests over the shipped layers live in `models/cypro-minoan-kernel/` (`CM-G`,
-  `CM-E`, `CM-O`, `CM-B`). Never counted with Linear A.
+  `CM-E`, `CM-O`, `CM-B`, `CM-I`, `CM-H`). Never counted with Linear A.
 
 - **IG XV 1** (`data/ane/ig-xv-1-cypriot/`, CC BY 4.0): the Cypriot syllabic inscriptions of *Inscriptiones Graecae*
   XV 1, Cypriot Greek and Eteocypriot, with their editions, places and dates.

@@ -21,7 +21,7 @@
     "translations_sha256": "10438a99a85db5a89a967de32e6f3601db0c7f24d970e643139da20a517fdad8",
     "sign_values_sha256": "37fb7eafa2c2bc34175bd64798286265b1d54f886191f15176751da5166e2032",
     "translations_manifest_sha256": "83c29e912cd7455659e836b6ce0fd45936624648380c5f9a93e5f8515dbad35c",
-    "grammar_manifest_sha256": "2bac78b1c96702269a95e553bb1172caa7bfecb724c54865c56a47f1c5013460",
+    "grammar_manifest_sha256": "43399be2d0492830a0b5bb474d42b77d32bf28ad32267ea3f883c54795ba5a73",
     "lexicon_manifest_sha256": "6004a009c4dbea241275c54a509e489c29cfc3cf31863c9c10cb8f50f3c90330"
   },
   "works": {
@@ -157,8 +157,8 @@
       "bytes": 347168
     },
     "grammar_hypotheses.json": {
-      "sha256": "b27538ae6d3d072587edf2710875b1e07e6d54cf1fde3db4e601b66470c7f61b",
-      "bytes": 87546
+      "sha256": "ac4a9d2f0497a30857f122e4cdddb6d5cd6e5d5cf856407ce71bdc6a7f0bb9f7",
+      "bytes": 89260
     },
     "lexicon.json": {
       "sha256": "d93b0ae321b8d3cbdda4c7ebd80b729aff1f7a29f9dda6d1ad8b73f16e99cbf6",

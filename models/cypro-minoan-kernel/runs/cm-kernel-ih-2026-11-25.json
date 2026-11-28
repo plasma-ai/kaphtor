@@ -1,0 +1,2441 @@
+{
+  "schema_version": 1,
+  "seed": 20261125,
+  "permutations_i": 2000,
+  "permutations_h": 1000,
+  "note_egyptian": "TLA/ORAEC Egyptian is consonantal (unvocalized) and omitted from vocalized CV models to avoid synthetic vowel insertion.",
+  "manifest": {
+    "schema_version": 1,
+    "firewall": "Cypro-Minoan only: reads zero data/linear-a/ files and zero models/language-id-kernel/ modules.",
+    "t5_compliant": true,
+    "inputs": {
+      "cm_catalogue": {
+        "path": "data/ane/cypro-minoan/catalogue.json",
+        "sha256": "e1ee1d4ffdd2603bb87de7b3fe4a4613ce8c511ea900ea4b73395dbdfcb5cb9d",
+        "bytes": 989616
+      },
+      "cm_lexicon": {
+        "path": "data/ane/cypro-minoan/lexicon.json",
+        "sha256": "d93b0ae321b8d3cbdda4c7ebd80b729aff1f7a29f9dda6d1ad8b73f16e99cbf6",
+        "bytes": 387449
+      },
+      "cm_translations": {
+        "path": "data/ane/cypro-minoan/translations.json",
+        "sha256": "328ff984f81a47d5b7af1d9517b2e989b50ce21d03ef61ee10253e99ee40ad3a",
+        "bytes": 347168
+      },
+      "diodorus_greek": {
+        "path": "data/share-alike/greek/diodorus_1_5.jsonl",
+        "sha256": "943ae9d2cf95300c7d6c9c64cb023ca094f0596efae53d1350969521b856a885",
+        "bytes": 1680605
+      },
+      "ig_xv_1": {
+        "path": "data/ane/ig-xv-1-cypriot/records.jsonl",
+        "sha256": "ac2c5d475e62760bf8cc2881346426393fdad1a1ec5f3c949bdff90d60a78a17",
+        "bytes": 610020
+      },
+      "kassite_names": {
+        "path": "data/ane/kassite-concordances/entries.jsonl",
+        "sha256": "48befc4d78e2ad5691fe712c525b72221f4a0138435333062f16598f215d5d9d",
+        "bytes": 5745014
+      },
+      "latinf_latin": {
+        "path": "data/share-alike/latin/latinf_forms.jsonl",
+        "sha256": "b86c99225a477957bda58cacb31b8c69096a28efc9c1a30366563aabc4669344",
+        "bytes": 43028275
+      },
+      "linear_b_damos": {
+        "path": "data/share-alike/linear-b/linear_b_tokens.jsonl",
+        "sha256": "744c905dfd484c447990e63b83cd660b1a90598cd630898cb728c465fcfcb8f4",
+        "bytes": 2618371
+      },
+      "oracc_akkadian": {
+        "path": "data/share-alike/cuneiform/oracc_akkadian.jsonl",
+        "sha256": "72aebd6e5d20bbb8abbeb887b72f9a28fa206684c34885927d5517bd6eab4a7f",
+        "bytes": 3697469
+      },
+      "oracc_levant_names": {
+        "path": "data/share-alike/oracc-levant/name_occurrences.jsonl",
+        "sha256": "ee9e10ed84d81a33cbdcbb675ababad3c4c24a216c497dcc4ac24f76544d29e9",
+        "bytes": 10213222
+      },
+      "oracc_sumerian": {
+        "path": "data/share-alike/cuneiform/oracc_sumerian.jsonl",
+        "sha256": "cc241d73b7fd3a3a5e6e3e093801d4cd69cce515551093bfad57a092f0d86e48",
+        "bytes": 1037319
+      },
+      "oshb_hebrew": {
+        "path": "data/share-alike/hebrew/oshb_words.jsonl",
+        "sha256": "20f550d9a1e0ca444cb254f2f620263459fcdc5a5b5f1e9b1a0fc55d589f78e3",
+        "bytes": 25622390
+      },
+      "tlhdig_anatolian": {
+        "path": "data/share-alike/anatolian/tlhdig_docs.jsonl",
+        "sha256": "65c3f1af918a3e4313d12af2926d73259f28a91484f61b4b90b2c38024e9707e",
+        "bytes": 7496381
+      }
+    }
+  },
+  "corpora_counts": {
+    "ig_cypriot_greek_l2": 194,
+    "ig_amathus_ec_confirmed_l2": 90,
+    "ig_amathus_ec_undotted_l2": 64,
+    "linear_b_clean_l2": 2545,
+    "cm_valerio_l2": {
+      "CM 1": 127,
+      "CM 1+2": 299,
+      "CM 2": 174,
+      "CM 3": 48
+    }
+  },
+  "kernel_cm_i": {
+    "cypriot_plene": {
+      "train_counts": {
+        "anatolian": 2500,
+        "greek": 2500,
+        "hattic": 1656,
+        "hurrian": 2500,
+        "latin": 2500,
+        "semitic": 2497,
+        "sumerian": 467
+      },
+      "kernel_cm_i1_rival_exclusion": {
+        "calib_cypriot_greek_ig_xv_1": {
+          "n_types": 194,
+          "n_pre": 15,
+          "n_suf": 19,
+          "pre_rate": 0.4412,
+          "winner": "greek",
+          "winner_margin": 16.703,
+          "winner_p_margin": 0.05397,
+          "families": {
+            "anatolian": {
+              "ll_joint": -177.435,
+              "margin_obs": -16.703,
+              "z_margin": 0.91,
+              "p_margin": 0.22139
+            },
+            "greek": {
+              "ll_joint": -160.732,
+              "margin_obs": 16.703,
+              "z_margin": 2.1,
+              "p_margin": 0.05397
+            },
+            "hattic": {
+              "ll_joint": -186.781,
+              "margin_obs": -26.05,
+              "z_margin": -0.35,
+              "p_margin": 0.67666
+            },
+            "hurrian": {
+              "ll_joint": -182.339,
+              "margin_obs": -21.608,
+              "z_margin": 0.66,
+              "p_margin": 0.27236
+            },
+            "latin": {
+              "ll_joint": -184.521,
+              "margin_obs": -23.789,
+              "z_margin": 0.41,
+              "p_margin": 0.36432
+            },
+            "semitic": {
+              "ll_joint": -185.783,
+              "margin_obs": -25.052,
+              "z_margin": -2.34,
+              "p_margin": 0.96202
+            },
+            "sumerian": {
+              "ll_joint": -194.966,
+              "margin_obs": -34.234,
+              "z_margin": -1.76,
+              "p_margin": 0.96352
+            }
+          }
+        },
+        "calib_damos_linear_b": {
+          "n_types": 2545,
+          "n_pre": 611,
+          "n_suf": 1032,
+          "pre_rate": 0.3719,
+          "winner": "greek",
+          "winner_margin": 217.209,
+          "winner_p_margin": 0.04148,
+          "families": {
+            "anatolian": {
+              "ll_joint": -10647.825,
+              "margin_obs": -687.531,
+              "z_margin": 0.28,
+              "p_margin": 0.3993
+            },
+            "greek": {
+              "ll_joint": -9960.295,
+              "margin_obs": 217.209,
+              "z_margin": 1.72,
+              "p_margin": 0.04148
+            },
+            "hattic": {
+              "ll_joint": -10871.475,
+              "margin_obs": -911.18,
+              "z_margin": -0.02,
+              "p_margin": 0.50725
+            },
+            "hurrian": {
+              "ll_joint": -11046.841,
+              "margin_obs": -1086.547,
+              "z_margin": -0.24,
+              "p_margin": 0.5957
+            },
+            "latin": {
+              "ll_joint": -10177.504,
+              "margin_obs": -217.209,
+              "z_margin": 0.65,
+              "p_margin": 0.26737
+            },
+            "semitic": {
+              "ll_joint": -10261.317,
+              "margin_obs": -301.023,
+              "z_margin": -0.38,
+              "p_margin": 0.64718
+            },
+            "sumerian": {
+              "ll_joint": -10301.25,
+              "margin_obs": -340.956,
+              "z_margin": -1.66,
+              "p_margin": 0.95502
+            }
+          }
+        },
+        "cm12_valerio_emended": {
+          "n_types": 299,
+          "n_pre": 16,
+          "n_suf": 40,
+          "pre_rate": 0.2857,
+          "winner": "hurrian",
+          "winner_margin": 1.332,
+          "winner_p_margin": 0.18591,
+          "families": {
+            "anatolian": {
+              "ll_joint": -298.055,
+              "margin_obs": -2.667,
+              "z_margin": 0.09,
+              "p_margin": 0.45777
+            },
+            "greek": {
+              "ll_joint": -305.269,
+              "margin_obs": -9.881,
+              "z_margin": 1.56,
+              "p_margin": 0.06197
+            },
+            "hattic": {
+              "ll_joint": -301.917,
+              "margin_obs": -6.53,
+              "z_margin": 0.92,
+              "p_margin": 0.18441
+            },
+            "hurrian": {
+              "ll_joint": -295.388,
+              "margin_obs": 1.332,
+              "z_margin": 0.93,
+              "p_margin": 0.18591
+            },
+            "latin": {
+              "ll_joint": -337.646,
+              "margin_obs": -42.258,
+              "z_margin": -1.15,
+              "p_margin": 0.87206
+            },
+            "semitic": {
+              "ll_joint": -296.72,
+              "margin_obs": -1.332,
+              "z_margin": 0.43,
+              "p_margin": 0.32784
+            },
+            "sumerian": {
+              "ll_joint": -315.577,
+              "margin_obs": -20.19,
+              "z_margin": -0.38,
+              "p_margin": 0.64468
+            }
+          }
+        },
+        "cm12_davis_unsplit": {
+          "n_types": 299,
+          "n_pre": 17,
+          "n_suf": 40,
+          "pre_rate": 0.2982,
+          "winner": "hurrian",
+          "winner_margin": 3.856,
+          "winner_p_margin": 0.15742,
+          "families": {
+            "anatolian": {
+              "ll_joint": -298.337,
+              "margin_obs": -4.11,
+              "z_margin": -0.01,
+              "p_margin": 0.48976
+            },
+            "greek": {
+              "ll_joint": -309.05,
+              "margin_obs": -14.823,
+              "z_margin": 1.28,
+              "p_margin": 0.10945
+            },
+            "hattic": {
+              "ll_joint": -301.519,
+              "margin_obs": -7.293,
+              "z_margin": 0.85,
+              "p_margin": 0.2009
+            },
+            "hurrian": {
+              "ll_joint": -294.227,
+              "margin_obs": 3.856,
+              "z_margin": 1.01,
+              "p_margin": 0.15742
+            },
+            "latin": {
+              "ll_joint": -340.722,
+              "margin_obs": -46.495,
+              "z_margin": -1.3,
+              "p_margin": 0.90605
+            },
+            "semitic": {
+              "ll_joint": -298.083,
+              "margin_obs": -3.856,
+              "z_margin": 0.28,
+              "p_margin": 0.3943
+            },
+            "sumerian": {
+              "ll_joint": -317.294,
+              "margin_obs": -23.067,
+              "z_margin": -0.45,
+              "p_margin": 0.66867
+            }
+          }
+        },
+        "cm12_hochymin_unsplit": {
+          "n_types": 299,
+          "n_pre": 18,
+          "n_suf": 42,
+          "pre_rate": 0.3,
+          "winner": "greek",
+          "winner_margin": 4.417,
+          "winner_p_margin": 0.05847,
+          "families": {
+            "anatolian": {
+              "ll_joint": -339.55,
+              "margin_obs": -16.573,
+              "z_margin": -0.83,
+              "p_margin": 0.7916
+            },
+            "greek": {
+              "ll_joint": -322.977,
+              "margin_obs": 4.417,
+              "z_margin": 1.67,
+              "p_margin": 0.05847
+            },
+            "hattic": {
+              "ll_joint": -346.832,
+              "margin_obs": -23.855,
+              "z_margin": -0.13,
+              "p_margin": 0.55972
+            },
+            "hurrian": {
+              "ll_joint": -345.961,
+              "margin_obs": -22.984,
+              "z_margin": -0.1,
+              "p_margin": 0.56222
+            },
+            "latin": {
+              "ll_joint": -356.95,
+              "margin_obs": -33.973,
+              "z_margin": -1.28,
+              "p_margin": 0.89805
+            },
+            "semitic": {
+              "ll_joint": -327.394,
+              "margin_obs": -4.417,
+              "z_margin": 0.03,
+              "p_margin": 0.45877
+            },
+            "sumerian": {
+              "ll_joint": -343.009,
+              "margin_obs": -20.031,
+              "z_margin": -1.36,
+              "p_margin": 0.90705
+            }
+          }
+        },
+        "cm2_only_valerio": {
+          "n_types": 174,
+          "n_pre": 7,
+          "n_suf": 24,
+          "pre_rate": 0.2258,
+          "winner": "semitic",
+          "winner_margin": 0.163,
+          "winner_p_margin": 0.18991,
+          "families": {
+            "anatolian": {
+              "ll_joint": -162.585,
+              "margin_obs": -3.512,
+              "z_margin": 0.14,
+              "p_margin": 0.42079
+            },
+            "greek": {
+              "ll_joint": -166.873,
+              "margin_obs": -7.799,
+              "z_margin": 1.79,
+              "p_margin": 0.03848
+            },
+            "hattic": {
+              "ll_joint": -166.868,
+              "margin_obs": -7.795,
+              "z_margin": 0.68,
+              "p_margin": 0.27936
+            },
+            "hurrian": {
+              "ll_joint": -159.237,
+              "margin_obs": -0.163,
+              "z_margin": 0.12,
+              "p_margin": 0.49975
+            },
+            "latin": {
+              "ll_joint": -189.485,
+              "margin_obs": -30.412,
+              "z_margin": -1.02,
+              "p_margin": 0.84558
+            },
+            "semitic": {
+              "ll_joint": -159.074,
+              "margin_obs": 0.163,
+              "z_margin": 0.91,
+              "p_margin": 0.18991
+            },
+            "sumerian": {
+              "ll_joint": -178.064,
+              "margin_obs": -18.991,
+              "z_margin": -0.53,
+              "p_margin": 0.69265
+            }
+          }
+        },
+        "cm3_ugarit_control": {
+          "n_types": 48,
+          "n_pre": 1,
+          "n_suf": 3,
+          "pre_rate": 0.25,
+          "winner": "hurrian",
+          "winner_margin": 4.124,
+          "winner_p_margin": 0.0075,
+          "families": {
+            "anatolian": {
+              "ll_joint": -21.006,
+              "margin_obs": -5.4,
+              "z_margin": -1.45,
+              "p_margin": 0.91304
+            },
+            "greek": {
+              "ll_joint": -22.353,
+              "margin_obs": -6.747,
+              "z_margin": -0.3,
+              "p_margin": 0.6022
+            },
+            "hattic": {
+              "ll_joint": -19.735,
+              "margin_obs": -4.129,
+              "z_margin": -0.39,
+              "p_margin": 0.63018
+            },
+            "hurrian": {
+              "ll_joint": -15.606,
+              "margin_obs": 4.124,
+              "z_margin": 2.16,
+              "p_margin": 0.0075
+            },
+            "latin": {
+              "ll_joint": -23.356,
+              "margin_obs": -7.751,
+              "z_margin": -0.84,
+              "p_margin": 0.7921
+            },
+            "semitic": {
+              "ll_joint": -19.73,
+              "margin_obs": -4.124,
+              "z_margin": -0.76,
+              "p_margin": 0.76712
+            },
+            "sumerian": {
+              "ll_joint": -22.821,
+              "margin_obs": -7.215,
+              "z_margin": -1.03,
+              "p_margin": 0.83558
+            }
+          }
+        }
+      },
+      "kernel_cm_i2_amathus_confirmed_8way": {
+        "calib_cypriot_greek_ig_xv_1": {
+          "n_types": 194,
+          "winner": "greek",
+          "winner_margin": 85.265,
+          "winner_p_margin": 0.004,
+          "amathus_ec_margin": -278.444,
+          "amathus_ec_p_margin": 0.92554,
+          "families": {
+            "amathus_ec": {
+              "ll": -909.175,
+              "margin_obs": -278.444,
+              "z_margin": -1.5,
+              "p_margin": 0.92554
+            },
+            "anatolian": {
+              "ll": -715.996,
+              "margin_obs": -85.265,
+              "z_margin": 0.45,
+              "p_margin": 0.42779
+            },
+            "greek": {
+              "ll": -630.732,
+              "margin_obs": 85.265,
+              "z_margin": 1.99,
+              "p_margin": 0.004
+            },
+            "hattic": {
+              "ll": -747.326,
+              "margin_obs": -116.594,
+              "z_margin": -0.76,
+              "p_margin": 0.85757
+            },
+            "hurrian": {
+              "ll": -718.723,
+              "margin_obs": -87.992,
+              "z_margin": 0.02,
+              "p_margin": 0.55872
+            },
+            "latin": {
+              "ll": -745.771,
+              "margin_obs": -115.039,
+              "z_margin": 0.16,
+              "p_margin": 0.42229
+            },
+            "semitic": {
+              "ll": -827.63,
+              "margin_obs": -196.898,
+              "z_margin": -2.24,
+              "p_margin": 0.98901
+            },
+            "sumerian": {
+              "ll": -787.871,
+              "margin_obs": -157.139,
+              "z_margin": -1.47,
+              "p_margin": 0.92404
+            }
+          }
+        },
+        "calib_damos_linear_b": {
+          "n_types": 2545,
+          "winner": "amathus_ec",
+          "winner_margin": 1113.764,
+          "winner_p_margin": 0.24888,
+          "amathus_ec_margin": 1113.764,
+          "amathus_ec_p_margin": 0.24888,
+          "families": {
+            "amathus_ec": {
+              "ll": -10918.879,
+              "margin_obs": 1113.764,
+              "z_margin": 0.68,
+              "p_margin": 0.24888
+            },
+            "anatolian": {
+              "ll": -12304.077,
+              "margin_obs": -1385.198,
+              "z_margin": -0.38,
+              "p_margin": 0.67316
+            },
+            "greek": {
+              "ll": -12297.952,
+              "margin_obs": -1379.073,
+              "z_margin": -0.01,
+              "p_margin": 0.50575
+            },
+            "hattic": {
+              "ll": -12145.415,
+              "margin_obs": -1226.537,
+              "z_margin": -0.4,
+              "p_margin": 0.68166
+            },
+            "hurrian": {
+              "ll": -12116.391,
+              "margin_obs": -1197.513,
+              "z_margin": -0.63,
+              "p_margin": 0.73563
+            },
+            "latin": {
+              "ll": -12543.383,
+              "margin_obs": -1624.505,
+              "z_margin": 0.37,
+              "p_margin": 0.38531
+            },
+            "semitic": {
+              "ll": -12032.643,
+              "margin_obs": -1113.764,
+              "z_margin": -0.44,
+              "p_margin": 0.69215
+            },
+            "sumerian": {
+              "ll": -12354.536,
+              "margin_obs": -1435.657,
+              "z_margin": -0.48,
+              "p_margin": 0.69615
+            }
+          }
+        },
+        "cm12_valerio_emended": {
+          "n_types": 299,
+          "winner": "amathus_ec",
+          "winner_margin": 101.967,
+          "winner_p_margin": 0.0085,
+          "amathus_ec_margin": 101.967,
+          "amathus_ec_p_margin": 0.0085,
+          "families": {
+            "amathus_ec": {
+              "ll": -1173.68,
+              "margin_obs": 101.967,
+              "z_margin": 2.5,
+              "p_margin": 0.0085
+            },
+            "anatolian": {
+              "ll": -1346.311,
+              "margin_obs": -172.63,
+              "z_margin": -2.87,
+              "p_margin": 0.9965
+            },
+            "greek": {
+              "ll": -1476.494,
+              "margin_obs": -302.813,
+              "z_margin": -2.55,
+              "p_margin": 0.994
+            },
+            "hattic": {
+              "ll": -1354.183,
+              "margin_obs": -180.503,
+              "z_margin": -2.96,
+              "p_margin": 0.9945
+            },
+            "hurrian": {
+              "ll": -1275.647,
+              "margin_obs": -101.967,
+              "z_margin": -2.67,
+              "p_margin": 0.992
+            },
+            "latin": {
+              "ll": -1566.446,
+              "margin_obs": -392.766,
+              "z_margin": -3.52,
+              "p_margin": 0.9995
+            },
+            "semitic": {
+              "ll": -1352.506,
+              "margin_obs": -178.825,
+              "z_margin": -3.18,
+              "p_margin": 0.999
+            },
+            "sumerian": {
+              "ll": -1434.683,
+              "margin_obs": -261.003,
+              "z_margin": -3.63,
+              "p_margin": 0.999
+            }
+          }
+        },
+        "cm12_davis_unsplit": {
+          "n_types": 299,
+          "winner": "amathus_ec",
+          "winner_margin": 105.791,
+          "winner_p_margin": 0.007,
+          "amathus_ec_margin": 105.791,
+          "amathus_ec_p_margin": 0.007,
+          "families": {
+            "amathus_ec": {
+              "ll": -1155.413,
+              "margin_obs": 105.791,
+              "z_margin": 2.72,
+              "p_margin": 0.007
+            },
+            "anatolian": {
+              "ll": -1336.843,
+              "margin_obs": -181.43,
+              "z_margin": -3.24,
+              "p_margin": 0.9975
+            },
+            "greek": {
+              "ll": -1478.844,
+              "margin_obs": -323.431,
+              "z_margin": -3.12,
+              "p_margin": 0.996
+            },
+            "hattic": {
+              "ll": -1343.847,
+              "margin_obs": -188.434,
+              "z_margin": -3.46,
+              "p_margin": 0.9965
+            },
+            "hurrian": {
+              "ll": -1261.204,
+              "margin_obs": -105.791,
+              "z_margin": -2.93,
+              "p_margin": 0.9935
+            },
+            "latin": {
+              "ll": -1565.937,
+              "margin_obs": -410.523,
+              "z_margin": -3.98,
+              "p_margin": 1.0
+            },
+            "semitic": {
+              "ll": -1348.562,
+              "margin_obs": -193.148,
+              "z_margin": -3.71,
+              "p_margin": 0.999
+            },
+            "sumerian": {
+              "ll": -1425.758,
+              "margin_obs": -270.345,
+              "z_margin": -4.05,
+              "p_margin": 0.999
+            }
+          }
+        },
+        "cm12_hochymin_unsplit": {
+          "n_types": 299,
+          "winner": "amathus_ec",
+          "winner_margin": 91.132,
+          "winner_p_margin": 0.08446,
+          "amathus_ec_margin": 91.132,
+          "amathus_ec_p_margin": 0.08446,
+          "families": {
+            "amathus_ec": {
+              "ll": -1225.437,
+              "margin_obs": 91.132,
+              "z_margin": 1.34,
+              "p_margin": 0.08446
+            },
+            "anatolian": {
+              "ll": -1373.135,
+              "margin_obs": -147.698,
+              "z_margin": -1.42,
+              "p_margin": 0.93053
+            },
+            "greek": {
+              "ll": -1469.835,
+              "margin_obs": -244.397,
+              "z_margin": -0.7,
+              "p_margin": 0.74213
+            },
+            "hattic": {
+              "ll": -1383.469,
+              "margin_obs": -158.032,
+              "z_margin": -1.31,
+              "p_margin": 0.89155
+            },
+            "hurrian": {
+              "ll": -1316.569,
+              "margin_obs": -91.132,
+              "z_margin": -1.39,
+              "p_margin": 0.91554
+            },
+            "latin": {
+              "ll": -1567.891,
+              "margin_obs": -342.453,
+              "z_margin": -1.82,
+              "p_margin": 0.96652
+            },
+            "semitic": {
+              "ll": -1363.68,
+              "margin_obs": -138.243,
+              "z_margin": -0.97,
+              "p_margin": 0.83058
+            },
+            "sumerian": {
+              "ll": -1459.971,
+              "margin_obs": -234.534,
+              "z_margin": -2.02,
+              "p_margin": 0.97401
+            }
+          }
+        },
+        "cm2_only_valerio": {
+          "n_types": 174,
+          "winner": "amathus_ec",
+          "winner_margin": 19.808,
+          "winner_p_margin": 0.06047,
+          "amathus_ec_margin": 19.808,
+          "amathus_ec_p_margin": 0.06047,
+          "families": {
+            "amathus_ec": {
+              "ll": -699.126,
+              "margin_obs": 19.808,
+              "z_margin": 1.6,
+              "p_margin": 0.06047
+            },
+            "anatolian": {
+              "ll": -777.001,
+              "margin_obs": -77.875,
+              "z_margin": -2.31,
+              "p_margin": 0.98951
+            },
+            "greek": {
+              "ll": -859.62,
+              "margin_obs": -160.494,
+              "z_margin": -1.9,
+              "p_margin": 0.96802
+            },
+            "hattic": {
+              "ll": -780.327,
+              "margin_obs": -81.202,
+              "z_margin": -2.52,
+              "p_margin": 0.98251
+            },
+            "hurrian": {
+              "ll": -718.934,
+              "margin_obs": -19.808,
+              "z_margin": -1.51,
+              "p_margin": 0.92954
+            },
+            "latin": {
+              "ll": -916.133,
+              "margin_obs": -217.007,
+              "z_margin": -3.1,
+              "p_margin": 0.9965
+            },
+            "semitic": {
+              "ll": -793.925,
+              "margin_obs": -94.799,
+              "z_margin": -2.51,
+              "p_margin": 0.9915
+            },
+            "sumerian": {
+              "ll": -818.251,
+              "margin_obs": -119.125,
+              "z_margin": -2.65,
+              "p_margin": 0.98951
+            }
+          }
+        },
+        "cm3_ugarit_control": {
+          "n_types": 48,
+          "winner": "hurrian",
+          "winner_margin": 11.334,
+          "winner_p_margin": 0.10445,
+          "amathus_ec_margin": -11.334,
+          "amathus_ec_p_margin": 0.71164,
+          "families": {
+            "amathus_ec": {
+              "ll": -200.502,
+              "margin_obs": -11.334,
+              "z_margin": -0.62,
+              "p_margin": 0.71164
+            },
+            "anatolian": {
+              "ll": -209.149,
+              "margin_obs": -19.981,
+              "z_margin": -1.02,
+              "p_margin": 0.84808
+            },
+            "greek": {
+              "ll": -242.965,
+              "margin_obs": -53.797,
+              "z_margin": -0.88,
+              "p_margin": 0.8076
+            },
+            "hattic": {
+              "ll": -214.505,
+              "margin_obs": -25.337,
+              "z_margin": -1.09,
+              "p_margin": 0.86507
+            },
+            "hurrian": {
+              "ll": -189.167,
+              "margin_obs": 11.334,
+              "z_margin": 1.25,
+              "p_margin": 0.10445
+            },
+            "latin": {
+              "ll": -260.558,
+              "margin_obs": -71.391,
+              "z_margin": -1.95,
+              "p_margin": 0.97601
+            },
+            "semitic": {
+              "ll": -212.94,
+              "margin_obs": -23.772,
+              "z_margin": -0.37,
+              "p_margin": 0.62319
+            },
+            "sumerian": {
+              "ll": -231.905,
+              "margin_obs": -42.738,
+              "z_margin": -1.19,
+              "p_margin": 0.88806
+            }
+          }
+        },
+        "cm1_only_valerio": {
+          "n_types": 127,
+          "winner": "amathus_ec",
+          "winner_margin": 79.793,
+          "winner_p_margin": 0.02599,
+          "amathus_ec_margin": 79.793,
+          "amathus_ec_p_margin": 0.02599,
+          "families": {
+            "amathus_ec": {
+              "ll": -484.417,
+              "margin_obs": 79.793,
+              "z_margin": 2.04,
+              "p_margin": 0.02599
+            },
+            "anatolian": {
+              "ll": -577.916,
+              "margin_obs": -93.499,
+              "z_margin": -1.6,
+              "p_margin": 0.96152
+            },
+            "greek": {
+              "ll": -625.625,
+              "margin_obs": -141.208,
+              "z_margin": -1.58,
+              "p_margin": 0.95102
+            },
+            "hattic": {
+              "ll": -582.132,
+              "margin_obs": -97.715,
+              "z_margin": -1.7,
+              "p_margin": 0.96402
+            },
+            "hurrian": {
+              "ll": -564.21,
+              "margin_obs": -79.793,
+              "z_margin": -2.2,
+              "p_margin": 0.96752
+            },
+            "latin": {
+              "ll": -659.39,
+              "margin_obs": -174.972,
+              "z_margin": -2.11,
+              "p_margin": 0.97451
+            },
+            "semitic": {
+              "ll": -565.776,
+              "margin_obs": -81.359,
+              "z_margin": -1.52,
+              "p_margin": 0.92504
+            },
+            "sumerian": {
+              "ll": -624.501,
+              "margin_obs": -140.084,
+              "z_margin": -2.4,
+              "p_margin": 0.98451
+            }
+          }
+        }
+      },
+      "kernel_cm_i2_amathus_undotted_8way": {
+        "calib_cypriot_greek_ig_xv_1": {
+          "n_types": 194,
+          "winner": "greek",
+          "winner_margin": 82.29,
+          "winner_p_margin": 0.003,
+          "amathus_ec_margin": -273.894,
+          "amathus_ec_p_margin": 0.95152,
+          "families": {
+            "amathus_ec": {
+              "ll": -902.375,
+              "margin_obs": -273.894,
+              "z_margin": -1.55,
+              "p_margin": 0.95152
+            },
+            "anatolian": {
+              "ll": -710.771,
+              "margin_obs": -82.29,
+              "z_margin": 0.42,
+              "p_margin": 0.43028
+            },
+            "greek": {
+              "ll": -628.481,
+              "margin_obs": 82.29,
+              "z_margin": 1.95,
+              "p_margin": 0.003
+            },
+            "hattic": {
+              "ll": -740.42,
+              "margin_obs": -111.938,
+              "z_margin": -0.7,
+              "p_margin": 0.82959
+            },
+            "hurrian": {
+              "ll": -722.549,
+              "margin_obs": -94.068,
+              "z_margin": -0.1,
+              "p_margin": 0.58021
+            },
+            "latin": {
+              "ll": -730.662,
+              "margin_obs": -102.181,
+              "z_margin": 0.09,
+              "p_margin": 0.46977
+            },
+            "semitic": {
+              "ll": -819.239,
+              "margin_obs": -190.757,
+              "z_margin": -2.09,
+              "p_margin": 0.96952
+            },
+            "sumerian": {
+              "ll": -785.636,
+              "margin_obs": -157.154,
+              "z_margin": -1.6,
+              "p_margin": 0.95702
+            }
+          }
+        },
+        "cm12_valerio_emended": {
+          "n_types": 299,
+          "winner": "amathus_ec",
+          "winner_margin": 64.391,
+          "winner_p_margin": 0.03648,
+          "amathus_ec_margin": 64.391,
+          "amathus_ec_p_margin": 0.03648,
+          "families": {
+            "amathus_ec": {
+              "ll": -1200.689,
+              "margin_obs": 64.391,
+              "z_margin": 1.92,
+              "p_margin": 0.03648
+            },
+            "anatolian": {
+              "ll": -1329.727,
+              "margin_obs": -129.038,
+              "z_margin": -2.48,
+              "p_margin": 0.98501
+            },
+            "greek": {
+              "ll": -1438.707,
+              "margin_obs": -238.018,
+              "z_margin": -2.14,
+              "p_margin": 0.97101
+            },
+            "hattic": {
+              "ll": -1337.914,
+              "margin_obs": -137.225,
+              "z_margin": -2.51,
+              "p_margin": 0.98301
+            },
+            "hurrian": {
+              "ll": -1265.08,
+              "margin_obs": -64.391,
+              "z_margin": -2.05,
+              "p_margin": 0.96402
+            },
+            "latin": {
+              "ll": -1505.872,
+              "margin_obs": -305.183,
+              "z_margin": -3.1,
+              "p_margin": 0.9965
+            },
+            "semitic": {
+              "ll": -1339.807,
+              "margin_obs": -139.118,
+              "z_margin": -2.7,
+              "p_margin": 0.9905
+            },
+            "sumerian": {
+              "ll": -1402.088,
+              "margin_obs": -201.399,
+              "z_margin": -3.21,
+              "p_margin": 0.9945
+            }
+          }
+        },
+        "cm12_davis_unsplit": {
+          "n_types": 299,
+          "winner": "amathus_ec",
+          "winner_margin": 70.048,
+          "winner_p_margin": 0.02149,
+          "amathus_ec_margin": 70.048,
+          "amathus_ec_p_margin": 0.02149,
+          "families": {
+            "amathus_ec": {
+              "ll": -1182.422,
+              "margin_obs": 70.048,
+              "z_margin": 2.2,
+              "p_margin": 0.02149
+            },
+            "anatolian": {
+              "ll": -1322.495,
+              "margin_obs": -140.073,
+              "z_margin": -2.87,
+              "p_margin": 0.992
+            },
+            "greek": {
+              "ll": -1439.971,
+              "margin_obs": -257.549,
+              "z_margin": -2.72,
+              "p_margin": 0.98751
+            },
+            "hattic": {
+              "ll": -1329.854,
+              "margin_obs": -147.432,
+              "z_margin": -3.06,
+              "p_margin": 0.9935
+            },
+            "hurrian": {
+              "ll": -1252.47,
+              "margin_obs": -70.048,
+              "z_margin": -2.39,
+              "p_margin": 0.97901
+            },
+            "latin": {
+              "ll": -1505.443,
+              "margin_obs": -323.021,
+              "z_margin": -3.56,
+              "p_margin": 0.9975
+            },
+            "semitic": {
+              "ll": -1336.935,
+              "margin_obs": -154.514,
+              "z_margin": -3.29,
+              "p_margin": 0.997
+            },
+            "sumerian": {
+              "ll": -1394.862,
+              "margin_obs": -212.44,
+              "z_margin": -3.68,
+              "p_margin": 0.9975
+            }
+          }
+        },
+        "cm12_hochymin_unsplit": {
+          "n_types": 299,
+          "winner": "amathus_ec",
+          "winner_margin": 48.36,
+          "winner_p_margin": 0.23288,
+          "amathus_ec_margin": 48.36,
+          "amathus_ec_p_margin": 0.23288,
+          "families": {
+            "amathus_ec": {
+              "ll": -1252.446,
+              "margin_obs": 48.36,
+              "z_margin": 0.75,
+              "p_margin": 0.23288
+            },
+            "anatolian": {
+              "ll": -1350.218,
+              "margin_obs": -97.772,
+              "z_margin": -0.91,
+              "p_margin": 0.81759
+            },
+            "greek": {
+              "ll": -1435.125,
+              "margin_obs": -182.679,
+              "z_margin": -0.28,
+              "p_margin": 0.64268
+            },
+            "hattic": {
+              "ll": -1360.751,
+              "margin_obs": -108.305,
+              "z_margin": -0.75,
+              "p_margin": 0.77661
+            },
+            "hurrian": {
+              "ll": -1300.806,
+              "margin_obs": -48.36,
+              "z_margin": -0.73,
+              "p_margin": 0.76512
+            },
+            "latin": {
+              "ll": -1507.086,
+              "margin_obs": -254.64,
+              "z_margin": -1.34,
+              "p_margin": 0.89455
+            },
+            "semitic": {
+              "ll": -1347.944,
+              "margin_obs": -95.498,
+              "z_margin": -0.38,
+              "p_margin": 0.68066
+            },
+            "sumerian": {
+              "ll": -1422.561,
+              "margin_obs": -170.115,
+              "z_margin": -1.43,
+              "p_margin": 0.90105
+            }
+          }
+        },
+        "cm3_ugarit_control": {
+          "n_types": 48,
+          "winner": "hurrian",
+          "winner_margin": 7.967,
+          "winner_p_margin": 0.10395,
+          "amathus_ec_margin": -7.967,
+          "amathus_ec_p_margin": 0.7936,
+          "families": {
+            "amathus_ec": {
+              "ll": -197.866,
+              "margin_obs": -7.967,
+              "z_margin": -0.81,
+              "p_margin": 0.7936
+            },
+            "anatolian": {
+              "ll": -207.567,
+              "margin_obs": -17.668,
+              "z_margin": -0.75,
+              "p_margin": 0.77061
+            },
+            "greek": {
+              "ll": -234.09,
+              "margin_obs": -44.191,
+              "z_margin": -0.54,
+              "p_margin": 0.71764
+            },
+            "hattic": {
+              "ll": -212.317,
+              "margin_obs": -22.418,
+              "z_margin": -0.66,
+              "p_margin": 0.76362
+            },
+            "hurrian": {
+              "ll": -189.899,
+              "margin_obs": 7.967,
+              "z_margin": 1.19,
+              "p_margin": 0.10395
+            },
+            "latin": {
+              "ll": -249.476,
+              "margin_obs": -59.577,
+              "z_margin": -1.73,
+              "p_margin": 0.96502
+            },
+            "semitic": {
+              "ll": -212.613,
+              "margin_obs": -22.713,
+              "z_margin": -0.42,
+              "p_margin": 0.67316
+            },
+            "sumerian": {
+              "ll": -227.104,
+              "margin_obs": -37.204,
+              "z_margin": -1.05,
+              "p_margin": 0.86457
+            }
+          }
+        }
+      }
+    },
+    "omission": {
+      "train_counts": {
+        "anatolian": 2500,
+        "greek": 2500,
+        "hattic": 1489,
+        "hurrian": 2500,
+        "latin": 2500,
+        "semitic": 2489,
+        "sumerian": 319
+      },
+      "kernel_cm_i1_rival_exclusion": {
+        "calib_cypriot_greek_ig_xv_1": {
+          "n_types": 194,
+          "n_pre": 15,
+          "n_suf": 19,
+          "pre_rate": 0.4412,
+          "winner": "greek",
+          "winner_margin": 12.733,
+          "winner_p_margin": 0.18541,
+          "families": {
+            "anatolian": {
+              "ll_joint": -229.655,
+              "margin_obs": -52.131,
+              "z_margin": -0.87,
+              "p_margin": 0.78911
+            },
+            "greek": {
+              "ll_joint": -177.524,
+              "margin_obs": 12.733,
+              "z_margin": 1.1,
+              "p_margin": 0.18541
+            },
+            "hattic": {
+              "ll_joint": -201.09,
+              "margin_obs": -23.566,
+              "z_margin": -0.16,
+              "p_margin": 0.52374
+            },
+            "hurrian": {
+              "ll_joint": -190.257,
+              "margin_obs": -12.733,
+              "z_margin": 0.73,
+              "p_margin": 0.24488
+            },
+            "latin": {
+              "ll_joint": -214.971,
+              "margin_obs": -37.447,
+              "z_margin": 0.14,
+              "p_margin": 0.50075
+            },
+            "semitic": {
+              "ll_joint": -201.713,
+              "margin_obs": -24.189,
+              "z_margin": -1.86,
+              "p_margin": 0.97951
+            },
+            "sumerian": {
+              "ll_joint": -209.828,
+              "margin_obs": -32.303,
+              "z_margin": -1.61,
+              "p_margin": 0.93203
+            }
+          }
+        },
+        "calib_damos_linear_b": {
+          "n_types": 2545,
+          "n_pre": 611,
+          "n_suf": 1032,
+          "pre_rate": 0.3719,
+          "winner": "greek",
+          "winner_margin": 912.056,
+          "winner_p_margin": 0.01149,
+          "families": {
+            "anatolian": {
+              "ll_joint": -10978.937,
+              "margin_obs": -2131.886,
+              "z_margin": -0.97,
+              "p_margin": 0.82809
+            },
+            "greek": {
+              "ll_joint": -8847.051,
+              "margin_obs": 912.056,
+              "z_margin": 2.23,
+              "p_margin": 0.01149
+            },
+            "hattic": {
+              "ll_joint": -11304.215,
+              "margin_obs": -2457.165,
+              "z_margin": -1.83,
+              "p_margin": 0.96102
+            },
+            "hurrian": {
+              "ll_joint": -11205.237,
+              "margin_obs": -2358.186,
+              "z_margin": -1.22,
+              "p_margin": 0.87356
+            },
+            "latin": {
+              "ll_joint": -9827.348,
+              "margin_obs": -980.298,
+              "z_margin": 1.2,
+              "p_margin": 0.12144
+            },
+            "semitic": {
+              "ll_joint": -10318.726,
+              "margin_obs": -1471.675,
+              "z_margin": -2.74,
+              "p_margin": 0.995
+            },
+            "sumerian": {
+              "ll_joint": -9759.106,
+              "margin_obs": -912.056,
+              "z_margin": -2.23,
+              "p_margin": 0.98851
+            }
+          }
+        },
+        "cm12_valerio_emended": {
+          "n_types": 299,
+          "n_pre": 16,
+          "n_suf": 40,
+          "pre_rate": 0.2857,
+          "winner": "sumerian",
+          "winner_margin": 11.306,
+          "winner_p_margin": 0.41229,
+          "families": {
+            "anatolian": {
+              "ll_joint": -288.408,
+              "margin_obs": -11.804,
+              "z_margin": 0.78,
+              "p_margin": 0.22589
+            },
+            "greek": {
+              "ll_joint": -287.911,
+              "margin_obs": -11.306,
+              "z_margin": 1.1,
+              "p_margin": 0.14493
+            },
+            "hattic": {
+              "ll_joint": -289.611,
+              "margin_obs": -13.006,
+              "z_margin": 1.99,
+              "p_margin": 0.02199
+            },
+            "hurrian": {
+              "ll_joint": -292.316,
+              "margin_obs": -15.711,
+              "z_margin": 2.12,
+              "p_margin": 0.01549
+            },
+            "latin": {
+              "ll_joint": -326.419,
+              "margin_obs": -49.815,
+              "z_margin": 0.49,
+              "p_margin": 0.31584
+            },
+            "semitic": {
+              "ll_joint": -291.497,
+              "margin_obs": -14.893,
+              "z_margin": -0.48,
+              "p_margin": 0.66917
+            },
+            "sumerian": {
+              "ll_joint": -276.604,
+              "margin_obs": 11.306,
+              "z_margin": 0.28,
+              "p_margin": 0.41229
+            }
+          }
+        },
+        "cm12_davis_unsplit": {
+          "n_types": 299,
+          "n_pre": 17,
+          "n_suf": 40,
+          "pre_rate": 0.2982,
+          "winner": "sumerian",
+          "winner_margin": 9.391,
+          "winner_p_margin": 0.43078,
+          "families": {
+            "anatolian": {
+              "ll_joint": -287.386,
+              "margin_obs": -9.391,
+              "z_margin": 0.67,
+              "p_margin": 0.26187
+            },
+            "greek": {
+              "ll_joint": -292.745,
+              "margin_obs": -14.75,
+              "z_margin": 0.91,
+              "p_margin": 0.1909
+            },
+            "hattic": {
+              "ll_joint": -288.1,
+              "margin_obs": -10.105,
+              "z_margin": 1.98,
+              "p_margin": 0.02099
+            },
+            "hurrian": {
+              "ll_joint": -290.29,
+              "margin_obs": -12.295,
+              "z_margin": 2.09,
+              "p_margin": 0.01649
+            },
+            "latin": {
+              "ll_joint": -333.905,
+              "margin_obs": -55.91,
+              "z_margin": 0.16,
+              "p_margin": 0.44528
+            },
+            "semitic": {
+              "ll_joint": -293.902,
+              "margin_obs": -15.907,
+              "z_margin": -0.7,
+              "p_margin": 0.74613
+            },
+            "sumerian": {
+              "ll_joint": -277.995,
+              "margin_obs": 9.391,
+              "z_margin": 0.2,
+              "p_margin": 0.43078
+            }
+          }
+        },
+        "cm12_hochymin_unsplit": {
+          "n_types": 299,
+          "n_pre": 18,
+          "n_suf": 42,
+          "pre_rate": 0.3,
+          "winner": "greek",
+          "winner_margin": 15.031,
+          "winner_p_margin": 0.01899,
+          "families": {
+            "anatolian": {
+              "ll_joint": -335.917,
+              "margin_obs": -41.869,
+              "z_margin": -0.42,
+              "p_margin": 0.66467
+            },
+            "greek": {
+              "ll_joint": -294.049,
+              "margin_obs": 15.031,
+              "z_margin": 2.14,
+              "p_margin": 0.01899
+            },
+            "hattic": {
+              "ll_joint": -339.004,
+              "margin_obs": -44.955,
+              "z_margin": 0.59,
+              "p_margin": 0.28286
+            },
+            "hurrian": {
+              "ll_joint": -346.92,
+              "margin_obs": -52.871,
+              "z_margin": 0.5,
+              "p_margin": 0.32034
+            },
+            "latin": {
+              "ll_joint": -319.305,
+              "margin_obs": -25.256,
+              "z_margin": 1.66,
+              "p_margin": 0.06097
+            },
+            "semitic": {
+              "ll_joint": -317.608,
+              "margin_obs": -23.56,
+              "z_margin": -1.09,
+              "p_margin": 0.86757
+            },
+            "sumerian": {
+              "ll_joint": -309.08,
+              "margin_obs": -15.031,
+              "z_margin": -2.28,
+              "p_margin": 0.97051
+            }
+          }
+        },
+        "cm2_only_valerio": {
+          "n_types": 174,
+          "n_pre": 7,
+          "n_suf": 24,
+          "pre_rate": 0.2258,
+          "winner": "sumerian",
+          "winner_margin": 6.873,
+          "winner_p_margin": 0.34683,
+          "families": {
+            "anatolian": {
+              "ll_joint": -154.937,
+              "margin_obs": -6.873,
+              "z_margin": 0.15,
+              "p_margin": 0.43678
+            },
+            "greek": {
+              "ll_joint": -155.682,
+              "margin_obs": -7.618,
+              "z_margin": 1.07,
+              "p_margin": 0.15542
+            },
+            "hattic": {
+              "ll_joint": -157.957,
+              "margin_obs": -9.893,
+              "z_margin": 1.61,
+              "p_margin": 0.03798
+            },
+            "hurrian": {
+              "ll_joint": -156.188,
+              "margin_obs": -8.124,
+              "z_margin": 1.72,
+              "p_margin": 0.03548
+            },
+            "latin": {
+              "ll_joint": -180.997,
+              "margin_obs": -32.933,
+              "z_margin": 0.43,
+              "p_margin": 0.33933
+            },
+            "semitic": {
+              "ll_joint": -162.581,
+              "margin_obs": -14.516,
+              "z_margin": -1.23,
+              "p_margin": 0.89105
+            },
+            "sumerian": {
+              "ll_joint": -148.064,
+              "margin_obs": 6.873,
+              "z_margin": 0.4,
+              "p_margin": 0.34683
+            }
+          }
+        },
+        "cm3_ugarit_control": {
+          "n_types": 48,
+          "n_pre": 1,
+          "n_suf": 3,
+          "pre_rate": 0.25,
+          "winner": "hurrian",
+          "winner_margin": 1.401,
+          "winner_p_margin": 0.02749,
+          "families": {
+            "anatolian": {
+              "ll_joint": -18.657,
+              "margin_obs": -3.858,
+              "z_margin": -0.76,
+              "p_margin": 0.7946
+            },
+            "greek": {
+              "ll_joint": -22.574,
+              "margin_obs": -7.776,
+              "z_margin": 0.05,
+              "p_margin": 0.38281
+            },
+            "hattic": {
+              "ll_joint": -16.199,
+              "margin_obs": -1.401,
+              "z_margin": 0.3,
+              "p_margin": 0.41379
+            },
+            "hurrian": {
+              "ll_joint": -14.799,
+              "margin_obs": 1.401,
+              "z_margin": 1.6,
+              "p_margin": 0.02749
+            },
+            "latin": {
+              "ll_joint": -24.231,
+              "margin_obs": -9.433,
+              "z_margin": -0.46,
+              "p_margin": 0.62119
+            },
+            "semitic": {
+              "ll_joint": -17.314,
+              "margin_obs": -2.515,
+              "z_margin": -0.59,
+              "p_margin": 0.69415
+            },
+            "sumerian": {
+              "ll_joint": -18.25,
+              "margin_obs": -3.451,
+              "z_margin": -0.22,
+              "p_margin": 0.55422
+            }
+          }
+        }
+      },
+      "kernel_cm_i2_amathus_confirmed_8way": {
+        "calib_cypriot_greek_ig_xv_1": {
+          "n_types": 194,
+          "winner": "greek",
+          "winner_margin": 90.702,
+          "winner_p_margin": 0.03698,
+          "amathus_ec_margin": -119.714,
+          "amathus_ec_p_margin": 0.83308,
+          "families": {
+            "amathus_ec": {
+              "ll": -909.175,
+              "margin_obs": -119.714,
+              "z_margin": -1.04,
+              "p_margin": 0.83308
+            },
+            "anatolian": {
+              "ll": -948.105,
+              "margin_obs": -158.643,
+              "z_margin": -1.12,
+              "p_margin": 0.82459
+            },
+            "greek": {
+              "ll": -789.462,
+              "margin_obs": 90.702,
+              "z_margin": 1.4,
+              "p_margin": 0.03698
+            },
+            "hattic": {
+              "ll": -906.452,
+              "margin_obs": -116.991,
+              "z_margin": -0.71,
+              "p_margin": 0.73513
+            },
+            "hurrian": {
+              "ll": -905.331,
+              "margin_obs": -115.87,
+              "z_margin": -0.8,
+              "p_margin": 0.81259
+            },
+            "latin": {
+              "ll": -880.163,
+              "margin_obs": -90.702,
+              "z_margin": 0.4,
+              "p_margin": 0.27236
+            },
+            "semitic": {
+              "ll": -905.856,
+              "margin_obs": -116.394,
+              "z_margin": -0.92,
+              "p_margin": 0.75412
+            },
+            "sumerian": {
+              "ll": -882.533,
+              "margin_obs": -93.072,
+              "z_margin": 0.87,
+              "p_margin": 0.26037
+            }
+          }
+        },
+        "calib_damos_linear_b": {
+          "n_types": 2545,
+          "winner": "greek",
+          "winner_margin": 637.903,
+          "winner_p_margin": 0.10645,
+          "amathus_ec_margin": -637.903,
+          "amathus_ec_p_margin": 0.88556,
+          "families": {
+            "amathus_ec": {
+              "ll": -10918.879,
+              "margin_obs": -637.903,
+              "z_margin": -1.37,
+              "p_margin": 0.88556
+            },
+            "anatolian": {
+              "ll": -12106.587,
+              "margin_obs": -1825.611,
+              "z_margin": -1.5,
+              "p_margin": 0.92554
+            },
+            "greek": {
+              "ll": -10280.976,
+              "margin_obs": 637.903,
+              "z_margin": 1.43,
+              "p_margin": 0.10645
+            },
+            "hattic": {
+              "ll": -12134.685,
+              "margin_obs": -1853.709,
+              "z_margin": -1.68,
+              "p_margin": 0.95052
+            },
+            "hurrian": {
+              "ll": -12009.133,
+              "margin_obs": -1728.157,
+              "z_margin": -1.75,
+              "p_margin": 0.95452
+            },
+            "latin": {
+              "ll": -11421.427,
+              "margin_obs": -1140.451,
+              "z_margin": 0.47,
+              "p_margin": 0.37881
+            },
+            "semitic": {
+              "ll": -11737.789,
+              "margin_obs": -1456.813,
+              "z_margin": -1.79,
+              "p_margin": 0.94403
+            },
+            "sumerian": {
+              "ll": -12491.611,
+              "margin_obs": -2210.635,
+              "z_margin": -2.09,
+              "p_margin": 0.98401
+            }
+          }
+        },
+        "cm12_valerio_emended": {
+          "n_types": 299,
+          "winner": "amathus_ec",
+          "winner_margin": 78.55,
+          "winner_p_margin": 0.0035,
+          "amathus_ec_margin": 78.55,
+          "amathus_ec_p_margin": 0.0035,
+          "families": {
+            "amathus_ec": {
+              "ll": -1173.68,
+              "margin_obs": 78.55,
+              "z_margin": 2.62,
+              "p_margin": 0.0035
+            },
+            "anatolian": {
+              "ll": -1278.991,
+              "margin_obs": -105.31,
+              "z_margin": -3.63,
+              "p_margin": 0.998
+            },
+            "greek": {
+              "ll": -1321.92,
+              "margin_obs": -148.239,
+              "z_margin": -0.62,
+              "p_margin": 0.71814
+            },
+            "hattic": {
+              "ll": -1292.171,
+              "margin_obs": -118.49,
+              "z_margin": -3.25,
+              "p_margin": 0.996
+            },
+            "hurrian": {
+              "ll": -1252.231,
+              "margin_obs": -78.55,
+              "z_margin": -2.12,
+              "p_margin": 0.97451
+            },
+            "latin": {
+              "ll": -1357.766,
+              "margin_obs": -184.086,
+              "z_margin": -0.54,
+              "p_margin": 0.69515
+            },
+            "semitic": {
+              "ll": -1270.457,
+              "margin_obs": -96.776,
+              "z_margin": -2.64,
+              "p_margin": 0.9965
+            },
+            "sumerian": {
+              "ll": -1291.375,
+              "margin_obs": -117.695,
+              "z_margin": -2.39,
+              "p_margin": 0.98301
+            }
+          }
+        },
+        "cm12_davis_unsplit": {
+          "n_types": 299,
+          "winner": "amathus_ec",
+          "winner_margin": 80.761,
+          "winner_p_margin": 0.0035,
+          "amathus_ec_margin": 80.761,
+          "amathus_ec_p_margin": 0.0035,
+          "families": {
+            "amathus_ec": {
+              "ll": -1155.413,
+              "margin_obs": 80.761,
+              "z_margin": 2.79,
+              "p_margin": 0.0035
+            },
+            "anatolian": {
+              "ll": -1266.536,
+              "margin_obs": -111.123,
+              "z_margin": -3.97,
+              "p_margin": 0.999
+            },
+            "greek": {
+              "ll": -1330.664,
+              "margin_obs": -175.251,
+              "z_margin": -1.01,
+              "p_margin": 0.84308
+            },
+            "hattic": {
+              "ll": -1279.89,
+              "margin_obs": -124.477,
+              "z_margin": -3.51,
+              "p_margin": 0.9965
+            },
+            "hurrian": {
+              "ll": -1236.175,
+              "margin_obs": -80.761,
+              "z_margin": -2.07,
+              "p_margin": 0.97201
+            },
+            "latin": {
+              "ll": -1371.919,
+              "margin_obs": -216.506,
+              "z_margin": -1.1,
+              "p_margin": 0.85957
+            },
+            "semitic": {
+              "ll": -1268.557,
+              "margin_obs": -113.144,
+              "z_margin": -3.0,
+              "p_margin": 0.999
+            },
+            "sumerian": {
+              "ll": -1275.571,
+              "margin_obs": -120.158,
+              "z_margin": -2.3,
+              "p_margin": 0.98001
+            }
+          }
+        },
+        "cm12_hochymin_unsplit": {
+          "n_types": 299,
+          "winner": "amathus_ec",
+          "winner_margin": 50.402,
+          "winner_p_margin": 0.11594,
+          "amathus_ec_margin": 50.402,
+          "amathus_ec_p_margin": 0.11594,
+          "families": {
+            "amathus_ec": {
+              "ll": -1225.437,
+              "margin_obs": 50.402,
+              "z_margin": 1.12,
+              "p_margin": 0.11594
+            },
+            "anatolian": {
+              "ll": -1314.28,
+              "margin_obs": -88.843,
+              "z_margin": -1.81,
+              "p_margin": 0.96002
+            },
+            "greek": {
+              "ll": -1297.143,
+              "margin_obs": -71.706,
+              "z_margin": 1.05,
+              "p_margin": 0.15942
+            },
+            "hattic": {
+              "ll": -1326.967,
+              "margin_obs": -101.529,
+              "z_margin": -1.37,
+              "p_margin": 0.89455
+            },
+            "hurrian": {
+              "ll": -1297.723,
+              "margin_obs": -72.286,
+              "z_margin": -1.25,
+              "p_margin": 0.88906
+            },
+            "latin": {
+              "ll": -1317.666,
+              "margin_obs": -92.229,
+              "z_margin": 1.26,
+              "p_margin": 0.11894
+            },
+            "semitic": {
+              "ll": -1275.839,
+              "margin_obs": -50.402,
+              "z_margin": -0.66,
+              "p_margin": 0.75362
+            },
+            "sumerian": {
+              "ll": -1336.154,
+              "margin_obs": -110.717,
+              "z_margin": -1.46,
+              "p_margin": 0.92154
+            }
+          }
+        },
+        "cm2_only_valerio": {
+          "n_types": 174,
+          "winner": "amathus_ec",
+          "winner_margin": 0.787,
+          "winner_p_margin": 0.03698,
+          "amathus_ec_margin": 0.787,
+          "amathus_ec_p_margin": 0.03698,
+          "families": {
+            "amathus_ec": {
+              "ll": -699.126,
+              "margin_obs": 0.787,
+              "z_margin": 1.79,
+              "p_margin": 0.03698
+            },
+            "anatolian": {
+              "ll": -723.387,
+              "margin_obs": -24.261,
+              "z_margin": -2.32,
+              "p_margin": 0.98901
+            },
+            "greek": {
+              "ll": -765.578,
+              "margin_obs": -66.452,
+              "z_margin": 1.12,
+              "p_margin": 0.14043
+            },
+            "hattic": {
+              "ll": -733.282,
+              "margin_obs": -34.156,
+              "z_margin": 0.08,
+              "p_margin": 0.49625
+            },
+            "hurrian": {
+              "ll": -699.913,
+              "margin_obs": -0.787,
+              "z_margin": 1.14,
+              "p_margin": 0.13943
+            },
+            "latin": {
+              "ll": -827.976,
+              "margin_obs": -128.85,
+              "z_margin": -0.43,
+              "p_margin": 0.64318
+            },
+            "semitic": {
+              "ll": -749.889,
+              "margin_obs": -50.763,
+              "z_margin": -1.11,
+              "p_margin": 0.85507
+            },
+            "sumerian": {
+              "ll": -731.944,
+              "margin_obs": -32.818,
+              "z_margin": 0.21,
+              "p_margin": 0.42979
+            }
+          }
+        },
+        "cm3_ugarit_control": {
+          "n_types": 48,
+          "winner": "hurrian",
+          "winner_margin": 5.715,
+          "winner_p_margin": 0.07546,
+          "amathus_ec_margin": -13.514,
+          "amathus_ec_p_margin": 0.56172,
+          "families": {
+            "amathus_ec": {
+              "ll": -200.502,
+              "margin_obs": -13.514,
+              "z_margin": -0.14,
+              "p_margin": 0.56172
+            },
+            "anatolian": {
+              "ll": -201.431,
+              "margin_obs": -14.444,
+              "z_margin": -2.0,
+              "p_margin": 0.98451
+            },
+            "greek": {
+              "ll": -243.453,
+              "margin_obs": -56.466,
+              "z_margin": -1.66,
+              "p_margin": 0.96502
+            },
+            "hattic": {
+              "ll": -203.761,
+              "margin_obs": -16.774,
+              "z_margin": -1.87,
+              "p_margin": 0.97551
+            },
+            "hurrian": {
+              "ll": -186.987,
+              "margin_obs": 5.715,
+              "z_margin": 1.42,
+              "p_margin": 0.07546
+            },
+            "latin": {
+              "ll": -234.361,
+              "margin_obs": -47.373,
+              "z_margin": -1.22,
+              "p_margin": 0.89205
+            },
+            "semitic": {
+              "ll": -192.703,
+              "margin_obs": -5.715,
+              "z_margin": 0.58,
+              "p_margin": 0.29635
+            },
+            "sumerian": {
+              "ll": -197.088,
+              "margin_obs": -10.101,
+              "z_margin": -0.02,
+              "p_margin": 0.50775
+            }
+          }
+        },
+        "cm1_only_valerio": {
+          "n_types": 127,
+          "winner": "amathus_ec",
+          "winner_margin": 42.655,
+          "winner_p_margin": 0.06547,
+          "amathus_ec_margin": 42.655,
+          "amathus_ec_p_margin": 0.06547,
+          "families": {
+            "amathus_ec": {
+              "ll": -484.417,
+              "margin_obs": 42.655,
+              "z_margin": 1.39,
+              "p_margin": 0.06547
+            },
+            "anatolian": {
+              "ll": -561.488,
+              "margin_obs": -77.071,
+              "z_margin": -2.03,
+              "p_margin": 0.96952
+            },
+            "greek": {
+              "ll": -564.043,
+              "margin_obs": -79.626,
+              "z_margin": -0.91,
+              "p_margin": 0.81809
+            },
+            "hattic": {
+              "ll": -566.086,
+              "margin_obs": -81.669,
+              "z_margin": -2.09,
+              "p_margin": 0.98301
+            },
+            "hurrian": {
+              "ll": -559.192,
+              "margin_obs": -74.775,
+              "z_margin": -2.35,
+              "p_margin": 0.97651
+            },
+            "latin": {
+              "ll": -538.074,
+              "margin_obs": -53.657,
+              "z_margin": 0.61,
+              "p_margin": 0.27836
+            },
+            "semitic": {
+              "ll": -527.072,
+              "margin_obs": -42.655,
+              "z_margin": -1.14,
+              "p_margin": 0.87156
+            },
+            "sumerian": {
+              "ll": -565.166,
+              "margin_obs": -80.749,
+              "z_margin": -1.91,
+              "p_margin": 0.96202
+            }
+          }
+        }
+      },
+      "kernel_cm_i2_amathus_undotted_8way": {
+        "calib_cypriot_greek_ig_xv_1": {
+          "n_types": 194,
+          "winner": "greek",
+          "winner_margin": 67.963,
+          "winner_p_margin": 0.06097,
+          "amathus_ec_margin": -105.487,
+          "amathus_ec_p_margin": 0.86357,
+          "families": {
+            "amathus_ec": {
+              "ll": -902.375,
+              "margin_obs": -105.487,
+              "z_margin": -1.08,
+              "p_margin": 0.86357
+            },
+            "anatolian": {
+              "ll": -932.468,
+              "margin_obs": -135.579,
+              "z_margin": -1.13,
+              "p_margin": 0.81109
+            },
+            "greek": {
+              "ll": -796.889,
+              "margin_obs": 67.963,
+              "z_margin": 1.19,
+              "p_margin": 0.06097
+            },
+            "hattic": {
+              "ll": -897.897,
+              "margin_obs": -101.008,
+              "z_margin": -0.8,
+              "p_margin": 0.78861
+            },
+            "hurrian": {
+              "ll": -886.186,
+              "margin_obs": -89.298,
+              "z_margin": -0.67,
+              "p_margin": 0.85607
+            },
+            "latin": {
+              "ll": -869.289,
+              "margin_obs": -72.4,
+              "z_margin": 0.43,
+              "p_margin": 0.25337
+            },
+            "semitic": {
+              "ll": -897.22,
+              "margin_obs": -100.332,
+              "z_margin": -0.76,
+              "p_margin": 0.65867
+            },
+            "sumerian": {
+              "ll": -864.851,
+              "margin_obs": -67.963,
+              "z_margin": 1.0,
+              "p_margin": 0.2024
+            }
+          }
+        },
+        "cm12_valerio_emended": {
+          "n_types": 299,
+          "winner": "amathus_ec",
+          "winner_margin": 44.009,
+          "winner_p_margin": 0.01549,
+          "amathus_ec_margin": 44.009,
+          "amathus_ec_p_margin": 0.01549,
+          "families": {
+            "amathus_ec": {
+              "ll": -1200.689,
+              "margin_obs": 44.009,
+              "z_margin": 2.14,
+              "p_margin": 0.01549
+            },
+            "anatolian": {
+              "ll": -1267.834,
+              "margin_obs": -67.145,
+              "z_margin": -2.89,
+              "p_margin": 0.994
+            },
+            "greek": {
+              "ll": -1312.055,
+              "margin_obs": -111.366,
+              "z_margin": -0.03,
+              "p_margin": 0.51874
+            },
+            "hattic": {
+              "ll": -1289.644,
+              "margin_obs": -88.955,
+              "z_margin": -2.19,
+              "p_margin": 0.98351
+            },
+            "hurrian": {
+              "ll": -1244.698,
+              "margin_obs": -44.009,
+              "z_margin": -1.0,
+              "p_margin": 0.84108
+            },
+            "latin": {
+              "ll": -1334.289,
+              "margin_obs": -133.6,
+              "z_margin": 0.09,
+              "p_margin": 0.46527
+            },
+            "semitic": {
+              "ll": -1267.362,
+              "margin_obs": -66.673,
+              "z_margin": -1.64,
+              "p_margin": 0.94103
+            },
+            "sumerian": {
+              "ll": -1278.476,
+              "margin_obs": -77.787,
+              "z_margin": -1.44,
+              "p_margin": 0.90705
+            }
+          }
+        },
+        "cm12_davis_unsplit": {
+          "n_types": 299,
+          "winner": "amathus_ec",
+          "winner_margin": 48.305,
+          "winner_p_margin": 0.01249,
+          "amathus_ec_margin": 48.305,
+          "amathus_ec_p_margin": 0.01249,
+          "families": {
+            "amathus_ec": {
+              "ll": -1182.422,
+              "margin_obs": 48.305,
+              "z_margin": 2.39,
+              "p_margin": 0.01249
+            },
+            "anatolian": {
+              "ll": -1256.989,
+              "margin_obs": -74.567,
+              "z_margin": -3.21,
+              "p_margin": 0.996
+            },
+            "greek": {
+              "ll": -1320.898,
+              "margin_obs": -138.476,
+              "z_margin": -0.54,
+              "p_margin": 0.69215
+            },
+            "hattic": {
+              "ll": -1279.585,
+              "margin_obs": -97.164,
+              "z_margin": -2.48,
+              "p_margin": 0.9905
+            },
+            "hurrian": {
+              "ll": -1230.726,
+              "margin_obs": -48.305,
+              "z_margin": -1.1,
+              "p_margin": 0.86057
+            },
+            "latin": {
+              "ll": -1347.105,
+              "margin_obs": -164.684,
+              "z_margin": -0.53,
+              "p_margin": 0.68516
+            },
+            "semitic": {
+              "ll": -1264.674,
+              "margin_obs": -82.252,
+              "z_margin": -2.06,
+              "p_margin": 0.97801
+            },
+            "sumerian": {
+              "ll": -1264.997,
+              "margin_obs": -82.575,
+              "z_margin": -1.49,
+              "p_margin": 0.91554
+            }
+          }
+        },
+        "cm12_hochymin_unsplit": {
+          "n_types": 299,
+          "winner": "amathus_ec",
+          "winner_margin": 22.532,
+          "winner_p_margin": 0.21089,
+          "amathus_ec_margin": 22.532,
+          "amathus_ec_p_margin": 0.21089,
+          "families": {
+            "amathus_ec": {
+              "ll": -1252.446,
+              "margin_obs": 22.532,
+              "z_margin": 0.82,
+              "p_margin": 0.21089
+            },
+            "anatolian": {
+              "ll": -1298.564,
+              "margin_obs": -46.118,
+              "z_margin": -1.1,
+              "p_margin": 0.87456
+            },
+            "greek": {
+              "ll": -1286.999,
+              "margin_obs": -34.553,
+              "z_margin": 1.7,
+              "p_margin": 0.03448
+            },
+            "hattic": {
+              "ll": -1318.142,
+              "margin_obs": -65.696,
+              "z_margin": -0.56,
+              "p_margin": 0.76012
+            },
+            "hurrian": {
+              "ll": -1284.283,
+              "margin_obs": -31.838,
+              "z_margin": -0.1,
+              "p_margin": 0.57171
+            },
+            "latin": {
+              "ll": -1297.977,
+              "margin_obs": -45.531,
+              "z_margin": 1.8,
+              "p_margin": 0.04248
+            },
+            "semitic": {
+              "ll": -1274.978,
+              "margin_obs": -22.532,
+              "z_margin": 0.15,
+              "p_margin": 0.46877
+            },
+            "sumerian": {
+              "ll": -1316.668,
+              "margin_obs": -64.222,
+              "z_margin": -0.52,
+              "p_margin": 0.71164
+            }
+          }
+        },
+        "cm3_ugarit_control": {
+          "n_types": 48,
+          "winner": "hurrian",
+          "winner_margin": 4.945,
+          "winner_p_margin": 0.06347,
+          "amathus_ec_margin": -9.233,
+          "amathus_ec_p_margin": 0.63818,
+          "families": {
+            "amathus_ec": {
+              "ll": -197.866,
+              "margin_obs": -9.233,
+              "z_margin": -0.35,
+              "p_margin": 0.63818
+            },
+            "anatolian": {
+              "ll": -202.476,
+              "margin_obs": -13.843,
+              "z_margin": -1.78,
+              "p_margin": 0.96502
+            },
+            "greek": {
+              "ll": -235.293,
+              "margin_obs": -46.66,
+              "z_margin": -1.56,
+              "p_margin": 0.95552
+            },
+            "hattic": {
+              "ll": -203.52,
+              "margin_obs": -14.887,
+              "z_margin": -1.51,
+              "p_margin": 0.93853
+            },
+            "hurrian": {
+              "ll": -188.633,
+              "margin_obs": 4.945,
+              "z_margin": 1.47,
+              "p_margin": 0.06347
+            },
+            "latin": {
+              "ll": -227.893,
+              "margin_obs": -39.26,
+              "z_margin": -1.21,
+              "p_margin": 0.88856
+            },
+            "semitic": {
+              "ll": -193.578,
+              "margin_obs": -4.945,
+              "z_margin": 0.93,
+              "p_margin": 0.18741
+            },
+            "sumerian": {
+              "ll": -196.788,
+              "margin_obs": -8.155,
+              "z_margin": 0.05,
+              "p_margin": 0.48676
+            }
+          }
+        }
+      }
+    }
+  },
+  "kernel_cm_h_clay_balls": {
+    "size_equalized_budget": 90,
+    "onomastics": {
+      "ctrl_rash_atab_004_cm3": {
+        "n_words": 30,
+        "winner": "kassite",
+        "margin_bits": 0.0298,
+        "p_margin_perm": 0.04396,
+        "bits_per_sign": {
+          "amathus_ec": 5.4231,
+          "anatolian": 5.4121,
+          "cypriot_greek": 6.2386,
+          "hurrian": 5.3184,
+          "kassite": 5.2281,
+          "levant_semitic": 5.2579,
+          "mycenaean_lb": 6.2289
+        }
+      },
+      "cm1_clay_ball_seq1": {
+        "n_words": 40,
+        "winner": "amathus_ec",
+        "margin_bits": 0.1615,
+        "p_margin_perm": 0.35265,
+        "bits_per_sign": {
+          "amathus_ec": 5.6224,
+          "anatolian": 6.4236,
+          "cypriot_greek": 5.7838,
+          "hurrian": 6.1962,
+          "kassite": 6.3022,
+          "levant_semitic": 6.2774,
+          "mycenaean_lb": 5.7927
+        }
+      },
+      "cm1_clay_ball_seq2": {
+        "n_words": 5,
+        "winner": "cypriot_greek",
+        "margin_bits": 0.1253,
+        "p_margin_perm": 0.04496,
+        "bits_per_sign": {
+          "amathus_ec": 5.8167,
+          "anatolian": 6.663,
+          "cypriot_greek": 5.6914,
+          "hurrian": 6.6451,
+          "kassite": 6.6177,
+          "levant_semitic": 6.515,
+          "mycenaean_lb": 5.8261
+        }
+      }
+    },
+    "acrophony": {
+      "n_isolated_signs": 19,
+      "n_distinct_isolated_signs": 14,
+      "ll_initial": -71.689,
+      "ll_medial": -73.042,
+      "ll_final": -76.385,
+      "delta_ll_init_minus_fin": 4.696,
+      "p_vs_final_pool": 0.0002,
+      "p_vs_all_positions_pool": 0.23675,
+      "seq2_initial_overlap": 4,
+      "seq2_total": 5,
+      "cm1_init_baseline_rate": 0.4016,
+      "p_binom_seq2_overlap": 0.08826
+    }
+  }
+}

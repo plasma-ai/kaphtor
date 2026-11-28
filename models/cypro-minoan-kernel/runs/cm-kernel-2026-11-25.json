@@ -29,8 +29,8 @@
       },
       "cm_grammar": {
         "path": "data/ane/cypro-minoan/grammar_hypotheses.json",
-        "sha256": "b27538ae6d3d072587edf2710875b1e07e6d54cf1fde3db4e601b66470c7f61b",
-        "bytes": 87546
+        "sha256": "ac4a9d2f0497a30857f122e4cdddb6d5cd6e5d5cf856407ce71bdc6a7f0bb9f7",
+        "bytes": 89260
       },
       "cm_grid": {
         "path": "data/ane/cypro-minoan/grid.json",

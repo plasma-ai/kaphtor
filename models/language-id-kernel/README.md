@@ -4,7 +4,7 @@ title: "Twelve-Kernel Probabilistic Language Identification Suite (Kernels A–L
 desc: "Executive summary, full twelve-kernel scoreboard, fresh-clone replication guide, Bologna adversarial vetting protocol, and index to all per-kernel specifications."
 tags: [linear-a, probabilistic-model, language-identification, readme]
 created: 2026-11-23T20:42:00Z
-updated: 2026-11-25T15:35:00Z
+updated: 2026-11-27T11:08:00Z
 ---
 
 # Twelve-Kernel Probabilistic Language Identification Suite (Kernels A–L)
@@ -14,7 +14,7 @@ updated: 2026-11-25T15:35:00Z
        alt="Kaphtor Twelve-Kernel Linear A suite (Kernels A–L): 10/11 scoring kernels rank Semitic #1 plus Kernel L backward-projection stress-testing and negative controls using strict Linear B values and zero LLMs (Kernel D 794,000:1, Kernel J p=0.025 vs ePSD2 Sumerian 0.64 &amp; LSJ Greek 0.59, Kernel I p=0.0036, Kernel K blind KU-RO p=0.0128). All calibrated kernels pick Greek on Linear B.">
 </p>
 
-## Executive Summary (Run Snapshot: `2026-11-25`, `kaphtor v1.3.2`)
+## Executive Summary (Run Snapshot: `2026-11-27`, `kaphtor v1.3.2`)
 
 Using **agreed Linear B sign values alone**, **zero LLMs**, and **zero project-lexicon inputs** (`lexicon.json`, `translations.json`, and `onomasticon.json` are never read), this twelve-kernel suite tests Linear A (`data/linear-a/corpus.json`) against seven ancient language families and isolates (**Semitic, Greek, Anatolian, Hurrian, Hattic, Sumerian, Latin**, plus **Kassite** onomastics). Every kernel runs end-to-end from a fresh `git clone` with zero external folders.
 
@@ -22,7 +22,7 @@ Using **agreed Linear B sign values alone**, **zero LLMs**, and **zero project-l
 
 - **10 of 11 scoring kernels rank Semitic #1** (the eleventh, Kernel H on personal-name rosters, ranks shared Cretan Mycenaean Linear B #1 and LBA Levantine Semitic #2 ahead of Kassite, Hurrian, and Anatolian), while **Kernel L** audits the suite against backward-projection error and logs honest negative controls.
 - **Seven scoring channels pass consonant-specific nulls** (where vowels, word lengths, and frequencies stay fixed while the 12 consonant series or concept labels are scrambled—note that **Kernels D, J, and K** are nested/alternative audits over overlapping pre-linguistic anchors alongside disjoint channels **I, F, G, and C**), while **every calibrated instrument first identifies real Mycenaean Linear B tablets as Greek and rejects Semitic**:
-  1. **Kernel D—Pre-Linguistic Anchors (`anchors_d.py`):** **Semitic wins at ~794,000 : 1 Bayes factor** (`ΔLL = +13.585`, `Z_perm = +7.37`, `p = 0.00010`, `0/10,000` swaps). Survives all 8 leave-one-out drops (`p = 0.00010`), dropping all 3 trade-loan suspects (`~1,860 : 1`, `Z = +6.22`), and pure arithmetic `KU-RO`/`KI-RO` alone (`p = 0.00640`). *Linear B gate:* Greek `Z = +7.97, p = 0.00010`; Semitic rejected (`p = 0.111`).
+  1. **Kernel D—Pre-Linguistic Anchors (`anchors_d.py`):** **Semitic wins at ~794,000 : 1 Bayes factor** (`ΔLL = +13.585`, `Z_perm = +7.37`, `p = 0.00010`, `0/10,000` swaps). Survives all 8 leave-one-out drops (`p = 0.00010`), dropping all 3 trade-loan suspects (`~1,860 : 1`, `Z = +6.22`), and pure arithmetic `KU-RO`/`KI-RO` alone (`p = 0.00640`). *Linear B gate:* Greek `Z = +7.97, p = 0.00010`; Semitic rejected (`p = 0.111`). *(Exploratory sensitivity ladder without altering signed Kernel D or its frozen synsets—[Kernel D′](kernel-d-sensitivity-expansion.md), `sensitivity_d_prime.py`, zero `KA-PA` inflation: adding blind untranslated `DA-RO-PA` on `HT 38` reaches **`~1.58M : 1`** strict-LB; folding `PA₃` on `HT 31`'s 3 vessel drawings reaches **`~2.76M–6.21M : 1`**, and **`~7.97M : 1`** with `PO-TO-KU-RO`; strict-LB sans trade loans **`~1,055 : 1`**, `K`-free **`17.5 : 1`**.)*
   2. **Kernel J—Zero-Curation Dictionary Audit (`auto_anchors_j.py`):** Eliminates all hand-picked synsets by running fixed English concept regexes over shipped open dictionaries (Akkadian/Hebrew, 101,410-entry LSJ Greek, and 3,589-lemma CC0 ePSD2 Sumerian isolate). **Semitic is the only language passing both orthogonal nulls** across every primary tier: signed `FULL_8` (`ΔLL = +4.054`, `57.6:1`, `p_perm = 0.00010`, exact `p_concept = 0.02520` standalone / `0.00893` pre-Sumerian 5-lang), deduplicated `LA_DEDUP_7` (`ΔLL = +4.342`, `76.9:1`, `p_concept = 0.01111`), and purest strict-`signs-a5-proposed.json` `LA_DEDUP_9` (`+ PA-TA-QE` on `HT 31 *402-VS` and **blind untranslated `DA-RO-PA`** on `HT 38 *403-VS`: **`ΔLL = +3.863`, `47.6:1`, `p_perm = 0.00010`, `p_concept = 0.00390`**; Greek `0.626`, Sumerian `0.663`). Sensitivity tiers: folding GORILA doublet `AB 56` (`PA₃ → PA`, kept opaque in `signs-a5-proposed.json` §15 ruling 3) on `HT 31`'s three `PA₃` vessel drawings sharpens `LA_DEDUP_12` to **`ΔLL = +4.200`, `66.7:1`, `p_perm = 0.00010`, `p_concept = 0.00180`** (Greek `0.633`, Sumerian `0.856`); adding `PA-RA` (`HT 128a` header) and the `MA+RU` (`LANA`) wool monogram yields `LA_DEDUP_11` (`72.6:1`, `p_perm = 0.00010`, `p_concept = 0.01560`) and `LA_DEDUP_14` (`+ PA₃` fold: `101.8:1`, `p_perm = 0.00020`, `p_concept = 0.00920`), while `K`-free `LA_DROPK_5` passes consonant-grid permutation (`p_perm = 0.01640`, underpowered on concept-shuffle `p_concept = 0.217` at `n = 5`). *Linear B gate:* Greek only dual-null pass (`n = 6`: `0.00010 / 0.01389`; `EXT9`: `ΔLL = +6.177`, `481:1`, `0.00010 / 0.00020`; Semitic rejected `0.115 / 0.293`).
   3. **Kernel I—Unsupervised Bound-Affix Morphology (`morphology_i.py`):** Lexicon-free stem-containment grammar (`S` vs `p+S`/`S+s`) scored under a discriminative margin-permutation null that cancels universal suffix consonants. **Semitic is the only pass** on shipped ANE Semitic (`M = +40.03`, `Z_M = +2.63`, `p_M = 0.00360`, `p_cv = 0.00040`; 5/5 seeds `mean p_M = 0.0385` on the full 7-member arm). *Linear B gate:* Greek only pass (`M = +472.95, p_M = 0.02679`; Semitic `0.875`); 7/7 dev splits pass (`p_cv = 0.00050`).
   4. **Kernel K—Corazza–Ferrara Fractions & Blind Accounting (`fractions_k.py`):** Applies Corazza et al. (2021, *JAS* 125: 105214) `A700` fraction values directly to raw Aegean Unicode numerals (`data/linear-a/corpus.json`): verifies **`0` strict `> 1` compound-fraction violations** across `55` compound fractions (resolving `HT 27a` `JE+B = 19/20`, vs Bennett legacy `13/12 > 1`), emits a 5-item language-free 3D/RTI conflict ledger (`HT 123+124a`, `KH 7a`/`HT 89`, `MA 10b`, `A709/L`), blindly discovers **`KU-RO` at rank #1 (`9` exact integer sums vs `<= 1` for any other token)**, and scores *only* accounting words against Kernel J's open dictionaries—on the deduplicated pair (`KU-RO`, `KI-RO`), **Semitic wins cleanly (`Z = +3.15, p = 0.01480, ΔLL = +1.190`) and rejects LSJ Greek (`p = 0.05439`)** (full triad `KU-RO/PO-TO-KU-RO/KI-RO` also ranks Semitic #1 at `Z = +2.86, p = 0.01280, ΔLL = +0.551`). *Linear B gate (`TO-SO`, `O-PE-RO`):* Greek `Z = +2.48, p = 0.01440`; Semitic rejected (`p = 0.40132`).
@@ -59,7 +59,7 @@ git clone https://github.com/plasma-ai/kaphtor.git
 cd kaphtor
 uv sync --all-groups
 
-# 1. Verify all 32 kernel unit tests + 8 shipped-input count guards (40 total)
+# 1. Verify all 34 kernel unit tests + 8 shipped-input count guards (42 total)
 PYTHONDONTWRITEBYTECODE=1 PYTHONPATH=models/language-id-kernel uv run --no-sync python -m pytest -q models/language-id-kernel/tests/ tests/test_kernel_shipped_inputs.py
 
 # 2. Reproduce the primary consonant-specific proofs (Kernels D, J, I) & new Bologna audits (Kernels K, L)
@@ -89,7 +89,8 @@ uv run --no-sync python models/language-id-kernel/kaphtor_kernel.py ablate model
 
 ## Documentation & Ledgers
 
-- **[results-significance-2026-11-24.md](results-significance-2026-11-24.md)**—Timestamped `2026-11-24` findings covering Kernels K & L, review caveats, and the twelve-kernel synthesis
+- **[results-significance-2026-11-24.md](results-significance-2026-11-24.md)**—Timestamped `2026-11-24` findings covering Kernels K & L, review caveats, the `2026-11-25` Kernel J addendum, and the twelve-kernel synthesis
+- **[kernel-d-sensitivity-expansion.md](kernel-d-sensitivity-expansion.md)**—Exploratory post-registration sensitivity study for hypothetical Kernel D′ (`sensitivity_d_prime.py`, `n = 8 → 13` clean zero-`KA-PA` ladder under `anchors_d.py`'s frozen synsets: `~1.58M : 1` strict-LB, `~2.76M–7.97M : 1` with `HT 31 PA₃` vessels, without altering signed Kernel D)
 - **[ferrara-vetting-guide.md](ferrara-vetting-guide.md)**—Five-command zero-LLM adversarial vetting workbench for epigraphers and Bologna (INSCRIBE / SAPIENCE) reviewers
 - **[docs/lexicon-api.md](../../docs/lexicon-api.md)**—Reference for the read-only Linear A Lexicon REST API (`api.linear-a.ai/v1`), MCP server (`mcp.linear-a.ai/mcp`), and live probabilistic kernel endpoints (`/v1/kernel/summary`, `/v1/kernel/anchors`, `/v1/kernel/ligatures`)
 - **[results-significance-2026-11-23.md](results-significance-2026-11-23.md)**—Timestamped baseline deep-dive explaining Kernels A–J, rival behavior, and methodological limits

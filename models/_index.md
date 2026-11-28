@@ -11,7 +11,7 @@ updated: 2026-11-25T18:21:23Z
 
 [[_index|..]]
 
-[[models/cypro-minoan-kernel/_index|cypro-minoan-kernel/]]: Zero-LLM, T5-compliant statistical kernel suite (CM-G, CM-E, CM-O, CM-B) testing Cypro-Minoan subcorpora, IG XV 1 Amathus Eteocypriot continuity, orthographic glide laws, and stem productivity strictly from shipped kaphtor files.
+[[models/cypro-minoan-kernel/_index|cypro-minoan-kernel/]]: Zero-LLM, T5-compliant six-kernel statistical suite (CM-G, CM-E, CM-O, CM-B, CM-I, CM-H) testing Cypro-Minoan subcorpora, IG XV 1 Amathus Eteocypriot continuity vs. 7 ancient language families, orthographic glide laws, stem productivity, and clay-ball onomastics strictly from shipped kaphtor files.
 
 [[models/language-id-kernel/_index|language-id-kernel/]]: Replicable, zero-LLM twelve-kernel probabilistic framework (Kernels A–L: word-shape LID, Kober trios, liturgical cohesion, pre-linguistic anchors, verbal frames, ligature acrophony, dialect coherence, roster onomastics, bound-affix morphology, zero-curation dictionary audit, Corazza–Ferrara fractions, and backward-projection stress-testing) with permutation and corruption controls.
 

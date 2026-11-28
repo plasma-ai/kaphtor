@@ -1,0 +1,3337 @@
+{
+  "_meta": {
+    "study": "Hypothetical Kernel D' Post-Registration Sensitivity Study",
+    "status": "exploratory_sensitivity_only",
+    "n_perm": 10000,
+    "seed": 20261122,
+    "beta": 6.0,
+    "frozen_synsets": true,
+    "pa3_fold_rule": "PA3 -> ('P', 'a') only on tiers with pa3_folded=true (opaque in signs-a5-proposed.json \u00a715 ruling 3)",
+    "anchors_d_sha256": "4a716c8ceb5bea5ddd12653e2f8ea36d7b18ba9844e1648f99904f647d60faa3",
+    "signature_sha256": "19ced99c5e05a0a93ec943b50d92dc501433b17f3d36dbe27021c730c53ee5c6"
+  },
+  "tiers": {
+    "D_BASE_8": {
+      "tier": "D_BASE_8",
+      "scope": "Signed Kernel D baseline (strict signs-a5-proposed.json)",
+      "n": 8,
+      "pa3_folded": false,
+      "anchors": [
+        [
+          "KU-RO",
+          "TOTAL"
+        ],
+        [
+          "KI-RO",
+          "DEFICIT"
+        ],
+        [
+          "A-KA-NU",
+          "VESSEL_CUP"
+        ],
+        [
+          "SU-PU",
+          "VESSEL_CUP"
+        ],
+        [
+          "PA-TA-QE",
+          "VESSEL_CUP"
+        ],
+        [
+          "KA-DI",
+          "VESSEL_CUP"
+        ],
+        [
+          "KU-NI-SU",
+          "GRAIN"
+        ],
+        [
+          "PA-RA",
+          "GRAIN"
+        ]
+      ],
+      "winner": "semitic",
+      "runner_up": "hurrian",
+      "delta_ll": 13.5845,
+      "bf": 793755.09,
+      "languages": {
+        "semitic": {
+          "ll": -19.0718,
+          "perm_mean": -37.0745,
+          "perm_sd": 2.443,
+          "z_perm": 7.369,
+          "p_perm": 0.0001,
+          "details": [
+            {
+              "concept": "TOTAL",
+              "best_match": "kullu",
+              "best_dist": 0.175,
+              "ll": -2.164
+            },
+            {
+              "concept": "DEFICIT",
+              "best_match": "kilu",
+              "best_dist": 0.175,
+              "ll": -2.124
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "aganu",
+              "best_dist": 0.0,
+              "ll": -1.663
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "suppu",
+              "best_dist": 0.0,
+              "ll": -1.71
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "karpatu",
+              "best_dist": 0.617,
+              "ll": -4.762
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "kadu",
+              "best_dist": 0.175,
+              "ll": -2.46
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "kuni\u0161u",
+              "best_dist": 0.0,
+              "ll": -1.583
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "barru",
+              "best_dist": 0.175,
+              "ll": -2.605
+            }
+          ]
+        },
+        "greek": {
+          "ll": -34.2855,
+          "perm_mean": -36.4132,
+          "perm_sd": 1.63,
+          "z_perm": 1.305,
+          "p_perm": 0.10699,
+          "details": [
+            {
+              "concept": "TOTAL",
+              "best_match": "holos",
+              "best_dist": 0.5,
+              "ll": -4.088
+            },
+            {
+              "concept": "DEFICIT",
+              "best_match": "ophelos",
+              "best_dist": 0.583,
+              "ll": -4.303
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "amphoreus",
+              "best_dist": 0.65,
+              "ll": -4.686
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "depas",
+              "best_dist": 0.675,
+              "ll": -4.546
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "phiale",
+              "best_dist": 0.683,
+              "ll": -4.583
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "krater",
+              "best_dist": 0.583,
+              "ll": -4.281
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "karpos",
+              "best_dist": 0.613,
+              "ll": -4.385
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "puros",
+              "best_dist": 0.35,
+              "ll": -3.414
+            }
+          ]
+        },
+        "anatolian": {
+          "ll": -35.2274,
+          "perm_mean": -36.7529,
+          "perm_sd": 1.3793,
+          "z_perm": 1.106,
+          "p_perm": 0.12939,
+          "details": [
+            {
+              "concept": "TOTAL",
+              "best_match": "humant",
+              "best_dist": 0.838,
+              "ll": -5.23
+            },
+            {
+              "concept": "DEFICIT",
+              "best_match": "karus",
+              "best_dist": 0.35,
+              "ll": -3.216
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "huppar",
+              "best_dist": 0.65,
+              "ll": -4.396
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "ishuzzi",
+              "best_dist": 0.583,
+              "ll": -4.073
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "palhi",
+              "best_dist": 0.583,
+              "ll": -4.542
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "kukup",
+              "best_dist": 0.65,
+              "ll": -4.714
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "kant",
+              "best_dist": 0.567,
+              "ll": -4.528
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "halki",
+              "best_dist": 0.65,
+              "ll": -4.528
+            }
+          ]
+        },
+        "hurrian": {
+          "ll": -32.6563,
+          "perm_mean": -38.118,
+          "perm_sd": 1.8038,
+          "z_perm": 3.028,
+          "p_perm": 0.0038,
+          "details": [
+            {
+              "concept": "TOTAL",
+              "best_match": "heiarunna",
+              "best_dist": 0.59,
+              "ll": -4.588
+            },
+            {
+              "concept": "DEFICIT",
+              "best_match": "kiri",
+              "best_dist": 0.175,
+              "ll": -2.31
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "kazi",
+              "best_dist": 0.583,
+              "ll": -4.373
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "hupri",
+              "best_dist": 0.65,
+              "ll": -4.768
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "turi",
+              "best_dist": 0.7,
+              "ll": -5.114
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "kazi",
+              "best_dist": 0.425,
+              "ll": -3.803
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "hini",
+              "best_dist": 0.367,
+              "ll": -3.58
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "\u0161ari",
+              "best_dist": 0.6,
+              "ll": -4.12
+            }
+          ]
+        }
+      }
+    },
+    "D_PURE_8": {
+      "tier": "D_PURE_8",
+      "scope": "Strict LB without PA-RA header + blind untranslated DA-RO-PA (HT 38 *403-VS)",
+      "n": 8,
+      "pa3_folded": false,
+      "anchors": [
+        [
+          "KU-RO",
+          "TOTAL"
+        ],
+        [
+          "KI-RO",
+          "DEFICIT"
+        ],
+        [
+          "A-KA-NU",
+          "VESSEL_CUP"
+        ],
+        [
+          "SU-PU",
+          "VESSEL_CUP"
+        ],
+        [
+          "PA-TA-QE",
+          "VESSEL_CUP"
+        ],
+        [
+          "KA-DI",
+          "VESSEL_CUP"
+        ],
+        [
+          "KU-NI-SU",
+          "GRAIN"
+        ],
+        [
+          "DA-RO-PA",
+          "VESSEL_CUP"
+        ]
+      ],
+      "winner": "semitic",
+      "runner_up": "hurrian",
+      "delta_ll": 12.757,
+      "bf": 346973.0,
+      "languages": {
+        "semitic": {
+          "ll": -20.5287,
+          "perm_mean": -37.0458,
+          "perm_sd": 2.3593,
+          "z_perm": 7.001,
+          "p_perm": 0.0001,
+          "details": [
+            {
+              "concept": "TOTAL",
+              "best_match": "kullu",
+              "best_dist": 0.175,
+              "ll": -2.164
+            },
+            {
+              "concept": "DEFICIT",
+              "best_match": "kilu",
+              "best_dist": 0.175,
+              "ll": -2.124
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "aganu",
+              "best_dist": 0.0,
+              "ll": -1.663
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "suppu",
+              "best_dist": 0.0,
+              "ll": -1.71
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "karpatu",
+              "best_dist": 0.617,
+              "ll": -4.762
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "kadu",
+              "best_dist": 0.175,
+              "ll": -2.46
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "kuni\u0161u",
+              "best_dist": 0.0,
+              "ll": -1.583
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "karpatu",
+              "best_dist": 0.487,
+              "ll": -4.062
+            }
+          ]
+        },
+        "greek": {
+          "ll": -34.3261,
+          "perm_mean": -36.454,
+          "perm_sd": 1.5635,
+          "z_perm": 1.361,
+          "p_perm": 0.10119,
+          "details": [
+            {
+              "concept": "TOTAL",
+              "best_match": "holos",
+              "best_dist": 0.5,
+              "ll": -4.088
+            },
+            {
+              "concept": "DEFICIT",
+              "best_match": "ophelos",
+              "best_dist": 0.583,
+              "ll": -4.303
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "amphoreus",
+              "best_dist": 0.65,
+              "ll": -4.686
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "depas",
+              "best_dist": 0.675,
+              "ll": -4.546
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "phiale",
+              "best_dist": 0.683,
+              "ll": -4.583
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "krater",
+              "best_dist": 0.583,
+              "ll": -4.281
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "karpos",
+              "best_dist": 0.613,
+              "ll": -4.385
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "depas",
+              "best_dist": 0.367,
+              "ll": -3.455
+            }
+          ]
+        },
+        "anatolian": {
+          "ll": -34.9842,
+          "perm_mean": -37.155,
+          "perm_sd": 1.3068,
+          "z_perm": 1.661,
+          "p_perm": 0.05919,
+          "details": [
+            {
+              "concept": "TOTAL",
+              "best_match": "humant",
+              "best_dist": 0.838,
+              "ll": -5.23
+            },
+            {
+              "concept": "DEFICIT",
+              "best_match": "karus",
+              "best_dist": 0.35,
+              "ll": -3.216
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "huppar",
+              "best_dist": 0.65,
+              "ll": -4.396
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "ishuzzi",
+              "best_dist": 0.583,
+              "ll": -4.073
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "palhi",
+              "best_dist": 0.583,
+              "ll": -4.542
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "kukup",
+              "best_dist": 0.65,
+              "ll": -4.714
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "kant",
+              "best_dist": 0.567,
+              "ll": -4.528
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "huppar",
+              "best_dist": 0.583,
+              "ll": -4.285
+            }
+          ]
+        },
+        "hurrian": {
+          "ll": -33.2857,
+          "perm_mean": -38.2682,
+          "perm_sd": 1.7347,
+          "z_perm": 2.872,
+          "p_perm": 0.0058,
+          "details": [
+            {
+              "concept": "TOTAL",
+              "best_match": "heiarunna",
+              "best_dist": 0.59,
+              "ll": -4.588
+            },
+            {
+              "concept": "DEFICIT",
+              "best_match": "kiri",
+              "best_dist": 0.175,
+              "ll": -2.31
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "kazi",
+              "best_dist": 0.583,
+              "ll": -4.373
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "hupri",
+              "best_dist": 0.65,
+              "ll": -4.768
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "turi",
+              "best_dist": 0.7,
+              "ll": -5.114
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "kazi",
+              "best_dist": 0.425,
+              "ll": -3.803
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "hini",
+              "best_dist": 0.367,
+              "ll": -3.58
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "zallu",
+              "best_dist": 0.65,
+              "ll": -4.749
+            }
+          ]
+        }
+      }
+    },
+    "D_STRICT_9": {
+      "tier": "D_STRICT_9",
+      "scope": "All strict LB (D_BASE_8 + blind untranslated DA-RO-PA; zero PA3, zero KA-PA)",
+      "n": 9,
+      "pa3_folded": false,
+      "anchors": [
+        [
+          "KU-RO",
+          "TOTAL"
+        ],
+        [
+          "KI-RO",
+          "DEFICIT"
+        ],
+        [
+          "A-KA-NU",
+          "VESSEL_CUP"
+        ],
+        [
+          "SU-PU",
+          "VESSEL_CUP"
+        ],
+        [
+          "PA-TA-QE",
+          "VESSEL_CUP"
+        ],
+        [
+          "KA-DI",
+          "VESSEL_CUP"
+        ],
+        [
+          "KU-NI-SU",
+          "GRAIN"
+        ],
+        [
+          "PA-RA",
+          "GRAIN"
+        ],
+        [
+          "DA-RO-PA",
+          "VESSEL_CUP"
+        ]
+      ],
+      "winner": "semitic",
+      "runner_up": "hurrian",
+      "delta_ll": 14.2715,
+      "bf": 1577674.96,
+      "languages": {
+        "semitic": {
+          "ll": -23.1338,
+          "perm_mean": -41.7512,
+          "perm_sd": 2.5297,
+          "z_perm": 7.36,
+          "p_perm": 0.0001,
+          "details": [
+            {
+              "concept": "TOTAL",
+              "best_match": "kullu",
+              "best_dist": 0.175,
+              "ll": -2.164
+            },
+            {
+              "concept": "DEFICIT",
+              "best_match": "kilu",
+              "best_dist": 0.175,
+              "ll": -2.124
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "aganu",
+              "best_dist": 0.0,
+              "ll": -1.663
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "suppu",
+              "best_dist": 0.0,
+              "ll": -1.71
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "karpatu",
+              "best_dist": 0.617,
+              "ll": -4.762
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "kadu",
+              "best_dist": 0.175,
+              "ll": -2.46
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "kuni\u0161u",
+              "best_dist": 0.0,
+              "ll": -1.583
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "barru",
+              "best_dist": 0.175,
+              "ll": -2.605
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "karpatu",
+              "best_dist": 0.487,
+              "ll": -4.062
+            }
+          ]
+        },
+        "greek": {
+          "ll": -37.7405,
+          "perm_mean": -41.0676,
+          "perm_sd": 1.7869,
+          "z_perm": 1.862,
+          "p_perm": 0.0387,
+          "details": [
+            {
+              "concept": "TOTAL",
+              "best_match": "holos",
+              "best_dist": 0.5,
+              "ll": -4.088
+            },
+            {
+              "concept": "DEFICIT",
+              "best_match": "ophelos",
+              "best_dist": 0.583,
+              "ll": -4.303
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "amphoreus",
+              "best_dist": 0.65,
+              "ll": -4.686
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "depas",
+              "best_dist": 0.675,
+              "ll": -4.546
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "phiale",
+              "best_dist": 0.683,
+              "ll": -4.583
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "krater",
+              "best_dist": 0.583,
+              "ll": -4.281
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "karpos",
+              "best_dist": 0.613,
+              "ll": -4.385
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "puros",
+              "best_dist": 0.35,
+              "ll": -3.414
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "depas",
+              "best_dist": 0.367,
+              "ll": -3.455
+            }
+          ]
+        },
+        "anatolian": {
+          "ll": -39.5121,
+          "perm_mean": -41.5121,
+          "perm_sd": 1.4685,
+          "z_perm": 1.362,
+          "p_perm": 0.09249,
+          "details": [
+            {
+              "concept": "TOTAL",
+              "best_match": "humant",
+              "best_dist": 0.838,
+              "ll": -5.23
+            },
+            {
+              "concept": "DEFICIT",
+              "best_match": "karus",
+              "best_dist": 0.35,
+              "ll": -3.216
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "huppar",
+              "best_dist": 0.65,
+              "ll": -4.396
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "ishuzzi",
+              "best_dist": 0.583,
+              "ll": -4.073
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "palhi",
+              "best_dist": 0.583,
+              "ll": -4.542
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "kukup",
+              "best_dist": 0.65,
+              "ll": -4.714
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "kant",
+              "best_dist": 0.567,
+              "ll": -4.528
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "halki",
+              "best_dist": 0.65,
+              "ll": -4.528
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "huppar",
+              "best_dist": 0.583,
+              "ll": -4.285
+            }
+          ]
+        },
+        "hurrian": {
+          "ll": -37.4053,
+          "perm_mean": -43.0224,
+          "perm_sd": 1.8999,
+          "z_perm": 2.957,
+          "p_perm": 0.0048,
+          "details": [
+            {
+              "concept": "TOTAL",
+              "best_match": "heiarunna",
+              "best_dist": 0.59,
+              "ll": -4.588
+            },
+            {
+              "concept": "DEFICIT",
+              "best_match": "kiri",
+              "best_dist": 0.175,
+              "ll": -2.31
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "kazi",
+              "best_dist": 0.583,
+              "ll": -4.373
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "hupri",
+              "best_dist": 0.65,
+              "ll": -4.768
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "turi",
+              "best_dist": 0.7,
+              "ll": -5.114
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "kazi",
+              "best_dist": 0.425,
+              "ll": -3.803
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "hini",
+              "best_dist": 0.367,
+              "ll": -3.58
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "\u0161ari",
+              "best_dist": 0.6,
+              "ll": -4.12
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "zallu",
+              "best_dist": 0.65,
+              "ll": -4.749
+            }
+          ]
+        }
+      }
+    },
+    "D_VESSEL_11": {
+      "tier": "D_VESSEL_11",
+      "scope": "D_PURE_8 + 3 HT 31 PA3->PA doublet vessels (zero PA-RA, zero KA-PA)",
+      "n": 11,
+      "pa3_folded": true,
+      "anchors": [
+        [
+          "KU-RO",
+          "TOTAL"
+        ],
+        [
+          "KI-RO",
+          "DEFICIT"
+        ],
+        [
+          "A-KA-NU",
+          "VESSEL_CUP"
+        ],
+        [
+          "SU-PU",
+          "VESSEL_CUP"
+        ],
+        [
+          "PA-TA-QE",
+          "VESSEL_CUP"
+        ],
+        [
+          "KA-DI",
+          "VESSEL_CUP"
+        ],
+        [
+          "KU-NI-SU",
+          "GRAIN"
+        ],
+        [
+          "DA-RO-PA",
+          "VESSEL_CUP"
+        ],
+        [
+          "QA-PA\u2083",
+          "VESSEL_CUP"
+        ],
+        [
+          "KA-RO-PA\u2083",
+          "VESSEL_CUP"
+        ],
+        [
+          "SU-PA\u2083-RA",
+          "VESSEL_CUP"
+        ]
+      ],
+      "winner": "semitic",
+      "runner_up": "greek",
+      "delta_ll": 14.8319,
+      "bf": 2763245.54,
+      "languages": {
+        "semitic": {
+          "ll": -30.9612,
+          "perm_mean": -50.9733,
+          "perm_sd": 3.0254,
+          "z_perm": 6.615,
+          "p_perm": 0.0001,
+          "details": [
+            {
+              "concept": "TOTAL",
+              "best_match": "kullu",
+              "best_dist": 0.175,
+              "ll": -2.164
+            },
+            {
+              "concept": "DEFICIT",
+              "best_match": "kilu",
+              "best_dist": 0.175,
+              "ll": -2.124
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "aganu",
+              "best_dist": 0.0,
+              "ll": -1.663
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "suppu",
+              "best_dist": 0.0,
+              "ll": -1.71
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "karpatu",
+              "best_dist": 0.617,
+              "ll": -4.762
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "kadu",
+              "best_dist": 0.175,
+              "ll": -2.46
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "kuni\u0161u",
+              "best_dist": 0.0,
+              "ll": -1.583
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "karpatu",
+              "best_dist": 0.487,
+              "ll": -4.062
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "karpatu",
+              "best_dist": 0.533,
+              "ll": -4.087
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "karpatu",
+              "best_dist": 0.275,
+              "ll": -2.746
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "suppu",
+              "best_dist": 0.367,
+              "ll": -3.599
+            }
+          ]
+        },
+        "greek": {
+          "ll": -45.7931,
+          "perm_mean": -50.1347,
+          "perm_sd": 2.2723,
+          "z_perm": 1.911,
+          "p_perm": 0.0355,
+          "details": [
+            {
+              "concept": "TOTAL",
+              "best_match": "holos",
+              "best_dist": 0.5,
+              "ll": -4.088
+            },
+            {
+              "concept": "DEFICIT",
+              "best_match": "ophelos",
+              "best_dist": 0.583,
+              "ll": -4.303
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "amphoreus",
+              "best_dist": 0.65,
+              "ll": -4.686
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "depas",
+              "best_dist": 0.675,
+              "ll": -4.546
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "phiale",
+              "best_dist": 0.683,
+              "ll": -4.583
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "krater",
+              "best_dist": 0.583,
+              "ll": -4.281
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "karpos",
+              "best_dist": 0.613,
+              "ll": -4.385
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "depas",
+              "best_dist": 0.367,
+              "ll": -3.455
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "depas",
+              "best_dist": 0.5,
+              "ll": -4.082
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "krater",
+              "best_dist": 0.45,
+              "ll": -3.382
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "depas",
+              "best_dist": 0.583,
+              "ll": -4.003
+            }
+          ]
+        },
+        "anatolian": {
+          "ll": -45.9748,
+          "perm_mean": -50.994,
+          "perm_sd": 1.9876,
+          "z_perm": 2.525,
+          "p_perm": 0.0051,
+          "details": [
+            {
+              "concept": "TOTAL",
+              "best_match": "humant",
+              "best_dist": 0.838,
+              "ll": -5.23
+            },
+            {
+              "concept": "DEFICIT",
+              "best_match": "karus",
+              "best_dist": 0.35,
+              "ll": -3.216
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "huppar",
+              "best_dist": 0.65,
+              "ll": -4.396
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "ishuzzi",
+              "best_dist": 0.583,
+              "ll": -4.073
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "palhi",
+              "best_dist": 0.583,
+              "ll": -4.542
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "kukup",
+              "best_dist": 0.65,
+              "ll": -4.714
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "kant",
+              "best_dist": 0.567,
+              "ll": -4.528
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "huppar",
+              "best_dist": 0.583,
+              "ll": -4.285
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "huppar",
+              "best_dist": 0.5,
+              "ll": -4.04
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "kukup",
+              "best_dist": 0.567,
+              "ll": -4.027
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "huppar",
+              "best_dist": 0.283,
+              "ll": -2.924
+            }
+          ]
+        },
+        "hurrian": {
+          "ll": -46.4133,
+          "perm_mean": -52.856,
+          "perm_sd": 2.4389,
+          "z_perm": 2.642,
+          "p_perm": 0.0086,
+          "details": [
+            {
+              "concept": "TOTAL",
+              "best_match": "heiarunna",
+              "best_dist": 0.59,
+              "ll": -4.588
+            },
+            {
+              "concept": "DEFICIT",
+              "best_match": "kiri",
+              "best_dist": 0.175,
+              "ll": -2.31
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "kazi",
+              "best_dist": 0.583,
+              "ll": -4.373
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "hupri",
+              "best_dist": 0.65,
+              "ll": -4.768
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "turi",
+              "best_dist": 0.7,
+              "ll": -5.114
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "kazi",
+              "best_dist": 0.425,
+              "ll": -3.803
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "hini",
+              "best_dist": 0.367,
+              "ll": -3.58
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "zallu",
+              "best_dist": 0.65,
+              "ll": -4.749
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "hupri",
+              "best_dist": 0.7,
+              "ll": -5.108
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "kazi",
+              "best_dist": 0.583,
+              "ll": -4.163
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "hupri",
+              "best_dist": 0.517,
+              "ll": -3.856
+            }
+          ]
+        }
+      }
+    },
+    "D_EXT_12": {
+      "tier": "D_EXT_12",
+      "scope": "D_STRICT_9 + 3 HT 31 PA3->PA doublet vessels (zero KA-PA)",
+      "n": 12,
+      "pa3_folded": true,
+      "anchors": [
+        [
+          "KU-RO",
+          "TOTAL"
+        ],
+        [
+          "KI-RO",
+          "DEFICIT"
+        ],
+        [
+          "A-KA-NU",
+          "VESSEL_CUP"
+        ],
+        [
+          "SU-PU",
+          "VESSEL_CUP"
+        ],
+        [
+          "PA-TA-QE",
+          "VESSEL_CUP"
+        ],
+        [
+          "KA-DI",
+          "VESSEL_CUP"
+        ],
+        [
+          "KU-NI-SU",
+          "GRAIN"
+        ],
+        [
+          "PA-RA",
+          "GRAIN"
+        ],
+        [
+          "DA-RO-PA",
+          "VESSEL_CUP"
+        ],
+        [
+          "QA-PA\u2083",
+          "VESSEL_CUP"
+        ],
+        [
+          "KA-RO-PA\u2083",
+          "VESSEL_CUP"
+        ],
+        [
+          "SU-PA\u2083-RA",
+          "VESSEL_CUP"
+        ]
+      ],
+      "winner": "semitic",
+      "runner_up": "greek",
+      "delta_ll": 15.6412,
+      "bf": 6207080.59,
+      "languages": {
+        "semitic": {
+          "ll": -33.5663,
+          "perm_mean": -55.6788,
+          "perm_sd": 3.2571,
+          "z_perm": 6.789,
+          "p_perm": 0.0001,
+          "details": [
+            {
+              "concept": "TOTAL",
+              "best_match": "kullu",
+              "best_dist": 0.175,
+              "ll": -2.164
+            },
+            {
+              "concept": "DEFICIT",
+              "best_match": "kilu",
+              "best_dist": 0.175,
+              "ll": -2.124
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "aganu",
+              "best_dist": 0.0,
+              "ll": -1.663
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "suppu",
+              "best_dist": 0.0,
+              "ll": -1.71
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "karpatu",
+              "best_dist": 0.617,
+              "ll": -4.762
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "kadu",
+              "best_dist": 0.175,
+              "ll": -2.46
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "kuni\u0161u",
+              "best_dist": 0.0,
+              "ll": -1.583
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "barru",
+              "best_dist": 0.175,
+              "ll": -2.605
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "karpatu",
+              "best_dist": 0.487,
+              "ll": -4.062
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "karpatu",
+              "best_dist": 0.533,
+              "ll": -4.087
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "karpatu",
+              "best_dist": 0.275,
+              "ll": -2.746
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "suppu",
+              "best_dist": 0.367,
+              "ll": -3.599
+            }
+          ]
+        },
+        "greek": {
+          "ll": -49.2075,
+          "perm_mean": -54.7484,
+          "perm_sd": 2.5361,
+          "z_perm": 2.185,
+          "p_perm": 0.0186,
+          "details": [
+            {
+              "concept": "TOTAL",
+              "best_match": "holos",
+              "best_dist": 0.5,
+              "ll": -4.088
+            },
+            {
+              "concept": "DEFICIT",
+              "best_match": "ophelos",
+              "best_dist": 0.583,
+              "ll": -4.303
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "amphoreus",
+              "best_dist": 0.65,
+              "ll": -4.686
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "depas",
+              "best_dist": 0.675,
+              "ll": -4.546
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "phiale",
+              "best_dist": 0.683,
+              "ll": -4.583
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "krater",
+              "best_dist": 0.583,
+              "ll": -4.281
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "karpos",
+              "best_dist": 0.613,
+              "ll": -4.385
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "puros",
+              "best_dist": 0.35,
+              "ll": -3.414
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "depas",
+              "best_dist": 0.367,
+              "ll": -3.455
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "depas",
+              "best_dist": 0.5,
+              "ll": -4.082
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "krater",
+              "best_dist": 0.45,
+              "ll": -3.382
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "depas",
+              "best_dist": 0.583,
+              "ll": -4.003
+            }
+          ]
+        },
+        "anatolian": {
+          "ll": -50.5027,
+          "perm_mean": -55.3511,
+          "perm_sd": 2.1305,
+          "z_perm": 2.276,
+          "p_perm": 0.0099,
+          "details": [
+            {
+              "concept": "TOTAL",
+              "best_match": "humant",
+              "best_dist": 0.838,
+              "ll": -5.23
+            },
+            {
+              "concept": "DEFICIT",
+              "best_match": "karus",
+              "best_dist": 0.35,
+              "ll": -3.216
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "huppar",
+              "best_dist": 0.65,
+              "ll": -4.396
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "ishuzzi",
+              "best_dist": 0.583,
+              "ll": -4.073
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "palhi",
+              "best_dist": 0.583,
+              "ll": -4.542
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "kukup",
+              "best_dist": 0.65,
+              "ll": -4.714
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "kant",
+              "best_dist": 0.567,
+              "ll": -4.528
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "halki",
+              "best_dist": 0.65,
+              "ll": -4.528
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "huppar",
+              "best_dist": 0.583,
+              "ll": -4.285
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "huppar",
+              "best_dist": 0.5,
+              "ll": -4.04
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "kukup",
+              "best_dist": 0.567,
+              "ll": -4.027
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "huppar",
+              "best_dist": 0.283,
+              "ll": -2.924
+            }
+          ]
+        },
+        "hurrian": {
+          "ll": -50.5329,
+          "perm_mean": -57.6103,
+          "perm_sd": 2.604,
+          "z_perm": 2.718,
+          "p_perm": 0.0058,
+          "details": [
+            {
+              "concept": "TOTAL",
+              "best_match": "heiarunna",
+              "best_dist": 0.59,
+              "ll": -4.588
+            },
+            {
+              "concept": "DEFICIT",
+              "best_match": "kiri",
+              "best_dist": 0.175,
+              "ll": -2.31
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "kazi",
+              "best_dist": 0.583,
+              "ll": -4.373
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "hupri",
+              "best_dist": 0.65,
+              "ll": -4.768
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "turi",
+              "best_dist": 0.7,
+              "ll": -5.114
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "kazi",
+              "best_dist": 0.425,
+              "ll": -3.803
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "hini",
+              "best_dist": 0.367,
+              "ll": -3.58
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "\u0161ari",
+              "best_dist": 0.6,
+              "ll": -4.12
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "zallu",
+              "best_dist": 0.65,
+              "ll": -4.749
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "hupri",
+              "best_dist": 0.7,
+              "ll": -5.108
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "kazi",
+              "best_dist": 0.583,
+              "ll": -4.163
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "hupri",
+              "best_dist": 0.517,
+              "ll": -3.856
+            }
+          ]
+        }
+      }
+    },
+    "D_EXT_13_POTO": {
+      "tier": "D_EXT_13_POTO",
+      "scope": "D_EXT_12 + PO-TO-KU-RO (flags KU-RO compound overlap; zero KA-PA)",
+      "n": 13,
+      "pa3_folded": true,
+      "anchors": [
+        [
+          "KU-RO",
+          "TOTAL"
+        ],
+        [
+          "KI-RO",
+          "DEFICIT"
+        ],
+        [
+          "A-KA-NU",
+          "VESSEL_CUP"
+        ],
+        [
+          "SU-PU",
+          "VESSEL_CUP"
+        ],
+        [
+          "PA-TA-QE",
+          "VESSEL_CUP"
+        ],
+        [
+          "KA-DI",
+          "VESSEL_CUP"
+        ],
+        [
+          "KU-NI-SU",
+          "GRAIN"
+        ],
+        [
+          "PA-RA",
+          "GRAIN"
+        ],
+        [
+          "DA-RO-PA",
+          "VESSEL_CUP"
+        ],
+        [
+          "QA-PA\u2083",
+          "VESSEL_CUP"
+        ],
+        [
+          "KA-RO-PA\u2083",
+          "VESSEL_CUP"
+        ],
+        [
+          "SU-PA\u2083-RA",
+          "VESSEL_CUP"
+        ],
+        [
+          "PO-TO-KU-RO",
+          "TOTAL"
+        ]
+      ],
+      "winner": "semitic",
+      "runner_up": "greek",
+      "delta_ll": 15.8911,
+      "bf": 7969413.52,
+      "languages": {
+        "semitic": {
+          "ll": -37.1594,
+          "perm_mean": -60.3761,
+          "perm_sd": 3.5306,
+          "z_perm": 6.576,
+          "p_perm": 0.0001,
+          "details": [
+            {
+              "concept": "TOTAL",
+              "best_match": "kullu",
+              "best_dist": 0.175,
+              "ll": -2.164
+            },
+            {
+              "concept": "DEFICIT",
+              "best_match": "kilu",
+              "best_dist": 0.175,
+              "ll": -2.124
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "aganu",
+              "best_dist": 0.0,
+              "ll": -1.663
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "suppu",
+              "best_dist": 0.0,
+              "ll": -1.71
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "karpatu",
+              "best_dist": 0.617,
+              "ll": -4.762
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "kadu",
+              "best_dist": 0.175,
+              "ll": -2.46
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "kuni\u0161u",
+              "best_dist": 0.0,
+              "ll": -1.583
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "barru",
+              "best_dist": 0.175,
+              "ll": -2.605
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "karpatu",
+              "best_dist": 0.487,
+              "ll": -4.062
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "karpatu",
+              "best_dist": 0.533,
+              "ll": -4.087
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "karpatu",
+              "best_dist": 0.275,
+              "ll": -2.746
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "suppu",
+              "best_dist": 0.367,
+              "ll": -3.599
+            },
+            {
+              "concept": "TOTAL",
+              "best_match": "kullu",
+              "best_dist": 0.463,
+              "ll": -3.593
+            }
+          ]
+        },
+        "greek": {
+          "ll": -53.0505,
+          "perm_mean": -59.0298,
+          "perm_sd": 2.7385,
+          "z_perm": 2.183,
+          "p_perm": 0.0196,
+          "details": [
+            {
+              "concept": "TOTAL",
+              "best_match": "holos",
+              "best_dist": 0.5,
+              "ll": -4.088
+            },
+            {
+              "concept": "DEFICIT",
+              "best_match": "ophelos",
+              "best_dist": 0.583,
+              "ll": -4.303
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "amphoreus",
+              "best_dist": 0.65,
+              "ll": -4.686
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "depas",
+              "best_dist": 0.675,
+              "ll": -4.546
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "phiale",
+              "best_dist": 0.683,
+              "ll": -4.583
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "krater",
+              "best_dist": 0.583,
+              "ll": -4.281
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "karpos",
+              "best_dist": 0.613,
+              "ll": -4.385
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "puros",
+              "best_dist": 0.35,
+              "ll": -3.414
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "depas",
+              "best_dist": 0.367,
+              "ll": -3.455
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "depas",
+              "best_dist": 0.5,
+              "ll": -4.082
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "krater",
+              "best_dist": 0.45,
+              "ll": -3.382
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "depas",
+              "best_dist": 0.583,
+              "ll": -4.003
+            },
+            {
+              "concept": "TOTAL",
+              "best_match": "tosos",
+              "best_dist": 0.588,
+              "ll": -3.843
+            }
+          ]
+        },
+        "anatolian": {
+          "ll": -55.224,
+          "perm_mean": -60.3174,
+          "perm_sd": 2.2243,
+          "z_perm": 2.29,
+          "p_perm": 0.0108,
+          "details": [
+            {
+              "concept": "TOTAL",
+              "best_match": "humant",
+              "best_dist": 0.838,
+              "ll": -5.23
+            },
+            {
+              "concept": "DEFICIT",
+              "best_match": "karus",
+              "best_dist": 0.35,
+              "ll": -3.216
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "huppar",
+              "best_dist": 0.65,
+              "ll": -4.396
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "ishuzzi",
+              "best_dist": 0.583,
+              "ll": -4.073
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "palhi",
+              "best_dist": 0.583,
+              "ll": -4.542
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "kukup",
+              "best_dist": 0.65,
+              "ll": -4.714
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "kant",
+              "best_dist": 0.567,
+              "ll": -4.528
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "halki",
+              "best_dist": 0.65,
+              "ll": -4.528
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "huppar",
+              "best_dist": 0.583,
+              "ll": -4.285
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "huppar",
+              "best_dist": 0.5,
+              "ll": -4.04
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "kukup",
+              "best_dist": 0.567,
+              "ll": -4.027
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "huppar",
+              "best_dist": 0.283,
+              "ll": -2.924
+            },
+            {
+              "concept": "TOTAL",
+              "best_match": "punata",
+              "best_dist": 0.738,
+              "ll": -4.721
+            }
+          ]
+        },
+        "hurrian": {
+          "ll": -55.2902,
+          "perm_mean": -62.2139,
+          "perm_sd": 2.6848,
+          "z_perm": 2.579,
+          "p_perm": 0.0076,
+          "details": [
+            {
+              "concept": "TOTAL",
+              "best_match": "heiarunna",
+              "best_dist": 0.59,
+              "ll": -4.588
+            },
+            {
+              "concept": "DEFICIT",
+              "best_match": "kiri",
+              "best_dist": 0.175,
+              "ll": -2.31
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "kazi",
+              "best_dist": 0.583,
+              "ll": -4.373
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "hupri",
+              "best_dist": 0.65,
+              "ll": -4.768
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "turi",
+              "best_dist": 0.7,
+              "ll": -5.114
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "kazi",
+              "best_dist": 0.425,
+              "ll": -3.803
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "hini",
+              "best_dist": 0.367,
+              "ll": -3.58
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "\u0161ari",
+              "best_dist": 0.6,
+              "ll": -4.12
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "zallu",
+              "best_dist": 0.65,
+              "ll": -4.749
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "hupri",
+              "best_dist": 0.7,
+              "ll": -5.108
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "kazi",
+              "best_dist": 0.583,
+              "ll": -4.163
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "hupri",
+              "best_dist": 0.517,
+              "ll": -3.856
+            },
+            {
+              "concept": "TOTAL",
+              "best_match": "tubi",
+              "best_dist": 0.713,
+              "ll": -4.757
+            }
+          ]
+        }
+      }
+    },
+    "D_NO_LOANS_STRICT_6": {
+      "tier": "D_NO_LOANS_STRICT_6",
+      "scope": "Strict-LB trade-loan removal (D_STRICT_9 minus A-KA-NU, KU-NI-SU, KA-DI; zero PA3)",
+      "n": 6,
+      "pa3_folded": false,
+      "anchors": [
+        [
+          "KU-RO",
+          "TOTAL"
+        ],
+        [
+          "KI-RO",
+          "DEFICIT"
+        ],
+        [
+          "SU-PU",
+          "VESSEL_CUP"
+        ],
+        [
+          "PA-TA-QE",
+          "VESSEL_CUP"
+        ],
+        [
+          "PA-RA",
+          "GRAIN"
+        ],
+        [
+          "DA-RO-PA",
+          "VESSEL_CUP"
+        ]
+      ],
+      "winner": "semitic",
+      "runner_up": "greek",
+      "delta_ll": 6.9616,
+      "bf": 1055.28,
+      "languages": {
+        "semitic": {
+          "ll": -17.4272,
+          "perm_mean": -28.2124,
+          "perm_sd": 1.808,
+          "z_perm": 5.965,
+          "p_perm": 0.0001,
+          "details": [
+            {
+              "concept": "TOTAL",
+              "best_match": "kullu",
+              "best_dist": 0.175,
+              "ll": -2.164
+            },
+            {
+              "concept": "DEFICIT",
+              "best_match": "kilu",
+              "best_dist": 0.175,
+              "ll": -2.124
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "suppu",
+              "best_dist": 0.0,
+              "ll": -1.71
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "karpatu",
+              "best_dist": 0.617,
+              "ll": -4.762
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "barru",
+              "best_dist": 0.175,
+              "ll": -2.605
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "karpatu",
+              "best_dist": 0.487,
+              "ll": -4.062
+            }
+          ]
+        },
+        "greek": {
+          "ll": -24.3888,
+          "perm_mean": -27.3998,
+          "perm_sd": 1.6165,
+          "z_perm": 1.863,
+          "p_perm": 0.0452,
+          "details": [
+            {
+              "concept": "TOTAL",
+              "best_match": "holos",
+              "best_dist": 0.5,
+              "ll": -4.088
+            },
+            {
+              "concept": "DEFICIT",
+              "best_match": "ophelos",
+              "best_dist": 0.583,
+              "ll": -4.303
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "depas",
+              "best_dist": 0.675,
+              "ll": -4.546
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "phiale",
+              "best_dist": 0.683,
+              "ll": -4.583
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "puros",
+              "best_dist": 0.35,
+              "ll": -3.414
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "depas",
+              "best_dist": 0.367,
+              "ll": -3.455
+            }
+          ]
+        },
+        "anatolian": {
+          "ll": -25.8741,
+          "perm_mean": -28.0437,
+          "perm_sd": 1.2712,
+          "z_perm": 1.707,
+          "p_perm": 0.0475,
+          "details": [
+            {
+              "concept": "TOTAL",
+              "best_match": "humant",
+              "best_dist": 0.838,
+              "ll": -5.23
+            },
+            {
+              "concept": "DEFICIT",
+              "best_match": "karus",
+              "best_dist": 0.35,
+              "ll": -3.216
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "ishuzzi",
+              "best_dist": 0.583,
+              "ll": -4.073
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "palhi",
+              "best_dist": 0.583,
+              "ll": -4.542
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "halki",
+              "best_dist": 0.65,
+              "ll": -4.528
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "huppar",
+              "best_dist": 0.583,
+              "ll": -4.285
+            }
+          ]
+        },
+        "hurrian": {
+          "ll": -25.6484,
+          "perm_mean": -29.2513,
+          "perm_sd": 1.6224,
+          "z_perm": 2.221,
+          "p_perm": 0.0244,
+          "details": [
+            {
+              "concept": "TOTAL",
+              "best_match": "heiarunna",
+              "best_dist": 0.59,
+              "ll": -4.588
+            },
+            {
+              "concept": "DEFICIT",
+              "best_match": "kiri",
+              "best_dist": 0.175,
+              "ll": -2.31
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "hupri",
+              "best_dist": 0.65,
+              "ll": -4.768
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "turi",
+              "best_dist": 0.7,
+              "ll": -5.114
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "\u0161ari",
+              "best_dist": 0.6,
+              "ll": -4.12
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "zallu",
+              "best_dist": 0.65,
+              "ll": -4.749
+            }
+          ]
+        }
+      }
+    },
+    "D_DROPK_STRICT_4": {
+      "tier": "D_DROPK_STRICT_4",
+      "scope": "Strict-LB K-free subset (SU-PU, PA-TA-QE, PA-RA, DA-RO-PA; zero PA3)",
+      "n": 4,
+      "pa3_folded": false,
+      "anchors": [
+        [
+          "SU-PU",
+          "VESSEL_CUP"
+        ],
+        [
+          "PA-TA-QE",
+          "VESSEL_CUP"
+        ],
+        [
+          "PA-RA",
+          "GRAIN"
+        ],
+        [
+          "DA-RO-PA",
+          "VESSEL_CUP"
+        ]
+      ],
+      "winner": "semitic",
+      "runner_up": "greek",
+      "delta_ll": 2.8596,
+      "bf": 17.46,
+      "languages": {
+        "semitic": {
+          "ll": -13.1388,
+          "perm_mean": -18.541,
+          "perm_sd": 1.3648,
+          "z_perm": 3.958,
+          "p_perm": 0.0003,
+          "details": [
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "suppu",
+              "best_dist": 0.0,
+              "ll": -1.71
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "karpatu",
+              "best_dist": 0.617,
+              "ll": -4.762
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "barru",
+              "best_dist": 0.175,
+              "ll": -2.605
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "karpatu",
+              "best_dist": 0.487,
+              "ll": -4.062
+            }
+          ]
+        },
+        "greek": {
+          "ll": -15.9984,
+          "perm_mean": -18.3741,
+          "perm_sd": 1.1801,
+          "z_perm": 2.013,
+          "p_perm": 0.0294,
+          "details": [
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "depas",
+              "best_dist": 0.675,
+              "ll": -4.546
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "phiale",
+              "best_dist": 0.683,
+              "ll": -4.583
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "puros",
+              "best_dist": 0.35,
+              "ll": -3.414
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "depas",
+              "best_dist": 0.367,
+              "ll": -3.455
+            }
+          ]
+        },
+        "anatolian": {
+          "ll": -17.4281,
+          "perm_mean": -18.476,
+          "perm_sd": 1.0526,
+          "z_perm": 0.996,
+          "p_perm": 0.16138,
+          "details": [
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "ishuzzi",
+              "best_dist": 0.583,
+              "ll": -4.073
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "palhi",
+              "best_dist": 0.583,
+              "ll": -4.542
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "halki",
+              "best_dist": 0.65,
+              "ll": -4.528
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "huppar",
+              "best_dist": 0.583,
+              "ll": -4.285
+            }
+          ]
+        },
+        "hurrian": {
+          "ll": -18.7503,
+          "perm_mean": -19.3269,
+          "perm_sd": 1.1886,
+          "z_perm": 0.485,
+          "p_perm": 0.30237,
+          "details": [
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "hupri",
+              "best_dist": 0.65,
+              "ll": -4.768
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "turi",
+              "best_dist": 0.7,
+              "ll": -5.114
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "\u0161ari",
+              "best_dist": 0.6,
+              "ll": -4.12
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "zallu",
+              "best_dist": 0.65,
+              "ll": -4.749
+            }
+          ]
+        }
+      }
+    },
+    "D_NO_LOANS_PA3_9": {
+      "tier": "D_NO_LOANS_PA3_9",
+      "scope": "PA3-folded trade-loan removal (D_EXT_12 minus A-KA-NU, KU-NI-SU, KA-DI; zero KA-PA)",
+      "n": 9,
+      "pa3_folded": true,
+      "anchors": [
+        [
+          "KU-RO",
+          "TOTAL"
+        ],
+        [
+          "KI-RO",
+          "DEFICIT"
+        ],
+        [
+          "SU-PU",
+          "VESSEL_CUP"
+        ],
+        [
+          "PA-TA-QE",
+          "VESSEL_CUP"
+        ],
+        [
+          "PA-RA",
+          "GRAIN"
+        ],
+        [
+          "DA-RO-PA",
+          "VESSEL_CUP"
+        ],
+        [
+          "QA-PA\u2083",
+          "VESSEL_CUP"
+        ],
+        [
+          "KA-RO-PA\u2083",
+          "VESSEL_CUP"
+        ],
+        [
+          "SU-PA\u2083-RA",
+          "VESSEL_CUP"
+        ]
+      ],
+      "winner": "semitic",
+      "runner_up": "greek",
+      "delta_ll": 7.9961,
+      "bf": 2969.34,
+      "languages": {
+        "semitic": {
+          "ll": -27.8597,
+          "perm_mean": -42.14,
+          "perm_sd": 2.6652,
+          "z_perm": 5.358,
+          "p_perm": 0.0001,
+          "details": [
+            {
+              "concept": "TOTAL",
+              "best_match": "kullu",
+              "best_dist": 0.175,
+              "ll": -2.164
+            },
+            {
+              "concept": "DEFICIT",
+              "best_match": "kilu",
+              "best_dist": 0.175,
+              "ll": -2.124
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "suppu",
+              "best_dist": 0.0,
+              "ll": -1.71
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "karpatu",
+              "best_dist": 0.617,
+              "ll": -4.762
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "barru",
+              "best_dist": 0.175,
+              "ll": -2.605
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "karpatu",
+              "best_dist": 0.487,
+              "ll": -4.062
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "karpatu",
+              "best_dist": 0.533,
+              "ll": -4.087
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "karpatu",
+              "best_dist": 0.275,
+              "ll": -2.746
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "suppu",
+              "best_dist": 0.367,
+              "ll": -3.599
+            }
+          ]
+        },
+        "greek": {
+          "ll": -35.8558,
+          "perm_mean": -41.0805,
+          "perm_sd": 2.4827,
+          "z_perm": 2.104,
+          "p_perm": 0.0273,
+          "details": [
+            {
+              "concept": "TOTAL",
+              "best_match": "holos",
+              "best_dist": 0.5,
+              "ll": -4.088
+            },
+            {
+              "concept": "DEFICIT",
+              "best_match": "ophelos",
+              "best_dist": 0.583,
+              "ll": -4.303
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "depas",
+              "best_dist": 0.675,
+              "ll": -4.546
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "phiale",
+              "best_dist": 0.683,
+              "ll": -4.583
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "puros",
+              "best_dist": 0.35,
+              "ll": -3.414
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "depas",
+              "best_dist": 0.367,
+              "ll": -3.455
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "depas",
+              "best_dist": 0.5,
+              "ll": -4.082
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "krater",
+              "best_dist": 0.45,
+              "ll": -3.382
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "depas",
+              "best_dist": 0.583,
+              "ll": -4.003
+            }
+          ]
+        },
+        "anatolian": {
+          "ll": -36.8647,
+          "perm_mean": -41.8827,
+          "perm_sd": 2.0403,
+          "z_perm": 2.459,
+          "p_perm": 0.0037,
+          "details": [
+            {
+              "concept": "TOTAL",
+              "best_match": "humant",
+              "best_dist": 0.838,
+              "ll": -5.23
+            },
+            {
+              "concept": "DEFICIT",
+              "best_match": "karus",
+              "best_dist": 0.35,
+              "ll": -3.216
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "ishuzzi",
+              "best_dist": 0.583,
+              "ll": -4.073
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "palhi",
+              "best_dist": 0.583,
+              "ll": -4.542
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "halki",
+              "best_dist": 0.65,
+              "ll": -4.528
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "huppar",
+              "best_dist": 0.583,
+              "ll": -4.285
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "huppar",
+              "best_dist": 0.5,
+              "ll": -4.04
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "kukup",
+              "best_dist": 0.567,
+              "ll": -4.027
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "huppar",
+              "best_dist": 0.283,
+              "ll": -2.924
+            }
+          ]
+        },
+        "hurrian": {
+          "ll": -38.776,
+          "perm_mean": -43.8391,
+          "perm_sd": 2.428,
+          "z_perm": 2.085,
+          "p_perm": 0.0317,
+          "details": [
+            {
+              "concept": "TOTAL",
+              "best_match": "heiarunna",
+              "best_dist": 0.59,
+              "ll": -4.588
+            },
+            {
+              "concept": "DEFICIT",
+              "best_match": "kiri",
+              "best_dist": 0.175,
+              "ll": -2.31
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "hupri",
+              "best_dist": 0.65,
+              "ll": -4.768
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "turi",
+              "best_dist": 0.7,
+              "ll": -5.114
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "\u0161ari",
+              "best_dist": 0.6,
+              "ll": -4.12
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "zallu",
+              "best_dist": 0.65,
+              "ll": -4.749
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "hupri",
+              "best_dist": 0.7,
+              "ll": -5.108
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "kazi",
+              "best_dist": 0.583,
+              "ll": -4.163
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "hupri",
+              "best_dist": 0.517,
+              "ll": -3.856
+            }
+          ]
+        }
+      }
+    },
+    "D_DROPK_PA3_6": {
+      "tier": "D_DROPK_PA3_6",
+      "scope": "PA3-folded K-free subset (D_EXT_12 minus all K-series words; zero KA-PA)",
+      "n": 6,
+      "pa3_folded": true,
+      "anchors": [
+        [
+          "SU-PU",
+          "VESSEL_CUP"
+        ],
+        [
+          "PA-TA-QE",
+          "VESSEL_CUP"
+        ],
+        [
+          "PA-RA",
+          "GRAIN"
+        ],
+        [
+          "DA-RO-PA",
+          "VESSEL_CUP"
+        ],
+        [
+          "QA-PA\u2083",
+          "VESSEL_CUP"
+        ],
+        [
+          "SU-PA\u2083-RA",
+          "VESSEL_CUP"
+        ]
+      ],
+      "winner": "semitic",
+      "runner_up": "greek",
+      "delta_ll": 3.2585,
+      "bf": 26.01,
+      "languages": {
+        "semitic": {
+          "ll": -20.825,
+          "perm_mean": -27.7932,
+          "perm_sd": 2.0423,
+          "z_perm": 3.412,
+          "p_perm": 0.0006,
+          "details": [
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "suppu",
+              "best_dist": 0.0,
+              "ll": -1.71
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "karpatu",
+              "best_dist": 0.617,
+              "ll": -4.762
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "barru",
+              "best_dist": 0.175,
+              "ll": -2.605
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "karpatu",
+              "best_dist": 0.487,
+              "ll": -4.062
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "karpatu",
+              "best_dist": 0.533,
+              "ll": -4.087
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "suppu",
+              "best_dist": 0.367,
+              "ll": -3.599
+            }
+          ]
+        },
+        "greek": {
+          "ll": -24.0835,
+          "perm_mean": -27.4007,
+          "perm_sd": 1.8173,
+          "z_perm": 1.825,
+          "p_perm": 0.0456,
+          "details": [
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "depas",
+              "best_dist": 0.675,
+              "ll": -4.546
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "phiale",
+              "best_dist": 0.683,
+              "ll": -4.583
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "puros",
+              "best_dist": 0.35,
+              "ll": -3.414
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "depas",
+              "best_dist": 0.367,
+              "ll": -3.455
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "depas",
+              "best_dist": 0.5,
+              "ll": -4.082
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "depas",
+              "best_dist": 0.583,
+              "ll": -4.003
+            }
+          ]
+        },
+        "anatolian": {
+          "ll": -24.3915,
+          "perm_mean": -27.5628,
+          "perm_sd": 1.6086,
+          "z_perm": 1.971,
+          "p_perm": 0.025,
+          "details": [
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "ishuzzi",
+              "best_dist": 0.583,
+              "ll": -4.073
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "palhi",
+              "best_dist": 0.583,
+              "ll": -4.542
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "halki",
+              "best_dist": 0.65,
+              "ll": -4.528
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "huppar",
+              "best_dist": 0.583,
+              "ll": -4.285
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "huppar",
+              "best_dist": 0.5,
+              "ll": -4.04
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "huppar",
+              "best_dist": 0.283,
+              "ll": -2.924
+            }
+          ]
+        },
+        "hurrian": {
+          "ll": -27.7146,
+          "perm_mean": -29.0141,
+          "perm_sd": 1.812,
+          "z_perm": 0.717,
+          "p_perm": 0.23588,
+          "details": [
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "hupri",
+              "best_dist": 0.65,
+              "ll": -4.768
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "turi",
+              "best_dist": 0.7,
+              "ll": -5.114
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "\u0161ari",
+              "best_dist": 0.6,
+              "ll": -4.12
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "zallu",
+              "best_dist": 0.65,
+              "ll": -4.749
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "hupri",
+              "best_dist": 0.7,
+              "ll": -5.108
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "hupri",
+              "best_dist": 0.517,
+              "ll": -3.856
+            }
+          ]
+        }
+      }
+    },
+    "D_EXT_13_WITH_KAPA": {
+      "tier": "D_EXT_13_WITH_KAPA",
+      "scope": "Quarantined comparison: D_EXT_12 + disputed HT 140 oil-list KA-PA (no vessel drawing)",
+      "n": 13,
+      "pa3_folded": true,
+      "anchors": [
+        [
+          "KU-RO",
+          "TOTAL"
+        ],
+        [
+          "KI-RO",
+          "DEFICIT"
+        ],
+        [
+          "A-KA-NU",
+          "VESSEL_CUP"
+        ],
+        [
+          "SU-PU",
+          "VESSEL_CUP"
+        ],
+        [
+          "PA-TA-QE",
+          "VESSEL_CUP"
+        ],
+        [
+          "KA-DI",
+          "VESSEL_CUP"
+        ],
+        [
+          "KU-NI-SU",
+          "GRAIN"
+        ],
+        [
+          "PA-RA",
+          "GRAIN"
+        ],
+        [
+          "DA-RO-PA",
+          "VESSEL_CUP"
+        ],
+        [
+          "QA-PA\u2083",
+          "VESSEL_CUP"
+        ],
+        [
+          "KA-RO-PA\u2083",
+          "VESSEL_CUP"
+        ],
+        [
+          "SU-PA\u2083-RA",
+          "VESSEL_CUP"
+        ],
+        [
+          "KA-PA",
+          "VESSEL_CUP"
+        ]
+      ],
+      "winner": "semitic",
+      "runner_up": "greek",
+      "delta_ll": 17.2379,
+      "bf": 30641084.49,
+      "languages": {
+        "semitic": {
+          "ll": -35.6862,
+          "perm_mean": -60.3105,
+          "perm_sd": 3.8325,
+          "z_perm": 6.425,
+          "p_perm": 0.0001,
+          "details": [
+            {
+              "concept": "TOTAL",
+              "best_match": "kullu",
+              "best_dist": 0.175,
+              "ll": -2.164
+            },
+            {
+              "concept": "DEFICIT",
+              "best_match": "kilu",
+              "best_dist": 0.175,
+              "ll": -2.124
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "aganu",
+              "best_dist": 0.0,
+              "ll": -1.663
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "suppu",
+              "best_dist": 0.0,
+              "ll": -1.71
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "karpatu",
+              "best_dist": 0.617,
+              "ll": -4.762
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "kadu",
+              "best_dist": 0.175,
+              "ll": -2.46
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "kuni\u0161u",
+              "best_dist": 0.0,
+              "ll": -1.583
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "barru",
+              "best_dist": 0.175,
+              "ll": -2.605
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "karpatu",
+              "best_dist": 0.487,
+              "ll": -4.062
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "karpatu",
+              "best_dist": 0.533,
+              "ll": -4.087
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "karpatu",
+              "best_dist": 0.275,
+              "ll": -2.746
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "suppu",
+              "best_dist": 0.367,
+              "ll": -3.599
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "qabu",
+              "best_dist": 0.175,
+              "ll": -2.12
+            }
+          ]
+        },
+        "greek": {
+          "ll": -52.9241,
+          "perm_mean": -59.1102,
+          "perm_sd": 2.8676,
+          "z_perm": 2.157,
+          "p_perm": 0.0191,
+          "details": [
+            {
+              "concept": "TOTAL",
+              "best_match": "holos",
+              "best_dist": 0.5,
+              "ll": -4.088
+            },
+            {
+              "concept": "DEFICIT",
+              "best_match": "ophelos",
+              "best_dist": 0.583,
+              "ll": -4.303
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "amphoreus",
+              "best_dist": 0.65,
+              "ll": -4.686
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "depas",
+              "best_dist": 0.675,
+              "ll": -4.546
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "phiale",
+              "best_dist": 0.683,
+              "ll": -4.583
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "krater",
+              "best_dist": 0.583,
+              "ll": -4.281
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "karpos",
+              "best_dist": 0.613,
+              "ll": -4.385
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "puros",
+              "best_dist": 0.35,
+              "ll": -3.414
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "depas",
+              "best_dist": 0.367,
+              "ll": -3.455
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "depas",
+              "best_dist": 0.5,
+              "ll": -4.082
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "krater",
+              "best_dist": 0.45,
+              "ll": -3.382
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "depas",
+              "best_dist": 0.583,
+              "ll": -4.003
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "depas",
+              "best_dist": 0.5,
+              "ll": -3.717
+            }
+          ]
+        },
+        "anatolian": {
+          "ll": -54.2209,
+          "perm_mean": -59.7984,
+          "perm_sd": 2.4856,
+          "z_perm": 2.244,
+          "p_perm": 0.0129,
+          "details": [
+            {
+              "concept": "TOTAL",
+              "best_match": "humant",
+              "best_dist": 0.838,
+              "ll": -5.23
+            },
+            {
+              "concept": "DEFICIT",
+              "best_match": "karus",
+              "best_dist": 0.35,
+              "ll": -3.216
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "huppar",
+              "best_dist": 0.65,
+              "ll": -4.396
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "ishuzzi",
+              "best_dist": 0.583,
+              "ll": -4.073
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "palhi",
+              "best_dist": 0.583,
+              "ll": -4.542
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "kukup",
+              "best_dist": 0.65,
+              "ll": -4.714
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "kant",
+              "best_dist": 0.567,
+              "ll": -4.528
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "halki",
+              "best_dist": 0.65,
+              "ll": -4.528
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "huppar",
+              "best_dist": 0.583,
+              "ll": -4.285
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "huppar",
+              "best_dist": 0.5,
+              "ll": -4.04
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "kukup",
+              "best_dist": 0.567,
+              "ll": -4.027
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "huppar",
+              "best_dist": 0.283,
+              "ll": -2.924
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "kukup",
+              "best_dist": 0.483,
+              "ll": -3.718
+            }
+          ]
+        },
+        "hurrian": {
+          "ll": -54.352,
+          "perm_mean": -62.435,
+          "perm_sd": 2.9902,
+          "z_perm": 2.703,
+          "p_perm": 0.007,
+          "details": [
+            {
+              "concept": "TOTAL",
+              "best_match": "heiarunna",
+              "best_dist": 0.59,
+              "ll": -4.588
+            },
+            {
+              "concept": "DEFICIT",
+              "best_match": "kiri",
+              "best_dist": 0.175,
+              "ll": -2.31
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "kazi",
+              "best_dist": 0.583,
+              "ll": -4.373
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "hupri",
+              "best_dist": 0.65,
+              "ll": -4.768
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "turi",
+              "best_dist": 0.7,
+              "ll": -5.114
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "kazi",
+              "best_dist": 0.425,
+              "ll": -3.803
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "hini",
+              "best_dist": 0.367,
+              "ll": -3.58
+            },
+            {
+              "concept": "GRAIN",
+              "best_match": "\u0161ari",
+              "best_dist": 0.6,
+              "ll": -4.12
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "zallu",
+              "best_dist": 0.65,
+              "ll": -4.749
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "hupri",
+              "best_dist": 0.7,
+              "ll": -5.108
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "kazi",
+              "best_dist": 0.583,
+              "ll": -4.163
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "hupri",
+              "best_dist": 0.517,
+              "ll": -3.856
+            },
+            {
+              "concept": "VESSEL_CUP",
+              "best_match": "hupri",
+              "best_dist": 0.483,
+              "ll": -3.819
+            }
+          ]
+        }
+      }
+    }
+  }
+}

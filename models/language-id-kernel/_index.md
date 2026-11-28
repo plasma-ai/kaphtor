@@ -4,7 +4,7 @@ title: "Linear A Multi-Kernel Probabilistic Language Identification Suite"
 desc: "Replicable, zero-LLM twelve-kernel probabilistic framework (Kernels A–L: word-shape LID, Kober trios, liturgical cohesion, pre-linguistic anchors, verbal frames, ligature acrophony, dialect coherence, roster onomastics, bound-affix morphology, zero-curation dictionary audit, Corazza–Ferrara fractions, and backward-projection stress-testing) with permutation and corruption controls."
 tags: [linear-a, probabilistic-model, language-identification, preregistration]
 created: 2026-11-22T00:00:00Z
-updated: 2026-11-25T02:30:26Z
+updated: 2026-11-27T11:10:00Z
 ---
 
 # Linear A Multi-Kernel Probabilistic Language Identification Suite
@@ -32,6 +32,8 @@ updated: 2026-11-25T02:30:26Z
 [[models/language-id-kernel/homomorph_l.py|homomorph_l.py]]: ...
 
 [[models/language-id-kernel/kaphtor_kernel.py|kaphtor_kernel.py]]: ...
+
+[[models/language-id-kernel/kernel-d-sensitivity-expansion|kernel-d-sensitivity-expansion]]: Exploratory post-registration sensitivity study quantifying how Kernel D's pairwise Bayes factors scale from 8 to 9–13 pre-linguistic anchors (zero KA-PA inflation) under anchors_d.py's 100% frozen synsets, without altering signed Kernel D.
 
 [[models/language-id-kernel/kernel-specs|kernel-specs]]: Design specification for the multi-kernel suite: each kernel's inputs, statistic, null and calibration gate.
 
@@ -64,6 +66,8 @@ updated: 2026-11-25T02:30:26Z
 [[models/language-id-kernel/results-significance-2026-11-24|results-significance-2026-11-24]]: Timestamped analytical report covering Kernel K (Corazza–Ferrara 2021 fraction verification and blind KU-RO discovery), Kernel L (backward-projection stress-testing and calibrated negative controls), and the twelve-kernel synthesis.
 
 [[models/language-id-kernel/runs/_index|runs/]]: Timestamped JSON ledgers of the signed Linear A multi-kernel run, Kernel C and D stress-test ablations, and Kernels I, J, K, and L runs.
+
+[[models/language-id-kernel/sensitivity_d_prime.py|sensitivity_d_prime.py]]: ...
 
 [[models/language-id-kernel/stress_test_cd.py|stress_test_cd.py]]: ...
 
@@ -100,6 +104,7 @@ In response, we built a **100% deterministic, zero-LLM, forward-spelled twelve-k
 | `auto_anchors_j.py` | **Kernel J** — Zero-curation automated dictionary audit ($B=10{,}000$ grid perms + concept shuffle) | Shipped open JSONL lexica (`data/contact/{akkadian,hebrew}_lexicon.jsonl`, `lsj_glosses.jsonl` `101,410`, CC0 `sumerian_epsd2_lexicon.jsonl` `3,589`); fixed English concept regexes | Audits pre-linguistic anchors with zero hand-picked synsets under dual phonetic + semantic nulls: calibrates Linear B as Greek (`n=6`: `0.00010/0.01389`; `EXT9`: `481:1`, `0.00010/0.00020`) and identifies Linear A as Semitic across `FULL_8` (`p_concept=0.02520`), `LA_DEDUP_7` (`0.01111`), purest strict-LB `LA_DEDUP_9` incl. blind `DA-RO-PA` (`47.6:1`, `p_perm=0.00010, p_concept=0.00390`), and sensitivity tiers folding `AB 56/PA₃` (`LA_DEDUP_12`: `66.7:1, p_concept=0.00180`; `LA_DEDUP_14`: `101.8:1, p_perm=0.00020, p_concept=0.00920`; `K`-free `LA_DROPK_5` `p_perm=0.01640`, `p_concept=0.217`) |
 | `fractions_k.py` | **Kernel K** — Corazza–Ferrara (2021) fractions & blind accounting discovery ($B=5{,}000$) | Raw Aegean Unicode numerals & `A700` fraction glyphs in `data/linear-a/corpus.json`; Kernel J shipped open lexica | Language-free Stage K0–K1 emits 5-item 3D/RTI conflict ledger (`HT 123+124a`, `KH 7a`/`HT 89`, `MA 10b`, `A709/L`) and blindly surfaces `KU-RO` #1 (`9` exact integer sums); Stage K2 calibrates Linear B `TO-SO`/`O-PE-RO` as Greek (`p=0.01440`) and ranks Linear A `KU-RO`/`PO-TO-KU-RO`/`KI-RO` Semitic #1 (`Z=+2.86, p=0.01280, ΔLL=+0.551`) |
 | `homomorph_l.py` | **Kernel L** — Backward-projection stress-testing & honest negative controls | `anchors_d.py`, `auto_anchors_j.py`, `morphology_i.py`, `kaphtor_kernel.py` | L1 homomorph-core & contested-series drops (`drop Q+Z M=+44.33 p=0.0020`, `drop T` collapses `p=0.265`), L2 L1SO jackknife (`8/8` D, `7/7` J on `p_perm`, J `p_concept` `2/7`), L3 Steele–Meißner corruption curve (`99.67%` Semitic rank-1 at `ε=0.2`), L4 calibrated nulls (A/B `Z_perm<0`, CH→LA acrophony `3/20`, live LB single-sign open-dict ligature saturation `p=0.395`) |
+| `sensitivity_d_prime.py` | Exploratory Kernel D′ sensitivity runner | Frozen `anchors_d.py` (`SYNSETS` unchanged) + `SIGNATURE.txt` | Reproduces `runs/kernel-d-sensitivity-2026-11-27.json` (`n=8->13` zero-`KA-PA` ladder, `~1.58M–7.97M:1`, plus strict-LB `no-loans`/`drop-K` and quarantined `KA-PA` row) without altering signed Kernel D |
 | `stress_test_cd.py` | Ablation & sensitivity runner | `anchors_d.py`, `liturgy_c.py`, `formula_family.json` | 11-way Kernel D leave-one-anchor-out + trade-loanword drop (110,000 perms) and Kernel C full-formula-family test |
 | `build_shipped_inputs.py` | Reproducible corpus cut builder | Upstream open corpora (`--check` verifies bit-for-bit) | Cuts all 11 shipped Git LFS reference inputs under `data/share-alike/` |
 | `kernels/` | Per-kernel reference specs (`a-word-shape.md` … `l-homomorph.md`) | All 12 kernels & `runs/*.json` ledgers | Dedicated technical page per kernel covering method, corpora called, calibration gate, results, and limits |
@@ -113,7 +118,7 @@ In response, we built a **100% deterministic, zero-LLM, forward-spelled twelve-k
 ## 3. Quick Reproduction (Fresh Clone, Zero External Folders)
 
 ```bash
-# 1. Run all kernel unit tests (32) + shipped-input count guards (8) = 40 total
+# 1. Run all kernel unit tests (34) + shipped-input count guards (8) = 42 total
 PYTHONDONTWRITEBYTECODE=1 PYTHONPATH=models/language-id-kernel uv run --no-sync python -m pytest -q models/language-id-kernel/tests/ tests/test_kernel_shipped_inputs.py
 
 # 2. Verify SHA-256 manifest, Linear B anchor calibration gate, and leave-one-channel-out ablation
